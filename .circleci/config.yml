@@ -38,6 +38,7 @@ jobs:
           name: Push to GitHub
           command: |
             if [ -n "$(git status --porcelain)" ]; then
+              git add data
               git commit -am "New data at $(date -u +'%Y-%m-%dT%H:%M:%SZ') [skip ci]"
               git push origin master
             else
