@@ -32,7 +32,7 @@ def save_data(organisation, data, mode):
     # Save in JSON
     with open(filename(organisation, mode, 'json'), 'w') as f:
         data = [dict(zip(data.keys(), i)) for i in zip(*data.values())]
-        if len(data) == 1:
+        if mode == 'org':
             data = data[0]
         json.dump(data, f, ensure_ascii=False)
 
