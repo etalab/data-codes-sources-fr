@@ -1,17 +1,11 @@
-import csv
-import json
-import os
-import requests
 import yaml
 
 from collections import defaultdict
 from io import BytesIO
 from urllib.request import urlopen
 
-ORGS_FOLDER = 'data/organisations/'
-REPOS_FOLDER = 'data/repertoires/'
-
-GITHUB_API_ROOT = 'https://api.github.com/'
+from github import repos_for_org, get_org
+from storage import save_repos_for_org, save_org
 
 
 def fetch_orgs():
@@ -34,56 +28,15 @@ def fetch_orgs():
     return unique_orgs
 
 
-def repos_for_org(organisation):
-    data = []
+organisations = fetch_orgs()
 
-    base_url = GITHUB_API_ROOT + 'orgs/' + organisation + '/repos?per_page=100'
-    headers = {
-        'Authorization': 'token ' + os.getenv('GITHUB_TOKEN'),
-        'Accept': ';'.join([
-            'application/vnd.github.v3+json',
-            'application/vnd.github.mercy-preview+json'
-        ]),
-        'User-Agent': 'AntoineAugusti'
-    }
-    response = requests.get(base_url, headers=headers)
-    if response.status_code != 200:
-        return []
-    data.extend(response.json())
-
-    while 'next' in response.links:
-        response = requests.get(response.links['next']['url'], headers=headers)
-        data.extend(response.json())
-
-    return data
-
-
-def save_repos_for_org(organisation, data):
-    def repo_filename(organisation, mode):
-        if mode not in ['csv', 'json']:
-            raise ValueError
-        return '{folder}{mode}/{organisation}.{mode}'.format(
-            folder=REPOS_FOLDER,
-            mode=mode,
-            organisation=organisation
-        )
-    # Save in CSV
-    with open(repo_filename(organisation, 'csv'), 'w') as f:
-        w = csv.writer(f)
-        w.writerow(data.keys())
-        w.writerows(zip(*data.values()))
-
-    # Save in JSON
-    with open(repo_filename(organisation, 'json'), 'w') as f:
-        data = [dict(zip(data.keys(), i)) for i in zip(*data.values())]
-        json.dump(data, f, ensure_ascii=False)
-
+# Save details about each repo for an org
 all_repos = defaultdict(list)
-for org in fetch_orgs():
+for organisation in organisations:
     repos = defaultdict(list)
-    print('Fetching: ', org)
+    print('Fetching repos for: ', organisation)
 
-    for repo in repos_for_org(org):
+    for repo in repos_for_org(organisation):
         repos['nom'].append(repo['name'])
         repos['organisation_nom'].append(repo['owner']['login'])
         repos['organisation_url'].append(repo['owner']['html_url'])
@@ -106,6 +59,40 @@ for org in fetch_orgs():
     for k, v in repos.items():
         all_repos[k].extend(v)
 
-    save_repos_for_org(org, repos)
+    save_repos_for_org(organisation, repos)
 
 save_repos_for_org('all', all_repos)
+
+# Save details about each org
+all_orgs = defaultdict(list)
+for organisation in organisations:
+    data = get_org(organisation)
+
+    current_org = defaultdict(list)
+    if data is None:
+        continue
+    print('Fetching details for: ', organisation)
+
+    mapping = [
+        ('nom', 'name'),
+        ('organisation', 'company'),
+        ('organisation_url', 'html_url'),
+        ('blog', 'blog'),
+        ('adresse', 'location'),
+        ('email', 'email'),
+        ('est_verifiee', 'is_verified'),
+        ('nombre_repertoires', 'public_repos'),
+        ('date_creation', 'created_at'),
+    ]
+    for key, json_key in mapping:
+        try:
+            current_org[key].append(data[json_key])
+        except KeyError:
+            current_org[key].append(None)
+
+    for k, v in current_org.items():
+        all_orgs[k].extend(v)
+
+    save_org(organisation, current_org)
+
+save_org('all', all_orgs)
