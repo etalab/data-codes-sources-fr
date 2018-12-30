@@ -77,7 +77,7 @@ for organisation in organisations:
         ('nom', 'name'),
         ('organisation', 'company'),
         ('organisation_url', 'html_url'),
-        ('blog', 'blog'),
+        ('site_web', 'blog'),
         ('adresse', 'location'),
         ('email', 'email'),
         ('est_verifiee', 'is_verified'),
