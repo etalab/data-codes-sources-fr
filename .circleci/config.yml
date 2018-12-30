@@ -22,6 +22,11 @@ jobs:
             - ./venv
           key: v1-dependencies-{{ checksum "requirements.txt" }}
       - run:
+          name: Remove existing data files
+          command: |
+            rm data/repertoires/csv/*.csv
+            rm data/repertoires/json/*.json
+      - run:
           name: Build CSV
           command: |
             . venv/bin/activate
@@ -38,7 +43,7 @@ jobs:
           name: Push to GitHub
           command: |
             if [ -n "$(git status --porcelain)" ]; then
-              git add data
+              git add -u data
               git commit -am "New data at $(date -u +'%Y-%m-%dT%H:%M:%SZ') [skip ci]"
               git push origin master
             else
