@@ -28,7 +28,7 @@ jobs:
             python fetch.py
       - add_ssh_keys:
           fingerprints:
-            - "3f:fd:39:1e:7d:5d:45:bb:1c:0f:df:fe:f6:91:6e:05"
+            - "fe:35:22:22:30:a2:bd:bf:b9:39:79:8a:b1:9a:a7:08"
       - run:
           name: Set Git identity
           command: |
