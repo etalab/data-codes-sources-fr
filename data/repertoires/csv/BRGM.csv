@@ -1,0 +1,16 @@
+nom,organisation_nom,organisation_url,repertoire_url,description,est_fork,date_creation,derniere_mise_a_jour,homepage,nombre_stars,nombre_forks,licence,nombre_issues_ouvertes,langage,topics
+daobs,BRGM,https://github.com/BRGM,https://github.com/BRGM/daobs,Data analyzer and observer,True,2016-05-10T11:26:11Z,2016-05-10T11:26:14Z,,0,1,,0,JavaScript,
+gml_application_schema_toolbox,BRGM,https://github.com/BRGM,https://github.com/BRGM/gml_application_schema_toolbox,GML Application Schema toolbox is a QGIS plugin allowing to manipulate OGC Complex Features,False,2016-06-21T12:07:30Z,2018-11-28T11:18:28Z,,10,8,,25,Python,
+core-geonetwork,BRGM,https://github.com/BRGM,https://github.com/BRGM/core-geonetwork,GeoNetwork repository,True,2016-12-01T11:30:58Z,2016-12-01T11:31:16Z,http://geonetwork-opensource.org/,0,0,,0,JavaScript,
+external_file,BRGM,https://github.com/BRGM,https://github.com/BRGM/external_file,"Allow access to ""external files"" from PostgreSQL server file systems.",True,2017-02-08T15:43:11Z,2017-02-08T15:43:13Z,,0,0,,0,PLpgSQL,
+razorback,BRGM,https://github.com/BRGM,https://github.com/BRGM/razorback,An open source python library for magnetotelluric robust processing.,False,2017-09-27T12:25:41Z,2018-10-15T03:21:20Z,http://razorback.readthedocs.io,6,3,,0,Python,"magnetotelluric,mt,robust"
+GeoSciMLontology,BRGM,https://github.com/BRGM,https://github.com/BRGM/GeoSciMLontology,,False,2018-01-19T15:44:54Z,2018-01-19T15:44:54Z,,0,0,,0,,
+GeoSciML,BRGM,https://github.com/BRGM,https://github.com/BRGM/GeoSciML,Public repo for GeoSciML.  Joint development working on RDF encoding for two specs (GWML and GeoSciML) ,True,2018-01-30T13:46:32Z,2018-01-30T13:31:38Z,,0,0,,0,,
+gmlib,BRGM,https://github.com/BRGM,https://github.com/BRGM/gmlib,,False,2018-02-07T08:16:57Z,2018-02-07T08:16:57Z,,0,0,,0,,
+Nifi-WKB-to-WKT-processor,BRGM,https://github.com/BRGM,https://github.com/BRGM/Nifi-WKB-to-WKT-processor,A simple processor to transform WKB field in flowfile content to WKT in flowfile attribute.,False,2018-03-15T13:38:19Z,2018-03-30T08:13:13Z,,0,0,,0,Java,
+BLiv,BRGM,https://github.com/BRGM,https://github.com/BRGM/BLiv,BRGM Linkeddata Viewer,False,2018-03-19T17:20:09Z,2018-04-03T09:15:09Z,,0,0,,1,JavaScript,
+hubeau,BRGM,https://github.com/BRGM,https://github.com/BRGM/hubeau,"Hub'Eau, la plateforme pour manipuler facilement les données ouvertes sur l'eau",False,2018-05-17T08:45:13Z,2018-11-18T20:22:27Z,,5,0,,11,Jupyter Notebook,
+cgal,BRGM,https://github.com/BRGM,https://github.com/BRGM/cgal,"The public CGAL repository, see the README below",True,2018-10-05T09:57:58Z,2018-10-05T09:58:41Z,https://github.com/CGAL/cgal#readme,0,0,,0,C++,
+Pic-EAU,BRGM,https://github.com/BRGM,https://github.com/BRGM/Pic-EAU,Potentialiser l’Intelligence Collective pour comprendre et valoriser les données sur l’eau,False,2018-11-09T16:12:56Z,2018-11-15T15:04:14Z,,0,0,,0,Python,
+geothermal-test-cases,BRGM,https://github.com/BRGM,https://github.com/BRGM/geothermal-test-cases,,False,2018-11-27T21:58:50Z,2018-11-28T08:12:51Z,,0,0,,0,,
+registry-core,BRGM,https://github.com/BRGM,https://github.com/BRGM/registry-core,Linked data registry - core application and example UI,True,2018-12-11T10:24:51Z,2018-12-18T13:52:02Z,https://github.com/UKGovLD/registry-core/wiki,0,0,,28,Java,

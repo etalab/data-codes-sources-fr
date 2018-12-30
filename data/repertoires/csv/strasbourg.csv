@@ -1,0 +1,8 @@
+nom,organisation_nom,organisation_url,repertoire_url,description,est_fork,date_creation,derniere_mise_a_jour,homepage,nombre_stars,nombre_forks,licence,nombre_issues_ouvertes,langage,topics
+documentation,strasbourg,https://github.com/strasbourg,https://github.com/strasbourg/documentation,Strasbourg Open Data missing API,False,2013-02-22T20:57:22Z,2017-03-12T09:46:53Z,http://strasbourg-data.fr/,5,2,,2,Ruby,
+parkings-api,strasbourg,https://github.com/strasbourg,https://github.com/strasbourg/parkings-api,,False,2013-03-22T09:14:18Z,2014-04-03T08:45:23Z,,0,1,,2,CoffeeScript,
+velhop-api,strasbourg,https://github.com/strasbourg,https://github.com/strasbourg/velhop-api,,False,2013-03-22T10:12:39Z,2018-05-31T17:37:38Z,,3,0,,0,CoffeeScript,
+cts-api,strasbourg,https://github.com/strasbourg,https://github.com/strasbourg/cts-api,,False,2013-03-28T15:24:21Z,2014-04-22T23:33:05Z,,0,0,,1,Ruby,
+stats-api,strasbourg,https://github.com/strasbourg,https://github.com/strasbourg/stats-api,Usage logger,False,2013-04-02T07:49:45Z,2013-11-04T02:22:02Z,,0,0,,0,Go,
+strasbourgstartups,strasbourg,https://github.com/strasbourg,https://github.com/strasbourg/strasbourgstartups,,True,2013-07-06T13:57:51Z,2013-07-06T13:57:51Z,,0,0,,0,Ruby,
+curieux,strasbourg,https://github.com/strasbourg,https://github.com/strasbourg/curieux,,False,2014-02-08T17:26:45Z,2014-02-08T17:26:45Z,,0,0,,0,,
