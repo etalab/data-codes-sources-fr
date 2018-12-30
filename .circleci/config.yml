@@ -58,7 +58,7 @@ workflows:
   cron:
     triggers:
       - schedule:
-          cron: "0 * * * *"
+          cron: "20,50 * * * *"
           filters:
             branches:
               only:
