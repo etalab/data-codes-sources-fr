@@ -58,18 +58,30 @@ def repos_for_org(organisation):
     return data
 
 
-def repo_filename(organisation, mode):
-    if mode not in ['csv', 'json']:
-        raise ValueError
-    return '{folder}{mode}/{organisation}.{mode}'.format(
-        folder=REPOS_FOLDER,
-        mode=mode,
-        organisation=organisation
-    )
+def save_repos_for_org(organisation, data):
+    def repo_filename(organisation, mode):
+        if mode not in ['csv', 'json']:
+            raise ValueError
+        return '{folder}{mode}/{organisation}.{mode}'.format(
+            folder=REPOS_FOLDER,
+            mode=mode,
+            organisation=organisation
+        )
+    # Save in CSV
+    with open(repo_filename(organisation, 'csv'), 'w') as f:
+        w = csv.writer(f)
+        w.writerow(data.keys())
+        w.writerows(zip(*data.values()))
 
+    # Save in JSON
+    with open(repo_filename(organisation, 'json'), 'w') as f:
+        data = [dict(zip(data.keys(), i)) for i in zip(*data.values())]
+        json.dump(data, f, ensure_ascii=False)
+
+all_repos = defaultdict(list)
 for org in fetch_orgs():
     repos = defaultdict(list)
-    print(org)
+    print('Fetching: ', org)
 
     for repo in repos_for_org(org):
         repos['nom'].append(repo['name'])
@@ -91,13 +103,9 @@ for org in fetch_orgs():
         repos['langage'].append(repo['language'])
         repos['topics'].append(','.join(repo['topics']))
 
-    # Save in CSV
-    with open(repo_filename(org, 'csv'), 'w') as f:
-        w = csv.writer(f)
-        w.writerow(repos.keys())
-        w.writerows(zip(*repos.values()))
+    for k, v in repos.items():
+        all_repos[k].extend(v)
 
-    # Save in JSON
-    with open(repo_filename(org, 'json'), 'w') as f:
-        data = [dict(zip(repos.keys(), i)) for i in zip(*repos.values())]
-        json.dump(data, f, ensure_ascii=False)
+    save_repos_for_org(org, repos)
+
+save_repos_for_org('all', all_repos)
