@@ -49,7 +49,7 @@ for organisation in organisations:
         repos['nombre_stars'].append(repo['stargazers_count'])
         repos['nombre_forks'].append(repo['forks_count'])
         try:
-            repos['licence'].append(repo['licence']['name'])
+            repos['licence'].append(repo['license']['name'])
         except Exception as e:
             repos['licence'].append(None)
         repos['nombre_issues_ouvertes'].append(repo['open_issues'])
