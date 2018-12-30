@@ -1,2 +1,2 @@
-nom,organisation,organisation_url,blog,adresse,email,est_verifiee,nombre_repertoires,date_creation
+nom,organisation,organisation_url,site_web,adresse,email,est_verifiee,nombre_repertoires,date_creation
 DREAL Nouvelle-Aquitaine,,https://github.com/DREAL-NA,http://www.nouvelle-aquitaine.developpement-durable.gouv.fr,Nouvelle-Aquitaine,,False,1,2018-11-30T14:03:05Z

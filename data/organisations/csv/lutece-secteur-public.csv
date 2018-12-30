@@ -1,2 +1,2 @@
-nom,organisation,organisation_url,blog,adresse,email,est_verifiee,nombre_repertoires,date_creation
+nom,organisation,organisation_url,site_web,adresse,email,est_verifiee,nombre_repertoires,date_creation
 LUTECE Secteur Public,,https://github.com/lutece-secteur-public,http://fr.lutece.paris.fr,France,,False,112,2015-09-17T08:20:05Z

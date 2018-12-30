@@ -1,2 +1,2 @@
-nom,organisation,organisation_url,blog,adresse,email,est_verifiee,nombre_repertoires,date_creation
+nom,organisation,organisation_url,site_web,adresse,email,est_verifiee,nombre_repertoires,date_creation
 Agence du Patrimoine Immateriel de l'Etat,,https://github.com/ApieFrance,,"5 place des Vins-de-France, Paris",,False,2,2014-11-07T15:37:28Z

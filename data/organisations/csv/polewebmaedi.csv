@@ -1,2 +1,2 @@
-nom,organisation,organisation_url,blog,adresse,email,est_verifiee,nombre_repertoires,date_creation
+nom,organisation,organisation_url,site_web,adresse,email,est_verifiee,nombre_repertoires,date_creation
 Pôle Web | MAEDI DCP,,https://github.com/polewebmaedi,http://www.diplomatie.gouv.fr/,"Quai d'Orsay, Paris, France",quentin.drouet@diplomatie.gouv.fr,False,4,2015-02-08T11:49:13Z

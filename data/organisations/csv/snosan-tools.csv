@@ -1,2 +1,2 @@
-nom,organisation,organisation_url,blog,adresse,email,est_verifiee,nombre_repertoires,date_creation
+nom,organisation,organisation_url,site_web,adresse,email,est_verifiee,nombre_repertoires,date_creation
 SNOSAN,,https://github.com/snosan-tools,https://www.snosan.fr,Eaux françaises,tech@snosan.fr,True,8,2018-07-13T16:00:07Z

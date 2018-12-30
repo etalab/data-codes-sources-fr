@@ -1,2 +1,2 @@
-nom,organisation,organisation_url,blog,adresse,email,est_verifiee,nombre_repertoires,date_creation
+nom,organisation,organisation_url,site_web,adresse,email,est_verifiee,nombre_repertoires,date_creation
 CIMI,,https://github.com/communaute-cimi,http://www.interieur.gouv.fr/,Paris,cimi@interieur.gouv.fr,False,21,2014-01-30T22:05:58Z

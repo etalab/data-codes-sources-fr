@@ -1,2 +1,2 @@
-nom,organisation,organisation_url,blog,adresse,email,est_verifiee,nombre_repertoires,date_creation
+nom,organisation,organisation_url,site_web,adresse,email,est_verifiee,nombre_repertoires,date_creation
 Erasme,,https://github.com/erasme,http://www.erasme.org,"208 Bis Rue Garibaldi, Lyon, Rhône, France",,False,48,2010-02-16T16:27:05Z

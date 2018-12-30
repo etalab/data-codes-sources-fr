@@ -1,2 +1,2 @@
-nom,organisation,organisation_url,blog,adresse,email,est_verifiee,nombre_repertoires,date_creation
+nom,organisation,organisation_url,site_web,adresse,email,est_verifiee,nombre_repertoires,date_creation
 Alsace Digitale,,https://github.com/AlsaceDigitale,http://www.alsacedigitale.org,Strasbourg,,False,35,2013-04-19T19:28:10Z

@@ -1,2 +1,2 @@
-nom,organisation,organisation_url,blog,adresse,email,est_verifiee,nombre_repertoires,date_creation
+nom,organisation,organisation_url,site_web,adresse,email,est_verifiee,nombre_repertoires,date_creation
 Ville de Nanterre,,https://github.com/nanterre,www.nanterre.fr,Nanterre,agora@mairie-nanterre.fr,False,8,2015-06-19T12:15:20Z

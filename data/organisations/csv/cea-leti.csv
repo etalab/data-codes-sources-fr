@@ -1,2 +1,2 @@
-nom,organisation,organisation_url,blog,adresse,email,est_verifiee,nombre_repertoires,date_creation
+nom,organisation,organisation_url,site_web,adresse,email,est_verifiee,nombre_repertoires,date_creation
 CEA-Leti,,https://github.com/CEA-Leti,http://www.leti-cea.com/cea-tech/leti/english/Pages/Welcome.aspx,"Grenoble, France",,False,1,2018-06-27T13:48:00Z

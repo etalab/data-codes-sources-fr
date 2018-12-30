@@ -1,2 +1,2 @@
-nom,organisation,organisation_url,blog,adresse,email,est_verifiee,nombre_repertoires,date_creation
+nom,organisation,organisation_url,site_web,adresse,email,est_verifiee,nombre_repertoires,date_creation
 Etalab,,https://github.com/etalab,http://www.etalab.gouv.fr,"Paris, France",contact@etalab.gouv.fr,True,171,2013-08-26T16:03:40Z

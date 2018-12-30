@@ -1,2 +1,2 @@
-nom,organisation,organisation_url,blog,adresse,email,est_verifiee,nombre_repertoires,date_creation
+nom,organisation,organisation_url,site_web,adresse,email,est_verifiee,nombre_repertoires,date_creation
 Nantes Métropole,,https://github.com/nantesmetropole,http://www.nantesmetropole.fr/,Nantes,,False,3,2016-06-23T14:05:25Z

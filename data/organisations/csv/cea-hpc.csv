@@ -1,2 +1,2 @@
-nom,organisation,organisation_url,blog,adresse,email,est_verifiee,nombre_repertoires,date_creation
+nom,organisation,organisation_url,site_web,adresse,email,est_verifiee,nombre_repertoires,date_creation
 ,,https://github.com/cea-hpc,http://www-hpc.cea.fr/index-en.htm,,,False,22,2012-03-03T14:54:06Z

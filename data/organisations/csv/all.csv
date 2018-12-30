@@ -1,4 +1,4 @@
-nom,organisation,organisation_url,blog,adresse,email,est_verifiee,nombre_repertoires,date_creation
+nom,organisation,organisation_url,site_web,adresse,email,est_verifiee,nombre_repertoires,date_creation
 ANSSI,,https://github.com/ANSSI-FR,https://www.ssi.gouv.fr,"Paris, France",opensource@ssi.gouv.fr,False,39,2012-07-04T09:13:48Z
 Alsace Digitale,,https://github.com/AlsaceDigitale,http://www.alsacedigitale.org,Strasbourg,,False,35,2013-04-19T19:28:10Z
 Agence du Patrimoine Immateriel de l'Etat,,https://github.com/ApieFrance,,"5 place des Vins-de-France, Paris",,False,2,2014-11-07T15:37:28Z

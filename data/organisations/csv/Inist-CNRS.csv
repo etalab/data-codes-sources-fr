@@ -1,2 +1,2 @@
-nom,organisation,organisation_url,blog,adresse,email,est_verifiee,nombre_repertoires,date_creation
+nom,organisation,organisation_url,site_web,adresse,email,est_verifiee,nombre_repertoires,date_creation
 Inist-CNRS,,https://github.com/Inist-CNRS,http://www.inist.fr,"Nancy, France",,False,79,2015-03-19T09:02:18Z

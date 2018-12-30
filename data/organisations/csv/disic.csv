@@ -1,2 +1,2 @@
-nom,organisation,organisation_url,blog,adresse,email,est_verifiee,nombre_repertoires,date_creation
+nom,organisation,organisation_url,site_web,adresse,email,est_verifiee,nombre_repertoires,date_creation
 DINSIC,,https://github.com/DISIC,https://www.numerique.gouv.fr/dinsic/,Paris,communication.dinsic@modernisation.gouv.fr,False,48,2015-05-28T14:03:10Z

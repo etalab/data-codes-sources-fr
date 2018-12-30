@@ -1,2 +1,2 @@
-nom,organisation,organisation_url,blog,adresse,email,est_verifiee,nombre_repertoires,date_creation
+nom,organisation,organisation_url,site_web,adresse,email,est_verifiee,nombre_repertoires,date_creation
 CEA LIST,,https://github.com/CEA-LIST,http://www-list.cea.fr/,CEA Paris-Saclay - Nano-Innov,,False,5,2017-01-06T12:50:46Z
