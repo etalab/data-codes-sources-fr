@@ -14,164 +14,47 @@ Les données sont mises à jour deux fois par heure [grâce à CircleCI](https:/
 
 ## Description des données
 
-## Métadonnées d'un répertoire Git
-Ces fichiers se trouvent dans le répertoire `data/repertoires`.
+### Métadonnées d'un répertoire Git
 
-### Modèle de données
+#### Modèle de données
 - Clé primaire : `repertoire_url`
 
-#### `nom`
+|Nom|Type|Description|Exemple|Propriétés|
+|-|-|-|-|-|
+|nom|chaîne de caractères|Le nom du répertoire|nom-repertoire|Valeur obligatoire|
+|organisation_nom|chaîne de caractères|Le nom de l'organisation|etalab|Valeur obligatoire|
+|plateforme|chaîne de caractères|La plateforme de dépôt de code|GitHub|Valeur obligatoire, Valeurs autorisées : GitHub|
+|repertoire_url|chaîne de caractères (format `uri`)|L'URL vers le répertoire|https://github.com/etalab/nom-repertoire|Valeur obligatoire|
+|description|chaîne de caractères|La description du répertoire|Ce répertoire est utile|Valeur optionnelle|
+|est_fork|booléen|Indique si le répertoire est un fork|false|Valeur obligatoire|
+|date_creation|date et heure|La date de création du répertoire|2018-12-01T20:00:55Z|Valeur obligatoire|
+|derniere_mise_a_jour|date et heure|La date de dernière mise à jour du répertoire|2018-12-01T20:00:55Z|Valeur obligatoire|
+|homepage|chaîne de caractères|URL vers la page d'accueil du projet|https://etalab.gouv.fr|Valeur optionnelle|
+|nombre_stars|nombre entier|Le nombre de fois où le répertoire a été ajouté aux favoris|42|Valeur obligatoire, Valeur minimale : 0|
+|nombre_forks|nombre entier|Le nombre de fois où le répertoire a été forké|13|Valeur obligatoire, Valeur minimale : 0|
+|licence|chaîne de caractères|La licence du répertoire, telle que détectée par la plateforme|MIT|Valeur optionnelle|
+|nombre_issues_ouvertes|nombre entier|Le nombre d'issues actuellement ouvertes|0|Valeur obligatoire, Valeur minimale : 0|
+|langage|chaîne de caractères|Le langage principal du répertoire, tel que détecté par la plateforme|Python|Valeur optionnelle|
+|topics|chaîne de caractères|Les tags du répertoire|utile,france,opendata|Valeur optionnelle|
 
-- Description : Le nom du répertoire
-- Type : chaîne de caractères
+### Métadonnées d'une organisation Git
 
-#### `organisation_nom`
-
-- Description : Le nom de l'organisation
-- Type : chaîne de caractères
-
-#### `plateforme`
-
-- Description : La plateforme de dépôt de code
-- Type : chaîne de caractères
-- Valeurs autorisées : GitHub
-
-#### `repertoire_url`
-
-- Description : L'URL vers le répertoire
-- Type : chaîne de caractères (format `uri`)
-
-#### `description`
-
-- Description : La description du répertoire
-- Type : chaîne de caractères
-
-#### `est_fork`
-
-- Description : Indique si le répertoire est un fork
-- Type : booléen
-
-#### `date_creation`
-
-- Description : La date de création du répertoire
-- Type : date et heure
-
-#### `derniere_mise_a_jour`
-
-- Description : La date de dernière mise à jour du répertoire
-- Type : date et heure
-
-#### `homepage`
-
-- Description : URL vers la page d'accueil du projet
-- Type : chaîne de caractères
-
-#### `nombre_stars`
-
-- Description : Le nombre de fois où le répertoire a été ajouté aux favoris
-- Type : nombre entier
-- Valeur minimale : 0
-
-#### `nombre_forks`
-
-- Description : Le nombre de fois où le répertoire a été forké
-- Type : nombre entier
-- Valeur minimale : 0
-
-#### `licence`
-
-- Description : La licence du répertoire, telle que détectée par la plateforme
-- Type : chaîne de caractères
-
-#### `nombre_issues_ouvertes`
-
-- Description : Le nombre d'issues actuellement ouvertes
-- Type : nombre entier
-
-#### `langage`
-
-- Description : Le langage principal du répertoire, tel que détecté par la plateforme
-- Type : chaîne de caractères
-
-#### `topics`
-
-- Description : Les tags du répertoire
-- Type : chaîne de caractères
-
-## Métadonnées d'une organisation Git
-Ces fichiers se trouvent dans le répertoire `data/organisations`.
-
-
-### Modèle de données
+#### Modèle de données
 - Clé primaire : `login`
 
-#### `login`
-
-- Description : Le pseudo de l'organisation
-- Type : chaîne de caractères
-- Exemple : Etalab
-
-#### `description`
-
-- Description : La description de l'organisation
-- Type : chaîne de caractères
-- Exemple : Observatoire accidentologie plaisance et loisirs nautiques France
-
-#### `nom`
-
-- Description : Le nom complet de l'organisation
-- Type : chaîne de caractères
-- Exemple : Ministère de l'Intérieur
-
-#### `organisation_url`
-
-- Description : URL vers l'organisation
-- Type : chaîne de caractères (format `uri`)
-- Exemple : https://github.com/etalab
-
-#### `site_web`
-
-- Description : Site web de l'organisation
-- Type : chaîne de caractères
-- Exemple : https://etalab.gouv.fr
-
-#### `adresse`
-
-- Description : Adresse physique de l'organisation
-- Type : chaîne de caractères
-- Exemple : Paris, France
-
-#### `email`
-
-- Description : Adresse e-mail de contact de l'organisation
-- Type : chaîne de caractères (format `email`)
-- Exemple : contact@etalab.gouv.fr
-
-#### `est_verifiee`
-
-- Description : Indique si l'organisation a prouvé qu'elle détenait les noms de domaines associés à son organisation
-- Type : booléen
-- Exemple : true
-
-#### `nombre_repertoires`
-
-- Description : Le nombre de répertoires publics de l'organisation
-- Type : nombre entier
-- Exemple : 42
-- Valeur minimale : 0
-
-#### `date_creation`
-
-- Description : La date de création de l'organisation
-- Type : date et heure
-- Exemple : 2013-08-26T16:03:40Z
-
-#### `plateforme`
-
-- Description : La plateforme utilisée de l'organisation
-- Type : chaîne de caractères
-- Exemple : GitHub
-- Valeurs autorisées : GitHub
+|Nom|Type|Description|Exemple|Propriétés|
+|-|-|-|-|-|
+|login|chaîne de caractères|Le pseudo de l'organisation|Etalab|Valeur obligatoire|
+|description|chaîne de caractères|La description de l'organisation|Observatoire accidentologie plaisance et loisirs nautiques France|Valeur optionnelle|
+|nom|chaîne de caractères|Le nom complet de l'organisation|Ministère de l'Intérieur|Valeur optionnelle|
+|organisation_url|chaîne de caractères (format `uri`)|URL vers l'organisation|https://github.com/etalab|Valeur obligatoire|
+|site_web|chaîne de caractères|Site web de l'organisation|https://etalab.gouv.fr|Valeur optionnelle|
+|adresse|chaîne de caractères|Adresse physique de l'organisation|Paris, France|Valeur optionnelle|
+|email|chaîne de caractères (format `email`)|Adresse e-mail de contact de l'organisation|contact@etalab.gouv.fr|Valeur optionnelle|
+|est_verifiee|booléen|Indique si l'organisation a prouvé qu'elle détenait les noms de domaines associés à son organisation|true|Valeur obligatoire|
+|nombre_repertoires|nombre entier|Le nombre de répertoires publics de l'organisation|42|Valeur obligatoire, Valeur minimale : 0|
+|date_creation|date et heure|La date de création de l'organisation|2013-08-26T16:03:40Z|Valeur obligatoire|
+|plateforme|chaîne de caractères|La plateforme utilisée de l'organisation|GitHub|Valeur obligatoire, Valeurs autorisées : GitHub|
 
 ## Licence
 MIT
