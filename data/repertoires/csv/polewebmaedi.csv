@@ -1,5 +1,5 @@
-nom,organisation_nom,organisation_url,repertoire_url,description,est_fork,date_creation,derniere_mise_a_jour,homepage,nombre_stars,nombre_forks,licence,nombre_issues_ouvertes,langage,topics
-countries,polewebmaedi,https://github.com/polewebmaedi,https://github.com/polewebmaedi/countries,"World countries in JSON, CSV, XML and Yaml. Any help is welcome!",True,2015-02-08T11:51:04Z,2015-02-08T11:51:06Z,http://git.io/countries,0,0,Other,0,PHP,
-natural-earth-vector,polewebmaedi,https://github.com/polewebmaedi,https://github.com/polewebmaedi/natural-earth-vector,"A global, public domain map dataset available at three scales and featuring tightly integrated vector and raster data.",True,2015-02-08T12:57:43Z,2015-02-08T12:58:15Z,natural earth,0,0,Other,0,Makefile,
-MAEDI-Pays,polewebmaedi,https://github.com/polewebmaedi,https://github.com/polewebmaedi/MAEDI-Pays,Pays,False,2015-03-03T14:56:45Z,2018-03-29T16:40:47Z,,0,0,,0,,
-MAEDI-Capitales,polewebmaedi,https://github.com/polewebmaedi,https://github.com/polewebmaedi/MAEDI-Capitales,Capitales et autres villes importantes,False,2015-03-05T13:40:00Z,2015-03-05T13:40:00Z,,0,0,,0,,
+nom,organisation_nom,plateforme,repertoire_url,description,est_fork,date_creation,derniere_mise_a_jour,homepage,nombre_stars,nombre_forks,licence,nombre_issues_ouvertes,langage,topics
+countries,polewebmaedi,GitHub,https://github.com/polewebmaedi/countries,"World countries in JSON, CSV, XML and Yaml. Any help is welcome!",True,2015-02-08T11:51:04Z,2015-02-08T11:51:06Z,http://git.io/countries,0,0,Other,0,PHP,
+natural-earth-vector,polewebmaedi,GitHub,https://github.com/polewebmaedi/natural-earth-vector,"A global, public domain map dataset available at three scales and featuring tightly integrated vector and raster data.",True,2015-02-08T12:57:43Z,2015-02-08T12:58:15Z,natural earth,0,0,Other,0,Makefile,
+MAEDI-Pays,polewebmaedi,GitHub,https://github.com/polewebmaedi/MAEDI-Pays,Pays,False,2015-03-03T14:56:45Z,2018-03-29T16:40:47Z,,0,0,,0,,
+MAEDI-Capitales,polewebmaedi,GitHub,https://github.com/polewebmaedi/MAEDI-Capitales,Capitales et autres villes importantes,False,2015-03-05T13:40:00Z,2015-03-05T13:40:00Z,,0,0,,0,,

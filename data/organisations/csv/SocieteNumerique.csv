@@ -1,2 +1,2 @@
-nom,organisation,organisation_url,site_web,adresse,email,est_verifiee,nombre_repertoires,date_creation
-Société Numérique,,https://github.com/SocieteNumerique,https://www.societenumerique.gouv.fr,"Paris, France",societe.numerique@finances.gouv.fr,False,9,2017-08-23T09:30:29Z
+nom,description,organisation,organisation_url,site_web,adresse,email,est_verifiee,nombre_repertoires,date_creation,plateforme
+Société Numérique,Mission Société Numérique - Agence du Numérique - République Française,,https://github.com/SocieteNumerique,https://www.societenumerique.gouv.fr,"Paris, France",societe.numerique@finances.gouv.fr,False,9,2017-08-23T09:30:29Z,GitHub

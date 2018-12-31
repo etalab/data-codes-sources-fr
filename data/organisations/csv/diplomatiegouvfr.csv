@@ -1,2 +1,2 @@
-nom,organisation,organisation_url,site_web,adresse,email,est_verifiee,nombre_repertoires,date_creation
-,,https://github.com/diplomatiegouvfr,http://www.diplomatie.gouv.fr,,,False,19,2015-06-09T09:51:13Z
+nom,description,organisation,organisation_url,site_web,adresse,email,est_verifiee,nombre_repertoires,date_creation,plateforme
+,,,https://github.com/diplomatiegouvfr,http://www.diplomatie.gouv.fr,,,False,19,2015-06-09T09:51:13Z,GitHub

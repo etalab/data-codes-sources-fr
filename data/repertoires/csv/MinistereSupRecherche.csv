@@ -1,5 +1,5 @@
-nom,organisation_nom,organisation_url,repertoire_url,description,est_fork,date_creation,derniere_mise_a_jour,homepage,nombre_stars,nombre_forks,licence,nombre_issues_ouvertes,langage,topics
-scanR,MinistereSupRecherche,https://github.com/MinistereSupRecherche,https://github.com/MinistereSupRecherche/scanR,,False,2018-05-16T14:20:46Z,2018-08-06T15:07:55Z,,0,0,,0,,
-dataESR,MinistereSupRecherche,https://github.com/MinistereSupRecherche,https://github.com/MinistereSupRecherche/dataESR,,False,2018-05-16T14:23:13Z,2018-05-16T14:23:13Z,,0,0,,0,,
-machineadonnees,MinistereSupRecherche,https://github.com/MinistereSupRecherche,https://github.com/MinistereSupRecherche/machineadonnees,,False,2018-05-16T14:23:39Z,2018-05-16T14:26:22Z,,0,0,,0,,
-parcoursup,MinistereSupRecherche,https://github.com/MinistereSupRecherche,https://github.com/MinistereSupRecherche/parcoursup,Principaux algorithmes de parcoursup,False,2018-05-17T08:39:28Z,2018-05-23T08:05:51Z,https://framagit.org/parcoursup/algorithmes-de-parcoursup,1,0,,0,,
+nom,organisation_nom,plateforme,repertoire_url,description,est_fork,date_creation,derniere_mise_a_jour,homepage,nombre_stars,nombre_forks,licence,nombre_issues_ouvertes,langage,topics
+scanR,MinistereSupRecherche,GitHub,https://github.com/MinistereSupRecherche/scanR,,False,2018-05-16T14:20:46Z,2018-08-06T15:07:55Z,,0,0,,0,,
+dataESR,MinistereSupRecherche,GitHub,https://github.com/MinistereSupRecherche/dataESR,,False,2018-05-16T14:23:13Z,2018-05-16T14:23:13Z,,0,0,,0,,
+machineadonnees,MinistereSupRecherche,GitHub,https://github.com/MinistereSupRecherche/machineadonnees,,False,2018-05-16T14:23:39Z,2018-05-16T14:26:22Z,,0,0,,0,,
+parcoursup,MinistereSupRecherche,GitHub,https://github.com/MinistereSupRecherche/parcoursup,Principaux algorithmes de parcoursup,False,2018-05-17T08:39:28Z,2018-05-23T08:05:51Z,https://framagit.org/parcoursup/algorithmes-de-parcoursup,1,0,,0,,

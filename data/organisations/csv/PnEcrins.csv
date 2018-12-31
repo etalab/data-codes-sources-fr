@@ -1,2 +1,2 @@
-nom,organisation,organisation_url,site_web,adresse,email,est_verifiee,nombre_repertoires,date_creation
-Parc national des Ecrins,,https://github.com/PnEcrins,http://www.ecrins-parcnational.fr,"Gap, France",,False,12,2014-12-01T10:56:16Z
+nom,description,organisation,organisation_url,site_web,adresse,email,est_verifiee,nombre_repertoires,date_creation,plateforme
+Parc national des Ecrins,Etablissement public du ministère de l'environnement,,https://github.com/PnEcrins,http://www.ecrins-parcnational.fr,"Gap, France",,False,12,2014-12-01T10:56:16Z,GitHub

@@ -1,2 +1,2 @@
-nom,organisation,organisation_url,site_web,adresse,email,est_verifiee,nombre_repertoires,date_creation
-France Université Numérique,,https://github.com/openfun,https://www.fun-mooc.fr,"Paris, France",fun.dev@fun-mooc.fr,False,53,2014-04-08T12:08:59Z
+nom,description,organisation,organisation_url,site_web,adresse,email,est_verifiee,nombre_repertoires,date_creation,plateforme
+France Université Numérique,"Higher Education Excellence. Online, Free and Open Courses.",,https://github.com/openfun,https://www.fun-mooc.fr,"Paris, France",fun.dev@fun-mooc.fr,False,53,2014-04-08T12:08:59Z,GitHub

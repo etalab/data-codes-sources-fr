@@ -1,2 +1,2 @@
-nom,organisation,organisation_url,site_web,adresse,email,est_verifiee,nombre_repertoires,date_creation
-CLIP OS,,https://github.com/clipos,https://clip-os.org,"Paris, France",clipos@ssi.gouv.fr,False,17,2017-11-17T14:32:48Z
+nom,description,organisation,organisation_url,site_web,adresse,email,est_verifiee,nombre_repertoires,date_creation,plateforme
+CLIP OS,"CLIP OS version 5, published by @ANSSI-FR ",,https://github.com/clipos,https://clip-os.org,"Paris, France",clipos@ssi.gouv.fr,False,17,2017-11-17T14:32:48Z,GitHub

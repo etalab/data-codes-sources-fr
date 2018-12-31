@@ -1,2 +1,2 @@
-nom,organisation,organisation_url,site_web,adresse,email,est_verifiee,nombre_repertoires,date_creation
-LINC,,https://github.com/LINCnil,http://linc.cnil.fr/,France,ip@cnil.fr,False,14,2014-01-10T14:24:33Z
+nom,description,organisation,organisation_url,site_web,adresse,email,est_verifiee,nombre_repertoires,date_creation,plateforme
+LINC,Laboratoire d'innovation numérique de la CNIL,,https://github.com/LINCnil,http://linc.cnil.fr/,France,ip@cnil.fr,False,14,2014-01-10T14:24:33Z,GitHub

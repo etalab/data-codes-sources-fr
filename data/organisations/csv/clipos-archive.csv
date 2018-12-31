@@ -1,2 +1,2 @@
-nom,organisation,organisation_url,site_web,adresse,email,est_verifiee,nombre_repertoires,date_creation
-CLIP OS - Archive,,https://github.com/clipos-archive,https://clip-os.org,"Paris, France",clipos@ssi.gouv.fr,False,101,2018-05-04T09:27:14Z
+nom,description,organisation,organisation_url,site_web,adresse,email,est_verifiee,nombre_repertoires,date_creation,plateforme
+CLIP OS - Archive,"CLIP OS version 4, published by @ANSSI-FR ",,https://github.com/clipos-archive,https://clip-os.org,"Paris, France",clipos@ssi.gouv.fr,False,101,2018-05-04T09:27:14Z,GitHub
