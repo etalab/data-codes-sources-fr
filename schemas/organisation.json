@@ -31,8 +31,7 @@
          "description":"URL vers l'organisation",
          "example":"https://github.com/etalab",
          "required":true,
-         "type":"string",
-         "format":"uri"
+         "type":"string"
       },
       {
          "name":"site_web",
