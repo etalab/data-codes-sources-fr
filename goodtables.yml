@@ -1,3 +1,5 @@
+settings:
+  row_limit: 10000
 files:
   - source: data/organisations/csv/all.csv
     schema: schemas/organisation.json
