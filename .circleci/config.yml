@@ -44,7 +44,7 @@ jobs:
           command: |
             if [ -n "$(git status --porcelain)" ]; then
               git add -u data
-              git commit -am "New data at $(date -u +'%Y-%m-%dT%H:%M:%SZ') [skip ci]"
+              git commit -m "New data at $(date -u +'%Y-%m-%dT%H:%M:%SZ')" -m "[skip ci]"
               git push origin master
             else
               echo "No changes";
