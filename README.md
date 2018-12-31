@@ -1,5 +1,6 @@
 [![CircleCI build status](https://img.shields.io/circleci/project/github/AntoineAugusti/data-codes-sources-fr.svg?style=flat-square)](https://circleci.com/gh/AntoineAugusti/data-codes-sources-fr)
 [![Software License](https://img.shields.io/badge/License-MIT-orange.svg?style=flat-square)](https://github.com/AntoineAugusti/data-codes-sources-fr/blob/master/LICENSE.md)
+[![goodtables.io](https://goodtables.io/badge/github/AntoineAugusti/data-codes-sources-fr.svg)](https://goodtables.io/github/AntoineAugusti/data-codes-sources-fr)
 
 # Données Codes Sources France
 Récupère des métadonnées sur les dépôts de code publiés par les comptes d’organisation d’organismes publics en France.
