@@ -1,0 +1,97 @@
+{
+   "title":"Métadonnées d'un répertoire Git",
+   "author":"Antoine Augusti <antoine.augusti@gmail.com>",
+   "created":"2018-12-31",
+   "updated":"2018-12-31",
+   "homepage":"https://github.com/AntoineAugusti/data-codes-sources-fr",
+   "fields":[
+      {
+         "name":"nom",
+         "description":"Le pseudo de l'organisation",
+         "example":"Etalab",
+         "required":true,
+         "type":"string"
+      },
+      {
+         "name":"description",
+         "description":"La description de l'organisation",
+         "example":"Observatoire accidentologie plaisance et loisirs nautiques France",
+         "required":false,
+         "type":"string"
+      },
+      {
+         "name":"organisation",
+         "description":"Le nom complet de l'organisation",
+         "example":"Ministère de l'Intérieur",
+         "required":false,
+         "type":"string"
+      },
+      {
+         "name":"organisation_url",
+         "description":"URL vers l'organisation",
+         "example":"https://github.com/etalab",
+         "required":true,
+         "type":"string",
+         "format":"uri"
+      },
+      {
+         "name":"site_web",
+         "description":"Site web de l'organisation",
+         "example":"https://etalab.gouv.fr",
+         "required":false,
+         "type":"string",
+         "format":"uri"
+      },
+      {
+         "name":"adresse",
+         "description":"Adresse physique de l'organisation",
+         "example":"Paris, France",
+         "required":false,
+         "type":"string"
+      },
+      {
+         "name":"email",
+         "description":"Adresse e-mail de contact de l'organisation",
+         "example":"contact@etalab.gouv.fr",
+         "required":false,
+         "type":"string",
+         "format":"email"
+      },
+      {
+         "name":"est_verifiee",
+         "description":"Indique si l'organisation a prouvé qu'elle détenait les noms de domaines associés à son organisation",
+         "example":"true",
+         "required":true,
+         "type":"boolean"
+      },
+      {
+         "name":"nombre_repertoires",
+         "description":"Le nombre de répertoires publics de l'organisation",
+         "example":42,
+         "required":true,
+         "type":"integer",
+         "minimum":0
+      },
+      {
+         "name":"date_creation",
+         "description":"La date de création de l'organisation",
+         "example":"2013-08-26T16:03:40Z",
+         "required":true,
+         "type":"datetime"
+      },
+      {
+         "name":"plateforme",
+         "description":"La plateforme utilisée de l'organisation",
+         "example":"GitHub",
+         "required":true,
+         "type":"string",
+         "enum":[
+            "GitHub"
+         ]
+      }
+   ],
+   "missingValues":[
+      ""
+   ],
+   "primaryKey":"nom"
+}
