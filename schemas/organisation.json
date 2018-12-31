@@ -31,15 +31,15 @@
          "description":"URL vers l'organisation",
          "example":"https://github.com/etalab",
          "required":true,
-         "type":"string"
+         "type":"string",
+         "format": "uri"
       },
       {
          "name":"site_web",
          "description":"Site web de l'organisation",
          "example":"https://etalab.gouv.fr",
          "required":false,
-         "type":"string",
-         "format":"uri"
+         "type":"string"
       },
       {
          "name":"adresse",
@@ -92,5 +92,5 @@
    "missingValues":[
       ""
    ],
-   "primaryKey":"nom"
+   "primaryKey":"login"
 }
