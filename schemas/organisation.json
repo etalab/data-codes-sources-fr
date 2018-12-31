@@ -9,67 +9,83 @@
          "name":"login",
          "description":"Le pseudo de l'organisation",
          "example":"Etalab",
-         "required":true,
-         "type":"string"
+         "type":"string",
+         "constraints": {
+            "required": true
+         }
       },
       {
          "name":"description",
          "description":"La description de l'organisation",
          "example":"Observatoire accidentologie plaisance et loisirs nautiques France",
-         "required":false,
-         "type":"string"
+         "type":"string",
+         "constraints": {
+            "required": false
+         }
       },
       {
          "name":"nom",
          "description":"Le nom complet de l'organisation",
          "example":"Ministère de l'Intérieur",
-         "required":false,
-         "type":"string"
+         "type":"string",
+         "constraints": {
+            "required": false
+         }
       },
       {
          "name":"organisation_url",
          "description":"URL vers l'organisation",
          "example":"https://github.com/etalab",
-         "required":true,
          "type":"string",
-         "format": "uri"
+         "format": "uri",
+         "constraints": {
+            "required": true
+         }
       },
       {
          "name":"site_web",
          "description":"Site web de l'organisation",
          "example":"https://etalab.gouv.fr",
-         "required":false,
-         "type":"string"
+         "type":"string",
+         "constraints": {
+            "required": false
+         }
       },
       {
          "name":"adresse",
          "description":"Adresse physique de l'organisation",
          "example":"Paris, France",
-         "required":false,
-         "type":"string"
+         "type":"string",
+         "constraints": {
+            "required": false
+         }
       },
       {
          "name":"email",
          "description":"Adresse e-mail de contact de l'organisation",
          "example":"contact@etalab.gouv.fr",
-         "required":false,
          "type":"string",
-         "format":"email"
+         "format":"email",
+         "constraints": {
+            "required": false
+         }
       },
       {
          "name":"est_verifiee",
          "description":"Indique si l'organisation a prouvé qu'elle détenait les noms de domaines associés à son organisation",
          "example":"true",
-         "required":true,
-         "type":"boolean"
+         "type":"boolean",
+         "constraints": {
+            "required": true
+         }
       },
       {
          "name":"nombre_repertoires",
          "description":"Le nombre de répertoires publics de l'organisation",
          "example":42,
-         "required":true,
          "type":"integer",
          "constraints": {
+            "required": true,
             "minimum": 0
          }
       },
@@ -77,16 +93,18 @@
          "name":"date_creation",
          "description":"La date de création de l'organisation",
          "example":"2013-08-26T16:03:40Z",
-         "required":true,
-         "type":"datetime"
+         "type":"datetime",
+         "constraints": {
+            "required": true
+         }
       },
       {
          "name":"plateforme",
          "description":"La plateforme utilisée de l'organisation",
          "example":"GitHub",
-         "required":true,
          "type":"string",
          "constraints": {
+            "required": true,
             "enum":[
                "GitHub"
             ]

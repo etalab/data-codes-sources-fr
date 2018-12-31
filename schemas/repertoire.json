@@ -8,21 +8,28 @@
       {
          "name":"nom",
          "description":"Le nom du répertoire",
-         "required":true,
-         "type":"string"
+         "example": "nom-repertoire",
+         "type":"string",
+         "constraints": {
+            "required": true
+         }
       },
       {
          "name":"organisation_nom",
          "description":"Le nom de l'organisation",
-         "required":true,
-         "type":"string"
+         "example": "etalab",
+         "type":"string",
+         "constraints": {
+            "required": true
+         }
       },
       {
          "name":"plateforme",
          "description":"La plateforme de dépôt de code",
-         "required":true,
+         "example": "GitHub",
          "type":"string",
          "constraints": {
+            "required": true,
             "enum":[
                "GitHub"
             ]
@@ -31,81 +38,114 @@
       {
          "name":"repertoire_url",
          "description":"L'URL vers le répertoire",
-         "required":true,
+         "example": "https://github.com/etalab/nom-repertoire",
          "type":"string",
-         "format":"uri"
+         "format":"uri",
+         "constraints": {
+            "required": true
+         }
       },
       {
          "name":"description",
          "description":"La description du répertoire",
-         "required":true,
-         "type":"string"
+         "example": "Ce répertoire est utile",
+         "type":"string",
+         "constraints": {
+            "required": false
+         }
       },
       {
          "name":"est_fork",
          "description":"Indique si le répertoire est un fork",
-         "required":true,
-         "type":"boolean"
+         "example": "false",
+         "type":"boolean",
+         "constraints": {
+            "required": true
+         }
       },
       {
          "name":"date_creation",
          "description":"La date de création du répertoire",
-         "required":true,
-         "type":"datetime"
+         "example": "2018-12-01T20:00:55Z",
+         "type":"datetime",
+         "constraints": {
+            "required": true
+         }
       },
       {
          "name":"derniere_mise_a_jour",
          "description":"La date de dernière mise à jour du répertoire",
-         "required":true,
-         "type":"datetime"
+         "example": "2018-12-01T20:00:55Z",
+         "type":"datetime",
+         "constraints": {
+            "required": true
+         }
       },
       {
          "name":"homepage",
          "description":"URL vers la page d'accueil du projet",
-         "required":true,
-         "type":"string"
+         "example": "https://etalab.gouv.fr",
+         "type":"string",
+         "constraints": {
+            "required": false
+         }
       },
       {
          "name":"nombre_stars",
          "description":"Le nombre de fois où le répertoire a été ajouté aux favoris",
-         "required":true,
+         "example": 42,
          "type":"integer",
          "constraints": {
-            "minimum": 0
+            "minimum": 0,
+            "required": true
          }
       },
       {
          "name":"nombre_forks",
          "description":"Le nombre de fois où le répertoire a été forké",
-         "required":true,
+         "example": 13,
          "type":"integer",
          "constraints": {
-            "minimum": 0
+            "minimum": 0,
+            "required": true
          }
       },
       {
          "name":"licence",
          "description":"La licence du répertoire, telle que détectée par la plateforme",
-         "required":true,
-         "type":"string"
+         "example": "MIT",
+         "type":"string",
+         "constraints": {
+            "required": false
+         }
       },
       {
          "name":"nombre_issues_ouvertes",
          "description":"Le nombre d'issues actuellement ouvertes",
-         "required":true,
-         "type":"integer"
+         "example": "0",
+         "type":"integer",
+         "constraints": {
+            "required": true,
+            "minimum": 0
+         }
       },
       {
          "name":"langage",
          "description":"Le langage principal du répertoire, tel que détecté par la plateforme",
-         "required":true,
-         "type":"string"
+         "example": "Python",
+         "type":"string",
+         "constraints": {
+            "required": false
+         }
       },
       {
          "name":"topics",
          "description":"Les tags du répertoire",
-         "required":true,
-         "type":"string"
+         "example": "utile,france,opendata",
+         "type":"string",
+         "constraints": {
+            "required": false
+         }
       }
    ],
    "primaryKey":"repertoire_url"
