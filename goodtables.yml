@@ -1,3 +1,4 @@
 files:
-  - source: data/organisations/csv/*.csv
+  - source: 'data/organisations/csv/*.csv'
     schema: schemas/organisation.json
+    encoding: utf-8
