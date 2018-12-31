@@ -39,7 +39,7 @@ for organisation in organisations:
     for repo in repos_for_org(organisation):
         repos['nom'].append(repo['name'])
         repos['organisation_nom'].append(repo['owner']['login'])
-        repos['organisation_url'].append(repo['owner']['html_url'])
+        repos['plateforme'].append('GitHub')
         repos['repertoire_url'].append(repo['html_url'])
         repos['description'].append(repo['description'])
         repos['est_fork'].append(repo['fork'])
@@ -75,6 +75,7 @@ for organisation in organisations:
 
     mapping = [
         ('nom', 'name'),
+        ('description', 'description'),
         ('organisation', 'company'),
         ('organisation_url', 'html_url'),
         ('site_web', 'blog'),
@@ -89,6 +90,7 @@ for organisation in organisations:
             current_org[key].append(data[json_key])
         except KeyError:
             current_org[key].append(None)
+    current_org['plateforme'].append('GitHub')
 
     for k, v in current_org.items():
         all_orgs[k].extend(v)
