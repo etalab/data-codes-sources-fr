@@ -1,0 +1,107 @@
+{
+   "title":"Métadonnées d'un répertoire Git",
+   "author":"Antoine Augusti <antoine.augusti@gmail.com>",
+   "created":"2018-12-31",
+   "updated":"2018-12-31",
+   "homepage":"https://github.com/AntoineAugusti/data-codes-sources-fr",
+   "fields":[
+      {
+         "name":"nom",
+         "description":"Le nom du répertoire",
+         "required":true,
+         "type":"string"
+      },
+      {
+         "name":"organisation_nom",
+         "description":"Le nom de l'organisation",
+         "required":true,
+         "type":"string"
+      },
+      {
+         "name":"plateforme",
+         "description":"La plateforme de dépôt de code",
+         "required":true,
+         "type":"string",
+         "enum":[
+            "GitHub"
+         ]
+      },
+      {
+         "name":"repertoire_url",
+         "description":"L'URL vers le répertoire",
+         "required":true,
+         "type":"string",
+         "format":"uri"
+      },
+      {
+         "name":"description",
+         "description":"La description du répertoire",
+         "required":true,
+         "type":"string"
+      },
+      {
+         "name":"est_fork",
+         "description":"Indique si le répertoire est un fork",
+         "required":true,
+         "type":"boolean"
+      },
+      {
+         "name":"date_creation",
+         "description":"La date de création du répertoire",
+         "required":true,
+         "type":"datetime"
+      },
+      {
+         "name":"derniere_mise_a_jour",
+         "description":"La date de dernière mise à jour du répertoire",
+         "required":true,
+         "type":"datetime"
+      },
+      {
+         "name":"homepage",
+         "description":"URL vers la page d'accueil du projet",
+         "required":true,
+         "type":"string"
+      },
+      {
+         "name":"nombre_stars",
+         "description":"Le nombre de fois où le répertoire a été ajouté aux favoris",
+         "required":true,
+         "type":"integer"
+      },
+      {
+         "name":"nombre_forks",
+         "description":"Le nombre de fois où le répertoire a été forké",
+         "required":true,
+         "type":"integer"
+      },
+      {
+         "name":"licence",
+         "description":"La licence du répertoire, telle que détectée par la plateforme",
+         "required":true,
+         "type":"string"
+      },
+      {
+         "name":"nombre_issues_ouvertes",
+         "description":"Le nombre d'issues actuellement ouvertes",
+         "required":true,
+         "type":"integer"
+      },
+      {
+         "name":"langage",
+         "description":"Le langage principal du répertoire, tel que détecté par la plateforme",
+         "required":true,
+         "type":"string"
+      },
+      {
+         "name":"topics",
+         "description":"Les tags du répertoire",
+         "required":true,
+         "type":"string"
+      }
+   ],
+   "missingValues":[
+      ""
+   ],
+   "primaryKey":"repertoire_url"
+}

@@ -2,3 +2,6 @@ files:
   - source: data/organisations/csv/all.csv
     schema: schemas/organisation.json
     encoding: utf-8
+  - source: data/repertoires/csv/all.csv
+    schema: schemas/repertoire.json
+    encoding: utf-8
