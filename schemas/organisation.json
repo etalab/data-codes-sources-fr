@@ -6,7 +6,7 @@
    "homepage":"https://github.com/AntoineAugusti/data-codes-sources-fr",
    "fields":[
       {
-         "name":"nom",
+         "name":"login",
          "description":"Le pseudo de l'organisation",
          "example":"Etalab",
          "required":true,
@@ -20,7 +20,7 @@
          "type":"string"
       },
       {
-         "name":"organisation",
+         "name":"nom",
          "description":"Le nom complet de l'organisation",
          "example":"Ministère de l'Intérieur",
          "required":false,

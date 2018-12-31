@@ -74,9 +74,9 @@ for organisation in organisations:
     print('Fetching details for: ', organisation)
 
     mapping = [
-        ('nom', 'name'),
+        ('login', 'login'),
         ('description', 'description'),
-        ('organisation', 'company'),
+        ('nom', 'name'),
         ('organisation_url', 'html_url'),
         ('site_web', 'blog'),
         ('adresse', 'location'),
