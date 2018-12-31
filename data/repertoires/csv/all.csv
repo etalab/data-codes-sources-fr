@@ -466,7 +466,7 @@ chouette-projects-i18n,afimb,GitHub,https://github.com/afimb/chouette-projects-i
 docker-cvdtc,afimb,GitHub,https://github.com/afimb/docker-cvdtc,,False,2016-06-07T13:26:04Z,2016-06-07T13:34:52Z,,1,0,,0,Shell,
 ievkit_views,afimb,GitHub,https://github.com/afimb/ievkit_views,,False,2016-07-18T12:21:00Z,2016-07-18T12:25:00Z,,0,1,MIT License,1,Ruby,
 irys-demo-au,afimb,GitHub,https://github.com/afimb/irys-demo-au,Demo client for SIRI protocol developed with Aurelia.,False,2016-10-04T15:23:19Z,2016-12-07T10:46:43Z,,0,1,,0,JavaScript,
-mes-aides-ui,betagouv,GitHub,https://github.com/betagouv/mes-aides-ui,Le simulateur global des prestations sociales françaises,False,2014-04-03T10:42:21Z,2018-12-28T15:05:59Z,https://mes-aides.gouv.fr/,52,12,,128,JavaScript,
+mes-aides-ui,betagouv,GitHub,https://github.com/betagouv/mes-aides-ui,Le simulateur global des prestations sociales françaises,False,2014-04-03T10:42:21Z,2018-12-31T13:48:51Z,https://mes-aides.gouv.fr/,52,12,,128,JavaScript,
 mdph,betagouv,GitHub,https://github.com/betagouv/mdph,Faciliter les demandes de compensation du handicap auprès des MDPH,False,2014-07-02T13:47:21Z,2018-09-06T13:17:25Z,https://mdphenligne.cnsa.fr,9,4,,7,JavaScript,
 openfisca-france,betagouv,GitHub,https://github.com/betagouv/openfisca-france,  French specific module for OpenFisca,True,2014-07-23T08:10:22Z,2018-11-05T13:57:20Z,,4,1,,12,Python,
 mes-aides-api,betagouv,GitHub,https://github.com/betagouv/mes-aides-api,A mapping interface between the mes-aides user interface and the OpenFisca simulation engine.,False,2014-09-01T11:45:44Z,2018-07-31T14:16:02Z,https://mes-aides.gouv.fr,21,4,,11,JavaScript,
