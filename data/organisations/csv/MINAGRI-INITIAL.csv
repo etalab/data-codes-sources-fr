@@ -1,2 +1,2 @@
-nom,description,organisation,organisation_url,site_web,adresse,email,est_verifiee,nombre_repertoires,date_creation,plateforme
-INITIAL,Incubateur de services numériques du ministère de l'agriculture et de l'alimentation,,https://github.com/minagri-initial,,Toulouse,celia.carceller-kemiche@agriculture.gouv.fr,False,7,2016-03-18T08:50:13Z,GitHub
+login,description,nom,organisation_url,site_web,adresse,email,est_verifiee,nombre_repertoires,date_creation,plateforme
+minagri-initial,Incubateur de services numériques du ministère de l'agriculture et de l'alimentation,INITIAL,https://github.com/minagri-initial,,Toulouse,celia.carceller-kemiche@agriculture.gouv.fr,False,7,2016-03-18T08:50:13Z,GitHub

@@ -1,2 +1,2 @@
-nom,description,organisation,organisation_url,site_web,adresse,email,est_verifiee,nombre_repertoires,date_creation,plateforme
-AFIMB,,,https://github.com/afimb,http://www.developpement-durable.gouv.fr/lagence-francaise-linformation-multimodale-et-billettique-afimb,"La Défense, France",,False,23,2013-07-16T14:31:55Z,GitHub
+login,description,nom,organisation_url,site_web,adresse,email,est_verifiee,nombre_repertoires,date_creation,plateforme
+afimb,,AFIMB,https://github.com/afimb,http://www.developpement-durable.gouv.fr/lagence-francaise-linformation-multimodale-et-billettique-afimb,"La Défense, France",,False,23,2013-07-16T14:31:55Z,GitHub

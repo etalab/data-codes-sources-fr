@@ -1,2 +1,2 @@
-nom,description,organisation,organisation_url,site_web,adresse,email,est_verifiee,nombre_repertoires,date_creation,plateforme
-Entrepreneur·e d’intérêt général,Code développé dans le cadre des défis EIG,,https://github.com/entrepreneur-interet-general,entrepreneur-interet-general.etalab.gouv.fr,,entrepreneur-interet-general@data.gouv.fr,False,69,2017-01-12T16:54:14Z,GitHub
+login,description,nom,organisation_url,site_web,adresse,email,est_verifiee,nombre_repertoires,date_creation,plateforme
+entrepreneur-interet-general,Code développé dans le cadre des défis EIG,Entrepreneur·e d’intérêt général,https://github.com/entrepreneur-interet-general,entrepreneur-interet-general.etalab.gouv.fr,,entrepreneur-interet-general@data.gouv.fr,False,69,2017-01-12T16:54:14Z,GitHub

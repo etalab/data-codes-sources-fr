@@ -1,2 +1,2 @@
-nom,description,organisation,organisation_url,site_web,adresse,email,est_verifiee,nombre_repertoires,date_creation,plateforme
-SIG RENNES METROPOLE,Service  de l'Information Géographique de Rennes Métropole,,https://github.com/sigrennesmetropole,,RENNES,sig@rennesmetropole.fr,False,10,2014-11-25T15:18:16Z,GitHub
+login,description,nom,organisation_url,site_web,adresse,email,est_verifiee,nombre_repertoires,date_creation,plateforme
+sigrennesmetropole,Service  de l'Information Géographique de Rennes Métropole,SIG RENNES METROPOLE,https://github.com/sigrennesmetropole,,RENNES,sig@rennesmetropole.fr,False,10,2014-11-25T15:18:16Z,GitHub

@@ -1,2 +1,2 @@
-nom,description,organisation,organisation_url,site_web,adresse,email,est_verifiee,nombre_repertoires,date_creation,plateforme
-CEA LIST,"Smart digital systems for Advanced Manufacturing, Embedded systems, Data intelligence and Health ionizing radiations",,https://github.com/CEA-LIST,http://www-list.cea.fr/,CEA Paris-Saclay - Nano-Innov,,False,5,2017-01-06T12:50:46Z,GitHub
+login,description,nom,organisation_url,site_web,adresse,email,est_verifiee,nombre_repertoires,date_creation,plateforme
+CEA-LIST,"Smart digital systems for Advanced Manufacturing, Embedded systems, Data intelligence and Health ionizing radiations",CEA LIST,https://github.com/CEA-LIST,http://www-list.cea.fr/,CEA Paris-Saclay - Nano-Innov,,False,5,2017-01-06T12:50:46Z,GitHub
