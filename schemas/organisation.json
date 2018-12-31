@@ -69,7 +69,9 @@
          "example":42,
          "required":true,
          "type":"integer",
-         "minimum":0
+         "constraints": {
+            "minimum": 0
+         }
       },
       {
          "name":"date_creation",
@@ -84,13 +86,12 @@
          "example":"GitHub",
          "required":true,
          "type":"string",
-         "enum":[
-            "GitHub"
-         ]
+         "constraints": {
+            "enum":[
+               "GitHub"
+            ]
+         }
       }
-   ],
-   "missingValues":[
-      ""
    ],
    "primaryKey":"login"
 }

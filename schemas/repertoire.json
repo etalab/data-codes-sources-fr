@@ -22,9 +22,11 @@
          "description":"La plateforme de dépôt de code",
          "required":true,
          "type":"string",
-         "enum":[
-            "GitHub"
-         ]
+         "constraints": {
+            "enum":[
+               "GitHub"
+            ]
+         }
       },
       {
          "name":"repertoire_url",
@@ -67,13 +69,19 @@
          "name":"nombre_stars",
          "description":"Le nombre de fois où le répertoire a été ajouté aux favoris",
          "required":true,
-         "type":"integer"
+         "type":"integer",
+         "constraints": {
+            "minimum": 0
+         }
       },
       {
          "name":"nombre_forks",
          "description":"Le nombre de fois où le répertoire a été forké",
          "required":true,
-         "type":"integer"
+         "type":"integer",
+         "constraints": {
+            "minimum": 0
+         }
       },
       {
          "name":"licence",
@@ -99,9 +107,6 @@
          "required":true,
          "type":"string"
       }
-   ],
-   "missingValues":[
-      ""
    ],
    "primaryKey":"repertoire_url"
 }
