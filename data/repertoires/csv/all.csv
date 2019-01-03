@@ -316,12 +316,12 @@ camino-imports-spreadsheets,MTES-MCT,GitHub,https://github.com/MTES-MCT/camino-i
 choisir-une-licence,MTES-MCT,GitHub,https://github.com/MTES-MCT/choisir-une-licence,,False,2018-07-17T09:43:52Z,2018-07-17T09:44:31Z,,0,0,,1,,
 enr-and-ground,MTES-MCT,GitHub,https://github.com/MTES-MCT/enr-and-ground,,False,2018-07-19T10:09:47Z,2018-07-19T10:09:49Z,,0,1,GNU General Public License v3.0,1,,
 camino-imports-spreadsheet-jorf,MTES-MCT,GitHub,https://github.com/MTES-MCT/camino-imports-spreadsheet-jorf,,False,2018-08-10T10:47:43Z,2018-10-29T19:38:44Z,,0,0,,0,JavaScript,
-filharmonic-ui,MTES-MCT,GitHub,https://github.com/MTES-MCT/filharmonic-ui,,False,2018-11-14T16:44:11Z,2019-01-03T15:20:43Z,,1,0,GNU Affero General Public License v3.0,0,Vue,
+filharmonic-ui,MTES-MCT,GitHub,https://github.com/MTES-MCT/filharmonic-ui,,False,2018-11-14T16:44:11Z,2019-01-03T16:03:16Z,,1,0,GNU Affero General Public License v3.0,0,Vue,
 trackdechets,MTES-MCT,GitHub,https://github.com/MTES-MCT/trackdechets,Dématérialiser le bordereau de suivi des déchets dangereux,False,2018-11-28T08:55:23Z,2018-12-27T17:20:25Z,,1,0,,0,TypeScript,
 portail,MTES-MCT,GitHub,https://github.com/MTES-MCT/portail,,False,2018-11-30T08:28:26Z,2018-12-30T00:00:21Z,https://mtes-mct.github.io/portail/,0,0,GNU Affero General Public License v3.0,0,CSS,
 dataqual,MTES-MCT,GitHub,https://github.com/MTES-MCT/dataqual,Qualité des données,False,2018-11-30T16:12:41Z,2018-11-30T16:12:41Z,,0,0,,0,,
 kelrisks,MTES-MCT,GitHub,https://github.com/MTES-MCT/kelrisks,,False,2018-12-06T10:13:24Z,2018-12-06T10:26:16Z,,0,0,,0,Java,"hibernate,java,postgis,postresql,spring-boot,swagger"
-fluctuat,MTES-MCT,GitHub,https://github.com/MTES-MCT/fluctuat,Faciliter et promouvoir le transport fluvial de marchandise,False,2018-12-06T15:50:59Z,2019-01-03T10:17:53Z,,1,0,,0,TypeScript,
+fluctuat,MTES-MCT,GitHub,https://github.com/MTES-MCT/fluctuat,Faciliter et promouvoir le transport fluvial de marchandise,False,2018-12-06T15:50:59Z,2019-01-03T16:33:57Z,,1,0,,0,TypeScript,
 action-bidonvilles,MTES-MCT,GitHub,https://github.com/MTES-MCT/action-bidonvilles,Action Bidonvilles,False,2018-12-12T13:28:57Z,2018-12-21T08:44:38Z,http://action-bidonvilles.beta.gouv.fr,0,0,GNU Affero General Public License v3.0,0,JavaScript,
 permis-construire,MTES-MCT,GitHub,https://github.com/MTES-MCT/permis-construire,,False,2018-12-13T21:36:44Z,2018-12-18T10:38:28Z,,0,0,MIT License,0,CSS,
 filharmonic-api,MTES-MCT,GitHub,https://github.com/MTES-MCT/filharmonic-api,API de Fil'HarmonIC (backend),False,2019-01-03T09:36:13Z,2019-01-03T11:25:53Z,,0,0,GNU Affero General Public License v3.0,0,Go,
@@ -365,7 +365,7 @@ GeoNature-atlas,PnEcrins,GitHub,https://github.com/PnEcrins/GeoNature-atlas,Appl
 Manuel-QGIS-Forets-Anciennes,PnEcrins,GitHub,https://github.com/PnEcrins/Manuel-QGIS-Forets-Anciennes,MANUEL POUR LA VECTORISATION DE L’USAGE DES SOLS ET LE GEOREFERENCEMENT DES MINUTES 1:40 000 DE LA CARTE D’ETAT-MAJOR,False,2017-08-28T11:56:54Z,2017-08-29T07:17:28Z,,1,0,,0,,
 FollowDem-admin,PnEcrins,GitHub,https://github.com/PnEcrins/FollowDem-admin,Backoffice de FollowDem,False,2018-07-17T11:32:00Z,2018-11-22T14:22:21Z,,1,0,GNU General Public License v3.0,7,Python,
 FollowDem-admin-front,PnEcrins,GitHub,https://github.com/PnEcrins/FollowDem-admin-front,Front du backoffice de FollowDem,False,2018-07-17T11:33:05Z,2018-07-17T11:33:08Z,,0,0,GNU General Public License v3.0,1,,
-GeoNature,PnX-SI,GitHub,https://github.com/PnX-SI/GeoNature,Application de saisie et de synthèse des observations faune et flore,False,2014-12-01T11:10:37Z,2018-11-21T13:52:18Z,,29,23,GNU General Public License v3.0,116,Python,"angular,fauna,flask,flora,javascript,leaflet,national-parks,nature,postgis,postgresql,python"
+GeoNature,PnX-SI,GitHub,https://github.com/PnX-SI/GeoNature,Application de saisie et de synthèse des observations faune et flore,False,2014-12-01T11:10:37Z,2018-11-21T13:52:18Z,,29,23,GNU General Public License v3.0,115,Python,"angular,fauna,flask,flora,javascript,leaflet,national-parks,nature,postgis,postgresql,python"
 obs_occ,PnX-SI,GitHub,https://github.com/PnX-SI/obs_occ,"Observations occasionnelles. Application de saisie d'observations naturalistes (faune, flore, fonge)",False,2015-01-14T13:25:33Z,2018-10-12T08:31:05Z,,3,5,,41,HTML,
 TaxHub,PnX-SI,GitHub,https://github.com/PnX-SI/TaxHub,Application de gestion des taxons,False,2015-04-03T07:42:31Z,2018-10-21T14:54:15Z,,8,6,GNU General Public License v3.0,43,HTML,"angular,fauna,flora,javascript,national-parks,python,taxonomy"
 UsersHub-authentification-module,PnX-SI,GitHub,https://github.com/PnX-SI/UsersHub-authentification-module,Module Flask d'authentification de UsersHub,False,2016-06-09T08:03:31Z,2018-10-08T20:55:48Z,,1,3,GNU General Public License v3.0,2,Python,
@@ -442,7 +442,7 @@ elk-cluster,StartupsPoleEmploi,GitHub,https://github.com/StartupsPoleEmploi/elk-
 Avril-Frontend,StartupsPoleEmploi,GitHub,https://github.com/StartupsPoleEmploi/Avril-Frontend,,False,2018-07-12T10:05:40Z,2018-07-20T16:26:52Z,,0,0,MIT License,1,JavaScript,
 Templates-Mailjet,StartupsPoleEmploi,GitHub,https://github.com/StartupsPoleEmploi/Templates-Mailjet,Template de mail MJML pour Mailjet,False,2018-07-16T14:22:14Z,2018-09-19T14:22:05Z,,0,0,,0,HTML,
 gerboise,StartupsPoleEmploi,GitHub,https://github.com/StartupsPoleEmploi/gerboise,Data collection and visualisation in Kibana for startups,False,2018-08-08T11:10:55Z,2018-09-05T07:28:10Z,,0,1,,0,Python,
-anotea,StartupsPoleEmploi,GitHub,https://github.com/StartupsPoleEmploi/anotea,,False,2018-10-18T09:58:15Z,2019-01-02T08:45:29Z,,4,0,GNU Affero General Public License v3.0,5,JavaScript,
+anotea,StartupsPoleEmploi,GitHub,https://github.com/StartupsPoleEmploi/anotea,,False,2018-10-18T09:58:15Z,2019-01-02T08:45:29Z,,4,0,GNU Affero General Public License v3.0,4,JavaScript,
 jepostule,StartupsPoleEmploi,GitHub,https://github.com/StartupsPoleEmploi/jepostule,Un outil de candidature simplifiée intégrable à d'autres applications,False,2018-10-19T15:17:00Z,2018-12-20T14:19:41Z,,0,0,GNU Affero General Public License v3.0,2,Python,
 chouette,afimb,GitHub,https://github.com/afimb/chouette,chouette is a Java program for validating and exchanging Public Transport datas. Comes with a ruby web app : https://github.com/afimb/chouette2,False,2013-07-16T14:41:26Z,2018-11-28T12:58:22Z,http://www.chouette.mobi,19,16,Other,10,Java,
 chouette2,afimb,GitHub,https://github.com/afimb/chouette2,"chouette2 is a Ruby on Rails web app for editing, reading, validating and exchanging Public Transport datas. To be installed together with https://github.com/afimb/chouette",False,2013-07-18T13:12:00Z,2018-11-08T09:23:53Z,http://www.chouette.mobi,26,15,Other,6,Ruby,
@@ -500,7 +500,7 @@ Element.details,betagouv,GitHub,https://github.com/betagouv/Element.details,A pu
 sejour,betagouv,GitHub,https://github.com/betagouv/sejour,,True,2015-09-27T15:01:04Z,2015-09-27T15:01:07Z,,0,0,,0,Java,
 apicarto-cadastre,betagouv,GitHub,https://github.com/betagouv/apicarto-cadastre,,False,2015-10-07T13:15:25Z,2017-11-22T14:24:38Z,,0,1,,1,JavaScript,
 apicarto-aoc,betagouv,GitHub,https://github.com/betagouv/apicarto-aoc,,False,2015-10-08T09:12:25Z,2017-11-22T14:19:15Z,,0,2,,0,JavaScript,
-tps,betagouv,GitHub,https://github.com/betagouv/tps,Dématérialiser et simplifier les démarches administratives ,False,2015-10-13T10:01:34Z,2019-01-03T10:07:56Z,https://www.demarches-simplifiees.fr,30,19,,719,Ruby,
+tps,betagouv,GitHub,https://github.com/betagouv/tps,Dématérialiser et simplifier les démarches administratives ,False,2015-10-13T10:01:34Z,2019-01-03T16:48:38Z,https://www.demarches-simplifiees.fr,30,19,,717,Ruby,
 api-particulier,betagouv,GitHub,https://github.com/betagouv/api-particulier,"Simplifiez les démarches de vos usagers, ne demandez plus de justificatifs",False,2015-10-23T09:14:04Z,2018-12-07T16:58:35Z,https://particulier.api.gouv.fr/,8,3,,2,JavaScript,
 quotient-familial,betagouv,GitHub,https://github.com/betagouv/quotient-familial,,False,2015-11-12T13:13:19Z,2018-01-23T09:44:36Z,,0,0,,0,JavaScript,
 apicarto-data,betagouv,GitHub,https://github.com/betagouv/apicarto-data,,False,2015-11-13T16:00:10Z,2017-11-22T14:21:18Z,,0,0,,0,Shell,
@@ -560,11 +560,11 @@ openfisca-loiret,betagouv,GitHub,https://github.com/betagouv/openfisca-loiret, E
 dossiersco,betagouv,GitHub,https://github.com/betagouv/dossiersco,"Pour inscrire votre enfant au collège, munissez-vous de votre identifiant puis cliquez sur",False,2017-10-13T12:20:41Z,2018-12-19T17:18:38Z,http://dossiersco.fr,1,2,,18,HTML,
 aplus,betagouv,GitHub,https://github.com/betagouv/aplus,"A+, le service public VIP pour tous",False,2017-10-25T13:11:41Z,2018-12-28T19:37:31Z,https://beta.gouv.fr/startup/aplus.html,1,2,MIT License,1,HTML,
 slack-ovh,betagouv,GitHub,https://github.com/betagouv/slack-ovh,Link Slack commands to OVH,False,2017-11-02T14:19:09Z,2018-11-26T09:33:23Z,,0,6,,0,JavaScript,
-mrs,betagouv,GitHub,https://github.com/betagouv/mrs,[Startup MRS] Mes remboursements simplifiés,False,2017-12-01T11:28:49Z,2019-01-03T13:08:24Z,https://www.mrs.beta.gouv.fr/,5,6,GNU Affero General Public License v3.0,20,Python,
+mrs,betagouv,GitHub,https://github.com/betagouv/mrs,[Startup MRS] Mes remboursements simplifiés,False,2017-12-01T11:28:49Z,2019-01-03T16:23:35Z,https://www.mrs.beta.gouv.fr/,5,6,GNU Affero General Public License v3.0,20,Python,
 securite-numerique-agile,betagouv,GitHub,https://github.com/betagouv/securite-numerique-agile,Intégrer la sécurité numérique dans une démarche Agile,False,2017-12-04T14:40:23Z,2018-09-04T12:31:34Z,https://betagouv.gitbooks.io/securite-numerique-agile/,3,2,MIT License,3,,
 annuaire-api,betagouv,GitHub,https://github.com/betagouv/annuaire-api,Une API pour les données de l'annuaire de servic-public.fr,False,2017-12-19T17:44:41Z,2018-11-26T13:19:18Z,https://etablissements-publics.api.gouv.fr/,0,2,,7,JavaScript,
 openfisca-brestmetropole,betagouv,GitHub,https://github.com/betagouv/openfisca-brestmetropole,Extension OpenFisca pour Brest métropole,False,2018-01-03T13:43:01Z,2018-12-26T09:20:23Z,,1,0,GNU Affero General Public License v3.0,0,Python,
-pass-culture-browser,betagouv,GitHub,https://github.com/betagouv/pass-culture-browser,,False,2018-01-03T14:34:35Z,2018-12-21T08:47:35Z,,6,2,,383,JavaScript,
+pass-culture-browser,betagouv,GitHub,https://github.com/betagouv/pass-culture-browser,,False,2018-01-03T14:34:35Z,2018-12-21T08:47:35Z,,6,2,,384,JavaScript,
 pass-culture-doc,betagouv,GitHub,https://github.com/betagouv/pass-culture-doc,,False,2018-01-04T13:10:05Z,2018-12-04T17:50:40Z,,1,1,,1,Shell,
 signup.api.gouv.fr,betagouv,GitHub,https://github.com/betagouv/signup.api.gouv.fr,,False,2018-01-08T09:47:51Z,2018-12-18T10:13:26Z,http://signup.api.gouv.fr/,4,0,,1,,
 signup-back,betagouv,GitHub,https://github.com/betagouv/signup-back,,False,2018-01-08T10:06:50Z,2019-01-02T13:32:49Z,,0,2,,1,Ruby,
@@ -610,7 +610,7 @@ civilsdeladefense,betagouv,GitHub,https://github.com/betagouv/civilsdeladefense,
 blog.beta.gouv.fr,betagouv,GitHub,https://github.com/betagouv/blog.beta.gouv.fr,,False,2018-08-29T12:12:03Z,2018-12-07T18:42:53Z,,2,1,,4,CSS,
 openfisca-bacASable,betagouv,GitHub,https://github.com/betagouv/openfisca-bacASable,Extension OpenFisca pour expérimenter avec nos partenaires,False,2018-09-12T12:48:04Z,2018-12-27T09:12:33Z,,1,0,GNU Affero General Public License v3.0,2,Python,
 pop-api,betagouv,GitHub,https://github.com/betagouv/pop-api,API Plateforme Ouverte du Patrimoine ,False,2018-09-21T15:24:52Z,2019-01-03T15:23:17Z,http://pop.culture.gouv.fr,1,2,MIT License,4,JavaScript,"api,culture,government"
-pop-production,betagouv,GitHub,https://github.com/betagouv/pop-production,Outil de production de la Plateforme Ouverte du Patrimoine,False,2018-09-21T15:32:54Z,2019-01-03T09:50:54Z,http://pop.culture.gouv.fr/,1,0,MIT License,0,JavaScript,"culture,government"
+pop-production,betagouv,GitHub,https://github.com/betagouv/pop-production,Outil de production de la Plateforme Ouverte du Patrimoine,False,2018-09-21T15:32:54Z,2019-01-03T09:50:54Z,http://pop.culture.gouv.fr/,1,0,MIT License,1,JavaScript,"culture,government"
 pop-consultation,betagouv,GitHub,https://github.com/betagouv/pop-consultation,Outil de consultation de la Plateforme Ouverte du Patrimoine,False,2018-09-22T08:08:35Z,2019-01-03T09:50:32Z,http://pop.culture.gouv.fr/,3,0,MIT License,3,JavaScript,"betagouv,culture"
 ClasseA12,betagouv,GitHub,https://github.com/betagouv/ClasseA12,Source code for the project https://beta.gouv.fr/startup/classes12.html,False,2018-10-03T10:01:32Z,2018-12-21T15:39:14Z,https://classea12.beta.gouv.fr,2,0,,0,Elm,
 signalement,betagouv,GitHub,https://github.com/betagouv/signalement,,False,2018-10-12T09:52:15Z,2018-12-02T15:28:06Z,,0,3,MIT License,1,PHP,
@@ -630,7 +630,7 @@ preuve-covoiturage-dashboard,betagouv,GitHub,https://github.com/betagouv/preuve-
 pass-culture-datascience,betagouv,GitHub,https://github.com/betagouv/pass-culture-datascience,,False,2018-12-04T23:18:13Z,2018-12-04T23:18:15Z,,0,0,,4,,
 mes-aides-dockerfiles,betagouv,GitHub,https://github.com/betagouv/mes-aides-dockerfiles,Build Docker images for CircleCI,False,2018-12-05T10:16:26Z,2018-12-05T10:34:26Z,,0,0,,0,Dockerfile,
 dns,betagouv,GitHub,https://github.com/betagouv/dns,,False,2018-12-18T14:53:11Z,2018-12-18T15:37:46Z,,0,0,,0,,
-api-auth,betagouv,GitHub,https://github.com/betagouv/api-auth,,False,2018-12-18T16:07:05Z,2019-01-03T13:50:16Z,,0,0,MIT License,0,JavaScript,
+api-auth,betagouv,GitHub,https://github.com/betagouv/api-auth,,False,2018-12-18T16:07:05Z,2019-01-03T16:19:17Z,,0,0,MIT License,0,JavaScript,
 gps-usagers,betagouv,GitHub,https://github.com/betagouv/gps-usagers,Réduire les appels sans réponse dans le département du Calvados,False,2018-12-19T13:45:42Z,2019-01-03T15:18:59Z,,1,0,,0,JavaScript,
 clustershell,cea-hpc,GitHub,https://github.com/cea-hpc/clustershell,"Scalable cluster administration Python framework — Manage node sets, node groups and execute commands on cluster nodes in parallel.",False,2012-03-02T23:51:18Z,2018-12-27T16:17:03Z,http://cea-hpc.github.com/clustershell,244,58,,89,Python,
 nfs-ganesha,cea-hpc,GitHub,https://github.com/cea-hpc/nfs-ganesha,"NFS-Ganesha, a NFSv2/NFSv3/NFSv4.x server in User Space",True,2012-06-07T08:42:58Z,2018-05-25T14:18:47Z,http://nfs-ganesha.sf.net,5,0,,0,C,
@@ -1006,7 +1006,7 @@ udata-gouvfr,etalab,GitHub,https://github.com/etalab/udata-gouvfr,Skin and custo
 ban-geocode,etalab,GitHub,https://github.com/etalab/ban-geocode,BAN in Elasticsearch,False,2014-09-15T16:14:23Z,2018-09-18T13:48:26Z,,5,2,,6,Python,
 cle-interoperabilite-adresse,etalab,GitHub,https://github.com/etalab/cle-interoperabilite-adresse,Spécification de la clé d'intéropérabilité de l'adresse,False,2014-10-27T10:47:38Z,2018-01-22T18:45:21Z,,3,0,,0,,
 codes-postaux,etalab,GitHub,https://github.com/etalab/codes-postaux,Générer et manipuler facilement le fichier des codes postaux,False,2014-11-14T13:59:52Z,2018-12-26T14:01:49Z,,31,3,MIT License,2,JavaScript,
-adresse.data.gouv.fr,etalab,GitHub,https://github.com/etalab/adresse.data.gouv.fr,Données Adresse ouvertes,False,2014-12-01T18:30:52Z,2019-01-02T13:58:07Z,https://adresse.data.gouv.fr,66,8,,19,JavaScript,
+adresse.data.gouv.fr,etalab,GitHub,https://github.com/etalab/adresse.data.gouv.fr,Données Adresse ouvertes,False,2014-12-01T18:30:52Z,2019-01-03T16:41:16Z,https://adresse.data.gouv.fr,66,8,,19,JavaScript,
 deleted-datasets-schema,etalab,GitHub,https://github.com/etalab/deleted-datasets-schema,A schema specifying how to represent a dataset deleted from a hosting platform.,False,2015-01-30T17:52:29Z,2018-01-22T18:45:38Z,,0,0,,1,,
 ban-data,etalab,GitHub,https://github.com/etalab/ban-data,Projet de suivi des données BAN et des scripts de traitements associés,False,2015-03-19T09:33:15Z,2018-12-01T08:06:52Z,,17,4,,68,Shell,
 geozones,etalab,GitHub,https://github.com/etalab/geozones,Simple spatial/administrative referential,False,2015-04-15T12:06:35Z,2018-09-17T15:50:23Z,,31,8,,10,Python,
@@ -1077,7 +1077,7 @@ transport-datatools-ui,etalab,GitHub,https://github.com/etalab/transport-datatoo
 user-research,etalab,GitHub,https://github.com/etalab/user-research,🎤 Entretiens utilisateurs pour la compréhension des usages 🤓 réduction des frictions entre utilisateurs et données.,False,2017-07-18T12:48:20Z,2018-10-10T08:15:51Z,https://data.gouv.fr,13,5,,1,,"france,interviews,open-data,user-research"
 data.gouv.fr,etalab,GitHub,https://github.com/etalab/data.gouv.fr,Ce dépôt rassemble les tickets techniques qui portent sur data.gouv.fr.,False,2017-07-25T13:33:57Z,2018-11-19T13:58:12Z,https://www.data.gouv.fr,12,4,,47,,"france,government-data,open-data,support,ticketing"
 blog-eig2,etalab,GitHub,https://github.com/etalab/blog-eig2,,False,2017-08-11T09:54:02Z,2018-10-08T14:04:45Z,https://entrepreneur-interet-general.etalab.gouv.fr/,1,11,Apache License 2.0,1,HTML,
-transport-site,etalab,GitHub,https://github.com/etalab/transport-site,"Rendre disponible, valoriser et améliorer les données transports",False,2017-08-31T16:00:09Z,2019-01-02T11:58:46Z,https://transport.data.gouv.fr,6,9,,16,Elixir,
+transport-site,etalab,GitHub,https://github.com/etalab/transport-site,"Rendre disponible, valoriser et améliorer les données transports",False,2017-08-31T16:00:09Z,2019-01-02T11:58:46Z,https://transport.data.gouv.fr,6,9,,17,Elixir,
 irve,etalab,GitHub,https://github.com/etalab/irve,Scripts de contrôle et agrégation des fichiers IRVE publiés sur data.gouv.fr,False,2017-09-01T13:54:08Z,2018-01-22T18:49:06Z,,0,0,GNU Affero General Public License v3.0,0,Python,
 majic,etalab,GitHub,https://github.com/etalab/majic,Extraction des données MAJIC,False,2017-09-06T15:52:14Z,2018-01-22T18:49:07Z,,1,0,MIT License,0,JavaScript,
 fr-bounding-boxes,etalab,GitHub,https://github.com/etalab/fr-bounding-boxes,Bounding boxes for French administrative levels,False,2017-09-12T09:57:05Z,2017-10-15T13:44:10Z,,1,0,MIT License,0,Shell,
@@ -1114,7 +1114,7 @@ watchdoge_apientreprise,etalab,GitHub,https://github.com/etalab/watchdoge_apient
 dashboard_api_entreprise,etalab,GitHub,https://github.com/etalab/dashboard_api_entreprise,Dashboard (statut du service et espace client/admin) de API Entreprise,False,2018-03-27T13:57:47Z,2018-10-05T19:07:00Z,https://dashboard.entreprise.api.gouv.fr,2,0,,13,JavaScript,
 code-officiel-geographique,etalab,GitHub,https://github.com/etalab/code-officiel-geographique,[WIP] API JavaScript permettant d'interroger le Code Officiel Géographique,False,2018-03-29T08:56:26Z,2018-08-27T09:16:20Z,,1,0,MIT License,0,JavaScript,"cog,communes,departements,geo,insee,regions"
 transport-gtfs-lib,etalab,GitHub,https://github.com/etalab/transport-gtfs-lib,A library for loading and saving GTFS feeds of arbitrary size with disk-backed storage,True,2018-04-03T14:30:07Z,2018-04-22T01:59:44Z,,1,0,"BSD 2-Clause ""Simplified"" License",0,Java,
-adresse-explorer-api,etalab,GitHub,https://github.com/etalab/adresse-explorer-api,,False,2018-04-04T15:27:33Z,2019-01-03T11:28:20Z,,0,0,,0,JavaScript,
+adresse-explorer-api,etalab,GitHub,https://github.com/etalab/adresse-explorer-api,,False,2018-04-04T15:27:33Z,2019-01-03T16:48:25Z,,0,0,,0,JavaScript,
 doc.entreprise.api.gouv.fr,etalab,GitHub,https://github.com/etalab/doc.entreprise.api.gouv.fr,,False,2018-04-09T07:45:29Z,2018-11-16T14:32:00Z,,1,1,Other,2,JavaScript,
 piwik-covisits,etalab,GitHub,https://github.com/etalab/piwik-covisits,compute co-visits statistics from piwik logs,False,2018-04-11T22:40:10Z,2018-06-07T15:47:14Z,,0,2,,1,Python,
 transport-validator,etalab,GitHub,https://github.com/etalab/transport-validator,,False,2018-04-13T19:54:00Z,2018-12-03T16:49:18Z,,2,0,,1,Rust,
@@ -1148,7 +1148,7 @@ etalab.gouv.fr,etalab,GitHub,https://github.com/etalab/etalab.gouv.fr,Le futur s
 opendata-logiciels,etalab,GitHub,https://github.com/etalab/opendata-logiciels,Guide pour l'ouverture des logiciels libres des organismes publics,False,2018-11-15T10:54:37Z,2018-11-16T10:23:47Z,,3,0,,0,,
 transpo-rt,etalab,GitHub,https://github.com/etalab/transpo-rt,Simple API for public transport realtime data ,False,2018-11-21T09:05:10Z,2018-12-26T08:55:51Z,,1,3,MIT License,12,Rust,
 fantoir-parser,etalab,GitHub,https://github.com/etalab/fantoir-parser,Analyseur de fichiers FANTOIR,False,2018-11-21T14:08:50Z,2018-11-21T15:53:16Z,,0,0,MIT License,0,JavaScript,
-bases-adresse-locales,etalab,GitHub,https://github.com/etalab/bases-adresse-locales,Agrégation des bases Adresse locales,False,2018-11-22T10:39:53Z,2019-01-03T12:54:27Z,,1,0,MIT License,0,JavaScript,
+bases-adresse-locales,etalab,GitHub,https://github.com/etalab/bases-adresse-locales,Agrégation des bases Adresse locales,False,2018-11-22T10:39:53Z,2019-01-03T16:46:19Z,,1,0,MIT License,0,JavaScript,
 munin-theme,etalab,GitHub,https://github.com/etalab/munin-theme,,False,2018-12-17T11:15:41Z,2018-12-17T12:06:22Z,,0,0,MIT License,0,JavaScript,
 adresses-util,etalab,GitHub,https://github.com/etalab/adresses-util,,False,2019-01-02T23:15:00Z,2019-01-03T12:08:11Z,,0,0,MIT License,0,JavaScript,
 adresses-ftth,etalab,GitHub,https://github.com/etalab/adresses-ftth,Extraction des adresses contenues dans les fichiers de déploiement FTTH,False,2019-01-02T23:38:15Z,2019-01-03T00:12:34Z,,0,0,MIT License,0,JavaScript,
@@ -1409,7 +1409,7 @@ fun-translations,openfun,GitHub,https://github.com/openfun/fun-translations,Cust
 edx-analytics-dashboard,openfun,GitHub,https://github.com/openfun/edx-analytics-dashboard,Dashboard to display course analytics to course teams,True,2017-02-15T10:55:30Z,2017-02-15T10:55:35Z,,0,0,GNU Affero General Public License v3.0,0,Python,
 svg-converter,openfun,GitHub,https://github.com/openfun/svg-converter,,False,2017-08-07T10:30:45Z,2017-08-07T12:50:43Z,https://www.fun-mooc.fr,0,1,,1,Python,
 edx-ora2,openfun,GitHub,https://github.com/openfun/edx-ora2,Open Response Assessment Suite,True,2017-11-06T09:07:25Z,2017-11-06T09:07:29Z,,0,0,GNU Affero General Public License v3.0,0,Python,
-richie,openfun,GitHub,https://github.com/openfun/richie,🐬 A FUN CMS for Open Education,False,2017-11-20T09:23:40Z,2019-01-03T09:08:51Z,,21,6,MIT License,31,Python,"catalog,cms,lms,moodle,openeducation,openedx"
+richie,openfun,GitHub,https://github.com/openfun/richie,🐬 A FUN CMS for Open Education,False,2017-11-20T09:23:40Z,2019-01-03T09:08:51Z,,21,6,MIT License,30,Python,"catalog,cms,lms,moodle,openeducation,openedx"
 cs_comments_service,openfun,GitHub,https://github.com/openfun/cs_comments_service,server side of the comment service,True,2017-11-29T12:47:33Z,2017-11-29T12:47:35Z,,0,0,GNU Affero General Public License v3.0,0,Ruby,
 django-wiki,openfun,GitHub,https://github.com/openfun/django-wiki,A wiki system with complex functionality for simple integration and a superb interface. Store your knowledge with style: Use django models.,True,2017-12-18T15:43:17Z,2017-12-18T15:43:20Z,,0,0,GNU General Public License v3.0,0,Python,
 openedx-docker,openfun,GitHub,https://github.com/openfun/openedx-docker,:whale: A best practice Docker image of Open edX,False,2018-02-07T10:07:28Z,2018-12-25T11:15:41Z,,16,7,GNU Affero General Public License v3.0,7,Python,"django,docker,docker-image,edx,edx-platform,lms,openeducation,openedx"
