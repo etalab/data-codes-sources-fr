@@ -171,4 +171,4 @@ fantoir-parser,etalab,GitHub,https://github.com/etalab/fantoir-parser,Analyseur 
 bases-adresse-locales,etalab,GitHub,https://github.com/etalab/bases-adresse-locales,Agrégation des bases Adresse locales,False,2018-11-22T10:39:53Z,2018-12-19T06:33:21Z,,1,0,MIT License,0,JavaScript,
 munin-theme,etalab,GitHub,https://github.com/etalab/munin-theme,,False,2018-12-17T11:15:41Z,2018-12-17T12:06:22Z,,0,0,MIT License,0,JavaScript,
 adresses-util,etalab,GitHub,https://github.com/etalab/adresses-util,,False,2019-01-02T23:15:00Z,2019-01-02T23:25:01Z,,0,0,MIT License,0,JavaScript,
-adresses-ftth,etalab,GitHub,https://github.com/etalab/adresses-ftth,Extraction des adresses contenues dans les fichiers de déploiement FTTH,False,2019-01-02T23:38:15Z,2019-01-02T23:49:56Z,,0,0,MIT License,0,JavaScript,
+adresses-ftth,etalab,GitHub,https://github.com/etalab/adresses-ftth,Extraction des adresses contenues dans les fichiers de déploiement FTTH,False,2019-01-02T23:38:15Z,2019-01-03T00:12:34Z,,0,0,MIT License,0,JavaScript,
