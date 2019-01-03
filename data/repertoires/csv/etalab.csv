@@ -111,7 +111,7 @@ transport-validator-python,etalab,GitHub,https://github.com/etalab/transport-val
 addok-docker,etalab,GitHub,https://github.com/etalab/addok-docker,Conteneurs Addok pour Docker,False,2017-11-02T15:21:46Z,2018-12-16T15:46:46Z,,11,3,,2,Shell,
 edigeo-reproject,etalab,GitHub,https://github.com/etalab/edigeo-reproject,Reprojection à la volée des feuilles EDIGÉO du PCI Vecteur,False,2017-11-13T14:22:41Z,2018-07-15T20:45:53Z,,1,0,MIT License,0,JavaScript,
 calendrier-lavent,etalab,GitHub,https://github.com/etalab/calendrier-lavent,,False,2017-11-24T12:59:35Z,2017-11-30T15:53:48Z,https://avent.data.gouv.fr/,1,17,,0,CSS,"advent-calendar,opendata"
-doc.data.gouv.fr,etalab,GitHub,https://github.com/etalab/doc.data.gouv.fr,Documentation du site data.gouv.fr,False,2017-11-28T12:43:25Z,2018-12-06T19:15:39Z,https://doc.data.gouv.fr,3,14,MIT License,7,CSS,"datagouv,doc,jekyll,opendata,static-site"
+doc.data.gouv.fr,etalab,GitHub,https://github.com/etalab/doc.data.gouv.fr,Documentation du site data.gouv.fr,False,2017-11-28T12:43:25Z,2018-12-06T19:15:39Z,https://doc.data.gouv.fr,3,14,MIT License,8,CSS,"datagouv,doc,jekyll,opendata,static-site"
 cadastre-bundler-api,etalab,GitHub,https://github.com/etalab/cadastre-bundler-api,API permettant de télécharger les données cadastrales,False,2017-11-28T13:41:04Z,2018-07-16T10:06:24Z,,1,0,MIT License,0,JavaScript,
 openlabs_apientreprise,etalab,GitHub,https://github.com/etalab/openlabs_apientreprise,,False,2017-12-03T16:48:23Z,2018-06-11T06:17:27Z,,0,1,MIT License,0,HTML,
 bal,etalab,GitHub,https://github.com/etalab/bal,Outils dédiés aux Bases Adresse locales,False,2017-12-03T21:23:06Z,2018-11-23T17:07:26Z,,2,2,MIT License,4,JavaScript,
