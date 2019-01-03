@@ -1,7 +1,16 @@
 import os
 import requests
+from requests.packages.urllib3.util.retry import Retry
+from requests.adapters import HTTPAdapter
 
 GITHUB_API_ROOT = 'https://api.github.com/'
+
+retries = Retry(
+    total=5,
+    backoff_factor=0.1,
+    status_forcelist=[500, 502, 503, 504])
+
+requests.Session().mount('https://', HTTPAdapter(max_retries=retries))
 
 
 def github_headers():
