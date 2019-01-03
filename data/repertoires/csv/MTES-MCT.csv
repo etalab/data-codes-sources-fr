@@ -35,4 +35,4 @@ kelrisks,MTES-MCT,GitHub,https://github.com/MTES-MCT/kelrisks,,False,2018-12-06T
 fluctuat,MTES-MCT,GitHub,https://github.com/MTES-MCT/fluctuat,Faciliter et promouvoir le transport fluvial de marchandise,False,2018-12-06T15:50:59Z,2019-01-03T10:17:53Z,,1,0,,0,TypeScript,
 action-bidonvilles,MTES-MCT,GitHub,https://github.com/MTES-MCT/action-bidonvilles,Action Bidonvilles,False,2018-12-12T13:28:57Z,2018-12-21T08:44:38Z,http://action-bidonvilles.beta.gouv.fr,0,0,GNU Affero General Public License v3.0,0,JavaScript,
 permis-construire,MTES-MCT,GitHub,https://github.com/MTES-MCT/permis-construire,,False,2018-12-13T21:36:44Z,2018-12-18T10:38:28Z,,0,0,MIT License,0,CSS,
-filharmonic-api,MTES-MCT,GitHub,https://github.com/MTES-MCT/filharmonic-api,API de Fil'HarmonIC (backend),False,2019-01-03T09:36:13Z,2019-01-03T09:36:16Z,,0,0,GNU Affero General Public License v3.0,0,,
+filharmonic-api,MTES-MCT,GitHub,https://github.com/MTES-MCT/filharmonic-api,API de Fil'HarmonIC (backend),False,2019-01-03T09:36:13Z,2019-01-03T11:25:53Z,,0,0,GNU Affero General Public License v3.0,0,Go,

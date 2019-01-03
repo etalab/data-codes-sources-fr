@@ -324,7 +324,7 @@ kelrisks,MTES-MCT,GitHub,https://github.com/MTES-MCT/kelrisks,,False,2018-12-06T
 fluctuat,MTES-MCT,GitHub,https://github.com/MTES-MCT/fluctuat,Faciliter et promouvoir le transport fluvial de marchandise,False,2018-12-06T15:50:59Z,2019-01-03T10:17:53Z,,1,0,,0,TypeScript,
 action-bidonvilles,MTES-MCT,GitHub,https://github.com/MTES-MCT/action-bidonvilles,Action Bidonvilles,False,2018-12-12T13:28:57Z,2018-12-21T08:44:38Z,http://action-bidonvilles.beta.gouv.fr,0,0,GNU Affero General Public License v3.0,0,JavaScript,
 permis-construire,MTES-MCT,GitHub,https://github.com/MTES-MCT/permis-construire,,False,2018-12-13T21:36:44Z,2018-12-18T10:38:28Z,,0,0,MIT License,0,CSS,
-filharmonic-api,MTES-MCT,GitHub,https://github.com/MTES-MCT/filharmonic-api,API de Fil'HarmonIC (backend),False,2019-01-03T09:36:13Z,2019-01-03T09:36:16Z,,0,0,GNU Affero General Public License v3.0,0,,
+filharmonic-api,MTES-MCT,GitHub,https://github.com/MTES-MCT/filharmonic-api,API de Fil'HarmonIC (backend),False,2019-01-03T09:36:13Z,2019-01-03T11:25:53Z,,0,0,GNU Affero General Public License v3.0,0,Go,
 scanR,MinistereSupRecherche,GitHub,https://github.com/MinistereSupRecherche/scanR,,False,2018-05-16T14:20:46Z,2018-08-06T15:07:55Z,,0,0,,0,,
 dataESR,MinistereSupRecherche,GitHub,https://github.com/MinistereSupRecherche/dataESR,,False,2018-05-16T14:23:13Z,2018-05-16T14:23:13Z,,0,0,,0,,
 machineadonnees,MinistereSupRecherche,GitHub,https://github.com/MinistereSupRecherche/machineadonnees,,False,2018-05-16T14:23:39Z,2018-05-16T14:26:22Z,,0,0,,0,,
@@ -1114,7 +1114,7 @@ watchdoge_apientreprise,etalab,GitHub,https://github.com/etalab/watchdoge_apient
 dashboard_api_entreprise,etalab,GitHub,https://github.com/etalab/dashboard_api_entreprise,Dashboard (statut du service et espace client/admin) de API Entreprise,False,2018-03-27T13:57:47Z,2018-10-05T19:07:00Z,https://dashboard.entreprise.api.gouv.fr,2,0,,13,JavaScript,
 code-officiel-geographique,etalab,GitHub,https://github.com/etalab/code-officiel-geographique,[WIP] API JavaScript permettant d'interroger le Code Officiel Géographique,False,2018-03-29T08:56:26Z,2018-08-27T09:16:20Z,,1,0,MIT License,0,JavaScript,"cog,communes,departements,geo,insee,regions"
 transport-gtfs-lib,etalab,GitHub,https://github.com/etalab/transport-gtfs-lib,A library for loading and saving GTFS feeds of arbitrary size with disk-backed storage,True,2018-04-03T14:30:07Z,2018-04-22T01:59:44Z,,1,0,"BSD 2-Clause ""Simplified"" License",0,Java,
-adresse-explorer-api,etalab,GitHub,https://github.com/etalab/adresse-explorer-api,,False,2018-04-04T15:27:33Z,2019-01-02T15:59:44Z,,0,0,,0,JavaScript,
+adresse-explorer-api,etalab,GitHub,https://github.com/etalab/adresse-explorer-api,,False,2018-04-04T15:27:33Z,2019-01-03T11:28:20Z,,0,0,,0,JavaScript,
 doc.entreprise.api.gouv.fr,etalab,GitHub,https://github.com/etalab/doc.entreprise.api.gouv.fr,,False,2018-04-09T07:45:29Z,2018-11-16T14:32:00Z,,1,1,Other,2,JavaScript,
 piwik-covisits,etalab,GitHub,https://github.com/etalab/piwik-covisits,compute co-visits statistics from piwik logs,False,2018-04-11T22:40:10Z,2018-06-07T15:47:14Z,,0,2,,1,Python,
 transport-validator,etalab,GitHub,https://github.com/etalab/transport-validator,,False,2018-04-13T19:54:00Z,2018-12-03T16:49:18Z,,2,0,,1,Rust,
