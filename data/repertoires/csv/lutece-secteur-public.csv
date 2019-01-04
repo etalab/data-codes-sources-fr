@@ -49,7 +49,7 @@ apipart-plugin-foyerfiscal,lutece-secteur-public,GitHub,https://github.com/lutec
 gru-module-ticketing-gru,lutece-secteur-public,GitHub,https://github.com/lutece-secteur-public/gru-module-ticketing-gru,,False,2016-02-26T08:47:35Z,2016-03-18T10:56:23Z,,0,0,,0,Java,
 gru-plugin-customerprovisioning,lutece-secteur-public,GitHub,https://github.com/lutece-secteur-public/gru-plugin-customerprovisioning,,False,2016-03-08T13:09:14Z,2016-03-14T13:54:27Z,,0,0,,0,Java,
 gru-plugin-gru,lutece-secteur-public,GitHub,https://github.com/lutece-secteur-public/gru-plugin-gru,Plugin Gestion Relation Usager (Vue 360°),False,2016-03-21T12:54:22Z,2018-04-25T14:36:34Z,,0,0,,0,Java,
-gru-plugin-identitystore,lutece-secteur-public,GitHub,https://github.com/lutece-secteur-public/gru-plugin-identitystore,Plugin Identity Store,False,2016-03-23T18:01:16Z,2019-01-03T10:30:14Z,,0,1,,0,Java,
+gru-plugin-identitystore,lutece-secteur-public,GitHub,https://github.com/lutece-secteur-public/gru-plugin-identitystore,Plugin Identity Store,False,2016-03-23T18:01:16Z,2019-01-04T12:41:27Z,,0,1,,0,Java,
 gru-module-appointmentgru,lutece-secteur-public,GitHub,https://github.com/lutece-secteur-public/gru-module-appointmentgru,,False,2016-03-24T16:15:08Z,2018-06-19T08:46:37Z,,0,0,,0,Java,
 gru-module-notifygru-mapping-manager,lutece-secteur-public,GitHub,https://github.com/lutece-secteur-public/gru-module-notifygru-mapping-manager,,False,2016-04-13T08:09:18Z,2016-04-14T13:14:34Z,,0,0,,0,Java,
 gru-library-notifygru,lutece-secteur-public,GitHub,https://github.com/lutece-secteur-public/gru-library-notifygru,,False,2016-05-10T09:42:35Z,2018-04-25T14:32:26Z,,0,0,,0,Java,
