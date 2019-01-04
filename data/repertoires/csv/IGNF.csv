@@ -51,5 +51,5 @@ itowns,IGNF,GitHub,https://github.com/IGNF/itowns,A Three.js-based framework wri
 mapmatcher,IGNF,GitHub,https://github.com/IGNF/mapmatcher,Matching GPS traces with MapMatcher,False,2018-06-21T10:32:52Z,2018-07-01T17:14:37Z,,0,0,Other,0,Java,
 getnet,IGNF,GitHub,https://github.com/IGNF/getnet,Get BDTopo network from WFS,False,2018-07-03T13:11:43Z,2018-08-20T12:14:29Z,,0,0,Other,0,Java,
 MultiCriteriaMatching,IGNF,GitHub,https://github.com/IGNF/MultiCriteriaMatching,Features matching with Dempster-Shafer Theory as implements in the Evidence4J library,False,2018-09-21T12:51:28Z,2018-09-21T12:55:13Z,,0,0,Other,0,Java,
-api.gouv.fr,IGNF,GitHub,https://github.com/IGNF/api.gouv.fr,Liste les API disponibles au sein de l'administration française,True,2018-10-05T12:50:14Z,2018-10-05T12:50:16Z,https://api.gouv.fr,0,0,GNU Affero General Public License v3.0,0,HTML,
+api.gouv.fr,IGNF,GitHub,https://github.com/IGNF/api.gouv.fr,Liste les API disponibles au sein de l'administration française,True,2018-10-05T12:50:14Z,2019-01-04T13:45:22Z,https://api.gouv.fr,1,0,GNU Affero General Public License v3.0,0,HTML,
 validator-example,IGNF,GitHub,https://github.com/IGNF/validator-example,IGNF/validator examples,False,2018-10-15T08:11:42Z,2018-10-15T08:13:13Z,,0,0,,0,Makefile,
