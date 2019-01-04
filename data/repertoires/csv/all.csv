@@ -36,7 +36,7 @@ pycrate,ANSSI-FR,GitHub,https://github.com/ANSSI-FR/pycrate,A Python library to 
 caradoc,ANSSI-FR,GitHub,https://github.com/ANSSI-FR/caradoc,A PDF parser and validator,False,2018-09-21T07:32:59Z,2018-10-23T21:37:06Z,,2,0,,0,,
 coq-prelude,ANSSI-FR,GitHub,https://github.com/ANSSI-FR/coq-prelude,General-purpose monad typeclass hierarchy for Coq,False,2018-09-21T15:00:07Z,2018-12-21T15:25:55Z,,0,0,GNU General Public License v3.0,0,Coq,
 audit-radius,ANSSI-FR,GitHub,https://github.com/ANSSI-FR/audit-radius,A RADIUS authentication server audit tool,False,2018-10-15T14:40:52Z,2019-01-04T16:23:52Z,,43,12,,0,Python,
-rust-guide,ANSSI-FR,GitHub,https://github.com/ANSSI-FR/rust-guide,Recommendations for secure applications development with Rust,False,2018-12-05T19:50:13Z,2019-01-03T14:58:07Z,,105,10,Other,2,,"good-practices,recommendations,rust,secure-coding"
+rust-guide,ANSSI-FR,GitHub,https://github.com/ANSSI-FR/rust-guide,Recommendations for secure applications development with Rust,False,2018-12-05T19:50:13Z,2019-01-04T20:39:04Z,,106,10,Other,2,,"good-practices,recommendations,rust,secure-coding"
 ORADAD,ANSSI-FR,GitHub,https://github.com/ANSSI-FR/ORADAD,Outil de récupération automatique des données de l'Active Directory / Automated tool for dumping Active Directory data,False,2018-12-18T13:27:49Z,2019-01-03T15:22:34Z,,56,7,GNU General Public License v3.0,1,C++,
 2012.edgefest.fr,AlsaceDigitale,GitHub,https://github.com/AlsaceDigitale/2012.edgefest.fr,EdgeFest 2012 static website,False,2012-05-29T15:53:00Z,2015-09-18T19:15:48Z,http://www.edgefest.fr/,1,0,,1,HTML,
 hacklechalet,AlsaceDigitale,GitHub,https://github.com/AlsaceDigitale/hacklechalet,website for HackLeChalet,False,2013-01-24T17:47:24Z,2013-10-07T00:19:04Z,,0,0,,0,JavaScript,
