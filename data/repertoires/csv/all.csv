@@ -250,7 +250,7 @@ node-ezs-lodex,Inist-CNRS,GitHub,https://github.com/Inist-CNRS/node-ezs-lodex,A 
 lodex-doc-gitbook-config,Inist-CNRS,GitHub,https://github.com/Inist-CNRS/lodex-doc-gitbook-config,,False,2018-09-21T09:29:25Z,2018-09-21T09:29:53Z,,0,0,,0,,
 computron,Inist-CNRS,GitHub,https://github.com/Inist-CNRS/computron,Another Node.js library for applying XSLT stylesheets to XML documents,False,2018-09-25T09:13:14Z,2018-11-09T13:33:44Z,,3,0,MIT License,0,C++,"addon,nodejs,xlst,xml"
 lodex-styleguide,Inist-CNRS,GitHub,https://github.com/Inist-CNRS/lodex-styleguide,Style guide for Lodex,False,2018-10-10T13:20:06Z,2018-10-10T13:48:38Z,,0,0,,0,,
-Pogues,InseeFr,GitHub,https://github.com/InseeFr/Pogues,PoC for a questionnaire design and test tool,False,2015-03-02T18:33:41Z,2018-11-26T15:08:43Z,,11,3,MIT License,24,JavaScript,
+Pogues,InseeFr,GitHub,https://github.com/InseeFr/Pogues,PoC for a questionnaire design and test tool,False,2015-03-02T18:33:41Z,2019-01-04T12:15:07Z,,11,3,MIT License,23,HTML,
 Pogues-Model,InseeFr,GitHub,https://github.com/InseeFr/Pogues-Model,Classes and converters for the Pogues data model,False,2015-05-27T06:21:11Z,2018-08-09T14:07:43Z,,1,2,,7,Java,
 Ontologies,InseeFr,GitHub,https://github.com/InseeFr/Ontologies,Vocabulaires RDF de l'INSE,False,2016-01-09T18:29:57Z,2018-04-26T14:50:17Z,,0,0,,0,,
 Eno,InseeFr,GitHub,https://github.com/InseeFr/Eno,Questionnaire generator,False,2016-07-26T08:44:54Z,2018-12-27T09:15:49Z,,7,13,MIT License,40,XSLT,
@@ -611,7 +611,7 @@ blog.beta.gouv.fr,betagouv,GitHub,https://github.com/betagouv/blog.beta.gouv.fr,
 openfisca-bacASable,betagouv,GitHub,https://github.com/betagouv/openfisca-bacASable,Extension OpenFisca pour expérimenter avec nos partenaires,False,2018-09-12T12:48:04Z,2018-12-27T09:12:33Z,,1,0,GNU Affero General Public License v3.0,2,Python,
 pop-api,betagouv,GitHub,https://github.com/betagouv/pop-api,API Plateforme Ouverte du Patrimoine ,False,2018-09-21T15:24:52Z,2019-01-04T09:20:26Z,http://pop.culture.gouv.fr,1,2,MIT License,4,JavaScript,"api,culture,government"
 pop-production,betagouv,GitHub,https://github.com/betagouv/pop-production,Outil de production de la Plateforme Ouverte du Patrimoine,False,2018-09-21T15:32:54Z,2019-01-04T09:20:37Z,http://pop.culture.gouv.fr/,1,0,MIT License,2,JavaScript,"culture,government"
-pop-consultation,betagouv,GitHub,https://github.com/betagouv/pop-consultation,Outil de consultation de la Plateforme Ouverte du Patrimoine,False,2018-09-22T08:08:35Z,2019-01-04T09:20:36Z,http://pop.culture.gouv.fr/,3,0,MIT License,2,JavaScript,"betagouv,culture"
+pop-consultation,betagouv,GitHub,https://github.com/betagouv/pop-consultation,Outil de consultation de la Plateforme Ouverte du Patrimoine,False,2018-09-22T08:08:35Z,2019-01-04T09:20:36Z,http://pop.culture.gouv.fr/,3,0,MIT License,3,JavaScript,"betagouv,culture"
 ClasseA12,betagouv,GitHub,https://github.com/betagouv/ClasseA12,Source code for the project https://beta.gouv.fr/startup/classes12.html,False,2018-10-03T10:01:32Z,2018-12-21T15:39:14Z,https://classea12.beta.gouv.fr,2,0,,0,Elm,
 signalement,betagouv,GitHub,https://github.com/betagouv/signalement,,False,2018-10-12T09:52:15Z,2018-12-02T15:28:06Z,,0,3,MIT License,1,PHP,
 mes-aides-docker,betagouv,GitHub,https://github.com/betagouv/mes-aides-docker,Use CircleCI to build custom Docker images with combinations of common languages/dependencies,True,2018-10-15T13:47:29Z,2018-11-20T16:50:32Z,,0,0,,0,Perl,
@@ -1146,7 +1146,7 @@ agenda-tech-ext,etalab,GitHub,https://github.com/etalab/agenda-tech-ext,Liste de
 epci,etalab,GitHub,https://github.com/etalab/epci,API JavaScript permettant d'interroger la base des EPCI à fiscalité propre,False,2018-10-23T12:43:41Z,2018-10-24T09:29:54Z,,0,0,MIT License,0,JavaScript,
 etalab.gouv.fr,etalab,GitHub,https://github.com/etalab/etalab.gouv.fr,Le futur site d’Etalab,False,2018-11-09T14:57:41Z,2018-11-27T09:29:10Z,,3,0,,4,,
 opendata-logiciels,etalab,GitHub,https://github.com/etalab/opendata-logiciels,Guide pour l'ouverture des logiciels libres des organismes publics,False,2018-11-15T10:54:37Z,2018-11-16T10:23:47Z,,3,0,,0,,
-transpo-rt,etalab,GitHub,https://github.com/etalab/transpo-rt,Simple API for public transport realtime data ,False,2018-11-21T09:05:10Z,2018-12-26T08:55:51Z,,1,3,MIT License,12,Rust,
+transpo-rt,etalab,GitHub,https://github.com/etalab/transpo-rt,Simple API for public transport realtime data ,False,2018-11-21T09:05:10Z,2018-12-26T08:55:51Z,,1,3,MIT License,11,Rust,
 fantoir-parser,etalab,GitHub,https://github.com/etalab/fantoir-parser,Analyseur de fichiers FANTOIR,False,2018-11-21T14:08:50Z,2018-11-21T15:53:16Z,,0,0,MIT License,0,JavaScript,
 bases-adresse-locales,etalab,GitHub,https://github.com/etalab/bases-adresse-locales,Agrégation des bases Adresse locales,False,2018-11-22T10:39:53Z,2019-01-03T16:46:19Z,,1,0,MIT License,0,JavaScript,
 munin-theme,etalab,GitHub,https://github.com/etalab/munin-theme,,False,2018-12-17T11:15:41Z,2018-12-17T12:06:22Z,,0,0,MIT License,0,JavaScript,
