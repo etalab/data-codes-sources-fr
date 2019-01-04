@@ -70,7 +70,7 @@ beta.ssi,betagouv,GitHub,https://github.com/betagouv/beta.ssi,Guides et document
 api-particulier-web,betagouv,GitHub,https://github.com/betagouv/api-particulier-web,Site Web de l'API Particulier,False,2017-01-03T16:04:46Z,2018-12-08T14:16:24Z,https://particulier.api.gouv.fr,0,1,GNU Affero General Public License v3.0,1,HTML,
 opensimplif,betagouv,GitHub,https://github.com/betagouv/opensimplif,,False,2017-02-23T09:33:11Z,2017-02-23T09:46:39Z,,0,1,,0,Ruby,
 mes-aides-campaign,betagouv,GitHub,https://github.com/betagouv/mes-aides-campaign,DÉPRÉCIÉ — Page statique de Mes Aides pour le suivi de la campagne de communication nationale,False,2017-03-07T16:49:24Z,2017-11-09T12:27:14Z,https://simuler.mes-aides.gouv.fr/,0,0,,0,CSS,
-open-academie,betagouv,GitHub,https://github.com/betagouv/open-academie,Le site du collectif Open Académie,False,2017-03-07T17:42:25Z,2018-12-28T19:49:13Z,https://openacademie.beta.gouv.fr,3,0,,3,JavaScript,
+open-academie,betagouv,GitHub,https://github.com/betagouv/open-academie,Le site du collectif Open Académie,False,2017-03-07T17:42:25Z,2019-01-03T23:53:16Z,https://openacademie.beta.gouv.fr,3,0,,2,JavaScript,
 api-particulier-slate,betagouv,GitHub,https://github.com/betagouv/api-particulier-slate,,False,2017-03-18T22:31:14Z,2018-06-05T09:21:19Z,,0,0,,0,JavaScript,
 openfisca-cd93,betagouv,GitHub,https://github.com/betagouv/openfisca-cd93,Extension OpenFisca pour le Conseil Départemental de Seine Saint Denis,False,2017-03-22T17:45:22Z,2017-03-23T10:09:45Z,,0,0,,0,Python,
 openfisca-rennesmetropole,betagouv,GitHub,https://github.com/betagouv/openfisca-rennesmetropole,Extension OpenFisca pour Rennes Métropole,False,2017-03-24T09:54:17Z,2018-12-26T10:07:25Z,,0,3,GNU Affero General Public License v3.0,0,Python,
