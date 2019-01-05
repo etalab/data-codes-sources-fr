@@ -325,7 +325,7 @@ fluctuat,MTES-MCT,GitHub,https://github.com/MTES-MCT/fluctuat,Faciliter et promo
 action-bidonvilles,MTES-MCT,GitHub,https://github.com/MTES-MCT/action-bidonvilles,Action Bidonvilles,False,2018-12-12T13:28:57Z,2018-12-21T08:44:38Z,http://action-bidonvilles.beta.gouv.fr,0,0,GNU Affero General Public License v3.0,0,JavaScript,
 permis-construire,MTES-MCT,GitHub,https://github.com/MTES-MCT/permis-construire,,False,2018-12-13T21:36:44Z,2018-12-18T10:38:28Z,,0,0,MIT License,0,CSS,
 filharmonic-api,MTES-MCT,GitHub,https://github.com/MTES-MCT/filharmonic-api,API de Fil'HarmonIC (backend),False,2019-01-03T09:36:13Z,2019-01-04T16:41:20Z,,0,0,GNU Affero General Public License v3.0,0,Go,
-camino-portainer,MTES-MCT,GitHub,https://github.com/MTES-MCT/camino-portainer,Instance de Portainer pour Camino,False,2019-01-05T15:10:29Z,2019-01-05T15:11:20Z,,0,0,,0,,
+camino-portainer,MTES-MCT,GitHub,https://github.com/MTES-MCT/camino-portainer,Instance Portainer de Camino,False,2019-01-05T15:10:29Z,2019-01-05T15:44:13Z,,0,0,,0,,"docker,docker-compose,nginx-proxy,portainer"
 scanR,MinistereSupRecherche,GitHub,https://github.com/MinistereSupRecherche/scanR,,False,2018-05-16T14:20:46Z,2018-08-06T15:07:55Z,,0,0,,0,,
 dataESR,MinistereSupRecherche,GitHub,https://github.com/MinistereSupRecherche/dataESR,,False,2018-05-16T14:23:13Z,2018-05-16T14:23:13Z,,0,0,,0,,
 machineadonnees,MinistereSupRecherche,GitHub,https://github.com/MinistereSupRecherche/machineadonnees,,False,2018-05-16T14:23:39Z,2018-05-16T14:26:22Z,,0,0,,0,,
