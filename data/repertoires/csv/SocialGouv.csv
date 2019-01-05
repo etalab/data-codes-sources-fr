@@ -24,7 +24,7 @@ ds-collector,SocialGouv,GitHub,https://github.com/SocialGouv/ds-collector,,False
 work-in-france-extractor,SocialGouv,GitHub,https://github.com/SocialGouv/work-in-france-extractor,Extract public data for work-in-france,False,2018-09-05T15:14:02Z,2018-09-05T16:16:58Z,,0,0,,1,JavaScript,
 code-du-travail-ui,SocialGouv,GitHub,https://github.com/SocialGouv/code-du-travail-ui,Composants ReactJS du code du travail numérique,False,2018-09-07T12:14:19Z,2018-10-11T08:46:11Z,https://socialgouv.github.io/code-du-travail-ui,1,0,,0,JavaScript,
 code-du-travail-numerique2,SocialGouv,GitHub,https://github.com/SocialGouv/code-du-travail-numerique2,Informations générales projet code-du-travail-numerique,False,2018-09-25T08:48:44Z,2018-10-11T08:44:06Z,https://codedutravail.num.social.gouv.fr,0,0,,1,Shell,
-linters,SocialGouv,GitHub,https://github.com/SocialGouv/linters,The Social Gouv linters,False,2018-10-11T08:32:58Z,2019-01-05T01:27:04Z,,0,1,Apache License 2.0,2,JavaScript,
+linters,SocialGouv,GitHub,https://github.com/SocialGouv/linters,The Social Gouv linters,False,2018-10-11T08:32:58Z,2019-01-05T03:44:44Z,,0,1,Apache License 2.0,1,JavaScript,
 UDD,SocialGouv,GitHub,https://github.com/SocialGouv/UDD,,False,2018-10-18T08:46:29Z,2018-11-19T10:45:51Z,,1,0,,13,,
 renovate-config,SocialGouv,GitHub,https://github.com/SocialGouv/renovate-config,Our shared renovate config,False,2018-10-19T13:51:52Z,2018-11-12T15:20:04Z,,0,0,,0,,
 fce,SocialGouv,GitHub,https://github.com/SocialGouv/fce,,False,2018-10-29T15:28:57Z,2018-11-08T12:57:41Z,,0,1,,0,HTML,
