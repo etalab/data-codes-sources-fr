@@ -627,7 +627,7 @@ api-scopes,betagouv,GitHub,https://github.com/betagouv/api-scopes,Référentiel 
 preuve-covoiturage-api,betagouv,GitHub,https://github.com/betagouv/preuve-covoiturage-api,API Preuve de Covoiturage,False,2018-11-29T13:32:42Z,2018-12-21T11:01:52Z,,0,0,GNU Affero General Public License v3.0,0,JavaScript,"api,betagouv,carpooling,covoiturage"
 preuve-covoiturage-aom,betagouv,GitHub,https://github.com/betagouv/preuve-covoiturage-aom,,False,2018-11-30T08:24:22Z,2018-12-13T13:36:49Z,,0,0,GNU Affero General Public License v3.0,0,CSS,
 preuve-covoiturage-reg,betagouv,GitHub,https://github.com/betagouv/preuve-covoiturage-reg,,False,2018-11-30T08:26:57Z,2018-12-03T15:17:08Z,,0,0,,0,CSS,
-preuve-covoiturage-dashboard,betagouv,GitHub,https://github.com/betagouv/preuve-covoiturage-dashboard,Interface de preuve de covoiturage,False,2018-11-30T08:28:26Z,2018-12-21T16:43:52Z,,0,0,,0,TypeScript,"betagouv,carpooling,covoiturage"
+preuve-covoiturage-dashboard,betagouv,GitHub,https://github.com/betagouv/preuve-covoiturage-dashboard,Interface de preuve de covoiturage,False,2018-11-30T08:28:26Z,2019-01-06T15:42:03Z,,0,0,,0,TypeScript,"betagouv,carpooling,covoiturage"
 pass-culture-datascience,betagouv,GitHub,https://github.com/betagouv/pass-culture-datascience,,False,2018-12-04T23:18:13Z,2018-12-04T23:18:15Z,,0,0,,4,,
 mes-aides-dockerfiles,betagouv,GitHub,https://github.com/betagouv/mes-aides-dockerfiles,Build Docker images for CircleCI,False,2018-12-05T10:16:26Z,2018-12-05T10:34:26Z,,0,0,,0,Dockerfile,
 dns,betagouv,GitHub,https://github.com/betagouv/dns,,False,2018-12-18T14:53:11Z,2018-12-18T15:37:46Z,,0,0,,0,,
