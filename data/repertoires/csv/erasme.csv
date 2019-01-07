@@ -42,7 +42,7 @@ ansible-mysql-client,erasme,GitHub,https://github.com/erasme/ansible-mysql-clien
 ansible-interfaces,erasme,GitHub,https://github.com/erasme/ansible-interfaces,Minimalist debian-style interface Ansible role,True,2015-08-26T09:15:08Z,2015-08-26T09:15:08Z,,0,0,,0,Shell,
 ansible-sshd,erasme,GitHub,https://github.com/erasme/ansible-sshd,Ansible sshd role,True,2015-08-26T10:15:04Z,2015-07-22T16:05:30Z,,0,0,,0,,
 ansible-tmux,erasme,GitHub,https://github.com/erasme/ansible-tmux,Simple tmux ansible role,False,2015-10-21T14:10:41Z,2015-10-21T14:11:20Z,,0,2,,0,Shell,
-erats,erasme,GitHub,https://github.com/erasme/erats,TypeScript library to write web app,False,2017-11-06T12:36:13Z,2018-12-20T11:41:50Z,,1,2,MIT License,0,JavaScript,
+erats,erasme,GitHub,https://github.com/erasme/erats,TypeScript library to write web app,False,2017-11-06T12:36:13Z,2019-01-07T10:20:16Z,,1,2,MIT License,0,JavaScript,
 carto,erasme,GitHub,https://github.com/erasme/carto,Cartographie des projets dynamique,False,2018-05-15T14:34:47Z,2018-10-30T10:56:48Z,,1,0,GNU Affero General Public License v3.0,0,CSS,
 flipdots,erasme,GitHub,https://github.com/erasme/flipdots,Système de pilotage de panneaux flip-dots,False,2018-06-15T09:16:24Z,2018-06-18T13:08:14Z,,0,0,MIT License,0,JavaScript,
 cuisine_collective,erasme,GitHub,https://github.com/erasme/cuisine_collective,,False,2018-07-27T09:50:33Z,2018-12-11T13:02:59Z,,0,0,,0,TypeScript,
