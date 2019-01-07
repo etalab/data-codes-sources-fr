@@ -36,7 +36,7 @@ tps,betagouv,GitHub,https://github.com/betagouv/tps,Dématérialiser et simplifi
 api-particulier,betagouv,GitHub,https://github.com/betagouv/api-particulier,"Simplifiez les démarches de vos usagers, ne demandez plus de justificatifs",False,2015-10-23T09:14:04Z,2018-12-07T16:58:35Z,https://particulier.api.gouv.fr/,8,3,,2,JavaScript,
 quotient-familial,betagouv,GitHub,https://github.com/betagouv/quotient-familial,,False,2015-11-12T13:13:19Z,2018-01-23T09:44:36Z,,0,0,,0,JavaScript,
 apicarto-data,betagouv,GitHub,https://github.com/betagouv/apicarto-data,,False,2015-11-13T16:00:10Z,2017-11-22T14:21:18Z,,0,0,,0,Shell,
-beta.gouv.fr,betagouv,GitHub,https://github.com/betagouv/beta.gouv.fr,Le site public de l'Incubateur de Services Numériques de l'État français.,False,2015-12-18T13:33:48Z,2019-01-04T16:21:09Z,https://beta.gouv.fr,79,210,,8,HTML,
+beta.gouv.fr,betagouv,GitHub,https://github.com/betagouv/beta.gouv.fr,Le site public de l'Incubateur de Services Numériques de l'État français.,False,2015-12-18T13:33:48Z,2019-01-07T08:38:15Z,https://beta.gouv.fr,79,210,,8,HTML,
 mas,betagouv,GitHub,https://github.com/betagouv/mas,DÉPRÉCIÉ,False,2016-01-25T14:03:29Z,2017-12-12T10:49:32Z,https://github.com/sgmap/api.gouv.fr,0,2,,0,HTML,
 coding-dojos,betagouv,GitHub,https://github.com/betagouv/coding-dojos,Projets et sources des séances de coding-dojo au sein du SGMAP,False,2016-01-27T15:55:07Z,2017-12-12T10:50:09Z,,0,0,,0,JavaScript,
 svair-mock,betagouv,GitHub,https://github.com/betagouv/svair-mock,,False,2016-02-01T09:12:47Z,2018-10-12T12:26:57Z,,0,6,Apache License 2.0,1,HTML,
