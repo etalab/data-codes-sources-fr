@@ -10,7 +10,7 @@ La liste des comptes est donnée par [la liste de la DINSIC](https://raw.githubu
 Seules les données des organisations sur GitHub sont récupérées.
 
 ## Déploiement et hébergement
-Les données sont mises à jour deux fois par heure [grâce à CircleCI](https://circleci.com/gh/AntoineAugusti/data-codes-sources-fr).
+Les données sont mises à jour régulièrement [grâce à CircleCI](https://circleci.com/gh/AntoineAugusti/data-codes-sources-fr).
 
 ## Description des données
 
