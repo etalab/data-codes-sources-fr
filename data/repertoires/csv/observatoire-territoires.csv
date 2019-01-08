@@ -1,4 +1,4 @@
 nom,organisation_nom,plateforme,repertoire_url,description,est_fork,date_creation,derniere_mise_a_jour,homepage,nombre_stars,nombre_forks,licence,nombre_issues_ouvertes,langage,topics
 specificite,observatoire-territoires,GitHub,https://github.com/observatoire-territoires/specificite,,False,2018-07-10T08:15:32Z,2018-12-04T08:03:09Z,,0,0,,0,R,
 rapport-OT-mobilites,observatoire-territoires,GitHub,https://github.com/observatoire-territoires/rapport-OT-mobilites,Prototype de rapport bookdown,False,2018-08-02T15:06:23Z,2018-12-04T08:03:09Z,https://observatoire-territoires.github.io/rapport-OT-mobilites/,0,0,,0,HTML,
-migR,observatoire-territoires,GitHub,https://github.com/observatoire-territoires/migR,Analyse des migrations résidentielles,False,2018-09-05T20:21:54Z,2019-01-08T11:46:37Z,https://observatoire-territoires.github.io/migR/index.html,1,1,,1,R,
+migR,observatoire-territoires,GitHub,https://github.com/observatoire-territoires/migR,Analyse des migrations résidentielles,False,2018-09-05T20:21:54Z,2019-01-08T17:26:21Z,https://observatoire-territoires.github.io/migR/index.html,1,1,,1,R,
