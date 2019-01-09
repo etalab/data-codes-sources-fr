@@ -2,7 +2,7 @@ nom,organisation_nom,plateforme,repertoire_url,description,est_fork,date_creatio
 Qgis-plugin-templateLoader,PnCevennes,GitHub,https://github.com/PnCevennes/Qgis-plugin-templateLoader,,False,2014-08-27T16:39:05Z,2017-05-09T14:45:19Z,,0,2,,0,Python,
 Applications_10.30,PnCevennes,GitHub,https://github.com/PnCevennes/Applications_10.30,,False,2014-08-28T13:38:41Z,2017-02-17T15:04:47Z,,0,0,,0,HTML,
 qgis_python_script,PnCevennes,GitHub,https://github.com/PnCevennes/qgis_python_script,,False,2014-11-25T17:58:58Z,2014-11-25T18:03:26Z,,0,0,,0,Python,
-angular_simple_map,PnCevennes,GitHub,https://github.com/PnCevennes/angular_simple_map,Petite application permettant d'afficher des cartes,False,2015-03-04T16:57:37Z,2016-11-24T08:27:31Z,,0,2,GNU General Public License v2.0,0,CSS,
+angular_simple_map,PnCevennes,GitHub,https://github.com/PnCevennes/angular_simple_map,Petite application permettant d'afficher des cartes,False,2015-03-04T16:57:37Z,2016-11-24T08:27:31Z,,0,1,GNU General Public License v2.0,0,CSS,
 projet_suivi,PnCevennes,GitHub,https://github.com/PnCevennes/projet_suivi,,False,2015-03-16T11:30:02Z,2018-03-22T08:56:10Z,,2,2,GNU General Public License v3.0,18,JavaScript,
 docker,PnCevennes,GitHub,https://github.com/PnCevennes/docker,,False,2015-07-03T15:11:03Z,2018-11-14T16:23:59Z,,0,0,,0,Dockerfile,
 Qgis-plugin-lineaireRepercussion,PnCevennes,GitHub,https://github.com/PnCevennes/Qgis-plugin-lineaireRepercussion,,False,2015-07-09T14:49:12Z,2015-07-09T14:58:30Z,,0,0,,0,Python,
