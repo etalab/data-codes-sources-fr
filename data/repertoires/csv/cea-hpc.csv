@@ -8,13 +8,13 @@ glost,cea-hpc,GitHub,https://github.com/cea-hpc/glost,Greedy Launcher Of Small T
 lcap,cea-hpc,GitHub,https://github.com/cea-hpc/lcap,Lustre Changelogs Aggregate & Publish,False,2014-10-24T11:21:52Z,2018-01-13T14:44:20Z,,4,5,GNU Lesser General Public License v3.0,1,C,
 shine,cea-hpc,GitHub,https://github.com/cea-hpc/shine,Lustre administration tool,False,2015-03-30T16:44:59Z,2018-11-12T11:00:30Z,,11,4,GNU General Public License v2.0,30,Python,
 sshproxy,cea-hpc,GitHub,https://github.com/cea-hpc/sshproxy,Proxy SSH connections on a gateway,False,2015-12-15T08:06:30Z,2019-01-10T17:57:34Z,,14,3,Other,2,Go,
-mooshika,cea-hpc,GitHub,https://github.com/cea-hpc/mooshika,RDMA abstraction layer,True,2016-02-01T15:56:13Z,2018-06-15T01:17:21Z,,1,1,GNU Lesser General Public License v3.0,1,C,
+mooshika,cea-hpc,GitHub,https://github.com/cea-hpc/mooshika,RDMA abstraction layer,True,2016-02-01T15:56:13Z,2019-01-11T05:05:17Z,,1,1,GNU Lesser General Public License v3.0,1,C,
 wi4mpi,cea-hpc,GitHub,https://github.com/cea-hpc/wi4mpi,Wrapper interface for MPI,False,2016-08-03T12:38:57Z,2018-11-23T15:58:07Z,,12,1,,2,C,
 hp2p,cea-hpc,GitHub,https://github.com/cea-hpc/hp2p,Heavy Peer To Peer: a MPI based benchmark for network diagnostic,False,2017-02-15T13:54:08Z,2018-04-04T02:56:26Z,,8,0,Other,1,C++,"benchmark,hpc,hpc-applications,mpi,network,network-analysis,parallel,parallel-computing,tool"
 selFIe,cea-hpc,GitHub,https://github.com/cea-hpc/selFIe,Self and Light proFIling Engine - a very light profiling tools for Linux commands and HPC codes,False,2017-02-15T13:56:58Z,2018-12-14T08:20:50Z,,7,4,Other,1,C,"light-profiling-engine,linux,mpi,papi,profile,profiling,selfie"
 modules,cea-hpc,GitHub,https://github.com/cea-hpc/modules,Environment Modules: provides dynamic modification of a user's environment,False,2017-03-14T05:10:41Z,2019-01-09T10:38:54Z,http://modules.sourceforge.net/,119,28,GNU General Public License v2.0,27,Tcl,"environment,environment-modules,hpc,module,modulefiles,shell,tcl"
 fleet,cea-hpc,GitHub,https://github.com/cea-hpc/fleet,fleet ties together systemd and etcd into a distributed init system,True,2017-07-06T14:55:15Z,2018-09-28T10:21:38Z,,0,0,Apache License 2.0,0,Go,
-pcocc,cea-hpc,GitHub,https://github.com/cea-hpc/pcocc,Run VMs on an HPC cluster,False,2017-09-18T13:42:32Z,2018-11-20T09:20:57Z,,13,3,GNU General Public License v3.0,3,Python,
+pcocc,cea-hpc,GitHub,https://github.com/cea-hpc/pcocc,Run VMs on an HPC cluster,False,2017-09-18T13:42:32Z,2019-01-11T07:16:02Z,,14,3,GNU General Public License v3.0,3,Python,
 kvsns,cea-hpc,GitHub,https://github.com/cea-hpc/kvsns,Implements a POSIX Name Space using the services of a Key-Value Store,False,2018-05-25T13:54:07Z,2018-05-25T13:56:26Z,,0,0,,0,Perl,
 sigmund,cea-hpc,GitHub,https://github.com/cea-hpc/sigmund,A framework to ease filesystem's non-regression tests,False,2018-05-25T13:58:03Z,2018-05-25T13:59:46Z,,0,0,,0,Shell,
 space9,cea-hpc,GitHub,https://github.com/cea-hpc/space9,A library implementing a simple 9p client in user space,False,2018-05-25T14:23:55Z,2018-05-25T14:25:02Z,,0,0,GNU Lesser General Public License v3.0,0,C,

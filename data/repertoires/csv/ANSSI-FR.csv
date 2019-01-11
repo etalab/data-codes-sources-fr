@@ -1,7 +1,7 @@
 nom,organisation_nom,plateforme,repertoire_url,description,est_fork,date_creation,derniere_mise_a_jour,homepage,nombre_stars,nombre_forks,licence,nombre_issues_ouvertes,langage,topics
 AD-permissions,ANSSI-FR,GitHub,https://github.com/ANSSI-FR/AD-permissions,Active Directory permissions (ACL/ACE) auditing tools,False,2012-07-04T09:18:18Z,2019-01-09T13:58:14Z,,113,17,Other,0,PHP,
 xsvgen,ANSSI-FR,GitHub,https://github.com/ANSSI-FR/xsvgen,XML Schema Validator Generator,False,2013-05-21T12:36:23Z,2018-07-03T07:47:53Z,,10,1,Other,1,OCaml,
-SysvolExplorer,ANSSI-FR,GitHub,https://github.com/ANSSI-FR/SysvolExplorer,Active Directory Group Policy analyzer,False,2014-04-10T13:11:12Z,2018-12-04T20:00:04Z,,44,13,,0,C++,
+SysvolExplorer,ANSSI-FR,GitHub,https://github.com/ANSSI-FR/SysvolExplorer,Active Directory Group Policy analyzer,False,2014-04-10T13:11:12Z,2019-01-11T04:58:13Z,,45,13,,0,C++,
 AD-control-paths,ANSSI-FR,GitHub,https://github.com/ANSSI-FR/AD-control-paths,Active Directory Control Paths auditing and graphing tools,False,2014-07-07T15:26:43Z,2019-01-09T13:58:20Z,https://www.sstic.org/2014/presentation/chemins_de_controle_active_directory/,312,57,Other,1,C,
 picon,ANSSI-FR,GitHub,https://github.com/ANSSI-FR/picon,Picon,False,2015-05-27T07:56:02Z,2018-07-03T12:31:02Z,,29,4,GNU Lesser General Public License v2.1,0,C,
 tabi,ANSSI-FR,GitHub,https://github.com/ANSSI-FR/tabi,BGP Hijack Detection,False,2016-02-04T15:27:01Z,2018-12-10T07:11:07Z,,68,24,Other,3,Python,"bgp,classification,detection,hijack"
