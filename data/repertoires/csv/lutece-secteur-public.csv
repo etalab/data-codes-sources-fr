@@ -112,3 +112,4 @@ espacepublic-demo-site-dansmarue,lutece-secteur-public,GitHub,https://github.com
 hophacks-site-shelters,lutece-secteur-public,GitHub,https://github.com/lutece-secteur-public/hophacks-site-shelters,Site providing the Shelters application,False,2018-09-20T16:31:14Z,2018-09-28T14:54:27Z,,0,0,,0,CSS,
 gru-plugin-els-statistics,lutece-secteur-public,GitHub,https://github.com/lutece-secteur-public/gru-plugin-els-statistics,,False,2018-11-23T10:08:17Z,2018-12-10T09:55:27Z,,0,0,,0,Java,
 gru-plugin-cgu,lutece-secteur-public,GitHub,https://github.com/lutece-secteur-public/gru-plugin-cgu,This plugin manages CGU,False,2019-01-11T10:55:09Z,2019-01-11T10:57:14Z,,0,0,,0,,
+gru-module-genericattributes-cgu,lutece-secteur-public,GitHub,https://github.com/lutece-secteur-public/gru-module-genericattributes-cgu,Module genericattributes using the plugin CGU,False,2019-01-11T11:22:13Z,2019-01-11T11:27:18Z,,0,0,,0,,
