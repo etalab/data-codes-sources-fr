@@ -12,6 +12,9 @@ Seules les données des organisations sur GitHub sont récupérées.
 ## Déploiement et hébergement
 Les données sont mises à jour régulièrement [grâce à CircleCI](https://circleci.com/gh/AntoineAugusti/data-codes-sources-fr).
 
+## Données
+Les données sont publiées aux formats CSV et JSON dans le dossier [data](data). Chaque dossier contient un fichier `all.{csv,json}` qui contient l'ensemble des répertoires ou des organisations. Ces fichiers sont à privilégier lorsque vous souhaitez faire une analyse globale.
+
 ## Description des données
 
 ### Métadonnées d'un répertoire Git
