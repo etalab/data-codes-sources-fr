@@ -8,7 +8,7 @@ assets_gentoo,clipos,GitHub,https://github.com/clipos/assets_gentoo,Vendored Gen
 assets_toolkit,clipos,GitHub,https://github.com/clipos/assets_toolkit,Vendored Python dependencies for toolkit,False,2018-09-20T09:26:25Z,2019-01-07T11:05:58Z,https://clip-os.org,4,0,,0,,
 bugs,clipos,GitHub,https://github.com/clipos/bugs,CLIP OS issue tracker,False,2018-09-20T09:26:30Z,2018-11-23T01:06:49Z,https://clip-os.org,22,1,,11,,
 manifest,clipos,GitHub,https://github.com/clipos/manifest,CLIP OS Manifest,False,2018-09-20T09:26:35Z,2018-12-21T10:38:59Z,https://clip-os.org,4,0,GNU Lesser General Public License v2.1,0,,
-products_clipos,clipos,GitHub,https://github.com/clipos/products_clipos,CLIP OS product recipes,False,2018-09-20T09:26:40Z,2019-01-01T20:07:49Z,https://clip-os.org,51,5,GNU Lesser General Public License v2.1,1,Shell,
+products_clipos,clipos,GitHub,https://github.com/clipos/products_clipos,CLIP OS product recipes,False,2018-09-20T09:26:40Z,2019-01-16T16:07:56Z,https://clip-os.org,52,5,GNU Lesser General Public License v2.1,1,Shell,
 src_portage_clipos,clipos,GitHub,https://github.com/clipos/src_portage_clipos,CLIP OS portage overlay,False,2018-09-20T09:26:46Z,2018-12-23T18:37:42Z,https://clip-os.org,1,2,GNU General Public License v2.0,0,Shell,
 src_portage_gentoo,clipos,GitHub,https://github.com/clipos/src_portage_gentoo,Gentoo portage tree mirror for CLIP OS,False,2018-09-20T09:26:50Z,2019-01-16T07:10:30Z,https://clip-os.org,6,0,,0,Shell,
 toolkit,clipos,GitHub,https://github.com/clipos/toolkit,CLIP OS toolkit (cosmk),False,2018-09-20T09:28:58Z,2019-01-07T11:05:54Z,https://clip-os.org,12,3,GNU Lesser General Public License v2.1,0,Python,
