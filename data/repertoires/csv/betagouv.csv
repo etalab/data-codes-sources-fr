@@ -1,5 +1,5 @@
 nom,organisation_nom,plateforme,repertoire_url,description,est_fork,date_creation,derniere_mise_a_jour,homepage,nombre_stars,nombre_forks,licence,nombre_issues_ouvertes,langage,topics
-mes-aides-ui,betagouv,GitHub,https://github.com/betagouv/mes-aides-ui,Le simulateur global des prestations sociales françaises,False,2014-04-03T10:42:21Z,2019-01-18T11:02:33Z,https://mes-aides.gouv.fr/,52,12,,132,JavaScript,
+mes-aides-ui,betagouv,GitHub,https://github.com/betagouv/mes-aides-ui,Le simulateur global des prestations sociales françaises,False,2014-04-03T10:42:21Z,2019-01-18T14:03:17Z,https://mes-aides.gouv.fr/,52,12,,131,JavaScript,
 mdph,betagouv,GitHub,https://github.com/betagouv/mdph,Faciliter les demandes de compensation du handicap auprès des MDPH,False,2014-07-02T13:47:21Z,2018-09-06T13:17:25Z,https://mdphenligne.cnsa.fr,9,4,,7,JavaScript,
 openfisca-france,betagouv,GitHub,https://github.com/betagouv/openfisca-france,  French specific module for OpenFisca,True,2014-07-23T08:10:22Z,2018-11-05T13:57:20Z,,4,1,,12,Python,
 mes-aides-api,betagouv,GitHub,https://github.com/betagouv/mes-aides-api,A mapping interface between the mes-aides user interface and the OpenFisca simulation engine.,False,2014-09-01T11:45:44Z,2018-07-31T14:16:02Z,https://mes-aides.gouv.fr,21,4,,11,JavaScript,
@@ -32,7 +32,7 @@ Element.details,betagouv,GitHub,https://github.com/betagouv/Element.details,A pu
 sejour,betagouv,GitHub,https://github.com/betagouv/sejour,,True,2015-09-27T15:01:04Z,2015-09-27T15:01:07Z,,0,0,,0,Java,
 apicarto-cadastre,betagouv,GitHub,https://github.com/betagouv/apicarto-cadastre,,False,2015-10-07T13:15:25Z,2017-11-22T14:24:38Z,,0,1,,1,JavaScript,
 apicarto-aoc,betagouv,GitHub,https://github.com/betagouv/apicarto-aoc,,False,2015-10-08T09:12:25Z,2017-11-22T14:19:15Z,,0,2,,0,JavaScript,
-tps,betagouv,GitHub,https://github.com/betagouv/tps,Dématérialiser et simplifier les démarches administratives ,False,2015-10-13T10:01:34Z,2019-01-18T10:53:55Z,https://www.demarches-simplifiees.fr,33,21,,717,Ruby,
+tps,betagouv,GitHub,https://github.com/betagouv/tps,Dématérialiser et simplifier les démarches administratives ,False,2015-10-13T10:01:34Z,2019-01-18T10:53:55Z,https://www.demarches-simplifiees.fr,33,21,,720,Ruby,
 api-particulier,betagouv,GitHub,https://github.com/betagouv/api-particulier,"Simplifiez les démarches de vos usagers, ne demandez plus de justificatifs",False,2015-10-23T09:14:04Z,2018-12-07T16:58:35Z,https://particulier.api.gouv.fr/,8,3,,2,JavaScript,
 quotient-familial,betagouv,GitHub,https://github.com/betagouv/quotient-familial,,False,2015-11-12T13:13:19Z,2018-01-23T09:44:36Z,,0,0,,0,JavaScript,
 apicarto-data,betagouv,GitHub,https://github.com/betagouv/apicarto-data,,False,2015-11-13T16:00:10Z,2017-11-22T14:21:18Z,,0,0,,0,Shell,
@@ -44,7 +44,7 @@ discourse-oauth2-basic,betagouv,GitHub,https://github.com/betagouv/discourse-oau
 openfisca-paris,betagouv,GitHub,https://github.com/betagouv/openfisca-paris,Extension OpenFisca pour les prestations de la ville de Paris.,False,2016-02-16T17:18:57Z,2019-01-14T08:00:55Z,,5,4,,5,Python,
 ludwig,betagouv,GitHub,https://github.com/betagouv/ludwig,Collaborative testing tool,False,2016-02-17T15:37:41Z,2018-11-28T17:31:42Z,,1,2,,14,JavaScript,
 role-ansible,betagouv,GitHub,https://github.com/betagouv/role-ansible,,False,2016-02-23T14:23:24Z,2018-11-19T02:05:44Z,,1,0,,0,Shell,
-api.gouv.fr,betagouv,GitHub,https://github.com/betagouv/api.gouv.fr,Liste les API disponibles au sein de l'administration française,False,2016-02-26T13:38:06Z,2019-01-18T08:13:27Z,https://api.gouv.fr,122,66,GNU Affero General Public License v3.0,7,HTML,"api,government,platform"
+api.gouv.fr,betagouv,GitHub,https://github.com/betagouv/api.gouv.fr,Liste les API disponibles au sein de l'administration française,False,2016-02-26T13:38:06Z,2019-01-18T13:38:18Z,https://api.gouv.fr,122,66,GNU Affero General Public License v3.0,7,HTML,"api,government,platform"
 dashboard_apientreprise,betagouv,GitHub,https://github.com/betagouv/dashboard_apientreprise,Le tableau de bord d'apientreprise.fr,False,2016-03-01T10:39:32Z,2018-09-25T13:54:29Z,https://dashboard.apientreprise.fr,0,1,,0,Ruby,
 retraite,betagouv,GitHub,https://github.com/betagouv/retraite,Service pour obtenir une liste personnalisée de ses démarches de retraite.,False,2016-03-09T16:51:40Z,2017-01-16T13:11:46Z,https://retraite.beta.gouv.fr/,1,0,,1,JavaScript,
 api-cpa,betagouv,GitHub,https://github.com/betagouv/api-cpa,API pour le CPA,False,2016-03-31T15:07:23Z,2016-03-31T17:45:32Z,http://cpa.api.gouv.fr,0,1,,1,JavaScript,
@@ -75,7 +75,7 @@ api-particulier-slate,betagouv,GitHub,https://github.com/betagouv/api-particulie
 openfisca-cd93,betagouv,GitHub,https://github.com/betagouv/openfisca-cd93,Extension OpenFisca pour le Conseil Départemental de Seine Saint Denis,False,2017-03-22T17:45:22Z,2017-03-23T10:09:45Z,,0,0,,0,Python,
 openfisca-rennesmetropole,betagouv,GitHub,https://github.com/betagouv/openfisca-rennesmetropole,Extension OpenFisca pour Rennes Métropole,False,2017-03-24T09:54:17Z,2019-01-14T08:01:10Z,,0,3,GNU Affero General Public License v3.0,0,Python,
 plante-et-moi-backend,betagouv,GitHub,https://github.com/betagouv/plante-et-moi-backend,Permettre aux citoyens de planter fleurs et légumes dans l'espace publique,False,2017-03-27T13:21:29Z,2018-12-14T19:24:42Z,https://beta.gouv.fr/startup/plante-et-moi.html,0,0,MIT License,0,Scala,scala
-reso,betagouv,GitHub,https://github.com/betagouv/reso,Rapprocher les Entreprises des Solutions publiques Optimales,False,2017-04-07T08:30:16Z,2019-01-18T10:57:54Z,https://reso.beta.gouv.fr,5,2,,0,Ruby,
+reso,betagouv,GitHub,https://github.com/betagouv/reso,Rapprocher les Entreprises des Solutions publiques Optimales,False,2017-04-07T08:30:16Z,2019-01-18T14:14:54Z,https://reso.beta.gouv.fr,5,2,,0,Ruby,
 api-drones,betagouv,GitHub,https://github.com/betagouv/api-drones,"Prototype d'API pour la l'immatriculation, le suivi et la géolocalisation en temps réel des drones. ",False,2017-05-26T20:40:44Z,2017-05-30T10:54:55Z,,1,0,,0,HTML,
 mpal-rod,betagouv,GitHub,https://github.com/betagouv/mpal-rod,Bouchon pour l’API ROD (Référentiel Orientation Demandeur) de l’Anah,False,2017-05-29T14:56:28Z,2018-04-16T10:09:43Z,,0,2,,0,Ruby,
 mdph-evaluation,betagouv,GitHub,https://github.com/betagouv/mdph-evaluation,projet de l'outil d'evaluation pour les MDPH,False,2017-06-08T13:17:48Z,2018-01-30T15:10:29Z,,0,0,,1,JavaScript,
@@ -89,14 +89,14 @@ api-stats-elk,betagouv,GitHub,https://github.com/betagouv/api-stats-elk,,False,2
 kong-delegateAuth,betagouv,GitHub,https://github.com/betagouv/kong-delegateAuth,,False,2017-08-16T15:30:05Z,2018-07-03T14:32:29Z,,0,0,Apache License 2.0,0,Lua,
 taux-versement-transport,betagouv,GitHub,https://github.com/betagouv/taux-versement-transport,L'historique des taux de versement transport par commune au  1er juillet 2018,False,2017-08-18T09:46:53Z,2018-07-25T09:08:24Z,,0,0,,0,JavaScript,
 openfisca-loiret,betagouv,GitHub,https://github.com/betagouv/openfisca-loiret, Extension OpenFisca pour les prestations du département du Loiret.,False,2017-09-06T11:34:47Z,2017-09-07T07:13:22Z,,0,0,GNU Affero General Public License v3.0,0,Python,
-dossiersco,betagouv,GitHub,https://github.com/betagouv/dossiersco,"Pour inscrire votre enfant au collège, munissez-vous de votre identifiant puis cliquez sur",False,2017-10-13T12:20:41Z,2019-01-17T23:19:20Z,http://dossiersco.fr,1,3,,30,HTML,
+dossiersco,betagouv,GitHub,https://github.com/betagouv/dossiersco,"Pour inscrire votre enfant au collège, munissez-vous de votre identifiant puis cliquez sur",False,2017-10-13T12:20:41Z,2019-01-18T11:46:20Z,http://dossiersco.fr,1,3,,30,HTML,
 aplus,betagouv,GitHub,https://github.com/betagouv/aplus,"A+, le service public VIP pour tous",False,2017-10-25T13:11:41Z,2019-01-14T10:09:36Z,https://beta.gouv.fr/startup/aplus.html,1,2,MIT License,2,HTML,
 slack-ovh,betagouv,GitHub,https://github.com/betagouv/slack-ovh,Link Slack commands to OVH,False,2017-11-02T14:19:09Z,2019-01-15T11:18:38Z,,0,6,,0,JavaScript,
 mrs,betagouv,GitHub,https://github.com/betagouv/mrs,[Startup MRS] Mes remboursements simplifiés,False,2017-12-01T11:28:49Z,2019-01-17T11:09:17Z,https://www.mrs.beta.gouv.fr/,5,6,GNU Affero General Public License v3.0,34,Python,
 securite-numerique-agile,betagouv,GitHub,https://github.com/betagouv/securite-numerique-agile,Intégrer la sécurité numérique dans une démarche Agile,False,2017-12-04T14:40:23Z,2018-09-04T12:31:34Z,https://betagouv.gitbooks.io/securite-numerique-agile/,3,2,MIT License,3,,
 annuaire-api,betagouv,GitHub,https://github.com/betagouv/annuaire-api,Une API pour les données de l'annuaire de servic-public.fr,False,2017-12-19T17:44:41Z,2018-11-26T13:19:18Z,https://etablissements-publics.api.gouv.fr/,0,2,,7,JavaScript,
 openfisca-brestmetropole,betagouv,GitHub,https://github.com/betagouv/openfisca-brestmetropole,Extension OpenFisca pour Brest métropole,False,2018-01-03T13:43:01Z,2019-01-14T08:00:27Z,,1,0,GNU Affero General Public License v3.0,0,Python,
-pass-culture-browser,betagouv,GitHub,https://github.com/betagouv/pass-culture-browser,,False,2018-01-03T14:34:35Z,2019-01-18T09:34:16Z,,6,2,,381,JavaScript,
+pass-culture-browser,betagouv,GitHub,https://github.com/betagouv/pass-culture-browser,,False,2018-01-03T14:34:35Z,2019-01-18T09:34:16Z,,6,2,,382,JavaScript,
 pass-culture-doc,betagouv,GitHub,https://github.com/betagouv/pass-culture-doc,,False,2018-01-04T13:10:05Z,2018-12-04T17:50:40Z,,1,1,,1,Shell,
 signup.api.gouv.fr,betagouv,GitHub,https://github.com/betagouv/signup.api.gouv.fr,,False,2018-01-08T09:47:51Z,2018-12-18T10:13:26Z,http://signup.api.gouv.fr/,4,0,,1,,
 signup-back,betagouv,GitHub,https://github.com/betagouv/signup-back,,False,2018-01-08T10:06:50Z,2019-01-15T18:23:54Z,,0,2,,1,Ruby,
@@ -108,7 +108,7 @@ syso-core,betagouv,GitHub,https://github.com/betagouv/syso-core,Experimental : e
 api-particulier-auth,betagouv,GitHub,https://github.com/betagouv/api-particulier-auth,"Simplifiez les démarches de vos usagers, ne demandez plus de justificatifs",False,2018-02-16T13:23:20Z,2019-01-11T10:43:07Z,https://particulier.api.gouv.fr/,0,0,MIT License,0,JavaScript,
 i18nliner-js,betagouv,GitHub,https://github.com/betagouv/i18nliner-js,I18n made simple,True,2018-03-05T08:40:47Z,2018-03-05T08:40:49Z,,0,0,MIT License,0,JavaScript,
 react-i18nliner,betagouv,GitHub,https://github.com/betagouv/react-i18nliner,"translate=""yes"" all the things",True,2018-03-05T08:41:18Z,2018-03-05T08:41:21Z,,0,0,MIT License,0,JavaScript,
-pass-culture-api,betagouv,GitHub,https://github.com/betagouv/pass-culture-api,API pour l'application Pass Culture,False,2018-03-07T15:30:02Z,2019-01-16T17:02:57Z,,1,1,,19,Python,
+pass-culture-api,betagouv,GitHub,https://github.com/betagouv/pass-culture-api,API pour l'application Pass Culture,False,2018-03-07T15:30:02Z,2019-01-18T15:07:48Z,,1,1,,18,Python,
 pass-culture-app-staging,betagouv,GitHub,https://github.com/betagouv/pass-culture-app-staging,Version packagée de notre appli téléphone (staging),False,2018-03-21T14:02:07Z,2018-05-18T15:59:41Z,,0,0,,0,CSS,
 openfisca-pau,betagouv,GitHub,https://github.com/betagouv/openfisca-pau,Extension OpenFisca pour la ville de Pau,False,2018-04-06T14:36:56Z,2018-04-06T14:37:34Z,,0,0,GNU Affero General Public License v3.0,1,Python,
 api-particulier-demo-traces,betagouv,GitHub,https://github.com/betagouv/api-particulier-demo-traces,,False,2018-04-23T13:00:23Z,2018-04-23T13:01:27Z,,0,0,,0,HTML,
@@ -119,7 +119,7 @@ zam,betagouv,GitHub,https://github.com/betagouv/zam,Alléger la charge de prépa
 openfisca-tracer,betagouv,GitHub,https://github.com/betagouv/openfisca-tracer,A basic tool to investigate OpenFisca computations,False,2018-05-23T12:31:45Z,2018-09-20T11:25:26Z,,0,0,,0,CSS,
 eac,betagouv,GitHub,https://github.com/betagouv/eac,La Plateforme de l'Éducation Artistique et Culturelle,False,2018-05-29T08:47:25Z,2018-12-12T15:37:59Z,http://education-artistique-culturelle.fr/,2,1,MIT License,6,HTML,"culture,education,government"
 secretariat,betagouv,GitHub,https://github.com/betagouv/secretariat,La webapp secrétariat des emails de l’incubateur 💁‍♂️👩‍💻,False,2018-06-05T08:08:36Z,2019-01-14T10:12:13Z,,0,0,MIT License,0,JavaScript,
-competences-pro,betagouv,GitHub,https://github.com/betagouv/competences-pro,Évaluer en ligne les compétences pro à travers des mises en situation,False,2018-06-06T15:18:28Z,2019-01-15T15:37:43Z,http://51.75.207.76/,1,0,GNU Affero General Public License v3.0,10,JavaScript,"competences,docker,nodejs,npm,webpack4"
+competences-pro,betagouv,GitHub,https://github.com/betagouv/competences-pro,Évaluer en ligne les compétences pro à travers des mises en situation,False,2018-06-06T15:18:28Z,2019-01-18T13:42:33Z,http://51.75.207.76/,1,0,GNU Affero General Public License v3.0,8,JavaScript,"competences,docker,nodejs,npm,webpack4"
 mes-aides-out,betagouv,GitHub,https://github.com/betagouv/mes-aides-out,Basic teleservice to showcase prefill logic from mes-aides.gouv.fr,False,2018-06-06T15:44:12Z,2018-07-11T13:40:21Z,,0,0,,1,PHP,
 dossiersco-maintenance,betagouv,GitHub,https://github.com/betagouv/dossiersco-maintenance,,False,2018-06-07T09:23:10Z,2018-06-07T09:34:40Z,,0,0,,0,CSS,
 eac-scrapper,betagouv,GitHub,https://github.com/betagouv/eac-scrapper,Scrapping des données Canopé pour les acteurs culturels,False,2018-06-18T08:19:30Z,2018-06-19T13:56:05Z,,0,0,MIT License,0,JavaScript,"nodejs,scrapping"
@@ -164,4 +164,4 @@ mes-aides-dockerfiles,betagouv,GitHub,https://github.com/betagouv/mes-aides-dock
 dns,betagouv,GitHub,https://github.com/betagouv/dns,,False,2018-12-18T14:53:11Z,2018-12-18T15:37:46Z,,0,0,,0,,
 api-auth,betagouv,GitHub,https://github.com/betagouv/api-auth,,False,2018-12-18T16:07:05Z,2019-01-10T10:57:58Z,,0,0,MIT License,0,JavaScript,
 gps-usagers,betagouv,GitHub,https://github.com/betagouv/gps-usagers,Réduire les appels sans réponse dans le département du Calvados,False,2018-12-19T13:45:42Z,2019-01-03T15:18:59Z,,1,0,,0,JavaScript,
-pop,betagouv,GitHub,https://github.com/betagouv/pop,Plateforme Ouverte du Patrimoine,False,2019-01-07T09:31:05Z,2019-01-18T10:33:57Z,https://pop.culture.gouv.fr/,3,0,MIT License,3,JavaScript,"betagouv,culture"
+pop,betagouv,GitHub,https://github.com/betagouv/pop,Plateforme Ouverte du Patrimoine,False,2019-01-07T09:31:05Z,2019-01-18T15:05:39Z,https://pop.culture.gouv.fr/,3,0,MIT License,4,JavaScript,"betagouv,culture"
