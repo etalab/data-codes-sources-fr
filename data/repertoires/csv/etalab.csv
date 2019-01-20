@@ -71,7 +71,7 @@ blog.data.gouv.fr,etalab,GitHub,https://github.com/etalab/blog.data.gouv.fr,Peli
 ogptoolbox,etalab,GitHub,https://github.com/etalab/ogptoolbox,,False,2017-02-27T17:05:26Z,2018-01-22T18:48:16Z,,2,1,Other,1,Elm,"contributions,ogp,opendata,toolbox"
 inspire-cartes-producteurs,etalab,GitHub,https://github.com/etalab/inspire-cartes-producteurs,Cartes de producteurs publiant des données géo ouvertes,False,2017-02-28T11:33:12Z,2018-02-23T03:39:50Z,https://etalab.github.io/inspire-cartes-producteurs,1,0,,0,HTML,
 cadastre,etalab,GitHub,https://github.com/etalab/cadastre,Scripts de préparation des données cadastrales diffusées par Etalab,False,2017-03-15T14:22:34Z,2018-12-23T13:54:21Z,,23,1,,19,JavaScript,
-sirene_as_api,etalab,GitHub,https://github.com/etalab/sirene_as_api,Une API pour le fichier sirene,False,2017-03-27T10:11:09Z,2019-01-15T23:41:47Z,,26,11,MIT License,1,Ruby,"api,opengouv"
+sirene_as_api,etalab,GitHub,https://github.com/etalab/sirene_as_api,Une API pour le fichier sirene,False,2017-03-27T10:11:09Z,2019-01-15T23:41:47Z,,26,11,MIT License,2,Ruby,"api,opengouv"
 sirene_as_api_ansible,etalab,GitHub,https://github.com/etalab/sirene_as_api_ansible,Ansible to install your own sirene_as_api server,False,2017-04-03T13:24:55Z,2018-10-24T19:00:39Z,,2,1,,1,,
 licence-ouverte,etalab,GitHub,https://github.com/etalab/licence-ouverte,La licence qui encourage la réutilisation des données publiques,False,2017-04-19T13:04:27Z,2018-11-22T15:29:30Z,https://www.etalab.gouv.fr/open-licence,2,2,Other,0,,"law,opendata,opensource"
 speedtracker,etalab,GitHub,https://github.com/etalab/speedtracker,📉 Visualisation layer and data store for SpeedTracker,True,2017-04-27T19:08:41Z,2018-01-22T18:48:32Z,https://speedtracker.org,0,0,,0,JavaScript,
