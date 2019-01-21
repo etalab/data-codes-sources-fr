@@ -82,7 +82,7 @@
          }
       },
       {
-         "name":"homepage",
+         "name":"page_accueil",
          "description":"URL vers la page d'accueil du projet",
          "example": "https://etalab.gouv.fr",
          "type":"string",
