@@ -139,7 +139,7 @@ doc.entreprise.api.gouv.fr,etalab,GitHub,https://github.com/etalab/doc.entrepris
 piwik-covisits,etalab,GitHub,https://github.com/etalab/piwik-covisits,compute co-visits statistics from piwik logs,False,2018-04-11T22:40:10Z,2018-06-07T15:47:14Z,,0,2,,1,Python,
 transport-validator,etalab,GitHub,https://github.com/etalab/transport-validator,,False,2018-04-13T19:54:00Z,2019-01-17T10:26:36Z,,2,2,,2,Rust,
 blog_apientreprise,etalab,GitHub,https://github.com/etalab/blog_apientreprise,Blog API Entreprise : http://blog.entreprise.api.gouv.fr,False,2018-04-15T12:05:11Z,2018-04-16T13:54:23Z,,0,0,,0,Ruby,
-agd.data.gouv.fr,etalab,GitHub,https://github.com/etalab/agd.data.gouv.fr,Le blog de l'AGD,False,2018-05-09T09:53:00Z,2018-09-06T09:39:33Z,https://agd.data.gouv.fr,1,5,GNU General Public License v3.0,1,Ruby,"data-for-government,data-governance,data-science"
+agd.data.gouv.fr,etalab,GitHub,https://github.com/etalab/agd.data.gouv.fr,Le blog de l'AGD,False,2018-05-09T09:53:00Z,2019-01-21T10:18:14Z,https://agd.data.gouv.fr,1,5,GNU General Public License v3.0,1,Ruby,"data-for-government,data-governance,data-science"
 udata-geoplatform,etalab,GitHub,https://github.com/etalab/udata-geoplatform,data.gouv.fr <-> geo.data.gouv.fr bridge,False,2018-05-11T13:00:21Z,2018-11-20T16:12:37Z,,3,3,,3,Python,
 template-jekyll,etalab,GitHub,https://github.com/etalab/template-jekyll,Theme/Template beta/data.gouv.fr pour Jekyll ,False,2018-05-15T14:26:37Z,2018-11-22T09:22:45Z,,5,1,MIT License,2,CSS,
 api-bal,etalab,GitHub,https://github.com/etalab/api-bal,API Bases Adresse locales,False,2018-05-15T15:52:32Z,2018-12-12T15:17:29Z,,0,1,,0,JavaScript,
