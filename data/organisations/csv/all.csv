@@ -1,5 +1,6 @@
 login,description,nom,organisation_url,site_web,adresse,email,est_verifiee,nombre_repertoires,date_creation,plateforme
 ANSSI-FR,,ANSSI,https://github.com/ANSSI-FR,https://www.ssi.gouv.fr,"Paris, France",opensource@ssi.gouv.fr,False,40,2012-07-04T09:13:48Z,GitHub
+ARCEP-dev,The French agency in charge of regulating telecommunications in France,ARCEP [Autorité de Régulation des Communications Électroniques et des Postes],https://github.com/ARCEP-dev,https://www.arcep.fr/,Paris FRANCE,,False,4,2017-05-10T09:12:58Z,GitHub
 AlsaceDigitale,Constuire l'écosystème numérique en Alsace,Alsace Digitale,https://github.com/AlsaceDigitale,http://www.alsacedigitale.org,Strasbourg,,False,36,2013-04-19T19:28:10Z,GitHub
 ApieFrance,,Agence du Patrimoine Immateriel de l'Etat,https://github.com/ApieFrance,,"5 place des Vins-de-France, Paris",,False,2,2014-11-07T15:37:28Z,GitHub
 BRGM,,,https://github.com/BRGM,,,,False,15,2016-03-25T14:13:14Z,GitHub
@@ -41,7 +42,7 @@ lutece-secteur-public,"Applications Métiers LUTECE destinées au Secteur Public
 nanterre,Applications citoyennes open source au service de la ville participative,Ville de Nanterre,https://github.com/nanterre,www.nanterre.fr,Nanterre,agora@mairie-nanterre.fr,False,8,2015-06-19T12:15:20Z,GitHub
 nantesmetropole,,Nantes Métropole,https://github.com/nantesmetropole,http://www.nantesmetropole.fr/,Nantes,,False,3,2016-06-23T14:05:25Z,GitHub
 numerique-gouv,,,https://github.com/numerique-gouv,,,,False,2,2018-09-25T10:14:06Z,GitHub
-observatoire-territoires,,Observatoire des territoires - CGET,https://github.com/observatoire-territoires,http://www.observatoire-des-territoires.gouv.fr,,,False,4,2017-10-24T08:10:47Z,GitHub
+observatoire-territoires,,Observatoire des territoires - CGET,https://github.com/observatoire-territoires,http://www.observatoire-des-territoires.gouv.fr,,,False,5,2017-10-24T08:10:47Z,GitHub
 opendatateam,The international team in charge of udata related stuff.,Open Data Team,https://github.com/opendatateam,https://getudata.org,World,contact@opendata.team,True,36,2016-05-12T16:04:11Z,GitHub
 openfisca,Turn law into software.,OpenFisca,https://github.com/openfisca,https://openfisca.org/en/,France and beyond,contact@openfisca.org,False,62,2012-05-30T16:38:06Z,GitHub
 openfun,"Higher Education Excellence. Online, Free and Open Courses.",France Université Numérique,https://github.com/openfun,https://www.fun-mooc.fr,"Paris, France",fun.dev@fun-mooc.fr,False,55,2014-04-08T12:08:59Z,GitHub
