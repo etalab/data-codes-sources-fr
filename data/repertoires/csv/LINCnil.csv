@@ -1,5 +1,5 @@
 nom,organisation_nom,plateforme,repertoire_url,description,est_fork,date_creation,derniere_mise_a_jour,page_accueil,nombre_stars,nombre_forks,licence,nombre_issues_ouvertes,langage,topics
-CookieViz,LINCnil,GitHub,https://github.com/LINCnil/CookieViz,,False,2014-02-19T11:04:30Z,2019-01-18T14:01:47Z,,52,20,GNU General Public License v3.0,9,JavaScript,
+CookieViz,LINCnil,GitHub,https://github.com/LINCnil/CookieViz,,False,2014-02-19T11:04:30Z,2019-01-21T21:55:42Z,,51,19,GNU General Public License v3.0,9,JavaScript,
 Cookie-consent_Google-Analytics,LINCnil,GitHub,https://github.com/LINCnil/Cookie-consent_Google-Analytics,"Code pour mettre Google Analytics en conformité avec la législation française sur les cookies. Attention toutefois, cette version du code ne fonctionne qu'avec les anciennes versions de Google Analytics.",False,2014-05-19T14:24:06Z,2018-12-03T12:57:33Z,,36,21,Apache License 2.0,5,JavaScript,
 cookieCuttr,LINCnil,GitHub,https://github.com/LINCnil/cookieCuttr,CookieCuttr - A tailorable jQuery plugin to deal with the EU Cookie Law,True,2014-06-03T20:33:14Z,2014-12-05T13:24:12Z,http://cookiecuttr.com,1,0,,0,JavaScript,
 RGPD,LINCnil,GitHub,https://github.com/LINCnil/RGPD,Dataviz Règlement général pour la protection des données,False,2016-09-01T09:08:29Z,2018-07-11T09:31:32Z,,8,2,Other,1,Python,
