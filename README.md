@@ -1,6 +1,6 @@
-[![CircleCI build status](https://img.shields.io/circleci/project/github/AntoineAugusti/data-codes-sources-fr.svg?style=flat-square)](https://circleci.com/gh/AntoineAugusti/data-codes-sources-fr)
-[![Software License](https://img.shields.io/badge/License-MIT-orange.svg?style=flat-square)](https://github.com/AntoineAugusti/data-codes-sources-fr/blob/master/LICENSE.md)
-[![goodtables.io](https://goodtables.io/badge/github/AntoineAugusti/data-codes-sources-fr.svg)](https://goodtables.io/github/AntoineAugusti/data-codes-sources-fr)
+[![CircleCI build status](https://img.shields.io/circleci/project/github/etalab/data-codes-sources-fr.svg?style=flat-square)](https://circleci.com/gh/etalab/data-codes-sources-fr)
+[![Software License](https://img.shields.io/badge/License-MIT-orange.svg?style=flat-square)](https://github.com/etalab/data-codes-sources-fr/blob/master/LICENSE.md)
+[![goodtables.io](https://goodtables.io/badge/github/etalab/data-codes-sources-fr.svg)](https://goodtables.io/github/etalab/data-codes-sources-fr)
 
 # But du dépôt
 
@@ -13,7 +13,7 @@ Ne sont pour l'instant traités que les comptes présents sur GitHub. Les compte
 Pour ajouter le compte d'organisation de votre organisme, vous pouvez proposer de modifier [le fichier](https://github.com/DISIC/politique-de-contribution-open-source/blob/master/OrgAccounts) pertinent dans le dépôt de la DINSIC relatif à la Politique de Contribution Open Source de l'État.
 
 ## Déploiement et hébergement
-Les données sont mises à jour régulièrement [grâce à CircleCI](https://circleci.com/gh/AntoineAugusti/data-codes-sources-fr).
+Les données sont mises à jour régulièrement [grâce à CircleCI](https://circleci.com/gh/etalab/data-codes-sources-fr).
 
 ## Données
 Les données sont publiées aux formats CSV et JSON dans le dossier [data](data). Chaque dossier contient un fichier `all.{csv,json}` qui contient l'ensemble des répertoires ou des organisations. Ces fichiers sont à privilégier lorsque vous souhaitez faire une analyse globale.
