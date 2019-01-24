@@ -2,12 +2,15 @@
 [![Software License](https://img.shields.io/badge/License-MIT-orange.svg?style=flat-square)](https://github.com/AntoineAugusti/data-codes-sources-fr/blob/master/LICENSE.md)
 [![goodtables.io](https://goodtables.io/badge/github/AntoineAugusti/data-codes-sources-fr.svg)](https://goodtables.io/github/AntoineAugusti/data-codes-sources-fr)
 
-# Données Codes Sources France
-Récupère des métadonnées sur les dépôts de code publiés par les comptes d’organisation d’organismes publics en France.
+# But du dépôt
 
-La liste des comptes est donnée par [la liste de la DINSIC](https://raw.githubusercontent.com/DISIC/politique-de-contribution-open-source/master/OrgAccounts) et la liste des organisations sur [government.github.com](https://raw.githubusercontent.com/github/government.github.com/gh-pages/_data/governments.yml).
+Le but de ce dépôt est de :
+- collecter des métadonnées concernant les dépôts publiés par les comptes d'organisation d'organismes publics ;
+- donner de la visibilité à l'ensemble de ces comptes.
 
-Seules les données des organisations sur GitHub sont récupérées.
+Ne sont pour l'instant traités que les comptes présents sur GitHub. Les comptes présents sur d'autres plates-formes (par exemple GitLab) pourront être intégrés dans un second temps.
+
+Pour ajouter le compte d'organisation de votre organisme, vous pouvez proposer de modifier [le fichier](https://github.com/DISIC/politique-de-contribution-open-source/blob/master/OrgAccounts) pertinent dans le dépôt de la DINSIC relatif à la Politique de Contribution Open Source de l'État.
 
 ## Déploiement et hébergement
 Les données sont mises à jour régulièrement [grâce à CircleCI](https://circleci.com/gh/AntoineAugusti/data-codes-sources-fr).
@@ -16,6 +19,7 @@ Les données sont mises à jour régulièrement [grâce à CircleCI](https://cir
 Les données sont publiées aux formats CSV et JSON dans le dossier [data](data). Chaque dossier contient un fichier `all.{csv,json}` qui contient l'ensemble des répertoires ou des organisations. Ces fichiers sont à privilégier lorsque vous souhaitez faire une analyse globale.
 
 ## Description des données
+Les données sont décrites à l'aide de fichiers [Table Schema](https://frictionlessdata.io/specs/table-schema/) dans [le dossier schemas](./schemas/)
 
 ### Métadonnées d'un répertoire Git
 
@@ -59,5 +63,7 @@ Les données sont publiées aux formats CSV et JSON dans le dossier [data](data)
 |date_creation|date et heure|La date de création de l'organisation|2013-08-26T16:03:40Z|Valeur obligatoire|
 |plateforme|chaîne de caractères|La plateforme utilisée de l'organisation|GitHub|Valeur obligatoire, Valeurs autorisées : GitHub|
 
-## Licence
-MIT
+# Droits d’auteur et licence
+© 2018 Direction interministérielle du numérique et du système d’information et de communication de l’État, Antoine Augusti, Bastien Guerry.
+
+© 2018 Les autres contributeurs dans la liste est accessible via l’historique du dépôt.
