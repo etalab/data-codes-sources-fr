@@ -33,7 +33,7 @@ jobs:
             python fetch.py
       - add_ssh_keys:
           fingerprints:
-            - "da:02:bf:24:69:6e:a2:ac:f0:93:fd:3d:9b:97:fa:a9"
+            - "ce:d5:71:c4:c6:a0:44:34:5a:cf:11:e5:da:48:aa:70"
       - run:
           name: Set Git identity
           command: |
