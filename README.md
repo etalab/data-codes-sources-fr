@@ -64,6 +64,8 @@ Les données sont décrites à l'aide de fichiers [Table Schema](https://frictio
 |plateforme|chaîne de caractères|La plateforme utilisée de l'organisation|GitHub|Valeur obligatoire, Valeurs autorisées : GitHub|
 
 # Droits d’auteur et licence
+Le code source du répertoire est publié sous [la licence MIT](LICENSE.md). Les données, disponibles dans le répertoire [data](data) sont publiées sous la [Licence Ouverte 2.0](https://www.etalab.gouv.fr/licence-ouverte-open-licence).
+
 © 2018 Direction interministérielle du numérique et du système d’information et de communication de l’État, Antoine Augusti, Bastien Guerry.
 
 © 2018 Les autres contributeurs dans la liste est accessible via l’historique du dépôt.
