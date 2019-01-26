@@ -2,7 +2,7 @@ nom,organisation_nom,plateforme,repertoire_url,description,est_fork,date_creatio
 edx-platform,openfun,GitHub,https://github.com/openfun/edx-platform,"the edX learning management system (LMS) and course authoring tool, Studio",True,2014-04-08T12:11:06Z,2017-11-10T14:10:06Z,http://code.edx.org/,9,5,GNU Affero General Public License v3.0,0,Python,
 edx-theme,openfun,GitHub,https://github.com/openfun/edx-theme,FUN theme,False,2014-04-16T08:47:15Z,2018-11-07T09:47:08Z,france-universite-numerique-mooc.fr,10,12,,0,HTML,
 dmcloud,openfun,GitHub,https://github.com/openfun/dmcloud,xblock edx pour video DailyMotion Cloud,False,2014-06-04T14:22:54Z,2015-05-07T09:06:39Z,,0,0,,0,JavaScript,
-fun-apps,openfun,GitHub,https://github.com/openfun/fun-apps,The main code repository for FUN MOOC,False,2014-06-06T08:42:58Z,2019-01-25T18:46:20Z,https://www.fun-mooc.fr,13,18,Other,6,Python,"edx-platform,mooc,python"
+fun-apps,openfun,GitHub,https://github.com/openfun/fun-apps,The main code repository for FUN MOOC,False,2014-06-06T08:42:58Z,2019-01-26T15:29:49Z,https://www.fun-mooc.fr,14,18,Other,6,Python,"edx-platform,mooc,python"
 edx_data_scripts,openfun,GitHub,https://github.com/openfun/edx_data_scripts,Scripts for importing and analyzing data dumps from edX.,True,2014-06-20T16:19:50Z,2014-06-20T16:19:51Z,,0,0,,0,Python,
 maintenance-page,openfun,GitHub,https://github.com/openfun/maintenance-page,FUN maintenance page,False,2014-07-07T17:02:06Z,2016-09-14T15:09:32Z,,0,0,,0,CSS,
 configuration,openfun,GitHub,https://github.com/openfun/configuration,"a simple, but flexible, way for anyone to stand up an instance of the edX platform that is fully configured and ready-to-go",True,2014-07-31T10:12:09Z,2016-07-04T14:08:47Z,,0,1,GNU Affero General Public License v3.0,0,Python,
