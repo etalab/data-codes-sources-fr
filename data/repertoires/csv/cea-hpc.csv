@@ -6,10 +6,10 @@ milkcheck,cea-hpc,GitHub,https://github.com/cea-hpc/milkcheck,Highly parallel an
 bridge,cea-hpc,GitHub,https://github.com/cea-hpc/bridge,Bridge CEA In-House Batch Environment gives a uniform way to access external Batch scheduling systems.,False,2014-03-18T10:31:46Z,2018-12-07T13:51:31Z,,3,2,GNU General Public License v3.0,1,C,
 glost,cea-hpc,GitHub,https://github.com/cea-hpc/glost,Greedy Launcher Of Small Tasks,False,2014-09-09T14:36:30Z,2018-09-15T20:43:40Z,,3,1,GNU General Public License v3.0,0,C,
 lcap,cea-hpc,GitHub,https://github.com/cea-hpc/lcap,Lustre Changelogs Aggregate & Publish,False,2014-10-24T11:21:52Z,2018-01-13T14:44:20Z,,4,5,GNU Lesser General Public License v3.0,1,C,
-shine,cea-hpc,GitHub,https://github.com/cea-hpc/shine,Lustre administration tool,False,2015-03-30T16:44:59Z,2019-01-16T09:15:17Z,,12,4,GNU General Public License v2.0,30,Python,
+shine,cea-hpc,GitHub,https://github.com/cea-hpc/shine,Lustre administration tool,False,2015-03-30T16:44:59Z,2019-01-27T18:04:01Z,,12,4,GNU General Public License v2.0,30,Python,
 sshproxy,cea-hpc,GitHub,https://github.com/cea-hpc/sshproxy,Proxy SSH connections on a gateway,False,2015-12-15T08:06:30Z,2019-01-10T17:57:34Z,,14,3,Other,2,Go,
 mooshika,cea-hpc,GitHub,https://github.com/cea-hpc/mooshika,RDMA abstraction layer,True,2016-02-01T15:56:13Z,2019-01-11T05:05:17Z,,1,1,GNU Lesser General Public License v3.0,1,C,
-wi4mpi,cea-hpc,GitHub,https://github.com/cea-hpc/wi4mpi,Wrapper interface for MPI,False,2016-08-03T12:38:57Z,2019-01-19T08:35:00Z,,12,1,,2,C,
+wi4mpi,cea-hpc,GitHub,https://github.com/cea-hpc/wi4mpi,Wrapper interface for MPI,False,2016-08-03T12:38:57Z,2019-01-27T17:12:30Z,,13,1,,2,C,
 hp2p,cea-hpc,GitHub,https://github.com/cea-hpc/hp2p,Heavy Peer To Peer: a MPI based benchmark for network diagnostic,False,2017-02-15T13:54:08Z,2019-01-11T07:25:37Z,,9,0,Other,1,C++,"benchmark,hpc,hpc-applications,mpi,network,network-analysis,parallel,parallel-computing,tool"
 selFIe,cea-hpc,GitHub,https://github.com/cea-hpc/selFIe,Self and Light proFIling Engine - a very light profiling tools for Linux commands and HPC codes,False,2017-02-15T13:56:58Z,2018-12-14T08:20:50Z,,7,4,Other,1,C,"light-profiling-engine,linux,mpi,papi,profile,profiling,selfie"
 modules,cea-hpc,GitHub,https://github.com/cea-hpc/modules,Environment Modules: provides dynamic modification of a user's environment,False,2017-03-14T05:10:41Z,2019-01-26T23:26:52Z,http://modules.sourceforge.net/,126,29,GNU General Public License v2.0,27,Tcl,"environment,environment-modules,hpc,module,modulefiles,shell,tcl"
