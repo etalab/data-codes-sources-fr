@@ -47,6 +47,7 @@
          "description":"Site web de l'organisation",
          "example":"https://etalab.gouv.fr",
          "type":"string",
+         "format": "uri",
          "constraints": {
             "required": false
          }
