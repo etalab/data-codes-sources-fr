@@ -34,7 +34,7 @@ def fetch_orgs():
 
 def clean_data(value, key):
     if key == "site_web":
-        if not value.startswith("http"):
+        if value and not value.startswith("http"):
             return "http://" + value
     return value
 
