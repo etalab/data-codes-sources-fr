@@ -32,6 +32,13 @@ def fetch_orgs():
     return unique_orgs
 
 
+def clean_data(value, key):
+    if key == "site_web":
+        if not value.startswith("http"):
+            return "http://" + value
+    return value
+
+
 organisations = fetch_orgs()
 
 # Save details about each repo for an org
@@ -91,13 +98,10 @@ for organisation in organisations:
     ]
     for key, json_key in mapping:
         try:
-            current_org[key].append(data[json_key])
+            current_org[key].append(clean_data(data[json_key], key))
         except KeyError:
             current_org[key].append(None)
     current_org["plateforme"].append("GitHub")
-
-    if not current_org["site_web"].startswith("http"):
-        current_org["site_web"] = "http://" + current_org["site_web"]
 
     for k, v in current_org.items():
         all_orgs[k].extend(v)
