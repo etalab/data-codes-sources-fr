@@ -1,5 +1,5 @@
 [![CircleCI build status](https://img.shields.io/circleci/project/github/etalab/data-codes-sources-fr.svg?style=flat-square)](https://circleci.com/gh/etalab/data-codes-sources-fr)
-[![Software License](https://img.shields.io/badge/License-MIT-orange.svg?style=flat-square)](https://github.com/etalab/data-codes-sources-fr/blob/master/LICENSE.md)
+[![Software License](https://img.shields.io/badge/Licence-MIT%2C%20Licence%20Ouverte-orange.svg?style=flat-square)](https://github.com/etalab/data-codes-sources-fr/blob/master/LICENSE.md)
 [![goodtables.io](https://goodtables.io/badge/github/etalab/data-codes-sources-fr.svg)](https://goodtables.io/github/etalab/data-codes-sources-fr)
 
 # But du dépôt
