@@ -55,7 +55,7 @@ Les données sont décrites à l'aide de fichiers [Table Schema](https://frictio
 |description|chaîne de caractères|La description de l'organisation|Observatoire accidentologie plaisance et loisirs nautiques France|Valeur optionnelle|
 |nom|chaîne de caractères|Le nom complet de l'organisation|Ministère de l'Intérieur|Valeur optionnelle|
 |organisation_url|chaîne de caractères (format `uri`)|URL vers l'organisation|https://github.com/etalab|Valeur obligatoire|
-|site_web|chaîne de caractères|Site web de l'organisation|https://etalab.gouv.fr|Valeur optionnelle|
+|site_web|chaîne de caractères (format `uri`)|Site web de l'organisation|https://etalab.gouv.fr|Valeur optionnelle|
 |adresse|chaîne de caractères|Adresse physique de l'organisation|Paris, France|Valeur optionnelle|
 |email|chaîne de caractères (format `email`)|Adresse e-mail de contact de l'organisation|contact@etalab.gouv.fr|Valeur optionnelle|
 |est_verifiee|booléen|Indique si l'organisation a prouvé qu'elle détenait les noms de domaines associés à son organisation|true|Valeur obligatoire|
