@@ -6,7 +6,7 @@ plunger,geodatagouv,GitHub,https://github.com/geodatagouv/plunger,Powerful link 
 parsers,geodatagouv,GitHub,https://github.com/geodatagouv/parsers,✨Blazing fast XML parser to deal with Inspire and OGC standards ✨,False,2015-12-18T10:58:37Z,2018-03-28T09:46:44Z,,1,1,MIT License,1,JavaScript,
 link-analyzer,geodatagouv,GitHub,https://github.com/geodatagouv/link-analyzer,REPLACED by link-proxy,False,2016-07-16T15:39:50Z,2018-03-26T15:49:43Z,,0,0,MIT License,0,JavaScript,
 link-proxy,geodatagouv,GitHub,https://github.com/geodatagouv/link-proxy,Analyze links in your (geo)data catalogs,False,2018-03-22T11:04:00Z,2019-01-28T15:37:54Z,,4,0,,5,JavaScript,
-geoplatform,geodatagouv,GitHub,https://github.com/geodatagouv/geoplatform,Core API and processing tools for geo.data.gouv.fr,False,2018-03-27T14:18:50Z,2019-01-28T14:47:47Z,,3,0,MIT License,6,JavaScript,
+geoplatform,geodatagouv,GitHub,https://github.com/geodatagouv/geoplatform,Core API and processing tools for geo.data.gouv.fr,False,2018-03-27T14:18:50Z,2019-01-28T14:47:47Z,,3,0,MIT License,7,JavaScript,
 csw-proxy,geodatagouv,GitHub,https://github.com/geodatagouv/csw-proxy,REST API in front of CSW services,False,2018-08-23T09:54:33Z,2018-08-23T09:54:36Z,,0,0,MIT License,0,,
 docker,geodatagouv,GitHub,https://github.com/geodatagouv/docker,Docker environments for geodatagouv apps,False,2018-11-06T12:53:03Z,2019-01-28T13:11:22Z,https://hub.docker.com/u/geodatagouv/,0,0,,0,,
 docker-node-gdal,geodatagouv,GitHub,https://github.com/geodatagouv/docker-node-gdal,Docker build of node with gdal on buster-slim,False,2019-01-23T08:53:14Z,2019-01-23T09:20:42Z,,0,0,,0,Dockerfile,
