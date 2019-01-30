@@ -2,5 +2,5 @@ nom,organisation_nom,plateforme,repertoire_url,description,est_fork,date_creatio
 api-gestion,BaseAdresseNationale,GitHub,https://github.com/BaseAdresseNationale/api-gestion,API de gestion pour base de données Adresse,False,2015-10-20T16:24:34Z,2019-01-14T15:56:39Z,,15,12,,18,Python,
 charte-experimentation,BaseAdresseNationale,GitHub,https://github.com/BaseAdresseNationale/charte-experimentation,Charte d'expérimentation de l'API de gestion de la BAN,False,2017-05-23T07:54:16Z,2018-04-04T07:58:13Z,,0,1,,1,,
 donnees-initiales,BaseAdresseNationale,GitHub,https://github.com/BaseAdresseNationale/donnees-initiales,,False,2017-05-31T13:23:12Z,2018-11-06T09:53:40Z,,0,1,,20,Shell,
-script_divers,BaseAdresseNationale,GitHub,https://github.com/BaseAdresseNationale/script_divers,,False,2017-06-20T12:56:56Z,2018-06-13T09:53:40Z,,0,0,,7,Shell,
+script_divers,BaseAdresseNationale,GitHub,https://github.com/BaseAdresseNationale/script_divers,,False,2017-06-20T12:56:56Z,2019-01-30T15:51:12Z,,0,0,,7,Python,
 ban,BaseAdresseNationale,GitHub,https://github.com/BaseAdresseNationale/ban,Méta-dépôt des travaux autour de la Base Adresse Nationale,False,2017-07-27T12:03:34Z,2018-12-14T06:17:49Z,,1,2,,9,,
