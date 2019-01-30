@@ -22,7 +22,7 @@ etalab-support,etalab,GitHub,https://github.com/etalab/etalab-support,Etalab pro
 landing-page,etalab,GitHub,https://github.com/etalab/landing-page,data.gouv.fr landing page,False,2013-12-16T15:07:59Z,2018-04-13T11:17:22Z,,0,0,Other,0,JavaScript,
 cada,etalab,GitHub,https://github.com/etalab/cada,A simplistic interface to search and consult CADA advices,False,2014-04-14T13:41:10Z,2019-01-08T19:30:49Z,http://cada.data.gouv.fr,16,7,GNU Affero General Public License v3.0,2,CSS,"advice,api,cada,flask,france,opendata,search"
 ckanext-sentry,etalab,GitHub,https://github.com/etalab/ckanext-sentry,Sentry support for CKAN,False,2014-04-22T13:49:57Z,2018-04-13T11:16:09Z,,1,4,,1,Python,
-udata-gouvfr,etalab,GitHub,https://github.com/etalab/udata-gouvfr,Skin and customization for the French opendata portal based on uData.,False,2014-04-25T09:58:14Z,2019-01-25T21:18:03Z,https://www.data.gouv.fr/fr/,17,31,,14,HTML,"opendata,python,udata,udata-gouvfr"
+udata-gouvfr,etalab,GitHub,https://github.com/etalab/udata-gouvfr,Skin and customization for the French opendata portal based on uData.,False,2014-04-25T09:58:14Z,2019-01-25T21:18:03Z,https://www.data.gouv.fr/fr/,17,31,,15,HTML,"opendata,python,udata,udata-gouvfr"
 ban-geocode,etalab,GitHub,https://github.com/etalab/ban-geocode,BAN in Elasticsearch,False,2014-09-15T16:14:23Z,2018-09-18T13:48:26Z,,5,2,,6,Python,
 cle-interoperabilite-adresse,etalab,GitHub,https://github.com/etalab/cle-interoperabilite-adresse,Spécification de la clé d'intéropérabilité de l'adresse [OBSOLETE],False,2014-10-27T10:47:38Z,2019-01-24T21:11:28Z,,3,0,,0,,
 codes-postaux,etalab,GitHub,https://github.com/etalab/codes-postaux,Générer et manipuler facilement le fichier des codes postaux,False,2014-11-14T13:59:52Z,2019-01-26T20:53:11Z,,32,3,MIT License,2,JavaScript,
@@ -70,7 +70,7 @@ secateur,etalab,GitHub,https://github.com/etalab/secateur,Dynamic CSV splitting 
 blog.data.gouv.fr,etalab,GitHub,https://github.com/etalab/blog.data.gouv.fr,Pelican blog for Data.gouv.fr,False,2017-01-16T20:03:49Z,2018-04-13T11:12:16Z,https://blog.data.gouv.fr,1,4,MIT License,4,CSS,
 ogptoolbox,etalab,GitHub,https://github.com/etalab/ogptoolbox,,False,2017-02-27T17:05:26Z,2018-01-22T18:48:16Z,,2,1,Other,1,Elm,"contributions,ogp,opendata,toolbox"
 inspire-cartes-producteurs,etalab,GitHub,https://github.com/etalab/inspire-cartes-producteurs,Cartes de producteurs publiant des données géo ouvertes,False,2017-02-28T11:33:12Z,2018-02-23T03:39:50Z,https://etalab.github.io/inspire-cartes-producteurs,1,0,,0,HTML,
-cadastre,etalab,GitHub,https://github.com/etalab/cadastre,Scripts de préparation des données cadastrales diffusées par Etalab,False,2017-03-15T14:22:34Z,2018-12-23T13:54:21Z,,23,1,,19,JavaScript,
+cadastre,etalab,GitHub,https://github.com/etalab/cadastre,Scripts de préparation des données cadastrales diffusées par Etalab,False,2017-03-15T14:22:34Z,2018-12-23T13:54:21Z,,23,1,,18,JavaScript,
 sirene_as_api,etalab,GitHub,https://github.com/etalab/sirene_as_api,Une API pour le fichier sirene,False,2017-03-27T10:11:09Z,2019-01-23T15:07:21Z,,26,11,MIT License,1,Ruby,"api,opengouv"
 sirene_as_api_ansible,etalab,GitHub,https://github.com/etalab/sirene_as_api_ansible,Ansible to install your own sirene_as_api server,False,2017-04-03T13:24:55Z,2018-10-24T19:00:39Z,,2,1,,1,,
 licence-ouverte,etalab,GitHub,https://github.com/etalab/licence-ouverte,La licence qui encourage la réutilisation des données publiques,False,2017-04-19T13:04:27Z,2018-11-22T15:29:30Z,https://www.etalab.gouv.fr/open-licence,2,2,Other,0,,"law,opendata,opensource"
@@ -97,7 +97,7 @@ transport-datatools-ui,etalab,GitHub,https://github.com/etalab/transport-datatoo
 user-research,etalab,GitHub,https://github.com/etalab/user-research,🎤 Entretiens utilisateurs pour la compréhension des usages 🤓 réduction des frictions entre utilisateurs et données.,False,2017-07-18T12:48:20Z,2018-10-10T08:15:51Z,https://data.gouv.fr,13,5,,1,,"france,interviews,open-data,user-research"
 data.gouv.fr,etalab,GitHub,https://github.com/etalab/data.gouv.fr,Ce dépôt rassemble les tickets techniques qui portent sur data.gouv.fr.,False,2017-07-25T13:33:57Z,2018-11-19T13:58:12Z,https://www.data.gouv.fr,12,4,,44,,"france,government-data,open-data,support,ticketing"
 blog-eig2,etalab,GitHub,https://github.com/etalab/blog-eig2,,False,2017-08-11T09:54:02Z,2018-10-08T14:04:45Z,https://entrepreneur-interet-general.etalab.gouv.fr/,1,11,Apache License 2.0,1,HTML,
-transport-site,etalab,GitHub,https://github.com/etalab/transport-site,"Rendre disponible, valoriser et améliorer les données transports",False,2017-08-31T16:00:09Z,2019-01-30T10:10:41Z,https://transport.data.gouv.fr,6,10,,10,Elixir,
+transport-site,etalab,GitHub,https://github.com/etalab/transport-site,"Rendre disponible, valoriser et améliorer les données transports",False,2017-08-31T16:00:09Z,2019-01-30T10:10:41Z,https://transport.data.gouv.fr,6,10,,9,Elixir,
 irve,etalab,GitHub,https://github.com/etalab/irve,Scripts de contrôle et agrégation des fichiers IRVE publiés sur data.gouv.fr,False,2017-09-01T13:54:08Z,2018-01-22T18:49:06Z,,0,0,GNU Affero General Public License v3.0,0,Python,
 majic,etalab,GitHub,https://github.com/etalab/majic,Extraction des données MAJIC,False,2017-09-06T15:52:14Z,2019-01-28T15:53:06Z,,3,0,MIT License,0,JavaScript,
 fr-bounding-boxes,etalab,GitHub,https://github.com/etalab/fr-bounding-boxes,Bounding boxes for French administrative levels,False,2017-09-12T09:57:05Z,2017-10-15T13:44:10Z,,1,0,MIT License,0,Shell,
@@ -140,7 +140,7 @@ piwik-covisits,etalab,GitHub,https://github.com/etalab/piwik-covisits,compute co
 transport-validator,etalab,GitHub,https://github.com/etalab/transport-validator,,False,2018-04-13T19:54:00Z,2019-01-29T14:33:15Z,,2,2,,2,Rust,
 blog_apientreprise,etalab,GitHub,https://github.com/etalab/blog_apientreprise,Blog API Entreprise : http://blog.entreprise.api.gouv.fr,False,2018-04-15T12:05:11Z,2018-04-16T13:54:23Z,,0,0,,0,Ruby,
 agd.data.gouv.fr,etalab,GitHub,https://github.com/etalab/agd.data.gouv.fr,Le blog de l'AGD,False,2018-05-09T09:53:00Z,2019-01-21T10:18:14Z,https://agd.data.gouv.fr,1,5,GNU General Public License v3.0,1,Ruby,"data-for-government,data-governance,data-science"
-udata-geoplatform,etalab,GitHub,https://github.com/etalab/udata-geoplatform,data.gouv.fr <-> geo.data.gouv.fr bridge,False,2018-05-11T13:00:21Z,2018-11-20T16:12:37Z,,3,3,,3,Python,
+udata-geoplatform,etalab,GitHub,https://github.com/etalab/udata-geoplatform,data.gouv.fr <-> geo.data.gouv.fr bridge,False,2018-05-11T13:00:21Z,2018-11-20T16:12:37Z,,3,3,,4,Python,
 template-jekyll,etalab,GitHub,https://github.com/etalab/template-jekyll,Theme/Template beta/data.gouv.fr pour Jekyll ,False,2018-05-15T14:26:37Z,2019-01-24T16:03:33Z,,5,3,MIT License,3,HTML,
 api-bal,etalab,GitHub,https://github.com/etalab/api-bal,API Bases Adresse locales,False,2018-05-15T15:52:32Z,2018-12-12T15:17:29Z,,0,1,,0,JavaScript,
 agefiph_worker_api_entreprise,etalab,GitHub,https://github.com/etalab/agefiph_worker_api_entreprise,Micro-service de distribution des données AGEFIPH,False,2018-05-17T06:44:37Z,2018-05-17T07:04:17Z,,0,0,,0,Ruby,
@@ -148,7 +148,7 @@ fridaylab,etalab,GitHub,https://github.com/etalab/fridaylab,,False,2018-05-18T14
 wiki-data-gouv,etalab,GitHub,https://github.com/etalab/wiki-data-gouv,Garagethon Wikidata-Datagouv,False,2018-05-25T12:46:29Z,2018-06-13T16:07:39Z,,7,3,,0,,"datagouvfr,garagethon,opendata,wikidata"
 monReseauMobile,etalab,GitHub,https://github.com/etalab/monReseauMobile,The french and official mobile services observatory,True,2018-05-30T17:48:48Z,2018-05-30T17:48:50Z,https://www.monreseaumobile.fr/,0,0,MIT License,0,JavaScript,
 tiles.data.gouv.fr,etalab,GitHub,https://github.com/etalab/tiles.data.gouv.fr,Fonds de carte de qualité utilisables par tous,False,2018-06-11T07:41:46Z,2018-10-08T09:40:53Z,,10,1,MIT License,1,JavaScript,
-schema.data.gouv.fr,etalab,GitHub,https://github.com/etalab/schema.data.gouv.fr,Schémas de données ouvertes sur des formats réglementaires ou non,False,2018-06-22T18:59:13Z,2018-12-20T09:47:13Z,,3,2,,4,Jupyter Notebook,opendata
+schema.data.gouv.fr,etalab,GitHub,https://github.com/etalab/schema.data.gouv.fr,Schémas de données ouvertes sur des formats réglementaires ou non,False,2018-06-22T18:59:13Z,2018-12-20T09:47:13Z,,3,2,,5,Jupyter Notebook,opendata
 rncs_worker_api_entreprise,etalab,GitHub,https://github.com/etalab/rncs_worker_api_entreprise,,False,2018-07-12T18:45:02Z,2019-01-17T12:39:58Z,,3,0,,9,Ruby,
 rna_as_api,etalab,GitHub,https://github.com/etalab/rna_as_api,Une API pour le fichier RNA,False,2018-07-13T01:07:03Z,2019-01-29T20:26:35Z,,1,0,MIT License,0,Ruby,
 plf,etalab,GitHub,https://github.com/etalab/plf,Mise en forme du PLF,False,2018-07-20T14:53:33Z,2018-07-20T15:06:55Z,,0,0,,0,R,
@@ -170,7 +170,7 @@ transpo-rt,etalab,GitHub,https://github.com/etalab/transpo-rt,Simple API for pub
 fantoir-parser,etalab,GitHub,https://github.com/etalab/fantoir-parser,Analyseur de fichiers FANTOIR,False,2018-11-21T14:08:50Z,2018-11-21T15:53:16Z,,0,0,MIT License,0,JavaScript,
 adresses-locales,etalab,GitHub,https://github.com/etalab/adresses-locales,Agrégation des bases Adresse locales,False,2018-11-22T10:39:53Z,2019-01-25T15:39:11Z,,1,0,MIT License,0,JavaScript,
 munin-theme,etalab,GitHub,https://github.com/etalab/munin-theme,,False,2018-12-17T11:15:41Z,2018-12-17T12:06:22Z,,0,0,MIT License,0,JavaScript,
-data-codes-sources-fr,etalab,GitHub,https://github.com/etalab/data-codes-sources-fr,Métadonnées des dépôts de code d'organismes publics en France,False,2018-12-30T14:20:30Z,2019-01-30T07:20:41Z,https://www.data.gouv.fr/fr/datasets/inventaire-des-depots-de-code-source-des-organismes-publics/,4,0,MIT License,2,Python,codes-sources-fr
+data-codes-sources-fr,etalab,GitHub,https://github.com/etalab/data-codes-sources-fr,Métadonnées des dépôts de code d'organismes publics en France,False,2018-12-30T14:20:30Z,2019-01-30T11:20:43Z,https://www.data.gouv.fr/fr/datasets/inventaire-des-depots-de-code-source-des-organismes-publics/,4,0,MIT License,2,Python,codes-sources-fr
 adresses-util,etalab,GitHub,https://github.com/etalab/adresses-util,,False,2019-01-02T23:15:00Z,2019-01-28T08:46:44Z,,0,0,MIT License,0,JavaScript,
 adresses-ftth,etalab,GitHub,https://github.com/etalab/adresses-ftth,Extraction des adresses contenues dans les fichiers de déploiement FTTH,False,2019-01-02T23:38:15Z,2019-01-03T00:12:34Z,,0,0,MIT License,0,JavaScript,
 adresses-aggregate,etalab,GitHub,https://github.com/etalab/adresses-aggregate,Agrégation d'adresses de sources multiples,False,2019-01-08T07:25:23Z,2019-01-08T07:25:52Z,,0,0,MIT License,0,,
