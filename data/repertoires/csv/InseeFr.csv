@@ -12,7 +12,7 @@ DDI-Access-Services,InseeFr,GitHub,https://github.com/InseeFr/DDI-Access-Service
 Bauhaus,InseeFr,GitHub,https://github.com/InseeFr/Bauhaus,"Web application for the management of concepts, classifications and other statistical objects",False,2018-03-23T12:12:41Z,2019-01-24T15:34:02Z,,0,3,MIT License,1,JavaScript,
 Bauhaus-Back-Office,InseeFr,GitHub,https://github.com/InseeFr/Bauhaus-Back-Office,Back-office services for Bauhaus,False,2018-03-23T12:15:50Z,2019-01-25T10:43:37Z,,0,3,MIT License,1,Java,
 Destinie-2,InseeFr,GitHub,https://github.com/InseeFr/Destinie-2,Modèle de microsimulation dynamique,False,2018-07-04T08:23:34Z,2018-10-10T08:33:50Z,,2,0,GNU General Public License v3.0,0,C++,
-Mesange,InseeFr,GitHub,https://github.com/InseeFr/Mesange,Modèle macro-économique Mésange,False,2018-08-29T07:10:48Z,2018-09-21T22:19:13Z,,6,2,Other,0,,
+Mesange,InseeFr,GitHub,https://github.com/InseeFr/Mesange,Modèle macro-économique Mésange,False,2018-08-29T07:10:48Z,2019-01-30T19:32:58Z,,7,3,Other,0,,
 Meleze,InseeFr,GitHub,https://github.com/InseeFr/Meleze,Modèle macro-économique Mélèze,False,2018-08-29T07:11:26Z,2018-08-29T07:11:26Z,,0,0,,0,,
 Keycloak-FranceConnect,InseeFr,GitHub,https://github.com/InseeFr/Keycloak-FranceConnect,Extension Keycloak facilitant l'utilisation de FranceConnect,False,2018-11-15T14:36:52Z,2018-12-19T14:33:43Z,,1,0,MIT License,0,HTML,
 Omphale,InseeFr,GitHub,https://github.com/InseeFr/Omphale,Modèle de projection démographique,False,2018-12-17T10:53:16Z,2018-12-21T14:18:46Z,,0,0,,1,Java,
