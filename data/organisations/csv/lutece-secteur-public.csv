@@ -1,2 +1,2 @@
 login,description,nom,organisation_url,site_web,adresse,email,est_verifiee,nombre_repertoires,date_creation,plateforme
-lutece-secteur-public,"Applications Métiers LUTECE destinées au Secteur Public. Ne contient pas les modules standards Lutece (moteur de formulaire, ...) hébergés sur lutece-platform",LUTECE Secteur Public,https://github.com/lutece-secteur-public,http://fr.lutece.paris.fr,France,,False,114,2015-09-17T08:20:05Z,GitHub
+lutece-secteur-public,"Applications Métiers LUTECE destinées au Secteur Public. Ne contient pas les modules standards Lutece (moteur de formulaire, ...) hébergés sur lutece-platform",LUTECE Secteur Public,https://github.com/lutece-secteur-public,http://fr.lutece.paris.fr,France,,False,115,2015-09-17T08:20:05Z,GitHub
