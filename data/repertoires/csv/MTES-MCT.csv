@@ -32,11 +32,11 @@ trackdechets,MTES-MCT,GitHub,https://github.com/MTES-MCT/trackdechets,Dématéri
 portail,MTES-MCT,GitHub,https://github.com/MTES-MCT/portail,,False,2018-11-30T08:28:26Z,2019-02-03T00:00:26Z,https://mtes-mct.github.io/portail/,0,1,GNU Affero General Public License v3.0,2,CSS,
 dataqual,MTES-MCT,GitHub,https://github.com/MTES-MCT/dataqual,Qualité des données,False,2018-11-30T16:12:41Z,2018-11-30T16:12:41Z,,0,0,,0,,
 kelrisks,MTES-MCT,GitHub,https://github.com/MTES-MCT/kelrisks,,False,2018-12-06T10:13:24Z,2018-12-06T10:26:16Z,,0,0,,0,Java,"hibernate,java,postgis,postresql,spring-boot,swagger"
-fluctuat,MTES-MCT,GitHub,https://github.com/MTES-MCT/fluctuat,Faciliter et promouvoir le transport fluvial de marchandise,False,2018-12-06T15:50:59Z,2019-02-04T14:16:38Z,,1,0,GNU Affero General Public License v3.0,0,TypeScript,
+fluctuat,MTES-MCT,GitHub,https://github.com/MTES-MCT/fluctuat,Faciliter et promouvoir le transport fluvial de marchandise,False,2018-12-06T15:50:59Z,2019-02-04T18:22:24Z,,1,0,GNU Affero General Public License v3.0,0,TypeScript,
 action-bidonvilles,MTES-MCT,GitHub,https://github.com/MTES-MCT/action-bidonvilles,Action Bidonvilles,False,2018-12-12T13:28:57Z,2019-01-21T18:07:58Z,http://action-bidonvilles.beta.gouv.fr,0,0,GNU Affero General Public License v3.0,0,HTML,
 permis-construire,MTES-MCT,GitHub,https://github.com/MTES-MCT/permis-construire,,False,2018-12-13T21:36:44Z,2019-02-01T09:18:31Z,,0,0,MIT License,0,CSS,
 camino-portainer,MTES-MCT,GitHub,https://github.com/MTES-MCT/camino-portainer,Instance Portainer de Camino,False,2019-01-05T15:10:29Z,2019-01-07T16:43:57Z,,0,0,,0,,"docker,docker-compose,nginx-proxy,portainer"
-action-bidonvilles-api,MTES-MCT,GitHub,https://github.com/MTES-MCT/action-bidonvilles-api,,False,2019-01-08T08:49:02Z,2019-01-21T18:01:48Z,,0,0,,0,JavaScript,
+action-bidonvilles-api,MTES-MCT,GitHub,https://github.com/MTES-MCT/action-bidonvilles-api,,False,2019-01-08T08:49:02Z,2019-02-04T18:21:21Z,,0,0,,0,JavaScript,
 filharmonic-infrastructure,MTES-MCT,GitHub,https://github.com/MTES-MCT/filharmonic-infrastructure,Infrastructure of Fil'Harmonic,False,2019-01-11T15:06:50Z,2019-01-24T14:39:32Z,https://filharmonic.beta.gouv.fr,1,0,,0,Shell,
 filharmonic-api,MTES-MCT,GitHub,https://github.com/MTES-MCT/filharmonic-api,API backend filharmonic,False,2019-01-15T11:42:56Z,2019-01-25T10:56:44Z,,1,0,GNU Affero General Public License v3.0,0,Go,
 camino-scripting,MTES-MCT,GitHub,https://github.com/MTES-MCT/camino-scripting,"Outils divers de Camino, le cadastre minier numérique ouvert",False,2019-01-30T08:23:41Z,2019-01-30T09:48:56Z,,0,1,GNU Affero General Public License v3.0,0,JavaScript,
