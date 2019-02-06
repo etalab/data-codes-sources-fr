@@ -28,7 +28,7 @@ udata-tabular-preview,opendatateam,GitHub,https://github.com/opendatateam/udata-
 udata-kerberos,opendatateam,GitHub,https://github.com/opendatateam/udata-kerberos,,False,2018-05-31T17:30:22Z,2018-05-31T17:30:22Z,,0,0,,0,,
 docker-kerberos-test,opendatateam,GitHub,https://github.com/opendatateam/docker-kerberos-test,A Kerberos/KDC server for testing purpose only,False,2018-06-15T11:23:26Z,2018-06-15T11:29:58Z,,0,0,MIT License,0,,
 identity,opendatateam,GitHub,https://github.com/opendatateam/identity,Opendata team and udata visual and identity elements,False,2018-06-19T07:29:16Z,2018-06-21T17:33:07Z,,0,2,,0,,
-getudata.org,opendatateam,GitHub,https://github.com/opendatateam/getudata.org,udata official website,False,2018-08-02T14:13:21Z,2018-10-13T14:43:33Z,https://getudata.org,0,3,MIT License,1,Python,
+getudata.org,opendatateam,GitHub,https://github.com/opendatateam/getudata.org,udata official website,False,2018-08-02T14:13:21Z,2018-10-13T14:43:33Z,https://getudata.org,0,3,MIT License,3,Python,
 dataexplorer,opendatateam,GitHub,https://github.com/opendatateam/dataexplorer,Alternative udata-tabular-preview UI,True,2018-08-28T13:25:53Z,2018-09-10T12:07:15Z,,0,1,,0,JavaScript,
 datapackage-pipelines-udata,opendatateam,GitHub,https://github.com/opendatateam/datapackage-pipelines-udata, Udata Data Package extensions to Datapackage Pipelines,False,2018-08-29T16:00:02Z,2018-09-12T11:03:17Z,,4,0,MIT License,0,Python,
 udata-ldap,opendatateam,GitHub,https://github.com/opendatateam/udata-ldap,LDAP authentification for udata,False,2018-09-05T13:18:36Z,2018-11-23T14:11:43Z,,0,1,MIT License,1,Python,
