@@ -5,7 +5,7 @@ AlsaceDigitale,Constuire l'écosystème numérique en Alsace,Alsace Digitale,htt
 ApieFrance,,Agence du Patrimoine Immateriel de l'Etat,https://github.com/ApieFrance,,"5 place des Vins-de-France, Paris",,False,2,2014-11-07T15:37:28Z,GitHub
 BRGM,,,https://github.com/BRGM,,,,False,15,2016-03-25T14:13:14Z,GitHub
 BaseAdresseNationale,,Base Adresse Nationale (BAN),https://github.com/BaseAdresseNationale,https://adresse.data.gouv.fr/,France,adresse@data.gouv.fr,False,5,2016-05-17T15:14:06Z,GitHub
-clipos,"CLIP OS version 5, published by @ANSSI-FR ",CLIP OS,https://github.com/clipos,https://clip-os.org,"Paris, France",clipos@ssi.gouv.fr,False,19,2017-11-17T14:32:48Z,GitHub
+clipos,"CLIP OS version 5, published by @ANSSI-FR ",CLIP OS,https://github.com/clipos,https://clip-os.org,"Paris, France",clipos@ssi.gouv.fr,True,19,2017-11-17T14:32:48Z,GitHub
 DGFiP,,Direction générale des finances publiques,https://github.com/DGFiP,http://www.economie.gouv.fr/dgfip,France,,False,1,2014-09-15T13:24:47Z,GitHub
 DREAL-NA,"Direction régionale de l'environnement, de l'aménagement et du logement de Nouvelle-Aquitaine",DREAL Nouvelle-Aquitaine,https://github.com/DREAL-NA,http://www.nouvelle-aquitaine.developpement-durable.gouv.fr,Nouvelle-Aquitaine,,False,1,2018-11-30T14:03:05Z,GitHub
 IGNF,,Institut National de l'Information Géographique et Forestière,https://github.com/IGNF,http://www.ign.fr,,,False,54,2014-04-03T16:36:07Z,GitHub
@@ -25,12 +25,12 @@ SocialGouv,Incubateur des Ministères Sociaux,Incubateur des Ministères Sociaux
 SocieteNumerique,Mission Société Numérique - Agence du Numérique - République Française,Société Numérique,https://github.com/SocieteNumerique,https://www.societenumerique.gouv.fr,"Paris, France",societe.numerique@finances.gouv.fr,False,9,2017-08-23T09:30:29Z,GitHub
 StartupsPoleEmploi,Les Startups d’État de l'incubateur de Pôle emploi,Startups d’État Pôle emploi,https://github.com/StartupsPoleEmploi,http://www.pole-emploi.fr,Paris / France,,False,15,2016-12-05T12:40:31Z,GitHub
 afimb,,AFIMB,https://github.com/afimb,http://www.developpement-durable.gouv.fr/lagence-francaise-linformation-multimodale-et-billettique-afimb,"La Défense, France",,False,23,2013-07-16T14:31:55Z,GitHub
-betagouv,Incubateur de Services Numériques de la Direction Interministérielle du Numérique et du Système d'Information et de Communication de l'État,beta.gouv.fr,https://github.com/betagouv,https://beta.gouv.fr,France,,False,162,2014-06-12T19:55:44Z,GitHub
+betagouv,Incubateur de Services Numériques de la Direction Interministérielle du Numérique et du Système d'Information et de Communication de l'État,beta.gouv.fr,https://github.com/betagouv,https://beta.gouv.fr,France,,False,163,2014-06-12T19:55:44Z,GitHub
 cea-hpc,,,https://github.com/cea-hpc,http://www-hpc.cea.fr/index-en.htm,,,False,22,2012-03-03T14:54:06Z,GitHub
 CEA-Leti,Center for Research and Specialized Technology in micro and nanotechnologies,CEA-Leti,https://github.com/CEA-Leti,http://www.leti-cea.com/cea-tech/leti/english/Pages/Welcome.aspx,"Grenoble, France",,False,1,2018-06-27T13:48:00Z,GitHub
 CEA-LIST,"Smart digital systems for Advanced Manufacturing, Embedded systems, Data intelligence and Health ionizing radiations",CEA LIST,https://github.com/CEA-LIST,http://www-list.cea.fr/,CEA Paris-Saclay - Nano-Innov,,False,5,2017-01-06T12:50:46Z,GitHub
 cea-sec,IT Security at the French Alternative Energies and Atomic Energy Commission,CEA IT Security,https://github.com/cea-sec,https://twitter.com/cea_sec,France,,False,5,2013-07-23T09:31:16Z,GitHub
-clipos-archive,"CLIP OS version 4, published by @ANSSI-FR ",CLIP OS - Archive,https://github.com/clipos-archive,https://clip-os.org,"Paris, France",clipos@ssi.gouv.fr,False,101,2018-05-04T09:27:14Z,GitHub
+clipos-archive,"CLIP OS version 4, published by @ANSSI-FR ",CLIP OS - Archive,https://github.com/clipos-archive,https://clip-os.org,"Paris, France",clipos@ssi.gouv.fr,True,101,2018-05-04T09:27:14Z,GitHub
 communaute-cimi,The Information Technology Community of the (French) Interior Ministry,CIMI,https://github.com/communaute-cimi,http://www.interieur.gouv.fr/,Paris,cimi@interieur.gouv.fr,False,21,2014-01-30T22:05:58Z,GitHub
 culturecommunication,,Ministère chargé de la culture et de la communication,https://github.com/culturecommunication,http://www.culturecommunication.gouv.fr/,Paris,,False,2,2013-01-25T16:13:55Z,GitHub
 DGAC,,,https://github.com/DGAC,,France,,False,6,2011-04-16T10:18:10Z,GitHub
