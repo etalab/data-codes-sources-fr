@@ -28,12 +28,12 @@ choisir-une-licence,MTES-MCT,GitHub,https://github.com/MTES-MCT/choisir-une-lice
 enr-and-ground,MTES-MCT,GitHub,https://github.com/MTES-MCT/enr-and-ground,,False,2018-07-19T10:09:47Z,2018-07-19T10:09:49Z,,0,1,GNU General Public License v3.0,1,,
 camino-imports-spreadsheet-jorf,MTES-MCT,GitHub,https://github.com/MTES-MCT/camino-imports-spreadsheet-jorf,,False,2018-08-10T10:47:43Z,2019-01-22T14:40:20Z,,0,0,,0,JavaScript,
 filharmonic-ui,MTES-MCT,GitHub,https://github.com/MTES-MCT/filharmonic-ui,User Interface of Fil'Harmonic,False,2018-11-14T16:44:11Z,2019-01-14T09:56:04Z,https://filharmonic.beta.gouv.fr,1,0,GNU Affero General Public License v3.0,0,Vue,
-trackdechets,MTES-MCT,GitHub,https://github.com/MTES-MCT/trackdechets,Dématérialiser le bordereau de suivi des déchets dangereux,False,2018-11-28T08:55:23Z,2019-02-05T14:06:32Z,,1,0,,0,TypeScript,
+trackdechets,MTES-MCT,GitHub,https://github.com/MTES-MCT/trackdechets,Dématérialiser le bordereau de suivi des déchets dangereux,False,2018-11-28T08:55:23Z,2019-02-06T17:20:13Z,,1,0,,0,TypeScript,
 portail,MTES-MCT,GitHub,https://github.com/MTES-MCT/portail,,False,2018-11-30T08:28:26Z,2019-02-03T00:00:26Z,https://mtes-mct.github.io/portail/,0,1,GNU Affero General Public License v3.0,2,CSS,
 dataqual,MTES-MCT,GitHub,https://github.com/MTES-MCT/dataqual,Qualité des données,False,2018-11-30T16:12:41Z,2018-11-30T16:12:41Z,,0,0,,0,,
 kelrisks,MTES-MCT,GitHub,https://github.com/MTES-MCT/kelrisks,,False,2018-12-06T10:13:24Z,2018-12-06T10:26:16Z,,0,0,,0,Java,"hibernate,java,postgis,postresql,spring-boot,swagger"
-fluctuat,MTES-MCT,GitHub,https://github.com/MTES-MCT/fluctuat,Faciliter et promouvoir le transport fluvial de marchandise,False,2018-12-06T15:50:59Z,2019-02-06T14:08:18Z,,1,0,GNU Affero General Public License v3.0,0,TypeScript,
-action-bidonvilles,MTES-MCT,GitHub,https://github.com/MTES-MCT/action-bidonvilles,Action Bidonvilles,False,2018-12-12T13:28:57Z,2019-02-06T14:18:17Z,http://action-bidonvilles.beta.gouv.fr,0,0,GNU Affero General Public License v3.0,0,HTML,
+fluctuat,MTES-MCT,GitHub,https://github.com/MTES-MCT/fluctuat,Faciliter et promouvoir le transport fluvial de marchandise,False,2018-12-06T15:50:59Z,2019-02-06T16:46:14Z,,1,0,GNU Affero General Public License v3.0,0,TypeScript,
+action-bidonvilles,MTES-MCT,GitHub,https://github.com/MTES-MCT/action-bidonvilles,Action Bidonvilles,False,2018-12-12T13:28:57Z,2019-02-06T16:45:42Z,http://action-bidonvilles.beta.gouv.fr,0,0,GNU Affero General Public License v3.0,0,HTML,
 permis-construire,MTES-MCT,GitHub,https://github.com/MTES-MCT/permis-construire,,False,2018-12-13T21:36:44Z,2019-02-06T13:14:07Z,,0,0,MIT License,0,CSS,
 camino-portainer,MTES-MCT,GitHub,https://github.com/MTES-MCT/camino-portainer,Instance Portainer de Camino,False,2019-01-05T15:10:29Z,2019-01-07T16:43:57Z,,0,0,,0,,"docker,docker-compose,nginx-proxy,portainer"
 action-bidonvilles-api,MTES-MCT,GitHub,https://github.com/MTES-MCT/action-bidonvilles-api,,False,2019-01-08T08:49:02Z,2019-02-06T14:10:29Z,,0,0,,0,JavaScript,
