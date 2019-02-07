@@ -10,4 +10,4 @@ geoplatform,geodatagouv,GitHub,https://github.com/geodatagouv/geoplatform,Core A
 csw-proxy,geodatagouv,GitHub,https://github.com/geodatagouv/csw-proxy,REST API in front of CSW services,False,2018-08-23T09:54:33Z,2018-08-23T09:54:36Z,,0,0,MIT License,0,,
 docker,geodatagouv,GitHub,https://github.com/geodatagouv/docker,Docker environments for geodatagouv apps,False,2018-11-06T12:53:03Z,2019-01-28T13:11:22Z,https://hub.docker.com/u/geodatagouv/,0,0,,0,,
 docker-node-gdal,geodatagouv,GitHub,https://github.com/geodatagouv/docker-node-gdal,Docker build of node with gdal on buster-slim,False,2019-01-23T08:53:14Z,2019-02-03T19:36:17Z,,0,0,,0,Dockerfile,
-transcoder,geodatagouv,GitHub,https://github.com/geodatagouv/transcoder,Geo data transcoder for geoplatform,False,2019-02-07T10:58:40Z,2019-02-07T10:58:40Z,,0,0,,0,,
+transcoder,geodatagouv,GitHub,https://github.com/geodatagouv/transcoder,Geo data transcoder for geoplatform,False,2019-02-07T10:58:40Z,2019-02-07T15:10:55Z,,0,0,,0,JavaScript,
