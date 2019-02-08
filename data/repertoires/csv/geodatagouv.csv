@@ -5,8 +5,8 @@ geogw,geodatagouv,GitHub,https://github.com/geodatagouv/geogw,[DEPRECATED] See g
 plunger,geodatagouv,GitHub,https://github.com/geodatagouv/plunger,Powerful link analyzer,False,2015-07-03T20:40:21Z,2019-02-07T19:00:39Z,,3,0,MIT License,6,JavaScript,"analysis,archives,atom,crawling,http,indexof,inspector,nodejs"
 parsers,geodatagouv,GitHub,https://github.com/geodatagouv/parsers,✨Blazing fast XML parser to deal with Inspire and OGC standards ✨,False,2015-12-18T10:58:37Z,2018-03-28T09:46:44Z,,1,1,MIT License,1,JavaScript,
 link-analyzer,geodatagouv,GitHub,https://github.com/geodatagouv/link-analyzer,REPLACED by link-proxy,False,2016-07-16T15:39:50Z,2018-03-26T15:49:43Z,,0,0,MIT License,0,JavaScript,
-link-proxy,geodatagouv,GitHub,https://github.com/geodatagouv/link-proxy,Analyze links in your (geo)data catalogs,False,2018-03-22T11:04:00Z,2019-02-07T18:27:20Z,,4,0,,5,JavaScript,
-geoplatform,geodatagouv,GitHub,https://github.com/geodatagouv/geoplatform,Core API and processing tools for geo.data.gouv.fr,False,2018-03-27T14:18:50Z,2019-02-08T10:29:16Z,,3,0,MIT License,6,JavaScript,
+link-proxy,geodatagouv,GitHub,https://github.com/geodatagouv/link-proxy,Analyze links in your (geo)data catalogs,False,2018-03-22T11:04:00Z,2019-02-07T18:27:20Z,,4,0,,6,JavaScript,
+geoplatform,geodatagouv,GitHub,https://github.com/geodatagouv/geoplatform,Core API and processing tools for geo.data.gouv.fr,False,2018-03-27T14:18:50Z,2019-02-08T18:08:29Z,,3,0,MIT License,6,JavaScript,
 docker,geodatagouv,GitHub,https://github.com/geodatagouv/docker,Docker environments for geodatagouv apps,False,2018-11-06T12:53:03Z,2019-01-28T13:11:22Z,https://hub.docker.com/u/geodatagouv/,0,0,,0,,
 docker-node-gdal,geodatagouv,GitHub,https://github.com/geodatagouv/docker-node-gdal,Docker build of node with gdal on buster-slim,False,2019-01-23T08:53:14Z,2019-02-03T19:36:17Z,,0,0,,0,Dockerfile,
-transcoder,geodatagouv,GitHub,https://github.com/geodatagouv/transcoder,Geo data transcoder for geoplatform,False,2019-02-07T10:58:40Z,2019-02-08T11:03:28Z,,1,0,MIT License,0,JavaScript,
+transcoder,geodatagouv,GitHub,https://github.com/geodatagouv/transcoder,Geo data transcoder for geoplatform,False,2019-02-07T10:58:40Z,2019-02-08T17:39:09Z,,1,0,MIT License,1,JavaScript,
