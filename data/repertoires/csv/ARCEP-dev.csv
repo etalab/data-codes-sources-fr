@@ -3,3 +3,4 @@ monReseauMobile,ARCEP-dev,GitHub,https://github.com/ARCEP-dev/monReseauMobile,Th
 dataTools,ARCEP-dev,GitHub,https://github.com/ARCEP-dev/dataTools,All python tools to process data before the open data publication,False,2017-07-20T13:38:30Z,2017-09-19T13:45:47Z,,1,0,MIT License,0,Python,
 basePopDom,ARCEP-dev,GitHub,https://github.com/ARCEP-dev/basePopDom,,False,2018-03-06T15:09:51Z,2018-03-06T15:10:48Z,,0,0,,0,,
 adresse,ARCEP-dev,GitHub,https://github.com/ARCEP-dev/adresse,Travaux sur les problématiques d'adressage,False,2019-01-21T16:40:55Z,2019-01-21T16:46:57Z,,0,0,MIT License,0,,
+test-mire,ARCEP-dev,GitHub,https://github.com/ARCEP-dev/test-mire,"Petit script pour tester rapidement (uniquement le débit descendant et la latence) de tous les serveurs SpeedTest en France, Belgique, Luxembourg, Suisse et Andorre via via speedtest-cli.",False,2019-01-29T08:53:53Z,2019-02-08T14:55:10Z,https://lafibre.info/tester-son-debit/comp-speedtest/,3,2,Apache License 2.0,1,Shell,
