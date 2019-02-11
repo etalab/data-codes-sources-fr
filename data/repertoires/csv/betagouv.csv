@@ -1,5 +1,5 @@
 nom,organisation_nom,plateforme,repertoire_url,description,est_fork,date_creation,derniere_mise_a_jour,page_accueil,nombre_stars,nombre_forks,licence,nombre_issues_ouvertes,langage,topics
-mes-aides-ui,betagouv,GitHub,https://github.com/betagouv/mes-aides-ui,Le simulateur global des prestations sociales françaises,False,2014-04-03T10:42:21Z,2019-02-07T15:38:27Z,https://mes-aides.gouv.fr/,53,13,,116,JavaScript,
+mes-aides-ui,betagouv,GitHub,https://github.com/betagouv/mes-aides-ui,Le simulateur global des prestations sociales françaises,False,2014-04-03T10:42:21Z,2019-02-11T10:31:45Z,https://mes-aides.gouv.fr/,53,13,,115,JavaScript,
 mdph,betagouv,GitHub,https://github.com/betagouv/mdph,Faciliter les demandes de compensation du handicap auprès des MDPH,False,2014-07-02T13:47:21Z,2018-09-06T13:17:25Z,https://mdphenligne.cnsa.fr,9,4,,7,JavaScript,
 openfisca-france,betagouv,GitHub,https://github.com/betagouv/openfisca-france,  French specific module for OpenFisca,True,2014-07-23T08:10:22Z,2018-11-05T13:57:20Z,,4,1,,12,Python,
 mes-aides-api,betagouv,GitHub,https://github.com/betagouv/mes-aides-api,A mapping interface between the mes-aides user interface and the OpenFisca simulation engine.,False,2014-09-01T11:45:44Z,2018-07-31T14:16:02Z,https://mes-aides.gouv.fr,21,4,,11,JavaScript,
@@ -28,10 +28,10 @@ bourses,betagouv,GitHub,https://github.com/betagouv/bourses,Simplification de la
 openfisca-mes-aides-reform,betagouv,GitHub,https://github.com/betagouv/openfisca-mes-aides-reform,,False,2015-06-08T14:17:24Z,2015-06-08T14:23:18Z,,0,0,GNU Affero General Public License v3.0,0,Python,
 Element.details,betagouv,GitHub,https://github.com/betagouv/Element.details,A pure JS polyfill for <details> tag with DOM API for all browsers including IE6+,True,2015-07-22T09:17:26Z,2015-10-12T10:07:07Z,,1,3,,0,JavaScript,
 sejour,betagouv,GitHub,https://github.com/betagouv/sejour,,True,2015-09-27T15:01:04Z,2015-09-27T15:01:07Z,,0,0,,0,Java,
-tps,betagouv,GitHub,https://github.com/betagouv/tps,Dématérialiser et simplifier les démarches administratives ,False,2015-10-13T10:01:34Z,2019-02-10T16:19:07Z,https://www.demarches-simplifiees.fr,33,23,,741,Ruby,
+tps,betagouv,GitHub,https://github.com/betagouv/tps,Dématérialiser et simplifier les démarches administratives ,False,2015-10-13T10:01:34Z,2019-02-10T16:19:07Z,https://www.demarches-simplifiees.fr,33,23,,740,Ruby,
 api-particulier,betagouv,GitHub,https://github.com/betagouv/api-particulier,"Simplifiez les démarches de vos usagers, ne demandez plus de justificatifs",False,2015-10-23T09:14:04Z,2019-01-30T15:01:31Z,https://particulier.api.gouv.fr/,8,4,,2,JavaScript,
 quotient-familial,betagouv,GitHub,https://github.com/betagouv/quotient-familial,,False,2015-11-12T13:13:19Z,2018-01-23T09:44:36Z,,0,0,,0,JavaScript,
-beta.gouv.fr,betagouv,GitHub,https://github.com/betagouv/beta.gouv.fr,Le site public de l'Incubateur de Services Numériques de l'État français.,False,2015-12-18T13:33:48Z,2019-02-10T23:40:10Z,https://beta.gouv.fr,83,227,,10,HTML,
+beta.gouv.fr,betagouv,GitHub,https://github.com/betagouv/beta.gouv.fr,Le site public de l'Incubateur de Services Numériques de l'État français.,False,2015-12-18T13:33:48Z,2019-02-11T09:42:09Z,https://beta.gouv.fr,84,227,,10,HTML,
 mas,betagouv,GitHub,https://github.com/betagouv/mas,DÉPRÉCIÉ,False,2016-01-25T14:03:29Z,2017-12-12T10:49:32Z,https://github.com/sgmap/api.gouv.fr,0,2,,0,HTML,
 coding-dojos,betagouv,GitHub,https://github.com/betagouv/coding-dojos,Projets et sources des séances de coding-dojo au sein du SGMAP,False,2016-01-27T15:55:07Z,2017-12-12T10:50:09Z,,0,0,,0,JavaScript,
 svair-mock,betagouv,GitHub,https://github.com/betagouv/svair-mock,,False,2016-02-01T09:12:47Z,2018-10-12T12:26:57Z,,0,6,Apache License 2.0,1,HTML,
@@ -46,7 +46,7 @@ api-cpa,betagouv,GitHub,https://github.com/betagouv/api-cpa,API pour le CPA,Fals
 taux-collectifs-cotisation-atmp,betagouv,GitHub,https://github.com/betagouv/taux-collectifs-cotisation-atmp,Taux collectifs de cotisation AT/MP,False,2016-04-13T16:20:51Z,2018-11-03T11:51:02Z,,1,0,,1,,
 mes-aides-analytics,betagouv,GitHub,https://github.com/betagouv/mes-aides-analytics,Analyse de données sur les usages de Mes Aides,False,2016-04-25T10:13:13Z,2018-11-07T07:12:56Z,,0,0,,0,HTML,
 mpal,betagouv,GitHub,https://github.com/betagouv/mpal,Mon projet Anah (agence nationale de l’habitat),False,2016-05-18T06:15:50Z,2018-08-24T13:17:04Z,https://monprojet.anah.gouv.fr,12,12,GNU Affero General Public License v3.0,0,HTML,
-syso,betagouv,GitHub,https://github.com/betagouv/syso,mycompanyinfrance.fr & embauche.beta.gouv.fr,False,2016-06-15T14:04:11Z,2019-02-08T13:10:52Z,,25,5,MIT License,80,JavaScript,"france,law,rule-engine,simulation-framework,social-security"
+syso,betagouv,GitHub,https://github.com/betagouv/syso,mycompanyinfrance.fr & embauche.beta.gouv.fr,False,2016-06-15T14:04:11Z,2019-02-11T10:45:09Z,,25,5,MIT License,80,JavaScript,"france,law,rule-engine,simulation-framework,social-security"
 boussole,betagouv,GitHub,https://github.com/betagouv/boussole,"Accède au conseil qualifié d'un·e professionnel·le, près de chez toi, pour t'aider dans tes projets de formation, de logement, d'activité et de santé",False,2016-06-28T16:23:24Z,2017-04-07T12:33:38Z,https://boussole.beta.gouv.fr,3,4,,1,Ruby,
 etudiant-entrepreneur,betagouv,GitHub,https://github.com/betagouv/etudiant-entrepreneur,Faciliter l'accès au statut Etudiant entrepreneur et à ses bénéfices,False,2016-06-30T13:04:29Z,2018-05-28T08:17:09Z,,3,6,,0,JavaScript,
 pix,betagouv,GitHub,https://github.com/betagouv/pix,Plateforme d'évaluation et de certification des compétences numériques à l'usage de tous les citoyens francophones.,False,2016-07-11T12:31:15Z,2019-01-16T08:37:43Z,https://pix.beta.gouv.fr,48,13,,0,JavaScript,"assessment,competences,digital,emberjs"
@@ -144,7 +144,7 @@ signalement,betagouv,GitHub,https://github.com/betagouv/signalement,,False,2018-
 mes-aides-docker,betagouv,GitHub,https://github.com/betagouv/mes-aides-docker,Use CircleCI to build custom Docker images with combinations of common languages/dependencies,True,2018-10-15T13:47:29Z,2018-11-20T16:50:32Z,,0,0,,0,Perl,
 pass-culture-team,betagouv,GitHub,https://github.com/betagouv/pass-culture-team,Application métier pour le Pass Culture ,False,2018-10-18T13:14:23Z,2018-12-21T14:46:46Z,,0,0,,0,JavaScript,
 pop-shared,betagouv,GitHub,https://github.com/betagouv/pop-shared,Composants partagés pour les différentes applications POP,False,2018-10-30T12:58:01Z,2019-01-07T15:52:39Z,http://pop.culture.gouv.fr/,1,0,,0,,
-preuve-covoiturage,betagouv,GitHub,https://github.com/betagouv/preuve-covoiturage,Preuve de Covoiturage,False,2018-11-07T15:21:03Z,2019-02-07T13:59:00Z,,5,0,GNU Affero General Public License v3.0,0,Dockerfile,"api,betagouv,carpooling,covoiturage"
+preuve-covoiturage,betagouv,GitHub,https://github.com/betagouv/preuve-covoiturage,Preuve de Covoiturage,False,2018-11-07T15:21:03Z,2019-02-07T13:59:00Z,,5,0,GNU Affero General Public License v3.0,1,Dockerfile,"api,betagouv,carpooling,covoiturage"
 signalement-api,betagouv,GitHub,https://github.com/betagouv/signalement-api,,False,2018-11-08T14:29:52Z,2019-02-08T09:16:25Z,,0,0,MIT License,0,Scala,
 signalement-app,betagouv,GitHub,https://github.com/betagouv/signalement-app,,False,2018-11-08T14:30:41Z,2019-02-07T16:12:23Z,,2,1,MIT License,0,TypeScript,
 e-controle,betagouv,GitHub,https://github.com/betagouv/e-controle,Outil permettant de simplifier la relation entre un organisme de contrôle et des structures contrôlés,False,2018-11-12T10:03:43Z,2019-02-07T15:56:54Z,,2,3,MIT License,4,JavaScript,
@@ -156,7 +156,7 @@ mes-aides-dockerfiles,betagouv,GitHub,https://github.com/betagouv/mes-aides-dock
 dns,betagouv,GitHub,https://github.com/betagouv/dns,,False,2018-12-18T14:53:11Z,2018-12-18T15:37:46Z,,0,0,,0,,
 api-auth,betagouv,GitHub,https://github.com/betagouv/api-auth,,False,2018-12-18T16:07:05Z,2019-01-30T10:14:37Z,,0,0,MIT License,0,JavaScript,
 gps-usagers,betagouv,GitHub,https://github.com/betagouv/gps-usagers,Réduire les appels sans réponse dans le département du Calvados,False,2018-12-19T13:45:42Z,2019-02-07T10:51:48Z,,1,1,,0,JavaScript,
-pop,betagouv,GitHub,https://github.com/betagouv/pop,Plateforme Ouverte du Patrimoine,False,2019-01-07T09:31:05Z,2019-02-08T13:23:09Z,https://pop.culture.gouv.fr/,3,1,MIT License,2,JavaScript,"betagouv,culture"
+pop,betagouv,GitHub,https://github.com/betagouv/pop,Plateforme Ouverte du Patrimoine,False,2019-01-07T09:31:05Z,2019-02-11T10:57:01Z,https://pop.culture.gouv.fr/,3,1,MIT License,2,JavaScript,"betagouv,culture"
 redux-react-modals,betagouv,GitHub,https://github.com/betagouv/redux-react-modals,React lib displaying a layer of modals through redux actions,False,2019-02-04T13:37:57Z,2019-02-04T18:11:17Z,,0,0,MIT License,0,JavaScript,
 with-query-router,betagouv,GitHub,https://github.com/betagouv/with-query-router,A small wrapper of react-router parsing the query params from the location.search,False,2019-02-04T16:22:48Z,2019-02-06T15:44:14Z,,0,0,MIT License,0,JavaScript,
 with-login,betagouv,GitHub,https://github.com/betagouv/with-login,React hoc component for rendering page only on user log success. It uses redux request data as implicit helper.,False,2019-02-04T16:38:06Z,2019-02-08T10:52:39Z,,0,0,MIT License,0,JavaScript,
