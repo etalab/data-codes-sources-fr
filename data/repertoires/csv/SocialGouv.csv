@@ -1,7 +1,7 @@
 nom,organisation_nom,plateforme,repertoire_url,description,est_fork,date_creation,derniere_mise_a_jour,page_accueil,nombre_stars,nombre_forks,licence,nombre_issues_ouvertes,langage,topics
 faq-code-du-travail,SocialGouv,GitHub,https://github.com/SocialGouv/faq-code-du-travail,FAQ Code du travail,False,2018-01-18T11:06:20Z,2018-05-22T13:37:35Z,https://socialgouv.github.io/faq-code-du-travail,1,2,Other,2,JavaScript,
 annuaire-mjpm,SocialGouv,GitHub,https://github.com/SocialGouv/annuaire-mjpm,Annuaire des mandataires judiciaires à la protection des majeurs,False,2018-01-18T16:56:36Z,2018-01-18T17:01:13Z,,0,0,,1,JavaScript,
-work-in-france,SocialGouv,GitHub,https://github.com/SocialGouv/work-in-france,La plateforme de demande d’autorisations provisoires de travail.,False,2018-01-26T14:12:08Z,2019-01-29T15:40:54Z,https://workinfrance.beta.gouv.fr/,1,3,Apache License 2.0,4,HTML,
+work-in-france,SocialGouv,GitHub,https://github.com/SocialGouv/work-in-france,La plateforme de demande d’autorisations provisoires de travail.,False,2018-01-26T14:12:08Z,2019-02-10T23:05:55Z,https://workinfrance.beta.gouv.fr/,1,3,Apache License 2.0,4,HTML,
 eMJPM-homepage,SocialGouv,GitHub,https://github.com/SocialGouv/eMJPM-homepage,HomePage Le Bon Tuteur,False,2018-02-14T17:37:19Z,2019-01-08T16:20:49Z,https://emjpm.beta.gouv.fr/,0,0,,3,CSS,
 tutoriel-gitlab,SocialGouv,GitHub,https://github.com/SocialGouv/tutoriel-gitlab,Tutoriel GitLab en Français,False,2018-02-26T16:28:24Z,2019-02-06T19:00:23Z,,3,4,,0,,"francais,git,gitlab,tutorial,tutoriel"
 eMJPM-app,SocialGouv,GitHub,https://github.com/SocialGouv/eMJPM-app,Trouver rapidement le bon professionnel pour les majeurs à protéger,False,2018-02-28T12:41:08Z,2019-02-07T14:03:15Z,https://emjpm.beta.gouv.fr,1,1,Other,8,JavaScript,
@@ -16,7 +16,7 @@ code-du-travail-numerique,SocialGouv,GitHub,https://github.com/SocialGouv/code-d
 template.data.gouv.fr.react,SocialGouv,GitHub,https://github.com/SocialGouv/template.data.gouv.fr.react,Template data.gouv implementé en React + next.js,False,2018-05-22T07:52:06Z,2018-05-22T14:16:33Z,,0,0,Other,1,JavaScript,
 code-du-travail-api,SocialGouv,GitHub,https://github.com/SocialGouv/code-du-travail-api,API du Code du travail numérique,False,2018-06-05T08:18:46Z,2018-10-11T08:47:34Z,,0,1,Apache License 2.0,0,JavaScript,
 conventions-collectives,SocialGouv,GitHub,https://github.com/SocialGouv/conventions-collectives,,False,2018-06-18T08:39:06Z,2018-06-18T08:58:22Z,,0,0,,1,JavaScript,
-standup,SocialGouv,GitHub,https://github.com/SocialGouv/standup,,False,2018-06-20T15:06:21Z,2019-02-06T20:49:54Z,https://socialgouv.github.io/standup/,0,4,,3,JavaScript,
+standup,SocialGouv,GitHub,https://github.com/SocialGouv/standup,,False,2018-06-20T15:06:21Z,2019-02-06T20:49:54Z,https://socialgouv.github.io/standup/,0,4,,4,JavaScript,
 eMJPM-doc,SocialGouv,GitHub,https://github.com/SocialGouv/eMJPM-doc,documentation,False,2018-07-27T09:59:31Z,2019-02-10T05:47:20Z,http://emjpm-doc.num.social.gouv.fr/,0,1,,0,JavaScript,
 code-du-travail-css,SocialGouv,GitHub,https://github.com/SocialGouv/code-du-travail-css,Templates HTML et CSS pour le Code du Travail numérique,False,2018-08-10T14:58:37Z,2018-10-11T08:44:54Z,https://socialgouv.github.io/code-du-travail-css/,0,0,Apache License 2.0,0,JavaScript,
 code-du-travail-monitoring,SocialGouv,GitHub,https://github.com/SocialGouv/code-du-travail-monitoring,Monitoring du code du travail numérique,False,2018-08-30T13:38:59Z,2018-08-30T15:54:41Z,,0,0,Apache License 2.0,1,,
