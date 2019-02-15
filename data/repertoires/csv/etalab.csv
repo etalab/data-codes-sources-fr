@@ -70,7 +70,7 @@ secateur,etalab,GitHub,https://github.com/etalab/secateur,Dynamic CSV splitting 
 blog.data.gouv.fr,etalab,GitHub,https://github.com/etalab/blog.data.gouv.fr,Pelican blog for Data.gouv.fr,False,2017-01-16T20:03:49Z,2018-04-13T11:12:16Z,https://blog.data.gouv.fr,1,4,MIT License,4,CSS,
 ogptoolbox,etalab,GitHub,https://github.com/etalab/ogptoolbox,,False,2017-02-27T17:05:26Z,2018-01-22T18:48:16Z,,2,1,Other,1,Elm,"contributions,ogp,opendata,toolbox"
 inspire-cartes-producteurs,etalab,GitHub,https://github.com/etalab/inspire-cartes-producteurs,Cartes de producteurs publiant des données géo ouvertes,False,2017-02-28T11:33:12Z,2018-02-23T03:39:50Z,https://etalab.github.io/inspire-cartes-producteurs,1,0,,0,HTML,
-cadastre,etalab,GitHub,https://github.com/etalab/cadastre,Scripts de préparation des données cadastrales diffusées par Etalab,False,2017-03-15T14:22:34Z,2019-02-01T09:15:38Z,,23,1,,24,JavaScript,
+cadastre,etalab,GitHub,https://github.com/etalab/cadastre,Scripts de préparation des données cadastrales diffusées par Etalab,False,2017-03-15T14:22:34Z,2019-02-01T09:15:38Z,,23,1,,25,JavaScript,
 sirene_as_api,etalab,GitHub,https://github.com/etalab/sirene_as_api,Une API pour le fichier sirene,False,2017-03-27T10:11:09Z,2019-01-23T15:07:21Z,,26,11,MIT License,1,Ruby,"api,opengouv"
 sirene_as_api_ansible,etalab,GitHub,https://github.com/etalab/sirene_as_api_ansible,Ansible to install your own sirene_as_api server,False,2017-04-03T13:24:55Z,2018-10-24T19:00:39Z,,2,2,,1,,
 licence-ouverte,etalab,GitHub,https://github.com/etalab/licence-ouverte,La licence qui encourage la réutilisation des données publiques,False,2017-04-19T13:04:27Z,2018-11-22T15:29:30Z,https://www.etalab.gouv.fr/open-licence,2,2,Other,0,,"law,opendata,opensource"
@@ -153,7 +153,7 @@ rncs_worker_api_entreprise,etalab,GitHub,https://github.com/etalab/rncs_worker_a
 rna_as_api,etalab,GitHub,https://github.com/etalab/rna_as_api,Une API pour le fichier RNA,False,2018-07-13T01:07:03Z,2019-02-13T15:45:18Z,,1,0,MIT License,0,Ruby,
 plf,etalab,GitHub,https://github.com/etalab/plf,Mise en forme du PLF,False,2018-07-20T14:53:33Z,2018-07-20T15:06:55Z,,0,0,,0,R,
 taxe-habitation,etalab,GitHub,https://github.com/etalab/taxe-habitation,Code source de la taxe d'habitation 2017,False,2018-08-08T13:24:47Z,2019-02-09T18:49:54Z,,73,16,Other,4,C,"fiscal,taxe-d-habitation,taxes"
-etalab,etalab,GitHub,https://github.com/etalab/etalab,Livret de bienvenue destiné aux membres d’Etalab,False,2018-08-31T13:24:00Z,2019-02-14T10:51:40Z,https://etalab.github.io/etalab/,12,11,,2,HTML,
+etalab,etalab,GitHub,https://github.com/etalab/etalab,Livret de bienvenue destiné aux membres d’Etalab,False,2018-08-31T13:24:00Z,2019-02-15T10:10:30Z,https://etalab.github.io/etalab/,12,11,,1,HTML,
 etalab.studio,etalab,GitHub,https://github.com/etalab/etalab.studio,,False,2018-09-05T12:40:14Z,2019-01-02T13:15:03Z,,0,0,,0,HTML,
 contours-administratifs,etalab,GitHub,https://github.com/etalab/contours-administratifs,Scripts de génération des contours administratifs Etalab (ODbL),False,2018-09-17T12:56:13Z,2018-10-24T10:05:24Z,http://etalab-datasets.geo.data.gouv.fr/contours-administratifs/2018/geojson/,0,0,MIT License,0,JavaScript,
 cada_explore,etalab,GitHub,https://github.com/etalab/cada_explore,Exploring the CADA dataset,False,2018-09-28T07:58:56Z,2018-10-04T16:11:21Z,,2,0,,0,Jupyter Notebook,
@@ -170,12 +170,12 @@ transpo-rt,etalab,GitHub,https://github.com/etalab/transpo-rt,Simple API for pub
 fantoir-parser,etalab,GitHub,https://github.com/etalab/fantoir-parser,Analyseur de fichiers FANTOIR,False,2018-11-21T14:08:50Z,2018-11-21T15:53:16Z,,0,0,MIT License,0,JavaScript,
 adresses-locales,etalab,GitHub,https://github.com/etalab/adresses-locales,Agrégation des bases Adresse locales,False,2018-11-22T10:39:53Z,2019-01-25T15:39:11Z,,1,0,MIT License,0,JavaScript,
 munin-theme,etalab,GitHub,https://github.com/etalab/munin-theme,,False,2018-12-17T11:15:41Z,2018-12-17T12:06:22Z,,0,0,MIT License,0,JavaScript,
-data-codes-sources-fr,etalab,GitHub,https://github.com/etalab/data-codes-sources-fr,Métadonnées des dépôts de code d'organismes publics en France,False,2018-12-30T14:20:30Z,2019-02-14T19:21:15Z,https://www.data.gouv.fr/fr/datasets/inventaire-des-depots-de-code-source-des-organismes-publics/,7,0,MIT License,2,Python,codes-sources-fr
+data-codes-sources-fr,etalab,GitHub,https://github.com/etalab/data-codes-sources-fr,Métadonnées des dépôts de code d'organismes publics en France,False,2018-12-30T14:20:30Z,2019-02-15T07:21:01Z,https://www.data.gouv.fr/fr/datasets/inventaire-des-depots-de-code-source-des-organismes-publics/,7,0,MIT License,2,Python,codes-sources-fr
 adresses-util,etalab,GitHub,https://github.com/etalab/adresses-util,,False,2019-01-02T23:15:00Z,2019-02-06T16:06:39Z,,0,0,MIT License,0,JavaScript,
 adresses-ftth,etalab,GitHub,https://github.com/etalab/adresses-ftth,Extraction des adresses contenues dans les fichiers de déploiement FTTH,False,2019-01-02T23:38:15Z,2019-01-03T00:12:34Z,,0,0,MIT License,0,JavaScript,
 adresses-aggregate,etalab,GitHub,https://github.com/etalab/adresses-aggregate,Agrégation d'adresses de sources multiples,False,2019-01-08T07:25:23Z,2019-01-08T07:25:52Z,,0,0,MIT License,0,,
 ox-html-timeline,etalab,GitHub,https://github.com/etalab/ox-html-timeline,Create HTML timelines by exporting .org files,True,2019-01-24T17:46:31Z,2019-01-24T17:46:33Z,,0,0,,0,Emacs Lisp,
 csv2html,etalab,GitHub,https://github.com/etalab/csv2html,,True,2019-01-24T17:47:17Z,2019-01-24T17:47:20Z,,0,0,Eclipse Public License 1.0,0,Clojure,
 js-normadresse,etalab,GitHub,https://github.com/etalab/js-normadresse,Normalisation des libellés de voie selon la norme postale,False,2019-01-29T14:09:20Z,2019-02-11T06:29:30Z,,1,0,,1,JavaScript,
-notebooks,etalab,GitHub,https://github.com/etalab/notebooks,,False,2019-02-12T13:18:08Z,2019-02-14T15:44:29Z,,0,0,,0,Jupyter Notebook,
+notebooks,etalab,GitHub,https://github.com/etalab/notebooks,🤓 📓 📊,False,2019-02-12T13:18:08Z,2019-02-15T10:27:41Z,,0,0,,0,Jupyter Notebook,
 franceconnect-rne,etalab,GitHub,https://github.com/etalab/franceconnect-rne,Expérimentation de croisement entre FranceConnect et le Répertoire National des Élus,False,2019-02-12T14:16:12Z,2019-02-12T14:21:57Z,,0,0,MIT License,0,JavaScript,
