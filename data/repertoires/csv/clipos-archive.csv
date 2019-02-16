@@ -98,5 +98,5 @@ clipos4_portage-overlay-dev,clipos-archive,GitHub,https://github.com/clipos-arch
 clipos4_portage,clipos-archive,GitHub,https://github.com/clipos-archive/clipos4_portage,clip-int/portage from CLIP OS 4,False,2018-09-20T09:44:20Z,2018-09-24T15:46:12Z,https://clip-os.org,0,0,,0,Shell,
 clipos4_portage-overlay,clipos-archive,GitHub,https://github.com/clipos-archive/clipos4_portage-overlay,clip-int/portage-overlay from CLIP OS 4,False,2018-09-20T09:44:27Z,2018-09-24T15:45:57Z,https://clip-os.org,0,0,,0,Shell,
 clipos4_portage-overlay-clip,clipos-archive,GitHub,https://github.com/clipos-archive/clipos4_portage-overlay-clip,clip-int/portage-overlay-clip from CLIP OS 4,False,2018-09-20T09:44:34Z,2018-09-28T13:17:45Z,https://clip-os.org,0,0,,0,Shell,
-clipos4_doc,clipos-archive,GitHub,https://github.com/clipos-archive/clipos4_doc,Documentation of CLIP OS 4,False,2018-09-20T09:44:40Z,2018-10-22T15:12:30Z,https://clip-os.org,9,0,,0,,
+clipos4_doc,clipos-archive,GitHub,https://github.com/clipos-archive/clipos4_doc,Documentation of CLIP OS 4,False,2018-09-20T09:44:40Z,2019-02-15T23:18:28Z,https://clip-os.org,10,0,,0,,
 clipos4_manifest,clipos-archive,GitHub,https://github.com/clipos-archive/clipos4_manifest,CLIP OS 4 Manifest,False,2018-09-20T09:44:48Z,2018-11-10T10:06:42Z,https://clip-os.org,22,1,,0,,
