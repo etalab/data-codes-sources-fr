@@ -1,6 +1,6 @@
 nom,organisation_nom,plateforme,repertoire_url,description,est_fork,date_creation,derniere_mise_a_jour,page_accueil,nombre_stars,nombre_forks,licence,nombre_issues_ouvertes,langage,topics
 pkgi,Inist-CNRS,GitHub,https://github.com/Inist-CNRS/pkgi,Pkgi permet la création d'environnements applicatifs indépendants et mutualisés sous Debian.,False,2011-12-11T19:44:37Z,2017-11-09T19:27:05Z,http://www.pkgi.net,5,4,,2,PHP,
-node-sphinxapi,Inist-CNRS,GitHub,https://github.com/Inist-CNRS/node-sphinxapi,Native javascript implementation of the standard Sphinx API,False,2012-03-21T21:37:46Z,2019-01-27T05:37:04Z,,78,20,Other,12,JavaScript,
+node-sphinxapi,Inist-CNRS,GitHub,https://github.com/Inist-CNRS/node-sphinxapi,Native javascript implementation of the standard Sphinx API,False,2012-03-21T21:37:46Z,2019-02-18T10:45:02Z,,77,20,Other,12,JavaScript,
 node-xml-writer,Inist-CNRS,GitHub,https://github.com/Inist-CNRS/node-xml-writer,Javascript implementation of the classic XMLWriter class,False,2012-03-27T19:34:41Z,2019-01-08T21:36:57Z,,54,23,Other,9,JavaScript,
 node-xml-mapping,Inist-CNRS,GitHub,https://github.com/Inist-CNRS/node-xml-mapping,Node Module to convert Memory structure to XML and vice versa,False,2012-03-27T19:35:25Z,2018-02-28T15:56:32Z,,39,16,Other,5,JavaScript,
 node-xml-splitter,Inist-CNRS,GitHub,https://github.com/Inist-CNRS/node-xml-splitter,,False,2012-04-27T21:21:05Z,2017-09-05T10:18:52Z,,9,5,Other,2,JavaScript,
