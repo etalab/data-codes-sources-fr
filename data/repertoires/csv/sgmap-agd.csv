@@ -19,6 +19,6 @@ opensignauxfaibles,SGMAP-AGD,GitHub,https://github.com/SGMAP-AGD/opensignauxfaib
 recommandations_emploi,SGMAP-AGD,GitHub,https://github.com/SGMAP-AGD/recommandations_emploi,Algorithmes développés dans le cadre de notre collaboration avec Bayes Impact.,False,2016-11-08T10:53:08Z,2016-11-21T15:52:38Z,,4,0,Other,0,Jupyter Notebook,
 infogreffes,SGMAP-AGD,GitHub,https://github.com/SGMAP-AGD/infogreffes,exploration des données infogreffes,True,2017-01-24T11:05:22Z,2017-12-26T13:11:36Z,,1,0,,0,R,
 extraction_prudhommes,SGMAP-AGD,GitHub,https://github.com/SGMAP-AGD/extraction_prudhommes,Extraction d'éléments significatif issus de décisions prud'homales,False,2017-07-06T06:23:13Z,2017-07-06T06:32:59Z,,0,1,GNU Affero General Public License v3.0,0,Python,
-opensirene,SGMAP-AGD,GitHub,https://github.com/SGMAP-AGD/opensirene,R client to the open sirene API,False,2017-09-15T09:34:05Z,2019-02-19T08:35:19Z,,3,2,,0,R,sirene
+opensirene,SGMAP-AGD,GitHub,https://github.com/SGMAP-AGD/opensirene,R client to the open sirene API,False,2017-09-15T09:34:05Z,2019-02-19T08:35:19Z,,3,1,,0,R,sirene
 openfisca-france,SGMAP-AGD,GitHub,https://github.com/SGMAP-AGD/openfisca-france,French tax and benefit system for OpenFisca,True,2018-01-16T16:18:55Z,2018-08-02T07:22:33Z,https://www.openfisca.fr/,1,0,,0,Python,
 slides-etalab,SGMAP-AGD,GitHub,https://github.com/SGMAP-AGD/slides-etalab,,False,2018-06-20T07:47:55Z,2018-06-20T07:50:28Z,,0,0,,0,HTML,
