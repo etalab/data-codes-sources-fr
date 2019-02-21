@@ -20,7 +20,7 @@ ckanext-youckan,etalab,GitHub,https://github.com/etalab/ckanext-youckan,YouCKAN 
 dactylo,etalab,GitHub,https://github.com/etalab/dactylo,A datasets activity streams logger,False,2013-11-05T08:20:26Z,2018-04-13T11:18:12Z,,0,1,GNU Affero General Public License v3.0,0,Python,
 etalab-support,etalab,GitHub,https://github.com/etalab/etalab-support,Etalab product support,False,2013-11-22T13:20:01Z,2018-09-03T09:36:14Z,,7,4,,0,,
 landing-page,etalab,GitHub,https://github.com/etalab/landing-page,data.gouv.fr landing page,False,2013-12-16T15:07:59Z,2018-04-13T11:17:22Z,,0,0,Other,0,JavaScript,
-cada,etalab,GitHub,https://github.com/etalab/cada,A simplistic interface to search and consult CADA advices,False,2014-04-14T13:41:10Z,2019-02-05T12:19:32Z,http://cada.data.gouv.fr,17,7,GNU Affero General Public License v3.0,2,CSS,"advice,api,cada,flask,france,opendata,search"
+cada,etalab,GitHub,https://github.com/etalab/cada,A simplistic interface to search and consult CADA advices,False,2014-04-14T13:41:10Z,2019-02-05T12:19:32Z,http://cada.data.gouv.fr,17,7,GNU Affero General Public License v3.0,3,CSS,"advice,api,cada,flask,france,opendata,search"
 ckanext-sentry,etalab,GitHub,https://github.com/etalab/ckanext-sentry,Sentry support for CKAN,False,2014-04-22T13:49:57Z,2018-04-13T11:16:09Z,,1,4,,1,Python,
 udata-gouvfr,etalab,GitHub,https://github.com/etalab/udata-gouvfr,Skin and customization for the French opendata portal based on uData.,False,2014-04-25T09:58:14Z,2019-02-20T10:14:25Z,https://www.data.gouv.fr/fr/,17,31,,17,HTML,"opendata,python,udata,udata-gouvfr"
 ban-geocode,etalab,GitHub,https://github.com/etalab/ban-geocode,BAN in Elasticsearch,False,2014-09-15T16:14:23Z,2018-09-18T13:48:26Z,,5,2,,6,Python,
@@ -48,7 +48,7 @@ api-urbanisme,etalab,GitHub,https://github.com/etalab/api-urbanisme,,False,2016-
 couverture-urbanisme,etalab,GitHub,https://github.com/etalab/couverture-urbanisme,,False,2016-04-07T16:20:25Z,2018-01-22T18:47:02Z,,0,0,,1,JavaScript,
 monuments-historiques,etalab,GitHub,https://github.com/etalab/monuments-historiques,Construction de référentiels liés aux Monuments Historiques classés ou inscrits,False,2016-04-13T08:29:47Z,2018-01-22T18:47:03Z,,1,0,GNU Affero General Public License v3.0,0,JavaScript,
 collectivites.data.gouv.fr,etalab,GitHub,https://github.com/etalab/collectivites.data.gouv.fr,Prototype d'un portail dédié aux collectivités (et plus),False,2016-05-09T13:26:01Z,2018-01-22T18:47:10Z,,0,1,,1,CSS,
-api-communes,etalab,GitHub,https://github.com/etalab/api-communes,Rechercher des communes et accéder à leurs informations de base,False,2016-05-26T15:59:05Z,2019-02-18T17:59:09Z,https://api.gouv.fr/api/api-geo.html,30,7,MIT License,24,JavaScript,
+api-geo,etalab,GitHub,https://github.com/etalab/api-geo,Interroger les référentiels géographiques plus facilement,False,2016-05-26T15:59:05Z,2019-02-21T18:08:00Z,https://api.gouv.fr/api/api-geo.html,30,7,MIT License,21,JavaScript,
 geoapi-doc,etalab,GitHub,https://github.com/etalab/geoapi-doc,Documentation de l'API Géo,False,2016-06-16T18:39:19Z,2018-01-22T18:47:20Z,https://geo.api.gouv.fr,1,4,,0,JavaScript,
 cartes.data.gouv.fr,etalab,GitHub,https://github.com/etalab/cartes.data.gouv.fr,Customization d'une instance uMap,False,2016-06-24T09:01:36Z,2018-09-21T14:18:18Z,,1,0,,2,HTML,
 geoapi,etalab,GitHub,https://github.com/etalab/geoapi,Interrogez les référentiels géographiques plus facilement,False,2016-06-28T20:34:45Z,2018-01-22T18:47:23Z,https://api.gouv.fr/api/geoapi.html,5,0,,5,,
@@ -147,7 +147,7 @@ agefiph_worker_api_entreprise,etalab,GitHub,https://github.com/etalab/agefiph_wo
 fridaylab,etalab,GitHub,https://github.com/etalab/fridaylab,,False,2018-05-18T14:12:26Z,2018-11-13T13:32:34Z,https://etalab.github.io/fridaylab/,3,1,,1,,
 wiki-data-gouv,etalab,GitHub,https://github.com/etalab/wiki-data-gouv,Garagethon Wikidata-Datagouv,False,2018-05-25T12:46:29Z,2018-06-13T16:07:39Z,,7,3,,0,,"datagouvfr,garagethon,opendata,wikidata"
 monReseauMobile,etalab,GitHub,https://github.com/etalab/monReseauMobile,The french and official mobile services observatory,True,2018-05-30T17:48:48Z,2018-05-30T17:48:50Z,https://www.monreseaumobile.fr/,0,0,MIT License,0,JavaScript,
-tiles.data.gouv.fr,etalab,GitHub,https://github.com/etalab/tiles.data.gouv.fr,Fonds de carte de qualité utilisables par tous,False,2018-06-11T07:41:46Z,2018-10-08T09:40:53Z,,10,1,MIT License,2,JavaScript,
+tiles.data.gouv.fr,etalab,GitHub,https://github.com/etalab/tiles.data.gouv.fr,Fonds de carte de qualité utilisables par tous,False,2018-06-11T07:41:46Z,2018-10-08T09:40:53Z,,10,1,MIT License,1,JavaScript,
 schema.data.gouv.fr,etalab,GitHub,https://github.com/etalab/schema.data.gouv.fr,Schémas de données ouvertes sur des formats réglementaires ou non,False,2018-06-22T18:59:13Z,2019-02-21T10:37:57Z,,5,3,,4,Jupyter Notebook,opendata
 rncs_worker_api_entreprise,etalab,GitHub,https://github.com/etalab/rncs_worker_api_entreprise,,False,2018-07-12T18:45:02Z,2019-02-20T20:39:10Z,,3,0,MIT License,15,Ruby,
 rna_as_api,etalab,GitHub,https://github.com/etalab/rna_as_api,Une API pour le fichier RNA,False,2018-07-13T01:07:03Z,2019-02-13T15:45:18Z,,1,0,MIT License,2,Ruby,
@@ -170,7 +170,7 @@ transpo-rt,etalab,GitHub,https://github.com/etalab/transpo-rt,Simple API for pub
 fantoir-parser,etalab,GitHub,https://github.com/etalab/fantoir-parser,Analyseur de fichiers FANTOIR,False,2018-11-21T14:08:50Z,2018-11-21T15:53:16Z,,0,0,MIT License,0,JavaScript,
 adresses-locales,etalab,GitHub,https://github.com/etalab/adresses-locales,Agrégation des bases Adresse locales,False,2018-11-22T10:39:53Z,2019-01-25T15:39:11Z,,1,0,MIT License,0,JavaScript,
 munin-theme,etalab,GitHub,https://github.com/etalab/munin-theme,,False,2018-12-17T11:15:41Z,2018-12-17T12:06:22Z,,0,0,MIT License,0,JavaScript,
-data-codes-sources-fr,etalab,GitHub,https://github.com/etalab/data-codes-sources-fr,Métadonnées des dépôts de code d'organismes publics en France,False,2018-12-30T14:20:30Z,2019-02-21T11:20:47Z,https://www.data.gouv.fr/fr/datasets/inventaire-des-depots-de-code-source-des-organismes-publics/,7,0,MIT License,2,Python,codes-sources-fr
+data-codes-sources-fr,etalab,GitHub,https://github.com/etalab/data-codes-sources-fr,Métadonnées des dépôts de code d'organismes publics en France,False,2018-12-30T14:20:30Z,2019-02-21T15:21:04Z,https://www.data.gouv.fr/fr/datasets/inventaire-des-depots-de-code-source-des-organismes-publics/,7,0,MIT License,2,Python,codes-sources-fr
 adresses-util,etalab,GitHub,https://github.com/etalab/adresses-util,,False,2019-01-02T23:15:00Z,2019-02-06T16:06:39Z,,0,0,MIT License,0,JavaScript,
 adresses-ftth,etalab,GitHub,https://github.com/etalab/adresses-ftth,Extraction des adresses contenues dans les fichiers de déploiement FTTH,False,2019-01-02T23:38:15Z,2019-01-03T00:12:34Z,,0,0,MIT License,0,JavaScript,
 adresses-aggregate,etalab,GitHub,https://github.com/etalab/adresses-aggregate,Agrégation d'adresses de sources multiples,False,2019-01-08T07:25:23Z,2019-01-08T07:25:52Z,,0,0,MIT License,0,,
