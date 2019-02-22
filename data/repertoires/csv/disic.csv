@@ -44,7 +44,7 @@ inventaire,DISIC,GitHub,https://github.com/DISIC/inventaire,pour cataloguer les 
 guide-chef_projets,DISIC,GitHub,https://github.com/DISIC/guide-chef_projets,Guide du chef de projets RGAA 3,False,2017-10-18T07:30:41Z,2017-10-25T16:03:54Z,https://disic.github.io/guide-chef_projets/,0,0,,0,HTML,"a11y,project-management,rgaa"
 politique-de-contribution-open-source,DISIC,GitHub,https://github.com/DISIC/politique-de-contribution-open-source,Politique de contribution open-source interministérielle,False,2017-10-27T15:00:57Z,2019-02-20T16:55:08Z,https://www.numerique.gouv.fr/publications/politique-logiciel-libre/,56,48,Other,16,,"government,open-source,policy"
 circuits,DISIC,GitHub,https://github.com/DISIC/circuits,Explicitation des processus internes,False,2018-03-12T15:32:25Z,2018-03-12T15:32:25Z,,0,0,,0,,
-wikidemarches,DISIC,GitHub,https://github.com/DISIC/wikidemarches,,False,2018-05-18T08:34:44Z,2019-02-21T17:36:11Z,,3,4,GNU Lesser General Public License v3.0,96,Java,
+wikidemarches,DISIC,GitHub,https://github.com/DISIC/wikidemarches,,False,2018-05-18T08:34:44Z,2019-02-21T17:36:11Z,,3,4,GNU Lesser General Public License v3.0,97,Java,
 sirh-paye-GEST-compar,DISIC,GitHub,https://github.com/DISIC/sirh-paye-GEST-compar,Outil web de visualisation et de comparaison de fichiers GEST de paye en lien avec l'application PAY.,False,2018-09-17T11:57:45Z,2018-09-17T12:33:37Z,,0,0,,0,,
 XWiki-cerfa-numerique,DISIC,GitHub,https://github.com/DISIC/XWiki-cerfa-numerique,XWiki-cerfa-numerique ,False,2018-11-26T14:37:56Z,2018-11-26T14:38:47Z,,0,1,,0,,
 sill-2018,DISIC,GitHub,https://github.com/DISIC/sill-2018,Socle interministériel des logiciels libres,True,2019-01-24T18:19:07Z,2019-02-04T09:54:53Z,,0,0,,0,HTML,
