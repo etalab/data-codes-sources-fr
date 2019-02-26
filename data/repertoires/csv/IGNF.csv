@@ -32,7 +32,7 @@ validator,IGNF,GitHub,https://github.com/IGNF/validator,Validateur de données i
 geoxygene-palettes,IGNF,GitHub,https://github.com/IGNF/geoxygene-palettes,Color palettes extrapolation for map design.,False,2016-07-12T16:56:10Z,2017-07-20T12:54:36Z,https://ignf.github.io/geoxygene-palettes/,1,0,MIT License,0,Java,
 ignf.github.io,IGNF,GitHub,https://github.com/IGNF/ignf.github.io,,False,2016-07-21T11:58:02Z,2018-12-05T10:31:07Z,,0,0,,0,,
 apicarto,IGNF,GitHub,https://github.com/IGNF/apicarto,Faire appel à l'information géographique pour simplifier les démarches,True,2016-11-09T12:29:49Z,2019-02-14T07:49:47Z,,1,1,,2,JavaScript,
-NeatMap,IGNF,GitHub,https://github.com/IGNF/NeatMap,A simple QGIS python plugin for building tidy cities.,False,2016-11-30T13:36:28Z,2019-02-21T17:18:49Z,,10,0,GNU General Public License v3.0,0,Python,
+NeatMap,IGNF,GitHub,https://github.com/IGNF/NeatMap,A simple QGIS python plugin for building tidy cities.,False,2016-11-30T13:36:28Z,2019-02-21T17:18:49Z,,10,0,GNU General Public License v3.0,1,Python,
 geoportal-sdk,IGNF,GitHub,https://github.com/IGNF/geoportal-sdk,French Geoportal SDK Javascript,False,2016-12-06T22:45:41Z,2019-02-25T15:17:23Z,,18,5,Other,5,HTML,
 ContinuousGeneralisation,IGNF,GitHub,https://github.com/IGNF/ContinuousGeneralisation,Algorithms for continuous generalisation with ArcGIS,False,2016-12-14T09:37:40Z,2019-01-20T13:27:07Z,,4,1,GNU Lesser General Public License v3.0,0,C++,
 libxmls,IGNF,GitHub,https://github.com/IGNF/libxmls,,False,2017-02-13T09:28:32Z,2017-02-13T09:28:32Z,,0,0,,0,,
