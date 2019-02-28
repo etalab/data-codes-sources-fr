@@ -36,3 +36,5 @@ udata-link-proxy,opendatateam,GitHub,https://github.com/opendatateam/udata-link-
 datopolis,opendatateam,GitHub,https://github.com/opendatateam/datopolis,(French) translation effort for the Datopolis board game,True,2018-10-06T11:58:43Z,2018-10-11T14:17:35Z,,2,1,Other,0,Ruby,
 csvapi-parser,opendatateam,GitHub,https://github.com/opendatateam/csvapi-parser,CSV parser (for csvapi),False,2018-10-09T13:52:48Z,2018-10-10T09:30:23Z,,0,0,,0,Python,
 udata-meta,opendatateam,GitHub,https://github.com/opendatateam/udata-meta,Information about the udata* project,False,2019-02-07T16:16:59Z,2019-02-07T19:02:41Z,,1,0,GNU Affero General Public License v3.0,0,,
+udata-twitter,opendatateam,GitHub,https://github.com/opendatateam/udata-twitter,Twitter integration for udata,False,2019-02-28T11:05:56Z,2019-02-28T11:05:56Z,,0,0,,0,,
+udata-ask,opendatateam,GitHub,https://github.com/opendatateam/udata-ask,Ask for datasets within udata,False,2019-02-28T11:06:19Z,2019-02-28T11:06:19Z,,0,0,,0,,
