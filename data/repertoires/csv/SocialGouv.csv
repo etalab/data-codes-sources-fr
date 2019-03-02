@@ -41,6 +41,6 @@ legi-postgres,SocialGouv,GitHub,https://github.com/SocialGouv/legi-postgres,legi
 legixplore,SocialGouv,GitHub,https://github.com/SocialGouv/legixplore,Exploration de la base LEGI,True,2019-02-08T17:53:06Z,2019-03-01T16:40:45Z,,0,0,,0,JavaScript,
 code-du-travail-backoffice,SocialGouv,GitHub,https://github.com/SocialGouv/code-du-travail-backoffice,Applications d'administration des données du code du travail numérique.,False,2019-02-13T11:14:17Z,2019-03-01T18:46:30Z,,0,0,Other,9,JavaScript,
 tremplin,SocialGouv,GitHub,https://github.com/SocialGouv/tremplin,,False,2019-02-20T14:33:26Z,2019-02-26T16:58:56Z,,0,1,Apache License 2.0,1,JavaScript,
-app-nextjs-node-ts,SocialGouv,GitHub,https://github.com/SocialGouv/app-nextjs-node-ts,,False,2019-02-20T21:05:00Z,2019-02-27T16:42:43Z,,1,0,Apache License 2.0,1,JavaScript,
+app-nextjs-node-ts,SocialGouv,GitHub,https://github.com/SocialGouv/app-nextjs-node-ts,,False,2019-02-20T21:05:00Z,2019-03-02T18:27:01Z,,1,0,Apache License 2.0,1,TypeScript,
 react-ui,SocialGouv,GitHub,https://github.com/SocialGouv/react-ui,,False,2019-02-26T16:05:29Z,2019-02-27T09:51:31Z,,0,0,,4,JavaScript,
 test-sbo-gitlab,SocialGouv,GitHub,https://github.com/SocialGouv/test-sbo-gitlab,Repo de test pour l'intégration de la CI GitLab.,False,2019-02-28T14:22:08Z,2019-02-28T14:22:12Z,,0,1,,2,,
