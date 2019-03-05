@@ -106,7 +106,7 @@ calculette-impots-m-source-code,etalab,GitHub,https://github.com/etalab/calculet
 calculette-impots-m-language-parser,etalab,GitHub,https://github.com/etalab/calculette-impots-m-language-parser,Calculette de l'impôt sur le revenu parsée,False,2017-09-14T09:28:57Z,2017-09-14T09:37:20Z,,0,1,Other,0,Jupyter Notebook,
 calculette-impots-exemples,etalab,GitHub,https://github.com/etalab/calculette-impots-exemples,Exemples d'utilisations de la calculatrice de l'impôt sur le revenu,False,2017-09-14T10:15:17Z,2017-11-13T10:08:45Z,,0,1,Other,0,Jupyter Notebook,
 cadastre.data.gouv.fr,etalab,GitHub,https://github.com/etalab/cadastre.data.gouv.fr,Données cadastrales ouvertes - le site,False,2017-09-28T21:22:11Z,2019-02-03T00:52:10Z,https://cadastre.data.gouv.fr,6,2,,7,JavaScript,
-template.data.gouv.fr,etalab,GitHub,https://github.com/etalab/template.data.gouv.fr,Template CSS pour data.gouv.fr et compagnie,False,2017-10-03T15:42:34Z,2019-02-24T23:54:29Z,http://template.data.gouv.fr,13,9,,4,HTML,
+template.data.gouv.fr,etalab,GitHub,https://github.com/etalab/template.data.gouv.fr,Template CSS pour data.gouv.fr et compagnie,False,2017-10-03T15:42:34Z,2019-02-24T23:54:29Z,http://template.data.gouv.fr,13,9,,5,HTML,
 transport-validator-python,etalab,GitHub,https://github.com/etalab/transport-validator-python,[DEPRECATED] Validation of GTFS data,False,2017-10-24T08:53:22Z,2018-04-24T09:27:16Z,,1,2,MIT License,0,Python,
 addok-docker,etalab,GitHub,https://github.com/etalab/addok-docker,Conteneurs Addok pour Docker,False,2017-11-02T15:21:46Z,2019-02-10T13:17:53Z,,13,2,,2,Shell,
 edigeo-reproject,etalab,GitHub,https://github.com/etalab/edigeo-reproject,Reprojection à la volée des feuilles EDIGÉO du PCI Vecteur,False,2017-11-13T14:22:41Z,2018-07-15T20:45:53Z,,1,0,MIT License,0,JavaScript,
@@ -135,9 +135,9 @@ dashboard_api_entreprise,etalab,GitHub,https://github.com/etalab/dashboard_api_e
 decoupage-administratif,etalab,GitHub,https://github.com/etalab/decoupage-administratif,API JavaScript permettant d'interroger le découpage administratif français,False,2018-03-29T08:56:26Z,2019-02-19T10:43:24Z,,2,0,MIT License,0,JavaScript,"cog,communes,departements,geo,insee,regions"
 transport-gtfs-lib,etalab,GitHub,https://github.com/etalab/transport-gtfs-lib,A library for loading and saving GTFS feeds of arbitrary size with disk-backed storage,True,2018-04-03T14:30:07Z,2018-04-22T01:59:44Z,,1,0,"BSD 2-Clause ""Simplified"" License",0,Java,
 adresse-explorer-api,etalab,GitHub,https://github.com/etalab/adresse-explorer-api,,False,2018-04-04T15:27:33Z,2019-01-04T22:17:45Z,,0,0,,0,JavaScript,
-doc.entreprise.api.gouv.fr,etalab,GitHub,https://github.com/etalab/doc.entreprise.api.gouv.fr,,False,2018-04-09T07:45:29Z,2019-01-17T12:43:04Z,,1,0,Other,1,JavaScript,
+doc.entreprise.api.gouv.fr,etalab,GitHub,https://github.com/etalab/doc.entreprise.api.gouv.fr,,False,2018-04-09T07:45:29Z,2019-03-05T16:43:06Z,,1,0,Other,1,JavaScript,
 piwik-covisits,etalab,GitHub,https://github.com/etalab/piwik-covisits,compute co-visits statistics from piwik logs,False,2018-04-11T22:40:10Z,2018-06-07T15:47:14Z,,0,2,,1,Python,
-transport-validator,etalab,GitHub,https://github.com/etalab/transport-validator,,False,2018-04-13T19:54:00Z,2019-03-04T13:21:32Z,,3,2,,3,Rust,
+transport-validator,etalab,GitHub,https://github.com/etalab/transport-validator,,False,2018-04-13T19:54:00Z,2019-03-05T15:21:51Z,,3,2,,2,Rust,
 blog_apientreprise,etalab,GitHub,https://github.com/etalab/blog_apientreprise,Blog API Entreprise : http://blog.entreprise.api.gouv.fr,False,2018-04-15T12:05:11Z,2018-04-16T13:54:23Z,,0,0,,0,Ruby,
 agd.data.gouv.fr,etalab,GitHub,https://github.com/etalab/agd.data.gouv.fr,Le blog de l'AGD,False,2018-05-09T09:53:00Z,2019-03-04T12:49:01Z,https://agd.data.gouv.fr,1,5,GNU General Public License v3.0,1,Ruby,"data-for-government,data-governance,data-science"
 udata-geoplatform,etalab,GitHub,https://github.com/etalab/udata-geoplatform,data.gouv.fr <-> geo.data.gouv.fr bridge,False,2018-05-11T13:00:21Z,2018-11-20T16:12:37Z,,3,3,,4,Python,
@@ -149,7 +149,7 @@ wiki-data-gouv,etalab,GitHub,https://github.com/etalab/wiki-data-gouv,Garagethon
 monReseauMobile,etalab,GitHub,https://github.com/etalab/monReseauMobile,The french and official mobile services observatory,True,2018-05-30T17:48:48Z,2018-05-30T17:48:50Z,https://www.monreseaumobile.fr/,0,0,MIT License,0,JavaScript,
 tiles.data.gouv.fr,etalab,GitHub,https://github.com/etalab/tiles.data.gouv.fr,Fonds de carte de qualité utilisables par tous,False,2018-06-11T07:41:46Z,2018-10-08T09:40:53Z,,10,1,MIT License,1,JavaScript,
 schema.data.gouv.fr,etalab,GitHub,https://github.com/etalab/schema.data.gouv.fr,Schémas de données ouvertes sur des formats réglementaires ou non,False,2018-06-22T18:59:13Z,2019-02-21T10:37:57Z,,5,3,,4,Jupyter Notebook,opendata
-rncs_worker_api_entreprise,etalab,GitHub,https://github.com/etalab/rncs_worker_api_entreprise,,False,2018-07-12T18:45:02Z,2019-03-03T13:39:32Z,,3,0,MIT License,19,Ruby,
+rncs_worker_api_entreprise,etalab,GitHub,https://github.com/etalab/rncs_worker_api_entreprise,,False,2018-07-12T18:45:02Z,2019-03-03T13:39:32Z,,3,0,MIT License,20,Ruby,
 rna_as_api,etalab,GitHub,https://github.com/etalab/rna_as_api,Une API pour le fichier RNA,False,2018-07-13T01:07:03Z,2019-02-13T15:45:18Z,,1,0,MIT License,3,Ruby,
 plf,etalab,GitHub,https://github.com/etalab/plf,Mise en forme du PLF,False,2018-07-20T14:53:33Z,2018-07-20T15:06:55Z,,0,0,,0,R,
 taxe-habitation,etalab,GitHub,https://github.com/etalab/taxe-habitation,Code source de la taxe d'habitation 2017,False,2018-08-08T13:24:47Z,2019-02-09T18:49:54Z,,73,16,Other,4,C,"fiscal,taxe-d-habitation,taxes"
@@ -166,18 +166,18 @@ agenda-tech-ext,etalab,GitHub,https://github.com/etalab/agenda-tech-ext,Liste de
 epci,etalab,GitHub,https://github.com/etalab/epci,API JavaScript permettant d'interroger la base des EPCI à fiscalité propre,False,2018-10-23T12:43:41Z,2019-02-12T20:58:18Z,,0,0,MIT License,0,JavaScript,
 etalab.gouv.fr,etalab,GitHub,https://github.com/etalab/etalab.gouv.fr,Le futur site d’Etalab,False,2018-11-09T14:57:41Z,2018-11-27T09:29:10Z,,3,0,,4,,
 ouverture-des-codes-sources-publics,etalab,GitHub,https://github.com/etalab/ouverture-des-codes-sources-publics,Guide pour l'ouverture des logiciels libres des organismes publics,False,2018-11-15T10:54:37Z,2019-02-20T21:47:12Z,,5,0,,1,,
-transpo-rt,etalab,GitHub,https://github.com/etalab/transpo-rt,Simple API for public transport realtime data ,False,2018-11-21T09:05:10Z,2019-02-18T10:22:48Z,,3,4,MIT License,9,Rust,
+transpo-rt,etalab,GitHub,https://github.com/etalab/transpo-rt,Simple API for public transport realtime data ,False,2018-11-21T09:05:10Z,2019-02-18T10:22:48Z,,3,4,MIT License,10,Rust,
 fantoir-parser,etalab,GitHub,https://github.com/etalab/fantoir-parser,Analyseur de fichiers FANTOIR,False,2018-11-21T14:08:50Z,2018-11-21T15:53:16Z,,0,0,MIT License,0,JavaScript,
 adresses-locales,etalab,GitHub,https://github.com/etalab/adresses-locales,Agrégation des bases Adresse locales,False,2018-11-22T10:39:53Z,2019-03-04T13:27:10Z,,1,0,MIT License,0,JavaScript,
 munin-theme,etalab,GitHub,https://github.com/etalab/munin-theme,,False,2018-12-17T11:15:41Z,2018-12-17T12:06:22Z,,0,0,MIT License,0,JavaScript,
-data-codes-sources-fr,etalab,GitHub,https://github.com/etalab/data-codes-sources-fr,Métadonnées des dépôts de code d'organismes publics en France,False,2018-12-30T14:20:30Z,2019-03-05T11:20:57Z,https://www.data.gouv.fr/fr/datasets/inventaire-des-depots-de-code-source-des-organismes-publics/,7,0,MIT License,2,Python,"codes-sources-fr,government,open-source"
+data-codes-sources-fr,etalab,GitHub,https://github.com/etalab/data-codes-sources-fr,Métadonnées des dépôts de code d'organismes publics en France,False,2018-12-30T14:20:30Z,2019-03-05T15:21:22Z,https://www.data.gouv.fr/fr/datasets/inventaire-des-depots-de-code-source-des-organismes-publics/,7,0,MIT License,2,Python,"codes-sources-fr,government,open-source"
 adresses-util,etalab,GitHub,https://github.com/etalab/adresses-util,,False,2019-01-02T23:15:00Z,2019-02-06T16:06:39Z,,0,0,MIT License,0,JavaScript,
 adresses-ftth,etalab,GitHub,https://github.com/etalab/adresses-ftth,Extraction des adresses contenues dans les fichiers de déploiement FTTH,False,2019-01-02T23:38:15Z,2019-03-01T15:39:43Z,,0,0,MIT License,0,JavaScript,
 adresses-aggregate,etalab,GitHub,https://github.com/etalab/adresses-aggregate,Agrégation d'adresses de sources multiples,False,2019-01-08T07:25:23Z,2019-01-08T07:25:52Z,,0,0,MIT License,0,,
 ox-html-timeline,etalab,GitHub,https://github.com/etalab/ox-html-timeline,Create HTML timelines by exporting .org files,True,2019-01-24T17:46:31Z,2019-01-24T17:46:33Z,,0,0,,0,Emacs Lisp,
 csv2html,etalab,GitHub,https://github.com/etalab/csv2html,,True,2019-01-24T17:47:17Z,2019-01-24T17:47:20Z,,0,0,Eclipse Public License 1.0,0,Clojure,
 js-normadresse,etalab,GitHub,https://github.com/etalab/js-normadresse,Normalisation des libellés de voie selon la norme postale,False,2019-01-29T14:09:20Z,2019-02-18T08:33:10Z,,1,0,,2,JavaScript,
-data.etalab.studio,etalab,GitHub,https://github.com/etalab/data.etalab.studio,⧊ playground | news ideas | open data portal,False,2019-02-02T21:12:03Z,2019-03-05T14:21:05Z,https://data.etalab.studio,0,1,,1,HTML,
+data.etalab.studio,etalab,GitHub,https://github.com/etalab/data.etalab.studio,⧊ playground | news ideas | open data portal,False,2019-02-02T21:12:03Z,2019-03-05T16:27:52Z,https://data.etalab.studio,0,1,,0,HTML,
 notebooks,etalab,GitHub,https://github.com/etalab/notebooks,🤓 📓 📊,False,2019-02-12T13:18:08Z,2019-02-28T14:50:00Z,,0,0,,0,Jupyter Notebook,
 franceconnect-rne,etalab,GitHub,https://github.com/etalab/franceconnect-rne,Expérimentation de croisement entre FranceConnect et le Répertoire National des Élus,False,2019-02-12T14:16:12Z,2019-02-12T14:21:57Z,,0,0,MIT License,0,JavaScript,
 autopsy,etalab,GitHub,https://github.com/etalab/autopsy,⏲️ 🤖 📚  service d'exécution automatique et de publication de notebooks,False,2019-02-27T16:56:05Z,2019-03-05T09:18:14Z,,0,1,,0,Dockerfile,
