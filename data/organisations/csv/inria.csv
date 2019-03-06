@@ -1,0 +1,2 @@
+login,description,nom,organisation_url,site_web,adresse,email,est_verifiee,nombre_repertoires,date_creation,plateforme
+INRIA,"Inria, the French National Institute for computer science and applied mathematics",Inria,https://github.com/INRIA,https://www.inria.fr/,,,False,15,2012-12-03T13:03:05Z,GitHub
