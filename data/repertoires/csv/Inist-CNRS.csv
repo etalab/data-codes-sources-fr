@@ -69,7 +69,7 @@ jussieu-web-home,Inist-CNRS,GitHub,https://github.com/Inist-CNRS/jussieu-web-hom
 ezmaster-mongo,Inist-CNRS,GitHub,https://github.com/Inist-CNRS/ezmaster-mongo,Ezmasterization of mongodb,False,2017-11-08T18:07:43Z,2018-07-16T16:23:09Z,,0,0,,0,Shell,
 ezmaster-web-term,Inist-CNRS,GitHub,https://github.com/Inist-CNRS/ezmaster-web-term,Web terminal used for debugging ezmaster stuff,False,2017-12-06T20:35:29Z,2017-12-06T20:36:52Z,,0,0,,1,Makefile,
 node-config-component,Inist-CNRS,GitHub,https://github.com/Inist-CNRS/node-config-component,YAML config for nodejs,False,2018-01-23T13:07:33Z,2018-06-19T10:36:28Z,,3,0,MIT License,0,JavaScript,
-lodex-workers,Inist-CNRS,GitHub,https://github.com/Inist-CNRS/lodex-workers,,False,2018-04-03T08:46:00Z,2019-02-08T11:39:02Z,,0,0,,0,JavaScript,
+lodex-workers,Inist-CNRS,GitHub,https://github.com/Inist-CNRS/lodex-workers,,False,2018-04-03T08:46:00Z,2019-03-07T13:43:23Z,,0,0,,0,JavaScript,
 ezmaster-mysql,Inist-CNRS,GitHub,https://github.com/Inist-CNRS/ezmaster-mysql,MySQL for EzMaster,False,2018-05-10T07:04:06Z,2019-01-03T08:30:25Z,,0,0,,0,Shell,
 ezmaster-phpserver,Inist-CNRS,GitHub,https://github.com/Inist-CNRS/ezmaster-phpserver,PHP and Apache web server for EzMaster (usefull for Wordpress),False,2018-05-10T07:08:16Z,2018-06-12T16:38:44Z,,1,0,,0,Shell,
 ezmaster-gitbook,Inist-CNRS,GitHub,https://github.com/Inist-CNRS/ezmaster-gitbook,Gitbook for EzMaster,False,2018-05-14T16:46:28Z,2018-07-17T09:11:55Z,,1,0,MIT License,0,Shell,"docker,ezmaster,gitbook"
