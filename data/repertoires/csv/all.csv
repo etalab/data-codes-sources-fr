@@ -114,7 +114,7 @@ assets_debian,clipos,GitHub,https://github.com/clipos/assets_debian,Vendored Deb
 assets_distfiles,clipos,GitHub,https://github.com/clipos/assets_distfiles,Vendored Gentoo distfiles,False,2018-09-20T09:26:15Z,2019-03-06T15:31:29Z,https://clip-os.org,2,0,,0,Roff,
 assets_gentoo,clipos,GitHub,https://github.com/clipos/assets_gentoo,Vendored Gentoo Hardened stage3 rootfs,False,2018-09-20T09:26:20Z,2018-12-20T13:15:59Z,https://clip-os.org,3,0,,0,,
 assets_toolkit,clipos,GitHub,https://github.com/clipos/assets_toolkit,Vendored Python dependencies for toolkit,False,2018-09-20T09:26:25Z,2019-01-07T11:05:58Z,https://clip-os.org,4,0,,0,,
-bugs,clipos,GitHub,https://github.com/clipos/bugs,CLIP OS issue tracker,False,2018-09-20T09:26:30Z,2018-11-23T01:06:49Z,https://clip-os.org,22,1,,11,,
+bugs,clipos,GitHub,https://github.com/clipos/bugs,CLIP OS issue tracker,False,2018-09-20T09:26:30Z,2018-11-23T01:06:49Z,https://clip-os.org,22,1,,12,,
 manifest,clipos,GitHub,https://github.com/clipos/manifest,CLIP OS Manifest,False,2018-09-20T09:26:35Z,2019-03-05T16:03:46Z,https://clip-os.org,4,0,GNU Lesser General Public License v2.1,0,,
 products_clipos,clipos,GitHub,https://github.com/clipos/products_clipos,CLIP OS product recipes,False,2018-09-20T09:26:40Z,2019-03-06T15:31:23Z,https://clip-os.org,54,5,GNU Lesser General Public License v2.1,0,Shell,
 src_portage_clipos,clipos,GitHub,https://github.com/clipos/src_portage_clipos,CLIP OS portage overlay,False,2018-09-20T09:26:46Z,2019-03-06T15:31:26Z,https://clip-os.org,1,4,GNU General Public License v2.0,0,Shell,
@@ -730,7 +730,7 @@ preuve-covoiturage-doc,betagouv,GitHub,https://github.com/betagouv/preuve-covoit
 react-final-form-utils,betagouv,GitHub,https://github.com/betagouv/react-final-form-utils,"Decorators, validators and string helpers for classic email, password, loading fields in a react final form",False,2019-02-06T14:31:20Z,2019-02-27T15:19:45Z,,1,0,MIT License,0,JavaScript,
 redux-saga-data,betagouv,GitHub,https://github.com/betagouv/redux-saga-data,A lib for fetching normalized data in a redux store through sagas,False,2019-02-06T23:49:28Z,2019-03-09T15:19:31Z,,0,0,MIT License,0,JavaScript,
 la-sass-vy,betagouv,GitHub,https://github.com/betagouv/la-sass-vy,A very very lightweight sass utility,False,2019-02-07T15:59:05Z,2019-03-02T10:59:43Z,,0,0,MIT License,0,CSS,
-monstage,betagouv,GitHub,https://github.com/betagouv/monstage,,False,2019-02-08T16:41:12Z,2019-03-09T08:15:23Z,,1,0,,0,Ruby,
+monstage,betagouv,GitHub,https://github.com/betagouv/monstage,,False,2019-02-08T16:41:12Z,2019-03-10T12:34:16Z,,1,0,,0,Ruby,
 mdph-redirect,betagouv,GitHub,https://github.com/betagouv/mdph-redirect,Redirection de mdph.beta.gouv.fr vers https://mdphenligne.cnsa.fr/,False,2019-02-21T10:53:39Z,2019-02-21T11:17:10Z,,0,0,,0,Ruby,
 competences-pro-serveur,betagouv,GitHub,https://github.com/betagouv/competences-pro-serveur,Serveur et espace d'aministration pour Compétences pro,False,2019-02-27T10:35:38Z,2019-03-04T15:52:14Z,,0,0,GNU Affero General Public License v3.0,2,Ruby,
 react-loading-infinite-scroller,betagouv,GitHub,https://github.com/betagouv/react-loading-infinite-scroller,Wrapper of react-infinite-scroller to shape better with a loading request list rendering,False,2019-02-27T12:56:39Z,2019-02-27T15:26:21Z,,0,0,MIT License,0,JavaScript,
@@ -749,7 +749,7 @@ mooshika,cea-hpc,GitHub,https://github.com/cea-hpc/mooshika,RDMA abstraction lay
 wi4mpi,cea-hpc,GitHub,https://github.com/cea-hpc/wi4mpi,Wrapper interface for MPI,False,2016-08-03T12:38:57Z,2019-02-12T12:02:00Z,,15,1,,2,C,
 hp2p,cea-hpc,GitHub,https://github.com/cea-hpc/hp2p,Heavy Peer To Peer: a MPI based benchmark for network diagnostic,False,2017-02-15T13:54:08Z,2019-01-11T07:25:37Z,,9,0,Other,1,C++,"benchmark,hpc,hpc-applications,mpi,network,network-analysis,parallel,parallel-computing,tool"
 selFIe,cea-hpc,GitHub,https://github.com/cea-hpc/selFIe,Self and Light proFIling Engine - a very light profiling tools for Linux commands and HPC codes,False,2017-02-15T13:56:58Z,2018-12-14T08:20:50Z,,7,4,Other,1,C,"light-profiling-engine,linux,mpi,papi,profile,profiling,selfie"
-modules,cea-hpc,GitHub,https://github.com/cea-hpc/modules,Environment Modules: provides dynamic modification of a user's environment,False,2017-03-14T05:10:41Z,2019-03-08T18:58:00Z,http://modules.sourceforge.net/,136,31,GNU General Public License v2.0,32,Tcl,"environment,environment-modules,hpc,module,modulefiles,shell,tcl"
+modules,cea-hpc,GitHub,https://github.com/cea-hpc/modules,Environment Modules: provides dynamic modification of a user's environment,False,2017-03-14T05:10:41Z,2019-03-10T14:14:44Z,http://modules.sourceforge.net/,137,31,GNU General Public License v2.0,32,Tcl,"environment,environment-modules,hpc,module,modulefiles,shell,tcl"
 fleet,cea-hpc,GitHub,https://github.com/cea-hpc/fleet,fleet ties together systemd and etcd into a distributed init system,True,2017-07-06T14:55:15Z,2019-01-17T07:55:16Z,,0,0,Apache License 2.0,0,Go,
 pcocc,cea-hpc,GitHub,https://github.com/cea-hpc/pcocc,Run VMs on an HPC cluster,False,2017-09-18T13:42:32Z,2019-02-07T14:38:05Z,,17,3,GNU General Public License v3.0,3,Python,
 kvsns,cea-hpc,GitHub,https://github.com/cea-hpc/kvsns,Implements a POSIX Name Space using the services of a Key-Value Store,False,2018-05-25T13:54:07Z,2018-05-25T13:56:26Z,,0,0,,0,Perl,
@@ -1171,7 +1171,7 @@ format-subventions,etalab,GitHub,https://github.com/etalab/format-subventions,,F
 Pathologies_allergiques,etalab,GitHub,https://github.com/etalab/Pathologies_allergiques,Petite étude sur les pathologies allergiques en France,False,2017-06-09T10:06:43Z,2018-02-23T03:30:48Z,,3,0,,0,Jupyter Notebook,
 carto_actions_collectives,etalab,GitHub,https://github.com/etalab/carto_actions_collectives,,False,2017-06-12T12:00:23Z,2018-01-22T18:48:44Z,,0,0,,0,HTML,
 osm-wms,etalab,GitHub,https://github.com/etalab/osm-wms,Expérimentation d'un service WMS diffusant les données OSM France,False,2017-06-12T21:09:10Z,2018-12-19T14:46:29Z,,1,0,,0,Python,
-entreprise.data.gouv.fr,etalab,GitHub,https://github.com/etalab/entreprise.data.gouv.fr,"Front-end pour les API open-data, notamment Sirene et RNA",False,2017-06-16T12:10:17Z,2019-03-09T11:54:22Z,https://entreprise.data.gouv.fr/,5,7,MIT License,20,Vue,"etalab,opengouv,sirene"
+entreprise.data.gouv.fr,etalab,GitHub,https://github.com/etalab/entreprise.data.gouv.fr,"Front-end pour les API open-data, notamment Sirene et RNA",False,2017-06-16T12:10:17Z,2019-03-10T11:44:45Z,https://entreprise.data.gouv.fr/,5,7,MIT License,21,Vue,"etalab,opengouv,sirene"
 csv_detective,etalab,GitHub,https://github.com/etalab/csv_detective,CSV inspection,True,2017-06-20T16:07:38Z,2018-04-10T14:33:46Z,,4,1,,0,Python,
 apientreprise,etalab,GitHub,https://github.com/etalab/apientreprise,,False,2017-06-21T10:59:10Z,2018-01-22T18:48:47Z,,2,0,MIT License,0,,
 piwik_logs,etalab,GitHub,https://github.com/etalab/piwik_logs,,False,2017-06-21T11:38:13Z,2018-01-22T18:48:47Z,,0,3,,1,Jupyter Notebook,
@@ -1208,7 +1208,7 @@ datasets_reco,etalab,GitHub,https://github.com/etalab/datasets_reco,datasets rec
 munin-plugins,etalab,GitHub,https://github.com/etalab/munin-plugins,A collection of plugins for Munin used @Etalab.,False,2017-12-21T15:00:51Z,2019-02-21T08:48:10Z,,0,1,,0,Python,
 Algo_gouv,etalab,GitHub,https://github.com/etalab/Algo_gouv,Scraping Legifrance to find algorithms that are used by the administration,False,2018-01-11T10:35:04Z,2018-11-04T01:16:45Z,,1,0,,0,Jupyter Notebook,
 dfi,etalab,GitHub,https://github.com/etalab/dfi,Outils permettant de manipuler les données de filiation des parcelles cadastrales,False,2018-01-17T10:21:49Z,2018-01-17T10:21:49Z,,0,0,MIT License,0,,
-entreprise.api.gouv.fr,etalab,GitHub,https://github.com/etalab/entreprise.api.gouv.fr,,False,2018-02-13T11:35:12Z,2019-02-05T09:46:22Z,,1,1,,3,CSS,
+entreprise.api.gouv.fr,etalab,GitHub,https://github.com/etalab/entreprise.api.gouv.fr,,False,2018-02-13T11:35:12Z,2019-03-10T13:42:20Z,,1,1,,2,CSS,
 scpc-as-api,etalab,GitHub,https://github.com/etalab/scpc-as-api,API par dessus le Service de Consultation du Plan Cadastral de la DGFiP,False,2018-02-20T21:12:52Z,2018-02-23T02:46:49Z,,1,0,MIT License,0,JavaScript,
 geo.data.gouv.fr-components,etalab,GitHub,https://github.com/etalab/geo.data.gouv.fr-components,,False,2018-02-21T09:31:36Z,2018-02-21T09:31:55Z,,0,0,MIT License,1,,
 datagouv-search-indicator,etalab,GitHub,https://github.com/etalab/datagouv-search-indicator,Keep track of udata search results accross time and generate a static site to explore them,False,2018-02-23T16:39:38Z,2018-06-06T16:09:12Z,https://etalab.github.io/datagouv-search-indicator/,1,0,MIT License,2,Vue,
@@ -1237,7 +1237,7 @@ wiki-data-gouv,etalab,GitHub,https://github.com/etalab/wiki-data-gouv,Garagethon
 monReseauMobile,etalab,GitHub,https://github.com/etalab/monReseauMobile,The french and official mobile services observatory,True,2018-05-30T17:48:48Z,2018-05-30T17:48:50Z,https://www.monreseaumobile.fr/,0,0,MIT License,0,JavaScript,
 tiles.data.gouv.fr,etalab,GitHub,https://github.com/etalab/tiles.data.gouv.fr,Fonds de carte de qualité utilisables par tous,False,2018-06-11T07:41:46Z,2018-10-08T09:40:53Z,,10,1,MIT License,1,JavaScript,
 schema.data.gouv.fr,etalab,GitHub,https://github.com/etalab/schema.data.gouv.fr,Schémas de données ouvertes sur des formats réglementaires ou non,False,2018-06-22T18:59:13Z,2019-02-21T10:37:57Z,,5,3,,4,Jupyter Notebook,opendata
-rncs_worker_api_entreprise,etalab,GitHub,https://github.com/etalab/rncs_worker_api_entreprise,,False,2018-07-12T18:45:02Z,2019-03-07T18:22:04Z,,3,0,MIT License,22,Ruby,
+rncs_worker_api_entreprise,etalab,GitHub,https://github.com/etalab/rncs_worker_api_entreprise,,False,2018-07-12T18:45:02Z,2019-03-10T14:19:01Z,,3,0,MIT License,22,Ruby,
 rna_as_api,etalab,GitHub,https://github.com/etalab/rna_as_api,Une API pour le fichier RNA,False,2018-07-13T01:07:03Z,2019-02-13T15:45:18Z,,1,0,MIT License,3,Ruby,
 plf,etalab,GitHub,https://github.com/etalab/plf,Mise en forme du PLF,False,2018-07-20T14:53:33Z,2018-07-20T15:06:55Z,,0,0,,0,R,
 taxe-habitation,etalab,GitHub,https://github.com/etalab/taxe-habitation,Code source de la taxe d'habitation 2017,False,2018-08-08T13:24:47Z,2019-02-09T18:49:54Z,,73,16,Other,4,C,"fiscal,taxe-d-habitation,taxes"
@@ -1258,7 +1258,7 @@ transpo-rt,etalab,GitHub,https://github.com/etalab/transpo-rt,Simple API for pub
 fantoir-parser,etalab,GitHub,https://github.com/etalab/fantoir-parser,Analyseur de fichiers FANTOIR,False,2018-11-21T14:08:50Z,2018-11-21T15:53:16Z,,0,0,MIT License,0,JavaScript,
 adresses-locales,etalab,GitHub,https://github.com/etalab/adresses-locales,Agrégation des bases Adresse locales,False,2018-11-22T10:39:53Z,2019-03-04T13:27:10Z,,1,0,MIT License,0,JavaScript,
 munin-theme,etalab,GitHub,https://github.com/etalab/munin-theme,,False,2018-12-17T11:15:41Z,2018-12-17T12:06:22Z,,0,0,MIT License,0,JavaScript,
-data-codes-sources-fr,etalab,GitHub,https://github.com/etalab/data-codes-sources-fr,Métadonnées des dépôts de code d'organismes publics en France,False,2018-12-30T14:20:30Z,2019-03-10T07:20:45Z,https://www.data.gouv.fr/fr/datasets/inventaire-des-depots-de-code-source-des-organismes-publics/,7,0,MIT License,2,Python,"codes-sources-fr,government,open-source"
+data-codes-sources-fr,etalab,GitHub,https://github.com/etalab/data-codes-sources-fr,Métadonnées des dépôts de code d'organismes publics en France,False,2018-12-30T14:20:30Z,2019-03-10T11:20:48Z,https://www.data.gouv.fr/fr/datasets/inventaire-des-depots-de-code-source-des-organismes-publics/,7,0,MIT License,2,Python,"codes-sources-fr,government,open-source"
 adresses-util,etalab,GitHub,https://github.com/etalab/adresses-util,,False,2019-01-02T23:15:00Z,2019-02-06T16:06:39Z,,0,0,MIT License,0,JavaScript,
 adresses-ftth,etalab,GitHub,https://github.com/etalab/adresses-ftth,Extraction des adresses contenues dans les fichiers de déploiement FTTH,False,2019-01-02T23:38:15Z,2019-03-01T15:39:43Z,,0,0,MIT License,0,JavaScript,
 adresses-aggregate,etalab,GitHub,https://github.com/etalab/adresses-aggregate,Agrégation d'adresses de sources multiples,False,2019-01-08T07:25:23Z,2019-01-08T07:25:52Z,,0,0,MIT License,0,,
@@ -1576,7 +1576,7 @@ fun-translations,openfun,GitHub,https://github.com/openfun/fun-translations,Cust
 edx-analytics-dashboard,openfun,GitHub,https://github.com/openfun/edx-analytics-dashboard,Dashboard to display course analytics to course teams,True,2017-02-15T10:55:30Z,2017-02-15T10:55:35Z,,0,0,GNU Affero General Public License v3.0,0,Python,
 svg-converter,openfun,GitHub,https://github.com/openfun/svg-converter,,False,2017-08-07T10:30:45Z,2017-08-07T12:50:43Z,https://www.fun-mooc.fr,0,1,,1,Python,
 edx-ora2,openfun,GitHub,https://github.com/openfun/edx-ora2,Open Response Assessment Suite,True,2017-11-06T09:07:25Z,2017-11-06T09:07:29Z,,0,0,GNU Affero General Public License v3.0,0,Python,
-richie,openfun,GitHub,https://github.com/openfun/richie,🐬 A CMS for Open Education,False,2017-11-20T09:23:40Z,2019-03-09T17:18:02Z,,25,10,MIT License,45,Python,"catalog,cms,lms,moodle,openeducation,openedx"
+richie,openfun,GitHub,https://github.com/openfun/richie,🐬 A CMS for Open Education,False,2017-11-20T09:23:40Z,2019-03-10T13:22:18Z,,26,10,MIT License,45,Python,"catalog,cms,lms,moodle,openeducation,openedx"
 cs_comments_service,openfun,GitHub,https://github.com/openfun/cs_comments_service,server side of the comment service,True,2017-11-29T12:47:33Z,2017-11-29T12:47:35Z,,0,0,GNU Affero General Public License v3.0,0,Ruby,
 django-wiki,openfun,GitHub,https://github.com/openfun/django-wiki,A wiki system with complex functionality for simple integration and a superb interface. Store your knowledge with style: Use django models.,True,2017-12-18T15:43:17Z,2017-12-18T15:43:20Z,,0,0,GNU General Public License v3.0,0,Python,
 openedx-docker,openfun,GitHub,https://github.com/openfun/openedx-docker,:whale: A best practice Docker image of Open edX,False,2018-02-07T10:07:28Z,2019-02-25T18:46:05Z,,19,13,GNU Affero General Public License v3.0,7,Python,"django,docker,docker-image,edx,edx-platform,lms,openeducation,openedx"
