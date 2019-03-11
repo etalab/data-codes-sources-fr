@@ -21,3 +21,4 @@ space9,cea-hpc,GitHub,https://github.com/cea-hpc/space9,A library implementing a
 NabLab,cea-hpc,GitHub,https://github.com/cea-hpc/NabLab,Full-fledged industrial environment for scientific computing and High Performance Computing,False,2018-07-20T14:43:48Z,2019-02-27T18:00:18Z,,1,1,Other,0,Java,
 krb5,cea-hpc,GitHub,https://github.com/cea-hpc/krb5,mirror of MIT krb5 repository,True,2018-09-26T13:25:39Z,2018-09-26T15:15:24Z,,0,0,,5,C,
 heimdal,cea-hpc,GitHub,https://github.com/cea-hpc/heimdal,Heimdal,True,2018-10-02T12:17:02Z,2018-10-02T13:33:41Z,http://www.h5l.org/,0,0,Other,0,C,
+vbridge,cea-hpc,GitHub,https://github.com/cea-hpc/vbridge,X11 cloud desktop software,True,2019-03-11T09:45:32Z,2019-03-11T09:46:56Z,,0,0,"BSD 3-Clause ""New"" or ""Revised"" License",0,C,
