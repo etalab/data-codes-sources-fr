@@ -18,4 +18,4 @@ gn_module_import,PnX-SI,GitHub,https://github.com/PnX-SI/gn_module_import,Module
 GeoNature-R-package,PnX-SI,GitHub,https://github.com/PnX-SI/GeoNature-R-package,Package R pour la synthèse des données GeoNature,False,2019-01-08T14:26:20Z,2019-02-11T13:59:53Z,,1,1,GNU General Public License v3.0,4,,
 gn_mobile_core,PnX-SI,GitHub,https://github.com/PnX-SI/gn_mobile_core,Module GeoNature de synchronisation mobile,False,2019-02-11T14:48:20Z,2019-02-13T12:32:05Z,,1,0,,2,,
 gn_mobile_occtax,PnX-SI,GitHub,https://github.com/PnX-SI/gn_mobile_occtax,Application mobile pour la saisie dans le module Occtax de GeoNature,False,2019-02-11T15:28:12Z,2019-03-06T13:50:28Z,,1,0,GNU General Public License v3.0,3,,
-gn_mobile_sft,PnX-SI,GitHub,https://github.com/PnX-SI/gn_mobile_sft,Application mobile du module GeoNature Suivi Flore Territoire,False,2019-03-06T13:48:17Z,2019-03-11T16:00:00Z,,0,0,GNU General Public License v3.0,0,TypeScript,
+gn_mobile_sft,PnX-SI,GitHub,https://github.com/PnX-SI/gn_mobile_sft,Application mobile du module GeoNature Suivi Flore Territoire,False,2019-03-06T13:48:17Z,2019-03-12T10:16:43Z,,0,0,GNU General Public License v3.0,0,TypeScript,
