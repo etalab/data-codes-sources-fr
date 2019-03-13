@@ -24,7 +24,7 @@ geoxygene-ojplugin,IGNF,GitHub,https://github.com/IGNF/geoxygene-ojplugin,,False
 geoxygene-wps,IGNF,GitHub,https://github.com/IGNF/geoxygene-wps,,False,2016-04-19T15:22:40Z,2016-04-19T15:23:28Z,,0,0,Other,0,Java,
 geoxygene-geopensim,IGNF,GitHub,https://github.com/IGNF/geoxygene-geopensim,,False,2016-04-19T15:27:59Z,2016-04-19T15:28:38Z,,0,0,,0,Java,
 geoxygene-pea-rep,IGNF,GitHub,https://github.com/IGNF/geoxygene-pea-rep,,False,2016-04-19T15:32:34Z,2016-04-19T15:33:12Z,,0,0,Other,0,Java,
-geoxygene-sig3d-appli,IGNF,GitHub,https://github.com/IGNF/geoxygene-sig3d-appli,Scripts developed from 3D module of GeOxygene (https://github.com/IGNF/geoxygene),False,2016-04-19T15:36:17Z,2018-10-19T09:03:16Z,,3,2,Other,0,Java,
+geoxygene-sig3d-appli,IGNF,GitHub,https://github.com/IGNF/geoxygene-sig3d-appli,Scripts developed from 3D module of GeOxygene (https://github.com/IGNF/geoxygene),False,2016-04-19T15:36:17Z,2018-10-19T09:03:16Z,,3,3,Other,0,Java,
 PLU2PLUS,IGNF,GitHub,https://github.com/IGNF/PLU2PLUS,Code for the experiments of the PLU++ project,False,2016-05-26T09:54:36Z,2017-07-20T12:54:01Z,,3,0,,0,JavaScript,
 SIGOPT,IGNF,GitHub,https://github.com/IGNF/SIGOPT,Repository for the SIGOPT project ,False,2016-05-26T15:11:33Z,2016-11-03T16:45:30Z,,1,0,,0,Scilab,
 geoportal-extensions,IGNF,GitHub,https://github.com/IGNF/geoportal-extensions,French Geoportal Extensions for well-known javascript mapping libraries (Leaflet and OpenLayers),False,2016-06-06T08:27:12Z,2019-02-20T00:36:50Z,,26,15,Other,24,JavaScript,"3d,geoportail,geoportal-extensions,itowns,leaflet,openlayers"
