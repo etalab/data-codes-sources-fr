@@ -154,7 +154,7 @@ pass-culture-datascience,betagouv,GitHub,https://github.com/betagouv/pass-cultur
 mes-aides-dockerfiles,betagouv,GitHub,https://github.com/betagouv/mes-aides-dockerfiles,Build Docker images for CircleCI,False,2018-12-05T10:16:26Z,2018-12-05T10:34:26Z,,0,0,,0,Dockerfile,
 dns,betagouv,GitHub,https://github.com/betagouv/dns,,False,2018-12-18T14:53:11Z,2018-12-18T15:37:46Z,,0,0,,0,,
 api-auth,betagouv,GitHub,https://github.com/betagouv/api-auth,,False,2018-12-18T16:07:05Z,2019-03-05T18:33:24Z,,0,1,MIT License,0,JavaScript,
-gps-usagers,betagouv,GitHub,https://github.com/betagouv/gps-usagers,Réduire les appels sans réponse dans le département du Calvados,False,2018-12-19T13:45:42Z,2019-03-13T15:00:24Z,,1,1,,0,JavaScript,
+gps-usagers,betagouv,GitHub,https://github.com/betagouv/gps-usagers,Réduire les appels sans réponse dans le département du Calvados,False,2018-12-19T13:45:42Z,2019-03-13T21:15:31Z,,1,1,,0,JavaScript,
 pop,betagouv,GitHub,https://github.com/betagouv/pop,Plateforme Ouverte du Patrimoine,False,2019-01-07T09:31:05Z,2019-03-13T14:59:17Z,https://pop.culture.gouv.fr/,3,2,MIT License,6,JavaScript,"betagouv,culture"
 redux-react-modals,betagouv,GitHub,https://github.com/betagouv/redux-react-modals,React lib displaying a layer of modals through redux actions,False,2019-02-04T13:37:57Z,2019-03-01T23:01:27Z,,0,0,MIT License,0,JavaScript,
 with-query-router,betagouv,GitHub,https://github.com/betagouv/with-query-router,A small wrapper of react-router parsing the query params from the location.search,False,2019-02-04T16:22:48Z,2019-03-11T16:58:17Z,,0,0,MIT License,0,JavaScript,
