@@ -91,7 +91,7 @@ securite-numerique-agile,betagouv,GitHub,https://github.com/betagouv/securite-nu
 annuaire-api,betagouv,GitHub,https://github.com/betagouv/annuaire-api,Une API pour les données de l'annuaire de servic-public.fr,False,2017-12-19T17:44:41Z,2019-03-12T10:08:09Z,https://etablissements-publics.api.gouv.fr/,0,2,,20,JavaScript,
 openfisca-brestmetropole,betagouv,GitHub,https://github.com/betagouv/openfisca-brestmetropole,Extension OpenFisca pour Brest métropole,False,2018-01-03T13:43:01Z,2019-02-28T15:28:15Z,,1,0,GNU Affero General Public License v3.0,0,Python,
 pass-culture-browser,betagouv,GitHub,https://github.com/betagouv/pass-culture-browser,,False,2018-01-03T14:34:35Z,2019-03-14T15:15:23Z,,6,2,,389,JavaScript,
-pass-culture-doc,betagouv,GitHub,https://github.com/betagouv/pass-culture-doc,,False,2018-01-04T13:10:05Z,2019-03-15T19:17:28Z,,1,1,,0,Shell,
+pass-culture-doc,betagouv,GitHub,https://github.com/betagouv/pass-culture-doc,,False,2018-01-04T13:10:05Z,2019-03-15T19:17:28Z,,1,1,,1,Shell,
 signup.api.gouv.fr,betagouv,GitHub,https://github.com/betagouv/signup.api.gouv.fr,,False,2018-01-08T09:47:51Z,2018-12-18T10:13:26Z,http://signup.api.gouv.fr/,4,0,,1,,
 signup-back,betagouv,GitHub,https://github.com/betagouv/signup-back,,False,2018-01-08T10:06:50Z,2019-03-05T10:50:30Z,,0,2,,1,Ruby,
 signup-oauth,betagouv,GitHub,https://github.com/betagouv/signup-oauth,,False,2018-01-08T10:10:53Z,2019-01-03T17:25:40Z,,0,0,,0,Ruby,
