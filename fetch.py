@@ -12,7 +12,7 @@ def fetch_orgs():
     orgs = []
 
     resp = urlopen(
-        "https://raw.githubusercontent.com/DISIC/politique-de-contribution-open-source/master/OrgAccounts"
+        "https://raw.githubusercontent.com/DISIC/politique-de-contribution-open-source/master/comptes-organismes-publics"
     )
     data = BytesIO(resp.read())
     for line in [l.decode("utf-8").strip() for l in data]:

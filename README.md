@@ -10,7 +10,7 @@ Le but de ce dépôt est de :
 
 Ne sont pour l'instant traités que les comptes présents sur GitHub. Les comptes présents sur d'autres plates-formes (par exemple GitLab) pourront être intégrés dans un second temps.
 
-Pour ajouter le compte d'organisation de votre organisme, vous pouvez proposer de modifier [le fichier](https://github.com/DISIC/politique-de-contribution-open-source/blob/master/OrgAccounts) pertinent dans le dépôt de la DINSIC relatif à la Politique de Contribution Open Source de l'État.
+Pour ajouter le compte d'organisation de votre organisme, vous pouvez proposer de modifier [le fichier](https://github.com/DISIC/politique-de-contribution-open-source/blob/master/comptes-organismes-publics) pertinent dans le dépôt de la DINSIC relatif à la Politique de Contribution Open Source de l'État.
 
 ## Déploiement et hébergement
 Les données sont mises à jour régulièrement [grâce à CircleCI](https://circleci.com/gh/etalab/data-codes-sources-fr).
