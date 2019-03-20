@@ -36,7 +36,7 @@ NeatMap,IGNF,GitHub,https://github.com/IGNF/NeatMap,A simple QGIS python plugin 
 geoportal-sdk,IGNF,GitHub,https://github.com/IGNF/geoportal-sdk,French Geoportal SDK Javascript,False,2016-12-06T22:45:41Z,2019-03-01T11:11:14Z,,18,5,Other,5,HTML,
 ContinuousGeneralisation,IGNF,GitHub,https://github.com/IGNF/ContinuousGeneralisation,Algorithms for continuous generalisation with ArcGIS,False,2016-12-14T09:37:40Z,2019-03-19T12:52:30Z,,4,1,GNU Lesser General Public License v3.0,0,C++,
 libxmls,IGNF,GitHub,https://github.com/IGNF/libxmls,,False,2017-02-13T09:28:32Z,2017-02-13T09:28:32Z,,0,0,,0,,
-geoportal-wfs-client,IGNF,GitHub,https://github.com/IGNF/geoportal-wfs-client,Client JavaScript simplifiant l'accès aux WFS du géoportail (GeoJSON),False,2017-02-24T15:56:52Z,2018-05-11T08:52:14Z,,3,1,Other,4,JavaScript,
+geoportal-wfs-client,IGNF,GitHub,https://github.com/IGNF/geoportal-wfs-client,Client JavaScript simplifiant l'accès aux WFS du géoportail (GeoJSON),False,2017-02-24T15:56:52Z,2019-03-20T13:53:36Z,,3,1,Other,2,JavaScript,
 geoportail-urbanisme-dev,IGNF,GitHub,https://github.com/IGNF/geoportail-urbanisme-dev,Documentation développeur GPU en vue de hackurba,False,2017-02-24T16:05:06Z,2018-05-17T12:03:11Z,,3,0,,0,,
 CartAGen,IGNF,GitHub,https://github.com/IGNF/CartAGen,CartAGen is a plugin for GeOxygene dedicated to cartographic generalisation,False,2017-05-05T07:38:51Z,2019-02-13T15:45:24Z,https://ignf.github.io/CartAGen/,7,3,Other,4,Java,"cartography,generalization,multi-agent-systems"
 DSTGeoDataMatchingPlugin,IGNF,GitHub,https://github.com/IGNF/DSTGeoDataMatchingPlugin,Plugin QGis pour apparier des données géographiques en utilisant la théorie de Dempster–Shafer,False,2017-07-27T15:56:18Z,2017-07-27T15:56:18Z,,0,0,,1,,
