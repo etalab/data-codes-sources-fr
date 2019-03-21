@@ -46,7 +46,7 @@ lodex-widgets,Inist-CNRS,GitHub,https://github.com/Inist-CNRS/lodex-widgets,Widg
 wait-for-it,Inist-CNRS,GitHub,https://github.com/Inist-CNRS/wait-for-it,Pure bash script to test and wait on the availability of a TCP host and port,True,2016-08-24T19:31:50Z,2016-08-24T19:31:51Z,,0,0,MIT License,0,Shell,
 ezmaster-hexo,Inist-CNRS,GitHub,https://github.com/Inist-CNRS/ezmaster-hexo,Hexo blog framework illustrating ezmaster deployment capacities,False,2016-09-13T12:13:49Z,2016-09-15T05:48:38Z,,2,0,,0,Makefile,
 ezmaster-canvas,Inist-CNRS,GitHub,https://github.com/Inist-CNRS/ezmaster-canvas,"Just a simple Http Server, usefull if you need to 'ezmasterize' and application with ouput data",False,2016-10-13T11:32:02Z,2016-10-15T09:21:20Z,,1,0,MIT License,0,JavaScript,
-xpath-generator,Inist-CNRS,GitHub,https://github.com/Inist-CNRS/xpath-generator,Node.js xpaths & tree generator,False,2016-10-26T14:37:18Z,2017-06-10T07:59:16Z,,4,1,MIT License,2,JavaScript,"generator,list,nodejs,npm,tree,xml,xpaths"
+xpath-generator,Inist-CNRS,GitHub,https://github.com/Inist-CNRS/xpath-generator,Node.js xpaths & tree generator,False,2016-10-26T14:37:18Z,2019-03-21T14:14:27Z,,4,1,MIT License,2,JavaScript,"generator,list,nodejs,npm,tree,xml,xpaths"
 node-inist-ark,Inist-CNRS,GitHub,https://github.com/Inist-CNRS/node-inist-ark,"NodeJS package used to handle ""normalized"" ARK for the INIST organization",False,2016-10-26T19:08:31Z,2018-06-20T15:22:32Z,,7,0,,0,JavaScript,
 RefGPEC,Inist-CNRS,GitHub,https://github.com/Inist-CNRS/RefGPEC,Application de gestion d'un référentiel de profils/compétences pour une démarche GPEC,False,2016-12-26T16:39:07Z,2018-09-07T16:32:21Z,,1,0,,0,JavaScript,
 diachronic-explorer,Inist-CNRS,GitHub,https://github.com/Inist-CNRS/diachronic-explorer,Diachronic'Explorer,True,2017-01-10T09:33:02Z,2017-11-09T19:24:34Z,,0,0,GNU General Public License v2.0,1,HTML,
@@ -76,5 +76,5 @@ ezmaster-gitbook,Inist-CNRS,GitHub,https://github.com/Inist-CNRS/ezmaster-gitboo
 ezmaster-jekyll,Inist-CNRS,GitHub,https://github.com/Inist-CNRS/ezmaster-jekyll,Jekyll for ezmaster!,False,2018-06-14T14:07:05Z,2018-07-12T13:22:45Z,,0,0,,0,Shell,
 node-ezs-lodex,Inist-CNRS,GitHub,https://github.com/Inist-CNRS/node-ezs-lodex,A collection of ezs functions for Lodex,False,2018-06-23T10:41:13Z,2019-03-20T22:22:04Z,,0,0,,0,JavaScript,"ezs,json-ld,lodex,stream"
 lodex-doc-gitbook-config,Inist-CNRS,GitHub,https://github.com/Inist-CNRS/lodex-doc-gitbook-config,,False,2018-09-21T09:29:25Z,2018-09-21T09:29:53Z,,0,0,,0,,
-computron,Inist-CNRS,GitHub,https://github.com/Inist-CNRS/computron,Another Node.js library for applying XSLT stylesheets to XML documents,False,2018-09-25T09:13:14Z,2018-11-09T13:33:44Z,,3,0,MIT License,0,C++,"addon,nodejs,xlst,xml"
+computron,Inist-CNRS,GitHub,https://github.com/Inist-CNRS/computron,Another Node.js library for applying XSLT stylesheets to XML documents,False,2018-09-25T09:13:14Z,2019-03-21T13:31:40Z,,3,0,MIT License,0,C++,"addon,nodejs,xlst,xml"
 lodex-styleguide,Inist-CNRS,GitHub,https://github.com/Inist-CNRS/lodex-styleguide,Style guide for Lodex,False,2018-10-10T13:20:06Z,2018-10-10T13:48:38Z,,0,0,,0,,
