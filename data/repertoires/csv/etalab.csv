@@ -153,7 +153,7 @@ rncs_worker_api_entreprise,etalab,GitHub,https://github.com/etalab/rncs_worker_a
 rna_as_api,etalab,GitHub,https://github.com/etalab/rna_as_api,Une API pour le fichier RNA,False,2018-07-13T01:07:03Z,2019-03-20T12:19:45Z,,1,0,MIT License,3,Ruby,
 plf,etalab,GitHub,https://github.com/etalab/plf,Mise en forme du PLF,False,2018-07-20T14:53:33Z,2018-07-20T15:06:55Z,,0,0,,0,R,
 taxe-habitation,etalab,GitHub,https://github.com/etalab/taxe-habitation,Code source de la taxe d'habitation 2017,False,2018-08-08T13:24:47Z,2019-02-09T18:49:54Z,,73,16,Other,4,C,"fiscal,taxe-d-habitation,taxes"
-etalab,etalab,GitHub,https://github.com/etalab/etalab,Livret de bienvenue destiné aux membres d’Etalab,False,2018-08-31T13:24:00Z,2019-03-11T10:47:06Z,https://etalab.github.io/etalab/,12,12,,1,HTML,
+etalab,etalab,GitHub,https://github.com/etalab/etalab,Livret de bienvenue destiné aux membres d’Etalab,False,2018-08-31T13:24:00Z,2019-03-30T15:09:54Z,https://etalab.github.io/etalab/,12,12,,1,HTML,
 etalab.studio,etalab,GitHub,https://github.com/etalab/etalab.studio,,False,2018-09-05T12:40:14Z,2019-01-02T13:15:03Z,,0,0,,0,HTML,
 contours-administratifs,etalab,GitHub,https://github.com/etalab/contours-administratifs,Scripts de génération des contours administratifs Etalab (ODbL),False,2018-09-17T12:56:13Z,2019-03-07T17:42:40Z,http://etalab-datasets.geo.data.gouv.fr/contours-administratifs/2018/geojson/,0,0,MIT License,0,JavaScript,
 cada_explore,etalab,GitHub,https://github.com/etalab/cada_explore,Exploring the CADA dataset,False,2018-09-28T07:58:56Z,2018-10-04T16:11:21Z,,2,0,,0,Jupyter Notebook,
@@ -170,7 +170,7 @@ transpo-rt,etalab,GitHub,https://github.com/etalab/transpo-rt,Simple API for pub
 fantoir-parser,etalab,GitHub,https://github.com/etalab/fantoir-parser,Analyseur de fichiers FANTOIR,False,2018-11-21T14:08:50Z,2018-11-21T15:53:16Z,,0,0,MIT License,0,JavaScript,
 adresses-locales,etalab,GitHub,https://github.com/etalab/adresses-locales,Agrégation des bases Adresse locales,False,2018-11-22T10:39:53Z,2019-03-22T22:08:40Z,,1,0,MIT License,0,JavaScript,
 munin-theme,etalab,GitHub,https://github.com/etalab/munin-theme,,False,2018-12-17T11:15:41Z,2018-12-17T12:06:22Z,,0,0,MIT License,0,JavaScript,
-data-codes-sources-fr,etalab,GitHub,https://github.com/etalab/data-codes-sources-fr,Métadonnées des dépôts de code d'organismes publics en France,False,2018-12-30T14:20:30Z,2019-03-30T07:20:41Z,https://www.data.gouv.fr/fr/datasets/inventaire-des-depots-de-code-source-des-organismes-publics/,7,0,MIT License,2,Python,"codes-sources-fr,government,open-source"
+data-codes-sources-fr,etalab,GitHub,https://github.com/etalab/data-codes-sources-fr,Métadonnées des dépôts de code d'organismes publics en France,False,2018-12-30T14:20:30Z,2019-03-30T11:20:42Z,https://www.data.gouv.fr/fr/datasets/inventaire-des-depots-de-code-source-des-organismes-publics/,7,0,MIT License,2,Python,"codes-sources-fr,government,open-source"
 adresses-util,etalab,GitHub,https://github.com/etalab/adresses-util,,False,2019-01-02T23:15:00Z,2019-02-06T16:06:39Z,,0,0,MIT License,1,JavaScript,
 adresses-ftth,etalab,GitHub,https://github.com/etalab/adresses-ftth,Extraction des adresses contenues dans les fichiers de déploiement FTTH,False,2019-01-02T23:38:15Z,2019-03-01T15:39:43Z,,0,0,MIT License,0,JavaScript,
 adresses-aggregate,etalab,GitHub,https://github.com/etalab/adresses-aggregate,Agrégation d'adresses de sources multiples,False,2019-01-08T07:25:23Z,2019-01-08T07:25:52Z,,0,0,MIT License,0,,
@@ -184,4 +184,4 @@ autopsy,etalab,GitHub,https://github.com/etalab/autopsy,⏲️ 🤖 📚  servic
 api-bal,etalab,GitHub,https://github.com/etalab/api-bal,API permettant la gestion de bases d’adresses à l’échelon local,False,2019-03-06T12:46:12Z,2019-03-26T08:36:41Z,,1,0,MIT License,6,JavaScript,"addresses,database,france,management"
 algorithmes-publics,etalab,GitHub,https://github.com/etalab/algorithmes-publics,Guide sur les algorithmes publics à l'usage des administrations,False,2019-03-08T09:08:12Z,2019-03-29T08:37:52Z,https://etalab.github.io/algorithmes-publics/,7,5,Other,0,,
 editeur-bal,etalab,GitHub,https://github.com/etalab/editeur-bal,,False,2019-03-25T11:13:51Z,2019-03-29T17:03:43Z,,0,0,,0,JavaScript,"addresses,france"
-pseudononymizer,etalab,GitHub,https://github.com/etalab/pseudononymizer,API for pseudononymizing,False,2019-03-29T15:30:32Z,2019-03-29T15:32:42Z,,1,0,MIT License,0,Python,
+pseudononymizer,etalab,GitHub,https://github.com/etalab/pseudononymizer,API for pseudononymizing,False,2019-03-29T15:30:32Z,2019-03-29T15:32:42Z,,1,0,MIT License,1,Python,
