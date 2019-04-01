@@ -58,7 +58,7 @@ lodex-themes,Inist-CNRS,GitHub,https://github.com/Inist-CNRS/lodex-themes,,False
 ezmaster-globs,Inist-CNRS,GitHub,https://github.com/Inist-CNRS/ezmaster-globs,Github LOcal Backup Server,False,2017-02-27T08:30:07Z,2018-01-13T22:57:02Z,,0,0,,0,HTML,
 lodex-use-cases,Inist-CNRS,GitHub,https://github.com/Inist-CNRS/lodex-use-cases,,False,2017-03-21T07:34:57Z,2019-01-31T16:36:53Z,,1,0,,0,,
 node-inist-roadmap,Inist-CNRS,GitHub,https://github.com/Inist-CNRS/node-inist-roadmap,to use our roadmap from trello,False,2017-04-26T08:13:41Z,2017-04-26T08:14:05Z,,0,1,,1,JavaScript,
-lodex-doc,Inist-CNRS,GitHub,https://github.com/Inist-CNRS/lodex-doc,User documentation for LODEX (GitBook),False,2017-05-15T08:56:10Z,2019-04-01T15:19:38Z,https://user-doc.lodex.inist.fr,1,0,,0,,
+lodex-doc,Inist-CNRS,GitHub,https://github.com/Inist-CNRS/lodex-doc,User documentation for LODEX (GitBook),False,2017-05-15T08:56:10Z,2019-04-01T15:33:30Z,https://user-doc.lodex.inist.fr,1,0,,0,,
 pdf-figure-extractor,Inist-CNRS,GitHub,https://github.com/Inist-CNRS/pdf-figure-extractor,:outbox_tray:Extract figure from pdf without text in it,False,2017-05-17T11:43:46Z,2019-01-21T11:03:53Z,,1,0,,0,JavaScript,
 KitGPEC,Inist-CNRS,GitHub,https://github.com/Inist-CNRS/KitGPEC,Base de données permettant le traitements de compétences individuelles dans une démarche GPEC,False,2017-08-24T09:24:44Z,2017-08-25T11:38:15Z,,0,0,MIT License,0,Visual Basic,
 ezmaster-cli,Inist-CNRS,GitHub,https://github.com/Inist-CNRS/ezmaster-cli,Node wrapper for ezMaster's HTTP API & useful tools scripts using the API,False,2017-09-03T08:53:14Z,2018-05-14T21:09:23Z,,2,0,MIT License,0,JavaScript,
