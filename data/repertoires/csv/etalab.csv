@@ -115,7 +115,7 @@ doc.data.gouv.fr,etalab,GitHub,https://github.com/etalab/doc.data.gouv.fr,Docume
 cadastre-bundler-api,etalab,GitHub,https://github.com/etalab/cadastre-bundler-api,API permettant de télécharger les données cadastrales,False,2017-11-28T13:41:04Z,2018-07-16T10:06:24Z,,1,0,MIT License,0,JavaScript,
 openlabs_apientreprise,etalab,GitHub,https://github.com/etalab/openlabs_apientreprise,,False,2017-12-03T16:48:23Z,2018-06-11T06:17:27Z,,0,1,MIT License,0,HTML,
 bal,etalab,GitHub,https://github.com/etalab/bal,Outils dédiés aux Bases Adresse locales,False,2017-12-03T21:23:06Z,2019-03-22T16:48:44Z,,2,2,MIT License,4,JavaScript,
-edigeo-parser,etalab,GitHub,https://github.com/etalab/edigeo-parser,Blazing fast parser for EDIGEO files,False,2017-12-14T20:53:54Z,2018-07-15T20:28:00Z,,3,1,MIT License,0,JavaScript,
+edigeo-parser,etalab,GitHub,https://github.com/etalab/edigeo-parser,Blazing fast parser for EDIGEO files,False,2017-12-14T20:53:54Z,2019-04-02T11:04:05Z,,4,1,MIT License,0,JavaScript,
 datasets_reco,etalab,GitHub,https://github.com/etalab/datasets_reco,datasets recommendation of top50 most visited ones,False,2017-12-20T16:02:48Z,2018-04-22T01:39:34Z,,3,1,,0,Jupyter Notebook,
 munin-plugins,etalab,GitHub,https://github.com/etalab/munin-plugins,A collection of plugins for Munin used @Etalab.,False,2017-12-21T15:00:51Z,2019-02-21T08:48:10Z,,0,1,,0,Python,
 Algo_gouv,etalab,GitHub,https://github.com/etalab/Algo_gouv,Scraping Legifrance to find algorithms that are used by the administration,False,2018-01-11T10:35:04Z,2018-11-04T01:16:45Z,,1,0,,0,Jupyter Notebook,
@@ -168,9 +168,9 @@ etalab.gouv.fr,etalab,GitHub,https://github.com/etalab/etalab.gouv.fr,Le futur s
 ouverture-des-codes-sources-publics,etalab,GitHub,https://github.com/etalab/ouverture-des-codes-sources-publics,Guide pour l'ouverture des logiciels libres des organismes publics,False,2018-11-15T10:54:37Z,2019-03-07T17:15:04Z,,5,0,,1,,
 transpo-rt,etalab,GitHub,https://github.com/etalab/transpo-rt,Simple API for public transport realtime data ,False,2018-11-21T09:05:10Z,2019-03-19T12:33:55Z,,3,4,MIT License,8,Rust,
 fantoir-parser,etalab,GitHub,https://github.com/etalab/fantoir-parser,Analyseur de fichiers FANTOIR,False,2018-11-21T14:08:50Z,2018-11-21T15:53:16Z,,0,0,MIT License,0,JavaScript,
-adresses-locales,etalab,GitHub,https://github.com/etalab/adresses-locales,Agrégation des bases Adresse locales,False,2018-11-22T10:39:53Z,2019-03-22T22:08:40Z,,1,0,MIT License,0,JavaScript,
+adresses-locales,etalab,GitHub,https://github.com/etalab/adresses-locales,Agrégation des bases Adresse locales,False,2018-11-22T10:39:53Z,2019-04-02T10:08:59Z,,1,0,MIT License,0,JavaScript,
 munin-theme,etalab,GitHub,https://github.com/etalab/munin-theme,,False,2018-12-17T11:15:41Z,2018-12-17T12:06:22Z,,0,0,MIT License,0,JavaScript,
-data-codes-sources-fr,etalab,GitHub,https://github.com/etalab/data-codes-sources-fr,Métadonnées des dépôts de code d'organismes publics en France,False,2018-12-30T14:20:30Z,2019-04-01T19:21:00Z,https://www.data.gouv.fr/fr/datasets/inventaire-des-depots-de-code-source-des-organismes-publics/,7,0,MIT License,2,Python,"codes-sources-fr,government,open-source"
+data-codes-sources-fr,etalab,GitHub,https://github.com/etalab/data-codes-sources-fr,Métadonnées des dépôts de code d'organismes publics en France,False,2018-12-30T14:20:30Z,2019-04-02T07:20:52Z,https://www.data.gouv.fr/fr/datasets/inventaire-des-depots-de-code-source-des-organismes-publics/,7,0,MIT License,2,Python,"codes-sources-fr,government,open-source"
 adresses-util,etalab,GitHub,https://github.com/etalab/adresses-util,,False,2019-01-02T23:15:00Z,2019-02-06T16:06:39Z,,0,0,MIT License,1,JavaScript,
 adresses-ftth,etalab,GitHub,https://github.com/etalab/adresses-ftth,Extraction des adresses contenues dans les fichiers de déploiement FTTH,False,2019-01-02T23:38:15Z,2019-03-01T15:39:43Z,,0,0,MIT License,0,JavaScript,
 adresses-aggregate,etalab,GitHub,https://github.com/etalab/adresses-aggregate,Agrégation d'adresses de sources multiples,False,2019-01-08T07:25:23Z,2019-01-08T07:25:52Z,,0,0,MIT License,0,,
