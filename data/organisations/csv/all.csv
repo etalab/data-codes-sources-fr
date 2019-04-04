@@ -7,6 +7,7 @@ BRGM,,,https://github.com/BRGM,,,,False,15,2016-03-25T14:13:14Z,GitHub
 BaseAdresseNationale,,Base Adresse Nationale (BAN),https://github.com/BaseAdresseNationale,https://adresse.data.gouv.fr/,France,adresse@data.gouv.fr,False,5,2016-05-17T15:14:06Z,GitHub
 CEREMA,,CEREMA,https://github.com/CEREMA,,,,False,43,2013-11-13T09:51:42Z,GitHub
 clipos,"CLIP OS version 5, published by @ANSSI-FR ",CLIP OS,https://github.com/clipos,https://clip-os.org,"Paris, France",clipos@ssi.gouv.fr,True,19,2017-11-17T14:32:48Z,GitHub
+CNRS-DSI-Dev,OSS Github's repository for CNRS DSI Development Department,CNRS DSI Development Department,https://github.com/CNRS-DSI-Dev,,,,False,25,2014-10-02T09:48:14Z,GitHub
 DGFiP,,Direction générale des finances publiques,https://github.com/DGFiP,http://www.economie.gouv.fr/dgfip,France,,False,1,2014-09-15T13:24:47Z,GitHub
 DREAL-NA,"Direction régionale de l'environnement, de l'aménagement et du logement de Nouvelle-Aquitaine",DREAL Nouvelle-Aquitaine,https://github.com/DREAL-NA,http://www.nouvelle-aquitaine.developpement-durable.gouv.fr,Nouvelle-Aquitaine,,False,1,2018-11-30T14:03:05Z,GitHub
 IGNF,,Institut National de l'Information Géographique et Forestière,https://github.com/IGNF,http://www.ign.fr,,,False,54,2014-04-03T16:36:07Z,GitHub
@@ -28,6 +29,7 @@ SocialGouv,Incubateur des Ministères Sociaux,Incubateur des Ministères Sociaux
 SocieteNumerique,Mission Société Numérique - Agence du Numérique - République Française,Société Numérique,https://github.com/SocieteNumerique,https://www.societenumerique.gouv.fr,"Paris, France",societe.numerique@finances.gouv.fr,False,10,2017-08-23T09:30:29Z,GitHub
 StartupsPoleEmploi,Les Startups d’État de l'incubateur de Pôle emploi,Startups d’État Pôle emploi,https://github.com/StartupsPoleEmploi,http://www.pole-emploi.fr,Paris / France,,False,18,2016-12-05T12:40:31Z,GitHub
 afimb,,AFIMB,https://github.com/afimb,http://www.developpement-durable.gouv.fr/lagence-francaise-linformation-multimodale-et-billettique-afimb,"La Défense, France",,False,23,2013-07-16T14:31:55Z,GitHub
+atlanmod,"(IMT-Atlantique,  LS2N)",Atlanmod,https://github.com/atlanmod,http://www.atlanmod.org,Nantes,contact@atlanmod.org,False,51,2013-10-30T11:31:21Z,GitHub
 banquedefrance,,Banque de France,https://github.com/banquedefrance,,,,False,2,2016-09-05T15:04:02Z,GitHub
 betagouv,Incubateur de Services Numériques de la Direction Interministérielle du Numérique et du Système d'Information et de Communication de l'État,beta.gouv.fr,https://github.com/betagouv,https://beta.gouv.fr,France,,False,174,2014-06-12T19:55:44Z,GitHub
 cea-hpc,,,https://github.com/cea-hpc,http://www-hpc.cea.fr/index-en.htm,,,False,27,2012-03-03T14:54:06Z,GitHub

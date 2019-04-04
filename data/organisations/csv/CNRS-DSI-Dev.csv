@@ -1,0 +1,2 @@
+login,description,nom,organisation_url,site_web,adresse,email,est_verifiee,nombre_repertoires,date_creation,plateforme
+CNRS-DSI-Dev,OSS Github's repository for CNRS DSI Development Department,CNRS DSI Development Department,https://github.com/CNRS-DSI-Dev,,,,False,25,2014-10-02T09:48:14Z,GitHub
