@@ -175,3 +175,6 @@ dossiersco-openlab1,betagouv,GitHub,https://github.com/betagouv/dossiersco-openl
 publicodes,betagouv,GitHub,https://github.com/betagouv/publicodes,,False,2019-04-02T11:51:44Z,2019-04-02T11:53:55Z,,0,0,MIT License,0,,
 compta,betagouv,GitHub,https://github.com/betagouv/compta,,False,2019-04-04T17:10:06Z,2019-04-04T17:10:24Z,,0,0,,0,Python,
 react-reducer-effect-context-data,betagouv,GitHub,https://github.com/betagouv/react-reducer-effect-context-data,,False,2019-04-04T23:34:04Z,2019-04-05T19:41:44Z,,0,0,MIT License,0,JavaScript,
+react-hooks-data,betagouv,GitHub,https://github.com/betagouv/react-hooks-data,A lib for fetching normalized data in components through react hooks,False,2019-04-06T16:17:45Z,2019-04-06T17:39:57Z,,0,0,MIT License,0,JavaScript,
+redux-thunk-data,betagouv,GitHub,https://github.com/betagouv/redux-thunk-data,A lib for fetching normalized data in a redux store through thunk,False,2019-04-06T16:19:23Z,2019-04-06T16:39:16Z,,0,0,,0,Shell,
+fetch-normalize-data,betagouv,GitHub,https://github.com/betagouv/fetch-normalize-data,A library to obtain a state of normalized data. Special fetch and reducer helpers are also provided in the export.,False,2019-04-06T16:47:34Z,2019-04-06T17:38:54Z,,0,0,MIT License,0,JavaScript,
