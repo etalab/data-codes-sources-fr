@@ -16,7 +16,7 @@ SecuML,ANSSI-FR,GitHub,https://github.com/ANSSI-FR/SecuML,Machine Learning for C
 SmartPGP,ANSSI-FR,GitHub,https://github.com/ANSSI-FR/SmartPGP,SmartPGP is a JavaCard implementation of the OpenPGP card specifications,False,2016-10-12T15:16:32Z,2019-04-05T09:29:39Z,,79,19,GNU General Public License v2.0,3,Java,
 bootcode_parser,ANSSI-FR,GitHub,https://github.com/ANSSI-FR/bootcode_parser,"A boot record parser that identifies known good signatures for MBR, VBR and IPL.",False,2017-01-17T16:56:59Z,2019-03-26T10:47:18Z,,74,19,GNU General Public License v3.0,3,Python,"bios,boot-record,bootkit,forensics,ipl,mbr,vbr,windows"
 libecc,ANSSI-FR,GitHub,https://github.com/ANSSI-FR/libecc,Library for elliptic curves cryptography,False,2017-05-15T09:20:25Z,2019-04-02T01:47:30Z,,83,19,Other,1,C,
-Binacle,ANSSI-FR,GitHub,https://github.com/ANSSI-FR/Binacle,Full-bin indexation of binary files,False,2017-05-15T15:13:27Z,2019-02-14T17:49:35Z,,80,9,Other,0,Rust,
+Binacle,ANSSI-FR,GitHub,https://github.com/ANSSI-FR/Binacle,Full-bin indexation of binary files,False,2017-05-15T15:13:27Z,2019-04-07T16:06:48Z,,81,9,Other,0,Rust,
 packetweaver,ANSSI-FR,GitHub,https://github.com/ANSSI-FR/packetweaver,A Python framework for script filing and task sequencing,False,2017-05-19T12:53:33Z,2019-02-12T07:19:40Z,,23,7,,0,Python,
 ProTIP,ANSSI-FR,GitHub,https://github.com/ANSSI-FR/ProTIP,ProTIP permet de caractériser la connectivité réelle entre composants d'une architecture PCI Express,False,2017-06-01T16:20:30Z,2019-02-27T15:08:34Z,,6,0,MIT License,0,Prolog,
 WSUS_Audit,ANSSI-FR,GitHub,https://github.com/ANSSI-FR/WSUS_Audit,Auditing scripts for WSUS infrastructures,False,2017-06-07T07:46:12Z,2018-12-28T05:38:48Z,,5,0,,1,,
