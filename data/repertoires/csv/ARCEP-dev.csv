@@ -6,3 +6,4 @@ adresse,ARCEP-dev,GitHub,https://github.com/ARCEP-dev/adresse,Travaux sur les pr
 testDebitMire,ARCEP-dev,GitHub,https://github.com/ARCEP-dev/testDebitMire,"Petit script pour tester rapidement (uniquement le débit descendant et la latence) de tous les serveurs SpeedTest en France, Belgique, Luxembourg, Suisse et Andorre via via speedtest-cli.",False,2019-01-29T08:53:53Z,2019-02-08T16:48:26Z,https://lafibre.info/tester-son-debit/comp-speedtest/,3,2,Apache License 2.0,1,Shell,
 regex,ARCEP-dev,GitHub,https://github.com/ARCEP-dev/regex,,False,2019-02-20T11:50:41Z,2019-02-20T11:56:26Z,,0,0,MIT License,0,,
 schemas,ARCEP-dev,GitHub,https://github.com/ARCEP-dev/schemas,data files schemas for validation,False,2019-03-02T14:02:25Z,2019-03-02T14:02:28Z,,0,0,MIT License,0,,
+disPorts,ARCEP-dev,GitHub,https://github.com/ARCEP-dev/disPorts,,False,2019-04-08T15:02:49Z,2019-04-08T15:02:52Z,,0,0,MIT License,0,,
