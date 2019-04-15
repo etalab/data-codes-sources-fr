@@ -55,7 +55,7 @@ ezmaster-virtuoso,Inist-CNRS,GitHub,https://github.com/Inist-CNRS/ezmaster-virtu
 node-ezs-istex,Inist-CNRS,GitHub,https://github.com/Inist-CNRS/node-ezs-istex,Using ezs to query ISTEX API,False,2017-02-10T22:01:56Z,2019-04-05T13:16:49Z,,0,4,,3,JavaScript,
 ezmaster-webserver,Inist-CNRS,GitHub,https://github.com/Inist-CNRS/ezmaster-webserver,A basic webserver used to host static files in an ezmaster instance. ,False,2017-02-11T22:06:39Z,2018-05-09T08:57:44Z,,1,0,,1,JavaScript,
 lodex-themes,Inist-CNRS,GitHub,https://github.com/Inist-CNRS/lodex-themes,,False,2017-02-20T20:05:52Z,2018-10-15T12:52:39Z,,2,0,,0,CSS,
-ezmaster-globs,Inist-CNRS,GitHub,https://github.com/Inist-CNRS/ezmaster-globs,Github LOcal Backup Server,False,2017-02-27T08:30:07Z,2019-04-15T15:13:22Z,,0,1,,0,Shell,
+ezmaster-globs,Inist-CNRS,GitHub,https://github.com/Inist-CNRS/ezmaster-globs,Github LOcal Backup Server,False,2017-02-27T08:30:07Z,2019-04-15T17:08:30Z,,0,1,,0,Shell,
 lodex-use-cases,Inist-CNRS,GitHub,https://github.com/Inist-CNRS/lodex-use-cases,,False,2017-03-21T07:34:57Z,2019-01-31T16:36:53Z,,1,0,,0,,
 node-inist-roadmap,Inist-CNRS,GitHub,https://github.com/Inist-CNRS/node-inist-roadmap,to use our roadmap from trello,False,2017-04-26T08:13:41Z,2017-04-26T08:14:05Z,,0,1,,1,JavaScript,
 lodex-doc,Inist-CNRS,GitHub,https://github.com/Inist-CNRS/lodex-doc,User documentation for LODEX (GitBook),False,2017-05-15T08:56:10Z,2019-04-10T13:12:59Z,https://user-doc.lodex.inist.fr,1,0,,0,,
@@ -78,4 +78,4 @@ node-ezs-lodex,Inist-CNRS,GitHub,https://github.com/Inist-CNRS/node-ezs-lodex,A 
 lodex-doc-gitbook-config,Inist-CNRS,GitHub,https://github.com/Inist-CNRS/lodex-doc-gitbook-config,,False,2018-09-21T09:29:25Z,2018-09-21T09:29:53Z,,0,0,,0,,
 computron,Inist-CNRS,GitHub,https://github.com/Inist-CNRS/computron,Another Node.js library for applying XSLT stylesheets to XML documents,False,2018-09-25T09:13:14Z,2019-03-21T13:31:40Z,,3,0,MIT License,0,C++,"addon,nodejs,xlst,xml"
 lodex-styleguide,Inist-CNRS,GitHub,https://github.com/Inist-CNRS/lodex-styleguide,Style guide for Lodex,False,2018-10-10T13:20:06Z,2018-10-10T13:48:38Z,,0,0,,0,,
-lodex-dumps,Inist-CNRS,GitHub,https://github.com/Inist-CNRS/lodex-dumps,An ezmaster application to download LODEX exports and expose them on the web,False,2019-04-12T09:37:41Z,2019-04-15T13:08:47Z,,1,0,Other,0,JavaScript,
+lodex-dumps,Inist-CNRS,GitHub,https://github.com/Inist-CNRS/lodex-dumps,An ezmaster application to download LODEX exports and expose them on the web,False,2019-04-12T09:37:41Z,2019-04-15T16:19:13Z,,1,0,Other,0,JavaScript,
