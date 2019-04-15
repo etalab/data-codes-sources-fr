@@ -78,4 +78,4 @@ node-ezs-lodex,Inist-CNRS,GitHub,https://github.com/Inist-CNRS/node-ezs-lodex,A 
 lodex-doc-gitbook-config,Inist-CNRS,GitHub,https://github.com/Inist-CNRS/lodex-doc-gitbook-config,,False,2018-09-21T09:29:25Z,2018-09-21T09:29:53Z,,0,0,,0,,
 computron,Inist-CNRS,GitHub,https://github.com/Inist-CNRS/computron,Another Node.js library for applying XSLT stylesheets to XML documents,False,2018-09-25T09:13:14Z,2019-03-21T13:31:40Z,,3,0,MIT License,0,C++,"addon,nodejs,xlst,xml"
 lodex-styleguide,Inist-CNRS,GitHub,https://github.com/Inist-CNRS/lodex-styleguide,Style guide for Lodex,False,2018-10-10T13:20:06Z,2018-10-10T13:48:38Z,,0,0,,0,,
-lodex-dumps,Inist-CNRS,GitHub,https://github.com/Inist-CNRS/lodex-dumps,An ezmaster application to download LODEX exports and expose them on the web,False,2019-04-12T09:37:41Z,2019-04-13T04:28:44Z,,1,0,Other,0,JavaScript,
+lodex-dumps,Inist-CNRS,GitHub,https://github.com/Inist-CNRS/lodex-dumps,An ezmaster application to download LODEX exports and expose them on the web,False,2019-04-12T09:37:41Z,2019-04-15T09:43:09Z,,1,0,Other,0,JavaScript,
