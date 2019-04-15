@@ -83,7 +83,7 @@ format-subventions,etalab,GitHub,https://github.com/etalab/format-subventions,,F
 Pathologies_allergiques,etalab,GitHub,https://github.com/etalab/Pathologies_allergiques,Petite étude sur les pathologies allergiques en France,False,2017-06-09T10:06:43Z,2018-02-23T03:30:48Z,,3,0,,0,Jupyter Notebook,
 carto_actions_collectives,etalab,GitHub,https://github.com/etalab/carto_actions_collectives,,False,2017-06-12T12:00:23Z,2018-01-22T18:48:44Z,,0,0,,0,HTML,
 osm-wms,etalab,GitHub,https://github.com/etalab/osm-wms,Expérimentation d'un service WMS diffusant les données OSM France,False,2017-06-12T21:09:10Z,2018-12-19T14:46:29Z,,1,0,,0,Python,
-entreprise.data.gouv.fr,etalab,GitHub,https://github.com/etalab/entreprise.data.gouv.fr,"Front-end pour les API open-data, notamment Sirene et RNA",False,2017-06-16T12:10:17Z,2019-04-01T13:19:14Z,https://entreprise.data.gouv.fr/,5,7,MIT License,27,Vue,"etalab,opengouv,sirene"
+entreprise.data.gouv.fr,etalab,GitHub,https://github.com/etalab/entreprise.data.gouv.fr,"Front-end pour les API open-data, notamment Sirene et RNA",False,2017-06-16T12:10:17Z,2019-04-01T13:19:14Z,https://entreprise.data.gouv.fr/,5,7,MIT License,26,Vue,"etalab,opengouv,sirene"
 csv_detective,etalab,GitHub,https://github.com/etalab/csv_detective,CSV inspection,True,2017-06-20T16:07:38Z,2019-04-08T11:36:54Z,,7,2,,2,Python,
 apientreprise,etalab,GitHub,https://github.com/etalab/apientreprise,,False,2017-06-21T10:59:10Z,2018-01-22T18:48:47Z,,2,0,MIT License,0,,
 piwik_logs,etalab,GitHub,https://github.com/etalab/piwik_logs,,False,2017-06-21T11:38:13Z,2018-01-22T18:48:47Z,,0,3,,1,Jupyter Notebook,
@@ -106,7 +106,7 @@ calculette-impots-m-source-code,etalab,GitHub,https://github.com/etalab/calculet
 calculette-impots-m-language-parser,etalab,GitHub,https://github.com/etalab/calculette-impots-m-language-parser,Calculette de l'impôt sur le revenu parsée,False,2017-09-14T09:28:57Z,2017-09-14T09:37:20Z,,0,1,Other,0,Jupyter Notebook,
 calculette-impots-exemples,etalab,GitHub,https://github.com/etalab/calculette-impots-exemples,Exemples d'utilisations de la calculatrice de l'impôt sur le revenu,False,2017-09-14T10:15:17Z,2017-11-13T10:08:45Z,,0,1,Other,0,Jupyter Notebook,
 cadastre.data.gouv.fr,etalab,GitHub,https://github.com/etalab/cadastre.data.gouv.fr,Données cadastrales ouvertes - le site,False,2017-09-28T21:22:11Z,2019-02-03T00:52:10Z,https://cadastre.data.gouv.fr,6,2,,7,JavaScript,
-template.data.gouv.fr,etalab,GitHub,https://github.com/etalab/template.data.gouv.fr,"Template CSS pour data.gouv.fr, beta.gouv.fr et compagnie",False,2017-10-03T15:42:34Z,2019-04-10T22:37:01Z,http://template.data.gouv.fr,13,9,,3,HTML,
+template.data.gouv.fr,etalab,GitHub,https://github.com/etalab/template.data.gouv.fr,"Template CSS pour data.gouv.fr, beta.gouv.fr et compagnie",False,2017-10-03T15:42:34Z,2019-04-10T22:37:01Z,http://template.data.gouv.fr,13,10,,4,HTML,
 transport-validator-python,etalab,GitHub,https://github.com/etalab/transport-validator-python,[DEPRECATED] Validation of GTFS data,False,2017-10-24T08:53:22Z,2018-04-24T09:27:16Z,,1,2,MIT License,0,Python,
 addok-docker,etalab,GitHub,https://github.com/etalab/addok-docker,Conteneurs Addok pour Docker,False,2017-11-02T15:21:46Z,2019-04-06T06:43:52Z,,14,2,,2,Shell,
 edigeo-reproject,etalab,GitHub,https://github.com/etalab/edigeo-reproject,Reprojection à la volée des feuilles EDIGÉO du PCI Vecteur,False,2017-11-13T14:22:41Z,2018-07-15T20:45:53Z,,1,0,MIT License,0,JavaScript,
@@ -135,7 +135,7 @@ dashboard_api_entreprise,etalab,GitHub,https://github.com/etalab/dashboard_api_e
 decoupage-administratif,etalab,GitHub,https://github.com/etalab/decoupage-administratif,"Données concernant le découpage administratif français, au format JSON",False,2018-03-29T08:56:26Z,2019-04-09T08:20:49Z,,4,1,MIT License,0,JavaScript,"cog,communes,departements,geo,insee,regions"
 transport-gtfs-lib,etalab,GitHub,https://github.com/etalab/transport-gtfs-lib,A library for loading and saving GTFS feeds of arbitrary size with disk-backed storage,True,2018-04-03T14:30:07Z,2018-04-22T01:59:44Z,,1,0,"BSD 2-Clause ""Simplified"" License",0,Java,
 adresse-explorer-api,etalab,GitHub,https://github.com/etalab/adresse-explorer-api,,False,2018-04-04T15:27:33Z,2019-01-04T22:17:45Z,,0,0,,0,JavaScript,
-doc.entreprise.api.gouv.fr,etalab,GitHub,https://github.com/etalab/doc.entreprise.api.gouv.fr,,False,2018-04-09T07:45:29Z,2019-04-10T07:55:17Z,,1,0,Other,5,JavaScript,
+doc.entreprise.api.gouv.fr,etalab,GitHub,https://github.com/etalab/doc.entreprise.api.gouv.fr,,False,2018-04-09T07:45:29Z,2019-04-15T15:07:46Z,,1,0,Other,3,JavaScript,
 piwik-covisits,etalab,GitHub,https://github.com/etalab/piwik-covisits,compute co-visits statistics from piwik logs,False,2018-04-11T22:40:10Z,2018-06-07T15:47:14Z,,0,2,,1,Python,
 transport-validator,etalab,GitHub,https://github.com/etalab/transport-validator,,False,2018-04-13T19:54:00Z,2019-04-11T09:16:59Z,,4,3,,3,Rust,
 blog_apientreprise,etalab,GitHub,https://github.com/etalab/blog_apientreprise,Blog API Entreprise : http://blog.entreprise.api.gouv.fr,False,2018-04-15T12:05:11Z,2018-04-16T13:54:23Z,,0,0,,0,Ruby,
@@ -170,7 +170,7 @@ transpo-rt,etalab,GitHub,https://github.com/etalab/transpo-rt,Simple API for pub
 fantoir-parser,etalab,GitHub,https://github.com/etalab/fantoir-parser,Analyseur de fichiers FANTOIR,False,2018-11-21T14:08:50Z,2018-11-21T15:53:16Z,,0,0,MIT License,0,JavaScript,
 adresses-locales,etalab,GitHub,https://github.com/etalab/adresses-locales,Agrégation des bases Adresse locales,False,2018-11-22T10:39:53Z,2019-04-10T12:49:01Z,,1,0,MIT License,0,JavaScript,
 munin-theme,etalab,GitHub,https://github.com/etalab/munin-theme,,False,2018-12-17T11:15:41Z,2018-12-17T12:06:22Z,,0,0,MIT License,0,JavaScript,
-data-codes-sources-fr,etalab,GitHub,https://github.com/etalab/data-codes-sources-fr,Métadonnées des dépôts de code d'organismes publics en France,False,2018-12-30T14:20:30Z,2019-04-15T07:20:57Z,https://www.data.gouv.fr/fr/datasets/inventaire-des-depots-de-code-source-des-organismes-publics/,7,0,MIT License,2,Python,"codes-sources-fr,government,open-source"
+data-codes-sources-fr,etalab,GitHub,https://github.com/etalab/data-codes-sources-fr,Métadonnées des dépôts de code d'organismes publics en France,False,2018-12-30T14:20:30Z,2019-04-15T11:21:02Z,https://www.data.gouv.fr/fr/datasets/inventaire-des-depots-de-code-source-des-organismes-publics/,7,0,MIT License,2,Python,"codes-sources-fr,government,open-source"
 adresses-util,etalab,GitHub,https://github.com/etalab/adresses-util,,False,2019-01-02T23:15:00Z,2019-04-05T13:05:42Z,,1,0,MIT License,1,JavaScript,
 adresses-ftth,etalab,GitHub,https://github.com/etalab/adresses-ftth,Extraction des adresses contenues dans les fichiers de déploiement FTTH,False,2019-01-02T23:38:15Z,2019-03-01T15:39:43Z,,0,0,MIT License,0,JavaScript,
 adresses-aggregate,etalab,GitHub,https://github.com/etalab/adresses-aggregate,Agrégation d'adresses de sources multiples,False,2019-01-08T07:25:23Z,2019-01-08T07:25:52Z,,0,0,MIT License,0,,

@@ -10,7 +10,7 @@ wiki_agd,SGMAP-AGD,GitHub,https://github.com/SGMAP-AGD/wiki_agd,"This repo conta
 Tools,SGMAP-AGD,GitHub,https://github.com/SGMAP-AGD/Tools, Useful functions to work with data.,False,2015-09-09T14:19:14Z,2018-08-30T15:28:05Z,http://agd-tools.readthedocs.org/,6,1,,4,Python,
 data_calendar,SGMAP-AGD,GitHub,https://github.com/SGMAP-AGD/data_calendar,,False,2015-09-11T16:45:15Z,2015-09-11T16:45:21Z,,0,1,,0,Python,
 open-moulinette,SGMAP-AGD,GitHub,https://github.com/SGMAP-AGD/open-moulinette,Scripts to clean Open-Data.,True,2015-11-25T13:51:15Z,2017-07-13T15:56:21Z,,2,0,,0,Python,
-anonymisation,SGMAP-AGD,GitHub,https://github.com/SGMAP-AGD/anonymisation,Repertoire sur l'anonymisation,False,2016-01-18T16:46:13Z,2018-12-31T15:29:08Z,,14,7,GNU General Public License v3.0,1,Python,"anonymisation,differential-privacy,k-anonymity,l-diversity,pseudonymisation"
+anonymisation,SGMAP-AGD,GitHub,https://github.com/SGMAP-AGD/anonymisation,Repertoire sur l'anonymisation,False,2016-01-18T16:46:13Z,2019-04-15T12:10:53Z,,15,7,GNU General Public License v3.0,1,Python,"anonymisation,differential-privacy,k-anonymity,l-diversity,pseudonymisation"
 cartodonnees,SGMAP-AGD,GitHub,https://github.com/SGMAP-AGD/cartodonnees,Créer une cartographie exhaustive des données de l'État.,False,2016-02-03T14:50:39Z,2018-08-30T15:27:56Z,,2,0,,0,HTML,data-inventory
 exploreDataGouv,SGMAP-AGD,GitHub,https://github.com/SGMAP-AGD/exploreDataGouv,,False,2016-02-10T15:54:43Z,2016-02-10T16:55:08Z,,0,0,,0,HTML,
 tidydata-defm,SGMAP-AGD,GitHub,https://github.com/SGMAP-AGD/tidydata-defm,Les données sur les demandeurs d'emploi inscrits à Pôle emploi dans un format facilement réutilisable.,False,2016-08-04T08:56:33Z,2017-11-22T10:19:43Z,,0,0,,0,R,"tidy-data,unemployment"
