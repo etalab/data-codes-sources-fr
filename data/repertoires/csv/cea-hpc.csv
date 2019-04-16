@@ -1,5 +1,5 @@
 nom,organisation_nom,plateforme,repertoire_url,description,est_fork,date_creation,derniere_mise_a_jour,page_accueil,nombre_stars,nombre_forks,licence,nombre_issues_ouvertes,langage,topics
-clustershell,cea-hpc,GitHub,https://github.com/cea-hpc/clustershell,"Scalable cluster administration Python framework — Manage node sets, node groups and execute commands on cluster nodes in parallel.",False,2012-03-02T23:51:18Z,2019-04-12T15:01:58Z,http://cea-hpc.github.com/clustershell,250,61,,92,Python,
+clustershell,cea-hpc,GitHub,https://github.com/cea-hpc/clustershell,"Scalable cluster administration Python framework — Manage node sets, node groups and execute commands on cluster nodes in parallel.",False,2012-03-02T23:51:18Z,2019-04-16T08:29:32Z,http://cea-hpc.github.com/clustershell,249,61,,92,Python,
 nfs-ganesha,cea-hpc,GitHub,https://github.com/cea-hpc/nfs-ganesha,"NFS-Ganesha, a NFSv2/NFSv3/NFSv4.x server in User Space",True,2012-06-07T08:42:58Z,2018-05-25T14:18:47Z,http://nfs-ganesha.sf.net,5,0,,0,C,
 robinhood,cea-hpc,GitHub,https://github.com/cea-hpc/robinhood,Robinhood Policy Engine : a versatile tool to monitor filesystem contents and schedule actions on filesystem entries.,False,2012-06-07T09:09:29Z,2019-04-09T09:25:28Z,http://robinhood.sf.net,107,38,Other,27,C,
 milkcheck,cea-hpc,GitHub,https://github.com/cea-hpc/milkcheck,Highly parallel and flexible service manager.,False,2013-03-19T09:29:01Z,2019-02-26T13:34:08Z,,14,4,Other,18,Python,
@@ -22,7 +22,7 @@ NabLab,cea-hpc,GitHub,https://github.com/cea-hpc/NabLab,Full-fledged industrial 
 krb5,cea-hpc,GitHub,https://github.com/cea-hpc/krb5,mirror of MIT krb5 repository,True,2018-09-26T13:25:39Z,2018-09-26T15:15:24Z,,0,0,,5,C,
 heimdal,cea-hpc,GitHub,https://github.com/cea-hpc/heimdal,Heimdal,True,2018-10-02T12:17:02Z,2018-10-02T13:33:41Z,http://www.h5l.org/,0,0,Other,0,C,
 vbridge,cea-hpc,GitHub,https://github.com/cea-hpc/vbridge,X11 cloud desktop software,True,2019-03-11T09:45:32Z,2019-03-11T09:46:56Z,,0,0,"BSD 3-Clause ""New"" or ""Revised"" License",0,C,
-pdwfs,cea-hpc,GitHub,https://github.com/cea-hpc/pdwfs,Redis-backed In transit Infrastructure for HPC Workflows,False,2019-03-11T21:53:47Z,2019-04-15T09:38:12Z,,5,0,Apache License 2.0,0,Go,"c,cea,golang,hpc,in-situ,in-transit,redis,workflow"
+pdwfs,cea-hpc,GitHub,https://github.com/cea-hpc/pdwfs,Redis-backed In transit Infrastructure for HPC Workflows,False,2019-03-11T21:53:47Z,2019-04-16T09:06:13Z,,6,0,Apache License 2.0,0,Go,"c,cea,golang,hpc,in-situ,in-transit,redis,workflow"
 gct,cea-hpc,GitHub,https://github.com/cea-hpc/gct,Grid Community Toolkit,True,2019-03-14T10:17:21Z,2019-03-14T10:37:18Z,,0,0,Apache License 2.0,0,C,
 gssapi,cea-hpc,GitHub,https://github.com/cea-hpc/gssapi,GSSAPI bindings for Go,True,2019-03-27T13:54:06Z,2019-03-27T14:11:25Z,,0,0,Apache License 2.0,0,Go,
 kfs,cea-hpc,GitHub,https://github.com/cea-hpc/kfs,HTTPS file server serving files from Kerberos shares,False,2019-03-28T14:40:26Z,2019-04-05T06:54:11Z,,1,0,Other,0,Go,"cea,go,https,kerberos"
