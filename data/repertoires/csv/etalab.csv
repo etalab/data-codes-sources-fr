@@ -83,7 +83,7 @@ format-subventions,etalab,GitHub,https://github.com/etalab/format-subventions,,F
 Pathologies_allergiques,etalab,GitHub,https://github.com/etalab/Pathologies_allergiques,Petite étude sur les pathologies allergiques en France,False,2017-06-09T10:06:43Z,2018-02-23T03:30:48Z,,3,0,,0,Jupyter Notebook,
 carto_actions_collectives,etalab,GitHub,https://github.com/etalab/carto_actions_collectives,,False,2017-06-12T12:00:23Z,2018-01-22T18:48:44Z,,0,0,,0,HTML,
 osm-wms,etalab,GitHub,https://github.com/etalab/osm-wms,Expérimentation d'un service WMS diffusant les données OSM France,False,2017-06-12T21:09:10Z,2018-12-19T14:46:29Z,,1,0,,0,Python,
-entreprise.data.gouv.fr,etalab,GitHub,https://github.com/etalab/entreprise.data.gouv.fr,"Front-end pour les API open-data, notamment Sirene et RNA",False,2017-06-16T12:10:17Z,2019-04-01T13:19:14Z,https://entreprise.data.gouv.fr/,5,7,MIT License,26,Vue,"etalab,opengouv,sirene"
+entreprise.data.gouv.fr,etalab,GitHub,https://github.com/etalab/entreprise.data.gouv.fr,"Front-end pour les API open-data, notamment Sirene et RNA",False,2017-06-16T12:10:17Z,2019-04-01T13:19:14Z,https://entreprise.data.gouv.fr/,5,7,MIT License,25,Vue,"etalab,opengouv,sirene"
 csv_detective,etalab,GitHub,https://github.com/etalab/csv_detective,CSV inspection,True,2017-06-20T16:07:38Z,2019-04-08T11:36:54Z,,7,2,,2,Python,
 apientreprise,etalab,GitHub,https://github.com/etalab/apientreprise,,False,2017-06-21T10:59:10Z,2018-01-22T18:48:47Z,,2,0,MIT License,0,,
 piwik_logs,etalab,GitHub,https://github.com/etalab/piwik_logs,,False,2017-06-21T11:38:13Z,2018-01-22T18:48:47Z,,0,3,,1,Jupyter Notebook,
@@ -170,7 +170,7 @@ transpo-rt,etalab,GitHub,https://github.com/etalab/transpo-rt,Simple API for pub
 fantoir-parser,etalab,GitHub,https://github.com/etalab/fantoir-parser,Analyseur de fichiers FANTOIR,False,2018-11-21T14:08:50Z,2019-04-17T12:12:14Z,,0,0,MIT License,0,JavaScript,
 adresses-locales,etalab,GitHub,https://github.com/etalab/adresses-locales,Agrégation des bases Adresse locales,False,2018-11-22T10:39:53Z,2019-04-15T16:01:12Z,,1,0,MIT License,0,JavaScript,
 munin-theme,etalab,GitHub,https://github.com/etalab/munin-theme,,False,2018-12-17T11:15:41Z,2018-12-17T12:06:22Z,,0,0,MIT License,0,JavaScript,
-data-codes-sources-fr,etalab,GitHub,https://github.com/etalab/data-codes-sources-fr,Métadonnées des dépôts de code d'organismes publics en France,False,2018-12-30T14:20:30Z,2019-04-17T15:21:31Z,https://www.data.gouv.fr/fr/datasets/inventaire-des-depots-de-code-source-des-organismes-publics/,7,0,MIT License,2,Python,"codes-sources-fr,government,open-source"
+data-codes-sources-fr,etalab,GitHub,https://github.com/etalab/data-codes-sources-fr,Métadonnées des dépôts de code d'organismes publics en France,False,2018-12-30T14:20:30Z,2019-04-17T19:20:59Z,https://www.data.gouv.fr/fr/datasets/inventaire-des-depots-de-code-source-des-organismes-publics/,7,0,MIT License,2,Python,"codes-sources-fr,government,open-source"
 adresses-util,etalab,GitHub,https://github.com/etalab/adresses-util,,False,2019-01-02T23:15:00Z,2019-04-05T13:05:42Z,,1,0,MIT License,1,JavaScript,
 adresses-ftth,etalab,GitHub,https://github.com/etalab/adresses-ftth,Extraction des adresses contenues dans les fichiers de déploiement FTTH,False,2019-01-02T23:38:15Z,2019-03-01T15:39:43Z,,0,0,MIT License,0,JavaScript,
 adresses-aggregate,etalab,GitHub,https://github.com/etalab/adresses-aggregate,Agrégation d'adresses de sources multiples,False,2019-01-08T07:25:23Z,2019-01-08T07:25:52Z,,0,0,MIT License,0,,
