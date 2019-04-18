@@ -1,6 +1,6 @@
 nom,organisation_nom,plateforme,repertoire_url,description,est_fork,date_creation,derniere_mise_a_jour,page_accueil,nombre_stars,nombre_forks,licence,nombre_issues_ouvertes,langage,topics
 group_custom,CNRS-DSI-Dev,GitHub,https://github.com/CNRS-DSI-Dev/group_custom,ownCloud application: create and manage Custom Groups.,True,2014-07-17T15:33:39Z,2017-03-03T14:43:38Z,,1,2,GNU Affero General Public License v3.0,0,PHP,
-user_servervars2,CNRS-DSI-Dev,GitHub,https://github.com/CNRS-DSI-Dev/user_servervars2,,False,2014-07-21T11:11:35Z,2017-03-03T15:05:29Z,,0,3,GNU Affero General Public License v3.0,4,PHP,
+user_servervars2,CNRS-DSI-Dev,GitHub,https://github.com/CNRS-DSI-Dev/user_servervars2,,False,2014-07-21T11:11:35Z,2019-04-18T15:14:05Z,,0,4,GNU Affero General Public License v3.0,4,PHP,
 dashboard,CNRS-DSI-Dev,GitHub,https://github.com/CNRS-DSI-Dev/dashboard,Owncloud app that provide some global usage statistics.,False,2014-08-26T16:36:39Z,2017-08-25T23:38:40Z,,10,9,GNU Affero General Public License v3.0,5,JavaScript,
 gtu,CNRS-DSI-Dev,GitHub,https://github.com/CNRS-DSI-Dev/gtu,Gtu application for owncloud,False,2014-09-09T15:14:42Z,2017-03-03T14:45:59Z,,1,2,,0,PHP,
 lotsofgroups,CNRS-DSI-Dev,GitHub,https://github.com/CNRS-DSI-Dev/lotsofgroups,OwnCloud7 app + theme that ease managing great number of groups,False,2014-09-23T12:58:57Z,2017-03-03T14:46:38Z,,0,1,GNU Affero General Public License v3.0,0,JavaScript,

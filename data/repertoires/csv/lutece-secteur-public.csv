@@ -117,5 +117,5 @@ lutece-gru-module-elasticdata-ticketing,lutece-secteur-public,GitHub,https://git
 gru-module-identitystore-smscertifier,lutece-secteur-public,GitHub,https://github.com/lutece-secteur-public/gru-module-identitystore-smscertifier,,False,2019-03-25T15:58:10Z,2019-04-12T13:44:51Z,,0,0,,0,Java,
 gru-module-identitystore-emailcertifier,lutece-secteur-public,GitHub,https://github.com/lutece-secteur-public/gru-module-identitystore-emailcertifier,Email identitystore certifier,False,2019-03-27T15:48:31Z,2019-04-12T13:48:39Z,,0,0,,0,Java,
 ocr-module-forms-ocr,lutece-secteur-public,GitHub,https://github.com/lutece-secteur-public/ocr-module-forms-ocr,,False,2019-04-15T15:30:10Z,2019-04-15T15:33:50Z,,0,0,,0,,
-ocr-plugin-a2ia,lutece-secteur-public,GitHub,https://github.com/lutece-secteur-public/ocr-plugin-a2ia,,False,2019-04-17T09:49:53Z,2019-04-17T09:49:56Z,,0,0,,0,,
+ocr-plugin-a2ia,lutece-secteur-public,GitHub,https://github.com/lutece-secteur-public/ocr-plugin-a2ia,,False,2019-04-17T09:49:53Z,2019-04-17T09:49:56Z,,0,1,,0,,
 ocr-module-ocra2ia-rest,lutece-secteur-public,GitHub,https://github.com/lutece-secteur-public/ocr-module-ocra2ia-rest,,False,2019-04-17T10:00:15Z,2019-04-17T10:00:35Z,,0,0,,0,,
