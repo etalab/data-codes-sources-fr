@@ -2,7 +2,7 @@ nom,organisation_nom,plateforme,repertoire_url,description,est_fork,date_creatio
 rosm,communaute-cimi,GitHub,https://github.com/communaute-cimi/rosm,,False,2014-08-06T17:50:56Z,2019-02-22T15:32:54Z,,2,0,,0,Go,
 geocodeComp,communaute-cimi,GitHub,https://github.com/communaute-cimi/geocodeComp,Geocode comparing tool,False,2014-08-21T15:27:50Z,2015-11-26T02:59:33Z,,3,4,,0,JavaScript,
 qgis-minint,communaute-cimi,GitHub,https://github.com/communaute-cimi/qgis-minint,Paramétrages et plugins spécifiques pour l'usage de QGIS au MININT,False,2015-03-14T12:34:31Z,2015-03-14T12:34:31Z,,0,1,,0,,
-devstack-vagrant,communaute-cimi,GitHub,https://github.com/communaute-cimi/devstack-vagrant,Vagrant scripts to build local devstack environments,True,2015-07-15T12:57:32Z,2015-07-15T12:57:32Z,http://openstack.org,0,0,Apache License 2.0,0,Puppet,
+devstack-vagrant,communaute-cimi,GitHub,https://github.com/communaute-cimi/devstack-vagrant,Vagrant scripts to build local devstack environments,True,2015-07-15T12:57:32Z,2019-04-19T21:37:06Z,http://openstack.org,0,0,Apache License 2.0,0,Puppet,
 georef-api,communaute-cimi,GitHub,https://github.com/communaute-cimi/georef-api,,False,2015-07-27T19:54:06Z,2016-03-21T17:46:45Z,,1,2,,0,PHP,
 georef-client,communaute-cimi,GitHub,https://github.com/communaute-cimi/georef-client,Affichage de données géographiques de référence surfacique ou ponctuelle,False,2015-07-27T19:56:02Z,2015-08-04T12:37:11Z,,0,1,,0,JavaScript,
 mnt_france_srtm_90,communaute-cimi,GitHub,https://github.com/communaute-cimi/mnt_france_srtm_90,Modèle numérique de terrain (SRTM 90) sur la france (DOM et COM),True,2015-10-13T22:21:25Z,2015-10-13T21:06:47Z,,0,0,,0,,
