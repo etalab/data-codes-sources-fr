@@ -1,6 +1,6 @@
 nom,organisation_nom,plateforme,repertoire_url,description,est_fork,date_creation,derniere_mise_a_jour,page_accueil,nombre_stars,nombre_forks,licence,nombre_issues_ouvertes,langage,topics
-tchap-android,dinsic-pim,GitHub,https://github.com/dinsic-pim/tchap-android,A glossy Matrix collaboration client for Android,True,2018-01-10T13:18:32Z,2019-04-20T17:09:21Z,,77,14,Apache License 2.0,37,Java,
-matrix-react-sdk,dinsic-pim,GitHub,https://github.com/dinsic-pim/matrix-react-sdk,Matrix SDK for React Javascript,True,2018-03-15T09:52:28Z,2019-04-20T17:12:37Z,,8,3,Apache License 2.0,14,JavaScript,
-tchap-web,dinsic-pim,GitHub,https://github.com/dinsic-pim/tchap-web,A glossy Matrix collaboration client for the web.,True,2018-04-09T14:03:14Z,2019-04-20T18:18:42Z,,29,2,Apache License 2.0,7,JavaScript,
-tchap-ios,dinsic-pim,GitHub,https://github.com/dinsic-pim/tchap-ios,A glossy Matrix collaboration client for iOS,True,2018-08-10T13:49:05Z,2019-04-20T16:13:00Z,,21,4,Apache License 2.0,25,Objective-C,
-Tchap-artwork,dinsic-pim,GitHub,https://github.com/dinsic-pim/Tchap-artwork,Sketch assets for Tchap (Web/iOS/Android),False,2019-03-29T08:05:06Z,2019-04-11T22:36:58Z,,0,0,,0,,
+tchap-android,dinsic-pim,GitHub,https://github.com/dinsic-pim/tchap-android,A glossy Matrix collaboration client for Android,True,2018-01-10T13:18:32Z,2019-04-21T06:18:39Z,,88,16,Apache License 2.0,37,Java,
+matrix-react-sdk,dinsic-pim,GitHub,https://github.com/dinsic-pim/matrix-react-sdk,Matrix SDK for React Javascript,True,2018-03-15T09:52:28Z,2019-04-21T03:10:00Z,,10,5,Apache License 2.0,14,JavaScript,
+tchap-web,dinsic-pim,GitHub,https://github.com/dinsic-pim/tchap-web,A glossy Matrix collaboration client for the web.,True,2018-04-09T14:03:14Z,2019-04-21T05:38:48Z,,39,4,Apache License 2.0,7,JavaScript,
+tchap-ios,dinsic-pim,GitHub,https://github.com/dinsic-pim/tchap-ios,A glossy Matrix collaboration client for iOS,True,2018-08-10T13:49:05Z,2019-04-21T05:03:01Z,,25,6,Apache License 2.0,25,Objective-C,
+Tchap-artwork,dinsic-pim,GitHub,https://github.com/dinsic-pim/Tchap-artwork,Sketch assets for Tchap (Web/iOS/Android),False,2019-03-29T08:05:06Z,2019-04-21T00:15:12Z,,0,2,,0,,
