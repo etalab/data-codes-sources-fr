@@ -1,6 +1,6 @@
 nom,organisation_nom,plateforme,repertoire_url,description,est_fork,date_creation,derniere_mise_a_jour,page_accueil,nombre_stars,nombre_forks,licence,nombre_issues_ouvertes,langage,topics
-tchap-android,dinsic-pim,GitHub,https://github.com/dinsic-pim/tchap-android,A glossy Matrix collaboration client for Android,True,2018-01-10T13:18:32Z,2019-04-22T14:59:59Z,,111,20,Apache License 2.0,37,Java,
-matrix-react-sdk,dinsic-pim,GitHub,https://github.com/dinsic-pim/matrix-react-sdk,Matrix SDK for React Javascript,True,2018-03-15T09:52:28Z,2019-04-22T10:10:06Z,,12,6,Apache License 2.0,14,JavaScript,
-tchap-web,dinsic-pim,GitHub,https://github.com/dinsic-pim/tchap-web,A glossy Matrix collaboration client for the web.,True,2018-04-09T14:03:14Z,2019-04-22T13:02:20Z,,51,6,Apache License 2.0,7,JavaScript,
-tchap-ios,dinsic-pim,GitHub,https://github.com/dinsic-pim/tchap-ios,A glossy Matrix collaboration client for iOS,True,2018-08-10T13:49:05Z,2019-04-22T12:40:35Z,,31,9,Apache License 2.0,25,Objective-C,
+tchap-android,dinsic-pim,GitHub,https://github.com/dinsic-pim/tchap-android,A glossy Matrix collaboration client for Android,True,2018-01-10T13:18:32Z,2019-04-22T18:49:57Z,,112,20,Apache License 2.0,37,Java,
+matrix-react-sdk,dinsic-pim,GitHub,https://github.com/dinsic-pim/matrix-react-sdk,Matrix SDK for React Javascript,True,2018-03-15T09:52:28Z,2019-04-22T18:51:02Z,,13,6,Apache License 2.0,14,JavaScript,
+tchap-web,dinsic-pim,GitHub,https://github.com/dinsic-pim/tchap-web,A glossy Matrix collaboration client for the web.,True,2018-04-09T14:03:14Z,2019-04-22T18:50:56Z,,52,6,Apache License 2.0,7,JavaScript,
+tchap-ios,dinsic-pim,GitHub,https://github.com/dinsic-pim/tchap-ios,A glossy Matrix collaboration client for iOS,True,2018-08-10T13:49:05Z,2019-04-22T18:50:53Z,,34,9,Apache License 2.0,25,Objective-C,
 Tchap-artwork,dinsic-pim,GitHub,https://github.com/dinsic-pim/Tchap-artwork,Sketch assets for Tchap (Web/iOS/Android),False,2019-03-29T08:05:06Z,2019-04-22T10:10:02Z,,3,4,,0,,
