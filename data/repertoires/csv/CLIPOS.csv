@@ -3,7 +3,7 @@ clipos.github.io,clipos,GitHub,https://github.com/clipos/clipos.github.io,,False
 docs,clipos,GitHub,https://github.com/clipos/docs,,False,2018-09-12T15:49:39Z,2019-03-28T16:02:15Z,https://docs.clip-os.org,7,0,Other,0,HTML,
 assets_crates-io,clipos,GitHub,https://github.com/clipos/assets_crates-io,Vendored Rust crates from crates.io,False,2018-09-20T09:26:04Z,2018-12-20T13:15:47Z,https://clip-os.org,2,0,,0,,
 assets_debian,clipos,GitHub,https://github.com/clipos/assets_debian,Vendored Debian packages with sources,False,2018-09-20T09:26:10Z,2018-12-20T13:15:51Z,https://clip-os.org,4,0,,0,,
-assets_distfiles,clipos,GitHub,https://github.com/clipos/assets_distfiles,Vendored Gentoo distfiles,False,2018-09-20T09:26:15Z,2019-04-03T13:00:26Z,https://clip-os.org,2,0,,0,Roff,
+assets_distfiles,clipos,GitHub,https://github.com/clipos/assets_distfiles,Vendored Gentoo distfiles,False,2018-09-20T09:26:15Z,2019-04-22T02:12:39Z,https://clip-os.org,3,0,,0,Roff,
 assets_gentoo,clipos,GitHub,https://github.com/clipos/assets_gentoo,Vendored Gentoo Hardened stage3 rootfs,False,2018-09-20T09:26:20Z,2019-03-13T10:33:08Z,https://clip-os.org,3,0,,0,,
 assets_toolkit,clipos,GitHub,https://github.com/clipos/assets_toolkit,Vendored Python dependencies for toolkit,False,2018-09-20T09:26:25Z,2019-04-04T09:05:10Z,https://clip-os.org,4,0,,0,,
 bugs,clipos,GitHub,https://github.com/clipos/bugs,CLIP OS issue tracker,False,2018-09-20T09:26:30Z,2019-03-11T14:48:54Z,https://clip-os.org,22,1,,12,,
