@@ -50,7 +50,7 @@ MDE4RTS,atlanmod,GitHub,https://github.com/atlanmod/MDE4RTS,,False,2018-10-23T11
 updates,atlanmod,GitHub,https://github.com/atlanmod/updates,Update site for Atlanmod projects,False,2018-12-07T10:36:48Z,2019-03-01T16:26:56Z,,0,0,,0,HTML,
 ACP-FIX,atlanmod,GitHub,https://github.com/atlanmod/ACP-FIX,Fix problems in RBAC,False,2018-12-28T08:41:45Z,2018-12-31T07:05:28Z,,0,0,,0,Python,
 emf,atlanmod,GitHub,https://github.com/atlanmod/emf,EMF project repository (emf),True,2019-02-28T09:46:49Z,2019-02-28T09:47:07Z,,0,0,,0,Java,
-atlanmod-platform,atlanmod,GitHub,https://github.com/atlanmod/atlanmod-platform,Atlanmod Platform,False,2019-04-23T07:08:46Z,2019-04-24T09:06:38Z,,0,0,Eclipse Public License 2.0,0,Shell,
+atlanmod-platform,atlanmod,GitHub,https://github.com/atlanmod/atlanmod-platform,Atlanmod Platform,False,2019-04-23T07:08:46Z,2019-04-24T12:52:59Z,,0,0,Eclipse Public License 2.0,0,Shell,
 atl,atlanmod,GitHub,https://github.com/atlanmod/atl,Atlanmod Transformation Language,False,2019-04-23T09:41:40Z,2019-04-24T07:50:43Z,,0,0,,0,Java,
 MDE4RTS_XP,atlanmod,GitHub,https://github.com/atlanmod/MDE4RTS_XP,,False,2019-04-23T13:32:52Z,2019-04-23T13:35:26Z,,0,0,GNU Lesser General Public License v3.0,0,Java,
 modisco,atlanmod,GitHub,https://github.com/atlanmod/modisco,Model Discover,False,2019-04-24T07:03:42Z,2019-04-24T07:51:29Z,,0,0,,0,Java,
