@@ -64,7 +64,7 @@ KitGPEC,Inist-CNRS,GitHub,https://github.com/Inist-CNRS/KitGPEC,Base de données
 ezmaster-cli,Inist-CNRS,GitHub,https://github.com/Inist-CNRS/ezmaster-cli,Node wrapper for ezMaster's HTTP API & useful tools scripts using the API,False,2017-09-03T08:53:14Z,2018-05-14T21:09:23Z,,2,0,MIT License,0,JavaScript,
 ezmaster-automaton,Inist-CNRS,GitHub,https://github.com/Inist-CNRS/ezmaster-automaton,ezmaster app used to auto upgrade an ezmaster application/instance.,False,2017-09-03T16:50:24Z,2018-07-16T16:23:38Z,,0,0,,1,JavaScript,
 lodex-users-doc,Inist-CNRS,GitHub,https://github.com/Inist-CNRS/lodex-users-doc,Documentation LODEX orientée utilisateur,True,2017-09-15T15:39:23Z,2017-10-16T09:59:07Z,,0,0,,0,Shell,documentation
-lodex-extented,Inist-CNRS,GitHub,https://github.com/Inist-CNRS/lodex-extented,,False,2017-09-29T12:26:49Z,2019-03-18T21:32:03Z,,0,0,,1,,
+lodex-extented,Inist-CNRS,GitHub,https://github.com/Inist-CNRS/lodex-extented,,False,2017-09-29T12:26:49Z,2019-03-18T21:32:03Z,,0,0,,2,,
 jussieu-web-home,Inist-CNRS,GitHub,https://github.com/Inist-CNRS/jussieu-web-home,Site web appel de Jussieu,False,2017-10-03T16:06:50Z,2018-07-19T08:16:27Z,,0,0,,0,HTML,
 ezmaster-mongo,Inist-CNRS,GitHub,https://github.com/Inist-CNRS/ezmaster-mongo,Ezmasterization of mongodb,False,2017-11-08T18:07:43Z,2018-07-16T16:23:09Z,,0,0,,0,Shell,
 ezmaster-web-term,Inist-CNRS,GitHub,https://github.com/Inist-CNRS/ezmaster-web-term,Web terminal used for debugging ezmaster stuff,False,2017-12-06T20:35:29Z,2017-12-06T20:36:52Z,,0,0,,1,Makefile,
