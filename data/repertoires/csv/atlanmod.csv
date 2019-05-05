@@ -11,7 +11,7 @@ mondo-itmfactory-benchmark,atlanmod,GitHub,https://github.com/atlanmod/mondo-itm
 mondo-atlzoo-benchmark,atlanmod,GitHub,https://github.com/atlanmod/mondo-atlzoo-benchmark,,False,2014-10-30T10:01:01Z,2018-02-19T11:15:45Z,,3,0,,0,Java,
 mondo-openbim-benchmark,atlanmod,GitHub,https://github.com/atlanmod/mondo-openbim-benchmark,,False,2014-10-30T10:12:32Z,2017-10-02T12:38:24Z,,1,0,,0,Assembly,
 busfactor_demo,atlanmod,GitHub,https://github.com/atlanmod/busfactor_demo,Bus factor demo SANER'15,False,2014-11-03T12:01:38Z,2018-08-20T17:28:21Z,,2,1,,0,,
-NeoEMF,atlanmod,GitHub,https://github.com/atlanmod/NeoEMF,Multi-backend EMF persistence framework.,False,2014-11-19T13:07:45Z,2019-03-30T08:01:16Z,http://www.neoemf.com,37,10,Other,9,Java,"eclipse-plugin,emf,large-models,persistence"
+NeoEMF,atlanmod,GitHub,https://github.com/atlanmod/NeoEMF,Multi-backend EMF persistence framework.,False,2014-11-19T13:07:45Z,2019-05-05T14:47:26Z,http://www.neoemf.com,36,10,Other,9,Java,"eclipse-plugin,emf,large-models,persistence"
 Mogwai,atlanmod,GitHub,https://github.com/atlanmod/Mogwai,Automatic translation from OCL to Gremlin,False,2015-02-03T15:07:23Z,2019-01-28T16:35:00Z,,7,3,,32,Java,"gremlin,neoemf,ocl,query"
 monoge,atlanmod,GitHub,https://github.com/atlanmod/monoge,(Deprecated) Lightweight metamodel extension,False,2015-02-25T16:08:06Z,2018-03-06T12:25:39Z,,2,0,,0,Java,
 emfviewsSQL,atlanmod,GitHub,https://github.com/atlanmod/emfviewsSQL,(Deprecated) Views on heterogeneous models,False,2015-03-27T16:55:19Z,2018-03-06T12:26:21Z,,0,0,,0,Java,
