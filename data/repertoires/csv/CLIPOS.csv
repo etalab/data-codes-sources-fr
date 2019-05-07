@@ -6,7 +6,7 @@ assets_debian,clipos,GitHub,https://github.com/clipos/assets_debian,Vendored Deb
 assets_distfiles,clipos,GitHub,https://github.com/clipos/assets_distfiles,Vendored Gentoo distfiles,False,2018-09-20T09:26:15Z,2019-04-22T15:06:31Z,https://clip-os.org,4,0,,0,Roff,
 assets_gentoo,clipos,GitHub,https://github.com/clipos/assets_gentoo,Vendored Gentoo Hardened stage3 rootfs,False,2018-09-20T09:26:20Z,2019-03-13T10:33:08Z,https://clip-os.org,3,0,,0,,
 assets_toolkit,clipos,GitHub,https://github.com/clipos/assets_toolkit,Vendored Python dependencies for toolkit,False,2018-09-20T09:26:25Z,2019-04-04T09:05:10Z,https://clip-os.org,4,0,,0,,
-bugs,clipos,GitHub,https://github.com/clipos/bugs,CLIP OS issue tracker,False,2018-09-20T09:26:30Z,2019-03-11T14:48:54Z,https://clip-os.org,22,1,,11,,
+bugs,clipos,GitHub,https://github.com/clipos/bugs,CLIP OS issue tracker,False,2018-09-20T09:26:30Z,2019-03-11T14:48:54Z,https://clip-os.org,22,1,,13,,
 manifest,clipos,GitHub,https://github.com/clipos/manifest,CLIP OS Manifest,False,2018-09-20T09:26:35Z,2019-05-06T09:05:15Z,https://clip-os.org,4,0,GNU Lesser General Public License v2.1,0,,
 products_clipos,clipos,GitHub,https://github.com/clipos/products_clipos,CLIP OS product recipes,False,2018-09-20T09:26:40Z,2019-05-06T10:13:12Z,https://clip-os.org,54,6,GNU Lesser General Public License v2.1,0,Shell,
 src_portage_clipos,clipos,GitHub,https://github.com/clipos/src_portage_clipos,CLIP OS portage overlay,False,2018-09-20T09:26:46Z,2019-05-06T16:13:52Z,https://clip-os.org,2,4,GNU General Public License v2.0,0,Shell,
