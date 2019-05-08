@@ -51,6 +51,6 @@ ACP-FIX,atlanmod,GitHub,https://github.com/atlanmod/ACP-FIX,Fix problems in RBAC
 emf,atlanmod,GitHub,https://github.com/atlanmod/emf,EMF project repository (emf),True,2019-02-28T09:46:49Z,2019-02-28T09:47:07Z,,0,0,,0,Java,
 atlanmod-platform,atlanmod,GitHub,https://github.com/atlanmod/atlanmod-platform,Atlanmod Platform,False,2019-04-23T07:08:46Z,2019-05-07T08:18:20Z,,0,0,Eclipse Public License 2.0,0,,
 atl,atlanmod,GitHub,https://github.com/atlanmod/atl,Atlanmod Transformation Language,False,2019-04-23T09:41:40Z,2019-04-24T07:50:43Z,,0,0,,0,Java,
-modisco,atlanmod,GitHub,https://github.com/atlanmod/modisco,Model Discover,False,2019-04-24T07:03:42Z,2019-05-08T12:07:24Z,,0,0,,0,Java,
+modisco,atlanmod,GitHub,https://github.com/atlanmod/modisco,Model Discover,False,2019-04-24T07:03:42Z,2019-05-08T17:58:46Z,,0,0,,0,Java,
 ThingML,atlanmod,GitHub,https://github.com/atlanmod/ThingML,The ThingML modelling language,True,2019-05-01T05:25:33Z,2019-05-01T05:25:39Z,https://github.com/TelluIoT/ThingML,0,0,Apache License 2.0,0,Java,
 thingml-maven-repo,atlanmod,GitHub,https://github.com/atlanmod/thingml-maven-repo,A maven repository for ThingML,False,2019-05-01T05:32:46Z,2019-05-01T05:32:49Z,,0,0,,0,,

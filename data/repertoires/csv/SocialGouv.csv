@@ -16,7 +16,7 @@ code-du-travail-numerique,SocialGouv,GitHub,https://github.com/SocialGouv/code-d
 template.data.gouv.fr.react,SocialGouv,GitHub,https://github.com/SocialGouv/template.data.gouv.fr.react,Template data.gouv implementé en React + next.js,False,2018-05-22T07:52:06Z,2018-05-22T14:16:33Z,,0,0,Other,1,JavaScript,
 code-du-travail-api,SocialGouv,GitHub,https://github.com/SocialGouv/code-du-travail-api,API du Code du travail numérique,False,2018-06-05T08:18:46Z,2018-10-11T08:47:34Z,,0,1,Apache License 2.0,0,JavaScript,
 conventions-collectives,SocialGouv,GitHub,https://github.com/SocialGouv/conventions-collectives,,False,2018-06-18T08:39:06Z,2018-06-18T08:58:22Z,,0,0,,1,JavaScript,
-standup,SocialGouv,GitHub,https://github.com/SocialGouv/standup,,False,2018-06-20T15:06:21Z,2019-05-07T10:28:05Z,https://socialgouv.github.io/standup/,0,6,,1,JavaScript,
+standup,SocialGouv,GitHub,https://github.com/SocialGouv/standup,,False,2018-06-20T15:06:21Z,2019-05-07T10:28:05Z,https://socialgouv.github.io/standup/,0,6,,2,JavaScript,
 eMJPM-doc,SocialGouv,GitHub,https://github.com/SocialGouv/eMJPM-doc,documentation,False,2018-07-27T09:59:31Z,2019-05-07T18:32:25Z,http://emjpm-doc.num.social.gouv.fr/,0,1,,0,JavaScript,
 code-du-travail-css,SocialGouv,GitHub,https://github.com/SocialGouv/code-du-travail-css,Templates HTML et CSS pour le Code du Travail numérique,False,2018-08-10T14:58:37Z,2018-10-11T08:44:54Z,https://socialgouv.github.io/code-du-travail-css/,0,0,Apache License 2.0,0,JavaScript,
 code-du-travail-monitoring,SocialGouv,GitHub,https://github.com/SocialGouv/code-du-travail-monitoring,Monitoring du code du travail numérique,False,2018-08-30T13:38:59Z,2018-08-30T15:54:41Z,,0,0,Apache License 2.0,1,,
