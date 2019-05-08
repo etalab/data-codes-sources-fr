@@ -143,7 +143,7 @@ signalement,betagouv,GitHub,https://github.com/betagouv/signalement,,False,2018-
 mes-aides-docker,betagouv,GitHub,https://github.com/betagouv/mes-aides-docker,Use CircleCI to build custom Docker images with combinations of common languages/dependencies,True,2018-10-15T13:47:29Z,2018-11-20T16:50:32Z,,0,0,,0,Perl,
 pass-culture-team,betagouv,GitHub,https://github.com/betagouv/pass-culture-team,Application métier pour le Pass Culture ,False,2018-10-18T13:14:23Z,2018-12-21T14:46:46Z,,0,0,,0,JavaScript,
 pop-shared,betagouv,GitHub,https://github.com/betagouv/pop-shared,Composants partagés pour les différentes applications POP,False,2018-10-30T12:58:01Z,2019-01-07T15:52:39Z,http://pop.culture.gouv.fr/,1,0,,0,,
-preuve-covoiturage,betagouv,GitHub,https://github.com/betagouv/preuve-covoiturage,Preuve de Covoiturage,False,2018-11-07T15:21:03Z,2019-05-07T15:03:45Z,,7,0,GNU Affero General Public License v3.0,52,JavaScript,"api,betagouv,carpooling,covoiturage"
+preuve-covoiturage,betagouv,GitHub,https://github.com/betagouv/preuve-covoiturage,Preuve de Covoiturage,False,2018-11-07T15:21:03Z,2019-05-08T15:11:50Z,,8,0,GNU Affero General Public License v3.0,52,JavaScript,"api,betagouv,carpooling,covoiturage"
 signalement-api,betagouv,GitHub,https://github.com/betagouv/signalement-api,,False,2018-11-08T14:29:52Z,2019-05-03T16:00:22Z,,1,0,MIT License,2,Scala,
 signalement-app,betagouv,GitHub,https://github.com/betagouv/signalement-app,,False,2018-11-08T14:30:41Z,2019-05-03T13:07:39Z,,3,1,MIT License,3,TypeScript,
 e-controle,betagouv,GitHub,https://github.com/betagouv/e-controle,Outil permettant de simplifier la relation entre un organisme de contrôle et des structures contrôlés,False,2018-11-12T10:03:43Z,2019-05-07T12:46:29Z,,4,3,MIT License,14,JavaScript,
