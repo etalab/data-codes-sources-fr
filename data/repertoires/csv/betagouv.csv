@@ -73,7 +73,7 @@ place-des-entreprises,betagouv,GitHub,https://github.com/betagouv/place-des-entr
 api-drones,betagouv,GitHub,https://github.com/betagouv/api-drones,"Prototype d'API pour la l'immatriculation, le suivi et la géolocalisation en temps réel des drones. ",False,2017-05-26T20:40:44Z,2017-05-30T10:54:55Z,,1,0,,0,HTML,
 mpal-rod,betagouv,GitHub,https://github.com/betagouv/mpal-rod,Bouchon pour l’API ROD (Référentiel Orientation Demandeur) de l’Anah,False,2017-05-29T14:56:28Z,2018-04-16T10:09:43Z,,0,2,,0,Ruby,
 mdph-evaluation,betagouv,GitHub,https://github.com/betagouv/mdph-evaluation,projet de l'outil d'evaluation pour les MDPH,False,2017-06-08T13:17:48Z,2018-01-30T15:10:29Z,,0,0,,1,JavaScript,
-standup,betagouv,GitHub,https://github.com/betagouv/standup,,False,2017-06-21T12:23:10Z,2019-04-15T08:47:33Z,https://stand-up.surge.sh/,3,7,GNU Affero General Public License v3.0,3,JavaScript,
+standup,betagouv,GitHub,https://github.com/betagouv/standup,,False,2017-06-21T12:23:10Z,2019-04-15T08:47:33Z,https://stand-up.surge.sh/,3,7,GNU Affero General Public License v3.0,2,JavaScript,
 mpal-deploy,betagouv,GitHub,https://github.com/betagouv/mpal-deploy,,False,2017-07-04T13:12:00Z,2017-07-04T13:17:20Z,,0,0,,0,Ruby,
 nir_validate,betagouv,GitHub,https://github.com/betagouv/nir_validate,Validation API for the french NIR,False,2017-07-12T15:14:06Z,2018-06-04T16:29:51Z,https://www.npmjs.com/package/nir_validate,2,1,,1,JavaScript,"nir,nirpp,numero,securite,social"
 annuaire-import,betagouv,GitHub,https://github.com/betagouv/annuaire-import,Import GeoJSON de Annuaire de l’administration,False,2017-07-28T11:26:24Z,2019-02-13T16:36:42Z,,3,1,,1,JavaScript,
@@ -163,7 +163,7 @@ preuve-covoiturage-doc,betagouv,GitHub,https://github.com/betagouv/preuve-covoit
 react-final-form-utils,betagouv,GitHub,https://github.com/betagouv/react-final-form-utils,"Decorators, validators and string helpers for classic email, password, loading fields in a react final form",False,2019-02-06T14:31:20Z,2019-04-24T21:14:56Z,,1,0,MIT License,0,JavaScript,
 redux-saga-data,betagouv,GitHub,https://github.com/betagouv/redux-saga-data,A lib for fetching normalized data in a redux store through sagas,False,2019-02-06T23:49:28Z,2019-04-27T23:16:35Z,,0,0,MIT License,0,JavaScript,
 la-sass-vy,betagouv,GitHub,https://github.com/betagouv/la-sass-vy,A very very lightweight sass utility,False,2019-02-07T15:59:05Z,2019-03-02T10:59:43Z,,0,0,MIT License,0,CSS,
-monstage,betagouv,GitHub,https://github.com/betagouv/monstage,,False,2019-02-08T16:41:12Z,2019-05-09T14:51:50Z,,1,0,,2,Ruby,
+monstage,betagouv,GitHub,https://github.com/betagouv/monstage,,False,2019-02-08T16:41:12Z,2019-05-09T14:51:50Z,,1,0,,3,Ruby,
 mdph-redirect,betagouv,GitHub,https://github.com/betagouv/mdph-redirect,Redirection de mdph.beta.gouv.fr vers https://mdphenligne.cnsa.fr/,False,2019-02-21T10:53:39Z,2019-02-21T11:17:10Z,,0,0,,0,Ruby,
 competences-pro-serveur,betagouv,GitHub,https://github.com/betagouv/competences-pro-serveur,Serveur et espace d'aministration pour Compétences pro,False,2019-02-27T10:35:38Z,2019-05-07T12:30:48Z,https://competences-pro.beta.gouv.fr/,0,0,GNU Affero General Public License v3.0,5,Ruby,
 react-loading-infinite-scroller,betagouv,GitHub,https://github.com/betagouv/react-loading-infinite-scroller,Wrapper of react-infinite-scroller to shape better with a loading request list rendering,False,2019-02-27T12:56:39Z,2019-04-12T12:18:15Z,,0,0,MIT License,0,JavaScript,
