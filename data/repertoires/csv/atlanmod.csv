@@ -24,7 +24,7 @@ fREX,atlanmod,GitHub,https://github.com/atlanmod/fREX,fUML-based reverse enginee
 portolan,atlanmod,GitHub,https://github.com/atlanmod/portolan, Model-Driven Cartography Platform,False,2016-01-21T10:04:20Z,2016-01-21T10:37:17Z,,0,0,,0,Java,
 org.eclipse.atl.reactive.haskell_semantics,atlanmod,GitHub,https://github.com/atlanmod/org.eclipse.atl.reactive.haskell_semantics,,False,2016-01-31T21:00:03Z,2016-02-09T08:03:25Z,,0,0,,0,Haskell,
 NeoEMF-hbase,atlanmod,GitHub,https://github.com/atlanmod/NeoEMF-hbase,A decentralized implementation of NeoEMF in HBase ,False,2016-02-29T22:15:05Z,2016-09-27T15:34:57Z,,1,0,,0,Java,
-UML2NoSQL,atlanmod,GitHub,https://github.com/atlanmod/UML2NoSQL,,False,2016-03-14T09:24:40Z,2019-01-24T09:07:31Z,,3,0,,0,Java,
+UML2NoSQL,atlanmod,GitHub,https://github.com/atlanmod/UML2NoSQL,,False,2016-03-14T09:24:40Z,2019-01-24T09:07:31Z,,3,1,,0,Java,
 hadoop-cluster-docker,atlanmod,GitHub,https://github.com/atlanmod/hadoop-cluster-docker,A test environment for ATL-MR  (ATL in MapReduce),False,2016-04-25T11:44:26Z,2018-12-19T04:30:57Z,,3,0,,0,Shell,
 OCL2fUML,atlanmod,GitHub,https://github.com/atlanmod/OCL2fUML,,False,2016-05-12T13:14:19Z,2016-05-18T16:58:46Z,,1,0,,0,Assembly,
 org.eclipse.atl.ocl-benchmarks,atlanmod,GitHub,https://github.com/atlanmod/org.eclipse.atl.ocl-benchmarks,Benchmarks for OCL operations (especially for collections) in the ATL virtual machines,False,2016-05-30T12:46:40Z,2016-05-30T12:49:38Z,,0,0,Eclipse Public License 1.0,0,Java,
