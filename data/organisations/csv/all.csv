@@ -5,7 +5,7 @@ AlsaceDigitale,Constuire l'écosystème numérique en Alsace,Alsace Digitale,htt
 ApieFrance,,Agence du Patrimoine Immateriel de l'Etat,https://github.com/ApieFrance,,"5 place des Vins-de-France, Paris",,False,2,2014-11-07T15:37:28Z,GitHub
 BRGM,,,https://github.com/BRGM,,,,False,15,2016-03-25T14:13:14Z,GitHub
 BaseAdresseNationale,,Base Adresse Nationale (BAN),https://github.com/BaseAdresseNationale,https://adresse.data.gouv.fr/,France,adresse@data.gouv.fr,False,5,2016-05-17T15:14:06Z,GitHub
-CEREMA,,CEREMA,https://github.com/CEREMA,,,,False,45,2013-11-13T09:51:42Z,GitHub
+CEREMA,,CEREMA,https://github.com/CEREMA,,,,False,46,2013-11-13T09:51:42Z,GitHub
 clipos,"CLIP OS version 5, published by @ANSSI-FR ",CLIP OS,https://github.com/clipos,https://clip-os.org,"Paris, France",clipos@ssi.gouv.fr,True,19,2017-11-17T14:32:48Z,GitHub
 CNRS-DSI-Dev,OSS Github's repository for CNRS DSI Development Department,CNRS DSI Development Department,https://github.com/CNRS-DSI-Dev,,,,False,25,2014-10-02T09:48:14Z,GitHub
 DGFiP,,Direction générale des finances publiques,https://github.com/DGFiP,http://www.economie.gouv.fr/dgfip,France,,False,1,2014-09-15T13:24:47Z,GitHub
@@ -56,8 +56,8 @@ ina-foss,,Institut National de l'Audiovisuel,https://github.com/ina-foss,http://
 indsante,,Institut National des Données de Santé,https://github.com/indsante,https://www.indsante.fr/,France,,False,4,2019-02-07T11:40:43Z,GitHub
 INRIA,"Inria, the French National Institute for computer science and applied mathematics",Inria,https://github.com/INRIA,https://www.inria.fr/,,,False,15,2012-12-03T13:03:05Z,GitHub
 linbox-team,"LinBox, FFLAS-FFPACK, Givaro developer repositories",LinBox Team,https://github.com/linbox-team,http://linalg.org,Université Grenoble-Alpes,linbox-devel@googlegroups.com,False,3,2015-06-29T11:50:15Z,GitHub
-lutece-secteur-public,"Applications Métiers LUTECE destinées au Secteur Public. Ne contient pas les modules standards Lutece (moteur de formulaire, ...) hébergés sur lutece-platform",LUTECE Secteur Public,https://github.com/lutece-secteur-public,http://fr.lutece.paris.fr,France,,False,120,2015-09-17T08:20:05Z,GitHub
-messagerie-melanie2,Dépot public pour la messagerie Mélanie2,Messagerie Mélanie2,https://github.com/messagerie-melanie2,,,,False,23,2015-01-16T09:06:53Z,GitHub
+lutece-secteur-public,"Applications Métiers LUTECE destinées au Secteur Public. Ne contient pas les modules standards Lutece (moteur de formulaire, ...) hébergés sur lutece-platform",LUTECE Secteur Public,https://github.com/lutece-secteur-public,http://fr.lutece.paris.fr,France,,False,121,2015-09-17T08:20:05Z,GitHub
+messagerie-melanie2,Dépot public pour la messagerie Mélanie2,Messagerie Mélanie2,https://github.com/messagerie-melanie2,,,,False,25,2015-01-16T09:06:53Z,GitHub
 micmacIGN,,,https://github.com/micmacIGN,,,,False,5,2016-11-07T12:47:54Z,GitHub
 nanterre,Applications citoyennes open source au service de la ville participative,Ville de Nanterre,https://github.com/nanterre,http://www.nanterre.fr,Nanterre,agora@mairie-nanterre.fr,False,8,2015-06-19T12:15:20Z,GitHub
 nantesmetropole,,Nantes Métropole,https://github.com/nantesmetropole,http://www.nantesmetropole.fr/,Nantes,,False,3,2016-06-23T14:05:25Z,GitHub
