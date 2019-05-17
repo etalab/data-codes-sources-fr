@@ -1,6 +1,6 @@
 nom,organisation_nom,plateforme,repertoire_url,description,est_fork,date_creation,derniere_mise_a_jour,page_accueil,nombre_stars,nombre_forks,licence,nombre_issues_ouvertes,langage,topics
 atlanmod.github.io,atlanmod,GitHub,https://github.com/atlanmod/atlanmod.github.io,Github Website,False,2013-11-07T10:22:49Z,2018-10-09T06:46:41Z,,0,0,MIT License,1,JavaScript,
-emfviews,atlanmod,GitHub,https://github.com/atlanmod/emfviews,Lightweight views for your models,False,2013-11-14T23:09:37Z,2019-05-14T14:15:02Z,https://www.atlanmod.org/emfviews/,11,1,Eclipse Public License 2.0,1,Java,
+emfviews,atlanmod,GitHub,https://github.com/atlanmod/emfviews,Lightweight views for your models,False,2013-11-14T23:09:37Z,2019-05-17T13:21:37Z,https://www.atlanmod.org/emfviews/,11,1,Eclipse Public License 2.0,1,Java,
 openness,atlanmod,GitHub,https://github.com/atlanmod/openness,Analyzing openness of GitHub projects,False,2014-02-20T08:15:27Z,2015-07-03T07:10:44Z,http://atlanmod.github.io/openness,1,2,,0,,
 org.eclipse.atl.reactive,atlanmod,GitHub,https://github.com/atlanmod/org.eclipse.atl.reactive,,False,2014-05-15T15:31:20Z,2016-05-18T17:00:31Z,,1,1,,0,Assembly,
 ATL_MR,atlanmod,GitHub,https://github.com/atlanmod/ATL_MR,ATL on MapReduce ,False,2014-10-10T11:13:34Z,2017-11-14T01:07:43Z,,2,3,,4,Java,
@@ -46,7 +46,7 @@ ttc2018liveContest,atlanmod,GitHub,https://github.com/atlanmod/ttc2018liveContes
 EnergyModel,atlanmod,GitHub,https://github.com/atlanmod/EnergyModel,,False,2018-07-11T11:50:15Z,2019-04-25T04:50:06Z,,2,0,GNU Lesser General Public License v3.0,0,Java,
 csy-traceability,atlanmod,GitHub,https://github.com/atlanmod/csy-traceability,,False,2018-10-10T13:44:11Z,2019-04-05T13:07:48Z,,1,0,GNU General Public License v3.0,0,Java,
 MDE4RTS,atlanmod,GitHub,https://github.com/atlanmod/MDE4RTS,,False,2018-10-23T11:39:04Z,2019-05-13T14:07:58Z,,0,0,,0,Java,
-updates,atlanmod,GitHub,https://github.com/atlanmod/updates,Update site for Atlanmod projects,False,2018-12-07T10:36:48Z,2019-05-14T14:26:27Z,,0,0,,0,HTML,
+updates,atlanmod,GitHub,https://github.com/atlanmod/updates,Update site for Atlanmod projects,False,2018-12-07T10:36:48Z,2019-05-17T13:29:46Z,,0,0,,0,HTML,
 ACP-FIX,atlanmod,GitHub,https://github.com/atlanmod/ACP-FIX,Fix problems in RBAC,False,2018-12-28T08:41:45Z,2018-12-31T07:05:28Z,,0,0,,0,Python,
 emf,atlanmod,GitHub,https://github.com/atlanmod/emf,EMF project repository (emf),True,2019-02-28T09:46:49Z,2019-02-28T09:47:07Z,,0,0,,0,Java,
 atlanmod-platform,atlanmod,GitHub,https://github.com/atlanmod/atlanmod-platform,Atlanmod Platform,False,2019-04-23T07:08:46Z,2019-05-07T08:18:20Z,,0,0,Eclipse Public License 2.0,0,,
