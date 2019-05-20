@@ -53,5 +53,5 @@ driver-stm32f4xx-spi,wookey-project,GitHub,https://github.com/wookey-project/dri
 hard-libs,wookey-project,GitHub,https://github.com/wookey-project/hard-libs,,False,2019-05-17T15:01:11Z,2019-05-17T15:02:31Z,,0,0,,0,,
 hard-tools,wookey-project,GitHub,https://github.com/wookey-project/hard-tools,,False,2019-05-17T15:01:21Z,2019-05-17T15:02:43Z,,0,0,,0,Python,
 hard-wookey-jtag,wookey-project,GitHub,https://github.com/wookey-project/hard-wookey-jtag,WooKey Secure Mass Storage JTAG / SWD Flasher PCB,False,2019-05-17T15:01:28Z,2019-05-18T10:18:50Z,,0,0,Other,0,Shell,
-hard-wookey-motherboard,wookey-project,GitHub,https://github.com/wookey-project/hard-wookey-motherboard,WooKey Secure Mass Storage Mainboard PCB,False,2019-05-17T15:01:37Z,2019-05-18T10:18:05Z,,0,0,Other,0,Shell,
+hard-wookey-motherboard,wookey-project,GitHub,https://github.com/wookey-project/hard-wookey-motherboard,WooKey Secure Mass Storage Mainboard PCB,False,2019-05-17T15:01:37Z,2019-05-20T11:51:19Z,,1,0,Other,0,Shell,
 hard-wookey-screen,wookey-project,GitHub,https://github.com/wookey-project/hard-wookey-screen,WooKey Secure Mass Storage Screen PCB,False,2019-05-17T15:01:42Z,2019-05-18T10:18:23Z,,0,0,Other,0,Shell,
