@@ -1,5 +1,5 @@
 nom,organisation_nom,plateforme,repertoire_url,description,est_fork,date_creation,derniere_mise_a_jour,page_accueil,nombre_stars,nombre_forks,licence,nombre_issues_ouvertes,langage,topics
-addok,addok,GitHub,https://github.com/addok/addok,Search engine for address. Only address.,False,2014-12-29T21:07:46Z,2019-05-19T10:33:02Z,http://addok.readthedocs.org/,153,34,MIT License,91,Python,"address,search-engine"
+addok,addok,GitHub,https://github.com/addok/addok,Search engine for address. Only address.,False,2014-12-29T21:07:46Z,2019-05-19T10:33:02Z,http://addok.readthedocs.org/,153,35,MIT License,91,Python,"address,search-engine"
 addok-france,addok,GitHub,https://github.com/addok/addok-france,Addok plugin for France addresses,False,2016-01-12T10:43:31Z,2019-05-13T08:33:48Z,,3,3,MIT License,3,Python,addok-plugin
 addok-fr,addok,GitHub,https://github.com/addok/addok-fr,Addok plugin for addresses in French language,False,2016-01-12T14:43:55Z,2019-05-13T08:33:29Z,,3,3,MIT License,1,Python,addok-plugin
 addok-csv,addok,GitHub,https://github.com/addok/addok-csv,Addok plugin for handling CSV files,False,2016-01-12T14:50:57Z,2019-05-13T08:33:10Z,,1,1,MIT License,0,Python,
@@ -7,9 +7,9 @@ addok-psql,addok,GitHub,https://github.com/addok/addok-psql,Import from PostgreS
 addok-trigrams,addok,GitHub,https://github.com/addok/addok-trigrams,Trigrams based index for Addok.,False,2016-01-26T09:53:23Z,2019-05-13T08:38:54Z,,0,1,MIT License,0,Python,
 addok-geozones,addok,GitHub,https://github.com/addok/addok-geozones,Helpers to run a Geozones dedicated Addok instance.,False,2016-05-30T10:05:49Z,2019-05-13T08:34:28Z,,1,0,MIT License,2,Python,
 addocker,addok,GitHub,https://github.com/addok/addocker,Run Addok in Docker,False,2016-08-09T15:44:28Z,2019-05-13T08:31:15Z,,5,7,MIT License,1,Shell,
-addok-openaddresses,addok,GitHub,https://github.com/addok/addok-openaddresses,Helpers to import http://openaddresses.io data into Addok.,False,2016-09-13T19:00:55Z,2016-09-14T02:06:12Z,,1,0,,1,Python,
-addok-sqlite-store,addok,GitHub,https://github.com/addok/addok-sqlite-store,Store documents in SQLite database,False,2017-01-25T15:15:03Z,2017-03-15T00:20:00Z,,1,2,,0,Python,addok-plugin
-addok-psql-store,addok,GitHub,https://github.com/addok/addok-psql-store,Store addok data in PostgreSQL.,False,2017-02-14T17:39:46Z,2017-04-19T15:27:08Z,,0,1,,0,Python,addok-plugin
-addok-idcc,addok,GitHub,https://github.com/addok/addok-idcc,Instance d'addok pour indexer des identifiants de convention collective,False,2018-05-22T17:51:58Z,2019-01-21T22:22:17Z,,3,0,,1,Python,"addok,addok-plugin"
-addok-usine,addok,GitHub,https://github.com/addok/addok-usine,An experiment.,False,2018-05-23T09:37:46Z,2018-07-19T09:21:10Z,,1,0,,0,Python,addok
+addok-openaddresses,addok,GitHub,https://github.com/addok/addok-openaddresses,Helpers to import http://openaddresses.io data into Addok.,False,2016-09-13T19:00:55Z,2016-09-14T02:06:12Z,,1,1,,1,Python,
+addok-sqlite-store,addok,GitHub,https://github.com/addok/addok-sqlite-store,Store documents in SQLite database,False,2017-01-25T15:15:03Z,2017-03-15T00:20:00Z,,1,3,,0,Python,addok-plugin
+addok-psql-store,addok,GitHub,https://github.com/addok/addok-psql-store,Store addok data in PostgreSQL.,False,2017-02-14T17:39:46Z,2017-04-19T15:27:08Z,,0,2,,0,Python,addok-plugin
+addok-idcc,addok,GitHub,https://github.com/addok/addok-idcc,Instance d'addok pour indexer des identifiants de convention collective,False,2018-05-22T17:51:58Z,2019-01-21T22:22:17Z,,3,1,,1,Python,"addok,addok-plugin"
+addok-usine,addok,GitHub,https://github.com/addok/addok-usine,An experiment.,False,2018-05-23T09:37:46Z,2018-07-19T09:21:10Z,,1,1,,0,Python,addok
 addok-http-falcon,addok,GitHub,https://github.com/addok/addok-http-falcon,"Addok plugin to handle HTTP layer, based on Falcon",False,2019-05-09T12:15:46Z,2019-05-09T12:16:18Z,,0,0,,0,Python,
