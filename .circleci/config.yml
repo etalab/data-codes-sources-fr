@@ -3,7 +3,7 @@ version: 2
 jobs:
   fetch_data:
     docker:
-      - image: circleci/python:3.6
+      - image: circleci/python:3.7
     working_directory: ~/repo
     steps:
       - checkout:

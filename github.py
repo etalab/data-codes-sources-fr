@@ -3,6 +3,8 @@ import requests
 from requests.packages.urllib3.util.retry import Retry
 from requests.adapters import HTTPAdapter
 
+from models import Organisation
+
 GITHUB_API_ROOT = "https://api.github.com/"
 
 retries = Retry(total=5, backoff_factor=0.1, status_forcelist=[500, 502, 503, 504])
@@ -41,6 +43,13 @@ def repos_for_org(organisation):
     return data
 
 
+def clean_data(value, key):
+    if key == "site_web":
+        if value and not value.startswith("http"):
+            return "http://" + value
+    return value
+
+
 def get_org(organisation):
     base_url = GITHUB_API_ROOT + "orgs/" + organisation
 
@@ -49,4 +58,26 @@ def get_org(organisation):
         return None
     response.raise_for_status()
 
-    return response.json()
+    data = response.json()
+
+    mapping = [
+        ("login", "login"),
+        ("description", "description"),
+        ("nom", "name"),
+        ("organisation_url", "html_url"),
+        ("site_web", "blog"),
+        ("adresse", "location"),
+        ("email", "email"),
+        ("est_verifiee", "is_verified"),
+        ("nombre_repertoires", "public_repos"),
+        ("date_creation", "created_at"),
+    ]
+    current_dict = {}
+    for key, json_key in mapping:
+        try:
+            current_dict[key] = clean_data(data[json_key], key)
+        except KeyError:
+            current_dict[key] = None
+    current_dict["plateforme"] = "GitHub"
+
+    return Organisation(**current_dict)
