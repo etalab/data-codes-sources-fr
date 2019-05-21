@@ -44,7 +44,7 @@ jobs:
           command: |
             if [ -n "$(git status --porcelain)" ]; then
               git add -A data
-              git commit -m "New data at $(date -u +'%Y-%m-%dT%H:%M:%SZ')"
+              git commit -m "New data at $(date -u +'%Y-%m-%dT%H:%M:%SZ') [ci skip]"
               git push origin master
             else
               echo "No changes";
@@ -52,6 +52,9 @@ jobs:
 
 workflows:
   version: 2
+  commit:
+    jobs:
+      - fetch_data
   cron:
     triggers:
       - schedule:
