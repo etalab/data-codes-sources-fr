@@ -69,7 +69,7 @@ save_repos_for_org("all", all_repos)
 
 # Save details about each org
 all_orgs = defaultdict(list)
-for organisation in organisations[:2]:
+for organisation in organisations:
     data = get_org(organisation)
 
     if data is None:
