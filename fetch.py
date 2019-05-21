@@ -32,13 +32,6 @@ def fetch_orgs():
     return unique_orgs
 
 
-def clean_data(value, key):
-    if key == "site_web":
-        if value and not value.startswith("http"):
-            return "http://" + value
-    return value
-
-
 organisations = fetch_orgs()
 
 # Save details about each repo for an org
@@ -76,36 +69,16 @@ save_repos_for_org("all", all_repos)
 
 # Save details about each org
 all_orgs = defaultdict(list)
-for organisation in organisations:
+for organisation in organisations[:2]:
     data = get_org(organisation)
 
-    current_org = defaultdict(list)
     if data is None:
         continue
     print("Fetching details for: ", organisation)
 
-    mapping = [
-        ("login", "login"),
-        ("description", "description"),
-        ("nom", "name"),
-        ("organisation_url", "html_url"),
-        ("site_web", "blog"),
-        ("adresse", "location"),
-        ("email", "email"),
-        ("est_verifiee", "is_verified"),
-        ("nombre_repertoires", "public_repos"),
-        ("date_creation", "created_at"),
-    ]
-    for key, json_key in mapping:
-        try:
-            current_org[key].append(clean_data(data[json_key], key))
-        except KeyError:
-            current_org[key].append(None)
-    current_org["plateforme"].append("GitHub")
+    for k, v in data.to_dict().items():
+        all_orgs[k].append(v)
 
-    for k, v in current_org.items():
-        all_orgs[k].extend(v)
-
-    save_org(organisation, current_org)
+    save_org(organisation, data.to_dict_list())
 
 save_org("all", all_orgs)
