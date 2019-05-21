@@ -53,7 +53,7 @@ all_orgs = defaultdict(list)
 for organisation in organisations:
     data = get_org(organisation)
 
-    if data is {}:
+    if data == {}:
         continue
     print("Fetching details for: ", organisation)
 
