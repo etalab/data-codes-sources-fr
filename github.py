@@ -32,7 +32,7 @@ def repos_for_org(organisation):
     base_url = GITHUB_API_ROOT + "orgs/" + organisation + "/repos?per_page=100"
     response = requests.get(base_url, headers=github_headers())
     if response.status_code == 404:
-        return []
+        return {}
     response.raise_for_status()
     data.extend(response.json())
 
@@ -82,7 +82,7 @@ def get_org(organisation):
 
     response = requests.get(base_url, headers=github_headers())
     if response.status_code == 404:
-        return None
+        return {}
     response.raise_for_status()
 
     data = response.json()
