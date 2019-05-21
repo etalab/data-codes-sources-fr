@@ -2,8 +2,35 @@ from dataclasses import dataclass
 from dataclasses import asdict as dataclasses_dict
 
 
+class BaseModel(object):
+    def to_dict(self):
+        return dataclasses_dict(self)
+
+    def to_dict_list(self):
+        return {k: [v] for k, v in self.to_dict().items()}
+
+
 @dataclass(frozen=True)
-class Organisation:
+class Repository(BaseModel):
+    nom: str
+    organisation_nom: str
+    plateforme: str
+    repertoire_url: str
+    description: str
+    est_fork: bool
+    date_creation: str
+    derniere_mise_a_jour: str
+    page_accueil: str
+    nombre_stars: int
+    nombre_forks: int
+    licence: str
+    nombre_issues_ouvertes: int
+    langage: str
+    topics: str
+
+
+@dataclass(frozen=True)
+class Organisation(BaseModel):
     login: str
     description: str
     nom: str
@@ -15,9 +42,3 @@ class Organisation:
     nombre_repertoires: int
     date_creation: str
     plateforme: str
-
-    def to_dict(self):
-        return dataclasses_dict(self)
-
-    def to_dict_list(self):
-        return {k: [v] for k, v in self.to_dict().items()}

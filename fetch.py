@@ -37,28 +37,9 @@ organisations = fetch_orgs()
 # Save details about each repo for an org
 all_repos = defaultdict(list)
 for organisation in organisations:
-    repos = defaultdict(list)
     print("Fetching repos for: ", organisation)
 
-    for repo in repos_for_org(organisation):
-        repos["nom"].append(repo["name"])
-        repos["organisation_nom"].append(repo["owner"]["login"])
-        repos["plateforme"].append("GitHub")
-        repos["repertoire_url"].append(repo["html_url"])
-        repos["description"].append(repo["description"])
-        repos["est_fork"].append(repo["fork"])
-        repos["date_creation"].append(repo["created_at"])
-        repos["derniere_mise_a_jour"].append(repo["updated_at"])
-        repos["page_accueil"].append(repo["homepage"])
-        repos["nombre_stars"].append(repo["stargazers_count"])
-        repos["nombre_forks"].append(repo["forks_count"])
-        try:
-            repos["licence"].append(repo["license"]["name"])
-        except Exception as e:
-            repos["licence"].append(None)
-        repos["nombre_issues_ouvertes"].append(repo["open_issues"])
-        repos["langage"].append(repo["language"])
-        repos["topics"].append(",".join(repo["topics"]))
+    repos = repos_for_org(organisation)
 
     for k, v in repos.items():
         all_repos[k].extend(v)

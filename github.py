@@ -1,9 +1,10 @@
 import os
 import requests
+from collections import defaultdict
 from requests.packages.urllib3.util.retry import Retry
 from requests.adapters import HTTPAdapter
 
-from models import Organisation
+from models import Organisation, Repository
 
 GITHUB_API_ROOT = "https://api.github.com/"
 
@@ -40,7 +41,33 @@ def repos_for_org(organisation):
         response = requests.get(url, headers=github_headers())
         data.extend(response.json())
 
-    return data
+    repos = defaultdict(list)
+    for repository in data:
+        repo = {}
+
+        repo["nom"] = repository["name"]
+        repo["organisation_nom"] = repository["owner"]["login"]
+        repo["plateforme"] = "GitHub"
+        repo["repertoire_url"] = repository["html_url"]
+        repo["description"] = repository["description"]
+        repo["est_fork"] = repository["fork"]
+        repo["date_creation"] = repository["created_at"]
+        repo["derniere_mise_a_jour"] = repository["updated_at"]
+        repo["page_accueil"] = repository["homepage"]
+        repo["nombre_stars"] = repository["stargazers_count"]
+        repo["nombre_forks"] = repository["forks_count"]
+        try:
+            repo["licence"] = repository["license"]["name"]
+        except Exception as e:
+            repo["licence"] = None
+        repo["nombre_issues_ouvertes"] = repository["open_issues"]
+        repo["langage"] = repository["language"]
+        repo["topics"] = ",".join(repository["topics"])
+
+        for k, v in Repository(**repo).to_dict_list().items():
+            repos[k].extend(v)
+
+    return repos
 
 
 def clean_data(value, key):
