@@ -8,3 +8,4 @@ regex,ARCEP-dev,GitHub,https://github.com/ARCEP-dev/regex,,False,2019-02-20T11:5
 schemas,ARCEP-dev,GitHub,https://github.com/ARCEP-dev/schemas,data files schemas for validation,False,2019-03-02T14:02:25Z,2019-03-02T14:02:28Z,,0,0,MIT License,0,,
 disPorts,ARCEP-dev,GitHub,https://github.com/ARCEP-dev/disPorts,,False,2019-04-08T15:02:49Z,2019-04-08T15:02:52Z,,0,0,MIT License,0,,
 route500_improved,ARCEP-dev,GitHub,https://github.com/ARCEP-dev/route500_improved,Code permettant le retraitement du produit ROUTE 500® de l'IGN,False,2019-04-26T14:20:17Z,2019-04-26T14:21:51Z,https://www.data.gouv.fr/fr/admin/dataset/5cc30cb28b4c4171a8406f50,0,0,MIT License,0,,
+geocodage_ban,ARCEP-dev,GitHub,https://github.com/ARCEP-dev/geocodage_ban,Déploiement d'un serveur de géocodage à la BAN (Base Adresse Nationale),False,2019-05-23T16:45:30Z,2019-05-23T16:45:33Z,,0,0,MIT License,0,,
