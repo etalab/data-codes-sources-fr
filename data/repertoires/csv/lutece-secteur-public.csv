@@ -60,7 +60,7 @@ gru-module-easyrulesbot-ticketing,lutece-secteur-public,GitHub,https://github.co
 gru-library-identitystore,lutece-secteur-public,GitHub,https://github.com/lutece-secteur-public/gru-library-identitystore,,False,2016-06-08T12:43:58Z,2019-01-29T11:16:48Z,,0,0,,0,Java,
 gru-module-appointment-solrsearchapp,lutece-secteur-public,GitHub,https://github.com/lutece-secteur-public/gru-module-appointment-solrsearchapp,,False,2016-06-10T17:30:54Z,2018-06-19T08:37:05Z,,0,0,,0,Java,
 gru-module-appointment-solr,lutece-secteur-public,GitHub,https://github.com/lutece-secteur-public/gru-module-appointment-solr,,False,2016-06-10T17:46:34Z,2018-06-19T08:34:16Z,,0,0,,0,Java,
-gru-module-appointment-leaflet,lutece-secteur-public,GitHub,https://github.com/lutece-secteur-public/gru-module-appointment-leaflet,,False,2016-06-10T17:52:23Z,2018-06-19T08:46:06Z,,0,0,,0,Java,
+gru-module-appointment-leaflet,lutece-secteur-public,GitHub,https://github.com/lutece-secteur-public/gru-module-appointment-leaflet,,False,2016-06-10T17:52:23Z,2018-06-19T08:46:06Z,,0,1,,1,Java,
 gru-docker-grudemo,lutece-secteur-public,GitHub,https://github.com/lutece-secteur-public/gru-docker-grudemo,,True,2016-07-04T09:57:11Z,2016-07-04T09:57:36Z,,0,0,,0,Shell,
 gru-module-customerprovisioning-identitystore,lutece-secteur-public,GitHub,https://github.com/lutece-secteur-public/gru-module-customerprovisioning-identitystore,Implemenation of Customer provisioning by using identity store,False,2016-07-28T10:19:35Z,2016-08-12T13:03:24Z,,0,0,,0,Java,
 gru-module-identitystore-indexer,lutece-secteur-public,GitHub,https://github.com/lutece-secteur-public/gru-module-identitystore-indexer,Module to index the identities of Identity Store,False,2016-08-04T10:06:19Z,2019-01-29T11:16:18Z,,0,0,,0,Java,
