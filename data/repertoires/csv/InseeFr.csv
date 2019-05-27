@@ -10,7 +10,7 @@ Eno-CLI,InseeFr,GitHub,https://github.com/InseeFr/Eno-CLI,Command-line interface
 Pogues-Back-Office,InseeFr,GitHub,https://github.com/InseeFr/Pogues-Back-Office,Back-office services for Pogues,False,2017-04-20T12:08:12Z,2019-05-10T15:49:07Z,,0,3,MIT License,1,Java,
 DDI-Access-Services,InseeFr,GitHub,https://github.com/InseeFr/DDI-Access-Services,Web services for accessing DDI metadata in Colectica,False,2017-10-04T07:06:52Z,2019-02-15T10:36:15Z,,0,4,MIT License,1,Java,
 Bauhaus,InseeFr,GitHub,https://github.com/InseeFr/Bauhaus,"Web application for the management of concepts, classifications and other statistical objects",False,2018-03-23T12:12:41Z,2019-05-21T14:47:17Z,,0,4,MIT License,1,JavaScript,
-Bauhaus-Back-Office,InseeFr,GitHub,https://github.com/InseeFr/Bauhaus-Back-Office,Back-office services for Bauhaus,False,2018-03-23T12:15:50Z,2019-05-24T12:43:30Z,,0,3,MIT License,0,Java,
+Bauhaus-Back-Office,InseeFr,GitHub,https://github.com/InseeFr/Bauhaus-Back-Office,Back-office services for Bauhaus,False,2018-03-23T12:15:50Z,2019-05-27T09:27:10Z,,0,4,MIT License,1,Java,
 Destinie-2,InseeFr,GitHub,https://github.com/InseeFr/Destinie-2,Modèle de microsimulation dynamique,False,2018-07-04T08:23:34Z,2019-05-03T10:17:56Z,,2,0,GNU General Public License v3.0,0,C++,
 Mesange,InseeFr,GitHub,https://github.com/InseeFr/Mesange,Modèle macro-économique Mésange,False,2018-08-29T07:10:48Z,2019-01-30T19:32:58Z,,7,3,Other,0,,
 Meleze,InseeFr,GitHub,https://github.com/InseeFr/Meleze,Modèle macro-économique Mélèze,False,2018-08-29T07:11:26Z,2019-04-14T13:11:14Z,,1,0,GNU General Public License v3.0,0,MATLAB,
