@@ -7,7 +7,7 @@ node-xml-splitter,Inist-CNRS,GitHub,https://github.com/Inist-CNRS/node-xml-split
 node-atom-writer,Inist-CNRS,GitHub,https://github.com/Inist-CNRS/node-atom-writer,,False,2012-06-27T07:46:30Z,2015-10-28T15:30:22Z,,6,3,Other,2,JavaScript,
 node-json-writer,Inist-CNRS,GitHub,https://github.com/Inist-CNRS/node-json-writer,,False,2012-07-03T07:01:25Z,2015-10-28T15:14:13Z,,1,1,Other,0,JavaScript,
 node-xml2json-command,Inist-CNRS,GitHub,https://github.com/Inist-CNRS/node-xml2json-command,"Convert an XML input to a JSON output, using xml-mapping",False,2012-11-15T15:39:07Z,2019-02-14T08:42:33Z,,151,10,,4,JavaScript,
-node-csv-string,Inist-CNRS,GitHub,https://github.com/Inist-CNRS/node-csv-string,CSV Strings & Streams for Javascript since 2012,False,2013-01-11T15:06:07Z,2019-04-02T17:05:21Z,,43,16,Other,2,JavaScript,
+node-csv-string,Inist-CNRS,GitHub,https://github.com/Inist-CNRS/node-csv-string,CSV Strings & Streams for Javascript since 2012,False,2013-01-11T15:06:07Z,2019-05-30T05:27:55Z,,44,16,Other,2,JavaScript,
 node-formatik,Inist-CNRS,GitHub,https://github.com/Inist-CNRS/node-formatik,To validate associative arrays,False,2013-03-20T09:22:49Z,2015-10-28T15:29:06Z,,3,0,Other,0,JavaScript,
 node-inotifywait,Inist-CNRS,GitHub,https://github.com/Inist-CNRS/node-inotifywait,Yet another nodejs fs.watch/inotify implementation. Good for large directory structure with lot of files.,False,2013-07-06T19:29:06Z,2019-02-07T14:44:51Z,,23,9,MIT License,8,JavaScript,
 node-monitor-pid,Inist-CNRS,GitHub,https://github.com/Inist-CNRS/node-monitor-pid,Monitors a pid and all its sons with NodeJS,False,2013-10-21T09:10:41Z,2019-03-13T02:08:33Z,,10,2,MIT License,0,JavaScript,
