@@ -1,4 +1,4 @@
 nom,organisation_nom,plateforme,repertoire_url,description,est_fork,date_creation,derniere_mise_a_jour,page_accueil,nombre_stars,nombre_forks,licence,nombre_issues_ouvertes,langage,topics
 mock-up,histovec,GitHub,https://github.com/histovec/mock-up,2nd draft of a gui for histovec,False,2018-03-10T11:44:16Z,2018-04-03T12:58:20Z,,0,0,,0,HTML,
 slides,histovec,GitHub,https://github.com/histovec/slides,,False,2018-03-10T15:43:39Z,2018-05-02T20:31:12Z,,0,0,MIT License,0,JavaScript,
-histovec-beta,histovec,GitHub,https://github.com/histovec/histovec-beta,Histovec - Achetez en confiance un véhicule d'occasion,False,2018-04-01T19:06:20Z,2019-05-31T07:05:06Z,,6,12,GNU General Public License v3.0,44,CSS,
+histovec-beta,histovec,GitHub,https://github.com/histovec/histovec-beta,Histovec - Achetez en confiance un véhicule d'occasion,False,2018-04-01T19:06:20Z,2019-05-31T09:54:58Z,,6,12,GNU General Public License v3.0,45,CSS,
