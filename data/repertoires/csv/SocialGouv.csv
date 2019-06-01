@@ -34,7 +34,7 @@ next-routes,SocialGouv,GitHub,https://github.com/SocialGouv/next-routes,Fork of 
 code-du-travail-scenarios,SocialGouv,GitHub,https://github.com/SocialGouv/code-du-travail-scenarios,,False,2018-12-04T13:55:07Z,2018-12-20T15:30:44Z,,0,1,,1,HTML,
 code-du-travail-slides,SocialGouv,GitHub,https://github.com/SocialGouv/code-du-travail-slides,Slides update,False,2019-01-08T09:21:19Z,2019-02-26T08:40:20Z,https://socialgouv.github.io/code-du-travail-slides,0,0,,1,,
 kaligator,SocialGouv,GitHub,https://github.com/SocialGouv/kaligator,helps using KALI dumps (the French Conventions collectives nationales database).,False,2019-01-16T09:57:33Z,2019-02-20T11:58:12Z,,0,1,Other,9,Python,
-bootstrap,SocialGouv,GitHub,https://github.com/SocialGouv/bootstrap,Social Gouv Bootstrap monorepo ,False,2019-01-17T14:00:54Z,2019-05-31T08:40:44Z,https://socialgouv.github.io/bootstrap/master/docs/,0,0,Apache License 2.0,5,CSS,
+bootstrap,SocialGouv,GitHub,https://github.com/SocialGouv/bootstrap,Social Gouv Bootstrap monorepo ,False,2019-01-17T14:00:54Z,2019-06-01T12:34:33Z,https://socialgouv.github.io/bootstrap/master/docs/,0,0,Apache License 2.0,4,CSS,
 dila2sql,SocialGouv,GitHub,https://github.com/SocialGouv/dila2sql,Outils pour générer des bases SQL à partir des jeux de données légales de la DILA,True,2019-01-29T10:26:45Z,2019-05-27T16:22:40Z,https://api.dila2sql.num.social.gouv.fr/,4,0,,5,Python,
 seminaire,SocialGouv,GitHub,https://github.com/SocialGouv/seminaire,,False,2019-01-31T17:05:29Z,2019-01-31T17:18:28Z,,0,0,,8,,
 emjpm,SocialGouv,GitHub,https://github.com/SocialGouv/emjpm,Trouver rapidement le bon professionnel pour les majeurs à protéger,False,2019-02-01T17:39:21Z,2019-05-31T11:37:01Z,,0,1,Other,48,JavaScript,
