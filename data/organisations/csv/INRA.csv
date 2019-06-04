@@ -1,0 +1,2 @@
+login,description,nom,organisation_url,site_web,adresse,email,est_verifiee,nombre_repertoires,date_creation,plateforme
+INRA,See Inra's policy towards software licensing and hosting: https://www6.inra.fr/datapartage,Institut national de la recherche agronomique,https://github.com/INRA,http://www.inra.fr/,France,,False,6,2017-05-15T07:03:28Z,GitHub
