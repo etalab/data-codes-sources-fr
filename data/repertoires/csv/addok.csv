@@ -6,7 +6,7 @@ addok-csv,addok,GitHub,https://github.com/addok/addok-csv,Addok plugin for handl
 addok-psql,addok,GitHub,https://github.com/addok/addok-psql,Import from PostgreSQL in addok,False,2016-01-12T17:07:00Z,2019-05-13T08:37:42Z,,0,2,MIT License,0,Python,
 addok-trigrams,addok,GitHub,https://github.com/addok/addok-trigrams,Trigrams based index for Addok.,False,2016-01-26T09:53:23Z,2019-05-13T08:38:54Z,,0,2,MIT License,0,Python,
 addok-geozones,addok,GitHub,https://github.com/addok/addok-geozones,Helpers to run a Geozones dedicated Addok instance.,False,2016-05-30T10:05:49Z,2019-05-13T08:34:28Z,,1,0,MIT License,2,Python,
-addocker,addok,GitHub,https://github.com/addok/addocker,Run Addok in Docker,False,2016-08-09T15:44:28Z,2019-05-13T08:31:15Z,,5,7,MIT License,1,Shell,
+addocker,addok,GitHub,https://github.com/addok/addocker,Run Addok in Docker,False,2016-08-09T15:44:28Z,2019-05-13T08:31:15Z,,5,7,MIT License,2,Shell,
 addok-openaddresses,addok,GitHub,https://github.com/addok/addok-openaddresses,Helpers to import http://openaddresses.io data into Addok.,False,2016-09-13T19:00:55Z,2016-09-14T02:06:12Z,,1,1,,1,Python,
 addok-sqlite-store,addok,GitHub,https://github.com/addok/addok-sqlite-store,Store documents in SQLite database,False,2017-01-25T15:15:03Z,2017-03-15T00:20:00Z,,1,4,,0,Python,addok-plugin
 addok-psql-store,addok,GitHub,https://github.com/addok/addok-psql-store,Store addok data in PostgreSQL.,False,2017-02-14T17:39:46Z,2017-04-19T15:27:08Z,,0,2,,0,Python,addok-plugin
