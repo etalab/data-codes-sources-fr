@@ -34,7 +34,7 @@ ignf.github.io,IGNF,GitHub,https://github.com/IGNF/ignf.github.io,,False,2016-07
 apicarto,IGNF,GitHub,https://github.com/IGNF/apicarto,Faire appel à l'information géographique pour simplifier les démarches,True,2016-11-09T12:29:49Z,2019-04-03T06:55:24Z,,1,1,,4,JavaScript,
 NeatMap,IGNF,GitHub,https://github.com/IGNF/NeatMap,A simple QGIS python plugin for building tidy cities.,False,2016-11-30T13:36:28Z,2019-05-30T07:51:37Z,,11,0,GNU General Public License v3.0,1,Python,
 geoportal-sdk,IGNF,GitHub,https://github.com/IGNF/geoportal-sdk,French Geoportal SDK Javascript,False,2016-12-06T22:45:41Z,2019-04-11T16:11:03Z,,20,5,Other,6,HTML,
-ContinuousGeneralisation,IGNF,GitHub,https://github.com/IGNF/ContinuousGeneralisation,Algorithms for continuous generalisation with ArcGIS,False,2016-12-14T09:37:40Z,2019-04-01T17:32:20Z,,4,1,GNU Lesser General Public License v3.0,0,C++,
+ContinuousGeneralisation,IGNF,GitHub,https://github.com/IGNF/ContinuousGeneralisation,Algorithms for continuous generalisation with ArcGIS,False,2016-12-14T09:37:40Z,2019-06-05T07:20:50Z,,5,2,GNU Lesser General Public License v3.0,0,C++,
 libxmls,IGNF,GitHub,https://github.com/IGNF/libxmls,,False,2017-02-13T09:28:32Z,2017-02-13T09:28:32Z,,0,0,,0,,
 geoportal-wfs-client,IGNF,GitHub,https://github.com/IGNF/geoportal-wfs-client,Client JavaScript simplifiant l'accès aux WFS du géoportail (GeoJSON),False,2017-02-24T15:56:52Z,2019-03-20T13:53:36Z,,3,1,Other,2,JavaScript,
 geoportail-urbanisme-dev,IGNF,GitHub,https://github.com/IGNF/geoportail-urbanisme-dev,Documentation développeur GPU en vue de hackurba,False,2017-02-24T16:05:06Z,2019-04-17T22:19:43Z,,4,0,,1,,
