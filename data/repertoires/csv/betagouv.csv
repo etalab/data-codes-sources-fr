@@ -28,7 +28,7 @@ bourses,betagouv,GitHub,https://github.com/betagouv/bourses,Simplification de la
 openfisca-mes-aides-reform,betagouv,GitHub,https://github.com/betagouv/openfisca-mes-aides-reform,,False,2015-06-08T14:17:24Z,2015-06-08T14:23:18Z,,0,0,GNU Affero General Public License v3.0,0,Python,
 Element.details,betagouv,GitHub,https://github.com/betagouv/Element.details,A pure JS polyfill for <details> tag with DOM API for all browsers including IE6+,True,2015-07-22T09:17:26Z,2015-10-12T10:07:07Z,,1,3,,0,JavaScript,
 sejour,betagouv,GitHub,https://github.com/betagouv/sejour,,True,2015-09-27T15:01:04Z,2015-09-27T15:01:07Z,,0,0,,0,Java,
-demarches-simplifiees.fr,betagouv,GitHub,https://github.com/betagouv/demarches-simplifiees.fr,Dématérialiser et simplifier les démarches administratives ,False,2015-10-13T10:01:34Z,2019-06-05T10:42:34Z,https://www.demarches-simplifiees.fr,37,24,GNU Affero General Public License v3.0,828,Ruby,
+demarches-simplifiees.fr,betagouv,GitHub,https://github.com/betagouv/demarches-simplifiees.fr,Dématérialiser et simplifier les démarches administratives ,False,2015-10-13T10:01:34Z,2019-06-05T15:51:39Z,https://www.demarches-simplifiees.fr,37,24,GNU Affero General Public License v3.0,828,Ruby,
 api-particulier,betagouv,GitHub,https://github.com/betagouv/api-particulier,"Simplifiez les démarches de vos usagers, ne demandez plus de justificatifs",False,2015-10-23T09:14:04Z,2019-05-20T16:10:27Z,https://particulier.api.gouv.fr/,8,5,,2,JavaScript,
 quotient-familial,betagouv,GitHub,https://github.com/betagouv/quotient-familial,,False,2015-11-12T13:13:19Z,2018-01-23T09:44:36Z,,0,0,,0,JavaScript,
 beta.gouv.fr,betagouv,GitHub,https://github.com/betagouv/beta.gouv.fr,Le site public de l'Incubateur de Services Numériques de l'État français.,False,2015-12-18T13:33:48Z,2019-06-05T13:54:25Z,https://beta.gouv.fr,101,256,,14,HTML,
@@ -102,7 +102,7 @@ syso-core,betagouv,GitHub,https://github.com/betagouv/syso-core,Experimental : e
 api-particulier-auth,betagouv,GitHub,https://github.com/betagouv/api-particulier-auth,"Simplifiez les démarches de vos usagers, ne demandez plus de justificatifs",False,2018-02-16T13:23:20Z,2019-04-12T09:39:49Z,https://particulier.api.gouv.fr/,0,0,MIT License,0,JavaScript,
 i18nliner-js,betagouv,GitHub,https://github.com/betagouv/i18nliner-js,I18n made simple,True,2018-03-05T08:40:47Z,2018-03-05T08:40:49Z,,0,0,MIT License,0,JavaScript,
 react-i18nliner,betagouv,GitHub,https://github.com/betagouv/react-i18nliner,"translate=""yes"" all the things",True,2018-03-05T08:41:18Z,2018-03-05T08:41:21Z,,0,0,MIT License,0,JavaScript,
-pass-culture-api,betagouv,GitHub,https://github.com/betagouv/pass-culture-api,API pour l'application Pass Culture,False,2018-03-07T15:30:02Z,2019-06-05T13:32:43Z,,2,1,,17,Python,
+pass-culture-api,betagouv,GitHub,https://github.com/betagouv/pass-culture-api,API pour l'application Pass Culture,False,2018-03-07T15:30:02Z,2019-06-05T17:10:11Z,,2,1,,16,Python,
 pass-culture-app-staging,betagouv,GitHub,https://github.com/betagouv/pass-culture-app-staging,Version packagée de notre appli téléphone (staging),False,2018-03-21T14:02:07Z,2018-05-18T15:59:41Z,,0,0,,0,CSS,
 openfisca-pau,betagouv,GitHub,https://github.com/betagouv/openfisca-pau,Extension OpenFisca pour la ville de Pau,False,2018-04-06T14:36:56Z,2018-04-06T14:37:34Z,,0,0,GNU Affero General Public License v3.0,1,Python,
 api-particulier-demo-traces,betagouv,GitHub,https://github.com/betagouv/api-particulier-demo-traces,,False,2018-04-23T13:00:23Z,2018-04-23T13:01:27Z,,0,0,,0,HTML,
@@ -113,7 +113,7 @@ zam,betagouv,GitHub,https://github.com/betagouv/zam,Alléger la charge de prépa
 openfisca-tracer,betagouv,GitHub,https://github.com/betagouv/openfisca-tracer,A basic tool to investigate OpenFisca computations,False,2018-05-23T12:31:45Z,2019-02-05T17:40:52Z,,0,0,,0,CSS,
 eac,betagouv,GitHub,https://github.com/betagouv/eac,La Plateforme de l'Éducation Artistique et Culturelle,False,2018-05-29T08:47:25Z,2019-06-04T11:55:41Z,http://education-artistique-culturelle.fr/,3,2,MIT License,6,HTML,"culture,education,government"
 secretariat,betagouv,GitHub,https://github.com/betagouv/secretariat,La webapp secrétariat des emails de l’incubateur 💁‍♂️👩‍💻,False,2018-06-05T08:08:36Z,2019-04-03T21:58:55Z,,0,2,MIT License,3,JavaScript,
-competences-pro,betagouv,GitHub,https://github.com/betagouv/competences-pro,Évaluer en ligne les compétences pro à travers des mises en situation,False,2018-06-06T15:18:28Z,2019-06-05T14:16:15Z,https://competences-pro.beta.gouv.fr/,6,2,GNU Affero General Public License v3.0,12,JavaScript,"competences,docker,g,nodejs,npm,webpack4"
+competences-pro,betagouv,GitHub,https://github.com/betagouv/competences-pro,Évaluer en ligne les compétences pro à travers des mises en situation,False,2018-06-06T15:18:28Z,2019-06-05T14:16:15Z,https://competences-pro.beta.gouv.fr/,6,2,GNU Affero General Public License v3.0,14,JavaScript,"competences,docker,g,nodejs,npm,webpack4"
 mes-aides-out,betagouv,GitHub,https://github.com/betagouv/mes-aides-out,Basic teleservice to showcase prefill logic from mes-aides.gouv.fr,False,2018-06-06T15:44:12Z,2018-07-11T13:40:21Z,,0,0,,1,PHP,
 dossiersco-maintenance,betagouv,GitHub,https://github.com/betagouv/dossiersco-maintenance,,False,2018-06-07T09:23:10Z,2018-06-07T09:34:40Z,,0,0,,0,CSS,
 eac-scrapper,betagouv,GitHub,https://github.com/betagouv/eac-scrapper,Scrapping des données Canopé pour les acteurs culturels,False,2018-06-18T08:19:30Z,2018-06-19T13:56:05Z,,0,0,MIT License,0,JavaScript,"nodejs,scrapping"
@@ -121,7 +121,7 @@ eac-api,betagouv,GitHub,https://github.com/betagouv/eac-api,API de la plateforme
 api-particulier-lib,betagouv,GitHub,https://github.com/betagouv/api-particulier-lib,,False,2018-06-20T12:32:51Z,2018-10-26T16:24:22Z,,0,0,,0,JavaScript,
 pass-culture-shared,betagouv,GitHub,https://github.com/betagouv/pass-culture-shared,Tous les objets javascript partagés entre l'application découverte et l'application pro,False,2018-07-09T18:01:54Z,2019-06-04T09:24:34Z,,0,0,MIT License,2,JavaScript,
 co-constuisons-bot,betagouv,GitHub,https://github.com/betagouv/co-constuisons-bot,"Source du Slack Bot ""Co-Construisons""",False,2018-07-10T12:38:32Z,2018-12-03T10:16:32Z,,0,0,,0,JavaScript,
-signup-front,betagouv,GitHub,https://github.com/betagouv/signup-front,,False,2018-07-10T16:00:28Z,2019-05-31T12:41:03Z,,2,2,MIT License,0,JavaScript,
+signup-front,betagouv,GitHub,https://github.com/betagouv/signup-front,,False,2018-07-10T16:00:28Z,2019-05-31T12:41:03Z,,2,2,MIT License,1,JavaScript,
 co-constuisons-api,betagouv,GitHub,https://github.com/betagouv/co-constuisons-api,API co-construisons,False,2018-07-12T09:36:22Z,2018-12-17T09:41:50Z,,0,0,,0,JavaScript,
 pia-docker,betagouv,GitHub,https://github.com/betagouv/pia-docker,"Killian Kemps (https://github.com/KillianKemps) has created an awesome Docker configuration to setup a Docker environment for production purpose. Thanks to Killian it is much easier now to run PIA. A simple docker-compose up does everything and gives a running website : front-end, back-end and database. ",True,2018-07-24T09:47:52Z,2018-07-26T08:58:18Z,,0,0,GNU General Public License v3.0,0,Dockerfile,
 pia-paas,betagouv,GitHub,https://github.com/betagouv/pia-paas,Deploy PIA app in a Paas platform,False,2018-07-24T09:59:59Z,2018-07-24T10:00:01Z,,0,0,MIT License,0,,
@@ -143,7 +143,7 @@ signalement,betagouv,GitHub,https://github.com/betagouv/signalement,,False,2018-
 mes-aides-docker,betagouv,GitHub,https://github.com/betagouv/mes-aides-docker,Use CircleCI to build custom Docker images with combinations of common languages/dependencies,True,2018-10-15T13:47:29Z,2018-11-20T16:50:32Z,,0,0,,0,Perl,
 pass-culture-team,betagouv,GitHub,https://github.com/betagouv/pass-culture-team,Application métier pour le Pass Culture ,False,2018-10-18T13:14:23Z,2018-12-21T14:46:46Z,,0,0,,0,JavaScript,
 pop-shared,betagouv,GitHub,https://github.com/betagouv/pop-shared,Composants partagés pour les différentes applications POP,False,2018-10-30T12:58:01Z,2019-01-07T15:52:39Z,http://pop.culture.gouv.fr/,1,0,,0,,
-preuve-covoiturage,betagouv,GitHub,https://github.com/betagouv/preuve-covoiturage,Preuve de Covoiturage,False,2018-11-07T15:21:03Z,2019-06-03T13:19:13Z,,8,0,GNU Affero General Public License v3.0,57,JavaScript,"api,betagouv,carpooling,covoiturage"
+preuve-covoiturage,betagouv,GitHub,https://github.com/betagouv/preuve-covoiturage,Preuve de Covoiturage,False,2018-11-07T15:21:03Z,2019-06-03T13:19:13Z,,8,0,GNU Affero General Public License v3.0,58,JavaScript,"api,betagouv,carpooling,covoiturage"
 signalement-api,betagouv,GitHub,https://github.com/betagouv/signalement-api,,False,2018-11-08T14:29:52Z,2019-05-31T15:26:19Z,,1,0,MIT License,1,Scala,
 signalement-app,betagouv,GitHub,https://github.com/betagouv/signalement-app,,False,2018-11-08T14:30:41Z,2019-05-31T13:15:16Z,,3,1,MIT License,2,TypeScript,
 e-controle,betagouv,GitHub,https://github.com/betagouv/e-controle,Outil permettant de simplifier la relation entre un organisme de contrôle et des structures contrôlés,False,2018-11-12T10:03:43Z,2019-06-04T13:52:44Z,,4,4,MIT License,15,JavaScript,
@@ -153,7 +153,7 @@ preuve-covoiturage-dashboard,betagouv,GitHub,https://github.com/betagouv/preuve-
 pass-culture-datascience,betagouv,GitHub,https://github.com/betagouv/pass-culture-datascience,,False,2018-12-04T23:18:13Z,2018-12-04T23:18:15Z,,0,0,,4,,
 mes-aides-dockerfiles,betagouv,GitHub,https://github.com/betagouv/mes-aides-dockerfiles,Build Docker images for CircleCI,False,2018-12-05T10:16:26Z,2018-12-05T10:34:26Z,,0,0,,0,Dockerfile,
 dns,betagouv,GitHub,https://github.com/betagouv/dns,,False,2018-12-18T14:53:11Z,2018-12-18T15:37:46Z,,0,0,,0,,
-api-auth,betagouv,GitHub,https://github.com/betagouv/api-auth,,False,2018-12-18T16:07:05Z,2019-06-04T10:51:10Z,,0,1,MIT License,0,JavaScript,
+api-auth,betagouv,GitHub,https://github.com/betagouv/api-auth,,False,2018-12-18T16:07:05Z,2019-06-04T10:51:10Z,,0,1,MIT License,1,JavaScript,
 gps-usagers,betagouv,GitHub,https://github.com/betagouv/gps-usagers,Réduire les appels sans réponse dans le département du Calvados,False,2018-12-19T13:45:42Z,2019-06-04T14:17:25Z,,1,1,,0,JavaScript,
 pop,betagouv,GitHub,https://github.com/betagouv/pop,Plateforme Ouverte du Patrimoine,False,2019-01-07T09:31:05Z,2019-06-05T14:56:09Z,https://pop.culture.gouv.fr/,4,4,MIT License,4,JavaScript,"betagouv,culture"
 redux-react-modals,betagouv,GitHub,https://github.com/betagouv/redux-react-modals,React lib displaying a layer of modals through redux actions,False,2019-02-04T13:37:57Z,2019-03-01T23:01:27Z,,0,0,MIT License,0,JavaScript,
@@ -188,4 +188,4 @@ pass-culture-web-analytics,betagouv,GitHub,https://github.com/betagouv/pass-cult
 leximpact-client,betagouv,GitHub,https://github.com/betagouv/leximpact-client,Simuler l'impact des réformes socio-fiscales en moins d'une minute,False,2019-04-25T00:49:19Z,2019-06-04T08:59:00Z,,2,0,GNU Affero General Public License v3.0,1,JavaScript,
 pass-culture-publi-mailing,betagouv,GitHub,https://github.com/betagouv/pass-culture-publi-mailing,outils de publi-mailing pour les chargé de développement du pass Culture,False,2019-04-25T11:30:12Z,2019-04-25T13:46:22Z,,0,0,,0,Python,
 PeerTube,betagouv,GitHub,https://github.com/betagouv/PeerTube,Federated (ActivityPub) video streaming platform using P2P (BitTorrent) directly in the web browser with WebTorrent and Angular.,True,2019-04-26T09:49:31Z,2019-05-03T13:44:22Z,,2,0,GNU Affero General Public License v3.0,1,TypeScript,
-lapin,betagouv,GitHub,https://github.com/betagouv/lapin,Prise de RDV pour les Maisons des Solidarités,False,2019-05-21T08:14:14Z,2019-06-05T13:48:48Z,,0,0,GNU Affero General Public License v3.0,3,Ruby,
+lapin,betagouv,GitHub,https://github.com/betagouv/lapin,Prise de RDV pour les Maisons des Solidarités,False,2019-05-21T08:14:14Z,2019-06-05T15:45:32Z,,0,0,GNU Affero General Public License v3.0,2,Ruby,
