@@ -42,4 +42,4 @@ ADTimeline,ANSSI-FR,GitHub,https://github.com/ANSSI-FR/ADTimeline,PowerShell scr
 mdbook-checklist,ANSSI-FR,GitHub,https://github.com/ANSSI-FR/mdbook-checklist,mdbook preprocessor for generating checklists and indexes,False,2019-02-15T08:40:23Z,2019-04-30T07:50:07Z,,0,0,Other,0,Rust,
 cornetto,ANSSI-FR,GitHub,https://github.com/ANSSI-FR/cornetto,Outil de gestion de version statique de site web,False,2019-05-06T09:38:29Z,2019-05-06T09:38:29Z,,0,0,,0,,
 SecAESSTM32,ANSSI-FR,GitHub,https://github.com/ANSSI-FR/SecAESSTM32,Bibliothèque C et assembleur permettant le chiffrement/déchiffrement AES-128 de messages pour des composants grand public (famille STM32F3/STM32F4),False,2019-05-06T09:47:13Z,2019-06-04T12:48:42Z,,27,4,Other,0,C,
-x509-parser,ANSSI-FR,GitHub,https://github.com/ANSSI-FR/x509-parser,a RTE-free X.509 parser,False,2019-06-03T12:22:56Z,2019-06-06T07:53:56Z,,4,0,Other,0,C,
+x509-parser,ANSSI-FR,GitHub,https://github.com/ANSSI-FR/x509-parser,a RTE-free X.509 parser,False,2019-06-03T12:22:56Z,2019-06-06T14:32:55Z,,8,0,Other,0,C,
