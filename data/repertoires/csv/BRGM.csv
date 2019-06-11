@@ -14,3 +14,4 @@ cgal,BRGM,GitHub,https://github.com/BRGM/cgal,"The public CGAL repository, see t
 Pic-EAU,BRGM,GitHub,https://github.com/BRGM/Pic-EAU,Potentialiser l’Intelligence Collective pour comprendre et valoriser les données sur l’eau,False,2018-11-09T16:12:56Z,2018-11-15T15:04:14Z,,0,0,GNU General Public License v3.0,0,Python,
 geothermal-test-cases,BRGM,GitHub,https://github.com/BRGM/geothermal-test-cases,,False,2018-11-27T21:58:50Z,2018-11-28T08:12:51Z,,0,0,MIT License,0,,
 registry-core,BRGM,GitHub,https://github.com/BRGM/registry-core,Linked data registry - core application and example UI,True,2018-12-11T10:24:51Z,2018-12-18T13:52:02Z,https://github.com/UKGovLD/registry-core/wiki,0,0,Apache License 2.0,28,Java,
+ComPASS,BRGM,GitHub,https://github.com/BRGM/ComPASS,A multiphase multicomponent hydrothermal simulator,False,2019-06-11T15:15:49Z,2019-06-11T15:15:49Z,,0,0,,0,,
