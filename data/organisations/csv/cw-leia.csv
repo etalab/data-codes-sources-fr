@@ -1,0 +1,2 @@
+login,description,nom,organisation_url,site_web,adresse,email,est_verifiee,nombre_repertoires,date_creation,plateforme
+cw-leia,LEIA: the Lab Embedded ISO7816 Analyzer A Custom Smartcard Reader for the ChipWhisperer by @ANSSI-FR,LEIA,https://github.com/cw-leia,,,,False,4,2019-05-27T22:12:30Z,GitHub
