@@ -26,7 +26,7 @@ OCSInventory-NG,Open Computers and Software Inventory Next Generation is an asse
 OPIDoR,Optimisation pour le Partage et l'Interopérabilité des Données de la Recherche,,https://github.com/OPIDoR,,Nancy,,False,2,2016-09-06T13:13:06Z,GitHub
 PnCevennes,,,https://github.com/PnCevennes,,,,False,24,2014-08-27T16:37:57Z,GitHub
 PnEcrins,Etablissement public du ministère de l'environnement,Parc national des Ecrins,https://github.com/PnEcrins,http://www.ecrins-parcnational.fr,"Gap, France",,False,10,2014-12-01T10:56:16Z,GitHub
-PnX-SI,,SI des parcs nationaux français,https://github.com/PnX-SI,,,,False,26,2015-01-14T13:24:26Z,GitHub
+PnX-SI,,SI des parcs nationaux français,https://github.com/PnX-SI,,,,False,27,2015-01-14T13:24:26Z,GitHub
 PrefectureDePolice,,,https://github.com/PrefectureDePolice,,,,False,14,2016-09-07T14:27:32Z,GitHub
 ProgrammeVitam,French government IT program for digital archives,Programme Vitam,https://github.com/ProgrammeVitam,http://www.programmevitam.fr,,contact@programmevitam.fr,False,10,2016-10-21T03:17:08Z,GitHub
 SocialGouv,Incubateur des Ministères Sociaux,Incubateur des Ministères Sociaux,https://github.com/SocialGouv,https://incubateur.social.gouv.fr,Paris,dsi-incubateur@sg.social.gouv.fr,False,56,2018-01-15T13:33:35Z,GitHub
@@ -59,6 +59,7 @@ INRIA,"Inria, the French National Institute for computer science and applied mat
 linbox-team,"LinBox, FFLAS-FFPACK, Givaro developer repositories",LinBox Team,https://github.com/linbox-team,http://linalg.org,Université Grenoble-Alpes,linbox-devel@googlegroups.com,False,4,2015-06-29T11:50:15Z,GitHub
 lutece-secteur-public,"Applications Métiers LUTECE destinées au Secteur Public. Ne contient pas les modules standards Lutece (moteur de formulaire, ...) hébergés sur lutece-platform",LUTECE Secteur Public,https://github.com/lutece-secteur-public,http://fr.lutece.paris.fr,France,,False,121,2015-09-17T08:20:05Z,GitHub
 messagerie-melanie2,Dépot public pour la messagerie Mél,Messagerie Mél,https://github.com/messagerie-melanie2,,,,False,26,2015-01-16T09:06:53Z,GitHub
+meteofrance,,Météo-France GitHub Organization,https://github.com/meteofrance,https://meteofrance.github.io/,,,False,2,2019-02-19T17:41:50Z,GitHub
 micmacIGN,,,https://github.com/micmacIGN,,,,False,5,2016-11-07T12:47:54Z,GitHub
 nanterre,Applications citoyennes open source au service de la ville participative,Ville de Nanterre,https://github.com/nanterre,http://www.nanterre.fr,Nanterre,agora@mairie-nanterre.fr,False,8,2015-06-19T12:15:20Z,GitHub
 nantesmetropole,,Nantes Métropole,https://github.com/nantesmetropole,http://www.nantesmetropole.fr/,Nantes,,False,3,2016-06-23T14:05:25Z,GitHub

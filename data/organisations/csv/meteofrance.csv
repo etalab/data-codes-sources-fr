@@ -1,0 +1,2 @@
+login,description,nom,organisation_url,site_web,adresse,email,est_verifiee,nombre_repertoires,date_creation,plateforme
+meteofrance,,Météo-France GitHub Organization,https://github.com/meteofrance,https://meteofrance.github.io/,,,False,2,2019-02-19T17:41:50Z,GitHub
