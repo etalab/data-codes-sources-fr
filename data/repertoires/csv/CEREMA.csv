@@ -45,3 +45,4 @@ dtermed.cours_opendata_ente,CEREMA,GitHub,https://github.com/CEREMA/dtermed.cour
 dterso.pluginQgis.CeremaCartEau,CEREMA,GitHub,https://github.com/CEREMA/dterso.pluginQgis.CeremaCartEau,"Plugin Qgis d'aide à l'extraction des zones en eau sur les images satellites, pour Qgis2  ",False,2019-04-09T08:42:55Z,2019-04-09T08:49:03Z,,1,0,GNU General Public License v3.0,0,Python,
 dterso.pluginQgis3.CeremaCartEau3,CEREMA,GitHub,https://github.com/CEREMA/dterso.pluginQgis3.CeremaCartEau3,Plugin Qgis3 d'aide à l'extraction des zones en eau sur les images satellites ,False,2019-04-09T08:50:07Z,2019-05-03T12:18:51Z,,1,0,GNU General Public License v3.0,0,Python,
 rivages-android,CEREMA,GitHub,https://github.com/CEREMA/rivages-android,Rivages,False,2019-05-16T13:46:38Z,2019-05-27T08:18:52Z,,0,0,,0,HTML,
+dtermed.MobiTC,CEREMA,GitHub,https://github.com/CEREMA/dtermed.MobiTC,,False,2019-06-13T08:39:21Z,2019-06-13T09:29:38Z,,0,0,,0,R,

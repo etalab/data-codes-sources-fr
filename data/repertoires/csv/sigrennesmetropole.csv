@@ -1,7 +1,7 @@
 nom,organisation_nom,plateforme,repertoire_url,description,est_fork,date_creation,derniere_mise_a_jour,page_accueil,nombre_stars,nombre_forks,licence,nombre_issues_ouvertes,langage,topics
 api_rva,sigrennesmetropole,GitHub,https://github.com/sigrennesmetropole/api_rva,code source de l'api rva de Rennes Métropole,False,2016-03-03T22:32:57Z,2016-03-03T22:32:57Z,,0,0,,1,,
 addon_rva,sigrennesmetropole,GitHub,https://github.com/sigrennesmetropole/addon_rva,Addon RVA pour mapfishapp - geOrchestra,False,2016-03-04T14:33:19Z,2016-11-24T10:59:40Z,http://rva.data.rennes-metropole.fr/,1,1,,1,JavaScript,
-addon_urbanisme,sigrennesmetropole,GitHub,https://github.com/sigrennesmetropole/addon_urbanisme,Addon urbanisme pour le visualiseur de l'IDS geOrchestra,False,2016-04-29T13:27:17Z,2019-04-12T07:58:19Z,http://www.georchestra.org,1,6,GNU General Public License v3.0,3,JavaScript,
+addon_urbanisme,sigrennesmetropole,GitHub,https://github.com/sigrennesmetropole/addon_urbanisme,Addon urbanisme pour le visualiseur de l'IDS geOrchestra,False,2016-04-29T13:27:17Z,2019-04-12T07:58:19Z,http://www.georchestra.org,1,6,GNU General Public License v3.0,4,JavaScript,
 images,sigrennesmetropole,GitHub,https://github.com/sigrennesmetropole/images,dépot d'images pour sites,False,2016-05-17T13:41:46Z,2016-05-17T13:43:39Z,,0,0,,0,,
 rmtr,sigrennesmetropole,GitHub,https://github.com/sigrennesmetropole/rmtr,module rmtr pour georchestra,False,2016-09-06T07:24:19Z,2017-06-14T14:02:56Z,,1,0,,4,JavaScript,
 photos_obliques,sigrennesmetropole,GitHub,https://github.com/sigrennesmetropole/photos_obliques,dépot du module photo obliques pour geOrchestra,False,2016-09-19T14:02:59Z,2018-07-02T13:32:46Z,,2,2,GNU General Public License v3.0,9,JavaScript,
