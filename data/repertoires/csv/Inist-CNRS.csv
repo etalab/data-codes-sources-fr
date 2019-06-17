@@ -30,7 +30,7 @@ jbj-playground,Inist-CNRS,GitHub,https://github.com/Inist-CNRS/jbj-playground,JB
 node-jbj-ist,Inist-CNRS,GitHub,https://github.com/Inist-CNRS/node-jbj-ist,JBJ IST module,False,2015-12-09T11:09:17Z,2016-09-16T12:23:09Z,,0,0,MIT License,0,JavaScript,
 node-istex,Inist-CNRS,GitHub,https://github.com/Inist-CNRS/node-istex,Un wrapper nodejs sur l'API ISTEX,False,2016-02-03T14:20:46Z,2019-04-01T13:42:37Z,,0,0,,0,JavaScript,
 ghostscript-js,Inist-CNRS,GitHub,https://github.com/Inist-CNRS/ghostscript-js,Just a nodeJS wrapper for ghostscript,False,2016-02-24T13:58:25Z,2018-12-05T16:03:33Z,,9,7,MIT License,0,CMake,ghostscript
-octachore,Inist-CNRS,GitHub,https://github.com/Inist-CNRS/octachore,Just another nodeJS wrapper for tesseract-ocr,False,2016-03-02T16:31:54Z,2016-09-28T11:20:15Z,,1,0,MIT License,0,JavaScript,
+octachore,Inist-CNRS,GitHub,https://github.com/Inist-CNRS/octachore,Just another nodeJS wrapper for tesseract-ocr,False,2016-03-02T16:31:54Z,2019-06-17T06:37:19Z,,1,0,MIT License,0,JavaScript,
 roadmapjs,Inist-CNRS,GitHub,https://github.com/Inist-CNRS/roadmapjs,A nodejs/reactjs application parsing Trello roadmap boards and displaying a nice project roadmap as a visual vertical timeline.,False,2016-03-03T09:55:09Z,2017-08-01T12:16:04Z,,5,0,,0,JavaScript,
 node-jbj-rdfa,Inist-CNRS,GitHub,https://github.com/Inist-CNRS/node-jbj-rdfa,JBJ RDFa - JBJ module to generate HTML + RDFa,False,2016-03-21T15:10:31Z,2018-12-13T00:12:13Z,,1,0,MIT License,0,JavaScript,
 ezmaster,Inist-CNRS,GitHub,https://github.com/Inist-CNRS/ezmaster,Administration of docker applications without any IT skills,False,2016-04-05T09:34:56Z,2019-06-12T09:56:33Z,,12,3,MIT License,7,JavaScript,"backoffice,docker"
