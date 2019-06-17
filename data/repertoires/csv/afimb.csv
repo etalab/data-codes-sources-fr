@@ -9,7 +9,7 @@ webtopo_api,afimb,GitHub,https://github.com/afimb/webtopo_api,webtopo_api is a J
 compliance,afimb,GitHub,https://github.com/afimb/compliance,documentation helper to produce pages for validation tests descriptions,False,2014-02-19T16:03:57Z,2015-01-21T07:27:01Z,,1,0,Other,0,Ruby,
 chouette-pkg,afimb,GitHub,https://github.com/afimb/chouette-pkg,package scripting for chouette and irys,False,2014-06-02T09:02:17Z,2015-01-21T07:26:53Z,,1,0,,0,Shell,
 irys-demo,afimb,GitHub,https://github.com/afimb/irys-demo,Client de démonstration pour le protocole SIRI,False,2015-08-17T12:21:20Z,2016-02-15T09:49:21Z,,0,0,,1,CoffeeScript,
-siri_lite,afimb,GitHub,https://github.com/afimb/siri_lite,a brigde between siri server and siri-lite clients,False,2015-10-27T08:52:26Z,2018-03-16T10:14:22Z,,6,2,Other,2,Java,
+siri_lite,afimb,GitHub,https://github.com/afimb/siri_lite,a brigde between siri server and siri-lite clients,False,2015-10-27T08:52:26Z,2018-03-16T10:14:22Z,,6,3,Other,2,Java,
 cvdtc,afimb,GitHub,https://github.com/afimb/cvdtc,Conversion et Validation des Données de Transport Collectif (Formats : GTFS et Neptune).,False,2015-11-18T09:03:00Z,2019-06-05T14:38:37Z,http://www.conversion-validation-donnees-tc.org,4,3,Other,1,Ruby,
 cvdtc-i18n,afimb,GitHub,https://github.com/afimb/cvdtc-i18n,,False,2015-11-19T13:13:31Z,2016-01-13T10:35:31Z,,1,0,MIT License,0,Ruby,
 ievkit,afimb,GitHub,https://github.com/afimb/ievkit,,False,2015-11-20T15:51:00Z,2016-11-28T10:03:15Z,,1,1,Other,0,Ruby,

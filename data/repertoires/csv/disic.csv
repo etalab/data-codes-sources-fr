@@ -44,10 +44,10 @@ inventaire,DISIC,GitHub,https://github.com/DISIC/inventaire,pour cataloguer les 
 guide-chef_projets,DISIC,GitHub,https://github.com/DISIC/guide-chef_projets,Guide du chef de projets RGAA 3,False,2017-10-18T07:30:41Z,2017-10-25T16:03:54Z,https://disic.github.io/guide-chef_projets/,0,0,,0,HTML,"a11y,project-management,rgaa"
 politique-de-contribution-open-source,DISIC,GitHub,https://github.com/DISIC/politique-de-contribution-open-source,Politique de contribution open-source interministérielle,False,2017-10-27T15:00:57Z,2019-06-12T17:07:57Z,https://www.numerique.gouv.fr/publications/politique-logiciel-libre/,56,53,Other,12,,"government,open-source,policy"
 circuits,DISIC,GitHub,https://github.com/DISIC/circuits,Explicitation des processus internes,False,2018-03-12T15:32:25Z,2019-04-24T12:12:19Z,,2,0,,0,,
-wikidemarches,DISIC,GitHub,https://github.com/DISIC/wikidemarches,,False,2018-05-18T08:34:44Z,2019-06-17T09:40:38Z,,3,4,GNU Lesser General Public License v3.0,112,Java,
+wikidemarches,DISIC,GitHub,https://github.com/DISIC/wikidemarches,,False,2018-05-18T08:34:44Z,2019-06-17T18:49:12Z,,3,4,GNU Lesser General Public License v3.0,109,Java,
 sirh-paye-GEST-compar,DISIC,GitHub,https://github.com/DISIC/sirh-paye-GEST-compar,Outil web de visualisation et de comparaison de fichiers GEST de paye en lien avec l'application PAY.,False,2018-09-17T11:57:45Z,2018-09-17T12:33:37Z,,0,0,,0,,
 XWiki-cerfa-numerique,DISIC,GitHub,https://github.com/DISIC/XWiki-cerfa-numerique,XWiki-cerfa-numerique ,False,2018-11-26T14:37:56Z,2018-11-26T14:38:47Z,,0,1,,0,,
 sill,DISIC,GitHub,https://github.com/DISIC/sill,Socle interministériel des logiciels libres,True,2019-01-24T18:19:07Z,2019-06-04T05:22:50Z,https://disic.github.io/sill/,8,1,Other,17,HTML,"bluehats,etalab,sill"
 GMR-sandbox,DISIC,GitHub,https://github.com/DISIC/GMR-sandbox,GMR-sandbox,False,2019-02-18T11:45:10Z,2019-04-16T20:20:42Z,,0,2,MIT License,1,,
-gazette-bluehats,DISIC,GitHub,https://github.com/DISIC/gazette-bluehats,La gazette du libre dans/pour l'administration,False,2019-04-01T18:07:05Z,2019-06-11T08:55:37Z,https://frama.link/gazette-bluehats,5,2,Other,2,,"bluehats,dinsic"
+gazette-bluehats,DISIC,GitHub,https://github.com/DISIC/gazette-bluehats,La gazette du libre dans/pour l'administration,False,2019-04-01T18:07:05Z,2019-06-17T16:08:58Z,https://frama.link/gazette-bluehats,6,2,Other,2,,"bluehats,dinsic"
 GMR,DISIC,GitHub,https://github.com/DISIC/GMR,Gouvernance et maitrise des risques,False,2019-04-09T12:30:26Z,2019-04-09T15:16:57Z,,3,0,,0,,
