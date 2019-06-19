@@ -1,3 +1,3 @@
 nom,organisation_nom,plateforme,repertoire_url,description,est_fork,date_creation,derniere_mise_a_jour,page_accueil,nombre_stars,nombre_forks,licence,nombre_issues_ouvertes,langage,topics
 DMPonline_v4,OPIDoR,GitHub,https://github.com/OPIDoR/DMPonline_v4,New code for DMPonline developed by DCC,True,2017-01-30T16:05:02Z,2017-01-30T16:05:05Z,dmponline.dcc.ac.uk,0,0,GNU Affero General Public License v3.0,0,HTML,
-DMPOPIDoR,OPIDoR,GitHub,https://github.com/OPIDoR/DMPOPIDoR,DMP OPIDoR code base. Forked from DMPRoadmap,True,2017-06-26T07:52:46Z,2019-06-13T11:51:28Z,,2,0,MIT License,22,Ruby,
+DMPOPIDoR,OPIDoR,GitHub,https://github.com/OPIDoR/DMPOPIDoR,DMP OPIDoR code base. Forked from DMPRoadmap,True,2017-06-26T07:52:46Z,2019-06-19T13:18:49Z,,2,0,MIT License,20,Ruby,

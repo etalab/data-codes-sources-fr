@@ -20,7 +20,7 @@ straliens-server,AlsaceDigitale,GitHub,https://github.com/AlsaceDigitale/stralie
 straliens-landing,AlsaceDigitale,GitHub,https://github.com/AlsaceDigitale/straliens-landing,,False,2015-06-03T16:35:03Z,2015-06-03T16:42:01Z,,1,0,,0,CSS,
 straliens-app,AlsaceDigitale,GitHub,https://github.com/AlsaceDigitale/straliens-app,Straliens Web App,False,2015-06-05T21:57:37Z,2015-06-30T12:19:37Z,,0,2,,0,CSS,
 straliens-check,AlsaceDigitale,GitHub,https://github.com/AlsaceDigitale/straliens-check,,False,2015-07-01T10:19:49Z,2015-07-01T10:25:51Z,,0,0,,0,JavaScript,
-AlsaceDigitale.github.io,AlsaceDigitale,GitHub,https://github.com/AlsaceDigitale/AlsaceDigitale.github.io,Site web plaquette pour HIC,False,2015-08-28T21:40:15Z,2018-10-12T15:05:57Z,,0,2,,0,PHP,
+www.hackingindustry.camp,AlsaceDigitale,GitHub,https://github.com/AlsaceDigitale/www.hackingindustry.camp,Site web plaquette pour HIC,False,2015-08-28T21:40:15Z,2019-06-19T12:38:49Z,,0,2,,0,PHP,
 2015.hackingindustry.camp,AlsaceDigitale,GitHub,https://github.com/AlsaceDigitale/2015.hackingindustry.camp,Archive du site du Hacking Industry Camp 2015,False,2016-05-10T12:42:17Z,2016-05-10T12:47:23Z,,0,0,,0,PHP,
 2015.edgefest.fr,AlsaceDigitale,GitHub,https://github.com/AlsaceDigitale/2015.edgefest.fr,,False,2016-05-17T09:00:00Z,2016-05-17T09:06:46Z,,0,0,,0,HTML,
 edgefest2016-dropped,AlsaceDigitale,GitHub,https://github.com/AlsaceDigitale/edgefest2016-dropped,Projet HackSXB pour EdgeFest 2016,False,2016-05-28T16:47:52Z,2016-07-20T20:24:08Z,,2,0,,0,C++,
@@ -38,3 +38,4 @@ winter-school-industry,AlsaceDigitale,GitHub,https://github.com/AlsaceDigitale/w
 coworking-flex,AlsaceDigitale,GitHub,https://github.com/AlsaceDigitale/coworking-flex,Application to manage flex seats,False,2019-02-07T10:35:27Z,2019-03-06T09:37:02Z,,0,1,,9,PHP,
 tools,AlsaceDigitale,GitHub,https://github.com/AlsaceDigitale/tools,Misc tools,False,2019-03-05T15:00:24Z,2019-03-05T15:36:29Z,,1,0,,0,Shell,
 2018.edgefest.fr,AlsaceDigitale,GitHub,https://github.com/AlsaceDigitale/2018.edgefest.fr,,False,2019-06-06T06:01:42Z,2019-06-06T06:06:33Z,,0,0,,0,HTML,
+2018.hackingindustry.camp,AlsaceDigitale,GitHub,https://github.com/AlsaceDigitale/2018.hackingindustry.camp,,False,2019-06-19T12:28:00Z,2019-06-19T12:48:24Z,,0,0,,0,PHP,
