@@ -15,7 +15,7 @@ NeoEMF,atlanmod,GitHub,https://github.com/atlanmod/NeoEMF,Multi-backend EMF pers
 Mogwai,atlanmod,GitHub,https://github.com/atlanmod/Mogwai,Automatic translation from OCL to Gremlin,False,2015-02-03T15:07:23Z,2019-01-28T16:35:00Z,,7,3,,32,Java,"gremlin,neoemf,ocl,query"
 monoge,atlanmod,GitHub,https://github.com/atlanmod/monoge,(Deprecated) Lightweight metamodel extension,False,2015-02-25T16:08:06Z,2018-03-06T12:25:39Z,,2,0,,0,Java,
 emfviewsSQL,atlanmod,GitHub,https://github.com/atlanmod/emfviewsSQL,(Deprecated) Views on heterogeneous models,False,2015-03-27T16:55:19Z,2018-03-06T12:26:21Z,,0,0,,0,Java,
-ATLGT,atlanmod,GitHub,https://github.com/atlanmod/ATLGT,Bidirectional version of ATL on top of the GRoundTram transformation engine,False,2015-05-15T08:39:06Z,2018-11-15T05:43:14Z,,3,0,,6,OCaml,
+ATLGT,atlanmod,GitHub,https://github.com/atlanmod/ATLGT,Bidirectional version of ATL on top of the GRoundTram transformation engine,False,2015-05-15T08:39:06Z,2019-06-21T18:49:32Z,,4,0,,6,OCaml,
 neoEMF-Instantiator,atlanmod,GitHub,https://github.com/atlanmod/neoEMF-Instantiator,"A random generator of EMF models, using the NeoEMF",False,2015-07-01T12:48:59Z,2016-11-07T11:58:52Z,,1,0,,0,Java,
 ACPolicies,atlanmod,GitHub,https://github.com/atlanmod/ACPolicies,,False,2015-09-25T11:43:34Z,2016-02-02T16:18:30Z,,0,0,,0,Assembly,
 LazyOcl_StateMachineExample,atlanmod,GitHub,https://github.com/atlanmod/LazyOcl_StateMachineExample,State Machine Model & queries example for evaluation of Lazy OCL,False,2015-09-25T16:02:02Z,2015-09-25T16:02:02Z,,0,0,,0,,
