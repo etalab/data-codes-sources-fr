@@ -1,5 +1,5 @@
 nom,organisation_nom,plateforme,repertoire_url,description,est_fork,date_creation,derniere_mise_a_jour,page_accueil,nombre_stars,nombre_forks,licence,nombre_issues_ouvertes,langage,topics
-atlanmod.github.io,atlanmod,GitHub,https://github.com/atlanmod/atlanmod.github.io,Github Website,False,2013-11-07T10:22:49Z,2018-10-09T06:46:41Z,,0,0,MIT License,1,JavaScript,
+atlanmod.github.io,atlanmod,GitHub,https://github.com/atlanmod/atlanmod.github.io,Github Website,False,2013-11-07T10:22:49Z,2019-06-25T09:44:28Z,,0,0,MIT License,1,JavaScript,
 emfviews,atlanmod,GitHub,https://github.com/atlanmod/emfviews,Lightweight views for your models,False,2013-11-14T23:09:37Z,2019-06-03T14:29:09Z,https://www.atlanmod.org/emfviews/,11,1,Eclipse Public License 2.0,1,Java,
 openness,atlanmod,GitHub,https://github.com/atlanmod/openness,Analyzing openness of GitHub projects,False,2014-02-20T08:15:27Z,2015-07-03T07:10:44Z,http://atlanmod.github.io/openness,1,2,,0,,
 org.eclipse.atl.reactive,atlanmod,GitHub,https://github.com/atlanmod/org.eclipse.atl.reactive,,False,2014-05-15T15:31:20Z,2016-05-18T17:00:31Z,,1,1,,0,Assembly,
