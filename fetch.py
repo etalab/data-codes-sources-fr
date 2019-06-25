@@ -14,8 +14,9 @@ def fetch_orgs():
         "https://raw.githubusercontent.com/DISIC/politique-de-contribution-open-source/master/comptes-organismes-publics"
     )
     data = BytesIO(resp.read())
+    data = set([l.lower().decode("utf-8").strip() for l in data])
 
-    for line in [l.decode("utf-8").strip() for l in data]:
+    for line in data:
         if line.startswith("https://github.com"):
             org_name = line.replace("https://github.com/", "").rstrip("/")
             orgs.append(GitHubOrg(org_name))
