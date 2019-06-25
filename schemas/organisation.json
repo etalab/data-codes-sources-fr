@@ -77,7 +77,7 @@
          "example":"true",
          "type":"boolean",
          "constraints": {
-            "required": true
+            "required": false
          }
       },
       {
@@ -96,7 +96,7 @@
          "example":"2013-08-26T16:03:40Z",
          "type":"datetime",
          "constraints": {
-            "required": true
+            "required": false
          }
       },
       {

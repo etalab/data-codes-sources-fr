@@ -58,9 +58,9 @@ Les données sont décrites à l'aide de fichiers [Table Schema](https://frictio
 |site_web|chaîne de caractères (format `uri`)|Site web de l'organisation|https://etalab.gouv.fr|Valeur optionnelle|
 |adresse|chaîne de caractères|Adresse physique de l'organisation|Paris, France|Valeur optionnelle|
 |email|chaîne de caractères (format `email`)|Adresse e-mail de contact de l'organisation|contact@etalab.gouv.fr|Valeur optionnelle|
-|est_verifiee|booléen|Indique si l'organisation a prouvé qu'elle détenait les noms de domaines associés à son organisation|true|Valeur obligatoire|
+|est_verifiee|booléen|Indique si l'organisation a prouvé qu'elle détenait les noms de domaines associés à son organisation|true|Valeur optionnelle|
 |nombre_repertoires|nombre entier|Le nombre de répertoires publics de l'organisation|42|Valeur obligatoire, Valeur minimale : 0|
-|date_creation|date et heure|La date de création de l'organisation|2013-08-26T16:03:40Z|Valeur obligatoire|
+|date_creation|date et heure|La date de création de l'organisation|2013-08-26T16:03:40Z|Valeur optionnelle|
 |plateforme|chaîne de caractères|La plateforme utilisée de l'organisation|GitHub|Valeur obligatoire, Valeurs autorisées : GitHub|
 
 # Droits d’auteur et licence
