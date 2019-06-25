@@ -28,7 +28,7 @@ bourses,betagouv,GitHub,https://github.com/betagouv/bourses,Simplification de la
 openfisca-mes-aides-reform,betagouv,GitHub,https://github.com/betagouv/openfisca-mes-aides-reform,,False,2015-06-08T14:17:24Z,2015-06-08T14:23:18Z,,0,0,GNU Affero General Public License v3.0,0,Python,
 Element.details,betagouv,GitHub,https://github.com/betagouv/Element.details,A pure JS polyfill for <details> tag with DOM API for all browsers including IE6+,True,2015-07-22T09:17:26Z,2015-10-12T10:07:07Z,,1,3,,0,JavaScript,
 sejour,betagouv,GitHub,https://github.com/betagouv/sejour,,True,2015-09-27T15:01:04Z,2015-09-27T15:01:07Z,,0,0,,0,Java,
-demarches-simplifiees.fr,betagouv,GitHub,https://github.com/betagouv/demarches-simplifiees.fr,Dématérialiser et simplifier les démarches administratives ,False,2015-10-13T10:01:34Z,2019-06-25T15:17:29Z,https://www.demarches-simplifiees.fr,37,25,GNU Affero General Public License v3.0,844,Ruby,
+demarches-simplifiees.fr,betagouv,GitHub,https://github.com/betagouv/demarches-simplifiees.fr,Dématérialiser et simplifier les démarches administratives ,False,2015-10-13T10:01:34Z,2019-06-25T15:48:43Z,https://www.demarches-simplifiees.fr,37,25,GNU Affero General Public License v3.0,842,Ruby,
 api-particulier,betagouv,GitHub,https://github.com/betagouv/api-particulier,"Simplifiez les démarches de vos usagers, ne demandez plus de justificatifs",False,2015-10-23T09:14:04Z,2019-05-20T16:10:27Z,https://particulier.api.gouv.fr/,8,5,,2,JavaScript,
 quotient-familial,betagouv,GitHub,https://github.com/betagouv/quotient-familial,,False,2015-11-12T13:13:19Z,2018-01-23T09:44:36Z,,0,0,,0,JavaScript,
 beta.gouv.fr,betagouv,GitHub,https://github.com/betagouv/beta.gouv.fr,Le site public de l'Incubateur de Services Numériques de l'État français.,False,2015-12-18T13:33:48Z,2019-06-25T14:07:16Z,https://beta.gouv.fr,105,258,,13,HTML,
@@ -146,7 +146,7 @@ pop-shared,betagouv,GitHub,https://github.com/betagouv/pop-shared,Composants par
 preuve-covoiturage,betagouv,GitHub,https://github.com/betagouv/preuve-covoiturage,Preuve de Covoiturage,False,2018-11-07T15:21:03Z,2019-06-25T08:22:18Z,,10,0,GNU Affero General Public License v3.0,69,JavaScript,"api,betagouv,carpooling,covoiturage"
 signalement-api,betagouv,GitHub,https://github.com/betagouv/signalement-api,,False,2018-11-08T14:29:52Z,2019-06-19T08:33:10Z,,1,0,MIT License,3,TSQL,
 signalement-app,betagouv,GitHub,https://github.com/betagouv/signalement-app,,False,2018-11-08T14:30:41Z,2019-06-19T08:34:22Z,,3,2,MIT License,5,TypeScript,
-e-controle,betagouv,GitHub,https://github.com/betagouv/e-controle,Outil permettant de simplifier la relation entre un organisme de contrôle et des structures contrôlés,False,2018-11-12T10:03:43Z,2019-06-25T14:02:35Z,,4,4,MIT License,16,JavaScript,
+e-controle,betagouv,GitHub,https://github.com/betagouv/e-controle,Outil permettant de simplifier la relation entre un organisme de contrôle et des structures contrôlés,False,2018-11-12T10:03:43Z,2019-06-25T14:02:35Z,,4,4,MIT License,17,JavaScript,
 api-scopes,betagouv,GitHub,https://github.com/betagouv/api-scopes,Référentiel des périmetres de données issue d'une contractualisation via signup.api.gouv.fr,False,2018-11-19T18:03:37Z,2019-02-19T14:39:47Z,,0,0,MIT License,0,JavaScript,
 preuve-covoiturage-api,betagouv,GitHub,https://github.com/betagouv/preuve-covoiturage-api,API Preuve de Covoiturage,False,2018-11-29T13:32:42Z,2019-04-11T23:17:37Z,,4,0,GNU Affero General Public License v3.0,0,JavaScript,"api,betagouv,carpooling,covoiturage"
 preuve-covoiturage-dashboard,betagouv,GitHub,https://github.com/betagouv/preuve-covoiturage-dashboard,Interface de preuve de covoiturage,False,2018-11-30T08:28:26Z,2019-04-11T23:17:24Z,,2,1,,0,TypeScript,"betagouv,carpooling,covoiturage"
@@ -170,7 +170,7 @@ react-loading-infinite-scroller,betagouv,GitHub,https://github.com/betagouv/reac
 competences-pro-orchestrateur,betagouv,GitHub,https://github.com/betagouv/competences-pro-orchestrateur,Scripts de déploiement pour le client et le serveur « Compétences pro »,False,2019-03-04T14:18:31Z,2019-06-21T09:28:40Z,https://competences-pro.beta.gouv.fr/,0,0,GNU Affero General Public License v3.0,4,Shell,
 normalized-data-state,betagouv,GitHub,https://github.com/betagouv/normalized-data-state,A simple lib to obtain a state of normalized data,False,2019-03-08T11:05:25Z,2019-03-11T16:18:55Z,,0,0,MIT License,0,JavaScript,
 leximpact-server,betagouv,GitHub,https://github.com/betagouv/leximpact-server,Simuler l'impact des réformes socio-fiscales en moins d'une minute,False,2019-03-15T15:19:38Z,2019-06-25T12:18:12Z,https://leximpact.beta.gouv.fr,4,0,GNU Affero General Public License v3.0,0,Python,
-trait-d-union,betagouv,GitHub,https://github.com/betagouv/trait-d-union,Trait d'union : le chemin le plus court de la formation à l'emploi,False,2019-03-25T15:49:20Z,2019-06-25T07:23:53Z,,1,0,,0,JavaScript,
+trait-d-union,betagouv,GitHub,https://github.com/betagouv/trait-d-union,Trait d'union : le chemin le plus court de la formation à l'emploi,False,2019-03-25T15:49:20Z,2019-06-25T16:07:07Z,,1,0,,0,JavaScript,
 dossiersco-openlab1,betagouv,GitHub,https://github.com/betagouv/dossiersco-openlab1,Support pour openlab du 29 mars 2019,False,2019-03-28T15:23:35Z,2019-03-29T08:04:41Z,,0,0,MIT License,0,JavaScript,
 publicodes,betagouv,GitHub,https://github.com/betagouv/publicodes,Documentation du moteur de calcul de mon-entreprise.fr,False,2019-04-02T11:51:44Z,2019-04-25T16:27:18Z,https://publi.codes,0,0,MIT License,0,,
 compta,betagouv,GitHub,https://github.com/betagouv/compta,,False,2019-04-04T17:10:06Z,2019-04-19T07:42:48Z,,0,0,,0,Python,
@@ -191,4 +191,4 @@ PeerTube,betagouv,GitHub,https://github.com/betagouv/PeerTube,Federated (Activit
 ccas,betagouv,GitHub,https://github.com/betagouv/ccas,,False,2019-05-14T05:50:48Z,2019-06-21T12:00:54Z,,0,0,,0,JavaScript,
 lapin,betagouv,GitHub,https://github.com/betagouv/lapin,Prise de RDV pour les Maisons des Solidarités,False,2019-05-21T08:14:14Z,2019-06-25T08:59:29Z,,0,0,GNU Affero General Public License v3.0,3,Ruby,
 ds_proxy,betagouv,GitHub,https://github.com/betagouv/ds_proxy,Proxy de chiffrement utilisé sur demarches-simplifiees,False,2019-06-06T11:48:44Z,2019-06-25T12:03:54Z,,3,0,,0,Rust,
-ilos,betagouv,GitHub,https://github.com/betagouv/ilos,,False,2019-06-06T12:06:58Z,2019-06-25T07:34:47Z,,3,0,Apache License 2.0,11,TypeScript,"microservice,node,typescript"
+ilos,betagouv,GitHub,https://github.com/betagouv/ilos,,False,2019-06-06T12:06:58Z,2019-06-25T07:34:47Z,,3,0,Apache License 2.0,12,TypeScript,"microservice,node,typescript"
