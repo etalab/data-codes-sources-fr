@@ -1,5 +1,3 @@
-import yaml
-
 from collections import defaultdict
 from io import BytesIO
 from urllib.request import urlopen
