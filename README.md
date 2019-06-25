@@ -30,7 +30,7 @@ Les données sont décrites à l'aide de fichiers [Table Schema](https://frictio
 |-|-|-|-|-|
 |nom|chaîne de caractères|Le nom du répertoire|nom-repertoire|Valeur obligatoire|
 |organisation_nom|chaîne de caractères|Le nom de l'organisation|etalab|Valeur obligatoire|
-|plateforme|chaîne de caractères|La plateforme de dépôt de code|GitHub|Valeur obligatoire, Valeurs autorisées : GitHub|
+|plateforme|chaîne de caractères|La plateforme de dépôt de code|GitHub|Valeur obligatoire, Valeurs autorisées : GitHub,GitLab|
 |repertoire_url|chaîne de caractères (format `uri`)|L'URL vers le répertoire|https://github.com/etalab/nom-repertoire|Valeur obligatoire|
 |description|chaîne de caractères|La description du répertoire|Ce répertoire est utile|Valeur optionnelle|
 |est_fork|booléen|Indique si le répertoire est un fork|false|Valeur obligatoire|

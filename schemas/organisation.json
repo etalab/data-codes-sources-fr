@@ -107,7 +107,8 @@
          "constraints": {
             "required": true,
             "enum":[
-               "GitHub"
+               "GitHub",
+               "GitLab"
             ]
          }
       }

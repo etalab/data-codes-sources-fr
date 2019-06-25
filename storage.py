@@ -5,7 +5,7 @@ ORGS_FOLDER = "data/organisations/"
 REPOS_FOLDER = "data/repertoires/"
 
 
-def filename(organisation, mode, extension):
+def filename(org, mode, extension):
     if mode == "repo":
         folder = REPOS_FOLDER
     elif mode == "org":
@@ -15,8 +15,13 @@ def filename(organisation, mode, extension):
     if extension not in ["csv", "json"]:
         raise ValueError
 
+    if org == "all":
+        org_name = "all"
+    else:
+        org_name = org.organisation
+
     return "{folder}{extension}/{organisation}.{extension}".format(
-        folder=folder, extension=extension, organisation=organisation
+        folder=folder, extension=extension, organisation=org_name
     )
 
 
