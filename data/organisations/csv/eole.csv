@@ -1,0 +1,2 @@
+login,description,nom,organisation_url,site_web,adresse,email,est_verifiee,nombre_repertoires,date_creation,plateforme
+eole,Pôle logiciels libres du Ministère français de l’Éducation nationale,EOLE Team,https://github.com/eole,http://pcll.ac-dijon.fr/,Dijon - France,eole-team@ac-dijon.fr,False,14,2014-01-09T19:26:46Z,GitHub

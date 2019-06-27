@@ -31,7 +31,7 @@ sejour,betagouv,GitHub,https://github.com/betagouv/sejour,,True,2015-09-27T15:01
 demarches-simplifiees.fr,betagouv,GitHub,https://github.com/betagouv/demarches-simplifiees.fr,Dématérialiser et simplifier les démarches administratives ,False,2015-10-13T10:01:34Z,2019-06-26T14:08:35Z,https://www.demarches-simplifiees.fr,37,25,GNU Affero General Public License v3.0,842,Ruby,
 api-particulier,betagouv,GitHub,https://github.com/betagouv/api-particulier,"Simplifiez les démarches de vos usagers, ne demandez plus de justificatifs",False,2015-10-23T09:14:04Z,2019-05-20T16:10:27Z,https://particulier.api.gouv.fr/,8,5,,2,JavaScript,
 quotient-familial,betagouv,GitHub,https://github.com/betagouv/quotient-familial,,False,2015-11-12T13:13:19Z,2018-01-23T09:44:36Z,,0,0,,0,JavaScript,
-beta.gouv.fr,betagouv,GitHub,https://github.com/betagouv/beta.gouv.fr,Le site public de l'Incubateur de Services Numériques de l'État français.,False,2015-12-18T13:33:48Z,2019-06-26T13:11:07Z,https://beta.gouv.fr,105,259,,16,HTML,
+beta.gouv.fr,betagouv,GitHub,https://github.com/betagouv/beta.gouv.fr,Le site public de l'Incubateur de Services Numériques de l'État français.,False,2015-12-18T13:33:48Z,2019-06-26T19:59:40Z,https://beta.gouv.fr,106,259,,16,HTML,
 mas,betagouv,GitHub,https://github.com/betagouv/mas,DÉPRÉCIÉ,False,2016-01-25T14:03:29Z,2017-12-12T10:49:32Z,https://github.com/sgmap/api.gouv.fr,0,2,,0,HTML,
 coding-dojos,betagouv,GitHub,https://github.com/betagouv/coding-dojos,Projets et sources des séances de coding-dojo au sein du SGMAP,False,2016-01-27T15:55:07Z,2017-12-12T10:50:09Z,,0,0,,0,JavaScript,
 svair-mock,betagouv,GitHub,https://github.com/betagouv/svair-mock,,False,2016-02-01T09:12:47Z,2019-03-07T10:18:53Z,,0,7,Apache License 2.0,1,HTML,
@@ -69,7 +69,7 @@ open-academie,betagouv,GitHub,https://github.com/betagouv/open-academie,Le site 
 openfisca-cd93,betagouv,GitHub,https://github.com/betagouv/openfisca-cd93,Extension OpenFisca pour le Conseil Départemental de Seine Saint Denis,False,2017-03-22T17:45:22Z,2017-03-23T10:09:45Z,,0,0,,0,Python,
 openfisca-rennesmetropole,betagouv,GitHub,https://github.com/betagouv/openfisca-rennesmetropole,Extension OpenFisca pour Rennes Métropole,False,2017-03-24T09:54:17Z,2019-06-25T10:02:52Z,,0,3,GNU Affero General Public License v3.0,0,Python,
 plante-et-moi-backend,betagouv,GitHub,https://github.com/betagouv/plante-et-moi-backend,Permettre aux citoyens de planter fleurs et légumes dans l'espace publique,False,2017-03-27T13:21:29Z,2019-06-09T13:17:47Z,https://beta.gouv.fr/startup/plante-et-moi.html,0,0,MIT License,0,Scala,scala
-place-des-entreprises,betagouv,GitHub,https://github.com/betagouv/place-des-entreprises,Place des Entreprises,False,2017-04-07T08:30:16Z,2019-06-24T13:56:17Z,https://place-des-entreprises.beta.gouv.fr,5,3,,0,Ruby,
+place-des-entreprises,betagouv,GitHub,https://github.com/betagouv/place-des-entreprises,Place des Entreprises,False,2017-04-07T08:30:16Z,2019-06-24T13:56:17Z,https://place-des-entreprises.beta.gouv.fr,5,3,,1,Ruby,
 api-drones,betagouv,GitHub,https://github.com/betagouv/api-drones,"Prototype d'API pour la l'immatriculation, le suivi et la géolocalisation en temps réel des drones. ",False,2017-05-26T20:40:44Z,2017-05-30T10:54:55Z,,1,0,,0,HTML,
 mpal-rod,betagouv,GitHub,https://github.com/betagouv/mpal-rod,Bouchon pour l’API ROD (Référentiel Orientation Demandeur) de l’Anah,False,2017-05-29T14:56:28Z,2018-04-16T10:09:43Z,,0,2,,0,Ruby,
 mdph-evaluation,betagouv,GitHub,https://github.com/betagouv/mdph-evaluation,projet de l'outil d'evaluation pour les MDPH,False,2017-06-08T13:17:48Z,2018-01-30T15:10:29Z,,0,0,,1,JavaScript,
@@ -109,7 +109,7 @@ api-particulier-demo-traces,betagouv,GitHub,https://github.com/betagouv/api-part
 pass-culture-pro,betagouv,GitHub,https://github.com/betagouv/pass-culture-pro,"Application web pour les professionnels de la culture, leur permettant de charger leurs offres sur le pass.",False,2018-05-01T13:05:17Z,2019-06-26T16:19:06Z,,2,0,,5,JavaScript,
 pass-culture-pro-staging,betagouv,GitHub,https://github.com/betagouv/pass-culture-pro-staging,,False,2018-05-02T11:46:24Z,2018-05-02T11:46:26Z,,0,0,,0,,
 openfisca-demande-logement-social,betagouv,GitHub,https://github.com/betagouv/openfisca-demande-logement-social,Module de génération de situation OpenFisca à partir d'un XML de demande de logement social,False,2018-05-02T15:48:23Z,2018-05-03T13:09:01Z,,0,0,,0,Python,
-zam,betagouv,GitHub,https://github.com/betagouv/zam,Alléger la charge de préparation par le gouvernement du débat parlementaire.,False,2018-05-07T16:02:03Z,2019-06-26T10:51:58Z,https://beta.gouv.fr/startup/zam.html,8,4,Other,5,Python,
+zam,betagouv,GitHub,https://github.com/betagouv/zam,Alléger la charge de préparation par le gouvernement du débat parlementaire.,False,2018-05-07T16:02:03Z,2019-06-26T20:17:30Z,https://beta.gouv.fr/startup/zam.html,8,4,Other,6,Python,
 openfisca-tracer,betagouv,GitHub,https://github.com/betagouv/openfisca-tracer,A basic tool to investigate OpenFisca computations,False,2018-05-23T12:31:45Z,2019-02-05T17:40:52Z,,0,0,,0,CSS,
 eac,betagouv,GitHub,https://github.com/betagouv/eac,La Plateforme de l'Éducation Artistique et Culturelle,False,2018-05-29T08:47:25Z,2019-06-04T11:55:41Z,http://education-artistique-culturelle.fr/,3,2,MIT License,6,HTML,"culture,education,government"
 secretariat,betagouv,GitHub,https://github.com/betagouv/secretariat,La webapp secrétariat des emails de l’incubateur 💁‍♂️👩‍💻,False,2018-06-05T08:08:36Z,2019-06-25T14:02:44Z,,0,2,MIT License,2,JavaScript,
@@ -191,4 +191,4 @@ PeerTube,betagouv,GitHub,https://github.com/betagouv/PeerTube,Federated (Activit
 ccas,betagouv,GitHub,https://github.com/betagouv/ccas,,False,2019-05-14T05:50:48Z,2019-06-26T17:10:07Z,,0,0,,0,JavaScript,
 lapin,betagouv,GitHub,https://github.com/betagouv/lapin,Prise de RDV pour les Maisons des Solidarités,False,2019-05-21T08:14:14Z,2019-06-25T08:59:29Z,,0,0,GNU Affero General Public License v3.0,3,Ruby,
 ds_proxy,betagouv,GitHub,https://github.com/betagouv/ds_proxy,Proxy de chiffrement utilisé sur demarches-simplifiees,False,2019-06-06T11:48:44Z,2019-06-25T12:03:54Z,,3,0,,0,Rust,
-ilos,betagouv,GitHub,https://github.com/betagouv/ilos,,False,2019-06-06T12:06:58Z,2019-06-26T11:48:31Z,,3,0,Apache License 2.0,12,TypeScript,"microservice,node,typescript"
+ilos,betagouv,GitHub,https://github.com/betagouv/ilos,,False,2019-06-06T12:06:58Z,2019-06-27T07:15:37Z,,3,0,Apache License 2.0,11,TypeScript,"microservice,node,typescript"
