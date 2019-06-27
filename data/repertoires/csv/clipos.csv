@@ -1,5 +1,5 @@
 nom,organisation_nom,plateforme,repertoire_url,description,est_fork,date_creation,derniere_mise_a_jour,page_accueil,nombre_stars,nombre_forks,licence,nombre_issues_ouvertes,langage,topics
-clipos.github.io,clipos,GitHub,https://github.com/clipos/clipos.github.io,,False,2018-09-12T15:17:41Z,2019-05-27T09:12:57Z,https://clip-os.org,19,0,Other,0,HTML,
+clipos.github.io,clipos,GitHub,https://github.com/clipos/clipos.github.io,,False,2018-09-12T15:17:41Z,2019-06-27T10:36:25Z,https://clip-os.org,19,0,Other,0,HTML,
 docs,clipos,GitHub,https://github.com/clipos/docs,,False,2018-09-12T15:49:39Z,2019-03-28T16:02:15Z,https://docs.clip-os.org,7,0,Other,0,HTML,
 assets_crates-io,clipos,GitHub,https://github.com/clipos/assets_crates-io,Vendored Rust crates from crates.io,False,2018-09-20T09:26:04Z,2018-12-20T13:15:47Z,https://clip-os.org,2,0,,0,,
 assets_debian,clipos,GitHub,https://github.com/clipos/assets_debian,Vendored Debian packages with sources,False,2018-09-20T09:26:10Z,2018-12-20T13:15:51Z,https://clip-os.org,4,0,,0,,
