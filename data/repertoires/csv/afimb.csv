@@ -13,7 +13,7 @@ siri_lite,afimb,GitHub,https://github.com/afimb/siri_lite,a brigde between siri 
 cvdtc,afimb,GitHub,https://github.com/afimb/cvdtc,Conversion et Validation des Données de Transport Collectif (Formats : GTFS et Neptune).,False,2015-11-18T09:03:00Z,2019-06-05T14:38:37Z,http://www.conversion-validation-donnees-tc.org,4,3,Other,1,Ruby,
 cvdtc-i18n,afimb,GitHub,https://github.com/afimb/cvdtc-i18n,,False,2015-11-19T13:13:31Z,2016-01-13T10:35:31Z,,1,0,MIT License,0,Ruby,
 ievkit,afimb,GitHub,https://github.com/afimb/ievkit,,False,2015-11-20T15:51:00Z,2016-11-28T10:03:15Z,,1,1,Other,0,Ruby,
-gtfslib-python,afimb,GitHub,https://github.com/afimb/gtfslib-python,An open source library in python for reading GTFS files and computing various stats and indicators about Public Transport networks,False,2015-12-15T12:24:34Z,2019-01-07T15:35:34Z,,31,7,GNU General Public License v3.0,5,Python,
+gtfslib-python,afimb,GitHub,https://github.com/afimb/gtfslib-python,An open source library in python for reading GTFS files and computing various stats and indicators about Public Transport networks,False,2015-12-15T12:24:34Z,2019-06-28T15:51:57Z,,32,7,GNU General Public License v3.0,5,Python,
 siri-validator,afimb,GitHub,https://github.com/afimb/siri-validator,Siri Validation Tools,False,2015-12-17T07:33:37Z,2016-05-20T08:37:25Z,,0,1,Other,1,Java,
 cvdtc_cv,afimb,GitHub,https://github.com/afimb/cvdtc_cv,backoffice for cvdtc,False,2016-02-24T10:47:17Z,2016-09-09T18:37:05Z,,2,1,Other,0,Java,
 docker-chouette,afimb,GitHub,https://github.com/afimb/docker-chouette,a container for the chouette web application,False,2016-03-23T07:54:29Z,2018-07-13T08:52:57Z,,3,1,,0,Shell,
