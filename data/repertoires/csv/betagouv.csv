@@ -90,7 +90,7 @@ mrs,betagouv,GitHub,https://github.com/betagouv/mrs,[Startup MRS] Mes remboursem
 securite-numerique-agile,betagouv,GitHub,https://github.com/betagouv/securite-numerique-agile,Intégrer la sécurité numérique dans une démarche Agile,False,2017-12-04T14:40:23Z,2018-09-04T12:31:34Z,https://betagouv.gitbooks.io/securite-numerique-agile/,3,2,MIT License,3,,
 annuaire-api,betagouv,GitHub,https://github.com/betagouv/annuaire-api,Une API pour les données de l'annuaire de servic-public.fr,False,2017-12-19T17:44:41Z,2019-06-21T15:45:46Z,https://etablissements-publics.api.gouv.fr/,0,2,,18,JavaScript,
 openfisca-brestmetropole,betagouv,GitHub,https://github.com/betagouv/openfisca-brestmetropole,Extension OpenFisca pour Brest métropole,False,2018-01-03T13:43:01Z,2019-06-25T10:03:12Z,,1,0,GNU Affero General Public License v3.0,0,Python,
-pass-culture-browser,betagouv,GitHub,https://github.com/betagouv/pass-culture-browser,,False,2018-01-03T14:34:35Z,2019-06-28T18:38:11Z,,6,3,,384,JavaScript,
+pass-culture-browser,betagouv,GitHub,https://github.com/betagouv/pass-culture-browser,,False,2018-01-03T14:34:35Z,2019-06-28T18:38:11Z,,6,3,,385,JavaScript,
 pass-culture-doc,betagouv,GitHub,https://github.com/betagouv/pass-culture-doc,,False,2018-01-04T13:10:05Z,2019-03-15T19:17:28Z,,1,1,,1,Shell,
 signup.api.gouv.fr,betagouv,GitHub,https://github.com/betagouv/signup.api.gouv.fr,,False,2018-01-08T09:47:51Z,2018-12-18T10:13:26Z,http://signup.api.gouv.fr/,4,0,,1,,
 signup-back,betagouv,GitHub,https://github.com/betagouv/signup-back,,False,2018-01-08T10:06:50Z,2019-06-27T14:14:36Z,,0,3,,0,Ruby,
