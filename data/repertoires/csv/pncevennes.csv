@@ -16,7 +16,7 @@ SaisieChasse,PnCevennes,GitHub,https://github.com/PnCevennes/SaisieChasse,,False
 saisieFlore,PnCevennes,GitHub,https://github.com/PnCevennes/saisieFlore,Outil de saisie des protocoles flore du PnC,False,2017-02-17T14:54:18Z,2019-04-16T13:36:47Z,,0,0,GNU General Public License v3.0,0,HTML,
 testAngular2,PnCevennes,GitHub,https://github.com/PnCevennes/testAngular2,,False,2017-05-18T10:31:52Z,2017-05-18T17:37:29Z,,1,0,GNU General Public License v3.0,0,JavaScript,
 GeoNature-atlas,PnCevennes,GitHub,https://github.com/PnCevennes/GeoNature-atlas,Application WEB permettant de générer des fiches espèces publiques à partir d'observations faune/flore,True,2017-11-09T10:09:10Z,2019-03-26T08:55:31Z,,0,0,Other,0,JavaScript,
-gn_module_suivi_chiro,PnCevennes,GitHub,https://github.com/PnCevennes/gn_module_suivi_chiro,,False,2018-03-16T16:41:26Z,2018-11-13T11:15:27Z,,5,3,GNU General Public License v2.0,8,Python,
+gn_module_suivi_chiro,PnCevennes,GitHub,https://github.com/PnCevennes/gn_module_suivi_chiro,,False,2018-03-16T16:41:26Z,2018-11-13T11:15:27Z,,5,3,GNU General Public License v2.0,9,Python,
 projet_suivis_frontend,PnCevennes,GitHub,https://github.com/PnCevennes/projet_suivis_frontend,,False,2018-03-29T09:28:57Z,2018-10-19T07:41:04Z,,1,1,GNU General Public License v3.0,4,JavaScript,
 courbes_eau,PnCevennes,GitHub,https://github.com/PnCevennes/courbes_eau,,False,2018-07-03T06:54:51Z,2018-07-25T10:04:10Z,,0,0,GNU General Public License v3.0,0,Vue,
 tizoutis-front,PnCevennes,GitHub,https://github.com/PnCevennes/tizoutis-front,,False,2018-07-11T13:23:35Z,2019-06-13T08:57:18Z,,0,0,GNU General Public License v3.0,0,Vue,
