@@ -11,7 +11,7 @@ mondo-itmfactory-benchmark,atlanmod,GitHub,https://github.com/atlanmod/mondo-itm
 mondo-atlzoo-benchmark,atlanmod,GitHub,https://github.com/atlanmod/mondo-atlzoo-benchmark,,False,2014-10-30T10:01:01Z,2018-02-19T11:15:45Z,,3,0,,0,Java,
 mondo-openbim-benchmark,atlanmod,GitHub,https://github.com/atlanmod/mondo-openbim-benchmark,,False,2014-10-30T10:12:32Z,2017-10-02T12:38:24Z,,1,0,,0,Assembly,
 busfactor_demo,atlanmod,GitHub,https://github.com/atlanmod/busfactor_demo,Bus factor demo SANER'15,False,2014-11-03T12:01:38Z,2018-08-20T17:28:21Z,,2,1,,0,,
-NeoEMF,atlanmod,GitHub,https://github.com/atlanmod/NeoEMF,Multi-backend EMF persistence framework.,False,2014-11-19T13:07:45Z,2019-06-03T20:41:55Z,http://neoemf.atlanmod.org,36,10,Other,9,Java,"eclipse-plugin,emf,large-models,persistence"
+NeoEMF,atlanmod,GitHub,https://github.com/atlanmod/NeoEMF,Multi-backend EMF persistence framework.,False,2014-11-19T13:07:45Z,2019-06-03T20:41:55Z,http://neoemf.atlanmod.org,36,10,Other,10,Java,"eclipse-plugin,emf,large-models,persistence"
 Mogwai,atlanmod,GitHub,https://github.com/atlanmod/Mogwai,Automatic translation from OCL to Gremlin,False,2015-02-03T15:07:23Z,2019-01-28T16:35:00Z,,7,3,,32,Java,"gremlin,neoemf,ocl,query"
 monoge,atlanmod,GitHub,https://github.com/atlanmod/monoge,(Deprecated) Lightweight metamodel extension,False,2015-02-25T16:08:06Z,2018-03-06T12:25:39Z,,2,0,,0,Java,
 emfviewsSQL,atlanmod,GitHub,https://github.com/atlanmod/emfviewsSQL,(Deprecated) Views on heterogeneous models,False,2015-03-27T16:55:19Z,2018-03-06T12:26:21Z,,0,0,,0,Java,
@@ -35,7 +35,7 @@ Ecore2ATLCopier,atlanmod,GitHub,https://github.com/atlanmod/Ecore2ATLCopier,,Fal
 model-consistency,atlanmod,GitHub,https://github.com/atlanmod/model-consistency,Model Consistency Prototype,False,2017-03-05T17:24:07Z,2018-06-04T09:59:56Z,,1,1,Eclipse Public License 2.0,0,Java,
 Commons,atlanmod,GitHub,https://github.com/atlanmod/Commons,A library of common classes and methods used in Atlanmod's projects,False,2017-08-31T17:57:49Z,2019-04-03T12:39:17Z,,0,1,Eclipse Public License 2.0,1,Java,commons
 DynamicAnalyser,atlanmod,GitHub,https://github.com/atlanmod/DynamicAnalyser,Dynamically analyses the source code by running tests after an instrumentation,False,2017-09-19T11:02:21Z,2019-05-14T12:15:53Z,,1,0,,0,Java,
-CyprIoT,atlanmod,GitHub,https://github.com/atlanmod/CyprIoT,Design a network of things.,False,2018-02-15T15:08:03Z,2019-07-03T15:12:43Z,,0,1,Apache License 2.0,3,Xtend,"domain-specific-language,internet-of-things,model-driven-engineering,networking,policy-network"
+CyprIoT,atlanmod,GitHub,https://github.com/atlanmod/CyprIoT,Design a network of things.,False,2018-02-15T15:08:03Z,2019-07-05T11:18:39Z,,0,1,Apache License 2.0,3,Xtend,"domain-specific-language,internet-of-things,model-driven-engineering,networking,policy-network"
 sexp2emf,atlanmod,GitHub,https://github.com/atlanmod/sexp2emf,Turn S-expressions into EMF models,False,2018-02-20T15:44:49Z,2018-12-05T14:36:10Z,,1,0,Eclipse Public License 2.0,0,Java,
 CoqTL,atlanmod,GitHub,https://github.com/atlanmod/CoqTL,,False,2018-03-09T17:41:33Z,2019-04-04T14:38:18Z,,5,3,,10,Coq,
 iotdsl,atlanmod,GitHub,https://github.com/atlanmod/iotdsl,A Domain-specific language to abstract basic networking and security features in the IoT. A code generator to enforce security mechanisms at runtime.,False,2018-04-30T12:24:30Z,2018-04-30T17:19:57Z,,0,0,,0,Java,
