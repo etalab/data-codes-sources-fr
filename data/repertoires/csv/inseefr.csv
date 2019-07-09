@@ -7,7 +7,7 @@ Metadata-API,InseeFr,GitHub,https://github.com/InseeFr/Metadata-API,An API speci
 CSPA-SA-Client,InseeFr,GitHub,https://github.com/InseeFr/CSPA-SA-Client,Web client for the CSPA Time Series Service,True,2016-10-07T07:48:35Z,2016-10-07T08:27:58Z,,0,0,,0,JavaScript,
 Eno-WS,InseeFr,GitHub,https://github.com/InseeFr/Eno-WS,,False,2016-11-10T14:00:27Z,2018-10-30T15:29:53Z,,0,1,,0,Java,
 Eno-CLI,InseeFr,GitHub,https://github.com/InseeFr/Eno-CLI,Command-line interface for Eno,False,2017-03-14T15:12:07Z,2017-03-15T10:42:27Z,,0,0,,0,Java,
-Pogues-Back-Office,InseeFr,GitHub,https://github.com/InseeFr/Pogues-Back-Office,Back-office services for Pogues,False,2017-04-20T12:08:12Z,2019-07-02T12:50:59Z,,0,4,MIT License,1,Java,
+Pogues-Back-Office,InseeFr,GitHub,https://github.com/InseeFr/Pogues-Back-Office,Back-office services for Pogues,False,2017-04-20T12:08:12Z,2019-07-02T12:50:59Z,,0,4,MIT License,2,Java,
 DDI-Access-Services,InseeFr,GitHub,https://github.com/InseeFr/DDI-Access-Services,Web services for accessing DDI metadata in Colectica,False,2017-10-04T07:06:52Z,2019-02-15T10:36:15Z,,0,4,MIT License,1,Java,
 Bauhaus,InseeFr,GitHub,https://github.com/InseeFr/Bauhaus,"Web application for the management of concepts, classifications and other statistical objects",False,2018-03-23T12:12:41Z,2019-07-04T13:33:13Z,,0,4,MIT License,1,JavaScript,
 Bauhaus-Back-Office,InseeFr,GitHub,https://github.com/InseeFr/Bauhaus-Back-Office,Back-office services for Bauhaus,False,2018-03-23T12:15:50Z,2019-07-05T14:36:46Z,,0,4,MIT License,0,Java,
