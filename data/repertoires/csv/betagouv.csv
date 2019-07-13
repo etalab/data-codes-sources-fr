@@ -1,5 +1,5 @@
 nom,organisation_nom,plateforme,repertoire_url,description,est_fork,date_creation,derniere_mise_a_jour,page_accueil,nombre_stars,nombre_forks,licence,nombre_issues_ouvertes,langage,topics
-mes-aides-ui,betagouv,GitHub,https://github.com/betagouv/mes-aides-ui,Le simulateur global des prestations sociales françaises,False,2014-04-03T10:42:21Z,2019-07-12T14:05:07Z,https://mes-aides.gouv.fr/,53,14,,127,JavaScript,
+mes-aides-ui,betagouv,GitHub,https://github.com/betagouv/mes-aides-ui,Le simulateur global des prestations sociales françaises,False,2014-04-03T10:42:21Z,2019-07-12T19:30:28Z,https://mes-aides.gouv.fr/,53,14,,126,JavaScript,
 mdph,betagouv,GitHub,https://github.com/betagouv/mdph,Faciliter les demandes de compensation du handicap auprès des MDPH,False,2014-07-02T13:47:21Z,2019-03-19T21:18:20Z,https://mdphenligne.cnsa.fr,9,4,,7,JavaScript,
 openfisca-france,betagouv,GitHub,https://github.com/betagouv/openfisca-france,  French specific module for OpenFisca,True,2014-07-23T08:10:22Z,2019-05-10T08:39:03Z,,4,1,,12,Python,
 mes-aides-api,betagouv,GitHub,https://github.com/betagouv/mes-aides-api,A mapping interface between the mes-aides user interface and the OpenFisca simulation engine.,False,2014-09-01T11:45:44Z,2019-02-26T14:37:31Z,https://mes-aides.gouv.fr,20,4,,11,JavaScript,
@@ -31,7 +31,7 @@ sejour,betagouv,GitHub,https://github.com/betagouv/sejour,,True,2015-09-27T15:01
 demarches-simplifiees.fr,betagouv,GitHub,https://github.com/betagouv/demarches-simplifiees.fr,Dématérialiser et simplifier les démarches administratives ,False,2015-10-13T10:01:34Z,2019-07-11T19:23:32Z,https://www.demarches-simplifiees.fr,38,25,GNU Affero General Public License v3.0,861,Ruby,
 api-particulier,betagouv,GitHub,https://github.com/betagouv/api-particulier,"Simplifiez les démarches de vos usagers, ne demandez plus de justificatifs",False,2015-10-23T09:14:04Z,2019-05-20T16:10:27Z,https://particulier.api.gouv.fr/,8,5,,2,JavaScript,
 quotient-familial,betagouv,GitHub,https://github.com/betagouv/quotient-familial,,False,2015-11-12T13:13:19Z,2018-01-23T09:44:36Z,,0,0,,0,JavaScript,
-beta.gouv.fr,betagouv,GitHub,https://github.com/betagouv/beta.gouv.fr,Le site public de l'Incubateur de Services Numériques de l'État français.,False,2015-12-18T13:33:48Z,2019-07-12T11:57:23Z,https://beta.gouv.fr,108,263,,18,HTML,
+beta.gouv.fr,betagouv,GitHub,https://github.com/betagouv/beta.gouv.fr,Le site public de l'Incubateur de Services Numériques de l'État français.,False,2015-12-18T13:33:48Z,2019-07-12T20:54:10Z,https://beta.gouv.fr,108,263,,18,HTML,
 mas,betagouv,GitHub,https://github.com/betagouv/mas,DÉPRÉCIÉ,False,2016-01-25T14:03:29Z,2017-12-12T10:49:32Z,https://github.com/sgmap/api.gouv.fr,0,2,,0,HTML,
 coding-dojos,betagouv,GitHub,https://github.com/betagouv/coding-dojos,Projets et sources des séances de coding-dojo au sein du SGMAP,False,2016-01-27T15:55:07Z,2017-12-12T10:50:09Z,,0,0,,0,JavaScript,
 svair-mock,betagouv,GitHub,https://github.com/betagouv/svair-mock,,False,2016-02-01T09:12:47Z,2019-07-08T09:29:42Z,,0,8,Apache License 2.0,2,HTML,
@@ -175,7 +175,7 @@ compta,betagouv,GitHub,https://github.com/betagouv/compta,,False,2019-04-04T17:1
 react-reducer-effect-context-data,betagouv,GitHub,https://github.com/betagouv/react-reducer-effect-context-data,,False,2019-04-04T23:34:04Z,2019-04-05T19:41:44Z,,0,0,MIT License,0,JavaScript,
 react-hook-data,betagouv,GitHub,https://github.com/betagouv/react-hook-data,A lib for fetching normalized data in components through react hooks,False,2019-04-06T16:17:45Z,2019-07-09T17:20:45Z,,0,0,Mozilla Public License 2.0,0,JavaScript,
 redux-thunk-data,betagouv,GitHub,https://github.com/betagouv/redux-thunk-data,A lib for fetching normalized data in a redux store through thunk,False,2019-04-06T16:19:23Z,2019-07-09T17:37:09Z,,0,0,Mozilla Public License 2.0,0,JavaScript,
-fetch-normalize-data,betagouv,GitHub,https://github.com/betagouv/fetch-normalize-data,A library to obtain a state of normalized data. Special fetch and reducer helpers are also provided in the export.,False,2019-04-06T16:47:34Z,2019-07-09T17:13:56Z,,0,0,Mozilla Public License 2.0,1,JavaScript,
+fetch-normalize-data,betagouv,GitHub,https://github.com/betagouv/fetch-normalize-data,A library to obtain a state of normalized data. Special fetch and reducer helpers are also provided in the export.,False,2019-04-06T16:47:34Z,2019-07-09T17:13:56Z,,0,0,Mozilla Public License 2.0,2,JavaScript,
 Aidants_Connect,betagouv,GitHub,https://github.com/betagouv/Aidants_Connect,,False,2019-04-08T12:02:11Z,2019-07-08T09:09:20Z,,3,1,,6,Python,
 voir-et-localiser-samu-sign-on,betagouv,GitHub,https://github.com/betagouv/voir-et-localiser-samu-sign-on,Brique externe d'authentification,False,2019-04-10T05:16:43Z,2019-07-08T11:40:07Z,,0,0,,9,JavaScript,
 blog.dossiersco.fr,betagouv,GitHub,https://github.com/betagouv/blog.dossiersco.fr,Toute l'actualité de DossierSCO,False,2019-04-11T10:00:08Z,2019-06-18T15:38:24Z,,0,3,MIT License,0,HTML,
@@ -191,4 +191,4 @@ lapin,betagouv,GitHub,https://github.com/betagouv/lapin,Prise de RDV pour les Ma
 ds_proxy,betagouv,GitHub,https://github.com/betagouv/ds_proxy,Proxy de chiffrement utilisé sur demarches-simplifiees,False,2019-06-06T11:48:44Z,2019-06-25T12:03:54Z,,3,0,,0,Rust,
 ilos,betagouv,GitHub,https://github.com/betagouv/ilos,,False,2019-06-06T12:06:58Z,2019-07-10T19:52:54Z,http://www.ilos.tech,3,0,Apache License 2.0,13,TypeScript,"microservice,node,typescript"
 anpy,betagouv,GitHub,https://github.com/betagouv/anpy,Python client of assemblee-nationale.fr,True,2019-07-09T12:08:07Z,2019-07-09T12:08:10Z,http://anpy.readthedocs.io/en/latest/,0,0,MIT License,0,HTML,
-andi,betagouv,GitHub,https://github.com/betagouv/andi,,False,2019-07-11T09:55:35Z,2019-07-12T15:22:52Z,,1,0,,0,CSS,
+andi,betagouv,GitHub,https://github.com/betagouv/andi,,False,2019-07-11T09:55:35Z,2019-07-12T21:14:05Z,,1,0,,0,CSS,
