@@ -3,5 +3,5 @@ simupaye,DGAC,GitHub,https://github.com/DGAC/simupaye,Simulateur de salaire pour
 MattermostModule,DGAC,GitHub,https://github.com/DGAC/MattermostModule,Mattermost Module for Zend Framework and Bootstrap,False,2018-01-25T08:08:06Z,2019-05-23T08:30:46Z,,1,0,GNU General Public License v3.0,7,JavaScript,"bootstrap,chatclient,chatroom,mattermost,zend-framework,zend-module"
 nmb2b-phpclient,DGAC,GitHub,https://github.com/DGAC/nmb2b-phpclient,PHP Client for NM B2B Services,False,2018-04-15T06:32:29Z,2018-05-24T14:13:42Z,,1,0,GNU General Public License v3.0,0,PHP,"atc,b2b,eurocontrol,web-services"
 dgac.github.io,DGAC,GitHub,https://github.com/DGAC/dgac.github.io,,False,2018-08-14T14:22:51Z,2018-08-15T07:48:38Z,,0,0,,0,HTML,
-nmb2b-client-js,DGAC,GitHub,https://github.com/DGAC/nmb2b-client-js,NM B2B WebService client,False,2018-09-07T11:49:42Z,2019-07-08T12:24:18Z,,1,0,MIT License,19,TypeScript,"b2b,eurocontrol,nodejs"
+nmb2b-client-js,DGAC,GitHub,https://github.com/DGAC/nmb2b-client-js,NM B2B WebService client,False,2018-09-07T11:49:42Z,2019-07-08T12:24:18Z,,1,0,MIT License,20,TypeScript,"b2b,eurocontrol,nodejs"
 nmb2b-client-js-example,DGAC,GitHub,https://github.com/DGAC/nmb2b-client-js-example,DGAC NM B2B Client usage example,False,2018-09-08T10:25:27Z,2018-12-23T21:15:36Z,,0,0,MIT License,0,JavaScript,
