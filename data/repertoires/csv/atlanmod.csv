@@ -35,7 +35,7 @@ Ecore2ATLCopier,atlanmod,GitHub,https://github.com/atlanmod/Ecore2ATLCopier,,Fal
 model-consistency,atlanmod,GitHub,https://github.com/atlanmod/model-consistency,Model Consistency Prototype,False,2017-03-05T17:24:07Z,2018-06-04T09:59:56Z,,1,1,Eclipse Public License 2.0,0,Java,
 Commons,atlanmod,GitHub,https://github.com/atlanmod/Commons,A library of common classes and methods used in Atlanmod's projects,False,2017-08-31T17:57:49Z,2019-04-03T12:39:17Z,,0,1,Eclipse Public License 2.0,1,Java,commons
 DynamicAnalyser,atlanmod,GitHub,https://github.com/atlanmod/DynamicAnalyser,Dynamically analyses the source code by running tests after an instrumentation,False,2017-09-19T11:02:21Z,2019-05-14T12:15:53Z,,1,0,,0,Java,
-CyprIoT,atlanmod,GitHub,https://github.com/atlanmod/CyprIoT,Design a network of things.,False,2018-02-15T15:08:03Z,2019-07-13T13:12:37Z,,0,1,Apache License 2.0,3,Xtend,"domain-specific-language,internet-of-things,model-driven-engineering,networking,policy-network"
+CyprIoT,atlanmod,GitHub,https://github.com/atlanmod/CyprIoT,Design a network of things.,False,2018-02-15T15:08:03Z,2019-07-14T03:11:38Z,,0,1,Apache License 2.0,3,Xtend,"domain-specific-language,internet-of-things,model-driven-engineering,networking,policy-network"
 sexp2emf,atlanmod,GitHub,https://github.com/atlanmod/sexp2emf,Turn S-expressions into EMF models,False,2018-02-20T15:44:49Z,2018-12-05T14:36:10Z,,1,0,Eclipse Public License 2.0,0,Java,
 CoqTL,atlanmod,GitHub,https://github.com/atlanmod/CoqTL,,False,2018-03-09T17:41:33Z,2019-04-04T14:38:18Z,,5,3,,10,Coq,
 iotdsl,atlanmod,GitHub,https://github.com/atlanmod/iotdsl,A Domain-specific language to abstract basic networking and security features in the IoT. A code generator to enforce security mechanisms at runtime.,False,2018-04-30T12:24:30Z,2018-04-30T17:19:57Z,,0,0,,0,Java,
@@ -46,7 +46,7 @@ ttc2018liveContest,atlanmod,GitHub,https://github.com/atlanmod/ttc2018liveContes
 EnergyModel,atlanmod,GitHub,https://github.com/atlanmod/EnergyModel,,False,2018-07-11T11:50:15Z,2019-04-25T04:50:06Z,,2,0,GNU Lesser General Public License v3.0,0,Java,
 csy-traceability,atlanmod,GitHub,https://github.com/atlanmod/csy-traceability,,False,2018-10-10T13:44:11Z,2019-06-07T16:30:09Z,,1,0,GNU General Public License v3.0,0,Java,
 MDE4RTS,atlanmod,GitHub,https://github.com/atlanmod/MDE4RTS,,False,2018-10-23T11:39:04Z,2019-05-13T14:07:58Z,,0,0,,0,Java,
-updates,atlanmod,GitHub,https://github.com/atlanmod/updates,Update site for Atlanmod projects,False,2018-12-07T10:36:48Z,2019-07-13T13:20:12Z,,0,0,,0,HTML,
+updates,atlanmod,GitHub,https://github.com/atlanmod/updates,Update site for Atlanmod projects,False,2018-12-07T10:36:48Z,2019-07-14T03:18:41Z,,0,0,,0,HTML,
 ACP-FIX,atlanmod,GitHub,https://github.com/atlanmod/ACP-FIX,Fix problems in RBAC,False,2018-12-28T08:41:45Z,2019-06-27T12:43:15Z,,0,0,,0,Python,
 pacmon,atlanmod,GitHub,https://github.com/atlanmod/pacmon,Framework for monitoring energy consumptions of Java programs,False,2019-01-28T09:30:14Z,2019-06-05T08:17:15Z,,2,1,GNU Lesser General Public License v3.0,0,Java,
 emf,atlanmod,GitHub,https://github.com/atlanmod/emf,EMF project repository (emf),True,2019-02-28T09:46:49Z,2019-02-28T09:47:07Z,,0,0,,0,Java,
