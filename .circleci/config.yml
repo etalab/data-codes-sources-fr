@@ -31,6 +31,7 @@ jobs:
           command: |
             . venv/bin/activate
             python fetch.py
+            python stats.py
       - add_ssh_keys:
           fingerprints:
             - "ce:d5:71:c4:c6:a0:44:34:5a:cf:11:e5:da:48:aa:70"
