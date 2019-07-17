@@ -50,6 +50,14 @@ top_repos_issues = (
     .to_dict()
 )
 
+top_licenses = (
+    df.fillna("Inconnue")
+    .groupby("licence")["nom"]
+    .count()
+    .sort_values(ascending=False)
+    .to_dict()
+)
+
 res = {
     "nb_repos": nb_repos,
     "nb_orgs": nb_orgs,
@@ -60,6 +68,7 @@ res = {
     "top_repos_stars": top_repos_stars,
     "top_repos_forks": top_repos_forks,
     "top_repos_issues": top_repos_issues,
+    "top_licenses": top_licenses,
 }
 
 with open(OUT_FILEPATH, "w") as f:
