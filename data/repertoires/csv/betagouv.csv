@@ -143,10 +143,10 @@ signalement,betagouv,GitHub,https://github.com/betagouv/signalement,,False,2018-
 mes-aides-docker,betagouv,GitHub,https://github.com/betagouv/mes-aides-docker,Use CircleCI to build custom Docker images with combinations of common languages/dependencies,True,2018-10-15T13:47:29Z,2018-11-20T16:50:32Z,,0,0,,0,Perl,
 pass-culture-team,betagouv,GitHub,https://github.com/betagouv/pass-culture-team,Application métier pour le Pass Culture ,False,2018-10-18T13:14:23Z,2018-12-21T14:46:46Z,,0,0,,0,JavaScript,
 pop-shared,betagouv,GitHub,https://github.com/betagouv/pop-shared,Composants partagés pour les différentes applications POP,False,2018-10-30T12:58:01Z,2019-01-07T15:52:39Z,http://pop.culture.gouv.fr/,1,0,,0,,
-preuve-covoiturage,betagouv,GitHub,https://github.com/betagouv/preuve-covoiturage,Preuve de Covoiturage,False,2018-11-07T15:21:03Z,2019-07-16T13:40:44Z,,11,1,GNU Affero General Public License v3.0,77,JavaScript,"api,betagouv,carpooling,covoiturage"
+preuve-covoiturage,betagouv,GitHub,https://github.com/betagouv/preuve-covoiturage,Preuve de Covoiturage,False,2018-11-07T15:21:03Z,2019-07-16T13:40:44Z,,11,1,GNU Affero General Public License v3.0,76,JavaScript,"api,betagouv,carpooling,covoiturage"
 signalement-api,betagouv,GitHub,https://github.com/betagouv/signalement-api,,False,2018-11-08T14:29:52Z,2019-07-05T14:29:45Z,,1,0,MIT License,2,TSQL,
 signalement-app,betagouv,GitHub,https://github.com/betagouv/signalement-app,,False,2018-11-08T14:30:41Z,2019-07-12T14:51:22Z,,3,2,MIT License,4,TypeScript,
-e-controle,betagouv,GitHub,https://github.com/betagouv/e-controle,Outil permettant de simplifier la relation entre un organisme de contrôle et des structures contrôlés,False,2018-11-12T10:03:43Z,2019-07-17T15:15:37Z,,4,4,MIT License,14,Python,
+e-controle,betagouv,GitHub,https://github.com/betagouv/e-controle,Outil permettant de simplifier la relation entre un organisme de contrôle et des structures contrôlés,False,2018-11-12T10:03:43Z,2019-07-18T06:08:20Z,,4,4,MIT License,12,Python,
 api-scopes,betagouv,GitHub,https://github.com/betagouv/api-scopes,Référentiel des périmetres de données issue d'une contractualisation via signup.api.gouv.fr,False,2018-11-19T18:03:37Z,2019-02-19T14:39:47Z,,0,0,MIT License,0,JavaScript,
 pass-culture-datascience,betagouv,GitHub,https://github.com/betagouv/pass-culture-datascience,,False,2018-12-04T23:18:13Z,2018-12-04T23:18:15Z,,0,0,,4,,
 mes-aides-dockerfiles,betagouv,GitHub,https://github.com/betagouv/mes-aides-dockerfiles,Build Docker images for CircleCI,False,2018-12-05T10:16:26Z,2018-12-05T10:34:26Z,,0,0,,0,Dockerfile,
@@ -191,5 +191,5 @@ lapin,betagouv,GitHub,https://github.com/betagouv/lapin,Prise de RDV pour les Ma
 ds_proxy,betagouv,GitHub,https://github.com/betagouv/ds_proxy,Proxy de chiffrement utilisé sur demarches-simplifiees,False,2019-06-06T11:48:44Z,2019-06-25T12:03:54Z,,3,0,,0,Rust,
 ilos,betagouv,GitHub,https://github.com/betagouv/ilos,,False,2019-06-06T12:06:58Z,2019-07-15T15:13:30Z,http://www.ilos.tech,3,0,Apache License 2.0,9,TypeScript,"microservice,node,typescript"
 anpy,betagouv,GitHub,https://github.com/betagouv/anpy,Python client of assemblee-nationale.fr,True,2019-07-09T12:08:07Z,2019-07-09T12:08:10Z,http://anpy.readthedocs.io/en/latest/,0,0,MIT License,0,HTML,
-andi,betagouv,GitHub,https://github.com/betagouv/andi,,False,2019-07-11T09:55:35Z,2019-07-16T17:57:45Z,,1,0,GNU Affero General Public License v3.0,0,CSS,
-sqlalchemy-manager,betagouv,GitHub,https://github.com/betagouv/sqlalchemy-manager,,False,2019-07-15T13:38:35Z,2019-07-17T17:56:58Z,,0,0,,0,Python,
+andi,betagouv,GitHub,https://github.com/betagouv/andi,,False,2019-07-11T09:55:35Z,2019-07-18T06:12:29Z,,1,0,GNU Affero General Public License v3.0,0,CSS,
+sqlalchemy-handler,betagouv,GitHub,https://github.com/betagouv/sqlalchemy-handler,,False,2019-07-15T13:38:35Z,2019-07-17T21:56:03Z,,0,0,Mozilla Public License 2.0,1,Python,
