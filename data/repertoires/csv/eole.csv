@@ -12,5 +12,5 @@ salt,eole,GitHub,https://github.com/eole/salt,Software to automate the managemen
 salt-winrepo-ng,eole,GitHub,https://github.com/eole/salt-winrepo-ng,Jinja templated winrepo,True,2018-07-03T08:02:26Z,2018-07-03T09:37:10Z,,0,0,Other,0,SaltStack,
 template-formula,eole,GitHub,https://github.com/eole/template-formula,salt-formula template filled with dummy content,True,2019-02-06T14:06:17Z,2019-07-12T07:59:19Z,http://docs.saltstack.com/en/latest/topics/development/conventions/formulas.html,0,0,Other,0,HTML,
 one,eole,GitHub,https://github.com/eole/one,OpenNebula cloud management platform,True,2019-05-06T08:35:37Z,2019-05-06T08:35:47Z,http://opennebula.org,0,0,Other,0,C++,
-libvirt-formula,eole,GitHub,https://github.com/eole/libvirt-formula,,True,2019-05-29T08:52:02Z,2019-07-15T15:33:10Z,http://docs.saltstack.com/en/latest/topics/development/conventions/formulas.html,0,0,Other,0,HTML,
+libvirt-formula,eole,GitHub,https://github.com/eole/libvirt-formula,,True,2019-05-29T08:52:02Z,2019-07-18T07:36:50Z,http://docs.saltstack.com/en/latest/topics/development/conventions/formulas.html,0,0,Other,0,HTML,
 addon-context-linux,eole,GitHub,https://github.com/eole/addon-context-linux,Linux VM Contextualization,True,2019-07-09T09:25:54Z,2019-07-09T09:25:57Z,,0,0,Apache License 2.0,0,Shell,
