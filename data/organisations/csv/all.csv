@@ -1,84 +1,84 @@
 login,description,nom,organisation_url,site_web,adresse,email,est_verifiee,nombre_repertoires,date_creation,plateforme
-polewebmaedi,,Pôle Web | MAEDI DCP,https://github.com/polewebmaedi,http://www.diplomatie.gouv.fr/,"Quai d'Orsay, Paris, France",quentin.drouet@diplomatie.gouv.fr,False,4,2015-02-08T11:49:13Z,GitHub
-SocieteNumerique,Mission Société Numérique - Agence du Numérique - République Française,Société Numérique,https://github.com/SocieteNumerique,https://www.societenumerique.gouv.fr,"Paris, France",societe.numerique@finances.gouv.fr,False,11,2017-08-23T09:30:29Z,GitHub
-observatoire-territoires,,Observatoire des territoires - CGET,https://github.com/observatoire-territoires,http://www.observatoire-des-territoires.gouv.fr,,,False,8,2017-10-24T08:10:47Z,GitHub
-strasbourg,,Strasbourg,https://github.com/strasbourg,http://strasbourg-data.fr/,"Strasbourg, France",,False,7,2013-02-22T20:56:42Z,GitHub
-entrepreneur-interet-general,Code développé dans le cadre des défis EIG,Entrepreneurs d’intérêt général,https://github.com/entrepreneur-interet-general,https://entrepreneur-interet-general.etalab.gouv.fr,"Paris, France",entrepreneur-interet-general@data.gouv.fr,False,77,2017-01-12T16:54:14Z,GitHub
-betagouv,Incubateur de Services Numériques de la Direction Interministérielle du Numérique et du Système d'Information et de Communication de l'État,beta.gouv.fr,https://github.com/betagouv,https://beta.gouv.fr,France,,False,194,2014-06-12T19:55:44Z,GitHub
-cea-sec,IT Security at the French Alternative Energies and Atomic Energy Commission,CEA IT Security,https://github.com/cea-sec,https://twitter.com/cea_sec,France,,False,6,2013-07-23T09:31:16Z,GitHub
-Irstea,Institut national de recherche en sciences et technologies pour l'environnement et l'agriculture,Irstea,https://github.com/Irstea,https://www.irstea.fr/,France,,False,14,2016-02-29T08:44:59Z,GitHub
-OCSInventory-NG,Open Computers and Software Inventory Next Generation is an assets management and deployment solution.,OCS Inventory NG,https://github.com/OCSInventory-NG,http://www.ocsinventory-ng.org,France,contact@ocsinventory-ng.org,False,15,2015-06-01T12:45:13Z,GitHub
-LAB-MI,Incubateur du ministère de l'intérieur,LAB MI,https://github.com/LAB-MI,,,beta@interieur.gouv.fr,False,4,2018-07-05T13:20:05Z,GitHub
-LINCnil,Laboratoire d'innovation numérique de la CNIL,LINC,https://github.com/LINCnil,http://linc.cnil.fr/,France,ip@cnil.fr,False,14,2014-01-10T14:24:33Z,GitHub
-StartupsPoleEmploi,Les Startups d’État de l'incubateur de Pôle emploi,Startups d’État Pôle emploi,https://github.com/StartupsPoleEmploi,http://www.pole-emploi.fr,Paris / France,,False,18,2016-12-05T12:40:31Z,GitHub
-openfisca,Turn law into software.,OpenFisca,https://github.com/openfisca,https://openfisca.org/en/,France and beyond,contact@openfisca.org,False,64,2012-05-30T16:38:06Z,GitHub
-eole,Pôle logiciels libres du Ministère français de l’Éducation nationale,EOLE Team,https://github.com/eole,http://pcll.ac-dijon.fr/,Dijon - France,eole-team@ac-dijon.fr,False,15,2014-01-09T19:26:46Z,GitHub
-clipos-archive,"CLIP OS version 4, published by @ANSSI-FR ",CLIP OS - Archive,https://github.com/clipos-archive,https://clip-os.org,"Paris, France",clipos@ssi.gouv.fr,True,106,2018-05-04T09:27:14Z,GitHub
-meteofrance,,Météo-France GitHub Organization,https://github.com/meteofrance,https://meteofrance.github.io/,,,False,2,2019-02-19T17:41:50Z,GitHub
-banquedefrance,,Banque de France,https://github.com/banquedefrance,,,,False,2,2016-09-05T15:04:02Z,GitHub
-BRGM,,,https://github.com/BRGM,,,,False,18,2016-03-25T14:13:14Z,GitHub
-BaseAdresseNationale,,Base Adresse Nationale (BAN),https://github.com/BaseAdresseNationale,https://adresse.data.gouv.fr/,France,adresse@data.gouv.fr,False,5,2016-05-17T15:14:06Z,GitHub
-histovec,application (beta) du ministère de l'Intérieur, protéger les acheteurs de véhicules d’occasion,https://github.com/histovec,http://histovec.interieur.gouv.fr,,histovec@interieur.gouv.fr,False,3,2018-03-10T11:42:53Z,GitHub
-INRA,See Inra's policy towards software licensing and hosting: https://www6.inra.fr/datapartage,Institut national de la recherche agronomique,https://github.com/INRA,http://www.inra.fr/,France,,False,6,2017-05-15T07:03:28Z,GitHub
-clipos,"CLIP OS version 5, published by @ANSSI-FR ",CLIP OS,https://github.com/clipos,https://clip-os.org,"Paris, France",clipos@ssi.gouv.fr,True,19,2017-11-17T14:32:48Z,GitHub
-openfun,"Higher Education Excellence. Online, Free and Open Courses.",France Université Numérique,https://github.com/openfun,https://www.fun-mooc.fr,"Paris, France",fun.dev@fun-mooc.fr,False,62,2014-04-08T12:08:59Z,GitHub
-sigrennesmetropole,Service  de l'Information Géographique de Rennes Métropole,SIG RENNES METROPOLE,https://github.com/sigrennesmetropole,,RENNES,sig@rennesmetropole.fr,False,13,2014-11-25T15:18:16Z,GitHub
-nantesmetropole,,Nantes Métropole,https://github.com/nantesmetropole,http://www.nantesmetropole.fr/,Nantes,,False,3,2016-06-23T14:05:25Z,GitHub
-etalab,"Etalab aide les administrations à ouvrir et utiliser les données qu’elles produisent, dans le but d’améliorer l’action publique. Un service du Premier ministre.",Etalab,https://github.com/etalab,https://www.etalab.gouv.fr,France,contact@etalab.gouv.fr,True,205,2013-08-26T16:03:40Z,GitHub
-afimb,,AFIMB,https://github.com/afimb,http://www.developpement-durable.gouv.fr/lagence-francaise-linformation-multimodale-et-billettique-afimb,"La Défense, France",,False,23,2013-07-16T14:31:55Z,GitHub
-MinistereSupRecherche,,Ministère de l'Enseignement supérieur de la Recherche et de l'Innovation,https://github.com/MinistereSupRecherche,http://esr.gouv.fr,Paris,github@recherche.gouv.fr,False,4,2018-05-15T15:48:47Z,GitHub
-nanterre,Applications citoyennes open source au service de la ville participative,Ville de Nanterre,https://github.com/nanterre,http://www.nanterre.fr,Nanterre,agora@mairie-nanterre.fr,False,8,2015-06-19T12:15:20Z,GitHub
-addok,,,https://github.com/addok,,,,False,14,2016-01-12T09:02:36Z,GitHub
-healthdatahub,https://health-data-hub.fr,Health Data Hub,https://gitlab.com/groups/healthdatahub,,,,,6,,GitLab
-erasme,Service usages numériques de la Métropole de Lyon,Erasme,https://github.com/erasme,http://www.erasme.org,"208 Bis Rue Garibaldi, Lyon, Rhône, France",,False,48,2010-02-16T16:27:05Z,GitHub
-culturecommunication,,Ministère chargé de la culture,https://github.com/culturecommunication,http://www.culture.gouv.fr/,Paris,,False,4,2013-01-25T16:13:55Z,GitHub
-dinsic-pim,,,https://github.com/dinsic-pim,,,,False,5,2018-01-04T22:38:54Z,GitHub
-micmacIGN,,,https://github.com/micmacIGN,,,,False,5,2016-11-07T12:47:54Z,GitHub
-cea-hpc,,,https://github.com/cea-hpc,http://www-hpc.cea.fr/index-en.htm,,,False,28,2012-03-03T14:54:06Z,GitHub
-ApieFrance,,Agence du Patrimoine Immateriel de l'Etat,https://github.com/ApieFrance,,"5 place des Vins-de-France, Paris",,False,2,2014-11-07T15:37:28Z,GitHub
-Inist-CNRS,Open source developments at Institute for scientific and technical information,Inist-CNRS,https://github.com/Inist-CNRS,http://www.inist.fr,"Nancy, France",,False,80,2015-03-19T09:02:18Z,GitHub
-CEREMA,,CEREMA,https://github.com/CEREMA,,,,False,51,2013-11-13T09:51:42Z,GitHub
-PnEcrins,Etablissement public du ministère de l'environnement,Parc national des Ecrins,https://github.com/PnEcrins,http://www.ecrins-parcnational.fr,"Gap, France",,False,11,2014-12-01T10:56:16Z,GitHub
-SocialGouv,Incubateur des Ministères Sociaux,Incubateur des Ministères Sociaux,https://github.com/SocialGouv,https://incubateur.social.gouv.fr,Paris,dsi-incubateur@sg.social.gouv.fr,False,63,2018-01-15T13:33:35Z,GitHub
-ARCEP-dev,The French agency in charge of regulating telecommunications in France,ARCEP [Autorité de Régulation des Communications Électroniques et des Postes],https://github.com/ARCEP-dev,https://www.arcep.fr/,Paris FRANCE,,False,10,2017-05-10T09:12:58Z,GitHub
-atlanmod,"(IMT-Atlantique,  LS2N)",Atlanmod,https://github.com/atlanmod,http://www.atlanmod.org,Nantes,contact@atlanmod.org,False,59,2013-10-30T11:31:21Z,GitHub
-wookey-project,"The WooKey Project, developped by @ANSSI-FR ",WooKey Project,https://github.com/wookey-project,https://wookey-project.github.io,Paris,wookey@ssi.gouv.fr,False,57,2018-05-23T10:41:26Z,GitHub
-indsante,,Institut National des Données de Santé,https://github.com/indsante,https://www.indsante.fr/,France,,False,4,2019-02-07T11:40:43Z,GitHub
-DREAL-NA,"Direction régionale de l'environnement, de l'aménagement et du logement de Nouvelle-Aquitaine",DREAL Nouvelle-Aquitaine,https://github.com/DREAL-NA,http://www.nouvelle-aquitaine.developpement-durable.gouv.fr,Nouvelle-Aquitaine,,False,1,2018-11-30T14:03:05Z,GitHub
-messagerie-melanie2,Dépot public pour la messagerie Mél,Messagerie Mél,https://github.com/messagerie-melanie2,,,,False,26,2015-01-16T09:06:53Z,GitHub
-PrefectureDePolice,,,https://github.com/PrefectureDePolice,,,,False,14,2016-09-07T14:27:32Z,GitHub
-CEA-Leti,Center for Research and Specialized Technology in micro and nanotechnologies,CEA-Leti,https://github.com/CEA-Leti,http://www.leti-cea.com/cea-tech/leti/english/Pages/Welcome.aspx,"Grenoble, France",,False,1,2018-06-27T13:48:00Z,GitHub
-ia-flash,Fiabiliser l'envoi de contraventions,IA Flash,https://github.com/ia-flash,https://iaflash.fr,,,False,4,2019-03-12T17:14:09Z,GitHub
-InriaMecsci,,,https://github.com/InriaMecsci,,,,False,35,2012-07-04T13:01:01Z,GitHub
-CNRS-DSI-Dev,OSS Github's repository for CNRS DSI Development Department,CNRS DSI Development Department,https://github.com/CNRS-DSI-Dev,,,,False,25,2014-10-02T09:48:14Z,GitHub
-MTES-MCT,,Ministères de la Transition écologique et solidaire & Cohésion des territoires,https://github.com/MTES-MCT,,,,False,54,2016-06-28T18:58:13Z,GitHub
-communaute-cimi,The Information Technology Community of the (French) Interior Ministry,CIMI,https://github.com/communaute-cimi,http://www.interieur.gouv.fr/,Paris,cimi@interieur.gouv.fr,False,21,2014-01-30T22:05:58Z,GitHub
-INSIDE-information-systems,"French joint research center between BRGM, French Biodiversity Agency, IFREMER, MNHN",INSIDE - environmental information systems research center,https://github.com/INSIDE-information-systems,http://www.pole-inside.fr,,,False,9,2018-06-28T14:34:48Z,GitHub
-OPIDoR,Optimisation pour le Partage et l'Interopérabilité des Données de la Recherche,,https://github.com/OPIDoR,,Nancy,,False,2,2016-09-06T13:13:06Z,GitHub
 InseeFr,,,https://github.com/InseeFr,,,,False,21,2015-03-17T19:10:01Z,GitHub
-IGNF,,Institut National de l'Information Géographique et Forestière,https://github.com/IGNF,http://www.ign.fr,,,False,54,2014-04-03T16:36:07Z,GitHub
-consultation-gouv,,Consultation.gouv.fr,https://github.com/consultation-gouv,,,support.consultation@etalab.gouv.fr,False,4,2017-04-04T15:39:43Z,GitHub
-PnCevennes,,,https://github.com/PnCevennes,,,,False,25,2014-08-27T16:37:57Z,GitHub
-ina-foss,,Institut National de l'Audiovisuel,https://github.com/ina-foss,http://www.ina.fr,France,,False,12,2014-12-16T16:27:51Z,GitHub
-PnX-SI,,SI des parcs nationaux français,https://github.com/PnX-SI,,,,False,27,2015-01-14T13:24:26Z,GitHub
-DGAC,,,https://github.com/DGAC,,France,,False,6,2011-04-16T10:18:10Z,GitHub
-diplomatiegouvfr,,,https://github.com/diplomatiegouvfr,http://www.diplomatie.gouv.fr,,,False,20,2015-06-09T09:51:13Z,GitHub
-AlsaceDigitale,Constuire l'écosystème numérique en Alsace,Alsace Digitale,https://github.com/AlsaceDigitale,http://www.alsacedigitale.org,Strasbourg,,False,42,2013-04-19T19:28:10Z,GitHub
-DGFiP,,Direction générale des finances publiques,https://github.com/DGFiP,http://www.economie.gouv.fr/dgfip,France,,False,1,2014-09-15T13:24:47Z,GitHub
 OpenCTI-Platform,"Open Cyber Threat Intelligence Platform, supported by @ANSSI-FR, @certeu and @LuatixHQ.",OpenCTI Platform,https://github.com/OpenCTI-Platform,https://www.opencti.io,France,contacŧ@opencti.io,False,5,2019-06-16T13:12:38Z,GitHub
-minagri-initial,Incubateur de services numériques du ministère de l'agriculture et de l'alimentation,INITIAL,https://github.com/minagri-initial,,Toulouse,celia.carceller-kemiche@agriculture.gouv.fr,False,7,2016-03-18T08:50:13Z,GitHub
+cea-sec,IT Security at the French Alternative Energies and Atomic Energy Commission,CEA IT Security,https://github.com/cea-sec,https://twitter.com/cea_sec,France,,False,6,2013-07-23T09:31:16Z,GitHub
+communaute-cimi,The Information Technology Community of the (French) Interior Ministry,CIMI,https://github.com/communaute-cimi,http://www.interieur.gouv.fr/,Paris,cimi@interieur.gouv.fr,False,21,2014-01-30T22:05:58Z,GitHub
+DGAC,,,https://github.com/DGAC,,France,,False,6,2011-04-16T10:18:10Z,GitHub
+afimb,,AFIMB,https://github.com/afimb,http://www.developpement-durable.gouv.fr/lagence-francaise-linformation-multimodale-et-billettique-afimb,"La Défense, France",,False,23,2013-07-16T14:31:55Z,GitHub
+LINCnil,Laboratoire d'innovation numérique de la CNIL,LINC,https://github.com/LINCnil,http://linc.cnil.fr/,France,ip@cnil.fr,False,14,2014-01-10T14:24:33Z,GitHub
+messagerie-melanie2,Dépot public pour la messagerie Mél,Messagerie Mél,https://github.com/messagerie-melanie2,,,,False,26,2015-01-16T09:06:53Z,GitHub
+INRA,See Inra's policy towards software licensing and hosting: https://www6.inra.fr/datapartage,Institut national de la recherche agronomique,https://github.com/INRA,http://www.inra.fr/,France,,False,6,2017-05-15T07:03:28Z,GitHub
+CEA-LIST,"Smart digital systems for Advanced Manufacturing, Embedded systems, Data intelligence and Health ionizing radiations",CEA LIST,https://github.com/CEA-LIST,http://www-list.cea.fr/,CEA Paris-Saclay - Nano-Innov,,False,5,2017-01-06T12:50:46Z,GitHub
+ANSSI-FR,,ANSSI,https://github.com/ANSSI-FR,https://www.ssi.gouv.fr,"Paris, France",opensource@ssi.gouv.fr,True,44,2012-07-04T09:13:48Z,GitHub
+IGNF,,Institut National de l'Information Géographique et Forestière,https://github.com/IGNF,http://www.ign.fr,,,False,54,2014-04-03T16:36:07Z,GitHub
+cw-leia,LEIA: the Lab Embedded ISO7816 Analyzer A Custom Smartcard Reader for the ChipWhisperer by @ANSSI-FR,LEIA,https://github.com/cw-leia,,,,False,4,2019-05-27T22:12:30Z,GitHub
+OCSInventory-NG,Open Computers and Software Inventory Next Generation is an assets management and deployment solution.,OCS Inventory NG,https://github.com/OCSInventory-NG,http://www.ocsinventory-ng.org,France,contact@ocsinventory-ng.org,False,15,2015-06-01T12:45:13Z,GitHub
+PnEcrins,Etablissement public du ministère de l'environnement,Parc national des Ecrins,https://github.com/PnEcrins,http://www.ecrins-parcnational.fr,"Gap, France",,False,11,2014-12-01T10:56:16Z,GitHub
+SocieteNumerique,Mission Société Numérique - Agence du Numérique - République Française,Société Numérique,https://github.com/SocieteNumerique,https://www.societenumerique.gouv.fr,"Paris, France",societe.numerique@finances.gouv.fr,False,11,2017-08-23T09:30:29Z,GitHub
+erasme,Service usages numériques de la Métropole de Lyon,Erasme,https://github.com/erasme,http://www.erasme.org,"208 Bis Rue Garibaldi, Lyon, Rhône, France",,False,48,2010-02-16T16:27:05Z,GitHub
+indsante,,Institut National des Données de Santé,https://github.com/indsante,https://www.indsante.fr/,France,,False,4,2019-02-07T11:40:43Z,GitHub
+ina-foss,,Institut National de l'Audiovisuel,https://github.com/ina-foss,http://www.ina.fr,France,,False,12,2014-12-16T16:27:51Z,GitHub
+meteofrance,,Météo-France GitHub Organization,https://github.com/meteofrance,https://meteofrance.github.io/,,,False,2,2019-02-19T17:41:50Z,GitHub
+addok,,,https://github.com/addok,,,,False,14,2016-01-12T09:02:36Z,GitHub
+LAB-MI,Incubateur du ministère de l'intérieur,LAB MI,https://github.com/LAB-MI,,,beta@interieur.gouv.fr,False,4,2018-07-05T13:20:05Z,GitHub
+consultation-gouv,,Consultation.gouv.fr,https://github.com/consultation-gouv,,,support.consultation@etalab.gouv.fr,False,4,2017-04-04T15:39:43Z,GitHub
+ApieFrance,,Agence du Patrimoine Immateriel de l'Etat,https://github.com/ApieFrance,,"5 place des Vins-de-France, Paris",,False,2,2014-11-07T15:37:28Z,GitHub
+betagouv,Incubateur de Services Numériques de la Direction Interministérielle du Numérique et du Système d'Information et de Communication de l'État,beta.gouv.fr,https://github.com/betagouv,https://beta.gouv.fr,France,,False,194,2014-06-12T19:55:44Z,GitHub
+DREAL-NA,"Direction régionale de l'environnement, de l'aménagement et du logement de Nouvelle-Aquitaine",DREAL Nouvelle-Aquitaine,https://github.com/DREAL-NA,http://www.nouvelle-aquitaine.developpement-durable.gouv.fr,Nouvelle-Aquitaine,,False,1,2018-11-30T14:03:05Z,GitHub
+clipos-archive,"CLIP OS version 4, published by @ANSSI-FR ",CLIP OS - Archive,https://github.com/clipos-archive,https://clip-os.org,"Paris, France",clipos@ssi.gouv.fr,True,106,2018-05-04T09:27:14Z,GitHub
+atlanmod,"(IMT-Atlantique,  LS2N)",Atlanmod,https://github.com/atlanmod,http://www.atlanmod.org,Nantes,contact@atlanmod.org,False,59,2013-10-30T11:31:21Z,GitHub
+INSIDE-information-systems,"French joint research center between BRGM, French Biodiversity Agency, IFREMER, MNHN",INSIDE - environmental information systems research center,https://github.com/INSIDE-information-systems,http://www.pole-inside.fr,,,False,9,2018-06-28T14:34:48Z,GitHub
+dinsic-pim,,,https://github.com/dinsic-pim,,,,False,5,2018-01-04T22:38:54Z,GitHub
+ARCEP-dev,The French agency in charge of regulating telecommunications in France,ARCEP [Autorité de Régulation des Communications Électroniques et des Postes],https://github.com/ARCEP-dev,https://www.arcep.fr/,Paris FRANCE,,False,10,2017-05-10T09:12:58Z,GitHub
+linbox-team,"LinBox, FFLAS-FFPACK, Givaro developer repositories",LinBox Team,https://github.com/linbox-team,http://linalg.org,Université Grenoble-Alpes,linbox-devel@googlegroups.com,False,4,2015-06-29T11:50:15Z,GitHub
+StartupsPoleEmploi,Les Startups d’État de l'incubateur de Pôle emploi,Startups d’État Pôle emploi,https://github.com/StartupsPoleEmploi,http://www.pole-emploi.fr,Paris / France,,False,18,2016-12-05T12:40:31Z,GitHub
+polewebmaedi,,Pôle Web | MAEDI DCP,https://github.com/polewebmaedi,http://www.diplomatie.gouv.fr/,"Quai d'Orsay, Paris, France",quentin.drouet@diplomatie.gouv.fr,False,4,2015-02-08T11:49:13Z,GitHub
+diplomatiegouvfr,,,https://github.com/diplomatiegouvfr,http://www.diplomatie.gouv.fr,,,False,20,2015-06-09T09:51:13Z,GitHub
+BRGM,,,https://github.com/BRGM,,,,False,18,2016-03-25T14:13:14Z,GitHub
+snosan-tools,Observatoire accidentologie plaisance et loisirs nautiques France,SNOSAN,https://github.com/snosan-tools,https://www.snosan.fr,Eaux françaises,tech@snosan.fr,True,8,2018-07-13T16:00:07Z,GitHub
+wookey-project,"The WooKey Project, developped by @ANSSI-FR ",WooKey Project,https://github.com/wookey-project,https://wookey-project.github.io,Paris,wookey@ssi.gouv.fr,False,57,2018-05-23T10:41:26Z,GitHub
+eole,Pôle logiciels libres du Ministère français de l’Éducation nationale,EOLE Team,https://github.com/eole,http://pcll.ac-dijon.fr/,Dijon - France,eole-team@ac-dijon.fr,False,15,2014-01-09T19:26:46Z,GitHub
+openfisca,Turn law into software.,OpenFisca,https://github.com/openfisca,https://openfisca.org/en/,France and beyond,contact@openfisca.org,False,64,2012-05-30T16:38:06Z,GitHub
+observatoire-territoires,,Observatoire des territoires - CGET,https://github.com/observatoire-territoires,http://www.observatoire-des-territoires.gouv.fr,,,False,8,2017-10-24T08:10:47Z,GitHub
+CEA-Leti,Center for Research and Specialized Technology in micro and nanotechnologies,CEA-Leti,https://github.com/CEA-Leti,http://www.leti-cea.com/cea-tech/leti/english/Pages/Welcome.aspx,"Grenoble, France",,False,1,2018-06-27T13:48:00Z,GitHub
+healthdatahub,https://health-data-hub.fr,Health Data Hub,https://gitlab.com/groups/healthdatahub,,,,,6,,GitLab
+micmacIGN,,,https://github.com/micmacIGN,,,,False,5,2016-11-07T12:47:54Z,GitHub
+AlsaceDigitale,Constuire l'écosystème numérique en Alsace,Alsace Digitale,https://github.com/AlsaceDigitale,http://www.alsacedigitale.org,Strasbourg,,False,42,2013-04-19T19:28:10Z,GitHub
+clipos,"CLIP OS version 5, published by @ANSSI-FR ",CLIP OS,https://github.com/clipos,https://clip-os.org,"Paris, France",clipos@ssi.gouv.fr,True,19,2017-11-17T14:32:48Z,GitHub
+PnX-SI,,SI des parcs nationaux français,https://github.com/PnX-SI,,,,False,27,2015-01-14T13:24:26Z,GitHub
+BaseAdresseNationale,,Base Adresse Nationale (BAN),https://github.com/BaseAdresseNationale,https://adresse.data.gouv.fr/,France,adresse@data.gouv.fr,False,5,2016-05-17T15:14:06Z,GitHub
+INRIA,"Inria, the French National Institute for computer science and applied mathematics",Inria,https://github.com/INRIA,https://www.inria.fr/,,,False,15,2012-12-03T13:03:05Z,GitHub
+Inist-CNRS,Open source developments at Institute for scientific and technical information,Inist-CNRS,https://github.com/Inist-CNRS,http://www.inist.fr,"Nancy, France",,False,80,2015-03-19T09:02:18Z,GitHub
+OPIDoR,Optimisation pour le Partage et l'Interopérabilité des Données de la Recherche,,https://github.com/OPIDoR,,Nancy,,False,2,2016-09-06T13:13:06Z,GitHub
+cea-hpc,,,https://github.com/cea-hpc,http://www-hpc.cea.fr/index-en.htm,,,False,28,2012-03-03T14:54:06Z,GitHub
+geodatagouv,,geo.data.gouv.fr,https://github.com/geodatagouv,https://geo.data.gouv.fr,France,geo@data.gouv.fr,False,11,2016-09-10T18:04:33Z,GitHub
+ia-flash,Fiabiliser l'envoi de contraventions,IA Flash,https://github.com/ia-flash,https://iaflash.fr,,,False,4,2019-03-12T17:14:09Z,GitHub
+SGMAP-AGD,,Administrateur général des données,https://github.com/SGMAP-AGD,,,,False,23,2015-01-20T09:06:59Z,GitHub
+banquedefrance,,Banque de France,https://github.com/banquedefrance,,,,False,2,2016-09-05T15:04:02Z,GitHub
+CNRS-DSI-Dev,OSS Github's repository for CNRS DSI Development Department,CNRS DSI Development Department,https://github.com/CNRS-DSI-Dev,,,,False,25,2014-10-02T09:48:14Z,GitHub
+SocialGouv,Incubateur des Ministères Sociaux,Incubateur des Ministères Sociaux,https://github.com/SocialGouv,https://incubateur.social.gouv.fr,Paris,dsi-incubateur@sg.social.gouv.fr,False,63,2018-01-15T13:33:35Z,GitHub
+InriaMecsci,,,https://github.com/InriaMecsci,,,,False,35,2012-07-04T13:01:01Z,GitHub
+DGFiP,,Direction générale des finances publiques,https://github.com/DGFiP,http://www.economie.gouv.fr/dgfip,France,,False,1,2014-09-15T13:24:47Z,GitHub
+ProgrammeVitam,French government IT program for digital archives,Programme Vitam,https://github.com/ProgrammeVitam,http://www.programmevitam.fr,,contact@programmevitam.fr,False,10,2016-10-21T03:17:08Z,GitHub
+nantesmetropole,,Nantes Métropole,https://github.com/nantesmetropole,http://www.nantesmetropole.fr/,Nantes,,False,3,2016-06-23T14:05:25Z,GitHub
+DISIC,Direction Interministérielle du numérique et des Systèmes d'Information et de Communication,DINSIC,https://github.com/DISIC,https://www.numerique.gouv.fr/dinsic/,Paris,communication.dinsic@modernisation.gouv.fr,False,55,2015-05-28T14:03:10Z,GitHub
+MTES-MCT,,Ministères de la Transition écologique et solidaire & Cohésion des territoires,https://github.com/MTES-MCT,,,,False,54,2016-06-28T18:58:13Z,GitHub
+etalab,"Etalab aide les administrations à ouvrir et utiliser les données qu’elles produisent, dans le but d’améliorer l’action publique. Un service du Premier ministre.",Etalab,https://github.com/etalab,https://www.etalab.gouv.fr,France,contact@etalab.gouv.fr,True,205,2013-08-26T16:03:40Z,GitHub
+PnCevennes,,,https://github.com/PnCevennes,,,,False,25,2014-08-27T16:37:57Z,GitHub
+strasbourg,,Strasbourg,https://github.com/strasbourg,http://strasbourg-data.fr/,"Strasbourg, France",,False,7,2013-02-22T20:56:42Z,GitHub
+Irstea,Institut national de recherche en sciences et technologies pour l'environnement et l'agriculture,Irstea,https://github.com/Irstea,https://www.irstea.fr/,France,,False,14,2016-02-29T08:44:59Z,GitHub
+numerique-gouv,,,https://github.com/numerique-gouv,,,,False,2,2018-09-25T10:14:06Z,GitHub
+region-bretagne,,,https://github.com/region-bretagne,,,,False,6,2014-05-26T14:48:16Z,GitHub
+PrefectureDePolice,,,https://github.com/PrefectureDePolice,,,,False,14,2016-09-07T14:27:32Z,GitHub
+openfun,"Higher Education Excellence. Online, Free and Open Courses.",France Université Numérique,https://github.com/openfun,https://www.fun-mooc.fr,"Paris, France",fun.dev@fun-mooc.fr,False,62,2014-04-08T12:08:59Z,GitHub
+opendatateam,The international team in charge of udata related stuff.,Open Data Team,https://github.com/opendatateam,https://getudata.org,World,contact@opendata.team,True,40,2016-05-12T16:04:11Z,GitHub
+histovec,application (beta) du ministère de l'Intérieur, protéger les acheteurs de véhicules d’occasion,https://github.com/histovec,http://histovec.interieur.gouv.fr,,histovec@interieur.gouv.fr,False,3,2018-03-10T11:42:53Z,GitHub
+CEREMA,,CEREMA,https://github.com/CEREMA,,,,False,51,2013-11-13T09:51:42Z,GitHub
+entrepreneur-interet-general,Code développé dans le cadre des défis EIG,Entrepreneurs d’intérêt général,https://github.com/entrepreneur-interet-general,https://entrepreneur-interet-general.etalab.gouv.fr,"Paris, France",entrepreneur-interet-general@data.gouv.fr,False,77,2017-01-12T16:54:14Z,GitHub
+sigrennesmetropole,Service  de l'Information Géographique de Rennes Métropole,SIG RENNES METROPOLE,https://github.com/sigrennesmetropole,,RENNES,sig@rennesmetropole.fr,False,13,2014-11-25T15:18:16Z,GitHub
 pidila,"Projets de la Direction de l'information légale et administrative
 https://pidila.gitlab.io/",pidila,https://gitlab.com/groups/pidila,,,,,9,,GitLab
-SGMAP-AGD,,Administrateur général des données,https://github.com/SGMAP-AGD,,,,False,23,2015-01-20T09:06:59Z,GitHub
-cw-leia,LEIA: the Lab Embedded ISO7816 Analyzer A Custom Smartcard Reader for the ChipWhisperer by @ANSSI-FR,LEIA,https://github.com/cw-leia,,,,False,4,2019-05-27T22:12:30Z,GitHub
-DISIC,Direction Interministérielle du numérique et des Systèmes d'Information et de Communication,DINSIC,https://github.com/DISIC,https://www.numerique.gouv.fr/dinsic/,Paris,communication.dinsic@modernisation.gouv.fr,False,55,2015-05-28T14:03:10Z,GitHub
-numerique-gouv,,,https://github.com/numerique-gouv,,,,False,2,2018-09-25T10:14:06Z,GitHub
-snosan-tools,Observatoire accidentologie plaisance et loisirs nautiques France,SNOSAN,https://github.com/snosan-tools,https://www.snosan.fr,Eaux françaises,tech@snosan.fr,True,8,2018-07-13T16:00:07Z,GitHub
-INRIA,"Inria, the French National Institute for computer science and applied mathematics",Inria,https://github.com/INRIA,https://www.inria.fr/,,,False,15,2012-12-03T13:03:05Z,GitHub
-geodatagouv,,geo.data.gouv.fr,https://github.com/geodatagouv,https://geo.data.gouv.fr,France,geo@data.gouv.fr,False,11,2016-09-10T18:04:33Z,GitHub
-ProgrammeVitam,French government IT program for digital archives,Programme Vitam,https://github.com/ProgrammeVitam,http://www.programmevitam.fr,,contact@programmevitam.fr,False,10,2016-10-21T03:17:08Z,GitHub
-opendatateam,The international team in charge of udata related stuff.,Open Data Team,https://github.com/opendatateam,https://getudata.org,World,contact@opendata.team,True,40,2016-05-12T16:04:11Z,GitHub
-linbox-team,"LinBox, FFLAS-FFPACK, Givaro developer repositories",LinBox Team,https://github.com/linbox-team,http://linalg.org,Université Grenoble-Alpes,linbox-devel@googlegroups.com,False,4,2015-06-29T11:50:15Z,GitHub
-CEA-LIST,"Smart digital systems for Advanced Manufacturing, Embedded systems, Data intelligence and Health ionizing radiations",CEA LIST,https://github.com/CEA-LIST,http://www-list.cea.fr/,CEA Paris-Saclay - Nano-Innov,,False,5,2017-01-06T12:50:46Z,GitHub
-region-bretagne,,,https://github.com/region-bretagne,,,,False,6,2014-05-26T14:48:16Z,GitHub
-ANSSI-FR,,ANSSI,https://github.com/ANSSI-FR,https://www.ssi.gouv.fr,"Paris, France",opensource@ssi.gouv.fr,True,44,2012-07-04T09:13:48Z,GitHub
+minagri-initial,Incubateur de services numériques du ministère de l'agriculture et de l'alimentation,INITIAL,https://github.com/minagri-initial,,Toulouse,celia.carceller-kemiche@agriculture.gouv.fr,False,7,2016-03-18T08:50:13Z,GitHub
+culturecommunication,,Ministère chargé de la culture,https://github.com/culturecommunication,http://www.culture.gouv.fr/,Paris,,False,4,2013-01-25T16:13:55Z,GitHub
+nanterre,Applications citoyennes open source au service de la ville participative,Ville de Nanterre,https://github.com/nanterre,http://www.nanterre.fr,Nanterre,agora@mairie-nanterre.fr,False,8,2015-06-19T12:15:20Z,GitHub
+MinistereSupRecherche,,Ministère de l'Enseignement supérieur de la Recherche et de l'Innovation,https://github.com/MinistereSupRecherche,http://esr.gouv.fr,Paris,github@recherche.gouv.fr,False,4,2018-05-15T15:48:47Z,GitHub
