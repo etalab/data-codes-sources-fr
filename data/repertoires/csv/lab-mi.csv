@@ -1,5 +1,5 @@
 nom,organisation_nom,plateforme,repertoire_url,description,est_fork,date_creation,derniere_mise_a_jour,page_accueil,nombre_stars,nombre_forks,licence,nombre_issues_ouvertes,langage,topics
 candilib,LAB-MI,GitHub,https://github.com/LAB-MI/candilib,,False,2018-08-02T20:11:27Z,2019-06-23T11:52:57Z,,3,6,GNU Lesser General Public License v3.0,18,JavaScript,
 LAB-MI.github.io,LAB-MI,GitHub,https://github.com/LAB-MI/LAB-MI.github.io,Site de l'incubateur de startups du ministère de l'intérieur,False,2018-08-05T09:28:10Z,2019-07-15T09:14:38Z,,0,3,GNU General Public License v3.0,0,JavaScript,
-candilibV2,LAB-MI,GitHub,https://github.com/LAB-MI/candilibV2,,False,2018-12-21T13:17:19Z,2019-07-09T15:25:51Z,,3,4,,78,JavaScript,
+candilibV2,LAB-MI,GitHub,https://github.com/LAB-MI/candilibV2,,False,2018-12-21T13:17:19Z,2019-07-09T15:25:51Z,,3,4,,79,JavaScript,
 api.gouv.fr,LAB-MI,GitHub,https://github.com/LAB-MI/api.gouv.fr,Liste les API disponibles au sein de l'administration française,True,2019-06-23T15:07:48Z,2019-06-23T15:07:51Z,https://api.gouv.fr,0,0,GNU Affero General Public License v3.0,0,HTML,
