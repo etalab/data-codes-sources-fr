@@ -6,7 +6,7 @@ assets_debian,clipos,GitHub,https://github.com/clipos/assets_debian,Vendored Deb
 assets_distfiles,clipos,GitHub,https://github.com/clipos/assets_distfiles,Vendored Gentoo distfiles,False,2018-09-20T09:26:15Z,2019-07-08T16:51:11Z,https://clip-os.org,4,0,,0,Roff,
 assets_gentoo,clipos,GitHub,https://github.com/clipos/assets_gentoo,Vendored Gentoo Hardened stage3 rootfs,False,2018-09-20T09:26:20Z,2019-03-13T10:33:08Z,https://clip-os.org,3,0,,0,,
 assets_toolkit,clipos,GitHub,https://github.com/clipos/assets_toolkit,Vendored Python dependencies for toolkit,False,2018-09-20T09:26:25Z,2019-07-23T09:39:33Z,https://clip-os.org,4,0,,0,,
-bugs,clipos,GitHub,https://github.com/clipos/bugs,CLIP OS issue tracker,False,2018-09-20T09:26:30Z,2019-05-21T13:28:05Z,https://clip-os.org,23,1,,12,,
+bugs,clipos,GitHub,https://github.com/clipos/bugs,CLIP OS issue tracker,False,2018-09-20T09:26:30Z,2019-05-21T13:28:05Z,https://clip-os.org,23,1,,14,,
 manifest,clipos,GitHub,https://github.com/clipos/manifest,CLIP OS Manifest,False,2018-09-20T09:26:35Z,2019-07-09T09:54:35Z,https://clip-os.org,5,0,GNU Lesser General Public License v2.1,0,,
 products_clipos,clipos,GitHub,https://github.com/clipos/products_clipos,CLIP OS product recipes,False,2018-09-20T09:26:40Z,2019-07-09T14:32:18Z,https://clip-os.org,54,6,GNU Lesser General Public License v2.1,0,Shell,
 src_portage_clipos,clipos,GitHub,https://github.com/clipos/src_portage_clipos,CLIP OS portage overlay,False,2018-09-20T09:26:46Z,2019-07-09T14:34:17Z,https://clip-os.org,3,4,GNU General Public License v2.0,0,Shell,
@@ -16,3 +16,4 @@ src_external_systemd,clipos,GitHub,https://github.com/clipos/src_external_system
 src_external_linux,clipos,GitHub,https://github.com/clipos/src_external_linux,Linux kernel for CLIP OS with additional patches,False,2018-09-20T09:29:10Z,2019-06-20T15:13:49Z,https://clip-os.org,52,4,Other,0,C,
 src_platform_portage-derive,clipos,GitHub,https://github.com/clipos/src_platform_portage-derive,Tool to help keep a Portage tree up-to-date,False,2018-12-20T17:18:42Z,2019-07-22T16:39:12Z,,0,2,GNU Lesser General Public License v2.1,0,Python,
 src_platform_config-linux-hardware,clipos,GitHub,https://github.com/clipos/src_platform_config-linux-hardware,"Hardware-dependent components (profile definitions, configuration file sets, miscellaenous scripts, etc.)",False,2018-12-20T17:19:34Z,2019-06-20T15:10:44Z,,0,0,GNU Lesser General Public License v2.1,0,Shell,
+buildbot,clipos,GitHub,https://github.com/clipos/buildbot,Buildbot buildmaster configuration/setup project for the CLIP OS Project continuous integration system,False,2019-02-04T10:36:56Z,2019-07-23T13:22:48Z,,0,0,GNU Lesser General Public License v2.1,0,Python,
