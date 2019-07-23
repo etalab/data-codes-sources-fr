@@ -9,7 +9,7 @@ GeoSciML,BRGM,GitHub,https://github.com/BRGM/GeoSciML,Public repo for GeoSciML. 
 gmlib,BRGM,GitHub,https://github.com/BRGM/gmlib,,False,2018-02-07T08:16:57Z,2019-02-11T13:36:17Z,,0,0,GNU Affero General Public License v3.0,0,,
 Nifi-WKB-to-WKT-processor,BRGM,GitHub,https://github.com/BRGM/Nifi-WKB-to-WKT-processor,A simple processor to transform WKB field in flowfile content to WKT in flowfile attribute.,False,2018-03-15T13:38:19Z,2018-03-30T08:13:13Z,,0,0,MIT License,0,Java,
 BLiv,BRGM,GitHub,https://github.com/BRGM/BLiv,BRGM Linked Data Viewer,False,2018-03-19T17:20:09Z,2019-03-20T08:11:53Z,,0,0,,1,JavaScript,
-hubeau,BRGM,GitHub,https://github.com/BRGM/hubeau,"Hub'Eau, la plateforme pour manipuler facilement les données ouvertes sur l'eau",False,2018-05-17T08:45:13Z,2019-07-23T14:37:52Z,,7,0,,14,Jupyter Notebook,
+hubeau,BRGM,GitHub,https://github.com/BRGM/hubeau,"Hub'Eau, la plateforme pour manipuler facilement les données ouvertes sur l'eau",False,2018-05-17T08:45:13Z,2019-07-23T18:54:27Z,,7,0,,14,Jupyter Notebook,
 cgal,BRGM,GitHub,https://github.com/BRGM/cgal,"The public CGAL repository, see the README below",True,2018-10-05T09:57:58Z,2018-10-05T09:58:41Z,https://github.com/CGAL/cgal#readme,0,0,Other,0,C++,
 Pic-EAU,BRGM,GitHub,https://github.com/BRGM/Pic-EAU,Potentialiser l’Intelligence Collective pour comprendre et valoriser les données sur l’eau,False,2018-11-09T16:12:56Z,2018-11-15T15:04:14Z,,0,0,GNU General Public License v3.0,0,Python,
 geothermal-test-cases,BRGM,GitHub,https://github.com/BRGM/geothermal-test-cases,,False,2018-11-27T21:58:50Z,2018-11-28T08:12:51Z,,0,0,MIT License,0,,
