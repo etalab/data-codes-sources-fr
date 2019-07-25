@@ -1,5 +1,5 @@
 nom,organisation_nom,plateforme,repertoire_url,description,est_fork,date_creation,derniere_mise_a_jour,page_accueil,nombre_stars,nombre_forks,licence,nombre_issues_ouvertes,langage,topics
 sivnorm,ia-flash,GitHub,https://github.com/ia-flash/sivnorm,Normaliser les marques/modèles dans le système d'immatriculation des véhicules,False,2019-03-19T09:46:14Z,2019-07-12T13:59:42Z,,0,0,,0,Python,flask
-matchvec,ia-flash,GitHub,https://github.com/ia-flash/matchvec,Reconnaître la marque/modèle des véhicules dans une image,False,2019-03-20T10:52:14Z,2019-07-15T14:02:37Z,,0,0,,1,Python,pytorch
+matchvec,ia-flash,GitHub,https://github.com/ia-flash/matchvec,Reconnaître la marque/modèle des véhicules dans une image,False,2019-03-20T10:52:14Z,2019-07-25T14:06:28Z,,0,0,,1,Python,pytorch
 demo,ia-flash,GitHub,https://github.com/ia-flash/demo,Angular webapp to test MatchVec API,False,2019-04-05T14:54:45Z,2019-07-11T14:24:28Z,,0,0,,1,TypeScript,angular
 app,ia-flash,GitHub,https://github.com/ia-flash/app,Traefik app for routing docker microservices,False,2019-05-17T13:37:56Z,2019-07-11T14:50:19Z,,0,0,,0,Makefile,"nginx,traefik"
