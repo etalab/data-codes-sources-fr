@@ -24,7 +24,7 @@ parcours-r,MTES-MCT,GitHub,https://github.com/MTES-MCT/parcours-r,Valise pédago
 camino-imports-postgres,MTES-MCT,GitHub,https://github.com/MTES-MCT/camino-imports-postgres,,False,2018-06-14T09:05:56Z,2018-06-14T09:07:21Z,,0,0,,0,JavaScript,
 secmar-data,MTES-MCT,GitHub,https://github.com/MTES-MCT/secmar-data,Jeux de données pour la base de données SECMAR disponible en open data,False,2018-06-28T12:05:56Z,2018-11-13T13:09:20Z,https://www.data.gouv.fr/fr/datasets/operations-coordonnees-par-les-cross/,1,0,Other,0,,"datagouvfr,direction-affaires-maritimes,eig-2018,entrepreneur-interet-general,mtes,opendata,predisauvetage,secmar"
 camino-imports-spreadsheets,MTES-MCT,GitHub,https://github.com/MTES-MCT/camino-imports-spreadsheets,,False,2018-07-05T07:36:09Z,2018-08-17T17:46:10Z,,0,0,,0,JavaScript,
-choisir-une-licence,MTES-MCT,GitHub,https://github.com/MTES-MCT/choisir-une-licence,,False,2018-07-17T09:43:52Z,2018-07-17T09:44:31Z,,0,0,,1,,
+choisir-une-licence,MTES-MCT,GitHub,https://github.com/MTES-MCT/choisir-une-licence,,False,2018-07-17T09:43:52Z,2018-07-17T09:44:31Z,,0,1,,2,,
 enr-and-ground,MTES-MCT,GitHub,https://github.com/MTES-MCT/enr-and-ground,,False,2018-07-19T10:09:47Z,2018-07-19T10:09:49Z,,0,1,GNU General Public License v3.0,1,,
 camino-imports-spreadsheet-jorf,MTES-MCT,GitHub,https://github.com/MTES-MCT/camino-imports-spreadsheet-jorf,,False,2018-08-10T10:47:43Z,2019-05-17T11:11:46Z,,0,0,,0,JavaScript,
 filharmonic-ui,MTES-MCT,GitHub,https://github.com/MTES-MCT/filharmonic-ui,User Interface of Fil'Harmonic,False,2018-11-14T16:44:11Z,2019-06-09T14:02:23Z,https://filharmonic.beta.gouv.fr,1,1,GNU Affero General Public License v3.0,0,Vue,
