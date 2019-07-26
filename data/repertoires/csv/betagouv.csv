@@ -189,7 +189,7 @@ PeerTube,betagouv,GitHub,https://github.com/betagouv/PeerTube,Federated (Activit
 ccas,betagouv,GitHub,https://github.com/betagouv/ccas,,False,2019-05-14T05:50:48Z,2019-06-26T17:10:07Z,,0,0,,0,JavaScript,
 lapin,betagouv,GitHub,https://github.com/betagouv/lapin,Prise de RDV pour les Maisons des Solidarités,False,2019-05-21T08:14:14Z,2019-07-22T14:41:55Z,,0,0,GNU Affero General Public License v3.0,3,Ruby,
 ds_proxy,betagouv,GitHub,https://github.com/betagouv/ds_proxy,Proxy de chiffrement utilisé sur demarches-simplifiees,False,2019-06-06T11:48:44Z,2019-06-25T12:03:54Z,,3,0,,0,Rust,
-ilos,betagouv,GitHub,https://github.com/betagouv/ilos,,False,2019-06-06T12:06:58Z,2019-07-18T20:18:29Z,https://ilos.tech/,3,0,Apache License 2.0,8,TypeScript,"microservice,node,typescript"
+ilos,betagouv,GitHub,https://github.com/betagouv/ilos,,False,2019-06-06T12:06:58Z,2019-07-26T07:43:08Z,https://ilos.tech/,3,0,Apache License 2.0,8,TypeScript,"microservice,node,typescript"
 anpy,betagouv,GitHub,https://github.com/betagouv/anpy,Python client of assemblee-nationale.fr,True,2019-07-09T12:08:07Z,2019-07-09T12:08:10Z,http://anpy.readthedocs.io/en/latest/,0,0,MIT License,0,HTML,
 andi,betagouv,GitHub,https://github.com/betagouv/andi,,False,2019-07-11T09:55:35Z,2019-07-24T06:57:54Z,,1,0,GNU Affero General Public License v3.0,2,CSS,
 sqlalchemy-handler,betagouv,GitHub,https://github.com/betagouv/sqlalchemy-handler,,False,2019-07-15T13:38:35Z,2019-07-17T21:56:03Z,,0,0,Mozilla Public License 2.0,1,Python,

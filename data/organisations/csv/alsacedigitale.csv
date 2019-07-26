@@ -1,2 +1,2 @@
-login,description,nom,organisation_url,site_web,adresse,email,est_verifiee,nombre_repertoires,date_creation,plateforme
-AlsaceDigitale,Constuire l'écosystème numérique en Alsace,Alsace Digitale,https://github.com/AlsaceDigitale,http://www.alsacedigitale.org,Strasbourg,,False,42,2013-04-19T19:28:10Z,GitHub
+login,description,nom,organisation_url,avatar_url,site_web,adresse,email,est_verifiee,nombre_repertoires,date_creation,plateforme
+AlsaceDigitale,Constuire l'écosystème numérique en Alsace,Alsace Digitale,https://github.com/AlsaceDigitale,https://avatars3.githubusercontent.com/u/4204727?v=4,http://www.alsacedigitale.org,Strasbourg,,False,42,2013-04-19T19:28:10Z,GitHub

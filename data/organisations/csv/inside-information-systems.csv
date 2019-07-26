@@ -1,2 +1,2 @@
-login,description,nom,organisation_url,site_web,adresse,email,est_verifiee,nombre_repertoires,date_creation,plateforme
-INSIDE-information-systems,"French joint research center between BRGM, French Biodiversity Agency, IFREMER, MNHN",INSIDE - environmental information systems research center,https://github.com/INSIDE-information-systems,http://www.pole-inside.fr,,,False,9,2018-06-28T14:34:48Z,GitHub
+login,description,nom,organisation_url,avatar_url,site_web,adresse,email,est_verifiee,nombre_repertoires,date_creation,plateforme
+INSIDE-information-systems,"French joint research center between BRGM, French Biodiversity Agency, IFREMER, MNHN",INSIDE - environmental information systems research center,https://github.com/INSIDE-information-systems,https://avatars0.githubusercontent.com/u/40667762?v=4,http://www.pole-inside.fr,,,False,9,2018-06-28T14:34:48Z,GitHub

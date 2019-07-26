@@ -1,2 +1,2 @@
-login,description,nom,organisation_url,site_web,adresse,email,est_verifiee,nombre_repertoires,date_creation,plateforme
-strasbourg,,Strasbourg,https://github.com/strasbourg,http://strasbourg-data.fr/,"Strasbourg, France",,False,7,2013-02-22T20:56:42Z,GitHub
+login,description,nom,organisation_url,avatar_url,site_web,adresse,email,est_verifiee,nombre_repertoires,date_creation,plateforme
+strasbourg,,Strasbourg,https://github.com/strasbourg,https://avatars1.githubusercontent.com/u/3673357?v=4,http://strasbourg-data.fr/,"Strasbourg, France",,False,7,2013-02-22T20:56:42Z,GitHub

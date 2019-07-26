@@ -1,2 +1,2 @@
-login,description,nom,organisation_url,site_web,adresse,email,est_verifiee,nombre_repertoires,date_creation,plateforme
-addok,,,https://github.com/addok,,,,False,14,2016-01-12T09:02:36Z,GitHub
+login,description,nom,organisation_url,avatar_url,site_web,adresse,email,est_verifiee,nombre_repertoires,date_creation,plateforme
+addok,,,https://github.com/addok,https://avatars3.githubusercontent.com/u/16663622?v=4,,,,False,14,2016-01-12T09:02:36Z,GitHub

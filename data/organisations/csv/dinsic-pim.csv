@@ -1,2 +1,2 @@
-login,description,nom,organisation_url,site_web,adresse,email,est_verifiee,nombre_repertoires,date_creation,plateforme
-dinsic-pim,,,https://github.com/dinsic-pim,,,,False,5,2018-01-04T22:38:54Z,GitHub
+login,description,nom,organisation_url,avatar_url,site_web,adresse,email,est_verifiee,nombre_repertoires,date_creation,plateforme
+dinsic-pim,,,https://github.com/dinsic-pim,https://avatars3.githubusercontent.com/u/35118060?v=4,,,,False,5,2018-01-04T22:38:54Z,GitHub

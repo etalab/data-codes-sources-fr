@@ -1,2 +1,2 @@
-login,description,nom,organisation_url,site_web,adresse,email,est_verifiee,nombre_repertoires,date_creation,plateforme
-cea-sec,IT Security at the French Alternative Energies and Atomic Energy Commission,CEA IT Security,https://github.com/cea-sec,https://twitter.com/cea_sec,France,,False,6,2013-07-23T09:31:16Z,GitHub
+login,description,nom,organisation_url,avatar_url,site_web,adresse,email,est_verifiee,nombre_repertoires,date_creation,plateforme
+cea-sec,IT Security at the French Alternative Energies and Atomic Energy Commission,CEA IT Security,https://github.com/cea-sec,https://avatars2.githubusercontent.com/u/5071925?v=4,https://twitter.com/cea_sec,France,,False,6,2013-07-23T09:31:16Z,GitHub

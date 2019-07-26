@@ -1,2 +1,2 @@
-login,description,nom,organisation_url,site_web,adresse,email,est_verifiee,nombre_repertoires,date_creation,plateforme
-observatoire-territoires,,Observatoire des territoires - CGET,https://github.com/observatoire-territoires,http://www.observatoire-des-territoires.gouv.fr,,,False,8,2017-10-24T08:10:47Z,GitHub
+login,description,nom,organisation_url,avatar_url,site_web,adresse,email,est_verifiee,nombre_repertoires,date_creation,plateforme
+observatoire-territoires,,Observatoire des territoires - CGET,https://github.com/observatoire-territoires,https://avatars1.githubusercontent.com/u/33053387?v=4,http://www.observatoire-des-territoires.gouv.fr,,,False,8,2017-10-24T08:10:47Z,GitHub

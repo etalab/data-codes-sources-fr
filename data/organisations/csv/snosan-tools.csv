@@ -1,2 +1,2 @@
-login,description,nom,organisation_url,site_web,adresse,email,est_verifiee,nombre_repertoires,date_creation,plateforme
-snosan-tools,Observatoire accidentologie plaisance et loisirs nautiques France,SNOSAN,https://github.com/snosan-tools,https://www.snosan.fr,Eaux françaises,tech@snosan.fr,True,8,2018-07-13T16:00:07Z,GitHub
+login,description,nom,organisation_url,avatar_url,site_web,adresse,email,est_verifiee,nombre_repertoires,date_creation,plateforme
+snosan-tools,Observatoire accidentologie plaisance et loisirs nautiques France,SNOSAN,https://github.com/snosan-tools,https://avatars3.githubusercontent.com/u/41202072?v=4,https://www.snosan.fr,Eaux françaises,tech@snosan.fr,True,8,2018-07-13T16:00:07Z,GitHub

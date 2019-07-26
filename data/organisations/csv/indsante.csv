@@ -1,2 +1,2 @@
-login,description,nom,organisation_url,site_web,adresse,email,est_verifiee,nombre_repertoires,date_creation,plateforme
-indsante,,Institut National des Données de Santé,https://github.com/indsante,https://www.indsante.fr/,France,,False,4,2019-02-07T11:40:43Z,GitHub
+login,description,nom,organisation_url,avatar_url,site_web,adresse,email,est_verifiee,nombre_repertoires,date_creation,plateforme
+indsante,,Institut National des Données de Santé,https://github.com/indsante,https://avatars2.githubusercontent.com/u/47418323?v=4,https://www.indsante.fr/,France,,False,4,2019-02-07T11:40:43Z,GitHub

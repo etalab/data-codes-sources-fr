@@ -1,2 +1,2 @@
-login,description,nom,organisation_url,site_web,adresse,email,est_verifiee,nombre_repertoires,date_creation,plateforme
-geodatagouv,,geo.data.gouv.fr,https://github.com/geodatagouv,https://geo.data.gouv.fr,France,geo@data.gouv.fr,False,11,2016-09-10T18:04:33Z,GitHub
+login,description,nom,organisation_url,avatar_url,site_web,adresse,email,est_verifiee,nombre_repertoires,date_creation,plateforme
+geodatagouv,,geo.data.gouv.fr,https://github.com/geodatagouv,https://avatars0.githubusercontent.com/u/22120797?v=4,https://geo.data.gouv.fr,France,geo@data.gouv.fr,False,11,2016-09-10T18:04:33Z,GitHub

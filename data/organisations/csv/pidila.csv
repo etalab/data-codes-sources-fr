@@ -1,3 +1,3 @@
-login,description,nom,organisation_url,site_web,adresse,email,est_verifiee,nombre_repertoires,date_creation,plateforme
+login,description,nom,organisation_url,avatar_url,site_web,adresse,email,est_verifiee,nombre_repertoires,date_creation,plateforme
 pidila,"Projets de la Direction de l'information légale et administrative
-https://pidila.gitlab.io/",pidila,https://gitlab.com/groups/pidila,,,,,9,,GitLab
+https://pidila.gitlab.io/",pidila,https://gitlab.com/groups/pidila,https://assets.gitlab-static.net/uploads/-/system/group/avatar/834955/pidila.png,,,,,9,,GitLab

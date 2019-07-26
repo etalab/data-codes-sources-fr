@@ -1,2 +1,2 @@
-login,description,nom,organisation_url,site_web,adresse,email,est_verifiee,nombre_repertoires,date_creation,plateforme
-histovec,application (beta) du ministère de l'Intérieur, protéger les acheteurs de véhicules d’occasion,https://github.com/histovec,http://histovec.interieur.gouv.fr,,histovec@interieur.gouv.fr,False,3,2018-03-10T11:42:53Z,GitHub
+login,description,nom,organisation_url,avatar_url,site_web,adresse,email,est_verifiee,nombre_repertoires,date_creation,plateforme
+histovec,application (beta) du ministère de l'Intérieur, protéger les acheteurs de véhicules d’occasion,https://github.com/histovec,https://avatars0.githubusercontent.com/u/37241448?v=4,http://histovec.interieur.gouv.fr,,histovec@interieur.gouv.fr,False,3,2018-03-10T11:42:53Z,GitHub

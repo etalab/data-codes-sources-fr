@@ -1,2 +1,2 @@
-login,description,nom,organisation_url,site_web,adresse,email,est_verifiee,nombre_repertoires,date_creation,plateforme
-OpenCTI-Platform,"Open Cyber Threat Intelligence Platform, supported by @ANSSI-FR, @certeu and @LuatixHQ.",OpenCTI Platform,https://github.com/OpenCTI-Platform,https://www.opencti.io,France,contacŧ@opencti.io,False,5,2019-06-16T13:12:38Z,GitHub
+login,description,nom,organisation_url,avatar_url,site_web,adresse,email,est_verifiee,nombre_repertoires,date_creation,plateforme
+OpenCTI-Platform,"Open Cyber Threat Intelligence Platform, supported by @ANSSI-FR, @certeu and @LuatixHQ.",OpenCTI Platform,https://github.com/OpenCTI-Platform,https://avatars3.githubusercontent.com/u/51881218?v=4,https://www.opencti.io,France,contacŧ@opencti.io,False,5,2019-06-16T13:12:38Z,GitHub

@@ -1,2 +1,2 @@
-login,description,nom,organisation_url,site_web,adresse,email,est_verifiee,nombre_repertoires,date_creation,plateforme
-healthdatahub,https://health-data-hub.fr,Health Data Hub,https://gitlab.com/groups/healthdatahub,,,,,6,,GitLab
+login,description,nom,organisation_url,avatar_url,site_web,adresse,email,est_verifiee,nombre_repertoires,date_creation,plateforme
+healthdatahub,https://health-data-hub.fr,Health Data Hub,https://gitlab.com/groups/healthdatahub,https://assets.gitlab-static.net/uploads/-/system/group/avatar/5043343/logo_hdh_400x400.png,,,,,6,,GitLab

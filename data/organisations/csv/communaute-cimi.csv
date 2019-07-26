@@ -1,2 +1,2 @@
-login,description,nom,organisation_url,site_web,adresse,email,est_verifiee,nombre_repertoires,date_creation,plateforme
-communaute-cimi,The Information Technology Community of the (French) Interior Ministry,CIMI,https://github.com/communaute-cimi,http://www.interieur.gouv.fr/,Paris,cimi@interieur.gouv.fr,False,21,2014-01-30T22:05:58Z,GitHub
+login,description,nom,organisation_url,avatar_url,site_web,adresse,email,est_verifiee,nombre_repertoires,date_creation,plateforme
+communaute-cimi,The Information Technology Community of the (French) Interior Ministry,CIMI,https://github.com/communaute-cimi,https://avatars2.githubusercontent.com/u/6548778?v=4,http://www.interieur.gouv.fr/,Paris,cimi@interieur.gouv.fr,False,21,2014-01-30T22:05:58Z,GitHub

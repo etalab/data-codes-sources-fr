@@ -1,2 +1,2 @@
-login,description,nom,organisation_url,site_web,adresse,email,est_verifiee,nombre_repertoires,date_creation,plateforme
-DGFiP,,Direction générale des finances publiques,https://github.com/DGFiP,http://www.economie.gouv.fr/dgfip,France,,False,1,2014-09-15T13:24:47Z,GitHub
+login,description,nom,organisation_url,avatar_url,site_web,adresse,email,est_verifiee,nombre_repertoires,date_creation,plateforme
+DGFiP,,Direction générale des finances publiques,https://github.com/DGFiP,https://avatars2.githubusercontent.com/u/8778937?v=4,http://www.economie.gouv.fr/dgfip,France,,False,1,2014-09-15T13:24:47Z,GitHub

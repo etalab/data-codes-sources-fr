@@ -1,2 +1,2 @@
-login,description,nom,organisation_url,site_web,adresse,email,est_verifiee,nombre_repertoires,date_creation,plateforme
-messagerie-melanie2,Dépot public pour la messagerie Mél,Messagerie Mél,https://github.com/messagerie-melanie2,,,,False,26,2015-01-16T09:06:53Z,GitHub
+login,description,nom,organisation_url,avatar_url,site_web,adresse,email,est_verifiee,nombre_repertoires,date_creation,plateforme
+messagerie-melanie2,Dépot public pour la messagerie Mél,Messagerie Mél,https://github.com/messagerie-melanie2,https://avatars2.githubusercontent.com/u/10559275?v=4,,,,False,26,2015-01-16T09:06:53Z,GitHub

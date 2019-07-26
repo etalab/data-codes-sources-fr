@@ -1,2 +1,2 @@
-login,description,nom,organisation_url,site_web,adresse,email,est_verifiee,nombre_repertoires,date_creation,plateforme
-opendatateam,The international team in charge of udata related stuff.,Open Data Team,https://github.com/opendatateam,https://getudata.org,World,contact@opendata.team,True,40,2016-05-12T16:04:11Z,GitHub
+login,description,nom,organisation_url,avatar_url,site_web,adresse,email,est_verifiee,nombre_repertoires,date_creation,plateforme
+opendatateam,The international team in charge of udata related stuff.,Open Data Team,https://github.com/opendatateam,https://avatars2.githubusercontent.com/u/19330690?v=4,https://getudata.org,World,contact@opendata.team,True,40,2016-05-12T16:04:11Z,GitHub

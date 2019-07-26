@@ -1,2 +1,2 @@
-login,description,nom,organisation_url,site_web,adresse,email,est_verifiee,nombre_repertoires,date_creation,plateforme
-Inist-CNRS,Open source developments at Institute for scientific and technical information,Inist-CNRS,https://github.com/Inist-CNRS,http://www.inist.fr,"Nancy, France",,False,80,2015-03-19T09:02:18Z,GitHub
+login,description,nom,organisation_url,avatar_url,site_web,adresse,email,est_verifiee,nombre_repertoires,date_creation,plateforme
+Inist-CNRS,Open source developments at Institute for scientific and technical information,Inist-CNRS,https://github.com/Inist-CNRS,https://avatars0.githubusercontent.com/u/11553240?v=4,http://www.inist.fr,"Nancy, France",,False,80,2015-03-19T09:02:18Z,GitHub
