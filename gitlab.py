@@ -31,6 +31,7 @@ class GitLabOrg(object):
             "description": data["description"],
             "nom": data["name"],
             "organisation_url": data["web_url"],
+            "avatar_url": data["avatar_url"],
             "site_web": None,
             "adresse": None,
             "email": None,

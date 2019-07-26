@@ -88,6 +88,7 @@ class GitHubOrg(object):
             ("description", "description"),
             ("nom", "name"),
             ("organisation_url", "html_url"),
+            ("avatar_url", "avatar_url"),
             ("site_web", "blog"),
             ("adresse", "location"),
             ("email", "email"),

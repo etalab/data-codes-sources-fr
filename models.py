@@ -35,6 +35,7 @@ class Organisation(BaseModel):
     description: str
     nom: str
     organisation_url: str
+    avatar_url: str
     site_web: str
     adresse: str
     email: str

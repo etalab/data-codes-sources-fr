@@ -43,6 +43,16 @@
          }
       },
       {
+         "name":"avatar_url",
+         "description":"URL vers l'avatar de l'organisation",
+         "example":"https://avatars1.githubusercontent.com/u/5313610?v=4",
+         "type":"string",
+         "format": "uri",
+         "constraints": {
+            "required": false
+         }
+      },
+      {
          "name":"site_web",
          "description":"Site web de l'organisation",
          "example":"https://etalab.gouv.fr",
