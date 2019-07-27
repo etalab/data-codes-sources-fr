@@ -85,7 +85,7 @@ entreprise.data.gouv.fr,etalab,GitHub,https://github.com/etalab/entreprise.data.
 csv_detective,etalab,GitHub,https://github.com/etalab/csv_detective,CSV inspection,True,2017-06-20T16:07:38Z,2019-04-08T11:36:54Z,,7,2,,2,Python,
 piwik_logs,etalab,GitHub,https://github.com/etalab/piwik_logs,,False,2017-06-21T11:38:13Z,2018-01-22T18:48:47Z,,0,3,,1,Jupyter Notebook,
 quartiers-prioritaires,etalab,GitHub,https://github.com/etalab/quartiers-prioritaires,,False,2017-06-26T15:11:45Z,2018-01-22T18:48:48Z,,0,0,,0,Shell,
-normadresse,etalab,GitHub,https://github.com/etalab/normadresse,Module python de normalisation de libellés de voie/lieu-dit,False,2017-06-28T13:55:21Z,2019-05-18T19:07:22Z,,6,4,,1,Python,
+normadresse,etalab,GitHub,https://github.com/etalab/normadresse,Module python de normalisation de libellés de voie/lieu-dit,False,2017-06-28T13:55:21Z,2019-07-27T18:30:32Z,,7,4,,1,Python,
 transport-landing-page,etalab,GitHub,https://github.com/etalab/transport-landing-page,[DEPRECATED] Landing page de transport.data.gouv.fr,False,2017-07-03T16:00:32Z,2018-03-27T18:27:11Z,https://github.com/etalab/transport-site,1,1,MIT License,0,HTML,
 transport-datatools-server,etalab,GitHub,https://github.com/etalab/transport-datatools-server,Server for Conveyal's GTFS data management platform,True,2017-07-03T16:42:18Z,2019-05-22T14:58:08Z,,2,0,MIT License,0,Java,
 catalogue_ui,etalab,GitHub,https://github.com/etalab/catalogue_ui,Catalogue Angular 2 UI,True,2017-07-03T16:42:40Z,2018-01-22T18:48:50Z,,0,0,,0,TypeScript,
@@ -167,7 +167,7 @@ transpo-rt,etalab,GitHub,https://github.com/etalab/transpo-rt,Simple API for pub
 fantoir-parser,etalab,GitHub,https://github.com/etalab/fantoir-parser,Analyseur de fichiers FANTOIR,False,2018-11-21T14:08:50Z,2019-04-18T17:48:53Z,,0,0,MIT License,0,JavaScript,
 adresses-locales,etalab,GitHub,https://github.com/etalab/adresses-locales,Agrégation des bases Adresse locales,False,2018-11-22T10:39:53Z,2019-07-10T13:06:34Z,https://www.data.gouv.fr/fr/datasets/adresses-locales/,1,0,MIT License,0,JavaScript,
 munin-theme,etalab,GitHub,https://github.com/etalab/munin-theme,,False,2018-12-17T11:15:41Z,2018-12-17T12:06:22Z,,0,0,MIT License,0,JavaScript,
-data-codes-sources-fr,etalab,GitHub,https://github.com/etalab/data-codes-sources-fr,Métadonnées des dépôts de code d'organismes publics en France,False,2018-12-30T14:20:30Z,2019-07-27T11:21:07Z,https://www.data.gouv.fr/fr/datasets/inventaire-des-depots-de-code-source-des-organismes-publics/,9,1,MIT License,4,Python,"codes-sources-fr,government,open-source"
+data-codes-sources-fr,etalab,GitHub,https://github.com/etalab/data-codes-sources-fr,Métadonnées des dépôts de code d'organismes publics en France,False,2018-12-30T14:20:30Z,2019-07-27T15:21:02Z,https://www.data.gouv.fr/fr/datasets/inventaire-des-depots-de-code-source-des-organismes-publics/,9,1,MIT License,4,Python,"codes-sources-fr,government,open-source"
 adresses-util,etalab,GitHub,https://github.com/etalab/adresses-util,,False,2019-01-02T23:15:00Z,2019-04-30T12:57:41Z,,1,0,MIT License,1,JavaScript,
 adresses-ftth,etalab,GitHub,https://github.com/etalab/adresses-ftth,Extraction des adresses contenues dans les fichiers de déploiement FTTH,False,2019-01-02T23:38:15Z,2019-06-26T21:57:46Z,,0,0,MIT License,0,JavaScript,
 ox-html-timeline,etalab,GitHub,https://github.com/etalab/ox-html-timeline,Create HTML timelines by exporting .org files,True,2019-01-24T17:46:31Z,2019-01-24T17:46:33Z,,0,0,,0,Emacs Lisp,
