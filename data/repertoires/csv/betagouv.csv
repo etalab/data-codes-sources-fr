@@ -195,4 +195,4 @@ andi,betagouv,GitHub,https://github.com/betagouv/andi,,False,2019-07-11T09:55:35
 sqlalchemy-handler,betagouv,GitHub,https://github.com/betagouv/sqlalchemy-handler,,False,2019-07-15T13:38:35Z,2019-07-17T21:56:03Z,,0,0,Mozilla Public License 2.0,1,Python,
 itou,betagouv,GitHub,https://github.com/betagouv/itou,Plate-forme numérique de l'inclusion,False,2019-07-22T12:52:29Z,2019-07-25T08:56:41Z,,0,0,GNU Affero General Public License v3.0,0,Python,
 admin-traitdunion,betagouv,GitHub,https://github.com/betagouv/admin-traitdunion,,False,2019-07-25T09:44:03Z,2019-07-25T09:47:27Z,,0,0,MIT License,0,JavaScript,
-competences-pro-www,betagouv,GitHub,https://github.com/betagouv/competences-pro-www,Site vitrine Compétences pro,False,2019-07-27T13:52:10Z,2019-07-27T13:52:10Z,,0,0,,0,,
+competences-pro-www,betagouv,GitHub,https://github.com/betagouv/competences-pro-www,Site vitrine pour Compétences pro,False,2019-07-27T13:52:10Z,2019-07-28T17:49:32Z,,0,0,,0,HTML,
