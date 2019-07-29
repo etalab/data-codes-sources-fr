@@ -9,3 +9,4 @@ vitam-griffins,ProgrammeVitam,GitHub,https://github.com/ProgrammeVitam/vitam-gri
 sedatools,ProgrammeVitam,GitHub,https://github.com/ProgrammeVitam/sedatools,Bibliothèque SEDA et exemples d'usage,False,2019-02-01T16:10:37Z,2019-07-03T15:36:22Z,,0,0,Other,0,Java,
 java-libpst,ProgrammeVitam,GitHub,https://github.com/ProgrammeVitam/java-libpst,,False,2019-03-18T14:37:55Z,2019-03-18T14:42:32Z,,0,0,,0,Java,
 elasticsearch-metrics-reporter-java,ProgrammeVitam,GitHub,https://github.com/ProgrammeVitam/elasticsearch-metrics-reporter-java,"Metrics reporter, which reports to elasticsearch",True,2019-05-21T15:52:07Z,2019-05-22T15:22:32Z,,0,0,Apache License 2.0,0,Java,
+java-libpst-origin,ProgrammeVitam,GitHub,https://github.com/ProgrammeVitam/java-libpst-origin,"A library to read PST files with java, without need for external libraries.",True,2019-07-28T21:05:34Z,2019-07-28T21:06:00Z,,0,0,,0,Java,
