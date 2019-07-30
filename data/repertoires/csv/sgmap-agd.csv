@@ -5,7 +5,7 @@ Elections,SGMAP-AGD,GitHub,https://github.com/SGMAP-AGD/Elections,Page de ressou
 csv_detective,SGMAP-AGD,GitHub,https://github.com/SGMAP-AGD/csv_detective,CSV inspection,False,2015-02-10T11:35:26Z,2019-04-08T11:37:09Z,,8,5,,9,Python,
 csp_vote,SGMAP-AGD,GitHub,https://github.com/SGMAP-AGD/csp_vote,Projet collaboratif mené lors de l'OpenDataCamp Elections du 23 février 2015,False,2015-02-23T09:50:08Z,2019-01-23T15:31:03Z,,3,2,,0,R,
 CompareDF,SGMAP-AGD,GitHub,https://github.com/SGMAP-AGD/CompareDF,Le projet est ici de créer un utilitaire pour faciliter l'utilisation de panel lorsque les nomenclatures changent,False,2015-03-25T11:11:17Z,2016-01-22T16:46:12Z,,0,0,GNU Lesser General Public License v3.0,0,Python,
-Datadouane,SGMAP-AGD,GitHub,https://github.com/SGMAP-AGD/Datadouane,Wiki et codes pour le hackathon du 20 Mai 2015 organisé par la DGDDI et Etalab. ,False,2015-05-11T08:32:11Z,2019-01-23T15:30:57Z,,1,0,,0,R,
+Datadouane,SGMAP-AGD,GitHub,https://github.com/SGMAP-AGD/Datadouane,Wiki et codes pour le hackathon du 20 Mai 2015 organisé par la DGDDI et Etalab. ,False,2015-05-11T08:32:11Z,2019-07-30T13:50:41Z,,1,0,,0,R,
 wiki_agd,SGMAP-AGD,GitHub,https://github.com/SGMAP-AGD/wiki_agd,"This repo contains pywikibots for the ""Wiki de l'AGD"" ",False,2015-09-09T07:04:52Z,2015-10-07T14:24:57Z,,0,0,,2,Python,
 Tools,SGMAP-AGD,GitHub,https://github.com/SGMAP-AGD/Tools, Useful functions to work with data.,False,2015-09-09T14:19:14Z,2018-08-30T15:28:05Z,http://agd-tools.readthedocs.org/,6,1,,4,Python,
 data_calendar,SGMAP-AGD,GitHub,https://github.com/SGMAP-AGD/data_calendar,,False,2015-09-11T16:45:15Z,2015-09-11T16:45:21Z,,0,1,,0,Python,
