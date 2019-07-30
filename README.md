@@ -61,7 +61,7 @@ Les données sont décrites à l'aide de fichiers [Table Schema](https://frictio
 |est_verifiee|booléen|Indique si l'organisation a prouvé qu'elle détenait les noms de domaines associés à son organisation|true|Valeur optionnelle|
 |nombre_repertoires|nombre entier|Le nombre de répertoires publics de l'organisation|42|Valeur obligatoire, Valeur minimale : 0|
 |date_creation|date et heure|La date de création de l'organisation|2013-08-26T16:03:40Z|Valeur optionnelle|
-|plateforme|chaîne de caractères|La plateforme utilisée de l'organisation|GitHub|Valeur obligatoire, Valeurs autorisées : GitHub|
+|plateforme|chaîne de caractères|La plateforme utilisée de l'organisation|GitHub|Valeur obligatoire, Valeurs autorisées : GitHub,GitLab|
 
 # Droits d’auteur et licence
 Le code source du répertoire est publié sous [la licence MIT](LICENSE.md). Les données, disponibles dans le répertoire [data](data) sont publiées sous la [Licence Ouverte 2.0](https://www.etalab.gouv.fr/licence-ouverte-open-licence).

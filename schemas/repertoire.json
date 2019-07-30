@@ -2,7 +2,7 @@
    "title":"Métadonnées d'un répertoire Git",
    "author":"Antoine Augusti <antoine.augusti@gmail.com>",
    "created":"2018-12-31",
-   "updated":"2018-12-31",
+   "updated":"2019-07-30",
    "homepage":"https://github.com/AntoineAugusti/data-codes-sources-fr",
    "fields":[
       {
@@ -31,7 +31,8 @@
          "constraints": {
             "required": true,
             "enum":[
-               "GitHub"
+               "GitHub",
+               "GitLab"
             ]
          }
       },
@@ -60,7 +61,7 @@
          "example": "false",
          "type":"boolean",
          "constraints": {
-            "required": true
+            "required": false
          }
       },
       {
