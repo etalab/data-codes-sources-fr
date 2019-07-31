@@ -43,6 +43,8 @@ Les données sont décrites à l'aide de fichiers [Table Schema](https://frictio
 |nombre_issues_ouvertes|nombre entier|Le nombre d'issues actuellement ouvertes|0|Valeur obligatoire, Valeur minimale : 0|
 |langage|chaîne de caractères|Le langage principal du répertoire, tel que détecté par la plateforme|Python|Valeur optionnelle|
 |topics|chaîne de caractères|Les tags du répertoire|utile,france,opendata|Valeur optionnelle|
+|software_heritage_exists|booléen|Indique si le répertoire a déjà été archivé sur Software Heritage|false|Valeur obligatoire|
+|software_heritage_url|chaîne de caractères (format `uri`)|L'URL vers l'interface web de Software Heritage pour ce répertoire|https://archive.softwareheritage.org/browse/origin/https://github.com/etalab/etalab/directory/|Valeur obligatoire|
 
 ### Métadonnées d'une organisation Git
 

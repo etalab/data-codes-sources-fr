@@ -2,6 +2,7 @@ from collections import defaultdict
 
 import requests
 
+from swh import SwhExists
 from models import Organisation, Repository
 
 
@@ -11,6 +12,7 @@ class GitLabOrg(object):
     def __init__(self, organisation):
         super(GitLabOrg, self).__init__()
         self.organisation = organisation
+        self.swh_exists = SwhExists()
 
     def __repr__(self):
         return "GitLabOrg: " + self.organisation
@@ -54,11 +56,28 @@ class GitLabOrg(object):
                 repo["nombre_issues_ouvertes"] = 0
             repo["langage"] = None
             repo["topics"] = ",".join(repository["tag_list"])
+            repo.update(self.swh_attributes(repo))
 
             for k, v in Repository(**repo).to_dict_list().items():
                 repos[k].extend(v)
 
         return repos
+
+    def swh_attributes(self, repo):
+        swh_url = self.swh_exists.swh_url(repo["repertoire_url"])
+        res = {}
+
+        if not swh_url:
+            res["software_heritage_exists"] = False
+            res["software_heritage_url"] = None
+        elif swh_url is None:
+            res["software_heritage_exists"] = None
+            res["software_heritage_url"] = None
+        else:
+            res["software_heritage_exists"] = True
+            res["software_heritage_url"] = swh_url
+
+        return res
 
     def get_org(self):
         url = self.GITLAB_API_ROOT + "groups/" + self.organisation

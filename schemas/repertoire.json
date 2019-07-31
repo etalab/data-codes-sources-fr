@@ -2,7 +2,7 @@
    "title":"Métadonnées d'un répertoire Git",
    "author":"Antoine Augusti <antoine.augusti@gmail.com>",
    "created":"2018-12-31",
-   "updated":"2019-07-30",
+   "updated":"2019-07-31",
    "homepage":"https://github.com/AntoineAugusti/data-codes-sources-fr",
    "fields":[
       {
@@ -144,6 +144,25 @@
          "description":"Les tags du répertoire",
          "example": "utile,france,opendata",
          "type":"string",
+         "constraints": {
+            "required": false
+         }
+      },
+      {
+         "name":"software_heritage_exists",
+         "description":"Indique si le répertoire a déjà été archivé sur Software Heritage",
+         "example": "false",
+         "type":"boolean",
+         "constraints": {
+            "required": false
+         }
+      },
+      {
+         "name":"software_heritage_url",
+         "description":"L'URL vers l'interface web de Software Heritage pour ce répertoire",
+         "example": "https://archive.softwareheritage.org/browse/origin/https://github.com/etalab/etalab/directory/",
+         "type":"string",
+         "format":"uri",
          "constraints": {
             "required": false
          }

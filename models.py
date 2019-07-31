@@ -27,6 +27,8 @@ class Repository(BaseModel):
     nombre_issues_ouvertes: int
     langage: str
     topics: str
+    software_heritage_exists: bool
+    software_heritage_url: str
 
 
 @dataclass(frozen=True)
