@@ -9,8 +9,8 @@ df = pd.read_csv(IN_FOLDER + "all.csv")
 
 nb_repos = len(df)
 nb_orgs = len(df.groupby("organisation_nom"))
-avg_nb_repos = df.groupby("organisation_nom").count()["nom"].agg("mean")
-median_nb_repos = df.groupby("organisation_nom").count()["nom"].agg("median")
+avg_nb_repos = df.groupby("organisation_nom").count()["nom"].agg("mean").round(2)
+median_nb_repos = df.groupby("organisation_nom").count()["nom"].agg("median").round(2)
 
 top_orgs_by_repos = (
     df.groupby("organisation_nom")
