@@ -2,17 +2,16 @@ import os
 import requests
 from collections import defaultdict
 
-from swh import SwhExists
 from models import Organisation, Repository
 
 
 class GitHubOrg(object):
     GITHUB_API_ROOT = "https://api.github.com/"
 
-    def __init__(self, organisation):
+    def __init__(self, organisation, swh_exists):
         super(GitHubOrg, self).__init__()
         self.organisation = organisation
-        self.swh_exists = SwhExists()
+        self.swh_exists = swh_exists
 
     def __repr__(self):
         return "GitHubOrg: " + self.organisation

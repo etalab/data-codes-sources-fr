@@ -2,17 +2,16 @@ from collections import defaultdict
 
 import requests
 
-from swh import SwhExists
 from models import Organisation, Repository
 
 
 class GitLabOrg(object):
     GITLAB_API_ROOT = "https://gitlab.com/api/v4/"
 
-    def __init__(self, organisation):
+    def __init__(self, organisation, swh_exists):
         super(GitLabOrg, self).__init__()
         self.organisation = organisation
-        self.swh_exists = SwhExists()
+        self.swh_exists = swh_exists
 
     def __repr__(self):
         return "GitLabOrg: " + self.organisation

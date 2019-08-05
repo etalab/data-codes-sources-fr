@@ -2,12 +2,13 @@ from collections import defaultdict
 from io import BytesIO
 from urllib.request import urlopen
 
+from swh import SwhExists
 from github import GitHubOrg
 from gitlab import GitLabOrg
 from storage import save_repos_for_org, save_org
 
 
-def fetch_orgs():
+def fetch_orgs(swh_exists):
     orgs = []
 
     resp = urlopen(
@@ -19,15 +20,16 @@ def fetch_orgs():
     for line in data:
         if line.startswith("https://github.com"):
             org_name = line.replace("https://github.com/", "").rstrip("/")
-            orgs.append(GitHubOrg(org_name))
+            orgs.append(GitHubOrg(org_name, swh_exists))
         if line.startswith("https://gitlab.com"):
             org_name = line.replace("https://gitlab.com/", "").rstrip("/")
-            orgs.append(GitLabOrg(org_name))
+            orgs.append(GitLabOrg(org_name, swh_exists))
 
     return orgs
 
 
-organisations = fetch_orgs()
+swh_exists = SwhExists()
+organisations = fetch_orgs(swh_exists)
 
 # Save details about each repo for an org
 all_repos = defaultdict(list)
@@ -58,3 +60,4 @@ for organisation in organisations:
     save_org(organisation, data.to_dict_list())
 
 save_org("all", all_orgs)
+swh_exists.save_data()

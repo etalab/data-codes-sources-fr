@@ -37,7 +37,7 @@ class SwhExists(object):
             writer = csv.DictWriter(f, fieldnames=["origin_url", "is_available"])
 
             writer.writeheader()
-            for origin_url, is_available in self.data.items():
+            for origin_url, is_available in sorted(self.data.items()):
                 writer.writerow(
                     {"origin_url": origin_url, "is_available": is_available}
                 )
