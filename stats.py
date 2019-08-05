@@ -11,6 +11,7 @@ nb_repos = len(df)
 nb_orgs = len(df.groupby("organisation_nom"))
 avg_nb_repos = df.groupby("organisation_nom").count()["nom"].agg("mean").round(2)
 median_nb_repos = df.groupby("organisation_nom").count()["nom"].agg("median").round(2)
+swh_exists_count = len(df.loc[df["software_heritage_exists"]])
 
 top_orgs_by_repos = (
     df.groupby("organisation_nom")
@@ -69,6 +70,10 @@ res = {
     "top_repos_forks": top_repos_forks,
     "top_repos_issues": top_repos_issues,
     "top_licenses": top_licenses,
+    "software_heritage": {
+        "repos_in_archive": swh_exists_count,
+        "ratio_in_archive": round(swh_exists_count / nb_repos, 2),
+    },
 }
 
 with open(OUT_FILEPATH, "w") as f:
