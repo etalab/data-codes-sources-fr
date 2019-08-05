@@ -17,6 +17,6 @@ Meleze,InseeFr,GitHub,https://github.com/InseeFr/Meleze,Modèle macro-économiqu
 Keycloak-FranceConnect,InseeFr,GitHub,https://github.com/InseeFr/Keycloak-FranceConnect,Extension Keycloak facilitant l'utilisation de FranceConnect,False,2018-11-15T14:36:52Z,2019-08-01T06:56:11Z,,14,0,MIT License,2,HTML,,False,
 Omphale,InseeFr,GitHub,https://github.com/InseeFr/Omphale,Modèle de projection démographique,False,2018-12-17T10:53:16Z,2019-04-26T12:13:18Z,,3,0,,1,Java,,False,
 Lunatic,InseeFr,GitHub,https://github.com/InseeFr/Lunatic,Library of questionnaire components,False,2019-02-11T14:08:30Z,2019-07-31T17:06:56Z,,1,2,MIT License,0,JavaScript,,False,
-Lunatic-Model,InseeFr,GitHub,https://github.com/InseeFr/Lunatic-Model,Data model for Lunatic,False,2019-02-11T16:56:43Z,2019-08-02T13:38:00Z,,0,2,MIT License,0,Java,,False,
+Lunatic-Model,InseeFr,GitHub,https://github.com/InseeFr/Lunatic-Model,Data model for Lunatic,False,2019-02-11T16:56:43Z,2019-08-05T09:07:18Z,,0,2,MIT License,0,Java,,False,
 Quatro,InseeFr,GitHub,https://github.com/InseeFr/Quatro,React application to display web questionnaires,False,2019-02-26T14:19:19Z,2019-03-21T13:48:33Z,,0,0,MIT License,0,JavaScript,,False,
 ARC,InseeFr,GitHub,https://github.com/InseeFr/ARC,Workbench for acquisition and normalization of data sets,False,2019-05-21T13:12:52Z,2019-07-31T16:54:37Z,,3,1,MIT License,11,Java,,False,
