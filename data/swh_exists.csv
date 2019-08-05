@@ -1490,6 +1490,7 @@ https://github.com/etalab/autopsy,False
 https://github.com/etalab/bal,True
 https://github.com/etalab/ban-data,True
 https://github.com/etalab/ban-geocode,True
+https://github.com/etalab/banatic,False
 https://github.com/etalab/biryani,True
 https://github.com/etalab/blog-eig2,True
 https://github.com/etalab/blog.data.gouv.fr,True
@@ -1612,6 +1613,7 @@ https://github.com/etalab/osem,True
 https://github.com/etalab/osm-wms,True
 https://github.com/etalab/ouverture-des-codes-sources-publics,False
 https://github.com/etalab/ox-html-timeline,False
+https://github.com/etalab/piaf,False
 https://github.com/etalab/piwik-covisits,True
 https://github.com/etalab/piwik_logs,True
 https://github.com/etalab/plan-ogp-2015-2017,True
