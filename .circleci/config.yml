@@ -1,13 +1,15 @@
-version: 2
+version: 2.1
+
+executors:
+  python37:
+    docker:
+      - image: circleci/python:3.7
 
 jobs:
   fetch_data:
-    docker:
-      - image: circleci/python:3.7
-    working_directory: ~/repo
+    executor: python37
     steps:
-      - checkout:
-          path: ~/repo
+      - checkout
       - restore_cache:
           keys:
           - v1-dependencies-{{ checksum "requirements.txt" }}
@@ -32,6 +34,16 @@ jobs:
             . venv/bin/activate
             python fetch.py
             python stats.py
+      - persist_to_workspace:
+          root: .
+          paths:
+            - data
+  push_data:
+    executor: python37
+    steps:
+      - checkout
+      - attach_workspace:
+          at: /tmp
       - add_ssh_keys:
           fingerprints:
             - "ce:d5:71:c4:c6:a0:44:34:5a:cf:11:e5:da:48:aa:70"
@@ -43,6 +55,8 @@ jobs:
       - run:
           name: Push to GitHub
           command: |
+            rm -rf data
+            mv /tmp/data data
             if [ -n "$(git status --porcelain)" ]; then
               git add -A data
               git commit -m "New data at $(date -u +'%Y-%m-%dT%H:%M:%SZ') [ci skip]"
@@ -53,9 +67,15 @@ jobs:
 
 workflows:
   version: 2
-  commit:
+  fetch_and_push:
     jobs:
       - fetch_data
+      - push_data:
+          requires:
+            - fetch_data
+          filters:
+            branches:
+              only: master
   cron:
     triggers:
       - schedule:
@@ -66,3 +86,6 @@ workflows:
                 - master
     jobs:
       - fetch_data
+      - push_data:
+          requires:
+            - fetch_data
