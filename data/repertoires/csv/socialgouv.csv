@@ -66,4 +66,4 @@ polyfill-service,SocialGouv,GitHub,https://github.com/SocialGouv/polyfill-servic
 emjpm-design,SocialGouv,GitHub,https://github.com/SocialGouv/emjpm-design,Resources design eMJPM,False,False,2019-07-23T14:09:02Z,2019-07-30T13:48:08Z,,0,0,,14,,,False,
 kali-data,SocialGouv,GitHub,https://github.com/SocialGouv/kali-data,,False,False,2019-07-26T08:52:00Z,2019-08-05T14:21:16Z,,0,0,,1,JavaScript,,False,
 meditor,SocialGouv,GitHub,https://github.com/SocialGouv/meditor,MDX-based Editor and Previewer for React.,False,False,2019-08-02T15:03:54Z,2019-08-02T15:04:37Z,,0,0,Other,1,JavaScript,,False,
-emjpm-ui,SocialGouv,GitHub,https://github.com/SocialGouv/emjpm-ui,Design system for emjpm,False,False,2019-08-05T19:41:00Z,2019-08-08T08:30:11Z,https://emjpm-design-system.netlify.com,0,0,Apache License 2.0,2,JavaScript,,False,
+emjpm-ui,SocialGouv,GitHub,https://github.com/SocialGouv/emjpm-ui,Design system for emjpm,False,False,2019-08-05T19:41:00Z,2019-08-08T09:01:22Z,https://emjpm-design-system.netlify.com,0,0,Apache License 2.0,2,JavaScript,,False,
