@@ -548,7 +548,7 @@ https://github.com/MTES-MCT/dataroom,False
 https://github.com/MTES-MCT/ecophyto,False
 https://github.com/MTES-MCT/enr-and-ground,False
 https://github.com/MTES-MCT/filharmonic,False
-https://github.com/MTES-MCT/filharmonic-api,False
+https://github.com/MTES-MCT/filharmonic-api,True
 https://github.com/MTES-MCT/filharmonic-infrastructure,False
 https://github.com/MTES-MCT/filharmonic-ui,False
 https://github.com/MTES-MCT/fluctuat,False
@@ -730,7 +730,7 @@ https://github.com/SocialGouv/code-du-travail-monitoring,False
 https://github.com/SocialGouv/code-du-travail-numerique,True
 https://github.com/SocialGouv/code-du-travail-numerique2,True
 https://github.com/SocialGouv/code-du-travail-scenarios,False
-https://github.com/SocialGouv/code-du-travail-slides,False
+https://github.com/SocialGouv/code-du-travail-slides,True
 https://github.com/SocialGouv/code-du-travail-ui,True
 https://github.com/SocialGouv/conventions-collectives,False
 https://github.com/SocialGouv/datafiller,False
@@ -772,7 +772,7 @@ https://github.com/SocialGouv/standup,False
 https://github.com/SocialGouv/suggest,False
 https://github.com/SocialGouv/template.data.gouv.fr.react,False
 https://github.com/SocialGouv/tocbot,False
-https://github.com/SocialGouv/tps,False
+https://github.com/SocialGouv/tps,True
 https://github.com/SocialGouv/traefigit,False
 https://github.com/SocialGouv/tremplin,False
 https://github.com/SocialGouv/tutoriel-gitlab,True
@@ -1617,7 +1617,7 @@ https://github.com/etalab/osem,True
 https://github.com/etalab/osm-wms,True
 https://github.com/etalab/ouverture-des-codes-sources-publics,False
 https://github.com/etalab/ox-html-timeline,False
-https://github.com/etalab/piaf,False
+https://github.com/etalab/piaf,True
 https://github.com/etalab/piwik-covisits,True
 https://github.com/etalab/piwik_logs,True
 https://github.com/etalab/plan-ogp-2015-2017,True
