@@ -494,7 +494,7 @@ https://github.com/Irstea/bd_patrimoine,False
 https://github.com/Irstea/bsc12,False
 https://github.com/Irstea/caso,False
 https://github.com/Irstea/collec,True
-https://github.com/Irstea/escroc,False
+https://github.com/Irstea/escroc,True
 https://github.com/Irstea/esfc,False
 https://github.com/Irstea/filo-science,False
 https://github.com/Irstea/irrig,False
@@ -1092,7 +1092,7 @@ https://github.com/betagouv/signup.api.gouv.fr-docker,True
 https://github.com/betagouv/slack-ovh,True
 https://github.com/betagouv/sqlalchemy-handler,False
 https://github.com/betagouv/standup,True
-https://github.com/betagouv/svair-api,False
+https://github.com/betagouv/svair-api,True
 https://github.com/betagouv/svair-mock,True
 https://github.com/betagouv/syso,True
 https://github.com/betagouv/syso-core,True
