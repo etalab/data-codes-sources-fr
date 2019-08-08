@@ -8,7 +8,9 @@ import requests
 class SwhExists(object):
     SWH_FILE = "data/swh_exists.csv"
     SWH_BASE_URL = "https://archive.softwareheritage.org/api/1/"
-    SWH_HEADERS = {"User-Agent": "etalab/data-codes-source-fr"}
+    SWH_HEADERS = {
+        "User-Agent": "etalab/data-codes-source-fr; contact: opensource@data.gouv.fr"
+    }
 
     def __init__(self):
         super(SwhExists, self).__init__()
