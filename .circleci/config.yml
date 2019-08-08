@@ -1,13 +1,13 @@
 version: 2.1
 
 executors:
-  python36:
+  python37:
     docker:
-      - image: circleci/python:3.6
+      - image: circleci/python:3.7
 
 jobs:
   fetch_data:
-    executor: python36
+    executor: python37
     steps:
       - checkout
       - restore_cache:
@@ -39,7 +39,7 @@ jobs:
           paths:
             - data
   push_data:
-    executor: python36
+    executor: python37
     steps:
       - checkout
       - attach_workspace:
