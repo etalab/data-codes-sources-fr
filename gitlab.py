@@ -40,6 +40,7 @@ class GitLabOrg(object):
             repo["repertoire_url"] = repository["web_url"]
             repo["description"] = repository["description"]
             repo["est_fork"] = None
+            repo["est_archive"] = repository["archived"]
             repo["date_creation"] = format_datetime(repository["created_at"])
             repo["derniere_mise_a_jour"] = format_datetime(
                 repository["last_activity_at"]

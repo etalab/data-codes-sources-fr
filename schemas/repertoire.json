@@ -1,9 +1,9 @@
 {
    "title":"Métadonnées d'un répertoire Git",
-   "author":"Antoine Augusti <antoine.augusti@gmail.com>",
+   "author":"Antoine Augusti <antoine.augusti@data.gouv.fr>",
    "created":"2018-12-31",
-   "updated":"2019-07-31",
-   "homepage":"https://github.com/AntoineAugusti/data-codes-sources-fr",
+   "updated":"2019-08-08",
+   "homepage":"https://github.com/etalab/data-codes-sources-fr",
    "fields":[
       {
          "name":"nom",
@@ -62,6 +62,15 @@
          "type":"boolean",
          "constraints": {
             "required": false
+         }
+      },
+      {
+         "name":"est_archive",
+         "description":"Indique si le répertoire est archivé, c'est-à-dire qu'il est en lecture seule",
+         "example": "false",
+         "type":"boolean",
+         "constraints": {
+            "required": true
          }
       },
       {

@@ -18,6 +18,7 @@ class Repository(BaseModel):
     repertoire_url: str
     description: str
     est_fork: bool
+    est_archive: bool
     date_creation: str
     derniere_mise_a_jour: str
     page_accueil: str
