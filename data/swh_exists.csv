@@ -1024,7 +1024,7 @@ https://github.com/betagouv/openfisca-france-correpondance-metier,True
 https://github.com/betagouv/openfisca-france-local,False
 https://github.com/betagouv/openfisca-loiret,False
 https://github.com/betagouv/openfisca-mes-aides-reform,False
-https://github.com/betagouv/openfisca-ops,False
+https://github.com/betagouv/openfisca-ops,True
 https://github.com/betagouv/openfisca-paris,True
 https://github.com/betagouv/openfisca-parsers,False
 https://github.com/betagouv/openfisca-pau,False
@@ -1603,7 +1603,7 @@ https://github.com/etalab/lois-non-codifiees-et-reglements-francais,True
 https://github.com/etalab/majic,True
 https://github.com/etalab/mastodon-stats,True
 https://github.com/etalab/mediawiki-etalab-skin,True
-https://github.com/etalab/monReseauMobile,False
+https://github.com/etalab/monReseauMobile,True
 https://github.com/etalab/monuments-historiques,False
 https://github.com/etalab/munin-plugins,True
 https://github.com/etalab/munin-theme,False
@@ -1915,7 +1915,7 @@ https://github.com/openfun/fun-translations,True
 https://github.com/openfun/fun-videofront-xblock,True
 https://github.com/openfun/hackathon,True
 https://github.com/openfun/handbook,True
-https://github.com/openfun/learninglocker-docker,False
+https://github.com/openfun/learninglocker-docker,True
 https://github.com/openfun/libcast-xblock,True
 https://github.com/openfun/mail-fun-edx,True
 https://github.com/openfun/maintenance-page,True
