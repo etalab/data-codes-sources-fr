@@ -213,7 +213,7 @@ https://github.com/DGAC/simupaye,False
 https://github.com/DGFiP/Test-Compta-Demat,True
 https://github.com/DISIC/GMR,False
 https://github.com/DISIC/GMR-sandbox,False
-https://github.com/DISIC/Test-Compta-Demat,False
+https://github.com/DISIC/Test-Compta-Demat,True
 https://github.com/DISIC/XWiki-cerfa-numerique,False
 https://github.com/DISIC/assistant-rgaa,True
 https://github.com/DISIC/bmc-tools,False
@@ -497,7 +497,7 @@ https://github.com/Irstea/collec,True
 https://github.com/Irstea/escroc,True
 https://github.com/Irstea/esfc,False
 https://github.com/Irstea/filo-science,False
-https://github.com/Irstea/irrig,False
+https://github.com/Irstea/irrig,True
 https://github.com/Irstea/otolithe,False
 https://github.com/Irstea/usact,False
 https://github.com/Irstea/w3id.org,False
@@ -601,7 +601,7 @@ https://github.com/OpenCTI-Platform/connectors,False
 https://github.com/OpenCTI-Platform/datasets,False
 https://github.com/OpenCTI-Platform/docker,False
 https://github.com/OpenCTI-Platform/docs,False
-https://github.com/OpenCTI-Platform/opencti,False
+https://github.com/OpenCTI-Platform/opencti,True
 https://github.com/PnCevennes/Applications_10.30,True
 https://github.com/PnCevennes/GeoNature-atlas,True
 https://github.com/PnCevennes/Qgis-plugin-lineaireRepercussion,True
@@ -651,7 +651,7 @@ https://github.com/PnX-SI/UsersHub-authentification-module,True
 https://github.com/PnX-SI/Virtualia-connect,False
 https://github.com/PnX-SI/gn_mobile_core,False
 https://github.com/PnX-SI/gn_mobile_maps,False
-https://github.com/PnX-SI/gn_mobile_occtax,False
+https://github.com/PnX-SI/gn_mobile_occtax,True
 https://github.com/PnX-SI/gn_mobile_sft,False
 https://github.com/PnX-SI/gn_module_cmr,False
 https://github.com/PnX-SI/gn_module_dashboard,False
@@ -957,7 +957,7 @@ https://github.com/betagouv/competences-pro-www,False
 https://github.com/betagouv/compta,False
 https://github.com/betagouv/cout-embauche,False
 https://github.com/betagouv/dashboard_apientreprise,False
-https://github.com/betagouv/dds-cross-simulator,False
+https://github.com/betagouv/dds-cross-simulator,True
 https://github.com/betagouv/demarches-simplifiees.fr,False
 https://github.com/betagouv/dialogue-de-gestion,False
 https://github.com/betagouv/discourse-oauth2-basic,False
@@ -971,7 +971,7 @@ https://github.com/betagouv/e-controle,False
 https://github.com/betagouv/eac,True
 https://github.com/betagouv/eac-api,True
 https://github.com/betagouv/eac-scrapper,False
-https://github.com/betagouv/etudiant-entrepreneur,False
+https://github.com/betagouv/etudiant-entrepreneur,True
 https://github.com/betagouv/fetch-normalize-data,False
 https://github.com/betagouv/fiches-de-banc,False
 https://github.com/betagouv/gps-usagers,False
@@ -1017,7 +1017,7 @@ https://github.com/betagouv/open-academie-old,False
 https://github.com/betagouv/openfisca-brestmetropole,True
 https://github.com/betagouv/openfisca-cd62,False
 https://github.com/betagouv/openfisca-cd93,False
-https://github.com/betagouv/openfisca-core,False
+https://github.com/betagouv/openfisca-core,True
 https://github.com/betagouv/openfisca-demande-logement-social,False
 https://github.com/betagouv/openfisca-france,False
 https://github.com/betagouv/openfisca-france-correpondance-metier,True
@@ -1488,7 +1488,7 @@ https://github.com/etalab/algorithmes-publics,False
 https://github.com/etalab/api-bal,True
 https://github.com/etalab/api-geo,False
 https://github.com/etalab/api-rpg,True
-https://github.com/etalab/api-urbanisme,False
+https://github.com/etalab/api-urbanisme,True
 https://github.com/etalab/apicarto,False
 https://github.com/etalab/askbot-etalab-skin,True
 https://github.com/etalab/autopsy,False
@@ -1685,7 +1685,7 @@ https://github.com/fabnumdef/resources,False
 https://github.com/geodatagouv/csw-client,True
 https://github.com/geodatagouv/docker,False
 https://github.com/geodatagouv/docker-node-gdal,False
-https://github.com/geodatagouv/geogw,False
+https://github.com/geodatagouv/geogw,True
 https://github.com/geodatagouv/geoplatform,True
 https://github.com/geodatagouv/link-analyzer,False
 https://github.com/geodatagouv/link-proxy,True
