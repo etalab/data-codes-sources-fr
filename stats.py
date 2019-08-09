@@ -11,7 +11,7 @@ nb_repos = len(df)
 nb_orgs = len(df.groupby("organisation_nom"))
 avg_nb_repos = df.groupby("organisation_nom").count()["nom"].agg("mean").round(2)
 median_nb_repos = df.groupby("organisation_nom").count()["nom"].agg("median").round(2)
-swh_exists_count = len(df.loc[df["software_heritage_exists"]])
+swh_exists_count = len(df.loc[df["software_heritage_exists"].fillna(False)])
 
 top_orgs_by_repos = (
     df.groupby("organisation_nom")
