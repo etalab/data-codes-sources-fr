@@ -6,12 +6,11 @@ from models import Organisation, Repository
 
 
 class GitHubOrg(object):
-    GITHUB_API_ROOT = "https://api.github.com/"
-
-    def __init__(self, organisation, swh_exists):
+    def __init__(self, organisation, swh_exists, base_url):
         super(GitHubOrg, self).__init__()
         self.organisation = organisation
         self.swh_exists = swh_exists
+        self.base_url = base_url
 
     def __repr__(self):
         return "GitHubOrg: " + self.organisation
@@ -29,7 +28,7 @@ class GitHubOrg(object):
         }
 
     def url(self, path):
-        return self.GITHUB_API_ROOT + path
+        return self.base_url + path
 
     def repos_for_org(self):
         data = []
