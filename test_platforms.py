@@ -45,7 +45,7 @@ class TestPlatforms(unittest.TestCase):
         self.assertEquals(org.organisation, "etalab")
         self.assertEquals(org.base_url, "https://api.github.com/")
 
-        org = self.detector.to_org("https://framagit.org/etalab")
+        org = self.detector.to_org("https://gitlab.inria.fr/etalab")
         self.assertIsInstance(org, GitLabOrg)
         self.assertEquals(org.organisation, "etalab")
-        self.assertEquals(org.base_url, "https://framagit.org/api/v4/")
+        self.assertEquals(org.base_url, "https://gitlab.inria.fr/api/v4/")
