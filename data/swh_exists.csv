@@ -49,7 +49,7 @@ https://github.com/ANSSI-FR/SecuML,True
 https://github.com/ANSSI-FR/SmartPGP,True
 https://github.com/ANSSI-FR/SysvolExplorer,True
 https://github.com/ANSSI-FR/WSUS_Audit,True
-https://github.com/ANSSI-FR/audit-radius,False
+https://github.com/ANSSI-FR/audit-radius,True
 https://github.com/ANSSI-FR/bits_parser,True
 https://github.com/ANSSI-FR/bmc-tools,True
 https://github.com/ANSSI-FR/bootcode_parser,True
@@ -123,7 +123,7 @@ https://github.com/AlsaceDigitale/straliens-check,True
 https://github.com/AlsaceDigitale/straliens-landing,True
 https://github.com/AlsaceDigitale/straliens-server,True
 https://github.com/AlsaceDigitale/strasbourgstartups,True
-https://github.com/AlsaceDigitale/tools,False
+https://github.com/AlsaceDigitale/tools,True
 https://github.com/AlsaceDigitale/winter-school-industry,False
 https://github.com/AlsaceDigitale/www.edgefest.fr,True
 https://github.com/AlsaceDigitale/www.edgefest.fr-2019-temporary,False
@@ -767,7 +767,7 @@ https://github.com/SocialGouv/code-du-travail-scenarios,False
 https://github.com/SocialGouv/code-du-travail-slides,True
 https://github.com/SocialGouv/code-du-travail-ui,True
 https://github.com/SocialGouv/conventions-collectives,False
-https://github.com/SocialGouv/datafiller,False
+https://github.com/SocialGouv/datafiller,True
 https://github.com/SocialGouv/dila-api-client,False
 https://github.com/SocialGouv/dila-tests-api,False
 https://github.com/SocialGouv/dila2sql,False
@@ -954,7 +954,7 @@ https://github.com/betagouv/allegement-fillon,False
 https://github.com/betagouv/andi,False
 https://github.com/betagouv/annuaire,False
 https://github.com/betagouv/annuaire-api,True
-https://github.com/betagouv/annuaire-import,False
+https://github.com/betagouv/annuaire-import,True
 https://github.com/betagouv/anpy,False
 https://github.com/betagouv/api-auth,False
 https://github.com/betagouv/api-caf,False
@@ -1069,7 +1069,7 @@ https://github.com/betagouv/opensimplif,False
 https://github.com/betagouv/paie-api,False
 https://github.com/betagouv/paie-carto,False
 https://github.com/betagouv/paie-editor,False
-https://github.com/betagouv/paie-tests,False
+https://github.com/betagouv/paie-tests,True
 https://github.com/betagouv/paie-www,False
 https://github.com/betagouv/pass-culture-api,True
 https://github.com/betagouv/pass-culture-app-staging,False
@@ -1279,7 +1279,7 @@ https://github.com/clipos-archive/src_platform_userd,False
 https://github.com/clipos-archive/src_platform_vaultguard,False
 https://github.com/clipos-archive/src_platform_verictl,False
 https://github.com/clipos-archive/src_platform_vsctl,False
-https://github.com/clipos-archive/src_platform_xscreensaver-pwcheck,False
+https://github.com/clipos-archive/src_platform_xscreensaver-pwcheck,True
 https://github.com/clipos/assets_crates-io,False
 https://github.com/clipos/assets_debian,False
 https://github.com/clipos/assets_distfiles,False
@@ -1296,7 +1296,7 @@ https://github.com/clipos/src_external_systemd,False
 https://github.com/clipos/src_platform_config-linux-hardware,True
 https://github.com/clipos/src_platform_portage-derive,False
 https://github.com/clipos/src_portage_clipos,False
-https://github.com/clipos/src_portage_gentoo,False
+https://github.com/clipos/src_portage_gentoo,True
 https://github.com/clipos/toolkit,False
 https://github.com/communaute-cimi/PFLAU-Viz,True
 https://github.com/communaute-cimi/devstack-vagrant,True
@@ -1658,7 +1658,7 @@ https://github.com/etalab/piwik_logs,True
 https://github.com/etalab/plan-ogp-2015-2017,True
 https://github.com/etalab/plf,False
 https://github.com/etalab/prevair-demo,False
-https://github.com/etalab/prevair-experiment,False
+https://github.com/etalab/prevair-experiment,True
 https://github.com/etalab/project-legal,True
 https://github.com/etalab/pseudononymizer,False
 https://github.com/etalab/quartiers-prioritaires,True
@@ -1677,7 +1677,7 @@ https://github.com/etalab/sirene_as_api,True
 https://github.com/etalab/sirene_as_api_ansible,False
 https://github.com/etalab/sorry.data.gouv.fr,False
 https://github.com/etalab/speedtracker,True
-https://github.com/etalab/stars_detective,False
+https://github.com/etalab/stars_detective,True
 https://github.com/etalab/taxe-habitation,True
 https://github.com/etalab/template-jekyll,True
 https://github.com/etalab/template.data.gouv.fr,True
