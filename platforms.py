@@ -15,7 +15,7 @@ class Detector(object):
         self.swh = SwhExists()
 
     def load_data(self):
-        with open("forges.csv") as f:
+        with open("platforms.csv") as f:
             reader = csv.DictReader(f)
             for row in reader:
                 self.data[row["domain_name"]] = row["platform"]
