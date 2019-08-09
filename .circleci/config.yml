@@ -24,6 +24,11 @@ jobs:
             - ./venv
           key: v1-dependencies-{{ checksum "requirements.txt" }}
       - run:
+          name: Run tests
+          command: |
+            . venv/bin/activate
+            nosetests .
+      - run:
           name: Remove existing data files
           command: |
             rm data/{repertoires,organisations}/csv/*.csv
