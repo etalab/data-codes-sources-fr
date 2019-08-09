@@ -21,7 +21,7 @@ class Detector(object):
                 self.data[row["domain_name"]] = row["platform"]
 
     def save_swh_data(self):
-        self.swh.save()
+        self.swh.save_data()
 
     def find_domain(self, url):
         for domain in self.data:
@@ -49,7 +49,6 @@ class Detector(object):
         platform = self.find_platform(url)
         org_name = url.rstrip("/").split("/")[-1]
         base_url = self.platform_base_url(url)
-        print(platform, org_name, base_url)
         if platform == "github":
             return GitHubOrg(org_name, self.swh, base_url)
         elif platform == "gitlab":
