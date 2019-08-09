@@ -153,7 +153,7 @@ https://github.com/BRGM/registry-core,False
 https://github.com/BaseAdresseNationale/api-gestion,True
 https://github.com/BaseAdresseNationale/ban,True
 https://github.com/BaseAdresseNationale/charte-experimentation-2017,False
-https://github.com/BaseAdresseNationale/donnees-initiales-2018,False
+https://github.com/BaseAdresseNationale/donnees-initiales-2018,True
 https://github.com/BaseAdresseNationale/script_divers,True
 https://github.com/CEA-LIST/CinguParam,False
 https://github.com/CEA-LIST/Cingulata,True
@@ -245,7 +245,7 @@ https://github.com/DGAC/nmb2b-client-js-example,True
 https://github.com/DGAC/nmb2b-phpclient,False
 https://github.com/DGAC/simupaye,False
 https://github.com/DGFiP/Test-Compta-Demat,True
-https://github.com/DISIC/GMR,False
+https://github.com/DISIC/GMR,True
 https://github.com/DISIC/GMR-sandbox,False
 https://github.com/DISIC/Test-Compta-Demat,True
 https://github.com/DISIC/XWiki-cerfa-numerique,False
@@ -631,7 +631,7 @@ https://github.com/OCSInventory-NG/packages,True
 https://github.com/OPIDoR/DMPOPIDoR,True
 https://github.com/OPIDoR/DMPonline_v4,True
 https://github.com/OpenCTI-Platform/client-python,False
-https://github.com/OpenCTI-Platform/connectors,False
+https://github.com/OpenCTI-Platform/connectors,True
 https://github.com/OpenCTI-Platform/datasets,False
 https://github.com/OpenCTI-Platform/docker,False
 https://github.com/OpenCTI-Platform/docs,False
@@ -687,7 +687,7 @@ https://github.com/PnX-SI/gn_mobile_core,False
 https://github.com/PnX-SI/gn_mobile_maps,False
 https://github.com/PnX-SI/gn_mobile_occtax,True
 https://github.com/PnX-SI/gn_mobile_sft,False
-https://github.com/PnX-SI/gn_module_cmr,False
+https://github.com/PnX-SI/gn_module_cmr,True
 https://github.com/PnX-SI/gn_module_dashboard,False
 https://github.com/PnX-SI/gn_module_export,True
 https://github.com/PnX-SI/gn_module_flore_prioritaire,True
@@ -1029,7 +1029,7 @@ https://github.com/betagouv/mdph,True
 https://github.com/betagouv/mdph-evaluation,False
 https://github.com/betagouv/mdph-geva-etl,False
 https://github.com/betagouv/mdph-redirect,False
-https://github.com/betagouv/mes-aides-analytics,False
+https://github.com/betagouv/mes-aides-analytics,True
 https://github.com/betagouv/mes-aides-api,False
 https://github.com/betagouv/mes-aides-campaign,False
 https://github.com/betagouv/mes-aides-docker,False
@@ -1044,7 +1044,7 @@ https://github.com/betagouv/mpal,False
 https://github.com/betagouv/mpal-deploy,False
 https://github.com/betagouv/mpal-rod,False
 https://github.com/betagouv/mrs,True
-https://github.com/betagouv/nir_validate,False
+https://github.com/betagouv/nir_validate,True
 https://github.com/betagouv/normalized-data-state,False
 https://github.com/betagouv/open-academie,True
 https://github.com/betagouv/open-academie-old,False
@@ -1284,7 +1284,7 @@ https://github.com/clipos/assets_crates-io,False
 https://github.com/clipos/assets_debian,False
 https://github.com/clipos/assets_distfiles,False
 https://github.com/clipos/assets_gentoo,False
-https://github.com/clipos/assets_toolkit,False
+https://github.com/clipos/assets_toolkit,True
 https://github.com/clipos/bugs,False
 https://github.com/clipos/buildbot,False
 https://github.com/clipos/clipos.github.io,True
@@ -1430,7 +1430,7 @@ https://github.com/entrepreneur-interet-general/standup,False
 https://github.com/entrepreneur-interet-general/suivi_auto,False
 https://github.com/entrepreneur-interet-general/tf-han,False
 https://github.com/entrepreneur-interet-general/tf-idf_poc,False
-https://github.com/entrepreneur-interet-general/the-magical-csv-merge-machine,False
+https://github.com/entrepreneur-interet-general/the-magical-csv-merge-machine,True
 https://github.com/entrepreneur-interet-general/tutos-2018,True
 https://github.com/entrepreneur-interet-general/vue-python-starter-kit,False
 https://github.com/entrepreneur-interet-general/word_convertor,False
@@ -1609,7 +1609,7 @@ https://github.com/etalab/fantoir-parser,False
 https://github.com/etalab/format-commande-publique,True
 https://github.com/etalab/format-subventions,True
 https://github.com/etalab/fr-bounding-boxes,True
-https://github.com/etalab/franceconnect-rne,False
+https://github.com/etalab/franceconnect-rne,True
 https://github.com/etalab/fridaylab,True
 https://github.com/etalab/gazetteer,False
 https://github.com/etalab/geo.api.gouv.fr,False
@@ -1671,7 +1671,7 @@ https://github.com/etalab/schema-irve,False
 https://github.com/etalab/schema-lieux-covoiturage,False
 https://github.com/etalab/schema.data.gouv.fr,True
 https://github.com/etalab/scpc-as-api,True
-https://github.com/etalab/secateur,False
+https://github.com/etalab/secateur,True
 https://github.com/etalab/sirene,False
 https://github.com/etalab/sirene_as_api,True
 https://github.com/etalab/sirene_as_api_ansible,False
@@ -1753,7 +1753,7 @@ https://github.com/indsante/schema-snds,False
 https://github.com/linbox-team/fflas-ffpack,True
 https://github.com/linbox-team/givaro,True
 https://github.com/linbox-team/linbox,True
-https://github.com/linbox-team/linbox-team.github.io,False
+https://github.com/linbox-team/linbox-team.github.io,True
 https://github.com/messagerie-melanie2/AioMDA,True
 https://github.com/messagerie-melanie2/Mon4ocf,True
 https://github.com/messagerie-melanie2/ORM-M2,True
