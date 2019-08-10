@@ -147,7 +147,7 @@ https://github.com/BRGM/geothermal-test-cases,True
 https://github.com/BRGM/gml_application_schema_toolbox,True
 https://github.com/BRGM/gmlib,True
 https://github.com/BRGM/hubeau,True
-https://github.com/BRGM/plouf,False
+https://github.com/BRGM/plouf,True
 https://github.com/BRGM/razorback,True
 https://github.com/BRGM/registry-core,False
 https://github.com/BaseAdresseNationale/api-gestion,True
@@ -205,7 +205,7 @@ https://github.com/CEREMA/dtermed.virtualdesktop,False
 https://github.com/CEREMA/dtermed.webapp.bpclight,False
 https://github.com/CEREMA/dtermed.webapp.ecureuil,False
 https://github.com/CEREMA/dtermed.webapp.rivages,True
-https://github.com/CEREMA/dterso.pluginQgis.CeremaCartEau,False
+https://github.com/CEREMA/dterso.pluginQgis.CeremaCartEau,True
 https://github.com/CEREMA/dterso.pluginQgis3.CeremaCartEau3,False
 https://github.com/CEREMA/rivages-android,False
 https://github.com/CEREMA/territoires-ville.DiagFeux,False
@@ -381,7 +381,7 @@ https://github.com/INSIDE-information-systems/EnvironmentalSemanticWeb,True
 https://github.com/INSIDE-information-systems/HydrogeologyWxS,False
 https://github.com/INSIDE-information-systems/RiverNetworkWPS,False
 https://github.com/INSIDE-information-systems/SensorThingsAPI,False
-https://github.com/INSIDE-information-systems/TheHeart,False
+https://github.com/INSIDE-information-systems/TheHeart,True
 https://github.com/INSIDE-information-systems/WFS3,False
 https://github.com/INSIDE-information-systems/WatershedWPS,False
 https://github.com/INSIDE-information-systems/wfd2018,True
@@ -586,7 +586,7 @@ https://github.com/MTES-MCT/filharmonic-api,True
 https://github.com/MTES-MCT/filharmonic-infrastructure,False
 https://github.com/MTES-MCT/filharmonic-ui,False
 https://github.com/MTES-MCT/fluctuat,False
-https://github.com/MTES-MCT/fluctuat-apidoc,False
+https://github.com/MTES-MCT/fluctuat-apidoc,True
 https://github.com/MTES-MCT/geo-communes-api,False
 https://github.com/MTES-MCT/geostatis,True
 https://github.com/MTES-MCT/invasivalerte,False
@@ -766,7 +766,7 @@ https://github.com/SocialGouv/code-du-travail-numerique2,True
 https://github.com/SocialGouv/code-du-travail-scenarios,False
 https://github.com/SocialGouv/code-du-travail-slides,True
 https://github.com/SocialGouv/code-du-travail-ui,True
-https://github.com/SocialGouv/conventions-collectives,False
+https://github.com/SocialGouv/conventions-collectives,True
 https://github.com/SocialGouv/datafiller,True
 https://github.com/SocialGouv/dila-api-client,False
 https://github.com/SocialGouv/dila-tests-api,False
@@ -779,7 +779,7 @@ https://github.com/SocialGouv/ds-dashboard,False
 https://github.com/SocialGouv/eMJPM-api,True
 https://github.com/SocialGouv/eMJPM-app,True
 https://github.com/SocialGouv/eMJPM-doc,True
-https://github.com/SocialGouv/eMJPM-homepage,False
+https://github.com/SocialGouv/eMJPM-homepage,True
 https://github.com/SocialGouv/egapro,False
 https://github.com/SocialGouv/emjpm,False
 https://github.com/SocialGouv/emjpm-design,False
@@ -960,7 +960,7 @@ https://github.com/betagouv/api-auth,False
 https://github.com/betagouv/api-caf,False
 https://github.com/betagouv/api-cpa,False
 https://github.com/betagouv/api-drones,False
-https://github.com/betagouv/api-medicaments,False
+https://github.com/betagouv/api-medicaments,True
 https://github.com/betagouv/api-particulier,True
 https://github.com/betagouv/api-particulier-auth,True
 https://github.com/betagouv/api-particulier-demo-traces,False
@@ -1297,7 +1297,7 @@ https://github.com/clipos/src_platform_config-linux-hardware,True
 https://github.com/clipos/src_platform_portage-derive,False
 https://github.com/clipos/src_portage_clipos,False
 https://github.com/clipos/src_portage_gentoo,True
-https://github.com/clipos/toolkit,False
+https://github.com/clipos/toolkit,True
 https://github.com/communaute-cimi/PFLAU-Viz,True
 https://github.com/communaute-cimi/devstack-vagrant,True
 https://github.com/communaute-cimi/geocodeComp,True
@@ -1434,7 +1434,7 @@ https://github.com/entrepreneur-interet-general/the-magical-csv-merge-machine,Tr
 https://github.com/entrepreneur-interet-general/tutos-2018,True
 https://github.com/entrepreneur-interet-general/vue-python-starter-kit,False
 https://github.com/entrepreneur-interet-general/word_convertor,False
-https://github.com/eole/addon-context-linux,False
+https://github.com/eole/addon-context-linux,True
 https://github.com/eole/dhcpd-formula,False
 https://github.com/eole/docs,True
 https://github.com/eole/e-auth,True
@@ -1621,7 +1621,7 @@ https://github.com/etalab/geoids,True
 https://github.com/etalab/geologos,True
 https://github.com/etalab/geozones,True
 https://github.com/etalab/gpu-jpeg2k,True
-https://github.com/etalab/guide-juridique-logiciel-libre,False
+https://github.com/etalab/guide-juridique-logiciel-libre,True
 https://github.com/etalab/guide-juridique-open-data,False
 https://github.com/etalab/hackdash,True
 https://github.com/etalab/id.data.gouv.fr,True
@@ -1725,7 +1725,7 @@ https://github.com/geodatagouv/link-analyzer,False
 https://github.com/geodatagouv/link-proxy,True
 https://github.com/geodatagouv/parsers,False
 https://github.com/geodatagouv/plunger,True
-https://github.com/geodatagouv/transcoder,False
+https://github.com/geodatagouv/transcoder,True
 https://github.com/geodatagouv/wfs-client,True
 https://github.com/histovec/histovec-beta,True
 https://github.com/histovec/mock-up,True
@@ -2040,7 +2040,7 @@ https://github.com/wookey-project/driver-ili9341,False
 https://github.com/wookey-project/driver-stm32f4x9-cryp,False
 https://github.com/wookey-project/driver-stm32f4xx-flash,False
 https://github.com/wookey-project/driver-stm32f4xx-hash,False
-https://github.com/wookey-project/driver-stm32f4xx-iso7816,False
+https://github.com/wookey-project/driver-stm32f4xx-iso7816,True
 https://github.com/wookey-project/driver-stm32f4xx-sdio,False
 https://github.com/wookey-project/driver-stm32f4xx-spi,False
 https://github.com/wookey-project/driver-stm32f4xx-usart,False
