@@ -29,7 +29,7 @@ dtermed.db.bpclight,CEREMA,GitHub,https://github.com/CEREMA/dtermed.db.bpclight,
 dtermed.db.cerema.vibren,CEREMA,GitHub,https://github.com/CEREMA/dtermed.db.cerema.vibren,,False,False,2017-04-08T21:10:01Z,2018-06-08T11:04:09Z,,0,0,,0,,,False,
 dtermed.sysiphe,CEREMA,GitHub,https://github.com/CEREMA/dtermed.sysiphe,Gestion du matériel informatique,False,False,2017-09-24T18:53:30Z,2018-06-08T11:02:36Z,,0,0,,0,JavaScript,,False,
 dtermed.bpcmobile,CEREMA,GitHub,https://github.com/CEREMA/dtermed.bpcmobile,BPCMobile (work in progress),False,False,2017-10-13T21:03:55Z,2018-06-08T11:01:29Z,,0,0,,0,TypeScript,,False,
-dtermed.rivages-old,CEREMA,GitHub,https://github.com/CEREMA/dtermed.rivages-old,Rivages,False,False,2017-12-11T17:39:01Z,2018-06-08T11:00:52Z,,0,0,,0,JavaScript,,False,
+dtermed.rivages-old,CEREMA,GitHub,https://github.com/CEREMA/dtermed.rivages-old,Rivages,False,False,2017-12-11T17:39:01Z,2018-06-08T11:00:52Z,,0,0,,0,JavaScript,,True,https://archive.softwareheritage.org/browse/origin/https://github.com/CEREMA/dtermed.rivages-old/directory/
 dtermed.ecureuilmobile,CEREMA,GitHub,https://github.com/CEREMA/dtermed.ecureuilmobile,Ecureuil Mobile,False,False,2018-01-16T12:56:02Z,2018-06-08T10:54:15Z,,0,0,,0,JavaScript,,False,
 dtermed.ecureuilmobile2,CEREMA,GitHub,https://github.com/CEREMA/dtermed.ecureuilmobile2,Gestion des appels d'offres (version mobile),False,False,2018-03-03T21:31:49Z,2018-06-08T10:53:50Z,,0,0,,0,JavaScript,,False,
 dtermed.rivages,CEREMA,GitHub,https://github.com/CEREMA/dtermed.rivages,,False,False,2018-03-23T07:37:06Z,2018-06-08T09:30:12Z,,0,0,,0,JavaScript,,False,

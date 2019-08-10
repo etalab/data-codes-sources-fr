@@ -84,7 +84,7 @@ https://github.com/ARCEP-dev/disPorts,False
 https://github.com/ARCEP-dev/geocodage_ban,False
 https://github.com/ARCEP-dev/monReseauMobile,True
 https://github.com/ARCEP-dev/regex,False
-https://github.com/ARCEP-dev/route500_improved,False
+https://github.com/ARCEP-dev/route500_improved,True
 https://github.com/ARCEP-dev/schemas,False
 https://github.com/ARCEP-dev/testDebitMire,False
 https://github.com/AlsaceDigitale/2012.edgefest.fr,True
@@ -143,7 +143,7 @@ https://github.com/BRGM/cgal,False
 https://github.com/BRGM/core-geonetwork,True
 https://github.com/BRGM/daobs,True
 https://github.com/BRGM/external_file,True
-https://github.com/BRGM/geothermal-test-cases,False
+https://github.com/BRGM/geothermal-test-cases,True
 https://github.com/BRGM/gml_application_schema_toolbox,True
 https://github.com/BRGM/gmlib,True
 https://github.com/BRGM/hubeau,True
@@ -194,7 +194,7 @@ https://github.com/CEREMA/dtermed.mobile.ecureuil,False
 https://github.com/CEREMA/dtermed.owncloud,False
 https://github.com/CEREMA/dtermed.preshume,False
 https://github.com/CEREMA/dtermed.rivages,False
-https://github.com/CEREMA/dtermed.rivages-old,False
+https://github.com/CEREMA/dtermed.rivages-old,True
 https://github.com/CEREMA/dtermed.sapei,False
 https://github.com/CEREMA/dtermed.sysiphe,False
 https://github.com/CEREMA/dtermed.sysiphe-old,False
@@ -688,7 +688,7 @@ https://github.com/PnX-SI/gn_mobile_maps,False
 https://github.com/PnX-SI/gn_mobile_occtax,True
 https://github.com/PnX-SI/gn_mobile_sft,False
 https://github.com/PnX-SI/gn_module_cmr,True
-https://github.com/PnX-SI/gn_module_dashboard,False
+https://github.com/PnX-SI/gn_module_dashboard,True
 https://github.com/PnX-SI/gn_module_export,True
 https://github.com/PnX-SI/gn_module_flore_prioritaire,True
 https://github.com/PnX-SI/gn_module_import,False
@@ -749,7 +749,7 @@ https://github.com/SGMAP-AGD/tidydata-defm,True
 https://github.com/SGMAP-AGD/wiki_agd,True
 https://github.com/SocialGouv/UDD,False
 https://github.com/SocialGouv/annuaire-mjpm,True
-https://github.com/SocialGouv/ansible-kubeadm-cluster,False
+https://github.com/SocialGouv/ansible-kubeadm-cluster,True
 https://github.com/SocialGouv/app-nextjs-node-ts,False
 https://github.com/SocialGouv/archifiltre,False
 https://github.com/SocialGouv/bootstrap,False
@@ -989,7 +989,7 @@ https://github.com/betagouv/competences-pro-orchestrateur,False
 https://github.com/betagouv/competences-pro-serveur,False
 https://github.com/betagouv/competences-pro-www,False
 https://github.com/betagouv/compta,False
-https://github.com/betagouv/cout-embauche,False
+https://github.com/betagouv/cout-embauche,True
 https://github.com/betagouv/dashboard_apientreprise,False
 https://github.com/betagouv/dds-cross-simulator,True
 https://github.com/betagouv/demarches-simplifiees.fr,False
@@ -1173,7 +1173,7 @@ https://github.com/cea-sec/TorPylle,True
 https://github.com/cea-sec/hairgap,True
 https://github.com/cea-sec/ivre,True
 https://github.com/cea-sec/miasm,True
-https://github.com/cea-sec/miasm-extended-tests,False
+https://github.com/cea-sec/miasm-extended-tests,True
 https://github.com/clipos-archive/clipos4_artifacts,False
 https://github.com/clipos-archive/clipos4_distfiles,False
 https://github.com/clipos-archive/clipos4_doc,False
@@ -1330,7 +1330,7 @@ https://github.com/culturecommunication/ginco-diff,True
 https://github.com/cw-leia/chipwhisperer,False
 https://github.com/cw-leia/chipwhisperer-target-cw308t,True
 https://github.com/cw-leia/cw-leia-standalone-firmware,False
-https://github.com/cw-leia/cw-leia-standalone-hard,False
+https://github.com/cw-leia/cw-leia-standalone-hard,True
 https://github.com/dinsic-pim/Tchap-artwork,False
 https://github.com/dinsic-pim/matrix-react-sdk,True
 https://github.com/dinsic-pim/tchap-android,True
@@ -1520,7 +1520,7 @@ https://github.com/etalab/agefiph_worker_api_entreprise,False
 https://github.com/etalab/agenda-tech-ext,True
 https://github.com/etalab/algorithmes-publics,False
 https://github.com/etalab/api-bal,True
-https://github.com/etalab/api-geo,False
+https://github.com/etalab/api-geo,True
 https://github.com/etalab/api-rpg,True
 https://github.com/etalab/api-urbanisme,True
 https://github.com/etalab/apicarto,False
@@ -1632,7 +1632,7 @@ https://github.com/etalab/js-normadresse,True
 https://github.com/etalab/labels-and-roads,True
 https://github.com/etalab/labonneboite,True
 https://github.com/etalab/landing-page,True
-https://github.com/etalab/licence-ouverte,False
+https://github.com/etalab/licence-ouverte,True
 https://github.com/etalab/lois-non-codifiees-et-reglements-francais,True
 https://github.com/etalab/majic,True
 https://github.com/etalab/mastodon-stats,True
@@ -1728,7 +1728,7 @@ https://github.com/geodatagouv/plunger,True
 https://github.com/geodatagouv/transcoder,False
 https://github.com/geodatagouv/wfs-client,True
 https://github.com/histovec/histovec-beta,True
-https://github.com/histovec/mock-up,False
+https://github.com/histovec/mock-up,True
 https://github.com/histovec/slides,False
 https://github.com/ia-flash/app,False
 https://github.com/ia-flash/demo,False
@@ -2081,7 +2081,7 @@ https://gitlab.com/healthdatahub/programmes-sdns,False
 https://gitlab.com/healthdatahub/schema-snds,False
 https://gitlab.com/healthdatahub/tsfaker,False
 https://gitlab.com/pidila/checklist-pidila,False
-https://gitlab.com/pidila/kit-module-scampi,False
+https://gitlab.com/pidila/kit-module-scampi,True
 https://gitlab.com/pidila/kit-sprite-svg,False
 https://gitlab.com/pidila/pidila.gitlab.io,False
 https://gitlab.com/pidila/scampi,False
