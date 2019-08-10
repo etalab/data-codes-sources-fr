@@ -188,10 +188,10 @@ https://github.com/CEREMA/dtermed.ecureuilmobile,False
 https://github.com/CEREMA/dtermed.ecureuilmobile2,False
 https://github.com/CEREMA/dtermed.faveur,False
 https://github.com/CEREMA/dtermed.formulaires,False
-https://github.com/CEREMA/dtermed.goprro,False
+https://github.com/CEREMA/dtermed.goprro,True
 https://github.com/CEREMA/dtermed.infocentre,False
 https://github.com/CEREMA/dtermed.mobile.ecureuil,False
-https://github.com/CEREMA/dtermed.owncloud,False
+https://github.com/CEREMA/dtermed.owncloud,True
 https://github.com/CEREMA/dtermed.preshume,False
 https://github.com/CEREMA/dtermed.rivages,False
 https://github.com/CEREMA/dtermed.rivages-old,True
@@ -279,7 +279,7 @@ https://github.com/DISIC/politique-de-contribution-open-source,True
 https://github.com/DISIC/referentiel-cms,True
 https://github.com/DISIC/referentiel-mobile-tactile,True
 https://github.com/DISIC/referentiel_redaction-langage-simplifie,True
-https://github.com/DISIC/rgaa,False
+https://github.com/DISIC/rgaa,True
 https://github.com/DISIC/rgaa-apps,True
 https://github.com/DISIC/rgaa-test-suite,True
 https://github.com/DISIC/rgaa_angular-bootstrap,True
@@ -789,7 +789,7 @@ https://github.com/SocialGouv/faq-code-du-travail,True
 https://github.com/SocialGouv/fce,False
 https://github.com/SocialGouv/jest-environment-knex,False
 https://github.com/SocialGouv/kali-data,False
-https://github.com/SocialGouv/kaligator,False
+https://github.com/SocialGouv/kaligator,True
 https://github.com/SocialGouv/legi-postgres,False
 https://github.com/SocialGouv/legixplore,False
 https://github.com/SocialGouv/letor-scores,False
@@ -1013,7 +1013,7 @@ https://github.com/betagouv/grafana-scalingo,False
 https://github.com/betagouv/heroku-buildpack-ruby,True
 https://github.com/betagouv/i18nliner-js,True
 https://github.com/betagouv/ilos,False
-https://github.com/betagouv/impact-tests,False
+https://github.com/betagouv/impact-tests,True
 https://github.com/betagouv/itou,False
 https://github.com/betagouv/kong-delegateAuth,False
 https://github.com/betagouv/la-sass-vy,False
@@ -1023,7 +1023,7 @@ https://github.com/betagouv/leximpact-server,False
 https://github.com/betagouv/logstash-boilerplate,False
 https://github.com/betagouv/ludwig,False
 https://github.com/betagouv/ludwig-api,False
-https://github.com/betagouv/ludwig-ui,False
+https://github.com/betagouv/ludwig-ui,True
 https://github.com/betagouv/mas,True
 https://github.com/betagouv/mdph,True
 https://github.com/betagouv/mdph-evaluation,False
@@ -1331,7 +1331,7 @@ https://github.com/cw-leia/chipwhisperer,False
 https://github.com/cw-leia/chipwhisperer-target-cw308t,True
 https://github.com/cw-leia/cw-leia-standalone-firmware,False
 https://github.com/cw-leia/cw-leia-standalone-hard,True
-https://github.com/dinsic-pim/Tchap-artwork,False
+https://github.com/dinsic-pim/Tchap-artwork,True
 https://github.com/dinsic-pim/matrix-react-sdk,True
 https://github.com/dinsic-pim/tchap-android,True
 https://github.com/dinsic-pim/tchap-ios,True
@@ -1568,7 +1568,7 @@ https://github.com/etalab/contribution-adresse,True
 https://github.com/etalab/couverture-urbanisme,False
 https://github.com/etalab/cowbots,True
 https://github.com/etalab/csv-gg,False
-https://github.com/etalab/csv2html,False
+https://github.com/etalab/csv2html,True
 https://github.com/etalab/csv_detective,True
 https://github.com/etalab/dactylo,True
 https://github.com/etalab/dashboard_api_entreprise,True
@@ -1612,7 +1612,7 @@ https://github.com/etalab/fr-bounding-boxes,True
 https://github.com/etalab/franceconnect-rne,True
 https://github.com/etalab/fridaylab,True
 https://github.com/etalab/gazetteer,True
-https://github.com/etalab/geo.api.gouv.fr,False
+https://github.com/etalab/geo.api.gouv.fr,True
 https://github.com/etalab/geo.data.gouv.fr,True
 https://github.com/etalab/geo.data.gouv.fr-components,True
 https://github.com/etalab/geoapi,False
@@ -1640,7 +1640,7 @@ https://github.com/etalab/mediawiki-etalab-skin,True
 https://github.com/etalab/monReseauMobile,True
 https://github.com/etalab/monuments-historiques,False
 https://github.com/etalab/munin-plugins,True
-https://github.com/etalab/munin-theme,False
+https://github.com/etalab/munin-theme,True
 https://github.com/etalab/normadresse,True
 https://github.com/etalab/notebooks,False
 https://github.com/etalab/ofsearch,True
@@ -1711,7 +1711,7 @@ https://github.com/fabnumdef/e-chauffeur,False
 https://github.com/fabnumdef/e-chauffeur_api,True
 https://github.com/fabnumdef/e-chauffeur_dashboard,True
 https://github.com/fabnumdef/e-chauffeur_driver,False
-https://github.com/fabnumdef/e-chauffeur_lib-vue,False
+https://github.com/fabnumdef/e-chauffeur_lib-vue,True
 https://github.com/fabnumdef/e-chauffeur_user,False
 https://github.com/fabnumdef/fabnumdef.d3,False
 https://github.com/fabnumdef/fabnumdef.github.io,False
@@ -1781,7 +1781,7 @@ https://github.com/messagerie-melanie2/Roundcube-Skin-Melanie2-Larry-Mobile,True
 https://github.com/messagerie-melanie2/Roundcube-plugins-Mel,False
 https://github.com/messagerie-melanie2/SabreDAVM2,True
 https://github.com/meteofrance/formation-deep-learning,False
-https://github.com/meteofrance/meteofrance.github.io,False
+https://github.com/meteofrance/meteofrance.github.io,True
 https://github.com/micmacIGN/Documentation,True
 https://github.com/micmacIGN/InterfaceCEREMA,True
 https://github.com/micmacIGN/Papers,True
