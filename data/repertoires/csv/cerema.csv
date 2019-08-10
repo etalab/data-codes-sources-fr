@@ -3,7 +3,7 @@ dtermed.dashboard,CEREMA,GitHub,https://github.com/CEREMA/dtermed.dashboard,Suiv
 dtermed.annuaire,CEREMA,GitHub,https://github.com/CEREMA/dtermed.annuaire,Annuaire CEREMA DTerMed,False,False,2014-10-07T14:46:14Z,2018-06-08T11:10:35Z,,0,0,,0,JavaScript,,False,
 dtermed.ecureuil,CEREMA,GitHub,https://github.com/CEREMA/dtermed.ecureuil,Gestion des appels d'offres,False,False,2014-10-08T08:35:40Z,2018-06-08T11:10:17Z,,0,0,,2,JavaScript,,False,
 dtermed.cerema-info,CEREMA,GitHub,https://github.com/CEREMA/dtermed.cerema-info,CEREMA Info (publisher),False,False,2014-12-19T08:02:49Z,2018-06-11T10:26:53Z,,0,0,,0,JavaScript,,False,
-dtermed-ceremao,CEREMA,GitHub,https://github.com/CEREMA/dtermed-ceremao,Gestion des appels d'offres mobiles,False,False,2015-01-29T14:41:31Z,2019-01-20T18:10:26Z,,0,0,,0,JavaScript,,False,
+dtermed-ceremao,CEREMA,GitHub,https://github.com/CEREMA/dtermed-ceremao,Gestion des appels d'offres mobiles,False,False,2015-01-29T14:41:31Z,2019-01-20T18:10:26Z,,0,0,,0,JavaScript,,True,https://archive.softwareheritage.org/browse/origin/https://github.com/CEREMA/dtermed-ceremao/directory/
 dtermed.bpclight-old,CEREMA,GitHub,https://github.com/CEREMA/dtermed.bpclight-old,Base de données centralisée du personnel,False,False,2015-01-29T16:35:06Z,2018-06-25T14:04:06Z,,0,0,,0,JavaScript,,False,
 com.cerema.infocentre_old,CEREMA,GitHub,https://github.com/CEREMA/com.cerema.infocentre_old,CEREMA Infocentre,False,False,2015-02-09T13:54:27Z,2015-06-02T08:46:27Z,,0,0,,0,JavaScript,,True,https://archive.softwareheritage.org/browse/origin/https://github.com/CEREMA/com.cerema.infocentre_old/directory/
 dtermed.mobile.ecureuil,CEREMA,GitHub,https://github.com/CEREMA/dtermed.mobile.ecureuil,Projet mobile ecureuil,False,False,2015-03-06T14:23:58Z,2018-06-11T10:29:26Z,,0,0,,0,HTML,,False,
@@ -24,7 +24,7 @@ dtermed.vibren,CEREMA,GitHub,https://github.com/CEREMA/dtermed.vibren,Projet VIB
 dtermed.bpclight2,CEREMA,GitHub,https://github.com/CEREMA/dtermed.bpclight2,Base du personnel Centralisée,False,False,2016-06-29T20:30:51Z,2018-06-08T11:12:18Z,,0,0,,0,JavaScript,,False,
 dtermed.faveur,CEREMA,GitHub,https://github.com/CEREMA/dtermed.faveur,Faveur,False,False,2016-07-04T06:33:44Z,2018-06-08T11:09:56Z,,0,0,,0,JavaScript,,False,
 dtermed.goprro,CEREMA,GitHub,https://github.com/CEREMA/dtermed.goprro,Suivi des visites des ouvrages de Protection contre les risques rocheux,False,False,2017-03-20T16:21:44Z,2018-06-08T11:06:34Z,,0,0,,0,JavaScript,,False,
-dtermed.sysiphe-old,CEREMA,GitHub,https://github.com/CEREMA/dtermed.sysiphe-old,Gestion du parc informatique,False,False,2017-03-22T14:32:51Z,2018-06-08T11:06:09Z,,0,0,,0,JavaScript,,False,
+dtermed.sysiphe-old,CEREMA,GitHub,https://github.com/CEREMA/dtermed.sysiphe-old,Gestion du parc informatique,False,False,2017-03-22T14:32:51Z,2018-06-08T11:06:09Z,,0,0,,0,JavaScript,,True,https://archive.softwareheritage.org/browse/origin/https://github.com/CEREMA/dtermed.sysiphe-old/directory/
 dtermed.db.bpclight,CEREMA,GitHub,https://github.com/CEREMA/dtermed.db.bpclight,BPCLight sandbox,False,False,2017-04-06T07:43:17Z,2018-06-22T12:29:25Z,,0,0,,0,,,False,
 dtermed.db.cerema.vibren,CEREMA,GitHub,https://github.com/CEREMA/dtermed.db.cerema.vibren,,False,False,2017-04-08T21:10:01Z,2018-06-08T11:04:09Z,,0,0,,0,,,False,
 dtermed.sysiphe,CEREMA,GitHub,https://github.com/CEREMA/dtermed.sysiphe,Gestion du matériel informatique,False,False,2017-09-24T18:53:30Z,2018-06-08T11:02:36Z,,0,0,,0,JavaScript,,False,

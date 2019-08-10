@@ -65,5 +65,5 @@ jest-environment-knex,SocialGouv,GitHub,https://github.com/SocialGouv/jest-envir
 polyfill-service,SocialGouv,GitHub,https://github.com/SocialGouv/polyfill-service,Automatic polyfill service.,True,False,2019-07-23T09:31:41Z,2019-07-23T09:31:44Z,https://polyfill.io/v3/,0,0,MIT License,0,JavaScript,,False,
 emjpm-design,SocialGouv,GitHub,https://github.com/SocialGouv/emjpm-design,Resources design eMJPM,False,False,2019-07-23T14:09:02Z,2019-07-30T13:48:08Z,,0,0,,14,,,False,
 kali-data,SocialGouv,GitHub,https://github.com/SocialGouv/kali-data,,False,False,2019-07-26T08:52:00Z,2019-08-05T14:21:16Z,,0,0,,1,JavaScript,,False,
-meditor,SocialGouv,GitHub,https://github.com/SocialGouv/meditor,MDX-based Editor and Previewer for React.,False,False,2019-08-02T15:03:54Z,2019-08-09T06:27:42Z,,0,0,Other,1,JavaScript,,False,
+meditor,SocialGouv,GitHub,https://github.com/SocialGouv/meditor,MDX-based Editor and Previewer for React.,False,False,2019-08-02T15:03:54Z,2019-08-10T10:54:13Z,,0,0,Other,0,JavaScript,,False,
 emjpm-design-system,SocialGouv,GitHub,https://github.com/SocialGouv/emjpm-design-system,Design system for emjpm based on rebass emotion and theme-ui,False,False,2019-08-05T19:41:00Z,2019-08-09T15:38:36Z,https://emjpm-design-system.netlify.com,0,0,Apache License 2.0,1,JavaScript,,False,

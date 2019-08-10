@@ -164,7 +164,7 @@ https://github.com/CEA-Leti/wsnet,False
 https://github.com/CEREMA/com.cerema.infocentre_old,True
 https://github.com/CEREMA/dsi.adutils,False
 https://github.com/CEREMA/dterce.ressource_covadis,True
-https://github.com/CEREMA/dtermed-ceremao,False
+https://github.com/CEREMA/dtermed-ceremao,True
 https://github.com/CEREMA/dtermed.ML_bati_non-bati,False
 https://github.com/CEREMA/dtermed.MobiTC,False
 https://github.com/CEREMA/dtermed.MobiTC2,False
@@ -197,7 +197,7 @@ https://github.com/CEREMA/dtermed.rivages,False
 https://github.com/CEREMA/dtermed.rivages-old,True
 https://github.com/CEREMA/dtermed.sapei,False
 https://github.com/CEREMA/dtermed.sysiphe,False
-https://github.com/CEREMA/dtermed.sysiphe-old,False
+https://github.com/CEREMA/dtermed.sysiphe-old,True
 https://github.com/CEREMA/dtermed.ticket,False
 https://github.com/CEREMA/dtermed.ticket2,False
 https://github.com/CEREMA/dtermed.vibren,False
@@ -384,7 +384,7 @@ https://github.com/INSIDE-information-systems/SensorThingsAPI,False
 https://github.com/INSIDE-information-systems/TheHeart,False
 https://github.com/INSIDE-information-systems/WFS3,False
 https://github.com/INSIDE-information-systems/WatershedWPS,False
-https://github.com/INSIDE-information-systems/wfd2018,False
+https://github.com/INSIDE-information-systems/wfd2018,True
 https://github.com/Inist-CNRS/KitGPEC,True
 https://github.com/Inist-CNRS/MetHAL,True
 https://github.com/Inist-CNRS/RefGPEC,True
@@ -682,7 +682,7 @@ https://github.com/PnX-SI/Ressources-techniques,True
 https://github.com/PnX-SI/TaxHub,True
 https://github.com/PnX-SI/UsersHub,False
 https://github.com/PnX-SI/UsersHub-authentification-module,True
-https://github.com/PnX-SI/Virtualia-connect,False
+https://github.com/PnX-SI/Virtualia-connect,True
 https://github.com/PnX-SI/gn_mobile_core,False
 https://github.com/PnX-SI/gn_mobile_maps,False
 https://github.com/PnX-SI/gn_mobile_occtax,True
@@ -947,7 +947,7 @@ https://github.com/betagouv/Aidants_Connect,False
 https://github.com/betagouv/ClasseA12,False
 https://github.com/betagouv/Element.details,False
 https://github.com/betagouv/OpenFiscaFrance.jl,False
-https://github.com/betagouv/OpenLawEditor,False
+https://github.com/betagouv/OpenLawEditor,True
 https://github.com/betagouv/PeerTube,False
 https://github.com/betagouv/admin-traitdunion,False
 https://github.com/betagouv/allegement-fillon,False
@@ -1024,7 +1024,7 @@ https://github.com/betagouv/logstash-boilerplate,False
 https://github.com/betagouv/ludwig,False
 https://github.com/betagouv/ludwig-api,False
 https://github.com/betagouv/ludwig-ui,False
-https://github.com/betagouv/mas,False
+https://github.com/betagouv/mas,True
 https://github.com/betagouv/mdph,True
 https://github.com/betagouv/mdph-evaluation,False
 https://github.com/betagouv/mdph-geva-etl,False
@@ -1042,7 +1042,7 @@ https://github.com/betagouv/meteor-assemblee-nationale,False
 https://github.com/betagouv/monstage,False
 https://github.com/betagouv/mpal,False
 https://github.com/betagouv/mpal-deploy,False
-https://github.com/betagouv/mpal-rod,False
+https://github.com/betagouv/mpal-rod,True
 https://github.com/betagouv/mrs,True
 https://github.com/betagouv/nir_validate,True
 https://github.com/betagouv/normalized-data-state,False
@@ -1335,7 +1335,7 @@ https://github.com/dinsic-pim/Tchap-artwork,False
 https://github.com/dinsic-pim/matrix-react-sdk,True
 https://github.com/dinsic-pim/tchap-android,True
 https://github.com/dinsic-pim/tchap-ios,True
-https://github.com/dinsic-pim/tchap-web,False
+https://github.com/dinsic-pim/tchap-web,True
 https://github.com/diplomatiegouvfr/applitutoriel-js,True
 https://github.com/diplomatiegouvfr/applitutoriel-modules,True
 https://github.com/diplomatiegouvfr/applitutoriel-online,True
@@ -1611,7 +1611,7 @@ https://github.com/etalab/format-subventions,True
 https://github.com/etalab/fr-bounding-boxes,True
 https://github.com/etalab/franceconnect-rne,True
 https://github.com/etalab/fridaylab,True
-https://github.com/etalab/gazetteer,False
+https://github.com/etalab/gazetteer,True
 https://github.com/etalab/geo.api.gouv.fr,False
 https://github.com/etalab/geo.data.gouv.fr,True
 https://github.com/etalab/geo.data.gouv.fr-components,True
@@ -1709,7 +1709,7 @@ https://github.com/fabnumdef/GeoGate,False
 https://github.com/fabnumdef/design-system,False
 https://github.com/fabnumdef/e-chauffeur,False
 https://github.com/fabnumdef/e-chauffeur_api,True
-https://github.com/fabnumdef/e-chauffeur_dashboard,False
+https://github.com/fabnumdef/e-chauffeur_dashboard,True
 https://github.com/fabnumdef/e-chauffeur_driver,False
 https://github.com/fabnumdef/e-chauffeur_lib-vue,False
 https://github.com/fabnumdef/e-chauffeur_user,False
@@ -1732,7 +1732,7 @@ https://github.com/histovec/mock-up,True
 https://github.com/histovec/slides,False
 https://github.com/ia-flash/app,False
 https://github.com/ia-flash/demo,False
-https://github.com/ia-flash/matchvec,False
+https://github.com/ia-flash/matchvec,True
 https://github.com/ia-flash/sivnorm,False
 https://github.com/ina-foss/ID-Fits,True
 https://github.com/ina-foss/afp-api-client,True
@@ -1790,7 +1790,7 @@ https://github.com/micmacIGN/micmac,True
 https://github.com/minagri-initial/angular-components,False
 https://github.com/minagri-initial/api.gouv.fr,False
 https://github.com/minagri-initial/arpent-api,False
-https://github.com/minagri-initial/arpent-examen,False
+https://github.com/minagri-initial/arpent-examen,True
 https://github.com/minagri-initial/ift,False
 https://github.com/minagri-initial/ift-api,False
 https://github.com/minagri-initial/sinex-preregistration-dto,False
