@@ -770,7 +770,7 @@ https://github.com/SocialGouv/conventions-collectives,True
 https://github.com/SocialGouv/datafiller,True
 https://github.com/SocialGouv/dila-api-client,False
 https://github.com/SocialGouv/dila-tests-api,False
-https://github.com/SocialGouv/dila2sql,False
+https://github.com/SocialGouv/dila2sql,True
 https://github.com/SocialGouv/docker,False
 https://github.com/SocialGouv/domifa,False
 https://github.com/SocialGouv/ds-aggregator,False
@@ -833,7 +833,7 @@ https://github.com/StartupsPoleEmploi/anotea,True
 https://github.com/StartupsPoleEmploi/avril,True
 https://github.com/StartupsPoleEmploi/baggy,False
 https://github.com/StartupsPoleEmploi/clara,True
-https://github.com/StartupsPoleEmploi/elk-cluster,False
+https://github.com/StartupsPoleEmploi/elk-cluster,True
 https://github.com/StartupsPoleEmploi/geomancie,False
 https://github.com/StartupsPoleEmploi/gerboise,True
 https://github.com/StartupsPoleEmploi/jepostule,False
@@ -843,7 +843,7 @@ https://github.com/StartupsPoleEmploi/labonneboite,True
 https://github.com/StartupsPoleEmploi/memo,True
 https://github.com/StartupsPoleEmploi/mjl-avril,False
 https://github.com/StartupsPoleEmploi/perspectives,True
-https://github.com/StartupsPoleEmploi/qpvzrr,False
+https://github.com/StartupsPoleEmploi/qpvzrr,True
 https://github.com/StartupsPoleEmploi/zen,True
 https://github.com/addok/addocker,True
 https://github.com/addok/addok,True
@@ -1067,7 +1067,7 @@ https://github.com/betagouv/openfisca-tracer,True
 https://github.com/betagouv/openfisca-web-api,True
 https://github.com/betagouv/opensimplif,True
 https://github.com/betagouv/paie-api,True
-https://github.com/betagouv/paie-carto,False
+https://github.com/betagouv/paie-carto,True
 https://github.com/betagouv/paie-editor,False
 https://github.com/betagouv/paie-tests,True
 https://github.com/betagouv/paie-www,False
@@ -1282,14 +1282,14 @@ https://github.com/clipos-archive/src_platform_vsctl,False
 https://github.com/clipos-archive/src_platform_xscreensaver-pwcheck,True
 https://github.com/clipos/assets_crates-io,False
 https://github.com/clipos/assets_debian,False
-https://github.com/clipos/assets_distfiles,False
+https://github.com/clipos/assets_distfiles,True
 https://github.com/clipos/assets_gentoo,False
 https://github.com/clipos/assets_toolkit,True
 https://github.com/clipos/bugs,False
 https://github.com/clipos/buildbot,False
 https://github.com/clipos/clipos.github.io,True
 https://github.com/clipos/docs,True
-https://github.com/clipos/manifest,False
+https://github.com/clipos/manifest,True
 https://github.com/clipos/products_clipos,False
 https://github.com/clipos/src_external_linux,True
 https://github.com/clipos/src_external_systemd,False
@@ -1605,7 +1605,7 @@ https://github.com/etalab/etalab-to-ckan,True
 https://github.com/etalab/etalab.gouv.fr,False
 https://github.com/etalab/etalab.studio,True
 https://github.com/etalab/fantoir,True
-https://github.com/etalab/fantoir-parser,False
+https://github.com/etalab/fantoir-parser,True
 https://github.com/etalab/format-commande-publique,True
 https://github.com/etalab/format-subventions,True
 https://github.com/etalab/fr-bounding-boxes,True
@@ -1966,7 +1966,7 @@ https://github.com/openfun/openfun.github.io,False
 https://github.com/openfun/openshift-docker,False
 https://github.com/openfun/password-container-xblock,True
 https://github.com/openfun/politique-de-contribution-open-source,False
-https://github.com/openfun/poss-2018,False
+https://github.com/openfun/poss-2018,True
 https://github.com/openfun/potsie,False
 https://github.com/openfun/proctoru-xblock,True
 https://github.com/openfun/richie,True
