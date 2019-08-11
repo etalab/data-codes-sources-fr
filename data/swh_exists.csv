@@ -611,7 +611,7 @@ https://github.com/MTES-MCT/udata-doc,False
 https://github.com/MTES-MCT/udata-gouvfr-ecologie,False
 https://github.com/MinistereSupRecherche/dataESR,False
 https://github.com/MinistereSupRecherche/machineadonnees,False
-https://github.com/MinistereSupRecherche/parcoursup,False
+https://github.com/MinistereSupRecherche/parcoursup,True
 https://github.com/MinistereSupRecherche/scanR,False
 https://github.com/OCSInventory-NG/Agent-Deployment-Tool,True
 https://github.com/OCSInventory-NG/AndroidAgent,True
@@ -851,7 +851,7 @@ https://github.com/addok/addok-csv,True
 https://github.com/addok/addok-fr,True
 https://github.com/addok/addok-france,True
 https://github.com/addok/addok-geozones,True
-https://github.com/addok/addok-http-falcon,False
+https://github.com/addok/addok-http-falcon,True
 https://github.com/addok/addok-idcc,True
 https://github.com/addok/addok-openaddresses,True
 https://github.com/addok/addok-psql,True
@@ -979,7 +979,7 @@ https://github.com/betagouv/blog.dossiersco.fr,False
 https://github.com/betagouv/bourses,True
 https://github.com/betagouv/boussole,False
 https://github.com/betagouv/ccas,False
-https://github.com/betagouv/cerfa-form-filler,False
+https://github.com/betagouv/cerfa-form-filler,True
 https://github.com/betagouv/civilsdeladefense,True
 https://github.com/betagouv/co-constuisons-api,True
 https://github.com/betagouv/co-constuisons-bot,True
@@ -1064,9 +1064,9 @@ https://github.com/betagouv/openfisca-parsers,False
 https://github.com/betagouv/openfisca-pau,False
 https://github.com/betagouv/openfisca-rennesmetropole,True
 https://github.com/betagouv/openfisca-tracer,True
-https://github.com/betagouv/openfisca-web-api,False
+https://github.com/betagouv/openfisca-web-api,True
 https://github.com/betagouv/opensimplif,True
-https://github.com/betagouv/paie-api,False
+https://github.com/betagouv/paie-api,True
 https://github.com/betagouv/paie-carto,False
 https://github.com/betagouv/paie-editor,False
 https://github.com/betagouv/paie-tests,True
@@ -1615,7 +1615,7 @@ https://github.com/etalab/gazetteer,True
 https://github.com/etalab/geo.api.gouv.fr,True
 https://github.com/etalab/geo.data.gouv.fr,True
 https://github.com/etalab/geo.data.gouv.fr-components,True
-https://github.com/etalab/geoapi,False
+https://github.com/etalab/geoapi,True
 https://github.com/etalab/geohisto,True
 https://github.com/etalab/geoids,True
 https://github.com/etalab/geologos,True
