@@ -378,7 +378,7 @@ https://github.com/INRIA/spoon,True
 https://github.com/INRIA/tralics,False
 https://github.com/INSIDE-information-systems/CO2emissions_email_plugin,False
 https://github.com/INSIDE-information-systems/EnvironmentalSemanticWeb,True
-https://github.com/INSIDE-information-systems/HydrogeologyWxS,False
+https://github.com/INSIDE-information-systems/HydrogeologyWxS,True
 https://github.com/INSIDE-information-systems/RiverNetworkWPS,False
 https://github.com/INSIDE-information-systems/SensorThingsAPI,False
 https://github.com/INSIDE-information-systems/TheHeart,True
@@ -608,7 +608,7 @@ https://github.com/MTES-MCT/trackdechets,False
 https://github.com/MTES-MCT/trackdechets-datascience,False
 https://github.com/MTES-MCT/trashadvisor,False
 https://github.com/MTES-MCT/udata-doc,False
-https://github.com/MTES-MCT/udata-gouvfr-ecologie,False
+https://github.com/MTES-MCT/udata-gouvfr-ecologie,True
 https://github.com/MinistereSupRecherche/dataESR,False
 https://github.com/MinistereSupRecherche/machineadonnees,False
 https://github.com/MinistereSupRecherche/parcoursup,True
@@ -1007,7 +1007,7 @@ https://github.com/betagouv/eac-api,True
 https://github.com/betagouv/eac-scrapper,False
 https://github.com/betagouv/etudiant-entrepreneur,True
 https://github.com/betagouv/fetch-normalize-data,False
-https://github.com/betagouv/fiches-de-banc,False
+https://github.com/betagouv/fiches-de-banc,True
 https://github.com/betagouv/gps-usagers,False
 https://github.com/betagouv/grafana-scalingo,False
 https://github.com/betagouv/heroku-buildpack-ruby,True
@@ -1108,7 +1108,7 @@ https://github.com/betagouv/react-i18nliner,True
 https://github.com/betagouv/react-loading-infinite-scroller,False
 https://github.com/betagouv/react-reducer-effect-context-data,False
 https://github.com/betagouv/redux-react-modals,False
-https://github.com/betagouv/redux-saga-data,False
+https://github.com/betagouv/redux-saga-data,True
 https://github.com/betagouv/redux-thunk-data,False
 https://github.com/betagouv/retraite,False
 https://github.com/betagouv/role-ansible,False
@@ -1147,7 +1147,7 @@ https://github.com/cea-hpc/fleet,True
 https://github.com/cea-hpc/gct,False
 https://github.com/cea-hpc/glost,True
 https://github.com/cea-hpc/gssapi,False
-https://github.com/cea-hpc/heimdal,False
+https://github.com/cea-hpc/heimdal,True
 https://github.com/cea-hpc/hp2p,True
 https://github.com/cea-hpc/kfs,False
 https://github.com/cea-hpc/krb5,False
@@ -1276,7 +1276,7 @@ https://github.com/clipos-archive/src_platform_usb-printer-devices,False
 https://github.com/clipos-archive/src_platform_usb-scanner-devices,False
 https://github.com/clipos-archive/src_platform_usb-video-devices,False
 https://github.com/clipos-archive/src_platform_userd,False
-https://github.com/clipos-archive/src_platform_vaultguard,False
+https://github.com/clipos-archive/src_platform_vaultguard,True
 https://github.com/clipos-archive/src_platform_verictl,False
 https://github.com/clipos-archive/src_platform_vsctl,False
 https://github.com/clipos-archive/src_platform_xscreensaver-pwcheck,True
@@ -1389,7 +1389,7 @@ https://github.com/entrepreneur-interet-general/dedupe,False
 https://github.com/entrepreneur-interet-general/demo_metabase_postgres,False
 https://github.com/entrepreneur-interet-general/design-system,False
 https://github.com/entrepreneur-interet-general/dicoCodes,False
-https://github.com/entrepreneur-interet-general/dig,False
+https://github.com/entrepreneur-interet-general/dig,True
 https://github.com/entrepreneur-interet-general/domen,False
 https://github.com/entrepreneur-interet-general/eig-link,True
 https://github.com/entrepreneur-interet-general/entity-resolution-evaluation,False
@@ -1688,7 +1688,7 @@ https://github.com/etalab/transport-datatools-ui,True
 https://github.com/etalab/transport-gtfs-lib,False
 https://github.com/etalab/transport-history,False
 https://github.com/etalab/transport-landing-page,True
-https://github.com/etalab/transport-ops,False
+https://github.com/etalab/transport-ops,True
 https://github.com/etalab/transport-site,True
 https://github.com/etalab/transport-validator,True
 https://github.com/etalab/transport-validator-python,False
@@ -1742,7 +1742,7 @@ https://github.com/ina-foss/amalia-tools,True
 https://github.com/ina-foss/amalia.js,True
 https://github.com/ina-foss/inaSpeechSegmenter,True
 https://github.com/ina-foss/nginx-video-thumbextractor-module,True
-https://github.com/ina-foss/voxo-daemon,False
+https://github.com/ina-foss/voxo-daemon,True
 https://github.com/ina-foss/voxo-dashboard,False
 https://github.com/ina-foss/voxo-docker,False
 https://github.com/ina-foss/voxo-lib,False
@@ -2036,7 +2036,7 @@ https://github.com/wookey-project/board-32f407disco,False
 https://github.com/wookey-project/board-32f439wookey,False
 https://github.com/wookey-project/bootloader,False
 https://github.com/wookey-project/driver-ad7843,False
-https://github.com/wookey-project/driver-ili9341,False
+https://github.com/wookey-project/driver-ili9341,True
 https://github.com/wookey-project/driver-stm32f4x9-cryp,False
 https://github.com/wookey-project/driver-stm32f4xx-flash,False
 https://github.com/wookey-project/driver-stm32f4xx-hash,False
@@ -2079,7 +2079,7 @@ https://gitlab.com/healthdatahub/dico-snds,False
 https://gitlab.com/healthdatahub/documentation-snds,False
 https://gitlab.com/healthdatahub/programmes-sdns,False
 https://gitlab.com/healthdatahub/schema-snds,False
-https://gitlab.com/healthdatahub/tsfaker,False
+https://gitlab.com/healthdatahub/tsfaker,True
 https://gitlab.com/pidila/checklist-pidila,False
 https://gitlab.com/pidila/kit-module-scampi,True
 https://gitlab.com/pidila/kit-sprite-svg,False
