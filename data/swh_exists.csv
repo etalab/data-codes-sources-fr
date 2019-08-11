@@ -71,7 +71,7 @@ https://github.com/ANSSI-FR/picon,True
 https://github.com/ANSSI-FR/polichombr,True
 https://github.com/ANSSI-FR/pycrate,True
 https://github.com/ANSSI-FR/route_leaks,True
-https://github.com/ANSSI-FR/rust-guide,False
+https://github.com/ANSSI-FR/rust-guide,True
 https://github.com/ANSSI-FR/secAES-ATmega8515,True
 https://github.com/ANSSI-FR/tabi,True
 https://github.com/ANSSI-FR/transdep,True
@@ -152,7 +152,7 @@ https://github.com/BRGM/razorback,True
 https://github.com/BRGM/registry-core,False
 https://github.com/BaseAdresseNationale/api-gestion,True
 https://github.com/BaseAdresseNationale/ban,True
-https://github.com/BaseAdresseNationale/charte-experimentation-2017,False
+https://github.com/BaseAdresseNationale/charte-experimentation-2017,True
 https://github.com/BaseAdresseNationale/donnees-initiales-2018,True
 https://github.com/BaseAdresseNationale/script_divers,True
 https://github.com/CEA-LIST/CinguParam,False
@@ -553,7 +553,7 @@ https://github.com/LINCnil/pia,True
 https://github.com/LINCnil/pia-app,True
 https://github.com/LINCnil/pia-back,True
 https://github.com/LINCnil/tosback2,True
-https://github.com/MTES-MCT/action-bidonvilles,False
+https://github.com/MTES-MCT/action-bidonvilles,True
 https://github.com/MTES-MCT/action-bidonvilles-api,False
 https://github.com/MTES-MCT/adock-ansible,True
 https://github.com/MTES-MCT/adock-api,True
@@ -1266,7 +1266,7 @@ https://github.com/clipos-archive/src_platform_scdaemon,False
 https://github.com/clipos-archive/src_platform_smartcard-monitor,False
 https://github.com/clipos-archive/src_platform_smartcard-readers,False
 https://github.com/clipos-archive/src_platform_splash-theme-clip,False
-https://github.com/clipos-archive/src_platform_ssm-display,False
+https://github.com/clipos-archive/src_platform_ssm-display,True
 https://github.com/clipos-archive/src_platform_strongswan-clip-updown,False
 https://github.com/clipos-archive/src_platform_strongswan-patches,False
 https://github.com/clipos-archive/src_platform_sub-clip,False
@@ -1374,7 +1374,7 @@ https://github.com/entrepreneur-interet-general/addok-fr,False
 https://github.com/entrepreneur-interet-general/agenda-eig2018,True
 https://github.com/entrepreneur-interet-general/api-ccomptes,True
 https://github.com/entrepreneur-interet-general/archapp,False
-https://github.com/entrepreneur-interet-general/archypoint,False
+https://github.com/entrepreneur-interet-general/archypoint,True
 https://github.com/entrepreneur-interet-general/brigade-numerique,False
 https://github.com/entrepreneur-interet-general/bulletins,False
 https://github.com/entrepreneur-interet-general/bulletins-docs,False
@@ -1390,7 +1390,7 @@ https://github.com/entrepreneur-interet-general/demo_metabase_postgres,False
 https://github.com/entrepreneur-interet-general/design-system,False
 https://github.com/entrepreneur-interet-general/dicoCodes,False
 https://github.com/entrepreneur-interet-general/dig,True
-https://github.com/entrepreneur-interet-general/domen,False
+https://github.com/entrepreneur-interet-general/domen,True
 https://github.com/entrepreneur-interet-general/eig-link,True
 https://github.com/entrepreneur-interet-general/entity-resolution-evaluation,False
 https://github.com/entrepreneur-interet-general/exo_ref,False
@@ -1706,7 +1706,7 @@ https://github.com/etalab/weckan,True
 https://github.com/etalab/wiki-data-gouv,True
 https://github.com/etalab/youckan,True
 https://github.com/fabnumdef/GeoGate,False
-https://github.com/fabnumdef/design-system,False
+https://github.com/fabnumdef/design-system,True
 https://github.com/fabnumdef/e-chauffeur,False
 https://github.com/fabnumdef/e-chauffeur_api,True
 https://github.com/fabnumdef/e-chauffeur_dashboard,True
