@@ -58,7 +58,7 @@ https://github.com/ANSSI-FR/caradoc,True
 https://github.com/ANSSI-FR/concerto,True
 https://github.com/ANSSI-FR/coq-prelude,False
 https://github.com/ANSSI-FR/cornetto,False
-https://github.com/ANSSI-FR/libapn,False
+https://github.com/ANSSI-FR/libapn,True
 https://github.com/ANSSI-FR/libecc,True
 https://github.com/ANSSI-FR/mabo,True
 https://github.com/ANSSI-FR/mdbook-checklist,False
@@ -187,7 +187,7 @@ https://github.com/CEREMA/dtermed.ecureuil,False
 https://github.com/CEREMA/dtermed.ecureuilmobile,False
 https://github.com/CEREMA/dtermed.ecureuilmobile2,False
 https://github.com/CEREMA/dtermed.faveur,False
-https://github.com/CEREMA/dtermed.formulaires,False
+https://github.com/CEREMA/dtermed.formulaires,True
 https://github.com/CEREMA/dtermed.goprro,True
 https://github.com/CEREMA/dtermed.infocentre,False
 https://github.com/CEREMA/dtermed.mobile.ecureuil,False
@@ -584,7 +584,7 @@ https://github.com/MTES-MCT/enr-and-ground,False
 https://github.com/MTES-MCT/filharmonic,False
 https://github.com/MTES-MCT/filharmonic-api,True
 https://github.com/MTES-MCT/filharmonic-infrastructure,False
-https://github.com/MTES-MCT/filharmonic-ui,False
+https://github.com/MTES-MCT/filharmonic-ui,True
 https://github.com/MTES-MCT/fluctuat,False
 https://github.com/MTES-MCT/fluctuat-apidoc,True
 https://github.com/MTES-MCT/geo-communes-api,False
@@ -607,7 +607,7 @@ https://github.com/MTES-MCT/toolbox,False
 https://github.com/MTES-MCT/trackdechets,False
 https://github.com/MTES-MCT/trackdechets-datascience,False
 https://github.com/MTES-MCT/trashadvisor,False
-https://github.com/MTES-MCT/udata-doc,False
+https://github.com/MTES-MCT/udata-doc,True
 https://github.com/MTES-MCT/udata-gouvfr-ecologie,True
 https://github.com/MinistereSupRecherche/dataESR,False
 https://github.com/MinistereSupRecherche/machineadonnees,False
@@ -632,7 +632,7 @@ https://github.com/OPIDoR/DMPOPIDoR,True
 https://github.com/OPIDoR/DMPonline_v4,True
 https://github.com/OpenCTI-Platform/client-python,False
 https://github.com/OpenCTI-Platform/connectors,True
-https://github.com/OpenCTI-Platform/datasets,False
+https://github.com/OpenCTI-Platform/datasets,True
 https://github.com/OpenCTI-Platform/docker,True
 https://github.com/OpenCTI-Platform/docs,False
 https://github.com/OpenCTI-Platform/opencti,True
@@ -855,7 +855,7 @@ https://github.com/addok/addok-http-falcon,True
 https://github.com/addok/addok-idcc,True
 https://github.com/addok/addok-openaddresses,True
 https://github.com/addok/addok-psql,True
-https://github.com/addok/addok-psql-store,False
+https://github.com/addok/addok-psql-store,True
 https://github.com/addok/addok-sqlite-store,False
 https://github.com/addok/addok-trigrams,True
 https://github.com/addok/addok-usine,False
@@ -1015,7 +1015,7 @@ https://github.com/betagouv/i18nliner-js,True
 https://github.com/betagouv/ilos,False
 https://github.com/betagouv/impact-tests,True
 https://github.com/betagouv/itou,False
-https://github.com/betagouv/kong-delegateAuth,False
+https://github.com/betagouv/kong-delegateAuth,True
 https://github.com/betagouv/la-sass-vy,False
 https://github.com/betagouv/lapin,False
 https://github.com/betagouv/leximpact-client,False
@@ -1286,7 +1286,7 @@ https://github.com/clipos/assets_distfiles,True
 https://github.com/clipos/assets_gentoo,False
 https://github.com/clipos/assets_toolkit,True
 https://github.com/clipos/bugs,False
-https://github.com/clipos/buildbot,False
+https://github.com/clipos/buildbot,True
 https://github.com/clipos/clipos.github.io,True
 https://github.com/clipos/docs,True
 https://github.com/clipos/manifest,True
@@ -1368,7 +1368,7 @@ https://github.com/entrepreneur-interet-general/Merge-Machine,True
 https://github.com/entrepreneur-interet-general/OpenScraper,True
 https://github.com/entrepreneur-interet-general/PST2Win,False
 https://github.com/entrepreneur-interet-general/Shom.H3,False
-https://github.com/entrepreneur-interet-general/Shom.S57,False
+https://github.com/entrepreneur-interet-general/Shom.S57,True
 https://github.com/entrepreneur-interet-general/addocker,False
 https://github.com/entrepreneur-interet-general/addok-fr,False
 https://github.com/entrepreneur-interet-general/agenda-eig2018,True
@@ -1529,7 +1529,7 @@ https://github.com/etalab/autopsy,False
 https://github.com/etalab/bal,True
 https://github.com/etalab/ban-data,True
 https://github.com/etalab/ban-geocode,True
-https://github.com/etalab/banatic,False
+https://github.com/etalab/banatic,True
 https://github.com/etalab/biryani,True
 https://github.com/etalab/blog-eig2,True
 https://github.com/etalab/blog.data.gouv.fr,True
@@ -1666,7 +1666,7 @@ https://github.com/etalab/retos-civicos,True
 https://github.com/etalab/retweet,False
 https://github.com/etalab/rna_as_api,True
 https://github.com/etalab/rncs_worker_api_entreprise,True
-https://github.com/etalab/schema-decp-dpa,False
+https://github.com/etalab/schema-decp-dpa,True
 https://github.com/etalab/schema-irve,False
 https://github.com/etalab/schema-lieux-covoiturage,False
 https://github.com/etalab/schema.data.gouv.fr,True
@@ -1696,7 +1696,7 @@ https://github.com/etalab/udata-geoplatform,True
 https://github.com/etalab/udata-gouvfr,True
 https://github.com/etalab/urbaclic,False
 https://github.com/etalab/urbaclic-next,True
-https://github.com/etalab/urban-olympics.etalab.studio,False
+https://github.com/etalab/urban-olympics.etalab.studio,True
 https://github.com/etalab/user-research,True
 https://github.com/etalab/utilery-recipe-jurpol,True
 https://github.com/etalab/vuepress-gouv-fr-demo,False
@@ -1792,7 +1792,7 @@ https://github.com/minagri-initial/api.gouv.fr,False
 https://github.com/minagri-initial/arpent-api,False
 https://github.com/minagri-initial/arpent-examen,True
 https://github.com/minagri-initial/ift,False
-https://github.com/minagri-initial/ift-api,False
+https://github.com/minagri-initial/ift-api,True
 https://github.com/minagri-initial/sinex-preregistration-dto,False
 https://github.com/nanterre/Bienvenue,True
 https://github.com/nanterre/Datea,True
