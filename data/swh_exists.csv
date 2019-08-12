@@ -173,7 +173,7 @@ https://github.com/CEREMA/dtermed.anywhere,False
 https://github.com/CEREMA/dtermed.bpclight-old,False
 https://github.com/CEREMA/dtermed.bpclight2,False
 https://github.com/CEREMA/dtermed.bpcmobile,False
-https://github.com/CEREMA/dtermed.cerema-info,False
+https://github.com/CEREMA/dtermed.cerema-info,True
 https://github.com/CEREMA/dtermed.cloud2,False
 https://github.com/CEREMA/dtermed.cours_opendata_ente,False
 https://github.com/CEREMA/dtermed.cvrh.resalia,False
@@ -198,9 +198,9 @@ https://github.com/CEREMA/dtermed.rivages-old,True
 https://github.com/CEREMA/dtermed.sapei,False
 https://github.com/CEREMA/dtermed.sysiphe,False
 https://github.com/CEREMA/dtermed.sysiphe-old,True
-https://github.com/CEREMA/dtermed.ticket,False
+https://github.com/CEREMA/dtermed.ticket,True
 https://github.com/CEREMA/dtermed.ticket2,False
-https://github.com/CEREMA/dtermed.vibren,False
+https://github.com/CEREMA/dtermed.vibren,True
 https://github.com/CEREMA/dtermed.virtualdesktop,False
 https://github.com/CEREMA/dtermed.webapp.bpclight,False
 https://github.com/CEREMA/dtermed.webapp.ecureuil,False
@@ -432,7 +432,7 @@ https://github.com/Inist-CNRS/node-csv-string,True
 https://github.com/Inist-CNRS/node-elsevier,True
 https://github.com/Inist-CNRS/node-ezs-istex,True
 https://github.com/Inist-CNRS/node-ezs-lodex,False
-https://github.com/Inist-CNRS/node-ezs-sparql,False
+https://github.com/Inist-CNRS/node-ezs-sparql,True
 https://github.com/Inist-CNRS/node-formatik,True
 https://github.com/Inist-CNRS/node-inist-ark,True
 https://github.com/Inist-CNRS/node-inist-roadmap,True
@@ -1052,10 +1052,10 @@ https://github.com/betagouv/openfisca-brestmetropole,True
 https://github.com/betagouv/openfisca-cd62,False
 https://github.com/betagouv/openfisca-cd93,False
 https://github.com/betagouv/openfisca-core,True
-https://github.com/betagouv/openfisca-demande-logement-social,False
+https://github.com/betagouv/openfisca-demande-logement-social,True
 https://github.com/betagouv/openfisca-france,False
 https://github.com/betagouv/openfisca-france-correpondance-metier,True
-https://github.com/betagouv/openfisca-france-local,False
+https://github.com/betagouv/openfisca-france-local,True
 https://github.com/betagouv/openfisca-loiret,False
 https://github.com/betagouv/openfisca-mes-aides-reform,False
 https://github.com/betagouv/openfisca-ops,True
@@ -1234,7 +1234,7 @@ https://github.com/clipos-archive/src_platform_clip-tests,False
 https://github.com/clipos-archive/src_platform_clip-update-user-data,False
 https://github.com/clipos-archive/src_platform_clip-usb-clt,False
 https://github.com/clipos-archive/src_platform_clip-usb-keys,False
-https://github.com/clipos-archive/src_platform_clip-user-mount,False
+https://github.com/clipos-archive/src_platform_clip-user-mount,True
 https://github.com/clipos-archive/src_platform_clip-useradmin,False
 https://github.com/clipos-archive/src_platform_clip-viewer,False
 https://github.com/clipos-archive/src_platform_clip-vpn-net,False
@@ -1247,7 +1247,7 @@ https://github.com/clipos-archive/src_platform_debootstrap-clip,False
 https://github.com/clipos-archive/src_platform_downloadrequest,False
 https://github.com/clipos-archive/src_platform_fbpanel-clip,False
 https://github.com/clipos-archive/src_platform_fdp,False
-https://github.com/clipos-archive/src_platform_gen-crypt,False
+https://github.com/clipos-archive/src_platform_gen-crypt,True
 https://github.com/clipos-archive/src_platform_hotplug-clip,False
 https://github.com/clipos-archive/src_platform_init-cleaner,False
 https://github.com/clipos-archive/src_platform_jailmaster,False
@@ -1280,7 +1280,7 @@ https://github.com/clipos-archive/src_platform_vaultguard,True
 https://github.com/clipos-archive/src_platform_verictl,False
 https://github.com/clipos-archive/src_platform_vsctl,False
 https://github.com/clipos-archive/src_platform_xscreensaver-pwcheck,True
-https://github.com/clipos/assets_crates-io,False
+https://github.com/clipos/assets_crates-io,True
 https://github.com/clipos/assets_debian,False
 https://github.com/clipos/assets_distfiles,True
 https://github.com/clipos/assets_gentoo,False
@@ -1594,7 +1594,7 @@ https://github.com/etalab/editeur-bal,False
 https://github.com/etalab/eig-charts,False
 https://github.com/etalab/entreprise.api.gouv.fr,True
 https://github.com/etalab/entreprise.data.gouv.fr,True
-https://github.com/etalab/epci,False
+https://github.com/etalab/epci,True
 https://github.com/etalab/etalab,True
 https://github.com/etalab/etalab-assets,True
 https://github.com/etalab/etalab-assets-demo-images,True
@@ -1602,7 +1602,7 @@ https://github.com/etalab/etalab-ckan-harvesters,True
 https://github.com/etalab/etalab-ckan-scripts,True
 https://github.com/etalab/etalab-support,True
 https://github.com/etalab/etalab-to-ckan,True
-https://github.com/etalab/etalab.gouv.fr,False
+https://github.com/etalab/etalab.gouv.fr,True
 https://github.com/etalab/etalab.studio,True
 https://github.com/etalab/fantoir,True
 https://github.com/etalab/fantoir-parser,True
@@ -1691,7 +1691,7 @@ https://github.com/etalab/transport-landing-page,True
 https://github.com/etalab/transport-ops,True
 https://github.com/etalab/transport-site,True
 https://github.com/etalab/transport-validator,True
-https://github.com/etalab/transport-validator-python,False
+https://github.com/etalab/transport-validator-python,True
 https://github.com/etalab/udata-geoplatform,True
 https://github.com/etalab/udata-gouvfr,True
 https://github.com/etalab/urbaclic,False
@@ -1761,7 +1761,7 @@ https://github.com/messagerie-melanie2/ORM-MongoDB,True
 https://github.com/messagerie-melanie2/Pegase,True
 https://github.com/messagerie-melanie2/PyOcfScripts,True
 https://github.com/messagerie-melanie2/Roundcube-Mel,False
-https://github.com/messagerie-melanie2/Roundcube-Mel-deployment,False
+https://github.com/messagerie-melanie2/Roundcube-Mel-deployment,True
 https://github.com/messagerie-melanie2/Roundcube-Melanie2,True
 https://github.com/messagerie-melanie2/Roundcube-Plugin-Calendar,True
 https://github.com/messagerie-melanie2/Roundcube-Plugin-Infinite-Scroll,True
