@@ -41,7 +41,7 @@ https://github.com/ANSSI-FR/ADTimeline,False
 https://github.com/ANSSI-FR/ASCAD,True
 https://github.com/ANSSI-FR/Binacle,True
 https://github.com/ANSSI-FR/FreeSpec,True
-https://github.com/ANSSI-FR/ORADAD,False
+https://github.com/ANSSI-FR/ORADAD,True
 https://github.com/ANSSI-FR/OVALI,True
 https://github.com/ANSSI-FR/ProTIP,True
 https://github.com/ANSSI-FR/SecAESSTM32,False
@@ -950,7 +950,7 @@ https://github.com/betagouv/OpenFiscaFrance.jl,False
 https://github.com/betagouv/OpenLawEditor,True
 https://github.com/betagouv/PeerTube,False
 https://github.com/betagouv/admin-traitdunion,False
-https://github.com/betagouv/allegement-fillon,False
+https://github.com/betagouv/allegement-fillon,True
 https://github.com/betagouv/andi,False
 https://github.com/betagouv/annuaire,False
 https://github.com/betagouv/annuaire-api,True
@@ -958,7 +958,7 @@ https://github.com/betagouv/annuaire-import,True
 https://github.com/betagouv/anpy,False
 https://github.com/betagouv/api-auth,False
 https://github.com/betagouv/api-caf,False
-https://github.com/betagouv/api-cpa,False
+https://github.com/betagouv/api-cpa,True
 https://github.com/betagouv/api-drones,False
 https://github.com/betagouv/api-medicaments,True
 https://github.com/betagouv/api-particulier,True
@@ -1103,7 +1103,7 @@ https://github.com/betagouv/publicodes,False
 https://github.com/betagouv/quotient-familial,False
 https://github.com/betagouv/react-elasticsearch,False
 https://github.com/betagouv/react-final-form-utils,False
-https://github.com/betagouv/react-hook-data,False
+https://github.com/betagouv/react-hook-data,True
 https://github.com/betagouv/react-i18nliner,True
 https://github.com/betagouv/react-loading-infinite-scroller,False
 https://github.com/betagouv/react-reducer-effect-context-data,False
@@ -1259,7 +1259,7 @@ https://github.com/clipos-archive/src_platform_pam_exec_pwd,False
 https://github.com/clipos-archive/src_platform_pam_jail,False
 https://github.com/clipos-archive/src_platform_pfring-kernel-patches,False
 https://github.com/clipos-archive/src_platform_portage-derive,False
-https://github.com/clipos-archive/src_platform_pwcheckd,False
+https://github.com/clipos-archive/src_platform_pwcheckd,True
 https://github.com/clipos-archive/src_platform_rm-sessions,False
 https://github.com/clipos-archive/src_platform_rmh-config,False
 https://github.com/clipos-archive/src_platform_scdaemon,False
@@ -1273,7 +1273,7 @@ https://github.com/clipos-archive/src_platform_sub-clip,False
 https://github.com/clipos-archive/src_platform_syslinux-tpm-patches,False
 https://github.com/clipos-archive/src_platform_tpm-cmd,False
 https://github.com/clipos-archive/src_platform_usb-printer-devices,False
-https://github.com/clipos-archive/src_platform_usb-scanner-devices,False
+https://github.com/clipos-archive/src_platform_usb-scanner-devices,True
 https://github.com/clipos-archive/src_platform_usb-video-devices,False
 https://github.com/clipos-archive/src_platform_userd,False
 https://github.com/clipos-archive/src_platform_vaultguard,True
@@ -1842,7 +1842,7 @@ https://github.com/opendatateam/udata-croquemort,True
 https://github.com/opendatateam/udata-dockers,True
 https://github.com/opendatateam/udata-explorer,True
 https://github.com/opendatateam/udata-id,True
-https://github.com/opendatateam/udata-kerberos,False
+https://github.com/opendatateam/udata-kerberos,True
 https://github.com/opendatateam/udata-ldap,True
 https://github.com/opendatateam/udata-link-proxy,False
 https://github.com/opendatateam/udata-meta,False
@@ -2077,7 +2077,7 @@ https://github.com/wookey-project/wookey-project.github.io,False
 https://github.com/wookey-project/wookeypedia,False
 https://gitlab.com/healthdatahub/dico-snds,False
 https://gitlab.com/healthdatahub/documentation-snds,False
-https://gitlab.com/healthdatahub/programmes-sdns,False
+https://gitlab.com/healthdatahub/programmes-sdns,True
 https://gitlab.com/healthdatahub/schema-snds,False
 https://gitlab.com/healthdatahub/tsfaker,True
 https://gitlab.com/pidila/checklist-pidila,False
