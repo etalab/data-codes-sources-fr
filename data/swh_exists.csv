@@ -246,7 +246,7 @@ https://github.com/DGAC/nmb2b-phpclient,False
 https://github.com/DGAC/simupaye,False
 https://github.com/DGFiP/Test-Compta-Demat,True
 https://github.com/DISIC/GMR,True
-https://github.com/DISIC/GMR-sandbox,False
+https://github.com/DISIC/GMR-sandbox,True
 https://github.com/DISIC/Test-Compta-Demat,True
 https://github.com/DISIC/XWiki-cerfa-numerique,False
 https://github.com/DISIC/assistant-rgaa,True
@@ -645,7 +645,7 @@ https://github.com/PnCevennes/angular_simple_map,True
 https://github.com/PnCevennes/app_oeasc,True
 https://github.com/PnCevennes/app_recrutement,True
 https://github.com/PnCevennes/app_recrutement_client,True
-https://github.com/PnCevennes/courbes_eau,False
+https://github.com/PnCevennes/courbes_eau,True
 https://github.com/PnCevennes/demandes_autorisations,True
 https://github.com/PnCevennes/docker,True
 https://github.com/PnCevennes/gn_module_suivi_chiro,True
@@ -945,7 +945,7 @@ https://github.com/banquedefrance/go-ethereum,True
 https://github.com/banquedefrance/madre_bat,False
 https://github.com/betagouv/Aidants_Connect,False
 https://github.com/betagouv/ClasseA12,False
-https://github.com/betagouv/Element.details,False
+https://github.com/betagouv/Element.details,True
 https://github.com/betagouv/OpenFiscaFrance.jl,False
 https://github.com/betagouv/OpenLawEditor,True
 https://github.com/betagouv/PeerTube,False
@@ -1038,7 +1038,7 @@ https://github.com/betagouv/mes-aides-openfisca,True
 https://github.com/betagouv/mes-aides-ops,True
 https://github.com/betagouv/mes-aides-out,True
 https://github.com/betagouv/mes-aides-ui,True
-https://github.com/betagouv/meteor-assemblee-nationale,False
+https://github.com/betagouv/meteor-assemblee-nationale,True
 https://github.com/betagouv/monstage,False
 https://github.com/betagouv/mpal,False
 https://github.com/betagouv/mpal-deploy,False
@@ -1357,7 +1357,7 @@ https://github.com/diplomatiegouvfr/hornet-showroom-online,True
 https://github.com/diplomatiegouvfr/hornet-themes-intranet,False
 https://github.com/diplomatiegouvfr/tomcat8-instance,True
 https://github.com/entrepreneur-interet-general/2017,False
-https://github.com/entrepreneur-interet-general/AFD_projects,False
+https://github.com/entrepreneur-interet-general/AFD_projects,True
 https://github.com/entrepreneur-interet-general/CIS-front,True
 https://github.com/entrepreneur-interet-general/CartoBIO,False
 https://github.com/entrepreneur-interet-general/CartoBio-API,False
@@ -1420,7 +1420,7 @@ https://github.com/entrepreneur-interet-general/predisauvetage,True
 https://github.com/entrepreneur-interet-general/previsecours.github.io,True
 https://github.com/entrepreneur-interet-general/publib,False
 https://github.com/entrepreneur-interet-general/sedatif,False
-https://github.com/entrepreneur-interet-general/sidenotes,False
+https://github.com/entrepreneur-interet-general/sidenotes,True
 https://github.com/entrepreneur-interet-general/sill,True
 https://github.com/entrepreneur-interet-general/site-archifiltre,True
 https://github.com/entrepreneur-interet-general/site-eig,True
