@@ -175,7 +175,7 @@ https://github.com/CEREMA/dtermed.bpclight2,False
 https://github.com/CEREMA/dtermed.bpcmobile,False
 https://github.com/CEREMA/dtermed.cerema-info,True
 https://github.com/CEREMA/dtermed.cloud2,False
-https://github.com/CEREMA/dtermed.cours_opendata_ente,False
+https://github.com/CEREMA/dtermed.cours_opendata_ente,True
 https://github.com/CEREMA/dtermed.cvrh.resalia,False
 https://github.com/CEREMA/dtermed.dashboard,False
 https://github.com/CEREMA/dtermed.db.bpclight,False
@@ -590,7 +590,7 @@ https://github.com/MTES-MCT/fluctuat-apidoc,True
 https://github.com/MTES-MCT/geo-communes-api,False
 https://github.com/MTES-MCT/geostatis,True
 https://github.com/MTES-MCT/invasivalerte,False
-https://github.com/MTES-MCT/kelrisks,False
+https://github.com/MTES-MCT/kelrisks,True
 https://github.com/MTES-MCT/kelrisks-datascience,False
 https://github.com/MTES-MCT/locatio,True
 https://github.com/MTES-MCT/numerique,True
@@ -693,7 +693,7 @@ https://github.com/PnX-SI/gn_module_export,True
 https://github.com/PnX-SI/gn_module_flore_prioritaire,True
 https://github.com/PnX-SI/gn_module_import,False
 https://github.com/PnX-SI/gn_module_suivi_flore_territoire,True
-https://github.com/PnX-SI/gn_module_suivi_habitat_station,False
+https://github.com/PnX-SI/gn_module_suivi_habitat_station,True
 https://github.com/PnX-SI/gn_module_suivi_habitat_territoire,True
 https://github.com/PnX-SI/gn_module_template,False
 https://github.com/PnX-SI/gn_module_validation,True
@@ -783,7 +783,7 @@ https://github.com/SocialGouv/eMJPM-homepage,True
 https://github.com/SocialGouv/egapro,False
 https://github.com/SocialGouv/emjpm,False
 https://github.com/SocialGouv/emjpm-design,False
-https://github.com/SocialGouv/emjpm-design-system,False
+https://github.com/SocialGouv/emjpm-design-system,True
 https://github.com/SocialGouv/emjpm-ui,False
 https://github.com/SocialGouv/faq-code-du-travail,True
 https://github.com/SocialGouv/fce,False
@@ -826,7 +826,7 @@ https://github.com/SocieteNumerique/pass-numerique,False
 https://github.com/SocieteNumerique/rapport-inclusion,False
 https://github.com/SocieteNumerique/societenumerique.github.io,True
 https://github.com/SocieteNumerique/societenumerique.github.io-old,False
-https://github.com/SocieteNumerique/tutoriel,False
+https://github.com/SocieteNumerique/tutoriel,True
 https://github.com/StartupsPoleEmploi/Avril-Frontend,True
 https://github.com/StartupsPoleEmploi/Templates-Mailjet,False
 https://github.com/StartupsPoleEmploi/anotea,True
@@ -1050,7 +1050,7 @@ https://github.com/betagouv/open-academie,True
 https://github.com/betagouv/open-academie-old,False
 https://github.com/betagouv/openfisca-brestmetropole,True
 https://github.com/betagouv/openfisca-cd62,False
-https://github.com/betagouv/openfisca-cd93,False
+https://github.com/betagouv/openfisca-cd93,True
 https://github.com/betagouv/openfisca-core,True
 https://github.com/betagouv/openfisca-demande-logement-social,True
 https://github.com/betagouv/openfisca-france,False
@@ -1285,7 +1285,7 @@ https://github.com/clipos/assets_debian,False
 https://github.com/clipos/assets_distfiles,True
 https://github.com/clipos/assets_gentoo,False
 https://github.com/clipos/assets_toolkit,True
-https://github.com/clipos/bugs,False
+https://github.com/clipos/bugs,True
 https://github.com/clipos/buildbot,True
 https://github.com/clipos/clipos.github.io,True
 https://github.com/clipos/docs,True
@@ -1388,7 +1388,7 @@ https://github.com/entrepreneur-interet-general/datamap,True
 https://github.com/entrepreneur-interet-general/dedupe,False
 https://github.com/entrepreneur-interet-general/demo_metabase_postgres,False
 https://github.com/entrepreneur-interet-general/design-system,False
-https://github.com/entrepreneur-interet-general/dicoCodes,False
+https://github.com/entrepreneur-interet-general/dicoCodes,True
 https://github.com/entrepreneur-interet-general/dig,True
 https://github.com/entrepreneur-interet-general/domen,True
 https://github.com/entrepreneur-interet-general/eig-link,True
@@ -1500,7 +1500,7 @@ https://github.com/erasme/webnapperon2,True
 https://github.com/erasme/website_griotte,True
 https://github.com/etalab/Algo_gouv,True
 https://github.com/etalab/Attendize,True
-https://github.com/etalab/DVF-app,False
+https://github.com/etalab/DVF-app,True
 https://github.com/etalab/Data-Fundamentals,True
 https://github.com/etalab/GitLegistique.jl,True
 https://github.com/etalab/HackFrancophonie,True
@@ -1573,7 +1573,7 @@ https://github.com/etalab/csv_detective,True
 https://github.com/etalab/dactylo,True
 https://github.com/etalab/dashboard_api_entreprise,True
 https://github.com/etalab/data-codes-sources-fr,False
-https://github.com/etalab/data.etalab.studio,False
+https://github.com/etalab/data.etalab.studio,True
 https://github.com/etalab/data.gouv.fr,True
 https://github.com/etalab/datagouv-funfacts,True
 https://github.com/etalab/datagouv-search-indicator,True
@@ -1714,7 +1714,7 @@ https://github.com/fabnumdef/e-chauffeur_driver,False
 https://github.com/fabnumdef/e-chauffeur_lib-vue,True
 https://github.com/fabnumdef/e-chauffeur_user,False
 https://github.com/fabnumdef/fabnumdef.d3,False
-https://github.com/fabnumdef/fabnumdef.github.io,False
+https://github.com/fabnumdef/fabnumdef.github.io,True
 https://github.com/fabnumdef/resources,False
 https://github.com/geodatagouv/csw-client,True
 https://github.com/geodatagouv/docker,False
