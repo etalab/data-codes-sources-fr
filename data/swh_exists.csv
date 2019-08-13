@@ -683,7 +683,7 @@ https://github.com/PnX-SI/TaxHub,True
 https://github.com/PnX-SI/UsersHub,False
 https://github.com/PnX-SI/UsersHub-authentification-module,True
 https://github.com/PnX-SI/Virtualia-connect,True
-https://github.com/PnX-SI/gn_mobile_core,False
+https://github.com/PnX-SI/gn_mobile_core,True
 https://github.com/PnX-SI/gn_mobile_maps,False
 https://github.com/PnX-SI/gn_mobile_occtax,True
 https://github.com/PnX-SI/gn_mobile_sft,False
@@ -938,7 +938,7 @@ https://github.com/atlanmod/scalable-views-heterogeneous-models,False
 https://github.com/atlanmod/sexp2emf,True
 https://github.com/atlanmod/thingml-maven-repo,False
 https://github.com/atlanmod/ttc-2013-flowgraphs-ATL,True
-https://github.com/atlanmod/ttc2018liveContest,False
+https://github.com/atlanmod/ttc2018liveContest,True
 https://github.com/atlanmod/updates,False
 https://github.com/atlanmod/zoo,True
 https://github.com/banquedefrance/go-ethereum,True
@@ -1028,7 +1028,7 @@ https://github.com/betagouv/mas,True
 https://github.com/betagouv/mdph,True
 https://github.com/betagouv/mdph-evaluation,False
 https://github.com/betagouv/mdph-geva-etl,False
-https://github.com/betagouv/mdph-redirect,False
+https://github.com/betagouv/mdph-redirect,True
 https://github.com/betagouv/mes-aides-analytics,True
 https://github.com/betagouv/mes-aides-api,False
 https://github.com/betagouv/mes-aides-campaign,False
@@ -1085,6 +1085,7 @@ https://github.com/betagouv/pass-culture-publi-mailing,False
 https://github.com/betagouv/pass-culture-shared,True
 https://github.com/betagouv/pass-culture-team,False
 https://github.com/betagouv/pass-culture-web-analytics,False
+https://github.com/betagouv/peps,False
 https://github.com/betagouv/pia-docker,False
 https://github.com/betagouv/pia-paas,False
 https://github.com/betagouv/pix,False
@@ -1094,7 +1095,7 @@ https://github.com/betagouv/plante-et-moi-backend,True
 https://github.com/betagouv/pop,False
 https://github.com/betagouv/pop-api,True
 https://github.com/betagouv/pop-consultation,True
-https://github.com/betagouv/pop-data,False
+https://github.com/betagouv/pop-data,True
 https://github.com/betagouv/pop-production,True
 https://github.com/betagouv/pop-shared,False
 https://github.com/betagouv/preuve-covoiturage,False
@@ -1107,10 +1108,10 @@ https://github.com/betagouv/react-hook-data,True
 https://github.com/betagouv/react-i18nliner,True
 https://github.com/betagouv/react-loading-infinite-scroller,False
 https://github.com/betagouv/react-reducer-effect-context-data,False
-https://github.com/betagouv/redux-react-modals,False
+https://github.com/betagouv/redux-react-modals,True
 https://github.com/betagouv/redux-saga-data,True
 https://github.com/betagouv/redux-thunk-data,False
-https://github.com/betagouv/retraite,False
+https://github.com/betagouv/retraite,True
 https://github.com/betagouv/role-ansible,False
 https://github.com/betagouv/secretariat,True
 https://github.com/betagouv/securite-numerique-agile,True
@@ -1295,8 +1296,10 @@ https://github.com/clipos/src_external_linux,True
 https://github.com/clipos/src_external_systemd,False
 https://github.com/clipos/src_platform_config-linux-hardware,True
 https://github.com/clipos/src_platform_portage-derive,False
+https://github.com/clipos/src_platform_updater,False
 https://github.com/clipos/src_portage_clipos,False
 https://github.com/clipos/src_portage_gentoo,True
+https://github.com/clipos/testbed,False
 https://github.com/clipos/toolkit,True
 https://github.com/communaute-cimi/PFLAU-Viz,True
 https://github.com/communaute-cimi/devstack-vagrant,True
@@ -1366,7 +1369,7 @@ https://github.com/entrepreneur-interet-general/ESOTIM,True
 https://github.com/entrepreneur-interet-general/H3.Standard,True
 https://github.com/entrepreneur-interet-general/Merge-Machine,True
 https://github.com/entrepreneur-interet-general/OpenScraper,True
-https://github.com/entrepreneur-interet-general/PST2Win,False
+https://github.com/entrepreneur-interet-general/PST2Win,True
 https://github.com/entrepreneur-interet-general/Shom.H3,False
 https://github.com/entrepreneur-interet-general/Shom.S57,True
 https://github.com/entrepreneur-interet-general/addocker,False
@@ -1674,7 +1677,7 @@ https://github.com/etalab/scpc-as-api,True
 https://github.com/etalab/secateur,True
 https://github.com/etalab/sirene,False
 https://github.com/etalab/sirene_as_api,True
-https://github.com/etalab/sirene_as_api_ansible,False
+https://github.com/etalab/sirene_as_api_ansible,True
 https://github.com/etalab/sorry.data.gouv.fr,False
 https://github.com/etalab/speedtracker,True
 https://github.com/etalab/stars_detective,True
@@ -2055,7 +2058,7 @@ https://github.com/wookey-project/hard-wookey-screen,False
 https://github.com/wookey-project/javacard-applet,False
 https://github.com/wookey-project/layout-stm32f407,False
 https://github.com/wookey-project/layout-stm32f439,False
-https://github.com/wookey-project/libaes,False
+https://github.com/wookey-project/libaes,True
 https://github.com/wookey-project/libconsole,True
 https://github.com/wookey-project/libdes,False
 https://github.com/wookey-project/libdfu,False
