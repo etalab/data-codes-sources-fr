@@ -149,7 +149,7 @@ https://github.com/BRGM/gmlib,True
 https://github.com/BRGM/hubeau,True
 https://github.com/BRGM/plouf,True
 https://github.com/BRGM/razorback,True
-https://github.com/BRGM/registry-core,False
+https://github.com/BRGM/registry-core,True
 https://github.com/BaseAdresseNationale/api-gestion,True
 https://github.com/BaseAdresseNationale/ban,True
 https://github.com/BaseAdresseNationale/charte-experimentation-2017,True
@@ -596,7 +596,7 @@ https://github.com/MTES-MCT/locatio,True
 https://github.com/MTES-MCT/numerique,True
 https://github.com/MTES-MCT/parcours-r,False
 https://github.com/MTES-MCT/permis-construire,False
-https://github.com/MTES-MCT/portail,False
+https://github.com/MTES-MCT/portail,True
 https://github.com/MTES-MCT/rieau,False
 https://github.com/MTES-MCT/rieau-api,False
 https://github.com/MTES-MCT/rieau-infra,False
@@ -781,7 +781,7 @@ https://github.com/SocialGouv/eMJPM-app,True
 https://github.com/SocialGouv/eMJPM-doc,True
 https://github.com/SocialGouv/eMJPM-homepage,True
 https://github.com/SocialGouv/egapro,False
-https://github.com/SocialGouv/emjpm,False
+https://github.com/SocialGouv/emjpm,True
 https://github.com/SocialGouv/emjpm-design,False
 https://github.com/SocialGouv/emjpm-design-system,True
 https://github.com/SocialGouv/emjpm-ui,False
@@ -1255,7 +1255,7 @@ https://github.com/clipos-archive/src_platform_jailrequest,False
 https://github.com/clipos-archive/src_platform_libanssipki-client,False
 https://github.com/clipos-archive/src_platform_libanssipki-crypto,False
 https://github.com/clipos-archive/src_platform_openbsd-malloc,False
-https://github.com/clipos-archive/src_platform_pam_exec_pwd,False
+https://github.com/clipos-archive/src_platform_pam_exec_pwd,True
 https://github.com/clipos-archive/src_platform_pam_jail,False
 https://github.com/clipos-archive/src_platform_pfring-kernel-patches,False
 https://github.com/clipos-archive/src_platform_portage-derive,False
@@ -1263,7 +1263,7 @@ https://github.com/clipos-archive/src_platform_pwcheckd,True
 https://github.com/clipos-archive/src_platform_rm-sessions,False
 https://github.com/clipos-archive/src_platform_rmh-config,False
 https://github.com/clipos-archive/src_platform_scdaemon,False
-https://github.com/clipos-archive/src_platform_smartcard-monitor,False
+https://github.com/clipos-archive/src_platform_smartcard-monitor,True
 https://github.com/clipos-archive/src_platform_smartcard-readers,False
 https://github.com/clipos-archive/src_platform_splash-theme-clip,False
 https://github.com/clipos-archive/src_platform_ssm-display,True
@@ -2080,7 +2080,7 @@ https://gitlab.com/healthdatahub/documentation-snds,False
 https://gitlab.com/healthdatahub/programmes-sdns,True
 https://gitlab.com/healthdatahub/schema-snds,False
 https://gitlab.com/healthdatahub/tsfaker,True
-https://gitlab.com/pidila/checklist-pidila,False
+https://gitlab.com/pidila/checklist-pidila,True
 https://gitlab.com/pidila/kit-module-scampi,True
 https://gitlab.com/pidila/kit-sprite-svg,False
 https://gitlab.com/pidila/pidila.gitlab.io,False
