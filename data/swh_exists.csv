@@ -714,10 +714,10 @@ https://github.com/PrefectureDePolice/openlogo,True
 https://github.com/PrefectureDePolice/scan_backoffice,True
 https://github.com/PrefectureDePolice/scan_frontapk,True
 https://github.com/ProgrammeVitam/ProgrammeVitam.github.io,True
-https://github.com/ProgrammeVitam/elasticsearch-metrics-reporter-java,False
+https://github.com/ProgrammeVitam/elasticsearch-metrics-reporter-java,True
 https://github.com/ProgrammeVitam/generateur-seda,True
 https://github.com/ProgrammeVitam/java-libpst,False
-https://github.com/ProgrammeVitam/java-libpst-origin,False
+https://github.com/ProgrammeVitam/java-libpst-origin,True
 https://github.com/ProgrammeVitam/mailextract,True
 https://github.com/ProgrammeVitam/odftoolkit,False
 https://github.com/ProgrammeVitam/sedatools,False
@@ -754,7 +754,7 @@ https://github.com/SocialGouv/app-nextjs-node-ts,False
 https://github.com/SocialGouv/archifiltre,False
 https://github.com/SocialGouv/bootstrap,False
 https://github.com/SocialGouv/bot,False
-https://github.com/SocialGouv/checkup,False
+https://github.com/SocialGouv/checkup,True
 https://github.com/SocialGouv/code-du-travail-api,True
 https://github.com/SocialGouv/code-du-travail-backoffice,False
 https://github.com/SocialGouv/code-du-travail-chatbot,False
@@ -1032,7 +1032,7 @@ https://github.com/betagouv/mdph-redirect,True
 https://github.com/betagouv/mes-aides-analytics,True
 https://github.com/betagouv/mes-aides-api,False
 https://github.com/betagouv/mes-aides-campaign,False
-https://github.com/betagouv/mes-aides-docker,False
+https://github.com/betagouv/mes-aides-docker,True
 https://github.com/betagouv/mes-aides-dockerfiles,False
 https://github.com/betagouv/mes-aides-openfisca,True
 https://github.com/betagouv/mes-aides-ops,True
@@ -1080,7 +1080,7 @@ https://github.com/betagouv/pass-culture-doc,True
 https://github.com/betagouv/pass-culture-homepage,True
 https://github.com/betagouv/pass-culture-main,True
 https://github.com/betagouv/pass-culture-pro,True
-https://github.com/betagouv/pass-culture-pro-staging,False
+https://github.com/betagouv/pass-culture-pro-staging,True
 https://github.com/betagouv/pass-culture-publi-mailing,False
 https://github.com/betagouv/pass-culture-shared,True
 https://github.com/betagouv/pass-culture-team,False
@@ -1100,9 +1100,9 @@ https://github.com/betagouv/pop-production,True
 https://github.com/betagouv/pop-shared,False
 https://github.com/betagouv/preuve-covoiturage,False
 https://github.com/betagouv/preuve-covoiturage-doc,False
-https://github.com/betagouv/publicodes,False
+https://github.com/betagouv/publicodes,True
 https://github.com/betagouv/quotient-familial,False
-https://github.com/betagouv/react-elasticsearch,False
+https://github.com/betagouv/react-elasticsearch,True
 https://github.com/betagouv/react-final-form-utils,False
 https://github.com/betagouv/react-hook-data,True
 https://github.com/betagouv/react-i18nliner,True
@@ -1396,7 +1396,7 @@ https://github.com/entrepreneur-interet-general/dig,True
 https://github.com/entrepreneur-interet-general/domen,True
 https://github.com/entrepreneur-interet-general/eig-link,True
 https://github.com/entrepreneur-interet-general/entity-resolution-evaluation,False
-https://github.com/entrepreneur-interet-general/exo_ref,False
+https://github.com/entrepreneur-interet-general/exo_ref,True
 https://github.com/entrepreneur-interet-general/gobelins,True
 https://github.com/entrepreneur-interet-general/gobelins-datasource,False
 https://github.com/entrepreneur-interet-general/gobelins-devops,False
@@ -1430,8 +1430,8 @@ https://github.com/entrepreneur-interet-general/site-eig,True
 https://github.com/entrepreneur-interet-general/solidata_backend,True
 https://github.com/entrepreneur-interet-general/solidata_frontend,True
 https://github.com/entrepreneur-interet-general/standup,False
-https://github.com/entrepreneur-interet-general/suivi_auto,False
-https://github.com/entrepreneur-interet-general/tf-han,False
+https://github.com/entrepreneur-interet-general/suivi_auto,True
+https://github.com/entrepreneur-interet-general/tf-han,True
 https://github.com/entrepreneur-interet-general/tf-idf_poc,False
 https://github.com/entrepreneur-interet-general/the-magical-csv-merge-machine,True
 https://github.com/entrepreneur-interet-general/tutos-2018,True
@@ -1688,7 +1688,7 @@ https://github.com/etalab/tiles.data.gouv.fr,True
 https://github.com/etalab/transpo-rt,False
 https://github.com/etalab/transport-datatools-server,True
 https://github.com/etalab/transport-datatools-ui,True
-https://github.com/etalab/transport-gtfs-lib,False
+https://github.com/etalab/transport-gtfs-lib,True
 https://github.com/etalab/transport-history,False
 https://github.com/etalab/transport-landing-page,True
 https://github.com/etalab/transport-ops,True
@@ -1697,7 +1697,7 @@ https://github.com/etalab/transport-validator,True
 https://github.com/etalab/transport-validator-python,True
 https://github.com/etalab/udata-geoplatform,True
 https://github.com/etalab/udata-gouvfr,True
-https://github.com/etalab/urbaclic,False
+https://github.com/etalab/urbaclic,True
 https://github.com/etalab/urbaclic-next,True
 https://github.com/etalab/urban-olympics.etalab.studio,True
 https://github.com/etalab/user-research,True
@@ -2050,7 +2050,7 @@ https://github.com/wookey-project/driver-stm32f4xx-usart,False
 https://github.com/wookey-project/driver-stm32f4xx-usb,False
 https://github.com/wookey-project/ewok-kernel,False
 https://github.com/wookey-project/ewok-legacy,False
-https://github.com/wookey-project/hard-libs,False
+https://github.com/wookey-project/hard-libs,True
 https://github.com/wookey-project/hard-tools,False
 https://github.com/wookey-project/hard-wookey-jtag,False
 https://github.com/wookey-project/hard-wookey-motherboard,False
