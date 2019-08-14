@@ -208,7 +208,7 @@ https://github.com/CEREMA/dtermed.webapp.rivages,True
 https://github.com/CEREMA/dterso.pluginQgis.CeremaCartEau,True
 https://github.com/CEREMA/dterso.pluginQgis3.CeremaCartEau3,False
 https://github.com/CEREMA/rivages-android,False
-https://github.com/CEREMA/territoires-ville.DiagFeux,False
+https://github.com/CEREMA/territoires-ville.DiagFeux,True
 https://github.com/CEREMA/territoires-ville.Giration,False
 https://github.com/CEREMA/territoires-ville.MiTemps,False
 https://github.com/CEREMA/territoires-ville.OndeV,False
@@ -505,7 +505,7 @@ https://github.com/InseeFr/Bauhaus,True
 https://github.com/InseeFr/Bauhaus-Back-Office,True
 https://github.com/InseeFr/CSPA-SA-Client,True
 https://github.com/InseeFr/DDI-Access-Services,True
-https://github.com/InseeFr/Destinie-2,False
+https://github.com/InseeFr/Destinie-2,True
 https://github.com/InseeFr/Eno,True
 https://github.com/InseeFr/Eno-CLI,True
 https://github.com/InseeFr/Eno-WS,True
@@ -606,7 +606,7 @@ https://github.com/MTES-MCT/secmar-documentation,True
 https://github.com/MTES-MCT/toolbox,False
 https://github.com/MTES-MCT/trackdechets,False
 https://github.com/MTES-MCT/trackdechets-datascience,False
-https://github.com/MTES-MCT/trashadvisor,False
+https://github.com/MTES-MCT/trashadvisor,True
 https://github.com/MTES-MCT/udata-doc,True
 https://github.com/MTES-MCT/udata-gouvfr-ecologie,True
 https://github.com/MinistereSupRecherche/dataESR,False
@@ -775,7 +775,7 @@ https://github.com/SocialGouv/docker,False
 https://github.com/SocialGouv/domifa,False
 https://github.com/SocialGouv/ds-aggregator,False
 https://github.com/SocialGouv/ds-collector,True
-https://github.com/SocialGouv/ds-dashboard,False
+https://github.com/SocialGouv/ds-dashboard,True
 https://github.com/SocialGouv/eMJPM-api,True
 https://github.com/SocialGouv/eMJPM-app,True
 https://github.com/SocialGouv/eMJPM-doc,True
@@ -964,7 +964,7 @@ https://github.com/betagouv/api-medicaments,True
 https://github.com/betagouv/api-particulier,True
 https://github.com/betagouv/api-particulier-auth,True
 https://github.com/betagouv/api-particulier-demo-traces,False
-https://github.com/betagouv/api-particulier-lib,False
+https://github.com/betagouv/api-particulier-lib,True
 https://github.com/betagouv/api-particulier-web,True
 https://github.com/betagouv/api-scopes,True
 https://github.com/betagouv/api-stats-elk,False
@@ -1008,7 +1008,7 @@ https://github.com/betagouv/eac-scrapper,False
 https://github.com/betagouv/etudiant-entrepreneur,True
 https://github.com/betagouv/fetch-normalize-data,False
 https://github.com/betagouv/fiches-de-banc,True
-https://github.com/betagouv/gps-usagers,False
+https://github.com/betagouv/gps-usagers,True
 https://github.com/betagouv/grafana-scalingo,False
 https://github.com/betagouv/heroku-buildpack-ruby,True
 https://github.com/betagouv/i18nliner-js,True
@@ -1056,7 +1056,7 @@ https://github.com/betagouv/openfisca-demande-logement-social,True
 https://github.com/betagouv/openfisca-france,False
 https://github.com/betagouv/openfisca-france-correpondance-metier,True
 https://github.com/betagouv/openfisca-france-local,True
-https://github.com/betagouv/openfisca-loiret,False
+https://github.com/betagouv/openfisca-loiret,True
 https://github.com/betagouv/openfisca-mes-aides-reform,False
 https://github.com/betagouv/openfisca-ops,True
 https://github.com/betagouv/openfisca-paris,True
@@ -1068,7 +1068,7 @@ https://github.com/betagouv/openfisca-web-api,True
 https://github.com/betagouv/opensimplif,True
 https://github.com/betagouv/paie-api,True
 https://github.com/betagouv/paie-carto,True
-https://github.com/betagouv/paie-editor,False
+https://github.com/betagouv/paie-editor,True
 https://github.com/betagouv/paie-tests,True
 https://github.com/betagouv/paie-www,False
 https://github.com/betagouv/pass-culture-api,True
@@ -1293,7 +1293,7 @@ https://github.com/clipos/docs,True
 https://github.com/clipos/manifest,True
 https://github.com/clipos/products_clipos,False
 https://github.com/clipos/src_external_linux,True
-https://github.com/clipos/src_external_systemd,False
+https://github.com/clipos/src_external_systemd,True
 https://github.com/clipos/src_platform_config-linux-hardware,True
 https://github.com/clipos/src_platform_portage-derive,False
 https://github.com/clipos/src_platform_updater,False
@@ -1351,7 +1351,7 @@ https://github.com/diplomatiegouvfr/geststock,True
 https://github.com/diplomatiegouvfr/hornet-generator,True
 https://github.com/diplomatiegouvfr/hornet-js,True
 https://github.com/diplomatiegouvfr/hornet-js-builder,True
-https://github.com/diplomatiegouvfr/hornet-js-formation,False
+https://github.com/diplomatiegouvfr/hornet-js-formation,True
 https://github.com/diplomatiegouvfr/hornet-js-gc-monitor,True
 https://github.com/diplomatiegouvfr/hornet-js-man,False
 https://github.com/diplomatiegouvfr/hornet-service,True
@@ -1594,7 +1594,7 @@ https://github.com/etalab/dvf,False
 https://github.com/etalab/edigeo-parser,True
 https://github.com/etalab/edigeo-reproject,True
 https://github.com/etalab/editeur-bal,False
-https://github.com/etalab/eig-charts,False
+https://github.com/etalab/eig-charts,True
 https://github.com/etalab/entreprise.api.gouv.fr,True
 https://github.com/etalab/entreprise.data.gouv.fr,True
 https://github.com/etalab/epci,True
@@ -1713,7 +1713,7 @@ https://github.com/fabnumdef/design-system,True
 https://github.com/fabnumdef/e-chauffeur,True
 https://github.com/fabnumdef/e-chauffeur_api,True
 https://github.com/fabnumdef/e-chauffeur_dashboard,True
-https://github.com/fabnumdef/e-chauffeur_driver,False
+https://github.com/fabnumdef/e-chauffeur_driver,True
 https://github.com/fabnumdef/e-chauffeur_lib-vue,True
 https://github.com/fabnumdef/e-chauffeur_user,False
 https://github.com/fabnumdef/fabnumdef.d3,False
@@ -1751,7 +1751,7 @@ https://github.com/ina-foss/voxo-docker,True
 https://github.com/ina-foss/voxo-lib,False
 https://github.com/indsante/Documentation-SNDS,False
 https://github.com/indsante/dico-snds,False
-https://github.com/indsante/dico-snds-creation-archive,False
+https://github.com/indsante/dico-snds-creation-archive,True
 https://github.com/indsante/schema-snds,False
 https://github.com/linbox-team/fflas-ffpack,True
 https://github.com/linbox-team/givaro,True
@@ -2011,7 +2011,7 @@ https://github.com/snosan-tools/avurnavs-fichiers,True
 https://github.com/snosan-tools/avurnavs.snosan.fr,False
 https://github.com/snosan-tools/documentation.snosan.fr,True
 https://github.com/snosan-tools/outils.snosan.fr,True
-https://github.com/snosan-tools/quizz.snosan.fr,False
+https://github.com/snosan-tools/quizz.snosan.fr,True
 https://github.com/snosan-tools/secmar-documentation,True
 https://github.com/snosan-tools/srr-mrcc-france,True
 https://github.com/strasbourg/cts-api,True
@@ -2065,13 +2065,13 @@ https://github.com/wookey-project/libdfu,False
 https://github.com/wookey-project/libfw,False
 https://github.com/wookey-project/libgui,False
 https://github.com/wookey-project/libhmac,False
-https://github.com/wookey-project/libiso7816,False
+https://github.com/wookey-project/libiso7816,True
 https://github.com/wookey-project/libmassstorage,False
 https://github.com/wookey-project/libsd,False
-https://github.com/wookey-project/libsmartcard,False
+https://github.com/wookey-project/libsmartcard,True
 https://github.com/wookey-project/libstd,False
 https://github.com/wookey-project/libtoken,True
-https://github.com/wookey-project/libwookey,False
+https://github.com/wookey-project/libwookey,True
 https://github.com/wookey-project/manifest,False
 https://github.com/wookey-project/perms-matrix-disco407-samples,False
 https://github.com/wookey-project/perms-matrix-wookey,True
