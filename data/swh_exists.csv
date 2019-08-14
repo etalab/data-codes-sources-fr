@@ -966,7 +966,7 @@ https://github.com/betagouv/api-particulier-auth,True
 https://github.com/betagouv/api-particulier-demo-traces,False
 https://github.com/betagouv/api-particulier-lib,False
 https://github.com/betagouv/api-particulier-web,True
-https://github.com/betagouv/api-scopes,False
+https://github.com/betagouv/api-scopes,True
 https://github.com/betagouv/api-stats-elk,False
 https://github.com/betagouv/api.gouv.fr,True
 https://github.com/betagouv/aplus,True
@@ -1110,7 +1110,7 @@ https://github.com/betagouv/react-loading-infinite-scroller,False
 https://github.com/betagouv/react-reducer-effect-context-data,False
 https://github.com/betagouv/redux-react-modals,True
 https://github.com/betagouv/redux-saga-data,True
-https://github.com/betagouv/redux-thunk-data,False
+https://github.com/betagouv/redux-thunk-data,True
 https://github.com/betagouv/retraite,True
 https://github.com/betagouv/role-ansible,False
 https://github.com/betagouv/secretariat,True
@@ -1220,7 +1220,7 @@ https://github.com/clipos-archive/src_platform_clip-install-rm,False
 https://github.com/clipos-archive/src_platform_clip-installer,False
 https://github.com/clipos-archive/src_platform_clip-lib,False
 https://github.com/clipos-archive/src_platform_clip-libvserver,False
-https://github.com/clipos-archive/src_platform_clip-livecd,False
+https://github.com/clipos-archive/src_platform_clip-livecd,True
 https://github.com/clipos-archive/src_platform_clip-lsm,False
 https://github.com/clipos-archive/src_platform_clip-mdadm,False
 https://github.com/clipos-archive/src_platform_clip-mdadm-clt,False
@@ -1266,7 +1266,7 @@ https://github.com/clipos-archive/src_platform_rmh-config,False
 https://github.com/clipos-archive/src_platform_scdaemon,False
 https://github.com/clipos-archive/src_platform_smartcard-monitor,True
 https://github.com/clipos-archive/src_platform_smartcard-readers,False
-https://github.com/clipos-archive/src_platform_splash-theme-clip,False
+https://github.com/clipos-archive/src_platform_splash-theme-clip,True
 https://github.com/clipos-archive/src_platform_ssm-display,True
 https://github.com/clipos-archive/src_platform_strongswan-clip-updown,False
 https://github.com/clipos-archive/src_platform_strongswan-patches,False
@@ -2035,7 +2035,7 @@ https://github.com/wookey-project/app-wookey-pin,False
 https://github.com/wookey-project/app-wookey-sdio,False
 https://github.com/wookey-project/app-wookey-smart,False
 https://github.com/wookey-project/app-wookey-usb,False
-https://github.com/wookey-project/board-32f407disco,False
+https://github.com/wookey-project/board-32f407disco,True
 https://github.com/wookey-project/board-32f439wookey,False
 https://github.com/wookey-project/bootloader,False
 https://github.com/wookey-project/driver-ad7843,False
@@ -2070,7 +2070,7 @@ https://github.com/wookey-project/libmassstorage,False
 https://github.com/wookey-project/libsd,False
 https://github.com/wookey-project/libsmartcard,False
 https://github.com/wookey-project/libstd,False
-https://github.com/wookey-project/libtoken,False
+https://github.com/wookey-project/libtoken,True
 https://github.com/wookey-project/libwookey,False
 https://github.com/wookey-project/manifest,False
 https://github.com/wookey-project/perms-matrix-disco407-samples,False
@@ -2087,7 +2087,7 @@ https://gitlab.com/pidila/checklist-pidila,True
 https://gitlab.com/pidila/kit-module-scampi,True
 https://gitlab.com/pidila/kit-sprite-svg,False
 https://gitlab.com/pidila/pidila.gitlab.io,False
-https://gitlab.com/pidila/scampi,False
+https://gitlab.com/pidila/scampi,True
 https://gitlab.com/pidila/scampi-twig,False
 https://gitlab.com/pidila/select-a11y,False
 https://gitlab.com/pidila/sp-simulateurs-data,True

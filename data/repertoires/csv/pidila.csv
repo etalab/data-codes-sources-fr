@@ -6,7 +6,7 @@ checklist-pidila,pidila,GitLab,https://gitlab.com/pidila/checklist-pidila,"Liste
 pidila.gitlab.io,pidila,GitLab,https://gitlab.com/pidila/pidila.gitlab.io,https://pidila.gitlab.io/,,False,2016-10-21T05:07:07Z,2019-07-29T12:45:58Z,,1,0,,4,,,False,
 scampi,pidila,GitLab,https://gitlab.com/pidila/scampi,"Bibliothèque de composants html/css/js accessibles et adaptables de la DILA (Direction de l'information légale et administrative)
 
-https://pidila.gitlab.io/scampi/",,False,2016-10-12T10:03:44Z,2019-07-29T12:54:10Z,,9,3,,37,,,False,
+https://pidila.gitlab.io/scampi/",,False,2016-10-12T10:03:44Z,2019-07-29T12:54:10Z,,9,3,,37,,,True,https://archive.softwareheritage.org/browse/origin/https://gitlab.com/pidila/scampi/directory/
 scampi-twig,pidila,GitLab,https://gitlab.com/pidila/scampi-twig,"Outil simple avec Twig et Sass (bibliothèque Scampi) pour monter des pages statiques. Cet outil servira essentiellement à créer des gabarits d'intégration.
 
 https://pidila.gitlab.io/scampi-twig/",,False,2016-10-08T14:11:25Z,2019-04-18T11:55:20Z,,0,6,,8,,,False,
