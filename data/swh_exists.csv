@@ -752,7 +752,7 @@ https://github.com/SocialGouv/annuaire-mjpm,True
 https://github.com/SocialGouv/ansible-kubeadm-cluster,True
 https://github.com/SocialGouv/app-nextjs-node-ts,False
 https://github.com/SocialGouv/archifiltre,False
-https://github.com/SocialGouv/bootstrap,False
+https://github.com/SocialGouv/bootstrap,True
 https://github.com/SocialGouv/bot,False
 https://github.com/SocialGouv/checkup,True
 https://github.com/SocialGouv/code-du-travail-api,True
@@ -1019,7 +1019,7 @@ https://github.com/betagouv/kong-delegateAuth,True
 https://github.com/betagouv/la-sass-vy,False
 https://github.com/betagouv/lapin,False
 https://github.com/betagouv/leximpact-client,False
-https://github.com/betagouv/leximpact-server,False
+https://github.com/betagouv/leximpact-server,True
 https://github.com/betagouv/logstash-boilerplate,False
 https://github.com/betagouv/ludwig,False
 https://github.com/betagouv/ludwig-api,False
@@ -1185,7 +1185,7 @@ https://github.com/clipos-archive/clipos4_portage-overlay-clip,False
 https://github.com/clipos-archive/clipos4_portage-overlay-dev,False
 https://github.com/clipos-archive/clipos4_specs,False
 https://github.com/clipos-archive/src_platform_CLIP-Conf-Base,False
-https://github.com/clipos-archive/src_platform_CLIP-Logger,False
+https://github.com/clipos-archive/src_platform_CLIP-Logger,True
 https://github.com/clipos-archive/src_platform_CLIP-Mount,False
 https://github.com/clipos-archive/src_platform_CLIP-Pkg-Base,False
 https://github.com/clipos-archive/src_platform_CLIP-Pkg-Download,False
@@ -1231,7 +1231,7 @@ https://github.com/clipos-archive/src_platform_clip-patches,True
 https://github.com/clipos-archive/src_platform_clip-pkgdb,False
 https://github.com/clipos-archive/src_platform_clip-sub,False
 https://github.com/clipos-archive/src_platform_clip-test-box,False
-https://github.com/clipos-archive/src_platform_clip-tests,False
+https://github.com/clipos-archive/src_platform_clip-tests,True
 https://github.com/clipos-archive/src_platform_clip-update-user-data,False
 https://github.com/clipos-archive/src_platform_clip-usb-clt,False
 https://github.com/clipos-archive/src_platform_clip-usb-keys,False
@@ -1399,7 +1399,7 @@ https://github.com/entrepreneur-interet-general/entity-resolution-evaluation,Fal
 https://github.com/entrepreneur-interet-general/exo_ref,True
 https://github.com/entrepreneur-interet-general/gobelins,True
 https://github.com/entrepreneur-interet-general/gobelins-datasource,False
-https://github.com/entrepreneur-interet-general/gobelins-devops,False
+https://github.com/entrepreneur-interet-general/gobelins-devops,True
 https://github.com/entrepreneur-interet-general/gobelins-landingpage,True
 https://github.com/entrepreneur-interet-general/graph-explorer,True
 https://github.com/entrepreneur-interet-general/krojolo,False
@@ -1509,7 +1509,7 @@ https://github.com/etalab/GitLegistique.jl,True
 https://github.com/etalab/HackFrancophonie,True
 https://github.com/etalab/Pathologies_allergiques,True
 https://github.com/etalab/addok-docker,True
-https://github.com/etalab/adresse-data-legacy-api,False
+https://github.com/etalab/adresse-data-legacy-api,True
 https://github.com/etalab/adresse-explorer-api,False
 https://github.com/etalab/adresse-pipeline,False
 https://github.com/etalab/adresse.data.gouv.fr,True
@@ -1521,7 +1521,7 @@ https://github.com/etalab/adresses-util,False
 https://github.com/etalab/agd.data.gouv.fr,True
 https://github.com/etalab/agefiph_worker_api_entreprise,False
 https://github.com/etalab/agenda-tech-ext,True
-https://github.com/etalab/algorithmes-publics,False
+https://github.com/etalab/algorithmes-publics,True
 https://github.com/etalab/api-bal,True
 https://github.com/etalab/api-geo,True
 https://github.com/etalab/api-rpg,True
@@ -1671,7 +1671,7 @@ https://github.com/etalab/rna_as_api,True
 https://github.com/etalab/rncs_worker_api_entreprise,True
 https://github.com/etalab/schema-decp-dpa,True
 https://github.com/etalab/schema-irve,False
-https://github.com/etalab/schema-lieux-covoiturage,False
+https://github.com/etalab/schema-lieux-covoiturage,True
 https://github.com/etalab/schema.data.gouv.fr,True
 https://github.com/etalab/scpc-as-api,True
 https://github.com/etalab/secateur,True
@@ -1710,7 +1710,7 @@ https://github.com/etalab/wiki-data-gouv,True
 https://github.com/etalab/youckan,True
 https://github.com/fabnumdef/GeoGate,False
 https://github.com/fabnumdef/design-system,True
-https://github.com/fabnumdef/e-chauffeur,False
+https://github.com/fabnumdef/e-chauffeur,True
 https://github.com/fabnumdef/e-chauffeur_api,True
 https://github.com/fabnumdef/e-chauffeur_dashboard,True
 https://github.com/fabnumdef/e-chauffeur_driver,False
@@ -1747,7 +1747,7 @@ https://github.com/ina-foss/inaSpeechSegmenter,True
 https://github.com/ina-foss/nginx-video-thumbextractor-module,True
 https://github.com/ina-foss/voxo-daemon,True
 https://github.com/ina-foss/voxo-dashboard,False
-https://github.com/ina-foss/voxo-docker,False
+https://github.com/ina-foss/voxo-docker,True
 https://github.com/ina-foss/voxo-lib,False
 https://github.com/indsante/Documentation-SNDS,False
 https://github.com/indsante/dico-snds,False
@@ -1835,7 +1835,7 @@ https://github.com/opendatateam/docker-kerberos-test,False
 https://github.com/opendatateam/docker-mongo-test,True
 https://github.com/opendatateam/docker-udata,True
 https://github.com/opendatateam/getudata.org,True
-https://github.com/opendatateam/identity,False
+https://github.com/opendatateam/identity,True
 https://github.com/opendatateam/udata,True
 https://github.com/opendatateam/udata-admin,True
 https://github.com/opendatateam/udata-ask,False
@@ -2051,7 +2051,7 @@ https://github.com/wookey-project/driver-stm32f4xx-usb,False
 https://github.com/wookey-project/ewok-kernel,False
 https://github.com/wookey-project/ewok-legacy,False
 https://github.com/wookey-project/hard-libs,True
-https://github.com/wookey-project/hard-tools,False
+https://github.com/wookey-project/hard-tools,True
 https://github.com/wookey-project/hard-wookey-jtag,False
 https://github.com/wookey-project/hard-wookey-motherboard,False
 https://github.com/wookey-project/hard-wookey-screen,False
@@ -2074,7 +2074,7 @@ https://github.com/wookey-project/libtoken,False
 https://github.com/wookey-project/libwookey,False
 https://github.com/wookey-project/manifest,False
 https://github.com/wookey-project/perms-matrix-disco407-samples,False
-https://github.com/wookey-project/perms-matrix-wookey,False
+https://github.com/wookey-project/perms-matrix-wookey,True
 https://github.com/wookey-project/tataouine,False
 https://github.com/wookey-project/wookey-project.github.io,False
 https://github.com/wookey-project/wookeypedia,False
