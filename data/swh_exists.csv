@@ -413,7 +413,7 @@ https://github.com/Inist-CNRS/jbj-playground,True
 https://github.com/Inist-CNRS/jussieu-web-home,True
 https://github.com/Inist-CNRS/lodex,True
 https://github.com/Inist-CNRS/lodex-doc,True
-https://github.com/Inist-CNRS/lodex-doc-gitbook-config,False
+https://github.com/Inist-CNRS/lodex-doc-gitbook-config,True
 https://github.com/Inist-CNRS/lodex-dumps,False
 https://github.com/Inist-CNRS/lodex-extended,False
 https://github.com/Inist-CNRS/lodex-styleguide,True
@@ -823,7 +823,7 @@ https://github.com/SocieteNumerique/casper,True
 https://github.com/SocieteNumerique/impots.gouv,True
 https://github.com/SocieteNumerique/kit,True
 https://github.com/SocieteNumerique/pass-numerique,False
-https://github.com/SocieteNumerique/rapport-inclusion,False
+https://github.com/SocieteNumerique/rapport-inclusion,True
 https://github.com/SocieteNumerique/societenumerique.github.io,True
 https://github.com/SocieteNumerique/societenumerique.github.io-old,False
 https://github.com/SocieteNumerique/tutoriel,True
@@ -1132,7 +1132,7 @@ https://github.com/betagouv/svair-mock,True
 https://github.com/betagouv/syso,True
 https://github.com/betagouv/syso-core,True
 https://github.com/betagouv/taux-collectifs-cotisation-atmp,False
-https://github.com/betagouv/taux-versement-transport,False
+https://github.com/betagouv/taux-versement-transport,True
 https://github.com/betagouv/trait-d-union,False
 https://github.com/betagouv/verif.site,False
 https://github.com/betagouv/voir-et-localiser-samu-sign-on,False
@@ -1330,7 +1330,7 @@ https://github.com/culturecommunication/francearchives-cubicweb,False
 https://github.com/culturecommunication/francearchives-cubicweb-edition,False
 https://github.com/culturecommunication/ginco,True
 https://github.com/culturecommunication/ginco-diff,True
-https://github.com/cw-leia/chipwhisperer,False
+https://github.com/cw-leia/chipwhisperer,True
 https://github.com/cw-leia/chipwhisperer-target-cw308t,True
 https://github.com/cw-leia/cw-leia-standalone-firmware,False
 https://github.com/cw-leia/cw-leia-standalone-hard,True
@@ -1650,7 +1650,7 @@ https://github.com/etalab/ofsearch,True
 https://github.com/etalab/ogptoolbox,True
 https://github.com/etalab/openlabs_apientreprise,True
 https://github.com/etalab/optimouv,True
-https://github.com/etalab/organismes-formation,False
+https://github.com/etalab/organismes-formation,True
 https://github.com/etalab/osem,True
 https://github.com/etalab/osm-wms,True
 https://github.com/etalab/ouverture-des-codes-sources-publics,False
@@ -1660,7 +1660,7 @@ https://github.com/etalab/piwik-covisits,True
 https://github.com/etalab/piwik_logs,True
 https://github.com/etalab/plan-ogp-2015-2017,True
 https://github.com/etalab/plf,False
-https://github.com/etalab/prevair-demo,False
+https://github.com/etalab/prevair-demo,True
 https://github.com/etalab/prevair-experiment,True
 https://github.com/etalab/project-legal,True
 https://github.com/etalab/pseudononymizer,False
@@ -1981,7 +1981,7 @@ https://github.com/openfun/videofront-to-marsha,False
 https://github.com/openfun/xblock-Glowbl,True
 https://github.com/openfun/xblock-configurable-lti-consumer,True
 https://github.com/openfun/xblock-ipython,False
-https://github.com/openfun/xblock-proctor-exam,False
+https://github.com/openfun/xblock-proctor-exam,True
 https://github.com/openfun/xblock-utils2,True
 https://github.com/polewebmaedi/MAEDI-Capitales,True
 https://github.com/polewebmaedi/MAEDI-Pays,True
@@ -2022,7 +2022,7 @@ https://github.com/strasbourg/stats-api,True
 https://github.com/strasbourg/strasbourgstartups,True
 https://github.com/strasbourg/velhop-api,True
 https://github.com/wookey-project/app-bench-logger,False
-https://github.com/wookey-project/app-bench-syscalls,False
+https://github.com/wookey-project/app-bench-syscalls,True
 https://github.com/wookey-project/app-dfu-cryp,False
 https://github.com/wookey-project/app-dfu-smart,False
 https://github.com/wookey-project/app-dfu-usb,False
