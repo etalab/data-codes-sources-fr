@@ -75,7 +75,7 @@ https://github.com/ANSSI-FR/rust-guide,True
 https://github.com/ANSSI-FR/secAES-ATmega8515,True
 https://github.com/ANSSI-FR/tabi,True
 https://github.com/ANSSI-FR/transdep,True
-https://github.com/ANSSI-FR/x509-parser,False
+https://github.com/ANSSI-FR/x509-parser,True
 https://github.com/ANSSI-FR/xsvgen,True
 https://github.com/ARCEP-dev/adresse,False
 https://github.com/ARCEP-dev/basePopDom,True
@@ -273,7 +273,7 @@ https://github.com/DISIC/guide-mobile_app_dev_natif,True
 https://github.com/DISIC/guide-troubles_DYS,True
 https://github.com/DISIC/guides-documents_bureautiques_accessibles,True
 https://github.com/DISIC/inventaire,True
-https://github.com/DISIC/panda,False
+https://github.com/DISIC/panda,True
 https://github.com/DISIC/panorama,True
 https://github.com/DISIC/politique-de-contribution-open-source,True
 https://github.com/DISIC/referentiel-cms,True
@@ -414,7 +414,7 @@ https://github.com/Inist-CNRS/jussieu-web-home,True
 https://github.com/Inist-CNRS/lodex,True
 https://github.com/Inist-CNRS/lodex-doc,True
 https://github.com/Inist-CNRS/lodex-doc-gitbook-config,True
-https://github.com/Inist-CNRS/lodex-dumps,False
+https://github.com/Inist-CNRS/lodex-dumps,True
 https://github.com/Inist-CNRS/lodex-extended,False
 https://github.com/Inist-CNRS/lodex-styleguide,True
 https://github.com/Inist-CNRS/lodex-themes,True
@@ -509,7 +509,7 @@ https://github.com/InseeFr/Destinie-2,True
 https://github.com/InseeFr/Eno,True
 https://github.com/InseeFr/Eno-CLI,True
 https://github.com/InseeFr/Eno-WS,True
-https://github.com/InseeFr/Keycloak-FranceConnect,False
+https://github.com/InseeFr/Keycloak-FranceConnect,True
 https://github.com/InseeFr/Lunatic,False
 https://github.com/InseeFr/Lunatic-Model,False
 https://github.com/InseeFr/Meleze,False
@@ -619,7 +619,7 @@ https://github.com/OCSInventory-NG/Ansible-Role-For-Unix-Packager,True
 https://github.com/OCSInventory-NG/Ansible-Role-For-UnixAgent,True
 https://github.com/OCSInventory-NG/Macosx-Packager,True
 https://github.com/OCSInventory-NG/OCSInventory-Docker-Image,True
-https://github.com/OCSInventory-NG/OCSInventory-Docker-Stack,False
+https://github.com/OCSInventory-NG/OCSInventory-Docker-Stack,True
 https://github.com/OCSInventory-NG/OCSInventory-Server,True
 https://github.com/OCSInventory-NG/OCSInventory-ocsreports,True
 https://github.com/OCSInventory-NG/Packager-for-Unix,True
@@ -760,7 +760,7 @@ https://github.com/SocialGouv/code-du-travail-backoffice,False
 https://github.com/SocialGouv/code-du-travail-chatbot,False
 https://github.com/SocialGouv/code-du-travail-css,True
 https://github.com/SocialGouv/code-du-travail-data,True
-https://github.com/SocialGouv/code-du-travail-monitoring,False
+https://github.com/SocialGouv/code-du-travail-monitoring,True
 https://github.com/SocialGouv/code-du-travail-numerique,True
 https://github.com/SocialGouv/code-du-travail-numerique2,True
 https://github.com/SocialGouv/code-du-travail-scenarios,False
@@ -1217,7 +1217,7 @@ https://github.com/clipos-archive/src_platform_clip-install-common,False
 https://github.com/clipos-archive/src_platform_clip-install-config,False
 https://github.com/clipos-archive/src_platform_clip-install-gui,False
 https://github.com/clipos-archive/src_platform_clip-install-rm,False
-https://github.com/clipos-archive/src_platform_clip-installer,False
+https://github.com/clipos-archive/src_platform_clip-installer,True
 https://github.com/clipos-archive/src_platform_clip-lib,False
 https://github.com/clipos-archive/src_platform_clip-libvserver,False
 https://github.com/clipos-archive/src_platform_clip-livecd,True
@@ -1239,7 +1239,7 @@ https://github.com/clipos-archive/src_platform_clip-user-mount,True
 https://github.com/clipos-archive/src_platform_clip-useradmin,False
 https://github.com/clipos-archive/src_platform_clip-viewer,False
 https://github.com/clipos-archive/src_platform_clip-vpn-net,False
-https://github.com/clipos-archive/src_platform_clip-vserver,False
+https://github.com/clipos-archive/src_platform_clip-vserver,True
 https://github.com/clipos-archive/src_platform_clip-wallpapers,False
 https://github.com/clipos-archive/src_platform_core-services,False
 https://github.com/clipos-archive/src_platform_cryptclt,False
@@ -1748,7 +1748,7 @@ https://github.com/ina-foss/nginx-video-thumbextractor-module,True
 https://github.com/ina-foss/voxo-daemon,True
 https://github.com/ina-foss/voxo-dashboard,False
 https://github.com/ina-foss/voxo-docker,True
-https://github.com/ina-foss/voxo-lib,False
+https://github.com/ina-foss/voxo-lib,True
 https://github.com/indsante/Documentation-SNDS,False
 https://github.com/indsante/dico-snds,False
 https://github.com/indsante/dico-snds-creation-archive,True
@@ -1808,7 +1808,7 @@ https://github.com/nanterre/opendata,True
 https://github.com/nantesmetropole/LibreOfficeNow,True
 https://github.com/nantesmetropole/docker-debian,True
 https://github.com/nantesmetropole/docker-paas,True
-https://github.com/numerique-gouv/numerique.gouv.fr,False
+https://github.com/numerique-gouv/numerique.gouv.fr,True
 https://github.com/numerique-gouv/numerique.gouv.fr-infra,False
 https://github.com/observatoire-territoires/KitsCarto-GdDebat,False
 https://github.com/observatoire-territoires/SOFIE,False
