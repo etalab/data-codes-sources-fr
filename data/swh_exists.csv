@@ -138,7 +138,7 @@ https://github.com/BRGM/ComPASS,False
 https://github.com/BRGM/GeoSciML,True
 https://github.com/BRGM/GeoSciMLontology,True
 https://github.com/BRGM/Nifi-WKB-to-WKT-processor,False
-https://github.com/BRGM/Pic-EAU,False
+https://github.com/BRGM/Pic-EAU,True
 https://github.com/BRGM/cgal,False
 https://github.com/BRGM/core-geonetwork,True
 https://github.com/BRGM/daobs,True
@@ -822,7 +822,7 @@ https://github.com/SocieteNumerique/carto-sonum,False
 https://github.com/SocieteNumerique/casper,True
 https://github.com/SocieteNumerique/impots.gouv,True
 https://github.com/SocieteNumerique/kit,True
-https://github.com/SocieteNumerique/pass-numerique,False
+https://github.com/SocieteNumerique/pass-numerique,True
 https://github.com/SocieteNumerique/rapport-inclusion,True
 https://github.com/SocieteNumerique/societenumerique.github.io,True
 https://github.com/SocieteNumerique/societenumerique.github.io-old,False
@@ -1177,10 +1177,10 @@ https://github.com/cea-sec/miasm,True
 https://github.com/cea-sec/miasm-extended-tests,True
 https://github.com/clipos-archive/clipos4_artifacts,False
 https://github.com/clipos-archive/clipos4_distfiles,False
-https://github.com/clipos-archive/clipos4_doc,False
+https://github.com/clipos-archive/clipos4_doc,True
 https://github.com/clipos-archive/clipos4_manifest,False
 https://github.com/clipos-archive/clipos4_portage,False
-https://github.com/clipos-archive/clipos4_portage-overlay,False
+https://github.com/clipos-archive/clipos4_portage-overlay,True
 https://github.com/clipos-archive/clipos4_portage-overlay-clip,False
 https://github.com/clipos-archive/clipos4_portage-overlay-dev,False
 https://github.com/clipos-archive/clipos4_specs,False
@@ -1272,7 +1272,7 @@ https://github.com/clipos-archive/src_platform_strongswan-clip-updown,False
 https://github.com/clipos-archive/src_platform_strongswan-patches,False
 https://github.com/clipos-archive/src_platform_sub-clip,False
 https://github.com/clipos-archive/src_platform_syslinux-tpm-patches,False
-https://github.com/clipos-archive/src_platform_tpm-cmd,False
+https://github.com/clipos-archive/src_platform_tpm-cmd,True
 https://github.com/clipos-archive/src_platform_usb-printer-devices,False
 https://github.com/clipos-archive/src_platform_usb-scanner-devices,True
 https://github.com/clipos-archive/src_platform_usb-video-devices,False
@@ -1516,7 +1516,7 @@ https://github.com/etalab/adresse.data.gouv.fr,True
 https://github.com/etalab/adresse.data.gouv.fr-backend,False
 https://github.com/etalab/adresses-cadastre,True
 https://github.com/etalab/adresses-ftth,False
-https://github.com/etalab/adresses-locales,False
+https://github.com/etalab/adresses-locales,True
 https://github.com/etalab/adresses-util,False
 https://github.com/etalab/agd.data.gouv.fr,True
 https://github.com/etalab/agefiph_worker_api_entreprise,False
@@ -2045,7 +2045,7 @@ https://github.com/wookey-project/driver-stm32f4xx-flash,False
 https://github.com/wookey-project/driver-stm32f4xx-hash,False
 https://github.com/wookey-project/driver-stm32f4xx-iso7816,True
 https://github.com/wookey-project/driver-stm32f4xx-sdio,False
-https://github.com/wookey-project/driver-stm32f4xx-spi,False
+https://github.com/wookey-project/driver-stm32f4xx-spi,True
 https://github.com/wookey-project/driver-stm32f4xx-usart,False
 https://github.com/wookey-project/driver-stm32f4xx-usb,False
 https://github.com/wookey-project/ewok-kernel,False
@@ -2072,7 +2072,7 @@ https://github.com/wookey-project/libsmartcard,True
 https://github.com/wookey-project/libstd,False
 https://github.com/wookey-project/libtoken,True
 https://github.com/wookey-project/libwookey,True
-https://github.com/wookey-project/manifest,False
+https://github.com/wookey-project/manifest,True
 https://github.com/wookey-project/perms-matrix-disco407-samples,False
 https://github.com/wookey-project/perms-matrix-wookey,True
 https://github.com/wookey-project/tataouine,False
