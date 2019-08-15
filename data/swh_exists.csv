@@ -155,7 +155,7 @@ https://github.com/BaseAdresseNationale/ban,True
 https://github.com/BaseAdresseNationale/charte-experimentation-2017,True
 https://github.com/BaseAdresseNationale/donnees-initiales-2018,True
 https://github.com/BaseAdresseNationale/script_divers,True
-https://github.com/CEA-LIST/CinguParam,False
+https://github.com/CEA-LIST/CinguParam,True
 https://github.com/CEA-LIST/Cingulata,True
 https://github.com/CEA-LIST/DAHLIA-BodyIndex,True
 https://github.com/CEA-LIST/N2D2,True
@@ -834,7 +834,7 @@ https://github.com/StartupsPoleEmploi/avril,True
 https://github.com/StartupsPoleEmploi/baggy,False
 https://github.com/StartupsPoleEmploi/clara,True
 https://github.com/StartupsPoleEmploi/elk-cluster,True
-https://github.com/StartupsPoleEmploi/geomancie,False
+https://github.com/StartupsPoleEmploi/geomancie,True
 https://github.com/StartupsPoleEmploi/gerboise,True
 https://github.com/StartupsPoleEmploi/jepostule,False
 https://github.com/StartupsPoleEmploi/labonnealternance,True
@@ -1118,7 +1118,7 @@ https://github.com/betagouv/securite-numerique-agile,True
 https://github.com/betagouv/sejour,False
 https://github.com/betagouv/signalement,True
 https://github.com/betagouv/signalement-api,False
-https://github.com/betagouv/signalement-app,False
+https://github.com/betagouv/signalement-app,True
 https://github.com/betagouv/signup-back,True
 https://github.com/betagouv/signup-front,True
 https://github.com/betagouv/signup-oauth,True
@@ -1147,7 +1147,7 @@ https://github.com/cea-hpc/clustershell,True
 https://github.com/cea-hpc/fleet,True
 https://github.com/cea-hpc/gct,False
 https://github.com/cea-hpc/glost,True
-https://github.com/cea-hpc/gssapi,False
+https://github.com/cea-hpc/gssapi,True
 https://github.com/cea-hpc/heimdal,True
 https://github.com/cea-hpc/hp2p,True
 https://github.com/cea-hpc/kfs,False
@@ -1273,9 +1273,9 @@ https://github.com/clipos-archive/src_platform_strongswan-patches,False
 https://github.com/clipos-archive/src_platform_sub-clip,False
 https://github.com/clipos-archive/src_platform_syslinux-tpm-patches,False
 https://github.com/clipos-archive/src_platform_tpm-cmd,True
-https://github.com/clipos-archive/src_platform_usb-printer-devices,False
+https://github.com/clipos-archive/src_platform_usb-printer-devices,True
 https://github.com/clipos-archive/src_platform_usb-scanner-devices,True
-https://github.com/clipos-archive/src_platform_usb-video-devices,False
+https://github.com/clipos-archive/src_platform_usb-video-devices,True
 https://github.com/clipos-archive/src_platform_userd,False
 https://github.com/clipos-archive/src_platform_vaultguard,True
 https://github.com/clipos-archive/src_platform_verictl,False
@@ -1363,7 +1363,7 @@ https://github.com/entrepreneur-interet-general/2017,False
 https://github.com/entrepreneur-interet-general/AFD_projects,True
 https://github.com/entrepreneur-interet-general/CIS-front,True
 https://github.com/entrepreneur-interet-general/CartoBIO,False
-https://github.com/entrepreneur-interet-general/CartoBio-API,False
+https://github.com/entrepreneur-interet-general/CartoBio-API,True
 https://github.com/entrepreneur-interet-general/CartoBio-Presentation,False
 https://github.com/entrepreneur-interet-general/ESOTIM,True
 https://github.com/entrepreneur-interet-general/H3.Standard,True
@@ -1417,7 +1417,7 @@ https://github.com/entrepreneur-interet-general/open-agenda-eig2018,True
 https://github.com/entrepreneur-interet-general/open-moulinette,True
 https://github.com/entrepreneur-interet-general/open_api_schemas_to_markdown,True
 https://github.com/entrepreneur-interet-general/opensignauxfaibles,True
-https://github.com/entrepreneur-interet-general/ox-html-timeline,False
+https://github.com/entrepreneur-interet-general/ox-html-timeline,True
 https://github.com/entrepreneur-interet-general/pointk,False
 https://github.com/entrepreneur-interet-general/predisauvetage,True
 https://github.com/entrepreneur-interet-general/previsecours.github.io,True
@@ -1812,7 +1812,7 @@ https://github.com/numerique-gouv/numerique.gouv.fr,False
 https://github.com/numerique-gouv/numerique.gouv.fr-infra,False
 https://github.com/observatoire-territoires/KitsCarto-GdDebat,False
 https://github.com/observatoire-territoires/SOFIE,False
-https://github.com/observatoire-territoires/couvnum,False
+https://github.com/observatoire-territoires/couvnum,True
 https://github.com/observatoire-territoires/migR,True
 https://github.com/observatoire-territoires/rapport-OT-mobilites,True
 https://github.com/observatoire-territoires/shinyapp_mob_resid,False
@@ -1968,7 +1968,7 @@ https://github.com/openfun/openedx-xapi,False
 https://github.com/openfun/openfun.github.io,False
 https://github.com/openfun/openshift-docker,False
 https://github.com/openfun/password-container-xblock,True
-https://github.com/openfun/politique-de-contribution-open-source,False
+https://github.com/openfun/politique-de-contribution-open-source,True
 https://github.com/openfun/poss-2018,True
 https://github.com/openfun/potsie,False
 https://github.com/openfun/proctoru-xblock,True
@@ -2056,7 +2056,7 @@ https://github.com/wookey-project/hard-wookey-jtag,False
 https://github.com/wookey-project/hard-wookey-motherboard,False
 https://github.com/wookey-project/hard-wookey-screen,False
 https://github.com/wookey-project/javacard-applet,False
-https://github.com/wookey-project/layout-stm32f407,False
+https://github.com/wookey-project/layout-stm32f407,True
 https://github.com/wookey-project/layout-stm32f439,False
 https://github.com/wookey-project/libaes,True
 https://github.com/wookey-project/libconsole,True
@@ -2075,7 +2075,7 @@ https://github.com/wookey-project/libwookey,True
 https://github.com/wookey-project/manifest,True
 https://github.com/wookey-project/perms-matrix-disco407-samples,False
 https://github.com/wookey-project/perms-matrix-wookey,True
-https://github.com/wookey-project/tataouine,False
+https://github.com/wookey-project/tataouine,True
 https://github.com/wookey-project/wookey-project.github.io,False
 https://github.com/wookey-project/wookeypedia,False
 https://gitlab.com/healthdatahub/dico-snds,False
