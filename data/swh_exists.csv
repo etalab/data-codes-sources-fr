@@ -101,7 +101,7 @@ https://github.com/AlsaceDigitale/2018.hackingindustry.camp,False
 https://github.com/AlsaceDigitale/ad-cronjobs,False
 https://github.com/AlsaceDigitale/alsacedigitale-members,True
 https://github.com/AlsaceDigitale/alsacedigitale.org,True
-https://github.com/AlsaceDigitale/coworking-flex,False
+https://github.com/AlsaceDigitale/coworking-flex,True
 https://github.com/AlsaceDigitale/devoxx4kids,True
 https://github.com/AlsaceDigitale/edgefest-hacking,True
 https://github.com/AlsaceDigitale/edgefest-hacking-web-2014,True
@@ -526,7 +526,7 @@ https://github.com/Irstea/Redmine-mod-perl-auth,True
 https://github.com/Irstea/alisma,True
 https://github.com/Irstea/bd_patrimoine,False
 https://github.com/Irstea/bsc12,False
-https://github.com/Irstea/caso,False
+https://github.com/Irstea/caso,True
 https://github.com/Irstea/collec,True
 https://github.com/Irstea/escroc,True
 https://github.com/Irstea/esfc,False
@@ -673,7 +673,7 @@ https://github.com/PnEcrins/Manuel-QGIS-Forets-Anciennes,True
 https://github.com/PnEcrins/PatBati,True
 https://github.com/PnEcrins/Police,True
 https://github.com/PnX-SI/GeoNature,True
-https://github.com/PnX-SI/GeoNature-R-package,False
+https://github.com/PnX-SI/GeoNature-R-package,True
 https://github.com/PnX-SI/GeoNature-atlas,False
 https://github.com/PnX-SI/GeoNature-citizen,True
 https://github.com/PnX-SI/GeoPaysages,True
@@ -1026,7 +1026,7 @@ https://github.com/betagouv/ludwig-api,False
 https://github.com/betagouv/ludwig-ui,True
 https://github.com/betagouv/mas,True
 https://github.com/betagouv/mdph,True
-https://github.com/betagouv/mdph-evaluation,False
+https://github.com/betagouv/mdph-evaluation,True
 https://github.com/betagouv/mdph-geva-etl,False
 https://github.com/betagouv/mdph-redirect,True
 https://github.com/betagouv/mes-aides-analytics,True
@@ -1061,7 +1061,7 @@ https://github.com/betagouv/openfisca-mes-aides-reform,False
 https://github.com/betagouv/openfisca-ops,True
 https://github.com/betagouv/openfisca-paris,True
 https://github.com/betagouv/openfisca-parsers,False
-https://github.com/betagouv/openfisca-pau,False
+https://github.com/betagouv/openfisca-pau,True
 https://github.com/betagouv/openfisca-rennesmetropole,True
 https://github.com/betagouv/openfisca-tracer,True
 https://github.com/betagouv/openfisca-web-api,True
@@ -1134,7 +1134,7 @@ https://github.com/betagouv/syso-core,True
 https://github.com/betagouv/taux-collectifs-cotisation-atmp,False
 https://github.com/betagouv/taux-versement-transport,True
 https://github.com/betagouv/trait-d-union,False
-https://github.com/betagouv/verif.site,False
+https://github.com/betagouv/verif.site,True
 https://github.com/betagouv/voir-et-localiser-samu-sign-on,False
 https://github.com/betagouv/with-login,False
 https://github.com/betagouv/with-query-router,False
@@ -1224,7 +1224,7 @@ https://github.com/clipos-archive/src_platform_clip-livecd,True
 https://github.com/clipos-archive/src_platform_clip-lsm,False
 https://github.com/clipos-archive/src_platform_clip-mdadm,False
 https://github.com/clipos-archive/src_platform_clip-mdadm-clt,False
-https://github.com/clipos-archive/src_platform_clip-menu-xdg,False
+https://github.com/clipos-archive/src_platform_clip-menu-xdg,True
 https://github.com/clipos-archive/src_platform_clip-net,False
 https://github.com/clipos-archive/src_platform_clip-netd,False
 https://github.com/clipos-archive/src_platform_clip-patches,True
@@ -1736,7 +1736,7 @@ https://github.com/histovec/slides,False
 https://github.com/ia-flash/app,False
 https://github.com/ia-flash/demo,False
 https://github.com/ia-flash/matchvec,True
-https://github.com/ia-flash/sivnorm,False
+https://github.com/ia-flash/sivnorm,True
 https://github.com/ina-foss/ID-Fits,True
 https://github.com/ina-foss/afp-api-client,True
 https://github.com/ina-foss/amalia-model,True
@@ -1980,7 +1980,7 @@ https://github.com/openfun/videofront-client,True
 https://github.com/openfun/videofront-to-marsha,False
 https://github.com/openfun/xblock-Glowbl,True
 https://github.com/openfun/xblock-configurable-lti-consumer,True
-https://github.com/openfun/xblock-ipython,False
+https://github.com/openfun/xblock-ipython,True
 https://github.com/openfun/xblock-proctor-exam,True
 https://github.com/openfun/xblock-utils2,True
 https://github.com/polewebmaedi/MAEDI-Capitales,True
@@ -2085,7 +2085,7 @@ https://gitlab.com/healthdatahub/schema-snds,False
 https://gitlab.com/healthdatahub/tsfaker,True
 https://gitlab.com/pidila/checklist-pidila,True
 https://gitlab.com/pidila/kit-module-scampi,True
-https://gitlab.com/pidila/kit-sprite-svg,False
+https://gitlab.com/pidila/kit-sprite-svg,True
 https://gitlab.com/pidila/pidila.gitlab.io,False
 https://gitlab.com/pidila/scampi,True
 https://gitlab.com/pidila/scampi-twig,False
