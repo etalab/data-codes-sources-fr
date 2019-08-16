@@ -126,7 +126,7 @@ https://github.com/AlsaceDigitale/strasbourgstartups,True
 https://github.com/AlsaceDigitale/tools,True
 https://github.com/AlsaceDigitale/winter-school-industry,False
 https://github.com/AlsaceDigitale/www.edgefest.fr,True
-https://github.com/AlsaceDigitale/www.edgefest.fr-2019-temporary,False
+https://github.com/AlsaceDigitale/www.edgefest.fr-2019-temporary,True
 https://github.com/AlsaceDigitale/www.hackingindustry.camp,False
 https://github.com/AlsaceDigitale/www.hacksxb.com,True
 https://github.com/AlsaceDigitale/www.swstrasbourg.eu,False
@@ -514,7 +514,7 @@ https://github.com/InseeFr/Lunatic,False
 https://github.com/InseeFr/Lunatic-Model,False
 https://github.com/InseeFr/Meleze,False
 https://github.com/InseeFr/Mesange,True
-https://github.com/InseeFr/Metadata-API,False
+https://github.com/InseeFr/Metadata-API,True
 https://github.com/InseeFr/Omphale,False
 https://github.com/InseeFr/Ontologies,False
 https://github.com/InseeFr/Pogues,True
@@ -1031,7 +1031,7 @@ https://github.com/betagouv/mdph-evaluation,True
 https://github.com/betagouv/mdph-geva-etl,False
 https://github.com/betagouv/mdph-redirect,True
 https://github.com/betagouv/mes-aides-analytics,True
-https://github.com/betagouv/mes-aides-api,False
+https://github.com/betagouv/mes-aides-api,True
 https://github.com/betagouv/mes-aides-campaign,False
 https://github.com/betagouv/mes-aides-docker,True
 https://github.com/betagouv/mes-aides-dockerfiles,False
@@ -1189,7 +1189,7 @@ https://github.com/clipos-archive/src_platform_CLIP-Conf-Base,False
 https://github.com/clipos-archive/src_platform_CLIP-Logger,True
 https://github.com/clipos-archive/src_platform_CLIP-Mount,False
 https://github.com/clipos-archive/src_platform_CLIP-Pkg-Base,False
-https://github.com/clipos-archive/src_platform_CLIP-Pkg-Download,False
+https://github.com/clipos-archive/src_platform_CLIP-Pkg-Download,True
 https://github.com/clipos-archive/src_platform_CLIP-Pkg-Install,False
 https://github.com/clipos-archive/src_platform_CLIP-Pkg-QA,False
 https://github.com/clipos-archive/src_platform_ClipQt,False
@@ -1211,7 +1211,7 @@ https://github.com/clipos-archive/src_platform_clip-emblem,False
 https://github.com/clipos-archive/src_platform_clip-eraser,False
 https://github.com/clipos-archive/src_platform_clip-generic-net,True
 https://github.com/clipos-archive/src_platform_clip-gtw-net,False
-https://github.com/clipos-archive/src_platform_clip-hardware,False
+https://github.com/clipos-archive/src_platform_clip-hardware,True
 https://github.com/clipos-archive/src_platform_clip-icons,False
 https://github.com/clipos-archive/src_platform_clip-install-clip,False
 https://github.com/clipos-archive/src_platform_clip-install-common,False
@@ -1263,7 +1263,7 @@ https://github.com/clipos-archive/src_platform_pfring-kernel-patches,False
 https://github.com/clipos-archive/src_platform_portage-derive,False
 https://github.com/clipos-archive/src_platform_pwcheckd,True
 https://github.com/clipos-archive/src_platform_rm-sessions,False
-https://github.com/clipos-archive/src_platform_rmh-config,False
+https://github.com/clipos-archive/src_platform_rmh-config,True
 https://github.com/clipos-archive/src_platform_scdaemon,False
 https://github.com/clipos-archive/src_platform_smartcard-monitor,True
 https://github.com/clipos-archive/src_platform_smartcard-readers,False
@@ -1272,7 +1272,7 @@ https://github.com/clipos-archive/src_platform_ssm-display,True
 https://github.com/clipos-archive/src_platform_strongswan-clip-updown,False
 https://github.com/clipos-archive/src_platform_strongswan-patches,False
 https://github.com/clipos-archive/src_platform_sub-clip,False
-https://github.com/clipos-archive/src_platform_syslinux-tpm-patches,False
+https://github.com/clipos-archive/src_platform_syslinux-tpm-patches,True
 https://github.com/clipos-archive/src_platform_tpm-cmd,True
 https://github.com/clipos-archive/src_platform_usb-printer-devices,True
 https://github.com/clipos-archive/src_platform_usb-scanner-devices,True
@@ -1410,7 +1410,7 @@ https://github.com/entrepreneur-interet-general/manifeste-eig,True
 https://github.com/entrepreneur-interet-general/matchID,True
 https://github.com/entrepreneur-interet-general/matchID-search,True
 https://github.com/entrepreneur-interet-general/matchid-rnipp,True
-https://github.com/entrepreneur-interet-general/metadocs,False
+https://github.com/entrepreneur-interet-general/metadocs,True
 https://github.com/entrepreneur-interet-general/mkinx,True
 https://github.com/entrepreneur-interet-general/numerilab,True
 https://github.com/entrepreneur-interet-general/o2-data,True
@@ -1444,7 +1444,7 @@ https://github.com/eole/docs,True
 https://github.com/eole/e-auth,True
 https://github.com/eole/e2guardian,True
 https://github.com/eole/faketools,True
-https://github.com/eole/libvirt-formula,False
+https://github.com/eole/libvirt-formula,True
 https://github.com/eole/mastodon,True
 https://github.com/eole/one,False
 https://github.com/eole/redmine_backlogs,True
@@ -1716,7 +1716,7 @@ https://github.com/fabnumdef/e-chauffeur_api,True
 https://github.com/fabnumdef/e-chauffeur_dashboard,True
 https://github.com/fabnumdef/e-chauffeur_driver,True
 https://github.com/fabnumdef/e-chauffeur_lib-vue,True
-https://github.com/fabnumdef/e-chauffeur_user,False
+https://github.com/fabnumdef/e-chauffeur_user,True
 https://github.com/fabnumdef/fabnumdef.d3,False
 https://github.com/fabnumdef/fabnumdef.github.io,True
 https://github.com/fabnumdef/resources,False
@@ -1948,7 +1948,7 @@ https://github.com/openfun/fun-cmd,True
 https://github.com/openfun/fun-config,False
 https://github.com/openfun/fun-logstash,True
 https://github.com/openfun/fun-microsites-demo,True
-https://github.com/openfun/fun-mooc,False
+https://github.com/openfun/fun-mooc,True
 https://github.com/openfun/fun-translations,True
 https://github.com/openfun/fun-videofront-xblock,True
 https://github.com/openfun/hackathon,True
@@ -2026,15 +2026,15 @@ https://github.com/wookey-project/app-bench-logger,False
 https://github.com/wookey-project/app-bench-syscalls,True
 https://github.com/wookey-project/app-dfu-cryp,False
 https://github.com/wookey-project/app-dfu-smart,False
-https://github.com/wookey-project/app-dfu-usb,False
+https://github.com/wookey-project/app-dfu-usb,True
 https://github.com/wookey-project/app-sample-blinky,False
-https://github.com/wookey-project/app-sample-button,False
+https://github.com/wookey-project/app-sample-button,True
 https://github.com/wookey-project/app-sample-leds,False
 https://github.com/wookey-project/app-wookey-crypto,False
 https://github.com/wookey-project/app-wookey-flash,False
 https://github.com/wookey-project/app-wookey-pin,False
 https://github.com/wookey-project/app-wookey-sdio,False
-https://github.com/wookey-project/app-wookey-smart,False
+https://github.com/wookey-project/app-wookey-smart,True
 https://github.com/wookey-project/app-wookey-usb,False
 https://github.com/wookey-project/board-32f407disco,True
 https://github.com/wookey-project/board-32f439wookey,False
