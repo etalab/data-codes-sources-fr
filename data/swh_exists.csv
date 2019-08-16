@@ -399,7 +399,7 @@ https://github.com/Inist-CNRS/ezmaster-cli,True
 https://github.com/Inist-CNRS/ezmaster-gitbook,True
 https://github.com/Inist-CNRS/ezmaster-globs,False
 https://github.com/Inist-CNRS/ezmaster-hexo,True
-https://github.com/Inist-CNRS/ezmaster-jekyll,False
+https://github.com/Inist-CNRS/ezmaster-jekyll,True
 https://github.com/Inist-CNRS/ezmaster-mongo,True
 https://github.com/Inist-CNRS/ezmaster-mysql,False
 https://github.com/Inist-CNRS/ezmaster-phpserver,False
@@ -659,7 +659,7 @@ https://github.com/PnCevennes/projet_suivis_frontend,True
 https://github.com/PnCevennes/qgis_python_script,True
 https://github.com/PnCevennes/saisieFlore,True
 https://github.com/PnCevennes/signature_mails,True
-https://github.com/PnCevennes/test,False
+https://github.com/PnCevennes/test,True
 https://github.com/PnCevennes/testAngular2,True
 https://github.com/PnCevennes/tizoutis-front,True
 https://github.com/PnEcrins/Flask-leaflet-example,False
@@ -1380,7 +1380,7 @@ https://github.com/entrepreneur-interet-general/api-ccomptes,True
 https://github.com/entrepreneur-interet-general/archapp,False
 https://github.com/entrepreneur-interet-general/archypoint,True
 https://github.com/entrepreneur-interet-general/brigade-numerique,False
-https://github.com/entrepreneur-interet-general/bulletins,False
+https://github.com/entrepreneur-interet-general/bulletins,True
 https://github.com/entrepreneur-interet-general/bulletins-docs,False
 https://github.com/entrepreneur-interet-general/cartav,True
 https://github.com/entrepreneur-interet-general/cheapExp,False
@@ -1483,7 +1483,7 @@ https://github.com/erasme/ansible-tmux,True
 https://github.com/erasme/carto,True
 https://github.com/erasme/casrack_the_authenticator,True
 https://github.com/erasme/check_cciss,True
-https://github.com/erasme/cuisine_collective,False
+https://github.com/erasme/cuisine_collective,True
 https://github.com/erasme/dotfiles,True
 https://github.com/erasme/erabackup,True
 https://github.com/erasme/erajs,True
@@ -2074,7 +2074,7 @@ https://github.com/wookey-project/libstd,False
 https://github.com/wookey-project/libtoken,True
 https://github.com/wookey-project/libwookey,True
 https://github.com/wookey-project/manifest,True
-https://github.com/wookey-project/perms-matrix-disco407-samples,False
+https://github.com/wookey-project/perms-matrix-disco407-samples,True
 https://github.com/wookey-project/perms-matrix-wookey,True
 https://github.com/wookey-project/tataouine,True
 https://github.com/wookey-project/wookey-project.github.io,False
@@ -2082,7 +2082,7 @@ https://github.com/wookey-project/wookeypedia,False
 https://gitlab.com/healthdatahub/dico-snds,False
 https://gitlab.com/healthdatahub/documentation-snds,False
 https://gitlab.com/healthdatahub/programmes-sdns,True
-https://gitlab.com/healthdatahub/schema-snds,False
+https://gitlab.com/healthdatahub/schema-snds,True
 https://gitlab.com/healthdatahub/tsfaker,True
 https://gitlab.com/pidila/checklist-pidila,True
 https://gitlab.com/pidila/kit-module-scampi,True
