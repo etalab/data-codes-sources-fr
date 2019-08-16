@@ -166,7 +166,7 @@ https://github.com/CEREMA/dsi.adutils,False
 https://github.com/CEREMA/dterce.ressource_covadis,True
 https://github.com/CEREMA/dtermed-ceremao,True
 https://github.com/CEREMA/dtermed.ML_bati_non-bati,False
-https://github.com/CEREMA/dtermed.MobiTC,False
+https://github.com/CEREMA/dtermed.MobiTC,True
 https://github.com/CEREMA/dtermed.MobiTC2,False
 https://github.com/CEREMA/dtermed.annuaire,False
 https://github.com/CEREMA/dtermed.anywhere,False
@@ -389,7 +389,7 @@ https://github.com/Inist-CNRS/KitGPEC,True
 https://github.com/Inist-CNRS/MetHAL,True
 https://github.com/Inist-CNRS/RefGPEC,True
 https://github.com/Inist-CNRS/compose-workshop,True
-https://github.com/Inist-CNRS/computron,False
+https://github.com/Inist-CNRS/computron,True
 https://github.com/Inist-CNRS/diachronic-explorer,True
 https://github.com/Inist-CNRS/ezark,True
 https://github.com/Inist-CNRS/ezmaster,True
@@ -1244,7 +1244,7 @@ https://github.com/clipos-archive/src_platform_clip-vserver,True
 https://github.com/clipos-archive/src_platform_clip-wallpapers,False
 https://github.com/clipos-archive/src_platform_core-services,False
 https://github.com/clipos-archive/src_platform_cryptclt,False
-https://github.com/clipos-archive/src_platform_cryptd,False
+https://github.com/clipos-archive/src_platform_cryptd,True
 https://github.com/clipos-archive/src_platform_debootstrap-clip,False
 https://github.com/clipos-archive/src_platform_downloadrequest,False
 https://github.com/clipos-archive/src_platform_fbpanel-clip,False
@@ -1373,7 +1373,7 @@ https://github.com/entrepreneur-interet-general/OpenScraper,True
 https://github.com/entrepreneur-interet-general/PST2Win,True
 https://github.com/entrepreneur-interet-general/Shom.H3,False
 https://github.com/entrepreneur-interet-general/Shom.S57,True
-https://github.com/entrepreneur-interet-general/addocker,False
+https://github.com/entrepreneur-interet-general/addocker,True
 https://github.com/entrepreneur-interet-general/addok-fr,False
 https://github.com/entrepreneur-interet-general/agenda-eig2018,True
 https://github.com/entrepreneur-interet-general/api-ccomptes,True
@@ -1516,7 +1516,7 @@ https://github.com/etalab/adresse-pipeline,False
 https://github.com/etalab/adresse.data.gouv.fr,True
 https://github.com/etalab/adresse.data.gouv.fr-backend,False
 https://github.com/etalab/adresses-cadastre,True
-https://github.com/etalab/adresses-ftth,False
+https://github.com/etalab/adresses-ftth,True
 https://github.com/etalab/adresses-locales,True
 https://github.com/etalab/adresses-util,False
 https://github.com/etalab/agd.data.gouv.fr,True
@@ -1569,7 +1569,7 @@ https://github.com/etalab/collectivites.data.gouv.fr,True
 https://github.com/etalab/comptes-collectivites,True
 https://github.com/etalab/contours-administratifs,False
 https://github.com/etalab/contribution-adresse,True
-https://github.com/etalab/couverture-urbanisme,False
+https://github.com/etalab/couverture-urbanisme,True
 https://github.com/etalab/cowbots,True
 https://github.com/etalab/csv-gg,False
 https://github.com/etalab/csv2html,True
