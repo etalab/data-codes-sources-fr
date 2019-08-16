@@ -180,7 +180,7 @@ https://github.com/CEREMA/dtermed.cvrh.resalia,False
 https://github.com/CEREMA/dtermed.dashboard,False
 https://github.com/CEREMA/dtermed.db.bpclight,False
 https://github.com/CEREMA/dtermed.db.cerema.vibren,False
-https://github.com/CEREMA/dtermed.db.preshume,False
+https://github.com/CEREMA/dtermed.db.preshume,True
 https://github.com/CEREMA/dtermed.deploy,False
 https://github.com/CEREMA/dtermed.detection-friches,True
 https://github.com/CEREMA/dtermed.ecureuil,False
@@ -563,6 +563,7 @@ https://github.com/MTES-MCT/aides-territoires,True
 https://github.com/MTES-MCT/assec,True
 https://github.com/MTES-MCT/bulk-geocoding-python-client,False
 https://github.com/MTES-MCT/camino-api,True
+https://github.com/MTES-MCT/camino-database,False
 https://github.com/MTES-MCT/camino-flux,True
 https://github.com/MTES-MCT/camino-imports-geojson,False
 https://github.com/MTES-MCT/camino-imports-postgres,False
@@ -882,7 +883,7 @@ https://github.com/afimb/siri-validator,True
 https://github.com/afimb/siri_api,True
 https://github.com/afimb/siri_lite,True
 https://github.com/afimb/webtopo_api,True
-https://github.com/atlanmod/ACP,False
+https://github.com/atlanmod/ACP,True
 https://github.com/atlanmod/ACP-FIX,False
 https://github.com/atlanmod/ACP-all,False
 https://github.com/atlanmod/ACPolicies,True
@@ -951,7 +952,7 @@ https://github.com/betagouv/OpenLawEditor,True
 https://github.com/betagouv/PeerTube,False
 https://github.com/betagouv/admin-traitdunion,False
 https://github.com/betagouv/allegement-fillon,True
-https://github.com/betagouv/andi,False
+https://github.com/betagouv/andi,True
 https://github.com/betagouv/annuaire,False
 https://github.com/betagouv/annuaire-api,True
 https://github.com/betagouv/annuaire-import,True
@@ -1060,7 +1061,7 @@ https://github.com/betagouv/openfisca-loiret,True
 https://github.com/betagouv/openfisca-mes-aides-reform,False
 https://github.com/betagouv/openfisca-ops,True
 https://github.com/betagouv/openfisca-paris,True
-https://github.com/betagouv/openfisca-parsers,False
+https://github.com/betagouv/openfisca-parsers,True
 https://github.com/betagouv/openfisca-pau,True
 https://github.com/betagouv/openfisca-rennesmetropole,True
 https://github.com/betagouv/openfisca-tracer,True
@@ -1136,7 +1137,7 @@ https://github.com/betagouv/taux-versement-transport,True
 https://github.com/betagouv/trait-d-union,False
 https://github.com/betagouv/verif.site,True
 https://github.com/betagouv/voir-et-localiser-samu-sign-on,False
-https://github.com/betagouv/with-login,False
+https://github.com/betagouv/with-login,True
 https://github.com/betagouv/with-query-router,False
 https://github.com/betagouv/with-react-login,False
 https://github.com/betagouv/with-react-redux-login,False
@@ -1208,14 +1209,14 @@ https://github.com/clipos-archive/src_platform_clip-devutils,False
 https://github.com/clipos-archive/src_platform_clip-download,False
 https://github.com/clipos-archive/src_platform_clip-emblem,False
 https://github.com/clipos-archive/src_platform_clip-eraser,False
-https://github.com/clipos-archive/src_platform_clip-generic-net,False
+https://github.com/clipos-archive/src_platform_clip-generic-net,True
 https://github.com/clipos-archive/src_platform_clip-gtw-net,False
 https://github.com/clipos-archive/src_platform_clip-hardware,False
 https://github.com/clipos-archive/src_platform_clip-icons,False
 https://github.com/clipos-archive/src_platform_clip-install-clip,False
 https://github.com/clipos-archive/src_platform_clip-install-common,False
 https://github.com/clipos-archive/src_platform_clip-install-config,False
-https://github.com/clipos-archive/src_platform_clip-install-gui,False
+https://github.com/clipos-archive/src_platform_clip-install-gui,True
 https://github.com/clipos-archive/src_platform_clip-install-rm,False
 https://github.com/clipos-archive/src_platform_clip-installer,True
 https://github.com/clipos-archive/src_platform_clip-lib,False
@@ -1291,7 +1292,7 @@ https://github.com/clipos/buildbot,True
 https://github.com/clipos/clipos.github.io,True
 https://github.com/clipos/docs,True
 https://github.com/clipos/manifest,True
-https://github.com/clipos/products_clipos,False
+https://github.com/clipos/products_clipos,True
 https://github.com/clipos/src_external_linux,True
 https://github.com/clipos/src_external_systemd,True
 https://github.com/clipos/src_platform_config-linux-hardware,True
@@ -1412,7 +1413,7 @@ https://github.com/entrepreneur-interet-general/matchid-rnipp,True
 https://github.com/entrepreneur-interet-general/metadocs,False
 https://github.com/entrepreneur-interet-general/mkinx,True
 https://github.com/entrepreneur-interet-general/numerilab,True
-https://github.com/entrepreneur-interet-general/o2-data,False
+https://github.com/entrepreneur-interet-general/o2-data,True
 https://github.com/entrepreneur-interet-general/open-agenda-eig2018,True
 https://github.com/entrepreneur-interet-general/open-moulinette,True
 https://github.com/entrepreneur-interet-general/open_api_schemas_to_markdown,True
@@ -1589,7 +1590,7 @@ https://github.com/etalab/doc.data.gouv.fr,True
 https://github.com/etalab/doc.entreprise.api.gouv.fr,True
 https://github.com/etalab/docker-ansible-git-crypt,False
 https://github.com/etalab/docker-datagouv,True
-https://github.com/etalab/dotation-globale-fonctionnement,False
+https://github.com/etalab/dotation-globale-fonctionnement,True
 https://github.com/etalab/dvf,False
 https://github.com/etalab/edigeo-parser,True
 https://github.com/etalab/edigeo-reproject,True
@@ -1653,7 +1654,7 @@ https://github.com/etalab/optimouv,True
 https://github.com/etalab/organismes-formation,True
 https://github.com/etalab/osem,True
 https://github.com/etalab/osm-wms,True
-https://github.com/etalab/ouverture-des-codes-sources-publics,False
+https://github.com/etalab/ouverture-des-codes-sources-publics,True
 https://github.com/etalab/ox-html-timeline,False
 https://github.com/etalab/piaf,True
 https://github.com/etalab/piwik-covisits,True
@@ -1666,11 +1667,11 @@ https://github.com/etalab/project-legal,True
 https://github.com/etalab/pseudononymizer,False
 https://github.com/etalab/quartiers-prioritaires,True
 https://github.com/etalab/retos-civicos,True
-https://github.com/etalab/retweet,False
+https://github.com/etalab/retweet,True
 https://github.com/etalab/rna_as_api,True
 https://github.com/etalab/rncs_worker_api_entreprise,True
 https://github.com/etalab/schema-decp-dpa,True
-https://github.com/etalab/schema-irve,False
+https://github.com/etalab/schema-irve,True
 https://github.com/etalab/schema-lieux-covoiturage,True
 https://github.com/etalab/schema.data.gouv.fr,True
 https://github.com/etalab/scpc-as-api,True
@@ -1726,7 +1727,7 @@ https://github.com/geodatagouv/geogw,True
 https://github.com/geodatagouv/geoplatform,True
 https://github.com/geodatagouv/link-analyzer,False
 https://github.com/geodatagouv/link-proxy,True
-https://github.com/geodatagouv/parsers,False
+https://github.com/geodatagouv/parsers,True
 https://github.com/geodatagouv/plunger,True
 https://github.com/geodatagouv/transcoder,True
 https://github.com/geodatagouv/wfs-client,True
@@ -2000,11 +2001,11 @@ https://github.com/sigrennesmetropole/api_rva,True
 https://github.com/sigrennesmetropole/cadastrapp,True
 https://github.com/sigrennesmetropole/geoserver_sld,True
 https://github.com/sigrennesmetropole/images,True
-https://github.com/sigrennesmetropole/mviewerstudio,False
+https://github.com/sigrennesmetropole/mviewerstudio,True
 https://github.com/sigrennesmetropole/photos_obliques,True
 https://github.com/sigrennesmetropole/rmtr,False
 https://github.com/sigrennesmetropole/sviewer,False
-https://github.com/sigrennesmetropole/sviewer_generator,False
+https://github.com/sigrennesmetropole/sviewer_generator,True
 https://github.com/sigrennesmetropole/visualiseur,False
 https://github.com/snosan-tools/avurnavs-csv,False
 https://github.com/snosan-tools/avurnavs-fichiers,True
@@ -2052,7 +2053,7 @@ https://github.com/wookey-project/ewok-kernel,False
 https://github.com/wookey-project/ewok-legacy,False
 https://github.com/wookey-project/hard-libs,True
 https://github.com/wookey-project/hard-tools,True
-https://github.com/wookey-project/hard-wookey-jtag,False
+https://github.com/wookey-project/hard-wookey-jtag,True
 https://github.com/wookey-project/hard-wookey-motherboard,False
 https://github.com/wookey-project/hard-wookey-screen,False
 https://github.com/wookey-project/javacard-applet,False
@@ -2061,7 +2062,7 @@ https://github.com/wookey-project/layout-stm32f439,False
 https://github.com/wookey-project/libaes,True
 https://github.com/wookey-project/libconsole,True
 https://github.com/wookey-project/libdes,False
-https://github.com/wookey-project/libdfu,False
+https://github.com/wookey-project/libdfu,True
 https://github.com/wookey-project/libfw,False
 https://github.com/wookey-project/libgui,False
 https://github.com/wookey-project/libhmac,False

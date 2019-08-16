@@ -8,7 +8,7 @@ dtermed.bpclight-old,CEREMA,GitHub,https://github.com/CEREMA/dtermed.bpclight-ol
 com.cerema.infocentre_old,CEREMA,GitHub,https://github.com/CEREMA/com.cerema.infocentre_old,CEREMA Infocentre,False,False,2015-02-09T13:54:27Z,2015-06-02T08:46:27Z,,0,0,,0,JavaScript,,True,https://archive.softwareheritage.org/browse/origin/https://github.com/CEREMA/com.cerema.infocentre_old/directory/
 dtermed.mobile.ecureuil,CEREMA,GitHub,https://github.com/CEREMA/dtermed.mobile.ecureuil,Projet mobile ecureuil,False,False,2015-03-06T14:23:58Z,2018-06-11T10:29:26Z,,0,0,,0,HTML,,False,
 dtermed.preshume,CEREMA,GitHub,https://github.com/CEREMA/dtermed.preshume,Gestion prévisionnelle des RH,True,False,2015-07-17T11:35:34Z,2018-06-11T10:28:23Z,,0,0,,0,JavaScript,,False,
-dtermed.db.preshume,CEREMA,GitHub,https://github.com/CEREMA/dtermed.db.preshume,sql,False,False,2015-07-17T11:47:38Z,2018-06-08T10:56:53Z,,0,0,,0,,,False,
+dtermed.db.preshume,CEREMA,GitHub,https://github.com/CEREMA/dtermed.db.preshume,sql,False,False,2015-07-17T11:47:38Z,2018-06-08T10:56:53Z,,0,0,,0,,,True,https://archive.softwareheritage.org/browse/origin/https://github.com/CEREMA/dtermed.db.preshume/directory/
 dtermed.cvrh.resalia,CEREMA,GitHub,https://github.com/CEREMA/dtermed.cvrh.resalia,Logiciel de Réservation du CVRH,False,False,2015-11-23T15:14:06Z,2018-06-08T11:08:31Z,,0,0,,15,JavaScript,,False,
 dtermed.sapei,CEREMA,GitHub,https://github.com/CEREMA/dtermed.sapei,Suivi d'activité,False,False,2016-01-15T12:37:36Z,2018-06-08T11:08:54Z,,0,0,,6,JavaScript,,False,
 dtermed.virtualdesktop,CEREMA,GitHub,https://github.com/CEREMA/dtermed.virtualdesktop,2016 Project,False,False,2016-01-20T16:54:43Z,2018-06-11T10:03:48Z,,0,0,,0,JavaScript,,False,
