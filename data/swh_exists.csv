@@ -193,7 +193,7 @@ https://github.com/CEREMA/dtermed.infocentre,False
 https://github.com/CEREMA/dtermed.mobile.ecureuil,False
 https://github.com/CEREMA/dtermed.owncloud,True
 https://github.com/CEREMA/dtermed.preshume,False
-https://github.com/CEREMA/dtermed.rivages,False
+https://github.com/CEREMA/dtermed.rivages,True
 https://github.com/CEREMA/dtermed.rivages-old,True
 https://github.com/CEREMA/dtermed.sapei,False
 https://github.com/CEREMA/dtermed.sysiphe,False
@@ -401,7 +401,7 @@ https://github.com/Inist-CNRS/ezmaster-globs,False
 https://github.com/Inist-CNRS/ezmaster-hexo,True
 https://github.com/Inist-CNRS/ezmaster-jekyll,True
 https://github.com/Inist-CNRS/ezmaster-mongo,True
-https://github.com/Inist-CNRS/ezmaster-mysql,False
+https://github.com/Inist-CNRS/ezmaster-mysql,True
 https://github.com/Inist-CNRS/ezmaster-phpserver,False
 https://github.com/Inist-CNRS/ezmaster-virtuoso,True
 https://github.com/Inist-CNRS/ezmaster-web-term,True
@@ -420,7 +420,7 @@ https://github.com/Inist-CNRS/lodex-styleguide,True
 https://github.com/Inist-CNRS/lodex-themes,True
 https://github.com/Inist-CNRS/lodex-use-cases,True
 https://github.com/Inist-CNRS/lodex-users-doc,True
-https://github.com/Inist-CNRS/lodex-v1,False
+https://github.com/Inist-CNRS/lodex-v1,True
 https://github.com/Inist-CNRS/lodex-widget,True
 https://github.com/Inist-CNRS/lodex-widgets,True
 https://github.com/Inist-CNRS/lodex-workers,False
@@ -532,7 +532,7 @@ https://github.com/Irstea/escroc,True
 https://github.com/Irstea/esfc,False
 https://github.com/Irstea/filo-science,False
 https://github.com/Irstea/irrig,True
-https://github.com/Irstea/otolithe,False
+https://github.com/Irstea/otolithe,True
 https://github.com/Irstea/usact,False
 https://github.com/Irstea/w3id.org,False
 https://github.com/LAB-MI/LAB-MI.github.io,True
@@ -563,7 +563,7 @@ https://github.com/MTES-MCT/aides-territoires,True
 https://github.com/MTES-MCT/assec,True
 https://github.com/MTES-MCT/bulk-geocoding-python-client,False
 https://github.com/MTES-MCT/camino-api,True
-https://github.com/MTES-MCT/camino-database,False
+https://github.com/MTES-MCT/camino-database,True
 https://github.com/MTES-MCT/camino-flux,True
 https://github.com/MTES-MCT/camino-imports-geojson,False
 https://github.com/MTES-MCT/camino-imports-postgres,False
@@ -909,7 +909,7 @@ https://github.com/atlanmod/Prefetching_Caching_DSL,True
 https://github.com/atlanmod/ThingML,True
 https://github.com/atlanmod/UML2NoSQL,True
 https://github.com/atlanmod/atl,False
-https://github.com/atlanmod/atlanmod-platform,False
+https://github.com/atlanmod/atlanmod-platform,True
 https://github.com/atlanmod/atlanmod.github.io,True
 https://github.com/atlanmod/busfactor_demo,True
 https://github.com/atlanmod/csy-traceability,True
@@ -1227,7 +1227,7 @@ https://github.com/clipos-archive/src_platform_clip-mdadm,False
 https://github.com/clipos-archive/src_platform_clip-mdadm-clt,False
 https://github.com/clipos-archive/src_platform_clip-menu-xdg,True
 https://github.com/clipos-archive/src_platform_clip-net,False
-https://github.com/clipos-archive/src_platform_clip-netd,False
+https://github.com/clipos-archive/src_platform_clip-netd,True
 https://github.com/clipos-archive/src_platform_clip-patches,True
 https://github.com/clipos-archive/src_platform_clip-pkgdb,False
 https://github.com/clipos-archive/src_platform_clip-sub,False
@@ -1239,7 +1239,7 @@ https://github.com/clipos-archive/src_platform_clip-usb-keys,False
 https://github.com/clipos-archive/src_platform_clip-user-mount,True
 https://github.com/clipos-archive/src_platform_clip-useradmin,False
 https://github.com/clipos-archive/src_platform_clip-viewer,False
-https://github.com/clipos-archive/src_platform_clip-vpn-net,False
+https://github.com/clipos-archive/src_platform_clip-vpn-net,True
 https://github.com/clipos-archive/src_platform_clip-vserver,True
 https://github.com/clipos-archive/src_platform_clip-wallpapers,False
 https://github.com/clipos-archive/src_platform_core-services,False
@@ -1258,13 +1258,13 @@ https://github.com/clipos-archive/src_platform_libanssipki-client,False
 https://github.com/clipos-archive/src_platform_libanssipki-crypto,False
 https://github.com/clipos-archive/src_platform_openbsd-malloc,False
 https://github.com/clipos-archive/src_platform_pam_exec_pwd,True
-https://github.com/clipos-archive/src_platform_pam_jail,False
+https://github.com/clipos-archive/src_platform_pam_jail,True
 https://github.com/clipos-archive/src_platform_pfring-kernel-patches,False
 https://github.com/clipos-archive/src_platform_portage-derive,False
 https://github.com/clipos-archive/src_platform_pwcheckd,True
 https://github.com/clipos-archive/src_platform_rm-sessions,False
 https://github.com/clipos-archive/src_platform_rmh-config,True
-https://github.com/clipos-archive/src_platform_scdaemon,False
+https://github.com/clipos-archive/src_platform_scdaemon,True
 https://github.com/clipos-archive/src_platform_smartcard-monitor,True
 https://github.com/clipos-archive/src_platform_smartcard-readers,False
 https://github.com/clipos-archive/src_platform_splash-theme-clip,True
@@ -1317,7 +1317,7 @@ https://github.com/communaute-cimi/nm-geoalerte-back,True
 https://github.com/communaute-cimi/nm-geoalerte-docs,True
 https://github.com/communaute-cimi/nm-geoalerte-front,True
 https://github.com/communaute-cimi/nm-geoalerte-mob,True
-https://github.com/communaute-cimi/presentation-cimi,False
+https://github.com/communaute-cimi/presentation-cimi,True
 https://github.com/communaute-cimi/qgis-csv-color-map,True
 https://github.com/communaute-cimi/qgis-minint,True
 https://github.com/communaute-cimi/qgis-minint-plugin-geocoding,True
@@ -1676,7 +1676,7 @@ https://github.com/etalab/schema-lieux-covoiturage,True
 https://github.com/etalab/schema.data.gouv.fr,True
 https://github.com/etalab/scpc-as-api,True
 https://github.com/etalab/secateur,True
-https://github.com/etalab/sirene,False
+https://github.com/etalab/sirene,True
 https://github.com/etalab/sirene_as_api,True
 https://github.com/etalab/sirene_as_api_ansible,True
 https://github.com/etalab/sorry.data.gouv.fr,False
@@ -1784,7 +1784,7 @@ https://github.com/messagerie-melanie2/Roundcube-Skin-Melanie2-Larry,True
 https://github.com/messagerie-melanie2/Roundcube-Skin-Melanie2-Larry-Mobile,True
 https://github.com/messagerie-melanie2/Roundcube-plugins-Mel,False
 https://github.com/messagerie-melanie2/SabreDAVM2,True
-https://github.com/meteofrance/formation-deep-learning,False
+https://github.com/meteofrance/formation-deep-learning,True
 https://github.com/meteofrance/meteofrance.github.io,True
 https://github.com/micmacIGN/Documentation,True
 https://github.com/micmacIGN/InterfaceCEREMA,True
@@ -1795,7 +1795,7 @@ https://github.com/minagri-initial/angular-components,False
 https://github.com/minagri-initial/api.gouv.fr,False
 https://github.com/minagri-initial/arpent-api,False
 https://github.com/minagri-initial/arpent-examen,True
-https://github.com/minagri-initial/ift,False
+https://github.com/minagri-initial/ift,True
 https://github.com/minagri-initial/ift-api,True
 https://github.com/minagri-initial/sinex-preregistration-dto,False
 https://github.com/nanterre/Bienvenue,True
