@@ -570,7 +570,7 @@ https://github.com/MTES-MCT/camino-imports-postgres,False
 https://github.com/MTES-MCT/camino-imports-spreadsheet-jorf,True
 https://github.com/MTES-MCT/camino-imports-spreadsheets,True
 https://github.com/MTES-MCT/camino-landingpage,True
-https://github.com/MTES-MCT/camino-portainer,False
+https://github.com/MTES-MCT/camino-portainer,True
 https://github.com/MTES-MCT/camino-scripting,False
 https://github.com/MTES-MCT/camino-ui,True
 https://github.com/MTES-MCT/choisir-une-licence,False
@@ -650,7 +650,7 @@ https://github.com/PnCevennes/courbes_eau,True
 https://github.com/PnCevennes/demandes_autorisations,True
 https://github.com/PnCevennes/docker,True
 https://github.com/PnCevennes/gn_module_suivi_chiro,True
-https://github.com/PnCevennes/gn_module_suivi_oedic,False
+https://github.com/PnCevennes/gn_module_suivi_oedic,True
 https://github.com/PnCevennes/ng-mapCreator-fp,True
 https://github.com/PnCevennes/obs_eau_calcul_debits,True
 https://github.com/PnCevennes/porteconnaissance_pq,True
@@ -934,8 +934,8 @@ https://github.com/atlanmod/org.eclipse.atl.reactive.haskell_semantics,True
 https://github.com/atlanmod/ossmigration,True
 https://github.com/atlanmod/pacmon,False
 https://github.com/atlanmod/portolan,True
-https://github.com/atlanmod/san-metamodel,False
-https://github.com/atlanmod/scalable-views-heterogeneous-models,False
+https://github.com/atlanmod/san-metamodel,True
+https://github.com/atlanmod/scalable-views-heterogeneous-models,True
 https://github.com/atlanmod/sexp2emf,True
 https://github.com/atlanmod/thingml-maven-repo,False
 https://github.com/atlanmod/ttc-2013-flowgraphs-ATL,True
@@ -949,7 +949,7 @@ https://github.com/betagouv/ClasseA12,False
 https://github.com/betagouv/Element.details,True
 https://github.com/betagouv/OpenFiscaFrance.jl,False
 https://github.com/betagouv/OpenLawEditor,True
-https://github.com/betagouv/PeerTube,False
+https://github.com/betagouv/PeerTube,True
 https://github.com/betagouv/admin-traitdunion,False
 https://github.com/betagouv/allegement-fillon,True
 https://github.com/betagouv/andi,True
@@ -958,7 +958,7 @@ https://github.com/betagouv/annuaire-api,True
 https://github.com/betagouv/annuaire-import,True
 https://github.com/betagouv/anpy,False
 https://github.com/betagouv/api-auth,False
-https://github.com/betagouv/api-caf,False
+https://github.com/betagouv/api-caf,True
 https://github.com/betagouv/api-cpa,True
 https://github.com/betagouv/api-drones,False
 https://github.com/betagouv/api-medicaments,True
@@ -1208,7 +1208,7 @@ https://github.com/clipos-archive/src_platform_clip-deb,False
 https://github.com/clipos-archive/src_platform_clip-devutils,False
 https://github.com/clipos-archive/src_platform_clip-download,False
 https://github.com/clipos-archive/src_platform_clip-emblem,False
-https://github.com/clipos-archive/src_platform_clip-eraser,False
+https://github.com/clipos-archive/src_platform_clip-eraser,True
 https://github.com/clipos-archive/src_platform_clip-generic-net,True
 https://github.com/clipos-archive/src_platform_clip-gtw-net,False
 https://github.com/clipos-archive/src_platform_clip-hardware,True
@@ -1246,7 +1246,7 @@ https://github.com/clipos-archive/src_platform_core-services,False
 https://github.com/clipos-archive/src_platform_cryptclt,False
 https://github.com/clipos-archive/src_platform_cryptd,True
 https://github.com/clipos-archive/src_platform_debootstrap-clip,False
-https://github.com/clipos-archive/src_platform_downloadrequest,False
+https://github.com/clipos-archive/src_platform_downloadrequest,True
 https://github.com/clipos-archive/src_platform_fbpanel-clip,False
 https://github.com/clipos-archive/src_platform_fdp,False
 https://github.com/clipos-archive/src_platform_gen-crypt,True
@@ -1300,7 +1300,7 @@ https://github.com/clipos/src_platform_portage-derive,False
 https://github.com/clipos/src_platform_updater,False
 https://github.com/clipos/src_portage_clipos,False
 https://github.com/clipos/src_portage_gentoo,True
-https://github.com/clipos/testbed,False
+https://github.com/clipos/testbed,True
 https://github.com/clipos/toolkit,True
 https://github.com/communaute-cimi/PFLAU-Viz,True
 https://github.com/communaute-cimi/devstack-vagrant,True
@@ -1405,7 +1405,7 @@ https://github.com/entrepreneur-interet-general/gobelins-landingpage,True
 https://github.com/entrepreneur-interet-general/graph-explorer,True
 https://github.com/entrepreneur-interet-general/krojolo,False
 https://github.com/entrepreneur-interet-general/leaflet-geocoder-ban,True
-https://github.com/entrepreneur-interet-general/makeExe,False
+https://github.com/entrepreneur-interet-general/makeExe,True
 https://github.com/entrepreneur-interet-general/manifeste-eig,True
 https://github.com/entrepreneur-interet-general/matchID,True
 https://github.com/entrepreneur-interet-general/matchID-search,True
@@ -2031,14 +2031,14 @@ https://github.com/wookey-project/app-sample-blinky,False
 https://github.com/wookey-project/app-sample-button,True
 https://github.com/wookey-project/app-sample-leds,False
 https://github.com/wookey-project/app-wookey-crypto,False
-https://github.com/wookey-project/app-wookey-flash,False
+https://github.com/wookey-project/app-wookey-flash,True
 https://github.com/wookey-project/app-wookey-pin,False
 https://github.com/wookey-project/app-wookey-sdio,False
 https://github.com/wookey-project/app-wookey-smart,True
 https://github.com/wookey-project/app-wookey-usb,False
 https://github.com/wookey-project/board-32f407disco,True
 https://github.com/wookey-project/board-32f439wookey,False
-https://github.com/wookey-project/bootloader,False
+https://github.com/wookey-project/bootloader,True
 https://github.com/wookey-project/driver-ad7843,False
 https://github.com/wookey-project/driver-ili9341,True
 https://github.com/wookey-project/driver-stm32f4x9-cryp,False
@@ -2065,7 +2065,7 @@ https://github.com/wookey-project/libdes,False
 https://github.com/wookey-project/libdfu,True
 https://github.com/wookey-project/libfw,False
 https://github.com/wookey-project/libgui,False
-https://github.com/wookey-project/libhmac,False
+https://github.com/wookey-project/libhmac,True
 https://github.com/wookey-project/libiso7816,True
 https://github.com/wookey-project/libmassstorage,True
 https://github.com/wookey-project/libsd,False
