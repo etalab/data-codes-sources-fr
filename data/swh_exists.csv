@@ -601,7 +601,7 @@ https://github.com/MTES-MCT/portail,True
 https://github.com/MTES-MCT/rieau,False
 https://github.com/MTES-MCT/rieau-api,False
 https://github.com/MTES-MCT/rieau-infra,False
-https://github.com/MTES-MCT/rieau-ui,False
+https://github.com/MTES-MCT/rieau-ui,True
 https://github.com/MTES-MCT/secmar-data,False
 https://github.com/MTES-MCT/secmar-documentation,True
 https://github.com/MTES-MCT/toolbox,False
@@ -1002,7 +1002,7 @@ https://github.com/betagouv/dossiersco,True
 https://github.com/betagouv/dossiersco-maintenance,True
 https://github.com/betagouv/dossiersco-openlab1,False
 https://github.com/betagouv/ds_proxy,False
-https://github.com/betagouv/e-controle,False
+https://github.com/betagouv/e-controle,True
 https://github.com/betagouv/eac,True
 https://github.com/betagouv/eac-api,True
 https://github.com/betagouv/eac-scrapper,False
@@ -1234,7 +1234,7 @@ https://github.com/clipos-archive/src_platform_clip-sub,False
 https://github.com/clipos-archive/src_platform_clip-test-box,False
 https://github.com/clipos-archive/src_platform_clip-tests,True
 https://github.com/clipos-archive/src_platform_clip-update-user-data,False
-https://github.com/clipos-archive/src_platform_clip-usb-clt,False
+https://github.com/clipos-archive/src_platform_clip-usb-clt,True
 https://github.com/clipos-archive/src_platform_clip-usb-keys,False
 https://github.com/clipos-archive/src_platform_clip-user-mount,True
 https://github.com/clipos-archive/src_platform_clip-useradmin,False
@@ -1451,7 +1451,7 @@ https://github.com/eole/redmine_backlogs,True
 https://github.com/eole/redmine_git_hosting,True
 https://github.com/eole/redmine_track_control,True
 https://github.com/eole/salt,False
-https://github.com/eole/salt-winrepo-ng,False
+https://github.com/eole/salt-winrepo-ng,True
 https://github.com/eole/systemd-formula,False
 https://github.com/eole/template-formula,False
 https://github.com/erasme/androidwifidirect,True
@@ -1529,7 +1529,7 @@ https://github.com/etalab/api-rpg,True
 https://github.com/etalab/api-urbanisme,True
 https://github.com/etalab/apicarto,False
 https://github.com/etalab/askbot-etalab-skin,True
-https://github.com/etalab/autopsy,False
+https://github.com/etalab/autopsy,True
 https://github.com/etalab/bal,True
 https://github.com/etalab/ban-data,True
 https://github.com/etalab/ban-geocode,True
@@ -1703,7 +1703,7 @@ https://github.com/etalab/urbaclic-next,True
 https://github.com/etalab/urban-olympics.etalab.studio,True
 https://github.com/etalab/user-research,True
 https://github.com/etalab/utilery-recipe-jurpol,True
-https://github.com/etalab/vuepress-gouv-fr-demo,False
+https://github.com/etalab/vuepress-gouv-fr-demo,True
 https://github.com/etalab/vuepress-theme-gouv-fr,False
 https://github.com/etalab/watchdoge_apientreprise,True
 https://github.com/etalab/weckan,True
@@ -1888,7 +1888,7 @@ https://github.com/openfisca/openfisca-douanes,True
 https://github.com/openfisca/openfisca-dummy-country,True
 https://github.com/openfisca/openfisca-events,False
 https://github.com/openfisca/openfisca-france,True
-https://github.com/openfisca/openfisca-france-api,False
+https://github.com/openfisca/openfisca-france-api,True
 https://github.com/openfisca/openfisca-france-data,True
 https://github.com/openfisca/openfisca-france-extension-revenu-de-base,True
 https://github.com/openfisca/openfisca-france-indirect-taxation,True
@@ -2067,7 +2067,7 @@ https://github.com/wookey-project/libfw,False
 https://github.com/wookey-project/libgui,False
 https://github.com/wookey-project/libhmac,False
 https://github.com/wookey-project/libiso7816,True
-https://github.com/wookey-project/libmassstorage,False
+https://github.com/wookey-project/libmassstorage,True
 https://github.com/wookey-project/libsd,False
 https://github.com/wookey-project/libsmartcard,True
 https://github.com/wookey-project/libstd,False
