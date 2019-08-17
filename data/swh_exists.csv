@@ -174,7 +174,7 @@ https://github.com/CEREMA/dtermed.bpclight-old,False
 https://github.com/CEREMA/dtermed.bpclight2,False
 https://github.com/CEREMA/dtermed.bpcmobile,False
 https://github.com/CEREMA/dtermed.cerema-info,True
-https://github.com/CEREMA/dtermed.cloud2,False
+https://github.com/CEREMA/dtermed.cloud2,True
 https://github.com/CEREMA/dtermed.cours_opendata_ente,True
 https://github.com/CEREMA/dtermed.cvrh.resalia,False
 https://github.com/CEREMA/dtermed.dashboard,False
@@ -533,10 +533,10 @@ https://github.com/Irstea/esfc,False
 https://github.com/Irstea/filo-science,False
 https://github.com/Irstea/irrig,True
 https://github.com/Irstea/otolithe,True
-https://github.com/Irstea/usact,False
+https://github.com/Irstea/usact,True
 https://github.com/Irstea/w3id.org,False
 https://github.com/LAB-MI/LAB-MI.github.io,True
-https://github.com/LAB-MI/api.gouv.fr,False
+https://github.com/LAB-MI/api.gouv.fr,True
 https://github.com/LAB-MI/candilib,True
 https://github.com/LAB-MI/candilibV2,False
 https://github.com/LINCnil/CNIL-Cookies-List,False
@@ -819,7 +819,7 @@ https://github.com/SocialGouv/work-in-france-bo-public,True
 https://github.com/SocialGouv/work-in-france-extractor,True
 https://github.com/SocieteNumerique/CivicTechFest,True
 https://github.com/SocieteNumerique/Site-Mission-Societe-Numerique,True
-https://github.com/SocieteNumerique/carto-sonum,False
+https://github.com/SocieteNumerique/carto-sonum,True
 https://github.com/SocieteNumerique/casper,True
 https://github.com/SocieteNumerique/impots.gouv,True
 https://github.com/SocieteNumerique/kit,True
@@ -919,7 +919,7 @@ https://github.com/atlanmod/emfviewsSQL,True
 https://github.com/atlanmod/energy-estimation-language,False
 https://github.com/atlanmod/fREX,True
 https://github.com/atlanmod/hadoop-cluster-docker,True
-https://github.com/atlanmod/iotdsl,False
+https://github.com/atlanmod/iotdsl,True
 https://github.com/atlanmod/model-consistency,True
 https://github.com/atlanmod/modisco,False
 https://github.com/atlanmod/mondo-atlzoo-benchmark,True
@@ -1023,7 +1023,7 @@ https://github.com/betagouv/leximpact-client,False
 https://github.com/betagouv/leximpact-server,True
 https://github.com/betagouv/logstash-boilerplate,False
 https://github.com/betagouv/ludwig,False
-https://github.com/betagouv/ludwig-api,False
+https://github.com/betagouv/ludwig-api,True
 https://github.com/betagouv/ludwig-ui,True
 https://github.com/betagouv/mas,True
 https://github.com/betagouv/mdph,True
@@ -1270,7 +1270,7 @@ https://github.com/clipos-archive/src_platform_smartcard-readers,False
 https://github.com/clipos-archive/src_platform_splash-theme-clip,True
 https://github.com/clipos-archive/src_platform_ssm-display,True
 https://github.com/clipos-archive/src_platform_strongswan-clip-updown,False
-https://github.com/clipos-archive/src_platform_strongswan-patches,False
+https://github.com/clipos-archive/src_platform_strongswan-patches,True
 https://github.com/clipos-archive/src_platform_sub-clip,False
 https://github.com/clipos-archive/src_platform_syslinux-tpm-patches,True
 https://github.com/clipos-archive/src_platform_tpm-cmd,True
@@ -1436,7 +1436,7 @@ https://github.com/entrepreneur-interet-general/tf-han,True
 https://github.com/entrepreneur-interet-general/tf-idf_poc,False
 https://github.com/entrepreneur-interet-general/the-magical-csv-merge-machine,True
 https://github.com/entrepreneur-interet-general/tutos-2018,True
-https://github.com/entrepreneur-interet-general/vue-python-starter-kit,False
+https://github.com/entrepreneur-interet-general/vue-python-starter-kit,True
 https://github.com/entrepreneur-interet-general/word_convertor,False
 https://github.com/eole/addon-context-linux,True
 https://github.com/eole/dhcpd-formula,False
@@ -1583,7 +1583,7 @@ https://github.com/etalab/datagouv-funfacts,True
 https://github.com/etalab/datagouv-search-indicator,True
 https://github.com/etalab/datasets_reco,True
 https://github.com/etalab/decoupage-administratif,False
-https://github.com/etalab/decp-rama,False
+https://github.com/etalab/decp-rama,True
 https://github.com/etalab/deleted-datasets-schema,True
 https://github.com/etalab/dfi,True
 https://github.com/etalab/doc.data.gouv.fr,True
@@ -1690,7 +1690,7 @@ https://github.com/etalab/transpo-rt,False
 https://github.com/etalab/transport-datatools-server,True
 https://github.com/etalab/transport-datatools-ui,True
 https://github.com/etalab/transport-gtfs-lib,True
-https://github.com/etalab/transport-history,False
+https://github.com/etalab/transport-history,True
 https://github.com/etalab/transport-landing-page,True
 https://github.com/etalab/transport-ops,True
 https://github.com/etalab/transport-site,True
@@ -1811,7 +1811,7 @@ https://github.com/nantesmetropole/docker-debian,True
 https://github.com/nantesmetropole/docker-paas,True
 https://github.com/numerique-gouv/numerique.gouv.fr,True
 https://github.com/numerique-gouv/numerique.gouv.fr-infra,False
-https://github.com/observatoire-territoires/KitsCarto-GdDebat,False
+https://github.com/observatoire-territoires/KitsCarto-GdDebat,True
 https://github.com/observatoire-territoires/SOFIE,False
 https://github.com/observatoire-territoires/couvnum,True
 https://github.com/observatoire-territoires/migR,True
@@ -1978,7 +1978,7 @@ https://github.com/openfun/subsrt,False
 https://github.com/openfun/svg-converter,True
 https://github.com/openfun/videofront,True
 https://github.com/openfun/videofront-client,True
-https://github.com/openfun/videofront-to-marsha,False
+https://github.com/openfun/videofront-to-marsha,True
 https://github.com/openfun/xblock-Glowbl,True
 https://github.com/openfun/xblock-configurable-lti-consumer,True
 https://github.com/openfun/xblock-ipython,True
