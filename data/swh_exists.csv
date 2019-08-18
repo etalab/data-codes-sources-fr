@@ -61,7 +61,7 @@ https://github.com/ANSSI-FR/cornetto,False
 https://github.com/ANSSI-FR/libapn,True
 https://github.com/ANSSI-FR/libecc,True
 https://github.com/ANSSI-FR/mabo,True
-https://github.com/ANSSI-FR/mdbook-checklist,False
+https://github.com/ANSSI-FR/mdbook-checklist,True
 https://github.com/ANSSI-FR/nogaxeh,True
 https://github.com/ANSSI-FR/opkcs11-tool,True
 https://github.com/ANSSI-FR/packetweaver,True
@@ -512,7 +512,7 @@ https://github.com/InseeFr/Eno-WS,True
 https://github.com/InseeFr/Keycloak-FranceConnect,True
 https://github.com/InseeFr/Lunatic,False
 https://github.com/InseeFr/Lunatic-Model,False
-https://github.com/InseeFr/Meleze,False
+https://github.com/InseeFr/Meleze,True
 https://github.com/InseeFr/Mesange,True
 https://github.com/InseeFr/Metadata-API,True
 https://github.com/InseeFr/Omphale,False
@@ -571,7 +571,7 @@ https://github.com/MTES-MCT/camino-imports-spreadsheet-jorf,True
 https://github.com/MTES-MCT/camino-imports-spreadsheets,True
 https://github.com/MTES-MCT/camino-landingpage,True
 https://github.com/MTES-MCT/camino-portainer,True
-https://github.com/MTES-MCT/camino-scripting,False
+https://github.com/MTES-MCT/camino-scripting,True
 https://github.com/MTES-MCT/camino-ui,True
 https://github.com/MTES-MCT/choisir-une-licence,False
 https://github.com/MTES-MCT/cobot-admin,False
@@ -723,7 +723,7 @@ https://github.com/ProgrammeVitam/mailextract,True
 https://github.com/ProgrammeVitam/odftoolkit,False
 https://github.com/ProgrammeVitam/sedatools,False
 https://github.com/ProgrammeVitam/vitam,True
-https://github.com/ProgrammeVitam/vitam-griffins,False
+https://github.com/ProgrammeVitam/vitam-griffins,True
 https://github.com/ProgrammeVitam/vitam-itests,True
 https://github.com/SGMAP-AGD/CompareDF,True
 https://github.com/SGMAP-AGD/DAMIR,True
@@ -789,7 +789,7 @@ https://github.com/SocialGouv/emjpm-ui,False
 https://github.com/SocialGouv/faq-code-du-travail,True
 https://github.com/SocialGouv/fce,False
 https://github.com/SocialGouv/jest-environment-knex,False
-https://github.com/SocialGouv/kali-data,False
+https://github.com/SocialGouv/kali-data,True
 https://github.com/SocialGouv/kaligator,True
 https://github.com/SocialGouv/legi-postgres,False
 https://github.com/SocialGouv/legixplore,False
@@ -926,7 +926,7 @@ https://github.com/atlanmod/mondo-atlzoo-benchmark,True
 https://github.com/atlanmod/mondo-itmfactory-benchmark,True
 https://github.com/atlanmod/mondo-openbim-benchmark,True
 https://github.com/atlanmod/monoge,True
-https://github.com/atlanmod/neoEMF-Instantiator,False
+https://github.com/atlanmod/neoEMF-Instantiator,True
 https://github.com/atlanmod/openness,True
 https://github.com/atlanmod/org.eclipse.atl.ocl-benchmarks,True
 https://github.com/atlanmod/org.eclipse.atl.reactive,True
@@ -1165,7 +1165,7 @@ https://github.com/cea-hpc/phobos,False
 https://github.com/cea-hpc/robinhood,True
 https://github.com/cea-hpc/selFIe,True
 https://github.com/cea-hpc/shine,True
-https://github.com/cea-hpc/sigmund,False
+https://github.com/cea-hpc/sigmund,True
 https://github.com/cea-hpc/space9,False
 https://github.com/cea-hpc/sshproxy,True
 https://github.com/cea-hpc/vbridge,False
@@ -1266,7 +1266,7 @@ https://github.com/clipos-archive/src_platform_rm-sessions,False
 https://github.com/clipos-archive/src_platform_rmh-config,True
 https://github.com/clipos-archive/src_platform_scdaemon,True
 https://github.com/clipos-archive/src_platform_smartcard-monitor,True
-https://github.com/clipos-archive/src_platform_smartcard-readers,False
+https://github.com/clipos-archive/src_platform_smartcard-readers,True
 https://github.com/clipos-archive/src_platform_splash-theme-clip,True
 https://github.com/clipos-archive/src_platform_ssm-display,True
 https://github.com/clipos-archive/src_platform_strongswan-clip-updown,False
@@ -1527,7 +1527,7 @@ https://github.com/etalab/api-bal,True
 https://github.com/etalab/api-geo,True
 https://github.com/etalab/api-rpg,True
 https://github.com/etalab/api-urbanisme,True
-https://github.com/etalab/apicarto,False
+https://github.com/etalab/apicarto,True
 https://github.com/etalab/askbot-etalab-skin,True
 https://github.com/etalab/autopsy,True
 https://github.com/etalab/bal,True
@@ -1538,7 +1538,7 @@ https://github.com/etalab/biryani,True
 https://github.com/etalab/blog-eig2,True
 https://github.com/etalab/blog.data.gouv.fr,True
 https://github.com/etalab/blog_apientreprise,False
-https://github.com/etalab/bulma-theme-gouv-fr,False
+https://github.com/etalab/bulma-theme-gouv-fr,True
 https://github.com/etalab/cada.data.gouv.fr,False
 https://github.com/etalab/cada_explore,False
 https://github.com/etalab/cadastre,False
@@ -1664,7 +1664,7 @@ https://github.com/etalab/plf,False
 https://github.com/etalab/prevair-demo,True
 https://github.com/etalab/prevair-experiment,True
 https://github.com/etalab/project-legal,True
-https://github.com/etalab/pseudononymizer,False
+https://github.com/etalab/pseudononymizer,True
 https://github.com/etalab/quartiers-prioritaires,True
 https://github.com/etalab/retos-civicos,True
 https://github.com/etalab/retweet,True
