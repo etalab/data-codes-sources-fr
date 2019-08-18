@@ -56,7 +56,7 @@ https://github.com/ANSSI-FR/bootcode_parser,True
 https://github.com/ANSSI-FR/caml-crush,True
 https://github.com/ANSSI-FR/caradoc,True
 https://github.com/ANSSI-FR/concerto,True
-https://github.com/ANSSI-FR/coq-prelude,False
+https://github.com/ANSSI-FR/coq-prelude,True
 https://github.com/ANSSI-FR/cornetto,False
 https://github.com/ANSSI-FR/libapn,True
 https://github.com/ANSSI-FR/libecc,True
@@ -176,7 +176,7 @@ https://github.com/CEREMA/dtermed.bpcmobile,False
 https://github.com/CEREMA/dtermed.cerema-info,True
 https://github.com/CEREMA/dtermed.cloud2,True
 https://github.com/CEREMA/dtermed.cours_opendata_ente,True
-https://github.com/CEREMA/dtermed.cvrh.resalia,False
+https://github.com/CEREMA/dtermed.cvrh.resalia,True
 https://github.com/CEREMA/dtermed.dashboard,False
 https://github.com/CEREMA/dtermed.db.bpclight,False
 https://github.com/CEREMA/dtermed.db.cerema.vibren,False
@@ -792,7 +792,7 @@ https://github.com/SocialGouv/jest-environment-knex,False
 https://github.com/SocialGouv/kali-data,True
 https://github.com/SocialGouv/kaligator,True
 https://github.com/SocialGouv/legi-postgres,False
-https://github.com/SocialGouv/legixplore,False
+https://github.com/SocialGouv/legixplore,True
 https://github.com/SocialGouv/letor-scores,False
 https://github.com/SocialGouv/linters,True
 https://github.com/SocialGouv/mattermost-plugin-google-calendar,False
@@ -809,7 +809,7 @@ https://github.com/SocialGouv/suggest,False
 https://github.com/SocialGouv/template.data.gouv.fr.react,False
 https://github.com/SocialGouv/tocbot,False
 https://github.com/SocialGouv/tps,True
-https://github.com/SocialGouv/traefigit,False
+https://github.com/SocialGouv/traefigit,True
 https://github.com/SocialGouv/tremplin,False
 https://github.com/SocialGouv/tutoriel-gitlab,True
 https://github.com/SocialGouv/work-in-france,True
@@ -895,7 +895,7 @@ https://github.com/atlanmod/Commons,True
 https://github.com/atlanmod/CoqTL,True
 https://github.com/atlanmod/CyprIoT,True
 https://github.com/atlanmod/DynamicAnalyser,False
-https://github.com/atlanmod/EMFTVM-D,False
+https://github.com/atlanmod/EMFTVM-D,True
 https://github.com/atlanmod/Ecore2ATLCopier,True
 https://github.com/atlanmod/EnergyModel,True
 https://github.com/atlanmod/LazyOcl_StateMachineExample,True
@@ -1071,7 +1071,7 @@ https://github.com/betagouv/paie-api,True
 https://github.com/betagouv/paie-carto,True
 https://github.com/betagouv/paie-editor,True
 https://github.com/betagouv/paie-tests,True
-https://github.com/betagouv/paie-www,False
+https://github.com/betagouv/paie-www,True
 https://github.com/betagouv/pass-culture-api,True
 https://github.com/betagouv/pass-culture-app-staging,False
 https://github.com/betagouv/pass-culture-blog,True
@@ -1215,7 +1215,7 @@ https://github.com/clipos-archive/src_platform_clip-hardware,True
 https://github.com/clipos-archive/src_platform_clip-icons,False
 https://github.com/clipos-archive/src_platform_clip-install-clip,False
 https://github.com/clipos-archive/src_platform_clip-install-common,False
-https://github.com/clipos-archive/src_platform_clip-install-config,False
+https://github.com/clipos-archive/src_platform_clip-install-config,True
 https://github.com/clipos-archive/src_platform_clip-install-gui,True
 https://github.com/clipos-archive/src_platform_clip-install-rm,False
 https://github.com/clipos-archive/src_platform_clip-installer,True
@@ -1285,7 +1285,7 @@ https://github.com/clipos-archive/src_platform_xscreensaver-pwcheck,True
 https://github.com/clipos/assets_crates-io,True
 https://github.com/clipos/assets_debian,False
 https://github.com/clipos/assets_distfiles,True
-https://github.com/clipos/assets_gentoo,False
+https://github.com/clipos/assets_gentoo,True
 https://github.com/clipos/assets_toolkit,True
 https://github.com/clipos/bugs,True
 https://github.com/clipos/buildbot,True
@@ -1810,7 +1810,7 @@ https://github.com/nantesmetropole/LibreOfficeNow,True
 https://github.com/nantesmetropole/docker-debian,True
 https://github.com/nantesmetropole/docker-paas,True
 https://github.com/numerique-gouv/numerique.gouv.fr,True
-https://github.com/numerique-gouv/numerique.gouv.fr-infra,False
+https://github.com/numerique-gouv/numerique.gouv.fr-infra,True
 https://github.com/observatoire-territoires/KitsCarto-GdDebat,True
 https://github.com/observatoire-territoires/SOFIE,False
 https://github.com/observatoire-territoires/couvnum,True
@@ -2079,7 +2079,7 @@ https://github.com/wookey-project/perms-matrix-wookey,True
 https://github.com/wookey-project/tataouine,True
 https://github.com/wookey-project/wookey-project.github.io,False
 https://github.com/wookey-project/wookeypedia,False
-https://gitlab.com/healthdatahub/dico-snds,False
+https://gitlab.com/healthdatahub/dico-snds,True
 https://gitlab.com/healthdatahub/documentation-snds,False
 https://gitlab.com/healthdatahub/programmes-sdns,True
 https://gitlab.com/healthdatahub/schema-snds,True
