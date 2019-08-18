@@ -201,7 +201,7 @@ https://github.com/CEREMA/dtermed.sysiphe-old,True
 https://github.com/CEREMA/dtermed.ticket,True
 https://github.com/CEREMA/dtermed.ticket2,False
 https://github.com/CEREMA/dtermed.vibren,True
-https://github.com/CEREMA/dtermed.virtualdesktop,False
+https://github.com/CEREMA/dtermed.virtualdesktop,True
 https://github.com/CEREMA/dtermed.webapp.bpclight,False
 https://github.com/CEREMA/dtermed.webapp.ecureuil,False
 https://github.com/CEREMA/dtermed.webapp.rivages,True
@@ -1041,7 +1041,7 @@ https://github.com/betagouv/mes-aides-out,True
 https://github.com/betagouv/mes-aides-ui,True
 https://github.com/betagouv/meteor-assemblee-nationale,True
 https://github.com/betagouv/monstage,False
-https://github.com/betagouv/mpal,False
+https://github.com/betagouv/mpal,True
 https://github.com/betagouv/mpal-deploy,False
 https://github.com/betagouv/mpal-rod,True
 https://github.com/betagouv/mrs,True
@@ -1226,12 +1226,12 @@ https://github.com/clipos-archive/src_platform_clip-lsm,False
 https://github.com/clipos-archive/src_platform_clip-mdadm,False
 https://github.com/clipos-archive/src_platform_clip-mdadm-clt,False
 https://github.com/clipos-archive/src_platform_clip-menu-xdg,True
-https://github.com/clipos-archive/src_platform_clip-net,False
+https://github.com/clipos-archive/src_platform_clip-net,True
 https://github.com/clipos-archive/src_platform_clip-netd,True
 https://github.com/clipos-archive/src_platform_clip-patches,True
 https://github.com/clipos-archive/src_platform_clip-pkgdb,False
 https://github.com/clipos-archive/src_platform_clip-sub,False
-https://github.com/clipos-archive/src_platform_clip-test-box,False
+https://github.com/clipos-archive/src_platform_clip-test-box,True
 https://github.com/clipos-archive/src_platform_clip-tests,True
 https://github.com/clipos-archive/src_platform_clip-update-user-data,False
 https://github.com/clipos-archive/src_platform_clip-usb-clt,True
@@ -1280,7 +1280,7 @@ https://github.com/clipos-archive/src_platform_usb-video-devices,True
 https://github.com/clipos-archive/src_platform_userd,False
 https://github.com/clipos-archive/src_platform_vaultguard,True
 https://github.com/clipos-archive/src_platform_verictl,False
-https://github.com/clipos-archive/src_platform_vsctl,False
+https://github.com/clipos-archive/src_platform_vsctl,True
 https://github.com/clipos-archive/src_platform_xscreensaver-pwcheck,True
 https://github.com/clipos/assets_crates-io,True
 https://github.com/clipos/assets_debian,False
@@ -1360,7 +1360,7 @@ https://github.com/diplomatiegouvfr/hornet-showroom,True
 https://github.com/diplomatiegouvfr/hornet-showroom-online,True
 https://github.com/diplomatiegouvfr/hornet-themes-intranet,False
 https://github.com/diplomatiegouvfr/tomcat8-instance,True
-https://github.com/entrepreneur-interet-general/2017,False
+https://github.com/entrepreneur-interet-general/2017,True
 https://github.com/entrepreneur-interet-general/AFD_projects,True
 https://github.com/entrepreneur-interet-general/CIS-front,True
 https://github.com/entrepreneur-interet-general/CartoBIO,False
@@ -1721,7 +1721,7 @@ https://github.com/fabnumdef/fabnumdef.d3,False
 https://github.com/fabnumdef/fabnumdef.github.io,True
 https://github.com/fabnumdef/resources,False
 https://github.com/geodatagouv/csw-client,True
-https://github.com/geodatagouv/docker,False
+https://github.com/geodatagouv/docker,True
 https://github.com/geodatagouv/docker-node-gdal,False
 https://github.com/geodatagouv/geogw,True
 https://github.com/geodatagouv/geoplatform,True
@@ -1782,7 +1782,7 @@ https://github.com/messagerie-melanie2/Roundcube-Plugins,True
 https://github.com/messagerie-melanie2/Roundcube-Plugins-Melanie2,True
 https://github.com/messagerie-melanie2/Roundcube-Skin-Melanie2-Larry,True
 https://github.com/messagerie-melanie2/Roundcube-Skin-Melanie2-Larry-Mobile,True
-https://github.com/messagerie-melanie2/Roundcube-plugins-Mel,False
+https://github.com/messagerie-melanie2/Roundcube-plugins-Mel,True
 https://github.com/messagerie-melanie2/SabreDAVM2,True
 https://github.com/meteofrance/formation-deep-learning,True
 https://github.com/meteofrance/meteofrance.github.io,True
@@ -2035,7 +2035,7 @@ https://github.com/wookey-project/app-wookey-flash,True
 https://github.com/wookey-project/app-wookey-pin,False
 https://github.com/wookey-project/app-wookey-sdio,False
 https://github.com/wookey-project/app-wookey-smart,True
-https://github.com/wookey-project/app-wookey-usb,False
+https://github.com/wookey-project/app-wookey-usb,True
 https://github.com/wookey-project/board-32f407disco,True
 https://github.com/wookey-project/board-32f439wookey,False
 https://github.com/wookey-project/bootloader,True
@@ -2047,7 +2047,7 @@ https://github.com/wookey-project/driver-stm32f4xx-hash,False
 https://github.com/wookey-project/driver-stm32f4xx-iso7816,True
 https://github.com/wookey-project/driver-stm32f4xx-sdio,False
 https://github.com/wookey-project/driver-stm32f4xx-spi,True
-https://github.com/wookey-project/driver-stm32f4xx-usart,False
+https://github.com/wookey-project/driver-stm32f4xx-usart,True
 https://github.com/wookey-project/driver-stm32f4xx-usb,False
 https://github.com/wookey-project/ewok-kernel,False
 https://github.com/wookey-project/ewok-legacy,False
