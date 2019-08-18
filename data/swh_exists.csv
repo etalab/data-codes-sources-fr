@@ -192,7 +192,7 @@ https://github.com/CEREMA/dtermed.goprro,True
 https://github.com/CEREMA/dtermed.infocentre,False
 https://github.com/CEREMA/dtermed.mobile.ecureuil,False
 https://github.com/CEREMA/dtermed.owncloud,True
-https://github.com/CEREMA/dtermed.preshume,False
+https://github.com/CEREMA/dtermed.preshume,True
 https://github.com/CEREMA/dtermed.rivages,True
 https://github.com/CEREMA/dtermed.rivages-old,True
 https://github.com/CEREMA/dtermed.sapei,False
@@ -599,7 +599,7 @@ https://github.com/MTES-MCT/parcours-r,False
 https://github.com/MTES-MCT/permis-construire,False
 https://github.com/MTES-MCT/portail,True
 https://github.com/MTES-MCT/rieau,False
-https://github.com/MTES-MCT/rieau-api,False
+https://github.com/MTES-MCT/rieau-api,True
 https://github.com/MTES-MCT/rieau-infra,False
 https://github.com/MTES-MCT/rieau-ui,True
 https://github.com/MTES-MCT/secmar-data,False
@@ -859,7 +859,7 @@ https://github.com/addok/addok-psql,True
 https://github.com/addok/addok-psql-store,True
 https://github.com/addok/addok-sqlite-store,False
 https://github.com/addok/addok-trigrams,True
-https://github.com/addok/addok-usine,False
+https://github.com/addok/addok-usine,True
 https://github.com/afimb/chouette,True
 https://github.com/afimb/chouette-pkg,True
 https://github.com/afimb/chouette-projects-i18n,True
@@ -1591,7 +1591,7 @@ https://github.com/etalab/doc.entreprise.api.gouv.fr,True
 https://github.com/etalab/docker-ansible-git-crypt,False
 https://github.com/etalab/docker-datagouv,True
 https://github.com/etalab/dotation-globale-fonctionnement,True
-https://github.com/etalab/dvf,False
+https://github.com/etalab/dvf,True
 https://github.com/etalab/edigeo-parser,True
 https://github.com/etalab/edigeo-reproject,True
 https://github.com/etalab/editeur-bal,False
@@ -1963,7 +1963,7 @@ https://github.com/openfun/nantes-oer,True
 https://github.com/openfun/nltk,False
 https://github.com/openfun/openedx-comments-docker,True
 https://github.com/openfun/openedx-con-2018,True
-https://github.com/openfun/openedx-con-2019,False
+https://github.com/openfun/openedx-con-2019,True
 https://github.com/openfun/openedx-docker,True
 https://github.com/openfun/openedx-xapi,False
 https://github.com/openfun/openfun.github.io,False
