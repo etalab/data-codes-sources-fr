@@ -168,7 +168,7 @@ https://github.com/CEREMA/dtermed-ceremao,True
 https://github.com/CEREMA/dtermed.ML_bati_non-bati,False
 https://github.com/CEREMA/dtermed.MobiTC,True
 https://github.com/CEREMA/dtermed.MobiTC2,False
-https://github.com/CEREMA/dtermed.annuaire,False
+https://github.com/CEREMA/dtermed.annuaire,True
 https://github.com/CEREMA/dtermed.anywhere,True
 https://github.com/CEREMA/dtermed.bpclight-old,False
 https://github.com/CEREMA/dtermed.bpclight2,False
@@ -590,7 +590,7 @@ https://github.com/MTES-MCT/fluctuat,False
 https://github.com/MTES-MCT/fluctuat-apidoc,True
 https://github.com/MTES-MCT/geo-communes-api,False
 https://github.com/MTES-MCT/geostatis,True
-https://github.com/MTES-MCT/invasivalerte,False
+https://github.com/MTES-MCT/invasivalerte,True
 https://github.com/MTES-MCT/kelrisks,True
 https://github.com/MTES-MCT/kelrisks-datascience,False
 https://github.com/MTES-MCT/locatio,True
@@ -792,6 +792,7 @@ https://github.com/SocialGouv/fce,False
 https://github.com/SocialGouv/jest-environment-knex,False
 https://github.com/SocialGouv/kali-data,True
 https://github.com/SocialGouv/kaligator,True
+https://github.com/SocialGouv/legi-data,False
 https://github.com/SocialGouv/legi-postgres,True
 https://github.com/SocialGouv/legixplore,True
 https://github.com/SocialGouv/letor-scores,False
@@ -1589,7 +1590,7 @@ https://github.com/etalab/deleted-datasets-schema,True
 https://github.com/etalab/dfi,True
 https://github.com/etalab/doc.data.gouv.fr,True
 https://github.com/etalab/doc.entreprise.api.gouv.fr,True
-https://github.com/etalab/docker-ansible-git-crypt,False
+https://github.com/etalab/docker-ansible-git-crypt,True
 https://github.com/etalab/docker-datagouv,True
 https://github.com/etalab/dotation-globale-fonctionnement,True
 https://github.com/etalab/dvf,True
@@ -1792,7 +1793,7 @@ https://github.com/micmacIGN/InterfaceCEREMA,True
 https://github.com/micmacIGN/Papers,True
 https://github.com/micmacIGN/interface,True
 https://github.com/micmacIGN/micmac,True
-https://github.com/minagri-initial/angular-components,False
+https://github.com/minagri-initial/angular-components,True
 https://github.com/minagri-initial/api.gouv.fr,False
 https://github.com/minagri-initial/arpent-api,False
 https://github.com/minagri-initial/arpent-examen,True
@@ -1851,7 +1852,7 @@ https://github.com/opendatateam/udata-kerberos,True
 https://github.com/opendatateam/udata-ldap,True
 https://github.com/opendatateam/udata-link-proxy,False
 https://github.com/opendatateam/udata-meta,True
-https://github.com/opendatateam/udata-metrics,False
+https://github.com/opendatateam/udata-metrics,True
 https://github.com/opendatateam/udata-ods,True
 https://github.com/opendatateam/udata-piwik,True
 https://github.com/opendatateam/udata-piwik-docker,True
@@ -2065,7 +2066,7 @@ https://github.com/wookey-project/libconsole,True
 https://github.com/wookey-project/libdes,False
 https://github.com/wookey-project/libdfu,True
 https://github.com/wookey-project/libfw,False
-https://github.com/wookey-project/libgui,False
+https://github.com/wookey-project/libgui,True
 https://github.com/wookey-project/libhmac,True
 https://github.com/wookey-project/libiso7816,True
 https://github.com/wookey-project/libmassstorage,True
