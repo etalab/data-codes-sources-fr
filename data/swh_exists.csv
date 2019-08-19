@@ -57,7 +57,7 @@ https://github.com/ANSSI-FR/caml-crush,True
 https://github.com/ANSSI-FR/caradoc,True
 https://github.com/ANSSI-FR/concerto,True
 https://github.com/ANSSI-FR/coq-prelude,True
-https://github.com/ANSSI-FR/cornetto,False
+https://github.com/ANSSI-FR/cornetto,True
 https://github.com/ANSSI-FR/libapn,True
 https://github.com/ANSSI-FR/libecc,True
 https://github.com/ANSSI-FR/mabo,True
@@ -97,7 +97,7 @@ https://github.com/AlsaceDigitale/2016.hackingindustry.camp,True
 https://github.com/AlsaceDigitale/2017.edgefest.fr,False
 https://github.com/AlsaceDigitale/2017.hackingindustry.camp,True
 https://github.com/AlsaceDigitale/2018.edgefest.fr,True
-https://github.com/AlsaceDigitale/2018.hackingindustry.camp,False
+https://github.com/AlsaceDigitale/2018.hackingindustry.camp,True
 https://github.com/AlsaceDigitale/ad-cronjobs,False
 https://github.com/AlsaceDigitale/alsacedigitale-members,True
 https://github.com/AlsaceDigitale/alsacedigitale.org,True
@@ -169,7 +169,7 @@ https://github.com/CEREMA/dtermed.ML_bati_non-bati,False
 https://github.com/CEREMA/dtermed.MobiTC,True
 https://github.com/CEREMA/dtermed.MobiTC2,False
 https://github.com/CEREMA/dtermed.annuaire,False
-https://github.com/CEREMA/dtermed.anywhere,False
+https://github.com/CEREMA/dtermed.anywhere,True
 https://github.com/CEREMA/dtermed.bpclight-old,False
 https://github.com/CEREMA/dtermed.bpclight2,False
 https://github.com/CEREMA/dtermed.bpcmobile,False
@@ -306,7 +306,7 @@ https://github.com/IGNF/ContinuousGeneralisation,True
 https://github.com/IGNF/MultiCriteriaMatching,False
 https://github.com/IGNF/NeatMap,False
 https://github.com/IGNF/PLU2PLUS,True
-https://github.com/IGNF/PaysagesScriptKit,False
+https://github.com/IGNF/PaysagesScriptKit,True
 https://github.com/IGNF/SIGOPT,True
 https://github.com/IGNF/api.gouv.fr,False
 https://github.com/IGNF/apicarto,True
@@ -332,7 +332,7 @@ https://github.com/IGNF/geoxygene-pea-rep,True
 https://github.com/IGNF/geoxygene-sig3d-appli,True
 https://github.com/IGNF/geoxygene-unsupported,True
 https://github.com/IGNF/geoxygene-wps,True
-https://github.com/IGNF/getnet,False
+https://github.com/IGNF/getnet,True
 https://github.com/IGNF/gilviewer,True
 https://github.com/IGNF/hackathon-necmergitur,True
 https://github.com/IGNF/ignf.github.io,True
@@ -538,7 +538,7 @@ https://github.com/Irstea/w3id.org,False
 https://github.com/LAB-MI/LAB-MI.github.io,True
 https://github.com/LAB-MI/api.gouv.fr,True
 https://github.com/LAB-MI/candilib,True
-https://github.com/LAB-MI/candilibV2,False
+https://github.com/LAB-MI/candilibV2,True
 https://github.com/LINCnil/CNIL-Cookies-List,False
 https://github.com/LINCnil/Cabanon,True
 https://github.com/LINCnil/Cookie-consent_Google-Analytics,True
@@ -992,7 +992,7 @@ https://github.com/betagouv/competences-pro-serveur,False
 https://github.com/betagouv/competences-pro-www,False
 https://github.com/betagouv/compta,False
 https://github.com/betagouv/cout-embauche,True
-https://github.com/betagouv/dashboard_apientreprise,False
+https://github.com/betagouv/dashboard_apientreprise,True
 https://github.com/betagouv/dds-cross-simulator,True
 https://github.com/betagouv/demarches-simplifiees.fr,False
 https://github.com/betagouv/dialogue-de-gestion,False
@@ -1043,7 +1043,7 @@ https://github.com/betagouv/mes-aides-ui,True
 https://github.com/betagouv/meteor-assemblee-nationale,True
 https://github.com/betagouv/monstage,False
 https://github.com/betagouv/mpal,True
-https://github.com/betagouv/mpal-deploy,False
+https://github.com/betagouv/mpal-deploy,True
 https://github.com/betagouv/mpal-rod,True
 https://github.com/betagouv/mrs,True
 https://github.com/betagouv/nir_validate,True
@@ -1595,7 +1595,7 @@ https://github.com/etalab/dotation-globale-fonctionnement,True
 https://github.com/etalab/dvf,True
 https://github.com/etalab/edigeo-parser,True
 https://github.com/etalab/edigeo-reproject,True
-https://github.com/etalab/editeur-bal,False
+https://github.com/etalab/editeur-bal,True
 https://github.com/etalab/eig-charts,True
 https://github.com/etalab/entreprise.api.gouv.fr,True
 https://github.com/etalab/entreprise.data.gouv.fr,True
@@ -1736,7 +1736,7 @@ https://github.com/histovec/histovec-beta,True
 https://github.com/histovec/mock-up,True
 https://github.com/histovec/slides,False
 https://github.com/ia-flash/app,True
-https://github.com/ia-flash/demo,False
+https://github.com/ia-flash/demo,True
 https://github.com/ia-flash/matchvec,True
 https://github.com/ia-flash/sivnorm,True
 https://github.com/ina-foss/ID-Fits,True
