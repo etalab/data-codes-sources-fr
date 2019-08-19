@@ -510,7 +510,7 @@ https://github.com/InseeFr/Eno,True
 https://github.com/InseeFr/Eno-CLI,True
 https://github.com/InseeFr/Eno-WS,True
 https://github.com/InseeFr/Keycloak-FranceConnect,True
-https://github.com/InseeFr/Lunatic,False
+https://github.com/InseeFr/Lunatic,True
 https://github.com/InseeFr/Lunatic-Model,False
 https://github.com/InseeFr/Meleze,True
 https://github.com/InseeFr/Mesange,True
@@ -791,7 +791,7 @@ https://github.com/SocialGouv/fce,False
 https://github.com/SocialGouv/jest-environment-knex,False
 https://github.com/SocialGouv/kali-data,True
 https://github.com/SocialGouv/kaligator,True
-https://github.com/SocialGouv/legi-postgres,False
+https://github.com/SocialGouv/legi-postgres,True
 https://github.com/SocialGouv/legixplore,True
 https://github.com/SocialGouv/letor-scores,False
 https://github.com/SocialGouv/linters,True
@@ -799,7 +799,7 @@ https://github.com/SocialGouv/mattermost-plugin-google-calendar,False
 https://github.com/SocialGouv/meditor,False
 https://github.com/SocialGouv/next-routes,False
 https://github.com/SocialGouv/polyfill-service,False
-https://github.com/SocialGouv/react-departements,False
+https://github.com/SocialGouv/react-departements,True
 https://github.com/SocialGouv/renovate-config,False
 https://github.com/SocialGouv/seminaire,False
 https://github.com/SocialGouv/siret2idcc,False
@@ -996,7 +996,7 @@ https://github.com/betagouv/dds-cross-simulator,True
 https://github.com/betagouv/demarches-simplifiees.fr,False
 https://github.com/betagouv/dialogue-de-gestion,False
 https://github.com/betagouv/discourse-oauth2-basic,False
-https://github.com/betagouv/dns,False
+https://github.com/betagouv/dns,True
 https://github.com/betagouv/domain-scan,False
 https://github.com/betagouv/dossiersco,True
 https://github.com/betagouv/dossiersco-maintenance,True
@@ -1116,7 +1116,7 @@ https://github.com/betagouv/retraite,True
 https://github.com/betagouv/role-ansible,False
 https://github.com/betagouv/secretariat,True
 https://github.com/betagouv/securite-numerique-agile,True
-https://github.com/betagouv/sejour,False
+https://github.com/betagouv/sejour,True
 https://github.com/betagouv/signalement,True
 https://github.com/betagouv/signalement-api,False
 https://github.com/betagouv/signalement-app,True
@@ -1453,7 +1453,7 @@ https://github.com/eole/redmine_track_control,True
 https://github.com/eole/salt,False
 https://github.com/eole/salt-winrepo-ng,True
 https://github.com/eole/systemd-formula,False
-https://github.com/eole/template-formula,False
+https://github.com/eole/template-formula,True
 https://github.com/erasme/androidwifidirect,True
 https://github.com/erasme/ansible-etherpad,True
 https://github.com/erasme/ansible-interfaces,True
@@ -1512,7 +1512,7 @@ https://github.com/etalab/Pathologies_allergiques,True
 https://github.com/etalab/addok-docker,True
 https://github.com/etalab/adresse-data-legacy-api,True
 https://github.com/etalab/adresse-explorer-api,False
-https://github.com/etalab/adresse-pipeline,False
+https://github.com/etalab/adresse-pipeline,True
 https://github.com/etalab/adresse.data.gouv.fr,True
 https://github.com/etalab/adresse.data.gouv.fr-backend,False
 https://github.com/etalab/adresses-cadastre,True
@@ -1709,7 +1709,7 @@ https://github.com/etalab/watchdoge_apientreprise,True
 https://github.com/etalab/weckan,True
 https://github.com/etalab/wiki-data-gouv,True
 https://github.com/etalab/youckan,True
-https://github.com/fabnumdef/GeoGate,False
+https://github.com/fabnumdef/GeoGate,True
 https://github.com/fabnumdef/design-system,True
 https://github.com/fabnumdef/e-chauffeur,True
 https://github.com/fabnumdef/e-chauffeur_api,True
@@ -1829,7 +1829,7 @@ https://github.com/opendatateam/csvapi-front,True
 https://github.com/opendatateam/csvapi-parser,False
 https://github.com/opendatateam/dataexplorer,True
 https://github.com/opendatateam/datapackage-pipelines-udata,False
-https://github.com/opendatateam/datopolis,False
+https://github.com/opendatateam/datopolis,True
 https://github.com/opendatateam/docker-ckan-test,False
 https://github.com/opendatateam/docker-elasticsearch,True
 https://github.com/opendatateam/docker-kerberos-test,False
@@ -1849,7 +1849,7 @@ https://github.com/opendatateam/udata-id,True
 https://github.com/opendatateam/udata-kerberos,True
 https://github.com/opendatateam/udata-ldap,True
 https://github.com/opendatateam/udata-link-proxy,False
-https://github.com/opendatateam/udata-meta,False
+https://github.com/opendatateam/udata-meta,True
 https://github.com/opendatateam/udata-metrics,False
 https://github.com/opendatateam/udata-ods,True
 https://github.com/opendatateam/udata-piwik,True
@@ -1994,7 +1994,7 @@ https://github.com/region-bretagne/mviewer-apps,True
 https://github.com/region-bretagne/signalement-ws,True
 https://github.com/region-bretagne/territoire-portal,True
 https://github.com/region-bretagne/viewer,True
-https://github.com/sigrennesmetropole/QgisCadastrePlugin,False
+https://github.com/sigrennesmetropole/QgisCadastrePlugin,True
 https://github.com/sigrennesmetropole/addon_rva,True
 https://github.com/sigrennesmetropole/addon_urbanisme,True
 https://github.com/sigrennesmetropole/api_rva,True
@@ -2030,14 +2030,14 @@ https://github.com/wookey-project/app-dfu-usb,True
 https://github.com/wookey-project/app-sample-blinky,False
 https://github.com/wookey-project/app-sample-button,True
 https://github.com/wookey-project/app-sample-leds,False
-https://github.com/wookey-project/app-wookey-crypto,False
+https://github.com/wookey-project/app-wookey-crypto,True
 https://github.com/wookey-project/app-wookey-flash,True
 https://github.com/wookey-project/app-wookey-pin,False
 https://github.com/wookey-project/app-wookey-sdio,False
 https://github.com/wookey-project/app-wookey-smart,True
 https://github.com/wookey-project/app-wookey-usb,True
 https://github.com/wookey-project/board-32f407disco,True
-https://github.com/wookey-project/board-32f439wookey,False
+https://github.com/wookey-project/board-32f439wookey,True
 https://github.com/wookey-project/bootloader,True
 https://github.com/wookey-project/driver-ad7843,False
 https://github.com/wookey-project/driver-ili9341,True
