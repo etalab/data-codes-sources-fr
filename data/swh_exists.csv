@@ -768,6 +768,7 @@ https://github.com/SocialGouv/code-du-travail-scenarios,False
 https://github.com/SocialGouv/code-du-travail-slides,True
 https://github.com/SocialGouv/code-du-travail-ui,True
 https://github.com/SocialGouv/conventions-collectives,True
+https://github.com/SocialGouv/cors-anywhere,False
 https://github.com/SocialGouv/datafiller,True
 https://github.com/SocialGouv/dila-api-client,False
 https://github.com/SocialGouv/dila-tests-api,False
@@ -1224,7 +1225,7 @@ https://github.com/clipos-archive/src_platform_clip-libvserver,False
 https://github.com/clipos-archive/src_platform_clip-livecd,True
 https://github.com/clipos-archive/src_platform_clip-lsm,False
 https://github.com/clipos-archive/src_platform_clip-mdadm,False
-https://github.com/clipos-archive/src_platform_clip-mdadm-clt,False
+https://github.com/clipos-archive/src_platform_clip-mdadm-clt,True
 https://github.com/clipos-archive/src_platform_clip-menu-xdg,True
 https://github.com/clipos-archive/src_platform_clip-net,True
 https://github.com/clipos-archive/src_platform_clip-netd,True
@@ -1537,7 +1538,7 @@ https://github.com/etalab/banatic,True
 https://github.com/etalab/biryani,True
 https://github.com/etalab/blog-eig2,True
 https://github.com/etalab/blog.data.gouv.fr,True
-https://github.com/etalab/blog_apientreprise,False
+https://github.com/etalab/blog_apientreprise,True
 https://github.com/etalab/bulma-theme-gouv-fr,True
 https://github.com/etalab/cada.data.gouv.fr,False
 https://github.com/etalab/cada_explore,False
@@ -1734,7 +1735,7 @@ https://github.com/geodatagouv/wfs-client,True
 https://github.com/histovec/histovec-beta,True
 https://github.com/histovec/mock-up,True
 https://github.com/histovec/slides,False
-https://github.com/ia-flash/app,False
+https://github.com/ia-flash/app,True
 https://github.com/ia-flash/demo,False
 https://github.com/ia-flash/matchvec,True
 https://github.com/ia-flash/sivnorm,True
