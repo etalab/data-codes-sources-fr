@@ -598,7 +598,7 @@ https://github.com/MTES-MCT/numerique,True
 https://github.com/MTES-MCT/parcours-r,False
 https://github.com/MTES-MCT/permis-construire,False
 https://github.com/MTES-MCT/portail,True
-https://github.com/MTES-MCT/rieau,False
+https://github.com/MTES-MCT/rieau,True
 https://github.com/MTES-MCT/rieau-api,True
 https://github.com/MTES-MCT/rieau-infra,False
 https://github.com/MTES-MCT/rieau-ui,True
@@ -1020,7 +1020,7 @@ https://github.com/betagouv/ilos,True
 https://github.com/betagouv/impact-tests,True
 https://github.com/betagouv/itou,False
 https://github.com/betagouv/kong-delegateAuth,True
-https://github.com/betagouv/la-sass-vy,False
+https://github.com/betagouv/la-sass-vy,True
 https://github.com/betagouv/lapin,False
 https://github.com/betagouv/leximpact-client,False
 https://github.com/betagouv/leximpact-server,True
@@ -1105,7 +1105,7 @@ https://github.com/betagouv/pop-shared,False
 https://github.com/betagouv/preuve-covoiturage,False
 https://github.com/betagouv/preuve-covoiturage-doc,True
 https://github.com/betagouv/publicodes,True
-https://github.com/betagouv/quotient-familial,False
+https://github.com/betagouv/quotient-familial,True
 https://github.com/betagouv/react-elasticsearch,True
 https://github.com/betagouv/react-final-form-utils,False
 https://github.com/betagouv/react-hook-data,True
@@ -2008,7 +2008,7 @@ https://github.com/sigrennesmetropole/mviewerstudio,True
 https://github.com/sigrennesmetropole/photos_obliques,True
 https://github.com/sigrennesmetropole/qgis-3liz-tools,False
 https://github.com/sigrennesmetropole/rmtr,False
-https://github.com/sigrennesmetropole/sviewer,False
+https://github.com/sigrennesmetropole/sviewer,True
 https://github.com/sigrennesmetropole/sviewer_generator,True
 https://github.com/sigrennesmetropole/visualiseur,False
 https://github.com/snosan-tools/avurnavs-csv,False
