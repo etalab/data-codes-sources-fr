@@ -178,7 +178,7 @@ https://github.com/CEREMA/dtermed.cloud2,True
 https://github.com/CEREMA/dtermed.cours_opendata_ente,True
 https://github.com/CEREMA/dtermed.cvrh.resalia,True
 https://github.com/CEREMA/dtermed.dashboard,False
-https://github.com/CEREMA/dtermed.db.bpclight,False
+https://github.com/CEREMA/dtermed.db.bpclight,True
 https://github.com/CEREMA/dtermed.db.cerema.vibren,False
 https://github.com/CEREMA/dtermed.db.preshume,True
 https://github.com/CEREMA/dtermed.deploy,True
@@ -685,7 +685,7 @@ https://github.com/PnX-SI/UsersHub,True
 https://github.com/PnX-SI/UsersHub-authentification-module,True
 https://github.com/PnX-SI/Virtualia-connect,True
 https://github.com/PnX-SI/gn_mobile_core,True
-https://github.com/PnX-SI/gn_mobile_maps,False
+https://github.com/PnX-SI/gn_mobile_maps,True
 https://github.com/PnX-SI/gn_mobile_occtax,True
 https://github.com/PnX-SI/gn_mobile_sft,False
 https://github.com/PnX-SI/gn_module_cmr,True
@@ -799,7 +799,7 @@ https://github.com/SocialGouv/legixplore,True
 https://github.com/SocialGouv/letor-scores,False
 https://github.com/SocialGouv/linters,True
 https://github.com/SocialGouv/mattermost-plugin-google-calendar,False
-https://github.com/SocialGouv/meditor,False
+https://github.com/SocialGouv/meditor,True
 https://github.com/SocialGouv/next-routes,False
 https://github.com/SocialGouv/polyfill-service,False
 https://github.com/SocialGouv/react-departements,True
@@ -1135,7 +1135,7 @@ https://github.com/betagouv/svair-api,True
 https://github.com/betagouv/svair-mock,True
 https://github.com/betagouv/syso,True
 https://github.com/betagouv/syso-core,True
-https://github.com/betagouv/taux-collectifs-cotisation-atmp,False
+https://github.com/betagouv/taux-collectifs-cotisation-atmp,True
 https://github.com/betagouv/taux-versement-transport,True
 https://github.com/betagouv/trait-d-union,False
 https://github.com/betagouv/verif.site,True
@@ -1156,7 +1156,7 @@ https://github.com/cea-hpc/heimdal,True
 https://github.com/cea-hpc/hp2p,True
 https://github.com/cea-hpc/kfs,False
 https://github.com/cea-hpc/krb5,False
-https://github.com/cea-hpc/kvsns,False
+https://github.com/cea-hpc/kvsns,True
 https://github.com/cea-hpc/lcap,True
 https://github.com/cea-hpc/milkcheck,True
 https://github.com/cea-hpc/modules,True
@@ -1392,7 +1392,7 @@ https://github.com/entrepreneur-interet-general/controle-en-cours,True
 https://github.com/entrepreneur-interet-general/csv2html,True
 https://github.com/entrepreneur-interet-general/dataESR,True
 https://github.com/entrepreneur-interet-general/datamap,True
-https://github.com/entrepreneur-interet-general/dedupe,False
+https://github.com/entrepreneur-interet-general/dedupe,True
 https://github.com/entrepreneur-interet-general/demo_metabase_postgres,False
 https://github.com/entrepreneur-interet-general/design-system,False
 https://github.com/entrepreneur-interet-general/dicoCodes,True
@@ -1658,7 +1658,7 @@ https://github.com/etalab/organismes-formation,True
 https://github.com/etalab/osem,True
 https://github.com/etalab/osm-wms,True
 https://github.com/etalab/ouverture-des-codes-sources-publics,True
-https://github.com/etalab/ox-html-timeline,False
+https://github.com/etalab/ox-html-timeline,True
 https://github.com/etalab/piaf,True
 https://github.com/etalab/piwik-covisits,True
 https://github.com/etalab/piwik_logs,True
@@ -1754,7 +1754,7 @@ https://github.com/ina-foss/voxo-dashboard,False
 https://github.com/ina-foss/voxo-docker,True
 https://github.com/ina-foss/voxo-lib,True
 https://github.com/indsante/Documentation-SNDS,False
-https://github.com/indsante/dico-snds,False
+https://github.com/indsante/dico-snds,True
 https://github.com/indsante/dico-snds-creation-archive,True
 https://github.com/indsante/schema-snds,True
 https://github.com/linbox-team/fflas-ffpack,True
@@ -2006,6 +2006,7 @@ https://github.com/sigrennesmetropole/geoserver_sld,True
 https://github.com/sigrennesmetropole/images,True
 https://github.com/sigrennesmetropole/mviewerstudio,True
 https://github.com/sigrennesmetropole/photos_obliques,True
+https://github.com/sigrennesmetropole/qgis-3liz-tools,False
 https://github.com/sigrennesmetropole/rmtr,False
 https://github.com/sigrennesmetropole/sviewer,False
 https://github.com/sigrennesmetropole/sviewer_generator,True
