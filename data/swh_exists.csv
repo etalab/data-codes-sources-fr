@@ -139,7 +139,7 @@ https://github.com/BRGM/GeoSciML,True
 https://github.com/BRGM/GeoSciMLontology,True
 https://github.com/BRGM/Nifi-WKB-to-WKT-processor,False
 https://github.com/BRGM/Pic-EAU,True
-https://github.com/BRGM/cgal,False
+https://github.com/BRGM/cgal,True
 https://github.com/BRGM/core-geonetwork,True
 https://github.com/BRGM/daobs,True
 https://github.com/BRGM/external_file,True
@@ -181,7 +181,7 @@ https://github.com/CEREMA/dtermed.dashboard,False
 https://github.com/CEREMA/dtermed.db.bpclight,False
 https://github.com/CEREMA/dtermed.db.cerema.vibren,False
 https://github.com/CEREMA/dtermed.db.preshume,True
-https://github.com/CEREMA/dtermed.deploy,False
+https://github.com/CEREMA/dtermed.deploy,True
 https://github.com/CEREMA/dtermed.detection-friches,True
 https://github.com/CEREMA/dtermed.ecureuil,False
 https://github.com/CEREMA/dtermed.ecureuilmobile,True
@@ -681,7 +681,7 @@ https://github.com/PnX-SI/GeoPaysages,True
 https://github.com/PnX-SI/Nomenclature-api-module,True
 https://github.com/PnX-SI/Ressources-techniques,True
 https://github.com/PnX-SI/TaxHub,True
-https://github.com/PnX-SI/UsersHub,False
+https://github.com/PnX-SI/UsersHub,True
 https://github.com/PnX-SI/UsersHub-authentification-module,True
 https://github.com/PnX-SI/Virtualia-connect,True
 https://github.com/PnX-SI/gn_mobile_core,True
@@ -916,7 +916,7 @@ https://github.com/atlanmod/atlanmod-platform,True
 https://github.com/atlanmod/atlanmod.github.io,True
 https://github.com/atlanmod/busfactor_demo,True
 https://github.com/atlanmod/csy-traceability,True
-https://github.com/atlanmod/emf,False
+https://github.com/atlanmod/emf,True
 https://github.com/atlanmod/emfviews,True
 https://github.com/atlanmod/emfviewsSQL,True
 https://github.com/atlanmod/energy-estimation-language,False
@@ -1016,7 +1016,7 @@ https://github.com/betagouv/gps-usagers,True
 https://github.com/betagouv/grafana-scalingo,False
 https://github.com/betagouv/heroku-buildpack-ruby,True
 https://github.com/betagouv/i18nliner-js,True
-https://github.com/betagouv/ilos,False
+https://github.com/betagouv/ilos,True
 https://github.com/betagouv/impact-tests,True
 https://github.com/betagouv/itou,False
 https://github.com/betagouv/kong-delegateAuth,True
@@ -1171,7 +1171,7 @@ https://github.com/cea-hpc/shine,True
 https://github.com/cea-hpc/sigmund,True
 https://github.com/cea-hpc/space9,False
 https://github.com/cea-hpc/sshproxy,True
-https://github.com/cea-hpc/vbridge,False
+https://github.com/cea-hpc/vbridge,True
 https://github.com/cea-hpc/wi4mpi,True
 https://github.com/cea-sec/Sibyl,True
 https://github.com/cea-sec/TorPylle,True
@@ -1725,7 +1725,7 @@ https://github.com/fabnumdef/fabnumdef.github.io,True
 https://github.com/fabnumdef/resources,False
 https://github.com/geodatagouv/csw-client,True
 https://github.com/geodatagouv/docker,True
-https://github.com/geodatagouv/docker-node-gdal,False
+https://github.com/geodatagouv/docker-node-gdal,True
 https://github.com/geodatagouv/geogw,True
 https://github.com/geodatagouv/geoplatform,True
 https://github.com/geodatagouv/link-analyzer,False
@@ -1756,7 +1756,7 @@ https://github.com/ina-foss/voxo-lib,True
 https://github.com/indsante/Documentation-SNDS,False
 https://github.com/indsante/dico-snds,False
 https://github.com/indsante/dico-snds-creation-archive,True
-https://github.com/indsante/schema-snds,False
+https://github.com/indsante/schema-snds,True
 https://github.com/linbox-team/fflas-ffpack,True
 https://github.com/linbox-team/givaro,True
 https://github.com/linbox-team/linbox,True
@@ -1800,7 +1800,7 @@ https://github.com/minagri-initial/arpent-api,False
 https://github.com/minagri-initial/arpent-examen,True
 https://github.com/minagri-initial/ift,True
 https://github.com/minagri-initial/ift-api,True
-https://github.com/minagri-initial/sinex-preregistration-dto,False
+https://github.com/minagri-initial/sinex-preregistration-dto,True
 https://github.com/nanterre/Bienvenue,True
 https://github.com/nanterre/Datea,True
 https://github.com/nanterre/decidim,False

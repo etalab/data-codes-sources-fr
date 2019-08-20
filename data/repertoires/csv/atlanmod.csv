@@ -49,7 +49,7 @@ MDE4RTS,atlanmod,GitHub,https://github.com/atlanmod/MDE4RTS,,False,False,2018-10
 updates,atlanmod,GitHub,https://github.com/atlanmod/updates,Update site for Atlanmod projects,False,False,2018-12-07T10:36:48Z,2019-08-02T14:43:56Z,,0,0,,0,HTML,,False,
 ACP-FIX,atlanmod,GitHub,https://github.com/atlanmod/ACP-FIX,Fix problems in RBAC,False,False,2018-12-28T08:41:45Z,2019-06-27T12:43:15Z,,0,1,,0,Python,,False,
 pacmon,atlanmod,GitHub,https://github.com/atlanmod/pacmon,Framework for monitoring energy consumptions of Java programs,False,False,2019-01-28T09:30:14Z,2019-06-05T08:17:15Z,,2,1,GNU Lesser General Public License v3.0,0,Java,,False,
-emf,atlanmod,GitHub,https://github.com/atlanmod/emf,EMF project repository (emf),True,False,2019-02-28T09:46:49Z,2019-02-28T09:47:07Z,,0,0,,0,Java,,False,
+emf,atlanmod,GitHub,https://github.com/atlanmod/emf,EMF project repository (emf),True,False,2019-02-28T09:46:49Z,2019-02-28T09:47:07Z,,0,0,,0,Java,,True,https://archive.softwareheritage.org/browse/origin/https://github.com/atlanmod/emf/directory/
 atlanmod-platform,atlanmod,GitHub,https://github.com/atlanmod/atlanmod-platform,Atlanmod Platform,False,False,2019-04-23T07:08:46Z,2019-06-07T09:21:01Z,,0,0,Eclipse Public License 2.0,0,,,True,https://archive.softwareheritage.org/browse/origin/https://github.com/atlanmod/atlanmod-platform/directory/
 atl,atlanmod,GitHub,https://github.com/atlanmod/atl,Atlanmod Transformation Language,False,False,2019-04-23T09:41:40Z,2019-05-24T08:08:45Z,,0,0,,0,Java,,False,
 modisco,atlanmod,GitHub,https://github.com/atlanmod/modisco,Model Discover,False,False,2019-04-24T07:03:42Z,2019-07-04T09:09:57Z,,1,0,,0,Java,,False,
