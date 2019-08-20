@@ -159,7 +159,7 @@ https://github.com/CEA-LIST/CinguParam,True
 https://github.com/CEA-LIST/Cingulata,True
 https://github.com/CEA-LIST/DAHLIA-BodyIndex,True
 https://github.com/CEA-LIST/N2D2,True
-https://github.com/CEA-LIST/sgntx,False
+https://github.com/CEA-LIST/sgntx,True
 https://github.com/CEA-Leti/wsnet,False
 https://github.com/CEREMA/com.cerema.infocentre_old,True
 https://github.com/CEREMA/dsi.adutils,False
@@ -184,7 +184,7 @@ https://github.com/CEREMA/dtermed.db.preshume,True
 https://github.com/CEREMA/dtermed.deploy,False
 https://github.com/CEREMA/dtermed.detection-friches,True
 https://github.com/CEREMA/dtermed.ecureuil,False
-https://github.com/CEREMA/dtermed.ecureuilmobile,False
+https://github.com/CEREMA/dtermed.ecureuilmobile,True
 https://github.com/CEREMA/dtermed.ecureuilmobile2,False
 https://github.com/CEREMA/dtermed.faveur,False
 https://github.com/CEREMA/dtermed.formulaires,True
@@ -382,7 +382,7 @@ https://github.com/INSIDE-information-systems/HydrogeologyWxS,True
 https://github.com/INSIDE-information-systems/RiverNetworkWPS,False
 https://github.com/INSIDE-information-systems/SensorThingsAPI,False
 https://github.com/INSIDE-information-systems/TheHeart,True
-https://github.com/INSIDE-information-systems/WFS3,False
+https://github.com/INSIDE-information-systems/WFS3,True
 https://github.com/INSIDE-information-systems/WatershedWPS,False
 https://github.com/INSIDE-information-systems/wfd2018,True
 https://github.com/Inist-CNRS/KitGPEC,True
@@ -397,7 +397,7 @@ https://github.com/Inist-CNRS/ezmaster-automaton,True
 https://github.com/Inist-CNRS/ezmaster-canvas,True
 https://github.com/Inist-CNRS/ezmaster-cli,True
 https://github.com/Inist-CNRS/ezmaster-gitbook,True
-https://github.com/Inist-CNRS/ezmaster-globs,False
+https://github.com/Inist-CNRS/ezmaster-globs,True
 https://github.com/Inist-CNRS/ezmaster-hexo,True
 https://github.com/Inist-CNRS/ezmaster-jekyll,True
 https://github.com/Inist-CNRS/ezmaster-mongo,True
@@ -610,7 +610,7 @@ https://github.com/MTES-MCT/trackdechets-datascience,False
 https://github.com/MTES-MCT/trashadvisor,True
 https://github.com/MTES-MCT/udata-doc,True
 https://github.com/MTES-MCT/udata-gouvfr-ecologie,True
-https://github.com/MinistereSupRecherche/dataESR,False
+https://github.com/MinistereSupRecherche/dataESR,True
 https://github.com/MinistereSupRecherche/machineadonnees,False
 https://github.com/MinistereSupRecherche/parcoursup,True
 https://github.com/MinistereSupRecherche/scanR,False
@@ -793,6 +793,7 @@ https://github.com/SocialGouv/jest-environment-knex,False
 https://github.com/SocialGouv/kali-data,True
 https://github.com/SocialGouv/kaligator,True
 https://github.com/SocialGouv/legi-data,False
+https://github.com/SocialGouv/legi-detect,False
 https://github.com/SocialGouv/legi-postgres,True
 https://github.com/SocialGouv/legixplore,True
 https://github.com/SocialGouv/letor-scores,False
@@ -962,7 +963,7 @@ https://github.com/betagouv/anpy,False
 https://github.com/betagouv/api-auth,False
 https://github.com/betagouv/api-caf,True
 https://github.com/betagouv/api-cpa,True
-https://github.com/betagouv/api-drones,False
+https://github.com/betagouv/api-drones,True
 https://github.com/betagouv/api-medicaments,True
 https://github.com/betagouv/api-particulier,True
 https://github.com/betagouv/api-particulier-auth,True
@@ -1102,7 +1103,7 @@ https://github.com/betagouv/pop-data,True
 https://github.com/betagouv/pop-production,True
 https://github.com/betagouv/pop-shared,False
 https://github.com/betagouv/preuve-covoiturage,False
-https://github.com/betagouv/preuve-covoiturage-doc,False
+https://github.com/betagouv/preuve-covoiturage-doc,True
 https://github.com/betagouv/publicodes,True
 https://github.com/betagouv/quotient-familial,False
 https://github.com/betagouv/react-elasticsearch,True
@@ -1237,7 +1238,7 @@ https://github.com/clipos-archive/src_platform_clip-test-box,True
 https://github.com/clipos-archive/src_platform_clip-tests,True
 https://github.com/clipos-archive/src_platform_clip-update-user-data,False
 https://github.com/clipos-archive/src_platform_clip-usb-clt,True
-https://github.com/clipos-archive/src_platform_clip-usb-keys,False
+https://github.com/clipos-archive/src_platform_clip-usb-keys,True
 https://github.com/clipos-archive/src_platform_clip-user-mount,True
 https://github.com/clipos-archive/src_platform_clip-useradmin,False
 https://github.com/clipos-archive/src_platform_clip-viewer,False
@@ -1245,7 +1246,7 @@ https://github.com/clipos-archive/src_platform_clip-vpn-net,True
 https://github.com/clipos-archive/src_platform_clip-vserver,True
 https://github.com/clipos-archive/src_platform_clip-wallpapers,False
 https://github.com/clipos-archive/src_platform_core-services,False
-https://github.com/clipos-archive/src_platform_cryptclt,False
+https://github.com/clipos-archive/src_platform_cryptclt,True
 https://github.com/clipos-archive/src_platform_cryptd,True
 https://github.com/clipos-archive/src_platform_debootstrap-clip,False
 https://github.com/clipos-archive/src_platform_downloadrequest,True
@@ -1405,7 +1406,7 @@ https://github.com/entrepreneur-interet-general/gobelins-datasource,False
 https://github.com/entrepreneur-interet-general/gobelins-devops,True
 https://github.com/entrepreneur-interet-general/gobelins-landingpage,True
 https://github.com/entrepreneur-interet-general/graph-explorer,True
-https://github.com/entrepreneur-interet-general/krojolo,False
+https://github.com/entrepreneur-interet-general/krojolo,True
 https://github.com/entrepreneur-interet-general/leaflet-geocoder-ban,True
 https://github.com/entrepreneur-interet-general/makeExe,True
 https://github.com/entrepreneur-interet-general/manifeste-eig,True
@@ -2024,7 +2025,7 @@ https://github.com/strasbourg/parkings-api,True
 https://github.com/strasbourg/stats-api,True
 https://github.com/strasbourg/strasbourgstartups,True
 https://github.com/strasbourg/velhop-api,True
-https://github.com/wookey-project/app-bench-logger,False
+https://github.com/wookey-project/app-bench-logger,True
 https://github.com/wookey-project/app-bench-syscalls,True
 https://github.com/wookey-project/app-dfu-cryp,False
 https://github.com/wookey-project/app-dfu-smart,False
@@ -2058,7 +2059,7 @@ https://github.com/wookey-project/hard-tools,True
 https://github.com/wookey-project/hard-wookey-jtag,True
 https://github.com/wookey-project/hard-wookey-motherboard,False
 https://github.com/wookey-project/hard-wookey-screen,False
-https://github.com/wookey-project/javacard-applet,False
+https://github.com/wookey-project/javacard-applet,True
 https://github.com/wookey-project/layout-stm32f407,True
 https://github.com/wookey-project/layout-stm32f439,False
 https://github.com/wookey-project/libaes,True
