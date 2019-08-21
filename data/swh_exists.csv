@@ -133,7 +133,7 @@ https://github.com/AlsaceDigitale/www.swstrasbourg.eu,False
 https://github.com/ApieFrance/ApieFrance.github.io,True
 https://github.com/ApieFrance/choosealicense.com,True
 https://github.com/BRGM/ANZSoilML,False
-https://github.com/BRGM/BLiv,False
+https://github.com/BRGM/BLiv,True
 https://github.com/BRGM/ComPASS,False
 https://github.com/BRGM/GeoSciML,True
 https://github.com/BRGM/GeoSciMLontology,True
@@ -604,7 +604,7 @@ https://github.com/MTES-MCT/rieau-infra,False
 https://github.com/MTES-MCT/rieau-ui,True
 https://github.com/MTES-MCT/secmar-data,False
 https://github.com/MTES-MCT/secmar-documentation,True
-https://github.com/MTES-MCT/toolbox,False
+https://github.com/MTES-MCT/toolbox,True
 https://github.com/MTES-MCT/trackdechets,False
 https://github.com/MTES-MCT/trackdechets-datascience,False
 https://github.com/MTES-MCT/trashadvisor,True
@@ -757,7 +757,7 @@ https://github.com/SocialGouv/bootstrap,True
 https://github.com/SocialGouv/bot,False
 https://github.com/SocialGouv/checkup,True
 https://github.com/SocialGouv/code-du-travail-api,True
-https://github.com/SocialGouv/code-du-travail-backoffice,False
+https://github.com/SocialGouv/code-du-travail-backoffice,True
 https://github.com/SocialGouv/code-du-travail-chatbot,False
 https://github.com/SocialGouv/code-du-travail-css,True
 https://github.com/SocialGouv/code-du-travail-data,True
@@ -788,7 +788,7 @@ https://github.com/SocialGouv/emjpm-design,False
 https://github.com/SocialGouv/emjpm-design-system,True
 https://github.com/SocialGouv/emjpm-ui,False
 https://github.com/SocialGouv/faq-code-du-travail,True
-https://github.com/SocialGouv/fce,False
+https://github.com/SocialGouv/fce,True
 https://github.com/SocialGouv/helm-charts,False
 https://github.com/SocialGouv/jest-environment-knex,False
 https://github.com/SocialGouv/kali-data,True
@@ -810,7 +810,7 @@ https://github.com/SocialGouv/siret2idcc,False
 https://github.com/SocialGouv/socialgouv.github.io,True
 https://github.com/SocialGouv/standup,False
 https://github.com/SocialGouv/suggest,False
-https://github.com/SocialGouv/template.data.gouv.fr.react,False
+https://github.com/SocialGouv/template.data.gouv.fr.react,True
 https://github.com/SocialGouv/tocbot,False
 https://github.com/SocialGouv/tps,True
 https://github.com/SocialGouv/traefigit,True
@@ -1032,7 +1032,7 @@ https://github.com/betagouv/ludwig-ui,True
 https://github.com/betagouv/mas,True
 https://github.com/betagouv/mdph,True
 https://github.com/betagouv/mdph-evaluation,True
-https://github.com/betagouv/mdph-geva-etl,False
+https://github.com/betagouv/mdph-geva-etl,True
 https://github.com/betagouv/mdph-redirect,True
 https://github.com/betagouv/mes-aides-analytics,True
 https://github.com/betagouv/mes-aides-api,True
@@ -1088,7 +1088,7 @@ https://github.com/betagouv/pass-culture-pro,True
 https://github.com/betagouv/pass-culture-pro-staging,True
 https://github.com/betagouv/pass-culture-publi-mailing,False
 https://github.com/betagouv/pass-culture-shared,True
-https://github.com/betagouv/pass-culture-team,False
+https://github.com/betagouv/pass-culture-team,True
 https://github.com/betagouv/pass-culture-web-analytics,False
 https://github.com/betagouv/peps,False
 https://github.com/betagouv/pia-docker,False
@@ -1186,7 +1186,7 @@ https://github.com/clipos-archive/clipos4_doc,True
 https://github.com/clipos-archive/clipos4_manifest,False
 https://github.com/clipos-archive/clipos4_portage,False
 https://github.com/clipos-archive/clipos4_portage-overlay,True
-https://github.com/clipos-archive/clipos4_portage-overlay-clip,False
+https://github.com/clipos-archive/clipos4_portage-overlay-clip,True
 https://github.com/clipos-archive/clipos4_portage-overlay-dev,False
 https://github.com/clipos-archive/clipos4_specs,False
 https://github.com/clipos-archive/src_platform_CLIP-Conf-Base,False
@@ -1337,7 +1337,7 @@ https://github.com/culturecommunication/ginco,True
 https://github.com/culturecommunication/ginco-diff,True
 https://github.com/cw-leia/chipwhisperer,True
 https://github.com/cw-leia/chipwhisperer-target-cw308t,True
-https://github.com/cw-leia/cw-leia-standalone-firmware,False
+https://github.com/cw-leia/cw-leia-standalone-firmware,True
 https://github.com/cw-leia/cw-leia-standalone-hard,True
 https://github.com/dinsic-pim/Tchap-artwork,True
 https://github.com/dinsic-pim/matrix-react-sdk,True
@@ -1434,7 +1434,7 @@ https://github.com/entrepreneur-interet-general/site-archifiltre,True
 https://github.com/entrepreneur-interet-general/site-eig,True
 https://github.com/entrepreneur-interet-general/solidata_backend,True
 https://github.com/entrepreneur-interet-general/solidata_frontend,True
-https://github.com/entrepreneur-interet-general/standup,False
+https://github.com/entrepreneur-interet-general/standup,True
 https://github.com/entrepreneur-interet-general/suivi_auto,True
 https://github.com/entrepreneur-interet-general/tf-han,True
 https://github.com/entrepreneur-interet-general/tf-idf_poc,False
@@ -1515,6 +1515,7 @@ https://github.com/etalab/HackFrancophonie,True
 https://github.com/etalab/Pathologies_allergiques,True
 https://github.com/etalab/addok-docker,True
 https://github.com/etalab/admin_api_entreprise,False
+https://github.com/etalab/adresse-data,False
 https://github.com/etalab/adresse-data-legacy-api,True
 https://github.com/etalab/adresse-explorer-api,False
 https://github.com/etalab/adresse-pipeline,True
@@ -1654,7 +1655,7 @@ https://github.com/etalab/monuments-historiques,False
 https://github.com/etalab/munin-plugins,True
 https://github.com/etalab/munin-theme,True
 https://github.com/etalab/normadresse,True
-https://github.com/etalab/notebooks,False
+https://github.com/etalab/notebooks,True
 https://github.com/etalab/ofsearch,True
 https://github.com/etalab/ogptoolbox,True
 https://github.com/etalab/openlabs_apientreprise,True
@@ -1687,7 +1688,7 @@ https://github.com/etalab/secateur,True
 https://github.com/etalab/sirene,True
 https://github.com/etalab/sirene_as_api,True
 https://github.com/etalab/sirene_as_api_ansible,True
-https://github.com/etalab/sorry.data.gouv.fr,False
+https://github.com/etalab/sorry.data.gouv.fr,True
 https://github.com/etalab/speedtracker,True
 https://github.com/etalab/stars_detective,True
 https://github.com/etalab/taxe-habitation,True
@@ -1826,7 +1827,7 @@ https://github.com/observatoire-territoires/migR,True
 https://github.com/observatoire-territoires/rapport-OT-mobilites,True
 https://github.com/observatoire-territoires/shinyapp_mob_resid,False
 https://github.com/observatoire-territoires/specificite,False
-https://github.com/observatoire-territoires/synthese_mob_resid,False
+https://github.com/observatoire-territoires/synthese_mob_resid,True
 https://github.com/opendatateam/ansible-udata,True
 https://github.com/opendatateam/cookiecutter-udata-harvester,True
 https://github.com/opendatateam/cookiecutter-udata-plugin,True
@@ -2089,7 +2090,7 @@ https://github.com/wookey-project/tataouine,True
 https://github.com/wookey-project/wookey-project.github.io,False
 https://github.com/wookey-project/wookeypedia,False
 https://gitlab.com/healthdatahub/dico-snds,True
-https://gitlab.com/healthdatahub/documentation-snds,False
+https://gitlab.com/healthdatahub/documentation-snds,True
 https://gitlab.com/healthdatahub/programmes-sdns,True
 https://gitlab.com/healthdatahub/schema-snds,True
 https://gitlab.com/healthdatahub/tsfaker,True
