@@ -5,7 +5,7 @@ ORGS_FOLDER = "data/organisations/"
 REPOS_FOLDER = "data/repertoires/"
 
 
-def filename(org, mode, extension):
+def filename(mode, extension):
     if mode == "repo":
         folder = REPOS_FOLDER
     elif mode == "org":
@@ -15,34 +15,29 @@ def filename(org, mode, extension):
     if extension not in ["csv", "json"]:
         raise ValueError
 
-    if org == "all":
-        org_name = "all"
-    else:
-        org_name = org.organisation
-
-    return "{folder}{extension}/{organisation}.{extension}".format(
-        folder=folder, extension=extension, organisation=org_name
+    return "{folder}{extension}/all.{extension}".format(
+        folder=folder, extension=extension
     )
 
 
-def save_data(organisation, data, mode):
+def save_data(data, mode):
     # Save in CSV
-    with open(filename(organisation, mode, "csv"), "w") as f:
+    with open(filename(mode, "csv"), "w") as f:
         w = csv.writer(f)
         w.writerow(data.keys())
         w.writerows(zip(*data.values()))
 
     # Save in JSON
-    with open(filename(organisation, mode, "json"), "w") as f:
+    with open(filename(mode, "json"), "w") as f:
         data = [dict(zip(data.keys(), i)) for i in zip(*data.values())]
         if mode == "org" and len(data) == 1:
             data = data[0]
         json.dump(data, f, ensure_ascii=False)
 
 
-def save_repos_for_org(organisation, data):
-    save_data(organisation, data, "repo")
+def save_repos(data):
+    save_data(data, "repo")
 
 
-def save_org(organisation, data):
-    save_data(organisation, data, "org")
+def save_orgs(data):
+    save_data(data, "org")
