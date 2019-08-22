@@ -137,7 +137,7 @@ https://github.com/BRGM/BLiv,True
 https://github.com/BRGM/ComPASS,False
 https://github.com/BRGM/GeoSciML,True
 https://github.com/BRGM/GeoSciMLontology,True
-https://github.com/BRGM/Nifi-WKB-to-WKT-processor,False
+https://github.com/BRGM/Nifi-WKB-to-WKT-processor,True
 https://github.com/BRGM/Pic-EAU,True
 https://github.com/BRGM/cgal,True
 https://github.com/BRGM/core-geonetwork,True
@@ -203,7 +203,7 @@ https://github.com/CEREMA/dtermed.ticket2,False
 https://github.com/CEREMA/dtermed.vibren,True
 https://github.com/CEREMA/dtermed.virtualdesktop,True
 https://github.com/CEREMA/dtermed.webapp.bpclight,False
-https://github.com/CEREMA/dtermed.webapp.ecureuil,False
+https://github.com/CEREMA/dtermed.webapp.ecureuil,True
 https://github.com/CEREMA/dtermed.webapp.rivages,True
 https://github.com/CEREMA/dterso.pluginQgis.CeremaCartEau,True
 https://github.com/CEREMA/dterso.pluginQgis3.CeremaCartEau3,False
@@ -239,7 +239,7 @@ https://github.com/CNRS-DSI-Dev/user_servervars2,True
 https://github.com/CNRS-DSI-Dev/user_set_password,True
 https://github.com/CNRS-DSI-Dev/user_share_guest,True
 https://github.com/DGAC/MattermostModule,False
-https://github.com/DGAC/dgac.github.io,False
+https://github.com/DGAC/dgac.github.io,True
 https://github.com/DGAC/nmb2b-client-js,True
 https://github.com/DGAC/nmb2b-client-js-example,True
 https://github.com/DGAC/nmb2b-phpclient,False
@@ -592,7 +592,7 @@ https://github.com/MTES-MCT/geo-communes-api,False
 https://github.com/MTES-MCT/geostatis,True
 https://github.com/MTES-MCT/invasivalerte,True
 https://github.com/MTES-MCT/kelrisks,True
-https://github.com/MTES-MCT/kelrisks-datascience,False
+https://github.com/MTES-MCT/kelrisks-datascience,True
 https://github.com/MTES-MCT/locatio,True
 https://github.com/MTES-MCT/numerique,True
 https://github.com/MTES-MCT/parcours-r,False
@@ -675,7 +675,7 @@ https://github.com/PnEcrins/PatBati,True
 https://github.com/PnEcrins/Police,True
 https://github.com/PnX-SI/GeoNature,True
 https://github.com/PnX-SI/GeoNature-R-package,True
-https://github.com/PnX-SI/GeoNature-atlas,False
+https://github.com/PnX-SI/GeoNature-atlas,True
 https://github.com/PnX-SI/GeoNature-citizen,True
 https://github.com/PnX-SI/GeoPaysages,True
 https://github.com/PnX-SI/Nomenclature-api-module,True
@@ -782,7 +782,7 @@ https://github.com/SocialGouv/eMJPM-api,True
 https://github.com/SocialGouv/eMJPM-app,True
 https://github.com/SocialGouv/eMJPM-doc,True
 https://github.com/SocialGouv/eMJPM-homepage,True
-https://github.com/SocialGouv/egapro,False
+https://github.com/SocialGouv/egapro,True
 https://github.com/SocialGouv/emjpm,True
 https://github.com/SocialGouv/emjpm-design,False
 https://github.com/SocialGouv/emjpm-design-system,True
@@ -833,7 +833,7 @@ https://github.com/SocieteNumerique/societenumerique.github.io,True
 https://github.com/SocieteNumerique/societenumerique.github.io-old,False
 https://github.com/SocieteNumerique/tutoriel,True
 https://github.com/StartupsPoleEmploi/Avril-Frontend,True
-https://github.com/StartupsPoleEmploi/Templates-Mailjet,False
+https://github.com/StartupsPoleEmploi/Templates-Mailjet,True
 https://github.com/StartupsPoleEmploi/anotea,True
 https://github.com/StartupsPoleEmploi/avril,True
 https://github.com/StartupsPoleEmploi/baggy,False
@@ -1025,7 +1025,7 @@ https://github.com/betagouv/la-sass-vy,True
 https://github.com/betagouv/lapin,False
 https://github.com/betagouv/leximpact-client,False
 https://github.com/betagouv/leximpact-server,True
-https://github.com/betagouv/logstash-boilerplate,False
+https://github.com/betagouv/logstash-boilerplate,True
 https://github.com/betagouv/ludwig,True
 https://github.com/betagouv/ludwig-api,True
 https://github.com/betagouv/ludwig-ui,True
@@ -1036,7 +1036,7 @@ https://github.com/betagouv/mdph-geva-etl,True
 https://github.com/betagouv/mdph-redirect,True
 https://github.com/betagouv/mes-aides-analytics,True
 https://github.com/betagouv/mes-aides-api,True
-https://github.com/betagouv/mes-aides-campaign,False
+https://github.com/betagouv/mes-aides-campaign,True
 https://github.com/betagouv/mes-aides-docker,True
 https://github.com/betagouv/mes-aides-dockerfiles,False
 https://github.com/betagouv/mes-aides-openfisca,True
@@ -1187,7 +1187,7 @@ https://github.com/clipos-archive/clipos4_manifest,False
 https://github.com/clipos-archive/clipos4_portage,False
 https://github.com/clipos-archive/clipos4_portage-overlay,True
 https://github.com/clipos-archive/clipos4_portage-overlay-clip,True
-https://github.com/clipos-archive/clipos4_portage-overlay-dev,False
+https://github.com/clipos-archive/clipos4_portage-overlay-dev,True
 https://github.com/clipos-archive/clipos4_specs,False
 https://github.com/clipos-archive/src_platform_CLIP-Conf-Base,False
 https://github.com/clipos-archive/src_platform_CLIP-Logger,True
@@ -1226,7 +1226,7 @@ https://github.com/clipos-archive/src_platform_clip-installer,True
 https://github.com/clipos-archive/src_platform_clip-lib,False
 https://github.com/clipos-archive/src_platform_clip-libvserver,False
 https://github.com/clipos-archive/src_platform_clip-livecd,True
-https://github.com/clipos-archive/src_platform_clip-lsm,False
+https://github.com/clipos-archive/src_platform_clip-lsm,True
 https://github.com/clipos-archive/src_platform_clip-mdadm,False
 https://github.com/clipos-archive/src_platform_clip-mdadm-clt,True
 https://github.com/clipos-archive/src_platform_clip-menu-xdg,True
@@ -1287,7 +1287,7 @@ https://github.com/clipos-archive/src_platform_verictl,False
 https://github.com/clipos-archive/src_platform_vsctl,True
 https://github.com/clipos-archive/src_platform_xscreensaver-pwcheck,True
 https://github.com/clipos/assets_crates-io,True
-https://github.com/clipos/assets_debian,False
+https://github.com/clipos/assets_debian,True
 https://github.com/clipos/assets_distfiles,True
 https://github.com/clipos/assets_gentoo,True
 https://github.com/clipos/assets_toolkit,True
@@ -1826,7 +1826,7 @@ https://github.com/observatoire-territoires/couvnum,True
 https://github.com/observatoire-territoires/migR,True
 https://github.com/observatoire-territoires/rapport-OT-mobilites,True
 https://github.com/observatoire-territoires/shinyapp_mob_resid,False
-https://github.com/observatoire-territoires/specificite,False
+https://github.com/observatoire-territoires/specificite,True
 https://github.com/observatoire-territoires/synthese_mob_resid,True
 https://github.com/opendatateam/ansible-udata,True
 https://github.com/opendatateam/cookiecutter-udata-harvester,True
@@ -2097,7 +2097,7 @@ https://gitlab.com/healthdatahub/tsfaker,True
 https://gitlab.com/pidila/checklist-pidila,True
 https://gitlab.com/pidila/kit-module-scampi,True
 https://gitlab.com/pidila/kit-sprite-svg,True
-https://gitlab.com/pidila/pidila.gitlab.io,False
+https://gitlab.com/pidila/pidila.gitlab.io,True
 https://gitlab.com/pidila/scampi,True
 https://gitlab.com/pidila/scampi-twig,False
 https://gitlab.com/pidila/select-a11y,False
