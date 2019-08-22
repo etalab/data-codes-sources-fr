@@ -23,7 +23,7 @@ https://framagit.org/etalab/osem-ogp,True
 https://framagit.org/etalab/sources-civic-tech,True
 https://framagit.org/etalab/suivi-plan-ogp-2015-2017,True
 https://framagit.org/etalab/votes-hackrepnum,False
-https://framagit.org/openfisca/calculette-impots-hackathon,False
+https://framagit.org/openfisca/calculette-impots-hackathon,True
 https://framagit.org/openfisca/calculette-impots-javascript,False
 https://framagit.org/openfisca/calculette-impots-m-language-parser,False
 https://framagit.org/openfisca/calculette-impots-m-source-code,False
@@ -253,7 +253,7 @@ https://github.com/DISIC/assistant-rgaa,True
 https://github.com/DISIC/bmc-tools,False
 https://github.com/DISIC/circuits,False
 https://github.com/DISIC/foss-contrib-policy-template,True
-https://github.com/DISIC/gazette-bluehats,False
+https://github.com/DISIC/gazette-bluehats,True
 https://github.com/DISIC/guide-RGAA_CMS,True
 https://github.com/DISIC/guide-auditeur,True
 https://github.com/DISIC/guide-chef_projets,True
@@ -300,7 +300,7 @@ https://github.com/DISIC/sill,False
 https://github.com/DISIC/sirh-paye-GEST-compar,True
 https://github.com/DISIC/sirh-paye-mqd-poc,True
 https://github.com/DISIC/wikidemarches,True
-https://github.com/DREAL-NA/aides,False
+https://github.com/DREAL-NA/aides,True
 https://github.com/IGNF/CartAGen,True
 https://github.com/IGNF/ContinuousGeneralisation,True
 https://github.com/IGNF/MultiCriteriaMatching,False
@@ -802,7 +802,7 @@ https://github.com/SocialGouv/linters,True
 https://github.com/SocialGouv/mattermost-plugin-google-calendar,False
 https://github.com/SocialGouv/meditor,True
 https://github.com/SocialGouv/next-routes,False
-https://github.com/SocialGouv/polyfill-service,False
+https://github.com/SocialGouv/polyfill-service,True
 https://github.com/SocialGouv/react-departements,True
 https://github.com/SocialGouv/renovate-config,False
 https://github.com/SocialGouv/seminaire,False
@@ -999,7 +999,7 @@ https://github.com/betagouv/dashboard_apientreprise,True
 https://github.com/betagouv/dds-cross-simulator,True
 https://github.com/betagouv/demarches-simplifiees.fr,False
 https://github.com/betagouv/dialogue-de-gestion,False
-https://github.com/betagouv/discourse-oauth2-basic,False
+https://github.com/betagouv/discourse-oauth2-basic,True
 https://github.com/betagouv/dns,True
 https://github.com/betagouv/domain-scan,False
 https://github.com/betagouv/dossiersco,True
@@ -1052,7 +1052,7 @@ https://github.com/betagouv/mrs,True
 https://github.com/betagouv/nir_validate,True
 https://github.com/betagouv/normalized-data-state,False
 https://github.com/betagouv/open-academie,True
-https://github.com/betagouv/open-academie-old,False
+https://github.com/betagouv/open-academie-old,True
 https://github.com/betagouv/openfisca-brestmetropole,True
 https://github.com/betagouv/openfisca-cd62,True
 https://github.com/betagouv/openfisca-cd93,True
@@ -1142,7 +1142,7 @@ https://github.com/betagouv/trait-d-union,False
 https://github.com/betagouv/verif.site,True
 https://github.com/betagouv/voir-et-localiser-samu-sign-on,False
 https://github.com/betagouv/with-login,True
-https://github.com/betagouv/with-query-router,False
+https://github.com/betagouv/with-query-router,True
 https://github.com/betagouv/with-react-login,False
 https://github.com/betagouv/with-react-redux-login,False
 https://github.com/betagouv/zam,True
@@ -1209,7 +1209,7 @@ https://github.com/clipos-archive/src_platform_clip-build,True
 https://github.com/clipos-archive/src_platform_clip-buildbot,False
 https://github.com/clipos-archive/src_platform_clip-config,False
 https://github.com/clipos-archive/src_platform_clip-deb,False
-https://github.com/clipos-archive/src_platform_clip-devutils,False
+https://github.com/clipos-archive/src_platform_clip-devutils,True
 https://github.com/clipos-archive/src_platform_clip-download,False
 https://github.com/clipos-archive/src_platform_clip-emblem,False
 https://github.com/clipos-archive/src_platform_clip-eraser,True
@@ -1257,7 +1257,7 @@ https://github.com/clipos-archive/src_platform_gen-crypt,True
 https://github.com/clipos-archive/src_platform_hotplug-clip,False
 https://github.com/clipos-archive/src_platform_init-cleaner,False
 https://github.com/clipos-archive/src_platform_jailmaster,False
-https://github.com/clipos-archive/src_platform_jailrequest,False
+https://github.com/clipos-archive/src_platform_jailrequest,True
 https://github.com/clipos-archive/src_platform_libanssipki-client,False
 https://github.com/clipos-archive/src_platform_libanssipki-crypto,False
 https://github.com/clipos-archive/src_platform_openbsd-malloc,False
@@ -1281,7 +1281,7 @@ https://github.com/clipos-archive/src_platform_tpm-cmd,True
 https://github.com/clipos-archive/src_platform_usb-printer-devices,True
 https://github.com/clipos-archive/src_platform_usb-scanner-devices,True
 https://github.com/clipos-archive/src_platform_usb-video-devices,True
-https://github.com/clipos-archive/src_platform_userd,False
+https://github.com/clipos-archive/src_platform_userd,True
 https://github.com/clipos-archive/src_platform_vaultguard,True
 https://github.com/clipos-archive/src_platform_verictl,True
 https://github.com/clipos-archive/src_platform_vsctl,True
@@ -1403,7 +1403,7 @@ https://github.com/entrepreneur-interet-general/eig-link,True
 https://github.com/entrepreneur-interet-general/entity-resolution-evaluation,False
 https://github.com/entrepreneur-interet-general/exo_ref,True
 https://github.com/entrepreneur-interet-general/gobelins,True
-https://github.com/entrepreneur-interet-general/gobelins-datasource,False
+https://github.com/entrepreneur-interet-general/gobelins-datasource,True
 https://github.com/entrepreneur-interet-general/gobelins-devops,True
 https://github.com/entrepreneur-interet-general/gobelins-landingpage,True
 https://github.com/entrepreneur-interet-general/graph-explorer,True
@@ -1581,7 +1581,7 @@ https://github.com/etalab/croquemort,False
 https://github.com/etalab/csv-gg,False
 https://github.com/etalab/csv2html,True
 https://github.com/etalab/csv_detective,True
-https://github.com/etalab/csvapi,False
+https://github.com/etalab/csvapi,True
 https://github.com/etalab/csvapi-front,False
 https://github.com/etalab/dactylo,True
 https://github.com/etalab/dashboard_api_entreprise,True
@@ -1890,7 +1890,7 @@ https://github.com/openfisca/legislation-ipp-to-code,True
 https://github.com/openfisca/openfisca-ceq,True
 https://github.com/openfisca/openfisca-core,True
 https://github.com/openfisca/openfisca-cote-d-ivoire,True
-https://github.com/openfisca/openfisca-country-template-api,False
+https://github.com/openfisca/openfisca-country-template-api,True
 https://github.com/openfisca/openfisca-dataviz-sunburst,True
 https://github.com/openfisca/openfisca-doc,True
 https://github.com/openfisca/openfisca-douanes,True
@@ -1980,7 +1980,7 @@ https://github.com/openfun/openshift-docker,False
 https://github.com/openfun/password-container-xblock,True
 https://github.com/openfun/politique-de-contribution-open-source,True
 https://github.com/openfun/poss-2018,True
-https://github.com/openfun/potsie,False
+https://github.com/openfun/potsie,True
 https://github.com/openfun/proctoru-xblock,True
 https://github.com/openfun/richie,True
 https://github.com/openfun/subsrt,False
