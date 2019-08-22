@@ -59,6 +59,10 @@ top_licenses = (
     .to_dict()
 )
 
+platforms = (
+    df.groupby("plateforme")["nom"].count().sort_values(ascending=False).to_dict()
+)
+
 res = {
     "nb_repos": nb_repos,
     "nb_orgs": nb_orgs,
@@ -70,6 +74,7 @@ res = {
     "top_repos_forks": top_repos_forks,
     "top_repos_issues": top_repos_issues,
     "top_licenses": top_licenses,
+    "platforms": platforms,
     "software_heritage": {
         "repos_in_archive": swh_exists_count,
         "ratio_in_archive": round(swh_exists_count / nb_repos, 2),
