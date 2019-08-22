@@ -3,7 +3,7 @@ from io import BytesIO
 from urllib.request import urlopen
 
 from platforms import Detector as PlatformDetector
-from storage import save_repos_for_org, save_org
+from storage import save_repos, save_orgs
 
 
 def fetch_orgs(detector):
@@ -37,9 +37,7 @@ for organisation in organisations:
     for k, v in repos.items():
         all_repos[k].extend(v)
 
-    save_repos_for_org(organisation, repos)
-
-save_repos_for_org("all", all_repos)
+save_repos(all_repos)
 
 # Save details about each org
 all_orgs = defaultdict(list)
@@ -53,7 +51,5 @@ for organisation in organisations:
     for k, v in data.to_dict().items():
         all_orgs[k].append(v)
 
-    save_org(organisation, data.to_dict_list())
-
-save_org("all", all_orgs)
+save_orgs(all_orgs)
 detector.save_swh_data()

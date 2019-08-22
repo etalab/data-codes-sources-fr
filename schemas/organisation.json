@@ -2,7 +2,7 @@
    "title":"Métadonnées d'une organisation Git",
    "author":"Antoine Augusti <antoine.augusti@gmail.com>",
    "created":"2018-12-31",
-   "updated":"2018-12-31",
+   "updated":"2019-08-22",
    "homepage":"https://github.com/AntoineAugusti/data-codes-sources-fr",
    "fields":[
       {
@@ -123,5 +123,5 @@
          }
       }
    ],
-   "primaryKey":"login"
+   "primaryKey":"organisation_url"
 }
