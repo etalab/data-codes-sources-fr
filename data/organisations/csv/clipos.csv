@@ -1,2 +1,0 @@
-login,description,nom,organisation_url,avatar_url,site_web,adresse,email,est_verifiee,nombre_repertoires,date_creation,plateforme
-clipos,"CLIP OS version 5, published by @ANSSI-FR ",CLIP OS,https://github.com/clipos,https://avatars1.githubusercontent.com/u/33755864?v=4,https://clip-os.org,"Paris, France",clipos@ssi.gouv.fr,True,20,2017-11-17T14:32:48Z,GitHub

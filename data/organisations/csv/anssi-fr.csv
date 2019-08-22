@@ -1,2 +1,0 @@
-login,description,nom,organisation_url,avatar_url,site_web,adresse,email,est_verifiee,nombre_repertoires,date_creation,plateforme
-ANSSI-FR,,ANSSI,https://github.com/ANSSI-FR,https://avatars2.githubusercontent.com/u/1921418?v=4,https://www.ssi.gouv.fr,"Paris, France",opensource@ssi.gouv.fr,True,44,2012-07-04T09:13:48Z,GitHub

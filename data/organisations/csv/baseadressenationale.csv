@@ -1,2 +1,0 @@
-login,description,nom,organisation_url,avatar_url,site_web,adresse,email,est_verifiee,nombre_repertoires,date_creation,plateforme
-BaseAdresseNationale,,Base Adresse Nationale (BAN),https://github.com/BaseAdresseNationale,https://avatars2.githubusercontent.com/u/19411687?v=4,https://adresse.data.gouv.fr/,France,adresse@data.gouv.fr,False,5,2016-05-17T15:14:06Z,GitHub

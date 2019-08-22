@@ -1,2 +1,0 @@
-login,description,nom,organisation_url,avatar_url,site_web,adresse,email,est_verifiee,nombre_repertoires,date_creation,plateforme
-linbox-team,"LinBox, FFLAS-FFPACK, Givaro developer repositories",LinBox Team,https://github.com/linbox-team,https://avatars1.githubusercontent.com/u/13101892?v=4,http://linalg.org,Université Grenoble-Alpes,linbox-devel@googlegroups.com,False,4,2015-06-29T11:50:15Z,GitHub

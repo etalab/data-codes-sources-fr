@@ -1,2 +1,0 @@
-nom,organisation_nom,plateforme,repertoire_url,description,est_fork,est_archive,date_creation,derniere_mise_a_jour,page_accueil,nombre_stars,nombre_forks,licence,nombre_issues_ouvertes,langage,topics,software_heritage_exists,software_heritage_url
-wsnet,CEA-Leti,GitHub,https://github.com/CEA-Leti/wsnet,An accurate and realistic network simulator written in C/C++,False,False,2018-06-27T13:51:14Z,2019-01-29T11:50:35Z,,0,1,Other,14,C,,False,

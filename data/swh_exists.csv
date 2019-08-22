@@ -183,7 +183,7 @@ https://github.com/CEREMA/dtermed.db.cerema.vibren,False
 https://github.com/CEREMA/dtermed.db.preshume,True
 https://github.com/CEREMA/dtermed.deploy,True
 https://github.com/CEREMA/dtermed.detection-friches,True
-https://github.com/CEREMA/dtermed.ecureuil,False
+https://github.com/CEREMA/dtermed.ecureuil,True
 https://github.com/CEREMA/dtermed.ecureuilmobile,True
 https://github.com/CEREMA/dtermed.ecureuilmobile2,False
 https://github.com/CEREMA/dtermed.faveur,False
@@ -238,7 +238,7 @@ https://github.com/CNRS-DSI-Dev/user_files_restore,True
 https://github.com/CNRS-DSI-Dev/user_servervars2,True
 https://github.com/CNRS-DSI-Dev/user_set_password,True
 https://github.com/CNRS-DSI-Dev/user_share_guest,True
-https://github.com/DGAC/MattermostModule,False
+https://github.com/DGAC/MattermostModule,True
 https://github.com/DGAC/dgac.github.io,True
 https://github.com/DGAC/nmb2b-client-js,True
 https://github.com/DGAC/nmb2b-client-js-example,True
@@ -383,7 +383,7 @@ https://github.com/INSIDE-information-systems/RiverNetworkWPS,False
 https://github.com/INSIDE-information-systems/SensorThingsAPI,False
 https://github.com/INSIDE-information-systems/TheHeart,True
 https://github.com/INSIDE-information-systems/WFS3,True
-https://github.com/INSIDE-information-systems/WatershedWPS,False
+https://github.com/INSIDE-information-systems/WatershedWPS,True
 https://github.com/INSIDE-information-systems/wfd2018,True
 https://github.com/Inist-CNRS/KitGPEC,True
 https://github.com/Inist-CNRS/MetHAL,True
@@ -500,7 +500,7 @@ https://github.com/InriaMecsci/tetris-botte-serv,True
 https://github.com/InriaMecsci/voronoi-diagramme,True
 https://github.com/InriaMecsci/voronoi-jeu,True
 https://github.com/InriaMecsci/zero,True
-https://github.com/InseeFr/ARC,False
+https://github.com/InseeFr/ARC,True
 https://github.com/InseeFr/Bauhaus,True
 https://github.com/InseeFr/Bauhaus-Back-Office,True
 https://github.com/InseeFr/CSPA-SA-Client,True
@@ -574,10 +574,10 @@ https://github.com/MTES-MCT/camino-portainer,True
 https://github.com/MTES-MCT/camino-scripting,True
 https://github.com/MTES-MCT/camino-ui,True
 https://github.com/MTES-MCT/choisir-une-licence,False
-https://github.com/MTES-MCT/cobot-admin,False
+https://github.com/MTES-MCT/cobot-admin,True
 https://github.com/MTES-MCT/cobot-api,False
 https://github.com/MTES-MCT/cobot-bot,False
-https://github.com/MTES-MCT/data-preparation-plugin,False
+https://github.com/MTES-MCT/data-preparation-plugin,True
 https://github.com/MTES-MCT/dataqual,False
 https://github.com/MTES-MCT/dataroom,True
 https://github.com/MTES-MCT/ecophyto,False
@@ -841,7 +841,7 @@ https://github.com/StartupsPoleEmploi/clara,True
 https://github.com/StartupsPoleEmploi/elk-cluster,True
 https://github.com/StartupsPoleEmploi/geomancie,True
 https://github.com/StartupsPoleEmploi/gerboise,True
-https://github.com/StartupsPoleEmploi/jepostule,False
+https://github.com/StartupsPoleEmploi/jepostule,True
 https://github.com/StartupsPoleEmploi/labonnealternance,True
 https://github.com/StartupsPoleEmploi/labonnealternance-widget,False
 https://github.com/StartupsPoleEmploi/labonneboite,True
@@ -1005,7 +1005,7 @@ https://github.com/betagouv/domain-scan,False
 https://github.com/betagouv/dossiersco,True
 https://github.com/betagouv/dossiersco-maintenance,True
 https://github.com/betagouv/dossiersco-openlab1,False
-https://github.com/betagouv/ds_proxy,False
+https://github.com/betagouv/ds_proxy,True
 https://github.com/betagouv/e-controle,True
 https://github.com/betagouv/eac,True
 https://github.com/betagouv/eac-api,True
@@ -1122,7 +1122,7 @@ https://github.com/betagouv/secretariat,True
 https://github.com/betagouv/securite-numerique-agile,True
 https://github.com/betagouv/sejour,True
 https://github.com/betagouv/signalement,True
-https://github.com/betagouv/signalement-api,False
+https://github.com/betagouv/signalement-api,True
 https://github.com/betagouv/signalement-app,True
 https://github.com/betagouv/signup-back,True
 https://github.com/betagouv/signup-front,True
@@ -1197,7 +1197,7 @@ https://github.com/clipos-archive/src_platform_CLIP-Pkg-Download,True
 https://github.com/clipos-archive/src_platform_CLIP-Pkg-Install,False
 https://github.com/clipos-archive/src_platform_CLIP-Pkg-QA,False
 https://github.com/clipos-archive/src_platform_ClipQt,False
-https://github.com/clipos-archive/src_platform_anssipki-cli,False
+https://github.com/clipos-archive/src_platform_anssipki-cli,True
 https://github.com/clipos-archive/src_platform_baselayout-clip,False
 https://github.com/clipos-archive/src_platform_baselayout-rm,False
 https://github.com/clipos-archive/src_platform_baselayout-update,False
@@ -1205,7 +1205,7 @@ https://github.com/clipos-archive/src_platform_bionic-malloc,False
 https://github.com/clipos-archive/src_platform_chroot-launch,False
 https://github.com/clipos-archive/src_platform_ckiutl,False
 https://github.com/clipos-archive/src_platform_clip-beacon,False
-https://github.com/clipos-archive/src_platform_clip-build,False
+https://github.com/clipos-archive/src_platform_clip-build,True
 https://github.com/clipos-archive/src_platform_clip-buildbot,False
 https://github.com/clipos-archive/src_platform_clip-config,False
 https://github.com/clipos-archive/src_platform_clip-deb,False
@@ -1283,7 +1283,7 @@ https://github.com/clipos-archive/src_platform_usb-scanner-devices,True
 https://github.com/clipos-archive/src_platform_usb-video-devices,True
 https://github.com/clipos-archive/src_platform_userd,False
 https://github.com/clipos-archive/src_platform_vaultguard,True
-https://github.com/clipos-archive/src_platform_verictl,False
+https://github.com/clipos-archive/src_platform_verictl,True
 https://github.com/clipos-archive/src_platform_vsctl,True
 https://github.com/clipos-archive/src_platform_xscreensaver-pwcheck,True
 https://github.com/clipos/assets_crates-io,True
@@ -1301,7 +1301,7 @@ https://github.com/clipos/src_external_linux,True
 https://github.com/clipos/src_external_systemd,True
 https://github.com/clipos/src_platform_config-linux-hardware,True
 https://github.com/clipos/src_platform_portage-derive,False
-https://github.com/clipos/src_platform_updater,False
+https://github.com/clipos/src_platform_updater,True
 https://github.com/clipos/src_portage_clipos,False
 https://github.com/clipos/src_portage_gentoo,True
 https://github.com/clipos/testbed,True
@@ -1546,7 +1546,7 @@ https://github.com/etalab/blog.data.gouv.fr,True
 https://github.com/etalab/blog_apientreprise,True
 https://github.com/etalab/bulma-theme-gouv-fr,True
 https://github.com/etalab/cada.data.gouv.fr,False
-https://github.com/etalab/cada_explore,False
+https://github.com/etalab/cada_explore,True
 https://github.com/etalab/cadastre,False
 https://github.com/etalab/cadastre-bundler-api,True
 https://github.com/etalab/cadastre.data.gouv.fr,True
@@ -1651,7 +1651,7 @@ https://github.com/etalab/majic,True
 https://github.com/etalab/mastodon-stats,True
 https://github.com/etalab/mediawiki-etalab-skin,True
 https://github.com/etalab/monReseauMobile,True
-https://github.com/etalab/monuments-historiques,False
+https://github.com/etalab/monuments-historiques,True
 https://github.com/etalab/munin-plugins,True
 https://github.com/etalab/munin-theme,True
 https://github.com/etalab/normadresse,True
@@ -1695,7 +1695,7 @@ https://github.com/etalab/taxe-habitation,True
 https://github.com/etalab/template-jekyll,True
 https://github.com/etalab/template.data.gouv.fr,True
 https://github.com/etalab/tiles.data.gouv.fr,True
-https://github.com/etalab/transpo-rt,False
+https://github.com/etalab/transpo-rt,True
 https://github.com/etalab/transport-datatools-server,True
 https://github.com/etalab/transport-datatools-ui,True
 https://github.com/etalab/transport-gtfs-lib,True
@@ -1866,7 +1866,7 @@ https://github.com/opendatateam/udata-piwik-docker,True
 https://github.com/opendatateam/udata-recommendations,True
 https://github.com/opendatateam/udata-search-indicator,True
 https://github.com/opendatateam/udata-tabular-preview,True
-https://github.com/opendatateam/udata-twitter,False
+https://github.com/opendatateam/udata-twitter,True
 https://github.com/opendatateam/udata-youckan,True
 https://github.com/openfisca/LawToCode,True
 https://github.com/openfisca/OpenFiscaCore.jl,True
@@ -1937,7 +1937,7 @@ https://github.com/openfun/cloudkey-py,True
 https://github.com/openfun/configuration,True
 https://github.com/openfun/crowdin-docker,True
 https://github.com/openfun/cs_comments_service,True
-https://github.com/openfun/django-cong-2018,False
+https://github.com/openfun/django-cong-2018,True
 https://github.com/openfun/django-wiki,True
 https://github.com/openfun/dmcloud,True
 https://github.com/openfun/dmcloud-migrate,True
@@ -2016,7 +2016,7 @@ https://github.com/sigrennesmetropole/qgis-3liz-tools,False
 https://github.com/sigrennesmetropole/rmtr,False
 https://github.com/sigrennesmetropole/sviewer,True
 https://github.com/sigrennesmetropole/sviewer_generator,True
-https://github.com/sigrennesmetropole/visualiseur,False
+https://github.com/sigrennesmetropole/visualiseur,True
 https://github.com/snosan-tools/avurnavs-csv,False
 https://github.com/snosan-tools/avurnavs-fichiers,True
 https://github.com/snosan-tools/avurnavs.snosan.fr,False
@@ -2087,7 +2087,7 @@ https://github.com/wookey-project/manifest,True
 https://github.com/wookey-project/perms-matrix-disco407-samples,True
 https://github.com/wookey-project/perms-matrix-wookey,True
 https://github.com/wookey-project/tataouine,True
-https://github.com/wookey-project/wookey-project.github.io,False
+https://github.com/wookey-project/wookey-project.github.io,True
 https://github.com/wookey-project/wookeypedia,False
 https://gitlab.com/healthdatahub/dico-snds,True
 https://gitlab.com/healthdatahub/documentation-snds,True

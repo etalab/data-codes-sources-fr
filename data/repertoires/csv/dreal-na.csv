@@ -1,2 +1,0 @@
-nom,organisation_nom,plateforme,repertoire_url,description,est_fork,est_archive,date_creation,derniere_mise_a_jour,page_accueil,nombre_stars,nombre_forks,licence,nombre_issues_ouvertes,langage,topics,software_heritage_exists,software_heritage_url
-aides,DREAL-NA,GitHub,https://github.com/DREAL-NA/aides,Catalogue des dispositifs d'aide pour la Nouvelle-Aquitaine.,False,False,2018-11-30T14:04:58Z,2019-08-08T15:49:29Z,http://aides-developpementdurable-nouvelleaquitaine.fr,0,0,GNU Affero General Public License v3.0,0,PHP,"catalogue,developpement-durable",False,
