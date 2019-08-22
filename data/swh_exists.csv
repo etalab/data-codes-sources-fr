@@ -77,7 +77,7 @@ https://github.com/ANSSI-FR/tabi,True
 https://github.com/ANSSI-FR/transdep,True
 https://github.com/ANSSI-FR/x509-parser,True
 https://github.com/ANSSI-FR/xsvgen,True
-https://github.com/ARCEP-dev/adresse,False
+https://github.com/ARCEP-dev/adresse,True
 https://github.com/ARCEP-dev/basePopDom,True
 https://github.com/ARCEP-dev/dataTools,True
 https://github.com/ARCEP-dev/disPorts,False
@@ -179,7 +179,7 @@ https://github.com/CEREMA/dtermed.cours_opendata_ente,True
 https://github.com/CEREMA/dtermed.cvrh.resalia,True
 https://github.com/CEREMA/dtermed.dashboard,False
 https://github.com/CEREMA/dtermed.db.bpclight,True
-https://github.com/CEREMA/dtermed.db.cerema.vibren,False
+https://github.com/CEREMA/dtermed.db.cerema.vibren,True
 https://github.com/CEREMA/dtermed.db.preshume,True
 https://github.com/CEREMA/dtermed.deploy,True
 https://github.com/CEREMA/dtermed.detection-friches,True
@@ -580,7 +580,7 @@ https://github.com/MTES-MCT/cobot-bot,False
 https://github.com/MTES-MCT/data-preparation-plugin,True
 https://github.com/MTES-MCT/dataqual,False
 https://github.com/MTES-MCT/dataroom,True
-https://github.com/MTES-MCT/ecophyto,False
+https://github.com/MTES-MCT/ecophyto,True
 https://github.com/MTES-MCT/enr-and-ground,False
 https://github.com/MTES-MCT/filharmonic,False
 https://github.com/MTES-MCT/filharmonic-api,True
@@ -611,7 +611,7 @@ https://github.com/MTES-MCT/trashadvisor,True
 https://github.com/MTES-MCT/udata-doc,True
 https://github.com/MTES-MCT/udata-gouvfr-ecologie,True
 https://github.com/MinistereSupRecherche/dataESR,True
-https://github.com/MinistereSupRecherche/machineadonnees,False
+https://github.com/MinistereSupRecherche/machineadonnees,True
 https://github.com/MinistereSupRecherche/parcoursup,True
 https://github.com/MinistereSupRecherche/scanR,True
 https://github.com/OCSInventory-NG/Agent-Deployment-Tool,True
@@ -980,7 +980,7 @@ https://github.com/betagouv/beta.ssi,False
 https://github.com/betagouv/beta.wip,False
 https://github.com/betagouv/betaGouvBot,True
 https://github.com/betagouv/blog.beta.gouv.fr,True
-https://github.com/betagouv/blog.dossiersco.fr,False
+https://github.com/betagouv/blog.dossiersco.fr,True
 https://github.com/betagouv/bourses,True
 https://github.com/betagouv/boussole,False
 https://github.com/betagouv/ccas,False
@@ -993,7 +993,7 @@ https://github.com/betagouv/competences-pro,True
 https://github.com/betagouv/competences-pro-orchestrateur,False
 https://github.com/betagouv/competences-pro-serveur,False
 https://github.com/betagouv/competences-pro-www,False
-https://github.com/betagouv/compta,False
+https://github.com/betagouv/compta,True
 https://github.com/betagouv/cout-embauche,True
 https://github.com/betagouv/dashboard_apientreprise,True
 https://github.com/betagouv/dds-cross-simulator,True
@@ -1093,7 +1093,7 @@ https://github.com/betagouv/pass-culture-web-analytics,False
 https://github.com/betagouv/peps,False
 https://github.com/betagouv/peps-app,False
 https://github.com/betagouv/pia-back,False
-https://github.com/betagouv/pia-docker,False
+https://github.com/betagouv/pia-docker,True
 https://github.com/betagouv/pia-paas,False
 https://github.com/betagouv/pix,False
 https://github.com/betagouv/place-des-entreprises,False
@@ -1194,7 +1194,7 @@ https://github.com/clipos-archive/clipos4_specs,False
 https://github.com/clipos-archive/src_platform_CLIP-Conf-Base,True
 https://github.com/clipos-archive/src_platform_CLIP-Logger,True
 https://github.com/clipos-archive/src_platform_CLIP-Mount,True
-https://github.com/clipos-archive/src_platform_CLIP-Pkg-Base,False
+https://github.com/clipos-archive/src_platform_CLIP-Pkg-Base,True
 https://github.com/clipos-archive/src_platform_CLIP-Pkg-Download,True
 https://github.com/clipos-archive/src_platform_CLIP-Pkg-Install,False
 https://github.com/clipos-archive/src_platform_CLIP-Pkg-QA,False
@@ -1579,7 +1579,7 @@ https://github.com/etalab/contours-administratifs,True
 https://github.com/etalab/contribution-adresse,True
 https://github.com/etalab/couverture-urbanisme,True
 https://github.com/etalab/cowbots,True
-https://github.com/etalab/croquemort,False
+https://github.com/etalab/croquemort,True
 https://github.com/etalab/csv-gg,False
 https://github.com/etalab/csv2html,True
 https://github.com/etalab/csv_detective,True
