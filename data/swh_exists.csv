@@ -171,7 +171,7 @@ https://github.com/CEREMA/dtermed.MobiTC2,False
 https://github.com/CEREMA/dtermed.annuaire,True
 https://github.com/CEREMA/dtermed.anywhere,True
 https://github.com/CEREMA/dtermed.bpclight-old,False
-https://github.com/CEREMA/dtermed.bpclight2,False
+https://github.com/CEREMA/dtermed.bpclight2,True
 https://github.com/CEREMA/dtermed.bpcmobile,False
 https://github.com/CEREMA/dtermed.cerema-info,True
 https://github.com/CEREMA/dtermed.cloud2,True
@@ -206,7 +206,7 @@ https://github.com/CEREMA/dtermed.webapp.bpclight,False
 https://github.com/CEREMA/dtermed.webapp.ecureuil,True
 https://github.com/CEREMA/dtermed.webapp.rivages,True
 https://github.com/CEREMA/dterso.pluginQgis.CeremaCartEau,True
-https://github.com/CEREMA/dterso.pluginQgis3.CeremaCartEau3,False
+https://github.com/CEREMA/dterso.pluginQgis3.CeremaCartEau3,True
 https://github.com/CEREMA/rivages-android,False
 https://github.com/CEREMA/territoires-ville.DiagFeux,True
 https://github.com/CEREMA/territoires-ville.Giration,False
@@ -308,7 +308,7 @@ https://github.com/IGNF/NeatMap,False
 https://github.com/IGNF/PLU2PLUS,True
 https://github.com/IGNF/PaysagesScriptKit,True
 https://github.com/IGNF/SIGOPT,True
-https://github.com/IGNF/api.gouv.fr,False
+https://github.com/IGNF/api.gouv.fr,True
 https://github.com/IGNF/apicarto,True
 https://github.com/IGNF/building-inspector,True
 https://github.com/IGNF/campskeleton,True
@@ -799,7 +799,7 @@ https://github.com/SocialGouv/legi-postgres,True
 https://github.com/SocialGouv/legixplore,True
 https://github.com/SocialGouv/letor-scores,False
 https://github.com/SocialGouv/linters,True
-https://github.com/SocialGouv/mattermost-plugin-google-calendar,False
+https://github.com/SocialGouv/mattermost-plugin-google-calendar,True
 https://github.com/SocialGouv/meditor,True
 https://github.com/SocialGouv/next-routes,False
 https://github.com/SocialGouv/polyfill-service,True
@@ -836,7 +836,7 @@ https://github.com/StartupsPoleEmploi/Avril-Frontend,True
 https://github.com/StartupsPoleEmploi/Templates-Mailjet,True
 https://github.com/StartupsPoleEmploi/anotea,True
 https://github.com/StartupsPoleEmploi/avril,True
-https://github.com/StartupsPoleEmploi/baggy,False
+https://github.com/StartupsPoleEmploi/baggy,True
 https://github.com/StartupsPoleEmploi/clara,True
 https://github.com/StartupsPoleEmploi/elk-cluster,True
 https://github.com/StartupsPoleEmploi/geomancie,True
@@ -846,7 +846,7 @@ https://github.com/StartupsPoleEmploi/labonnealternance,True
 https://github.com/StartupsPoleEmploi/labonnealternance-widget,False
 https://github.com/StartupsPoleEmploi/labonneboite,True
 https://github.com/StartupsPoleEmploi/memo,True
-https://github.com/StartupsPoleEmploi/mjl-avril,False
+https://github.com/StartupsPoleEmploi/mjl-avril,True
 https://github.com/StartupsPoleEmploi/perspectives,True
 https://github.com/StartupsPoleEmploi/qpvzrr,True
 https://github.com/StartupsPoleEmploi/zen,True
@@ -997,7 +997,7 @@ https://github.com/betagouv/compta,False
 https://github.com/betagouv/cout-embauche,True
 https://github.com/betagouv/dashboard_apientreprise,True
 https://github.com/betagouv/dds-cross-simulator,True
-https://github.com/betagouv/demarches-simplifiees.fr,False
+https://github.com/betagouv/demarches-simplifiees.fr,True
 https://github.com/betagouv/dialogue-de-gestion,False
 https://github.com/betagouv/discourse-oauth2-basic,True
 https://github.com/betagouv/dns,True
@@ -1058,7 +1058,7 @@ https://github.com/betagouv/openfisca-cd62,True
 https://github.com/betagouv/openfisca-cd93,True
 https://github.com/betagouv/openfisca-core,True
 https://github.com/betagouv/openfisca-demande-logement-social,True
-https://github.com/betagouv/openfisca-france,False
+https://github.com/betagouv/openfisca-france,True
 https://github.com/betagouv/openfisca-france-correpondance-metier,True
 https://github.com/betagouv/openfisca-france-local,True
 https://github.com/betagouv/openfisca-loiret,True
@@ -1252,7 +1252,7 @@ https://github.com/clipos-archive/src_platform_cryptd,True
 https://github.com/clipos-archive/src_platform_debootstrap-clip,False
 https://github.com/clipos-archive/src_platform_downloadrequest,True
 https://github.com/clipos-archive/src_platform_fbpanel-clip,False
-https://github.com/clipos-archive/src_platform_fdp,False
+https://github.com/clipos-archive/src_platform_fdp,True
 https://github.com/clipos-archive/src_platform_gen-crypt,True
 https://github.com/clipos-archive/src_platform_hotplug-clip,False
 https://github.com/clipos-archive/src_platform_init-cleaner,False
@@ -2017,7 +2017,7 @@ https://github.com/sigrennesmetropole/rmtr,False
 https://github.com/sigrennesmetropole/sviewer,True
 https://github.com/sigrennesmetropole/sviewer_generator,True
 https://github.com/sigrennesmetropole/visualiseur,True
-https://github.com/snosan-tools/avurnavs-csv,False
+https://github.com/snosan-tools/avurnavs-csv,True
 https://github.com/snosan-tools/avurnavs-fichiers,True
 https://github.com/snosan-tools/avurnavs.snosan.fr,False
 https://github.com/snosan-tools/documentation.snosan.fr,True
