@@ -86,7 +86,7 @@ https://github.com/ARCEP-dev/monReseauMobile,True
 https://github.com/ARCEP-dev/regex,False
 https://github.com/ARCEP-dev/route500_improved,True
 https://github.com/ARCEP-dev/schemas,False
-https://github.com/ARCEP-dev/testDebitMire,False
+https://github.com/ARCEP-dev/testDebitMire,True
 https://github.com/AlsaceDigitale/2012.edgefest.fr,True
 https://github.com/AlsaceDigitale/2013.edgefest.fr,True
 https://github.com/AlsaceDigitale/2014.edgefest.fr,True
@@ -242,7 +242,7 @@ https://github.com/DGAC/MattermostModule,True
 https://github.com/DGAC/dgac.github.io,True
 https://github.com/DGAC/nmb2b-client-js,True
 https://github.com/DGAC/nmb2b-client-js-example,True
-https://github.com/DGAC/nmb2b-phpclient,False
+https://github.com/DGAC/nmb2b-phpclient,True
 https://github.com/DGAC/simupaye,True
 https://github.com/DGFiP/Test-Compta-Demat,True
 https://github.com/DISIC/GMR,True
@@ -464,7 +464,7 @@ https://github.com/Inist-CNRS/prettyTEI,True
 https://github.com/Inist-CNRS/roadmapjs,True
 https://github.com/Inist-CNRS/text-quality-indicator,True
 https://github.com/Inist-CNRS/wait-for-it,True
-https://github.com/Inist-CNRS/xpath-generator,False
+https://github.com/Inist-CNRS/xpath-generator,True
 https://github.com/InriaMecsci/JavascoolWeb,True
 https://github.com/InriaMecsci/NeuroSmart,True
 https://github.com/InriaMecsci/Turing-2D,True
@@ -565,7 +565,7 @@ https://github.com/MTES-MCT/bulk-geocoding-python-client,False
 https://github.com/MTES-MCT/camino-api,True
 https://github.com/MTES-MCT/camino-database,True
 https://github.com/MTES-MCT/camino-flux,True
-https://github.com/MTES-MCT/camino-imports-geojson,False
+https://github.com/MTES-MCT/camino-imports-geojson,True
 https://github.com/MTES-MCT/camino-imports-postgres,False
 https://github.com/MTES-MCT/camino-imports-spreadsheet-jorf,True
 https://github.com/MTES-MCT/camino-imports-spreadsheets,True
@@ -631,7 +631,7 @@ https://github.com/OCSInventory-NG/WindowsAgent,True
 https://github.com/OCSInventory-NG/packages,True
 https://github.com/OPIDoR/DMPOPIDoR,True
 https://github.com/OPIDoR/DMPonline_v4,True
-https://github.com/OpenCTI-Platform/client-python,False
+https://github.com/OpenCTI-Platform/client-python,True
 https://github.com/OpenCTI-Platform/connectors,True
 https://github.com/OpenCTI-Platform/datasets,True
 https://github.com/OpenCTI-Platform/docker,True
@@ -1009,7 +1009,7 @@ https://github.com/betagouv/ds_proxy,True
 https://github.com/betagouv/e-controle,True
 https://github.com/betagouv/eac,True
 https://github.com/betagouv/eac-api,True
-https://github.com/betagouv/eac-scrapper,False
+https://github.com/betagouv/eac-scrapper,True
 https://github.com/betagouv/etudiant-entrepreneur,True
 https://github.com/betagouv/fetch-normalize-data,False
 https://github.com/betagouv/fiches-de-banc,True
@@ -1038,7 +1038,7 @@ https://github.com/betagouv/mes-aides-analytics,True
 https://github.com/betagouv/mes-aides-api,True
 https://github.com/betagouv/mes-aides-campaign,True
 https://github.com/betagouv/mes-aides-docker,True
-https://github.com/betagouv/mes-aides-dockerfiles,False
+https://github.com/betagouv/mes-aides-dockerfiles,True
 https://github.com/betagouv/mes-aides-openfisca,True
 https://github.com/betagouv/mes-aides-ops,True
 https://github.com/betagouv/mes-aides-out,True
@@ -1091,6 +1091,8 @@ https://github.com/betagouv/pass-culture-shared,True
 https://github.com/betagouv/pass-culture-team,True
 https://github.com/betagouv/pass-culture-web-analytics,False
 https://github.com/betagouv/peps,False
+https://github.com/betagouv/peps-app,False
+https://github.com/betagouv/pia-back,False
 https://github.com/betagouv/pia-docker,False
 https://github.com/betagouv/pia-paas,False
 https://github.com/betagouv/pix,False
@@ -1189,9 +1191,9 @@ https://github.com/clipos-archive/clipos4_portage-overlay,True
 https://github.com/clipos-archive/clipos4_portage-overlay-clip,True
 https://github.com/clipos-archive/clipos4_portage-overlay-dev,True
 https://github.com/clipos-archive/clipos4_specs,False
-https://github.com/clipos-archive/src_platform_CLIP-Conf-Base,False
+https://github.com/clipos-archive/src_platform_CLIP-Conf-Base,True
 https://github.com/clipos-archive/src_platform_CLIP-Logger,True
-https://github.com/clipos-archive/src_platform_CLIP-Mount,False
+https://github.com/clipos-archive/src_platform_CLIP-Mount,True
 https://github.com/clipos-archive/src_platform_CLIP-Pkg-Base,False
 https://github.com/clipos-archive/src_platform_CLIP-Pkg-Download,True
 https://github.com/clipos-archive/src_platform_CLIP-Pkg-Install,False
@@ -1227,7 +1229,7 @@ https://github.com/clipos-archive/src_platform_clip-lib,False
 https://github.com/clipos-archive/src_platform_clip-libvserver,False
 https://github.com/clipos-archive/src_platform_clip-livecd,True
 https://github.com/clipos-archive/src_platform_clip-lsm,True
-https://github.com/clipos-archive/src_platform_clip-mdadm,False
+https://github.com/clipos-archive/src_platform_clip-mdadm,True
 https://github.com/clipos-archive/src_platform_clip-mdadm-clt,True
 https://github.com/clipos-archive/src_platform_clip-menu-xdg,True
 https://github.com/clipos-archive/src_platform_clip-net,True
@@ -1255,10 +1257,10 @@ https://github.com/clipos-archive/src_platform_fbpanel-clip,False
 https://github.com/clipos-archive/src_platform_fdp,True
 https://github.com/clipos-archive/src_platform_gen-crypt,True
 https://github.com/clipos-archive/src_platform_hotplug-clip,False
-https://github.com/clipos-archive/src_platform_init-cleaner,False
+https://github.com/clipos-archive/src_platform_init-cleaner,True
 https://github.com/clipos-archive/src_platform_jailmaster,False
 https://github.com/clipos-archive/src_platform_jailrequest,True
-https://github.com/clipos-archive/src_platform_libanssipki-client,False
+https://github.com/clipos-archive/src_platform_libanssipki-client,True
 https://github.com/clipos-archive/src_platform_libanssipki-crypto,False
 https://github.com/clipos-archive/src_platform_openbsd-malloc,False
 https://github.com/clipos-archive/src_platform_pam_exec_pwd,True
@@ -1954,7 +1956,7 @@ https://github.com/openfun/fonzie,True
 https://github.com/openfun/fun-apps,True
 https://github.com/openfun/fun-boxes,True
 https://github.com/openfun/fun-cmd,True
-https://github.com/openfun/fun-config,False
+https://github.com/openfun/fun-config,True
 https://github.com/openfun/fun-logstash,True
 https://github.com/openfun/fun-microsites-demo,True
 https://github.com/openfun/fun-mooc,True
