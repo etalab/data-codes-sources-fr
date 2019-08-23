@@ -26,13 +26,13 @@ https://framagit.org/etalab/votes-hackrepnum,False
 https://framagit.org/openfisca/calculette-impots-hackathon,True
 https://framagit.org/openfisca/calculette-impots-javascript,False
 https://framagit.org/openfisca/calculette-impots-m-language-parser,False
-https://framagit.org/openfisca/calculette-impots-m-source-code,False
+https://framagit.org/openfisca/calculette-impots-m-source-code,True
 https://framagit.org/openfisca/calculette-impots-python,False
 https://framagit.org/openfisca/calculette-impots-vector-computing,False
 https://framagit.org/openfisca/calculette-impots-web-api,False
 https://framagit.org/openfisca/calculette-impots-web-explorer,False
 https://framagit.org/openfisca/french-income-taxes-test-cases,True
-https://framagit.org/openfisca/ines-libre,False
+https://framagit.org/openfisca/ines-libre,True
 https://git.unistra.fr/2017-T4-6/Project,False
 https://git.unistra.fr/AOEINT/auth-api,False
 https://git.unistra.fr/AOEINT/client,False
@@ -115,7 +115,7 @@ https://github.com/AlsaceDigitale/2017.edgefest.fr,False
 https://github.com/AlsaceDigitale/2017.hackingindustry.camp,True
 https://github.com/AlsaceDigitale/2018.edgefest.fr,True
 https://github.com/AlsaceDigitale/2018.hackingindustry.camp,True
-https://github.com/AlsaceDigitale/ad-cronjobs,False
+https://github.com/AlsaceDigitale/ad-cronjobs,True
 https://github.com/AlsaceDigitale/alsacedigitale-members,True
 https://github.com/AlsaceDigitale/alsacedigitale.org,True
 https://github.com/AlsaceDigitale/coworking-flex,True
@@ -219,7 +219,7 @@ https://github.com/CEREMA/dtermed.ticket,True
 https://github.com/CEREMA/dtermed.ticket2,False
 https://github.com/CEREMA/dtermed.vibren,True
 https://github.com/CEREMA/dtermed.virtualdesktop,True
-https://github.com/CEREMA/dtermed.webapp.bpclight,False
+https://github.com/CEREMA/dtermed.webapp.bpclight,True
 https://github.com/CEREMA/dtermed.webapp.ecureuil,True
 https://github.com/CEREMA/dtermed.webapp.rivages,True
 https://github.com/CEREMA/dterso.pluginQgis.CeremaCartEau,True
@@ -440,7 +440,7 @@ https://github.com/Inist-CNRS/lodex-users-doc,True
 https://github.com/Inist-CNRS/lodex-v1,True
 https://github.com/Inist-CNRS/lodex-widget,True
 https://github.com/Inist-CNRS/lodex-widgets,True
-https://github.com/Inist-CNRS/lodex-workers,False
+https://github.com/Inist-CNRS/lodex-workers,True
 https://github.com/Inist-CNRS/log.io-server-parser,True
 https://github.com/Inist-CNRS/meta-doi,True
 https://github.com/Inist-CNRS/node-atom-writer,True
@@ -537,7 +537,7 @@ https://github.com/InseeFr/Ontologies,False
 https://github.com/InseeFr/Pogues,True
 https://github.com/InseeFr/Pogues-Back-Office,True
 https://github.com/InseeFr/Pogues-Model,True
-https://github.com/InseeFr/Quatro,False
+https://github.com/InseeFr/Quatro,True
 https://github.com/InseeFr/VTL-Tools,False
 https://github.com/Irstea/ALPFORPLOTS,True
 https://github.com/Irstea/Redmine-mod-perl-auth,True
@@ -584,7 +584,7 @@ https://github.com/MTES-MCT/camino-api,True
 https://github.com/MTES-MCT/camino-database,True
 https://github.com/MTES-MCT/camino-flux,True
 https://github.com/MTES-MCT/camino-imports-geojson,True
-https://github.com/MTES-MCT/camino-imports-postgres,False
+https://github.com/MTES-MCT/camino-imports-postgres,True
 https://github.com/MTES-MCT/camino-imports-spreadsheet-jorf,True
 https://github.com/MTES-MCT/camino-imports-spreadsheets,True
 https://github.com/MTES-MCT/camino-landingpage,True
@@ -769,7 +769,7 @@ https://github.com/SGMAP-AGD/wiki_agd,True
 https://github.com/SocialGouv/UDD,False
 https://github.com/SocialGouv/annuaire-mjpm,True
 https://github.com/SocialGouv/ansible-kubeadm-cluster,True
-https://github.com/SocialGouv/app-nextjs-node-ts,False
+https://github.com/SocialGouv/app-nextjs-node-ts,True
 https://github.com/SocialGouv/archifiltre,False
 https://github.com/SocialGouv/bootstrap,True
 https://github.com/SocialGouv/bot,False
@@ -967,7 +967,7 @@ https://github.com/atlanmod/updates,False
 https://github.com/atlanmod/zoo,True
 https://github.com/banquedefrance/go-ethereum,True
 https://github.com/banquedefrance/madre_bat,False
-https://github.com/betagouv/Aidants_Connect,False
+https://github.com/betagouv/Aidants_Connect,True
 https://github.com/betagouv/ClasseA12,False
 https://github.com/betagouv/Element.details,True
 https://github.com/betagouv/OpenFiscaFrance.jl,False
@@ -1114,7 +1114,7 @@ https://github.com/betagouv/peps-app,False
 https://github.com/betagouv/pia-back,False
 https://github.com/betagouv/pia-docker,True
 https://github.com/betagouv/pia-paas,False
-https://github.com/betagouv/pix,False
+https://github.com/betagouv/pix,True
 https://github.com/betagouv/place-des-entreprises,False
 https://github.com/betagouv/plante-et-moi,True
 https://github.com/betagouv/plante-et-moi-backend,True
@@ -1129,7 +1129,7 @@ https://github.com/betagouv/preuve-covoiturage-doc,True
 https://github.com/betagouv/publicodes,True
 https://github.com/betagouv/quotient-familial,True
 https://github.com/betagouv/react-elasticsearch,True
-https://github.com/betagouv/react-final-form-utils,False
+https://github.com/betagouv/react-final-form-utils,True
 https://github.com/betagouv/react-hook-data,True
 https://github.com/betagouv/react-i18nliner,True
 https://github.com/betagouv/react-loading-infinite-scroller,False
@@ -1263,7 +1263,7 @@ https://github.com/clipos-archive/src_platform_clip-usb-clt,True
 https://github.com/clipos-archive/src_platform_clip-usb-keys,True
 https://github.com/clipos-archive/src_platform_clip-user-mount,True
 https://github.com/clipos-archive/src_platform_clip-useradmin,False
-https://github.com/clipos-archive/src_platform_clip-viewer,False
+https://github.com/clipos-archive/src_platform_clip-viewer,True
 https://github.com/clipos-archive/src_platform_clip-vpn-net,True
 https://github.com/clipos-archive/src_platform_clip-vserver,True
 https://github.com/clipos-archive/src_platform_clip-wallpapers,False
@@ -1321,7 +1321,7 @@ https://github.com/clipos/products_clipos,True
 https://github.com/clipos/src_external_linux,True
 https://github.com/clipos/src_external_systemd,True
 https://github.com/clipos/src_platform_config-linux-hardware,True
-https://github.com/clipos/src_platform_portage-derive,False
+https://github.com/clipos/src_platform_portage-derive,True
 https://github.com/clipos/src_platform_updater,True
 https://github.com/clipos/src_portage_clipos,False
 https://github.com/clipos/src_portage_gentoo,True
@@ -1353,7 +1353,7 @@ https://github.com/consultation-gouv/deploiement.consultation,True
 https://github.com/consultation-gouv/npm.verif.consultation,True
 https://github.com/consultation-gouv/specs-apis-deploiement,True
 https://github.com/culturecommunication/francearchives-cubicweb,False
-https://github.com/culturecommunication/francearchives-cubicweb-edition,False
+https://github.com/culturecommunication/francearchives-cubicweb-edition,True
 https://github.com/culturecommunication/ginco,True
 https://github.com/culturecommunication/ginco-diff,True
 https://github.com/cw-leia/chipwhisperer,True
@@ -1781,7 +1781,7 @@ https://github.com/ina-foss/voxo-daemon,True
 https://github.com/ina-foss/voxo-dashboard,False
 https://github.com/ina-foss/voxo-docker,True
 https://github.com/ina-foss/voxo-lib,True
-https://github.com/indsante/Documentation-SNDS,False
+https://github.com/indsante/Documentation-SNDS,True
 https://github.com/indsante/dico-snds,True
 https://github.com/indsante/dico-snds-creation-archive,True
 https://github.com/indsante/schema-snds,True
