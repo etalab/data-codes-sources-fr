@@ -38,14 +38,31 @@ class TestPlatforms(unittest.TestCase):
             "https://gitlab.com/api/v4/",
         )
 
-    def test_to_org(self):
-        org = self.detector.to_org("https://github.com/etalab/")
+    def test_to_orgs(self):
+        org = self.detector.to_orgs("https://github.com/etalab/")
 
-        self.assertIsInstance(org, GitHubOrg)
-        self.assertEquals(org.organisation, "etalab")
-        self.assertEquals(org.base_url, "https://api.github.com/")
+        self.assertEquals(len(org), 1)
+        self.assertIsInstance(org[0], GitHubOrg)
+        self.assertEquals(org[0].organisation, "etalab")
+        self.assertEquals(org[0].base_url, "https://api.github.com/")
 
-        org = self.detector.to_org("https://framagit.org/etalab")
-        self.assertIsInstance(org, GitLabOrg)
-        self.assertEquals(org.organisation, "etalab")
-        self.assertEquals(org.base_url, "https://framagit.org/api/v4/")
+        org = self.detector.to_orgs("https://framagit.org/etalab")
+        self.assertEquals(len(org), 1)
+        self.assertIsInstance(org[0], GitLabOrg)
+        self.assertEquals(org[0].organisation, "etalab")
+        self.assertEquals(org[0].base_url, "https://framagit.org/api/v4/")
+
+    def test_is_bare_platform(self):
+        self.assertTrue(self.detector.is_bare_platform("https://gitlab.adullact.net/"))
+        self.assertTrue(self.detector.is_bare_platform("https://gitlab.adullact.net"))
+        self.assertFalse(
+            self.detector.is_bare_platform("https://gitlab.adullact.net/aife")
+        )
+        self.assertFalse(self.detector.is_bare_platform("https://github.com"))
+
+    def test_find_orgs(self):
+        res = self.detector.find_orgs("https://gitlab.adullact.net")
+
+        self.assertIsInstance(res, list)
+        for item in res:
+            self.assertIsInstance(item, GitLabOrg)

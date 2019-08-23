@@ -1,4 +1,7 @@
 import csv
+import re
+
+import requests
 
 from swh import SwhExists
 from github import GitHubOrg
@@ -7,6 +10,7 @@ from gitlab import GitLabOrg
 
 class Detector(object):
     SUPPORTED_PLATFORMS = ["github", "gitlab"]
+    SUPPORTED_BARE_PLATFORMS = ["gitlab"]
 
     def __init__(self):
         super(Detector, self).__init__()
@@ -45,13 +49,36 @@ class Detector(object):
         else:
             raise NotImplementedError(f"Cannot find a base URL for {domain}")
 
-    def to_org(self, url):
+    def is_bare_platform(self, url):
+        for domain in self.data:
+            platform = self.data[domain]
+            if platform not in self.SUPPORTED_BARE_PLATFORMS:
+                continue
+            escaped_domain = domain.replace(".", "\.")
+            if re.findall(f"{escaped_domain}$", url.rstrip("/")):
+                return True
+        return False
+
+    def find_orgs(self, url):
+        assert self.is_bare_platform(url)
+        res = []
+
+        response = requests.get(f"{self.platform_base_url(url)}groups")
+        response.raise_for_status()
+
+        for item in response.json():
+            res.extend([org for org in self.to_orgs(item["web_url"])])
+        return res
+
+    def to_orgs(self, url):
+        if self.is_bare_platform(url):
+            return self.find_orgs(url)
         platform = self.find_platform(url)
         org_name = url.rstrip("/").split("/")[-1]
         base_url = self.platform_base_url(url)
         if platform == "github":
-            return GitHubOrg(org_name, self.swh, base_url)
+            return [GitHubOrg(org_name, self.swh, base_url)]
         elif platform == "gitlab":
-            return GitLabOrg(org_name, self.swh, base_url)
+            return [GitLabOrg(org_name, self.swh, base_url)]
         else:
             raise NotImplementedError(f"Can't create class for {url}")
