@@ -31,7 +31,7 @@ https://framagit.org/openfisca/calculette-impots-python,False
 https://framagit.org/openfisca/calculette-impots-vector-computing,False
 https://framagit.org/openfisca/calculette-impots-web-api,False
 https://framagit.org/openfisca/calculette-impots-web-explorer,False
-https://framagit.org/openfisca/french-income-taxes-test-cases,False
+https://framagit.org/openfisca/french-income-taxes-test-cases,True
 https://framagit.org/openfisca/ines-libre,False
 https://github.com/ANSSI-FR/AD-control-paths,True
 https://github.com/ANSSI-FR/AD-permissions,True
@@ -160,7 +160,7 @@ https://github.com/CEA-LIST/Cingulata,True
 https://github.com/CEA-LIST/DAHLIA-BodyIndex,True
 https://github.com/CEA-LIST/N2D2,True
 https://github.com/CEA-LIST/sgntx,True
-https://github.com/CEA-Leti/wsnet,False
+https://github.com/CEA-Leti/wsnet,True
 https://github.com/CEREMA/com.cerema.infocentre_old,True
 https://github.com/CEREMA/dsi.adutils,False
 https://github.com/CEREMA/dterce.ressource_covadis,True
@@ -304,7 +304,7 @@ https://github.com/DREAL-NA/aides,True
 https://github.com/IGNF/CartAGen,True
 https://github.com/IGNF/ContinuousGeneralisation,True
 https://github.com/IGNF/MultiCriteriaMatching,False
-https://github.com/IGNF/NeatMap,False
+https://github.com/IGNF/NeatMap,True
 https://github.com/IGNF/PLU2PLUS,True
 https://github.com/IGNF/PaysagesScriptKit,True
 https://github.com/IGNF/SIGOPT,True
@@ -539,7 +539,7 @@ https://github.com/LAB-MI/LAB-MI.github.io,True
 https://github.com/LAB-MI/api.gouv.fr,True
 https://github.com/LAB-MI/candilib,True
 https://github.com/LAB-MI/candilibV2,True
-https://github.com/LINCnil/CNIL-Cookies-List,False
+https://github.com/LINCnil/CNIL-Cookies-List,True
 https://github.com/LINCnil/Cabanon,True
 https://github.com/LINCnil/Cookie-consent_Google-Analytics,True
 https://github.com/LINCnil/CookieViz,True
@@ -721,7 +721,7 @@ https://github.com/ProgrammeVitam/java-libpst,False
 https://github.com/ProgrammeVitam/java-libpst-origin,True
 https://github.com/ProgrammeVitam/mailextract,True
 https://github.com/ProgrammeVitam/odftoolkit,False
-https://github.com/ProgrammeVitam/sedatools,False
+https://github.com/ProgrammeVitam/sedatools,True
 https://github.com/ProgrammeVitam/vitam,True
 https://github.com/ProgrammeVitam/vitam-griffins,True
 https://github.com/ProgrammeVitam/vitam-itests,True
@@ -804,7 +804,7 @@ https://github.com/SocialGouv/meditor,True
 https://github.com/SocialGouv/next-routes,False
 https://github.com/SocialGouv/polyfill-service,True
 https://github.com/SocialGouv/react-departements,True
-https://github.com/SocialGouv/renovate-config,False
+https://github.com/SocialGouv/renovate-config,True
 https://github.com/SocialGouv/seminaire,False
 https://github.com/SocialGouv/siret2idcc,False
 https://github.com/SocialGouv/socialgouv.github.io,True
@@ -936,7 +936,7 @@ https://github.com/atlanmod/org.eclipse.atl.ocl-benchmarks,True
 https://github.com/atlanmod/org.eclipse.atl.reactive,True
 https://github.com/atlanmod/org.eclipse.atl.reactive.haskell_semantics,True
 https://github.com/atlanmod/ossmigration,True
-https://github.com/atlanmod/pacmon,False
+https://github.com/atlanmod/pacmon,True
 https://github.com/atlanmod/portolan,True
 https://github.com/atlanmod/san-metamodel,True
 https://github.com/atlanmod/scalable-views-heterogeneous-models,True
@@ -1142,10 +1142,10 @@ https://github.com/betagouv/taux-collectifs-cotisation-atmp,True
 https://github.com/betagouv/taux-versement-transport,True
 https://github.com/betagouv/trait-d-union,False
 https://github.com/betagouv/verif.site,True
-https://github.com/betagouv/voir-et-localiser-samu-sign-on,False
+https://github.com/betagouv/voir-et-localiser-samu-sign-on,True
 https://github.com/betagouv/with-login,True
 https://github.com/betagouv/with-query-router,True
-https://github.com/betagouv/with-react-login,False
+https://github.com/betagouv/with-react-login,True
 https://github.com/betagouv/with-react-redux-login,False
 https://github.com/betagouv/zam,True
 https://github.com/cea-hpc/NabLab,True
@@ -1202,18 +1202,18 @@ https://github.com/clipos-archive/src_platform_ClipQt,False
 https://github.com/clipos-archive/src_platform_anssipki-cli,True
 https://github.com/clipos-archive/src_platform_baselayout-clip,False
 https://github.com/clipos-archive/src_platform_baselayout-rm,False
-https://github.com/clipos-archive/src_platform_baselayout-update,False
+https://github.com/clipos-archive/src_platform_baselayout-update,True
 https://github.com/clipos-archive/src_platform_bionic-malloc,False
 https://github.com/clipos-archive/src_platform_chroot-launch,False
 https://github.com/clipos-archive/src_platform_ckiutl,False
 https://github.com/clipos-archive/src_platform_clip-beacon,False
 https://github.com/clipos-archive/src_platform_clip-build,True
-https://github.com/clipos-archive/src_platform_clip-buildbot,False
+https://github.com/clipos-archive/src_platform_clip-buildbot,True
 https://github.com/clipos-archive/src_platform_clip-config,False
 https://github.com/clipos-archive/src_platform_clip-deb,False
 https://github.com/clipos-archive/src_platform_clip-devutils,True
 https://github.com/clipos-archive/src_platform_clip-download,False
-https://github.com/clipos-archive/src_platform_clip-emblem,False
+https://github.com/clipos-archive/src_platform_clip-emblem,True
 https://github.com/clipos-archive/src_platform_clip-eraser,True
 https://github.com/clipos-archive/src_platform_clip-generic-net,True
 https://github.com/clipos-archive/src_platform_clip-gtw-net,False
@@ -1268,7 +1268,7 @@ https://github.com/clipos-archive/src_platform_pam_jail,True
 https://github.com/clipos-archive/src_platform_pfring-kernel-patches,False
 https://github.com/clipos-archive/src_platform_portage-derive,False
 https://github.com/clipos-archive/src_platform_pwcheckd,True
-https://github.com/clipos-archive/src_platform_rm-sessions,False
+https://github.com/clipos-archive/src_platform_rm-sessions,True
 https://github.com/clipos-archive/src_platform_rmh-config,True
 https://github.com/clipos-archive/src_platform_scdaemon,True
 https://github.com/clipos-archive/src_platform_smartcard-monitor,True
@@ -1811,7 +1811,7 @@ https://github.com/minagri-initial/ift-api,True
 https://github.com/minagri-initial/sinex-preregistration-dto,True
 https://github.com/nanterre/Bienvenue,True
 https://github.com/nanterre/Datea,True
-https://github.com/nanterre/decidim,False
+https://github.com/nanterre/decidim,True
 https://github.com/nanterre/democracyos,True
 https://github.com/nanterre/donnees-a-voir,True
 https://github.com/nanterre/donneesavoir,True
