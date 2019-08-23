@@ -17,7 +17,7 @@ def fetch_orgs(detector):
 
     for line in data:
         try:
-            organisations.append(detector.to_org(line))
+            organisations.extend(detector.to_orgs(line))
         except Exception as e:
             print(e)
 
