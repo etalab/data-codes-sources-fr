@@ -738,7 +738,7 @@ https://github.com/ProgrammeVitam/generateur-seda,True
 https://github.com/ProgrammeVitam/java-libpst,False
 https://github.com/ProgrammeVitam/java-libpst-origin,True
 https://github.com/ProgrammeVitam/mailextract,True
-https://github.com/ProgrammeVitam/odftoolkit,False
+https://github.com/ProgrammeVitam/odftoolkit,True
 https://github.com/ProgrammeVitam/sedatools,True
 https://github.com/ProgrammeVitam/vitam,True
 https://github.com/ProgrammeVitam/vitam-griffins,True
@@ -811,7 +811,7 @@ https://github.com/SocialGouv/helm-charts,True
 https://github.com/SocialGouv/jest-environment-knex,False
 https://github.com/SocialGouv/kali-data,True
 https://github.com/SocialGouv/kaligator,True
-https://github.com/SocialGouv/legi-data,False
+https://github.com/SocialGouv/legi-data,True
 https://github.com/SocialGouv/legi-detect,False
 https://github.com/SocialGouv/legi-postgres,True
 https://github.com/SocialGouv/legixplore,True
@@ -931,7 +931,7 @@ https://github.com/atlanmod/Parallel-ATL,True
 https://github.com/atlanmod/Prefetching_Caching_DSL,True
 https://github.com/atlanmod/ThingML,True
 https://github.com/atlanmod/UML2NoSQL,True
-https://github.com/atlanmod/atl,False
+https://github.com/atlanmod/atl,True
 https://github.com/atlanmod/atlanmod-platform,True
 https://github.com/atlanmod/atlanmod.github.io,True
 https://github.com/atlanmod/busfactor_demo,True
@@ -1001,7 +1001,7 @@ https://github.com/betagouv/betaGouvBot,True
 https://github.com/betagouv/blog.beta.gouv.fr,True
 https://github.com/betagouv/blog.dossiersco.fr,True
 https://github.com/betagouv/bourses,True
-https://github.com/betagouv/boussole,False
+https://github.com/betagouv/boussole,True
 https://github.com/betagouv/ccas,False
 https://github.com/betagouv/cerfa-form-filler,True
 https://github.com/betagouv/civilsdeladefense,True
@@ -1105,7 +1105,7 @@ https://github.com/betagouv/pass-culture-homepage,True
 https://github.com/betagouv/pass-culture-main,True
 https://github.com/betagouv/pass-culture-pro,True
 https://github.com/betagouv/pass-culture-pro-staging,True
-https://github.com/betagouv/pass-culture-publi-mailing,False
+https://github.com/betagouv/pass-culture-publi-mailing,True
 https://github.com/betagouv/pass-culture-shared,True
 https://github.com/betagouv/pass-culture-team,True
 https://github.com/betagouv/pass-culture-web-analytics,False
@@ -1690,7 +1690,7 @@ https://github.com/etalab/piaf,True
 https://github.com/etalab/piwik-covisits,True
 https://github.com/etalab/piwik_logs,True
 https://github.com/etalab/plan-ogp-2015-2017,True
-https://github.com/etalab/plf,False
+https://github.com/etalab/plf,True
 https://github.com/etalab/prevair-demo,True
 https://github.com/etalab/prevair-experiment,True
 https://github.com/etalab/project-legal,True
@@ -1756,7 +1756,7 @@ https://github.com/geodatagouv/docker,True
 https://github.com/geodatagouv/docker-node-gdal,True
 https://github.com/geodatagouv/geogw,True
 https://github.com/geodatagouv/geoplatform,True
-https://github.com/geodatagouv/link-analyzer,False
+https://github.com/geodatagouv/link-analyzer,True
 https://github.com/geodatagouv/link-proxy,True
 https://github.com/geodatagouv/parsers,True
 https://github.com/geodatagouv/plunger,True
@@ -1948,7 +1948,7 @@ https://github.com/openfisca/openfisca-web-ui-legacy,False
 https://github.com/openfisca/openfisca.org,True
 https://github.com/openfisca/openfisca.tn,True
 https://github.com/openfisca/openfisca_data,True
-https://github.com/openfisca/reform-simulator,False
+https://github.com/openfisca/reform-simulator,True
 https://github.com/openfisca/reformator,True
 https://github.com/openfisca/support-bot,True
 https://github.com/openfisca/trace-tool,True
@@ -2064,7 +2064,7 @@ https://github.com/wookey-project/app-sample-button,True
 https://github.com/wookey-project/app-sample-leds,True
 https://github.com/wookey-project/app-wookey-crypto,True
 https://github.com/wookey-project/app-wookey-flash,True
-https://github.com/wookey-project/app-wookey-pin,False
+https://github.com/wookey-project/app-wookey-pin,True
 https://github.com/wookey-project/app-wookey-sdio,False
 https://github.com/wookey-project/app-wookey-smart,True
 https://github.com/wookey-project/app-wookey-usb,True
