@@ -28,7 +28,7 @@ https://framagit.org/openfisca/calculette-impots-javascript,False
 https://framagit.org/openfisca/calculette-impots-m-language-parser,True
 https://framagit.org/openfisca/calculette-impots-m-source-code,True
 https://framagit.org/openfisca/calculette-impots-python,False
-https://framagit.org/openfisca/calculette-impots-vector-computing,False
+https://framagit.org/openfisca/calculette-impots-vector-computing,True
 https://framagit.org/openfisca/calculette-impots-web-api,True
 https://framagit.org/openfisca/calculette-impots-web-explorer,False
 https://framagit.org/openfisca/french-income-taxes-test-cases,True
@@ -614,7 +614,7 @@ https://github.com/MTES-MCT/kelrisks-datascience,True
 https://github.com/MTES-MCT/locatio,True
 https://github.com/MTES-MCT/numerique,True
 https://github.com/MTES-MCT/parcours-r,False
-https://github.com/MTES-MCT/permis-construire,False
+https://github.com/MTES-MCT/permis-construire,True
 https://github.com/MTES-MCT/portail,True
 https://github.com/MTES-MCT/rieau,True
 https://github.com/MTES-MCT/rieau-api,True
@@ -792,7 +792,7 @@ https://github.com/SocialGouv/dila-api-client,False
 https://github.com/SocialGouv/dila-tests-api,True
 https://github.com/SocialGouv/dila2sql,True
 https://github.com/SocialGouv/docker,False
-https://github.com/SocialGouv/domifa,False
+https://github.com/SocialGouv/domifa,True
 https://github.com/SocialGouv/ds-aggregator,True
 https://github.com/SocialGouv/ds-collector,True
 https://github.com/SocialGouv/ds-dashboard,True
@@ -804,7 +804,7 @@ https://github.com/SocialGouv/egapro,True
 https://github.com/SocialGouv/emjpm,True
 https://github.com/SocialGouv/emjpm-design,False
 https://github.com/SocialGouv/emjpm-design-system,True
-https://github.com/SocialGouv/emjpm-ui,False
+https://github.com/SocialGouv/emjpm-ui,True
 https://github.com/SocialGouv/faq-code-du-travail,True
 https://github.com/SocialGouv/fce,True
 https://github.com/SocialGouv/helm-charts,True
@@ -1151,7 +1151,7 @@ https://github.com/betagouv/signup-oauth,True
 https://github.com/betagouv/signup.api.gouv.fr,True
 https://github.com/betagouv/signup.api.gouv.fr-docker,True
 https://github.com/betagouv/slack-ovh,True
-https://github.com/betagouv/sqlalchemy-handler,False
+https://github.com/betagouv/sqlalchemy-handler,True
 https://github.com/betagouv/standup,True
 https://github.com/betagouv/svair-api,True
 https://github.com/betagouv/svair-mock,True
@@ -1237,7 +1237,7 @@ https://github.com/clipos-archive/src_platform_clip-eraser,True
 https://github.com/clipos-archive/src_platform_clip-generic-net,True
 https://github.com/clipos-archive/src_platform_clip-gtw-net,False
 https://github.com/clipos-archive/src_platform_clip-hardware,True
-https://github.com/clipos-archive/src_platform_clip-icons,False
+https://github.com/clipos-archive/src_platform_clip-icons,True
 https://github.com/clipos-archive/src_platform_clip-install-clip,False
 https://github.com/clipos-archive/src_platform_clip-install-common,False
 https://github.com/clipos-archive/src_platform_clip-install-config,True
@@ -1262,7 +1262,7 @@ https://github.com/clipos-archive/src_platform_clip-update-user-data,True
 https://github.com/clipos-archive/src_platform_clip-usb-clt,True
 https://github.com/clipos-archive/src_platform_clip-usb-keys,True
 https://github.com/clipos-archive/src_platform_clip-user-mount,True
-https://github.com/clipos-archive/src_platform_clip-useradmin,False
+https://github.com/clipos-archive/src_platform_clip-useradmin,True
 https://github.com/clipos-archive/src_platform_clip-viewer,True
 https://github.com/clipos-archive/src_platform_clip-vpn-net,True
 https://github.com/clipos-archive/src_platform_clip-vserver,True
@@ -2057,7 +2057,7 @@ https://github.com/strasbourg/velhop-api,True
 https://github.com/wookey-project/app-bench-logger,True
 https://github.com/wookey-project/app-bench-syscalls,True
 https://github.com/wookey-project/app-dfu-cryp,False
-https://github.com/wookey-project/app-dfu-smart,False
+https://github.com/wookey-project/app-dfu-smart,True
 https://github.com/wookey-project/app-dfu-usb,True
 https://github.com/wookey-project/app-sample-blinky,False
 https://github.com/wookey-project/app-sample-button,True
@@ -2100,7 +2100,7 @@ https://github.com/wookey-project/libgui,True
 https://github.com/wookey-project/libhmac,True
 https://github.com/wookey-project/libiso7816,True
 https://github.com/wookey-project/libmassstorage,True
-https://github.com/wookey-project/libsd,False
+https://github.com/wookey-project/libsd,True
 https://github.com/wookey-project/libsmartcard,True
 https://github.com/wookey-project/libstd,False
 https://github.com/wookey-project/libtoken,True
@@ -2181,7 +2181,7 @@ https://gitlab.inria.fr/AlgebraicGeometricModeling/AlgebraicSolvers.jl,False
 https://gitlab.inria.fr/AlgebraicGeometricModeling/Axl.jl,True
 https://gitlab.inria.fr/AlgebraicGeometricModeling/GSplines.jl,False
 https://gitlab.inria.fr/AlgebraicGeometricModeling/MomentJuMP.jl,True
-https://gitlab.inria.fr/AlgebraicGeometricModeling/SemiAlgebraicTypes.jl,False
+https://gitlab.inria.fr/AlgebraicGeometricModeling/SemiAlgebraicTypes.jl,True
 https://gitlab.inria.fr/AlgebraicGeometricModeling/TensorDec.jl,False
 https://gitlab.inria.fr/AlgebraicGeometricModeling/multivariateseries.jl,True
 https://gitlab.inria.fr/Alpha/alpha-language,False
