@@ -25,11 +25,11 @@ https://framagit.org/etalab/suivi-plan-ogp-2015-2017,True
 https://framagit.org/etalab/votes-hackrepnum,False
 https://framagit.org/openfisca/calculette-impots-hackathon,True
 https://framagit.org/openfisca/calculette-impots-javascript,False
-https://framagit.org/openfisca/calculette-impots-m-language-parser,False
+https://framagit.org/openfisca/calculette-impots-m-language-parser,True
 https://framagit.org/openfisca/calculette-impots-m-source-code,True
 https://framagit.org/openfisca/calculette-impots-python,False
 https://framagit.org/openfisca/calculette-impots-vector-computing,False
-https://framagit.org/openfisca/calculette-impots-web-api,False
+https://framagit.org/openfisca/calculette-impots-web-api,True
 https://framagit.org/openfisca/calculette-impots-web-explorer,False
 https://framagit.org/openfisca/french-income-taxes-test-cases,True
 https://framagit.org/openfisca/ines-libre,True
@@ -111,7 +111,7 @@ https://github.com/AlsaceDigitale/2015.edgefest.fr,True
 https://github.com/AlsaceDigitale/2015.hackingindustry.camp,True
 https://github.com/AlsaceDigitale/2016.edgefest.fr,True
 https://github.com/AlsaceDigitale/2016.hackingindustry.camp,True
-https://github.com/AlsaceDigitale/2017.edgefest.fr,False
+https://github.com/AlsaceDigitale/2017.edgefest.fr,True
 https://github.com/AlsaceDigitale/2017.hackingindustry.camp,True
 https://github.com/AlsaceDigitale/2018.edgefest.fr,True
 https://github.com/AlsaceDigitale/2018.hackingindustry.camp,True
@@ -151,7 +151,7 @@ https://github.com/ApieFrance/ApieFrance.github.io,True
 https://github.com/ApieFrance/choosealicense.com,True
 https://github.com/BRGM/ANZSoilML,False
 https://github.com/BRGM/BLiv,True
-https://github.com/BRGM/ComPASS,False
+https://github.com/BRGM/ComPASS,True
 https://github.com/BRGM/GeoSciML,True
 https://github.com/BRGM/GeoSciMLontology,True
 https://github.com/BRGM/Nifi-WKB-to-WKT-processor,True
@@ -187,7 +187,7 @@ https://github.com/CEREMA/dtermed.MobiTC,True
 https://github.com/CEREMA/dtermed.MobiTC2,False
 https://github.com/CEREMA/dtermed.annuaire,True
 https://github.com/CEREMA/dtermed.anywhere,True
-https://github.com/CEREMA/dtermed.bpclight-old,False
+https://github.com/CEREMA/dtermed.bpclight-old,True
 https://github.com/CEREMA/dtermed.bpclight2,True
 https://github.com/CEREMA/dtermed.bpcmobile,False
 https://github.com/CEREMA/dtermed.cerema-info,True
@@ -377,7 +377,7 @@ https://github.com/INRA/NMRProcFlow,True
 https://github.com/INRA/ODAM,True
 https://github.com/INRA/Rnmr1D,True
 https://github.com/INRA/Rodam,True
-https://github.com/INRA/rgs3,False
+https://github.com/INRA/rgs3,True
 https://github.com/INRIA/IFIPSpecifications,True
 https://github.com/INRIA/VisualSedimentation,True
 https://github.com/INRIA/Visualization-Literacy-101,True
@@ -532,7 +532,7 @@ https://github.com/InseeFr/Lunatic-Model,False
 https://github.com/InseeFr/Meleze,True
 https://github.com/InseeFr/Mesange,True
 https://github.com/InseeFr/Metadata-API,True
-https://github.com/InseeFr/Omphale,False
+https://github.com/InseeFr/Omphale,True
 https://github.com/InseeFr/Ontologies,False
 https://github.com/InseeFr/Pogues,True
 https://github.com/InseeFr/Pogues-Back-Office,True
@@ -542,7 +542,7 @@ https://github.com/InseeFr/VTL-Tools,False
 https://github.com/Irstea/ALPFORPLOTS,True
 https://github.com/Irstea/Redmine-mod-perl-auth,True
 https://github.com/Irstea/alisma,True
-https://github.com/Irstea/bd_patrimoine,False
+https://github.com/Irstea/bd_patrimoine,True
 https://github.com/Irstea/bsc12,False
 https://github.com/Irstea/caso,True
 https://github.com/Irstea/collec,True
@@ -620,7 +620,7 @@ https://github.com/MTES-MCT/rieau,True
 https://github.com/MTES-MCT/rieau-api,True
 https://github.com/MTES-MCT/rieau-infra,False
 https://github.com/MTES-MCT/rieau-ui,True
-https://github.com/MTES-MCT/secmar-data,False
+https://github.com/MTES-MCT/secmar-data,True
 https://github.com/MTES-MCT/secmar-documentation,True
 https://github.com/MTES-MCT/toolbox,True
 https://github.com/MTES-MCT/trackdechets,False
@@ -705,7 +705,7 @@ https://github.com/PnX-SI/Virtualia-connect,True
 https://github.com/PnX-SI/gn_mobile_core,True
 https://github.com/PnX-SI/gn_mobile_maps,True
 https://github.com/PnX-SI/gn_mobile_occtax,True
-https://github.com/PnX-SI/gn_mobile_sft,False
+https://github.com/PnX-SI/gn_mobile_sft,True
 https://github.com/PnX-SI/gn_module_cmr,True
 https://github.com/PnX-SI/gn_module_dashboard,True
 https://github.com/PnX-SI/gn_module_export,True
@@ -793,7 +793,7 @@ https://github.com/SocialGouv/dila-tests-api,True
 https://github.com/SocialGouv/dila2sql,True
 https://github.com/SocialGouv/docker,False
 https://github.com/SocialGouv/domifa,False
-https://github.com/SocialGouv/ds-aggregator,False
+https://github.com/SocialGouv/ds-aggregator,True
 https://github.com/SocialGouv/ds-collector,True
 https://github.com/SocialGouv/ds-dashboard,True
 https://github.com/SocialGouv/eMJPM-api,True
@@ -836,7 +836,7 @@ https://github.com/SocialGouv/traefigit,True
 https://github.com/SocialGouv/tremplin,False
 https://github.com/SocialGouv/tutoriel-gitlab,True
 https://github.com/SocialGouv/work-in-france,True
-https://github.com/SocialGouv/work-in-france-backoffice,False
+https://github.com/SocialGouv/work-in-france-backoffice,True
 https://github.com/SocialGouv/work-in-france-bo,True
 https://github.com/SocialGouv/work-in-france-bo-public,True
 https://github.com/SocialGouv/work-in-france-extractor,True
@@ -1323,7 +1323,7 @@ https://github.com/clipos/src_external_systemd,True
 https://github.com/clipos/src_platform_config-linux-hardware,True
 https://github.com/clipos/src_platform_portage-derive,True
 https://github.com/clipos/src_platform_updater,True
-https://github.com/clipos/src_portage_clipos,False
+https://github.com/clipos/src_portage_clipos,True
 https://github.com/clipos/src_portage_gentoo,True
 https://github.com/clipos/testbed,True
 https://github.com/clipos/toolkit,True
@@ -1778,7 +1778,7 @@ https://github.com/ina-foss/amalia.js,True
 https://github.com/ina-foss/inaSpeechSegmenter,True
 https://github.com/ina-foss/nginx-video-thumbextractor-module,True
 https://github.com/ina-foss/voxo-daemon,True
-https://github.com/ina-foss/voxo-dashboard,False
+https://github.com/ina-foss/voxo-dashboard,True
 https://github.com/ina-foss/voxo-docker,True
 https://github.com/ina-foss/voxo-lib,True
 https://github.com/indsante/Documentation-SNDS,True
@@ -1917,7 +1917,7 @@ https://github.com/openfisca/openfisca-dataviz-sunburst,True
 https://github.com/openfisca/openfisca-doc,True
 https://github.com/openfisca/openfisca-douanes,True
 https://github.com/openfisca/openfisca-dummy-country,True
-https://github.com/openfisca/openfisca-events,False
+https://github.com/openfisca/openfisca-events,True
 https://github.com/openfisca/openfisca-france,True
 https://github.com/openfisca/openfisca-france-api,True
 https://github.com/openfisca/openfisca-france-data,True
@@ -2175,7 +2175,7 @@ https://gitlab.com/pidila/kit-sprite-svg,True
 https://gitlab.com/pidila/pidila.gitlab.io,True
 https://gitlab.com/pidila/scampi,True
 https://gitlab.com/pidila/scampi-twig,False
-https://gitlab.com/pidila/select-a11y,False
+https://gitlab.com/pidila/select-a11y,True
 https://gitlab.com/pidila/sp-simulateurs-data,True
 https://gitlab.inria.fr/AlgebraicGeometricModeling/AlgebraicSolvers.jl,False
 https://gitlab.inria.fr/AlgebraicGeometricModeling/Axl.jl,True
