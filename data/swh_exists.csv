@@ -604,7 +604,7 @@ https://github.com/MTES-MCT/filharmonic,False
 https://github.com/MTES-MCT/filharmonic-api,True
 https://github.com/MTES-MCT/filharmonic-infrastructure,True
 https://github.com/MTES-MCT/filharmonic-ui,True
-https://github.com/MTES-MCT/fluctuat,False
+https://github.com/MTES-MCT/fluctuat,True
 https://github.com/MTES-MCT/fluctuat-apidoc,True
 https://github.com/MTES-MCT/geo-communes-api,False
 https://github.com/MTES-MCT/geostatis,True
@@ -776,7 +776,7 @@ https://github.com/SocialGouv/bot,False
 https://github.com/SocialGouv/checkup,True
 https://github.com/SocialGouv/code-du-travail-api,True
 https://github.com/SocialGouv/code-du-travail-backoffice,True
-https://github.com/SocialGouv/code-du-travail-chatbot,False
+https://github.com/SocialGouv/code-du-travail-chatbot,True
 https://github.com/SocialGouv/code-du-travail-css,True
 https://github.com/SocialGouv/code-du-travail-data,True
 https://github.com/SocialGouv/code-du-travail-monitoring,True
@@ -1124,7 +1124,7 @@ https://github.com/betagouv/pop-consultation,True
 https://github.com/betagouv/pop-data,True
 https://github.com/betagouv/pop-production,True
 https://github.com/betagouv/pop-shared,False
-https://github.com/betagouv/preuve-covoiturage,False
+https://github.com/betagouv/preuve-covoiturage,True
 https://github.com/betagouv/preuve-covoiturage-doc,True
 https://github.com/betagouv/publicodes,True
 https://github.com/betagouv/quotient-familial,True
@@ -1406,7 +1406,7 @@ https://github.com/entrepreneur-interet-general/archapp,False
 https://github.com/entrepreneur-interet-general/archypoint,True
 https://github.com/entrepreneur-interet-general/brigade-numerique,False
 https://github.com/entrepreneur-interet-general/bulletins,True
-https://github.com/entrepreneur-interet-general/bulletins-docs,False
+https://github.com/entrepreneur-interet-general/bulletins-docs,True
 https://github.com/entrepreneur-interet-general/cartav,True
 https://github.com/entrepreneur-interet-general/cheapExp,True
 https://github.com/entrepreneur-interet-general/clj-rgf93-wgs84,True
@@ -1462,7 +1462,7 @@ https://github.com/entrepreneur-interet-general/tf-idf_poc,False
 https://github.com/entrepreneur-interet-general/the-magical-csv-merge-machine,True
 https://github.com/entrepreneur-interet-general/tutos-2018,True
 https://github.com/entrepreneur-interet-general/vue-python-starter-kit,True
-https://github.com/entrepreneur-interet-general/word_convertor,False
+https://github.com/entrepreneur-interet-general/word_convertor,True
 https://github.com/eole/addon-context-linux,True
 https://github.com/eole/dhcpd-formula,False
 https://github.com/eole/docs,True
@@ -1656,7 +1656,7 @@ https://github.com/etalab/geologos,True
 https://github.com/etalab/geozones,True
 https://github.com/etalab/gpu-jpeg2k,True
 https://github.com/etalab/guide-juridique-logiciel-libre,True
-https://github.com/etalab/guide-juridique-open-data,False
+https://github.com/etalab/guide-juridique-open-data,True
 https://github.com/etalab/hackdash,True
 https://github.com/etalab/id.data.gouv.fr,True
 https://github.com/etalab/inspire-cartes-producteurs,True
@@ -1712,7 +1712,7 @@ https://github.com/etalab/sirene_as_api_ansible,True
 https://github.com/etalab/sorry.data.gouv.fr,True
 https://github.com/etalab/speedtracker,True
 https://github.com/etalab/stars_detective,True
-https://github.com/etalab/taxe-fonciere,False
+https://github.com/etalab/taxe-fonciere,True
 https://github.com/etalab/taxe-habitation,True
 https://github.com/etalab/template-jekyll,True
 https://github.com/etalab/template.data.gouv.fr,True
@@ -1735,7 +1735,7 @@ https://github.com/etalab/urban-olympics.etalab.studio,True
 https://github.com/etalab/user-research,True
 https://github.com/etalab/utilery-recipe-jurpol,True
 https://github.com/etalab/vuepress-gouv-fr-demo,True
-https://github.com/etalab/vuepress-theme-gouv-fr,False
+https://github.com/etalab/vuepress-theme-gouv-fr,True
 https://github.com/etalab/watchdoge_apientreprise,True
 https://github.com/etalab/weckan,True
 https://github.com/etalab/wiki-data-gouv,True
@@ -2074,7 +2074,7 @@ https://github.com/wookey-project/bootloader,True
 https://github.com/wookey-project/driver-ad7843,False
 https://github.com/wookey-project/driver-ili9341,True
 https://github.com/wookey-project/driver-stm32f4x9-cryp,True
-https://github.com/wookey-project/driver-stm32f4xx-flash,False
+https://github.com/wookey-project/driver-stm32f4xx-flash,True
 https://github.com/wookey-project/driver-stm32f4xx-hash,True
 https://github.com/wookey-project/driver-stm32f4xx-iso7816,True
 https://github.com/wookey-project/driver-stm32f4xx-sdio,False
@@ -2095,7 +2095,7 @@ https://github.com/wookey-project/libaes,True
 https://github.com/wookey-project/libconsole,True
 https://github.com/wookey-project/libdes,False
 https://github.com/wookey-project/libdfu,True
-https://github.com/wookey-project/libfw,False
+https://github.com/wookey-project/libfw,True
 https://github.com/wookey-project/libgui,True
 https://github.com/wookey-project/libhmac,True
 https://github.com/wookey-project/libiso7816,True
