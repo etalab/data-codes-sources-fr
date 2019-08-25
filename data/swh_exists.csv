@@ -27,7 +27,7 @@ https://framagit.org/openfisca/calculette-impots-hackathon,True
 https://framagit.org/openfisca/calculette-impots-javascript,False
 https://framagit.org/openfisca/calculette-impots-m-language-parser,True
 https://framagit.org/openfisca/calculette-impots-m-source-code,True
-https://framagit.org/openfisca/calculette-impots-python,False
+https://framagit.org/openfisca/calculette-impots-python,True
 https://framagit.org/openfisca/calculette-impots-vector-computing,True
 https://framagit.org/openfisca/calculette-impots-web-api,True
 https://framagit.org/openfisca/calculette-impots-web-explorer,False
@@ -203,7 +203,7 @@ https://github.com/CEREMA/dtermed.detection-friches,True
 https://github.com/CEREMA/dtermed.ecureuil,True
 https://github.com/CEREMA/dtermed.ecureuilmobile,True
 https://github.com/CEREMA/dtermed.ecureuilmobile2,True
-https://github.com/CEREMA/dtermed.faveur,False
+https://github.com/CEREMA/dtermed.faveur,True
 https://github.com/CEREMA/dtermed.formulaires,True
 https://github.com/CEREMA/dtermed.goprro,True
 https://github.com/CEREMA/dtermed.infocentre,False
@@ -623,7 +623,7 @@ https://github.com/MTES-MCT/rieau-ui,True
 https://github.com/MTES-MCT/secmar-data,True
 https://github.com/MTES-MCT/secmar-documentation,True
 https://github.com/MTES-MCT/toolbox,True
-https://github.com/MTES-MCT/trackdechets,False
+https://github.com/MTES-MCT/trackdechets,True
 https://github.com/MTES-MCT/trackdechets-datascience,False
 https://github.com/MTES-MCT/trashadvisor,True
 https://github.com/MTES-MCT/udata-doc,True
@@ -719,7 +719,7 @@ https://github.com/PnX-SI/gn_module_validation,True
 https://github.com/PnX-SI/obs_occ,True
 https://github.com/PnX-SI/test_client_usershub_api,False
 https://github.com/PrefectureDePolice/Hydre,True
-https://github.com/PrefectureDePolice/NEOfil,False
+https://github.com/PrefectureDePolice/NEOfil,True
 https://github.com/PrefectureDePolice/Pref.Police,True
 https://github.com/PrefectureDePolice/SmartPhone,True
 https://github.com/PrefectureDePolice/backend,True
@@ -819,7 +819,7 @@ https://github.com/SocialGouv/letor-scores,False
 https://github.com/SocialGouv/linters,True
 https://github.com/SocialGouv/mattermost-plugin-google-calendar,True
 https://github.com/SocialGouv/meditor,True
-https://github.com/SocialGouv/next-routes,False
+https://github.com/SocialGouv/next-routes,True
 https://github.com/SocialGouv/polyfill-service,True
 https://github.com/SocialGouv/react-departements,True
 https://github.com/SocialGouv/renovate-config,True
@@ -830,7 +830,7 @@ https://github.com/SocialGouv/standup,False
 https://github.com/SocialGouv/suggest,False
 https://github.com/SocialGouv/template.data.gouv.fr.react,True
 https://github.com/SocialGouv/tocbot,False
-https://github.com/SocialGouv/tools,False
+https://github.com/SocialGouv/tools,True
 https://github.com/SocialGouv/tps,True
 https://github.com/SocialGouv/traefigit,True
 https://github.com/SocialGouv/tremplin,False
@@ -966,7 +966,7 @@ https://github.com/atlanmod/ttc2018liveContest,True
 https://github.com/atlanmod/updates,False
 https://github.com/atlanmod/zoo,True
 https://github.com/banquedefrance/go-ethereum,True
-https://github.com/banquedefrance/madre_bat,False
+https://github.com/banquedefrance/madre_bat,True
 https://github.com/betagouv/Aidants_Connect,True
 https://github.com/betagouv/ClasseA12,False
 https://github.com/betagouv/Element.details,True
@@ -996,7 +996,7 @@ https://github.com/betagouv/api.gouv.fr,True
 https://github.com/betagouv/aplus,True
 https://github.com/betagouv/beta.gouv.fr,True
 https://github.com/betagouv/beta.ssi,False
-https://github.com/betagouv/beta.wip,False
+https://github.com/betagouv/beta.wip,True
 https://github.com/betagouv/betaGouvBot,True
 https://github.com/betagouv/blog.beta.gouv.fr,True
 https://github.com/betagouv/blog.dossiersco.fr,True
@@ -1165,7 +1165,7 @@ https://github.com/betagouv/voir-et-localiser-samu-sign-on,True
 https://github.com/betagouv/with-login,True
 https://github.com/betagouv/with-query-router,True
 https://github.com/betagouv/with-react-login,True
-https://github.com/betagouv/with-react-redux-login,False
+https://github.com/betagouv/with-react-redux-login,True
 https://github.com/betagouv/zam,True
 https://github.com/cea-hpc/NabLab,True
 https://github.com/cea-hpc/bridge,True
@@ -1285,7 +1285,7 @@ https://github.com/clipos-archive/src_platform_openbsd-malloc,False
 https://github.com/clipos-archive/src_platform_pam_exec_pwd,True
 https://github.com/clipos-archive/src_platform_pam_jail,True
 https://github.com/clipos-archive/src_platform_pfring-kernel-patches,False
-https://github.com/clipos-archive/src_platform_portage-derive,False
+https://github.com/clipos-archive/src_platform_portage-derive,True
 https://github.com/clipos-archive/src_platform_pwcheckd,True
 https://github.com/clipos-archive/src_platform_rm-sessions,True
 https://github.com/clipos-archive/src_platform_rmh-config,True
@@ -1415,7 +1415,7 @@ https://github.com/entrepreneur-interet-general/csv2html,True
 https://github.com/entrepreneur-interet-general/dataESR,True
 https://github.com/entrepreneur-interet-general/datamap,True
 https://github.com/entrepreneur-interet-general/dedupe,True
-https://github.com/entrepreneur-interet-general/demo_metabase_postgres,False
+https://github.com/entrepreneur-interet-general/demo_metabase_postgres,True
 https://github.com/entrepreneur-interet-general/design-system,False
 https://github.com/entrepreneur-interet-general/dicoCodes,True
 https://github.com/entrepreneur-interet-general/dig,True
@@ -1580,7 +1580,7 @@ https://github.com/etalab/carto-map-jurpol,True
 https://github.com/etalab/carto_actions_collectives,True
 https://github.com/etalab/cartocss-jurpol,True
 https://github.com/etalab/catalogue_ui,True
-https://github.com/etalab/choices,False
+https://github.com/etalab/choices,True
 https://github.com/etalab/ckan-of-worms,True
 https://github.com/etalab/ckan-toolbox,True
 https://github.com/etalab/ckanext-etalab,True
@@ -2065,7 +2065,7 @@ https://github.com/wookey-project/app-sample-leds,True
 https://github.com/wookey-project/app-wookey-crypto,True
 https://github.com/wookey-project/app-wookey-flash,True
 https://github.com/wookey-project/app-wookey-pin,True
-https://github.com/wookey-project/app-wookey-sdio,False
+https://github.com/wookey-project/app-wookey-sdio,True
 https://github.com/wookey-project/app-wookey-smart,True
 https://github.com/wookey-project/app-wookey-usb,True
 https://github.com/wookey-project/board-32f407disco,True
