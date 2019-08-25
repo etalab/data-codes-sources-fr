@@ -22,7 +22,7 @@ https://framagit.org/etalab/ogptoolbox-ui,True
 https://framagit.org/etalab/osem-ogp,True
 https://framagit.org/etalab/sources-civic-tech,True
 https://framagit.org/etalab/suivi-plan-ogp-2015-2017,True
-https://framagit.org/etalab/votes-hackrepnum,False
+https://framagit.org/etalab/votes-hackrepnum,True
 https://framagit.org/openfisca/calculette-impots-hackathon,True
 https://framagit.org/openfisca/calculette-impots-javascript,False
 https://framagit.org/openfisca/calculette-impots-m-language-parser,True
@@ -97,7 +97,7 @@ https://github.com/ANSSI-FR/xsvgen,True
 https://github.com/ARCEP-dev/adresse,True
 https://github.com/ARCEP-dev/basePopDom,True
 https://github.com/ARCEP-dev/dataTools,True
-https://github.com/ARCEP-dev/disPorts,False
+https://github.com/ARCEP-dev/disPorts,True
 https://github.com/ARCEP-dev/geocodage_ban,False
 https://github.com/ARCEP-dev/monReseauMobile,True
 https://github.com/ARCEP-dev/regex,False
@@ -134,7 +134,7 @@ https://github.com/AlsaceDigitale/hopnsplash-water-server,True
 https://github.com/AlsaceDigitale/lancement-frenchtechalsace,True
 https://github.com/AlsaceDigitale/medhack,True
 https://github.com/AlsaceDigitale/romal-frontend,True
-https://github.com/AlsaceDigitale/romal-server,False
+https://github.com/AlsaceDigitale/romal-server,True
 https://github.com/AlsaceDigitale/straliens-app,True
 https://github.com/AlsaceDigitale/straliens-check,True
 https://github.com/AlsaceDigitale/straliens-landing,True
@@ -372,7 +372,7 @@ https://github.com/IGNF/validator,True
 https://github.com/IGNF/validator-example,True
 https://github.com/IGNF/visio_dpc,True
 https://github.com/IGNF/wxfreechart,True
-https://github.com/INRA/AU_metabo,False
+https://github.com/INRA/AU_metabo,True
 https://github.com/INRA/NMRProcFlow,True
 https://github.com/INRA/ODAM,True
 https://github.com/INRA/Rnmr1D,True
@@ -624,7 +624,7 @@ https://github.com/MTES-MCT/secmar-data,True
 https://github.com/MTES-MCT/secmar-documentation,True
 https://github.com/MTES-MCT/toolbox,True
 https://github.com/MTES-MCT/trackdechets,True
-https://github.com/MTES-MCT/trackdechets-datascience,False
+https://github.com/MTES-MCT/trackdechets-datascience,True
 https://github.com/MTES-MCT/trashadvisor,True
 https://github.com/MTES-MCT/udata-doc,True
 https://github.com/MTES-MCT/udata-gouvfr-ecologie,True
@@ -833,7 +833,7 @@ https://github.com/SocialGouv/tocbot,False
 https://github.com/SocialGouv/tools,True
 https://github.com/SocialGouv/tps,True
 https://github.com/SocialGouv/traefigit,True
-https://github.com/SocialGouv/tremplin,False
+https://github.com/SocialGouv/tremplin,True
 https://github.com/SocialGouv/tutoriel-gitlab,True
 https://github.com/SocialGouv/work-in-france,True
 https://github.com/SocialGouv/work-in-france-backoffice,True
@@ -1123,7 +1123,7 @@ https://github.com/betagouv/pop-api,True
 https://github.com/betagouv/pop-consultation,True
 https://github.com/betagouv/pop-data,True
 https://github.com/betagouv/pop-production,True
-https://github.com/betagouv/pop-shared,False
+https://github.com/betagouv/pop-shared,True
 https://github.com/betagouv/preuve-covoiturage,True
 https://github.com/betagouv/preuve-covoiturage-doc,True
 https://github.com/betagouv/publicodes,True
@@ -1191,7 +1191,7 @@ https://github.com/cea-hpc/robinhood,True
 https://github.com/cea-hpc/selFIe,True
 https://github.com/cea-hpc/shine,True
 https://github.com/cea-hpc/sigmund,True
-https://github.com/cea-hpc/space9,False
+https://github.com/cea-hpc/space9,True
 https://github.com/cea-hpc/sshproxy,True
 https://github.com/cea-hpc/vbridge,True
 https://github.com/cea-hpc/wi4mpi,True
@@ -1219,7 +1219,7 @@ https://github.com/clipos-archive/src_platform_CLIP-Pkg-Install,False
 https://github.com/clipos-archive/src_platform_CLIP-Pkg-QA,False
 https://github.com/clipos-archive/src_platform_ClipQt,False
 https://github.com/clipos-archive/src_platform_anssipki-cli,True
-https://github.com/clipos-archive/src_platform_baselayout-clip,False
+https://github.com/clipos-archive/src_platform_baselayout-clip,True
 https://github.com/clipos-archive/src_platform_baselayout-rm,False
 https://github.com/clipos-archive/src_platform_baselayout-update,True
 https://github.com/clipos-archive/src_platform_bionic-malloc,False
@@ -1228,7 +1228,7 @@ https://github.com/clipos-archive/src_platform_ckiutl,False
 https://github.com/clipos-archive/src_platform_clip-beacon,False
 https://github.com/clipos-archive/src_platform_clip-build,True
 https://github.com/clipos-archive/src_platform_clip-buildbot,True
-https://github.com/clipos-archive/src_platform_clip-config,False
+https://github.com/clipos-archive/src_platform_clip-config,True
 https://github.com/clipos-archive/src_platform_clip-deb,False
 https://github.com/clipos-archive/src_platform_clip-devutils,True
 https://github.com/clipos-archive/src_platform_clip-download,False
@@ -1267,7 +1267,7 @@ https://github.com/clipos-archive/src_platform_clip-viewer,True
 https://github.com/clipos-archive/src_platform_clip-vpn-net,True
 https://github.com/clipos-archive/src_platform_clip-vserver,True
 https://github.com/clipos-archive/src_platform_clip-wallpapers,False
-https://github.com/clipos-archive/src_platform_core-services,False
+https://github.com/clipos-archive/src_platform_core-services,True
 https://github.com/clipos-archive/src_platform_cryptclt,True
 https://github.com/clipos-archive/src_platform_cryptd,True
 https://github.com/clipos-archive/src_platform_debootstrap-clip,False
@@ -1447,7 +1447,7 @@ https://github.com/entrepreneur-interet-general/ox-html-timeline,True
 https://github.com/entrepreneur-interet-general/pointk,False
 https://github.com/entrepreneur-interet-general/predisauvetage,True
 https://github.com/entrepreneur-interet-general/previsecours.github.io,True
-https://github.com/entrepreneur-interet-general/publib,False
+https://github.com/entrepreneur-interet-general/publib,True
 https://github.com/entrepreneur-interet-general/sedatif,False
 https://github.com/entrepreneur-interet-general/sidenotes,True
 https://github.com/entrepreneur-interet-general/sill,True
@@ -1603,7 +1603,7 @@ https://github.com/etalab/csv-gg,False
 https://github.com/etalab/csv2html,True
 https://github.com/etalab/csv_detective,True
 https://github.com/etalab/csvapi,True
-https://github.com/etalab/csvapi-front,False
+https://github.com/etalab/csvapi-front,True
 https://github.com/etalab/dactylo,True
 https://github.com/etalab/dashboard_api_entreprise,True
 https://github.com/etalab/data-codes-sources-fr,False
