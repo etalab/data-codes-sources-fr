@@ -268,7 +268,7 @@ https://github.com/DISIC/Test-Compta-Demat,True
 https://github.com/DISIC/XWiki-cerfa-numerique,False
 https://github.com/DISIC/assistant-rgaa,True
 https://github.com/DISIC/bmc-tools,False
-https://github.com/DISIC/circuits,False
+https://github.com/DISIC/circuits,True
 https://github.com/DISIC/foss-contrib-policy-template,True
 https://github.com/DISIC/gazette-bluehats,True
 https://github.com/DISIC/guide-RGAA_CMS,True
@@ -552,7 +552,7 @@ https://github.com/Irstea/filo-science,False
 https://github.com/Irstea/irrig,True
 https://github.com/Irstea/otolithe,True
 https://github.com/Irstea/usact,True
-https://github.com/Irstea/w3id.org,False
+https://github.com/Irstea/w3id.org,True
 https://github.com/LAB-MI/LAB-MI.github.io,True
 https://github.com/LAB-MI/api.gouv.fr,True
 https://github.com/LAB-MI/candilib,True
@@ -970,7 +970,7 @@ https://github.com/banquedefrance/madre_bat,True
 https://github.com/betagouv/Aidants_Connect,True
 https://github.com/betagouv/ClasseA12,False
 https://github.com/betagouv/Element.details,True
-https://github.com/betagouv/OpenFiscaFrance.jl,False
+https://github.com/betagouv/OpenFiscaFrance.jl,True
 https://github.com/betagouv/OpenLawEditor,True
 https://github.com/betagouv/PeerTube,True
 https://github.com/betagouv/admin-traitdunion,True
@@ -1020,7 +1020,7 @@ https://github.com/betagouv/demarches-simplifiees.fr,True
 https://github.com/betagouv/dialogue-de-gestion,True
 https://github.com/betagouv/discourse-oauth2-basic,True
 https://github.com/betagouv/dns,True
-https://github.com/betagouv/domain-scan,False
+https://github.com/betagouv/domain-scan,True
 https://github.com/betagouv/dossiersco,True
 https://github.com/betagouv/dossiersco-maintenance,True
 https://github.com/betagouv/dossiersco-openlab1,False
@@ -1115,7 +1115,7 @@ https://github.com/betagouv/pia-back,False
 https://github.com/betagouv/pia-docker,True
 https://github.com/betagouv/pia-paas,False
 https://github.com/betagouv/pix,True
-https://github.com/betagouv/place-des-entreprises,False
+https://github.com/betagouv/place-des-entreprises,True
 https://github.com/betagouv/plante-et-moi,True
 https://github.com/betagouv/plante-et-moi-backend,True
 https://github.com/betagouv/pop,False
@@ -1209,7 +1209,7 @@ https://github.com/clipos-archive/clipos4_portage,False
 https://github.com/clipos-archive/clipos4_portage-overlay,True
 https://github.com/clipos-archive/clipos4_portage-overlay-clip,True
 https://github.com/clipos-archive/clipos4_portage-overlay-dev,True
-https://github.com/clipos-archive/clipos4_specs,False
+https://github.com/clipos-archive/clipos4_specs,True
 https://github.com/clipos-archive/src_platform_CLIP-Conf-Base,True
 https://github.com/clipos-archive/src_platform_CLIP-Logger,True
 https://github.com/clipos-archive/src_platform_CLIP-Mount,True
@@ -1223,7 +1223,7 @@ https://github.com/clipos-archive/src_platform_baselayout-clip,True
 https://github.com/clipos-archive/src_platform_baselayout-rm,False
 https://github.com/clipos-archive/src_platform_baselayout-update,True
 https://github.com/clipos-archive/src_platform_bionic-malloc,False
-https://github.com/clipos-archive/src_platform_chroot-launch,False
+https://github.com/clipos-archive/src_platform_chroot-launch,True
 https://github.com/clipos-archive/src_platform_ckiutl,False
 https://github.com/clipos-archive/src_platform_clip-beacon,False
 https://github.com/clipos-archive/src_platform_clip-build,True
@@ -1254,7 +1254,7 @@ https://github.com/clipos-archive/src_platform_clip-menu-xdg,True
 https://github.com/clipos-archive/src_platform_clip-net,True
 https://github.com/clipos-archive/src_platform_clip-netd,True
 https://github.com/clipos-archive/src_platform_clip-patches,True
-https://github.com/clipos-archive/src_platform_clip-pkgdb,False
+https://github.com/clipos-archive/src_platform_clip-pkgdb,True
 https://github.com/clipos-archive/src_platform_clip-sub,False
 https://github.com/clipos-archive/src_platform_clip-test-box,True
 https://github.com/clipos-archive/src_platform_clip-tests,True
@@ -1388,7 +1388,7 @@ https://github.com/diplomatiegouvfr/tomcat8-instance,True
 https://github.com/entrepreneur-interet-general/2017,True
 https://github.com/entrepreneur-interet-general/AFD_projects,True
 https://github.com/entrepreneur-interet-general/CIS-front,True
-https://github.com/entrepreneur-interet-general/CartoBIO,False
+https://github.com/entrepreneur-interet-general/CartoBIO,True
 https://github.com/entrepreneur-interet-general/CartoBio-API,True
 https://github.com/entrepreneur-interet-general/CartoBio-Presentation,False
 https://github.com/entrepreneur-interet-general/ESOTIM,True
@@ -1750,7 +1750,7 @@ https://github.com/fabnumdef/e-chauffeur_lib-vue,True
 https://github.com/fabnumdef/e-chauffeur_user,True
 https://github.com/fabnumdef/fabnumdef.d3,False
 https://github.com/fabnumdef/fabnumdef.github.io,True
-https://github.com/fabnumdef/resources,False
+https://github.com/fabnumdef/resources,True
 https://github.com/geodatagouv/csw-client,True
 https://github.com/geodatagouv/docker,True
 https://github.com/geodatagouv/docker-node-gdal,True
@@ -1870,7 +1870,7 @@ https://github.com/opendatateam/getudata.org,True
 https://github.com/opendatateam/identity,True
 https://github.com/opendatateam/udata,True
 https://github.com/opendatateam/udata-admin,True
-https://github.com/opendatateam/udata-ask,False
+https://github.com/opendatateam/udata-ask,True
 https://github.com/opendatateam/udata-ckan,True
 https://github.com/opendatateam/udata-cli,True
 https://github.com/opendatateam/udata-croquemort,True
@@ -2034,7 +2034,7 @@ https://github.com/sigrennesmetropole/geoserver_sld,True
 https://github.com/sigrennesmetropole/images,True
 https://github.com/sigrennesmetropole/mviewerstudio,True
 https://github.com/sigrennesmetropole/photos_obliques,True
-https://github.com/sigrennesmetropole/qgis-3liz-tools,False
+https://github.com/sigrennesmetropole/qgis-3liz-tools,True
 https://github.com/sigrennesmetropole/rmtr,False
 https://github.com/sigrennesmetropole/sviewer,True
 https://github.com/sigrennesmetropole/sviewer_generator,True
