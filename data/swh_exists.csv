@@ -8,7 +8,7 @@ https://framagit.org/etalab/consultation-gouv-fr-deployment-api,True
 https://framagit.org/etalab/faire-simple,True
 https://framagit.org/etalab/gencodegouv,True
 https://framagit.org/etalab/gitbook-plugin-discourse,True
-https://framagit.org/etalab/json-repo-viewer,False
+https://framagit.org/etalab/json-repo-viewer,True
 https://framagit.org/etalab/ogptoolbox,True
 https://framagit.org/etalab/ogptoolbox-api,True
 https://framagit.org/etalab/ogptoolbox-editor,True
@@ -141,7 +141,7 @@ https://github.com/AlsaceDigitale/straliens-landing,True
 https://github.com/AlsaceDigitale/straliens-server,True
 https://github.com/AlsaceDigitale/strasbourgstartups,True
 https://github.com/AlsaceDigitale/tools,True
-https://github.com/AlsaceDigitale/winter-school-industry,False
+https://github.com/AlsaceDigitale/winter-school-industry,True
 https://github.com/AlsaceDigitale/www.edgefest.fr,True
 https://github.com/AlsaceDigitale/www.edgefest.fr-2019-temporary,True
 https://github.com/AlsaceDigitale/www.hackingindustry.camp,False
@@ -216,7 +216,7 @@ https://github.com/CEREMA/dtermed.sapei,False
 https://github.com/CEREMA/dtermed.sysiphe,False
 https://github.com/CEREMA/dtermed.sysiphe-old,True
 https://github.com/CEREMA/dtermed.ticket,True
-https://github.com/CEREMA/dtermed.ticket2,False
+https://github.com/CEREMA/dtermed.ticket2,True
 https://github.com/CEREMA/dtermed.vibren,True
 https://github.com/CEREMA/dtermed.virtualdesktop,True
 https://github.com/CEREMA/dtermed.webapp.bpclight,True
@@ -862,7 +862,7 @@ https://github.com/StartupsPoleEmploi/geomancie,True
 https://github.com/StartupsPoleEmploi/gerboise,True
 https://github.com/StartupsPoleEmploi/jepostule,True
 https://github.com/StartupsPoleEmploi/labonnealternance,True
-https://github.com/StartupsPoleEmploi/labonnealternance-widget,False
+https://github.com/StartupsPoleEmploi/labonnealternance-widget,True
 https://github.com/StartupsPoleEmploi/labonneboite,True
 https://github.com/StartupsPoleEmploi/memo,True
 https://github.com/StartupsPoleEmploi/mjl-avril,True
@@ -991,7 +991,7 @@ https://github.com/betagouv/api-particulier-demo-traces,True
 https://github.com/betagouv/api-particulier-lib,True
 https://github.com/betagouv/api-particulier-web,True
 https://github.com/betagouv/api-scopes,True
-https://github.com/betagouv/api-stats-elk,False
+https://github.com/betagouv/api-stats-elk,True
 https://github.com/betagouv/api.gouv.fr,True
 https://github.com/betagouv/aplus,True
 https://github.com/betagouv/beta.gouv.fr,True
@@ -1204,7 +1204,7 @@ https://github.com/cea-sec/miasm-extended-tests,True
 https://github.com/clipos-archive/clipos4_artifacts,True
 https://github.com/clipos-archive/clipos4_distfiles,True
 https://github.com/clipos-archive/clipos4_doc,True
-https://github.com/clipos-archive/clipos4_manifest,False
+https://github.com/clipos-archive/clipos4_manifest,True
 https://github.com/clipos-archive/clipos4_portage,False
 https://github.com/clipos-archive/clipos4_portage-overlay,True
 https://github.com/clipos-archive/clipos4_portage-overlay-clip,True
@@ -1217,7 +1217,7 @@ https://github.com/clipos-archive/src_platform_CLIP-Pkg-Base,True
 https://github.com/clipos-archive/src_platform_CLIP-Pkg-Download,True
 https://github.com/clipos-archive/src_platform_CLIP-Pkg-Install,False
 https://github.com/clipos-archive/src_platform_CLIP-Pkg-QA,False
-https://github.com/clipos-archive/src_platform_ClipQt,False
+https://github.com/clipos-archive/src_platform_ClipQt,True
 https://github.com/clipos-archive/src_platform_anssipki-cli,True
 https://github.com/clipos-archive/src_platform_baselayout-clip,True
 https://github.com/clipos-archive/src_platform_baselayout-rm,False
@@ -1277,7 +1277,7 @@ https://github.com/clipos-archive/src_platform_fdp,True
 https://github.com/clipos-archive/src_platform_gen-crypt,True
 https://github.com/clipos-archive/src_platform_hotplug-clip,True
 https://github.com/clipos-archive/src_platform_init-cleaner,True
-https://github.com/clipos-archive/src_platform_jailmaster,False
+https://github.com/clipos-archive/src_platform_jailmaster,True
 https://github.com/clipos-archive/src_platform_jailrequest,True
 https://github.com/clipos-archive/src_platform_libanssipki-client,True
 https://github.com/clipos-archive/src_platform_libanssipki-crypto,False
