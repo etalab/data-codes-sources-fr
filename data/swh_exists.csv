@@ -33,7 +33,7 @@ https://framagit.org/openfisca/calculette-impots-web-api,True
 https://framagit.org/openfisca/calculette-impots-web-explorer,False
 https://framagit.org/openfisca/french-income-taxes-test-cases,True
 https://framagit.org/openfisca/ines-libre,True
-https://git.unistra.fr/2017-T4-6/Project,False
+https://git.unistra.fr/2017-T4-6/Project,True
 https://git.unistra.fr/AOEINT/auth-api,False
 https://git.unistra.fr/AOEINT/client,False
 https://git.unistra.fr/AOEINT/doc,False
@@ -255,6 +255,8 @@ https://github.com/CNRS-DSI-Dev/user_files_restore,True
 https://github.com/CNRS-DSI-Dev/user_servervars2,True
 https://github.com/CNRS-DSI-Dev/user_set_password,True
 https://github.com/CNRS-DSI-Dev/user_share_guest,True
+https://github.com/DGA-MI-SSI/T-Brop,False
+https://github.com/DGA-MI-SSI/YaCo,True
 https://github.com/DGAC/MattermostModule,True
 https://github.com/DGAC/dgac.github.io,True
 https://github.com/DGAC/nmb2b-client-js,True
@@ -594,12 +596,12 @@ https://github.com/MTES-MCT/camino-ui,True
 https://github.com/MTES-MCT/choisir-une-licence,False
 https://github.com/MTES-MCT/cobot-admin,True
 https://github.com/MTES-MCT/cobot-api,False
-https://github.com/MTES-MCT/cobot-bot,False
+https://github.com/MTES-MCT/cobot-bot,True
 https://github.com/MTES-MCT/data-preparation-plugin,True
 https://github.com/MTES-MCT/dataqual,False
 https://github.com/MTES-MCT/dataroom,True
 https://github.com/MTES-MCT/ecophyto,True
-https://github.com/MTES-MCT/enr-and-ground,False
+https://github.com/MTES-MCT/enr-and-ground,True
 https://github.com/MTES-MCT/filharmonic,False
 https://github.com/MTES-MCT/filharmonic-api,True
 https://github.com/MTES-MCT/filharmonic-infrastructure,True
@@ -788,7 +790,7 @@ https://github.com/SocialGouv/code-du-travail-ui,True
 https://github.com/SocialGouv/conventions-collectives,True
 https://github.com/SocialGouv/cors-anywhere,True
 https://github.com/SocialGouv/datafiller,True
-https://github.com/SocialGouv/dila-api-client,False
+https://github.com/SocialGouv/dila-api-client,True
 https://github.com/SocialGouv/dila-tests-api,True
 https://github.com/SocialGouv/dila2sql,True
 https://github.com/SocialGouv/docker,False
@@ -960,7 +962,7 @@ https://github.com/atlanmod/portolan,True
 https://github.com/atlanmod/san-metamodel,True
 https://github.com/atlanmod/scalable-views-heterogeneous-models,True
 https://github.com/atlanmod/sexp2emf,True
-https://github.com/atlanmod/thingml-maven-repo,False
+https://github.com/atlanmod/thingml-maven-repo,True
 https://github.com/atlanmod/ttc-2013-flowgraphs-ATL,True
 https://github.com/atlanmod/ttc2018liveContest,True
 https://github.com/atlanmod/updates,False
@@ -1009,7 +1011,7 @@ https://github.com/betagouv/co-constuisons-api,True
 https://github.com/betagouv/co-constuisons-bot,True
 https://github.com/betagouv/coding-dojos,False
 https://github.com/betagouv/competences-pro,True
-https://github.com/betagouv/competences-pro-orchestrateur,False
+https://github.com/betagouv/competences-pro-orchestrateur,True
 https://github.com/betagouv/competences-pro-serveur,False
 https://github.com/betagouv/competences-pro-www,False
 https://github.com/betagouv/compta,True
@@ -1383,7 +1385,7 @@ https://github.com/diplomatiegouvfr/hornet-js-man,False
 https://github.com/diplomatiegouvfr/hornet-service,True
 https://github.com/diplomatiegouvfr/hornet-showroom,True
 https://github.com/diplomatiegouvfr/hornet-showroom-online,True
-https://github.com/diplomatiegouvfr/hornet-themes-intranet,False
+https://github.com/diplomatiegouvfr/hornet-themes-intranet,True
 https://github.com/diplomatiegouvfr/tomcat8-instance,True
 https://github.com/entrepreneur-interet-general/2017,True
 https://github.com/entrepreneur-interet-general/AFD_projects,True
@@ -1545,7 +1547,7 @@ https://github.com/etalab/adresse.data.gouv.fr-backend,True
 https://github.com/etalab/adresses-cadastre,True
 https://github.com/etalab/adresses-ftth,True
 https://github.com/etalab/adresses-locales,True
-https://github.com/etalab/adresses-util,False
+https://github.com/etalab/adresses-util,True
 https://github.com/etalab/agd.data.gouv.fr,True
 https://github.com/etalab/agefiph_worker_api_entreprise,False
 https://github.com/etalab/agenda-tech-ext,True
@@ -1599,7 +1601,7 @@ https://github.com/etalab/contribution-adresse,True
 https://github.com/etalab/couverture-urbanisme,True
 https://github.com/etalab/cowbots,True
 https://github.com/etalab/croquemort,True
-https://github.com/etalab/csv-gg,False
+https://github.com/etalab/csv-gg,True
 https://github.com/etalab/csv2html,True
 https://github.com/etalab/csv_detective,True
 https://github.com/etalab/csvapi,True
@@ -1612,7 +1614,7 @@ https://github.com/etalab/data.gouv.fr,True
 https://github.com/etalab/datagouv-funfacts,True
 https://github.com/etalab/datagouv-search-indicator,True
 https://github.com/etalab/datasets_reco,True
-https://github.com/etalab/decoupage-administratif,False
+https://github.com/etalab/decoupage-administratif,True
 https://github.com/etalab/decp-rama,True
 https://github.com/etalab/deleted-datasets-schema,True
 https://github.com/etalab/dfi,True
@@ -2124,8 +2126,9 @@ https://gitlab.adullact.net/Libriciel/iparapheur-android,False
 https://gitlab.adullact.net/Libriciel/iparapheur-ios,False
 https://gitlab.adullact.net/Libriciel/lib-otrs-php,False
 https://gitlab.adullact.net/Libriciel/lib-suitecrm-php,False
-https://gitlab.adullact.net/Libriciel/refae,False
+https://gitlab.adullact.net/Libriciel/refae,True
 https://gitlab.adullact.net/Libriciel/s2low,False
+https://gitlab.adullact.net/Libriciel/web-gfc,False
 https://gitlab.adullact.net/Quantifed-OSS/Quantified-OSS,False
 https://gitlab.adullact.net/UPSud/SoCo,False
 https://gitlab.adullact.net/adullact-sites-web/gitlab-aide.adullact.net,False
@@ -2184,10 +2187,10 @@ https://gitlab.inria.fr/AlgebraicGeometricModeling/MomentJuMP.jl,True
 https://gitlab.inria.fr/AlgebraicGeometricModeling/SemiAlgebraicTypes.jl,True
 https://gitlab.inria.fr/AlgebraicGeometricModeling/TensorDec.jl,False
 https://gitlab.inria.fr/AlgebraicGeometricModeling/multivariateseries.jl,True
-https://gitlab.inria.fr/Alpha/alpha-language,False
+https://gitlab.inria.fr/Alpha/alpha-language,True
 https://gitlab.inria.fr/Alpha/alphaz,False
 https://gitlab.inria.fr/CAPES-Math/clef-CAPES,False
-https://gitlab.inria.fr/CAPES-Math/live-build,False
+https://gitlab.inria.fr/CAPES-Math/live-build,True
 https://gitlab.inria.fr/ClassCode/class_code,False
 https://gitlab.inria.fr/ClassCode/class_code_v2,False
 https://gitlab.inria.fr/ClassCode/classcodeadmin,False
