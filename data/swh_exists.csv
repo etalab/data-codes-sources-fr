@@ -535,7 +535,7 @@ https://github.com/InseeFr/Meleze,True
 https://github.com/InseeFr/Mesange,True
 https://github.com/InseeFr/Metadata-API,True
 https://github.com/InseeFr/Omphale,True
-https://github.com/InseeFr/Ontologies,False
+https://github.com/InseeFr/Ontologies,True
 https://github.com/InseeFr/Pogues,True
 https://github.com/InseeFr/Pogues-Back-Office,True
 https://github.com/InseeFr/Pogues-Model,True
@@ -545,7 +545,7 @@ https://github.com/Irstea/ALPFORPLOTS,True
 https://github.com/Irstea/Redmine-mod-perl-auth,True
 https://github.com/Irstea/alisma,True
 https://github.com/Irstea/bd_patrimoine,True
-https://github.com/Irstea/bsc12,False
+https://github.com/Irstea/bsc12,True
 https://github.com/Irstea/caso,True
 https://github.com/Irstea/collec,True
 https://github.com/Irstea/escroc,True
@@ -596,7 +596,7 @@ https://github.com/MTES-MCT/camino-scripting,True
 https://github.com/MTES-MCT/camino-ui,True
 https://github.com/MTES-MCT/choisir-une-licence,False
 https://github.com/MTES-MCT/cobot-admin,True
-https://github.com/MTES-MCT/cobot-api,False
+https://github.com/MTES-MCT/cobot-api,True
 https://github.com/MTES-MCT/cobot-bot,True
 https://github.com/MTES-MCT/data-preparation-plugin,True
 https://github.com/MTES-MCT/dataqual,False
@@ -1041,10 +1041,10 @@ https://github.com/betagouv/heroku-buildpack-ruby,True
 https://github.com/betagouv/i18nliner-js,True
 https://github.com/betagouv/ilos,True
 https://github.com/betagouv/impact-tests,True
-https://github.com/betagouv/itou,False
+https://github.com/betagouv/itou,True
 https://github.com/betagouv/kong-delegateAuth,True
 https://github.com/betagouv/la-sass-vy,True
-https://github.com/betagouv/lapin,False
+https://github.com/betagouv/lapin,True
 https://github.com/betagouv/leximpact-client,False
 https://github.com/betagouv/leximpact-server,True
 https://github.com/betagouv/logstash-boilerplate,True
@@ -1402,7 +1402,7 @@ https://github.com/entrepreneur-interet-general/PST2Win,True
 https://github.com/entrepreneur-interet-general/Shom.H3,False
 https://github.com/entrepreneur-interet-general/Shom.S57,True
 https://github.com/entrepreneur-interet-general/addocker,True
-https://github.com/entrepreneur-interet-general/addok-fr,False
+https://github.com/entrepreneur-interet-general/addok-fr,True
 https://github.com/entrepreneur-interet-general/agenda-eig2018,True
 https://github.com/entrepreneur-interet-general/api-ccomptes,True
 https://github.com/entrepreneur-interet-general/archapp,False
