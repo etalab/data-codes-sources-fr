@@ -34,12 +34,12 @@ https://framagit.org/openfisca/calculette-impots-web-explorer,False
 https://framagit.org/openfisca/french-income-taxes-test-cases,True
 https://framagit.org/openfisca/ines-libre,True
 https://git.unistra.fr/2017-T4-6/Project,True
-https://git.unistra.fr/AOEINT/auth-api,False
+https://git.unistra.fr/AOEINT/auth-api,True
 https://git.unistra.fr/AOEINT/client,False
 https://git.unistra.fr/AOEINT/doc,False
-https://git.unistra.fr/AOEINT/front-page,False
+https://git.unistra.fr/AOEINT/front-page,True
 https://git.unistra.fr/AOEINT/game-metrics,False
-https://git.unistra.fr/AOEINT/main,False
+https://git.unistra.fr/AOEINT/main,True
 https://git.unistra.fr/AOEINT/match-making,False
 https://git.unistra.fr/AOEINT/ranking,False
 https://git.unistra.fr/AOEINT/server,False
@@ -213,7 +213,7 @@ https://github.com/CEREMA/dtermed.preshume,True
 https://github.com/CEREMA/dtermed.rivages,True
 https://github.com/CEREMA/dtermed.rivages-old,True
 https://github.com/CEREMA/dtermed.sapei,False
-https://github.com/CEREMA/dtermed.sysiphe,False
+https://github.com/CEREMA/dtermed.sysiphe,True
 https://github.com/CEREMA/dtermed.sysiphe-old,True
 https://github.com/CEREMA/dtermed.ticket,True
 https://github.com/CEREMA/dtermed.ticket2,True
@@ -395,7 +395,7 @@ https://github.com/INRIA/osc,True
 https://github.com/INRIA/sparklificator,True
 https://github.com/INRIA/spoon,True
 https://github.com/INRIA/tralics,False
-https://github.com/INSIDE-information-systems/CO2emissions_email_plugin,False
+https://github.com/INSIDE-information-systems/CO2emissions_email_plugin,True
 https://github.com/INSIDE-information-systems/EnvironmentalSemanticWeb,True
 https://github.com/INSIDE-information-systems/HydrogeologyWxS,True
 https://github.com/INSIDE-information-systems/RiverNetworkWPS,False
@@ -540,7 +540,7 @@ https://github.com/InseeFr/Pogues,True
 https://github.com/InseeFr/Pogues-Back-Office,True
 https://github.com/InseeFr/Pogues-Model,True
 https://github.com/InseeFr/Quatro,True
-https://github.com/InseeFr/VTL-Tools,False
+https://github.com/InseeFr/VTL-Tools,True
 https://github.com/Irstea/ALPFORPLOTS,True
 https://github.com/Irstea/Redmine-mod-perl-auth,True
 https://github.com/Irstea/alisma,True
@@ -552,6 +552,7 @@ https://github.com/Irstea/escroc,True
 https://github.com/Irstea/esfc,False
 https://github.com/Irstea/filo-science,False
 https://github.com/Irstea/irrig,True
+https://github.com/Irstea/magest,False
 https://github.com/Irstea/otolithe,True
 https://github.com/Irstea/usact,True
 https://github.com/Irstea/w3id.org,True
@@ -1083,7 +1084,7 @@ https://github.com/betagouv/openfisca-france,True
 https://github.com/betagouv/openfisca-france-correpondance-metier,True
 https://github.com/betagouv/openfisca-france-local,True
 https://github.com/betagouv/openfisca-loiret,True
-https://github.com/betagouv/openfisca-mes-aides-reform,False
+https://github.com/betagouv/openfisca-mes-aides-reform,True
 https://github.com/betagouv/openfisca-ops,True
 https://github.com/betagouv/openfisca-paris,True
 https://github.com/betagouv/openfisca-parsers,True
@@ -1115,7 +1116,7 @@ https://github.com/betagouv/peps,False
 https://github.com/betagouv/peps-app,False
 https://github.com/betagouv/pia-back,False
 https://github.com/betagouv/pia-docker,True
-https://github.com/betagouv/pia-paas,False
+https://github.com/betagouv/pia-paas,True
 https://github.com/betagouv/pix,True
 https://github.com/betagouv/place-des-entreprises,True
 https://github.com/betagouv/plante-et-moi,True
@@ -1296,7 +1297,7 @@ https://github.com/clipos-archive/src_platform_smartcard-monitor,True
 https://github.com/clipos-archive/src_platform_smartcard-readers,True
 https://github.com/clipos-archive/src_platform_splash-theme-clip,True
 https://github.com/clipos-archive/src_platform_ssm-display,True
-https://github.com/clipos-archive/src_platform_strongswan-clip-updown,False
+https://github.com/clipos-archive/src_platform_strongswan-clip-updown,True
 https://github.com/clipos-archive/src_platform_strongswan-patches,True
 https://github.com/clipos-archive/src_platform_sub-clip,False
 https://github.com/clipos-archive/src_platform_syslinux-tpm-patches,True
@@ -2084,7 +2085,7 @@ https://github.com/wookey-project/driver-stm32f4xx-spi,True
 https://github.com/wookey-project/driver-stm32f4xx-usart,True
 https://github.com/wookey-project/driver-stm32f4xx-usb,False
 https://github.com/wookey-project/ewok-kernel,False
-https://github.com/wookey-project/ewok-legacy,False
+https://github.com/wookey-project/ewok-legacy,True
 https://github.com/wookey-project/hard-libs,True
 https://github.com/wookey-project/hard-tools,True
 https://github.com/wookey-project/hard-wookey-jtag,True
