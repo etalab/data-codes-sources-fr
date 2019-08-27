@@ -805,7 +805,7 @@ https://github.com/SocialGouv/eMJPM-doc,True
 https://github.com/SocialGouv/eMJPM-homepage,True
 https://github.com/SocialGouv/egapro,True
 https://github.com/SocialGouv/emjpm,True
-https://github.com/SocialGouv/emjpm-design,False
+https://github.com/SocialGouv/emjpm-design,True
 https://github.com/SocialGouv/emjpm-design-system,True
 https://github.com/SocialGouv/emjpm-ui,True
 https://github.com/SocialGouv/faq-code-du-travail,True
@@ -1102,7 +1102,7 @@ https://github.com/betagouv/pass-culture-api,True
 https://github.com/betagouv/pass-culture-app-staging,False
 https://github.com/betagouv/pass-culture-blog,True
 https://github.com/betagouv/pass-culture-browser,True
-https://github.com/betagouv/pass-culture-datascience,False
+https://github.com/betagouv/pass-culture-datascience,True
 https://github.com/betagouv/pass-culture-doc,True
 https://github.com/betagouv/pass-culture-homepage,True
 https://github.com/betagouv/pass-culture-main,True
@@ -1258,7 +1258,7 @@ https://github.com/clipos-archive/src_platform_clip-net,True
 https://github.com/clipos-archive/src_platform_clip-netd,True
 https://github.com/clipos-archive/src_platform_clip-patches,True
 https://github.com/clipos-archive/src_platform_clip-pkgdb,True
-https://github.com/clipos-archive/src_platform_clip-sub,False
+https://github.com/clipos-archive/src_platform_clip-sub,True
 https://github.com/clipos-archive/src_platform_clip-test-box,True
 https://github.com/clipos-archive/src_platform_clip-tests,True
 https://github.com/clipos-archive/src_platform_clip-update-user-data,True
@@ -1269,11 +1269,11 @@ https://github.com/clipos-archive/src_platform_clip-useradmin,True
 https://github.com/clipos-archive/src_platform_clip-viewer,True
 https://github.com/clipos-archive/src_platform_clip-vpn-net,True
 https://github.com/clipos-archive/src_platform_clip-vserver,True
-https://github.com/clipos-archive/src_platform_clip-wallpapers,False
+https://github.com/clipos-archive/src_platform_clip-wallpapers,True
 https://github.com/clipos-archive/src_platform_core-services,True
 https://github.com/clipos-archive/src_platform_cryptclt,True
 https://github.com/clipos-archive/src_platform_cryptd,True
-https://github.com/clipos-archive/src_platform_debootstrap-clip,False
+https://github.com/clipos-archive/src_platform_debootstrap-clip,True
 https://github.com/clipos-archive/src_platform_downloadrequest,True
 https://github.com/clipos-archive/src_platform_fbpanel-clip,True
 https://github.com/clipos-archive/src_platform_fdp,True
@@ -1393,7 +1393,7 @@ https://github.com/entrepreneur-interet-general/AFD_projects,True
 https://github.com/entrepreneur-interet-general/CIS-front,True
 https://github.com/entrepreneur-interet-general/CartoBIO,True
 https://github.com/entrepreneur-interet-general/CartoBio-API,True
-https://github.com/entrepreneur-interet-general/CartoBio-Presentation,False
+https://github.com/entrepreneur-interet-general/CartoBio-Presentation,True
 https://github.com/entrepreneur-interet-general/ESOTIM,True
 https://github.com/entrepreneur-interet-general/H3.Standard,True
 https://github.com/entrepreneur-interet-general/Merge-Machine,True
@@ -1459,9 +1459,10 @@ https://github.com/entrepreneur-interet-general/site-eig,True
 https://github.com/entrepreneur-interet-general/solidata_backend,True
 https://github.com/entrepreneur-interet-general/solidata_frontend,True
 https://github.com/entrepreneur-interet-general/standup,True
+https://github.com/entrepreneur-interet-general/standup-dig,False
 https://github.com/entrepreneur-interet-general/suivi_auto,True
 https://github.com/entrepreneur-interet-general/tf-han,True
-https://github.com/entrepreneur-interet-general/tf-idf_poc,False
+https://github.com/entrepreneur-interet-general/tf-idf_poc,True
 https://github.com/entrepreneur-interet-general/the-magical-csv-merge-machine,True
 https://github.com/entrepreneur-interet-general/tutos-2018,True
 https://github.com/entrepreneur-interet-general/vue-python-starter-kit,True
@@ -2105,7 +2106,7 @@ https://github.com/wookey-project/libiso7816,True
 https://github.com/wookey-project/libmassstorage,True
 https://github.com/wookey-project/libsd,True
 https://github.com/wookey-project/libsmartcard,True
-https://github.com/wookey-project/libstd,False
+https://github.com/wookey-project/libstd,True
 https://github.com/wookey-project/libtoken,True
 https://github.com/wookey-project/libwookey,True
 https://github.com/wookey-project/manifest,True
@@ -2117,7 +2118,7 @@ https://github.com/wookey-project/wookeypedia,False
 https://gitlab.adullact.net/Comptoir/Comptoir-srv,False
 https://gitlab.adullact.net/Comptoir/puppet-comptoir,False
 https://gitlab.adullact.net/E-Collectivite/E-Collectivite-angular-client,False
-https://gitlab.adullact.net/E-Collectivite/E-Collectivite-drupal-client,False
+https://gitlab.adullact.net/E-Collectivite/E-Collectivite-drupal-client,True
 https://gitlab.adullact.net/E-Collectivite/E-Collectivite-server,False
 https://gitlab.adullact.net/GetMySoftware/GetMySoftware,False
 https://gitlab.adullact.net/Libriciel/cakephp,False
@@ -2142,7 +2143,7 @@ https://gitlab.adullact.net/adullact/puppet-gitlabrunner,False
 https://gitlab.adullact.net/adullact/puppet-wordpress,False
 https://gitlab.adullact.net/adullact/theme-wordpress-adullact-org,False
 https://gitlab.adullact.net/aife/orme,False
-https://gitlab.adullact.net/aife/place,False
+https://gitlab.adullact.net/aife/place,True
 https://gitlab.adullact.net/amies/amies-server,False
 https://gitlab.adullact.net/amies/puppet-amies,False
 https://gitlab.adullact.net/capex/capex,False
