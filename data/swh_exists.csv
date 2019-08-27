@@ -769,7 +769,7 @@ https://github.com/SGMAP-AGD/recommandations_emploi,True
 https://github.com/SGMAP-AGD/slides-etalab,True
 https://github.com/SGMAP-AGD/tidydata-defm,True
 https://github.com/SGMAP-AGD/wiki_agd,True
-https://github.com/SocialGouv/UDD,False
+https://github.com/SocialGouv/UDD,True
 https://github.com/SocialGouv/annuaire-mjpm,True
 https://github.com/SocialGouv/ansible-kubeadm-cluster,True
 https://github.com/SocialGouv/app-nextjs-node-ts,True
@@ -811,7 +811,7 @@ https://github.com/SocialGouv/emjpm-ui,True
 https://github.com/SocialGouv/faq-code-du-travail,True
 https://github.com/SocialGouv/fce,True
 https://github.com/SocialGouv/helm-charts,True
-https://github.com/SocialGouv/jest-environment-knex,False
+https://github.com/SocialGouv/jest-environment-knex,True
 https://github.com/SocialGouv/kali-data,True
 https://github.com/SocialGouv/kaligator,True
 https://github.com/SocialGouv/legi-data,True
@@ -1014,7 +1014,7 @@ https://github.com/betagouv/coding-dojos,False
 https://github.com/betagouv/competences-pro,True
 https://github.com/betagouv/competences-pro-orchestrateur,True
 https://github.com/betagouv/competences-pro-serveur,False
-https://github.com/betagouv/competences-pro-www,False
+https://github.com/betagouv/competences-pro-www,True
 https://github.com/betagouv/compta,True
 https://github.com/betagouv/cout-embauche,True
 https://github.com/betagouv/dashboard_apientreprise,True
@@ -1232,7 +1232,7 @@ https://github.com/clipos-archive/src_platform_clip-beacon,False
 https://github.com/clipos-archive/src_platform_clip-build,True
 https://github.com/clipos-archive/src_platform_clip-buildbot,True
 https://github.com/clipos-archive/src_platform_clip-config,True
-https://github.com/clipos-archive/src_platform_clip-deb,False
+https://github.com/clipos-archive/src_platform_clip-deb,True
 https://github.com/clipos-archive/src_platform_clip-devutils,True
 https://github.com/clipos-archive/src_platform_clip-download,False
 https://github.com/clipos-archive/src_platform_clip-emblem,True
@@ -1451,7 +1451,7 @@ https://github.com/entrepreneur-interet-general/pointk,False
 https://github.com/entrepreneur-interet-general/predisauvetage,True
 https://github.com/entrepreneur-interet-general/previsecours.github.io,True
 https://github.com/entrepreneur-interet-general/publib,True
-https://github.com/entrepreneur-interet-general/sedatif,False
+https://github.com/entrepreneur-interet-general/sedatif,True
 https://github.com/entrepreneur-interet-general/sidenotes,True
 https://github.com/entrepreneur-interet-general/sill,True
 https://github.com/entrepreneur-interet-general/site-archifiltre,True
@@ -1865,7 +1865,7 @@ https://github.com/opendatateam/csvapi-parser,False
 https://github.com/opendatateam/dataexplorer,True
 https://github.com/opendatateam/datapackage-pipelines-udata,True
 https://github.com/opendatateam/datopolis,True
-https://github.com/opendatateam/docker-ckan-test,False
+https://github.com/opendatateam/docker-ckan-test,True
 https://github.com/opendatateam/docker-elasticsearch,True
 https://github.com/opendatateam/docker-kerberos-test,False
 https://github.com/opendatateam/docker-mongo-test,True
@@ -2009,7 +2009,7 @@ https://github.com/openfun/poss-2018,True
 https://github.com/openfun/potsie,True
 https://github.com/openfun/proctoru-xblock,True
 https://github.com/openfun/richie,True
-https://github.com/openfun/subsrt,False
+https://github.com/openfun/subsrt,True
 https://github.com/openfun/svg-converter,True
 https://github.com/openfun/videofront,True
 https://github.com/openfun/videofront-client,True
@@ -2039,7 +2039,7 @@ https://github.com/sigrennesmetropole/images,True
 https://github.com/sigrennesmetropole/mviewerstudio,True
 https://github.com/sigrennesmetropole/photos_obliques,True
 https://github.com/sigrennesmetropole/qgis-3liz-tools,True
-https://github.com/sigrennesmetropole/rmtr,False
+https://github.com/sigrennesmetropole/rmtr,True
 https://github.com/sigrennesmetropole/sviewer,True
 https://github.com/sigrennesmetropole/sviewer_generator,True
 https://github.com/sigrennesmetropole/visualiseur,True
@@ -2171,6 +2171,7 @@ https://gitlab.adullact.net/pixelhumain/terla,False
 https://gitlab.adullact.net/pixelhumain/wiki-fr,False
 https://gitlab.com/healthdatahub/dico-snds,True
 https://gitlab.com/healthdatahub/documentation-snds,True
+https://gitlab.com/healthdatahub/indexation-nomenclatures,False
 https://gitlab.com/healthdatahub/programmes-sdns,True
 https://gitlab.com/healthdatahub/schema-snds,True
 https://gitlab.com/healthdatahub/tsfaker,True
