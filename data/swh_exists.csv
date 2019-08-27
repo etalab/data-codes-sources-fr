@@ -30,7 +30,7 @@ https://framagit.org/openfisca/calculette-impots-m-source-code,True
 https://framagit.org/openfisca/calculette-impots-python,True
 https://framagit.org/openfisca/calculette-impots-vector-computing,True
 https://framagit.org/openfisca/calculette-impots-web-api,True
-https://framagit.org/openfisca/calculette-impots-web-explorer,False
+https://framagit.org/openfisca/calculette-impots-web-explorer,True
 https://framagit.org/openfisca/french-income-taxes-test-cases,True
 https://framagit.org/openfisca/ines-libre,True
 https://git.unistra.fr/2017-T4-6/Project,True
@@ -207,7 +207,7 @@ https://github.com/CEREMA/dtermed.faveur,True
 https://github.com/CEREMA/dtermed.formulaires,True
 https://github.com/CEREMA/dtermed.goprro,True
 https://github.com/CEREMA/dtermed.infocentre,False
-https://github.com/CEREMA/dtermed.mobile.ecureuil,False
+https://github.com/CEREMA/dtermed.mobile.ecureuil,True
 https://github.com/CEREMA/dtermed.owncloud,True
 https://github.com/CEREMA/dtermed.preshume,True
 https://github.com/CEREMA/dtermed.rivages,True
@@ -267,7 +267,7 @@ https://github.com/DGFiP/Test-Compta-Demat,True
 https://github.com/DISIC/GMR,True
 https://github.com/DISIC/GMR-sandbox,True
 https://github.com/DISIC/Test-Compta-Demat,True
-https://github.com/DISIC/XWiki-cerfa-numerique,False
+https://github.com/DISIC/XWiki-cerfa-numerique,True
 https://github.com/DISIC/assistant-rgaa,True
 https://github.com/DISIC/bmc-tools,False
 https://github.com/DISIC/circuits,True
@@ -399,7 +399,7 @@ https://github.com/INSIDE-information-systems/CO2emissions_email_plugin,True
 https://github.com/INSIDE-information-systems/EnvironmentalSemanticWeb,True
 https://github.com/INSIDE-information-systems/HydrogeologyWxS,True
 https://github.com/INSIDE-information-systems/RiverNetworkWPS,False
-https://github.com/INSIDE-information-systems/SensorThingsAPI,False
+https://github.com/INSIDE-information-systems/SensorThingsAPI,True
 https://github.com/INSIDE-information-systems/TheHeart,True
 https://github.com/INSIDE-information-systems/WFS3,True
 https://github.com/INSIDE-information-systems/WatershedWPS,True
@@ -829,7 +829,7 @@ https://github.com/SocialGouv/renovate-config,True
 https://github.com/SocialGouv/seminaire,False
 https://github.com/SocialGouv/siret2idcc,True
 https://github.com/SocialGouv/socialgouv.github.io,True
-https://github.com/SocialGouv/standup,False
+https://github.com/SocialGouv/standup,True
 https://github.com/SocialGouv/suggest,False
 https://github.com/SocialGouv/template.data.gouv.fr.react,True
 https://github.com/SocialGouv/tocbot,False
@@ -1208,7 +1208,7 @@ https://github.com/clipos-archive/clipos4_artifacts,True
 https://github.com/clipos-archive/clipos4_distfiles,True
 https://github.com/clipos-archive/clipos4_doc,True
 https://github.com/clipos-archive/clipos4_manifest,True
-https://github.com/clipos-archive/clipos4_portage,False
+https://github.com/clipos-archive/clipos4_portage,True
 https://github.com/clipos-archive/clipos4_portage-overlay,True
 https://github.com/clipos-archive/clipos4_portage-overlay-clip,True
 https://github.com/clipos-archive/clipos4_portage-overlay-dev,True
@@ -1467,7 +1467,7 @@ https://github.com/entrepreneur-interet-general/tutos-2018,True
 https://github.com/entrepreneur-interet-general/vue-python-starter-kit,True
 https://github.com/entrepreneur-interet-general/word_convertor,True
 https://github.com/eole/addon-context-linux,True
-https://github.com/eole/dhcpd-formula,False
+https://github.com/eole/dhcpd-formula,True
 https://github.com/eole/docs,True
 https://github.com/eole/e-auth,True
 https://github.com/eole/e2guardian,True
@@ -1592,7 +1592,7 @@ https://github.com/etalab/ckanext-oauth2,True
 https://github.com/etalab/ckanext-sentry,True
 https://github.com/etalab/ckanext-youckan,True
 https://github.com/etalab/cle-interoperabilite-adresse,True
-https://github.com/etalab/codegouvfr,False
+https://github.com/etalab/codegouvfr,True
 https://github.com/etalab/codes-juridiques-francais,True
 https://github.com/etalab/codes-postaux,True
 https://github.com/etalab/collectivites.data.gouv.fr,True
@@ -1862,7 +1862,7 @@ https://github.com/opendatateam/csvapi,True
 https://github.com/opendatateam/csvapi-front,True
 https://github.com/opendatateam/csvapi-parser,False
 https://github.com/opendatateam/dataexplorer,True
-https://github.com/opendatateam/datapackage-pipelines-udata,False
+https://github.com/opendatateam/datapackage-pipelines-udata,True
 https://github.com/opendatateam/datopolis,True
 https://github.com/opendatateam/docker-ckan-test,False
 https://github.com/opendatateam/docker-elasticsearch,True
@@ -2062,7 +2062,7 @@ https://github.com/wookey-project/app-bench-syscalls,True
 https://github.com/wookey-project/app-dfu-cryp,False
 https://github.com/wookey-project/app-dfu-smart,True
 https://github.com/wookey-project/app-dfu-usb,True
-https://github.com/wookey-project/app-sample-blinky,False
+https://github.com/wookey-project/app-sample-blinky,True
 https://github.com/wookey-project/app-sample-button,True
 https://github.com/wookey-project/app-sample-leds,True
 https://github.com/wookey-project/app-wookey-crypto,True
@@ -2151,7 +2151,7 @@ https://gitlab.adullact.net/e-carre/e-carre-particuliers,False
 https://gitlab.adullact.net/pixelhumain/Rocket-Chat,False
 https://gitlab.adullact.net/pixelhumain/co-meta,False
 https://gitlab.adullact.net/pixelhumain/costum,False
-https://gitlab.adullact.net/pixelhumain/interop,False
+https://gitlab.adullact.net/pixelhumain/interop,True
 https://gitlab.adullact.net/pixelhumain/network,False
 https://gitlab.adullact.net/pixelhumain/networkMapping,False
 https://gitlab.adullact.net/pixelhumain/news,False
@@ -2178,7 +2178,7 @@ https://gitlab.com/pidila/kit-module-scampi,True
 https://gitlab.com/pidila/kit-sprite-svg,True
 https://gitlab.com/pidila/pidila.gitlab.io,True
 https://gitlab.com/pidila/scampi,True
-https://gitlab.com/pidila/scampi-twig,False
+https://gitlab.com/pidila/scampi-twig,True
 https://gitlab.com/pidila/select-a11y,True
 https://gitlab.com/pidila/sp-simulateurs-data,True
 https://gitlab.inria.fr/AlgebraicGeometricModeling/AlgebraicSolvers.jl,False
