@@ -36,12 +36,12 @@ https://framagit.org/openfisca/ines-libre,True
 https://git.unistra.fr/2017-T4-6/Project,True
 https://git.unistra.fr/AOEINT/auth-api,True
 https://git.unistra.fr/AOEINT/client,False
-https://git.unistra.fr/AOEINT/doc,False
+https://git.unistra.fr/AOEINT/doc,True
 https://git.unistra.fr/AOEINT/front-page,True
 https://git.unistra.fr/AOEINT/game-metrics,False
 https://git.unistra.fr/AOEINT/main,True
-https://git.unistra.fr/AOEINT/match-making,False
-https://git.unistra.fr/AOEINT/ranking,False
+https://git.unistra.fr/AOEINT/match-making,True
+https://git.unistra.fr/AOEINT/ranking,True
 https://git.unistra.fr/AOEINT/server,False
 https://git.unistra.fr/AT1A/TrailManager,False
 https://git.unistra.fr/BAS18-T4-B/nom_du_groupe,False
@@ -144,7 +144,7 @@ https://github.com/AlsaceDigitale/tools,True
 https://github.com/AlsaceDigitale/winter-school-industry,True
 https://github.com/AlsaceDigitale/www.edgefest.fr,True
 https://github.com/AlsaceDigitale/www.edgefest.fr-2019-temporary,True
-https://github.com/AlsaceDigitale/www.hackingindustry.camp,False
+https://github.com/AlsaceDigitale/www.hackingindustry.camp,True
 https://github.com/AlsaceDigitale/www.hacksxb.com,True
 https://github.com/AlsaceDigitale/www.swstrasbourg.eu,False
 https://github.com/ApieFrance/ApieFrance.github.io,True
@@ -228,7 +228,7 @@ https://github.com/CEREMA/rivages-android,False
 https://github.com/CEREMA/territoires-ville.DiagFeux,True
 https://github.com/CEREMA/territoires-ville.Giration,False
 https://github.com/CEREMA/territoires-ville.MiTemps,True
-https://github.com/CEREMA/territoires-ville.OndeV,False
+https://github.com/CEREMA/territoires-ville.OndeV,True
 https://github.com/CEREMA/territoires-ville.TempusAccess,True
 https://github.com/CNRS-DSI-Dev/core,True
 https://github.com/CNRS-DSI-Dev/dashboard,True
@@ -336,7 +336,7 @@ https://github.com/IGNF/evolution-apigeoportail,True
 https://github.com/IGNF/geoportail-urbanisme-dev,True
 https://github.com/IGNF/geoportal-access-lib,True
 https://github.com/IGNF/geoportal-extensions,True
-https://github.com/IGNF/geoportal-extensions-itowns,False
+https://github.com/IGNF/geoportal-extensions-itowns,True
 https://github.com/IGNF/geoportal-extensions-leaflet,True
 https://github.com/IGNF/geoportal-extensions-openlayers,True
 https://github.com/IGNF/geoportal-sdk,True
@@ -394,7 +394,7 @@ https://github.com/INRIA/libpointing-homebrew,True
 https://github.com/INRIA/osc,True
 https://github.com/INRIA/sparklificator,True
 https://github.com/INRIA/spoon,True
-https://github.com/INRIA/tralics,False
+https://github.com/INRIA/tralics,True
 https://github.com/INSIDE-information-systems/CO2emissions_email_plugin,True
 https://github.com/INSIDE-information-systems/EnvironmentalSemanticWeb,True
 https://github.com/INSIDE-information-systems/HydrogeologyWxS,True
@@ -434,7 +434,7 @@ https://github.com/Inist-CNRS/lodex,True
 https://github.com/Inist-CNRS/lodex-doc,True
 https://github.com/Inist-CNRS/lodex-doc-gitbook-config,True
 https://github.com/Inist-CNRS/lodex-dumps,True
-https://github.com/Inist-CNRS/lodex-extended,False
+https://github.com/Inist-CNRS/lodex-extended,True
 https://github.com/Inist-CNRS/lodex-styleguide,True
 https://github.com/Inist-CNRS/lodex-themes,True
 https://github.com/Inist-CNRS/lodex-use-cases,True
@@ -736,6 +736,7 @@ https://github.com/PrefectureDePolice/openlogo,True
 https://github.com/PrefectureDePolice/scan_backoffice,True
 https://github.com/PrefectureDePolice/scan_frontapk,True
 https://github.com/ProgrammeVitam/ProgrammeVitam.github.io,True
+https://github.com/ProgrammeVitam/droid-origin,False
 https://github.com/ProgrammeVitam/elasticsearch-metrics-reporter-java,True
 https://github.com/ProgrammeVitam/generateur-seda,True
 https://github.com/ProgrammeVitam/java-libpst,False
@@ -1475,7 +1476,7 @@ https://github.com/eole/e2guardian,True
 https://github.com/eole/faketools,True
 https://github.com/eole/libvirt-formula,True
 https://github.com/eole/mastodon,True
-https://github.com/eole/one,False
+https://github.com/eole/one,True
 https://github.com/eole/redmine_backlogs,True
 https://github.com/eole/redmine_git_hosting,True
 https://github.com/eole/redmine_track_control,True
@@ -1827,7 +1828,7 @@ https://github.com/micmacIGN/Papers,True
 https://github.com/micmacIGN/interface,True
 https://github.com/micmacIGN/micmac,True
 https://github.com/minagri-initial/angular-components,True
-https://github.com/minagri-initial/api.gouv.fr,False
+https://github.com/minagri-initial/api.gouv.fr,True
 https://github.com/minagri-initial/arpent-api,False
 https://github.com/minagri-initial/arpent-examen,True
 https://github.com/minagri-initial/ift,True
@@ -1847,10 +1848,11 @@ https://github.com/nantesmetropole/docker-paas,True
 https://github.com/numerique-gouv/numerique.gouv.fr,True
 https://github.com/numerique-gouv/numerique.gouv.fr-infra,True
 https://github.com/observatoire-territoires/KitsCarto-GdDebat,True
-https://github.com/observatoire-territoires/SOFIE,False
+https://github.com/observatoire-territoires/SOFIE,True
 https://github.com/observatoire-territoires/couvnum,True
 https://github.com/observatoire-territoires/migR,True
 https://github.com/observatoire-territoires/rapport-OT-mobilites,True
+https://github.com/observatoire-territoires/sgf,False
 https://github.com/observatoire-territoires/shinyapp_mob_resid,False
 https://github.com/observatoire-territoires/specificite,True
 https://github.com/observatoire-territoires/synthese_mob_resid,True
@@ -1948,7 +1950,7 @@ https://github.com/openfisca/openfisca-tunisia-pension,True
 https://github.com/openfisca/openfisca-visualizations,True
 https://github.com/openfisca/openfisca-web-api,True
 https://github.com/openfisca/openfisca-web-site,True
-https://github.com/openfisca/openfisca-web-ui-legacy,False
+https://github.com/openfisca/openfisca-web-ui-legacy,True
 https://github.com/openfisca/openfisca.org,True
 https://github.com/openfisca/openfisca.tn,True
 https://github.com/openfisca/openfisca_data,True
@@ -2097,7 +2099,7 @@ https://github.com/wookey-project/layout-stm32f407,True
 https://github.com/wookey-project/layout-stm32f439,False
 https://github.com/wookey-project/libaes,True
 https://github.com/wookey-project/libconsole,True
-https://github.com/wookey-project/libdes,False
+https://github.com/wookey-project/libdes,True
 https://github.com/wookey-project/libdfu,True
 https://github.com/wookey-project/libfw,True
 https://github.com/wookey-project/libgui,True
