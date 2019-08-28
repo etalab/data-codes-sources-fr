@@ -554,6 +554,7 @@ https://github.com/Irstea/filo-science,False
 https://github.com/Irstea/irrig,True
 https://github.com/Irstea/magest,False
 https://github.com/Irstea/otolithe,True
+https://github.com/Irstea/shomimport,False
 https://github.com/Irstea/usact,True
 https://github.com/Irstea/w3id.org,True
 https://github.com/LAB-MI/LAB-MI.github.io,True
@@ -795,7 +796,7 @@ https://github.com/SocialGouv/datafiller,True
 https://github.com/SocialGouv/dila-api-client,True
 https://github.com/SocialGouv/dila-tests-api,True
 https://github.com/SocialGouv/dila2sql,True
-https://github.com/SocialGouv/docker,False
+https://github.com/SocialGouv/docker,True
 https://github.com/SocialGouv/domifa,True
 https://github.com/SocialGouv/ds-aggregator,True
 https://github.com/SocialGouv/ds-collector,True
@@ -833,7 +834,7 @@ https://github.com/SocialGouv/socialgouv.github.io,True
 https://github.com/SocialGouv/standup,True
 https://github.com/SocialGouv/suggest,False
 https://github.com/SocialGouv/template.data.gouv.fr.react,True
-https://github.com/SocialGouv/tocbot,False
+https://github.com/SocialGouv/tocbot,True
 https://github.com/SocialGouv/tools,True
 https://github.com/SocialGouv/tps,True
 https://github.com/SocialGouv/traefigit,True
@@ -884,7 +885,7 @@ https://github.com/addok/addok-idcc,True
 https://github.com/addok/addok-openaddresses,True
 https://github.com/addok/addok-psql,True
 https://github.com/addok/addok-psql-store,True
-https://github.com/addok/addok-sqlite-store,False
+https://github.com/addok/addok-sqlite-store,True
 https://github.com/addok/addok-trigrams,True
 https://github.com/addok/addok-usine,True
 https://github.com/afimb/chouette,True
@@ -1242,7 +1243,7 @@ https://github.com/clipos-archive/src_platform_clip-generic-net,True
 https://github.com/clipos-archive/src_platform_clip-gtw-net,False
 https://github.com/clipos-archive/src_platform_clip-hardware,True
 https://github.com/clipos-archive/src_platform_clip-icons,True
-https://github.com/clipos-archive/src_platform_clip-install-clip,False
+https://github.com/clipos-archive/src_platform_clip-install-clip,True
 https://github.com/clipos-archive/src_platform_clip-install-common,False
 https://github.com/clipos-archive/src_platform_clip-install-config,True
 https://github.com/clipos-archive/src_platform_clip-install-gui,True
@@ -1448,7 +1449,7 @@ https://github.com/entrepreneur-interet-general/open-moulinette,True
 https://github.com/entrepreneur-interet-general/open_api_schemas_to_markdown,True
 https://github.com/entrepreneur-interet-general/opensignauxfaibles,True
 https://github.com/entrepreneur-interet-general/ox-html-timeline,True
-https://github.com/entrepreneur-interet-general/pointk,False
+https://github.com/entrepreneur-interet-general/pointk,True
 https://github.com/entrepreneur-interet-general/predisauvetage,True
 https://github.com/entrepreneur-interet-general/previsecours.github.io,True
 https://github.com/entrepreneur-interet-general/publib,True
@@ -1869,7 +1870,7 @@ https://github.com/opendatateam/datapackage-pipelines-udata,True
 https://github.com/opendatateam/datopolis,True
 https://github.com/opendatateam/docker-ckan-test,True
 https://github.com/opendatateam/docker-elasticsearch,True
-https://github.com/opendatateam/docker-kerberos-test,False
+https://github.com/opendatateam/docker-kerberos-test,True
 https://github.com/opendatateam/docker-mongo-test,True
 https://github.com/opendatateam/docker-udata,True
 https://github.com/opendatateam/getudata.org,True
@@ -2138,7 +2139,7 @@ https://gitlab.adullact.net/UPSud/SoCo,False
 https://gitlab.adullact.net/adullact-sites-web/gitlab-aide.adullact.net,False
 https://gitlab.adullact.net/adullact/Accompagnement-git-gitlab,False
 https://gitlab.adullact.net/adullact/Charte-Gitlat-Adullact,True
-https://gitlab.adullact.net/adullact/Repository_API,False
+https://gitlab.adullact.net/adullact/Repository_API,True
 https://gitlab.adullact.net/adullact/puppet-etherpad,False
 https://gitlab.adullact.net/adullact/puppet-freeipa,False
 https://gitlab.adullact.net/adullact/puppet-gitlabrunner,False
@@ -2161,7 +2162,7 @@ https://gitlab.adullact.net/pixelhumain/news,False
 https://gitlab.adullact.net/pixelhumain/notragora,False
 https://gitlab.adullact.net/pixelhumain/onepage,False
 https://gitlab.adullact.net/pixelhumain/opendata,False
-https://gitlab.adullact.net/pixelhumain/organization,False
+https://gitlab.adullact.net/pixelhumain/organization,True
 https://gitlab.adullact.net/pixelhumain/pixelhumain,False
 https://gitlab.adullact.net/pixelhumain/places,True
 https://gitlab.adullact.net/pixelhumain/pppm,False
@@ -2173,7 +2174,7 @@ https://gitlab.adullact.net/pixelhumain/terla,False
 https://gitlab.adullact.net/pixelhumain/wiki-fr,False
 https://gitlab.com/healthdatahub/dico-snds,True
 https://gitlab.com/healthdatahub/documentation-snds,True
-https://gitlab.com/healthdatahub/indexation-nomenclatures,False
+https://gitlab.com/healthdatahub/indexation-nomenclatures,True
 https://gitlab.com/healthdatahub/programmes-sdns,True
 https://gitlab.com/healthdatahub/schema-snds,True
 https://gitlab.com/healthdatahub/tsfaker,True
@@ -2196,7 +2197,7 @@ https://gitlab.inria.fr/Alpha/alpha-language,True
 https://gitlab.inria.fr/Alpha/alphaz,False
 https://gitlab.inria.fr/CAPES-Math/clef-CAPES,False
 https://gitlab.inria.fr/CAPES-Math/live-build,True
-https://gitlab.inria.fr/ClassCode/class_code,False
+https://gitlab.inria.fr/ClassCode/class_code,True
 https://gitlab.inria.fr/ClassCode/class_code_v2,False
 https://gitlab.inria.fr/ClassCode/classcodeadmin,False
 https://gitlab.inria.fr/ClassCode/pixees-theme,False
