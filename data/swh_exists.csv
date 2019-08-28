@@ -2,7 +2,7 @@ origin_url,is_available
 https://framagit.org/datatourisme/api,True
 https://framagit.org/datatourisme/docker-stack,True
 https://framagit.org/datatourisme/ontology,True
-https://framagit.org/dgfip/ir-calcul,False
+https://framagit.org/dgfip/ir-calcul,True
 https://framagit.org/etalab/code.gouv.fr,False
 https://framagit.org/etalab/consultation-gouv-fr-deployment-api,True
 https://framagit.org/etalab/faire-simple,True
@@ -35,7 +35,7 @@ https://framagit.org/openfisca/french-income-taxes-test-cases,True
 https://framagit.org/openfisca/ines-libre,True
 https://git.unistra.fr/2017-T4-6/Project,True
 https://git.unistra.fr/AOEINT/auth-api,True
-https://git.unistra.fr/AOEINT/client,False
+https://git.unistra.fr/AOEINT/client,True
 https://git.unistra.fr/AOEINT/doc,True
 https://git.unistra.fr/AOEINT/front-page,True
 https://git.unistra.fr/AOEINT/game-metrics,False
@@ -48,13 +48,13 @@ https://git.unistra.fr/BAS18-T4-B/nom_du_groupe,False
 https://git.unistra.fr/BAS18-T4-D/StrasBuilder,True
 https://git.unistra.fr/BLL17_T3_D/SedationMaPassion,False
 https://git.unistra.fr/CAMMA-public/mvor,False
-https://git.unistra.fr/T4desMeilleurs/T4Botanique,False
+https://git.unistra.fr/T4desMeilleurs/T4Botanique,True
 https://git.unistra.fr/algdis/algdis_public,False
 https://github.com/ANSSI-FR/AD-control-paths,True
 https://github.com/ANSSI-FR/AD-permissions,True
 https://github.com/ANSSI-FR/ADCP-DirectoryCrawler,True
 https://github.com/ANSSI-FR/ADCP-libdev,True
-https://github.com/ANSSI-FR/ADTimeline,False
+https://github.com/ANSSI-FR/ADTimeline,True
 https://github.com/ANSSI-FR/ASCAD,True
 https://github.com/ANSSI-FR/Binacle,True
 https://github.com/ANSSI-FR/FreeSpec,True
@@ -212,7 +212,7 @@ https://github.com/CEREMA/dtermed.owncloud,True
 https://github.com/CEREMA/dtermed.preshume,True
 https://github.com/CEREMA/dtermed.rivages,True
 https://github.com/CEREMA/dtermed.rivages-old,True
-https://github.com/CEREMA/dtermed.sapei,False
+https://github.com/CEREMA/dtermed.sapei,True
 https://github.com/CEREMA/dtermed.sysiphe,True
 https://github.com/CEREMA/dtermed.sysiphe-old,True
 https://github.com/CEREMA/dtermed.ticket,True
@@ -269,7 +269,7 @@ https://github.com/DISIC/GMR-sandbox,True
 https://github.com/DISIC/Test-Compta-Demat,True
 https://github.com/DISIC/XWiki-cerfa-numerique,True
 https://github.com/DISIC/assistant-rgaa,True
-https://github.com/DISIC/bmc-tools,False
+https://github.com/DISIC/bmc-tools,True
 https://github.com/DISIC/circuits,True
 https://github.com/DISIC/foss-contrib-policy-template,True
 https://github.com/DISIC/gazette-bluehats,True
@@ -421,7 +421,7 @@ https://github.com/Inist-CNRS/ezmaster-hexo,True
 https://github.com/Inist-CNRS/ezmaster-jekyll,True
 https://github.com/Inist-CNRS/ezmaster-mongo,True
 https://github.com/Inist-CNRS/ezmaster-mysql,True
-https://github.com/Inist-CNRS/ezmaster-phpserver,False
+https://github.com/Inist-CNRS/ezmaster-phpserver,True
 https://github.com/Inist-CNRS/ezmaster-virtuoso,True
 https://github.com/Inist-CNRS/ezmaster-web-term,True
 https://github.com/Inist-CNRS/ezmaster-webserver,True
@@ -721,7 +721,7 @@ https://github.com/PnX-SI/gn_module_suivi_habitat_territoire,True
 https://github.com/PnX-SI/gn_module_template,True
 https://github.com/PnX-SI/gn_module_validation,True
 https://github.com/PnX-SI/obs_occ,True
-https://github.com/PnX-SI/test_client_usershub_api,False
+https://github.com/PnX-SI/test_client_usershub_api,True
 https://github.com/PrefectureDePolice/Hydre,True
 https://github.com/PrefectureDePolice/NEOfil,True
 https://github.com/PrefectureDePolice/Pref.Police,True
@@ -820,7 +820,7 @@ https://github.com/SocialGouv/legi-data,True
 https://github.com/SocialGouv/legi-detect,False
 https://github.com/SocialGouv/legi-postgres,True
 https://github.com/SocialGouv/legixplore,True
-https://github.com/SocialGouv/letor-scores,False
+https://github.com/SocialGouv/letor-scores,True
 https://github.com/SocialGouv/linters,True
 https://github.com/SocialGouv/mattermost-plugin-google-calendar,True
 https://github.com/SocialGouv/meditor,True
@@ -828,7 +828,7 @@ https://github.com/SocialGouv/next-routes,True
 https://github.com/SocialGouv/polyfill-service,True
 https://github.com/SocialGouv/react-departements,True
 https://github.com/SocialGouv/renovate-config,True
-https://github.com/SocialGouv/seminaire,False
+https://github.com/SocialGouv/seminaire,True
 https://github.com/SocialGouv/siret2idcc,True
 https://github.com/SocialGouv/socialgouv.github.io,True
 https://github.com/SocialGouv/standup,True
@@ -1407,7 +1407,7 @@ https://github.com/entrepreneur-interet-general/addocker,True
 https://github.com/entrepreneur-interet-general/addok-fr,True
 https://github.com/entrepreneur-interet-general/agenda-eig2018,True
 https://github.com/entrepreneur-interet-general/api-ccomptes,True
-https://github.com/entrepreneur-interet-general/archapp,False
+https://github.com/entrepreneur-interet-general/archapp,True
 https://github.com/entrepreneur-interet-general/archypoint,True
 https://github.com/entrepreneur-interet-general/brigade-numerique,False
 https://github.com/entrepreneur-interet-general/bulletins,True
@@ -1461,7 +1461,7 @@ https://github.com/entrepreneur-interet-general/site-eig,True
 https://github.com/entrepreneur-interet-general/solidata_backend,True
 https://github.com/entrepreneur-interet-general/solidata_frontend,True
 https://github.com/entrepreneur-interet-general/standup,True
-https://github.com/entrepreneur-interet-general/standup-dig,False
+https://github.com/entrepreneur-interet-general/standup-dig,True
 https://github.com/entrepreneur-interet-general/suivi_auto,True
 https://github.com/entrepreneur-interet-general/tf-han,True
 https://github.com/entrepreneur-interet-general/tf-idf_poc,True
@@ -2095,7 +2095,7 @@ https://github.com/wookey-project/hard-libs,True
 https://github.com/wookey-project/hard-tools,True
 https://github.com/wookey-project/hard-wookey-jtag,True
 https://github.com/wookey-project/hard-wookey-motherboard,False
-https://github.com/wookey-project/hard-wookey-screen,False
+https://github.com/wookey-project/hard-wookey-screen,True
 https://github.com/wookey-project/javacard-applet,True
 https://github.com/wookey-project/layout-stm32f407,True
 https://github.com/wookey-project/layout-stm32f439,False
@@ -2127,7 +2127,7 @@ https://gitlab.adullact.net/E-Collectivite/E-Collectivite-server,False
 https://gitlab.adullact.net/GetMySoftware/GetMySoftware,False
 https://gitlab.adullact.net/Libriciel/cakephp,True
 https://gitlab.adullact.net/Libriciel/cakephp-beanstalk,False
-https://gitlab.adullact.net/Libriciel/generation-enveloppe-actes-test,False
+https://gitlab.adullact.net/Libriciel/generation-enveloppe-actes-test,True
 https://gitlab.adullact.net/Libriciel/iparapheur-android,False
 https://gitlab.adullact.net/Libriciel/iparapheur-ios,False
 https://gitlab.adullact.net/Libriciel/lib-otrs-php,False
@@ -2142,13 +2142,13 @@ https://gitlab.adullact.net/adullact/Accompagnement-git-gitlab,False
 https://gitlab.adullact.net/adullact/Charte-Gitlat-Adullact,True
 https://gitlab.adullact.net/adullact/Repository_API,True
 https://gitlab.adullact.net/adullact/puppet-etherpad,False
-https://gitlab.adullact.net/adullact/puppet-freeipa,False
+https://gitlab.adullact.net/adullact/puppet-freeipa,True
 https://gitlab.adullact.net/adullact/puppet-gitlabrunner,False
 https://gitlab.adullact.net/adullact/puppet-wordpress,False
 https://gitlab.adullact.net/adullact/theme-wordpress-adullact-org,False
 https://gitlab.adullact.net/aife/orme,False
 https://gitlab.adullact.net/aife/place,True
-https://gitlab.adullact.net/amies/amies-server,False
+https://gitlab.adullact.net/amies/amies-server,True
 https://gitlab.adullact.net/amies/puppet-amies,False
 https://gitlab.adullact.net/capex/capex,False
 https://gitlab.adullact.net/departements-notaires/departements-notaires,True
@@ -2166,7 +2166,7 @@ https://gitlab.adullact.net/pixelhumain/opendata,False
 https://gitlab.adullact.net/pixelhumain/organization,True
 https://gitlab.adullact.net/pixelhumain/pixelhumain,False
 https://gitlab.adullact.net/pixelhumain/places,True
-https://gitlab.adullact.net/pixelhumain/pppm,False
+https://gitlab.adullact.net/pixelhumain/pppm,True
 https://gitlab.adullact.net/pixelhumain/ressources,False
 https://gitlab.adullact.net/pixelhumain/reveal.js,False
 https://gitlab.adullact.net/pixelhumain/sig,False
@@ -2195,7 +2195,7 @@ https://gitlab.inria.fr/AlgebraicGeometricModeling/SemiAlgebraicTypes.jl,True
 https://gitlab.inria.fr/AlgebraicGeometricModeling/TensorDec.jl,False
 https://gitlab.inria.fr/AlgebraicGeometricModeling/multivariateseries.jl,True
 https://gitlab.inria.fr/Alpha/alpha-language,True
-https://gitlab.inria.fr/Alpha/alphaz,False
+https://gitlab.inria.fr/Alpha/alphaz,True
 https://gitlab.inria.fr/CAPES-Math/clef-CAPES,False
 https://gitlab.inria.fr/CAPES-Math/live-build,True
 https://gitlab.inria.fr/ClassCode/class_code,True
