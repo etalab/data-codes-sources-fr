@@ -45,7 +45,7 @@ https://git.unistra.fr/AOEINT/ranking,True
 https://git.unistra.fr/AOEINT/server,False
 https://git.unistra.fr/AT1A/TrailManager,False
 https://git.unistra.fr/BAS18-T4-B/nom_du_groupe,False
-https://git.unistra.fr/BAS18-T4-D/StrasBuilder,False
+https://git.unistra.fr/BAS18-T4-D/StrasBuilder,True
 https://git.unistra.fr/BLL17_T3_D/SedationMaPassion,False
 https://git.unistra.fr/CAMMA-public/mvor,False
 https://git.unistra.fr/T4desMeilleurs/T4Botanique,False
@@ -365,7 +365,7 @@ https://github.com/IGNF/libxmls,True
 https://github.com/IGNF/lidarformat,True
 https://github.com/IGNF/look4,True
 https://github.com/IGNF/mapmatcher,True
-https://github.com/IGNF/ogam,False
+https://github.com/IGNF/ogam,True
 https://github.com/IGNF/roc4j,True
 https://github.com/IGNF/saisie_carhab,True
 https://github.com/IGNF/spark-iqmulus,True
@@ -530,7 +530,7 @@ https://github.com/InseeFr/Eno-CLI,True
 https://github.com/InseeFr/Eno-WS,True
 https://github.com/InseeFr/Keycloak-FranceConnect,True
 https://github.com/InseeFr/Lunatic,True
-https://github.com/InseeFr/Lunatic-Model,False
+https://github.com/InseeFr/Lunatic-Model,True
 https://github.com/InseeFr/Meleze,True
 https://github.com/InseeFr/Mesange,True
 https://github.com/InseeFr/Metadata-API,True
@@ -972,7 +972,7 @@ https://github.com/atlanmod/zoo,True
 https://github.com/banquedefrance/go-ethereum,True
 https://github.com/banquedefrance/madre_bat,True
 https://github.com/betagouv/Aidants_Connect,True
-https://github.com/betagouv/ClasseA12,False
+https://github.com/betagouv/ClasseA12,True
 https://github.com/betagouv/Element.details,True
 https://github.com/betagouv/OpenFiscaFrance.jl,True
 https://github.com/betagouv/OpenLawEditor,True
@@ -1037,7 +1037,7 @@ https://github.com/betagouv/etudiant-entrepreneur,True
 https://github.com/betagouv/fetch-normalize-data,False
 https://github.com/betagouv/fiches-de-banc,True
 https://github.com/betagouv/gps-usagers,True
-https://github.com/betagouv/grafana-scalingo,False
+https://github.com/betagouv/grafana-scalingo,True
 https://github.com/betagouv/heroku-buildpack-ruby,True
 https://github.com/betagouv/i18nliner-js,True
 https://github.com/betagouv/ilos,True
@@ -1046,7 +1046,7 @@ https://github.com/betagouv/itou,True
 https://github.com/betagouv/kong-delegateAuth,True
 https://github.com/betagouv/la-sass-vy,True
 https://github.com/betagouv/lapin,True
-https://github.com/betagouv/leximpact-client,False
+https://github.com/betagouv/leximpact-client,True
 https://github.com/betagouv/leximpact-server,True
 https://github.com/betagouv/logstash-boilerplate,True
 https://github.com/betagouv/ludwig,True
@@ -1136,13 +1136,13 @@ https://github.com/betagouv/react-elasticsearch,True
 https://github.com/betagouv/react-final-form-utils,True
 https://github.com/betagouv/react-hook-data,True
 https://github.com/betagouv/react-i18nliner,True
-https://github.com/betagouv/react-loading-infinite-scroller,False
+https://github.com/betagouv/react-loading-infinite-scroller,True
 https://github.com/betagouv/react-reducer-effect-context-data,False
 https://github.com/betagouv/redux-react-modals,True
 https://github.com/betagouv/redux-saga-data,True
 https://github.com/betagouv/redux-thunk-data,True
 https://github.com/betagouv/retraite,True
-https://github.com/betagouv/role-ansible,False
+https://github.com/betagouv/role-ansible,True
 https://github.com/betagouv/secretariat,True
 https://github.com/betagouv/securite-numerique-agile,True
 https://github.com/betagouv/sejour,True
@@ -1248,7 +1248,7 @@ https://github.com/clipos-archive/src_platform_clip-install-config,True
 https://github.com/clipos-archive/src_platform_clip-install-gui,True
 https://github.com/clipos-archive/src_platform_clip-install-rm,False
 https://github.com/clipos-archive/src_platform_clip-installer,True
-https://github.com/clipos-archive/src_platform_clip-lib,False
+https://github.com/clipos-archive/src_platform_clip-lib,True
 https://github.com/clipos-archive/src_platform_clip-libvserver,False
 https://github.com/clipos-archive/src_platform_clip-livecd,True
 https://github.com/clipos-archive/src_platform_clip-lsm,True
@@ -1288,7 +1288,7 @@ https://github.com/clipos-archive/src_platform_libanssipki-crypto,False
 https://github.com/clipos-archive/src_platform_openbsd-malloc,False
 https://github.com/clipos-archive/src_platform_pam_exec_pwd,True
 https://github.com/clipos-archive/src_platform_pam_jail,True
-https://github.com/clipos-archive/src_platform_pfring-kernel-patches,False
+https://github.com/clipos-archive/src_platform_pfring-kernel-patches,True
 https://github.com/clipos-archive/src_platform_portage-derive,True
 https://github.com/clipos-archive/src_platform_pwcheckd,True
 https://github.com/clipos-archive/src_platform_rm-sessions,True
@@ -1573,7 +1573,7 @@ https://github.com/etalab/blog_apientreprise,True
 https://github.com/etalab/bulma-theme-gouv-fr,True
 https://github.com/etalab/cada.data.gouv.fr,False
 https://github.com/etalab/cada_explore,True
-https://github.com/etalab/cadastre,False
+https://github.com/etalab/cadastre,True
 https://github.com/etalab/cadastre-bundler-api,True
 https://github.com/etalab/cadastre.data.gouv.fr,True
 https://github.com/etalab/calculette-impots-exemples,True
@@ -1939,7 +1939,7 @@ https://github.com/openfisca/openfisca-parsers,True
 https://github.com/openfisca/openfisca-plugin-aggregates,True
 https://github.com/openfisca/openfisca-plugin-inequality,True
 https://github.com/openfisca/openfisca-qt,True
-https://github.com/openfisca/openfisca-senegal,False
+https://github.com/openfisca/openfisca-senegal,True
 https://github.com/openfisca/openfisca-senegal-ui,True
 https://github.com/openfisca/openfisca-spreadsheet,True
 https://github.com/openfisca/openfisca-survey-manager,True
@@ -2123,7 +2123,7 @@ https://gitlab.adullact.net/E-Collectivite/E-Collectivite-angular-client,False
 https://gitlab.adullact.net/E-Collectivite/E-Collectivite-drupal-client,True
 https://gitlab.adullact.net/E-Collectivite/E-Collectivite-server,False
 https://gitlab.adullact.net/GetMySoftware/GetMySoftware,False
-https://gitlab.adullact.net/Libriciel/cakephp,False
+https://gitlab.adullact.net/Libriciel/cakephp,True
 https://gitlab.adullact.net/Libriciel/cakephp-beanstalk,False
 https://gitlab.adullact.net/Libriciel/generation-enveloppe-actes-test,False
 https://gitlab.adullact.net/Libriciel/iparapheur-android,False
@@ -2137,7 +2137,7 @@ https://gitlab.adullact.net/Quantifed-OSS/Quantified-OSS,False
 https://gitlab.adullact.net/UPSud/SoCo,False
 https://gitlab.adullact.net/adullact-sites-web/gitlab-aide.adullact.net,False
 https://gitlab.adullact.net/adullact/Accompagnement-git-gitlab,False
-https://gitlab.adullact.net/adullact/Charte-Gitlat-Adullact,False
+https://gitlab.adullact.net/adullact/Charte-Gitlat-Adullact,True
 https://gitlab.adullact.net/adullact/Repository_API,False
 https://gitlab.adullact.net/adullact/puppet-etherpad,False
 https://gitlab.adullact.net/adullact/puppet-freeipa,False
@@ -2163,7 +2163,7 @@ https://gitlab.adullact.net/pixelhumain/onepage,False
 https://gitlab.adullact.net/pixelhumain/opendata,False
 https://gitlab.adullact.net/pixelhumain/organization,False
 https://gitlab.adullact.net/pixelhumain/pixelhumain,False
-https://gitlab.adullact.net/pixelhumain/places,False
+https://gitlab.adullact.net/pixelhumain/places,True
 https://gitlab.adullact.net/pixelhumain/pppm,False
 https://gitlab.adullact.net/pixelhumain/ressources,False
 https://gitlab.adullact.net/pixelhumain/reveal.js,False
@@ -2203,7 +2203,7 @@ https://gitlab.inria.fr/ClassCode/pixees-theme,False
 https://gitlab.inria.fr/CompCert/ci,False
 https://gitlab.inria.fr/Conferences/ICT_2018_MUFF,False
 https://gitlab.inria.fr/andiamo/eusdisparser,False
-https://gitlab.inria.fr/andiamo/tony,False
-https://gitlab.inria.fr/compass/compass,False
+https://gitlab.inria.fr/andiamo/tony,True
+https://gitlab.inria.fr/compass/compass,True
 https://gitlab.inria.fr/coqinterval/interval,False
 https://gitlab.inria.fr/coquelicot/coquelicot,False
