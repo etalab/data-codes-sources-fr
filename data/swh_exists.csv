@@ -42,7 +42,7 @@ https://git.unistra.fr/AOEINT/game-metrics,False
 https://git.unistra.fr/AOEINT/main,True
 https://git.unistra.fr/AOEINT/match-making,True
 https://git.unistra.fr/AOEINT/ranking,True
-https://git.unistra.fr/AOEINT/server,False
+https://git.unistra.fr/AOEINT/server,True
 https://git.unistra.fr/AT1A/TrailManager,False
 https://git.unistra.fr/BAS18-T4-B/nom_du_groupe,False
 https://git.unistra.fr/BAS18-T4-D/StrasBuilder,True
@@ -61,7 +61,7 @@ https://github.com/ANSSI-FR/FreeSpec,True
 https://github.com/ANSSI-FR/ORADAD,True
 https://github.com/ANSSI-FR/OVALI,True
 https://github.com/ANSSI-FR/ProTIP,True
-https://github.com/ANSSI-FR/SecAESSTM32,False
+https://github.com/ANSSI-FR/SecAESSTM32,True
 https://github.com/ANSSI-FR/SecuML,True
 https://github.com/ANSSI-FR/SmartPGP,True
 https://github.com/ANSSI-FR/SysvolExplorer,True
@@ -194,7 +194,7 @@ https://github.com/CEREMA/dtermed.cerema-info,True
 https://github.com/CEREMA/dtermed.cloud2,True
 https://github.com/CEREMA/dtermed.cours_opendata_ente,True
 https://github.com/CEREMA/dtermed.cvrh.resalia,True
-https://github.com/CEREMA/dtermed.dashboard,False
+https://github.com/CEREMA/dtermed.dashboard,True
 https://github.com/CEREMA/dtermed.db.bpclight,True
 https://github.com/CEREMA/dtermed.db.cerema.vibren,True
 https://github.com/CEREMA/dtermed.db.preshume,True
@@ -255,7 +255,7 @@ https://github.com/CNRS-DSI-Dev/user_files_restore,True
 https://github.com/CNRS-DSI-Dev/user_servervars2,True
 https://github.com/CNRS-DSI-Dev/user_set_password,True
 https://github.com/CNRS-DSI-Dev/user_share_guest,True
-https://github.com/DGA-MI-SSI/T-Brop,False
+https://github.com/DGA-MI-SSI/T-Brop,True
 https://github.com/DGA-MI-SSI/YaCo,True
 https://github.com/DGAC/MattermostModule,True
 https://github.com/DGAC/dgac.github.io,True
@@ -1608,6 +1608,7 @@ https://github.com/etalab/croquemort,True
 https://github.com/etalab/csv-gg,True
 https://github.com/etalab/csv2html,True
 https://github.com/etalab/csv_detective,True
+https://github.com/etalab/csv_detective_api,False
 https://github.com/etalab/csvapi,True
 https://github.com/etalab/csvapi-front,True
 https://github.com/etalab/dactylo,True
@@ -1960,7 +1961,7 @@ https://github.com/openfisca/reformator,True
 https://github.com/openfisca/support-bot,True
 https://github.com/openfisca/trace-tool,True
 https://github.com/openfisca/tracker,True
-https://github.com/openfisca/tutorial,False
+https://github.com/openfisca/tutorial,True
 https://github.com/openfun/arnold,True
 https://github.com/openfun/cloudkey-py,True
 https://github.com/openfun/configuration,True
@@ -2150,7 +2151,7 @@ https://gitlab.adullact.net/aife/place,True
 https://gitlab.adullact.net/amies/amies-server,False
 https://gitlab.adullact.net/amies/puppet-amies,False
 https://gitlab.adullact.net/capex/capex,False
-https://gitlab.adullact.net/departements-notaires/departements-notaires,False
+https://gitlab.adullact.net/departements-notaires/departements-notaires,True
 https://gitlab.adullact.net/e-carre/e-carre-particuliers,False
 https://gitlab.adullact.net/pixelhumain/Rocket-Chat,False
 https://gitlab.adullact.net/pixelhumain/co-meta,False
@@ -2158,9 +2159,9 @@ https://gitlab.adullact.net/pixelhumain/costum,False
 https://gitlab.adullact.net/pixelhumain/interop,True
 https://gitlab.adullact.net/pixelhumain/network,False
 https://gitlab.adullact.net/pixelhumain/networkMapping,False
-https://gitlab.adullact.net/pixelhumain/news,False
+https://gitlab.adullact.net/pixelhumain/news,True
 https://gitlab.adullact.net/pixelhumain/notragora,False
-https://gitlab.adullact.net/pixelhumain/onepage,False
+https://gitlab.adullact.net/pixelhumain/onepage,True
 https://gitlab.adullact.net/pixelhumain/opendata,False
 https://gitlab.adullact.net/pixelhumain/organization,True
 https://gitlab.adullact.net/pixelhumain/pixelhumain,False
@@ -2206,5 +2207,6 @@ https://gitlab.inria.fr/Conferences/ICT_2018_MUFF,False
 https://gitlab.inria.fr/andiamo/eusdisparser,False
 https://gitlab.inria.fr/andiamo/tony,True
 https://gitlab.inria.fr/compass/compass,True
+https://gitlab.inria.fr/comprise/deliverable_d21,False
 https://gitlab.inria.fr/coqinterval/interval,False
 https://gitlab.inria.fr/coquelicot/coquelicot,False
