@@ -398,7 +398,7 @@ https://github.com/INRIA/tralics,True
 https://github.com/INSIDE-information-systems/CO2emissions_email_plugin,True
 https://github.com/INSIDE-information-systems/EnvironmentalSemanticWeb,True
 https://github.com/INSIDE-information-systems/HydrogeologyWxS,True
-https://github.com/INSIDE-information-systems/RiverNetworkWPS,False
+https://github.com/INSIDE-information-systems/RiverNetworkWPS,True
 https://github.com/INSIDE-information-systems/SensorThingsAPI,True
 https://github.com/INSIDE-information-systems/TheHeart,True
 https://github.com/INSIDE-information-systems/WFS3,True
@@ -817,7 +817,7 @@ https://github.com/SocialGouv/jest-environment-knex,True
 https://github.com/SocialGouv/kali-data,True
 https://github.com/SocialGouv/kaligator,True
 https://github.com/SocialGouv/legi-data,True
-https://github.com/SocialGouv/legi-detect,False
+https://github.com/SocialGouv/legi-detect,True
 https://github.com/SocialGouv/legi-postgres,True
 https://github.com/SocialGouv/legixplore,True
 https://github.com/SocialGouv/letor-scores,True
@@ -1250,7 +1250,7 @@ https://github.com/clipos-archive/src_platform_clip-install-gui,True
 https://github.com/clipos-archive/src_platform_clip-install-rm,False
 https://github.com/clipos-archive/src_platform_clip-installer,True
 https://github.com/clipos-archive/src_platform_clip-lib,True
-https://github.com/clipos-archive/src_platform_clip-libvserver,False
+https://github.com/clipos-archive/src_platform_clip-libvserver,True
 https://github.com/clipos-archive/src_platform_clip-livecd,True
 https://github.com/clipos-archive/src_platform_clip-lsm,True
 https://github.com/clipos-archive/src_platform_clip-mdadm,True
@@ -1401,7 +1401,7 @@ https://github.com/entrepreneur-interet-general/H3.Standard,True
 https://github.com/entrepreneur-interet-general/Merge-Machine,True
 https://github.com/entrepreneur-interet-general/OpenScraper,True
 https://github.com/entrepreneur-interet-general/PST2Win,True
-https://github.com/entrepreneur-interet-general/Shom.H3,False
+https://github.com/entrepreneur-interet-general/Shom.H3,True
 https://github.com/entrepreneur-interet-general/Shom.S57,True
 https://github.com/entrepreneur-interet-general/addocker,True
 https://github.com/entrepreneur-interet-general/addok-fr,True
@@ -1426,7 +1426,7 @@ https://github.com/entrepreneur-interet-general/dicoCodes,True
 https://github.com/entrepreneur-interet-general/dig,True
 https://github.com/entrepreneur-interet-general/domen,True
 https://github.com/entrepreneur-interet-general/eig-link,True
-https://github.com/entrepreneur-interet-general/entity-resolution-evaluation,False
+https://github.com/entrepreneur-interet-general/entity-resolution-evaluation,True
 https://github.com/entrepreneur-interet-general/exo_ref,True
 https://github.com/entrepreneur-interet-general/gobelins,True
 https://github.com/entrepreneur-interet-general/gobelins-datasource,True
@@ -2089,7 +2089,7 @@ https://github.com/wookey-project/driver-stm32f4xx-sdio,False
 https://github.com/wookey-project/driver-stm32f4xx-spi,True
 https://github.com/wookey-project/driver-stm32f4xx-usart,True
 https://github.com/wookey-project/driver-stm32f4xx-usb,False
-https://github.com/wookey-project/ewok-kernel,False
+https://github.com/wookey-project/ewok-kernel,True
 https://github.com/wookey-project/ewok-legacy,True
 https://github.com/wookey-project/hard-libs,True
 https://github.com/wookey-project/hard-tools,True
@@ -2117,6 +2117,7 @@ https://github.com/wookey-project/manifest,True
 https://github.com/wookey-project/perms-matrix-disco407-samples,True
 https://github.com/wookey-project/perms-matrix-wookey,True
 https://github.com/wookey-project/tataouine,True
+https://github.com/wookey-project/wookey-docker,False
 https://github.com/wookey-project/wookey-project.github.io,True
 https://github.com/wookey-project/wookeypedia,False
 https://gitlab.adullact.net/Comptoir/Comptoir-srv,False
@@ -2141,10 +2142,11 @@ https://gitlab.adullact.net/adullact-sites-web/gitlab-aide.adullact.net,False
 https://gitlab.adullact.net/adullact/Accompagnement-git-gitlab,True
 https://gitlab.adullact.net/adullact/Charte-Gitlat-Adullact,True
 https://gitlab.adullact.net/adullact/Repository_API,True
+https://gitlab.adullact.net/adullact/demarches-simplifiees-global,False
 https://gitlab.adullact.net/adullact/puppet-etherpad,False
 https://gitlab.adullact.net/adullact/puppet-freeipa,True
 https://gitlab.adullact.net/adullact/puppet-gitlabrunner,True
-https://gitlab.adullact.net/adullact/puppet-wordpress,False
+https://gitlab.adullact.net/adullact/puppet-wordpress,True
 https://gitlab.adullact.net/adullact/theme-wordpress-adullact-org,False
 https://gitlab.adullact.net/aife/orme,False
 https://gitlab.adullact.net/aife/place,True
@@ -2162,7 +2164,7 @@ https://gitlab.adullact.net/pixelhumain/networkMapping,False
 https://gitlab.adullact.net/pixelhumain/news,True
 https://gitlab.adullact.net/pixelhumain/notragora,False
 https://gitlab.adullact.net/pixelhumain/onepage,True
-https://gitlab.adullact.net/pixelhumain/opendata,False
+https://gitlab.adullact.net/pixelhumain/opendata,True
 https://gitlab.adullact.net/pixelhumain/organization,True
 https://gitlab.adullact.net/pixelhumain/pixelhumain,False
 https://gitlab.adullact.net/pixelhumain/places,True
