@@ -657,7 +657,7 @@ https://github.com/OpenCTI-Platform/client-python,True
 https://github.com/OpenCTI-Platform/connectors,True
 https://github.com/OpenCTI-Platform/datasets,True
 https://github.com/OpenCTI-Platform/docker,True
-https://github.com/OpenCTI-Platform/docs,False
+https://github.com/OpenCTI-Platform/docs,True
 https://github.com/OpenCTI-Platform/opencti,True
 https://github.com/PnCevennes/Applications_10.30,True
 https://github.com/PnCevennes/GeoNature-atlas,True
@@ -686,7 +686,7 @@ https://github.com/PnCevennes/testAngular2,True
 https://github.com/PnCevennes/tizoutis-front,True
 https://github.com/PnEcrins/Flask-leaflet-example,False
 https://github.com/PnEcrins/FollowDem,True
-https://github.com/PnEcrins/FollowDem-admin,False
+https://github.com/PnEcrins/FollowDem-admin,True
 https://github.com/PnEcrins/FollowDem-admin-front,True
 https://github.com/PnEcrins/GeoNature-mobile,True
 https://github.com/PnEcrins/GeoNature-mobile-sync,True
@@ -1074,7 +1074,7 @@ https://github.com/betagouv/mpal-deploy,True
 https://github.com/betagouv/mpal-rod,True
 https://github.com/betagouv/mrs,True
 https://github.com/betagouv/nir_validate,True
-https://github.com/betagouv/normalized-data-state,False
+https://github.com/betagouv/normalized-data-state,True
 https://github.com/betagouv/open-academie,True
 https://github.com/betagouv/open-academie-old,True
 https://github.com/betagouv/openfisca-brestmetropole,True
@@ -1384,7 +1384,7 @@ https://github.com/diplomatiegouvfr/hornet-js,True
 https://github.com/diplomatiegouvfr/hornet-js-builder,True
 https://github.com/diplomatiegouvfr/hornet-js-formation,True
 https://github.com/diplomatiegouvfr/hornet-js-gc-monitor,True
-https://github.com/diplomatiegouvfr/hornet-js-man,False
+https://github.com/diplomatiegouvfr/hornet-js-man,True
 https://github.com/diplomatiegouvfr/hornet-service,True
 https://github.com/diplomatiegouvfr/hornet-showroom,True
 https://github.com/diplomatiegouvfr/hornet-showroom-online,True
@@ -1771,7 +1771,7 @@ https://github.com/geodatagouv/transcoder,True
 https://github.com/geodatagouv/wfs-client,True
 https://github.com/histovec/histovec-beta,True
 https://github.com/histovec/mock-up,True
-https://github.com/histovec/slides,False
+https://github.com/histovec/slides,True
 https://github.com/ia-flash/app,True
 https://github.com/ia-flash/demo,True
 https://github.com/ia-flash/matchvec,True
@@ -2143,13 +2143,13 @@ https://gitlab.adullact.net/adullact/Charte-Gitlat-Adullact,True
 https://gitlab.adullact.net/adullact/Repository_API,True
 https://gitlab.adullact.net/adullact/puppet-etherpad,False
 https://gitlab.adullact.net/adullact/puppet-freeipa,True
-https://gitlab.adullact.net/adullact/puppet-gitlabrunner,False
+https://gitlab.adullact.net/adullact/puppet-gitlabrunner,True
 https://gitlab.adullact.net/adullact/puppet-wordpress,False
 https://gitlab.adullact.net/adullact/theme-wordpress-adullact-org,False
 https://gitlab.adullact.net/aife/orme,False
 https://gitlab.adullact.net/aife/place,True
 https://gitlab.adullact.net/amies/amies-server,True
-https://gitlab.adullact.net/amies/puppet-amies,False
+https://gitlab.adullact.net/amies/puppet-amies,True
 https://gitlab.adullact.net/capex/capex,False
 https://gitlab.adullact.net/departements-notaires/departements-notaires,True
 https://gitlab.adullact.net/e-carre/e-carre-particuliers,False
@@ -2187,7 +2187,7 @@ https://gitlab.com/pidila/scampi,True
 https://gitlab.com/pidila/scampi-twig,True
 https://gitlab.com/pidila/select-a11y,True
 https://gitlab.com/pidila/sp-simulateurs-data,True
-https://gitlab.inria.fr/AlgebraicGeometricModeling/AlgebraicSolvers.jl,False
+https://gitlab.inria.fr/AlgebraicGeometricModeling/AlgebraicSolvers.jl,True
 https://gitlab.inria.fr/AlgebraicGeometricModeling/Axl.jl,True
 https://gitlab.inria.fr/AlgebraicGeometricModeling/GSplines.jl,False
 https://gitlab.inria.fr/AlgebraicGeometricModeling/MomentJuMP.jl,True
