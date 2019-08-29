@@ -24,7 +24,7 @@ https://framagit.org/etalab/sources-civic-tech,True
 https://framagit.org/etalab/suivi-plan-ogp-2015-2017,True
 https://framagit.org/etalab/votes-hackrepnum,True
 https://framagit.org/openfisca/calculette-impots-hackathon,True
-https://framagit.org/openfisca/calculette-impots-javascript,False
+https://framagit.org/openfisca/calculette-impots-javascript,True
 https://framagit.org/openfisca/calculette-impots-m-language-parser,True
 https://framagit.org/openfisca/calculette-impots-m-source-code,True
 https://framagit.org/openfisca/calculette-impots-python,True
@@ -47,9 +47,9 @@ https://git.unistra.fr/AT1A/TrailManager,False
 https://git.unistra.fr/BAS18-T4-B/nom_du_groupe,False
 https://git.unistra.fr/BAS18-T4-D/StrasBuilder,True
 https://git.unistra.fr/BLL17_T3_D/SedationMaPassion,False
-https://git.unistra.fr/CAMMA-public/mvor,False
+https://git.unistra.fr/CAMMA-public/mvor,True
 https://git.unistra.fr/T4desMeilleurs/T4Botanique,True
-https://git.unistra.fr/algdis/algdis_public,False
+https://git.unistra.fr/algdis/algdis_public,True
 https://github.com/ANSSI-FR/AD-control-paths,True
 https://github.com/ANSSI-FR/AD-permissions,True
 https://github.com/ANSSI-FR/ADCP-DirectoryCrawler,True
@@ -98,7 +98,7 @@ https://github.com/ARCEP-dev/adresse,True
 https://github.com/ARCEP-dev/basePopDom,True
 https://github.com/ARCEP-dev/dataTools,True
 https://github.com/ARCEP-dev/disPorts,True
-https://github.com/ARCEP-dev/geocodage_ban,False
+https://github.com/ARCEP-dev/geocodage_ban,True
 https://github.com/ARCEP-dev/monReseauMobile,True
 https://github.com/ARCEP-dev/regex,False
 https://github.com/ARCEP-dev/route500_improved,True
@@ -226,7 +226,7 @@ https://github.com/CEREMA/dterso.pluginQgis.CeremaCartEau,True
 https://github.com/CEREMA/dterso.pluginQgis3.CeremaCartEau3,True
 https://github.com/CEREMA/rivages-android,False
 https://github.com/CEREMA/territoires-ville.DiagFeux,True
-https://github.com/CEREMA/territoires-ville.Giration,False
+https://github.com/CEREMA/territoires-ville.Giration,True
 https://github.com/CEREMA/territoires-ville.MiTemps,True
 https://github.com/CEREMA/territoires-ville.OndeV,True
 https://github.com/CEREMA/territoires-ville.TempusAccess,True
@@ -549,7 +549,7 @@ https://github.com/Irstea/bsc12,True
 https://github.com/Irstea/caso,True
 https://github.com/Irstea/collec,True
 https://github.com/Irstea/escroc,True
-https://github.com/Irstea/esfc,False
+https://github.com/Irstea/esfc,True
 https://github.com/Irstea/filo-science,True
 https://github.com/Irstea/irrig,True
 https://github.com/Irstea/magest,False
@@ -595,7 +595,7 @@ https://github.com/MTES-MCT/camino-landingpage,True
 https://github.com/MTES-MCT/camino-portainer,True
 https://github.com/MTES-MCT/camino-scripting,True
 https://github.com/MTES-MCT/camino-ui,True
-https://github.com/MTES-MCT/choisir-une-licence,False
+https://github.com/MTES-MCT/choisir-une-licence,True
 https://github.com/MTES-MCT/cobot-admin,True
 https://github.com/MTES-MCT/cobot-api,True
 https://github.com/MTES-MCT/cobot-bot,True
@@ -1114,7 +1114,7 @@ https://github.com/betagouv/pass-culture-publi-mailing,True
 https://github.com/betagouv/pass-culture-shared,True
 https://github.com/betagouv/pass-culture-team,True
 https://github.com/betagouv/pass-culture-web-analytics,False
-https://github.com/betagouv/peps,False
+https://github.com/betagouv/peps,True
 https://github.com/betagouv/peps-app,False
 https://github.com/betagouv/pia-back,False
 https://github.com/betagouv/pia-docker,True
@@ -1520,7 +1520,7 @@ https://github.com/erasme/erabackup,True
 https://github.com/erasme/erajs,True
 https://github.com/erasme/erasme-roles-specs,True
 https://github.com/erasme/erats,True
-https://github.com/erasme/flipdots,False
+https://github.com/erasme/flipdots,True
 https://github.com/erasme/government.github.com,True
 https://github.com/erasme/guidelines,True
 https://github.com/erasme/kjing,True
@@ -2125,14 +2125,14 @@ https://gitlab.adullact.net/Comptoir/puppet-comptoir,True
 https://gitlab.adullact.net/E-Collectivite/E-Collectivite-angular-client,False
 https://gitlab.adullact.net/E-Collectivite/E-Collectivite-drupal-client,True
 https://gitlab.adullact.net/E-Collectivite/E-Collectivite-server,False
-https://gitlab.adullact.net/GetMySoftware/GetMySoftware,False
+https://gitlab.adullact.net/GetMySoftware/GetMySoftware,True
 https://gitlab.adullact.net/Libriciel/cakephp,True
 https://gitlab.adullact.net/Libriciel/cakephp-beanstalk,False
 https://gitlab.adullact.net/Libriciel/generation-enveloppe-actes-test,True
 https://gitlab.adullact.net/Libriciel/iparapheur-android,True
 https://gitlab.adullact.net/Libriciel/iparapheur-ios,False
 https://gitlab.adullact.net/Libriciel/lib-otrs-php,False
-https://gitlab.adullact.net/Libriciel/lib-suitecrm-php,False
+https://gitlab.adullact.net/Libriciel/lib-suitecrm-php,True
 https://gitlab.adullact.net/Libriciel/refae,True
 https://gitlab.adullact.net/Libriciel/s2low,True
 https://gitlab.adullact.net/Libriciel/web-gfc,False
