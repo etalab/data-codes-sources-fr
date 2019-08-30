@@ -149,7 +149,7 @@ https://github.com/AlsaceDigitale/www.hacksxb.com,True
 https://github.com/AlsaceDigitale/www.swstrasbourg.eu,False
 https://github.com/ApieFrance/ApieFrance.github.io,True
 https://github.com/ApieFrance/choosealicense.com,True
-https://github.com/BRGM/ANZSoilML,False
+https://github.com/BRGM/ANZSoilML,True
 https://github.com/BRGM/BLiv,True
 https://github.com/BRGM/ComPASS,True
 https://github.com/BRGM/GeoSciML,True
@@ -611,14 +611,14 @@ https://github.com/MTES-MCT/filharmonic-infrastructure,True
 https://github.com/MTES-MCT/filharmonic-ui,True
 https://github.com/MTES-MCT/fluctuat,True
 https://github.com/MTES-MCT/fluctuat-apidoc,True
-https://github.com/MTES-MCT/geo-communes-api,False
+https://github.com/MTES-MCT/geo-communes-api,True
 https://github.com/MTES-MCT/geostatis,True
 https://github.com/MTES-MCT/invasivalerte,True
 https://github.com/MTES-MCT/kelrisks,True
 https://github.com/MTES-MCT/kelrisks-datascience,True
 https://github.com/MTES-MCT/locatio,True
 https://github.com/MTES-MCT/numerique,True
-https://github.com/MTES-MCT/parcours-r,False
+https://github.com/MTES-MCT/parcours-r,True
 https://github.com/MTES-MCT/permis-construire,True
 https://github.com/MTES-MCT/portail,True
 https://github.com/MTES-MCT/rieau,True
@@ -738,7 +738,7 @@ https://github.com/PrefectureDePolice/openlogo,True
 https://github.com/PrefectureDePolice/scan_backoffice,True
 https://github.com/PrefectureDePolice/scan_frontapk,True
 https://github.com/ProgrammeVitam/ProgrammeVitam.github.io,True
-https://github.com/ProgrammeVitam/droid-origin,False
+https://github.com/ProgrammeVitam/droid-origin,True
 https://github.com/ProgrammeVitam/elasticsearch-metrics-reporter-java,True
 https://github.com/ProgrammeVitam/generateur-seda,True
 https://github.com/ProgrammeVitam/java-libpst,False
@@ -1412,7 +1412,7 @@ https://github.com/entrepreneur-interet-general/agenda-eig2018,True
 https://github.com/entrepreneur-interet-general/api-ccomptes,True
 https://github.com/entrepreneur-interet-general/archapp,True
 https://github.com/entrepreneur-interet-general/archypoint,True
-https://github.com/entrepreneur-interet-general/brigade-numerique,False
+https://github.com/entrepreneur-interet-general/brigade-numerique,True
 https://github.com/entrepreneur-interet-general/bulletins,True
 https://github.com/entrepreneur-interet-general/bulletins-docs,True
 https://github.com/entrepreneur-interet-general/cartav,True
@@ -2000,7 +2000,7 @@ https://github.com/openfun/libcast-xblock,True
 https://github.com/openfun/mail-fun-edx,True
 https://github.com/openfun/maintenance-page,True
 https://github.com/openfun/marsha,True
-https://github.com/openfun/matplotlib,False
+https://github.com/openfun/matplotlib,True
 https://github.com/openfun/nantes-oer,True
 https://github.com/openfun/nltk,False
 https://github.com/openfun/openedx-comments-docker,True
@@ -2091,7 +2091,7 @@ https://github.com/wookey-project/driver-stm32f4xx-iso7816,True
 https://github.com/wookey-project/driver-stm32f4xx-sdio,False
 https://github.com/wookey-project/driver-stm32f4xx-spi,True
 https://github.com/wookey-project/driver-stm32f4xx-usart,True
-https://github.com/wookey-project/driver-stm32f4xx-usb,False
+https://github.com/wookey-project/driver-stm32f4xx-usb,True
 https://github.com/wookey-project/ewok-kernel,True
 https://github.com/wookey-project/ewok-legacy,True
 https://github.com/wookey-project/hard-libs,True
@@ -2146,7 +2146,7 @@ https://gitlab.adullact.net/adullact/Accompagnement-git-gitlab,True
 https://gitlab.adullact.net/adullact/Charte-Gitlat-Adullact,True
 https://gitlab.adullact.net/adullact/Repository_API,True
 https://gitlab.adullact.net/adullact/demarches-simplifiees-global,False
-https://gitlab.adullact.net/adullact/puppet-etherpad,False
+https://gitlab.adullact.net/adullact/puppet-etherpad,True
 https://gitlab.adullact.net/adullact/puppet-freeipa,True
 https://gitlab.adullact.net/adullact/puppet-gitlabrunner,True
 https://gitlab.adullact.net/adullact/puppet-wordpress,True
@@ -2157,7 +2157,7 @@ https://gitlab.adullact.net/amies/amies-server,True
 https://gitlab.adullact.net/amies/puppet-amies,True
 https://gitlab.adullact.net/capex/capex,False
 https://gitlab.adullact.net/departements-notaires/departements-notaires,True
-https://gitlab.adullact.net/e-carre/e-carre-particuliers,False
+https://gitlab.adullact.net/e-carre/e-carre-particuliers,True
 https://gitlab.adullact.net/pixelhumain/Rocket-Chat,False
 https://gitlab.adullact.net/pixelhumain/co-meta,True
 https://gitlab.adullact.net/pixelhumain/costum,True
@@ -2176,8 +2176,8 @@ https://gitlab.adullact.net/pixelhumain/ressources,False
 https://gitlab.adullact.net/pixelhumain/reveal.js,False
 https://gitlab.adullact.net/pixelhumain/sig,False
 https://gitlab.adullact.net/pixelhumain/smarterre,True
-https://gitlab.adullact.net/pixelhumain/terla,False
-https://gitlab.adullact.net/pixelhumain/wiki-fr,False
+https://gitlab.adullact.net/pixelhumain/terla,True
+https://gitlab.adullact.net/pixelhumain/wiki-fr,True
 https://gitlab.com/healthdatahub/dico-snds,True
 https://gitlab.com/healthdatahub/documentation-snds,True
 https://gitlab.com/healthdatahub/indexation-nomenclatures,True
@@ -2205,8 +2205,8 @@ https://gitlab.inria.fr/CAPES-Math/clef-CAPES,False
 https://gitlab.inria.fr/CAPES-Math/live-build,True
 https://gitlab.inria.fr/ClassCode/class_code,True
 https://gitlab.inria.fr/ClassCode/class_code_v2,False
-https://gitlab.inria.fr/ClassCode/classcodeadmin,False
-https://gitlab.inria.fr/ClassCode/pixees-theme,False
+https://gitlab.inria.fr/ClassCode/classcodeadmin,True
+https://gitlab.inria.fr/ClassCode/pixees-theme,True
 https://gitlab.inria.fr/CompCert/ci,False
 https://gitlab.inria.fr/Conferences/ICT_2018_MUFF,False
 https://gitlab.inria.fr/andiamo/eusdisparser,False
@@ -2214,5 +2214,5 @@ https://gitlab.inria.fr/andiamo/tony,True
 https://gitlab.inria.fr/compass/compass,True
 https://gitlab.inria.fr/compass/meshtools,False
 https://gitlab.inria.fr/comprise/deliverable_d21,False
-https://gitlab.inria.fr/coqinterval/interval,False
+https://gitlab.inria.fr/coqinterval/interval,True
 https://gitlab.inria.fr/coquelicot/coquelicot,False
