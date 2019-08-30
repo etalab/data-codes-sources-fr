@@ -43,10 +43,10 @@ https://git.unistra.fr/AOEINT/main,True
 https://git.unistra.fr/AOEINT/match-making,True
 https://git.unistra.fr/AOEINT/ranking,True
 https://git.unistra.fr/AOEINT/server,True
-https://git.unistra.fr/AT1A/TrailManager,False
+https://git.unistra.fr/AT1A/TrailManager,True
 https://git.unistra.fr/BAS18-T4-B/nom_du_groupe,False
 https://git.unistra.fr/BAS18-T4-D/StrasBuilder,True
-https://git.unistra.fr/BLL17_T3_D/SedationMaPassion,False
+https://git.unistra.fr/BLL17_T3_D/SedationMaPassion,True
 https://git.unistra.fr/CAMMA-public/mvor,True
 https://git.unistra.fr/T4desMeilleurs/T4Botanique,True
 https://git.unistra.fr/algdis/algdis_public,True
@@ -154,6 +154,7 @@ https://github.com/BRGM/BLiv,True
 https://github.com/BRGM/ComPASS,True
 https://github.com/BRGM/GeoSciML,True
 https://github.com/BRGM/GeoSciMLontology,True
+https://github.com/BRGM/MeshTools,False
 https://github.com/BRGM/Nifi-WKB-to-WKT-processor,True
 https://github.com/BRGM/Pic-EAU,True
 https://github.com/BRGM/cgal,True
@@ -949,7 +950,7 @@ https://github.com/atlanmod/fREX,True
 https://github.com/atlanmod/hadoop-cluster-docker,True
 https://github.com/atlanmod/iotdsl,True
 https://github.com/atlanmod/model-consistency,True
-https://github.com/atlanmod/modisco,False
+https://github.com/atlanmod/modisco,True
 https://github.com/atlanmod/mondo-atlzoo-benchmark,True
 https://github.com/atlanmod/mondo-itmfactory-benchmark,True
 https://github.com/atlanmod/mondo-openbim-benchmark,True
@@ -1113,7 +1114,7 @@ https://github.com/betagouv/pass-culture-pro-staging,True
 https://github.com/betagouv/pass-culture-publi-mailing,True
 https://github.com/betagouv/pass-culture-shared,True
 https://github.com/betagouv/pass-culture-team,True
-https://github.com/betagouv/pass-culture-web-analytics,False
+https://github.com/betagouv/pass-culture-web-analytics,True
 https://github.com/betagouv/peps,True
 https://github.com/betagouv/peps-app,False
 https://github.com/betagouv/pia-back,False
@@ -1225,7 +1226,7 @@ https://github.com/clipos-archive/src_platform_CLIP-Pkg-QA,True
 https://github.com/clipos-archive/src_platform_ClipQt,True
 https://github.com/clipos-archive/src_platform_anssipki-cli,True
 https://github.com/clipos-archive/src_platform_baselayout-clip,True
-https://github.com/clipos-archive/src_platform_baselayout-rm,False
+https://github.com/clipos-archive/src_platform_baselayout-rm,True
 https://github.com/clipos-archive/src_platform_baselayout-update,True
 https://github.com/clipos-archive/src_platform_bionic-malloc,True
 https://github.com/clipos-archive/src_platform_chroot-launch,True
@@ -1483,7 +1484,7 @@ https://github.com/eole/redmine_git_hosting,True
 https://github.com/eole/redmine_track_control,True
 https://github.com/eole/salt,True
 https://github.com/eole/salt-winrepo-ng,True
-https://github.com/eole/systemd-formula,False
+https://github.com/eole/systemd-formula,True
 https://github.com/eole/template-formula,True
 https://github.com/erasme/androidwifidirect,True
 https://github.com/erasme/ansible-etherpad,True
@@ -2079,7 +2080,7 @@ https://github.com/wookey-project/app-wookey-usb,True
 https://github.com/wookey-project/board-32f407disco,True
 https://github.com/wookey-project/board-32f439wookey,True
 https://github.com/wookey-project/bootloader,True
-https://github.com/wookey-project/driver-ad7843,False
+https://github.com/wookey-project/driver-ad7843,True
 https://github.com/wookey-project/driver-ili9341,True
 https://github.com/wookey-project/driver-stm32f4x9-cryp,True
 https://github.com/wookey-project/driver-stm32f4xx-flash,True
@@ -2122,15 +2123,15 @@ https://github.com/wookey-project/wookey-project.github.io,True
 https://github.com/wookey-project/wookeypedia,False
 https://gitlab.adullact.net/Comptoir/Comptoir-srv,False
 https://gitlab.adullact.net/Comptoir/puppet-comptoir,True
-https://gitlab.adullact.net/E-Collectivite/E-Collectivite-angular-client,False
+https://gitlab.adullact.net/E-Collectivite/E-Collectivite-angular-client,True
 https://gitlab.adullact.net/E-Collectivite/E-Collectivite-drupal-client,True
 https://gitlab.adullact.net/E-Collectivite/E-Collectivite-server,False
 https://gitlab.adullact.net/GetMySoftware/GetMySoftware,True
 https://gitlab.adullact.net/Libriciel/cakephp,True
-https://gitlab.adullact.net/Libriciel/cakephp-beanstalk,False
+https://gitlab.adullact.net/Libriciel/cakephp-beanstalk,True
 https://gitlab.adullact.net/Libriciel/generation-enveloppe-actes-test,True
 https://gitlab.adullact.net/Libriciel/iparapheur-android,True
-https://gitlab.adullact.net/Libriciel/iparapheur-ios,False
+https://gitlab.adullact.net/Libriciel/iparapheur-ios,True
 https://gitlab.adullact.net/Libriciel/lib-otrs-php,False
 https://gitlab.adullact.net/Libriciel/lib-suitecrm-php,True
 https://gitlab.adullact.net/Libriciel/refae,True
@@ -2209,6 +2210,7 @@ https://gitlab.inria.fr/Conferences/ICT_2018_MUFF,False
 https://gitlab.inria.fr/andiamo/eusdisparser,False
 https://gitlab.inria.fr/andiamo/tony,True
 https://gitlab.inria.fr/compass/compass,True
+https://gitlab.inria.fr/compass/meshtools,False
 https://gitlab.inria.fr/comprise/deliverable_d21,False
 https://gitlab.inria.fr/coqinterval/interval,False
 https://gitlab.inria.fr/coquelicot/coquelicot,False
