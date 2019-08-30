@@ -182,7 +182,7 @@ https://github.com/CEREMA/com.cerema.infocentre_old,True
 https://github.com/CEREMA/dsi.adutils,True
 https://github.com/CEREMA/dterce.ressource_covadis,True
 https://github.com/CEREMA/dtermed-ceremao,True
-https://github.com/CEREMA/dtermed.ML_bati_non-bati,False
+https://github.com/CEREMA/dtermed.ML_bati_non-bati,True
 https://github.com/CEREMA/dtermed.MobiTC,True
 https://github.com/CEREMA/dtermed.MobiTC2,False
 https://github.com/CEREMA/dtermed.annuaire,True
@@ -554,7 +554,7 @@ https://github.com/Irstea/filo-science,True
 https://github.com/Irstea/irrig,True
 https://github.com/Irstea/magest,False
 https://github.com/Irstea/otolithe,True
-https://github.com/Irstea/shomimport,False
+https://github.com/Irstea/shomimport,True
 https://github.com/Irstea/usact,True
 https://github.com/Irstea/w3id.org,True
 https://github.com/LAB-MI/LAB-MI.github.io,True
@@ -583,7 +583,7 @@ https://github.com/MTES-MCT/adock-ui,True
 https://github.com/MTES-MCT/aeris,True
 https://github.com/MTES-MCT/aides-territoires,True
 https://github.com/MTES-MCT/assec,True
-https://github.com/MTES-MCT/bulk-geocoding-python-client,False
+https://github.com/MTES-MCT/bulk-geocoding-python-client,True
 https://github.com/MTES-MCT/camino-api,True
 https://github.com/MTES-MCT/camino-database,True
 https://github.com/MTES-MCT/camino-flux,True
@@ -1101,7 +1101,7 @@ https://github.com/betagouv/paie-editor,True
 https://github.com/betagouv/paie-tests,True
 https://github.com/betagouv/paie-www,True
 https://github.com/betagouv/pass-culture-api,True
-https://github.com/betagouv/pass-culture-app-staging,False
+https://github.com/betagouv/pass-culture-app-staging,True
 https://github.com/betagouv/pass-culture-blog,True
 https://github.com/betagouv/pass-culture-browser,True
 https://github.com/betagouv/pass-culture-datascience,True
@@ -1220,8 +1220,8 @@ https://github.com/clipos-archive/src_platform_CLIP-Logger,True
 https://github.com/clipos-archive/src_platform_CLIP-Mount,True
 https://github.com/clipos-archive/src_platform_CLIP-Pkg-Base,True
 https://github.com/clipos-archive/src_platform_CLIP-Pkg-Download,True
-https://github.com/clipos-archive/src_platform_CLIP-Pkg-Install,False
-https://github.com/clipos-archive/src_platform_CLIP-Pkg-QA,False
+https://github.com/clipos-archive/src_platform_CLIP-Pkg-Install,True
+https://github.com/clipos-archive/src_platform_CLIP-Pkg-QA,True
 https://github.com/clipos-archive/src_platform_ClipQt,True
 https://github.com/clipos-archive/src_platform_anssipki-cli,True
 https://github.com/clipos-archive/src_platform_baselayout-clip,True
@@ -1855,7 +1855,7 @@ https://github.com/observatoire-territoires/couvnum,True
 https://github.com/observatoire-territoires/migR,True
 https://github.com/observatoire-territoires/rapport-OT-mobilites,True
 https://github.com/observatoire-territoires/sgf,False
-https://github.com/observatoire-territoires/shinyapp_mob_resid,False
+https://github.com/observatoire-territoires/shinyapp_mob_resid,True
 https://github.com/observatoire-territoires/specificite,True
 https://github.com/observatoire-territoires/synthese_mob_resid,True
 https://github.com/opendatateam/ansible-udata,True
@@ -2156,7 +2156,7 @@ https://gitlab.adullact.net/capex/capex,False
 https://gitlab.adullact.net/departements-notaires/departements-notaires,True
 https://gitlab.adullact.net/e-carre/e-carre-particuliers,False
 https://gitlab.adullact.net/pixelhumain/Rocket-Chat,False
-https://gitlab.adullact.net/pixelhumain/co-meta,False
+https://gitlab.adullact.net/pixelhumain/co-meta,True
 https://gitlab.adullact.net/pixelhumain/costum,True
 https://gitlab.adullact.net/pixelhumain/interop,True
 https://gitlab.adullact.net/pixelhumain/network,False
