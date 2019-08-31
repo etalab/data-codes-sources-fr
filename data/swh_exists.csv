@@ -1139,7 +1139,7 @@ https://github.com/betagouv/react-final-form-utils,True
 https://github.com/betagouv/react-hook-data,True
 https://github.com/betagouv/react-i18nliner,True
 https://github.com/betagouv/react-loading-infinite-scroller,True
-https://github.com/betagouv/react-reducer-effect-context-data,False
+https://github.com/betagouv/react-reducer-effect-context-data,True
 https://github.com/betagouv/redux-react-modals,True
 https://github.com/betagouv/redux-saga-data,True
 https://github.com/betagouv/redux-thunk-data,True
@@ -1177,7 +1177,7 @@ https://github.com/cea-hpc/NabLab,True
 https://github.com/cea-hpc/bridge,True
 https://github.com/cea-hpc/clustershell,True
 https://github.com/cea-hpc/fleet,True
-https://github.com/cea-hpc/gct,False
+https://github.com/cea-hpc/gct,True
 https://github.com/cea-hpc/glost,True
 https://github.com/cea-hpc/gssapi,True
 https://github.com/cea-hpc/heimdal,True
@@ -1424,7 +1424,7 @@ https://github.com/entrepreneur-interet-general/dataESR,True
 https://github.com/entrepreneur-interet-general/datamap,True
 https://github.com/entrepreneur-interet-general/dedupe,True
 https://github.com/entrepreneur-interet-general/demo_metabase_postgres,True
-https://github.com/entrepreneur-interet-general/design-system,False
+https://github.com/entrepreneur-interet-general/design-system,True
 https://github.com/entrepreneur-interet-general/dicoCodes,True
 https://github.com/entrepreneur-interet-general/dig,True
 https://github.com/entrepreneur-interet-general/domen,True
@@ -2101,7 +2101,7 @@ https://github.com/wookey-project/hard-wookey-motherboard,False
 https://github.com/wookey-project/hard-wookey-screen,True
 https://github.com/wookey-project/javacard-applet,True
 https://github.com/wookey-project/layout-stm32f407,True
-https://github.com/wookey-project/layout-stm32f439,False
+https://github.com/wookey-project/layout-stm32f439,True
 https://github.com/wookey-project/libaes,True
 https://github.com/wookey-project/libconsole,True
 https://github.com/wookey-project/libdes,True
@@ -2158,7 +2158,7 @@ https://gitlab.adullact.net/amies/puppet-amies,True
 https://gitlab.adullact.net/capex/capex,False
 https://gitlab.adullact.net/departements-notaires/departements-notaires,True
 https://gitlab.adullact.net/e-carre/e-carre-particuliers,True
-https://gitlab.adullact.net/pixelhumain/Rocket-Chat,False
+https://gitlab.adullact.net/pixelhumain/Rocket-Chat,True
 https://gitlab.adullact.net/pixelhumain/co-meta,True
 https://gitlab.adullact.net/pixelhumain/costum,True
 https://gitlab.adullact.net/pixelhumain/interop,True
@@ -2213,6 +2213,6 @@ https://gitlab.inria.fr/andiamo/eusdisparser,False
 https://gitlab.inria.fr/andiamo/tony,True
 https://gitlab.inria.fr/compass/compass,True
 https://gitlab.inria.fr/compass/meshtools,False
-https://gitlab.inria.fr/comprise/deliverable_d21,False
+https://gitlab.inria.fr/comprise/deliverable_d21,True
 https://gitlab.inria.fr/coqinterval/interval,True
 https://gitlab.inria.fr/coquelicot/coquelicot,False
