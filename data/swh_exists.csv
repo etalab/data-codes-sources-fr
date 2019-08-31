@@ -154,7 +154,7 @@ https://github.com/BRGM/BLiv,True
 https://github.com/BRGM/ComPASS,True
 https://github.com/BRGM/GeoSciML,True
 https://github.com/BRGM/GeoSciMLontology,True
-https://github.com/BRGM/MeshTools,False
+https://github.com/BRGM/MeshTools,True
 https://github.com/BRGM/Nifi-WKB-to-WKT-processor,True
 https://github.com/BRGM/Pic-EAU,True
 https://github.com/BRGM/cgal,True
@@ -833,7 +833,7 @@ https://github.com/SocialGouv/seminaire,True
 https://github.com/SocialGouv/siret2idcc,True
 https://github.com/SocialGouv/socialgouv.github.io,True
 https://github.com/SocialGouv/standup,True
-https://github.com/SocialGouv/suggest,False
+https://github.com/SocialGouv/suggest,True
 https://github.com/SocialGouv/template.data.gouv.fr.react,True
 https://github.com/SocialGouv/tocbot,True
 https://github.com/SocialGouv/tools,True
@@ -1008,7 +1008,7 @@ https://github.com/betagouv/blog.beta.gouv.fr,True
 https://github.com/betagouv/blog.dossiersco.fr,True
 https://github.com/betagouv/bourses,True
 https://github.com/betagouv/boussole,True
-https://github.com/betagouv/ccas,False
+https://github.com/betagouv/ccas,True
 https://github.com/betagouv/cerfa-form-filler,True
 https://github.com/betagouv/civilsdeladefense,True
 https://github.com/betagouv/co-constuisons-api,True
@@ -2151,7 +2151,7 @@ https://gitlab.adullact.net/adullact/puppet-freeipa,True
 https://gitlab.adullact.net/adullact/puppet-gitlabrunner,True
 https://gitlab.adullact.net/adullact/puppet-wordpress,True
 https://gitlab.adullact.net/adullact/theme-wordpress-adullact-org,False
-https://gitlab.adullact.net/aife/orme,False
+https://gitlab.adullact.net/aife/orme,True
 https://gitlab.adullact.net/aife/place,True
 https://gitlab.adullact.net/amies/amies-server,True
 https://gitlab.adullact.net/amies/puppet-amies,True
