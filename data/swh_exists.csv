@@ -778,7 +778,7 @@ https://github.com/SocialGouv/ansible-kubeadm-cluster,True
 https://github.com/SocialGouv/app-nextjs-node-ts,True
 https://github.com/SocialGouv/archifiltre,False
 https://github.com/SocialGouv/bootstrap,True
-https://github.com/SocialGouv/bot,False
+https://github.com/SocialGouv/bot,True
 https://github.com/SocialGouv/checkup,True
 https://github.com/SocialGouv/code-du-travail-api,True
 https://github.com/SocialGouv/code-du-travail-backoffice,True
@@ -855,7 +855,7 @@ https://github.com/SocieteNumerique/kit,True
 https://github.com/SocieteNumerique/pass-numerique,True
 https://github.com/SocieteNumerique/rapport-inclusion,True
 https://github.com/SocieteNumerique/societenumerique.github.io,True
-https://github.com/SocieteNumerique/societenumerique.github.io-old,False
+https://github.com/SocieteNumerique/societenumerique.github.io-old,True
 https://github.com/SocieteNumerique/tutoriel,True
 https://github.com/StartupsPoleEmploi/Avril-Frontend,True
 https://github.com/StartupsPoleEmploi/Templates-Mailjet,True
@@ -1124,7 +1124,7 @@ https://github.com/betagouv/pix,True
 https://github.com/betagouv/place-des-entreprises,True
 https://github.com/betagouv/plante-et-moi,True
 https://github.com/betagouv/plante-et-moi-backend,True
-https://github.com/betagouv/pop,False
+https://github.com/betagouv/pop,True
 https://github.com/betagouv/pop-api,True
 https://github.com/betagouv/pop-consultation,True
 https://github.com/betagouv/pop-data,True
@@ -1237,7 +1237,7 @@ https://github.com/clipos-archive/src_platform_clip-buildbot,True
 https://github.com/clipos-archive/src_platform_clip-config,True
 https://github.com/clipos-archive/src_platform_clip-deb,True
 https://github.com/clipos-archive/src_platform_clip-devutils,True
-https://github.com/clipos-archive/src_platform_clip-download,False
+https://github.com/clipos-archive/src_platform_clip-download,True
 https://github.com/clipos-archive/src_platform_clip-emblem,True
 https://github.com/clipos-archive/src_platform_clip-eraser,True
 https://github.com/clipos-archive/src_platform_clip-generic-net,True
@@ -1834,7 +1834,7 @@ https://github.com/micmacIGN/interface,True
 https://github.com/micmacIGN/micmac,True
 https://github.com/minagri-initial/angular-components,True
 https://github.com/minagri-initial/api.gouv.fr,True
-https://github.com/minagri-initial/arpent-api,False
+https://github.com/minagri-initial/arpent-api,True
 https://github.com/minagri-initial/arpent-examen,True
 https://github.com/minagri-initial/ift,True
 https://github.com/minagri-initial/ift-api,True
@@ -2140,12 +2140,12 @@ https://gitlab.adullact.net/Libriciel/refae,True
 https://gitlab.adullact.net/Libriciel/s2low,True
 https://gitlab.adullact.net/Libriciel/web-gfc,False
 https://gitlab.adullact.net/Quantifed-OSS/Quantified-OSS,False
-https://gitlab.adullact.net/UPSud/SoCo,False
+https://gitlab.adullact.net/UPSud/SoCo,True
 https://gitlab.adullact.net/adullact-sites-web/gitlab-aide.adullact.net,False
 https://gitlab.adullact.net/adullact/Accompagnement-git-gitlab,True
 https://gitlab.adullact.net/adullact/Charte-Gitlat-Adullact,True
 https://gitlab.adullact.net/adullact/Repository_API,True
-https://gitlab.adullact.net/adullact/demarches-simplifiees-global,False
+https://gitlab.adullact.net/adullact/demarches-simplifiees-global,True
 https://gitlab.adullact.net/adullact/puppet-etherpad,True
 https://gitlab.adullact.net/adullact/puppet-freeipa,True
 https://gitlab.adullact.net/adullact/puppet-gitlabrunner,True
