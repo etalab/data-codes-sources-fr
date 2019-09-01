@@ -100,7 +100,7 @@ https://github.com/ARCEP-dev/dataTools,True
 https://github.com/ARCEP-dev/disPorts,True
 https://github.com/ARCEP-dev/geocodage_ban,True
 https://github.com/ARCEP-dev/monReseauMobile,True
-https://github.com/ARCEP-dev/regex,False
+https://github.com/ARCEP-dev/regex,True
 https://github.com/ARCEP-dev/route500_improved,True
 https://github.com/ARCEP-dev/schemas,False
 https://github.com/ARCEP-dev/testDebitMire,True
@@ -945,7 +945,7 @@ https://github.com/atlanmod/csy-traceability,True
 https://github.com/atlanmod/emf,True
 https://github.com/atlanmod/emfviews,True
 https://github.com/atlanmod/emfviewsSQL,True
-https://github.com/atlanmod/energy-estimation-language,False
+https://github.com/atlanmod/energy-estimation-language,True
 https://github.com/atlanmod/fREX,True
 https://github.com/atlanmod/hadoop-cluster-docker,True
 https://github.com/atlanmod/iotdsl,True
@@ -982,7 +982,7 @@ https://github.com/betagouv/PeerTube,True
 https://github.com/betagouv/admin-traitdunion,True
 https://github.com/betagouv/allegement-fillon,True
 https://github.com/betagouv/andi,True
-https://github.com/betagouv/annuaire,False
+https://github.com/betagouv/annuaire,True
 https://github.com/betagouv/annuaire-api,True
 https://github.com/betagouv/annuaire-import,True
 https://github.com/betagouv/anpy,True
@@ -1165,12 +1165,13 @@ https://github.com/betagouv/syso,True
 https://github.com/betagouv/syso-core,True
 https://github.com/betagouv/taux-collectifs-cotisation-atmp,True
 https://github.com/betagouv/taux-versement-transport,True
-https://github.com/betagouv/trait-d-union,False
+https://github.com/betagouv/trait-d-union,True
 https://github.com/betagouv/verif.site,True
 https://github.com/betagouv/voir-et-localiser-samu-sign-on,True
 https://github.com/betagouv/with-login,True
 https://github.com/betagouv/with-query-router,True
 https://github.com/betagouv/with-react-login,True
+https://github.com/betagouv/with-react-query,False
 https://github.com/betagouv/with-react-redux-login,True
 https://github.com/betagouv/zam,True
 https://github.com/cea-hpc/NabLab,True
@@ -1182,7 +1183,7 @@ https://github.com/cea-hpc/glost,True
 https://github.com/cea-hpc/gssapi,True
 https://github.com/cea-hpc/heimdal,True
 https://github.com/cea-hpc/hp2p,True
-https://github.com/cea-hpc/kfs,False
+https://github.com/cea-hpc/kfs,True
 https://github.com/cea-hpc/krb5,True
 https://github.com/cea-hpc/kvsns,True
 https://github.com/cea-hpc/lcap,True
@@ -1403,7 +1404,7 @@ https://github.com/entrepreneur-interet-general/Merge-Machine,True
 https://github.com/entrepreneur-interet-general/OpenScraper,True
 https://github.com/entrepreneur-interet-general/PST2Win,True
 https://github.com/entrepreneur-interet-general/ProxiRH,False
-https://github.com/entrepreneur-interet-general/Ressources-DIG,False
+https://github.com/entrepreneur-interet-general/Ressources-DIG,True
 https://github.com/entrepreneur-interet-general/Shom.H3,True
 https://github.com/entrepreneur-interet-general/Shom.S57,True
 https://github.com/entrepreneur-interet-general/addocker,True
@@ -2138,7 +2139,7 @@ https://gitlab.adullact.net/Libriciel/lib-otrs-php,False
 https://gitlab.adullact.net/Libriciel/lib-suitecrm-php,True
 https://gitlab.adullact.net/Libriciel/refae,True
 https://gitlab.adullact.net/Libriciel/s2low,True
-https://gitlab.adullact.net/Libriciel/web-gfc,False
+https://gitlab.adullact.net/Libriciel/web-gfc,True
 https://gitlab.adullact.net/Quantifed-OSS/Quantified-OSS,False
 https://gitlab.adullact.net/UPSud/SoCo,True
 https://gitlab.adullact.net/adullact-sites-web/gitlab-aide.adullact.net,True
@@ -2194,7 +2195,7 @@ https://gitlab.com/pidila/select-a11y,True
 https://gitlab.com/pidila/sp-simulateurs-data,True
 https://gitlab.inria.fr/AlgebraicGeometricModeling/AlgebraicSolvers.jl,True
 https://gitlab.inria.fr/AlgebraicGeometricModeling/Axl.jl,True
-https://gitlab.inria.fr/AlgebraicGeometricModeling/GSplines.jl,False
+https://gitlab.inria.fr/AlgebraicGeometricModeling/GSplines.jl,True
 https://gitlab.inria.fr/AlgebraicGeometricModeling/MomentJuMP.jl,True
 https://gitlab.inria.fr/AlgebraicGeometricModeling/SemiAlgebraicTypes.jl,True
 https://gitlab.inria.fr/AlgebraicGeometricModeling/TensorDec.jl,False
