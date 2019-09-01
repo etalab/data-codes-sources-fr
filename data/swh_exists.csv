@@ -316,7 +316,7 @@ https://github.com/DISIC/rgaa_reactjs,True
 https://github.com/DISIC/rgaa_referentiel,True
 https://github.com/DISIC/rgaa_referentiel_3-2016,True
 https://github.com/DISIC/rgaa_referentiel_en,True
-https://github.com/DISIC/sill,False
+https://github.com/DISIC/sill,True
 https://github.com/DISIC/sirh-paye-GEST-compar,True
 https://github.com/DISIC/sirh-paye-mqd-poc,True
 https://github.com/DISIC/wikidemarches,True
@@ -985,7 +985,7 @@ https://github.com/betagouv/andi,True
 https://github.com/betagouv/annuaire,False
 https://github.com/betagouv/annuaire-api,True
 https://github.com/betagouv/annuaire-import,True
-https://github.com/betagouv/anpy,False
+https://github.com/betagouv/anpy,True
 https://github.com/betagouv/api-auth,False
 https://github.com/betagouv/api-caf,True
 https://github.com/betagouv/api-cpa,True
@@ -1013,7 +1013,7 @@ https://github.com/betagouv/cerfa-form-filler,True
 https://github.com/betagouv/civilsdeladefense,True
 https://github.com/betagouv/co-constuisons-api,True
 https://github.com/betagouv/co-constuisons-bot,True
-https://github.com/betagouv/coding-dojos,False
+https://github.com/betagouv/coding-dojos,True
 https://github.com/betagouv/competences-pro,True
 https://github.com/betagouv/competences-pro-orchestrateur,True
 https://github.com/betagouv/competences-pro-serveur,False
@@ -2067,7 +2067,7 @@ https://github.com/strasbourg/strasbourgstartups,True
 https://github.com/strasbourg/velhop-api,True
 https://github.com/wookey-project/app-bench-logger,True
 https://github.com/wookey-project/app-bench-syscalls,True
-https://github.com/wookey-project/app-dfu-cryp,False
+https://github.com/wookey-project/app-dfu-cryp,True
 https://github.com/wookey-project/app-dfu-smart,True
 https://github.com/wookey-project/app-dfu-usb,True
 https://github.com/wookey-project/app-sample-blinky,True
@@ -2122,7 +2122,7 @@ https://github.com/wookey-project/perms-matrix-wookey,True
 https://github.com/wookey-project/tataouine,True
 https://github.com/wookey-project/wookey-docker,False
 https://github.com/wookey-project/wookey-project.github.io,True
-https://github.com/wookey-project/wookeypedia,False
+https://github.com/wookey-project/wookeypedia,True
 https://gitlab.adullact.net/Comptoir/Comptoir-srv,False
 https://gitlab.adullact.net/Comptoir/puppet-comptoir,True
 https://gitlab.adullact.net/E-Collectivite/E-Collectivite-angular-client,True
@@ -2141,7 +2141,7 @@ https://gitlab.adullact.net/Libriciel/s2low,True
 https://gitlab.adullact.net/Libriciel/web-gfc,False
 https://gitlab.adullact.net/Quantifed-OSS/Quantified-OSS,False
 https://gitlab.adullact.net/UPSud/SoCo,True
-https://gitlab.adullact.net/adullact-sites-web/gitlab-aide.adullact.net,False
+https://gitlab.adullact.net/adullact-sites-web/gitlab-aide.adullact.net,True
 https://gitlab.adullact.net/adullact/Accompagnement-git-gitlab,True
 https://gitlab.adullact.net/adullact/Charte-Gitlat-Adullact,True
 https://gitlab.adullact.net/adullact/Repository_API,True
@@ -2162,7 +2162,7 @@ https://gitlab.adullact.net/pixelhumain/Rocket-Chat,True
 https://gitlab.adullact.net/pixelhumain/co-meta,True
 https://gitlab.adullact.net/pixelhumain/costum,True
 https://gitlab.adullact.net/pixelhumain/interop,True
-https://gitlab.adullact.net/pixelhumain/network,False
+https://gitlab.adullact.net/pixelhumain/network,True
 https://gitlab.adullact.net/pixelhumain/networkMapping,False
 https://gitlab.adullact.net/pixelhumain/news,True
 https://gitlab.adullact.net/pixelhumain/notragora,True
@@ -2204,7 +2204,7 @@ https://gitlab.inria.fr/Alpha/alphaz,True
 https://gitlab.inria.fr/CAPES-Math/clef-CAPES,False
 https://gitlab.inria.fr/CAPES-Math/live-build,True
 https://gitlab.inria.fr/ClassCode/class_code,True
-https://gitlab.inria.fr/ClassCode/class_code_v2,False
+https://gitlab.inria.fr/ClassCode/class_code_v2,True
 https://gitlab.inria.fr/ClassCode/classcodeadmin,True
 https://gitlab.inria.fr/ClassCode/pixees-theme,True
 https://gitlab.inria.fr/CompCert/ci,False
