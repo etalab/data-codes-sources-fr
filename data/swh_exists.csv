@@ -788,7 +788,7 @@ https://github.com/SocialGouv/code-du-travail-data,True
 https://github.com/SocialGouv/code-du-travail-monitoring,True
 https://github.com/SocialGouv/code-du-travail-numerique,True
 https://github.com/SocialGouv/code-du-travail-numerique2,True
-https://github.com/SocialGouv/code-du-travail-scenarios,False
+https://github.com/SocialGouv/code-du-travail-scenarios,True
 https://github.com/SocialGouv/code-du-travail-slides,True
 https://github.com/SocialGouv/code-du-travail-ui,True
 https://github.com/SocialGouv/conventions-collectives,True
@@ -986,7 +986,7 @@ https://github.com/betagouv/annuaire,True
 https://github.com/betagouv/annuaire-api,True
 https://github.com/betagouv/annuaire-import,True
 https://github.com/betagouv/anpy,True
-https://github.com/betagouv/api-auth,False
+https://github.com/betagouv/api-auth,True
 https://github.com/betagouv/api-caf,True
 https://github.com/betagouv/api-cpa,True
 https://github.com/betagouv/api-drones,True
@@ -1548,7 +1548,7 @@ https://github.com/etalab/addok-docker,True
 https://github.com/etalab/admin_api_entreprise,True
 https://github.com/etalab/adresse-data,False
 https://github.com/etalab/adresse-data-legacy-api,True
-https://github.com/etalab/adresse-explorer-api,False
+https://github.com/etalab/adresse-explorer-api,True
 https://github.com/etalab/adresse-pipeline,True
 https://github.com/etalab/adresse.data.gouv.fr,True
 https://github.com/etalab/adresse.data.gouv.fr-backend,True
