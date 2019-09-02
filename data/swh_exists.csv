@@ -553,7 +553,7 @@ https://github.com/Irstea/escroc,True
 https://github.com/Irstea/esfc,True
 https://github.com/Irstea/filo-science,True
 https://github.com/Irstea/irrig,True
-https://github.com/Irstea/magest,False
+https://github.com/Irstea/magest,True
 https://github.com/Irstea/otolithe,True
 https://github.com/Irstea/shomimport,True
 https://github.com/Irstea/usact,True
@@ -2003,7 +2003,7 @@ https://github.com/openfun/maintenance-page,True
 https://github.com/openfun/marsha,True
 https://github.com/openfun/matplotlib,True
 https://github.com/openfun/nantes-oer,True
-https://github.com/openfun/nltk,False
+https://github.com/openfun/nltk,True
 https://github.com/openfun/openedx-comments-docker,True
 https://github.com/openfun/openedx-con-2018,True
 https://github.com/openfun/openedx-con-2019,True
@@ -2098,7 +2098,7 @@ https://github.com/wookey-project/ewok-legacy,True
 https://github.com/wookey-project/hard-libs,True
 https://github.com/wookey-project/hard-tools,True
 https://github.com/wookey-project/hard-wookey-jtag,True
-https://github.com/wookey-project/hard-wookey-motherboard,False
+https://github.com/wookey-project/hard-wookey-motherboard,True
 https://github.com/wookey-project/hard-wookey-screen,True
 https://github.com/wookey-project/javacard-applet,True
 https://github.com/wookey-project/layout-stm32f407,True
