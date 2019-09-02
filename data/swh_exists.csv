@@ -426,6 +426,7 @@ https://github.com/Inist-CNRS/ezmaster-phpserver,True
 https://github.com/Inist-CNRS/ezmaster-virtuoso,True
 https://github.com/Inist-CNRS/ezmaster-web-term,True
 https://github.com/Inist-CNRS/ezmaster-webserver,True
+https://github.com/Inist-CNRS/ezs,False
 https://github.com/Inist-CNRS/get-doctype,True
 https://github.com/Inist-CNRS/ghostscript-js,True
 https://github.com/Inist-CNRS/inist-tools,True
@@ -923,7 +924,7 @@ https://github.com/atlanmod/ATL_MR,True
 https://github.com/atlanmod/Commons,True
 https://github.com/atlanmod/CoqTL,True
 https://github.com/atlanmod/CyprIoT,True
-https://github.com/atlanmod/DynamicAnalyser,False
+https://github.com/atlanmod/DynamicAnalyser,True
 https://github.com/atlanmod/EMFTVM-D,True
 https://github.com/atlanmod/Ecore2ATLCopier,True
 https://github.com/atlanmod/EnergyModel,True
@@ -2135,7 +2136,7 @@ https://gitlab.adullact.net/Libriciel/cakephp-beanstalk,True
 https://gitlab.adullact.net/Libriciel/generation-enveloppe-actes-test,True
 https://gitlab.adullact.net/Libriciel/iparapheur-android,True
 https://gitlab.adullact.net/Libriciel/iparapheur-ios,True
-https://gitlab.adullact.net/Libriciel/lib-otrs-php,False
+https://gitlab.adullact.net/Libriciel/lib-otrs-php,True
 https://gitlab.adullact.net/Libriciel/lib-suitecrm-php,True
 https://gitlab.adullact.net/Libriciel/refae,True
 https://gitlab.adullact.net/Libriciel/s2low,True
@@ -2175,7 +2176,7 @@ https://gitlab.adullact.net/pixelhumain/places,True
 https://gitlab.adullact.net/pixelhumain/pppm,True
 https://gitlab.adullact.net/pixelhumain/ressources,False
 https://gitlab.adullact.net/pixelhumain/reveal.js,False
-https://gitlab.adullact.net/pixelhumain/sig,False
+https://gitlab.adullact.net/pixelhumain/sig,True
 https://gitlab.adullact.net/pixelhumain/smarterre,True
 https://gitlab.adullact.net/pixelhumain/terla,True
 https://gitlab.adullact.net/pixelhumain/wiki-fr,True
