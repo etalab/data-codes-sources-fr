@@ -578,7 +578,7 @@ https://github.com/LINCnil/pia-app,True
 https://github.com/LINCnil/pia-back,True
 https://github.com/LINCnil/tosback2,True
 https://github.com/MTES-MCT/action-bidonvilles,True
-https://github.com/MTES-MCT/action-bidonvilles-api,False
+https://github.com/MTES-MCT/action-bidonvilles-api,True
 https://github.com/MTES-MCT/adock-ansible,True
 https://github.com/MTES-MCT/adock-api,True
 https://github.com/MTES-MCT/adock-ui,True
@@ -2210,7 +2210,7 @@ https://gitlab.inria.fr/ClassCode/class_code_v2,True
 https://gitlab.inria.fr/ClassCode/classcodeadmin,True
 https://gitlab.inria.fr/ClassCode/pixees-theme,True
 https://gitlab.inria.fr/CompCert/ci,False
-https://gitlab.inria.fr/Conferences/ICT_2018_MUFF,False
+https://gitlab.inria.fr/Conferences/ICT_2018_MUFF,True
 https://gitlab.inria.fr/andiamo/eusdisparser,True
 https://gitlab.inria.fr/andiamo/tony,True
 https://gitlab.inria.fr/compass/compass,True
