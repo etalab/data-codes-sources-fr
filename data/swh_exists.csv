@@ -38,7 +38,7 @@ https://git.unistra.fr/AOEINT/auth-api,True
 https://git.unistra.fr/AOEINT/client,True
 https://git.unistra.fr/AOEINT/doc,True
 https://git.unistra.fr/AOEINT/front-page,True
-https://git.unistra.fr/AOEINT/game-metrics,False
+https://git.unistra.fr/AOEINT/game-metrics,True
 https://git.unistra.fr/AOEINT/main,True
 https://git.unistra.fr/AOEINT/match-making,True
 https://git.unistra.fr/AOEINT/ranking,True
@@ -102,7 +102,7 @@ https://github.com/ARCEP-dev/geocodage_ban,True
 https://github.com/ARCEP-dev/monReseauMobile,True
 https://github.com/ARCEP-dev/regex,True
 https://github.com/ARCEP-dev/route500_improved,True
-https://github.com/ARCEP-dev/schemas,False
+https://github.com/ARCEP-dev/schemas,True
 https://github.com/ARCEP-dev/testDebitMire,True
 https://github.com/AlsaceDigitale/2012.edgefest.fr,True
 https://github.com/AlsaceDigitale/2013.edgefest.fr,True
