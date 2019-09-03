@@ -190,7 +190,7 @@ https://github.com/CEREMA/dtermed.annuaire,True
 https://github.com/CEREMA/dtermed.anywhere,True
 https://github.com/CEREMA/dtermed.bpclight-old,True
 https://github.com/CEREMA/dtermed.bpclight2,True
-https://github.com/CEREMA/dtermed.bpcmobile,False
+https://github.com/CEREMA/dtermed.bpcmobile,True
 https://github.com/CEREMA/dtermed.cerema-info,True
 https://github.com/CEREMA/dtermed.cloud2,True
 https://github.com/CEREMA/dtermed.cours_opendata_ente,True
@@ -1252,7 +1252,7 @@ https://github.com/clipos-archive/src_platform_clip-install-clip,True
 https://github.com/clipos-archive/src_platform_clip-install-common,True
 https://github.com/clipos-archive/src_platform_clip-install-config,True
 https://github.com/clipos-archive/src_platform_clip-install-gui,True
-https://github.com/clipos-archive/src_platform_clip-install-rm,False
+https://github.com/clipos-archive/src_platform_clip-install-rm,True
 https://github.com/clipos-archive/src_platform_clip-installer,True
 https://github.com/clipos-archive/src_platform_clip-lib,True
 https://github.com/clipos-archive/src_platform_clip-libvserver,True
@@ -2056,7 +2056,7 @@ https://github.com/sigrennesmetropole/sviewer_generator,True
 https://github.com/sigrennesmetropole/visualiseur,True
 https://github.com/snosan-tools/avurnavs-csv,True
 https://github.com/snosan-tools/avurnavs-fichiers,True
-https://github.com/snosan-tools/avurnavs.snosan.fr,False
+https://github.com/snosan-tools/avurnavs.snosan.fr,True
 https://github.com/snosan-tools/documentation.snosan.fr,True
 https://github.com/snosan-tools/outils.snosan.fr,True
 https://github.com/snosan-tools/quizz.snosan.fr,True
@@ -2124,7 +2124,7 @@ https://github.com/wookey-project/manifest,True
 https://github.com/wookey-project/perms-matrix-disco407-samples,True
 https://github.com/wookey-project/perms-matrix-wookey,True
 https://github.com/wookey-project/tataouine,True
-https://github.com/wookey-project/wookey-docker,False
+https://github.com/wookey-project/wookey-docker,True
 https://github.com/wookey-project/wookey-project.github.io,True
 https://github.com/wookey-project/wookeypedia,True
 https://gitlab.adullact.net/Comptoir/Comptoir-srv,True
