@@ -1037,7 +1037,7 @@ https://github.com/betagouv/eac,True
 https://github.com/betagouv/eac-api,True
 https://github.com/betagouv/eac-scrapper,True
 https://github.com/betagouv/etudiant-entrepreneur,True
-https://github.com/betagouv/fetch-normalize-data,False
+https://github.com/betagouv/fetch-normalize-data,True
 https://github.com/betagouv/fiches-de-banc,True
 https://github.com/betagouv/gps-usagers,True
 https://github.com/betagouv/grafana-scalingo,True
@@ -1063,6 +1063,7 @@ https://github.com/betagouv/mdph-redirect,True
 https://github.com/betagouv/mes-aides-analytics,True
 https://github.com/betagouv/mes-aides-api,True
 https://github.com/betagouv/mes-aides-campaign,True
+https://github.com/betagouv/mes-aides-changent,False
 https://github.com/betagouv/mes-aides-docker,True
 https://github.com/betagouv/mes-aides-dockerfiles,True
 https://github.com/betagouv/mes-aides-openfisca,True
@@ -1172,7 +1173,7 @@ https://github.com/betagouv/voir-et-localiser-samu-sign-on,True
 https://github.com/betagouv/with-login,True
 https://github.com/betagouv/with-query-router,True
 https://github.com/betagouv/with-react-login,True
-https://github.com/betagouv/with-react-query,False
+https://github.com/betagouv/with-react-query,True
 https://github.com/betagouv/with-react-redux-login,True
 https://github.com/betagouv/zam,True
 https://github.com/cea-hpc/NabLab,True
@@ -1247,7 +1248,7 @@ https://github.com/clipos-archive/src_platform_clip-gtw-net,True
 https://github.com/clipos-archive/src_platform_clip-hardware,True
 https://github.com/clipos-archive/src_platform_clip-icons,True
 https://github.com/clipos-archive/src_platform_clip-install-clip,True
-https://github.com/clipos-archive/src_platform_clip-install-common,False
+https://github.com/clipos-archive/src_platform_clip-install-common,True
 https://github.com/clipos-archive/src_platform_clip-install-config,True
 https://github.com/clipos-archive/src_platform_clip-install-gui,True
 https://github.com/clipos-archive/src_platform_clip-install-rm,False
@@ -2175,7 +2176,7 @@ https://gitlab.adullact.net/pixelhumain/pixelhumain,True
 https://gitlab.adullact.net/pixelhumain/places,True
 https://gitlab.adullact.net/pixelhumain/pppm,True
 https://gitlab.adullact.net/pixelhumain/ressources,False
-https://gitlab.adullact.net/pixelhumain/reveal.js,False
+https://gitlab.adullact.net/pixelhumain/reveal.js,True
 https://gitlab.adullact.net/pixelhumain/sig,True
 https://gitlab.adullact.net/pixelhumain/smarterre,True
 https://gitlab.adullact.net/pixelhumain/terla,True
