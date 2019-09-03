@@ -293,6 +293,7 @@ https://github.com/DISIC/guide-mobile_app_dev_natif,True
 https://github.com/DISIC/guide-troubles_DYS,True
 https://github.com/DISIC/guides-documents_bureautiques_accessibles,True
 https://github.com/DISIC/inventaire,True
+https://github.com/DISIC/label-ressources,False
 https://github.com/DISIC/panda,True
 https://github.com/DISIC/panorama,True
 https://github.com/DISIC/politique-de-contribution-open-source,True
@@ -1195,7 +1196,7 @@ https://github.com/cea-hpc/mooshika,True
 https://github.com/cea-hpc/nfs-ganesha,True
 https://github.com/cea-hpc/pcocc,True
 https://github.com/cea-hpc/pdwfs,False
-https://github.com/cea-hpc/phobos,False
+https://github.com/cea-hpc/phobos,True
 https://github.com/cea-hpc/robinhood,True
 https://github.com/cea-hpc/selFIe,True
 https://github.com/cea-hpc/shine,True
@@ -2142,7 +2143,7 @@ https://gitlab.adullact.net/Libriciel/lib-suitecrm-php,True
 https://gitlab.adullact.net/Libriciel/refae,True
 https://gitlab.adullact.net/Libriciel/s2low,True
 https://gitlab.adullact.net/Libriciel/web-gfc,True
-https://gitlab.adullact.net/Quantifed-OSS/Quantified-OSS,False
+https://gitlab.adullact.net/Quantifed-OSS/Quantified-OSS,True
 https://gitlab.adullact.net/UPSud/SoCo,True
 https://gitlab.adullact.net/adullact-sites-web/gitlab-aide.adullact.net,True
 https://gitlab.adullact.net/adullact/Accompagnement-git-gitlab,True
