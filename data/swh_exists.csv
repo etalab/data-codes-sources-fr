@@ -225,7 +225,7 @@ https://github.com/CEREMA/dtermed.webapp.ecureuil,True
 https://github.com/CEREMA/dtermed.webapp.rivages,True
 https://github.com/CEREMA/dterso.pluginQgis.CeremaCartEau,True
 https://github.com/CEREMA/dterso.pluginQgis3.CeremaCartEau3,True
-https://github.com/CEREMA/rivages-android,False
+https://github.com/CEREMA/rivages-android,True
 https://github.com/CEREMA/territoires-ville.DiagFeux,True
 https://github.com/CEREMA/territoires-ville.Giration,True
 https://github.com/CEREMA/territoires-ville.MiTemps,True
@@ -1234,7 +1234,7 @@ https://github.com/clipos-archive/src_platform_baselayout-rm,True
 https://github.com/clipos-archive/src_platform_baselayout-update,True
 https://github.com/clipos-archive/src_platform_bionic-malloc,True
 https://github.com/clipos-archive/src_platform_chroot-launch,True
-https://github.com/clipos-archive/src_platform_ckiutl,False
+https://github.com/clipos-archive/src_platform_ckiutl,True
 https://github.com/clipos-archive/src_platform_clip-beacon,False
 https://github.com/clipos-archive/src_platform_clip-build,True
 https://github.com/clipos-archive/src_platform_clip-buildbot,True
