@@ -427,7 +427,7 @@ https://github.com/Inist-CNRS/ezmaster-phpserver,True
 https://github.com/Inist-CNRS/ezmaster-virtuoso,True
 https://github.com/Inist-CNRS/ezmaster-web-term,True
 https://github.com/Inist-CNRS/ezmaster-webserver,True
-https://github.com/Inist-CNRS/ezs,False
+https://github.com/Inist-CNRS/ezs,True
 https://github.com/Inist-CNRS/get-doctype,True
 https://github.com/Inist-CNRS/ghostscript-js,True
 https://github.com/Inist-CNRS/inist-tools,True
@@ -2211,7 +2211,7 @@ https://gitlab.inria.fr/ClassCode/class_code,True
 https://gitlab.inria.fr/ClassCode/class_code_v2,True
 https://gitlab.inria.fr/ClassCode/classcodeadmin,True
 https://gitlab.inria.fr/ClassCode/pixees-theme,True
-https://gitlab.inria.fr/CompCert/ci,False
+https://gitlab.inria.fr/CompCert/ci,True
 https://gitlab.inria.fr/Conferences/ICT_2018_MUFF,True
 https://gitlab.inria.fr/andiamo/eusdisparser,True
 https://gitlab.inria.fr/andiamo/tony,True
