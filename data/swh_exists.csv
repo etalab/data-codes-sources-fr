@@ -293,7 +293,7 @@ https://github.com/DISIC/guide-mobile_app_dev_natif,True
 https://github.com/DISIC/guide-troubles_DYS,True
 https://github.com/DISIC/guides-documents_bureautiques_accessibles,True
 https://github.com/DISIC/inventaire,True
-https://github.com/DISIC/label-ressources,False
+https://github.com/DISIC/label-ressources,True
 https://github.com/DISIC/panda,True
 https://github.com/DISIC/panorama,True
 https://github.com/DISIC/politique-de-contribution-open-source,True
@@ -2202,7 +2202,7 @@ https://gitlab.inria.fr/AlgebraicGeometricModeling/Axl.jl,True
 https://gitlab.inria.fr/AlgebraicGeometricModeling/GSplines.jl,True
 https://gitlab.inria.fr/AlgebraicGeometricModeling/MomentJuMP.jl,True
 https://gitlab.inria.fr/AlgebraicGeometricModeling/SemiAlgebraicTypes.jl,True
-https://gitlab.inria.fr/AlgebraicGeometricModeling/TensorDec.jl,False
+https://gitlab.inria.fr/AlgebraicGeometricModeling/TensorDec.jl,True
 https://gitlab.inria.fr/AlgebraicGeometricModeling/multivariateseries.jl,True
 https://gitlab.inria.fr/Alpha/alpha-language,True
 https://gitlab.inria.fr/Alpha/alphaz,True
