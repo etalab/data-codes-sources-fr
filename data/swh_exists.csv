@@ -44,7 +44,7 @@ https://git.unistra.fr/AOEINT/match-making,True
 https://git.unistra.fr/AOEINT/ranking,True
 https://git.unistra.fr/AOEINT/server,True
 https://git.unistra.fr/AT1A/TrailManager,True
-https://git.unistra.fr/BAS18-T4-B/nom_du_groupe,False
+https://git.unistra.fr/BAS18-T4-B/nom_du_groupe,True
 https://git.unistra.fr/BAS18-T4-D/StrasBuilder,True
 https://git.unistra.fr/BLL17_T3_D/SedationMaPassion,True
 https://git.unistra.fr/CAMMA-public/mvor,True
@@ -607,7 +607,7 @@ https://github.com/MTES-MCT/dataqual,True
 https://github.com/MTES-MCT/dataroom,True
 https://github.com/MTES-MCT/ecophyto,True
 https://github.com/MTES-MCT/enr-and-ground,True
-https://github.com/MTES-MCT/filharmonic,False
+https://github.com/MTES-MCT/filharmonic,True
 https://github.com/MTES-MCT/filharmonic-api,True
 https://github.com/MTES-MCT/filharmonic-infrastructure,True
 https://github.com/MTES-MCT/filharmonic-ui,True
@@ -2131,7 +2131,7 @@ https://gitlab.adullact.net/Comptoir/Comptoir-srv,True
 https://gitlab.adullact.net/Comptoir/puppet-comptoir,True
 https://gitlab.adullact.net/E-Collectivite/E-Collectivite-angular-client,True
 https://gitlab.adullact.net/E-Collectivite/E-Collectivite-drupal-client,True
-https://gitlab.adullact.net/E-Collectivite/E-Collectivite-server,False
+https://gitlab.adullact.net/E-Collectivite/E-Collectivite-server,True
 https://gitlab.adullact.net/GetMySoftware/GetMySoftware,True
 https://gitlab.adullact.net/Libriciel/cakephp,True
 https://gitlab.adullact.net/Libriciel/cakephp-beanstalk,True
