@@ -1236,7 +1236,7 @@ https://github.com/clipos-archive/src_platform_baselayout-update,True
 https://github.com/clipos-archive/src_platform_bionic-malloc,True
 https://github.com/clipos-archive/src_platform_chroot-launch,True
 https://github.com/clipos-archive/src_platform_ckiutl,True
-https://github.com/clipos-archive/src_platform_clip-beacon,False
+https://github.com/clipos-archive/src_platform_clip-beacon,True
 https://github.com/clipos-archive/src_platform_clip-build,True
 https://github.com/clipos-archive/src_platform_clip-buildbot,True
 https://github.com/clipos-archive/src_platform_clip-config,True
