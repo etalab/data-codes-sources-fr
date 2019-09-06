@@ -1293,7 +1293,7 @@ https://github.com/clipos-archive/src_platform_jailmaster,True
 https://github.com/clipos-archive/src_platform_jailrequest,True
 https://github.com/clipos-archive/src_platform_libanssipki-client,True
 https://github.com/clipos-archive/src_platform_libanssipki-crypto,True
-https://github.com/clipos-archive/src_platform_openbsd-malloc,False
+https://github.com/clipos-archive/src_platform_openbsd-malloc,True
 https://github.com/clipos-archive/src_platform_pam_exec_pwd,True
 https://github.com/clipos-archive/src_platform_pam_jail,True
 https://github.com/clipos-archive/src_platform_pfring-kernel-patches,True
