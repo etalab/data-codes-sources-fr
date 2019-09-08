@@ -2095,7 +2095,7 @@ https://github.com/wookey-project/driver-stm32f4x9-cryp,True
 https://github.com/wookey-project/driver-stm32f4xx-flash,True
 https://github.com/wookey-project/driver-stm32f4xx-hash,True
 https://github.com/wookey-project/driver-stm32f4xx-iso7816,True
-https://github.com/wookey-project/driver-stm32f4xx-sdio,False
+https://github.com/wookey-project/driver-stm32f4xx-sdio,True
 https://github.com/wookey-project/driver-stm32f4xx-spi,True
 https://github.com/wookey-project/driver-stm32f4xx-usart,True
 https://github.com/wookey-project/driver-stm32f4xx-usb,True
