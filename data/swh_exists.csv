@@ -1175,7 +1175,7 @@ https://github.com/betagouv/verif.site,True
 https://github.com/betagouv/voir-et-localiser-samu-sign-on,True
 https://github.com/betagouv/with-login,True
 https://github.com/betagouv/with-query-router,True
-https://github.com/betagouv/with-react-form,False
+https://github.com/betagouv/with-react-form,True
 https://github.com/betagouv/with-react-login,True
 https://github.com/betagouv/with-react-query,True
 https://github.com/betagouv/with-react-redux-login,True
@@ -1309,7 +1309,7 @@ https://github.com/clipos-archive/src_platform_splash-theme-clip,True
 https://github.com/clipos-archive/src_platform_ssm-display,True
 https://github.com/clipos-archive/src_platform_strongswan-clip-updown,True
 https://github.com/clipos-archive/src_platform_strongswan-patches,True
-https://github.com/clipos-archive/src_platform_sub-clip,False
+https://github.com/clipos-archive/src_platform_sub-clip,True
 https://github.com/clipos-archive/src_platform_syslinux-tpm-patches,True
 https://github.com/clipos-archive/src_platform_tpm-cmd,True
 https://github.com/clipos-archive/src_platform_usb-printer-devices,True
@@ -2208,7 +2208,7 @@ https://gitlab.inria.fr/AlgebraicGeometricModeling/TensorDec.jl,True
 https://gitlab.inria.fr/AlgebraicGeometricModeling/multivariateseries.jl,True
 https://gitlab.inria.fr/Alpha/alpha-language,True
 https://gitlab.inria.fr/Alpha/alphaz,True
-https://gitlab.inria.fr/CAPES-Math/clef-CAPES,False
+https://gitlab.inria.fr/CAPES-Math/clef-CAPES,True
 https://gitlab.inria.fr/CAPES-Math/live-build,True
 https://gitlab.inria.fr/ClassCode/class_code,True
 https://gitlab.inria.fr/ClassCode/class_code_v2,True
