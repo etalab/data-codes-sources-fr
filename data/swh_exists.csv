@@ -1028,7 +1028,7 @@ https://github.com/betagouv/dds-cross-simulator,True
 https://github.com/betagouv/demarches-simplifiees.fr,True
 https://github.com/betagouv/dialogue-de-gestion,True
 https://github.com/betagouv/discourse-oauth2-basic,True
-https://github.com/betagouv/django-magicauth,False
+https://github.com/betagouv/django-magicauth,True
 https://github.com/betagouv/dns,True
 https://github.com/betagouv/domain-scan,True
 https://github.com/betagouv/dossiersco,True
