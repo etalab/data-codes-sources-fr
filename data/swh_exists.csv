@@ -3,7 +3,7 @@ https://framagit.org/datatourisme/api,True
 https://framagit.org/datatourisme/docker-stack,True
 https://framagit.org/datatourisme/ontology,True
 https://framagit.org/dgfip/ir-calcul,True
-https://framagit.org/etalab/code.gouv.fr,False
+https://framagit.org/etalab/code.gouv.fr,True
 https://framagit.org/etalab/consultation-gouv-fr-deployment-api,True
 https://framagit.org/etalab/faire-simple,True
 https://framagit.org/etalab/gencodegouv,True
@@ -617,7 +617,7 @@ https://github.com/MTES-MCT/geo-communes-api,True
 https://github.com/MTES-MCT/geostatis,True
 https://github.com/MTES-MCT/invasivalerte,True
 https://github.com/MTES-MCT/kelrisks,True
-https://github.com/MTES-MCT/kelrisks-data-preparation,False
+https://github.com/MTES-MCT/kelrisks-data-preparation,True
 https://github.com/MTES-MCT/kelrisks-datascience,True
 https://github.com/MTES-MCT/locatio,True
 https://github.com/MTES-MCT/numerique,True
