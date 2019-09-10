@@ -1784,6 +1784,7 @@ https://github.com/histovec/mock-up,True
 https://github.com/histovec/slides,True
 https://github.com/ia-flash/app,True
 https://github.com/ia-flash/demo,True
+https://github.com/ia-flash/frontend,False
 https://github.com/ia-flash/matchvec,True
 https://github.com/ia-flash/sivnorm,True
 https://github.com/ina-foss/ID-Fits,True
@@ -2218,6 +2219,7 @@ https://gitlab.inria.fr/CompCert/ci,True
 https://gitlab.inria.fr/Conferences/ICT_2018_MUFF,True
 https://gitlab.inria.fr/andiamo/eusdisparser,True
 https://gitlab.inria.fr/andiamo/tony,True
+https://gitlab.inria.fr/cidre-public/malcon19,False
 https://gitlab.inria.fr/compass/compass,True
 https://gitlab.inria.fr/compass/meshtools,True
 https://gitlab.inria.fr/comprise/deliverable_d21,True
