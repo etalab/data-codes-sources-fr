@@ -1226,7 +1226,7 @@ https://github.com/cget-carto/le-grand-debat-national,False
 https://github.com/cget-carto/metropoles,False
 https://github.com/cget-carto/mission_coworking,False
 https://github.com/cget-carto/npnru,True
-https://github.com/cget-carto/rcv,False
+https://github.com/cget-carto/rcv,True
 https://github.com/cget-carto/superposeur,False
 https://github.com/clipos-archive/clipos4_artifacts,True
 https://github.com/clipos-archive/clipos4_distfiles,True
@@ -2235,7 +2235,7 @@ https://gitlab.inria.fr/CompCert/ci,True
 https://gitlab.inria.fr/Conferences/ICT_2018_MUFF,True
 https://gitlab.inria.fr/andiamo/eusdisparser,True
 https://gitlab.inria.fr/andiamo/tony,True
-https://gitlab.inria.fr/cidre-public/malcon19,False
+https://gitlab.inria.fr/cidre-public/malcon19,True
 https://gitlab.inria.fr/compass/compass,True
 https://gitlab.inria.fr/compass/meshtools,True
 https://gitlab.inria.fr/comprise/deliverable_d21,True
