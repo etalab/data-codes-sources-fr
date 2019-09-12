@@ -607,6 +607,7 @@ https://github.com/MTES-MCT/dataqual,True
 https://github.com/MTES-MCT/dataroom,True
 https://github.com/MTES-MCT/ecophyto,True
 https://github.com/MTES-MCT/enr-and-ground,True
+https://github.com/MTES-MCT/explorateur-ecocites,False
 https://github.com/MTES-MCT/filharmonic,True
 https://github.com/MTES-MCT/filharmonic-api,True
 https://github.com/MTES-MCT/filharmonic-infrastructure,True
@@ -1218,7 +1219,7 @@ https://github.com/cget-carto/acces-au-droit,False
 https://github.com/cget-carto/ba-coh-terr,True
 https://github.com/cget-carto/barometre_cohesion_territoires,False
 https://github.com/cget-carto/c2v,True
-https://github.com/cget-carto/clsm,False
+https://github.com/cget-carto/clsm,True
 https://github.com/cget-carto/dataviz,True
 https://github.com/cget-carto/dgf,False
 https://github.com/cget-carto/dotation_investissement,False
