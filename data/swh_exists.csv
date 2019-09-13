@@ -550,6 +550,7 @@ https://github.com/Irstea/alisma,True
 https://github.com/Irstea/bd_patrimoine,True
 https://github.com/Irstea/bsc12,True
 https://github.com/Irstea/caso,True
+https://github.com/Irstea/chocR,False
 https://github.com/Irstea/collec,True
 https://github.com/Irstea/escroc,True
 https://github.com/Irstea/esfc,True
@@ -916,6 +917,20 @@ https://github.com/afimb/siri-validator,True
 https://github.com/afimb/siri_api,True
 https://github.com/afimb/siri_lite,True
 https://github.com/afimb/webtopo_api,True
+https://github.com/ambanum/DormantTwitterAccountsDetector,False
+https://github.com/ambanum/TwitterAccountsHistory,False
+https://github.com/ambanum/beta.gouv.fr,False
+https://github.com/ambanum/desinfo-mattermost-integrations,False
+https://github.com/ambanum/desinfo.quaidorsay.fr-wiki,False
+https://github.com/ambanum/disinfo.quaidorsay.fr,False
+https://github.com/ambanum/just-the-docs,False
+https://github.com/ambanum/media-scale,False
+https://github.com/ambanum/node-botometer,False
+https://github.com/ambanum/node-i18n-iso-countries,False
+https://github.com/ambanum/panoptes,False
+https://github.com/ambanum/political-ads-legality,False
+https://github.com/ambanum/political-ads-scraper,False
+https://github.com/ambanum/server-config,False
 https://github.com/atlanmod/ACP,True
 https://github.com/atlanmod/ACP-FIX,True
 https://github.com/atlanmod/ACP-all,True
@@ -1228,7 +1243,7 @@ https://github.com/cget-carto/metropoles,True
 https://github.com/cget-carto/mission_coworking,False
 https://github.com/cget-carto/npnru,True
 https://github.com/cget-carto/rcv,True
-https://github.com/cget-carto/superposeur,False
+https://github.com/cget-carto/superposeur,True
 https://github.com/clipos-archive/clipos4_artifacts,True
 https://github.com/clipos-archive/clipos4_distfiles,True
 https://github.com/clipos-archive/clipos4_doc,True
