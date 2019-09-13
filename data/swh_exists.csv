@@ -552,6 +552,7 @@ https://github.com/Irstea/bsc12,True
 https://github.com/Irstea/caso,True
 https://github.com/Irstea/chocR,False
 https://github.com/Irstea/collec,True
+https://github.com/Irstea/cpgsR,False
 https://github.com/Irstea/escroc,True
 https://github.com/Irstea/esfc,True
 https://github.com/Irstea/filo-science,True
@@ -879,6 +880,7 @@ https://github.com/StartupsPoleEmploi/memo,True
 https://github.com/StartupsPoleEmploi/mjl-avril,True
 https://github.com/StartupsPoleEmploi/perspectives,True
 https://github.com/StartupsPoleEmploi/qpvzrr,True
+https://github.com/StartupsPoleEmploi/trefle,False
 https://github.com/StartupsPoleEmploi/zen,True
 https://github.com/addok/addocker,True
 https://github.com/addok/addok,True
@@ -917,8 +919,8 @@ https://github.com/afimb/siri-validator,True
 https://github.com/afimb/siri_api,True
 https://github.com/afimb/siri_lite,True
 https://github.com/afimb/webtopo_api,True
-https://github.com/ambanum/DormantTwitterAccountsDetector,False
-https://github.com/ambanum/TwitterAccountsHistory,False
+https://github.com/ambanum/DormantTwitterAccountsDetector,True
+https://github.com/ambanum/TwitterAccountsHistory,True
 https://github.com/ambanum/beta.gouv.fr,False
 https://github.com/ambanum/desinfo-mattermost-integrations,False
 https://github.com/ambanum/desinfo.quaidorsay.fr-wiki,False
@@ -1020,6 +1022,7 @@ https://github.com/betagouv/api-stats-elk,True
 https://github.com/betagouv/api.gouv.fr,True
 https://github.com/betagouv/aplus,True
 https://github.com/betagouv/beta.gouv.fr,True
+https://github.com/betagouv/beta.gouv.fr.wiki-autoclone,False
 https://github.com/betagouv/beta.ssi,True
 https://github.com/betagouv/beta.wip,True
 https://github.com/betagouv/betaGouvBot,True
@@ -2252,6 +2255,7 @@ https://gitlab.inria.fr/Conferences/ICT_2018_MUFF,True
 https://gitlab.inria.fr/andiamo/eusdisparser,True
 https://gitlab.inria.fr/andiamo/tony,True
 https://gitlab.inria.fr/cidre-public/malcon19,True
+https://gitlab.inria.fr/cidre-public/pymao,False
 https://gitlab.inria.fr/compass/compass,True
 https://gitlab.inria.fr/compass/meshtools,True
 https://gitlab.inria.fr/comprise/deliverable_d21,True
