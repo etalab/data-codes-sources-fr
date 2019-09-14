@@ -932,7 +932,7 @@ https://github.com/ambanum/node-i18n-iso-countries,False
 https://github.com/ambanum/panoptes,False
 https://github.com/ambanum/political-ads-legality,False
 https://github.com/ambanum/political-ads-scraper,False
-https://github.com/ambanum/server-config,False
+https://github.com/ambanum/server-config,True
 https://github.com/atlanmod/ACP,True
 https://github.com/atlanmod/ACP-FIX,True
 https://github.com/atlanmod/ACP-all,True
@@ -1239,8 +1239,8 @@ https://github.com/cget-carto/barometre_cohesion_territoires,False
 https://github.com/cget-carto/c2v,True
 https://github.com/cget-carto/clsm,True
 https://github.com/cget-carto/dataviz,True
-https://github.com/cget-carto/dgf,False
-https://github.com/cget-carto/dotation_investissement,False
+https://github.com/cget-carto/dgf,True
+https://github.com/cget-carto/dotation_investissement,True
 https://github.com/cget-carto/le-grand-debat-national,False
 https://github.com/cget-carto/metropoles,True
 https://github.com/cget-carto/mission_coworking,True
@@ -2198,7 +2198,7 @@ https://gitlab.adullact.net/amies/amies-server,True
 https://gitlab.adullact.net/amies/puppet-amies,True
 https://gitlab.adullact.net/capex/capex,True
 https://gitlab.adullact.net/departements-notaires/departements-notaires,True
-https://gitlab.adullact.net/directmairie/directmairie,False
+https://gitlab.adullact.net/directmairie/directmairie,True
 https://gitlab.adullact.net/directmairie/puppet-directmairie,True
 https://gitlab.adullact.net/e-carre/e-carre-particuliers,True
 https://gitlab.adullact.net/pixelhumain/Rocket-Chat,True
