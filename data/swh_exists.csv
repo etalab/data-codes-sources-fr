@@ -552,7 +552,7 @@ https://github.com/Irstea/bsc12,True
 https://github.com/Irstea/caso,True
 https://github.com/Irstea/chocR,False
 https://github.com/Irstea/collec,True
-https://github.com/Irstea/cpgsR,False
+https://github.com/Irstea/cpgsR,True
 https://github.com/Irstea/escroc,True
 https://github.com/Irstea/esfc,True
 https://github.com/Irstea/filo-science,True
@@ -920,6 +920,7 @@ https://github.com/afimb/siri_api,True
 https://github.com/afimb/siri_lite,True
 https://github.com/afimb/webtopo_api,True
 https://github.com/ambanum/DormantTwitterAccountsDetector,True
+https://github.com/ambanum/ParisCall,False
 https://github.com/ambanum/TwitterAccountsHistory,True
 https://github.com/ambanum/beta.gouv.fr,True
 https://github.com/ambanum/desinfo-mattermost-integrations,False
@@ -1241,7 +1242,7 @@ https://github.com/cget-carto/clsm,True
 https://github.com/cget-carto/dataviz,True
 https://github.com/cget-carto/dgf,True
 https://github.com/cget-carto/dotation_investissement,True
-https://github.com/cget-carto/le-grand-debat-national,False
+https://github.com/cget-carto/le-grand-debat-national,True
 https://github.com/cget-carto/metropoles,True
 https://github.com/cget-carto/mission_coworking,True
 https://github.com/cget-carto/npnru,True
@@ -1705,6 +1706,7 @@ https://github.com/etalab/geoids,True
 https://github.com/etalab/geologos,True
 https://github.com/etalab/geozones,True
 https://github.com/etalab/gpu-jpeg2k,True
+https://github.com/etalab/guide-des-licences-de-reutilisation,False
 https://github.com/etalab/guide-juridique-logiciel-libre,True
 https://github.com/etalab/guide-juridique-open-data,True
 https://github.com/etalab/hackdash,True
@@ -2221,6 +2223,10 @@ https://gitlab.adullact.net/pixelhumain/sig,True
 https://gitlab.adullact.net/pixelhumain/smarterre,True
 https://gitlab.adullact.net/pixelhumain/terla,True
 https://gitlab.adullact.net/pixelhumain/wiki-fr,True
+https://gitlab.com/dreal-datalab/adresses-mairies-epci,False
+https://gitlab.com/dreal-datalab/codes_postaux,False
+https://gitlab.com/dreal-datalab/communications,False
+https://gitlab.com/dreal-datalab/poc-enr-teo,False
 https://gitlab.com/healthdatahub/dico-snds,True
 https://gitlab.com/healthdatahub/documentation-snds,True
 https://gitlab.com/healthdatahub/indexation-nomenclatures,True
