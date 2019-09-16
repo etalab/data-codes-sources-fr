@@ -930,7 +930,7 @@ https://github.com/ambanum/just-the-docs,True
 https://github.com/ambanum/media-scale,True
 https://github.com/ambanum/node-botometer,True
 https://github.com/ambanum/node-i18n-iso-countries,False
-https://github.com/ambanum/panoptes,False
+https://github.com/ambanum/panoptes,True
 https://github.com/ambanum/political-ads-legality,False
 https://github.com/ambanum/political-ads-scraper,True
 https://github.com/ambanum/server-config,True
@@ -2191,6 +2191,7 @@ https://gitlab.adullact.net/adullact/Repository_API,True
 https://gitlab.adullact.net/adullact/demarches-simplifiees-global,True
 https://gitlab.adullact.net/adullact/puppet-etherpad,True
 https://gitlab.adullact.net/adullact/puppet-freeipa,True
+https://gitlab.adullact.net/adullact/puppet-fusionforge,False
 https://gitlab.adullact.net/adullact/puppet-gitlabrunner,True
 https://gitlab.adullact.net/adullact/puppet-wordpress,True
 https://gitlab.adullact.net/adullact/theme-wordpress-adullact-org,True
