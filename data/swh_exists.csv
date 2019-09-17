@@ -834,6 +834,7 @@ https://github.com/SocialGouv/mattermost-plugin-google-calendar,True
 https://github.com/SocialGouv/meditor,True
 https://github.com/SocialGouv/next-routes,True
 https://github.com/SocialGouv/polyfill-service,True
+https://github.com/SocialGouv/postgrest,False
 https://github.com/SocialGouv/react-departements,True
 https://github.com/SocialGouv/renovate-config,True
 https://github.com/SocialGouv/seminaire,True
@@ -2201,6 +2202,8 @@ https://gitlab.adullact.net/aife/place,True
 https://gitlab.adullact.net/amies/amies-server,True
 https://gitlab.adullact.net/amies/puppet-amies,True
 https://gitlab.adullact.net/capex/capex,True
+https://gitlab.adullact.net/demarches-simplifiees/puppet-demarches-simplifiees,False
+https://gitlab.adullact.net/demarches-simplifiees/vagrant-demarches-simplifiees,False
 https://gitlab.adullact.net/departements-notaires/departements-notaires,True
 https://gitlab.adullact.net/directmairie/directmairie,True
 https://gitlab.adullact.net/directmairie/puppet-directmairie,True
