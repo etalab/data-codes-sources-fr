@@ -609,7 +609,7 @@ https://github.com/MTES-MCT/dataqual,True
 https://github.com/MTES-MCT/dataroom,True
 https://github.com/MTES-MCT/ecophyto,True
 https://github.com/MTES-MCT/enr-and-ground,True
-https://github.com/MTES-MCT/explorateur-ecocites,False
+https://github.com/MTES-MCT/explorateur-ecocites,True
 https://github.com/MTES-MCT/filharmonic,True
 https://github.com/MTES-MCT/filharmonic-api,True
 https://github.com/MTES-MCT/filharmonic-infrastructure,True
@@ -930,7 +930,7 @@ https://github.com/ambanum/disinfo.quaidorsay.fr,True
 https://github.com/ambanum/just-the-docs,True
 https://github.com/ambanum/media-scale,True
 https://github.com/ambanum/node-botometer,True
-https://github.com/ambanum/node-i18n-iso-countries,False
+https://github.com/ambanum/node-i18n-iso-countries,True
 https://github.com/ambanum/panoptes,True
 https://github.com/ambanum/political-ads-legality,False
 https://github.com/ambanum/political-ads-scraper,True
