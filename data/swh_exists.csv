@@ -1191,6 +1191,7 @@ https://github.com/betagouv/signup-oauth,True
 https://github.com/betagouv/signup.api.gouv.fr,True
 https://github.com/betagouv/signup.api.gouv.fr-docker,True
 https://github.com/betagouv/slack-ovh,True
+https://github.com/betagouv/sqlalchemy-api-handler,False
 https://github.com/betagouv/sqlalchemy-handler,True
 https://github.com/betagouv/standup,True
 https://github.com/betagouv/svair-api,True
