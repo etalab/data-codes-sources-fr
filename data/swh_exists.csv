@@ -818,6 +818,7 @@ https://github.com/SocialGouv/egapro,True
 https://github.com/SocialGouv/emjpm,True
 https://github.com/SocialGouv/emjpm-design,True
 https://github.com/SocialGouv/emjpm-design-system,True
+https://github.com/SocialGouv/emjpm-migration-k8s,False
 https://github.com/SocialGouv/emjpm-ui,True
 https://github.com/SocialGouv/faq-code-du-travail,True
 https://github.com/SocialGouv/fce,True
@@ -1051,6 +1052,7 @@ https://github.com/betagouv/cout-embauche,True
 https://github.com/betagouv/dashboard_apientreprise,True
 https://github.com/betagouv/dds-cross-simulator,True
 https://github.com/betagouv/demarches-simplifiees.fr,True
+https://github.com/betagouv/diagoriente-admin,False
 https://github.com/betagouv/diagoriente-front,False
 https://github.com/betagouv/dialogue-de-gestion,True
 https://github.com/betagouv/discourse-oauth2-basic,True
