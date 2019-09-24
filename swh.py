@@ -20,7 +20,7 @@ class SwhExists(object):
     def swh_url(self, origin_url):
         is_available = self.origin_available(origin_url)
         if is_available:
-            return f"https://archive.softwareheritage.org/browse/origin/{origin_url}/directory/"
+            return f"https://archive.softwareheritage.org/browse/origin/{origin_url}"
         return is_available
 
     def load_data(self):
@@ -52,7 +52,7 @@ class SwhExists(object):
         if not self.should_call_api:
             return self.store_origin_result(origin_url, None)
 
-        url = f"{self.SWH_BASE_URL}origin/git/url/{origin_url}"
+        url = f"{self.SWH_BASE_URL}origin/{origin_url}/get/"
         resp = requests.get(url, headers=self.SWH_HEADERS)
         if resp.status_code == 200:
             return self.store_origin_result(origin_url, True)
