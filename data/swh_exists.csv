@@ -679,6 +679,7 @@ https://github.com/PnCevennes/app_recrutement_client,True
 https://github.com/PnCevennes/courbes_eau,True
 https://github.com/PnCevennes/demandes_autorisations,True
 https://github.com/PnCevennes/docker,True
+https://github.com/PnCevennes/floraOccitania,False
 https://github.com/PnCevennes/gn_module_suivi_chiro,True
 https://github.com/PnCevennes/gn_module_suivi_oedic,True
 https://github.com/PnCevennes/ng-mapCreator-fp,True
@@ -1104,6 +1105,7 @@ https://github.com/betagouv/mes-aides-ops,True
 https://github.com/betagouv/mes-aides-out,True
 https://github.com/betagouv/mes-aides-ui,True
 https://github.com/betagouv/meteor-assemblee-nationale,True
+https://github.com/betagouv/mon-entreprise,False
 https://github.com/betagouv/monstage,True
 https://github.com/betagouv/movie-app,False
 https://github.com/betagouv/mpal,True
@@ -1752,6 +1754,7 @@ https://github.com/etalab/osm-wms,True
 https://github.com/etalab/ouverture-des-codes-sources-publics,True
 https://github.com/etalab/ox-html-timeline,True
 https://github.com/etalab/piaf,True
+https://github.com/etalab/piaf-site,False
 https://github.com/etalab/piwik-covisits,True
 https://github.com/etalab/piwik_logs,True
 https://github.com/etalab/plan-ogp-2015-2017,True
@@ -2248,6 +2251,7 @@ https://gitlab.com/dreal-datalab/communications,False
 https://gitlab.com/dreal-datalab/drealdown,False
 https://gitlab.com/dreal-datalab/drealthemes,False
 https://gitlab.com/dreal-datalab/poc-enr-teo,False
+https://gitlab.com/dreal-datalab/rrrpls,False
 https://gitlab.com/dreal-datalab/shinydreal,False
 https://gitlab.com/healthdatahub/dico-snds,True
 https://gitlab.com/healthdatahub/documentation-snds,True
