@@ -628,7 +628,7 @@ https://github.com/MTES-MCT/numerique,True
 https://github.com/MTES-MCT/parcours-r,True
 https://github.com/MTES-MCT/permis-construire,True
 https://github.com/MTES-MCT/portail,True
-https://github.com/MTES-MCT/rapportNav,False
+https://github.com/MTES-MCT/rapportNav,True
 https://github.com/MTES-MCT/rieau,True
 https://github.com/MTES-MCT/rieau-api,True
 https://github.com/MTES-MCT/rieau-infra,True
@@ -928,7 +928,7 @@ https://github.com/afimb/siri_api,True
 https://github.com/afimb/siri_lite,True
 https://github.com/afimb/webtopo_api,True
 https://github.com/ambanum/DormantTwitterAccountsDetector,True
-https://github.com/ambanum/ParisCall,False
+https://github.com/ambanum/ParisCall,True
 https://github.com/ambanum/TwitterAccountsHistory,True
 https://github.com/ambanum/beta.gouv.fr,True
 https://github.com/ambanum/desinfo-mattermost-integrations,True
@@ -1013,7 +1013,7 @@ https://github.com/betagouv/admin-traitdunion,True
 https://github.com/betagouv/allegement-fillon,True
 https://github.com/betagouv/andi,True
 https://github.com/betagouv/andi-docker,False
-https://github.com/betagouv/andi-matching,False
+https://github.com/betagouv/andi-matching,True
 https://github.com/betagouv/annuaire,True
 https://github.com/betagouv/annuaire-api,True
 https://github.com/betagouv/annuaire-import,True
@@ -1108,7 +1108,7 @@ https://github.com/betagouv/mes-aides-ui,True
 https://github.com/betagouv/meteor-assemblee-nationale,True
 https://github.com/betagouv/mon-entreprise,False
 https://github.com/betagouv/monstage,True
-https://github.com/betagouv/movie-app,False
+https://github.com/betagouv/movie-app,True
 https://github.com/betagouv/mpal,True
 https://github.com/betagouv/mpal-deploy,True
 https://github.com/betagouv/mpal-rod,True
