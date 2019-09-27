@@ -544,6 +544,7 @@ https://github.com/InseeFr/Pogues-Back-Office,True
 https://github.com/InseeFr/Pogues-Model,True
 https://github.com/InseeFr/Quatro,True
 https://github.com/InseeFr/VTL-Tools,True
+https://github.com/InseeFr/diffman,False
 https://github.com/Irstea/ALPFORPLOTS,True
 https://github.com/Irstea/Redmine-mod-perl-auth,True
 https://github.com/Irstea/alisma,True
@@ -819,7 +820,7 @@ https://github.com/SocialGouv/egapro,True
 https://github.com/SocialGouv/emjpm,True
 https://github.com/SocialGouv/emjpm-design,True
 https://github.com/SocialGouv/emjpm-design-system,True
-https://github.com/SocialGouv/emjpm-migration-k8s,False
+https://github.com/SocialGouv/emjpm-migration-k8s,True
 https://github.com/SocialGouv/emjpm-ui,True
 https://github.com/SocialGouv/faq-code-du-travail,True
 https://github.com/SocialGouv/fce,True
@@ -2211,7 +2212,7 @@ https://gitlab.adullact.net/adullact/Repository_API,True
 https://gitlab.adullact.net/adullact/demarches-simplifiees-global,True
 https://gitlab.adullact.net/adullact/puppet-etherpad,True
 https://gitlab.adullact.net/adullact/puppet-freeipa,True
-https://gitlab.adullact.net/adullact/puppet-fusionforge,False
+https://gitlab.adullact.net/adullact/puppet-fusionforge,True
 https://gitlab.adullact.net/adullact/puppet-gitlabrunner,True
 https://gitlab.adullact.net/adullact/puppet-wordpress,True
 https://gitlab.adullact.net/adullact/theme-wordpress-adullact-org,True
@@ -2220,7 +2221,7 @@ https://gitlab.adullact.net/aife/place,True
 https://gitlab.adullact.net/amies/amies-server,True
 https://gitlab.adullact.net/amies/puppet-amies,True
 https://gitlab.adullact.net/capex/capex,True
-https://gitlab.adullact.net/demarches-simplifiees/puppet-demarches-simplifiees,False
+https://gitlab.adullact.net/demarches-simplifiees/puppet-demarches-simplifiees,True
 https://gitlab.adullact.net/demarches-simplifiees/vagrant-demarches-simplifiees,False
 https://gitlab.adullact.net/departements-notaires/departements-notaires,True
 https://gitlab.adullact.net/directmairie/directmairie,True
@@ -2246,7 +2247,7 @@ https://gitlab.adullact.net/pixelhumain/sig,True
 https://gitlab.adullact.net/pixelhumain/smarterre,True
 https://gitlab.adullact.net/pixelhumain/terla,True
 https://gitlab.adullact.net/pixelhumain/wiki-fr,True
-https://gitlab.com/dreal-datalab/adresses-mairies-epci,False
+https://gitlab.com/dreal-datalab/adresses-mairies-epci,True
 https://gitlab.com/dreal-datalab/codes_postaux,False
 https://gitlab.com/dreal-datalab/cogiter,False
 https://gitlab.com/dreal-datalab/communications,False
