@@ -119,6 +119,7 @@ https://github.com/AlsaceDigitale/ad-cronjobs,True
 https://github.com/AlsaceDigitale/alsacedigitale-members,True
 https://github.com/AlsaceDigitale/alsacedigitale.org,True
 https://github.com/AlsaceDigitale/coworking-flex,True
+https://github.com/AlsaceDigitale/coworking-flex-rfid,False
 https://github.com/AlsaceDigitale/devoxx4kids,True
 https://github.com/AlsaceDigitale/edgefest-hacking,True
 https://github.com/AlsaceDigitale/edgefest-hacking-web-2014,True
@@ -551,7 +552,7 @@ https://github.com/Irstea/alisma,True
 https://github.com/Irstea/bd_patrimoine,True
 https://github.com/Irstea/bsc12,True
 https://github.com/Irstea/caso,True
-https://github.com/Irstea/chocR,False
+https://github.com/Irstea/chocR,True
 https://github.com/Irstea/collec,True
 https://github.com/Irstea/cpgsR,True
 https://github.com/Irstea/escroc,True
@@ -839,7 +840,7 @@ https://github.com/SocialGouv/mattermost-plugin-google-calendar,True
 https://github.com/SocialGouv/meditor,True
 https://github.com/SocialGouv/next-routes,True
 https://github.com/SocialGouv/polyfill-service,True
-https://github.com/SocialGouv/postgrest,False
+https://github.com/SocialGouv/postgrest,True
 https://github.com/SocialGouv/react-departements,True
 https://github.com/SocialGouv/renovate-config,True
 https://github.com/SocialGouv/seminaire,True
@@ -1756,7 +1757,7 @@ https://github.com/etalab/osm-wms,True
 https://github.com/etalab/ouverture-des-codes-sources-publics,True
 https://github.com/etalab/ox-html-timeline,True
 https://github.com/etalab/piaf,True
-https://github.com/etalab/piaf-site,False
+https://github.com/etalab/piaf-site,True
 https://github.com/etalab/piwik-covisits,True
 https://github.com/etalab/piwik_logs,True
 https://github.com/etalab/plan-ogp-2015-2017,True
