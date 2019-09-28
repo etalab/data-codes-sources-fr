@@ -545,7 +545,7 @@ https://github.com/InseeFr/Pogues-Back-Office,True
 https://github.com/InseeFr/Pogues-Model,True
 https://github.com/InseeFr/Quatro,True
 https://github.com/InseeFr/VTL-Tools,True
-https://github.com/InseeFr/diffman,False
+https://github.com/InseeFr/diffman,True
 https://github.com/Irstea/ALPFORPLOTS,True
 https://github.com/Irstea/Redmine-mod-perl-auth,True
 https://github.com/Irstea/alisma,True
@@ -681,7 +681,7 @@ https://github.com/PnCevennes/app_recrutement_client,True
 https://github.com/PnCevennes/courbes_eau,True
 https://github.com/PnCevennes/demandes_autorisations,True
 https://github.com/PnCevennes/docker,True
-https://github.com/PnCevennes/floraOccitania,False
+https://github.com/PnCevennes/floraOccitania,True
 https://github.com/PnCevennes/gn_module_suivi_chiro,True
 https://github.com/PnCevennes/gn_module_suivi_oedic,True
 https://github.com/PnCevennes/ng-mapCreator-fp,True
@@ -2254,7 +2254,7 @@ https://gitlab.com/dreal-datalab/cogiter,False
 https://gitlab.com/dreal-datalab/communications,False
 https://gitlab.com/dreal-datalab/drealdown,False
 https://gitlab.com/dreal-datalab/drealthemes,False
-https://gitlab.com/dreal-datalab/poc-enr-teo,False
+https://gitlab.com/dreal-datalab/poc-enr-teo,True
 https://gitlab.com/dreal-datalab/rrrpls,False
 https://gitlab.com/dreal-datalab/shinydreal,True
 https://gitlab.com/healthdatahub/dico-snds,True
