@@ -119,7 +119,7 @@ https://github.com/AlsaceDigitale/ad-cronjobs,True
 https://github.com/AlsaceDigitale/alsacedigitale-members,True
 https://github.com/AlsaceDigitale/alsacedigitale.org,True
 https://github.com/AlsaceDigitale/coworking-flex,True
-https://github.com/AlsaceDigitale/coworking-flex-rfid,False
+https://github.com/AlsaceDigitale/coworking-flex-rfid,True
 https://github.com/AlsaceDigitale/devoxx4kids,True
 https://github.com/AlsaceDigitale/edgefest-hacking,True
 https://github.com/AlsaceDigitale/edgefest-hacking-web-2014,True
@@ -2223,7 +2223,7 @@ https://gitlab.adullact.net/amies/amies-server,True
 https://gitlab.adullact.net/amies/puppet-amies,True
 https://gitlab.adullact.net/capex/capex,True
 https://gitlab.adullact.net/demarches-simplifiees/puppet-demarches-simplifiees,True
-https://gitlab.adullact.net/demarches-simplifiees/vagrant-demarches-simplifiees,False
+https://gitlab.adullact.net/demarches-simplifiees/vagrant-demarches-simplifiees,True
 https://gitlab.adullact.net/departements-notaires/departements-notaires,True
 https://gitlab.adullact.net/directmairie/directmairie,True
 https://gitlab.adullact.net/directmairie/puppet-directmairie,True
