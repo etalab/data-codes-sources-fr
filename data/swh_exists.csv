@@ -1590,7 +1590,7 @@ https://github.com/erasme/liste_courses,True
 https://github.com/erasme/ramaze-fnordmetric,True
 https://github.com/erasme/shortie,True
 https://github.com/erasme/sinatra_skeleton,True
-https://github.com/erasme/testWebhook,False
+https://github.com/erasme/testWebhook,True
 https://github.com/erasme/vagrant-dev-env,True
 https://github.com/erasme/webnapperon2,True
 https://github.com/erasme/website_griotte,True
@@ -1726,7 +1726,7 @@ https://github.com/etalab/gpu-jpeg2k,True
 https://github.com/etalab/guide-des-licences-de-reutilisation,False
 https://github.com/etalab/guide-juridique-logiciel-libre,True
 https://github.com/etalab/guide-juridique-open-data,True
-https://github.com/etalab/guides,False
+https://github.com/etalab/guides,True
 https://github.com/etalab/hackdash,True
 https://github.com/etalab/id.data.gouv.fr,True
 https://github.com/etalab/inspire-cartes-producteurs,True
@@ -2251,7 +2251,7 @@ https://gitlab.adullact.net/pixelhumain/wiki-fr,True
 https://gitlab.com/dreal-datalab/adresses-mairies-epci,True
 https://gitlab.com/dreal-datalab/codes_postaux,False
 https://gitlab.com/dreal-datalab/cogiter,False
-https://gitlab.com/dreal-datalab/communications,False
+https://gitlab.com/dreal-datalab/communications,True
 https://gitlab.com/dreal-datalab/drealdown,False
 https://gitlab.com/dreal-datalab/drealthemes,False
 https://gitlab.com/dreal-datalab/poc-enr-teo,True
