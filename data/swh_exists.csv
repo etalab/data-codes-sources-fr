@@ -940,7 +940,7 @@ https://github.com/ambanum/media-scale,True
 https://github.com/ambanum/node-botometer,True
 https://github.com/ambanum/node-i18n-iso-countries,True
 https://github.com/ambanum/panoptes,True
-https://github.com/ambanum/political-ads-legality,False
+https://github.com/ambanum/political-ads-legality,True
 https://github.com/ambanum/political-ads-scraper,True
 https://github.com/ambanum/server-config,True
 https://github.com/atlanmod/ACP,True
@@ -1057,7 +1057,7 @@ https://github.com/betagouv/cout-embauche,True
 https://github.com/betagouv/dashboard_apientreprise,True
 https://github.com/betagouv/dds-cross-simulator,True
 https://github.com/betagouv/demarches-simplifiees.fr,True
-https://github.com/betagouv/diagoriente-admin,False
+https://github.com/betagouv/diagoriente-admin,True
 https://github.com/betagouv/diagoriente-front,False
 https://github.com/betagouv/dialogue-de-gestion,True
 https://github.com/betagouv/discourse-oauth2-basic,True
