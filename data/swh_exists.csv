@@ -1842,7 +1842,7 @@ https://github.com/ia-flash/app,True
 https://github.com/ia-flash/demo,True
 https://github.com/ia-flash/frontend,True
 https://github.com/ia-flash/matchvec,True
-https://github.com/ia-flash/s3-download-action,False
+https://github.com/ia-flash/s3-download-action,True
 https://github.com/ia-flash/sivnorm,True
 https://github.com/ina-foss/ID-Fits,True
 https://github.com/ina-foss/afp-api-client,True
