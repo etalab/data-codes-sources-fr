@@ -699,6 +699,7 @@ https://github.com/PnEcrins/Flask-leaflet-example,True
 https://github.com/PnEcrins/FollowDem,True
 https://github.com/PnEcrins/FollowDem-admin,True
 https://github.com/PnEcrins/FollowDem-admin-front,True
+https://github.com/PnEcrins/GeoNature-migration,False
 https://github.com/PnEcrins/GeoNature-mobile,True
 https://github.com/PnEcrins/GeoNature-mobile-sync,True
 https://github.com/PnEcrins/GeoNature-mobile-webapi,True
@@ -1445,7 +1446,7 @@ https://github.com/datalocale/ckanext-sentry,True
 https://github.com/datalocale/contenu-college-box,True
 https://github.com/datalocale/contrats-francais,True
 https://github.com/datalocale/datapusher,True
-https://github.com/datalocale/dataviz-finances-93,False
+https://github.com/datalocale/dataviz-finances-93,True
 https://github.com/datalocale/dataviz-finances-gironde,True
 https://github.com/datalocale/dataviz-finances-seinesaintdenis,False
 https://github.com/datalocale/dataviz-rh,True
@@ -1903,6 +1904,7 @@ https://github.com/indsante/Documentation-SNDS,True
 https://github.com/indsante/dico-snds,True
 https://github.com/indsante/dico-snds-creation-archive,True
 https://github.com/indsante/schema-snds,True
+https://github.com/indsante/synthetic-snds,False
 https://github.com/linbox-team/fflas-ffpack,True
 https://github.com/linbox-team/givaro,True
 https://github.com/linbox-team/linbox,True
@@ -2292,13 +2294,13 @@ https://gitlab.adullact.net/pixelhumain/smarterre,True
 https://gitlab.adullact.net/pixelhumain/terla,True
 https://gitlab.adullact.net/pixelhumain/wiki-fr,True
 https://gitlab.com/dreal-datalab/adresses-mairies-epci,True
-https://gitlab.com/dreal-datalab/codes_postaux,False
+https://gitlab.com/dreal-datalab/codes_postaux,True
 https://gitlab.com/dreal-datalab/cogiter,True
 https://gitlab.com/dreal-datalab/communications,True
 https://gitlab.com/dreal-datalab/drealdown,True
 https://gitlab.com/dreal-datalab/drealthemes,False
 https://gitlab.com/dreal-datalab/poc-enr-teo,True
-https://gitlab.com/dreal-datalab/rrrpls,False
+https://gitlab.com/dreal-datalab/rrrpls,True
 https://gitlab.com/dreal-datalab/shinydreal,True
 https://gitlab.com/healthdatahub/dico-snds,True
 https://gitlab.com/healthdatahub/documentation-snds,True
