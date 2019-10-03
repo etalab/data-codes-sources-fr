@@ -29,8 +29,13 @@ class SwhExists(object):
             reader = csv.DictReader(f)
             for row in reader:
                 self.store_origin_result(
-                    row["origin_url"], bool(strtobool(row["is_available"]))
+                    row["origin_url"], self.to_bool(row["is_available"])
                 )
+                
+    def to_bool(self, value):
+        if value in [None, "None"]:
+            return None
+        return bool(strtobool(value)
 
     def save_data(self):
         with open(self.SWH_FILE, "w") as f:
