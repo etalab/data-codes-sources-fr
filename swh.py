@@ -35,7 +35,7 @@ class SwhExists(object):
     def to_bool(self, value):
         if value in [None, "None"]:
             return None
-        return bool(strtobool(value)
+        return bool(strtobool(value))
 
     def save_data(self):
         with open(self.SWH_FILE, "w") as f:
