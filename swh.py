@@ -31,9 +31,9 @@ class SwhExists(object):
                 self.store_origin_result(
                     row["origin_url"], self.to_bool(row["is_available"])
                 )
-                
+
     def to_bool(self, value):
-        if value in [None, "None"]:
+        if value in [None, ""]:
             return None
         return bool(strtobool(value))
 
