@@ -847,7 +847,7 @@ https://github.com/SocialGouv/polyfill-service,True
 https://github.com/SocialGouv/postgrest,True
 https://github.com/SocialGouv/postgrester,False
 https://github.com/SocialGouv/react-departements,True
-https://github.com/SocialGouv/react-medixtor,False
+https://github.com/SocialGouv/react-medixtor,True
 https://github.com/SocialGouv/renovate-config,True
 https://github.com/SocialGouv/seminaire,True
 https://github.com/SocialGouv/siret2idcc,True
@@ -1774,7 +1774,7 @@ https://github.com/etalab/geoids,True
 https://github.com/etalab/geologos,True
 https://github.com/etalab/geozones,True
 https://github.com/etalab/gpu-jpeg2k,True
-https://github.com/etalab/guide-des-licences-de-reutilisation,False
+https://github.com/etalab/guide-des-licences-de-reutilisation,True
 https://github.com/etalab/guide-juridique-logiciel-libre,True
 https://github.com/etalab/guide-juridique-open-data,True
 https://github.com/etalab/guides,True
@@ -2025,7 +2025,7 @@ https://github.com/lutece-secteur-public/hackathon-franceconnect-poc-quotientfam
 https://github.com/lutece-secteur-public/hackathon-franceconnect-poc-stationnement,True
 https://github.com/lutece-secteur-public/hackathon-franceconnect-site,True
 https://github.com/lutece-secteur-public/hophacks-plugin-shelters,True
-https://github.com/lutece-secteur-public/hophacks-site-shelters,False
+https://github.com/lutece-secteur-public/hophacks-site-shelters,True
 https://github.com/lutece-secteur-public/lutece-auth-plugin-federate-database-franceconnect,True
 https://github.com/lutece-secteur-public/lutece-ecom-plugin-tipi,True
 https://github.com/lutece-secteur-public/lutece-gru-module-elasticdata-ticketing,True
