@@ -1058,7 +1058,7 @@ https://github.com/betagouv/cerfa-form-filler,True
 https://github.com/betagouv/civilsdeladefense,True
 https://github.com/betagouv/co-constuisons-api,True
 https://github.com/betagouv/co-constuisons-bot,True
-https://github.com/betagouv/codimd,False
+https://github.com/betagouv/codimd,True
 https://github.com/betagouv/coding-dojos,True
 https://github.com/betagouv/competences-pro,True
 https://github.com/betagouv/competences-pro-orchestrateur,True
@@ -2008,7 +2008,7 @@ https://github.com/lutece-secteur-public/gru-plugin-cgu,False
 https://github.com/lutece-secteur-public/gru-plugin-crm,True
 https://github.com/lutece-secteur-public/gru-plugin-crmclient,True
 https://github.com/lutece-secteur-public/gru-plugin-customerprovisioning,True
-https://github.com/lutece-secteur-public/gru-plugin-els-statistics,False
+https://github.com/lutece-secteur-public/gru-plugin-els-statistics,True
 https://github.com/lutece-secteur-public/gru-plugin-emailcertifier,True
 https://github.com/lutece-secteur-public/gru-plugin-fccertifier,True
 https://github.com/lutece-secteur-public/gru-plugin-gru,True
