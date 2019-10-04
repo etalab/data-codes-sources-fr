@@ -41,7 +41,9 @@ class GitLabOrg(object):
             repo["est_fork"] = None
             repo["est_archive"] = repository["archived"]
             repo["date_creation"] = format_datetime(repository["created_at"])
-            repo["derniere_mise_a_jour"] = format_datetime(repository["updated_at"])
+            repo["derniere_mise_a_jour"] = format_datetime(
+                repository["last_activity_at"]
+            )
             repo["derniere_modification"] = format_datetime(
                 repository["last_activity_at"]
             )
