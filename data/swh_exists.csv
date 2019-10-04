@@ -704,6 +704,7 @@ https://github.com/PnEcrins/FollowDem,True
 https://github.com/PnEcrins/FollowDem-admin,True
 https://github.com/PnEcrins/FollowDem-admin-front,True
 https://github.com/PnEcrins/GeoNature-migration,False
+https://github.com/PnEcrins/GeoNature-migration-PNE,False
 https://github.com/PnEcrins/GeoNature-mobile,True
 https://github.com/PnEcrins/GeoNature-mobile-sync,True
 https://github.com/PnEcrins/GeoNature-mobile-webapi,True
@@ -1210,7 +1211,7 @@ https://github.com/betagouv/signup-oauth,True
 https://github.com/betagouv/signup.api.gouv.fr,True
 https://github.com/betagouv/signup.api.gouv.fr-docker,True
 https://github.com/betagouv/slack-ovh,True
-https://github.com/betagouv/sqlalchemy-api-handler,False
+https://github.com/betagouv/sqlalchemy-api-handler,True
 https://github.com/betagouv/sqlalchemy-handler,True
 https://github.com/betagouv/standup,True
 https://github.com/betagouv/svair-api,True
@@ -2004,7 +2005,7 @@ https://github.com/lutece-secteur-public/gru-module-workflow-notifygru-alert,Tru
 https://github.com/lutece-secteur-public/gru-module-workflow-ticketing,True
 https://github.com/lutece-secteur-public/gru-plugin-appointment,True
 https://github.com/lutece-secteur-public/gru-plugin-appointment-factory,True
-https://github.com/lutece-secteur-public/gru-plugin-cgu,False
+https://github.com/lutece-secteur-public/gru-plugin-cgu,True
 https://github.com/lutece-secteur-public/gru-plugin-crm,True
 https://github.com/lutece-secteur-public/gru-plugin-crmclient,True
 https://github.com/lutece-secteur-public/gru-plugin-customerprovisioning,True
