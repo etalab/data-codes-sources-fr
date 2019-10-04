@@ -645,6 +645,7 @@ https://github.com/MTES-MCT/trackdechets-datascience,True
 https://github.com/MTES-MCT/trashadvisor,True
 https://github.com/MTES-MCT/udata-doc,True
 https://github.com/MTES-MCT/udata-gouvfr-ecologie,True
+https://github.com/MinistereSupRecherche/bso,False
 https://github.com/MinistereSupRecherche/dataESR,True
 https://github.com/MinistereSupRecherche/machineadonnees,True
 https://github.com/MinistereSupRecherche/parcoursup,True
@@ -829,7 +830,7 @@ https://github.com/SocialGouv/emjpm-migration-k8s,True
 https://github.com/SocialGouv/emjpm-ui,True
 https://github.com/SocialGouv/faq-code-du-travail,True
 https://github.com/SocialGouv/fce,True
-https://github.com/SocialGouv/fiches-vdd,False
+https://github.com/SocialGouv/fiches-vdd,True
 https://github.com/SocialGouv/helm-charts,True
 https://github.com/SocialGouv/jest-environment-knex,True
 https://github.com/SocialGouv/kali-data,True
@@ -1023,7 +1024,7 @@ https://github.com/betagouv/PeerTube,True
 https://github.com/betagouv/admin-traitdunion,True
 https://github.com/betagouv/allegement-fillon,True
 https://github.com/betagouv/andi,True
-https://github.com/betagouv/andi-docker,False
+https://github.com/betagouv/andi-docker,True
 https://github.com/betagouv/andi-matching,True
 https://github.com/betagouv/annuaire,True
 https://github.com/betagouv/annuaire-api,True
