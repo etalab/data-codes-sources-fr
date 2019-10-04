@@ -2,7 +2,7 @@
    "title":"Métadonnées d'un répertoire Git",
    "author":"Antoine Augusti pour Etalab <antoine.augusti@data.gouv.fr>",
    "created":"2018-12-31",
-   "updated":"2019-08-08",
+   "updated":"2019-10-04",
    "homepage":"https://github.com/etalab/data-codes-sources-fr",
    "fields":[
       {
@@ -84,7 +84,16 @@
       },
       {
          "name":"derniere_mise_a_jour",
-         "description":"La date de dernière mise à jour du répertoire",
+         "description":"La date de dernière mise à jour du répertoire. Cette mise à jour peut être également autre chose que du code comme des métadonnées du répertoire, des activités sur des issues ou des pull requests.",
+         "example": "2018-12-01T20:00:55Z",
+         "type":"datetime",
+         "constraints": {
+            "required": true
+         }
+      },
+      {
+         "name":"derniere_modification",
+         "description":"La date de dernière modification du répertoire. On entend par modification une modification du code source par le biais d'un commit.",
          "example": "2018-12-01T20:00:55Z",
          "type":"datetime",
          "constraints": {

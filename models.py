@@ -26,6 +26,7 @@ class Repository(BaseModel):
     est_archive: bool
     date_creation: str
     derniere_mise_a_jour: str
+    derniere_modification: str
     page_accueil: str
     nombre_stars: int
     nombre_forks: int

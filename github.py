@@ -58,6 +58,7 @@ class GitHubOrg(object):
             repo["est_archive"] = repository["archived"]
             repo["date_creation"] = repository["created_at"]
             repo["derniere_mise_a_jour"] = repository["updated_at"]
+            repo["derniere_modification"] = repository["pushed_at"]
             repo["page_accueil"] = repository["homepage"]
             repo["nombre_stars"] = repository["stargazers_count"]
             repo["nombre_forks"] = repository["forks_count"]
