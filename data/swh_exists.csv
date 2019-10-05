@@ -949,7 +949,7 @@ https://github.com/ambanum/node-botometer,True
 https://github.com/ambanum/node-i18n-iso-countries,True
 https://github.com/ambanum/panoptes,True
 https://github.com/ambanum/political-ads-consistency,True
-https://github.com/ambanum/political-ads-crowdsourcing-client,False
+https://github.com/ambanum/political-ads-crowdsourcing-client,True
 https://github.com/ambanum/political-ads-crowdsourcing-server,False
 https://github.com/ambanum/political-ads-legality,True
 https://github.com/ambanum/political-ads-legality-server,True
@@ -1277,7 +1277,7 @@ https://github.com/cget-carto/metropoles,True
 https://github.com/cget-carto/mission_coworking,True
 https://github.com/cget-carto/npnru,True
 https://github.com/cget-carto/rcv,True
-https://github.com/cget-carto/regions_vrl,False
+https://github.com/cget-carto/regions_vrl,True
 https://github.com/cget-carto/superposeur,True
 https://github.com/clipos-archive/clipos4_artifacts,True
 https://github.com/clipos-archive/clipos4_distfiles,True
@@ -1913,7 +1913,7 @@ https://github.com/indsante/Documentation-SNDS,True
 https://github.com/indsante/dico-snds,True
 https://github.com/indsante/dico-snds-creation-archive,True
 https://github.com/indsante/schema-snds,True
-https://github.com/indsante/synthetic-snds,False
+https://github.com/indsante/synthetic-snds,True
 https://github.com/linbox-team/fflas-ffpack,True
 https://github.com/linbox-team/givaro,True
 https://github.com/linbox-team/linbox,True
