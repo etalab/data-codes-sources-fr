@@ -1973,7 +1973,7 @@ https://github.com/lutece-secteur-public/gru-module-easyrulesbot-ticketing,True
 https://github.com/lutece-secteur-public/gru-module-elasticdata-appointment,True
 https://github.com/lutece-secteur-public/gru-module-elasticdata-gru,True
 https://github.com/lutece-secteur-public/gru-module-elasticdata-identity,True
-https://github.com/lutece-secteur-public/gru-module-genericattributes-cgu,False
+https://github.com/lutece-secteur-public/gru-module-genericattributes-cgu,True
 https://github.com/lutece-secteur-public/gru-module-identitystore-agentcertifier,True
 https://github.com/lutece-secteur-public/gru-module-identitystore-cnicertifier,True
 https://github.com/lutece-secteur-public/gru-module-identitystore-emailcertifier,True
@@ -2486,7 +2486,7 @@ https://gitlab.inria.fr/Conferences/ICT_2018_MUFF,True
 https://gitlab.inria.fr/andiamo/eusdisparser,True
 https://gitlab.inria.fr/andiamo/tony,True
 https://gitlab.inria.fr/cidre-public/malcon19,True
-https://gitlab.inria.fr/cidre-public/obfuscated-android-unit-examples,False
+https://gitlab.inria.fr/cidre-public/obfuscated-android-unit-examples,True
 https://gitlab.inria.fr/cidre-public/pymao,True
 https://gitlab.inria.fr/compass/compass,True
 https://gitlab.inria.fr/compass/meshtools,True
