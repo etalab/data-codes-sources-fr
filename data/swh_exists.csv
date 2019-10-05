@@ -1076,7 +1076,7 @@ https://github.com/betagouv/dialogue-de-gestion,True
 https://github.com/betagouv/discourse-oauth2-basic,True
 https://github.com/betagouv/django-magicauth,True
 https://github.com/betagouv/dns,True
-https://github.com/betagouv/docs.dossiersco.fr,False
+https://github.com/betagouv/docs.dossiersco.fr,True
 https://github.com/betagouv/domain-scan,True
 https://github.com/betagouv/dossiersco,True
 https://github.com/betagouv/dossiersco-maintenance,True
@@ -1865,7 +1865,7 @@ https://github.com/etalab/watchdoge_apientreprise,True
 https://github.com/etalab/weckan,True
 https://github.com/etalab/wiki-data-gouv,True
 https://github.com/etalab/youckan,True
-https://github.com/etalab/zammad-contact-form,False
+https://github.com/etalab/zammad-contact-form,True
 https://github.com/fabnumdef/GeoGate,True
 https://github.com/fabnumdef/design-system,True
 https://github.com/fabnumdef/e-chauffeur,True
@@ -1976,7 +1976,7 @@ https://github.com/lutece-secteur-public/gru-module-elasticdata-identity,True
 https://github.com/lutece-secteur-public/gru-module-genericattributes-cgu,False
 https://github.com/lutece-secteur-public/gru-module-identitystore-agentcertifier,True
 https://github.com/lutece-secteur-public/gru-module-identitystore-cnicertifier,True
-https://github.com/lutece-secteur-public/gru-module-identitystore-emailcertifier,False
+https://github.com/lutece-secteur-public/gru-module-identitystore-emailcertifier,True
 https://github.com/lutece-secteur-public/gru-module-identitystore-fccertifier,True
 https://github.com/lutece-secteur-public/gru-module-identitystore-grucertifier,True
 https://github.com/lutece-secteur-public/gru-module-identitystore-indexer,True
@@ -2456,7 +2456,7 @@ https://gitlab.com/healthdatahub/documentation-snds,True
 https://gitlab.com/healthdatahub/indexation-nomenclatures,True
 https://gitlab.com/healthdatahub/programmes-sdns,True
 https://gitlab.com/healthdatahub/schema-snds,True
-https://gitlab.com/healthdatahub/synthetic-snds,False
+https://gitlab.com/healthdatahub/synthetic-snds,True
 https://gitlab.com/healthdatahub/tsfaker,True
 https://gitlab.com/pidila/checklist-pidila,True
 https://gitlab.com/pidila/kit-module-scampi,True
