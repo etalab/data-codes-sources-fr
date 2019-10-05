@@ -14,11 +14,14 @@ median_nb_repos = df.groupby("organisation_nom").count()["nom"].agg("median").ro
 swh_exists_count = len(df.loc[df["software_heritage_exists"].fillna(False)])
 
 top_orgs_by_repos = (
-    df.groupby("organisation_nom")
-    .count()["nom"]
-    .sort_values(ascending=False)
+    df[["plateforme", "organisation_nom"]]
+    .groupby(["plateforme", "organisation_nom"])
+    .size()
+    .to_frame("count")
+    .sort_values(by="count", ascending=False)
     .head(10)
-    .to_dict()
+    .reset_index()
+    .to_dict(orient="records")
 )
 
 top_orgs_by_stars = (
