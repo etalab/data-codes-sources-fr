@@ -645,7 +645,7 @@ https://github.com/MTES-MCT/trackdechets-datascience,True
 https://github.com/MTES-MCT/trashadvisor,True
 https://github.com/MTES-MCT/udata-doc,True
 https://github.com/MTES-MCT/udata-gouvfr-ecologie,True
-https://github.com/MinistereSupRecherche/bso,False
+https://github.com/MinistereSupRecherche/bso,True
 https://github.com/MinistereSupRecherche/dataESR,True
 https://github.com/MinistereSupRecherche/machineadonnees,True
 https://github.com/MinistereSupRecherche/parcoursup,True
@@ -1394,7 +1394,7 @@ https://github.com/clipos/bugs,True
 https://github.com/clipos/buildbot,True
 https://github.com/clipos/clipos.github.io,True
 https://github.com/clipos/docs,True
-https://github.com/clipos/docs-src,False
+https://github.com/clipos/docs-src,True
 https://github.com/clipos/manifest,True
 https://github.com/clipos/products_clipos,True
 https://github.com/clipos/src_external_linux,True
