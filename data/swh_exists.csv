@@ -950,7 +950,7 @@ https://github.com/ambanum/node-i18n-iso-countries,True
 https://github.com/ambanum/panoptes,True
 https://github.com/ambanum/political-ads-consistency,True
 https://github.com/ambanum/political-ads-crowdsourcing-client,True
-https://github.com/ambanum/political-ads-crowdsourcing-server,False
+https://github.com/ambanum/political-ads-crowdsourcing-server,True
 https://github.com/ambanum/political-ads-legality,True
 https://github.com/ambanum/political-ads-legality-server,True
 https://github.com/ambanum/political-ads-scraper,True
@@ -2032,7 +2032,7 @@ https://github.com/lutece-secteur-public/lutece-auth-plugin-federate-database-fr
 https://github.com/lutece-secteur-public/lutece-ecom-plugin-tipi,True
 https://github.com/lutece-secteur-public/lutece-gru-module-elasticdata-ticketing,True
 https://github.com/lutece-secteur-public/mdph-library-mdph,False
-https://github.com/lutece-secteur-public/ocr-module-genericattributes-ocr,False
+https://github.com/lutece-secteur-public/ocr-module-genericattributes-ocr,True
 https://github.com/lutece-secteur-public/ocr-module-ocra2ia-rest,False
 https://github.com/lutece-secteur-public/ocr-plugin-a2ia,True
 https://github.com/lutece-secteur-public/ogp-hackathon-site,True
