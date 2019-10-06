@@ -2034,7 +2034,7 @@ https://github.com/lutece-secteur-public/lutece-gru-module-elasticdata-ticketing
 https://github.com/lutece-secteur-public/mdph-library-mdph,False
 https://github.com/lutece-secteur-public/ocr-module-genericattributes-ocr,False
 https://github.com/lutece-secteur-public/ocr-module-ocra2ia-rest,False
-https://github.com/lutece-secteur-public/ocr-plugin-a2ia,False
+https://github.com/lutece-secteur-public/ocr-plugin-a2ia,True
 https://github.com/lutece-secteur-public/ogp-hackathon-site,True
 https://github.com/lutece-secteur-public/opendata-module-document-ckan,True
 https://github.com/lutece-secteur-public/opengov-plugin-lobbycal,True
@@ -2447,7 +2447,7 @@ https://gitlab.com/dreal-datalab/codes_postaux,True
 https://gitlab.com/dreal-datalab/cogiter,True
 https://gitlab.com/dreal-datalab/communications,True
 https://gitlab.com/dreal-datalab/drealdown,True
-https://gitlab.com/dreal-datalab/drealthemes,False
+https://gitlab.com/dreal-datalab/drealthemes,True
 https://gitlab.com/dreal-datalab/poc-enr-teo,True
 https://gitlab.com/dreal-datalab/rrrpls,True
 https://gitlab.com/dreal-datalab/shinydreal,True
