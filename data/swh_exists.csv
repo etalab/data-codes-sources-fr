@@ -943,6 +943,7 @@ https://github.com/ambanum/beta.gouv.fr,True
 https://github.com/ambanum/desinfo-mattermost-integrations,True
 https://github.com/ambanum/desinfo.quaidorsay.fr-wiki,True
 https://github.com/ambanum/disinfo.quaidorsay.fr,True
+https://github.com/ambanum/disinformation-chatbots,False
 https://github.com/ambanum/just-the-docs,True
 https://github.com/ambanum/media-scale,True
 https://github.com/ambanum/node-botometer,True
@@ -2443,6 +2444,8 @@ https://gitlab.adullact.net/pixelhumain/sig,True
 https://gitlab.adullact.net/pixelhumain/smarterre,True
 https://gitlab.adullact.net/pixelhumain/terla,True
 https://gitlab.adullact.net/pixelhumain/wiki-fr,True
+https://gitlab.adullact.net/socio-connect/api,False
+https://gitlab.adullact.net/socio-connect/front,False
 https://gitlab.com/dreal-datalab/adresses-mairies-epci,True
 https://gitlab.com/dreal-datalab/codes_postaux,True
 https://gitlab.com/dreal-datalab/cogiter,True
