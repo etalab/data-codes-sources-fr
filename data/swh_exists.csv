@@ -1459,7 +1459,7 @@ https://github.com/datalocale/contrats-francais,True
 https://github.com/datalocale/datapusher,True
 https://github.com/datalocale/dataviz-finances-93,True
 https://github.com/datalocale/dataviz-finances-gironde,True
-https://github.com/datalocale/dataviz-finances-seinesaintdenis,False
+https://github.com/datalocale/dataviz-finances-seinesaintdenis,True
 https://github.com/datalocale/dataviz-rh,True
 https://github.com/datalocale/documentationDatalocale,True
 https://github.com/datalocale/donneesCsv,True
@@ -2293,7 +2293,7 @@ https://github.com/sigrennesmetropole/rmtr,True
 https://github.com/sigrennesmetropole/sviewer,True
 https://github.com/sigrennesmetropole/sviewer_generator,True
 https://github.com/sigrennesmetropole/visualiseur,True
-https://github.com/sipf/ckan,False
+https://github.com/sipf/ckan,True
 https://github.com/sipf/codespostaux-api,True
 https://github.com/sipf/codespostaux-ui,True
 https://github.com/sipf/config-service,True
@@ -2309,7 +2309,7 @@ https://github.com/sipf/procedure-ws,True
 https://github.com/sipf/proxy-service,True
 https://github.com/sipf/service-ws,True
 https://github.com/sipf/terraform2md,True
-https://github.com/sipf/tps,False
+https://github.com/sipf/tps,True
 https://github.com/sipf/zipcode-ws,True
 https://github.com/snosan-tools/avurnavs-csv,True
 https://github.com/snosan-tools/avurnavs-fichiers,True
