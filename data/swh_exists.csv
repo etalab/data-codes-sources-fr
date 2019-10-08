@@ -943,7 +943,7 @@ https://github.com/ambanum/beta.gouv.fr,True
 https://github.com/ambanum/desinfo-mattermost-integrations,True
 https://github.com/ambanum/desinfo.quaidorsay.fr-wiki,True
 https://github.com/ambanum/disinfo.quaidorsay.fr,True
-https://github.com/ambanum/disinformation-chatbots,False
+https://github.com/ambanum/disinformation-chatbots,True
 https://github.com/ambanum/just-the-docs,True
 https://github.com/ambanum/media-scale,True
 https://github.com/ambanum/node-botometer,True
@@ -1203,6 +1203,7 @@ https://github.com/betagouv/role-ansible,True
 https://github.com/betagouv/secretariat,True
 https://github.com/betagouv/securite-numerique-agile,True
 https://github.com/betagouv/sejour,True
+https://github.com/betagouv/siecle-xml_mapper,False
 https://github.com/betagouv/signalement,True
 https://github.com/betagouv/signalement-api,True
 https://github.com/betagouv/signalement-app,True
@@ -1738,6 +1739,7 @@ https://github.com/etalab/datasets_reco,True
 https://github.com/etalab/decoupage-administratif,True
 https://github.com/etalab/decp-rama,True
 https://github.com/etalab/deleted-datasets-schema,True
+https://github.com/etalab/design,False
 https://github.com/etalab/dfi,True
 https://github.com/etalab/doc.data.gouv.fr,True
 https://github.com/etalab/doc.entreprise.api.gouv.fr,True
@@ -2033,7 +2035,7 @@ https://github.com/lutece-secteur-public/hophacks-site-shelters,True
 https://github.com/lutece-secteur-public/lutece-auth-plugin-federate-database-franceconnect,True
 https://github.com/lutece-secteur-public/lutece-ecom-plugin-tipi,True
 https://github.com/lutece-secteur-public/lutece-gru-module-elasticdata-ticketing,True
-https://github.com/lutece-secteur-public/mdph-library-mdph,False
+https://github.com/lutece-secteur-public/mdph-library-mdph,True
 https://github.com/lutece-secteur-public/ocr-module-genericattributes-ocr,True
 https://github.com/lutece-secteur-public/ocr-module-ocra2ia-rest,True
 https://github.com/lutece-secteur-public/ocr-plugin-a2ia,True
@@ -2279,6 +2281,7 @@ https://github.com/region-bretagne/mviewer-apps,True
 https://github.com/region-bretagne/signalement-ws,True
 https://github.com/region-bretagne/territoire-portal,True
 https://github.com/region-bretagne/viewer,True
+https://github.com/sigrennesmetropole/MViewer-SIGRM,False
 https://github.com/sigrennesmetropole/QgisCadastrePlugin,True
 https://github.com/sigrennesmetropole/addon_rva,True
 https://github.com/sigrennesmetropole/addon_urbanisme,True
