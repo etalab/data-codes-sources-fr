@@ -1222,7 +1222,7 @@ https://github.com/betagouv/syso-core,True
 https://github.com/betagouv/taux-collectifs-cotisation-atmp,True
 https://github.com/betagouv/taux-versement-transport,True
 https://github.com/betagouv/trait-d-union,True
-https://github.com/betagouv/traitdunion-metabase,False
+https://github.com/betagouv/traitdunion-metabase,True
 https://github.com/betagouv/verif.site,True
 https://github.com/betagouv/voir-et-localiser-samu-sign-on,True
 https://github.com/betagouv/with-login,True
@@ -1933,7 +1933,7 @@ https://github.com/lutece-secteur-public/ecom-module-workflow-tipi,True
 https://github.com/lutece-secteur-public/ecom-module-workflow-tipiforms,True
 https://github.com/lutece-secteur-public/espacepublic-demo-site-dansmarue,True
 https://github.com/lutece-secteur-public/espacepublic-mobileapp-dansmarue-android,True
-https://github.com/lutece-secteur-public/espacepublic-mobileapp-dansmarue-ios,False
+https://github.com/lutece-secteur-public/espacepublic-mobileapp-dansmarue-ios,True
 https://github.com/lutece-secteur-public/espacepublic-module-dansmarue-leaflet,True
 https://github.com/lutece-secteur-public/espacepublic-module-dansmarue-unittree,True
 https://github.com/lutece-secteur-public/espacepublic-module-elasticdata-dansmarue,True
@@ -2035,7 +2035,7 @@ https://github.com/lutece-secteur-public/lutece-ecom-plugin-tipi,True
 https://github.com/lutece-secteur-public/lutece-gru-module-elasticdata-ticketing,True
 https://github.com/lutece-secteur-public/mdph-library-mdph,False
 https://github.com/lutece-secteur-public/ocr-module-genericattributes-ocr,True
-https://github.com/lutece-secteur-public/ocr-module-ocra2ia-rest,False
+https://github.com/lutece-secteur-public/ocr-module-ocra2ia-rest,True
 https://github.com/lutece-secteur-public/ocr-plugin-a2ia,True
 https://github.com/lutece-secteur-public/ogp-hackathon-site,True
 https://github.com/lutece-secteur-public/opendata-module-document-ckan,True
