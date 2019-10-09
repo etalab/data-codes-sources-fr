@@ -1,9 +1,9 @@
 {
    "title":"Métadonnées d'une organisation Git",
-   "author":"Antoine Augusti <antoine.augusti@gmail.com>",
+   "author":"Antoine Augusti pour Etalab <antoine.augusti@data.gouv.fr>",
    "created":"2018-12-31",
    "updated":"2019-08-22",
-   "homepage":"https://github.com/AntoineAugusti/data-codes-sources-fr",
+   "homepage":"https://github.com/etalab/data-codes-sources-fr",
    "fields":[
       {
          "name":"login",

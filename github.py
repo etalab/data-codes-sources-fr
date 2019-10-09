@@ -24,7 +24,7 @@ class GitHubOrg(object):
                     "application/vnd.github.mercy-preview+json",
                 ]
             ),
-            "User-Agent": "AntoineAugusti",
+            "User-Agent": "Etalab. Contact: opensource@etalab.gouv.fr",
         }
 
     def url(self, path):
