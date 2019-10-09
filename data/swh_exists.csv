@@ -2575,7 +2575,7 @@ https://gitlab.irstea.fr/copain/weather2017,False
 https://gitlab.irstea.fr/cormas-dev/r-cormas,False
 https://gitlab.irstea.fr/emax/bddfontblanche,False
 https://gitlab.irstea.fr/geopat/geopat,False
-https://gitlab.irstea.fr/irrig/public,False
+https://gitlab.irstea.fr/irrig/public,True
 https://gitlab.irstea.fr/irstea-ros/ads1115_driver,False
 https://gitlab.irstea.fr/irstea-ros/labjack_driver,False
 https://gitlab.irstea.fr/irstea-ros/navsat_to_odom,False
