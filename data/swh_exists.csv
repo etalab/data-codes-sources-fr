@@ -673,6 +673,22 @@ https://github.com/OpenCTI-Platform/datasets,True
 https://github.com/OpenCTI-Platform/docker,True
 https://github.com/OpenCTI-Platform/docs,True
 https://github.com/OpenCTI-Platform/opencti,True
+https://github.com/OpenEdition/NormAFE,False
+https://github.com/OpenEdition/OTX,True
+https://github.com/OpenEdition/bilbo,True
+https://github.com/OpenEdition/checklist,True
+https://github.com/OpenEdition/checklist-lodel,True
+https://github.com/OpenEdition/echo,True
+https://github.com/OpenEdition/lodel,True
+https://github.com/OpenEdition/lodel2,True
+https://github.com/OpenEdition/marc-openedition,False
+https://github.com/OpenEdition/mets.openedition,True
+https://github.com/OpenEdition/oai-openedition,True
+https://github.com/OpenEdition/revuesorg_word_templates,True
+https://github.com/OpenEdition/roboh,True
+https://github.com/OpenEdition/screlo,True
+https://github.com/OpenEdition/tei.openedition,True
+https://github.com/OpenEdition/toolpic,True
 https://github.com/PnCevennes/Applications_10.30,True
 https://github.com/PnCevennes/GeoNature-atlas,True
 https://github.com/PnCevennes/Qgis-plugin-lineaireRepercussion,True
@@ -943,6 +959,7 @@ https://github.com/ambanum/beta.gouv.fr,True
 https://github.com/ambanum/desinfo-mattermost-integrations,True
 https://github.com/ambanum/desinfo.quaidorsay.fr-wiki,True
 https://github.com/ambanum/disinfo.quaidorsay.fr,True
+https://github.com/ambanum/disinfo.quaidorsay.fr-ops,False
 https://github.com/ambanum/disinformation-chatbots,True
 https://github.com/ambanum/just-the-docs,True
 https://github.com/ambanum/media-scale,True
@@ -1203,6 +1220,7 @@ https://github.com/betagouv/role-ansible,True
 https://github.com/betagouv/secretariat,True
 https://github.com/betagouv/securite-numerique-agile,True
 https://github.com/betagouv/sejour,True
+https://github.com/betagouv/siecle-api,False
 https://github.com/betagouv/siecle-xml_mapper,False
 https://github.com/betagouv/signalement,True
 https://github.com/betagouv/signalement-api,True
@@ -1674,6 +1692,7 @@ https://github.com/etalab/agefiph_worker_api_entreprise,True
 https://github.com/etalab/agenda-tech-ext,True
 https://github.com/etalab/algorithmes-publics,True
 https://github.com/etalab/api-bal,True
+https://github.com/etalab/api-codes-sources-fr,False
 https://github.com/etalab/api-geo,True
 https://github.com/etalab/api-rpg,True
 https://github.com/etalab/api-urbanisme,True
