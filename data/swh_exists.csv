@@ -863,11 +863,11 @@ https://github.com/SimPLU3D/simplu3D,True
 https://github.com/SimPLU3D/simplu3D-experiments,True
 https://github.com/SimPLU3D/simplu3D-iauidf,True
 https://github.com/SimPLU3D/simplu3D-ocl,False
-https://github.com/SimPLU3D/simplu3D-openMole-runner,False
+https://github.com/SimPLU3D/simplu3D-openMole-runner,True
 https://github.com/SimPLU3D/simplu3D-openmole,True
 https://github.com/SimPLU3D/simplu3D-rules,True
-https://github.com/SimPLU3D/simplu3D-tutorial,False
-https://github.com/SimPLU3D/simplu3D-workflow,False
+https://github.com/SimPLU3D/simplu3D-tutorial,True
+https://github.com/SimPLU3D/simplu3D-workflow,True
 https://github.com/SimPLU3D/simplushp2pgsql,False
 https://github.com/SocialGouv/UDD,True
 https://github.com/SocialGouv/annuaire-mjpm,True
@@ -2624,7 +2624,7 @@ https://gitlab.inria.fr/comprise/deliverable_d21,True
 https://gitlab.inria.fr/coqinterval/interval,True
 https://gitlab.inria.fr/coquelicot/coquelicot,True
 https://gitlab.irstea.fr/HYCAR-Hydro/airgr,False
-https://gitlab.irstea.fr/HYCAR-Hydro/airgrteaching,False
+https://gitlab.irstea.fr/HYCAR-Hydro/airgrteaching,True
 https://gitlab.irstea.fr/SimAquaLife/GR3D,True
 https://gitlab.irstea.fr/SimAquaLife/PikeLake,True
 https://gitlab.irstea.fr/SimAquaLife/PredatorPrey,False
