@@ -700,7 +700,7 @@ https://github.com/OpenCTI-Platform/datasets,True
 https://github.com/OpenCTI-Platform/docker,True
 https://github.com/OpenCTI-Platform/docs,True
 https://github.com/OpenCTI-Platform/opencti,True
-https://github.com/OpenEdition/NormAFE,False
+https://github.com/OpenEdition/NormAFE,True
 https://github.com/OpenEdition/OTX,True
 https://github.com/OpenEdition/bilbo,True
 https://github.com/OpenEdition/checklist,True
@@ -1949,7 +1949,7 @@ https://github.com/fabnumdef/fabnumdef.github.io,True
 https://github.com/fabnumdef/resources,True
 https://github.com/genotoul-bioinfo/WorkflowFrameworkComparison,False
 https://github.com/genotoul-bioinfo/dgenies,True
-https://github.com/genotoul-bioinfo/mipepcons,False
+https://github.com/genotoul-bioinfo/mipepcons,True
 https://github.com/genotoul-bioinfo/rnaseq,False
 https://github.com/geodatagouv/csw-client,True
 https://github.com/geodatagouv/docker,True
