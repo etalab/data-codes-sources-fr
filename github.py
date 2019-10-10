@@ -62,7 +62,7 @@ class GitHubOrg(object):
             repo["nombre_stars"] = repository["stargazers_count"]
             repo["nombre_forks"] = repository["forks_count"]
             try:
-                repo["licence"] = repository["license"]["name"]
+                repo["licence"] = self.clean_license(repository["license"]["name"])
             except Exception:
                 repo["licence"] = None
             repo["nombre_issues_ouvertes"] = repository["open_issues"]
