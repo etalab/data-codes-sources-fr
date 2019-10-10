@@ -1459,6 +1459,7 @@ https://github.com/clipos/assets_gentoo,True
 https://github.com/clipos/assets_toolkit,True
 https://github.com/clipos/bugs,True
 https://github.com/clipos/buildbot,True
+https://github.com/clipos/ci,False
 https://github.com/clipos/clipos.github.io,True
 https://github.com/clipos/docs,True
 https://github.com/clipos/docs-src,True
