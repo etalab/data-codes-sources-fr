@@ -44,6 +44,7 @@ class GitLabOrg(object):
             repo["derniere_mise_a_jour"] = format_datetime(
                 repository["last_activity_at"]
             )
+            # derniere_modification really ought to be the equivalent of GitHub pushed_at but GitLab does not expose such information for now
             repo["derniere_modification"] = format_datetime(
                 repository["last_activity_at"]
             )
