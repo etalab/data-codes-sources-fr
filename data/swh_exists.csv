@@ -608,7 +608,7 @@ https://github.com/LemonLDAPNG/lemonldap-mfiles-extension,False
 https://github.com/LemonLDAPNG/lemonldap-ng,True
 https://github.com/LemonLDAPNG/lemonldap-ng-docker,True
 https://github.com/LemonLDAPNG/lemonldap-valve-tomcat,False
-https://github.com/LemonLDAPNG/node-fastcgi-authz-client,False
+https://github.com/LemonLDAPNG/node-fastcgi-authz-client,True
 https://github.com/LemonLDAPNG/node-lemonldap-ng-handler,True
 https://github.com/LemonLDAPNG/pts2019-llng-workshop,False
 https://github.com/LemonLDAPNG/puppet-lemonldap-ng,True
@@ -832,7 +832,7 @@ https://github.com/SGMAP-AGD/slides-etalab,True
 https://github.com/SGMAP-AGD/tidydata-defm,True
 https://github.com/SGMAP-AGD/wiki_agd,True
 https://github.com/SimPLU3D/3DBuildableHull,True
-https://github.com/SimPLU3D/BuildUP,False
+https://github.com/SimPLU3D/BuildUP,True
 https://github.com/SimPLU3D/BuildUPViewer,False
 https://github.com/SimPLU3D/SimPLU3D.github.io,True
 https://github.com/SimPLU3D/plu-formel,False
@@ -940,7 +940,7 @@ https://github.com/SocieteNumerique/rapport-inclusion,True
 https://github.com/SocieteNumerique/societenumerique.github.io,True
 https://github.com/SocieteNumerique/societenumerique.github.io-old,True
 https://github.com/SocieteNumerique/tutoriel,True
-https://github.com/StartupsPoleEmploi/Avril-Demat-Proto-Nuxt,False
+https://github.com/StartupsPoleEmploi/Avril-Demat-Proto-Nuxt,True
 https://github.com/StartupsPoleEmploi/Avril-Frontend,True
 https://github.com/StartupsPoleEmploi/Templates-Mailjet,True
 https://github.com/StartupsPoleEmploi/anotea,True
@@ -2603,7 +2603,7 @@ https://gitlab.inria.fr/coqinterval/interval,True
 https://gitlab.inria.fr/coquelicot/coquelicot,True
 https://gitlab.irstea.fr/HYCAR-Hydro/airgr,False
 https://gitlab.irstea.fr/HYCAR-Hydro/airgrteaching,False
-https://gitlab.irstea.fr/SimAquaLife/GR3D,False
+https://gitlab.irstea.fr/SimAquaLife/GR3D,True
 https://gitlab.irstea.fr/SimAquaLife/PikeLake,True
 https://gitlab.irstea.fr/SimAquaLife/PredatorPrey,False
 https://gitlab.irstea.fr/SimAquaLife/SimAquaLife,False
@@ -2622,5 +2622,5 @@ https://gitlab.irstea.fr/raspberry-pi/multi-sense,False
 https://gitlab.irstea.fr/raspberry-pi/sense-hat,True
 https://gitlab.irstea.fr/support/wiki,False
 https://gitlab.irstea.fr/vino/Vino,False
-https://gitlab.ow2.org/lemonldap-ng/lemonldap-ng,False
+https://gitlab.ow2.org/lemonldap-ng/lemonldap-ng,True
 https://gitlab.ow2.org/lemonldap-ng/website-landing-page,False
