@@ -609,6 +609,18 @@ https://github.com/LAB-MI/LAB-MI.github.io,True
 https://github.com/LAB-MI/api.gouv.fr,True
 https://github.com/LAB-MI/candilib,True
 https://github.com/LAB-MI/candilibV2,True
+https://github.com/LETG/csw-harvester,True
+https://github.com/LETG/geocms,True
+https://github.com/LETG/letg-spip,True
+https://github.com/LETG/managechart,False
+https://github.com/LETG/pops,True
+https://github.com/LETG/redmine-documents-pops,True
+https://github.com/LETG/redmine-foundation-theme,True
+https://github.com/LETG/redmine-invitable,True
+https://github.com/LETG/redmine-pops,True
+https://github.com/LETG/redmine-pops-engine,True
+https://github.com/LETG/redmine_improved_searchbox,False
+https://github.com/LETG/ruby-ogc,True
 https://github.com/LINCnil/CNIL-Cookies-List,True
 https://github.com/LINCnil/Cabanon,True
 https://github.com/LINCnil/Cookie-consent_Google-Analytics,True
@@ -929,7 +941,7 @@ https://github.com/SocialGouv/letor-scores,True
 https://github.com/SocialGouv/linters,True
 https://github.com/SocialGouv/mattermost-plugin-google-calendar,True
 https://github.com/SocialGouv/meditor,True
-https://github.com/SocialGouv/medle,False
+https://github.com/SocialGouv/medle,True
 https://github.com/SocialGouv/next-routes,True
 https://github.com/SocialGouv/polyfill-service,True
 https://github.com/SocialGouv/postgrest,True
@@ -2377,7 +2389,7 @@ https://github.com/region-bretagne/mviewer-apps,True
 https://github.com/region-bretagne/signalement-ws,True
 https://github.com/region-bretagne/territoire-portal,True
 https://github.com/region-bretagne/viewer,True
-https://github.com/sigrennesmetropole/MViewer-SIGRM,False
+https://github.com/sigrennesmetropole/MViewer-SIGRM,True
 https://github.com/sigrennesmetropole/QgisCadastrePlugin,True
 https://github.com/sigrennesmetropole/addon_rva,True
 https://github.com/sigrennesmetropole/addon_urbanisme,True
@@ -2698,7 +2710,7 @@ https://gitlab.irstea.fr/HYCAR-Hydro/airgr,False
 https://gitlab.irstea.fr/HYCAR-Hydro/airgrteaching,True
 https://gitlab.irstea.fr/SimAquaLife/GR3D,True
 https://gitlab.irstea.fr/SimAquaLife/PikeLake,True
-https://gitlab.irstea.fr/SimAquaLife/PredatorPrey,False
+https://gitlab.irstea.fr/SimAquaLife/PredatorPrey,True
 https://gitlab.irstea.fr/SimAquaLife/SimAquaLife,False
 https://gitlab.irstea.fr/SimAquaLife/StockedDiad,False
 https://gitlab.irstea.fr/SimAquaLife/SturioSaintSeurin,True
