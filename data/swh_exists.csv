@@ -6,7 +6,7 @@ https://forgemia.inra.fr/QTL/spell-qtl,False
 https://forgemia.inra.fr/adminforgemia/doc-public,False
 https://forgemia.inra.fr/bios4biol/bioinfo-utils,False
 https://forgemia.inra.fr/bios4biol/workflows,False
-https://forgemia.inra.fr/record-open-archives/rec-crash,False
+https://forgemia.inra.fr/record-open-archives/rec-crash,True
 https://forgemia.inra.fr/record-open-archives/recmoustics,False
 https://forgemia.inra.fr/sciproject/managesciproject,False
 https://forgemia.inra.fr/svdetection/cnvpipelines,False
@@ -59,7 +59,7 @@ https://git.unicaen.fr/open-source/OSE,False
 https://git.unicaen.fr/open-source/sygal,False
 https://git.unicaen.fr/open-source/sygal-doc,False
 https://git.unicaen.fr/open-source/sygal-import-ws,False
-https://git.unicaen.fr/pdn-certic/MaX,False
+https://git.unicaen.fr/pdn-certic/MaX,True
 https://git.unistra.fr/2017-T4-6/Project,True
 https://git.unistra.fr/AOEINT/auth-api,True
 https://git.unistra.fr/AOEINT/client,True
@@ -612,7 +612,7 @@ https://github.com/LAB-MI/candilibV2,True
 https://github.com/LETG/csw-harvester,True
 https://github.com/LETG/geocms,True
 https://github.com/LETG/letg-spip,True
-https://github.com/LETG/managechart,False
+https://github.com/LETG/managechart,True
 https://github.com/LETG/pops,True
 https://github.com/LETG/redmine-documents-pops,True
 https://github.com/LETG/redmine-foundation-theme,True
@@ -803,6 +803,7 @@ https://github.com/PnX-SI/Ressources-techniques,True
 https://github.com/PnX-SI/TaxHub,True
 https://github.com/PnX-SI/UsersHub,True
 https://github.com/PnX-SI/UsersHub-authentification-module,True
+https://github.com/PnX-SI/Utils-Flask-SQLAlchemy,False
 https://github.com/PnX-SI/Virtualia-connect,True
 https://github.com/PnX-SI/gn_mobile_core,True
 https://github.com/PnX-SI/gn_mobile_maps,True
@@ -2006,6 +2007,7 @@ https://github.com/histovec/slides,True
 https://github.com/ia-flash/app,True
 https://github.com/ia-flash/demo,True
 https://github.com/ia-flash/frontend,True
+https://github.com/ia-flash/lab,False
 https://github.com/ia-flash/matchvec,True
 https://github.com/ia-flash/s3-download-action,True
 https://github.com/ia-flash/sivnorm,True
@@ -2483,7 +2485,7 @@ https://github.com/unistra/django-search-listview,True
 https://github.com/unistra/django-sifac,True
 https://github.com/unistra/django-sympa,True
 https://github.com/unistra/django-workflow-activity,True
-https://github.com/unistra/django-workflows,False
+https://github.com/unistra/django-workflows,True
 https://github.com/unistra/djangorestframework-spore,True
 https://github.com/unistra/dtrt-ffmpeg,False
 https://github.com/unistra/eplouribousse,True
@@ -2653,7 +2655,7 @@ https://gitlab.adullact.net/socio-connect/api,True
 https://gitlab.adullact.net/socio-connect/front,True
 https://gitlab.cerema.fr/Stream/qstream,False
 https://gitlab.cerema.fr/Stream/stream-python,False
-https://gitlab.cerema.fr/admin-donnees/fr.cerema.admin_donnees_postgresql,False
+https://gitlab.cerema.fr/admin-donnees/fr.cerema.admin_donnees_postgresql,True
 https://gitlab.com/DREES_code/formulaire_zonage_ars,True
 https://gitlab.com/dreal-datalab/adresses-mairies-epci,True
 https://gitlab.com/dreal-datalab/codes_postaux,True
@@ -2722,10 +2724,10 @@ https://gitlab.irstea.fr/geopat/geopat,True
 https://gitlab.irstea.fr/irrig/public,True
 https://gitlab.irstea.fr/irstea-ros/ads1115_driver,False
 https://gitlab.irstea.fr/irstea-ros/labjack_driver,False
-https://gitlab.irstea.fr/irstea-ros/navsat_to_odom,False
+https://gitlab.irstea.fr/irstea-ros/navsat_to_odom,True
 https://gitlab.irstea.fr/raspberry-pi/multi-sense,False
 https://gitlab.irstea.fr/raspberry-pi/sense-hat,True
 https://gitlab.irstea.fr/support/wiki,True
-https://gitlab.irstea.fr/vino/Vino,False
+https://gitlab.irstea.fr/vino/Vino,True
 https://gitlab.ow2.org/lemonldap-ng/lemonldap-ng,True
 https://gitlab.ow2.org/lemonldap-ng/website-landing-page,False
