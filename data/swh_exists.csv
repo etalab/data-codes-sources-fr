@@ -77,6 +77,10 @@ https://git.unistra.fr/BLL17_T3_D/SedationMaPassion,True
 https://git.unistra.fr/CAMMA-public/mvor,True
 https://git.unistra.fr/T4desMeilleurs/T4Botanique,True
 https://git.unistra.fr/algdis/algdis_public,True
+https://github.com/139bercy/docker-ci-tool-stack,False
+https://github.com/139bercy/first-ghpages-by-travis,False
+https://github.com/139bercy/hub,False
+https://github.com/139bercy/opendata-quality,False
 https://github.com/ANSSI-FR/AD-control-paths,True
 https://github.com/ANSSI-FR/AD-permissions,True
 https://github.com/ANSSI-FR/ADCP-DirectoryCrawler,True
@@ -933,7 +937,7 @@ https://github.com/SocialGouv/postgrester,True
 https://github.com/SocialGouv/react-departements,True
 https://github.com/SocialGouv/react-medixtor,True
 https://github.com/SocialGouv/renovate-config,True
-https://github.com/SocialGouv/sample-next-app,False
+https://github.com/SocialGouv/sample-next-app,True
 https://github.com/SocialGouv/seminaire,True
 https://github.com/SocialGouv/siret2idcc,True
 https://github.com/SocialGouv/socialgouv.github.io,True
@@ -1761,7 +1765,7 @@ https://github.com/etalab/agefiph_worker_api_entreprise,True
 https://github.com/etalab/agenda-tech-ext,True
 https://github.com/etalab/algorithmes-publics,True
 https://github.com/etalab/api-bal,True
-https://github.com/etalab/api-codes-sources-fr,False
+https://github.com/etalab/api-codes-sources-fr,True
 https://github.com/etalab/api-geo,True
 https://github.com/etalab/api-rpg,True
 https://github.com/etalab/api-urbanisme,True
@@ -2435,7 +2439,7 @@ https://github.com/sympa-community/sympa-ansible,True
 https://github.com/sympa-community/sympa-community.github.io,True
 https://github.com/sympa-community/sympa-contribs,True
 https://github.com/sympa-community/sympa-design,True
-https://github.com/sympa-community/sympa-docker,False
+https://github.com/sympa-community/sympa-docker,True
 https://github.com/sympa-community/sympa-puppet-manifest,True
 https://github.com/sympa-community/sympa-schema,True
 https://github.com/sympa-community/sympa-service-rest,True
@@ -2630,7 +2634,7 @@ https://gitlab.irstea.fr/SimAquaLife/PikeLake,True
 https://gitlab.irstea.fr/SimAquaLife/PredatorPrey,False
 https://gitlab.irstea.fr/SimAquaLife/SimAquaLife,False
 https://gitlab.irstea.fr/SimAquaLife/StockedDiad,False
-https://gitlab.irstea.fr/SimAquaLife/SturioSaintSeurin,False
+https://gitlab.irstea.fr/SimAquaLife/SturioSaintSeurin,True
 https://gitlab.irstea.fr/copain/frenchcropusage,False
 https://gitlab.irstea.fr/copain/weather2017,False
 https://gitlab.irstea.fr/cormas-dev/r-cormas,False
