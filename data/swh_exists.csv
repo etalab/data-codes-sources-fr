@@ -7,7 +7,7 @@ https://forgemia.inra.fr/adminforgemia/doc-public,False
 https://forgemia.inra.fr/bios4biol/bioinfo-utils,False
 https://forgemia.inra.fr/bios4biol/workflows,False
 https://forgemia.inra.fr/record-open-archives/rec-crash,True
-https://forgemia.inra.fr/record-open-archives/recmoustics,False
+https://forgemia.inra.fr/record-open-archives/recmoustics,True
 https://forgemia.inra.fr/sciproject/managesciproject,False
 https://forgemia.inra.fr/svdetection/cnvpipelines,False
 https://forgemia.inra.fr/svdetection/popsim,False
@@ -874,7 +874,7 @@ https://github.com/SimPLU3D/3DBuildableHull,True
 https://github.com/SimPLU3D/BuildUP,True
 https://github.com/SimPLU3D/BuildUPViewer,False
 https://github.com/SimPLU3D/SimPLU3D.github.io,True
-https://github.com/SimPLU3D/plu-formel,False
+https://github.com/SimPLU3D/plu-formel,True
 https://github.com/SimPLU3D/shapeRuler,False
 https://github.com/SimPLU3D/simplu3D,True
 https://github.com/SimPLU3D/simplu3D-experiments,True
@@ -2444,7 +2444,7 @@ https://github.com/sympa-community/dotorg,True
 https://github.com/sympa-community/gpldoc,True
 https://github.com/sympa-community/historic-sympa,True
 https://github.com/sympa-community/news,False
-https://github.com/sympa-community/old-renater-dokuwiki,False
+https://github.com/sympa-community/old-renater-dokuwiki,True
 https://github.com/sympa-community/p5-sympatic,True
 https://github.com/sympa-community/p5-task-sympa,True
 https://github.com/sympa-community/projects,True
@@ -2714,7 +2714,7 @@ https://gitlab.irstea.fr/SimAquaLife/GR3D,True
 https://gitlab.irstea.fr/SimAquaLife/PikeLake,True
 https://gitlab.irstea.fr/SimAquaLife/PredatorPrey,True
 https://gitlab.irstea.fr/SimAquaLife/SimAquaLife,False
-https://gitlab.irstea.fr/SimAquaLife/StockedDiad,False
+https://gitlab.irstea.fr/SimAquaLife/StockedDiad,True
 https://gitlab.irstea.fr/SimAquaLife/SturioSaintSeurin,True
 https://gitlab.irstea.fr/copain/frenchcropusage,False
 https://gitlab.irstea.fr/copain/weather2017,False
