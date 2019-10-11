@@ -1,4 +1,5 @@
 origin_url,is_available
+https://forge.grandlyon.com/systemes-dinformation/pasi-portail-d-acces-au-si,False
 https://forgemia.inra.fr/4p/user-guide,False
 https://forgemia.inra.fr/DecisionBleDur/DecisionBleDur,False
 https://forgemia.inra.fr/GET_TRiX/matrix,False
@@ -10,7 +11,7 @@ https://forgemia.inra.fr/record-open-archives/rec-crash,True
 https://forgemia.inra.fr/record-open-archives/recmoustics,True
 https://forgemia.inra.fr/sciproject/managesciproject,False
 https://forgemia.inra.fr/svdetection/cnvpipelines,False
-https://forgemia.inra.fr/svdetection/popsim,False
+https://forgemia.inra.fr/svdetection/popsim,True
 https://forgemia.inra.fr/svdetection/svlib,False
 https://forgemia.inra.fr/umr-astre/epidmap,False
 https://forgemia.inra.fr/umr-astre/geonetwork,False
@@ -619,7 +620,7 @@ https://github.com/LETG/redmine-foundation-theme,True
 https://github.com/LETG/redmine-invitable,True
 https://github.com/LETG/redmine-pops,True
 https://github.com/LETG/redmine-pops-engine,True
-https://github.com/LETG/redmine_improved_searchbox,False
+https://github.com/LETG/redmine_improved_searchbox,True
 https://github.com/LETG/ruby-ogc,True
 https://github.com/LINCnil/CNIL-Cookies-List,True
 https://github.com/LINCnil/Cabanon,True
@@ -1304,8 +1305,8 @@ https://github.com/betagouv/role-ansible,True
 https://github.com/betagouv/secretariat,True
 https://github.com/betagouv/securite-numerique-agile,True
 https://github.com/betagouv/sejour,True
-https://github.com/betagouv/siecle-api,False
-https://github.com/betagouv/siecle-xml_mapper,False
+https://github.com/betagouv/siecle-api,True
+https://github.com/betagouv/siecle-xml_mapper,True
 https://github.com/betagouv/signalement,True
 https://github.com/betagouv/signalement-api,True
 https://github.com/betagouv/signalement-app,True
@@ -2718,7 +2719,7 @@ https://gitlab.irstea.fr/SimAquaLife/StockedDiad,True
 https://gitlab.irstea.fr/SimAquaLife/SturioSaintSeurin,True
 https://gitlab.irstea.fr/copain/frenchcropusage,False
 https://gitlab.irstea.fr/copain/weather2017,False
-https://gitlab.irstea.fr/cormas-dev/r-cormas,False
+https://gitlab.irstea.fr/cormas-dev/r-cormas,True
 https://gitlab.irstea.fr/emax/bddfontblanche,False
 https://gitlab.irstea.fr/geopat/geopat,True
 https://gitlab.irstea.fr/irrig/public,True
@@ -2730,4 +2731,4 @@ https://gitlab.irstea.fr/raspberry-pi/sense-hat,True
 https://gitlab.irstea.fr/support/wiki,True
 https://gitlab.irstea.fr/vino/Vino,True
 https://gitlab.ow2.org/lemonldap-ng/lemonldap-ng,True
-https://gitlab.ow2.org/lemonldap-ng/website-landing-page,False
+https://gitlab.ow2.org/lemonldap-ng/website-landing-page,True
