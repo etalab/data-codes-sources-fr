@@ -1,5 +1,5 @@
 origin_url,is_available
-https://forge.grandlyon.com/systemes-dinformation/pasi-portail-d-acces-au-si,False
+https://forge.grandlyon.com/systemes-dinformation/pasi-portail-d-acces-au-si,True
 https://forgemia.inra.fr/4p/user-guide,True
 https://forgemia.inra.fr/DecisionBleDur/DecisionBleDur,True
 https://forgemia.inra.fr/GET_TRiX/matrix,False
@@ -804,7 +804,7 @@ https://github.com/PnX-SI/Ressources-techniques,True
 https://github.com/PnX-SI/TaxHub,True
 https://github.com/PnX-SI/UsersHub,True
 https://github.com/PnX-SI/UsersHub-authentification-module,True
-https://github.com/PnX-SI/Utils-Flask-SQLAlchemy,False
+https://github.com/PnX-SI/Utils-Flask-SQLAlchemy,True
 https://github.com/PnX-SI/Virtualia-connect,True
 https://github.com/PnX-SI/gn_mobile_core,True
 https://github.com/PnX-SI/gn_mobile_maps,True
@@ -1499,7 +1499,7 @@ https://github.com/clipos/assets_gentoo,True
 https://github.com/clipos/assets_toolkit,True
 https://github.com/clipos/bugs,True
 https://github.com/clipos/buildbot,True
-https://github.com/clipos/ci,False
+https://github.com/clipos/ci,True
 https://github.com/clipos/clipos.github.io,True
 https://github.com/clipos/docs,True
 https://github.com/clipos/docs-src,True
@@ -2526,7 +2526,7 @@ https://github.com/unistra/viewflow,True
 https://github.com/unistra/xml-archive-to-pdf,True
 https://github.com/vle-forge/Echll,True
 https://github.com/vle-forge/debian,True
-https://github.com/vle-forge/irritator,False
+https://github.com/vle-forge/irritator,True
 https://github.com/vle-forge/node-vle,True
 https://github.com/vle-forge/packages,True
 https://github.com/vle-forge/pyvle,True
@@ -2654,7 +2654,7 @@ https://gitlab.adullact.net/pixelhumain/terla,True
 https://gitlab.adullact.net/pixelhumain/wiki-fr,True
 https://gitlab.adullact.net/socio-connect/api,True
 https://gitlab.adullact.net/socio-connect/front,True
-https://gitlab.cerema.fr/Stream/qstream,False
+https://gitlab.cerema.fr/Stream/qstream,True
 https://gitlab.cerema.fr/Stream/stream-python,False
 https://gitlab.cerema.fr/admin-donnees/fr.cerema.admin_donnees_postgresql,True
 https://gitlab.com/DREES_code/formulaire_zonage_ars,True
