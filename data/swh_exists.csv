@@ -1,12 +1,12 @@
 origin_url,is_available
 https://forge.grandlyon.com/systemes-dinformation/pasi-portail-d-acces-au-si,False
-https://forgemia.inra.fr/4p/user-guide,False
-https://forgemia.inra.fr/DecisionBleDur/DecisionBleDur,False
+https://forgemia.inra.fr/4p/user-guide,True
+https://forgemia.inra.fr/DecisionBleDur/DecisionBleDur,True
 https://forgemia.inra.fr/GET_TRiX/matrix,False
-https://forgemia.inra.fr/QTL/spell-qtl,False
+https://forgemia.inra.fr/QTL/spell-qtl,True
 https://forgemia.inra.fr/adminforgemia/doc-public,False
 https://forgemia.inra.fr/bios4biol/bioinfo-utils,False
-https://forgemia.inra.fr/bios4biol/workflows,False
+https://forgemia.inra.fr/bios4biol/workflows,True
 https://forgemia.inra.fr/record-open-archives/rec-crash,True
 https://forgemia.inra.fr/record-open-archives/recmoustics,True
 https://forgemia.inra.fr/sciproject/managesciproject,False
@@ -59,7 +59,7 @@ https://framagit.org/openfisca/ines-libre,True
 https://git.unicaen.fr/open-source/OSE,False
 https://git.unicaen.fr/open-source/sygal,False
 https://git.unicaen.fr/open-source/sygal-doc,False
-https://git.unicaen.fr/open-source/sygal-import-ws,False
+https://git.unicaen.fr/open-source/sygal-import-ws,True
 https://git.unicaen.fr/pdn-certic/MaX,True
 https://git.unistra.fr/2017-T4-6/Project,True
 https://git.unistra.fr/AOEINT/auth-api,True
@@ -1987,7 +1987,7 @@ https://github.com/fabnumdef/e-chauffeur_user,True
 https://github.com/fabnumdef/fabnumdef.d3,False
 https://github.com/fabnumdef/fabnumdef.github.io,True
 https://github.com/fabnumdef/resources,True
-https://github.com/genotoul-bioinfo/WorkflowFrameworkComparison,False
+https://github.com/genotoul-bioinfo/WorkflowFrameworkComparison,True
 https://github.com/genotoul-bioinfo/dgenies,True
 https://github.com/genotoul-bioinfo/mipepcons,True
 https://github.com/genotoul-bioinfo/rnaseq,False
@@ -2477,7 +2477,7 @@ https://github.com/unistra/django-drybones,True
 https://github.com/unistra/django-excalibur,True
 https://github.com/unistra/django-hypnos,True
 https://github.com/unistra/django-ldapdb,True
-https://github.com/unistra/django-permissions,False
+https://github.com/unistra/django-permissions,True
 https://github.com/unistra/django-rest-framework-custom-exceptions,True
 https://github.com/unistra/django-rest-framework-custom-filters,True
 https://github.com/unistra/django-rest-framework-custom-paginations,True
@@ -2718,7 +2718,7 @@ https://gitlab.irstea.fr/SimAquaLife/SimAquaLife,False
 https://gitlab.irstea.fr/SimAquaLife/StockedDiad,True
 https://gitlab.irstea.fr/SimAquaLife/SturioSaintSeurin,True
 https://gitlab.irstea.fr/copain/frenchcropusage,False
-https://gitlab.irstea.fr/copain/weather2017,False
+https://gitlab.irstea.fr/copain/weather2017,True
 https://gitlab.irstea.fr/cormas-dev/r-cormas,True
 https://gitlab.irstea.fr/emax/bddfontblanche,True
 https://gitlab.irstea.fr/geopat/geopat,True
