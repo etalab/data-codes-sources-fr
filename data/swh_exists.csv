@@ -21,7 +21,7 @@ https://forgemia.inra.fr/umr-astre/topomatch,False
 https://forgemia.inra.fr/umr-boa/viseago,False
 https://forgemia.inra.fr/umr-gdec/biotools,False
 https://forgemia.inra.fr/umr-gdec/clari-te,False
-https://forgemia.inra.fr/umr-gdec/isbpfinder,False
+https://forgemia.inra.fr/umr-gdec/isbpfinder,True
 https://framagit.org/datatourisme/api,True
 https://framagit.org/datatourisme/docker-stack,True
 https://framagit.org/datatourisme/ontology,True
@@ -93,7 +93,7 @@ https://github.com/1024pix/matomo,False
 https://github.com/1024pix/metabase-deploy,False
 https://github.com/1024pix/metrics-grafana,True
 https://github.com/1024pix/metrics-router,True
-https://github.com/1024pix/nginx-lb,False
+https://github.com/1024pix/nginx-lb,True
 https://github.com/1024pix/nginx-lb-dev,False
 https://github.com/1024pix/pix,True
 https://github.com/1024pix/pix-editor,True
