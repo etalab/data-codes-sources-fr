@@ -2,7 +2,7 @@ origin_url,is_available
 https://forge.grandlyon.com/systemes-dinformation/pasi-portail-d-acces-au-si,True
 https://forgemia.inra.fr/4p/user-guide,True
 https://forgemia.inra.fr/DecisionBleDur/DecisionBleDur,True
-https://forgemia.inra.fr/GET_TRiX/matrix,False
+https://forgemia.inra.fr/GET_TRiX/matrix,True
 https://forgemia.inra.fr/QTL/spell-qtl,True
 https://forgemia.inra.fr/adminforgemia/doc-public,False
 https://forgemia.inra.fr/bios4biol/bioinfo-utils,False
@@ -105,7 +105,7 @@ https://github.com/1024pix/pix-site,True
 https://github.com/1024pix/poc-ovh-api,False
 https://github.com/1024pix/poc-qmail,True
 https://github.com/1024pix/poc-smtp,False
-https://github.com/1024pix/samlify,False
+https://github.com/1024pix/samlify,True
 https://github.com/1024pix/subdir-buildpack,True
 https://github.com/139bercy/docker-ci-tool-stack,True
 https://github.com/139bercy/first-ghpages-by-travis,False
@@ -916,7 +916,7 @@ https://github.com/SimPLU3D/simplu3D-openmole,True
 https://github.com/SimPLU3D/simplu3D-rules,True
 https://github.com/SimPLU3D/simplu3D-tutorial,True
 https://github.com/SimPLU3D/simplu3D-workflow,True
-https://github.com/SimPLU3D/simplushp2pgsql,False
+https://github.com/SimPLU3D/simplushp2pgsql,True
 https://github.com/SocialGouv/UDD,True
 https://github.com/SocialGouv/annuaire-mjpm,True
 https://github.com/SocialGouv/ansible-kubeadm-cluster,True
@@ -2021,7 +2021,7 @@ https://github.com/fabnumdef/resources,True
 https://github.com/genotoul-bioinfo/WorkflowFrameworkComparison,True
 https://github.com/genotoul-bioinfo/dgenies,True
 https://github.com/genotoul-bioinfo/mipepcons,True
-https://github.com/genotoul-bioinfo/rnaseq,False
+https://github.com/genotoul-bioinfo/rnaseq,True
 https://github.com/geodatagouv/csw-client,True
 https://github.com/geodatagouv/docker,True
 https://github.com/geodatagouv/docker-node-gdal,True
