@@ -58,7 +58,7 @@ https://framagit.org/openfisca/french-income-taxes-test-cases,True
 https://framagit.org/openfisca/ines-libre,True
 https://git.unicaen.fr/open-source/OSE,True
 https://git.unicaen.fr/open-source/sygal,True
-https://git.unicaen.fr/open-source/sygal-doc,False
+https://git.unicaen.fr/open-source/sygal-doc,True
 https://git.unicaen.fr/open-source/sygal-import-ws,True
 https://git.unicaen.fr/pdn-certic/MaX,True
 https://git.unistra.fr/2017-T4-6/Project,True
@@ -110,7 +110,7 @@ https://github.com/1024pix/subdir-buildpack,True
 https://github.com/139bercy/docker-ci-tool-stack,True
 https://github.com/139bercy/first-ghpages-by-travis,False
 https://github.com/139bercy/hub,True
-https://github.com/139bercy/opendata-quality,False
+https://github.com/139bercy/opendata-quality,True
 https://github.com/ANSSI-FR/AD-control-paths,True
 https://github.com/ANSSI-FR/AD-permissions,True
 https://github.com/ANSSI-FR/ADCP-DirectoryCrawler,True
@@ -2757,7 +2757,7 @@ https://gitlab.irstea.fr/irrig/public,True
 https://gitlab.irstea.fr/irstea-ros/ads1115_driver,True
 https://gitlab.irstea.fr/irstea-ros/labjack_driver,False
 https://gitlab.irstea.fr/irstea-ros/navsat_to_odom,True
-https://gitlab.irstea.fr/raspberry-pi/multi-sense,False
+https://gitlab.irstea.fr/raspberry-pi/multi-sense,True
 https://gitlab.irstea.fr/raspberry-pi/sense-hat,True
 https://gitlab.irstea.fr/support/wiki,True
 https://gitlab.irstea.fr/vino/Vino,True
