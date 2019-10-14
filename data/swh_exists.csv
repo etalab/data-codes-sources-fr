@@ -103,7 +103,7 @@ https://github.com/1024pix/pix-maintenance,False
 https://github.com/1024pix/pix-review-router,False
 https://github.com/1024pix/pix-site,True
 https://github.com/1024pix/poc-ovh-api,False
-https://github.com/1024pix/poc-qmail,False
+https://github.com/1024pix/poc-qmail,True
 https://github.com/1024pix/poc-smtp,False
 https://github.com/1024pix/samlify,False
 https://github.com/1024pix/subdir-buildpack,True
@@ -926,6 +926,7 @@ https://github.com/SocialGouv/autosuggest,True
 https://github.com/SocialGouv/bootstrap,True
 https://github.com/SocialGouv/bot,True
 https://github.com/SocialGouv/checkup,True
+https://github.com/SocialGouv/clone-moi-sur-github,False
 https://github.com/SocialGouv/code-du-travail-api,True
 https://github.com/SocialGouv/code-du-travail-backoffice,True
 https://github.com/SocialGouv/code-du-travail-chatbot,True
@@ -2753,7 +2754,7 @@ https://gitlab.irstea.fr/cormas-dev/r-cormas,True
 https://gitlab.irstea.fr/emax/bddfontblanche,True
 https://gitlab.irstea.fr/geopat/geopat,True
 https://gitlab.irstea.fr/irrig/public,True
-https://gitlab.irstea.fr/irstea-ros/ads1115_driver,False
+https://gitlab.irstea.fr/irstea-ros/ads1115_driver,True
 https://gitlab.irstea.fr/irstea-ros/labjack_driver,False
 https://gitlab.irstea.fr/irstea-ros/navsat_to_odom,True
 https://gitlab.irstea.fr/raspberry-pi/multi-sense,False
