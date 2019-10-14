@@ -12,7 +12,7 @@ https://forgemia.inra.fr/record-open-archives/recmoustics,True
 https://forgemia.inra.fr/sciproject/managesciproject,False
 https://forgemia.inra.fr/svdetection/cnvpipelines,True
 https://forgemia.inra.fr/svdetection/popsim,True
-https://forgemia.inra.fr/svdetection/svlib,False
+https://forgemia.inra.fr/svdetection/svlib,True
 https://forgemia.inra.fr/umr-astre/epidmap,False
 https://forgemia.inra.fr/umr-astre/geonetwork,True
 https://forgemia.inra.fr/umr-astre/mapMCDA,False
@@ -57,7 +57,7 @@ https://framagit.org/openfisca/calculette-impots-web-explorer,True
 https://framagit.org/openfisca/french-income-taxes-test-cases,True
 https://framagit.org/openfisca/ines-libre,True
 https://git.unicaen.fr/open-source/OSE,True
-https://git.unicaen.fr/open-source/sygal,False
+https://git.unicaen.fr/open-source/sygal,True
 https://git.unicaen.fr/open-source/sygal-doc,False
 https://git.unicaen.fr/open-source/sygal-import-ws,True
 https://git.unicaen.fr/pdn-certic/MaX,True
@@ -86,7 +86,7 @@ https://github.com/1024pix/ember-cli-chartjs,False
 https://github.com/1024pix/ember-cli-matomo-tag-manager,False
 https://github.com/1024pix/ember-sentry,False
 https://github.com/1024pix/formation-jeremie,False
-https://github.com/1024pix/heroku-buildpack-telegraf,False
+https://github.com/1024pix/heroku-buildpack-telegraf,True
 https://github.com/1024pix/json-api-crud-server,False
 https://github.com/1024pix/mail-broker,False
 https://github.com/1024pix/matomo,False
