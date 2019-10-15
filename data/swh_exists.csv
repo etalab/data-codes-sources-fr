@@ -18,7 +18,7 @@ https://forgemia.inra.fr/umr-astre/geonetwork,True
 https://forgemia.inra.fr/umr-astre/mapMCDA,True
 https://forgemia.inra.fr/umr-astre/spreadrate,False
 https://forgemia.inra.fr/umr-astre/topomatch,False
-https://forgemia.inra.fr/umr-boa/viseago,False
+https://forgemia.inra.fr/umr-boa/viseago,True
 https://forgemia.inra.fr/umr-gdec/biotools,False
 https://forgemia.inra.fr/umr-gdec/clari-te,True
 https://forgemia.inra.fr/umr-gdec/isbpfinder,True
@@ -94,7 +94,7 @@ https://github.com/1024pix/metabase-deploy,False
 https://github.com/1024pix/metrics-grafana,True
 https://github.com/1024pix/metrics-router,True
 https://github.com/1024pix/nginx-lb,True
-https://github.com/1024pix/nginx-lb-dev,False
+https://github.com/1024pix/nginx-lb-dev,True
 https://github.com/1024pix/pix,True
 https://github.com/1024pix/pix-editor,True
 https://github.com/1024pix/pix-help-center-theme,False
@@ -2650,7 +2650,7 @@ https://github.com/sympa-community/sympa-service-rest,True
 https://github.com/sympa-community/sympa-spec-openapi,True
 https://github.com/sympa-community/sympa-vue,True
 https://github.com/unistra/aboutIFrame-portlet,True
-https://github.com/unistra/ansible-inventory-glpi,False
+https://github.com/unistra/ansible-inventory-glpi,True
 https://github.com/unistra/ansible-modules-opennebula,False
 https://github.com/unistra/aria,True
 https://github.com/unistra/avc-client,True
