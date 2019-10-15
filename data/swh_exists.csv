@@ -79,7 +79,7 @@ https://git.unistra.fr/CAMMA-public/mvor,True
 https://git.unistra.fr/T4desMeilleurs/T4Botanique,True
 https://git.unistra.fr/algdis/algdis_public,True
 https://github.com/1024pix/airtable-backup,True
-https://github.com/1024pix/airtable-updater,False
+https://github.com/1024pix/airtable-updater,True
 https://github.com/1024pix/benchmark,True
 https://github.com/1024pix/codeshift,False
 https://github.com/1024pix/ember-cli-chartjs,False
@@ -1076,7 +1076,7 @@ https://github.com/ambanum/beta.gouv.fr,True
 https://github.com/ambanum/desinfo-mattermost-integrations,True
 https://github.com/ambanum/desinfo.quaidorsay.fr-wiki,True
 https://github.com/ambanum/disinfo.quaidorsay.fr,True
-https://github.com/ambanum/disinfo.quaidorsay.fr-ops,False
+https://github.com/ambanum/disinfo.quaidorsay.fr-ops,True
 https://github.com/ambanum/disinformation-chatbots,True
 https://github.com/ambanum/just-the-docs,True
 https://github.com/ambanum/media-scale,True
