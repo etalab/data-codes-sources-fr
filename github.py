@@ -30,6 +30,11 @@ class GitHubOrg(object):
     def url(self, path):
         return self.base_url + path
 
+    def clean_license(self, value):
+        if value == "Do What The F*ck You Want To Public License":
+            return "Do What The Fuck You Want To Public License"
+        return value
+
     def repos_for_org(self):
         data = []
 

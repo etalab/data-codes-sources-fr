@@ -3,11 +3,6 @@ from dataclasses import asdict as dataclasses_dict
 
 
 class BaseModel(object):
-    def clean_license(self, value):
-        if value == "Do What The F*ck You Want To Public License":
-            return "Do What The Fuck You Want To Public License"
-        return value
-
     def to_dict(self):
         return dataclasses_dict(self)
 
