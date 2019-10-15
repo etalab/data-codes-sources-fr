@@ -15,7 +15,7 @@ https://forgemia.inra.fr/svdetection/popsim,True
 https://forgemia.inra.fr/svdetection/svlib,True
 https://forgemia.inra.fr/umr-astre/epidmap,False
 https://forgemia.inra.fr/umr-astre/geonetwork,True
-https://forgemia.inra.fr/umr-astre/mapMCDA,False
+https://forgemia.inra.fr/umr-astre/mapMCDA,True
 https://forgemia.inra.fr/umr-astre/spreadrate,False
 https://forgemia.inra.fr/umr-astre/topomatch,False
 https://forgemia.inra.fr/umr-boa/viseago,False
@@ -102,13 +102,13 @@ https://github.com/1024pix/pix-lifestyle,False
 https://github.com/1024pix/pix-maintenance,False
 https://github.com/1024pix/pix-review-router,False
 https://github.com/1024pix/pix-site,True
-https://github.com/1024pix/poc-ovh-api,False
+https://github.com/1024pix/poc-ovh-api,True
 https://github.com/1024pix/poc-qmail,True
 https://github.com/1024pix/poc-smtp,False
 https://github.com/1024pix/samlify,True
 https://github.com/1024pix/subdir-buildpack,True
 https://github.com/139bercy/docker-ci-tool-stack,True
-https://github.com/139bercy/first-ghpages-by-travis,False
+https://github.com/139bercy/first-ghpages-by-travis,True
 https://github.com/139bercy/hub,True
 https://github.com/139bercy/opendata-quality,True
 https://github.com/ANSSI-FR/AD-control-paths,True
@@ -2633,7 +2633,7 @@ https://github.com/sympa-community/ansible-webmail-server,True
 https://github.com/sympa-community/dotorg,True
 https://github.com/sympa-community/gpldoc,True
 https://github.com/sympa-community/historic-sympa,True
-https://github.com/sympa-community/news,False
+https://github.com/sympa-community/news,True
 https://github.com/sympa-community/old-renater-dokuwiki,True
 https://github.com/sympa-community/p5-sympatic,True
 https://github.com/sympa-community/p5-task-sympa,True
