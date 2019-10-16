@@ -97,8 +97,8 @@ https://github.com/1024pix/nginx-lb,True
 https://github.com/1024pix/nginx-lb-dev,True
 https://github.com/1024pix/pix,True
 https://github.com/1024pix/pix-editor,True
-https://github.com/1024pix/pix-help-center-theme,False
-https://github.com/1024pix/pix-lifestyle,False
+https://github.com/1024pix/pix-help-center-theme,True
+https://github.com/1024pix/pix-lifestyle,True
 https://github.com/1024pix/pix-maintenance,False
 https://github.com/1024pix/pix-review-router,False
 https://github.com/1024pix/pix-site,True
@@ -2229,7 +2229,7 @@ https://github.com/medialab/cnap-fnac,True
 https://github.com/medialab/controversy-mapping,True
 https://github.com/medialab/csv-rinse-repeat,True
 https://github.com/medialab/datapol,True
-https://github.com/medialab/datapol-eu,False
+https://github.com/medialab/datapol-eu,True
 https://github.com/medialab/decoupator,True
 https://github.com/medialab/design-workshop,False
 https://github.com/medialab/didascalies,False
@@ -2304,7 +2304,7 @@ https://github.com/medialab/pubpub,True
 https://github.com/medialab/python-urlsresolver,False
 https://github.com/medialab/quenouille,False
 https://github.com/medialab/quinoa,True
-https://github.com/medialab/quinoa-bocal,False
+https://github.com/medialab/quinoa-bocal,True
 https://github.com/medialab/quinoa-design-library,True
 https://github.com/medialab/quinoa-manylines,True
 https://github.com/medialab/quinoa-presentation-player,True
