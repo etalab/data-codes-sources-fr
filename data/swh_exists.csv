@@ -100,7 +100,7 @@ https://github.com/1024pix/pix-editor,True
 https://github.com/1024pix/pix-help-center-theme,True
 https://github.com/1024pix/pix-lifestyle,True
 https://github.com/1024pix/pix-maintenance,False
-https://github.com/1024pix/pix-review-router,False
+https://github.com/1024pix/pix-review-router,True
 https://github.com/1024pix/pix-site,True
 https://github.com/1024pix/poc-ovh-api,True
 https://github.com/1024pix/poc-qmail,True
@@ -777,7 +777,7 @@ https://github.com/OpenEdition/checklist-lodel,True
 https://github.com/OpenEdition/echo,True
 https://github.com/OpenEdition/lodel,True
 https://github.com/OpenEdition/lodel2,True
-https://github.com/OpenEdition/marc-openedition,False
+https://github.com/OpenEdition/marc-openedition,True
 https://github.com/OpenEdition/mets.openedition,True
 https://github.com/OpenEdition/oai-openedition,True
 https://github.com/OpenEdition/revuesorg_word_templates,True
@@ -2205,7 +2205,7 @@ https://github.com/medialab/ScienceTrotterS_mobile,True
 https://github.com/medialab/SocSemBubbles,True
 https://github.com/medialab/UniCrawler,True
 https://github.com/medialab/aime-core,True
-https://github.com/medialab/aime-tweets,False
+https://github.com/medialab/aime-tweets,True
 https://github.com/medialab/amendement,True
 https://github.com/medialab/artoo,True
 https://github.com/medialab/artoratoire,True
@@ -2903,7 +2903,7 @@ https://gitlab.irstea.fr/HYCAR-Hydro/airgrteaching,True
 https://gitlab.irstea.fr/SimAquaLife/GR3D,True
 https://gitlab.irstea.fr/SimAquaLife/PikeLake,True
 https://gitlab.irstea.fr/SimAquaLife/PredatorPrey,True
-https://gitlab.irstea.fr/SimAquaLife/SimAquaLife,False
+https://gitlab.irstea.fr/SimAquaLife/SimAquaLife,True
 https://gitlab.irstea.fr/SimAquaLife/StockedDiad,True
 https://gitlab.irstea.fr/SimAquaLife/SturioSaintSeurin,True
 https://gitlab.irstea.fr/copain/frenchcropusage,True
