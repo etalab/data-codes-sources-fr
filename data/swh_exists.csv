@@ -88,7 +88,7 @@ https://github.com/1024pix/ember-sentry,False
 https://github.com/1024pix/formation-jeremie,True
 https://github.com/1024pix/heroku-buildpack-telegraf,True
 https://github.com/1024pix/json-api-crud-server,False
-https://github.com/1024pix/mail-broker,False
+https://github.com/1024pix/mail-broker,True
 https://github.com/1024pix/matomo,False
 https://github.com/1024pix/metabase-deploy,False
 https://github.com/1024pix/metrics-grafana,True
@@ -2245,7 +2245,7 @@ https://github.com/medialab/fabrique-fragmentation,False
 https://github.com/medialab/fabrique-typo-amendements,False
 https://github.com/medialab/fonio,True
 https://github.com/medialab/forccast-backoffice,True
-https://github.com/medialab/forccast-texts,False
+https://github.com/medialab/forccast-texts,True
 https://github.com/medialab/forccast-website,True
 https://github.com/medialab/frontcast,True
 https://github.com/medialab/gazouilloire,True
@@ -2286,7 +2286,7 @@ https://github.com/medialab/medialab.sciences-po.fr,True
 https://github.com/medialab/minet,False
 https://github.com/medialab/minivan,False
 https://github.com/medialab/miw-animation,True
-https://github.com/medialab/motel,False
+https://github.com/medialab/motel,True
 https://github.com/medialab/navicrawler,False
 https://github.com/medialab/network-of-fragments,True
 https://github.com/medialab/news-circulation,True
