@@ -19,7 +19,7 @@ https://forgemia.inra.fr/umr-astre/mapMCDA,True
 https://forgemia.inra.fr/umr-astre/spreadrate,False
 https://forgemia.inra.fr/umr-astre/topomatch,False
 https://forgemia.inra.fr/umr-boa/viseago,True
-https://forgemia.inra.fr/umr-gdec/biotools,False
+https://forgemia.inra.fr/umr-gdec/biotools,True
 https://forgemia.inra.fr/umr-gdec/clari-te,True
 https://forgemia.inra.fr/umr-gdec/isbpfinder,True
 https://framagit.org/datatourisme/api,True
@@ -89,7 +89,7 @@ https://github.com/1024pix/formation-jeremie,True
 https://github.com/1024pix/heroku-buildpack-telegraf,True
 https://github.com/1024pix/json-api-crud-server,False
 https://github.com/1024pix/mail-broker,True
-https://github.com/1024pix/matomo,False
+https://github.com/1024pix/matomo,True
 https://github.com/1024pix/metabase-deploy,False
 https://github.com/1024pix/metrics-grafana,True
 https://github.com/1024pix/metrics-router,True
