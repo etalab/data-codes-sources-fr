@@ -22,7 +22,7 @@ class GitLabOrg(object):
 
         data = []
 
-        url = f"{self.base_url}groups/{self.organisation}/projects"
+        url = f"{self.base_url}groups/{self.organisation}/projects?per_page=100"
         response = requests.get(url)
         if response.status_code == 404:
             return {}
