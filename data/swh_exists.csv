@@ -9,7 +9,7 @@ https://forgemia.inra.fr/bios4biol/bioinfo-utils,False
 https://forgemia.inra.fr/bios4biol/workflows,True
 https://forgemia.inra.fr/record-open-archives/rec-crash,True
 https://forgemia.inra.fr/record-open-archives/recmoustics,True
-https://forgemia.inra.fr/sciproject/managesciproject,False
+https://forgemia.inra.fr/sciproject/managesciproject,True
 https://forgemia.inra.fr/svdetection/cnvpipelines,True
 https://forgemia.inra.fr/svdetection/popsim,True
 https://forgemia.inra.fr/svdetection/svlib,True
@@ -2040,7 +2040,7 @@ https://github.com/histovec/slides,True
 https://github.com/ia-flash/app,True
 https://github.com/ia-flash/demo,True
 https://github.com/ia-flash/frontend,True
-https://github.com/ia-flash/lab,False
+https://github.com/ia-flash/lab,True
 https://github.com/ia-flash/matchvec,True
 https://github.com/ia-flash/s3-download-action,True
 https://github.com/ia-flash/sivnorm,True
@@ -2254,7 +2254,7 @@ https://github.com/medialab/generator-artoo,True
 https://github.com/medialab/giec_base,True
 https://github.com/medialab/gitlaw,True
 https://github.com/medialab/google-bookmarklets,True
-https://github.com/medialab/graph-recipes,False
+https://github.com/medialab/graph-recipes,True
 https://github.com/medialab/grunt-artoo,True
 https://github.com/medialab/gulp-artoo,True
 https://github.com/medialab/habitele,True
