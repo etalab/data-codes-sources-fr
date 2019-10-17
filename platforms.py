@@ -62,18 +62,17 @@ class Detector(object):
     def find_orgs(self, url):
         assert self.is_bare_platform(url)
         res = []
+        should_continue = True
+        url = f"{self.platform_base_url(url)}groups?per_page=100"
 
-        response = requests.get(f"{self.platform_base_url(url)}groups?per_page=100")
-        response.raise_for_status()
-
-        for item in response.json():
-            res.extend([org for org in self.to_orgs(item["web_url"])])
-
-        while "next" in response.links:
-            response = requests.get(response.links["next"]["url"])
+        while should_continue:
+            response = requests.get(url)
             response.raise_for_status()
             for item in response.json():
                 res.extend([org for org in self.to_orgs(item["web_url"])])
+            should_continue = "next" in response.links
+            if should_continue:
+                url = response.links["next"]["url"]
 
         return res
 
