@@ -63,11 +63,18 @@ class Detector(object):
         assert self.is_bare_platform(url)
         res = []
 
-        response = requests.get(f"{self.platform_base_url(url)}groups")
+        response = requests.get(f"{self.platform_base_url(url)}groups?per_page=100")
         response.raise_for_status()
 
         for item in response.json():
             res.extend([org for org in self.to_orgs(item["web_url"])])
+
+        while "next" in response.links:
+            response = requests.get(response.links["next"]["url"])
+            response.raise_for_status()
+            for item in response.json():
+                res.extend([org for org in self.to_orgs(item["web_url"])])
+
         return res
 
     def to_orgs(self, url):
