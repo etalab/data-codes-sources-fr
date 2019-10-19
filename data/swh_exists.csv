@@ -206,7 +206,7 @@ https://github.com/1024pix/airtable-updater,True
 https://github.com/1024pix/benchmark,True
 https://github.com/1024pix/codeshift,False
 https://github.com/1024pix/ember-cli-chartjs,False
-https://github.com/1024pix/ember-cli-matomo-tag-manager,False
+https://github.com/1024pix/ember-cli-matomo-tag-manager,True
 https://github.com/1024pix/ember-sentry,False
 https://github.com/1024pix/formation-jeremie,True
 https://github.com/1024pix/heroku-buildpack-telegraf,True
@@ -1351,6 +1351,7 @@ https://github.com/betagouv/eac-scrapper,True
 https://github.com/betagouv/etudiant-entrepreneur,True
 https://github.com/betagouv/fetch-normalize-data,True
 https://github.com/betagouv/fiches-de-banc,True
+https://github.com/betagouv/freescout,False
 https://github.com/betagouv/gps-usagers,True
 https://github.com/betagouv/grafana-scalingo,True
 https://github.com/betagouv/heroku-buildpack-ruby,True
