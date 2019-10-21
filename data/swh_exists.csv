@@ -1046,6 +1046,7 @@ https://github.com/SocialGouv/annuaire-mjpm,True
 https://github.com/SocialGouv/ansible-kubeadm-cluster,True
 https://github.com/SocialGouv/app-nextjs-node-ts,True
 https://github.com/SocialGouv/archifiltre,True
+https://github.com/SocialGouv/archifiltre-landing-page,False
 https://github.com/SocialGouv/autosuggest,True
 https://github.com/SocialGouv/bootstrap,True
 https://github.com/SocialGouv/bot,True
@@ -2783,7 +2784,7 @@ https://github.com/sympa-community/sympa-spec-openapi,True
 https://github.com/sympa-community/sympa-vue,True
 https://github.com/unistra/aboutIFrame-portlet,True
 https://github.com/unistra/ansible-inventory-glpi,True
-https://github.com/unistra/ansible-modules-opennebula,False
+https://github.com/unistra/ansible-modules-opennebula,True
 https://github.com/unistra/aria,True
 https://github.com/unistra/avc-client,True
 https://github.com/unistra/avc-doc,True
