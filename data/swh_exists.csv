@@ -2664,6 +2664,7 @@ https://github.com/openfun/fun-apps,True
 https://github.com/openfun/fun-boxes,True
 https://github.com/openfun/fun-cmd,True
 https://github.com/openfun/fun-config,True
+https://github.com/openfun/fun-corporate,False
 https://github.com/openfun/fun-logstash,True
 https://github.com/openfun/fun-microsites-demo,True
 https://github.com/openfun/fun-mooc,True
@@ -2979,6 +2980,7 @@ https://gitlab.cerema.fr/Stream/stream-python,True
 https://gitlab.cerema.fr/admin-donnees/fr.cerema.admin_donnees_postgresql,True
 https://gitlab.com/DREES_code/formulaire_zonage_ars,True
 https://gitlab.com/dreal-datalab/adresses-mairies-epci,True
+https://gitlab.com/dreal-datalab/autorite-environnementale,False
 https://gitlab.com/dreal-datalab/codes_postaux,True
 https://gitlab.com/dreal-datalab/cogiter,True
 https://gitlab.com/dreal-datalab/communications,True
