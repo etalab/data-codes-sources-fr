@@ -82,6 +82,11 @@ class GitLabOrg(object):
 
         return res
 
+    def avatar_url(self, value):
+        if value.startswith("http"):
+            return value
+        return None
+
     def get_org(self):
         url = self.base_url + "groups/" + self.organisation
 
@@ -97,7 +102,7 @@ class GitLabOrg(object):
             "description": data["description"],
             "nom": data["name"],
             "organisation_url": data["web_url"],
-            "avatar_url": data["avatar_url"],
+            "avatar_url": self.avatar_url(data["avatar_url"]),
             "site_web": None,
             "adresse": None,
             "email": None,
