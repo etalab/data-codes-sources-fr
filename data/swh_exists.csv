@@ -757,6 +757,7 @@ https://github.com/Irstea/collec,True
 https://github.com/Irstea/cpgsR,True
 https://github.com/Irstea/escroc,True
 https://github.com/Irstea/esfc,True
+https://github.com/Irstea/filo-docker,False
 https://github.com/Irstea/filo-science,True
 https://github.com/Irstea/irrig,True
 https://github.com/Irstea/magest,True
@@ -3346,6 +3347,7 @@ https://gitlab.inria.fr/grew/grew_demo,False
 https://gitlab.inria.fr/grew/grew_doc,False
 https://gitlab.inria.fr/grew/grew_gui,False
 https://gitlab.inria.fr/grew/grew_match,False
+https://gitlab.inria.fr/grew/grew_parse,False
 https://gitlab.inria.fr/grew/grew_server,False
 https://gitlab.inria.fr/grew/libcaml-grew,False
 https://gitlab.inria.fr/grew/python,False
