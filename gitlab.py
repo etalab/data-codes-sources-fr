@@ -83,6 +83,7 @@ class GitLabOrg(object):
         return res
 
     def avatar_url(self, value):
+        value = value or "nope"
         if value.startswith("http"):
             return value
         return None
