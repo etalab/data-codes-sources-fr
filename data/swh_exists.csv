@@ -2159,6 +2159,7 @@ https://github.com/fabnumdef/fabnumdef.d3,False
 https://github.com/fabnumdef/fabnumdef.github.io,True
 https://github.com/fabnumdef/resources,True
 https://github.com/genotoul-bioinfo/WorkflowFrameworkComparison,True
+https://github.com/genotoul-bioinfo/configs,False
 https://github.com/genotoul-bioinfo/dgenies,True
 https://github.com/genotoul-bioinfo/mipepcons,True
 https://github.com/genotoul-bioinfo/rnaseq,True
@@ -2990,6 +2991,7 @@ https://gitlab.cerema.fr/admin-donnees/fr.cerema.admin_donnees_postgresql,True
 https://gitlab.com/DREES_code/formulaire_zonage_ars,True
 https://gitlab.com/dreal-datalab/adresses-mairies-epci,True
 https://gitlab.com/dreal-datalab/autorite-environnementale,False
+https://gitlab.com/dreal-datalab/autorite_environnementale,False
 https://gitlab.com/dreal-datalab/codes_postaux,True
 https://gitlab.com/dreal-datalab/cogiter,True
 https://gitlab.com/dreal-datalab/communications,True
@@ -3586,6 +3588,7 @@ https://gitlab.inria.fr/zefxis/use-cases,False
 https://gitlab.inria.fr/zhozhang/zhongkai-zhang,False
 https://gitlab.irstea.fr/HYCAR-Hydro/airgr,True
 https://gitlab.irstea.fr/HYCAR-Hydro/airgrteaching,True
+https://gitlab.irstea.fr/HYCAR-Hydro/baseflow,False
 https://gitlab.irstea.fr/SimAquaLife/GR3D,True
 https://gitlab.irstea.fr/SimAquaLife/PikeLake,True
 https://gitlab.irstea.fr/SimAquaLife/PredatorPrey,True
