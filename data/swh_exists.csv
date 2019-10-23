@@ -208,7 +208,7 @@ https://github.com/1024pix/airtable-backup,True
 https://github.com/1024pix/airtable-updater,True
 https://github.com/1024pix/benchmark,True
 https://github.com/1024pix/codeshift,False
-https://github.com/1024pix/ember-cli-chartjs,False
+https://github.com/1024pix/ember-cli-chartjs,True
 https://github.com/1024pix/ember-cli-matomo-tag-manager,True
 https://github.com/1024pix/ember-sentry,False
 https://github.com/1024pix/formation-jeremie,True
@@ -1058,7 +1058,7 @@ https://github.com/SocialGouv/autosuggest,True
 https://github.com/SocialGouv/bootstrap,True
 https://github.com/SocialGouv/bot,True
 https://github.com/SocialGouv/checkup,True
-https://github.com/SocialGouv/clone-moi-sur-github,False
+https://github.com/SocialGouv/clone-moi-sur-github,True
 https://github.com/SocialGouv/code-du-travail-api,True
 https://github.com/SocialGouv/code-du-travail-backoffice,True
 https://github.com/SocialGouv/code-du-travail-chatbot,True
@@ -3580,6 +3580,7 @@ https://gitlab.inria.fr/yoann/grew,False
 https://gitlab.inria.fr/zefxis/BCgenerator,False
 https://gitlab.inria.fr/zefxis/DeX-IDL,False
 https://gitlab.inria.fr/zefxis/DeXMS,False
+https://gitlab.inria.fr/zefxis/DeXMS-Service,False
 https://gitlab.inria.fr/zefxis/GIDL,False
 https://gitlab.inria.fr/zefxis/IoT-web-console,False
 https://gitlab.inria.fr/zefxis/dexdeploy,False
