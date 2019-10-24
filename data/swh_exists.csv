@@ -23,13 +23,13 @@ https://forgemia.inra.fr/genotoul-bioinfo/pyrocleaner,False
 https://forgemia.inra.fr/genotoul-bioinfo/srna-tabac,False
 https://forgemia.inra.fr/genotoul-bioinfo/tSNPannot,False
 https://forgemia.inra.fr/get-it/nf-assemblshortread,False
-https://forgemia.inra.fr/get-it/nf-taxoaffiliation,False
+https://forgemia.inra.fr/get-it/nf-taxoaffiliation,True
 https://forgemia.inra.fr/metexplore/MetExploreViz,False
 https://forgemia.inra.fr/metexplore/metabolomics2network,False
 https://forgemia.inra.fr/olivier.bonnefon/mse,False
 https://forgemia.inra.fr/record-open-archives/rec-crash,True
 https://forgemia.inra.fr/record-open-archives/recmoustics,True
-https://forgemia.inra.fr/record/AgFlow,False
+https://forgemia.inra.fr/record/AgFlow,True
 https://forgemia.inra.fr/record/RECORD,False
 https://forgemia.inra.fr/record/RecordingTools,False
 https://forgemia.inra.fr/record/agrodynaland,False
@@ -70,8 +70,8 @@ https://framagit.org/etalab/gitbook-plugin-discourse,True
 https://framagit.org/etalab/json-repo-viewer,True
 https://framagit.org/etalab/legi-plat,False
 https://framagit.org/etalab/loi-cada,False
-https://framagit.org/etalab/lois-non-codifiees-et-reglements-francais,False
-https://framagit.org/etalab/maquette-code.gouv.fr,False
+https://framagit.org/etalab/lois-non-codifiees-et-reglements-francais,True
+https://framagit.org/etalab/maquette-code.gouv.fr,True
 https://framagit.org/etalab/moissonneur-republique-numerique,False
 https://framagit.org/etalab/ogptoolbox,True
 https://framagit.org/etalab/ogptoolbox-api,True
@@ -86,7 +86,7 @@ https://framagit.org/etalab/ogptoolbox-ui,True
 https://framagit.org/etalab/opinions-republique-numerique,False
 https://framagit.org/etalab/osem-ogp,True
 https://framagit.org/etalab/plan-ogp-2015-2017,False
-https://framagit.org/etalab/public-to-internal-issues,False
+https://framagit.org/etalab/public-to-internal-issues,True
 https://framagit.org/etalab/sources-civic-tech,True
 https://framagit.org/etalab/suivi,False
 https://framagit.org/etalab/suivi-plan-ogp-2015-2017,True
@@ -136,7 +136,7 @@ https://git.unistra.fr/MIH18-T4-C/Hemicycle,False
 https://git.unistra.fr/NuitDeLinfo_OPA/cockpit,False
 https://git.unistra.fr/P4az-QQA/P4a,False
 https://git.unistra.fr/PWeb/PWeb,False
-https://git.unistra.fr/S32TP5/S32,False
+https://git.unistra.fr/S32TP5/S32,True
 https://git.unistra.fr/SAV18-T4-B/ProjetT4,False
 https://git.unistra.fr/SAV18-T4-C/DDT-Simulator-2018,False
 https://git.unistra.fr/SPA18-T4-A/T4,False
@@ -157,7 +157,7 @@ https://git.unistra.fr/T432_SPA18_T3_B/T432_SPA18_T3_B,False
 https://git.unistra.fr/T4_SPC_Simulator/SPC_Simulator,False
 https://git.unistra.fr/T4_Trail_HHK/T4_Trail_Simulation,False
 https://git.unistra.fr/T4desMeilleurs/T4Botanique,True
-https://git.unistra.fr/W4b_Hartmann_Kieu/w4b,False
+https://git.unistra.fr/W4b_Hartmann_Kieu/w4b,True
 https://git.unistra.fr/algdis/algdis_public,True
 https://git.unistra.fr/botanique23/T4_PID_A,False
 https://git.unistra.fr/c/st,False
@@ -182,8 +182,8 @@ https://git.unistra.fr/maf19-t4-c/Asimo-BOT,False
 https://git.unistra.fr/mih18-t4-a/ELECTOR2K18,False
 https://git.unistra.fr/my-awesome-group-de-tekdaiv/essaiededepotcommun,False
 https://git.unistra.fr/p4a_zj/P4a,False
-https://git.unistra.fr/p4b-ongagna-lehmann-at3/P4a,False
-https://git.unistra.fr/pastore.ritzenthaler.p4a/P4a,False
+https://git.unistra.fr/p4b-ongagna-lehmann-at3/P4a,True
+https://git.unistra.fr/pastore.ritzenthaler.p4a/P4a,True
 https://git.unistra.fr/presUni/HAJ18-T4-D,False
 https://git.unistra.fr/projet-integrateur-grp-3/frontend,False
 https://git.unistra.fr/pub/SupportPortal-aid,False
@@ -1054,7 +1054,7 @@ https://github.com/SocialGouv/annuaire-mjpm,True
 https://github.com/SocialGouv/ansible-kubeadm-cluster,True
 https://github.com/SocialGouv/app-nextjs-node-ts,True
 https://github.com/SocialGouv/archifiltre,True
-https://github.com/SocialGouv/archifiltre-landing-page,False
+https://github.com/SocialGouv/archifiltre-landing-page,True
 https://github.com/SocialGouv/autosuggest,True
 https://github.com/SocialGouv/bootstrap,True
 https://github.com/SocialGouv/bot,True
@@ -2655,7 +2655,7 @@ https://github.com/openfisca/tutorial,True
 https://github.com/openfun/arnold,True
 https://github.com/openfun/cloudkey-py,True
 https://github.com/openfun/configuration,True
-https://github.com/openfun/cookiecutter-docker,False
+https://github.com/openfun/cookiecutter-docker,True
 https://github.com/openfun/crowdin-docker,True
 https://github.com/openfun/cs_comments_service,True
 https://github.com/openfun/django-cong-2018,True
@@ -2676,7 +2676,7 @@ https://github.com/openfun/fun-apps,True
 https://github.com/openfun/fun-boxes,True
 https://github.com/openfun/fun-cmd,True
 https://github.com/openfun/fun-config,True
-https://github.com/openfun/fun-corporate,False
+https://github.com/openfun/fun-corporate,True
 https://github.com/openfun/fun-logstash,True
 https://github.com/openfun/fun-microsites-demo,True
 https://github.com/openfun/fun-mooc,True
@@ -3042,7 +3042,7 @@ https://gitlab.huma-num.fr/lamop/Hmaot,False
 https://gitlab.huma-num.fr/lamop/archive-osm,False
 https://gitlab.huma-num.fr/lamop/audiotheque-traduction,False
 https://gitlab.huma-num.fr/lamop/cbma-epigraphie,False
-https://gitlab.huma-num.fr/lamop/fonds-marc-bloch,False
+https://gitlab.huma-num.fr/lamop/fonds-marc-bloch,True
 https://gitlab.huma-num.fr/lamop/heraut-transcript,False
 https://gitlab.huma-num.fr/lamop/iiif-docker,False
 https://gitlab.huma-num.fr/lamop/limites-font-reaulx,False
@@ -3050,7 +3050,7 @@ https://gitlab.huma-num.fr/lamop/lizmap-docker,False
 https://gitlab.huma-num.fr/lamop/maison-bethune-prosoprographie,False
 https://gitlab.huma-num.fr/lamop/mirador-docker,False
 https://gitlab.huma-num.fr/lamop/moamo,False
-https://gitlab.huma-num.fr/lamop/nakala,False
+https://gitlab.huma-num.fr/lamop/nakala,True
 https://gitlab.huma-num.fr/lamop/nasa,False
 https://gitlab.huma-num.fr/lamop/studium,False
 https://gitlab.huma-num.fr/lamop/studium-baldwin,False
@@ -3083,12 +3083,12 @@ https://gitlab.inria.fr/DYLISS/PathModel,False
 https://gitlab.inria.fr/DYLISS/aucome,False
 https://gitlab.inria.fr/DYLISS/aureme,False
 https://gitlab.inria.fr/DYLISS/mpwt,True
-https://gitlab.inria.fr/DYLISS/pylissIdConv,False
+https://gitlab.inria.fr/DYLISS/pylissIdConv,True
 https://gitlab.inria.fr/DYLISS/samifier-docker,False
 https://gitlab.inria.fr/DYLISS/samifier-matching-kernel,False
 https://gitlab.inria.fr/DYLISS/samifier-web,False
 https://gitlab.inria.fr/Dae-Ng/Dae-Ng,False
-https://gitlab.inria.fr/Damaris/damaris,False
+https://gitlab.inria.fr/Damaris/damaris,True
 https://gitlab.inria.fr/GUDHI/data,False
 https://gitlab.inria.fr/GUDHI/gudhi-docker,False
 https://gitlab.inria.fr/GardiNet/liblc,False
@@ -3322,7 +3322,7 @@ https://gitlab.inria.fr/gazelle/external-library,False
 https://gitlab.inria.fr/gecos/gecos-arith,False
 https://gitlab.inria.fr/gecos/gecos-buildtools,False
 https://gitlab.inria.fr/gecos/gecos-composite,False
-https://gitlab.inria.fr/gecos/gecos-core,False
+https://gitlab.inria.fr/gecos/gecos-core,True
 https://gitlab.inria.fr/gecos/gecos-float2fix,False
 https://gitlab.inria.fr/gecos/gecos-framework,False
 https://gitlab.inria.fr/gecos/gecos-parallel,False
@@ -3332,7 +3332,7 @@ https://gitlab.inria.fr/gecos/gecos-scop,False
 https://gitlab.inria.fr/gecos/gecos-testframework,False
 https://gitlab.inria.fr/gerzaguet_public/2a_imr_wirelessnetwork_lab,False
 https://gitlab.inria.fr/gerzaguet_public/3a_sysnum_wirelesscomm_tx,False
-https://gitlab.inria.fr/gerzaguet_public/digitalcomm.jl,False
+https://gitlab.inria.fr/gerzaguet_public/digitalcomm.jl,True
 https://gitlab.inria.fr/gerzaguet_public/julia_seminar,False
 https://gitlab.inria.fr/grew/DSQtoAMR,False
 https://gitlab.inria.fr/grew/DSQtoDMRS,False
