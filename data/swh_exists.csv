@@ -34,7 +34,7 @@ https://forgemia.inra.fr/record/RECORD,True
 https://forgemia.inra.fr/record/RecordingTools,False
 https://forgemia.inra.fr/record/agrodynaland,False
 https://forgemia.inra.fr/record/azodyn,False
-https://forgemia.inra.fr/record/pydynamics,False
+https://forgemia.inra.fr/record/pydynamics,True
 https://forgemia.inra.fr/record/recordweb,True
 https://forgemia.inra.fr/record/sunflo,False
 https://forgemia.inra.fr/record/workbench4record,False
@@ -73,7 +73,7 @@ https://framagit.org/etalab/legi-plat,True
 https://framagit.org/etalab/loi-cada,True
 https://framagit.org/etalab/lois-non-codifiees-et-reglements-francais,True
 https://framagit.org/etalab/maquette-code.gouv.fr,True
-https://framagit.org/etalab/moissonneur-republique-numerique,False
+https://framagit.org/etalab/moissonneur-republique-numerique,True
 https://framagit.org/etalab/ogptoolbox,True
 https://framagit.org/etalab/ogptoolbox-api,True
 https://framagit.org/etalab/ogptoolbox-editor,True
@@ -84,7 +84,7 @@ https://framagit.org/etalab/ogptoolbox-platform-partners-madison,True
 https://framagit.org/etalab/ogptoolbox-platform-verification-consultation,True
 https://framagit.org/etalab/ogptoolbox-toolbox-partners-consul,True
 https://framagit.org/etalab/ogptoolbox-ui,True
-https://framagit.org/etalab/opinions-republique-numerique,False
+https://framagit.org/etalab/opinions-republique-numerique,True
 https://framagit.org/etalab/osem-ogp,True
 https://framagit.org/etalab/plan-ogp-2015-2017,True
 https://framagit.org/etalab/public-to-internal-issues,True
@@ -141,7 +141,7 @@ https://git.unistra.fr/S32TP5/S32,True
 https://git.unistra.fr/SAV18-T4-B/ProjetT4,False
 https://git.unistra.fr/SAV18-T4-C/DDT-Simulator-2018,True
 https://git.unistra.fr/SPA18-T4-A/T4,True
-https://git.unistra.fr/SPA18-T4-C/diabete_simulator,False
+https://git.unistra.fr/SPA18-T4-C/diabete_simulator,True
 https://git.unistra.fr/SPA18-T4-D/PathOfDiabete,False
 https://git.unistra.fr/T3/NaoBalle,True
 https://git.unistra.fr/T3/NaoCarte,False
@@ -161,12 +161,12 @@ https://git.unistra.fr/T4desMeilleurs/T4Botanique,True
 https://git.unistra.fr/W4b_Hartmann_Kieu/w4b,True
 https://git.unistra.fr/algdis/algdis_public,True
 https://git.unistra.fr/botanique23/T4_PID_A,True
-https://git.unistra.fr/c/st,False
+https://git.unistra.fr/c/st,True
 https://git.unistra.fr/community/ina-import,True
 https://git.unistra.fr/community/pount-api,True
 https://git.unistra.fr/community/pount-front,False
 https://git.unistra.fr/csrd/white_paper_form,True
-https://git.unistra.fr/ecr19-t4-e/hache-tag-greigns,False
+https://git.unistra.fr/ecr19-t4-e/hache-tag-greigns,True
 https://git.unistra.fr/filiere-d-excellence/ghc,True
 https://git.unistra.fr/gdt/back,False
 https://git.unistra.fr/gdt/front,False
@@ -2319,6 +2319,7 @@ https://github.com/ia-flash/demo,True
 https://github.com/ia-flash/frontend,True
 https://github.com/ia-flash/lab,True
 https://github.com/ia-flash/matchvec,True
+https://github.com/ia-flash/mmdetection,False
 https://github.com/ia-flash/s3-download-action,True
 https://github.com/ia-flash/sivnorm,True
 https://github.com/ina-foss/ID-Fits,True
@@ -2565,7 +2566,7 @@ https://github.com/medialab/minet,False
 https://github.com/medialab/minivan,False
 https://github.com/medialab/miw-animation,True
 https://github.com/medialab/motel,True
-https://github.com/medialab/navicrawler,False
+https://github.com/medialab/navicrawler,True
 https://github.com/medialab/network-of-fragments,True
 https://github.com/medialab/news-circulation,True
 https://github.com/medialab/newwebsite_tools,True
@@ -3174,7 +3175,7 @@ https://gitlab.huma-num.fr/eurhisfirm/dfih-tools,False
 https://gitlab.huma-num.fr/eurhisfirm/dfih-ui,False
 https://gitlab.huma-num.fr/eurhisfirm/dfih-wikibase,False
 https://gitlab.huma-num.fr/eurhisfirm/eurhisfirm-sitelinks-server,False
-https://gitlab.huma-num.fr/eurhisfirm/fibo-data,False
+https://gitlab.huma-num.fr/eurhisfirm/fibo-data,True
 https://gitlab.huma-num.fr/eurhisfirm/fibo-wikibase,False
 https://gitlab.huma-num.fr/eurhisfirm/gleif-wikibase,True
 https://gitlab.huma-num.fr/irihs/flaubertexport,False
@@ -3272,7 +3273,7 @@ https://gitlab.inria.fr/WIDE/HyFN,False
 https://gitlab.inria.fr/WIDE/f3c-evaluation,False
 https://gitlab.inria.fr/WIDE/gps-exp,False
 https://gitlab.inria.fr/WIDE/similitude-exp,False
-https://gitlab.inria.fr/WIDE/spores_code,False
+https://gitlab.inria.fr/WIDE/spores_code,True
 https://gitlab.inria.fr/WellInverter/WellInverter_Standalone_Linux,False
 https://gitlab.inria.fr/WellInverter/WellInverter_Standalone_MacOS,False
 https://gitlab.inria.fr/WellInverter/WellInverter_Standalone_Nuvla,False
@@ -3460,17 +3461,18 @@ https://gitlab.inria.fr/gagallium/stog-gagallium,False
 https://gitlab.inria.fr/gagallium/stog-math,False
 https://gitlab.inria.fr/gappa/coq,False
 https://gitlab.inria.fr/gappa/gappa,False
-https://gitlab.inria.fr/gazelle/external-library,False
+https://gitlab.inria.fr/gazelle/external-library,True
 https://gitlab.inria.fr/gecos/gecos-arith,True
 https://gitlab.inria.fr/gecos/gecos-buildtools,True
 https://gitlab.inria.fr/gecos/gecos-composite,False
 https://gitlab.inria.fr/gecos/gecos-core,True
 https://gitlab.inria.fr/gecos/gecos-float2fix,False
 https://gitlab.inria.fr/gecos/gecos-framework,False
+https://gitlab.inria.fr/gecos/gecos-hls,False
 https://gitlab.inria.fr/gecos/gecos-parallel,False
 https://gitlab.inria.fr/gecos/gecos-rtl,True
 https://gitlab.inria.fr/gecos/gecos-scilab,True
-https://gitlab.inria.fr/gecos/gecos-scop,False
+https://gitlab.inria.fr/gecos/gecos-scop,True
 https://gitlab.inria.fr/gecos/gecos-testframework,True
 https://gitlab.inria.fr/gerzaguet_public/2a_imr_wirelessnetwork_lab,False
 https://gitlab.inria.fr/gerzaguet_public/3a_sysnum_wirelesscomm_tx,True
@@ -3552,7 +3554,7 @@ https://gitlab.inria.fr/mfx/icesl-public,False
 https://gitlab.inria.fr/mgkit/MetaMOF,False
 https://gitlab.inria.fr/mgkit/MetaMeF,False
 https://gitlab.inria.fr/mgkit/ofrlex-metamof-new,False
-https://gitlab.inria.fr/mgkit/sxpipe,False
+https://gitlab.inria.fr/mgkit/sxpipe,True
 https://gitlab.inria.fr/mgkit/syntax_hightlighting_smg,False
 https://gitlab.inria.fr/miet/miet,False
 https://gitlab.inria.fr/mimoza/mimoza,False
@@ -3708,7 +3710,7 @@ https://gitlab.inria.fr/usnb/slack-persona,False
 https://gitlab.inria.fr/usnb/subscription-manager,False
 https://gitlab.inria.fr/usnb/universal-social-network-bus,False
 https://gitlab.inria.fr/verifisc/mlang,False
-https://gitlab.inria.fr/verifisc/verifisc,False
+https://gitlab.inria.fr/verifisc/verifisc,True
 https://gitlab.inria.fr/verifisc/verifisc-python,True
 https://gitlab.inria.fr/vidjil/mixcr,False
 https://gitlab.inria.fr/vidjil/sdsl-lite,False
