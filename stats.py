@@ -62,6 +62,15 @@ top_licenses = (
     .to_dict()
 )
 
+top_languages = (
+    df.fillna("Inconnu")
+    .groupby("langage")["nom"]
+    .count()
+    .sort_values(ascending=False)
+    .head(10)
+    .to_dict()
+)
+
 platforms = (
     df.groupby("plateforme")["nom"].count().sort_values(ascending=False).to_dict()
 )
@@ -77,6 +86,7 @@ res = {
     "top_repos_forks": top_repos_forks,
     "top_repos_issues": top_repos_issues,
     "top_licenses": top_licenses,
+    "top_languages": top_languages,
     "platforms": platforms,
     "software_heritage": {
         "repos_in_archive": swh_exists_count,
