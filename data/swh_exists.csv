@@ -53,7 +53,7 @@ https://forgemia.inra.fr/umr-gdec/biotools,True
 https://forgemia.inra.fr/umr-gdec/clari-te,True
 https://forgemia.inra.fr/umr-gdec/isbpfinder,True
 https://forgemia.inra.fr/umrf/anomaly,False
-https://forgemia.inra.fr/umrf/dairydb,False
+https://forgemia.inra.fr/umrf/dairydb,True
 https://forgemia.inra.fr/umrf/utopia,False
 https://forgemia.inra.fr/urgi-is/docker-rare,False
 https://forgemia.inra.fr/urgi-is/ontologies,False
@@ -86,7 +86,7 @@ https://framagit.org/etalab/ogptoolbox-toolbox-partners-consul,True
 https://framagit.org/etalab/ogptoolbox-ui,True
 https://framagit.org/etalab/opinions-republique-numerique,False
 https://framagit.org/etalab/osem-ogp,True
-https://framagit.org/etalab/plan-ogp-2015-2017,False
+https://framagit.org/etalab/plan-ogp-2015-2017,True
 https://framagit.org/etalab/public-to-internal-issues,True
 https://framagit.org/etalab/sources-civic-tech,True
 https://framagit.org/etalab/suivi,False
@@ -122,7 +122,7 @@ https://git.unistra.fr/BAS18-T4-B/nom_du_groupe,True
 https://git.unistra.fr/BAS18-T4-D/StrasBuilder,True
 https://git.unistra.fr/BLL17_T3_D/SedationMaPassion,True
 https://git.unistra.fr/CAMMA-public/mvor,True
-https://git.unistra.fr/ECR19-T4-D/la-succession-au-moyen-age,False
+https://git.unistra.fr/ECR19-T4-D/la-succession-au-moyen-age,True
 https://git.unistra.fr/Florian-William/a31-claguerre,False
 https://git.unistra.fr/HAJ18-T4-C/MyPrezTige,True
 https://git.unistra.fr/HPC/singularity,False
@@ -149,14 +149,14 @@ https://git.unistra.fr/T3/NaoDanse,False
 https://git.unistra.fr/T3/NaoInfo,True
 https://git.unistra.fr/T3_MIH18_T3_A/RuleZaWarudo,True
 https://git.unistra.fr/T432-BAS18-T4-A/T4,True
-https://git.unistra.fr/T432-SAV18-T4-A/T4,False
+https://git.unistra.fr/T432-SAV18-T4-A/T4,True
 https://git.unistra.fr/T432_DIP18_T3_B/Acetabulaire,False
 https://git.unistra.fr/T432_GOJ16_T3_B/Plume,True
 https://git.unistra.fr/T432_HAJ18-T3-A/UniversityTycoon,True
-https://git.unistra.fr/T432_KRP5_T3_A/projetT3,False
+https://git.unistra.fr/T432_KRP5_T3_A/projetT3,True
 https://git.unistra.fr/T432_SPA18_T3_B/T432_SPA18_T3_B,False
 https://git.unistra.fr/T4_SPC_Simulator/SPC_Simulator,False
-https://git.unistra.fr/T4_Trail_HHK/T4_Trail_Simulation,False
+https://git.unistra.fr/T4_Trail_HHK/T4_Trail_Simulation,True
 https://git.unistra.fr/T4desMeilleurs/T4Botanique,True
 https://git.unistra.fr/W4b_Hartmann_Kieu/w4b,True
 https://git.unistra.fr/algdis/algdis_public,True
@@ -165,7 +165,7 @@ https://git.unistra.fr/c/st,False
 https://git.unistra.fr/community/ina-import,True
 https://git.unistra.fr/community/pount-api,False
 https://git.unistra.fr/community/pount-front,False
-https://git.unistra.fr/csrd/white_paper_form,False
+https://git.unistra.fr/csrd/white_paper_form,True
 https://git.unistra.fr/ecr19-t4-e/hache-tag-greigns,False
 https://git.unistra.fr/filiere-d-excellence/ghc,True
 https://git.unistra.fr/gdt/back,False
@@ -191,7 +191,7 @@ https://git.unistra.fr/pub/SupportPortal-aid,False
 https://git.unistra.fr/pub/revealjs-generator,False
 https://git.unistra.fr/scl19-t4-a/t4-2019,False
 https://git.unistra.fr/scl19-t4-c/juthose,True
-https://git.unistra.fr/scl19-t4-e/t4,False
+https://git.unistra.fr/scl19-t4-e/t4,True
 https://git.unistra.fr/seul/LeMeilleurPresident,False
 https://git.unistra.fr/seul/P4a,False
 https://git.unistra.fr/t4-boost/t4,False
@@ -200,7 +200,7 @@ https://git.unistra.fr/uhuit/pgmaggpl,False
 https://git.unistra.fr/uquatre/mips-invader,False
 https://git.unistra.fr/usept/sexy-polyedra-baby,False
 https://git.unistra.fr/vue/cas-authentication,False
-https://git.unistra.fr/vue/cli-plugin-unistra,False
+https://git.unistra.fr/vue/cli-plugin-unistra,True
 https://git.unistra.fr/vue/unistra-box,False
 https://git.unistra.fr/xstra-dev/atelier-jenkins-2017,True
 https://git.unistra.fr/xstra-dev/conteneur-2019,False
@@ -1236,7 +1236,7 @@ https://github.com/Spirals-Team/reactive-slides,True
 https://github.com/Spirals-Team/runtime-repair-experiments,False
 https://github.com/Spirals-Team/spirals-team.github.io,True
 https://github.com/Spirals-Team/test4repair-experiments,True
-https://github.com/StartupsPoleEmploi/Avril-Demat-Livret1,False
+https://github.com/StartupsPoleEmploi/Avril-Demat-Livret1,True
 https://github.com/StartupsPoleEmploi/Avril-Demat-Proto-Nuxt,True
 https://github.com/StartupsPoleEmploi/Avril-Frontend,True
 https://github.com/StartupsPoleEmploi/Templates-Mailjet,True
@@ -2855,7 +2855,7 @@ https://github.com/polewebmaedi/MAEDI-Capitales,True
 https://github.com/polewebmaedi/MAEDI-Pays,True
 https://github.com/polewebmaedi/countries,True
 https://github.com/polewebmaedi/natural-earth-vector,True
-https://github.com/powerapi-ng/powerapi,False
+https://github.com/powerapi-ng/powerapi,True
 https://github.com/powerapi-ng/powerapi-ng.github.io,False
 https://github.com/powerapi-ng/powerapi-scala,True
 https://github.com/powerapi-ng/pyRAPL,False
@@ -3167,7 +3167,7 @@ https://gitlab.huma-num.fr/cbma/hagiographie,False
 https://gitlab.huma-num.fr/cbma/nosketch_engine-dockerfile,False
 https://gitlab.huma-num.fr/consortium3d/aLTAG3D,False
 https://gitlab.huma-num.fr/eurhisfirm/annuaires-favre,False
-https://gitlab.huma-num.fr/eurhisfirm/biryani,False
+https://gitlab.huma-num.fr/eurhisfirm/biryani,True
 https://gitlab.huma-num.fr/eurhisfirm/dfih-open-data,False
 https://gitlab.huma-num.fr/eurhisfirm/dfih-search,False
 https://gitlab.huma-num.fr/eurhisfirm/dfih-tools,False
@@ -3198,7 +3198,7 @@ https://gitlab.huma-num.fr/lamop/studium,False
 https://gitlab.huma-num.fr/lamop/studium-baldwin,False
 https://gitlab.huma-num.fr/lamop/test,True
 https://gitlab.huma-num.fr/lamop/topama,False
-https://gitlab.huma-num.fr/lamop/topama-eveches,False
+https://gitlab.huma-num.fr/lamop/topama-eveches,True
 https://gitlab.huma-num.fr/lamop/topologie_aix-en-provence,False
 https://gitlab.huma-num.fr/mshs-poitiers/xmlify,False
 https://gitlab.huma-num.fr/nakala-tools/nakalot,True
@@ -3238,7 +3238,7 @@ https://gitlab.inria.fr/IOTLanguage/IoTCompilertoBIP,False
 https://gitlab.inria.fr/LightFieldCodingLibrary/HEVC,False
 https://gitlab.inria.fr/LightFieldCodingLibrary/LF,True
 https://gitlab.inria.fr/LightFieldCodingLibrary/SR,False
-https://gitlab.inria.fr/LightFieldCodingLibrary/utils,False
+https://gitlab.inria.fr/LightFieldCodingLibrary/utils,True
 https://gitlab.inria.fr/LightFieldCodingLibrary/yuv,False
 https://gitlab.inria.fr/Loki/PolyphonyECS,False
 https://gitlab.inria.fr/MUSIC/dtk,False
@@ -3367,7 +3367,7 @@ https://gitlab.inria.fr/dash/talks,False
 https://gitlab.inria.fr/datapol/experiments-methodology,False
 https://gitlab.inria.fr/datapol/vdanjean-backuppc-client,False
 https://gitlab.inria.fr/datapol/wiki-welcome,False
-https://gitlab.inria.fr/defrost/welcome-to-defrost,False
+https://gitlab.inria.fr/defrost/welcome-to-defrost,True
 https://gitlab.inria.fr/dema/gdb-testing,False
 https://gitlab.inria.fr/dema/gdb-tuto.py,False
 https://gitlab.inria.fr/dema/mcgdb,False
