@@ -70,7 +70,7 @@ https://framagit.org/etalab/gencodegouv,True
 https://framagit.org/etalab/gitbook-plugin-discourse,True
 https://framagit.org/etalab/json-repo-viewer,True
 https://framagit.org/etalab/legi-plat,True
-https://framagit.org/etalab/loi-cada,False
+https://framagit.org/etalab/loi-cada,True
 https://framagit.org/etalab/lois-non-codifiees-et-reglements-francais,True
 https://framagit.org/etalab/maquette-code.gouv.fr,True
 https://framagit.org/etalab/moissonneur-republique-numerique,False
@@ -133,7 +133,7 @@ https://git.unistra.fr/LP-JBHH/LP,False
 https://git.unistra.fr/M32_18-61-DES/des,False
 https://git.unistra.fr/MAC19-T4-D/MAC19-T4-D,False
 https://git.unistra.fr/MIH18-T4-B/Merkela_Universalis_Release,False
-https://git.unistra.fr/MIH18-T4-C/Hemicycle,False
+https://git.unistra.fr/MIH18-T4-C/Hemicycle,True
 https://git.unistra.fr/NuitDeLinfo_OPA/cockpit,False
 https://git.unistra.fr/P4az-QQA/P4a,False
 https://git.unistra.fr/PWeb/PWeb,False
@@ -1234,7 +1234,7 @@ https://github.com/Spirals-Team/powerspy.scala,True
 https://github.com/Spirals-Team/proto-mgw-object-graphs,True
 https://github.com/Spirals-Team/reactive-slides,True
 https://github.com/Spirals-Team/runtime-repair-experiments,False
-https://github.com/Spirals-Team/spirals-team.github.io,False
+https://github.com/Spirals-Team/spirals-team.github.io,True
 https://github.com/Spirals-Team/test4repair-experiments,True
 https://github.com/StartupsPoleEmploi/Avril-Demat-Livret1,False
 https://github.com/StartupsPoleEmploi/Avril-Demat-Proto-Nuxt,True
@@ -1548,6 +1548,7 @@ https://github.com/betagouv/pop-consultation,True
 https://github.com/betagouv/pop-data,True
 https://github.com/betagouv/pop-production,True
 https://github.com/betagouv/pop-shared,True
+https://github.com/betagouv/postgresql-openshift-docker,False
 https://github.com/betagouv/preuve-covoiturage,True
 https://github.com/betagouv/preuve-covoiturage-doc,True
 https://github.com/betagouv/publicodes,True
@@ -2240,7 +2241,7 @@ https://github.com/etalab/retos-civicos,True
 https://github.com/etalab/retweet,True
 https://github.com/etalab/rna_as_api,True
 https://github.com/etalab/rncs_worker_api_entreprise,True
-https://github.com/etalab/rubocop_api_entreprise,False
+https://github.com/etalab/rubocop_api_entreprise,True
 https://github.com/etalab/schema-decp-dpa,True
 https://github.com/etalab/schema-irve,True
 https://github.com/etalab/schema-lieux-covoiturage,True
@@ -2856,10 +2857,10 @@ https://github.com/polewebmaedi/countries,True
 https://github.com/polewebmaedi/natural-earth-vector,True
 https://github.com/powerapi-ng/powerapi,False
 https://github.com/powerapi-ng/powerapi-ng.github.io,False
-https://github.com/powerapi-ng/powerapi-scala,False
+https://github.com/powerapi-ng/powerapi-scala,True
 https://github.com/powerapi-ng/pyRAPL,False
 https://github.com/powerapi-ng/rapl-formula,False
-https://github.com/powerapi-ng/smartwatts-formula,False
+https://github.com/powerapi-ng/smartwatts-formula,True
 https://github.com/region-bretagne/dd-portal,True
 https://github.com/region-bretagne/inventaire,True
 https://github.com/region-bretagne/mviewer-apps,True
@@ -3195,12 +3196,12 @@ https://gitlab.huma-num.fr/lamop/nakala,True
 https://gitlab.huma-num.fr/lamop/nasa,False
 https://gitlab.huma-num.fr/lamop/studium,False
 https://gitlab.huma-num.fr/lamop/studium-baldwin,False
-https://gitlab.huma-num.fr/lamop/test,False
+https://gitlab.huma-num.fr/lamop/test,True
 https://gitlab.huma-num.fr/lamop/topama,False
 https://gitlab.huma-num.fr/lamop/topama-eveches,False
 https://gitlab.huma-num.fr/lamop/topologie_aix-en-provence,False
 https://gitlab.huma-num.fr/mshs-poitiers/xmlify,False
-https://gitlab.huma-num.fr/nakala-tools/nakalot,False
+https://gitlab.huma-num.fr/nakala-tools/nakalot,True
 https://gitlab.huma-num.fr/nakala-tools/nakanav,False
 https://gitlab.inria.fr/AlgebraicGeometricModeling/AlgebraicSolvers.jl,True
 https://gitlab.inria.fr/AlgebraicGeometricModeling/Axl.jl,True
@@ -3291,7 +3292,7 @@ https://gitlab.inria.fr/aljanon-experiment-framework/guix-packages,False
 https://gitlab.inria.fr/aljanon-experiment-framework/image_builder,True
 https://gitlab.inria.fr/aljanon-experiment-framework/init_experiment,True
 https://gitlab.inria.fr/aljanon-experiment-framework/kameleon-recipes,False
-https://gitlab.inria.fr/aljanon-experiment-framework/py_command_wrapper,False
+https://gitlab.inria.fr/aljanon-experiment-framework/py_command_wrapper,True
 https://gitlab.inria.fr/aljanon-experiment-framework/py_loguru_wrapper,False
 https://gitlab.inria.fr/aljanon-experiment-framework/setup_experiment,False
 https://gitlab.inria.fr/aljanon-experiment-framework/teardown_experiment,False
@@ -3574,7 +3575,7 @@ https://gitlab.inria.fr/mosaic/cellcomplex,True
 https://gitlab.inria.fr/mosaic/draco_stem,False
 https://gitlab.inria.fr/mosaic/mosaic-commons,False
 https://gitlab.inria.fr/mosaic/timagetk,False
-https://gitlab.inria.fr/mosaic/tissue_analysis,False
+https://gitlab.inria.fr/mosaic/tissue_analysis,True
 https://gitlab.inria.fr/mosaic/tissue_nukem_3d,False
 https://gitlab.inria.fr/mosaic/tissue_paredes,False
 https://gitlab.inria.fr/myriads-team/python-distem,False
