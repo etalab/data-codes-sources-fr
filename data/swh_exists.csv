@@ -30,7 +30,7 @@ https://forgemia.inra.fr/olivier.bonnefon/mse,False
 https://forgemia.inra.fr/record-open-archives/rec-crash,True
 https://forgemia.inra.fr/record-open-archives/recmoustics,True
 https://forgemia.inra.fr/record/AgFlow,True
-https://forgemia.inra.fr/record/RECORD,False
+https://forgemia.inra.fr/record/RECORD,True
 https://forgemia.inra.fr/record/RecordingTools,False
 https://forgemia.inra.fr/record/agrodynaland,False
 https://forgemia.inra.fr/record/azodyn,False
@@ -42,7 +42,7 @@ https://forgemia.inra.fr/sciproject/managesciproject,True
 https://forgemia.inra.fr/svdetection/cnvpipelines,True
 https://forgemia.inra.fr/svdetection/popsim,True
 https://forgemia.inra.fr/svdetection/svlib,True
-https://forgemia.inra.fr/umr-astre/cirad,False
+https://forgemia.inra.fr/umr-astre/cirad,True
 https://forgemia.inra.fr/umr-astre/epidmap,True
 https://forgemia.inra.fr/umr-astre/geonetwork,True
 https://forgemia.inra.fr/umr-astre/mapMCDA,True
@@ -131,7 +131,7 @@ https://git.unistra.fr/IUTRS/partage-migration-osx,False
 https://git.unistra.fr/Ismael/P4a,True
 https://git.unistra.fr/LP-JBHH/LP,False
 https://git.unistra.fr/M32_18-61-DES/des,False
-https://git.unistra.fr/MAC19-T4-D/MAC19-T4-D,False
+https://git.unistra.fr/MAC19-T4-D/MAC19-T4-D,True
 https://git.unistra.fr/MIH18-T4-B/Merkela_Universalis_Release,False
 https://git.unistra.fr/MIH18-T4-C/Hemicycle,True
 https://git.unistra.fr/NuitDeLinfo_OPA/cockpit,False
@@ -140,7 +140,7 @@ https://git.unistra.fr/PWeb/PWeb,False
 https://git.unistra.fr/S32TP5/S32,True
 https://git.unistra.fr/SAV18-T4-B/ProjetT4,False
 https://git.unistra.fr/SAV18-T4-C/DDT-Simulator-2018,True
-https://git.unistra.fr/SPA18-T4-A/T4,False
+https://git.unistra.fr/SPA18-T4-A/T4,True
 https://git.unistra.fr/SPA18-T4-C/diabete_simulator,False
 https://git.unistra.fr/SPA18-T4-D/PathOfDiabete,False
 https://git.unistra.fr/T3/NaoBalle,True
@@ -163,7 +163,7 @@ https://git.unistra.fr/algdis/algdis_public,True
 https://git.unistra.fr/botanique23/T4_PID_A,True
 https://git.unistra.fr/c/st,False
 https://git.unistra.fr/community/ina-import,True
-https://git.unistra.fr/community/pount-api,False
+https://git.unistra.fr/community/pount-api,True
 https://git.unistra.fr/community/pount-front,False
 https://git.unistra.fr/csrd/white_paper_form,True
 https://git.unistra.fr/ecr19-t4-e/hache-tag-greigns,False
@@ -1208,7 +1208,7 @@ https://github.com/Spirals-Team/bitwatts,True
 https://github.com/Spirals-Team/casper,True
 https://github.com/Spirals-Team/ci-inria-documentation,True
 https://github.com/Spirals-Team/codEnergy,True
-https://github.com/Spirals-Team/correctness-attraction-experiments,False
+https://github.com/Spirals-Team/correctness-attraction-experiments,True
 https://github.com/Spirals-Team/datalyse-platform,True
 https://github.com/Spirals-Team/defects4j-presentation-urls,True
 https://github.com/Spirals-Team/defects4j-repair,True
@@ -1452,7 +1452,7 @@ https://github.com/betagouv/eac-scrapper,True
 https://github.com/betagouv/etudiant-entrepreneur,True
 https://github.com/betagouv/fetch-normalize-data,True
 https://github.com/betagouv/fiches-de-banc,True
-https://github.com/betagouv/freescout,False
+https://github.com/betagouv/freescout,True
 https://github.com/betagouv/gps-usagers,True
 https://github.com/betagouv/grafana-scalingo,True
 https://github.com/betagouv/heroku-buildpack-ruby,True
@@ -1620,7 +1620,7 @@ https://github.com/cea-hpc/pcocc,True
 https://github.com/cea-hpc/pdwfs,True
 https://github.com/cea-hpc/phobos,True
 https://github.com/cea-hpc/rbh-find,True
-https://github.com/cea-hpc/rbh-sync,False
+https://github.com/cea-hpc/rbh-sync,True
 https://github.com/cea-hpc/robinhood,True
 https://github.com/cea-hpc/selFIe,True
 https://github.com/cea-hpc/shine,True
@@ -2580,7 +2580,7 @@ https://github.com/medialab/poltergeist,True
 https://github.com/medialab/privacy,False
 https://github.com/medialab/pubpub,True
 https://github.com/medialab/python-urlsresolver,False
-https://github.com/medialab/quenouille,False
+https://github.com/medialab/quenouille,True
 https://github.com/medialab/quinoa,True
 https://github.com/medialab/quinoa-bocal,True
 https://github.com/medialab/quinoa-design-library,True
@@ -3220,7 +3220,7 @@ https://gitlab.inria.fr/ClassCode/classcodeadmin,True
 https://gitlab.inria.fr/ClassCode/pixees-theme,True
 https://gitlab.inria.fr/CompCert/ci,True
 https://gitlab.inria.fr/Conferences/ICT_2018_MUFF,True
-https://gitlab.inria.fr/DLreasoners/stare,False
+https://gitlab.inria.fr/DLreasoners/stare,True
 https://gitlab.inria.fr/DYLISS/PathModel,True
 https://gitlab.inria.fr/DYLISS/aucome,False
 https://gitlab.inria.fr/DYLISS/aureme,False
@@ -3242,7 +3242,7 @@ https://gitlab.inria.fr/LightFieldCodingLibrary/utils,True
 https://gitlab.inria.fr/LightFieldCodingLibrary/yuv,False
 https://gitlab.inria.fr/Loki/PolyphonyECS,False
 https://gitlab.inria.fr/MUSIC/dtk,False
-https://gitlab.inria.fr/Madeus/mad,False
+https://gitlab.inria.fr/Madeus/mad,True
 https://gitlab.inria.fr/Madeus/mad-openstack,False
 https://gitlab.inria.fr/MarTo/marto,False
 https://gitlab.inria.fr/MoReFEM/ThirdPartyCompilationFactory,False
@@ -3334,7 +3334,7 @@ https://gitlab.inria.fr/cedar/excel-extractor,False
 https://gitlab.inria.fr/cedar/excel-search,False
 https://gitlab.inria.fr/cedar/extraction-test,False
 https://gitlab.inria.fr/cedar/insee-crawler,False
-https://gitlab.inria.fr/cedar/spadedemo_vldb2019,False
+https://gitlab.inria.fr/cedar/spadedemo_vldb2019,True
 https://gitlab.inria.fr/cedar/statstical_mentions,False
 https://gitlab.inria.fr/cerisara/olkisite,False
 https://gitlab.inria.fr/cfrioux/MeneTools,True
@@ -3437,7 +3437,7 @@ https://gitlab.inria.fr/epione_ML/mcvae,False
 https://gitlab.inria.fr/evalanon/enoslib,False
 https://gitlab.inria.fr/evalanon/python-distem,False
 https://gitlab.inria.fr/evalys/big-data-hpc-g5k-expe-tools,False
-https://gitlab.inria.fr/expression-externals/easyloggingpp,False
+https://gitlab.inria.fr/expression-externals/easyloggingpp,True
 https://gitlab.inria.fr/expression-externals/eigen,True
 https://gitlab.inria.fr/expression-externals/kenlm,False
 https://gitlab.inria.fr/expression-externals/mitlm,False
@@ -3461,7 +3461,7 @@ https://gitlab.inria.fr/gagallium/stog-math,False
 https://gitlab.inria.fr/gappa/coq,False
 https://gitlab.inria.fr/gappa/gappa,False
 https://gitlab.inria.fr/gazelle/external-library,False
-https://gitlab.inria.fr/gecos/gecos-arith,False
+https://gitlab.inria.fr/gecos/gecos-arith,True
 https://gitlab.inria.fr/gecos/gecos-buildtools,True
 https://gitlab.inria.fr/gecos/gecos-composite,False
 https://gitlab.inria.fr/gecos/gecos-core,True
@@ -3534,7 +3534,7 @@ https://gitlab.inria.fr/learninglab/mooc-mr-notebooks,False
 https://gitlab.inria.fr/learninglab/mooc-rr/mooc-rr-apps,False
 https://gitlab.inria.fr/lifeware/biocham,False
 https://gitlab.inria.fr/local-implicit-schemes/supplementary-material-numerische-mathematik,False
-https://gitlab.inria.fr/magnet/mangoes,False
+https://gitlab.inria.fr/magnet/mangoes,True
 https://gitlab.inria.fr/magnet/nada,True
 https://gitlab.inria.fr/mastertal/UE803,False
 https://gitlab.inria.fr/matherials/simol,False
@@ -3709,7 +3709,7 @@ https://gitlab.inria.fr/usnb/subscription-manager,False
 https://gitlab.inria.fr/usnb/universal-social-network-bus,False
 https://gitlab.inria.fr/verifisc/mlang,False
 https://gitlab.inria.fr/verifisc/verifisc,False
-https://gitlab.inria.fr/verifisc/verifisc-python,False
+https://gitlab.inria.fr/verifisc/verifisc-python,True
 https://gitlab.inria.fr/vidjil/mixcr,False
 https://gitlab.inria.fr/vidjil/sdsl-lite,False
 https://gitlab.inria.fr/vidjil/tl-index,False
