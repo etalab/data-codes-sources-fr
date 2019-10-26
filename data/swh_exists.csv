@@ -17,7 +17,7 @@ https://forgemia.inra.fr/genotoul-bioinfo/jvenn,False
 https://forgemia.inra.fr/genotoul-bioinfo/metagwgs,False
 https://forgemia.inra.fr/genotoul-bioinfo/miniannotator,False
 https://forgemia.inra.fr/genotoul-bioinfo/ncrna-clust,False
-https://forgemia.inra.fr/genotoul-bioinfo/ng6,False
+https://forgemia.inra.fr/genotoul-bioinfo/ng6,True
 https://forgemia.inra.fr/genotoul-bioinfo/ngspipelines,True
 https://forgemia.inra.fr/genotoul-bioinfo/pyrocleaner,False
 https://forgemia.inra.fr/genotoul-bioinfo/srna-tabac,True
@@ -32,7 +32,7 @@ https://forgemia.inra.fr/record-open-archives/recmoustics,True
 https://forgemia.inra.fr/record/AgFlow,True
 https://forgemia.inra.fr/record/RECORD,True
 https://forgemia.inra.fr/record/RecordingTools,False
-https://forgemia.inra.fr/record/agrodynaland,False
+https://forgemia.inra.fr/record/agrodynaland,True
 https://forgemia.inra.fr/record/azodyn,False
 https://forgemia.inra.fr/record/pydynamics,True
 https://forgemia.inra.fr/record/recordweb,True
@@ -89,7 +89,7 @@ https://framagit.org/etalab/osem-ogp,True
 https://framagit.org/etalab/plan-ogp-2015-2017,True
 https://framagit.org/etalab/public-to-internal-issues,True
 https://framagit.org/etalab/sources-civic-tech,True
-https://framagit.org/etalab/suivi,False
+https://framagit.org/etalab/suivi,True
 https://framagit.org/etalab/suivi-plan-ogp-2015-2017,True
 https://framagit.org/etalab/votes-hackrepnum,True
 https://framagit.org/openfisca/calculette-impots-hackathon,True
@@ -138,7 +138,7 @@ https://git.unistra.fr/NuitDeLinfo_OPA/cockpit,False
 https://git.unistra.fr/P4az-QQA/P4a,False
 https://git.unistra.fr/PWeb/PWeb,False
 https://git.unistra.fr/S32TP5/S32,True
-https://git.unistra.fr/SAV18-T4-B/ProjetT4,False
+https://git.unistra.fr/SAV18-T4-B/ProjetT4,True
 https://git.unistra.fr/SAV18-T4-C/DDT-Simulator-2018,True
 https://git.unistra.fr/SPA18-T4-A/T4,True
 https://git.unistra.fr/SPA18-T4-C/diabete_simulator,True
@@ -166,6 +166,7 @@ https://git.unistra.fr/community/ina-import,True
 https://git.unistra.fr/community/pount-api,True
 https://git.unistra.fr/community/pount-front,False
 https://git.unistra.fr/csrd/white_paper_form,True
+https://git.unistra.fr/datachallenge/openaccessweek2019,False
 https://git.unistra.fr/ecr19-t4-e/hache-tag-greigns,True
 https://git.unistra.fr/filiere-d-excellence/ghc,True
 https://git.unistra.fr/gdt/back,False
@@ -186,7 +187,7 @@ https://git.unistra.fr/p4a_zj/P4a,True
 https://git.unistra.fr/p4b-ongagna-lehmann-at3/P4a,True
 https://git.unistra.fr/pastore.ritzenthaler.p4a/P4a,True
 https://git.unistra.fr/presUni/HAJ18-T4-D,True
-https://git.unistra.fr/projet-integrateur-grp-3/frontend,False
+https://git.unistra.fr/projet-integrateur-grp-3/frontend,True
 https://git.unistra.fr/pub/SupportPortal-aid,False
 https://git.unistra.fr/pub/revealjs-generator,False
 https://git.unistra.fr/scl19-t4-a/t4-2019,False
@@ -3164,7 +3165,7 @@ https://gitlab.com/pidila/sp-simulateurs-data,True
 https://gitlab.huma-num.fr/cbma/cbma-epigraphie-provence,False
 https://gitlab.huma-num.fr/cbma/cbma-philologic,True
 https://gitlab.huma-num.fr/cbma/cbma-philologic-docker,False
-https://gitlab.huma-num.fr/cbma/hagiographie,False
+https://gitlab.huma-num.fr/cbma/hagiographie,True
 https://gitlab.huma-num.fr/cbma/nosketch_engine-dockerfile,False
 https://gitlab.huma-num.fr/consortium3d/aLTAG3D,False
 https://gitlab.huma-num.fr/eurhisfirm/annuaires-favre,False
@@ -3288,7 +3289,7 @@ https://gitlab.inria.fr/agm/mypkg,False
 https://gitlab.inria.fr/agos-bso/mediatheque,False
 https://gitlab.inria.fr/aljanon-experiment-framework/ansible_experiment,False
 https://gitlab.inria.fr/aljanon-experiment-framework/deployment,False
-https://gitlab.inria.fr/aljanon-experiment-framework/expw,False
+https://gitlab.inria.fr/aljanon-experiment-framework/expw,True
 https://gitlab.inria.fr/aljanon-experiment-framework/guix-packages,False
 https://gitlab.inria.fr/aljanon-experiment-framework/image_builder,True
 https://gitlab.inria.fr/aljanon-experiment-framework/init_experiment,True
@@ -3474,7 +3475,7 @@ https://gitlab.inria.fr/gecos/gecos-rtl,True
 https://gitlab.inria.fr/gecos/gecos-scilab,True
 https://gitlab.inria.fr/gecos/gecos-scop,True
 https://gitlab.inria.fr/gecos/gecos-testframework,True
-https://gitlab.inria.fr/gerzaguet_public/2a_imr_wirelessnetwork_lab,False
+https://gitlab.inria.fr/gerzaguet_public/2a_imr_wirelessnetwork_lab,True
 https://gitlab.inria.fr/gerzaguet_public/3a_sysnum_wirelesscomm_tx,True
 https://gitlab.inria.fr/gerzaguet_public/digitalcomm.jl,True
 https://gitlab.inria.fr/gerzaguet_public/julia_seminar,False
@@ -3736,7 +3737,7 @@ https://gitlab.inria.fr/zefxis/use-cases,False
 https://gitlab.inria.fr/zhozhang/zhongkai-zhang,False
 https://gitlab.irstea.fr/HYCAR-Hydro/airgr,True
 https://gitlab.irstea.fr/HYCAR-Hydro/airgrteaching,True
-https://gitlab.irstea.fr/HYCAR-Hydro/baseflow,False
+https://gitlab.irstea.fr/HYCAR-Hydro/baseflow,True
 https://gitlab.irstea.fr/SimAquaLife/GR3D,True
 https://gitlab.irstea.fr/SimAquaLife/PikeLake,True
 https://gitlab.irstea.fr/SimAquaLife/PredatorPrey,True
