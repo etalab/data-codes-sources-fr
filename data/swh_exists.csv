@@ -54,7 +54,7 @@ https://forgemia.inra.fr/umr-gdec/clari-te,True
 https://forgemia.inra.fr/umr-gdec/isbpfinder,True
 https://forgemia.inra.fr/umrf/anomaly,False
 https://forgemia.inra.fr/umrf/dairydb,True
-https://forgemia.inra.fr/umrf/utopia,False
+https://forgemia.inra.fr/umrf/utopia,True
 https://forgemia.inra.fr/urgi-is/docker-rare,False
 https://forgemia.inra.fr/urgi-is/ontologies,False
 https://framagit.org/datatourisme/api,True
@@ -209,13 +209,13 @@ https://git.unistra.fr/xstra-dev/tp-gitlab-ci,True
 https://github.com/1024pix/airtable-backup,True
 https://github.com/1024pix/airtable-updater,True
 https://github.com/1024pix/benchmark,True
-https://github.com/1024pix/codeshift,False
+https://github.com/1024pix/codeshift,True
 https://github.com/1024pix/ember-cli-chartjs,True
 https://github.com/1024pix/ember-cli-matomo-tag-manager,True
 https://github.com/1024pix/ember-sentry,False
 https://github.com/1024pix/formation-jeremie,True
 https://github.com/1024pix/heroku-buildpack-telegraf,True
-https://github.com/1024pix/json-api-crud-server,False
+https://github.com/1024pix/json-api-crud-server,True
 https://github.com/1024pix/mail-broker,True
 https://github.com/1024pix/matomo,True
 https://github.com/1024pix/metabase-deploy,False
@@ -3230,7 +3230,7 @@ https://gitlab.inria.fr/DYLISS/mpwt,True
 https://gitlab.inria.fr/DYLISS/pylissIdConv,True
 https://gitlab.inria.fr/DYLISS/samifier-docker,False
 https://gitlab.inria.fr/DYLISS/samifier-matching-kernel,False
-https://gitlab.inria.fr/DYLISS/samifier-web,False
+https://gitlab.inria.fr/DYLISS/samifier-web,True
 https://gitlab.inria.fr/Dae-Ng/Dae-Ng,False
 https://gitlab.inria.fr/Damaris/damaris,True
 https://gitlab.inria.fr/GUDHI/data,True
@@ -3241,7 +3241,7 @@ https://gitlab.inria.fr/LightFieldCodingLibrary/HEVC,False
 https://gitlab.inria.fr/LightFieldCodingLibrary/LF,True
 https://gitlab.inria.fr/LightFieldCodingLibrary/SR,False
 https://gitlab.inria.fr/LightFieldCodingLibrary/utils,True
-https://gitlab.inria.fr/LightFieldCodingLibrary/yuv,False
+https://gitlab.inria.fr/LightFieldCodingLibrary/yuv,True
 https://gitlab.inria.fr/Loki/PolyphonyECS,False
 https://gitlab.inria.fr/MUSIC/dtk,False
 https://gitlab.inria.fr/Madeus/mad,True
@@ -3535,7 +3535,7 @@ https://gitlab.inria.fr/learninglab/mooc-forum-plugin,False
 https://gitlab.inria.fr/learninglab/mooc-forums-theme,False
 https://gitlab.inria.fr/learninglab/mooc-mr-notebooks,False
 https://gitlab.inria.fr/learninglab/mooc-rr/mooc-rr-apps,False
-https://gitlab.inria.fr/lifeware/biocham,False
+https://gitlab.inria.fr/lifeware/biocham,True
 https://gitlab.inria.fr/local-implicit-schemes/supplementary-material-numerische-mathematik,False
 https://gitlab.inria.fr/magnet/mangoes,True
 https://gitlab.inria.fr/magnet/nada,True
