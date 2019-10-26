@@ -7,7 +7,7 @@ https://forgemia.inra.fr/QTL/spell-qtl,True
 https://forgemia.inra.fr/adminforgemia/doc-public,True
 https://forgemia.inra.fr/bios4biol/bioinfo-utils,False
 https://forgemia.inra.fr/bios4biol/workflows,True
-https://forgemia.inra.fr/chemhousebas/vsn,False
+https://forgemia.inra.fr/chemhousebas/vsn,True
 https://forgemia.inra.fr/enseignement-mistea/reports-with-markdown,True
 https://forgemia.inra.fr/genotoul-bioinfo/dgenies,True
 https://forgemia.inra.fr/genotoul-bioinfo/dgenies-viewer,True
@@ -56,7 +56,7 @@ https://forgemia.inra.fr/umrf/anomaly,False
 https://forgemia.inra.fr/umrf/dairydb,True
 https://forgemia.inra.fr/umrf/utopia,True
 https://forgemia.inra.fr/urgi-is/docker-rare,False
-https://forgemia.inra.fr/urgi-is/ontologies,False
+https://forgemia.inra.fr/urgi-is/ontologies,True
 https://framagit.org/datatourisme/api,True
 https://framagit.org/datatourisme/docker-stack,True
 https://framagit.org/datatourisme/ontology,True
@@ -188,7 +188,7 @@ https://git.unistra.fr/p4b-ongagna-lehmann-at3/P4a,True
 https://git.unistra.fr/pastore.ritzenthaler.p4a/P4a,True
 https://git.unistra.fr/presUni/HAJ18-T4-D,True
 https://git.unistra.fr/projet-integrateur-grp-3/frontend,True
-https://git.unistra.fr/pub/SupportPortal-aid,False
+https://git.unistra.fr/pub/SupportPortal-aid,True
 https://git.unistra.fr/pub/revealjs-generator,False
 https://git.unistra.fr/scl19-t4-a/t4-2019,False
 https://git.unistra.fr/scl19-t4-c/juthose,True
@@ -1234,7 +1234,7 @@ https://github.com/Spirals-Team/powerspy,True
 https://github.com/Spirals-Team/powerspy.scala,True
 https://github.com/Spirals-Team/proto-mgw-object-graphs,True
 https://github.com/Spirals-Team/reactive-slides,True
-https://github.com/Spirals-Team/runtime-repair-experiments,False
+https://github.com/Spirals-Team/runtime-repair-experiments,True
 https://github.com/Spirals-Team/spirals-team.github.io,True
 https://github.com/Spirals-Team/test4repair-experiments,True
 https://github.com/StartupsPoleEmploi/Avril-Demat-Livret1,True
