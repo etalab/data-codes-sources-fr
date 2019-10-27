@@ -197,7 +197,7 @@ https://git.unistra.fr/seul/LeMeilleurPresident,False
 https://git.unistra.fr/seul/P4a,False
 https://git.unistra.fr/t4-boost/t4,False
 https://git.unistra.fr/t4-the-origin/arti4,True
-https://git.unistra.fr/uhuit/pgmaggpl,False
+https://git.unistra.fr/uhuit/pgmaggpl,True
 https://git.unistra.fr/uquatre/mips-invader,False
 https://git.unistra.fr/usept/sexy-polyedra-baby,False
 https://git.unistra.fr/vue/cas-authentication,False
@@ -1154,7 +1154,7 @@ https://github.com/SocialGouv/legi-postgres,True
 https://github.com/SocialGouv/legixplore,True
 https://github.com/SocialGouv/letor-scores,True
 https://github.com/SocialGouv/linters,True
-https://github.com/SocialGouv/maintenance,False
+https://github.com/SocialGouv/maintenance,True
 https://github.com/SocialGouv/mattermost-plugin-google-calendar,True
 https://github.com/SocialGouv/meditor,True
 https://github.com/SocialGouv/medle,True
@@ -1224,7 +1224,7 @@ https://github.com/Spirals-Team/hadoop-benchmark,True
 https://github.com/Spirals-Team/itzal-experiments,True
 https://github.com/Spirals-Team/itzal-runtime-repair,True
 https://github.com/Spirals-Team/jtravis,True
-https://github.com/Spirals-Team/maven-repair,False
+https://github.com/Spirals-Team/maven-repair,True
 https://github.com/Spirals-Team/npe-dataset,True
 https://github.com/Spirals-Team/npefix-experiments,True
 https://github.com/Spirals-Team/open-science-paper,True
@@ -2469,7 +2469,7 @@ https://github.com/lutece-secteur-public/opengov-plugin-transparency,True
 https://github.com/lutece-secteur-public/urbanisme-plugin-plu,True
 https://github.com/medialab/ANTA,True
 https://github.com/medialab/ANTA2,True
-https://github.com/medialab/EAT_datascape,False
+https://github.com/medialab/EAT_datascape,True
 https://github.com/medialab/Facettage,True
 https://github.com/medialab/FlaskTools,True
 https://github.com/medialab/Ghost,True
@@ -2861,7 +2861,7 @@ https://github.com/powerapi-ng/powerapi,True
 https://github.com/powerapi-ng/powerapi-ng.github.io,False
 https://github.com/powerapi-ng/powerapi-scala,True
 https://github.com/powerapi-ng/pyRAPL,False
-https://github.com/powerapi-ng/rapl-formula,False
+https://github.com/powerapi-ng/rapl-formula,True
 https://github.com/powerapi-ng/smartwatts-formula,True
 https://github.com/region-bretagne/dd-portal,True
 https://github.com/region-bretagne/inventaire,True
@@ -3251,7 +3251,7 @@ https://gitlab.inria.fr/MoReFEM/ThirdPartyCompilationFactory,False
 https://gitlab.inria.fr/NGS/ALTree,True
 https://gitlab.inria.fr/NGS/decova,False
 https://gitlab.inria.fr/NGS/nfs-workaround,False
-https://gitlab.inria.fr/NGS/structural-variants,False
+https://gitlab.inria.fr/NGS/structural-variants,True
 https://gitlab.inria.fr/NGS/svagga,False
 https://gitlab.inria.fr/OAR/oar3-switch,False
 https://gitlab.inria.fr/OAR/oardocker,False
@@ -3632,7 +3632,7 @@ https://gitlab.inria.fr/piper/viva,False
 https://gitlab.inria.fr/piy/piy,False
 https://gitlab.inria.fr/popstar/SAT-Equiv,False
 https://gitlab.inria.fr/pvignet/cadbiom,False
-https://gitlab.inria.fr/pvignet/pycryptosat,False
+https://gitlab.inria.fr/pvignet/pycryptosat,True
 https://gitlab.inria.fr/rainbow-intervals/ros_interval,False
 https://gitlab.inria.fr/sb/simbci,False
 https://gitlab.inria.fr/sca_platform/analysis,False
