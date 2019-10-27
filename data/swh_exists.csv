@@ -12,7 +12,7 @@ https://forgemia.inra.fr/enseignement-mistea/reports-with-markdown,True
 https://forgemia.inra.fr/genotoul-bioinfo/dgenies,True
 https://forgemia.inra.fr/genotoul-bioinfo/dgenies-viewer,True
 https://forgemia.inra.fr/genotoul-bioinfo/jflow,True
-https://forgemia.inra.fr/genotoul-bioinfo/jflow-toolshed,False
+https://forgemia.inra.fr/genotoul-bioinfo/jflow-toolshed,True
 https://forgemia.inra.fr/genotoul-bioinfo/jvenn,False
 https://forgemia.inra.fr/genotoul-bioinfo/metagwgs,False
 https://forgemia.inra.fr/genotoul-bioinfo/miniannotator,False
@@ -202,7 +202,7 @@ https://git.unistra.fr/uquatre/mips-invader,False
 https://git.unistra.fr/usept/sexy-polyedra-baby,False
 https://git.unistra.fr/vue/cas-authentication,False
 https://git.unistra.fr/vue/cli-plugin-unistra,True
-https://git.unistra.fr/vue/unistra-box,False
+https://git.unistra.fr/vue/unistra-box,True
 https://git.unistra.fr/xstra-dev/atelier-jenkins-2017,True
 https://git.unistra.fr/xstra-dev/conteneur-2019,False
 https://git.unistra.fr/xstra-dev/tp-gitlab-ci,True
@@ -1097,7 +1097,7 @@ https://github.com/SimPLU3D/simplu3D-rules,True
 https://github.com/SimPLU3D/simplu3D-tutorial,True
 https://github.com/SimPLU3D/simplu3D-workflow,True
 https://github.com/SimPLU3D/simplushp2pgsql,True
-https://github.com/SocialGouv/TextStyle,False
+https://github.com/SocialGouv/TextStyle,True
 https://github.com/SocialGouv/UDD,True
 https://github.com/SocialGouv/annuaire-mjpm,True
 https://github.com/SocialGouv/ansible-kubeadm-cluster,True
@@ -3166,7 +3166,7 @@ https://gitlab.huma-num.fr/cbma/cbma-epigraphie-provence,False
 https://gitlab.huma-num.fr/cbma/cbma-philologic,True
 https://gitlab.huma-num.fr/cbma/cbma-philologic-docker,False
 https://gitlab.huma-num.fr/cbma/hagiographie,True
-https://gitlab.huma-num.fr/cbma/nosketch_engine-dockerfile,False
+https://gitlab.huma-num.fr/cbma/nosketch_engine-dockerfile,True
 https://gitlab.huma-num.fr/consortium3d/aLTAG3D,False
 https://gitlab.huma-num.fr/eurhisfirm/annuaires-favre,False
 https://gitlab.huma-num.fr/eurhisfirm/biryani,True
@@ -3236,14 +3236,14 @@ https://gitlab.inria.fr/Damaris/damaris,True
 https://gitlab.inria.fr/GUDHI/data,True
 https://gitlab.inria.fr/GUDHI/gudhi-docker,True
 https://gitlab.inria.fr/GardiNet/liblc,True
-https://gitlab.inria.fr/IOTLanguage/IoTCompilertoBIP,False
+https://gitlab.inria.fr/IOTLanguage/IoTCompilertoBIP,True
 https://gitlab.inria.fr/LightFieldCodingLibrary/HEVC,False
 https://gitlab.inria.fr/LightFieldCodingLibrary/LF,True
 https://gitlab.inria.fr/LightFieldCodingLibrary/SR,False
 https://gitlab.inria.fr/LightFieldCodingLibrary/utils,True
 https://gitlab.inria.fr/LightFieldCodingLibrary/yuv,True
 https://gitlab.inria.fr/Loki/PolyphonyECS,True
-https://gitlab.inria.fr/MUSIC/dtk,False
+https://gitlab.inria.fr/MUSIC/dtk,True
 https://gitlab.inria.fr/Madeus/mad,True
 https://gitlab.inria.fr/Madeus/mad-openstack,False
 https://gitlab.inria.fr/MarTo/marto,False
@@ -3287,7 +3287,7 @@ https://gitlab.inria.fr/agm/gspline,False
 https://gitlab.inria.fr/agm/msplinetools,False
 https://gitlab.inria.fr/agm/mypkg,False
 https://gitlab.inria.fr/agos-bso/mediatheque,False
-https://gitlab.inria.fr/aljanon-experiment-framework/ansible_experiment,False
+https://gitlab.inria.fr/aljanon-experiment-framework/ansible_experiment,True
 https://gitlab.inria.fr/aljanon-experiment-framework/deployment,False
 https://gitlab.inria.fr/aljanon-experiment-framework/expw,True
 https://gitlab.inria.fr/aljanon-experiment-framework/guix-packages,False
@@ -3295,7 +3295,7 @@ https://gitlab.inria.fr/aljanon-experiment-framework/image_builder,True
 https://gitlab.inria.fr/aljanon-experiment-framework/init_experiment,True
 https://gitlab.inria.fr/aljanon-experiment-framework/kameleon-recipes,False
 https://gitlab.inria.fr/aljanon-experiment-framework/py_command_wrapper,True
-https://gitlab.inria.fr/aljanon-experiment-framework/py_loguru_wrapper,False
+https://gitlab.inria.fr/aljanon-experiment-framework/py_loguru_wrapper,True
 https://gitlab.inria.fr/aljanon-experiment-framework/setup_experiment,False
 https://gitlab.inria.fr/aljanon-experiment-framework/teardown_experiment,False
 https://gitlab.inria.fr/allgo/allgo,False
