@@ -646,7 +646,7 @@ https://github.com/INRIA/osc,True
 https://github.com/INRIA/sparklificator,True
 https://github.com/INRIA/spoon,True
 https://github.com/INRIA/tralics,True
-https://github.com/INRIA/velus,False
+https://github.com/INRIA/velus,True
 https://github.com/INSIDE-information-systems/CO2emissions_email_plugin,True
 https://github.com/INSIDE-information-systems/EnvironmentalSemanticWeb,True
 https://github.com/INSIDE-information-systems/HydrogeologyWxS,True
@@ -3265,7 +3265,7 @@ https://gitlab.inria.fr/Puffertools/Pufferbench,False
 https://gitlab.inria.fr/Puffertools/Pufferscale,False
 https://gitlab.inria.fr/Puffertools/Pufferspack,False
 https://gitlab.inria.fr/Quickspan/quickspan,False
-https://gitlab.inria.fr/RMOD/Ghost,False
+https://gitlab.inria.fr/RMOD/Ghost,True
 https://gitlab.inria.fr/RMOD/Welcome,False
 https://gitlab.inria.fr/RMOD/archive,False
 https://gitlab.inria.fr/Spirals/monsoon,False
