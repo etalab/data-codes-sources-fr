@@ -25,7 +25,7 @@ https://forgemia.inra.fr/genotoul-bioinfo/tSNPannot,False
 https://forgemia.inra.fr/get-it/nf-assemblshortread,True
 https://forgemia.inra.fr/get-it/nf-taxoaffiliation,True
 https://forgemia.inra.fr/metexplore/MetExploreViz,False
-https://forgemia.inra.fr/metexplore/metabolomics2network,False
+https://forgemia.inra.fr/metexplore/metabolomics2network,True
 https://forgemia.inra.fr/olivier.bonnefon/mse,False
 https://forgemia.inra.fr/record-open-archives/rec-crash,True
 https://forgemia.inra.fr/record-open-archives/recmoustics,True
@@ -136,7 +136,7 @@ https://git.unistra.fr/MIH18-T4-B/Merkela_Universalis_Release,False
 https://git.unistra.fr/MIH18-T4-C/Hemicycle,True
 https://git.unistra.fr/NuitDeLinfo_OPA/cockpit,False
 https://git.unistra.fr/P4az-QQA/P4a,False
-https://git.unistra.fr/PWeb/PWeb,False
+https://git.unistra.fr/PWeb/PWeb,True
 https://git.unistra.fr/S32TP5/S32,True
 https://git.unistra.fr/SAV18-T4-B/ProjetT4,True
 https://git.unistra.fr/SAV18-T4-C/DDT-Simulator-2018,True
@@ -171,7 +171,7 @@ https://git.unistra.fr/ecr19-t4-e/hache-tag-greigns,True
 https://git.unistra.fr/filiere-d-excellence/ghc,True
 https://git.unistra.fr/gdt/back,False
 https://git.unistra.fr/gdt/front,False
-https://git.unistra.fr/goj19-t4-b/projet-tutore-tycoon,False
+https://git.unistra.fr/goj19-t4-b/projet-tutore-tycoon,True
 https://git.unistra.fr/ihm/ihm-projet,True
 https://git.unistra.fr/integratron/integrateur,False
 https://git.unistra.fr/integratron/integrateur-api,True
@@ -3180,7 +3180,7 @@ https://gitlab.huma-num.fr/eurhisfirm/fibo-data,True
 https://gitlab.huma-num.fr/eurhisfirm/fibo-wikibase,False
 https://gitlab.huma-num.fr/eurhisfirm/gleif-wikibase,True
 https://gitlab.huma-num.fr/irihs/flaubertexport,False
-https://gitlab.huma-num.fr/irihs/genetictables,False
+https://gitlab.huma-num.fr/irihs/genetictables,True
 https://gitlab.huma-num.fr/irihs/genetictheme,False
 https://gitlab.huma-num.fr/lamop/Hmaot,True
 https://gitlab.huma-num.fr/lamop/archive-osm,False
@@ -3242,7 +3242,7 @@ https://gitlab.inria.fr/LightFieldCodingLibrary/LF,True
 https://gitlab.inria.fr/LightFieldCodingLibrary/SR,False
 https://gitlab.inria.fr/LightFieldCodingLibrary/utils,True
 https://gitlab.inria.fr/LightFieldCodingLibrary/yuv,True
-https://gitlab.inria.fr/Loki/PolyphonyECS,False
+https://gitlab.inria.fr/Loki/PolyphonyECS,True
 https://gitlab.inria.fr/MUSIC/dtk,False
 https://gitlab.inria.fr/Madeus/mad,True
 https://gitlab.inria.fr/Madeus/mad-openstack,False
@@ -3468,7 +3468,7 @@ https://gitlab.inria.fr/gecos/gecos-buildtools,True
 https://gitlab.inria.fr/gecos/gecos-composite,False
 https://gitlab.inria.fr/gecos/gecos-core,True
 https://gitlab.inria.fr/gecos/gecos-float2fix,False
-https://gitlab.inria.fr/gecos/gecos-framework,False
+https://gitlab.inria.fr/gecos/gecos-framework,True
 https://gitlab.inria.fr/gecos/gecos-hls,False
 https://gitlab.inria.fr/gecos/gecos-parallel,False
 https://gitlab.inria.fr/gecos/gecos-rtl,True
