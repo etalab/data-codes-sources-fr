@@ -62,7 +62,7 @@ https://framagit.org/datatourisme/docker-stack,True
 https://framagit.org/datatourisme/ontology,True
 https://framagit.org/dgfip/ir-calcul,True
 https://framagit.org/etalab/code.gouv.fr,True
-https://framagit.org/etalab/codes-juridiques-francais,False
+https://framagit.org/etalab/codes-juridiques-francais,True
 https://framagit.org/etalab/consultation-gouv-fr-deployment-api,True
 https://framagit.org/etalab/data-republique-numerique,False
 https://framagit.org/etalab/faire-simple,True
@@ -132,7 +132,7 @@ https://git.unistra.fr/Ismael/P4a,True
 https://git.unistra.fr/LP-JBHH/LP,True
 https://git.unistra.fr/M32_18-61-DES/des,False
 https://git.unistra.fr/MAC19-T4-D/MAC19-T4-D,True
-https://git.unistra.fr/MIH18-T4-B/Merkela_Universalis_Release,False
+https://git.unistra.fr/MIH18-T4-B/Merkela_Universalis_Release,True
 https://git.unistra.fr/MIH18-T4-C/Hemicycle,True
 https://git.unistra.fr/NuitDeLinfo_OPA/cockpit,False
 https://git.unistra.fr/P4az-QQA/P4a,False
@@ -2866,6 +2866,7 @@ https://github.com/powerapi-ng/smartwatts-formula,True
 https://github.com/region-bretagne/dd-portal,True
 https://github.com/region-bretagne/inventaire,True
 https://github.com/region-bretagne/mviewer-apps,True
+https://github.com/region-bretagne/mviewer.github.io,False
 https://github.com/region-bretagne/signalement-ws,True
 https://github.com/region-bretagne/territoire-portal,True
 https://github.com/region-bretagne/viewer,True
@@ -3445,7 +3446,7 @@ https://gitlab.inria.fr/expression-externals/kenlm,False
 https://gitlab.inria.fr/expression-externals/mitlm,False
 https://gitlab.inria.fr/fec/MIPP,False
 https://gitlab.inria.fr/fec/PyBER,False
-https://gitlab.inria.fr/flocq/flocq,False
+https://gitlab.inria.fr/flocq/flocq,True
 https://gitlab.inria.fr/flowvr/flowvr-ex,True
 https://gitlab.inria.fr/formation-gitlab-ci/grossamb-tutorial,False
 https://gitlab.inria.fr/formation-gitlab-ci/my-project-dvojtise,False
@@ -3460,7 +3461,7 @@ https://gitlab.inria.fr/gagallium/gagallium-source,False
 https://gitlab.inria.fr/gagallium/pandoc-pygments,False
 https://gitlab.inria.fr/gagallium/stog-gagallium,False
 https://gitlab.inria.fr/gagallium/stog-math,False
-https://gitlab.inria.fr/gappa/coq,False
+https://gitlab.inria.fr/gappa/coq,True
 https://gitlab.inria.fr/gappa/gappa,False
 https://gitlab.inria.fr/gazelle/external-library,True
 https://gitlab.inria.fr/gecos/gecos-arith,True
