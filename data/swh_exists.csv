@@ -15,7 +15,7 @@ https://forgemia.inra.fr/genotoul-bioinfo/jflow,True
 https://forgemia.inra.fr/genotoul-bioinfo/jflow-toolshed,True
 https://forgemia.inra.fr/genotoul-bioinfo/jvenn,False
 https://forgemia.inra.fr/genotoul-bioinfo/metagwgs,False
-https://forgemia.inra.fr/genotoul-bioinfo/miniannotator,False
+https://forgemia.inra.fr/genotoul-bioinfo/miniannotator,True
 https://forgemia.inra.fr/genotoul-bioinfo/ncrna-clust,False
 https://forgemia.inra.fr/genotoul-bioinfo/ng6,True
 https://forgemia.inra.fr/genotoul-bioinfo/ngspipelines,True
@@ -26,7 +26,7 @@ https://forgemia.inra.fr/get-it/nf-assemblshortread,True
 https://forgemia.inra.fr/get-it/nf-taxoaffiliation,True
 https://forgemia.inra.fr/metexplore/MetExploreViz,False
 https://forgemia.inra.fr/metexplore/metabolomics2network,True
-https://forgemia.inra.fr/olivier.bonnefon/mse,False
+https://forgemia.inra.fr/olivier.bonnefon/mse,True
 https://forgemia.inra.fr/record-open-archives/rec-crash,True
 https://forgemia.inra.fr/record-open-archives/recmoustics,True
 https://forgemia.inra.fr/record/AgFlow,True
@@ -175,7 +175,7 @@ https://git.unistra.fr/goj19-t4-b/projet-tutore-tycoon,True
 https://git.unistra.fr/ihm/ihm-projet,True
 https://git.unistra.fr/integratron/integrateur,False
 https://git.unistra.fr/integratron/integrateur-api,True
-https://git.unistra.fr/integratron/integrateur-cli,False
+https://git.unistra.fr/integratron/integrateur-cli,True
 https://git.unistra.fr/integratron/integratron.pages.unistra.fr,False
 https://git.unistra.fr/jupyter/animation,False
 https://git.unistra.fr/la-table-ronde/ecr19-t4-b,False
@@ -3277,7 +3277,7 @@ https://gitlab.inria.fr/WIDE/gps-exp,False
 https://gitlab.inria.fr/WIDE/similitude-exp,False
 https://gitlab.inria.fr/WIDE/spores_code,True
 https://gitlab.inria.fr/WellInverter/WellInverter_Standalone_Linux,False
-https://gitlab.inria.fr/WellInverter/WellInverter_Standalone_MacOS,False
+https://gitlab.inria.fr/WellInverter/WellInverter_Standalone_MacOS,True
 https://gitlab.inria.fr/WellInverter/WellInverter_Standalone_Nuvla,False
 https://gitlab.inria.fr/WellInverter/WellInverter_Standalone_Windows,False
 https://gitlab.inria.fr/adjoint-computation/disk-revolve-public,True
@@ -3678,7 +3678,7 @@ https://gitlab.inria.fr/solverstack/h2p3s,False
 https://gitlab.inria.fr/solverstack/hips,False
 https://gitlab.inria.fr/solverstack/hqr,False
 https://gitlab.inria.fr/solverstack/morse_cmake,False
-https://gitlab.inria.fr/solverstack/paddle,False
+https://gitlab.inria.fr/solverstack/paddle,True
 https://gitlab.inria.fr/solverstack/parade,False
 https://gitlab.inria.fr/solverstack/pastix,True
 https://gitlab.inria.fr/solverstack/spack-repo,False
