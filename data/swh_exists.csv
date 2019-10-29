@@ -125,7 +125,7 @@ https://git.unistra.fr/CAMMA-public/mvor,True
 https://git.unistra.fr/ECR19-T4-D/la-succession-au-moyen-age,True
 https://git.unistra.fr/Florian-William/a31-claguerre,False
 https://git.unistra.fr/HAJ18-T4-C/MyPrezTige,True
-https://git.unistra.fr/HPC/singularity,False
+https://git.unistra.fr/HPC/singularity,True
 https://git.unistra.fr/IUTRS/android-sdkmanager-scripts,False
 https://git.unistra.fr/IUTRS/partage-migration-osx,False
 https://git.unistra.fr/Ismael/P4a,True
@@ -179,7 +179,7 @@ https://git.unistra.fr/integratron/integrateur-cli,True
 https://git.unistra.fr/integratron/integratron.pages.unistra.fr,False
 https://git.unistra.fr/jupyter/animation,False
 https://git.unistra.fr/la-table-ronde/ecr19-t4-b,False
-https://git.unistra.fr/mac19-t4-c/arct4,False
+https://git.unistra.fr/mac19-t4-c/arct4,True
 https://git.unistra.fr/maf19-t4-c/Asimo-BOT,False
 https://git.unistra.fr/mih18-t4-a/ELECTOR2K18,False
 https://git.unistra.fr/my-awesome-group-de-tekdaiv/essaiededepotcommun,False
@@ -3230,7 +3230,7 @@ https://gitlab.inria.fr/DYLISS/aureme,False
 https://gitlab.inria.fr/DYLISS/mpwt,True
 https://gitlab.inria.fr/DYLISS/pylissIdConv,True
 https://gitlab.inria.fr/DYLISS/samifier-docker,False
-https://gitlab.inria.fr/DYLISS/samifier-matching-kernel,False
+https://gitlab.inria.fr/DYLISS/samifier-matching-kernel,True
 https://gitlab.inria.fr/DYLISS/samifier-web,True
 https://gitlab.inria.fr/Dae-Ng/Dae-Ng,False
 https://gitlab.inria.fr/Damaris/damaris,True
@@ -3273,7 +3273,7 @@ https://gitlab.inria.fr/Spirals/monsoon,False
 https://gitlab.inria.fr/TeamPlay_Public/TeamPlay_Public_Deliverables,False
 https://gitlab.inria.fr/WIDE/HyFN,False
 https://gitlab.inria.fr/WIDE/f3c-evaluation,False
-https://gitlab.inria.fr/WIDE/gps-exp,False
+https://gitlab.inria.fr/WIDE/gps-exp,True
 https://gitlab.inria.fr/WIDE/similitude-exp,False
 https://gitlab.inria.fr/WIDE/spores_code,True
 https://gitlab.inria.fr/WellInverter/WellInverter_Standalone_Linux,False
@@ -3314,7 +3314,7 @@ https://gitlab.inria.fr/batsim/article-cluster17,True
 https://gitlab.inria.fr/batsim/batbroker,False
 https://gitlab.inria.fr/batsim/batexpe,False
 https://gitlab.inria.fr/batsim/batexpe-python,False
-https://gitlab.inria.fr/batsim/batsched,False
+https://gitlab.inria.fr/batsim/batsched,True
 https://gitlab.inria.fr/batsim/batsim,False
 https://gitlab.inria.fr/batsim/batsky,False
 https://gitlab.inria.fr/batsim/bebida-on-batsim,False
