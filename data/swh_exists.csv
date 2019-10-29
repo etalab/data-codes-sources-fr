@@ -33,7 +33,7 @@ https://forgemia.inra.fr/record/AgFlow,True
 https://forgemia.inra.fr/record/RECORD,True
 https://forgemia.inra.fr/record/RecordingTools,False
 https://forgemia.inra.fr/record/agrodynaland,True
-https://forgemia.inra.fr/record/azodyn,False
+https://forgemia.inra.fr/record/azodyn,True
 https://forgemia.inra.fr/record/pydynamics,True
 https://forgemia.inra.fr/record/recordweb,True
 https://forgemia.inra.fr/record/sunflo,False
@@ -64,7 +64,7 @@ https://framagit.org/dgfip/ir-calcul,True
 https://framagit.org/etalab/code.gouv.fr,True
 https://framagit.org/etalab/codes-juridiques-francais,True
 https://framagit.org/etalab/consultation-gouv-fr-deployment-api,True
-https://framagit.org/etalab/data-republique-numerique,False
+https://framagit.org/etalab/data-republique-numerique,True
 https://framagit.org/etalab/faire-simple,True
 https://framagit.org/etalab/gencodegouv,True
 https://framagit.org/etalab/gitbook-plugin-discourse,True
@@ -180,7 +180,7 @@ https://git.unistra.fr/integratron/integratron.pages.unistra.fr,False
 https://git.unistra.fr/jupyter/animation,False
 https://git.unistra.fr/la-table-ronde/ecr19-t4-b,False
 https://git.unistra.fr/mac19-t4-c/arct4,True
-https://git.unistra.fr/maf19-t4-c/Asimo-BOT,False
+https://git.unistra.fr/maf19-t4-c/Asimo-BOT,True
 https://git.unistra.fr/mih18-t4-a/ELECTOR2K18,False
 https://git.unistra.fr/my-awesome-group-de-tekdaiv/essaiededepotcommun,False
 https://git.unistra.fr/p4a_zj/P4a,True
@@ -1144,6 +1144,7 @@ https://github.com/SocialGouv/emjpm-ui,True
 https://github.com/SocialGouv/faq-code-du-travail,True
 https://github.com/SocialGouv/fce,True
 https://github.com/SocialGouv/fiches-vdd,True
+https://github.com/SocialGouv/gitlab-ci-yml,False
 https://github.com/SocialGouv/helm-charts,True
 https://github.com/SocialGouv/jest-environment-knex,True
 https://github.com/SocialGouv/kali-data,True
