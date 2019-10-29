@@ -420,6 +420,7 @@ https://github.com/CEREMA/dtermed.webapp.rivages,True
 https://github.com/CEREMA/dterso.pluginQgis.CeremaCartEau,True
 https://github.com/CEREMA/dterso.pluginQgis3.CeremaCartEau3,True
 https://github.com/CEREMA/rivages-android,True
+https://github.com/CEREMA/territoire-ville.Covadis,False
 https://github.com/CEREMA/territoires-ville.DiagFeux,True
 https://github.com/CEREMA/territoires-ville.Giration,True
 https://github.com/CEREMA/territoires-ville.MiTemps,True
@@ -1643,6 +1644,7 @@ https://github.com/cget-carto/ba-coh-terr,True
 https://github.com/cget-carto/barometre_cohesion_territoires,True
 https://github.com/cget-carto/c2v,True
 https://github.com/cget-carto/clsm,True
+https://github.com/cget-carto/cooperations,False
 https://github.com/cget-carto/dataviz,True
 https://github.com/cget-carto/dgf,True
 https://github.com/cget-carto/dotation_investissement,True
@@ -1914,7 +1916,7 @@ https://github.com/diverse-project/summer,True
 https://github.com/diverse-project/tools,True
 https://github.com/diverse-project/tuxart,False
 https://github.com/diverse-project/website,False
-https://github.com/diverse-project/xcore-light,False
+https://github.com/diverse-project/xcore-light,True
 https://github.com/diverse-project/yajta-mirror,True
 https://github.com/entrepreneur-interet-general/2017,True
 https://github.com/entrepreneur-interet-general/AFD_projects,True
@@ -3299,7 +3301,7 @@ https://gitlab.inria.fr/aljanon-experiment-framework/kameleon-recipes,False
 https://gitlab.inria.fr/aljanon-experiment-framework/py_command_wrapper,True
 https://gitlab.inria.fr/aljanon-experiment-framework/py_loguru_wrapper,True
 https://gitlab.inria.fr/aljanon-experiment-framework/setup_experiment,False
-https://gitlab.inria.fr/aljanon-experiment-framework/teardown_experiment,False
+https://gitlab.inria.fr/aljanon-experiment-framework/teardown_experiment,True
 https://gitlab.inria.fr/allgo/allgo,False
 https://gitlab.inria.fr/allgo/allgo-blog,False
 https://gitlab.inria.fr/allgo/allgo.inria.fr,False
@@ -3673,7 +3675,7 @@ https://gitlab.inria.fr/skelton/pyskelton,False
 https://gitlab.inria.fr/skelton/skelton2,False
 https://gitlab.inria.fr/solverstack/ScalFMM,False
 https://gitlab.inria.fr/solverstack/chameleon,False
-https://gitlab.inria.fr/solverstack/fabulous,False
+https://gitlab.inria.fr/solverstack/fabulous,True
 https://gitlab.inria.fr/solverstack/genfem,False
 https://gitlab.inria.fr/solverstack/h2p3s,False
 https://gitlab.inria.fr/solverstack/hips,False
