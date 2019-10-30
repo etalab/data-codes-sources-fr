@@ -130,7 +130,7 @@ https://git.unistra.fr/IUTRS/android-sdkmanager-scripts,False
 https://git.unistra.fr/IUTRS/partage-migration-osx,False
 https://git.unistra.fr/Ismael/P4a,True
 https://git.unistra.fr/LP-JBHH/LP,True
-https://git.unistra.fr/M32_18-61-DES/des,False
+https://git.unistra.fr/M32_18-61-DES/des,True
 https://git.unistra.fr/MAC19-T4-D/MAC19-T4-D,True
 https://git.unistra.fr/MIH18-T4-B/Merkela_Universalis_Release,True
 https://git.unistra.fr/MIH18-T4-C/Hemicycle,True
@@ -1145,7 +1145,7 @@ https://github.com/SocialGouv/emjpm-ui,True
 https://github.com/SocialGouv/faq-code-du-travail,True
 https://github.com/SocialGouv/fce,True
 https://github.com/SocialGouv/fiches-vdd,True
-https://github.com/SocialGouv/gitlab-ci-yml,False
+https://github.com/SocialGouv/gitlab-ci-yml,True
 https://github.com/SocialGouv/helm-charts,True
 https://github.com/SocialGouv/jest-environment-knex,True
 https://github.com/SocialGouv/kali-data,True
@@ -1345,7 +1345,7 @@ https://github.com/atlanmod/Parallel-ATL,True
 https://github.com/atlanmod/Prefetching_Caching_DSL,True
 https://github.com/atlanmod/ThingML,True
 https://github.com/atlanmod/UML2NoSQL,True
-https://github.com/atlanmod/arduinomodeling,False
+https://github.com/atlanmod/arduinomodeling,True
 https://github.com/atlanmod/atl,True
 https://github.com/atlanmod/atlanmod-platform,True
 https://github.com/atlanmod/atlanmod.github.io,True
@@ -3197,7 +3197,7 @@ https://gitlab.huma-num.fr/lamop/iiif-docker,False
 https://gitlab.huma-num.fr/lamop/limites-font-reaulx,False
 https://gitlab.huma-num.fr/lamop/lizmap-docker,True
 https://gitlab.huma-num.fr/lamop/maison-bethune-prosoprographie,False
-https://gitlab.huma-num.fr/lamop/mirador-docker,False
+https://gitlab.huma-num.fr/lamop/mirador-docker,True
 https://gitlab.huma-num.fr/lamop/moamo,False
 https://gitlab.huma-num.fr/lamop/nakala,True
 https://gitlab.huma-num.fr/lamop/nasa,False
@@ -3303,7 +3303,7 @@ https://gitlab.inria.fr/aljanon-experiment-framework/py_command_wrapper,True
 https://gitlab.inria.fr/aljanon-experiment-framework/py_loguru_wrapper,True
 https://gitlab.inria.fr/aljanon-experiment-framework/setup_experiment,False
 https://gitlab.inria.fr/aljanon-experiment-framework/teardown_experiment,True
-https://gitlab.inria.fr/allgo/allgo,False
+https://gitlab.inria.fr/allgo/allgo,True
 https://gitlab.inria.fr/allgo/allgo-blog,False
 https://gitlab.inria.fr/allgo/allgo.inria.fr,False
 https://gitlab.inria.fr/allgo/doc,False
@@ -3362,12 +3362,12 @@ https://gitlab.inria.fr/compass/compass,True
 https://gitlab.inria.fr/compass/meshtools,True
 https://gitlab.inria.fr/comprise/deliverable_d21,True
 https://gitlab.inria.fr/coq/coq,False
-https://gitlab.inria.fr/coq/wiki-backup,False
+https://gitlab.inria.fr/coq/wiki-backup,True
 https://gitlab.inria.fr/coqinterval/interval,True
 https://gitlab.inria.fr/coquelicot/coquelicot,True
 https://gitlab.inria.fr/corese/corese-lab,False
 https://gitlab.inria.fr/croco-ocean/croco,False
-https://gitlab.inria.fr/croco-ocean/croco_tools,False
+https://gitlab.inria.fr/croco-ocean/croco_tools,True
 https://gitlab.inria.fr/crv14/benchmarks,False
 https://gitlab.inria.fr/crv14/evaluation,False
 https://gitlab.inria.fr/dash/talks,False
@@ -3559,7 +3559,7 @@ https://gitlab.inria.fr/mfx/icesl-documentation,False
 https://gitlab.inria.fr/mfx/icesl-public,False
 https://gitlab.inria.fr/mgkit/MetaMOF,True
 https://gitlab.inria.fr/mgkit/MetaMeF,False
-https://gitlab.inria.fr/mgkit/ofrlex-metamof-new,False
+https://gitlab.inria.fr/mgkit/ofrlex-metamof-new,True
 https://gitlab.inria.fr/mgkit/sxpipe,True
 https://gitlab.inria.fr/mgkit/syntax_hightlighting_smg,True
 https://gitlab.inria.fr/miet/miet,False
@@ -3612,11 +3612,11 @@ https://gitlab.inria.fr/openskecth/camparam_point_correspondancies,False
 https://gitlab.inria.fr/openskecth/designsketch2normal,False
 https://gitlab.inria.fr/openskecth/labeling_tool,False
 https://gitlab.inria.fr/openskecth/pix2pix_wassersten,True
-https://gitlab.inria.fr/openskecth/sketching_interface,False
+https://gitlab.inria.fr/openskecth/sketching_interface,True
 https://gitlab.inria.fr/openskecth/svm_lines_classifier,True
 https://gitlab.inria.fr/openvibe/designer,False
 https://gitlab.inria.fr/openvibe/extras,False
-https://gitlab.inria.fr/openvibe/meta,False
+https://gitlab.inria.fr/openvibe/meta,True
 https://gitlab.inria.fr/openvibe/sdk,False
 https://gitlab.inria.fr/openwind/release,False
 https://gitlab.inria.fr/optimdbs/optimdbs-medinria,False
@@ -3661,7 +3661,7 @@ https://gitlab.inria.fr/serpico/airyscanj_bin,False
 https://gitlab.inria.fr/serpico/cpanalysis_bin,False
 https://gitlab.inria.fr/serpico/deep-finder,False
 https://gitlab.inria.fr/serpico/genloc3d_bin,False
-https://gitlab.inria.fr/serpico/hulkground_bin,False
+https://gitlab.inria.fr/serpico/hulkground_bin,True
 https://gitlab.inria.fr/serpico/mwr,True
 https://gitlab.inria.fr/serpico/ndsafir_bin,True
 https://gitlab.inria.fr/serpico/owf_bin,False
