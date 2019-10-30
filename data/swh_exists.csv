@@ -36,7 +36,7 @@ https://forgemia.inra.fr/record/agrodynaland,True
 https://forgemia.inra.fr/record/azodyn,True
 https://forgemia.inra.fr/record/pydynamics,True
 https://forgemia.inra.fr/record/recordweb,True
-https://forgemia.inra.fr/record/sunflo,False
+https://forgemia.inra.fr/record/sunflo,True
 https://forgemia.inra.fr/record/workbench4record,False
 https://forgemia.inra.fr/sciproject/managesciproject,True
 https://forgemia.inra.fr/svdetection/cnvpipelines,True
@@ -52,7 +52,7 @@ https://forgemia.inra.fr/umr-boa/viseago,True
 https://forgemia.inra.fr/umr-gdec/biotools,True
 https://forgemia.inra.fr/umr-gdec/clari-te,True
 https://forgemia.inra.fr/umr-gdec/isbpfinder,True
-https://forgemia.inra.fr/umrf/anomaly,False
+https://forgemia.inra.fr/umrf/anomaly,True
 https://forgemia.inra.fr/umrf/dairydb,True
 https://forgemia.inra.fr/umrf/utopia,True
 https://forgemia.inra.fr/urgi-is/docker-rare,True
@@ -134,7 +134,7 @@ https://git.unistra.fr/M32_18-61-DES/des,False
 https://git.unistra.fr/MAC19-T4-D/MAC19-T4-D,True
 https://git.unistra.fr/MIH18-T4-B/Merkela_Universalis_Release,True
 https://git.unistra.fr/MIH18-T4-C/Hemicycle,True
-https://git.unistra.fr/NuitDeLinfo_OPA/cockpit,False
+https://git.unistra.fr/NuitDeLinfo_OPA/cockpit,True
 https://git.unistra.fr/P4az-QQA/P4a,False
 https://git.unistra.fr/PWeb/PWeb,True
 https://git.unistra.fr/S32TP5/S32,True
@@ -1984,7 +1984,7 @@ https://github.com/entrepreneur-interet-general/pointk,True
 https://github.com/entrepreneur-interet-general/predisauvetage,True
 https://github.com/entrepreneur-interet-general/previsecours.github.io,True
 https://github.com/entrepreneur-interet-general/publib,True
-https://github.com/entrepreneur-interet-general/recrues,False
+https://github.com/entrepreneur-interet-general/recrues,True
 https://github.com/entrepreneur-interet-general/sedatif,True
 https://github.com/entrepreneur-interet-general/sidenotes,True
 https://github.com/entrepreneur-interet-general/sill,True
@@ -2616,7 +2616,7 @@ https://github.com/medialab/sowell-trust-2016,True
 https://github.com/medialab/spatialization-quality,True
 https://github.com/medialab/table2net,True
 https://github.com/medialab/tesselle,True
-https://github.com/medialab/tesselle-example,False
+https://github.com/medialab/tesselle-example,True
 https://github.com/medialab/testing_otree,True
 https://github.com/medialab/toflit18,True
 https://github.com/medialab/tools,True
@@ -2881,6 +2881,7 @@ https://github.com/sigrennesmetropole/api_rva,True
 https://github.com/sigrennesmetropole/cadastrapp,True
 https://github.com/sigrennesmetropole/geoserver_sld,True
 https://github.com/sigrennesmetropole/images,True
+https://github.com/sigrennesmetropole/mviewer,False
 https://github.com/sigrennesmetropole/mviewerstudio,True
 https://github.com/sigrennesmetropole/photos_obliques,True
 https://github.com/sigrennesmetropole/qgis-3liz-tools,True
@@ -3188,7 +3189,7 @@ https://gitlab.huma-num.fr/irihs/genetictables,True
 https://gitlab.huma-num.fr/irihs/genetictheme,True
 https://gitlab.huma-num.fr/lamop/Hmaot,True
 https://gitlab.huma-num.fr/lamop/archive-osm,False
-https://gitlab.huma-num.fr/lamop/audiotheque-traduction,False
+https://gitlab.huma-num.fr/lamop/audiotheque-traduction,True
 https://gitlab.huma-num.fr/lamop/cbma-epigraphie,False
 https://gitlab.huma-num.fr/lamop/fonds-marc-bloch,True
 https://gitlab.huma-num.fr/lamop/heraut-transcript,False
@@ -3200,7 +3201,7 @@ https://gitlab.huma-num.fr/lamop/mirador-docker,False
 https://gitlab.huma-num.fr/lamop/moamo,False
 https://gitlab.huma-num.fr/lamop/nakala,True
 https://gitlab.huma-num.fr/lamop/nasa,False
-https://gitlab.huma-num.fr/lamop/studium,False
+https://gitlab.huma-num.fr/lamop/studium,True
 https://gitlab.huma-num.fr/lamop/studium-baldwin,False
 https://gitlab.huma-num.fr/lamop/test,True
 https://gitlab.huma-num.fr/lamop/topama,True
@@ -3235,7 +3236,7 @@ https://gitlab.inria.fr/DYLISS/pylissIdConv,True
 https://gitlab.inria.fr/DYLISS/samifier-docker,True
 https://gitlab.inria.fr/DYLISS/samifier-matching-kernel,True
 https://gitlab.inria.fr/DYLISS/samifier-web,True
-https://gitlab.inria.fr/Dae-Ng/Dae-Ng,False
+https://gitlab.inria.fr/Dae-Ng/Dae-Ng,True
 https://gitlab.inria.fr/Damaris/damaris,True
 https://gitlab.inria.fr/GUDHI/data,True
 https://gitlab.inria.fr/GUDHI/gudhi-docker,True
@@ -3249,7 +3250,7 @@ https://gitlab.inria.fr/LightFieldCodingLibrary/yuv,True
 https://gitlab.inria.fr/Loki/PolyphonyECS,True
 https://gitlab.inria.fr/MUSIC/dtk,True
 https://gitlab.inria.fr/Madeus/mad,True
-https://gitlab.inria.fr/Madeus/mad-openstack,False
+https://gitlab.inria.fr/Madeus/mad-openstack,True
 https://gitlab.inria.fr/MarTo/marto,False
 https://gitlab.inria.fr/MoReFEM/ThirdPartyCompilationFactory,True
 https://gitlab.inria.fr/NGS/ALTree,True
@@ -3261,7 +3262,7 @@ https://gitlab.inria.fr/OAR/oar3-switch,True
 https://gitlab.inria.fr/OAR/oardocker,False
 https://gitlab.inria.fr/OCSR/OCSR,True
 https://gitlab.inria.fr/OCSR/chaos,False
-https://gitlab.inria.fr/PSI/psi3,False
+https://gitlab.inria.fr/PSI/psi3,True
 https://gitlab.inria.fr/PSI/psi4,False
 https://gitlab.inria.fr/PaMPA/PaMPA,False
 https://gitlab.inria.fr/Phylophile/Treerecs,True
@@ -3277,7 +3278,7 @@ https://gitlab.inria.fr/TeamPlay_Public/TeamPlay_Public_Deliverables,False
 https://gitlab.inria.fr/WIDE/HyFN,False
 https://gitlab.inria.fr/WIDE/f3c-evaluation,False
 https://gitlab.inria.fr/WIDE/gps-exp,True
-https://gitlab.inria.fr/WIDE/similitude-exp,False
+https://gitlab.inria.fr/WIDE/similitude-exp,True
 https://gitlab.inria.fr/WIDE/spores_code,True
 https://gitlab.inria.fr/WellInverter/WellInverter_Standalone_Linux,False
 https://gitlab.inria.fr/WellInverter/WellInverter_Standalone_MacOS,True
