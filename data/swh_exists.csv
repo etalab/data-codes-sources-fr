@@ -164,7 +164,7 @@ https://git.unistra.fr/botanique23/T4_PID_A,True
 https://git.unistra.fr/c/st,True
 https://git.unistra.fr/community/ina-import,True
 https://git.unistra.fr/community/pount-api,True
-https://git.unistra.fr/community/pount-front,False
+https://git.unistra.fr/community/pount-front,True
 https://git.unistra.fr/csrd/white_paper_form,True
 https://git.unistra.fr/datachallenge/openaccessweek2019,True
 https://git.unistra.fr/ecr19-t4-e/hache-tag-greigns,True
@@ -181,7 +181,7 @@ https://git.unistra.fr/jupyter/animation,False
 https://git.unistra.fr/la-table-ronde/ecr19-t4-b,False
 https://git.unistra.fr/mac19-t4-c/arct4,True
 https://git.unistra.fr/maf19-t4-c/Asimo-BOT,True
-https://git.unistra.fr/mih18-t4-a/ELECTOR2K18,False
+https://git.unistra.fr/mih18-t4-a/ELECTOR2K18,True
 https://git.unistra.fr/my-awesome-group-de-tekdaiv/essaiededepotcommun,False
 https://git.unistra.fr/p4a_zj/P4a,True
 https://git.unistra.fr/p4b-ongagna-lehmann-at3/P4a,True
@@ -194,7 +194,7 @@ https://git.unistra.fr/scl19-t4-a/t4-2019,False
 https://git.unistra.fr/scl19-t4-c/juthose,True
 https://git.unistra.fr/scl19-t4-e/t4,True
 https://git.unistra.fr/seul/LeMeilleurPresident,False
-https://git.unistra.fr/seul/P4a,False
+https://git.unistra.fr/seul/P4a,True
 https://git.unistra.fr/t4-boost/t4,False
 https://git.unistra.fr/t4-the-origin/arti4,True
 https://git.unistra.fr/uhuit/pgmaggpl,True
@@ -1893,7 +1893,7 @@ https://github.com/diverse-project/diverse-studio,True
 https://github.com/diverse-project/diversifying-descartes,False
 https://github.com/diverse-project/farmbot,True
 https://github.com/diverse-project/flink-datacenter,True
-https://github.com/diverse-project/gen-mobile-data-app,False
+https://github.com/diverse-project/gen-mobile-data-app,True
 https://github.com/diverse-project/k3,True
 https://github.com/diverse-project/kcvl,True
 https://github.com/diverse-project/matisseTemplate,True
@@ -3142,7 +3142,7 @@ https://gitlab.cerema.fr/admin-donnees/fr.cerema.admin_donnees_postgresql,True
 https://gitlab.com/DREES_code/formulaire_zonage_ars,True
 https://gitlab.com/dreal-datalab/adresses-mairies-epci,True
 https://gitlab.com/dreal-datalab/autorite-environnementale,False
-https://gitlab.com/dreal-datalab/autorite_environnementale,False
+https://gitlab.com/dreal-datalab/autorite_environnementale,True
 https://gitlab.com/dreal-datalab/codes_postaux,True
 https://gitlab.com/dreal-datalab/cogiter,True
 https://gitlab.com/dreal-datalab/communications,True
@@ -3182,7 +3182,7 @@ https://gitlab.huma-num.fr/eurhisfirm/dfih-ui,False
 https://gitlab.huma-num.fr/eurhisfirm/dfih-wikibase,False
 https://gitlab.huma-num.fr/eurhisfirm/eurhisfirm-sitelinks-server,False
 https://gitlab.huma-num.fr/eurhisfirm/fibo-data,True
-https://gitlab.huma-num.fr/eurhisfirm/fibo-wikibase,False
+https://gitlab.huma-num.fr/eurhisfirm/fibo-wikibase,True
 https://gitlab.huma-num.fr/eurhisfirm/gleif-wikibase,True
 https://gitlab.huma-num.fr/irihs/flaubertexport,False
 https://gitlab.huma-num.fr/irihs/genetictables,True
@@ -3263,7 +3263,7 @@ https://gitlab.inria.fr/OAR/oardocker,False
 https://gitlab.inria.fr/OCSR/OCSR,True
 https://gitlab.inria.fr/OCSR/chaos,False
 https://gitlab.inria.fr/PSI/psi3,True
-https://gitlab.inria.fr/PSI/psi4,False
+https://gitlab.inria.fr/PSI/psi4,True
 https://gitlab.inria.fr/PaMPA/PaMPA,False
 https://gitlab.inria.fr/Phylophile/Treerecs,True
 https://gitlab.inria.fr/Puffertools/Pufferbench,False
@@ -3340,7 +3340,7 @@ https://gitlab.inria.fr/cedar/daggerWithSampling,False
 https://gitlab.inria.fr/cedar/excel-extractor,False
 https://gitlab.inria.fr/cedar/excel-search,False
 https://gitlab.inria.fr/cedar/extraction-test,False
-https://gitlab.inria.fr/cedar/insee-crawler,False
+https://gitlab.inria.fr/cedar/insee-crawler,True
 https://gitlab.inria.fr/cedar/spadedemo_vldb2019,True
 https://gitlab.inria.fr/cedar/statstical_mentions,False
 https://gitlab.inria.fr/cerisara/olkisite,False
@@ -3427,7 +3427,7 @@ https://gitlab.inria.fr/dtk/dtk-plugins-io,False
 https://gitlab.inria.fr/dtk/dtk-plugins-linear-algebra-sparse,False
 https://gitlab.inria.fr/dtk/dtk-plugins-math,False
 https://gitlab.inria.fr/dtk/dtk-script,False
-https://gitlab.inria.fr/dtk/dtk-symbolic,False
+https://gitlab.inria.fr/dtk/dtk-symbolic,True
 https://gitlab.inria.fr/dtk/dtk-themes,False
 https://gitlab.inria.fr/dtk/dtk-tutorials,False
 https://gitlab.inria.fr/dtk/dtk-visual-programming,False
@@ -3561,7 +3561,7 @@ https://gitlab.inria.fr/mgkit/MetaMOF,True
 https://gitlab.inria.fr/mgkit/MetaMeF,False
 https://gitlab.inria.fr/mgkit/ofrlex-metamof-new,False
 https://gitlab.inria.fr/mgkit/sxpipe,True
-https://gitlab.inria.fr/mgkit/syntax_hightlighting_smg,False
+https://gitlab.inria.fr/mgkit/syntax_hightlighting_smg,True
 https://gitlab.inria.fr/miet/miet,False
 https://gitlab.inria.fr/mimoza/mimoza,False
 https://gitlab.inria.fr/mnemosyne/data_prototypes,False
@@ -3613,7 +3613,7 @@ https://gitlab.inria.fr/openskecth/designsketch2normal,False
 https://gitlab.inria.fr/openskecth/labeling_tool,False
 https://gitlab.inria.fr/openskecth/pix2pix_wassersten,True
 https://gitlab.inria.fr/openskecth/sketching_interface,False
-https://gitlab.inria.fr/openskecth/svm_lines_classifier,False
+https://gitlab.inria.fr/openskecth/svm_lines_classifier,True
 https://gitlab.inria.fr/openvibe/designer,False
 https://gitlab.inria.fr/openvibe/extras,False
 https://gitlab.inria.fr/openvibe/meta,False
@@ -3725,7 +3725,7 @@ https://gitlab.inria.fr/vidjil/vidjil,False
 https://gitlab.inria.fr/why3/why3,False
 https://gitlab.inria.fr/xkblas/versions,False
 https://gitlab.inria.fr/xug/meetings,False
-https://gitlab.inria.fr/xug/nix-tutorial,False
+https://gitlab.inria.fr/xug/nix-tutorial,True
 https://gitlab.inria.fr/yixu/deepmot,False
 https://gitlab.inria.fr/yoann/grew,False
 https://gitlab.inria.fr/zefxis/BCgenerator,False
@@ -3739,7 +3739,7 @@ https://gitlab.inria.fr/zefxis/experiments,False
 https://gitlab.inria.fr/zefxis/monitoring-tool,False
 https://gitlab.inria.fr/zefxis/playgrounds,False
 https://gitlab.inria.fr/zefxis/use-cases,False
-https://gitlab.inria.fr/zhozhang/zhongkai-zhang,False
+https://gitlab.inria.fr/zhozhang/zhongkai-zhang,True
 https://gitlab.irstea.fr/HYCAR-Hydro/airgr,True
 https://gitlab.irstea.fr/HYCAR-Hydro/airgrteaching,True
 https://gitlab.irstea.fr/HYCAR-Hydro/baseflow,True
