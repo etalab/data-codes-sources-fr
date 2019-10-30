@@ -963,7 +963,7 @@ https://github.com/OpenEdition/revuesorg_word_templates,True
 https://github.com/OpenEdition/roboh,True
 https://github.com/OpenEdition/screlo,True
 https://github.com/OpenEdition/tei.openedition,True
-https://github.com/OpenEdition/templates.openedition,False
+https://github.com/OpenEdition/templates.openedition,True
 https://github.com/OpenEdition/toolpic,True
 https://github.com/PnCevennes/Applications_10.30,True
 https://github.com/PnCevennes/GeoNature-atlas,True
@@ -1015,7 +1015,7 @@ https://github.com/PnX-SI/TaxHub,True
 https://github.com/PnX-SI/UsersHub,True
 https://github.com/PnX-SI/UsersHub-authentification-module,True
 https://github.com/PnX-SI/Utils-Flask-SQLAlchemy,True
-https://github.com/PnX-SI/Utils-Flask-SQLAlchemy-Geo,False
+https://github.com/PnX-SI/Utils-Flask-SQLAlchemy-Geo,True
 https://github.com/PnX-SI/Virtualia-connect,True
 https://github.com/PnX-SI/gn_mobile_core,True
 https://github.com/PnX-SI/gn_mobile_maps,True
@@ -1884,7 +1884,7 @@ https://github.com/diverse-project/InspectorGuidget,True
 https://github.com/diverse-project/MML-classification,False
 https://github.com/diverse-project/MML-regression,False
 https://github.com/diverse-project/RA2018,False
-https://github.com/diverse-project/SAT-DSLmorphic,False
+https://github.com/diverse-project/SAT-DSLmorphic,True
 https://github.com/diverse-project/alex,True
 https://github.com/diverse-project/dev-dashboard,True
 https://github.com/diverse-project/diverse-project.github.io,True
@@ -1908,7 +1908,7 @@ https://github.com/diverse-project/models2016-program,True
 https://github.com/diverse-project/pdedependencies2dot,True
 https://github.com/diverse-project/projetWE,False
 https://github.com/diverse-project/researchtooling,False
-https://github.com/diverse-project/samplingfm,False
+https://github.com/diverse-project/samplingfm,True
 https://github.com/diverse-project/single-usage,False
 https://github.com/diverse-project/sosies-visualizer,True
 https://github.com/diverse-project/sosies-ws-server,True
@@ -2566,7 +2566,7 @@ https://github.com/medialab/medea_website,True
 https://github.com/medialab/medialab-network-dataset,True
 https://github.com/medialab/medialab.github.com,True
 https://github.com/medialab/medialab.sciences-po.fr,True
-https://github.com/medialab/minet,False
+https://github.com/medialab/minet,True
 https://github.com/medialab/minivan,False
 https://github.com/medialab/miw-animation,True
 https://github.com/medialab/motel,True
@@ -2599,7 +2599,7 @@ https://github.com/medialab/reanalyse,True
 https://github.com/medialab/rebus,True
 https://github.com/medialab/reference_manager,True
 https://github.com/medialab/reporting,True
-https://github.com/medialab/ric_entities_timelines,False
+https://github.com/medialab/ric_entities_timelines,True
 https://github.com/medialab/ricardo,True
 https://github.com/medialab/ricardo_data,True
 https://github.com/medialab/sandcrawler,True
@@ -3171,7 +3171,7 @@ https://gitlab.huma-num.fr/cbma/cbma-philologic,True
 https://gitlab.huma-num.fr/cbma/cbma-philologic-docker,False
 https://gitlab.huma-num.fr/cbma/hagiographie,True
 https://gitlab.huma-num.fr/cbma/nosketch_engine-dockerfile,True
-https://gitlab.huma-num.fr/consortium3d/aLTAG3D,False
+https://gitlab.huma-num.fr/consortium3d/aLTAG3D,True
 https://gitlab.huma-num.fr/eurhisfirm/annuaires-favre,False
 https://gitlab.huma-num.fr/eurhisfirm/biryani,True
 https://gitlab.huma-num.fr/eurhisfirm/dfih-open-data,False
@@ -3185,7 +3185,7 @@ https://gitlab.huma-num.fr/eurhisfirm/fibo-wikibase,False
 https://gitlab.huma-num.fr/eurhisfirm/gleif-wikibase,True
 https://gitlab.huma-num.fr/irihs/flaubertexport,False
 https://gitlab.huma-num.fr/irihs/genetictables,True
-https://gitlab.huma-num.fr/irihs/genetictheme,False
+https://gitlab.huma-num.fr/irihs/genetictheme,True
 https://gitlab.huma-num.fr/lamop/Hmaot,True
 https://gitlab.huma-num.fr/lamop/archive-osm,False
 https://gitlab.huma-num.fr/lamop/audiotheque-traduction,False
@@ -3203,7 +3203,7 @@ https://gitlab.huma-num.fr/lamop/nasa,False
 https://gitlab.huma-num.fr/lamop/studium,False
 https://gitlab.huma-num.fr/lamop/studium-baldwin,False
 https://gitlab.huma-num.fr/lamop/test,True
-https://gitlab.huma-num.fr/lamop/topama,False
+https://gitlab.huma-num.fr/lamop/topama,True
 https://gitlab.huma-num.fr/lamop/topama-eveches,True
 https://gitlab.huma-num.fr/lamop/topologie_aix-en-provence,False
 https://gitlab.huma-num.fr/mshs-poitiers/xmlify,False
@@ -3254,12 +3254,12 @@ https://gitlab.inria.fr/MarTo/marto,False
 https://gitlab.inria.fr/MoReFEM/ThirdPartyCompilationFactory,True
 https://gitlab.inria.fr/NGS/ALTree,True
 https://gitlab.inria.fr/NGS/decova,True
-https://gitlab.inria.fr/NGS/nfs-workaround,False
+https://gitlab.inria.fr/NGS/nfs-workaround,True
 https://gitlab.inria.fr/NGS/structural-variants,True
 https://gitlab.inria.fr/NGS/svagga,False
 https://gitlab.inria.fr/OAR/oar3-switch,True
 https://gitlab.inria.fr/OAR/oardocker,False
-https://gitlab.inria.fr/OCSR/OCSR,False
+https://gitlab.inria.fr/OCSR/OCSR,True
 https://gitlab.inria.fr/OCSR/chaos,False
 https://gitlab.inria.fr/PSI/psi3,False
 https://gitlab.inria.fr/PSI/psi4,False
@@ -3446,7 +3446,7 @@ https://gitlab.inria.fr/evalys/big-data-hpc-g5k-expe-tools,False
 https://gitlab.inria.fr/expression-externals/easyloggingpp,True
 https://gitlab.inria.fr/expression-externals/eigen,True
 https://gitlab.inria.fr/expression-externals/kenlm,False
-https://gitlab.inria.fr/expression-externals/mitlm,False
+https://gitlab.inria.fr/expression-externals/mitlm,True
 https://gitlab.inria.fr/fec/MIPP,False
 https://gitlab.inria.fr/fec/PyBER,False
 https://gitlab.inria.fr/flocq/flocq,True
@@ -3474,7 +3474,7 @@ https://gitlab.inria.fr/gecos/gecos-core,True
 https://gitlab.inria.fr/gecos/gecos-float2fix,True
 https://gitlab.inria.fr/gecos/gecos-framework,True
 https://gitlab.inria.fr/gecos/gecos-hls,False
-https://gitlab.inria.fr/gecos/gecos-parallel,False
+https://gitlab.inria.fr/gecos/gecos-parallel,True
 https://gitlab.inria.fr/gecos/gecos-rtl,True
 https://gitlab.inria.fr/gecos/gecos-scilab,True
 https://gitlab.inria.fr/gecos/gecos-scop,True
@@ -3556,7 +3556,7 @@ https://gitlab.inria.fr/metapart/starpart,False
 https://gitlab.inria.fr/metapart/walshaw,False
 https://gitlab.inria.fr/mfx/icesl-documentation,False
 https://gitlab.inria.fr/mfx/icesl-public,False
-https://gitlab.inria.fr/mgkit/MetaMOF,False
+https://gitlab.inria.fr/mgkit/MetaMOF,True
 https://gitlab.inria.fr/mgkit/MetaMeF,False
 https://gitlab.inria.fr/mgkit/ofrlex-metamof-new,False
 https://gitlab.inria.fr/mgkit/sxpipe,True
@@ -3581,7 +3581,7 @@ https://gitlab.inria.fr/monitoring/verde,False
 https://gitlab.inria.fr/mosaic/cellcomplex,True
 https://gitlab.inria.fr/mosaic/draco_stem,False
 https://gitlab.inria.fr/mosaic/mosaic-commons,True
-https://gitlab.inria.fr/mosaic/timagetk,False
+https://gitlab.inria.fr/mosaic/timagetk,True
 https://gitlab.inria.fr/mosaic/tissue_analysis,True
 https://gitlab.inria.fr/mosaic/tissue_nukem_3d,False
 https://gitlab.inria.fr/mosaic/tissue_paredes,False
@@ -3661,7 +3661,7 @@ https://gitlab.inria.fr/serpico/cpanalysis_bin,False
 https://gitlab.inria.fr/serpico/deep-finder,False
 https://gitlab.inria.fr/serpico/genloc3d_bin,False
 https://gitlab.inria.fr/serpico/hulkground_bin,False
-https://gitlab.inria.fr/serpico/mwr,False
+https://gitlab.inria.fr/serpico/mwr,True
 https://gitlab.inria.fr/serpico/ndsafir_bin,True
 https://gitlab.inria.fr/serpico/owf_bin,False
 https://gitlab.inria.fr/serpico/thot_bin,False
