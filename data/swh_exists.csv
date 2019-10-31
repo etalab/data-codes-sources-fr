@@ -24,7 +24,7 @@ https://forgemia.inra.fr/genotoul-bioinfo/srna-tabac,True
 https://forgemia.inra.fr/genotoul-bioinfo/tSNPannot,False
 https://forgemia.inra.fr/get-it/nf-assemblshortread,True
 https://forgemia.inra.fr/get-it/nf-taxoaffiliation,True
-https://forgemia.inra.fr/metexplore/MetExploreViz,False
+https://forgemia.inra.fr/metexplore/MetExploreViz,True
 https://forgemia.inra.fr/metexplore/metabolomics2network,True
 https://forgemia.inra.fr/olivier.bonnefon/mse,True
 https://forgemia.inra.fr/record-open-archives/rec-crash,True
@@ -135,7 +135,7 @@ https://git.unistra.fr/MAC19-T4-D/MAC19-T4-D,True
 https://git.unistra.fr/MIH18-T4-B/Merkela_Universalis_Release,True
 https://git.unistra.fr/MIH18-T4-C/Hemicycle,True
 https://git.unistra.fr/NuitDeLinfo_OPA/cockpit,True
-https://git.unistra.fr/P4az-QQA/P4a,False
+https://git.unistra.fr/P4az-QQA/P4a,True
 https://git.unistra.fr/PWeb/PWeb,True
 https://git.unistra.fr/S32TP5/S32,True
 https://git.unistra.fr/SAV18-T4-B/ProjetT4,True
@@ -176,7 +176,7 @@ https://git.unistra.fr/ihm/ihm-projet,True
 https://git.unistra.fr/integratron/integrateur,False
 https://git.unistra.fr/integratron/integrateur-api,True
 https://git.unistra.fr/integratron/integrateur-cli,True
-https://git.unistra.fr/integratron/integratron.pages.unistra.fr,False
+https://git.unistra.fr/integratron/integratron.pages.unistra.fr,True
 https://git.unistra.fr/jupyter/animation,False
 https://git.unistra.fr/la-table-ronde/ecr19-t4-b,False
 https://git.unistra.fr/mac19-t4-c/arct4,True
@@ -204,7 +204,7 @@ https://git.unistra.fr/vue/cas-authentication,False
 https://git.unistra.fr/vue/cli-plugin-unistra,True
 https://git.unistra.fr/vue/unistra-box,True
 https://git.unistra.fr/xstra-dev/atelier-jenkins-2017,True
-https://git.unistra.fr/xstra-dev/conteneur-2019,False
+https://git.unistra.fr/xstra-dev/conteneur-2019,True
 https://git.unistra.fr/xstra-dev/tp-gitlab-ci,True
 https://github.com/1024pix/airtable-backup,True
 https://github.com/1024pix/airtable-updater,True
@@ -1914,7 +1914,7 @@ https://github.com/diverse-project/sosies-visualizer,True
 https://github.com/diverse-project/sosies-ws-server,True
 https://github.com/diverse-project/summer,True
 https://github.com/diverse-project/tools,True
-https://github.com/diverse-project/tuxart,False
+https://github.com/diverse-project/tuxart,True
 https://github.com/diverse-project/website,False
 https://github.com/diverse-project/xcore-light,True
 https://github.com/diverse-project/yajta-mirror,True
@@ -2881,7 +2881,7 @@ https://github.com/sigrennesmetropole/api_rva,True
 https://github.com/sigrennesmetropole/cadastrapp,True
 https://github.com/sigrennesmetropole/geoserver_sld,True
 https://github.com/sigrennesmetropole/images,True
-https://github.com/sigrennesmetropole/mviewer,False
+https://github.com/sigrennesmetropole/mviewer,True
 https://github.com/sigrennesmetropole/mviewerstudio,True
 https://github.com/sigrennesmetropole/photos_obliques,True
 https://github.com/sigrennesmetropole/qgis-3liz-tools,True
@@ -3193,7 +3193,7 @@ https://gitlab.huma-num.fr/lamop/audiotheque-traduction,True
 https://gitlab.huma-num.fr/lamop/cbma-epigraphie,False
 https://gitlab.huma-num.fr/lamop/fonds-marc-bloch,True
 https://gitlab.huma-num.fr/lamop/heraut-transcript,False
-https://gitlab.huma-num.fr/lamop/iiif-docker,False
+https://gitlab.huma-num.fr/lamop/iiif-docker,True
 https://gitlab.huma-num.fr/lamop/limites-font-reaulx,False
 https://gitlab.huma-num.fr/lamop/lizmap-docker,True
 https://gitlab.huma-num.fr/lamop/maison-bethune-prosoprographie,False
@@ -3242,7 +3242,7 @@ https://gitlab.inria.fr/GUDHI/data,True
 https://gitlab.inria.fr/GUDHI/gudhi-docker,True
 https://gitlab.inria.fr/GardiNet/liblc,True
 https://gitlab.inria.fr/IOTLanguage/IoTCompilertoBIP,True
-https://gitlab.inria.fr/LightFieldCodingLibrary/HEVC,False
+https://gitlab.inria.fr/LightFieldCodingLibrary/HEVC,True
 https://gitlab.inria.fr/LightFieldCodingLibrary/LF,True
 https://gitlab.inria.fr/LightFieldCodingLibrary/SR,False
 https://gitlab.inria.fr/LightFieldCodingLibrary/utils,True
@@ -3259,12 +3259,12 @@ https://gitlab.inria.fr/NGS/nfs-workaround,True
 https://gitlab.inria.fr/NGS/structural-variants,True
 https://gitlab.inria.fr/NGS/svagga,False
 https://gitlab.inria.fr/OAR/oar3-switch,True
-https://gitlab.inria.fr/OAR/oardocker,False
+https://gitlab.inria.fr/OAR/oardocker,True
 https://gitlab.inria.fr/OCSR/OCSR,True
 https://gitlab.inria.fr/OCSR/chaos,False
 https://gitlab.inria.fr/PSI/psi3,True
 https://gitlab.inria.fr/PSI/psi4,True
-https://gitlab.inria.fr/PaMPA/PaMPA,False
+https://gitlab.inria.fr/PaMPA/PaMPA,True
 https://gitlab.inria.fr/Phylophile/Treerecs,True
 https://gitlab.inria.fr/Puffertools/Pufferbench,False
 https://gitlab.inria.fr/Puffertools/Pufferscale,False
@@ -3276,11 +3276,11 @@ https://gitlab.inria.fr/RMOD/archive,False
 https://gitlab.inria.fr/Spirals/monsoon,False
 https://gitlab.inria.fr/TeamPlay_Public/TeamPlay_Public_Deliverables,False
 https://gitlab.inria.fr/WIDE/HyFN,False
-https://gitlab.inria.fr/WIDE/f3c-evaluation,False
+https://gitlab.inria.fr/WIDE/f3c-evaluation,True
 https://gitlab.inria.fr/WIDE/gps-exp,True
 https://gitlab.inria.fr/WIDE/similitude-exp,True
 https://gitlab.inria.fr/WIDE/spores_code,True
-https://gitlab.inria.fr/WellInverter/WellInverter_Standalone_Linux,False
+https://gitlab.inria.fr/WellInverter/WellInverter_Standalone_Linux,True
 https://gitlab.inria.fr/WellInverter/WellInverter_Standalone_MacOS,True
 https://gitlab.inria.fr/WellInverter/WellInverter_Standalone_Nuvla,False
 https://gitlab.inria.fr/WellInverter/WellInverter_Standalone_Windows,False
@@ -3305,7 +3305,7 @@ https://gitlab.inria.fr/aljanon-experiment-framework/setup_experiment,False
 https://gitlab.inria.fr/aljanon-experiment-framework/teardown_experiment,True
 https://gitlab.inria.fr/allgo/allgo,True
 https://gitlab.inria.fr/allgo/allgo-blog,False
-https://gitlab.inria.fr/allgo/allgo.inria.fr,False
+https://gitlab.inria.fr/allgo/allgo.inria.fr,True
 https://gitlab.inria.fr/allgo/doc,False
 https://gitlab.inria.fr/almanach/alpi,False
 https://gitlab.inria.fr/alta/alta,False
@@ -3322,7 +3322,7 @@ https://gitlab.inria.fr/batsim/batsched,True
 https://gitlab.inria.fr/batsim/batsim,False
 https://gitlab.inria.fr/batsim/batsky,False
 https://gitlab.inria.fr/batsim/bebida-on-batsim,False
-https://gitlab.inria.fr/batsim/datsched,False
+https://gitlab.inria.fr/batsim/datsched,True
 https://gitlab.inria.fr/batsim/dintervalset,False
 https://gitlab.inria.fr/batsim/evalys,False
 https://gitlab.inria.fr/batsim/pybatsim,False
@@ -3383,7 +3383,7 @@ https://gitlab.inria.fr/dema/mcgdb-seqdiag,False
 https://gitlab.inria.fr/dema/mcgdb-temanejo,False
 https://gitlab.inria.fr/dep2pict/dep2pict,False
 https://gitlab.inria.fr/dep2pict/dep2pict_doc,False
-https://gitlab.inria.fr/dep2pict/dep2pict_gui,False
+https://gitlab.inria.fr/dep2pict/dep2pict_gui,True
 https://gitlab.inria.fr/dep2pict/libcaml_dep2pict,False
 https://gitlab.inria.fr/discovery/enoslib,False
 https://gitlab.inria.fr/discovery/keystoneauth,False
@@ -3466,7 +3466,7 @@ https://gitlab.inria.fr/gagallium/pandoc-pygments,False
 https://gitlab.inria.fr/gagallium/stog-gagallium,False
 https://gitlab.inria.fr/gagallium/stog-math,False
 https://gitlab.inria.fr/gappa/coq,True
-https://gitlab.inria.fr/gappa/gappa,False
+https://gitlab.inria.fr/gappa/gappa,True
 https://gitlab.inria.fr/gazelle/external-library,True
 https://gitlab.inria.fr/gecos/gecos-arith,True
 https://gitlab.inria.fr/gecos/gecos-buildtools,True
@@ -3620,7 +3620,7 @@ https://gitlab.inria.fr/openvibe/meta,True
 https://gitlab.inria.fr/openvibe/sdk,False
 https://gitlab.inria.fr/openwind/release,False
 https://gitlab.inria.fr/optimdbs/optimdbs-medinria,False
-https://gitlab.inria.fr/optimdbs/optimdbs-superproject,False
+https://gitlab.inria.fr/optimdbs/optimdbs-superproject,True
 https://gitlab.inria.fr/ordo-bdx/io-peak,False
 https://gitlab.inria.fr/ordo-bdx/nrrp-with-starpu,False
 https://gitlab.inria.fr/orpailleur/sofia-docker,False
