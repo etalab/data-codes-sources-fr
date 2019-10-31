@@ -31,7 +31,7 @@ https://forgemia.inra.fr/record-open-archives/rec-crash,True
 https://forgemia.inra.fr/record-open-archives/recmoustics,True
 https://forgemia.inra.fr/record/AgFlow,True
 https://forgemia.inra.fr/record/RECORD,True
-https://forgemia.inra.fr/record/RecordingTools,False
+https://forgemia.inra.fr/record/RecordingTools,True
 https://forgemia.inra.fr/record/agrodynaland,True
 https://forgemia.inra.fr/record/azodyn,True
 https://forgemia.inra.fr/record/pydynamics,True
@@ -155,7 +155,7 @@ https://git.unistra.fr/T432_GOJ16_T3_B/Plume,True
 https://git.unistra.fr/T432_HAJ18-T3-A/UniversityTycoon,True
 https://git.unistra.fr/T432_KRP5_T3_A/projetT3,True
 https://git.unistra.fr/T432_SPA18_T3_B/T432_SPA18_T3_B,False
-https://git.unistra.fr/T4_SPC_Simulator/SPC_Simulator,False
+https://git.unistra.fr/T4_SPC_Simulator/SPC_Simulator,True
 https://git.unistra.fr/T4_Trail_HHK/T4_Trail_Simulation,True
 https://git.unistra.fr/T4desMeilleurs/T4Botanique,True
 https://git.unistra.fr/W4b_Hartmann_Kieu/w4b,True
@@ -363,6 +363,7 @@ https://github.com/BaseAdresseNationale/ban,True
 https://github.com/BaseAdresseNationale/charte-experimentation-2017,True
 https://github.com/BaseAdresseNationale/donnees-initiales-2018,True
 https://github.com/BaseAdresseNationale/script_divers,True
+https://github.com/CCSDForge/CcsdCommon,False
 https://github.com/CCSDForge/Episciences.org,True
 https://github.com/CCSDForge/FinHal,False
 https://github.com/CCSDForge/HAL,True
@@ -3180,7 +3181,7 @@ https://gitlab.huma-num.fr/eurhisfirm/dfih-search,False
 https://gitlab.huma-num.fr/eurhisfirm/dfih-tools,False
 https://gitlab.huma-num.fr/eurhisfirm/dfih-ui,False
 https://gitlab.huma-num.fr/eurhisfirm/dfih-wikibase,False
-https://gitlab.huma-num.fr/eurhisfirm/eurhisfirm-sitelinks-server,False
+https://gitlab.huma-num.fr/eurhisfirm/eurhisfirm-sitelinks-server,True
 https://gitlab.huma-num.fr/eurhisfirm/fibo-data,True
 https://gitlab.huma-num.fr/eurhisfirm/fibo-wikibase,True
 https://gitlab.huma-num.fr/eurhisfirm/gleif-wikibase,True
@@ -3200,7 +3201,7 @@ https://gitlab.huma-num.fr/lamop/maison-bethune-prosoprographie,False
 https://gitlab.huma-num.fr/lamop/mirador-docker,True
 https://gitlab.huma-num.fr/lamop/moamo,False
 https://gitlab.huma-num.fr/lamop/nakala,True
-https://gitlab.huma-num.fr/lamop/nasa,False
+https://gitlab.huma-num.fr/lamop/nasa,True
 https://gitlab.huma-num.fr/lamop/studium,True
 https://gitlab.huma-num.fr/lamop/studium-baldwin,False
 https://gitlab.huma-num.fr/lamop/test,True
@@ -3266,15 +3267,16 @@ https://gitlab.inria.fr/PSI/psi3,True
 https://gitlab.inria.fr/PSI/psi4,True
 https://gitlab.inria.fr/PaMPA/PaMPA,True
 https://gitlab.inria.fr/Phylophile/Treerecs,True
-https://gitlab.inria.fr/Puffertools/Pufferbench,False
+https://gitlab.inria.fr/Puffertools/Pufferbench,True
 https://gitlab.inria.fr/Puffertools/Pufferscale,False
 https://gitlab.inria.fr/Puffertools/Pufferspack,False
 https://gitlab.inria.fr/Quickspan/quickspan,True
 https://gitlab.inria.fr/RMOD/Ghost,True
-https://gitlab.inria.fr/RMOD/Welcome,False
+https://gitlab.inria.fr/RMOD/Welcome,True
 https://gitlab.inria.fr/RMOD/archive,False
 https://gitlab.inria.fr/Spirals/monsoon,False
 https://gitlab.inria.fr/TeamPlay_Public/TeamPlay_Public_Deliverables,False
+https://gitlab.inria.fr/VeRDi-project/concerto,False
 https://gitlab.inria.fr/WIDE/HyFN,False
 https://gitlab.inria.fr/WIDE/f3c-evaluation,True
 https://gitlab.inria.fr/WIDE/gps-exp,True
@@ -3327,7 +3329,7 @@ https://gitlab.inria.fr/batsim/dintervalset,False
 https://gitlab.inria.fr/batsim/evalys,False
 https://gitlab.inria.fr/batsim/pybatsim,False
 https://gitlab.inria.fr/belenios-forks/belenios-swergas,False
-https://gitlab.inria.fr/belenios/belenios,False
+https://gitlab.inria.fr/belenios/belenios,True
 https://gitlab.inria.fr/blare/kblare,False
 https://gitlab.inria.fr/blare/kblare-tests,False
 https://gitlab.inria.fr/blare/kblare-tools,False
@@ -3336,7 +3338,7 @@ https://gitlab.inria.fr/blare/test,True
 https://gitlab.inria.fr/bleuse/procset.py,False
 https://gitlab.inria.fr/bptraffic/star-ips,False
 https://gitlab.inria.fr/cedar/RDFQuotient,False
-https://gitlab.inria.fr/cedar/daggerWithSampling,False
+https://gitlab.inria.fr/cedar/daggerWithSampling,True
 https://gitlab.inria.fr/cedar/excel-extractor,False
 https://gitlab.inria.fr/cedar/excel-search,False
 https://gitlab.inria.fr/cedar/extraction-test,False
@@ -3394,7 +3396,7 @@ https://gitlab.inria.fr/disrpt/tony,False
 https://gitlab.inria.fr/diu-algo/labyrinthe,False
 https://gitlab.inria.fr/dldb/discretelogdb,False
 https://gitlab.inria.fr/dlp-sif/dlp-arduino,False
-https://gitlab.inria.fr/dlp-sif/sonarqube,False
+https://gitlab.inria.fr/dlp-sif/sonarqube,True
 https://gitlab.inria.fr/doris/doris-android,False
 https://gitlab.inria.fr/doris/doris.gitlabpages.inria.fr,False
 https://gitlab.inria.fr/dtk/dtk,False
@@ -3428,7 +3430,7 @@ https://gitlab.inria.fr/dtk/dtk-plugins-linear-algebra-sparse,False
 https://gitlab.inria.fr/dtk/dtk-plugins-math,False
 https://gitlab.inria.fr/dtk/dtk-script,False
 https://gitlab.inria.fr/dtk/dtk-symbolic,True
-https://gitlab.inria.fr/dtk/dtk-themes,False
+https://gitlab.inria.fr/dtk/dtk-themes,True
 https://gitlab.inria.fr/dtk/dtk-tutorials,False
 https://gitlab.inria.fr/dtk/dtk-visual-programming,False
 https://gitlab.inria.fr/dtk/dtk-visualization,False
