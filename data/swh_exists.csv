@@ -13,7 +13,7 @@ https://forgemia.inra.fr/genotoul-bioinfo/dgenies,True
 https://forgemia.inra.fr/genotoul-bioinfo/dgenies-viewer,True
 https://forgemia.inra.fr/genotoul-bioinfo/jflow,True
 https://forgemia.inra.fr/genotoul-bioinfo/jflow-toolshed,True
-https://forgemia.inra.fr/genotoul-bioinfo/jvenn,False
+https://forgemia.inra.fr/genotoul-bioinfo/jvenn,True
 https://forgemia.inra.fr/genotoul-bioinfo/metagwgs,False
 https://forgemia.inra.fr/genotoul-bioinfo/miniannotator,True
 https://forgemia.inra.fr/genotoul-bioinfo/ncrna-clust,False
@@ -126,7 +126,7 @@ https://git.unistra.fr/ECR19-T4-D/la-succession-au-moyen-age,True
 https://git.unistra.fr/Florian-William/a31-claguerre,False
 https://git.unistra.fr/HAJ18-T4-C/MyPrezTige,True
 https://git.unistra.fr/HPC/singularity,True
-https://git.unistra.fr/IUTRS/android-sdkmanager-scripts,False
+https://git.unistra.fr/IUTRS/android-sdkmanager-scripts,True
 https://git.unistra.fr/IUTRS/partage-migration-osx,False
 https://git.unistra.fr/Ismael/P4a,True
 https://git.unistra.fr/LP-JBHH/LP,True
@@ -178,7 +178,7 @@ https://git.unistra.fr/integratron/integrateur-api,True
 https://git.unistra.fr/integratron/integrateur-cli,True
 https://git.unistra.fr/integratron/integratron.pages.unistra.fr,True
 https://git.unistra.fr/jupyter/animation,False
-https://git.unistra.fr/la-table-ronde/ecr19-t4-b,False
+https://git.unistra.fr/la-table-ronde/ecr19-t4-b,True
 https://git.unistra.fr/mac19-t4-c/arct4,True
 https://git.unistra.fr/maf19-t4-c/Asimo-BOT,True
 https://git.unistra.fr/mih18-t4-a/ELECTOR2K18,True
@@ -1906,8 +1906,8 @@ https://github.com/diverse-project/meta-randconfig,True
 https://github.com/diverse-project/minijava,True
 https://github.com/diverse-project/models2016-program,True
 https://github.com/diverse-project/pdedependencies2dot,True
-https://github.com/diverse-project/projetWE,False
-https://github.com/diverse-project/researchtooling,False
+https://github.com/diverse-project/projetWE,True
+https://github.com/diverse-project/researchtooling,True
 https://github.com/diverse-project/samplingfm,True
 https://github.com/diverse-project/single-usage,False
 https://github.com/diverse-project/sosies-visualizer,True
@@ -3194,7 +3194,7 @@ https://gitlab.huma-num.fr/lamop/cbma-epigraphie,False
 https://gitlab.huma-num.fr/lamop/fonds-marc-bloch,True
 https://gitlab.huma-num.fr/lamop/heraut-transcript,False
 https://gitlab.huma-num.fr/lamop/iiif-docker,True
-https://gitlab.huma-num.fr/lamop/limites-font-reaulx,False
+https://gitlab.huma-num.fr/lamop/limites-font-reaulx,True
 https://gitlab.huma-num.fr/lamop/lizmap-docker,True
 https://gitlab.huma-num.fr/lamop/maison-bethune-prosoprographie,False
 https://gitlab.huma-num.fr/lamop/mirador-docker,True
@@ -3261,7 +3261,7 @@ https://gitlab.inria.fr/NGS/svagga,False
 https://gitlab.inria.fr/OAR/oar3-switch,True
 https://gitlab.inria.fr/OAR/oardocker,True
 https://gitlab.inria.fr/OCSR/OCSR,True
-https://gitlab.inria.fr/OCSR/chaos,False
+https://gitlab.inria.fr/OCSR/chaos,True
 https://gitlab.inria.fr/PSI/psi3,True
 https://gitlab.inria.fr/PSI/psi4,True
 https://gitlab.inria.fr/PaMPA/PaMPA,True
@@ -3307,7 +3307,7 @@ https://gitlab.inria.fr/allgo/allgo,True
 https://gitlab.inria.fr/allgo/allgo-blog,False
 https://gitlab.inria.fr/allgo/allgo.inria.fr,True
 https://gitlab.inria.fr/allgo/doc,False
-https://gitlab.inria.fr/almanach/alpi,False
+https://gitlab.inria.fr/almanach/alpi,True
 https://gitlab.inria.fr/alta/alta,False
 https://gitlab.inria.fr/andiamo/eusdisparser,True
 https://gitlab.inria.fr/andiamo/tony,True
@@ -3357,7 +3357,7 @@ https://gitlab.inria.fr/citi-lab/sytare-public,False
 https://gitlab.inria.fr/coding-dojo-saclay/Blockchain,False
 https://gitlab.inria.fr/coding-dojo-saclay/ChronalCoords.jl,False
 https://gitlab.inria.fr/coding-dojo-saclay/ChronalCoords2.jl,False
-https://gitlab.inria.fr/come4acloud/xaas,False
+https://gitlab.inria.fr/come4acloud/xaas,True
 https://gitlab.inria.fr/compass/compass,True
 https://gitlab.inria.fr/compass/meshtools,True
 https://gitlab.inria.fr/comprise/deliverable_d21,True
@@ -3558,7 +3558,7 @@ https://gitlab.inria.fr/metapart/walshaw,False
 https://gitlab.inria.fr/mfx/icesl-documentation,False
 https://gitlab.inria.fr/mfx/icesl-public,False
 https://gitlab.inria.fr/mgkit/MetaMOF,True
-https://gitlab.inria.fr/mgkit/MetaMeF,False
+https://gitlab.inria.fr/mgkit/MetaMeF,True
 https://gitlab.inria.fr/mgkit/ofrlex-metamof-new,True
 https://gitlab.inria.fr/mgkit/sxpipe,True
 https://gitlab.inria.fr/mgkit/syntax_hightlighting_smg,True
@@ -3660,12 +3660,12 @@ https://gitlab.inria.fr/serpico/3d-flow-assessment,False
 https://gitlab.inria.fr/serpico/airyscanj_bin,False
 https://gitlab.inria.fr/serpico/cpanalysis_bin,False
 https://gitlab.inria.fr/serpico/deep-finder,False
-https://gitlab.inria.fr/serpico/genloc3d_bin,False
+https://gitlab.inria.fr/serpico/genloc3d_bin,True
 https://gitlab.inria.fr/serpico/hulkground_bin,True
 https://gitlab.inria.fr/serpico/mwr,True
 https://gitlab.inria.fr/serpico/ndsafir_bin,True
 https://gitlab.inria.fr/serpico/owf_bin,False
-https://gitlab.inria.fr/serpico/thot_bin,False
+https://gitlab.inria.fr/serpico/thot_bin,True
 https://gitlab.inria.fr/simgrid/simgrid,False
 https://gitlab.inria.fr/siteadmin/doc,False
 https://gitlab.inria.fr/siteadmin/gitlab_import_ildap_group_members,False
