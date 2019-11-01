@@ -195,7 +195,7 @@ https://git.unistra.fr/scl19-t4-c/juthose,True
 https://git.unistra.fr/scl19-t4-e/t4,True
 https://git.unistra.fr/seul/LeMeilleurPresident,False
 https://git.unistra.fr/seul/P4a,True
-https://git.unistra.fr/t4-boost/t4,False
+https://git.unistra.fr/t4-boost/t4,True
 https://git.unistra.fr/t4-the-origin/arti4,True
 https://git.unistra.fr/uhuit/pgmaggpl,True
 https://git.unistra.fr/uquatre/mips-invader,False
@@ -576,7 +576,7 @@ https://github.com/EDS-APHP/awesome-french-hospitals,False
 https://github.com/EDS-APHP/brat,False
 https://github.com/EDS-APHP/docker-nvidia-9.1-cudnn7-datascience,False
 https://github.com/EDS-APHP/dsfaker,False
-https://github.com/EDS-APHP/hive-udf,False
+https://github.com/EDS-APHP/hive-udf,True
 https://github.com/EDS-APHP/i2b2rplugin,False
 https://github.com/EDS-APHP/monitor-view-canvas,False
 https://github.com/EDS-APHP/notebook,False
@@ -1910,7 +1910,7 @@ https://github.com/diverse-project/ContreMaitre,True
 https://github.com/diverse-project/InspectorGuidget,True
 https://github.com/diverse-project/MML-classification,False
 https://github.com/diverse-project/MML-regression,False
-https://github.com/diverse-project/RA2018,False
+https://github.com/diverse-project/RA2018,True
 https://github.com/diverse-project/SAT-DSLmorphic,True
 https://github.com/diverse-project/alex,True
 https://github.com/diverse-project/dev-dashboard,True
@@ -3206,7 +3206,7 @@ https://gitlab.huma-num.fr/eurhisfirm/biryani,True
 https://gitlab.huma-num.fr/eurhisfirm/dfih-open-data,False
 https://gitlab.huma-num.fr/eurhisfirm/dfih-search,True
 https://gitlab.huma-num.fr/eurhisfirm/dfih-tools,False
-https://gitlab.huma-num.fr/eurhisfirm/dfih-ui,False
+https://gitlab.huma-num.fr/eurhisfirm/dfih-ui,True
 https://gitlab.huma-num.fr/eurhisfirm/dfih-wikibase,False
 https://gitlab.huma-num.fr/eurhisfirm/eurhisfirm-sitelinks-server,True
 https://gitlab.huma-num.fr/eurhisfirm/fibo-data,True
@@ -3327,7 +3327,7 @@ https://gitlab.inria.fr/agos-bso/mediatheque,False
 https://gitlab.inria.fr/aljanon-experiment-framework/ansible_experiment,True
 https://gitlab.inria.fr/aljanon-experiment-framework/deployment,True
 https://gitlab.inria.fr/aljanon-experiment-framework/expw,True
-https://gitlab.inria.fr/aljanon-experiment-framework/guix-packages,False
+https://gitlab.inria.fr/aljanon-experiment-framework/guix-packages,True
 https://gitlab.inria.fr/aljanon-experiment-framework/image_builder,True
 https://gitlab.inria.fr/aljanon-experiment-framework/init_experiment,True
 https://gitlab.inria.fr/aljanon-experiment-framework/kameleon-recipes,False
@@ -3348,7 +3348,7 @@ https://gitlab.inria.fr/asclepios/biblio,True
 https://gitlab.inria.fr/aviz/paohvis,False
 https://gitlab.inria.fr/batsim/article-cluster17,True
 https://gitlab.inria.fr/batsim/batbroker,True
-https://gitlab.inria.fr/batsim/batexpe,False
+https://gitlab.inria.fr/batsim/batexpe,True
 https://gitlab.inria.fr/batsim/batexpe-python,False
 https://gitlab.inria.fr/batsim/batsched,True
 https://gitlab.inria.fr/batsim/batsim,False
@@ -3401,7 +3401,7 @@ https://gitlab.inria.fr/corese/corese-lab,False
 https://gitlab.inria.fr/croco-ocean/croco,True
 https://gitlab.inria.fr/croco-ocean/croco_tools,True
 https://gitlab.inria.fr/crv14/benchmarks,False
-https://gitlab.inria.fr/crv14/evaluation,False
+https://gitlab.inria.fr/crv14/evaluation,True
 https://gitlab.inria.fr/dash/talks,True
 https://gitlab.inria.fr/datapol/experiments-methodology,False
 https://gitlab.inria.fr/datapol/vdanjean-backuppc-client,False
@@ -3450,7 +3450,7 @@ https://gitlab.inria.fr/dtk/dtk-linear-algebra-sparse,False
 https://gitlab.inria.fr/dtk/dtk-log,False
 https://gitlab.inria.fr/dtk/dtk-logger,True
 https://gitlab.inria.fr/dtk/dtk-macs,False
-https://gitlab.inria.fr/dtk/dtk-os,False
+https://gitlab.inria.fr/dtk/dtk-os,True
 https://gitlab.inria.fr/dtk/dtk-pkg,False
 https://gitlab.inria.fr/dtk/dtk-plugins-continuous-geometry,False
 https://gitlab.inria.fr/dtk/dtk-plugins-distributed,False
@@ -3468,7 +3468,7 @@ https://gitlab.inria.fr/dtk/dtk-visualization-python,True
 https://gitlab.inria.fr/dtk/dtk-widgets,False
 https://gitlab.inria.fr/dtk/dtk-widgets-python,False
 https://gitlab.inria.fr/dtk/dtk-wm,False
-https://gitlab.inria.fr/dtk/dtk-www,False
+https://gitlab.inria.fr/dtk/dtk-www,True
 https://gitlab.inria.fr/eigen/eigen-mirror,False
 https://gitlab.inria.fr/enseignement/MIAGE_TP_XML_2017,False
 https://gitlab.inria.fr/epione_ML/bayesian-learning-uca,False
@@ -3573,7 +3573,7 @@ https://gitlab.inria.fr/learninglab/mooc-forums-theme,False
 https://gitlab.inria.fr/learninglab/mooc-mr-notebooks,False
 https://gitlab.inria.fr/learninglab/mooc-rr/mooc-rr-apps,False
 https://gitlab.inria.fr/lifeware/biocham,True
-https://gitlab.inria.fr/local-implicit-schemes/supplementary-material-numerische-mathematik,False
+https://gitlab.inria.fr/local-implicit-schemes/supplementary-material-numerische-mathematik,True
 https://gitlab.inria.fr/magnet/mangoes,True
 https://gitlab.inria.fr/magnet/nada,True
 https://gitlab.inria.fr/mastertal/UE803,False
