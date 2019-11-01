@@ -5,7 +5,7 @@ https://forgemia.inra.fr/DecisionBleDur/DecisionBleDur,True
 https://forgemia.inra.fr/GET_TRiX/matrix,True
 https://forgemia.inra.fr/QTL/spell-qtl,True
 https://forgemia.inra.fr/adminforgemia/doc-public,True
-https://forgemia.inra.fr/bios4biol/bioinfo-utils,False
+https://forgemia.inra.fr/bios4biol/bioinfo-utils,True
 https://forgemia.inra.fr/bios4biol/workflows,True
 https://forgemia.inra.fr/chemhousebas/vsn,True
 https://forgemia.inra.fr/enseignement-mistea/reports-with-markdown,True
@@ -568,7 +568,7 @@ https://github.com/DIVERSIFY-project/syringe,True
 https://github.com/DREAL-NA/aides,True
 https://github.com/EDS-APHP/EdsFhirIG,False
 https://github.com/EDS-APHP/HiveQLKernel,False
-https://github.com/EDS-APHP/LightICE,False
+https://github.com/EDS-APHP/LightICE,True
 https://github.com/EDS-APHP/SparkPdfExtractor,False
 https://github.com/EDS-APHP/TalendComponents,False
 https://github.com/EDS-APHP/UimaOnSpark,False
@@ -584,7 +584,7 @@ https://github.com/EDS-APHP/pancarte-backend,False
 https://github.com/EDS-APHP/pancarte-db,False
 https://github.com/EDS-APHP/pancarte-front,True
 https://github.com/EDS-APHP/pancarte-website,False
-https://github.com/EDS-APHP/py-hdfs-mount,False
+https://github.com/EDS-APHP/py-hdfs-mount,True
 https://github.com/EDS-APHP/pySyntheticDatasetGenerator,False
 https://github.com/EDS-APHP/pylivy,False
 https://github.com/EDS-APHP/spark-opti,False
@@ -2350,7 +2350,7 @@ https://github.com/ia-flash/demo,True
 https://github.com/ia-flash/frontend,True
 https://github.com/ia-flash/lab,True
 https://github.com/ia-flash/matchvec,True
-https://github.com/ia-flash/mmdetection,False
+https://github.com/ia-flash/mmdetection,True
 https://github.com/ia-flash/s3-download-action,True
 https://github.com/ia-flash/sivnorm,True
 https://github.com/ina-foss/ID-Fits,True
@@ -3220,7 +3220,7 @@ https://gitlab.huma-num.fr/lamop/archive-osm,False
 https://gitlab.huma-num.fr/lamop/audiotheque-traduction,True
 https://gitlab.huma-num.fr/lamop/cbma-epigraphie,False
 https://gitlab.huma-num.fr/lamop/fonds-marc-bloch,True
-https://gitlab.huma-num.fr/lamop/heraut-transcript,False
+https://gitlab.huma-num.fr/lamop/heraut-transcript,True
 https://gitlab.huma-num.fr/lamop/iiif-docker,True
 https://gitlab.huma-num.fr/lamop/limites-font-reaulx,True
 https://gitlab.huma-num.fr/lamop/lizmap-docker,True
@@ -3303,7 +3303,7 @@ https://gitlab.inria.fr/RMOD/Welcome,True
 https://gitlab.inria.fr/RMOD/archive,False
 https://gitlab.inria.fr/Spirals/monsoon,False
 https://gitlab.inria.fr/TeamPlay_Public/TeamPlay_Public_Deliverables,False
-https://gitlab.inria.fr/VeRDi-project/concerto,False
+https://gitlab.inria.fr/VeRDi-project/concerto,True
 https://gitlab.inria.fr/VeRDi-project/madeus-journal,False
 https://gitlab.inria.fr/VeRDi-project/madeus-openstack,False
 https://gitlab.inria.fr/VeRDi-project/madeus-openstack-benchmarks,False
@@ -3318,7 +3318,7 @@ https://gitlab.inria.fr/WellInverter/WellInverter_Standalone_Nuvla,False
 https://gitlab.inria.fr/WellInverter/WellInverter_Standalone_Windows,False
 https://gitlab.inria.fr/adjoint-computation/disk-revolve-public,True
 https://gitlab.inria.fr/aevol/aevol,False
-https://gitlab.inria.fr/agm/axl,False
+https://gitlab.inria.fr/agm/axl,True
 https://gitlab.inria.fr/agm/geoalgebrix,False
 https://gitlab.inria.fr/agm/gspline,False
 https://gitlab.inria.fr/agm/msplinetools,False
@@ -3365,7 +3365,7 @@ https://gitlab.inria.fr/blare/kblare-tests,False
 https://gitlab.inria.fr/blare/kblare-tools,False
 https://gitlab.inria.fr/blare/rfblare-tests,False
 https://gitlab.inria.fr/blare/test,True
-https://gitlab.inria.fr/bleuse/procset.py,False
+https://gitlab.inria.fr/bleuse/procset.py,True
 https://gitlab.inria.fr/bptraffic/star-ips,False
 https://gitlab.inria.fr/cedar/RDFQuotient,False
 https://gitlab.inria.fr/cedar/daggerWithSampling,True
@@ -3384,7 +3384,7 @@ https://gitlab.inria.fr/cigri-ctrl/cigri-expe,False
 https://gitlab.inria.fr/cigri-ctrl/stage-agustin-yabo,False
 https://gitlab.inria.fr/citi-lab/bbb-powerprobe,False
 https://gitlab.inria.fr/citi-lab/dycton,True
-https://gitlab.inria.fr/citi-lab/sytare,False
+https://gitlab.inria.fr/citi-lab/sytare,True
 https://gitlab.inria.fr/citi-lab/sytare-public,False
 https://gitlab.inria.fr/coding-dojo-saclay/Blockchain,False
 https://gitlab.inria.fr/coding-dojo-saclay/ChronalCoords.jl,False
@@ -3402,7 +3402,7 @@ https://gitlab.inria.fr/croco-ocean/croco,False
 https://gitlab.inria.fr/croco-ocean/croco_tools,True
 https://gitlab.inria.fr/crv14/benchmarks,False
 https://gitlab.inria.fr/crv14/evaluation,False
-https://gitlab.inria.fr/dash/talks,False
+https://gitlab.inria.fr/dash/talks,True
 https://gitlab.inria.fr/datapol/experiments-methodology,False
 https://gitlab.inria.fr/datapol/vdanjean-backuppc-client,False
 https://gitlab.inria.fr/datapol/wiki-welcome,False
@@ -3428,7 +3428,7 @@ https://gitlab.inria.fr/dldb/discretelogdb,False
 https://gitlab.inria.fr/dlp-sif/dlp-arduino,False
 https://gitlab.inria.fr/dlp-sif/sonarqube,True
 https://gitlab.inria.fr/doris/doris-android,False
-https://gitlab.inria.fr/doris/doris.gitlabpages.inria.fr,False
+https://gitlab.inria.fr/doris/doris.gitlabpages.inria.fr,True
 https://gitlab.inria.fr/dtk/dtk,True
 https://gitlab.inria.fr/dtk/dtk-composer,False
 https://gitlab.inria.fr/dtk/dtk-compositions,False
@@ -3464,7 +3464,7 @@ https://gitlab.inria.fr/dtk/dtk-themes,True
 https://gitlab.inria.fr/dtk/dtk-tutorials,False
 https://gitlab.inria.fr/dtk/dtk-visual-programming,False
 https://gitlab.inria.fr/dtk/dtk-visualization,False
-https://gitlab.inria.fr/dtk/dtk-visualization-python,False
+https://gitlab.inria.fr/dtk/dtk-visualization-python,True
 https://gitlab.inria.fr/dtk/dtk-widgets,False
 https://gitlab.inria.fr/dtk/dtk-widgets-python,False
 https://gitlab.inria.fr/dtk/dtk-wm,False
