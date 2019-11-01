@@ -127,7 +127,7 @@ https://git.unistra.fr/Florian-William/a31-claguerre,False
 https://git.unistra.fr/HAJ18-T4-C/MyPrezTige,True
 https://git.unistra.fr/HPC/singularity,True
 https://git.unistra.fr/IUTRS/android-sdkmanager-scripts,True
-https://git.unistra.fr/IUTRS/partage-migration-osx,False
+https://git.unistra.fr/IUTRS/partage-migration-osx,True
 https://git.unistra.fr/Ismael/P4a,True
 https://git.unistra.fr/LP-JBHH/LP,True
 https://git.unistra.fr/M32_18-61-DES/des,True
@@ -585,7 +585,7 @@ https://github.com/EDS-APHP/pancarte-db,False
 https://github.com/EDS-APHP/pancarte-front,True
 https://github.com/EDS-APHP/pancarte-website,False
 https://github.com/EDS-APHP/py-hdfs-mount,True
-https://github.com/EDS-APHP/pySyntheticDatasetGenerator,False
+https://github.com/EDS-APHP/pySyntheticDatasetGenerator,True
 https://github.com/EDS-APHP/pylivy,False
 https://github.com/EDS-APHP/spark-opti,False
 https://github.com/EDS-APHP/spark-postgres,False
@@ -1906,7 +1906,7 @@ https://github.com/diplomatiegouvfr/hornet-showroom-online,True
 https://github.com/diplomatiegouvfr/hornet-themes-intranet,True
 https://github.com/diplomatiegouvfr/tomcat8-instance,True
 https://github.com/diverse-project/CapellaRover,True
-https://github.com/diverse-project/ContreMaitre,False
+https://github.com/diverse-project/ContreMaitre,True
 https://github.com/diverse-project/InspectorGuidget,True
 https://github.com/diverse-project/MML-classification,False
 https://github.com/diverse-project/MML-regression,False
@@ -3204,7 +3204,7 @@ https://gitlab.huma-num.fr/consortium3d/aLTAG3D,True
 https://gitlab.huma-num.fr/eurhisfirm/annuaires-favre,False
 https://gitlab.huma-num.fr/eurhisfirm/biryani,True
 https://gitlab.huma-num.fr/eurhisfirm/dfih-open-data,False
-https://gitlab.huma-num.fr/eurhisfirm/dfih-search,False
+https://gitlab.huma-num.fr/eurhisfirm/dfih-search,True
 https://gitlab.huma-num.fr/eurhisfirm/dfih-tools,False
 https://gitlab.huma-num.fr/eurhisfirm/dfih-ui,False
 https://gitlab.huma-num.fr/eurhisfirm/dfih-wikibase,False
@@ -3258,7 +3258,7 @@ https://gitlab.inria.fr/Conferences/ICT_2018_MUFF,True
 https://gitlab.inria.fr/DLreasoners/stare,True
 https://gitlab.inria.fr/DYLISS/PathModel,True
 https://gitlab.inria.fr/DYLISS/aucome,False
-https://gitlab.inria.fr/DYLISS/aureme,False
+https://gitlab.inria.fr/DYLISS/aureme,True
 https://gitlab.inria.fr/DYLISS/mpwt,True
 https://gitlab.inria.fr/DYLISS/pylissIdConv,True
 https://gitlab.inria.fr/DYLISS/samifier-docker,True
@@ -3314,7 +3314,7 @@ https://gitlab.inria.fr/WIDE/similitude-exp,True
 https://gitlab.inria.fr/WIDE/spores_code,True
 https://gitlab.inria.fr/WellInverter/WellInverter_Standalone_Linux,True
 https://gitlab.inria.fr/WellInverter/WellInverter_Standalone_MacOS,True
-https://gitlab.inria.fr/WellInverter/WellInverter_Standalone_Nuvla,False
+https://gitlab.inria.fr/WellInverter/WellInverter_Standalone_Nuvla,True
 https://gitlab.inria.fr/WellInverter/WellInverter_Standalone_Windows,False
 https://gitlab.inria.fr/adjoint-computation/disk-revolve-public,True
 https://gitlab.inria.fr/aevol/aevol,False
@@ -3347,7 +3347,7 @@ https://gitlab.inria.fr/asbizard/Procedural_modeling_of_multi-scale_galactic_dus
 https://gitlab.inria.fr/asclepios/biblio,True
 https://gitlab.inria.fr/aviz/paohvis,False
 https://gitlab.inria.fr/batsim/article-cluster17,True
-https://gitlab.inria.fr/batsim/batbroker,False
+https://gitlab.inria.fr/batsim/batbroker,True
 https://gitlab.inria.fr/batsim/batexpe,False
 https://gitlab.inria.fr/batsim/batexpe-python,False
 https://gitlab.inria.fr/batsim/batsched,True
@@ -3398,7 +3398,7 @@ https://gitlab.inria.fr/coq/wiki-backup,True
 https://gitlab.inria.fr/coqinterval/interval,True
 https://gitlab.inria.fr/coquelicot/coquelicot,True
 https://gitlab.inria.fr/corese/corese-lab,False
-https://gitlab.inria.fr/croco-ocean/croco,False
+https://gitlab.inria.fr/croco-ocean/croco,True
 https://gitlab.inria.fr/croco-ocean/croco_tools,True
 https://gitlab.inria.fr/crv14/benchmarks,False
 https://gitlab.inria.fr/crv14/evaluation,False
@@ -3448,7 +3448,7 @@ https://gitlab.inria.fr/dtk/dtk-io,False
 https://gitlab.inria.fr/dtk/dtk-linear-algebra-dense,False
 https://gitlab.inria.fr/dtk/dtk-linear-algebra-sparse,False
 https://gitlab.inria.fr/dtk/dtk-log,False
-https://gitlab.inria.fr/dtk/dtk-logger,False
+https://gitlab.inria.fr/dtk/dtk-logger,True
 https://gitlab.inria.fr/dtk/dtk-macs,False
 https://gitlab.inria.fr/dtk/dtk-os,False
 https://gitlab.inria.fr/dtk/dtk-pkg,False
