@@ -169,7 +169,7 @@ https://git.unistra.fr/csrd/white_paper_form,True
 https://git.unistra.fr/datachallenge/openaccessweek2019,True
 https://git.unistra.fr/ecr19-t4-e/hache-tag-greigns,True
 https://git.unistra.fr/filiere-d-excellence/ghc,True
-https://git.unistra.fr/gdt/back,False
+https://git.unistra.fr/gdt/back,True
 https://git.unistra.fr/gdt/front,False
 https://git.unistra.fr/goj19-t4-b/projet-tutore-tycoon,True
 https://git.unistra.fr/ihm/ihm-projet,True
@@ -363,7 +363,7 @@ https://github.com/BaseAdresseNationale/ban,True
 https://github.com/BaseAdresseNationale/charte-experimentation-2017,True
 https://github.com/BaseAdresseNationale/donnees-initiales-2018,True
 https://github.com/BaseAdresseNationale/script_divers,True
-https://github.com/CCSDForge/CcsdCommon,False
+https://github.com/CCSDForge/CcsdCommon,True
 https://github.com/CCSDForge/Episciences.org,True
 https://github.com/CCSDForge/FinHal,False
 https://github.com/CCSDForge/HAL,True
@@ -586,8 +586,8 @@ https://github.com/EDS-APHP/pancarte-front,True
 https://github.com/EDS-APHP/pancarte-website,False
 https://github.com/EDS-APHP/py-hdfs-mount,True
 https://github.com/EDS-APHP/pySyntheticDatasetGenerator,True
-https://github.com/EDS-APHP/pylivy,False
-https://github.com/EDS-APHP/spark-opti,False
+https://github.com/EDS-APHP/pylivy,True
+https://github.com/EDS-APHP/spark-opti,True
 https://github.com/EDS-APHP/spark-postgres,False
 https://github.com/EDS-APHP/tag_serve,False
 https://github.com/EDS-APHP/uima-aphp,False
@@ -3323,7 +3323,7 @@ https://gitlab.inria.fr/agm/geoalgebrix,False
 https://gitlab.inria.fr/agm/gspline,False
 https://gitlab.inria.fr/agm/msplinetools,False
 https://gitlab.inria.fr/agm/mypkg,False
-https://gitlab.inria.fr/agos-bso/mediatheque,False
+https://gitlab.inria.fr/agos-bso/mediatheque,True
 https://gitlab.inria.fr/aljanon-experiment-framework/ansible_experiment,True
 https://gitlab.inria.fr/aljanon-experiment-framework/deployment,True
 https://gitlab.inria.fr/aljanon-experiment-framework/expw,True
@@ -3457,7 +3457,7 @@ https://gitlab.inria.fr/dtk/dtk-plugins-distributed,False
 https://gitlab.inria.fr/dtk/dtk-plugins-imaging,False
 https://gitlab.inria.fr/dtk/dtk-plugins-io,False
 https://gitlab.inria.fr/dtk/dtk-plugins-linear-algebra-sparse,False
-https://gitlab.inria.fr/dtk/dtk-plugins-math,False
+https://gitlab.inria.fr/dtk/dtk-plugins-math,True
 https://gitlab.inria.fr/dtk/dtk-script,True
 https://gitlab.inria.fr/dtk/dtk-symbolic,True
 https://gitlab.inria.fr/dtk/dtk-themes,True
@@ -3515,7 +3515,7 @@ https://gitlab.inria.fr/gecos/gecos-testframework,True
 https://gitlab.inria.fr/gerzaguet_public/2a_imr_wirelessnetwork_lab,True
 https://gitlab.inria.fr/gerzaguet_public/3a_sysnum_wirelesscomm_tx,True
 https://gitlab.inria.fr/gerzaguet_public/digitalcomm.jl,True
-https://gitlab.inria.fr/gerzaguet_public/julia_seminar,False
+https://gitlab.inria.fr/gerzaguet_public/julia_seminar,True
 https://gitlab.inria.fr/grew/DSQtoAMR,False
 https://gitlab.inria.fr/grew/DSQtoDMRS,False
 https://gitlab.inria.fr/grew/POStoSSQ,False
@@ -3647,7 +3647,7 @@ https://gitlab.inria.fr/openskecth/pix2pix_wassersten,True
 https://gitlab.inria.fr/openskecth/sketching_interface,True
 https://gitlab.inria.fr/openskecth/svm_lines_classifier,True
 https://gitlab.inria.fr/openvibe/designer,False
-https://gitlab.inria.fr/openvibe/extras,False
+https://gitlab.inria.fr/openvibe/extras,True
 https://gitlab.inria.fr/openvibe/meta,True
 https://gitlab.inria.fr/openvibe/sdk,False
 https://gitlab.inria.fr/openwind/release,False
