@@ -37,7 +37,7 @@ https://forgemia.inra.fr/record/azodyn,True
 https://forgemia.inra.fr/record/pydynamics,True
 https://forgemia.inra.fr/record/recordweb,True
 https://forgemia.inra.fr/record/sunflo,True
-https://forgemia.inra.fr/record/workbench4record,False
+https://forgemia.inra.fr/record/workbench4record,True
 https://forgemia.inra.fr/sciproject/managesciproject,True
 https://forgemia.inra.fr/svdetection/cnvpipelines,True
 https://forgemia.inra.fr/svdetection/popsim,True
@@ -190,7 +190,7 @@ https://git.unistra.fr/presUni/HAJ18-T4-D,True
 https://git.unistra.fr/projet-integrateur-grp-3/frontend,True
 https://git.unistra.fr/pub/SupportPortal-aid,True
 https://git.unistra.fr/pub/revealjs-generator,False
-https://git.unistra.fr/scl19-t4-a/t4-2019,False
+https://git.unistra.fr/scl19-t4-a/t4-2019,True
 https://git.unistra.fr/scl19-t4-c/juthose,True
 https://git.unistra.fr/scl19-t4-e/t4,True
 https://git.unistra.fr/seul/LeMeilleurPresident,False
@@ -3302,7 +3302,7 @@ https://gitlab.inria.fr/RMOD/Ghost,True
 https://gitlab.inria.fr/RMOD/Welcome,True
 https://gitlab.inria.fr/RMOD/archive,False
 https://gitlab.inria.fr/Spirals/monsoon,False
-https://gitlab.inria.fr/TeamPlay_Public/TeamPlay_Public_Deliverables,False
+https://gitlab.inria.fr/TeamPlay_Public/TeamPlay_Public_Deliverables,True
 https://gitlab.inria.fr/VeRDi-project/concerto,True
 https://gitlab.inria.fr/VeRDi-project/madeus-journal,False
 https://gitlab.inria.fr/VeRDi-project/madeus-openstack,False
@@ -3370,7 +3370,7 @@ https://gitlab.inria.fr/bptraffic/star-ips,False
 https://gitlab.inria.fr/cedar/RDFQuotient,False
 https://gitlab.inria.fr/cedar/daggerWithSampling,True
 https://gitlab.inria.fr/cedar/excel-extractor,False
-https://gitlab.inria.fr/cedar/excel-search,False
+https://gitlab.inria.fr/cedar/excel-search,True
 https://gitlab.inria.fr/cedar/extraction-test,False
 https://gitlab.inria.fr/cedar/insee-crawler,True
 https://gitlab.inria.fr/cedar/spadedemo_vldb2019,True
@@ -3436,7 +3436,7 @@ https://gitlab.inria.fr/dtk/dtk-conda-recipes,False
 https://gitlab.inria.fr/dtk/dtk-containers,False
 https://gitlab.inria.fr/dtk/dtk-continuous-geometry,False
 https://gitlab.inria.fr/dtk/dtk-core,False
-https://gitlab.inria.fr/dtk/dtk-core-python,False
+https://gitlab.inria.fr/dtk/dtk-core-python,True
 https://gitlab.inria.fr/dtk/dtk-cross,False
 https://gitlab.inria.fr/dtk/dtk-discrete-geometry,False
 https://gitlab.inria.fr/dtk/dtk-doc,False
@@ -3458,7 +3458,7 @@ https://gitlab.inria.fr/dtk/dtk-plugins-imaging,False
 https://gitlab.inria.fr/dtk/dtk-plugins-io,False
 https://gitlab.inria.fr/dtk/dtk-plugins-linear-algebra-sparse,False
 https://gitlab.inria.fr/dtk/dtk-plugins-math,False
-https://gitlab.inria.fr/dtk/dtk-script,False
+https://gitlab.inria.fr/dtk/dtk-script,True
 https://gitlab.inria.fr/dtk/dtk-symbolic,True
 https://gitlab.inria.fr/dtk/dtk-themes,True
 https://gitlab.inria.fr/dtk/dtk-tutorials,False
