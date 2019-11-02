@@ -21,7 +21,7 @@ https://forgemia.inra.fr/genotoul-bioinfo/ng6,True
 https://forgemia.inra.fr/genotoul-bioinfo/ngspipelines,True
 https://forgemia.inra.fr/genotoul-bioinfo/pyrocleaner,False
 https://forgemia.inra.fr/genotoul-bioinfo/srna-tabac,True
-https://forgemia.inra.fr/genotoul-bioinfo/tSNPannot,False
+https://forgemia.inra.fr/genotoul-bioinfo/tSNPannot,True
 https://forgemia.inra.fr/get-it/nf-assemblshortread,True
 https://forgemia.inra.fr/get-it/nf-taxoaffiliation,True
 https://forgemia.inra.fr/metexplore/MetExploreViz,True
@@ -154,7 +154,7 @@ https://git.unistra.fr/T432_DIP18_T3_B/Acetabulaire,True
 https://git.unistra.fr/T432_GOJ16_T3_B/Plume,True
 https://git.unistra.fr/T432_HAJ18-T3-A/UniversityTycoon,True
 https://git.unistra.fr/T432_KRP5_T3_A/projetT3,True
-https://git.unistra.fr/T432_SPA18_T3_B/T432_SPA18_T3_B,False
+https://git.unistra.fr/T432_SPA18_T3_B/T432_SPA18_T3_B,True
 https://git.unistra.fr/T4_SPC_Simulator/SPC_Simulator,True
 https://git.unistra.fr/T4_Trail_HHK/T4_Trail_Simulation,True
 https://git.unistra.fr/T4desMeilleurs/T4Botanique,True
@@ -570,7 +570,7 @@ https://github.com/EDS-APHP/EdsFhirIG,False
 https://github.com/EDS-APHP/HiveQLKernel,False
 https://github.com/EDS-APHP/LightICE,True
 https://github.com/EDS-APHP/SparkPdfExtractor,False
-https://github.com/EDS-APHP/TalendComponents,False
+https://github.com/EDS-APHP/TalendComponents,True
 https://github.com/EDS-APHP/UimaOnSpark,True
 https://github.com/EDS-APHP/awesome-french-hospitals,False
 https://github.com/EDS-APHP/brat,False
@@ -3300,7 +3300,7 @@ https://gitlab.inria.fr/Puffertools/Pufferspack,True
 https://gitlab.inria.fr/Quickspan/quickspan,True
 https://gitlab.inria.fr/RMOD/Ghost,True
 https://gitlab.inria.fr/RMOD/Welcome,True
-https://gitlab.inria.fr/RMOD/archive,False
+https://gitlab.inria.fr/RMOD/archive,True
 https://gitlab.inria.fr/Spirals/monsoon,False
 https://gitlab.inria.fr/TeamPlay_Public/TeamPlay_Public_Deliverables,True
 https://gitlab.inria.fr/VeRDi-project/concerto,True
@@ -3330,7 +3330,7 @@ https://gitlab.inria.fr/aljanon-experiment-framework/expw,True
 https://gitlab.inria.fr/aljanon-experiment-framework/guix-packages,True
 https://gitlab.inria.fr/aljanon-experiment-framework/image_builder,True
 https://gitlab.inria.fr/aljanon-experiment-framework/init_experiment,True
-https://gitlab.inria.fr/aljanon-experiment-framework/kameleon-recipes,False
+https://gitlab.inria.fr/aljanon-experiment-framework/kameleon-recipes,True
 https://gitlab.inria.fr/aljanon-experiment-framework/py_command_wrapper,True
 https://gitlab.inria.fr/aljanon-experiment-framework/py_loguru_wrapper,True
 https://gitlab.inria.fr/aljanon-experiment-framework/setup_experiment,False
@@ -3366,8 +3366,8 @@ https://gitlab.inria.fr/blare/kblare-tools,True
 https://gitlab.inria.fr/blare/rfblare-tests,False
 https://gitlab.inria.fr/blare/test,True
 https://gitlab.inria.fr/bleuse/procset.py,True
-https://gitlab.inria.fr/bptraffic/star-ips,False
-https://gitlab.inria.fr/cedar/RDFQuotient,False
+https://gitlab.inria.fr/bptraffic/star-ips,True
+https://gitlab.inria.fr/cedar/RDFQuotient,True
 https://gitlab.inria.fr/cedar/daggerWithSampling,True
 https://gitlab.inria.fr/cedar/excel-extractor,False
 https://gitlab.inria.fr/cedar/excel-search,True
@@ -3409,9 +3409,9 @@ https://gitlab.inria.fr/datapol/wiki-welcome,False
 https://gitlab.inria.fr/defrost/welcome-to-defrost,True
 https://gitlab.inria.fr/dema/gdb-testing,False
 https://gitlab.inria.fr/dema/gdb-tuto.py,False
-https://gitlab.inria.fr/dema/mcgdb,False
+https://gitlab.inria.fr/dema/mcgdb,True
 https://gitlab.inria.fr/dema/mcgdb-docker,False
-https://gitlab.inria.fr/dema/mcgdb-seqdiag,False
+https://gitlab.inria.fr/dema/mcgdb-seqdiag,True
 https://gitlab.inria.fr/dema/mcgdb-temanejo,False
 https://gitlab.inria.fr/dep2pict/dep2pict,False
 https://gitlab.inria.fr/dep2pict/dep2pict_doc,False
@@ -3440,13 +3440,13 @@ https://gitlab.inria.fr/dtk/dtk-core-python,True
 https://gitlab.inria.fr/dtk/dtk-cross,False
 https://gitlab.inria.fr/dtk/dtk-discrete-geometry,False
 https://gitlab.inria.fr/dtk/dtk-doc,False
-https://gitlab.inria.fr/dtk/dtk-fem,False
+https://gitlab.inria.fr/dtk/dtk-fem,True
 https://gitlab.inria.fr/dtk/dtk-fonts,False
 https://gitlab.inria.fr/dtk/dtk-imaging,False
 https://gitlab.inria.fr/dtk/dtk-imaging-python,False
 https://gitlab.inria.fr/dtk/dtk-io,False
 https://gitlab.inria.fr/dtk/dtk-linear-algebra-dense,False
-https://gitlab.inria.fr/dtk/dtk-linear-algebra-sparse,False
+https://gitlab.inria.fr/dtk/dtk-linear-algebra-sparse,True
 https://gitlab.inria.fr/dtk/dtk-log,False
 https://gitlab.inria.fr/dtk/dtk-logger,True
 https://gitlab.inria.fr/dtk/dtk-macs,False
@@ -3691,7 +3691,7 @@ https://gitlab.inria.fr/sequoia/deep-sequoia,True
 https://gitlab.inria.fr/serpico/3d-flow-assessment,True
 https://gitlab.inria.fr/serpico/airyscanj_bin,False
 https://gitlab.inria.fr/serpico/cpanalysis_bin,True
-https://gitlab.inria.fr/serpico/deep-finder,False
+https://gitlab.inria.fr/serpico/deep-finder,True
 https://gitlab.inria.fr/serpico/genloc3d_bin,True
 https://gitlab.inria.fr/serpico/hulkground_bin,True
 https://gitlab.inria.fr/serpico/mwr,True
