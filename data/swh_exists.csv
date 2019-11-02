@@ -566,7 +566,7 @@ https://github.com/DIVERSIFY-project/summer,True
 https://github.com/DIVERSIFY-project/syntmod,True
 https://github.com/DIVERSIFY-project/syringe,True
 https://github.com/DREAL-NA/aides,True
-https://github.com/EDS-APHP/EdsFhirIG,False
+https://github.com/EDS-APHP/EdsFhirIG,True
 https://github.com/EDS-APHP/HiveQLKernel,False
 https://github.com/EDS-APHP/LightICE,True
 https://github.com/EDS-APHP/SparkPdfExtractor,False
@@ -3216,9 +3216,9 @@ https://gitlab.huma-num.fr/irihs/flaubertexport,False
 https://gitlab.huma-num.fr/irihs/genetictables,True
 https://gitlab.huma-num.fr/irihs/genetictheme,True
 https://gitlab.huma-num.fr/lamop/Hmaot,True
-https://gitlab.huma-num.fr/lamop/archive-osm,False
+https://gitlab.huma-num.fr/lamop/archive-osm,True
 https://gitlab.huma-num.fr/lamop/audiotheque-traduction,True
-https://gitlab.huma-num.fr/lamop/cbma-epigraphie,False
+https://gitlab.huma-num.fr/lamop/cbma-epigraphie,True
 https://gitlab.huma-num.fr/lamop/fonds-marc-bloch,True
 https://gitlab.huma-num.fr/lamop/heraut-transcript,True
 https://gitlab.huma-num.fr/lamop/iiif-docker,True
@@ -3356,7 +3356,7 @@ https://gitlab.inria.fr/batsim/batsky,True
 https://gitlab.inria.fr/batsim/bebida-on-batsim,False
 https://gitlab.inria.fr/batsim/datsched,True
 https://gitlab.inria.fr/batsim/dintervalset,False
-https://gitlab.inria.fr/batsim/evalys,False
+https://gitlab.inria.fr/batsim/evalys,True
 https://gitlab.inria.fr/batsim/pybatsim,True
 https://gitlab.inria.fr/belenios-forks/belenios-swergas,False
 https://gitlab.inria.fr/belenios/belenios,True
@@ -3430,12 +3430,12 @@ https://gitlab.inria.fr/dlp-sif/sonarqube,True
 https://gitlab.inria.fr/doris/doris-android,False
 https://gitlab.inria.fr/doris/doris.gitlabpages.inria.fr,True
 https://gitlab.inria.fr/dtk/dtk,True
-https://gitlab.inria.fr/dtk/dtk-composer,False
+https://gitlab.inria.fr/dtk/dtk-composer,True
 https://gitlab.inria.fr/dtk/dtk-compositions,False
-https://gitlab.inria.fr/dtk/dtk-conda-recipes,False
+https://gitlab.inria.fr/dtk/dtk-conda-recipes,True
 https://gitlab.inria.fr/dtk/dtk-containers,False
 https://gitlab.inria.fr/dtk/dtk-continuous-geometry,False
-https://gitlab.inria.fr/dtk/dtk-core,False
+https://gitlab.inria.fr/dtk/dtk-core,True
 https://gitlab.inria.fr/dtk/dtk-core-python,True
 https://gitlab.inria.fr/dtk/dtk-cross,False
 https://gitlab.inria.fr/dtk/dtk-discrete-geometry,False
@@ -3617,7 +3617,7 @@ https://gitlab.inria.fr/mosaic/mosaic-commons,True
 https://gitlab.inria.fr/mosaic/timagetk,True
 https://gitlab.inria.fr/mosaic/tissue_analysis,True
 https://gitlab.inria.fr/mosaic/tissue_nukem_3d,False
-https://gitlab.inria.fr/mosaic/tissue_paredes,False
+https://gitlab.inria.fr/mosaic/tissue_paredes,True
 https://gitlab.inria.fr/myriads-team/python-distem,False
 https://gitlab.inria.fr/necs-open/RainbowVis-JS,False
 https://gitlab.inria.fr/necs-open/braincrafted.bootstrap-bundle,False
@@ -3735,7 +3735,7 @@ https://gitlab.inria.fr/tranus/QGIS_Tranus_Reports,False
 https://gitlab.inria.fr/tranus/TRANUS_Interfaces,False
 https://gitlab.inria.fr/tranus/Tranus_Python,False
 https://gitlab.inria.fr/tranus/Tranus_QGIS_Plugins,False
-https://gitlab.inria.fr/tyrex-public/mu-RA,False
+https://gitlab.inria.fr/tyrex-public/mu-RA,True
 https://gitlab.inria.fr/usnb/api-gateway,False
 https://gitlab.inria.fr/usnb/bus-experiment,False
 https://gitlab.inria.fr/usnb/email-bc,False
