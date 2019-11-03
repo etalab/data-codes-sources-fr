@@ -198,7 +198,7 @@ https://git.unistra.fr/seul/P4a,True
 https://git.unistra.fr/t4-boost/t4,True
 https://git.unistra.fr/t4-the-origin/arti4,True
 https://git.unistra.fr/uhuit/pgmaggpl,True
-https://git.unistra.fr/uquatre/mips-invader,False
+https://git.unistra.fr/uquatre/mips-invader,True
 https://git.unistra.fr/usept/sexy-polyedra-baby,False
 https://git.unistra.fr/vue/cas-authentication,False
 https://git.unistra.fr/vue/cli-plugin-unistra,True
@@ -3226,7 +3226,7 @@ https://gitlab.huma-num.fr/lamop/limites-font-reaulx,True
 https://gitlab.huma-num.fr/lamop/lizmap-docker,True
 https://gitlab.huma-num.fr/lamop/maison-bethune-prosoprographie,False
 https://gitlab.huma-num.fr/lamop/mirador-docker,True
-https://gitlab.huma-num.fr/lamop/moamo,False
+https://gitlab.huma-num.fr/lamop/moamo,True
 https://gitlab.huma-num.fr/lamop/nakala,True
 https://gitlab.huma-num.fr/lamop/nasa,True
 https://gitlab.huma-num.fr/lamop/studium,True
@@ -3410,7 +3410,7 @@ https://gitlab.inria.fr/defrost/welcome-to-defrost,True
 https://gitlab.inria.fr/dema/gdb-testing,False
 https://gitlab.inria.fr/dema/gdb-tuto.py,False
 https://gitlab.inria.fr/dema/mcgdb,True
-https://gitlab.inria.fr/dema/mcgdb-docker,False
+https://gitlab.inria.fr/dema/mcgdb-docker,True
 https://gitlab.inria.fr/dema/mcgdb-seqdiag,True
 https://gitlab.inria.fr/dema/mcgdb-temanejo,False
 https://gitlab.inria.fr/dep2pict/dep2pict,False
@@ -3423,7 +3423,7 @@ https://gitlab.inria.fr/discovery/keystonemiddleware,False
 https://gitlab.inria.fr/discovery/kolla-ansible,False
 https://gitlab.inria.fr/discovery/openstackoid,False
 https://gitlab.inria.fr/disrpt/tony,False
-https://gitlab.inria.fr/diu-algo/labyrinthe,False
+https://gitlab.inria.fr/diu-algo/labyrinthe,True
 https://gitlab.inria.fr/dldb/discretelogdb,False
 https://gitlab.inria.fr/dlp-sif/dlp-arduino,False
 https://gitlab.inria.fr/dlp-sif/sonarqube,True
@@ -3474,7 +3474,7 @@ https://gitlab.inria.fr/enseignement/MIAGE_TP_XML_2017,False
 https://gitlab.inria.fr/epione_ML/bayesian-learning-uca,False
 https://gitlab.inria.fr/epione_ML/mcvae,True
 https://gitlab.inria.fr/evalanon/enoslib,False
-https://gitlab.inria.fr/evalanon/python-distem,False
+https://gitlab.inria.fr/evalanon/python-distem,True
 https://gitlab.inria.fr/evalys/big-data-hpc-g5k-expe-tools,False
 https://gitlab.inria.fr/expression-externals/easyloggingpp,True
 https://gitlab.inria.fr/expression-externals/eigen,True
@@ -3485,14 +3485,14 @@ https://gitlab.inria.fr/fec/PyBER,False
 https://gitlab.inria.fr/flocq/flocq,True
 https://gitlab.inria.fr/flowvr/flowvr-ex,True
 https://gitlab.inria.fr/formation-gitlab-ci/grossamb-tutorial,False
-https://gitlab.inria.fr/formation-gitlab-ci/my-project-dvojtise,False
+https://gitlab.inria.fr/formation-gitlab-ci/my-project-dvojtise,True
 https://gitlab.inria.fr/formation-gitlab-ci/navarop-formation-gitlab-ci,False
 https://gitlab.inria.fr/formation-gitlab-ci/navarop-tutorial,False
 https://gitlab.inria.fr/formation-gitlab-ci/tutio-ci-andrade,False
 https://gitlab.inria.fr/formation-gitlab-ci/tuto-ci-edib,False
 https://gitlab.inria.fr/foscadiff/demoRameau,False
 https://gitlab.inria.fr/gagallium/gagallium,False
-https://gitlab.inria.fr/gagallium/gagallium-save,False
+https://gitlab.inria.fr/gagallium/gagallium-save,True
 https://gitlab.inria.fr/gagallium/gagallium-source,False
 https://gitlab.inria.fr/gagallium/pandoc-pygments,False
 https://gitlab.inria.fr/gagallium/stog-gagallium,False
