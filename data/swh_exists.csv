@@ -123,7 +123,7 @@ https://git.unistra.fr/BAS18-T4-D/StrasBuilder,True
 https://git.unistra.fr/BLL17_T3_D/SedationMaPassion,True
 https://git.unistra.fr/CAMMA-public/mvor,True
 https://git.unistra.fr/ECR19-T4-D/la-succession-au-moyen-age,True
-https://git.unistra.fr/Florian-William/a31-claguerre,False
+https://git.unistra.fr/Florian-William/a31-claguerre,True
 https://git.unistra.fr/HAJ18-T4-C/MyPrezTige,True
 https://git.unistra.fr/HPC/singularity,True
 https://git.unistra.fr/IUTRS/android-sdkmanager-scripts,True
@@ -1917,7 +1917,7 @@ https://github.com/diverse-project/dev-dashboard,True
 https://github.com/diverse-project/diverse-project.github.io,True
 https://github.com/diverse-project/diverse-project.github.io.old,True
 https://github.com/diverse-project/diverse-studio,True
-https://github.com/diverse-project/diversifying-descartes,False
+https://github.com/diverse-project/diversifying-descartes,True
 https://github.com/diverse-project/farmbot,True
 https://github.com/diverse-project/flink-datacenter,True
 https://github.com/diverse-project/gen-mobile-data-app,True
@@ -3340,7 +3340,7 @@ https://gitlab.inria.fr/allgo/allgo-blog,False
 https://gitlab.inria.fr/allgo/allgo.inria.fr,True
 https://gitlab.inria.fr/allgo/doc,False
 https://gitlab.inria.fr/almanach/alpi,True
-https://gitlab.inria.fr/alta/alta,False
+https://gitlab.inria.fr/alta/alta,True
 https://gitlab.inria.fr/andiamo/eusdisparser,True
 https://gitlab.inria.fr/andiamo/tony,True
 https://gitlab.inria.fr/asbizard/Procedural_modeling_of_multi-scale_galactic_dust,False
@@ -3424,7 +3424,7 @@ https://gitlab.inria.fr/discovery/kolla-ansible,False
 https://gitlab.inria.fr/discovery/openstackoid,False
 https://gitlab.inria.fr/disrpt/tony,False
 https://gitlab.inria.fr/diu-algo/labyrinthe,True
-https://gitlab.inria.fr/dldb/discretelogdb,False
+https://gitlab.inria.fr/dldb/discretelogdb,True
 https://gitlab.inria.fr/dlp-sif/dlp-arduino,False
 https://gitlab.inria.fr/dlp-sif/sonarqube,True
 https://gitlab.inria.fr/doris/doris-android,False
@@ -3444,7 +3444,7 @@ https://gitlab.inria.fr/dtk/dtk-fem,True
 https://gitlab.inria.fr/dtk/dtk-fonts,False
 https://gitlab.inria.fr/dtk/dtk-imaging,False
 https://gitlab.inria.fr/dtk/dtk-imaging-python,False
-https://gitlab.inria.fr/dtk/dtk-io,False
+https://gitlab.inria.fr/dtk/dtk-io,True
 https://gitlab.inria.fr/dtk/dtk-linear-algebra-dense,False
 https://gitlab.inria.fr/dtk/dtk-linear-algebra-sparse,True
 https://gitlab.inria.fr/dtk/dtk-log,False
@@ -3466,7 +3466,7 @@ https://gitlab.inria.fr/dtk/dtk-visual-programming,False
 https://gitlab.inria.fr/dtk/dtk-visualization,False
 https://gitlab.inria.fr/dtk/dtk-visualization-python,True
 https://gitlab.inria.fr/dtk/dtk-widgets,False
-https://gitlab.inria.fr/dtk/dtk-widgets-python,False
+https://gitlab.inria.fr/dtk/dtk-widgets-python,True
 https://gitlab.inria.fr/dtk/dtk-wm,False
 https://gitlab.inria.fr/dtk/dtk-www,True
 https://gitlab.inria.fr/eigen/eigen-mirror,False
@@ -3478,7 +3478,7 @@ https://gitlab.inria.fr/evalanon/python-distem,True
 https://gitlab.inria.fr/evalys/big-data-hpc-g5k-expe-tools,False
 https://gitlab.inria.fr/expression-externals/easyloggingpp,True
 https://gitlab.inria.fr/expression-externals/eigen,True
-https://gitlab.inria.fr/expression-externals/kenlm,False
+https://gitlab.inria.fr/expression-externals/kenlm,True
 https://gitlab.inria.fr/expression-externals/mitlm,True
 https://gitlab.inria.fr/fec/MIPP,False
 https://gitlab.inria.fr/fec/PyBER,False
@@ -3560,7 +3560,7 @@ https://gitlab.inria.fr/guix-hpc/guix-kernel,True
 https://gitlab.inria.fr/guix-hpc/website,False
 https://gitlab.inria.fr/gv-open/PyLR,False
 https://gitlab.inria.fr/gv-open/pygeobuf,False
-https://gitlab.inria.fr/hsplit/hsplit,False
+https://gitlab.inria.fr/hsplit/hsplit,True
 https://gitlab.inria.fr/iccv_2019/pyvideoresearch_gunnar,False
 https://gitlab.inria.fr/jgranier/Rendu-Style-Novat,False
 https://gitlab.inria.fr/kameleon/kameleon-recipes,False
@@ -3747,14 +3747,14 @@ https://gitlab.inria.fr/usnb/messenger-persona,False
 https://gitlab.inria.fr/usnb/slack-persona,False
 https://gitlab.inria.fr/usnb/subscription-manager,False
 https://gitlab.inria.fr/usnb/universal-social-network-bus,False
-https://gitlab.inria.fr/verifisc/mlang,False
+https://gitlab.inria.fr/verifisc/mlang,True
 https://gitlab.inria.fr/verifisc/verifisc,True
 https://gitlab.inria.fr/verifisc/verifisc-python,True
 https://gitlab.inria.fr/vidjil/mixcr,False
 https://gitlab.inria.fr/vidjil/sdsl-lite,False
 https://gitlab.inria.fr/vidjil/tl-index,False
 https://gitlab.inria.fr/vidjil/vidjil,False
-https://gitlab.inria.fr/why3/why3,False
+https://gitlab.inria.fr/why3/why3,True
 https://gitlab.inria.fr/xkblas/versions,False
 https://gitlab.inria.fr/xug/meetings,True
 https://gitlab.inria.fr/xug/nix-tutorial,True
