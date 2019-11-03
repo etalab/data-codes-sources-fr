@@ -142,7 +142,7 @@ https://git.unistra.fr/SAV18-T4-B/ProjetT4,True
 https://git.unistra.fr/SAV18-T4-C/DDT-Simulator-2018,True
 https://git.unistra.fr/SPA18-T4-A/T4,True
 https://git.unistra.fr/SPA18-T4-C/diabete_simulator,True
-https://git.unistra.fr/SPA18-T4-D/PathOfDiabete,False
+https://git.unistra.fr/SPA18-T4-D/PathOfDiabete,True
 https://git.unistra.fr/T3/NaoBalle,True
 https://git.unistra.fr/T3/NaoCarte,False
 https://git.unistra.fr/T3/NaoDanse,True
@@ -3219,6 +3219,7 @@ https://gitlab.huma-num.fr/lamop/Hmaot,True
 https://gitlab.huma-num.fr/lamop/archive-osm,True
 https://gitlab.huma-num.fr/lamop/audiotheque-traduction,True
 https://gitlab.huma-num.fr/lamop/cbma-epigraphie,True
+https://gitlab.huma-num.fr/lamop/duranti,False
 https://gitlab.huma-num.fr/lamop/fonds-marc-bloch,True
 https://gitlab.huma-num.fr/lamop/heraut-transcript,True
 https://gitlab.huma-num.fr/lamop/iiif-docker,True
@@ -3285,7 +3286,7 @@ https://gitlab.inria.fr/NGS/ALTree,True
 https://gitlab.inria.fr/NGS/decova,True
 https://gitlab.inria.fr/NGS/nfs-workaround,True
 https://gitlab.inria.fr/NGS/structural-variants,True
-https://gitlab.inria.fr/NGS/svagga,False
+https://gitlab.inria.fr/NGS/svagga,True
 https://gitlab.inria.fr/OAR/oar3-switch,True
 https://gitlab.inria.fr/OAR/oardocker,True
 https://gitlab.inria.fr/OCSR/OCSR,True
@@ -3447,7 +3448,7 @@ https://gitlab.inria.fr/dtk/dtk-imaging-python,False
 https://gitlab.inria.fr/dtk/dtk-io,True
 https://gitlab.inria.fr/dtk/dtk-linear-algebra-dense,False
 https://gitlab.inria.fr/dtk/dtk-linear-algebra-sparse,True
-https://gitlab.inria.fr/dtk/dtk-log,False
+https://gitlab.inria.fr/dtk/dtk-log,True
 https://gitlab.inria.fr/dtk/dtk-logger,True
 https://gitlab.inria.fr/dtk/dtk-macs,False
 https://gitlab.inria.fr/dtk/dtk-os,True
@@ -3520,7 +3521,7 @@ https://gitlab.inria.fr/grew/DSQtoAMR,False
 https://gitlab.inria.fr/grew/DSQtoDMRS,False
 https://gitlab.inria.fr/grew/POStoSSQ,False
 https://gitlab.inria.fr/grew/SSQ_UD,False
-https://gitlab.inria.fr/grew/SSQtoDSQ,False
+https://gitlab.inria.fr/grew/SSQtoDSQ,True
 https://gitlab.inria.fr/grew/SUD,False
 https://gitlab.inria.fr/grew/UDtoAUD,False
 https://gitlab.inria.fr/grew/examples,False
@@ -3612,7 +3613,7 @@ https://gitlab.inria.fr/monitoring/themis-demo,False
 https://gitlab.inria.fr/monitoring/themis-rv18smarthome,False
 https://gitlab.inria.fr/monitoring/verde,False
 https://gitlab.inria.fr/mosaic/cellcomplex,True
-https://gitlab.inria.fr/mosaic/draco_stem,False
+https://gitlab.inria.fr/mosaic/draco_stem,True
 https://gitlab.inria.fr/mosaic/mosaic-commons,True
 https://gitlab.inria.fr/mosaic/timagetk,True
 https://gitlab.inria.fr/mosaic/tissue_analysis,True
