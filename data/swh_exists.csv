@@ -179,6 +179,7 @@ https://git.unistra.fr/integratron/integrateur-cli,True
 https://git.unistra.fr/integratron/integratron.pages.unistra.fr,True
 https://git.unistra.fr/jupyter/animation,True
 https://git.unistra.fr/la-table-ronde/ecr19-t4-b,True
+https://git.unistra.fr/lo5-antony-et-florian/thegame,False
 https://git.unistra.fr/mac19-t4-c/arct4,True
 https://git.unistra.fr/maf19-t4-c/Asimo-BOT,True
 https://git.unistra.fr/mih18-t4-a/ELECTOR2K18,True
@@ -2327,7 +2328,7 @@ https://github.com/fabnumdef/fabnumdef.d3,False
 https://github.com/fabnumdef/fabnumdef.github.io,True
 https://github.com/fabnumdef/resources,True
 https://github.com/genotoul-bioinfo/WorkflowFrameworkComparison,True
-https://github.com/genotoul-bioinfo/configs,False
+https://github.com/genotoul-bioinfo/configs,True
 https://github.com/genotoul-bioinfo/dgenies,True
 https://github.com/genotoul-bioinfo/mipepcons,True
 https://github.com/genotoul-bioinfo/rnaseq,True
@@ -3387,7 +3388,7 @@ https://gitlab.inria.fr/citi-lab/bbb-powerprobe,False
 https://gitlab.inria.fr/citi-lab/dycton,True
 https://gitlab.inria.fr/citi-lab/sytare,True
 https://gitlab.inria.fr/citi-lab/sytare-public,False
-https://gitlab.inria.fr/coding-dojo-saclay/Blockchain,False
+https://gitlab.inria.fr/coding-dojo-saclay/Blockchain,True
 https://gitlab.inria.fr/coding-dojo-saclay/ChronalCoords.jl,False
 https://gitlab.inria.fr/coding-dojo-saclay/ChronalCoords2.jl,False
 https://gitlab.inria.fr/come4acloud/xaas,True
@@ -3405,7 +3406,7 @@ https://gitlab.inria.fr/crv14/benchmarks,False
 https://gitlab.inria.fr/crv14/evaluation,True
 https://gitlab.inria.fr/dash/talks,True
 https://gitlab.inria.fr/datapol/experiments-methodology,False
-https://gitlab.inria.fr/datapol/vdanjean-backuppc-client,False
+https://gitlab.inria.fr/datapol/vdanjean-backuppc-client,True
 https://gitlab.inria.fr/datapol/wiki-welcome,False
 https://gitlab.inria.fr/defrost/welcome-to-defrost,True
 https://gitlab.inria.fr/dema/gdb-testing,False
@@ -3422,13 +3423,13 @@ https://gitlab.inria.fr/discovery/enoslib,True
 https://gitlab.inria.fr/discovery/keystoneauth,False
 https://gitlab.inria.fr/discovery/keystonemiddleware,False
 https://gitlab.inria.fr/discovery/kolla-ansible,False
-https://gitlab.inria.fr/discovery/openstackoid,False
+https://gitlab.inria.fr/discovery/openstackoid,True
 https://gitlab.inria.fr/disrpt/tony,False
 https://gitlab.inria.fr/diu-algo/labyrinthe,True
 https://gitlab.inria.fr/dldb/discretelogdb,True
 https://gitlab.inria.fr/dlp-sif/dlp-arduino,True
 https://gitlab.inria.fr/dlp-sif/sonarqube,True
-https://gitlab.inria.fr/doris/doris-android,False
+https://gitlab.inria.fr/doris/doris-android,True
 https://gitlab.inria.fr/doris/doris.gitlabpages.inria.fr,True
 https://gitlab.inria.fr/dtk/dtk,True
 https://gitlab.inria.fr/dtk/dtk-composer,True
@@ -3533,7 +3534,7 @@ https://gitlab.inria.fr/grew/grew_gui,False
 https://gitlab.inria.fr/grew/grew_match,False
 https://gitlab.inria.fr/grew/grew_parse,False
 https://gitlab.inria.fr/grew/grew_server,False
-https://gitlab.inria.fr/grew/libcaml-grew,False
+https://gitlab.inria.fr/grew/libcaml-grew,True
 https://gitlab.inria.fr/grew/python,False
 https://gitlab.inria.fr/grid5000/ai_tutorial,False
 https://gitlab.inria.fr/grid5000/bigdata-tutorial,False
@@ -3697,7 +3698,7 @@ https://gitlab.inria.fr/serpico/genloc3d_bin,True
 https://gitlab.inria.fr/serpico/hulkground_bin,True
 https://gitlab.inria.fr/serpico/mwr,True
 https://gitlab.inria.fr/serpico/ndsafir_bin,True
-https://gitlab.inria.fr/serpico/owf_bin,False
+https://gitlab.inria.fr/serpico/owf_bin,True
 https://gitlab.inria.fr/serpico/thot_bin,True
 https://gitlab.inria.fr/simgrid/simgrid,False
 https://gitlab.inria.fr/siteadmin/doc,False
