@@ -199,7 +199,7 @@ https://git.unistra.fr/t4-boost/t4,True
 https://git.unistra.fr/t4-the-origin/arti4,True
 https://git.unistra.fr/uhuit/pgmaggpl,True
 https://git.unistra.fr/uquatre/mips-invader,True
-https://git.unistra.fr/usept/sexy-polyedra-baby,False
+https://git.unistra.fr/usept/sexy-polyedra-baby,True
 https://git.unistra.fr/vue/cas-authentication,False
 https://git.unistra.fr/vue/cli-plugin-unistra,True
 https://git.unistra.fr/vue/unistra-box,True
@@ -2890,7 +2890,7 @@ https://github.com/polewebmaedi/natural-earth-vector,True
 https://github.com/powerapi-ng/powerapi,True
 https://github.com/powerapi-ng/powerapi-ng.github.io,True
 https://github.com/powerapi-ng/powerapi-scala,True
-https://github.com/powerapi-ng/pyRAPL,False
+https://github.com/powerapi-ng/pyRAPL,True
 https://github.com/powerapi-ng/rapl-formula,True
 https://github.com/powerapi-ng/smartwatts-formula,True
 https://github.com/region-bretagne/dd-portal,True
@@ -3302,7 +3302,7 @@ https://gitlab.inria.fr/Quickspan/quickspan,True
 https://gitlab.inria.fr/RMOD/Ghost,True
 https://gitlab.inria.fr/RMOD/Welcome,True
 https://gitlab.inria.fr/RMOD/archive,True
-https://gitlab.inria.fr/Spirals/monsoon,False
+https://gitlab.inria.fr/Spirals/monsoon,True
 https://gitlab.inria.fr/TeamPlay_Public/TeamPlay_Public_Deliverables,True
 https://gitlab.inria.fr/VeRDi-project/concerto,True
 https://gitlab.inria.fr/VeRDi-project/madeus-journal,False
@@ -3321,7 +3321,7 @@ https://gitlab.inria.fr/adjoint-computation/disk-revolve-public,True
 https://gitlab.inria.fr/aevol/aevol,False
 https://gitlab.inria.fr/agm/axl,True
 https://gitlab.inria.fr/agm/geoalgebrix,False
-https://gitlab.inria.fr/agm/gspline,False
+https://gitlab.inria.fr/agm/gspline,True
 https://gitlab.inria.fr/agm/msplinetools,False
 https://gitlab.inria.fr/agm/mypkg,True
 https://gitlab.inria.fr/agos-bso/mediatheque,True
@@ -3350,7 +3350,7 @@ https://gitlab.inria.fr/aviz/paohvis,True
 https://gitlab.inria.fr/batsim/article-cluster17,True
 https://gitlab.inria.fr/batsim/batbroker,True
 https://gitlab.inria.fr/batsim/batexpe,True
-https://gitlab.inria.fr/batsim/batexpe-python,False
+https://gitlab.inria.fr/batsim/batexpe-python,True
 https://gitlab.inria.fr/batsim/batsched,True
 https://gitlab.inria.fr/batsim/batsim,False
 https://gitlab.inria.fr/batsim/batsky,True
@@ -3426,7 +3426,7 @@ https://gitlab.inria.fr/discovery/openstackoid,False
 https://gitlab.inria.fr/disrpt/tony,False
 https://gitlab.inria.fr/diu-algo/labyrinthe,True
 https://gitlab.inria.fr/dldb/discretelogdb,True
-https://gitlab.inria.fr/dlp-sif/dlp-arduino,False
+https://gitlab.inria.fr/dlp-sif/dlp-arduino,True
 https://gitlab.inria.fr/dlp-sif/sonarqube,True
 https://gitlab.inria.fr/doris/doris-android,False
 https://gitlab.inria.fr/doris/doris.gitlabpages.inria.fr,True
@@ -3440,7 +3440,7 @@ https://gitlab.inria.fr/dtk/dtk-core,True
 https://gitlab.inria.fr/dtk/dtk-core-python,True
 https://gitlab.inria.fr/dtk/dtk-cross,False
 https://gitlab.inria.fr/dtk/dtk-discrete-geometry,False
-https://gitlab.inria.fr/dtk/dtk-doc,False
+https://gitlab.inria.fr/dtk/dtk-doc,True
 https://gitlab.inria.fr/dtk/dtk-fem,True
 https://gitlab.inria.fr/dtk/dtk-fonts,False
 https://gitlab.inria.fr/dtk/dtk-imaging,False
@@ -3457,7 +3457,7 @@ https://gitlab.inria.fr/dtk/dtk-plugins-continuous-geometry,False
 https://gitlab.inria.fr/dtk/dtk-plugins-distributed,False
 https://gitlab.inria.fr/dtk/dtk-plugins-imaging,False
 https://gitlab.inria.fr/dtk/dtk-plugins-io,False
-https://gitlab.inria.fr/dtk/dtk-plugins-linear-algebra-sparse,False
+https://gitlab.inria.fr/dtk/dtk-plugins-linear-algebra-sparse,True
 https://gitlab.inria.fr/dtk/dtk-plugins-math,True
 https://gitlab.inria.fr/dtk/dtk-script,True
 https://gitlab.inria.fr/dtk/dtk-symbolic,True
