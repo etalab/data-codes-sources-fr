@@ -194,7 +194,7 @@ https://git.unistra.fr/pub/revealjs-generator,False
 https://git.unistra.fr/scl19-t4-a/t4-2019,True
 https://git.unistra.fr/scl19-t4-c/juthose,True
 https://git.unistra.fr/scl19-t4-e/t4,True
-https://git.unistra.fr/seul/LeMeilleurPresident,False
+https://git.unistra.fr/seul/LeMeilleurPresident,True
 https://git.unistra.fr/seul/P4a,True
 https://git.unistra.fr/t4-boost/t4,True
 https://git.unistra.fr/t4-the-origin/arti4,True
@@ -3323,7 +3323,7 @@ https://gitlab.inria.fr/aevol/aevol,False
 https://gitlab.inria.fr/agm/axl,True
 https://gitlab.inria.fr/agm/geoalgebrix,False
 https://gitlab.inria.fr/agm/gspline,True
-https://gitlab.inria.fr/agm/msplinetools,False
+https://gitlab.inria.fr/agm/msplinetools,True
 https://gitlab.inria.fr/agm/mypkg,True
 https://gitlab.inria.fr/agos-bso/mediatheque,True
 https://gitlab.inria.fr/aljanon-experiment-framework/ansible_experiment,True
@@ -3384,7 +3384,7 @@ https://gitlab.inria.fr/cidre-public/obfuscated-android-unit-examples,True
 https://gitlab.inria.fr/cidre-public/pymao,True
 https://gitlab.inria.fr/cigri-ctrl/cigri-expe,False
 https://gitlab.inria.fr/cigri-ctrl/stage-agustin-yabo,False
-https://gitlab.inria.fr/citi-lab/bbb-powerprobe,False
+https://gitlab.inria.fr/citi-lab/bbb-powerprobe,True
 https://gitlab.inria.fr/citi-lab/dycton,True
 https://gitlab.inria.fr/citi-lab/sytare,True
 https://gitlab.inria.fr/citi-lab/sytare-public,False
@@ -3405,7 +3405,7 @@ https://gitlab.inria.fr/croco-ocean/croco_tools,True
 https://gitlab.inria.fr/crv14/benchmarks,False
 https://gitlab.inria.fr/crv14/evaluation,True
 https://gitlab.inria.fr/dash/talks,True
-https://gitlab.inria.fr/datapol/experiments-methodology,False
+https://gitlab.inria.fr/datapol/experiments-methodology,True
 https://gitlab.inria.fr/datapol/vdanjean-backuppc-client,True
 https://gitlab.inria.fr/datapol/wiki-welcome,False
 https://gitlab.inria.fr/defrost/welcome-to-defrost,True
@@ -3415,7 +3415,7 @@ https://gitlab.inria.fr/dema/mcgdb,True
 https://gitlab.inria.fr/dema/mcgdb-docker,True
 https://gitlab.inria.fr/dema/mcgdb-seqdiag,True
 https://gitlab.inria.fr/dema/mcgdb-temanejo,True
-https://gitlab.inria.fr/dep2pict/dep2pict,False
+https://gitlab.inria.fr/dep2pict/dep2pict,True
 https://gitlab.inria.fr/dep2pict/dep2pict_doc,False
 https://gitlab.inria.fr/dep2pict/dep2pict_gui,True
 https://gitlab.inria.fr/dep2pict/libcaml_dep2pict,False
@@ -3465,7 +3465,7 @@ https://gitlab.inria.fr/dtk/dtk-symbolic,True
 https://gitlab.inria.fr/dtk/dtk-themes,True
 https://gitlab.inria.fr/dtk/dtk-tutorials,False
 https://gitlab.inria.fr/dtk/dtk-visual-programming,False
-https://gitlab.inria.fr/dtk/dtk-visualization,False
+https://gitlab.inria.fr/dtk/dtk-visualization,True
 https://gitlab.inria.fr/dtk/dtk-visualization-python,True
 https://gitlab.inria.fr/dtk/dtk-widgets,False
 https://gitlab.inria.fr/dtk/dtk-widgets-python,True
@@ -3504,7 +3504,7 @@ https://gitlab.inria.fr/gappa/gappa,True
 https://gitlab.inria.fr/gazelle/external-library,True
 https://gitlab.inria.fr/gecos/gecos-arith,True
 https://gitlab.inria.fr/gecos/gecos-buildtools,True
-https://gitlab.inria.fr/gecos/gecos-composite,False
+https://gitlab.inria.fr/gecos/gecos-composite,True
 https://gitlab.inria.fr/gecos/gecos-core,True
 https://gitlab.inria.fr/gecos/gecos-float2fix,True
 https://gitlab.inria.fr/gecos/gecos-framework,True
