@@ -1936,7 +1936,7 @@ https://github.com/diverse-project/pdedependencies2dot,True
 https://github.com/diverse-project/projetWE,True
 https://github.com/diverse-project/researchtooling,True
 https://github.com/diverse-project/samplingfm,True
-https://github.com/diverse-project/single-usage,False
+https://github.com/diverse-project/single-usage,True
 https://github.com/diverse-project/sosies-visualizer,True
 https://github.com/diverse-project/sosies-ws-server,True
 https://github.com/diverse-project/summer,True
@@ -3258,7 +3258,7 @@ https://gitlab.inria.fr/CompCert/ci,True
 https://gitlab.inria.fr/Conferences/ICT_2018_MUFF,True
 https://gitlab.inria.fr/DLreasoners/stare,True
 https://gitlab.inria.fr/DYLISS/PathModel,True
-https://gitlab.inria.fr/DYLISS/aucome,False
+https://gitlab.inria.fr/DYLISS/aucome,True
 https://gitlab.inria.fr/DYLISS/aureme,True
 https://gitlab.inria.fr/DYLISS/mpwt,True
 https://gitlab.inria.fr/DYLISS/pylissIdConv,True
@@ -3413,7 +3413,7 @@ https://gitlab.inria.fr/dema/gdb-tuto.py,True
 https://gitlab.inria.fr/dema/mcgdb,True
 https://gitlab.inria.fr/dema/mcgdb-docker,True
 https://gitlab.inria.fr/dema/mcgdb-seqdiag,True
-https://gitlab.inria.fr/dema/mcgdb-temanejo,False
+https://gitlab.inria.fr/dema/mcgdb-temanejo,True
 https://gitlab.inria.fr/dep2pict/dep2pict,False
 https://gitlab.inria.fr/dep2pict/dep2pict_doc,False
 https://gitlab.inria.fr/dep2pict/dep2pict_gui,True
@@ -3456,7 +3456,7 @@ https://gitlab.inria.fr/dtk/dtk-pkg,False
 https://gitlab.inria.fr/dtk/dtk-plugins-continuous-geometry,False
 https://gitlab.inria.fr/dtk/dtk-plugins-distributed,False
 https://gitlab.inria.fr/dtk/dtk-plugins-imaging,False
-https://gitlab.inria.fr/dtk/dtk-plugins-io,False
+https://gitlab.inria.fr/dtk/dtk-plugins-io,True
 https://gitlab.inria.fr/dtk/dtk-plugins-linear-algebra-sparse,True
 https://gitlab.inria.fr/dtk/dtk-plugins-math,True
 https://gitlab.inria.fr/dtk/dtk-script,True
@@ -3476,7 +3476,7 @@ https://gitlab.inria.fr/epione_ML/bayesian-learning-uca,False
 https://gitlab.inria.fr/epione_ML/mcvae,True
 https://gitlab.inria.fr/evalanon/enoslib,False
 https://gitlab.inria.fr/evalanon/python-distem,True
-https://gitlab.inria.fr/evalys/big-data-hpc-g5k-expe-tools,False
+https://gitlab.inria.fr/evalys/big-data-hpc-g5k-expe-tools,True
 https://gitlab.inria.fr/expression-externals/easyloggingpp,True
 https://gitlab.inria.fr/expression-externals/eigen,True
 https://gitlab.inria.fr/expression-externals/kenlm,True
