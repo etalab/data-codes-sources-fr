@@ -3340,7 +3340,7 @@ https://gitlab.inria.fr/aljanon-experiment-framework/teardown_experiment,True
 https://gitlab.inria.fr/allgo/allgo,True
 https://gitlab.inria.fr/allgo/allgo-blog,False
 https://gitlab.inria.fr/allgo/allgo.inria.fr,True
-https://gitlab.inria.fr/allgo/doc,False
+https://gitlab.inria.fr/allgo/doc,True
 https://gitlab.inria.fr/almanach/alpi,True
 https://gitlab.inria.fr/alta/alta,True
 https://gitlab.inria.fr/andiamo/eusdisparser,True
@@ -3353,7 +3353,7 @@ https://gitlab.inria.fr/batsim/batbroker,True
 https://gitlab.inria.fr/batsim/batexpe,True
 https://gitlab.inria.fr/batsim/batexpe-python,True
 https://gitlab.inria.fr/batsim/batsched,True
-https://gitlab.inria.fr/batsim/batsim,False
+https://gitlab.inria.fr/batsim/batsim,True
 https://gitlab.inria.fr/batsim/batsky,True
 https://gitlab.inria.fr/batsim/bebida-on-batsim,False
 https://gitlab.inria.fr/batsim/datsched,True
@@ -3407,7 +3407,7 @@ https://gitlab.inria.fr/crv14/evaluation,True
 https://gitlab.inria.fr/dash/talks,True
 https://gitlab.inria.fr/datapol/experiments-methodology,True
 https://gitlab.inria.fr/datapol/vdanjean-backuppc-client,True
-https://gitlab.inria.fr/datapol/wiki-welcome,False
+https://gitlab.inria.fr/datapol/wiki-welcome,True
 https://gitlab.inria.fr/defrost/welcome-to-defrost,True
 https://gitlab.inria.fr/dema/gdb-testing,False
 https://gitlab.inria.fr/dema/gdb-tuto.py,True
@@ -3471,7 +3471,7 @@ https://gitlab.inria.fr/dtk/dtk-widgets,False
 https://gitlab.inria.fr/dtk/dtk-widgets-python,True
 https://gitlab.inria.fr/dtk/dtk-wm,False
 https://gitlab.inria.fr/dtk/dtk-www,True
-https://gitlab.inria.fr/eigen/eigen-mirror,False
+https://gitlab.inria.fr/eigen/eigen-mirror,True
 https://gitlab.inria.fr/enseignement/MIAGE_TP_XML_2017,False
 https://gitlab.inria.fr/epione_ML/bayesian-learning-uca,False
 https://gitlab.inria.fr/epione_ML/mcvae,True
@@ -3525,7 +3525,7 @@ https://gitlab.inria.fr/grew/SSQ_UD,False
 https://gitlab.inria.fr/grew/SSQtoDSQ,True
 https://gitlab.inria.fr/grew/SUD,False
 https://gitlab.inria.fr/grew/UDtoAUD,False
-https://gitlab.inria.fr/grew/examples,False
+https://gitlab.inria.fr/grew/examples,True
 https://gitlab.inria.fr/grew/grew,False
 https://gitlab.inria.fr/grew/grew_daemon,True
 https://gitlab.inria.fr/grew/grew_demo,False
@@ -3572,7 +3572,7 @@ https://gitlab.inria.fr/kstar/kstar,False
 https://gitlab.inria.fr/learninglab/mooc-bioinfo,False
 https://gitlab.inria.fr/learninglab/mooc-forum-plugin,False
 https://gitlab.inria.fr/learninglab/mooc-forums-theme,False
-https://gitlab.inria.fr/learninglab/mooc-mr-notebooks,False
+https://gitlab.inria.fr/learninglab/mooc-mr-notebooks,True
 https://gitlab.inria.fr/learninglab/mooc-rr/mooc-rr-apps,False
 https://gitlab.inria.fr/lifeware/biocham,True
 https://gitlab.inria.fr/local-implicit-schemes/supplementary-material-numerische-mathematik,True
