@@ -19,7 +19,7 @@ https://forgemia.inra.fr/genotoul-bioinfo/miniannotator,True
 https://forgemia.inra.fr/genotoul-bioinfo/ncrna-clust,False
 https://forgemia.inra.fr/genotoul-bioinfo/ng6,True
 https://forgemia.inra.fr/genotoul-bioinfo/ngspipelines,True
-https://forgemia.inra.fr/genotoul-bioinfo/pyrocleaner,False
+https://forgemia.inra.fr/genotoul-bioinfo/pyrocleaner,True
 https://forgemia.inra.fr/genotoul-bioinfo/srna-tabac,True
 https://forgemia.inra.fr/genotoul-bioinfo/tSNPannot,True
 https://forgemia.inra.fr/get-it/nf-assemblshortread,True
@@ -190,7 +190,7 @@ https://git.unistra.fr/pastore.ritzenthaler.p4a/P4a,True
 https://git.unistra.fr/presUni/HAJ18-T4-D,True
 https://git.unistra.fr/projet-integrateur-grp-3/frontend,True
 https://git.unistra.fr/pub/SupportPortal-aid,True
-https://git.unistra.fr/pub/revealjs-generator,False
+https://git.unistra.fr/pub/revealjs-generator,True
 https://git.unistra.fr/scl19-t4-a/t4-2019,True
 https://git.unistra.fr/scl19-t4-c/juthose,True
 https://git.unistra.fr/scl19-t4-e/t4,True
@@ -578,7 +578,7 @@ https://github.com/EDS-APHP/brat,False
 https://github.com/EDS-APHP/docker-nvidia-9.1-cudnn7-datascience,False
 https://github.com/EDS-APHP/dsfaker,True
 https://github.com/EDS-APHP/hive-udf,True
-https://github.com/EDS-APHP/i2b2rplugin,False
+https://github.com/EDS-APHP/i2b2rplugin,True
 https://github.com/EDS-APHP/monitor-view-canvas,False
 https://github.com/EDS-APHP/notebook,False
 https://github.com/EDS-APHP/pancarte-backend,False
@@ -879,6 +879,7 @@ https://github.com/LemonLDAPNG/Apache-Session-NoSQL,True
 https://github.com/LemonLDAPNG/Plack-Middleware-Auth-FCGI,True
 https://github.com/LemonLDAPNG/apache-session-mongodb,True
 https://github.com/LemonLDAPNG/lasso-rpm,True
+https://github.com/LemonLDAPNG/ldapcon2019-llng-workshop,False
 https://github.com/LemonLDAPNG/lemonldap-dokuwiki-plugin,False
 https://github.com/LemonLDAPNG/lemonldap-mfiles-extension,False
 https://github.com/LemonLDAPNG/lemonldap-ng,True
@@ -3223,6 +3224,7 @@ https://gitlab.huma-num.fr/lamop/cbma-epigraphie,True
 https://gitlab.huma-num.fr/lamop/duranti,False
 https://gitlab.huma-num.fr/lamop/fonds-marc-bloch,True
 https://gitlab.huma-num.fr/lamop/heraut-transcript,True
+https://gitlab.huma-num.fr/lamop/htr,False
 https://gitlab.huma-num.fr/lamop/iiif-docker,True
 https://gitlab.huma-num.fr/lamop/limites-font-reaulx,True
 https://gitlab.huma-num.fr/lamop/lizmap-docker,True
@@ -3355,7 +3357,7 @@ https://gitlab.inria.fr/batsim/batexpe-python,True
 https://gitlab.inria.fr/batsim/batsched,True
 https://gitlab.inria.fr/batsim/batsim,True
 https://gitlab.inria.fr/batsim/batsky,True
-https://gitlab.inria.fr/batsim/bebida-on-batsim,False
+https://gitlab.inria.fr/batsim/bebida-on-batsim,True
 https://gitlab.inria.fr/batsim/datsched,True
 https://gitlab.inria.fr/batsim/dintervalset,False
 https://gitlab.inria.fr/batsim/evalys,True
@@ -3382,8 +3384,8 @@ https://gitlab.inria.fr/cfrioux/MeneTools,True
 https://gitlab.inria.fr/cidre-public/malcon19,True
 https://gitlab.inria.fr/cidre-public/obfuscated-android-unit-examples,True
 https://gitlab.inria.fr/cidre-public/pymao,True
-https://gitlab.inria.fr/cigri-ctrl/cigri-expe,False
-https://gitlab.inria.fr/cigri-ctrl/stage-agustin-yabo,False
+https://gitlab.inria.fr/cigri-ctrl/cigri-expe,True
+https://gitlab.inria.fr/cigri-ctrl/stage-agustin-yabo,True
 https://gitlab.inria.fr/citi-lab/bbb-powerprobe,True
 https://gitlab.inria.fr/citi-lab/dycton,True
 https://gitlab.inria.fr/citi-lab/sytare,True
@@ -3469,11 +3471,11 @@ https://gitlab.inria.fr/dtk/dtk-visualization,True
 https://gitlab.inria.fr/dtk/dtk-visualization-python,True
 https://gitlab.inria.fr/dtk/dtk-widgets,False
 https://gitlab.inria.fr/dtk/dtk-widgets-python,True
-https://gitlab.inria.fr/dtk/dtk-wm,False
+https://gitlab.inria.fr/dtk/dtk-wm,True
 https://gitlab.inria.fr/dtk/dtk-www,True
 https://gitlab.inria.fr/eigen/eigen-mirror,True
 https://gitlab.inria.fr/enseignement/MIAGE_TP_XML_2017,False
-https://gitlab.inria.fr/epione_ML/bayesian-learning-uca,False
+https://gitlab.inria.fr/epione_ML/bayesian-learning-uca,True
 https://gitlab.inria.fr/epione_ML/mcvae,True
 https://gitlab.inria.fr/evalanon/enoslib,False
 https://gitlab.inria.fr/evalanon/python-distem,True
@@ -3541,7 +3543,7 @@ https://gitlab.inria.fr/grid5000/bigdata-tutorial,False
 https://gitlab.inria.fr/grid5000/ceph5k,False
 https://gitlab.inria.fr/grid5000/environments-recipes,False
 https://gitlab.inria.fr/grid5000/exhibitv2,False
-https://gitlab.inria.fr/grid5000/g5k-api,False
+https://gitlab.inria.fr/grid5000/g5k-api,True
 https://gitlab.inria.fr/grid5000/g5k-cheat-sheet,False
 https://gitlab.inria.fr/grid5000/g5k-checks,False
 https://gitlab.inria.fr/grid5000/grid5000-code,False
@@ -3564,7 +3566,7 @@ https://gitlab.inria.fr/gv-open/PyLR,False
 https://gitlab.inria.fr/gv-open/pygeobuf,False
 https://gitlab.inria.fr/hsplit/hsplit,True
 https://gitlab.inria.fr/iccv_2019/pyvideoresearch_gunnar,False
-https://gitlab.inria.fr/jgranier/Rendu-Style-Novat,False
+https://gitlab.inria.fr/jgranier/Rendu-Style-Novat,True
 https://gitlab.inria.fr/kameleon/kameleon-recipes,False
 https://gitlab.inria.fr/kirikomics/hglib,False
 https://gitlab.inria.fr/kstar/clang-omp,False
