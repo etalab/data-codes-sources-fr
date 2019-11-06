@@ -179,7 +179,7 @@ https://git.unistra.fr/integratron/integrateur-cli,True
 https://git.unistra.fr/integratron/integratron.pages.unistra.fr,True
 https://git.unistra.fr/jupyter/animation,True
 https://git.unistra.fr/la-table-ronde/ecr19-t4-b,True
-https://git.unistra.fr/lo5-antony-et-florian/thegame,False
+https://git.unistra.fr/lo5-antony-et-florian/thegame,True
 https://git.unistra.fr/mac19-t4-c/arct4,True
 https://git.unistra.fr/maf19-t4-c/Asimo-BOT,True
 https://git.unistra.fr/mih18-t4-a/ELECTOR2K18,True
@@ -1911,7 +1911,7 @@ https://github.com/diverse-project/CapellaRover,True
 https://github.com/diverse-project/ContreMaitre,True
 https://github.com/diverse-project/InspectorGuidget,True
 https://github.com/diverse-project/MML-classification,False
-https://github.com/diverse-project/MML-regression,False
+https://github.com/diverse-project/MML-regression,True
 https://github.com/diverse-project/RA2018,True
 https://github.com/diverse-project/SAT-DSLmorphic,True
 https://github.com/diverse-project/alex,True
@@ -3205,7 +3205,7 @@ https://gitlab.huma-num.fr/cbma/nosketch_engine-dockerfile,True
 https://gitlab.huma-num.fr/consortium3d/aLTAG3D,True
 https://gitlab.huma-num.fr/eurhisfirm/annuaires-favre,False
 https://gitlab.huma-num.fr/eurhisfirm/biryani,True
-https://gitlab.huma-num.fr/eurhisfirm/dfih-open-data,False
+https://gitlab.huma-num.fr/eurhisfirm/dfih-open-data,True
 https://gitlab.huma-num.fr/eurhisfirm/dfih-search,True
 https://gitlab.huma-num.fr/eurhisfirm/dfih-tools,False
 https://gitlab.huma-num.fr/eurhisfirm/dfih-ui,True
@@ -3224,7 +3224,7 @@ https://gitlab.huma-num.fr/lamop/cbma-epigraphie,True
 https://gitlab.huma-num.fr/lamop/duranti,False
 https://gitlab.huma-num.fr/lamop/fonds-marc-bloch,True
 https://gitlab.huma-num.fr/lamop/heraut-transcript,True
-https://gitlab.huma-num.fr/lamop/htr,False
+https://gitlab.huma-num.fr/lamop/htr,True
 https://gitlab.huma-num.fr/lamop/iiif-docker,True
 https://gitlab.huma-num.fr/lamop/limites-font-reaulx,True
 https://gitlab.huma-num.fr/lamop/lizmap-docker,True
@@ -3359,7 +3359,7 @@ https://gitlab.inria.fr/batsim/batsim,True
 https://gitlab.inria.fr/batsim/batsky,True
 https://gitlab.inria.fr/batsim/bebida-on-batsim,True
 https://gitlab.inria.fr/batsim/datsched,True
-https://gitlab.inria.fr/batsim/dintervalset,False
+https://gitlab.inria.fr/batsim/dintervalset,True
 https://gitlab.inria.fr/batsim/evalys,True
 https://gitlab.inria.fr/batsim/pybatsim,True
 https://gitlab.inria.fr/belenios-forks/belenios-swergas,False
@@ -3446,8 +3446,8 @@ https://gitlab.inria.fr/dtk/dtk-discrete-geometry,False
 https://gitlab.inria.fr/dtk/dtk-doc,True
 https://gitlab.inria.fr/dtk/dtk-fem,True
 https://gitlab.inria.fr/dtk/dtk-fonts,False
-https://gitlab.inria.fr/dtk/dtk-imaging,False
-https://gitlab.inria.fr/dtk/dtk-imaging-python,False
+https://gitlab.inria.fr/dtk/dtk-imaging,True
+https://gitlab.inria.fr/dtk/dtk-imaging-python,True
 https://gitlab.inria.fr/dtk/dtk-io,True
 https://gitlab.inria.fr/dtk/dtk-linear-algebra-dense,False
 https://gitlab.inria.fr/dtk/dtk-linear-algebra-sparse,True
@@ -3499,7 +3499,7 @@ https://gitlab.inria.fr/gagallium/gagallium,True
 https://gitlab.inria.fr/gagallium/gagallium-save,True
 https://gitlab.inria.fr/gagallium/gagallium-source,False
 https://gitlab.inria.fr/gagallium/pandoc-pygments,False
-https://gitlab.inria.fr/gagallium/stog-gagallium,False
+https://gitlab.inria.fr/gagallium/stog-gagallium,True
 https://gitlab.inria.fr/gagallium/stog-math,True
 https://gitlab.inria.fr/gappa/coq,True
 https://gitlab.inria.fr/gappa/gappa,True
@@ -3521,9 +3521,9 @@ https://gitlab.inria.fr/gerzaguet_public/3a_sysnum_wirelesscomm_tx,True
 https://gitlab.inria.fr/gerzaguet_public/digitalcomm.jl,True
 https://gitlab.inria.fr/gerzaguet_public/julia_seminar,True
 https://gitlab.inria.fr/grew/DSQtoAMR,False
-https://gitlab.inria.fr/grew/DSQtoDMRS,False
+https://gitlab.inria.fr/grew/DSQtoDMRS,True
 https://gitlab.inria.fr/grew/POStoSSQ,True
-https://gitlab.inria.fr/grew/SSQ_UD,False
+https://gitlab.inria.fr/grew/SSQ_UD,True
 https://gitlab.inria.fr/grew/SSQtoDSQ,True
 https://gitlab.inria.fr/grew/SUD,False
 https://gitlab.inria.fr/grew/UDtoAUD,False
@@ -3587,7 +3587,7 @@ https://gitlab.inria.fr/memcad/clangml-transforms,False
 https://gitlab.inria.fr/memphis/nemo,False
 https://gitlab.inria.fr/metapart/copart,False
 https://gitlab.inria.fr/metapart/libgraph,False
-https://gitlab.inria.fr/metapart/mirror,False
+https://gitlab.inria.fr/metapart/mirror,True
 https://gitlab.inria.fr/metapart/scotch,False
 https://gitlab.inria.fr/metapart/starpart,False
 https://gitlab.inria.fr/metapart/walshaw,False
@@ -3633,7 +3633,7 @@ https://gitlab.inria.fr/necs_lib/boost-process,False
 https://gitlab.inria.fr/nix-tutorial/chord-experiments,False
 https://gitlab.inria.fr/nix-tutorial/chord-tuto-nix-2019,False
 https://gitlab.inria.fr/nix-tutorial/nix-tutorial,False
-https://gitlab.inria.fr/nix-tutorial/packages-repository,False
+https://gitlab.inria.fr/nix-tutorial/packages-repository,True
 https://gitlab.inria.fr/nix-tutorial/presentation-slides,False
 https://gitlab.inria.fr/obelix/broceliande,False
 https://gitlab.inria.fr/obelix/triskele,False
