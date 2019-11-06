@@ -590,7 +590,7 @@ https://github.com/EDS-APHP/pySyntheticDatasetGenerator,True
 https://github.com/EDS-APHP/pylivy,True
 https://github.com/EDS-APHP/spark-opti,True
 https://github.com/EDS-APHP/spark-postgres,False
-https://github.com/EDS-APHP/tag_serve,False
+https://github.com/EDS-APHP/tag_serve,True
 https://github.com/EDS-APHP/uima-aphp,False
 https://github.com/EDS-APHP/yarn-manager,True
 https://github.com/GendarmerieNationale/FlowTracker,True
@@ -879,7 +879,7 @@ https://github.com/LemonLDAPNG/Apache-Session-NoSQL,True
 https://github.com/LemonLDAPNG/Plack-Middleware-Auth-FCGI,True
 https://github.com/LemonLDAPNG/apache-session-mongodb,True
 https://github.com/LemonLDAPNG/lasso-rpm,True
-https://github.com/LemonLDAPNG/ldapcon2019-llng-workshop,False
+https://github.com/LemonLDAPNG/ldapcon2019-llng-workshop,True
 https://github.com/LemonLDAPNG/lemonldap-dokuwiki-plugin,False
 https://github.com/LemonLDAPNG/lemonldap-mfiles-extension,False
 https://github.com/LemonLDAPNG/lemonldap-ng,True
@@ -1422,6 +1422,7 @@ https://github.com/betagouv/allegement-fillon,True
 https://github.com/betagouv/andi,True
 https://github.com/betagouv/andi-docker,True
 https://github.com/betagouv/andi-matching,True
+https://github.com/betagouv/andi-matching-ui,False
 https://github.com/betagouv/annuaire,True
 https://github.com/betagouv/annuaire-api,True
 https://github.com/betagouv/annuaire-import,True
@@ -1673,7 +1674,7 @@ https://github.com/cget-carto/ba-coh-terr,True
 https://github.com/cget-carto/barometre_cohesion_territoires,True
 https://github.com/cget-carto/c2v,True
 https://github.com/cget-carto/clsm,True
-https://github.com/cget-carto/cooperations,False
+https://github.com/cget-carto/cooperations,True
 https://github.com/cget-carto/dataviz,True
 https://github.com/cget-carto/dgf,True
 https://github.com/cget-carto/dotation_investissement,True
@@ -2193,6 +2194,7 @@ https://github.com/etalab/docker-ansible-git-crypt,True
 https://github.com/etalab/docker-datagouv,True
 https://github.com/etalab/dotation-globale-fonctionnement,True
 https://github.com/etalab/dvf,True
+https://github.com/etalab/economiecirculaire,False
 https://github.com/etalab/edigeo-parser,True
 https://github.com/etalab/edigeo-reproject,True
 https://github.com/etalab/editeur-bal,True
@@ -3228,7 +3230,7 @@ https://gitlab.huma-num.fr/lamop/htr,True
 https://gitlab.huma-num.fr/lamop/iiif-docker,True
 https://gitlab.huma-num.fr/lamop/limites-font-reaulx,True
 https://gitlab.huma-num.fr/lamop/lizmap-docker,True
-https://gitlab.huma-num.fr/lamop/maison-bethune-prosoprographie,False
+https://gitlab.huma-num.fr/lamop/maison-bethune-prosoprographie,True
 https://gitlab.huma-num.fr/lamop/mirador-docker,True
 https://gitlab.huma-num.fr/lamop/moamo,True
 https://gitlab.huma-num.fr/lamop/nakala,True
@@ -3242,6 +3244,7 @@ https://gitlab.huma-num.fr/lamop/topologie_aix-en-provence,False
 https://gitlab.huma-num.fr/mshs-poitiers/xmlify,True
 https://gitlab.huma-num.fr/nakala-tools/nakalot,True
 https://gitlab.huma-num.fr/nakala-tools/nakanav,False
+https://gitlab.huma-num.fr/rzine/documentation,False
 https://gitlab.inria.fr/AlgebraicGeometricModeling/AlgebraicSolvers.jl,True
 https://gitlab.inria.fr/AlgebraicGeometricModeling/Axl.jl,True
 https://gitlab.inria.fr/AlgebraicGeometricModeling/GSplines.jl,True
@@ -3308,7 +3311,7 @@ https://gitlab.inria.fr/RMOD/archive,True
 https://gitlab.inria.fr/Spirals/monsoon,True
 https://gitlab.inria.fr/TeamPlay_Public/TeamPlay_Public_Deliverables,True
 https://gitlab.inria.fr/VeRDi-project/concerto,True
-https://gitlab.inria.fr/VeRDi-project/madeus-journal,False
+https://gitlab.inria.fr/VeRDi-project/madeus-journal,True
 https://gitlab.inria.fr/VeRDi-project/madeus-openstack,False
 https://gitlab.inria.fr/VeRDi-project/madeus-openstack-benchmarks,True
 https://gitlab.inria.fr/WIDE/HyFN,True
@@ -3367,7 +3370,7 @@ https://gitlab.inria.fr/belenios/belenios,True
 https://gitlab.inria.fr/blare/kblare,True
 https://gitlab.inria.fr/blare/kblare-tests,False
 https://gitlab.inria.fr/blare/kblare-tools,True
-https://gitlab.inria.fr/blare/rfblare-tests,False
+https://gitlab.inria.fr/blare/rfblare-tests,True
 https://gitlab.inria.fr/blare/test,True
 https://gitlab.inria.fr/bleuse/procset.py,True
 https://gitlab.inria.fr/bptraffic/star-ips,True
@@ -3545,7 +3548,7 @@ https://gitlab.inria.fr/grid5000/environments-recipes,False
 https://gitlab.inria.fr/grid5000/exhibitv2,False
 https://gitlab.inria.fr/grid5000/g5k-api,True
 https://gitlab.inria.fr/grid5000/g5k-cheat-sheet,False
-https://gitlab.inria.fr/grid5000/g5k-checks,False
+https://gitlab.inria.fr/grid5000/g5k-checks,True
 https://gitlab.inria.fr/grid5000/grid5000-code,False
 https://gitlab.inria.fr/grid5000/i40e,True
 https://gitlab.inria.fr/grid5000/kwapi-g5k,False
@@ -3610,7 +3613,7 @@ https://gitlab.inria.fr/monitoring/opportunistic-rv-conf,False
 https://gitlab.inria.fr/monitoring/rv-dist-pub,False
 https://gitlab.inria.fr/monitoring/rv-multi,False
 https://gitlab.inria.fr/monitoring/themis,False
-https://gitlab.inria.fr/monitoring/themis-artifact-article,False
+https://gitlab.inria.fr/monitoring/themis-artifact-article,True
 https://gitlab.inria.fr/monitoring/themis-artifact-outdated,False
 https://gitlab.inria.fr/monitoring/themis-demo,False
 https://gitlab.inria.fr/monitoring/themis-rv18smarthome,False
