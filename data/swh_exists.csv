@@ -3312,7 +3312,7 @@ https://gitlab.inria.fr/Spirals/monsoon,True
 https://gitlab.inria.fr/TeamPlay_Public/TeamPlay_Public_Deliverables,True
 https://gitlab.inria.fr/VeRDi-project/concerto,True
 https://gitlab.inria.fr/VeRDi-project/madeus-journal,True
-https://gitlab.inria.fr/VeRDi-project/madeus-openstack,False
+https://gitlab.inria.fr/VeRDi-project/madeus-openstack,True
 https://gitlab.inria.fr/VeRDi-project/madeus-openstack-benchmarks,True
 https://gitlab.inria.fr/WIDE/HyFN,True
 https://gitlab.inria.fr/WIDE/f3c-evaluation,True
@@ -3343,7 +3343,7 @@ https://gitlab.inria.fr/aljanon-experiment-framework/py_loguru_wrapper,True
 https://gitlab.inria.fr/aljanon-experiment-framework/setup_experiment,False
 https://gitlab.inria.fr/aljanon-experiment-framework/teardown_experiment,True
 https://gitlab.inria.fr/allgo/allgo,True
-https://gitlab.inria.fr/allgo/allgo-blog,False
+https://gitlab.inria.fr/allgo/allgo-blog,True
 https://gitlab.inria.fr/allgo/allgo.inria.fr,True
 https://gitlab.inria.fr/allgo/doc,True
 https://gitlab.inria.fr/almanach/alpi,True
@@ -3487,7 +3487,7 @@ https://gitlab.inria.fr/expression-externals/easyloggingpp,True
 https://gitlab.inria.fr/expression-externals/eigen,True
 https://gitlab.inria.fr/expression-externals/kenlm,True
 https://gitlab.inria.fr/expression-externals/mitlm,True
-https://gitlab.inria.fr/fec/MIPP,False
+https://gitlab.inria.fr/fec/MIPP,True
 https://gitlab.inria.fr/fec/PyBER,False
 https://gitlab.inria.fr/flocq/flocq,True
 https://gitlab.inria.fr/flowvr/flowvr-ex,True
@@ -3496,7 +3496,7 @@ https://gitlab.inria.fr/formation-gitlab-ci/my-project-dvojtise,True
 https://gitlab.inria.fr/formation-gitlab-ci/navarop-formation-gitlab-ci,True
 https://gitlab.inria.fr/formation-gitlab-ci/navarop-tutorial,False
 https://gitlab.inria.fr/formation-gitlab-ci/tutio-ci-andrade,False
-https://gitlab.inria.fr/formation-gitlab-ci/tuto-ci-edib,False
+https://gitlab.inria.fr/formation-gitlab-ci/tuto-ci-edib,True
 https://gitlab.inria.fr/foscadiff/demoRameau,False
 https://gitlab.inria.fr/gagallium/gagallium,True
 https://gitlab.inria.fr/gagallium/gagallium-save,True
@@ -3609,7 +3609,7 @@ https://gitlab.inria.fr/mnemosyne/vanilla_nn,False
 https://gitlab.inria.fr/moex/class,False
 https://gitlab.inria.fr/moex/linkex,False
 https://gitlab.inria.fr/moex/linkky,False
-https://gitlab.inria.fr/monitoring/opportunistic-rv-conf,False
+https://gitlab.inria.fr/monitoring/opportunistic-rv-conf,True
 https://gitlab.inria.fr/monitoring/rv-dist-pub,False
 https://gitlab.inria.fr/monitoring/rv-multi,False
 https://gitlab.inria.fr/monitoring/themis,False
@@ -3664,7 +3664,7 @@ https://gitlab.inria.fr/ordo-bdx/io-peak,False
 https://gitlab.inria.fr/ordo-bdx/nrrp-with-starpu,False
 https://gitlab.inria.fr/orpailleur/sofia-docker,False
 https://gitlab.inria.fr/panama-team/blaster,False
-https://gitlab.inria.fr/parallel-replica/gen.parRep,False
+https://gitlab.inria.fr/parallel-replica/gen.parRep,True
 https://gitlab.inria.fr/parallel-replica/qsd.gen.samples,False
 https://gitlab.inria.fr/parseme-fr/mwe-mg,False
 https://gitlab.inria.fr/patate/patate,False
