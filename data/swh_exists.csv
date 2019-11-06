@@ -573,7 +573,7 @@ https://github.com/EDS-APHP/LightICE,True
 https://github.com/EDS-APHP/SparkPdfExtractor,False
 https://github.com/EDS-APHP/TalendComponents,True
 https://github.com/EDS-APHP/UimaOnSpark,True
-https://github.com/EDS-APHP/awesome-french-hospitals,False
+https://github.com/EDS-APHP/awesome-french-hospitals,True
 https://github.com/EDS-APHP/brat,False
 https://github.com/EDS-APHP/docker-nvidia-9.1-cudnn7-datascience,False
 https://github.com/EDS-APHP/dsfaker,True
@@ -3283,7 +3283,7 @@ https://gitlab.inria.fr/Loki/PolyphonyECS,True
 https://gitlab.inria.fr/MUSIC/dtk,True
 https://gitlab.inria.fr/Madeus/mad,True
 https://gitlab.inria.fr/Madeus/mad-openstack,True
-https://gitlab.inria.fr/MarTo/marto,False
+https://gitlab.inria.fr/MarTo/marto,True
 https://gitlab.inria.fr/MoReFEM/ThirdPartyCompilationFactory,True
 https://gitlab.inria.fr/NGS/ALTree,True
 https://gitlab.inria.fr/NGS/decova,True
@@ -3323,7 +3323,7 @@ https://gitlab.inria.fr/WellInverter/WellInverter_Standalone_Windows,False
 https://gitlab.inria.fr/adjoint-computation/disk-revolve-public,True
 https://gitlab.inria.fr/aevol/aevol,False
 https://gitlab.inria.fr/agm/axl,True
-https://gitlab.inria.fr/agm/geoalgebrix,False
+https://gitlab.inria.fr/agm/geoalgebrix,True
 https://gitlab.inria.fr/agm/gspline,True
 https://gitlab.inria.fr/agm/msplinetools,True
 https://gitlab.inria.fr/agm/mypkg,True
@@ -3424,7 +3424,7 @@ https://gitlab.inria.fr/dep2pict/libcaml_dep2pict,False
 https://gitlab.inria.fr/discovery/enoslib,True
 https://gitlab.inria.fr/discovery/keystoneauth,True
 https://gitlab.inria.fr/discovery/keystonemiddleware,False
-https://gitlab.inria.fr/discovery/kolla-ansible,False
+https://gitlab.inria.fr/discovery/kolla-ansible,True
 https://gitlab.inria.fr/discovery/openstackoid,True
 https://gitlab.inria.fr/disrpt/tony,False
 https://gitlab.inria.fr/diu-algo/labyrinthe,True
@@ -3458,7 +3458,7 @@ https://gitlab.inria.fr/dtk/dtk-os,True
 https://gitlab.inria.fr/dtk/dtk-pkg,True
 https://gitlab.inria.fr/dtk/dtk-plugins-continuous-geometry,False
 https://gitlab.inria.fr/dtk/dtk-plugins-distributed,False
-https://gitlab.inria.fr/dtk/dtk-plugins-imaging,False
+https://gitlab.inria.fr/dtk/dtk-plugins-imaging,True
 https://gitlab.inria.fr/dtk/dtk-plugins-io,True
 https://gitlab.inria.fr/dtk/dtk-plugins-linear-algebra-sparse,True
 https://gitlab.inria.fr/dtk/dtk-plugins-math,True
@@ -3531,11 +3531,11 @@ https://gitlab.inria.fr/grew/examples,True
 https://gitlab.inria.fr/grew/grew,False
 https://gitlab.inria.fr/grew/grew_daemon,True
 https://gitlab.inria.fr/grew/grew_demo,False
-https://gitlab.inria.fr/grew/grew_doc,False
+https://gitlab.inria.fr/grew/grew_doc,True
 https://gitlab.inria.fr/grew/grew_gui,False
 https://gitlab.inria.fr/grew/grew_match,False
 https://gitlab.inria.fr/grew/grew_parse,True
-https://gitlab.inria.fr/grew/grew_server,False
+https://gitlab.inria.fr/grew/grew_server,True
 https://gitlab.inria.fr/grew/libcaml-grew,True
 https://gitlab.inria.fr/grew/python,False
 https://gitlab.inria.fr/grid5000/ai_tutorial,False
@@ -3554,7 +3554,7 @@ https://gitlab.inria.fr/grid5000/metrology-api,False
 https://gitlab.inria.fr/grid5000/omegawatt,True
 https://gitlab.inria.fr/grid5000/reference-repository,False
 https://gitlab.inria.fr/grid5000/tutorials,False
-https://gitlab.inria.fr/grid5000/xp5k-openstack,False
+https://gitlab.inria.fr/grid5000/xp5k-openstack,True
 https://gitlab.inria.fr/gt-sw-citation/artifact-archival-swh,False
 https://gitlab.inria.fr/gt-sw-citation/bibtex-sw-entry,False
 https://gitlab.inria.fr/gtpi/inria_skin,False
@@ -3580,7 +3580,7 @@ https://gitlab.inria.fr/lifeware/biocham,True
 https://gitlab.inria.fr/local-implicit-schemes/supplementary-material-numerische-mathematik,True
 https://gitlab.inria.fr/magnet/mangoes,True
 https://gitlab.inria.fr/magnet/nada,True
-https://gitlab.inria.fr/mastertal/UE803,False
+https://gitlab.inria.fr/mastertal/UE803,True
 https://gitlab.inria.fr/matherials/simol,False
 https://gitlab.inria.fr/memcad/clangml,False
 https://gitlab.inria.fr/memcad/clangml-transforms,False
@@ -3660,6 +3660,7 @@ https://gitlab.inria.fr/optimdbs/optimdbs-superproject,True
 https://gitlab.inria.fr/ordo-bdx/io-peak,False
 https://gitlab.inria.fr/ordo-bdx/nrrp-with-starpu,False
 https://gitlab.inria.fr/orpailleur/sofia-docker,False
+https://gitlab.inria.fr/panama-team/blaster,False
 https://gitlab.inria.fr/parallel-replica/gen.parRep,False
 https://gitlab.inria.fr/parallel-replica/qsd.gen.samples,False
 https://gitlab.inria.fr/parseme-fr/mwe-mg,False
@@ -3691,6 +3692,7 @@ https://gitlab.inria.fr/sed-rennes/VR-Three.js,False
 https://gitlab.inria.fr/sed-rennes/gforge-to-gitlab-scripts,False
 https://gitlab.inria.fr/sed-rennes/sharelatex-website,False
 https://gitlab.inria.fr/sed-saclay/TutorielGitlabPages,False
+https://gitlab.inria.fr/sed-saclay/formulairesdemandesingenieur,False
 https://gitlab.inria.fr/sequoia/deep-sequoia,True
 https://gitlab.inria.fr/serpico/3d-flow-assessment,True
 https://gitlab.inria.fr/serpico/airyscanj_bin,True
