@@ -3404,7 +3404,7 @@ https://gitlab.inria.fr/coq/coq,True
 https://gitlab.inria.fr/coq/wiki-backup,True
 https://gitlab.inria.fr/coqinterval/interval,True
 https://gitlab.inria.fr/coquelicot/coquelicot,True
-https://gitlab.inria.fr/corese/corese-lab,False
+https://gitlab.inria.fr/corese/corese-lab,True
 https://gitlab.inria.fr/croco-ocean/croco,True
 https://gitlab.inria.fr/croco-ocean/croco_tools,True
 https://gitlab.inria.fr/crv14/benchmarks,False
@@ -3444,7 +3444,7 @@ https://gitlab.inria.fr/dtk/dtk-containers,False
 https://gitlab.inria.fr/dtk/dtk-continuous-geometry,False
 https://gitlab.inria.fr/dtk/dtk-core,True
 https://gitlab.inria.fr/dtk/dtk-core-python,True
-https://gitlab.inria.fr/dtk/dtk-cross,False
+https://gitlab.inria.fr/dtk/dtk-cross,True
 https://gitlab.inria.fr/dtk/dtk-discrete-geometry,False
 https://gitlab.inria.fr/dtk/dtk-doc,True
 https://gitlab.inria.fr/dtk/dtk-fem,True
@@ -3460,7 +3460,7 @@ https://gitlab.inria.fr/dtk/dtk-macs,False
 https://gitlab.inria.fr/dtk/dtk-os,True
 https://gitlab.inria.fr/dtk/dtk-pkg,True
 https://gitlab.inria.fr/dtk/dtk-plugins-continuous-geometry,False
-https://gitlab.inria.fr/dtk/dtk-plugins-distributed,False
+https://gitlab.inria.fr/dtk/dtk-plugins-distributed,True
 https://gitlab.inria.fr/dtk/dtk-plugins-imaging,True
 https://gitlab.inria.fr/dtk/dtk-plugins-io,True
 https://gitlab.inria.fr/dtk/dtk-plugins-linear-algebra-sparse,True
@@ -3483,6 +3483,7 @@ https://gitlab.inria.fr/epione_ML/mcvae,True
 https://gitlab.inria.fr/evalanon/enoslib,False
 https://gitlab.inria.fr/evalanon/python-distem,True
 https://gitlab.inria.fr/evalys/big-data-hpc-g5k-expe-tools,True
+https://gitlab.inria.fr/experiments/intel-cat_experiments,False
 https://gitlab.inria.fr/expression-externals/easyloggingpp,True
 https://gitlab.inria.fr/expression-externals/eigen,True
 https://gitlab.inria.fr/expression-externals/kenlm,True
@@ -3553,14 +3554,14 @@ https://gitlab.inria.fr/grid5000/grid5000-code,False
 https://gitlab.inria.fr/grid5000/i40e,True
 https://gitlab.inria.fr/grid5000/kwapi-g5k,True
 https://gitlab.inria.fr/grid5000/megaraid_sas,False
-https://gitlab.inria.fr/grid5000/metrology-api,False
+https://gitlab.inria.fr/grid5000/metrology-api,True
 https://gitlab.inria.fr/grid5000/omegawatt,True
 https://gitlab.inria.fr/grid5000/reference-repository,False
 https://gitlab.inria.fr/grid5000/tutorials,False
 https://gitlab.inria.fr/grid5000/xp5k-openstack,True
 https://gitlab.inria.fr/gt-sw-citation/artifact-archival-swh,False
 https://gitlab.inria.fr/gt-sw-citation/bibtex-sw-entry,False
-https://gitlab.inria.fr/gtpi/inria_skin,False
+https://gitlab.inria.fr/gtpi/inria_skin,True
 https://gitlab.inria.fr/guix-hpc/guix-hpc,True
 https://gitlab.inria.fr/guix-hpc/guix-hpc-non-free,False
 https://gitlab.inria.fr/guix-hpc/guix-kernel,True
@@ -3576,7 +3577,7 @@ https://gitlab.inria.fr/kstar/clang-omp,False
 https://gitlab.inria.fr/kstar/kstar,False
 https://gitlab.inria.fr/learninglab/mooc-bioinfo,False
 https://gitlab.inria.fr/learninglab/mooc-forum-plugin,False
-https://gitlab.inria.fr/learninglab/mooc-forums-theme,False
+https://gitlab.inria.fr/learninglab/mooc-forums-theme,True
 https://gitlab.inria.fr/learninglab/mooc-mr-notebooks,True
 https://gitlab.inria.fr/learninglab/mooc-rr/mooc-rr-apps,False
 https://gitlab.inria.fr/lifeware/biocham,True
@@ -3670,7 +3671,7 @@ https://gitlab.inria.fr/parseme-fr/mwe-mg,False
 https://gitlab.inria.fr/patate/patate,False
 https://gitlab.inria.fr/piper/anatomydb,False
 https://gitlab.inria.fr/piper/application,False
-https://gitlab.inria.fr/piper/child,False
+https://gitlab.inria.fr/piper/child,True
 https://gitlab.inria.fr/piper/child_pedestrian,False
 https://gitlab.inria.fr/piper/misc_models,False
 https://gitlab.inria.fr/piper/viva,False
