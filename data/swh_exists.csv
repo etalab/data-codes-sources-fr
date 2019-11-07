@@ -144,7 +144,7 @@ https://git.unistra.fr/SPA18-T4-A/T4,True
 https://git.unistra.fr/SPA18-T4-C/diabete_simulator,True
 https://git.unistra.fr/SPA18-T4-D/PathOfDiabete,True
 https://git.unistra.fr/T3/NaoBalle,True
-https://git.unistra.fr/T3/NaoCarte,False
+https://git.unistra.fr/T3/NaoCarte,True
 https://git.unistra.fr/T3/NaoDanse,True
 https://git.unistra.fr/T3/NaoInfo,True
 https://git.unistra.fr/T3_MIH18_T3_A/RuleZaWarudo,True
@@ -591,7 +591,7 @@ https://github.com/EDS-APHP/pylivy,True
 https://github.com/EDS-APHP/spark-opti,True
 https://github.com/EDS-APHP/spark-postgres,False
 https://github.com/EDS-APHP/tag_serve,True
-https://github.com/EDS-APHP/uima-aphp,False
+https://github.com/EDS-APHP/uima-aphp,True
 https://github.com/EDS-APHP/yarn-manager,True
 https://github.com/GendarmerieNationale/FlowTracker,True
 https://github.com/GendarmerieNationale/GendLoc-,True
@@ -1956,7 +1956,7 @@ https://github.com/entrepreneur-interet-general/CartoBio-API,True
 https://github.com/entrepreneur-interet-general/CartoBio-Presentation,True
 https://github.com/entrepreneur-interet-general/ESOTIM,True
 https://github.com/entrepreneur-interet-general/H3.Standard,True
-https://github.com/entrepreneur-interet-general/MaFamilleIci,False
+https://github.com/entrepreneur-interet-general/MaFamilleIci,True
 https://github.com/entrepreneur-interet-general/Merge-Machine,True
 https://github.com/entrepreneur-interet-general/OpenScraper,True
 https://github.com/entrepreneur-interet-general/PST2Win,True
@@ -2194,7 +2194,7 @@ https://github.com/etalab/docker-ansible-git-crypt,True
 https://github.com/etalab/docker-datagouv,True
 https://github.com/etalab/dotation-globale-fonctionnement,True
 https://github.com/etalab/dvf,True
-https://github.com/etalab/economiecirculaire,False
+https://github.com/etalab/economiecirculaire,True
 https://github.com/etalab/edigeo-parser,True
 https://github.com/etalab/edigeo-reproject,True
 https://github.com/etalab/editeur-bal,True
@@ -2716,6 +2716,7 @@ https://github.com/observatoire-territoires/SOFIE,True
 https://github.com/observatoire-territoires/couvnum,True
 https://github.com/observatoire-territoires/migR,True
 https://github.com/observatoire-territoires/rapport-OT-mobilites,True
+https://github.com/observatoire-territoires/sageo2019,False
 https://github.com/observatoire-territoires/sgf,True
 https://github.com/observatoire-territoires/shinyapp_mob_resid,True
 https://github.com/observatoire-territoires/specificite,True
@@ -3395,7 +3396,7 @@ https://gitlab.inria.fr/citi-lab/sytare,True
 https://gitlab.inria.fr/citi-lab/sytare-public,True
 https://gitlab.inria.fr/coding-dojo-saclay/Blockchain,True
 https://gitlab.inria.fr/coding-dojo-saclay/ChronalCoords.jl,False
-https://gitlab.inria.fr/coding-dojo-saclay/ChronalCoords2.jl,False
+https://gitlab.inria.fr/coding-dojo-saclay/ChronalCoords2.jl,True
 https://gitlab.inria.fr/come4acloud/xaas,True
 https://gitlab.inria.fr/compass/compass,True
 https://gitlab.inria.fr/compass/meshtools,True
@@ -3426,7 +3427,7 @@ https://gitlab.inria.fr/dep2pict/dep2pict_gui,True
 https://gitlab.inria.fr/dep2pict/libcaml_dep2pict,False
 https://gitlab.inria.fr/discovery/enoslib,True
 https://gitlab.inria.fr/discovery/keystoneauth,True
-https://gitlab.inria.fr/discovery/keystonemiddleware,False
+https://gitlab.inria.fr/discovery/keystonemiddleware,True
 https://gitlab.inria.fr/discovery/kolla-ansible,True
 https://gitlab.inria.fr/discovery/openstackoid,True
 https://gitlab.inria.fr/disrpt/tony,False
@@ -3448,7 +3449,7 @@ https://gitlab.inria.fr/dtk/dtk-cross,True
 https://gitlab.inria.fr/dtk/dtk-discrete-geometry,False
 https://gitlab.inria.fr/dtk/dtk-doc,True
 https://gitlab.inria.fr/dtk/dtk-fem,True
-https://gitlab.inria.fr/dtk/dtk-fonts,False
+https://gitlab.inria.fr/dtk/dtk-fonts,True
 https://gitlab.inria.fr/dtk/dtk-imaging,True
 https://gitlab.inria.fr/dtk/dtk-imaging-python,True
 https://gitlab.inria.fr/dtk/dtk-io,True
@@ -3468,7 +3469,7 @@ https://gitlab.inria.fr/dtk/dtk-plugins-math,True
 https://gitlab.inria.fr/dtk/dtk-script,True
 https://gitlab.inria.fr/dtk/dtk-symbolic,True
 https://gitlab.inria.fr/dtk/dtk-themes,True
-https://gitlab.inria.fr/dtk/dtk-tutorials,False
+https://gitlab.inria.fr/dtk/dtk-tutorials,True
 https://gitlab.inria.fr/dtk/dtk-visual-programming,False
 https://gitlab.inria.fr/dtk/dtk-visualization,True
 https://gitlab.inria.fr/dtk/dtk-visualization-python,True
@@ -3496,7 +3497,7 @@ https://gitlab.inria.fr/formation-gitlab-ci/grossamb-tutorial,False
 https://gitlab.inria.fr/formation-gitlab-ci/my-project-dvojtise,True
 https://gitlab.inria.fr/formation-gitlab-ci/navarop-formation-gitlab-ci,True
 https://gitlab.inria.fr/formation-gitlab-ci/navarop-tutorial,False
-https://gitlab.inria.fr/formation-gitlab-ci/tutio-ci-andrade,False
+https://gitlab.inria.fr/formation-gitlab-ci/tutio-ci-andrade,True
 https://gitlab.inria.fr/formation-gitlab-ci/tuto-ci-edib,True
 https://gitlab.inria.fr/foscadiff/demoRameau,False
 https://gitlab.inria.fr/gagallium/gagallium,True
@@ -3553,7 +3554,7 @@ https://gitlab.inria.fr/grid5000/g5k-checks,True
 https://gitlab.inria.fr/grid5000/grid5000-code,False
 https://gitlab.inria.fr/grid5000/i40e,True
 https://gitlab.inria.fr/grid5000/kwapi-g5k,True
-https://gitlab.inria.fr/grid5000/megaraid_sas,False
+https://gitlab.inria.fr/grid5000/megaraid_sas,True
 https://gitlab.inria.fr/grid5000/metrology-api,True
 https://gitlab.inria.fr/grid5000/omegawatt,True
 https://gitlab.inria.fr/grid5000/reference-repository,False
@@ -3670,7 +3671,7 @@ https://gitlab.inria.fr/parallel-replica/qsd.gen.samples,False
 https://gitlab.inria.fr/parseme-fr/mwe-mg,False
 https://gitlab.inria.fr/patate/patate,False
 https://gitlab.inria.fr/piper/anatomydb,False
-https://gitlab.inria.fr/piper/application,False
+https://gitlab.inria.fr/piper/application,True
 https://gitlab.inria.fr/piper/child,True
 https://gitlab.inria.fr/piper/child_pedestrian,False
 https://gitlab.inria.fr/piper/misc_models,False
