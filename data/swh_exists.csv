@@ -575,13 +575,13 @@ https://github.com/EDS-APHP/TalendComponents,True
 https://github.com/EDS-APHP/UimaOnSpark,True
 https://github.com/EDS-APHP/awesome-french-hospitals,True
 https://github.com/EDS-APHP/brat,False
-https://github.com/EDS-APHP/docker-nvidia-9.1-cudnn7-datascience,False
+https://github.com/EDS-APHP/docker-nvidia-9.1-cudnn7-datascience,True
 https://github.com/EDS-APHP/dsfaker,True
 https://github.com/EDS-APHP/hive-udf,True
 https://github.com/EDS-APHP/i2b2rplugin,True
 https://github.com/EDS-APHP/monitor-view-canvas,False
 https://github.com/EDS-APHP/notebook,False
-https://github.com/EDS-APHP/pancarte-backend,False
+https://github.com/EDS-APHP/pancarte-backend,True
 https://github.com/EDS-APHP/pancarte-db,False
 https://github.com/EDS-APHP/pancarte-front,True
 https://github.com/EDS-APHP/pancarte-website,False
@@ -3279,7 +3279,7 @@ https://gitlab.inria.fr/GardiNet/liblc,True
 https://gitlab.inria.fr/IOTLanguage/IoTCompilertoBIP,True
 https://gitlab.inria.fr/LightFieldCodingLibrary/HEVC,True
 https://gitlab.inria.fr/LightFieldCodingLibrary/LF,True
-https://gitlab.inria.fr/LightFieldCodingLibrary/SR,False
+https://gitlab.inria.fr/LightFieldCodingLibrary/SR,True
 https://gitlab.inria.fr/LightFieldCodingLibrary/utils,True
 https://gitlab.inria.fr/LightFieldCodingLibrary/yuv,True
 https://gitlab.inria.fr/Loki/PolyphonyECS,True
@@ -3350,7 +3350,7 @@ https://gitlab.inria.fr/almanach/alpi,True
 https://gitlab.inria.fr/alta/alta,True
 https://gitlab.inria.fr/andiamo/eusdisparser,True
 https://gitlab.inria.fr/andiamo/tony,True
-https://gitlab.inria.fr/asbizard/Procedural_modeling_of_multi-scale_galactic_dust,False
+https://gitlab.inria.fr/asbizard/Procedural_modeling_of_multi-scale_galactic_dust,True
 https://gitlab.inria.fr/asclepios/biblio,True
 https://gitlab.inria.fr/aviz/paohvis,True
 https://gitlab.inria.fr/batsim/article-cluster17,True
@@ -3365,7 +3365,7 @@ https://gitlab.inria.fr/batsim/datsched,True
 https://gitlab.inria.fr/batsim/dintervalset,True
 https://gitlab.inria.fr/batsim/evalys,True
 https://gitlab.inria.fr/batsim/pybatsim,True
-https://gitlab.inria.fr/belenios-forks/belenios-swergas,False
+https://gitlab.inria.fr/belenios-forks/belenios-swergas,True
 https://gitlab.inria.fr/belenios/belenios,True
 https://gitlab.inria.fr/blare/kblare,True
 https://gitlab.inria.fr/blare/kblare-tests,False
@@ -3542,10 +3542,10 @@ https://gitlab.inria.fr/grew/grew_server,True
 https://gitlab.inria.fr/grew/libcaml-grew,True
 https://gitlab.inria.fr/grew/python,False
 https://gitlab.inria.fr/grid5000/ai_tutorial,False
-https://gitlab.inria.fr/grid5000/bigdata-tutorial,False
+https://gitlab.inria.fr/grid5000/bigdata-tutorial,True
 https://gitlab.inria.fr/grid5000/ceph5k,False
 https://gitlab.inria.fr/grid5000/environments-recipes,False
-https://gitlab.inria.fr/grid5000/exhibitv2,False
+https://gitlab.inria.fr/grid5000/exhibitv2,True
 https://gitlab.inria.fr/grid5000/g5k-api,True
 https://gitlab.inria.fr/grid5000/g5k-cheat-sheet,True
 https://gitlab.inria.fr/grid5000/g5k-checks,True
@@ -3564,7 +3564,7 @@ https://gitlab.inria.fr/gtpi/inria_skin,False
 https://gitlab.inria.fr/guix-hpc/guix-hpc,True
 https://gitlab.inria.fr/guix-hpc/guix-hpc-non-free,False
 https://gitlab.inria.fr/guix-hpc/guix-kernel,True
-https://gitlab.inria.fr/guix-hpc/website,False
+https://gitlab.inria.fr/guix-hpc/website,True
 https://gitlab.inria.fr/gv-open/PyLR,False
 https://gitlab.inria.fr/gv-open/pygeobuf,False
 https://gitlab.inria.fr/hsplit/hsplit,True
@@ -3606,7 +3606,7 @@ https://gitlab.inria.fr/mimoza/mimoza,False
 https://gitlab.inria.fr/mnemosyne/data_prototypes,False
 https://gitlab.inria.fr/mnemosyne/neurosmart,False
 https://gitlab.inria.fr/mnemosyne/vanilla_nn,False
-https://gitlab.inria.fr/moex/class,False
+https://gitlab.inria.fr/moex/class,True
 https://gitlab.inria.fr/moex/linkex,False
 https://gitlab.inria.fr/moex/linkky,False
 https://gitlab.inria.fr/monitoring/opportunistic-rv-conf,True
