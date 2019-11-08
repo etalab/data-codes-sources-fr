@@ -579,10 +579,10 @@ https://github.com/EDS-APHP/docker-nvidia-9.1-cudnn7-datascience,True
 https://github.com/EDS-APHP/dsfaker,True
 https://github.com/EDS-APHP/hive-udf,True
 https://github.com/EDS-APHP/i2b2rplugin,True
-https://github.com/EDS-APHP/monitor-view-canvas,False
+https://github.com/EDS-APHP/monitor-view-canvas,True
 https://github.com/EDS-APHP/notebook,False
 https://github.com/EDS-APHP/pancarte-backend,True
-https://github.com/EDS-APHP/pancarte-db,False
+https://github.com/EDS-APHP/pancarte-db,True
 https://github.com/EDS-APHP/pancarte-front,True
 https://github.com/EDS-APHP/pancarte-website,False
 https://github.com/EDS-APHP/py-hdfs-mount,True
@@ -2862,6 +2862,7 @@ https://github.com/openfun/libcast-xblock,True
 https://github.com/openfun/mail-fun-edx,True
 https://github.com/openfun/maintenance-page,True
 https://github.com/openfun/marsha,True
+https://github.com/openfun/marsha-plugins,False
 https://github.com/openfun/matplotlib,True
 https://github.com/openfun/nantes-oer,True
 https://github.com/openfun/nltk,True
@@ -3377,7 +3378,7 @@ https://gitlab.inria.fr/bleuse/procset.py,True
 https://gitlab.inria.fr/bptraffic/star-ips,True
 https://gitlab.inria.fr/cedar/RDFQuotient,True
 https://gitlab.inria.fr/cedar/daggerWithSampling,True
-https://gitlab.inria.fr/cedar/excel-extractor,False
+https://gitlab.inria.fr/cedar/excel-extractor,True
 https://gitlab.inria.fr/cedar/excel-search,True
 https://gitlab.inria.fr/cedar/extraction-test,True
 https://gitlab.inria.fr/cedar/insee-crawler,True
@@ -3531,14 +3532,14 @@ https://gitlab.inria.fr/grew/POStoSSQ,True
 https://gitlab.inria.fr/grew/SSQ_UD,True
 https://gitlab.inria.fr/grew/SSQtoDSQ,True
 https://gitlab.inria.fr/grew/SUD,True
-https://gitlab.inria.fr/grew/UDtoAUD,False
+https://gitlab.inria.fr/grew/UDtoAUD,True
 https://gitlab.inria.fr/grew/examples,True
 https://gitlab.inria.fr/grew/grew,False
 https://gitlab.inria.fr/grew/grew_daemon,True
 https://gitlab.inria.fr/grew/grew_demo,False
 https://gitlab.inria.fr/grew/grew_doc,True
 https://gitlab.inria.fr/grew/grew_gui,True
-https://gitlab.inria.fr/grew/grew_match,False
+https://gitlab.inria.fr/grew/grew_match,True
 https://gitlab.inria.fr/grew/grew_parse,True
 https://gitlab.inria.fr/grew/grew_server,True
 https://gitlab.inria.fr/grew/libcaml-grew,True
@@ -3564,7 +3565,7 @@ https://gitlab.inria.fr/gt-sw-citation/artifact-archival-swh,False
 https://gitlab.inria.fr/gt-sw-citation/bibtex-sw-entry,False
 https://gitlab.inria.fr/gtpi/inria_skin,True
 https://gitlab.inria.fr/guix-hpc/guix-hpc,True
-https://gitlab.inria.fr/guix-hpc/guix-hpc-non-free,False
+https://gitlab.inria.fr/guix-hpc/guix-hpc-non-free,True
 https://gitlab.inria.fr/guix-hpc/guix-kernel,True
 https://gitlab.inria.fr/guix-hpc/website,True
 https://gitlab.inria.fr/gv-open/PyLR,False
@@ -3576,7 +3577,7 @@ https://gitlab.inria.fr/kameleon/kameleon-recipes,False
 https://gitlab.inria.fr/kirikomics/hglib,False
 https://gitlab.inria.fr/kstar/clang-omp,False
 https://gitlab.inria.fr/kstar/kstar,False
-https://gitlab.inria.fr/learninglab/mooc-bioinfo,False
+https://gitlab.inria.fr/learninglab/mooc-bioinfo,True
 https://gitlab.inria.fr/learninglab/mooc-forum-plugin,False
 https://gitlab.inria.fr/learninglab/mooc-forums-theme,True
 https://gitlab.inria.fr/learninglab/mooc-mr-notebooks,True
