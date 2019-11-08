@@ -1911,7 +1911,7 @@ https://github.com/diplomatiegouvfr/tomcat8-instance,True
 https://github.com/diverse-project/CapellaRover,True
 https://github.com/diverse-project/ContreMaitre,True
 https://github.com/diverse-project/InspectorGuidget,True
-https://github.com/diverse-project/MML-classification,False
+https://github.com/diverse-project/MML-classification,True
 https://github.com/diverse-project/MML-regression,True
 https://github.com/diverse-project/RA2018,True
 https://github.com/diverse-project/SAT-DSLmorphic,True
@@ -3490,16 +3490,16 @@ https://gitlab.inria.fr/expression-externals/eigen,True
 https://gitlab.inria.fr/expression-externals/kenlm,True
 https://gitlab.inria.fr/expression-externals/mitlm,True
 https://gitlab.inria.fr/fec/MIPP,True
-https://gitlab.inria.fr/fec/PyBER,False
+https://gitlab.inria.fr/fec/PyBER,True
 https://gitlab.inria.fr/flocq/flocq,True
 https://gitlab.inria.fr/flowvr/flowvr-ex,True
-https://gitlab.inria.fr/formation-gitlab-ci/grossamb-tutorial,False
+https://gitlab.inria.fr/formation-gitlab-ci/grossamb-tutorial,True
 https://gitlab.inria.fr/formation-gitlab-ci/my-project-dvojtise,True
 https://gitlab.inria.fr/formation-gitlab-ci/navarop-formation-gitlab-ci,True
 https://gitlab.inria.fr/formation-gitlab-ci/navarop-tutorial,False
 https://gitlab.inria.fr/formation-gitlab-ci/tutio-ci-andrade,True
 https://gitlab.inria.fr/formation-gitlab-ci/tuto-ci-edib,True
-https://gitlab.inria.fr/foscadiff/demoRameau,False
+https://gitlab.inria.fr/foscadiff/demoRameau,True
 https://gitlab.inria.fr/gagallium/gagallium,True
 https://gitlab.inria.fr/gagallium/gagallium-save,True
 https://gitlab.inria.fr/gagallium/gagallium-source,False
@@ -3628,7 +3628,7 @@ https://gitlab.inria.fr/mosaic/tissue_analysis,True
 https://gitlab.inria.fr/mosaic/tissue_nukem_3d,True
 https://gitlab.inria.fr/mosaic/tissue_paredes,True
 https://gitlab.inria.fr/myriads-team/python-distem,False
-https://gitlab.inria.fr/necs-open/RainbowVis-JS,False
+https://gitlab.inria.fr/necs-open/RainbowVis-JS,True
 https://gitlab.inria.fr/necs-open/braincrafted.bootstrap-bundle,False
 https://gitlab.inria.fr/necs-open/jsonpath-plus,False
 https://gitlab.inria.fr/necs-open/promise-polyfill,False
@@ -3643,7 +3643,7 @@ https://gitlab.inria.fr/nix-tutorial/presentation-slides,False
 https://gitlab.inria.fr/obelix/broceliande,False
 https://gitlab.inria.fr/obelix/triskele,False
 https://gitlab.inria.fr/openmp/clang,False
-https://gitlab.inria.fr/openmp/energy,False
+https://gitlab.inria.fr/openmp/energy,True
 https://gitlab.inria.fr/openmp/enertools,False
 https://gitlab.inria.fr/openmp/experiments-hashmaps,False
 https://gitlab.inria.fr/openmp/kaapi,False
