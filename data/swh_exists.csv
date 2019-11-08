@@ -2893,6 +2893,7 @@ https://github.com/polewebmaedi/MAEDI-Capitales,True
 https://github.com/polewebmaedi/MAEDI-Pays,True
 https://github.com/polewebmaedi/countries,True
 https://github.com/polewebmaedi/natural-earth-vector,True
+https://github.com/powerapi-ng/hwpc-sensor,False
 https://github.com/powerapi-ng/powerapi,True
 https://github.com/powerapi-ng/powerapi-ng.github.io,True
 https://github.com/powerapi-ng/powerapi-scala,True
@@ -3238,7 +3239,7 @@ https://gitlab.huma-num.fr/lamop/moamo,True
 https://gitlab.huma-num.fr/lamop/nakala,True
 https://gitlab.huma-num.fr/lamop/nasa,True
 https://gitlab.huma-num.fr/lamop/studium,True
-https://gitlab.huma-num.fr/lamop/studium-baldwin,False
+https://gitlab.huma-num.fr/lamop/studium-baldwin,True
 https://gitlab.huma-num.fr/lamop/test,True
 https://gitlab.huma-num.fr/lamop/topama,True
 https://gitlab.huma-num.fr/lamop/topama-eveches,True
@@ -3396,7 +3397,7 @@ https://gitlab.inria.fr/citi-lab/dycton,True
 https://gitlab.inria.fr/citi-lab/sytare,True
 https://gitlab.inria.fr/citi-lab/sytare-public,True
 https://gitlab.inria.fr/coding-dojo-saclay/Blockchain,True
-https://gitlab.inria.fr/coding-dojo-saclay/ChronalCoords.jl,False
+https://gitlab.inria.fr/coding-dojo-saclay/ChronalCoords.jl,True
 https://gitlab.inria.fr/coding-dojo-saclay/ChronalCoords2.jl,True
 https://gitlab.inria.fr/come4acloud/xaas,True
 https://gitlab.inria.fr/compass/compass,True
@@ -3443,7 +3444,7 @@ https://gitlab.inria.fr/dtk/dtk-composer,True
 https://gitlab.inria.fr/dtk/dtk-compositions,False
 https://gitlab.inria.fr/dtk/dtk-conda-recipes,True
 https://gitlab.inria.fr/dtk/dtk-containers,False
-https://gitlab.inria.fr/dtk/dtk-continuous-geometry,False
+https://gitlab.inria.fr/dtk/dtk-continuous-geometry,True
 https://gitlab.inria.fr/dtk/dtk-core,True
 https://gitlab.inria.fr/dtk/dtk-core-python,True
 https://gitlab.inria.fr/dtk/dtk-cross,True
@@ -3497,7 +3498,7 @@ https://gitlab.inria.fr/flowvr/flowvr-ex,True
 https://gitlab.inria.fr/formation-gitlab-ci/grossamb-tutorial,True
 https://gitlab.inria.fr/formation-gitlab-ci/my-project-dvojtise,True
 https://gitlab.inria.fr/formation-gitlab-ci/navarop-formation-gitlab-ci,True
-https://gitlab.inria.fr/formation-gitlab-ci/navarop-tutorial,False
+https://gitlab.inria.fr/formation-gitlab-ci/navarop-tutorial,True
 https://gitlab.inria.fr/formation-gitlab-ci/tutio-ci-andrade,True
 https://gitlab.inria.fr/formation-gitlab-ci/tuto-ci-edib,True
 https://gitlab.inria.fr/foscadiff/demoRameau,True
@@ -3547,7 +3548,7 @@ https://gitlab.inria.fr/grew/python,False
 https://gitlab.inria.fr/grid5000/ai_tutorial,False
 https://gitlab.inria.fr/grid5000/bigdata-tutorial,True
 https://gitlab.inria.fr/grid5000/ceph5k,False
-https://gitlab.inria.fr/grid5000/environments-recipes,False
+https://gitlab.inria.fr/grid5000/environments-recipes,True
 https://gitlab.inria.fr/grid5000/exhibitv2,True
 https://gitlab.inria.fr/grid5000/g5k-api,True
 https://gitlab.inria.fr/grid5000/g5k-cheat-sheet,True
@@ -3590,7 +3591,7 @@ https://gitlab.inria.fr/mastertal/UE803,True
 https://gitlab.inria.fr/matherials/simol,False
 https://gitlab.inria.fr/memcad/clangml,False
 https://gitlab.inria.fr/memcad/clangml-transforms,False
-https://gitlab.inria.fr/memphis/nemo,False
+https://gitlab.inria.fr/memphis/nemo,True
 https://gitlab.inria.fr/metapart/copart,False
 https://gitlab.inria.fr/metapart/libgraph,False
 https://gitlab.inria.fr/metapart/mirror,True
@@ -3607,8 +3608,8 @@ https://gitlab.inria.fr/mgkit/syntax_hightlighting_smg,True
 https://gitlab.inria.fr/miet/miet,False
 https://gitlab.inria.fr/mimoza/mimoza,False
 https://gitlab.inria.fr/mnemosyne/data_prototypes,False
-https://gitlab.inria.fr/mnemosyne/neurosmart,False
-https://gitlab.inria.fr/mnemosyne/vanilla_nn,False
+https://gitlab.inria.fr/mnemosyne/neurosmart,True
+https://gitlab.inria.fr/mnemosyne/vanilla_nn,True
 https://gitlab.inria.fr/moex/class,True
 https://gitlab.inria.fr/moex/linkex,False
 https://gitlab.inria.fr/moex/linkky,False
@@ -3634,7 +3635,7 @@ https://gitlab.inria.fr/necs-open/braincrafted.bootstrap-bundle,False
 https://gitlab.inria.fr/necs-open/jsonpath-plus,False
 https://gitlab.inria.fr/necs-open/promise-polyfill,False
 https://gitlab.inria.fr/necs-open/typeahead.js-bootstrap4-css,False
-https://gitlab.inria.fr/necs_lib/SOCI,False
+https://gitlab.inria.fr/necs_lib/SOCI,True
 https://gitlab.inria.fr/necs_lib/boost-process,False
 https://gitlab.inria.fr/nix-tutorial/chord-experiments,False
 https://gitlab.inria.fr/nix-tutorial/chord-tuto-nix-2019,False
@@ -3691,7 +3692,7 @@ https://gitlab.inria.fr/scripta/escriptorium,False
 https://gitlab.inria.fr/sed-bso/cmake,False
 https://gitlab.inria.fr/sed-bso/heat,False
 https://gitlab.inria.fr/sed-bso/sonarqube,False
-https://gitlab.inria.fr/sed-lille/game-of-codes-utils,False
+https://gitlab.inria.fr/sed-lille/game-of-codes-utils,True
 https://gitlab.inria.fr/sed-paris/codingdojo,False
 https://gitlab.inria.fr/sed-paris/developer-meetups,False
 https://gitlab.inria.fr/sed-rennes/VR-Three.js,False
@@ -3715,6 +3716,7 @@ https://gitlab.inria.fr/siteadmin/doc,False
 https://gitlab.inria.fr/siteadmin/gitlab_import_ildap_group_members,False
 https://gitlab.inria.fr/siteadmin/publictest,False
 https://gitlab.inria.fr/skeletons/Coq,False
+https://gitlab.inria.fr/skeletons/jskel,False
 https://gitlab.inria.fr/skeletons/necro,False
 https://gitlab.inria.fr/skelton/pyskelton,False
 https://gitlab.inria.fr/skelton/skelton2,False
