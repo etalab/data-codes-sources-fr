@@ -3184,6 +3184,7 @@ https://gitlab.com/dreal-datalab/communications,True
 https://gitlab.com/dreal-datalab/drealdown,True
 https://gitlab.com/dreal-datalab/drealthemes,True
 https://gitlab.com/dreal-datalab/poc-enr-teo,True
+https://gitlab.com/dreal-datalab/reseauchaleur,False
 https://gitlab.com/dreal-datalab/rrrpls,True
 https://gitlab.com/dreal-datalab/shinydreal,True
 https://gitlab.com/france-mobilites/documents-marches-publics,True
@@ -3486,7 +3487,7 @@ https://gitlab.inria.fr/epione_ML/mcvae,True
 https://gitlab.inria.fr/evalanon/enoslib,False
 https://gitlab.inria.fr/evalanon/python-distem,True
 https://gitlab.inria.fr/evalys/big-data-hpc-g5k-expe-tools,True
-https://gitlab.inria.fr/experiments/intel-cat_experiments,False
+https://gitlab.inria.fr/experiments/intel-cat_experiments,True
 https://gitlab.inria.fr/expression-externals/easyloggingpp,True
 https://gitlab.inria.fr/expression-externals/eigen,True
 https://gitlab.inria.fr/expression-externals/kenlm,True
@@ -3559,7 +3560,7 @@ https://gitlab.inria.fr/grid5000/kwapi-g5k,True
 https://gitlab.inria.fr/grid5000/megaraid_sas,True
 https://gitlab.inria.fr/grid5000/metrology-api,True
 https://gitlab.inria.fr/grid5000/omegawatt,True
-https://gitlab.inria.fr/grid5000/reference-repository,False
+https://gitlab.inria.fr/grid5000/reference-repository,True
 https://gitlab.inria.fr/grid5000/tutorials,False
 https://gitlab.inria.fr/grid5000/xp5k-openstack,True
 https://gitlab.inria.fr/gt-sw-citation/artifact-archival-swh,False
@@ -3596,7 +3597,7 @@ https://gitlab.inria.fr/metapart/copart,False
 https://gitlab.inria.fr/metapart/libgraph,False
 https://gitlab.inria.fr/metapart/mirror,True
 https://gitlab.inria.fr/metapart/scotch,False
-https://gitlab.inria.fr/metapart/starpart,False
+https://gitlab.inria.fr/metapart/starpart,True
 https://gitlab.inria.fr/metapart/walshaw,False
 https://gitlab.inria.fr/mfx/icesl-documentation,False
 https://gitlab.inria.fr/mfx/icesl-public,False
@@ -3632,7 +3633,7 @@ https://gitlab.inria.fr/mosaic/tissue_paredes,True
 https://gitlab.inria.fr/myriads-team/python-distem,False
 https://gitlab.inria.fr/necs-open/RainbowVis-JS,True
 https://gitlab.inria.fr/necs-open/braincrafted.bootstrap-bundle,False
-https://gitlab.inria.fr/necs-open/jsonpath-plus,False
+https://gitlab.inria.fr/necs-open/jsonpath-plus,True
 https://gitlab.inria.fr/necs-open/promise-polyfill,False
 https://gitlab.inria.fr/necs-open/typeahead.js-bootstrap4-css,False
 https://gitlab.inria.fr/necs_lib/SOCI,True
@@ -3646,7 +3647,7 @@ https://gitlab.inria.fr/obelix/broceliande,False
 https://gitlab.inria.fr/obelix/triskele,False
 https://gitlab.inria.fr/openmp/clang,False
 https://gitlab.inria.fr/openmp/energy,True
-https://gitlab.inria.fr/openmp/enertools,False
+https://gitlab.inria.fr/openmp/enertools,True
 https://gitlab.inria.fr/openmp/experiments-hashmaps,False
 https://gitlab.inria.fr/openmp/kaapi,False
 https://gitlab.inria.fr/openmp/kastors,False
@@ -3718,12 +3719,12 @@ https://gitlab.inria.fr/siteadmin/publictest,False
 https://gitlab.inria.fr/skeletons/Coq,False
 https://gitlab.inria.fr/skeletons/jskel,False
 https://gitlab.inria.fr/skeletons/necro,False
-https://gitlab.inria.fr/skelton/pyskelton,False
+https://gitlab.inria.fr/skelton/pyskelton,True
 https://gitlab.inria.fr/skelton/skelton2,False
 https://gitlab.inria.fr/solverstack/ScalFMM,False
 https://gitlab.inria.fr/solverstack/chameleon,False
 https://gitlab.inria.fr/solverstack/fabulous,True
-https://gitlab.inria.fr/solverstack/genfem,False
+https://gitlab.inria.fr/solverstack/genfem,True
 https://gitlab.inria.fr/solverstack/h2p3s,False
 https://gitlab.inria.fr/solverstack/hips,False
 https://gitlab.inria.fr/solverstack/hqr,False
@@ -3740,7 +3741,7 @@ https://gitlab.inria.fr/source_code/ai_paper_code,False
 https://gitlab.inria.fr/star-explain/fjs_of_fml,False
 https://gitlab.inria.fr/star-explain/jsexplain,False
 https://gitlab.inria.fr/star-explain/opam-repository,False
-https://gitlab.inria.fr/synalp/python4nlp-2019-public,False
+https://gitlab.inria.fr/synalp/python4nlp-2019-public,True
 https://gitlab.inria.fr/synalp/website,False
 https://gitlab.inria.fr/synchrone/heptagon,False
 https://gitlab.inria.fr/thoth/spams-devel,False
