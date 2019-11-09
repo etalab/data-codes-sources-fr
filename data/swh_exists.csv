@@ -589,7 +589,7 @@ https://github.com/EDS-APHP/py-hdfs-mount,True
 https://github.com/EDS-APHP/pySyntheticDatasetGenerator,True
 https://github.com/EDS-APHP/pylivy,True
 https://github.com/EDS-APHP/spark-opti,True
-https://github.com/EDS-APHP/spark-postgres,False
+https://github.com/EDS-APHP/spark-postgres,True
 https://github.com/EDS-APHP/tag_serve,True
 https://github.com/EDS-APHP/uima-aphp,True
 https://github.com/EDS-APHP/yarn-manager,True
@@ -3184,7 +3184,7 @@ https://gitlab.com/dreal-datalab/communications,True
 https://gitlab.com/dreal-datalab/drealdown,True
 https://gitlab.com/dreal-datalab/drealthemes,True
 https://gitlab.com/dreal-datalab/poc-enr-teo,True
-https://gitlab.com/dreal-datalab/reseauchaleur,False
+https://gitlab.com/dreal-datalab/reseauchaleur,True
 https://gitlab.com/dreal-datalab/rrrpls,True
 https://gitlab.com/dreal-datalab/shinydreal,True
 https://gitlab.com/france-mobilites/documents-marches-publics,True
@@ -3449,7 +3449,7 @@ https://gitlab.inria.fr/dtk/dtk-continuous-geometry,True
 https://gitlab.inria.fr/dtk/dtk-core,True
 https://gitlab.inria.fr/dtk/dtk-core-python,True
 https://gitlab.inria.fr/dtk/dtk-cross,True
-https://gitlab.inria.fr/dtk/dtk-discrete-geometry,False
+https://gitlab.inria.fr/dtk/dtk-discrete-geometry,True
 https://gitlab.inria.fr/dtk/dtk-doc,True
 https://gitlab.inria.fr/dtk/dtk-fem,True
 https://gitlab.inria.fr/dtk/dtk-fonts,True
@@ -3536,7 +3536,7 @@ https://gitlab.inria.fr/grew/SSQtoDSQ,True
 https://gitlab.inria.fr/grew/SUD,True
 https://gitlab.inria.fr/grew/UDtoAUD,True
 https://gitlab.inria.fr/grew/examples,True
-https://gitlab.inria.fr/grew/grew,False
+https://gitlab.inria.fr/grew/grew,True
 https://gitlab.inria.fr/grew/grew_daemon,True
 https://gitlab.inria.fr/grew/grew_demo,False
 https://gitlab.inria.fr/grew/grew_doc,True
@@ -3671,7 +3671,7 @@ https://gitlab.inria.fr/orpailleur/sofia-docker,False
 https://gitlab.inria.fr/panama-team/blaster,False
 https://gitlab.inria.fr/parallel-replica/gen.parRep,True
 https://gitlab.inria.fr/parallel-replica/qsd.gen.samples,False
-https://gitlab.inria.fr/parseme-fr/mwe-mg,False
+https://gitlab.inria.fr/parseme-fr/mwe-mg,True
 https://gitlab.inria.fr/patate/patate,False
 https://gitlab.inria.fr/piper/anatomydb,True
 https://gitlab.inria.fr/piper/application,True
@@ -3697,8 +3697,8 @@ https://gitlab.inria.fr/sed-lille/game-of-codes-utils,True
 https://gitlab.inria.fr/sed-paris/codingdojo,False
 https://gitlab.inria.fr/sed-paris/developer-meetups,True
 https://gitlab.inria.fr/sed-rennes/VR-Three.js,False
-https://gitlab.inria.fr/sed-rennes/gforge-to-gitlab-scripts,False
-https://gitlab.inria.fr/sed-rennes/sharelatex-website,False
+https://gitlab.inria.fr/sed-rennes/gforge-to-gitlab-scripts,True
+https://gitlab.inria.fr/sed-rennes/sharelatex-website,True
 https://gitlab.inria.fr/sed-saclay/TutorielGitlabPages,False
 https://gitlab.inria.fr/sed-saclay/formulairesdemandesingenieur,True
 https://gitlab.inria.fr/sequoia/deep-sequoia,True
