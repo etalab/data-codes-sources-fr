@@ -460,7 +460,7 @@ https://github.com/DGAC/dgac.github.io,True
 https://github.com/DGAC/nmb2b-client-js,True
 https://github.com/DGAC/nmb2b-client-js-example,True
 https://github.com/DGAC/nmb2b-phpclient,True
-https://github.com/DGAC/nmb2b-soapy,False
+https://github.com/DGAC/nmb2b-soapy,True
 https://github.com/DGAC/simupaye,True
 https://github.com/DGFiP/Test-Compta-Demat,True
 https://github.com/DISIC/GMR,True
@@ -3418,7 +3418,7 @@ https://gitlab.inria.fr/datapol/experiments-methodology,True
 https://gitlab.inria.fr/datapol/vdanjean-backuppc-client,True
 https://gitlab.inria.fr/datapol/wiki-welcome,True
 https://gitlab.inria.fr/defrost/welcome-to-defrost,True
-https://gitlab.inria.fr/dema/gdb-testing,False
+https://gitlab.inria.fr/dema/gdb-testing,True
 https://gitlab.inria.fr/dema/gdb-tuto.py,True
 https://gitlab.inria.fr/dema/mcgdb,True
 https://gitlab.inria.fr/dema/mcgdb-docker,True
@@ -3427,13 +3427,13 @@ https://gitlab.inria.fr/dema/mcgdb-temanejo,True
 https://gitlab.inria.fr/dep2pict/dep2pict,True
 https://gitlab.inria.fr/dep2pict/dep2pict_doc,False
 https://gitlab.inria.fr/dep2pict/dep2pict_gui,True
-https://gitlab.inria.fr/dep2pict/libcaml_dep2pict,False
+https://gitlab.inria.fr/dep2pict/libcaml_dep2pict,True
 https://gitlab.inria.fr/discovery/enoslib,True
 https://gitlab.inria.fr/discovery/keystoneauth,True
 https://gitlab.inria.fr/discovery/keystonemiddleware,True
 https://gitlab.inria.fr/discovery/kolla-ansible,True
 https://gitlab.inria.fr/discovery/openstackoid,True
-https://gitlab.inria.fr/disrpt/tony,False
+https://gitlab.inria.fr/disrpt/tony,True
 https://gitlab.inria.fr/diu-algo/labyrinthe,True
 https://gitlab.inria.fr/dldb/discretelogdb,True
 https://gitlab.inria.fr/dlp-sif/dlp-arduino,True
@@ -3463,7 +3463,7 @@ https://gitlab.inria.fr/dtk/dtk-logger,True
 https://gitlab.inria.fr/dtk/dtk-macs,False
 https://gitlab.inria.fr/dtk/dtk-os,True
 https://gitlab.inria.fr/dtk/dtk-pkg,True
-https://gitlab.inria.fr/dtk/dtk-plugins-continuous-geometry,False
+https://gitlab.inria.fr/dtk/dtk-plugins-continuous-geometry,True
 https://gitlab.inria.fr/dtk/dtk-plugins-distributed,True
 https://gitlab.inria.fr/dtk/dtk-plugins-imaging,True
 https://gitlab.inria.fr/dtk/dtk-plugins-io,True
@@ -3583,7 +3583,7 @@ https://gitlab.inria.fr/learninglab/mooc-bioinfo,True
 https://gitlab.inria.fr/learninglab/mooc-forum-plugin,False
 https://gitlab.inria.fr/learninglab/mooc-forums-theme,True
 https://gitlab.inria.fr/learninglab/mooc-mr-notebooks,True
-https://gitlab.inria.fr/learninglab/mooc-rr/mooc-rr-apps,False
+https://gitlab.inria.fr/learninglab/mooc-rr/mooc-rr-apps,True
 https://gitlab.inria.fr/lifeware/biocham,True
 https://gitlab.inria.fr/local-implicit-schemes/supplementary-material-numerische-mathematik,True
 https://gitlab.inria.fr/magnet/mangoes,True
@@ -3643,12 +3643,12 @@ https://gitlab.inria.fr/nix-tutorial/chord-tuto-nix-2019,False
 https://gitlab.inria.fr/nix-tutorial/nix-tutorial,False
 https://gitlab.inria.fr/nix-tutorial/packages-repository,True
 https://gitlab.inria.fr/nix-tutorial/presentation-slides,False
-https://gitlab.inria.fr/obelix/broceliande,False
+https://gitlab.inria.fr/obelix/broceliande,True
 https://gitlab.inria.fr/obelix/triskele,False
 https://gitlab.inria.fr/openmp/clang,False
 https://gitlab.inria.fr/openmp/energy,True
 https://gitlab.inria.fr/openmp/enertools,True
-https://gitlab.inria.fr/openmp/experiments-hashmaps,False
+https://gitlab.inria.fr/openmp/experiments-hashmaps,True
 https://gitlab.inria.fr/openmp/kaapi,False
 https://gitlab.inria.fr/openmp/kastors,False
 https://gitlab.inria.fr/openmp/libkomp,False
@@ -3695,7 +3695,7 @@ https://gitlab.inria.fr/sed-bso/heat,False
 https://gitlab.inria.fr/sed-bso/sonarqube,False
 https://gitlab.inria.fr/sed-lille/game-of-codes-utils,True
 https://gitlab.inria.fr/sed-paris/codingdojo,False
-https://gitlab.inria.fr/sed-paris/developer-meetups,False
+https://gitlab.inria.fr/sed-paris/developer-meetups,True
 https://gitlab.inria.fr/sed-rennes/VR-Three.js,False
 https://gitlab.inria.fr/sed-rennes/gforge-to-gitlab-scripts,False
 https://gitlab.inria.fr/sed-rennes/sharelatex-website,False
@@ -3713,7 +3713,7 @@ https://gitlab.inria.fr/serpico/ndsafir_bin,True
 https://gitlab.inria.fr/serpico/owf_bin,True
 https://gitlab.inria.fr/serpico/thot_bin,True
 https://gitlab.inria.fr/simgrid/simgrid,False
-https://gitlab.inria.fr/siteadmin/doc,False
+https://gitlab.inria.fr/siteadmin/doc,True
 https://gitlab.inria.fr/siteadmin/gitlab_import_ildap_group_members,False
 https://gitlab.inria.fr/siteadmin/publictest,False
 https://gitlab.inria.fr/skeletons/Coq,False
