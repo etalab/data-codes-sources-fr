@@ -1945,7 +1945,7 @@ https://github.com/diverse-project/sosies-ws-server,True
 https://github.com/diverse-project/summer,True
 https://github.com/diverse-project/tools,True
 https://github.com/diverse-project/tuxart,True
-https://github.com/diverse-project/website,False
+https://github.com/diverse-project/website,True
 https://github.com/diverse-project/xcore-light,True
 https://github.com/diverse-project/yajta-mirror,True
 https://github.com/entrepreneur-interet-general/2017,True
@@ -3247,7 +3247,7 @@ https://gitlab.huma-num.fr/lamop/topama-eveches,True
 https://gitlab.huma-num.fr/lamop/topologie_aix-en-provence,False
 https://gitlab.huma-num.fr/mshs-poitiers/xmlify,True
 https://gitlab.huma-num.fr/nakala-tools/nakalot,True
-https://gitlab.huma-num.fr/nakala-tools/nakanav,False
+https://gitlab.huma-num.fr/nakala-tools/nakanav,True
 https://gitlab.huma-num.fr/rzine/documentation,False
 https://gitlab.inria.fr/AlgebraicGeometricModeling/AlgebraicSolvers.jl,True
 https://gitlab.inria.fr/AlgebraicGeometricModeling/Axl.jl,True
@@ -3442,7 +3442,7 @@ https://gitlab.inria.fr/doris/doris-android,True
 https://gitlab.inria.fr/doris/doris.gitlabpages.inria.fr,True
 https://gitlab.inria.fr/dtk/dtk,True
 https://gitlab.inria.fr/dtk/dtk-composer,True
-https://gitlab.inria.fr/dtk/dtk-compositions,False
+https://gitlab.inria.fr/dtk/dtk-compositions,True
 https://gitlab.inria.fr/dtk/dtk-conda-recipes,True
 https://gitlab.inria.fr/dtk/dtk-containers,False
 https://gitlab.inria.fr/dtk/dtk-continuous-geometry,True
@@ -3632,7 +3632,7 @@ https://gitlab.inria.fr/mosaic/tissue_nukem_3d,True
 https://gitlab.inria.fr/mosaic/tissue_paredes,True
 https://gitlab.inria.fr/myriads-team/python-distem,False
 https://gitlab.inria.fr/necs-open/RainbowVis-JS,True
-https://gitlab.inria.fr/necs-open/braincrafted.bootstrap-bundle,False
+https://gitlab.inria.fr/necs-open/braincrafted.bootstrap-bundle,True
 https://gitlab.inria.fr/necs-open/jsonpath-plus,True
 https://gitlab.inria.fr/necs-open/promise-polyfill,False
 https://gitlab.inria.fr/necs-open/typeahead.js-bootstrap4-css,False
@@ -3673,14 +3673,14 @@ https://gitlab.inria.fr/parallel-replica/gen.parRep,True
 https://gitlab.inria.fr/parallel-replica/qsd.gen.samples,False
 https://gitlab.inria.fr/parseme-fr/mwe-mg,False
 https://gitlab.inria.fr/patate/patate,False
-https://gitlab.inria.fr/piper/anatomydb,False
+https://gitlab.inria.fr/piper/anatomydb,True
 https://gitlab.inria.fr/piper/application,True
 https://gitlab.inria.fr/piper/child,True
 https://gitlab.inria.fr/piper/child_pedestrian,False
 https://gitlab.inria.fr/piper/misc_models,False
 https://gitlab.inria.fr/piper/viva,False
 https://gitlab.inria.fr/piy/piy,False
-https://gitlab.inria.fr/popstar/SAT-Equiv,False
+https://gitlab.inria.fr/popstar/SAT-Equiv,True
 https://gitlab.inria.fr/pvignet/cadbiom,True
 https://gitlab.inria.fr/pvignet/pycryptosat,True
 https://gitlab.inria.fr/rainbow-intervals/ros_interval,False
@@ -3700,7 +3700,7 @@ https://gitlab.inria.fr/sed-rennes/VR-Three.js,False
 https://gitlab.inria.fr/sed-rennes/gforge-to-gitlab-scripts,False
 https://gitlab.inria.fr/sed-rennes/sharelatex-website,False
 https://gitlab.inria.fr/sed-saclay/TutorielGitlabPages,False
-https://gitlab.inria.fr/sed-saclay/formulairesdemandesingenieur,False
+https://gitlab.inria.fr/sed-saclay/formulairesdemandesingenieur,True
 https://gitlab.inria.fr/sequoia/deep-sequoia,True
 https://gitlab.inria.fr/serpico/3d-flow-assessment,True
 https://gitlab.inria.fr/serpico/airyscanj_bin,True
@@ -3733,7 +3733,7 @@ https://gitlab.inria.fr/solverstack/paddle,True
 https://gitlab.inria.fr/solverstack/parade,False
 https://gitlab.inria.fr/solverstack/pastix,True
 https://gitlab.inria.fr/solverstack/spack-repo,False
-https://gitlab.inria.fr/solverstack/spm,False
+https://gitlab.inria.fr/solverstack/spm,True
 https://gitlab.inria.fr/solverstack/tabakov,False
 https://gitlab.inria.fr/solverstack/vite,False
 https://gitlab.inria.fr/source_code/aes-cryptanalysis-cp-xor-2019,False
@@ -3768,7 +3768,7 @@ https://gitlab.inria.fr/verifisc/verifisc-python,True
 https://gitlab.inria.fr/vidjil/mixcr,False
 https://gitlab.inria.fr/vidjil/sdsl-lite,False
 https://gitlab.inria.fr/vidjil/tl-index,False
-https://gitlab.inria.fr/vidjil/vidjil,False
+https://gitlab.inria.fr/vidjil/vidjil,True
 https://gitlab.inria.fr/why3/why3,True
 https://gitlab.inria.fr/xkblas/versions,False
 https://gitlab.inria.fr/xug/meetings,True
