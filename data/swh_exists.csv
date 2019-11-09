@@ -213,7 +213,7 @@ https://github.com/1024pix/benchmark,True
 https://github.com/1024pix/codeshift,True
 https://github.com/1024pix/ember-cli-chartjs,True
 https://github.com/1024pix/ember-cli-matomo-tag-manager,True
-https://github.com/1024pix/ember-sentry,False
+https://github.com/1024pix/ember-sentry,True
 https://github.com/1024pix/formation-jeremie,True
 https://github.com/1024pix/heroku-buildpack-telegraf,True
 https://github.com/1024pix/json-api-crud-server,True
@@ -584,7 +584,7 @@ https://github.com/EDS-APHP/notebook,False
 https://github.com/EDS-APHP/pancarte-backend,True
 https://github.com/EDS-APHP/pancarte-db,True
 https://github.com/EDS-APHP/pancarte-front,True
-https://github.com/EDS-APHP/pancarte-website,False
+https://github.com/EDS-APHP/pancarte-website,True
 https://github.com/EDS-APHP/py-hdfs-mount,True
 https://github.com/EDS-APHP/pySyntheticDatasetGenerator,True
 https://github.com/EDS-APHP/pylivy,True
@@ -3591,7 +3591,7 @@ https://gitlab.inria.fr/magnet/nada,True
 https://gitlab.inria.fr/mastertal/UE803,True
 https://gitlab.inria.fr/matherials/simol,False
 https://gitlab.inria.fr/memcad/clangml,False
-https://gitlab.inria.fr/memcad/clangml-transforms,False
+https://gitlab.inria.fr/memcad/clangml-transforms,True
 https://gitlab.inria.fr/memphis/nemo,True
 https://gitlab.inria.fr/metapart/copart,False
 https://gitlab.inria.fr/metapart/libgraph,False
@@ -3637,10 +3637,10 @@ https://gitlab.inria.fr/necs-open/jsonpath-plus,True
 https://gitlab.inria.fr/necs-open/promise-polyfill,False
 https://gitlab.inria.fr/necs-open/typeahead.js-bootstrap4-css,False
 https://gitlab.inria.fr/necs_lib/SOCI,True
-https://gitlab.inria.fr/necs_lib/boost-process,False
+https://gitlab.inria.fr/necs_lib/boost-process,True
 https://gitlab.inria.fr/nix-tutorial/chord-experiments,False
 https://gitlab.inria.fr/nix-tutorial/chord-tuto-nix-2019,False
-https://gitlab.inria.fr/nix-tutorial/nix-tutorial,False
+https://gitlab.inria.fr/nix-tutorial/nix-tutorial,True
 https://gitlab.inria.fr/nix-tutorial/packages-repository,True
 https://gitlab.inria.fr/nix-tutorial/presentation-slides,False
 https://gitlab.inria.fr/obelix/broceliande,True
@@ -3670,7 +3670,7 @@ https://gitlab.inria.fr/ordo-bdx/nrrp-with-starpu,False
 https://gitlab.inria.fr/orpailleur/sofia-docker,False
 https://gitlab.inria.fr/panama-team/blaster,False
 https://gitlab.inria.fr/parallel-replica/gen.parRep,True
-https://gitlab.inria.fr/parallel-replica/qsd.gen.samples,False
+https://gitlab.inria.fr/parallel-replica/qsd.gen.samples,True
 https://gitlab.inria.fr/parseme-fr/mwe-mg,True
 https://gitlab.inria.fr/patate/patate,False
 https://gitlab.inria.fr/piper/anatomydb,True
@@ -3688,7 +3688,7 @@ https://gitlab.inria.fr/sb/simbci,False
 https://gitlab.inria.fr/sca_platform/analysis,False
 https://gitlab.inria.fr/sca_platform/equipments,False
 https://gitlab.inria.fr/sca_platform/targets,False
-https://gitlab.inria.fr/scotch/scotch,False
+https://gitlab.inria.fr/scotch/scotch,True
 https://gitlab.inria.fr/scripta/escriptorium,False
 https://gitlab.inria.fr/sed-bso/cmake,False
 https://gitlab.inria.fr/sed-bso/heat,False
@@ -3765,7 +3765,7 @@ https://gitlab.inria.fr/usnb/universal-social-network-bus,False
 https://gitlab.inria.fr/verifisc/mlang,True
 https://gitlab.inria.fr/verifisc/verifisc,True
 https://gitlab.inria.fr/verifisc/verifisc-python,True
-https://gitlab.inria.fr/vidjil/mixcr,False
+https://gitlab.inria.fr/vidjil/mixcr,True
 https://gitlab.inria.fr/vidjil/sdsl-lite,False
 https://gitlab.inria.fr/vidjil/tl-index,False
 https://gitlab.inria.fr/vidjil/vidjil,True
