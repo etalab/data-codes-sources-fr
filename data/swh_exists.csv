@@ -3215,7 +3215,7 @@ https://gitlab.huma-num.fr/eurhisfirm/dfih-open-data,True
 https://gitlab.huma-num.fr/eurhisfirm/dfih-search,True
 https://gitlab.huma-num.fr/eurhisfirm/dfih-tools,False
 https://gitlab.huma-num.fr/eurhisfirm/dfih-ui,True
-https://gitlab.huma-num.fr/eurhisfirm/dfih-wikibase,False
+https://gitlab.huma-num.fr/eurhisfirm/dfih-wikibase,True
 https://gitlab.huma-num.fr/eurhisfirm/eurhisfirm-sitelinks-server,True
 https://gitlab.huma-num.fr/eurhisfirm/fibo-data,True
 https://gitlab.huma-num.fr/eurhisfirm/fibo-wikibase,True
@@ -3425,7 +3425,7 @@ https://gitlab.inria.fr/dema/mcgdb-docker,True
 https://gitlab.inria.fr/dema/mcgdb-seqdiag,True
 https://gitlab.inria.fr/dema/mcgdb-temanejo,True
 https://gitlab.inria.fr/dep2pict/dep2pict,True
-https://gitlab.inria.fr/dep2pict/dep2pict_doc,False
+https://gitlab.inria.fr/dep2pict/dep2pict_doc,True
 https://gitlab.inria.fr/dep2pict/dep2pict_gui,True
 https://gitlab.inria.fr/dep2pict/libcaml_dep2pict,True
 https://gitlab.inria.fr/discovery/enoslib,True
@@ -3546,7 +3546,7 @@ https://gitlab.inria.fr/grew/grew_parse,True
 https://gitlab.inria.fr/grew/grew_server,True
 https://gitlab.inria.fr/grew/libcaml-grew,True
 https://gitlab.inria.fr/grew/python,False
-https://gitlab.inria.fr/grid5000/ai_tutorial,False
+https://gitlab.inria.fr/grid5000/ai_tutorial,True
 https://gitlab.inria.fr/grid5000/bigdata-tutorial,True
 https://gitlab.inria.fr/grid5000/ceph5k,False
 https://gitlab.inria.fr/grid5000/environments-recipes,True
@@ -3650,7 +3650,7 @@ https://gitlab.inria.fr/openmp/energy,True
 https://gitlab.inria.fr/openmp/enertools,True
 https://gitlab.inria.fr/openmp/experiments-hashmaps,True
 https://gitlab.inria.fr/openmp/kaapi,False
-https://gitlab.inria.fr/openmp/kastors,False
+https://gitlab.inria.fr/openmp/kastors,True
 https://gitlab.inria.fr/openmp/libkomp,False
 https://gitlab.inria.fr/openskecth/camparam_point_correspondancies,True
 https://gitlab.inria.fr/openskecth/designsketch2normal,False
@@ -3716,7 +3716,7 @@ https://gitlab.inria.fr/simgrid/simgrid,False
 https://gitlab.inria.fr/siteadmin/doc,True
 https://gitlab.inria.fr/siteadmin/gitlab_import_ildap_group_members,False
 https://gitlab.inria.fr/siteadmin/publictest,False
-https://gitlab.inria.fr/skeletons/Coq,False
+https://gitlab.inria.fr/skeletons/Coq,True
 https://gitlab.inria.fr/skeletons/jskel,False
 https://gitlab.inria.fr/skeletons/necro,False
 https://gitlab.inria.fr/skelton/pyskelton,True
@@ -3735,19 +3735,19 @@ https://gitlab.inria.fr/solverstack/pastix,True
 https://gitlab.inria.fr/solverstack/spack-repo,False
 https://gitlab.inria.fr/solverstack/spm,True
 https://gitlab.inria.fr/solverstack/tabakov,False
-https://gitlab.inria.fr/solverstack/vite,False
+https://gitlab.inria.fr/solverstack/vite,True
 https://gitlab.inria.fr/source_code/aes-cryptanalysis-cp-xor-2019,False
 https://gitlab.inria.fr/source_code/ai_paper_code,False
 https://gitlab.inria.fr/star-explain/fjs_of_fml,False
 https://gitlab.inria.fr/star-explain/jsexplain,False
 https://gitlab.inria.fr/star-explain/opam-repository,False
 https://gitlab.inria.fr/synalp/python4nlp-2019-public,True
-https://gitlab.inria.fr/synalp/website,False
+https://gitlab.inria.fr/synalp/website,True
 https://gitlab.inria.fr/synchrone/heptagon,False
 https://gitlab.inria.fr/thoth/spams-devel,False
 https://gitlab.inria.fr/tnfs-alpha/alpha,False
 https://gitlab.inria.fr/tranus/QGIS_Tranus_Reports,False
-https://gitlab.inria.fr/tranus/TRANUS_Interfaces,False
+https://gitlab.inria.fr/tranus/TRANUS_Interfaces,True
 https://gitlab.inria.fr/tranus/Tranus_Python,False
 https://gitlab.inria.fr/tranus/Tranus_QGIS_Plugins,True
 https://gitlab.inria.fr/tyrex-public/mu-RA,True
