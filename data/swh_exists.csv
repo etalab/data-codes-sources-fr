@@ -16,7 +16,7 @@ https://forgemia.inra.fr/genotoul-bioinfo/jflow-toolshed,True
 https://forgemia.inra.fr/genotoul-bioinfo/jvenn,True
 https://forgemia.inra.fr/genotoul-bioinfo/metagwgs,True
 https://forgemia.inra.fr/genotoul-bioinfo/miniannotator,True
-https://forgemia.inra.fr/genotoul-bioinfo/ncrna-clust,False
+https://forgemia.inra.fr/genotoul-bioinfo/ncrna-clust,True
 https://forgemia.inra.fr/genotoul-bioinfo/ng6,True
 https://forgemia.inra.fr/genotoul-bioinfo/ngspipelines,True
 https://forgemia.inra.fr/genotoul-bioinfo/pyrocleaner,True
@@ -3220,7 +3220,7 @@ https://gitlab.huma-num.fr/eurhisfirm/eurhisfirm-sitelinks-server,True
 https://gitlab.huma-num.fr/eurhisfirm/fibo-data,True
 https://gitlab.huma-num.fr/eurhisfirm/fibo-wikibase,True
 https://gitlab.huma-num.fr/eurhisfirm/gleif-wikibase,True
-https://gitlab.huma-num.fr/irihs/flaubertexport,False
+https://gitlab.huma-num.fr/irihs/flaubertexport,True
 https://gitlab.huma-num.fr/irihs/genetictables,True
 https://gitlab.huma-num.fr/irihs/genetictheme,True
 https://gitlab.huma-num.fr/lamop/Hmaot,True
@@ -3613,7 +3613,7 @@ https://gitlab.inria.fr/mnemosyne/neurosmart,True
 https://gitlab.inria.fr/mnemosyne/vanilla_nn,True
 https://gitlab.inria.fr/moex/class,True
 https://gitlab.inria.fr/moex/linkex,False
-https://gitlab.inria.fr/moex/linkky,False
+https://gitlab.inria.fr/moex/linkky,True
 https://gitlab.inria.fr/monitoring/opportunistic-rv-conf,True
 https://gitlab.inria.fr/monitoring/rv-dist-pub,False
 https://gitlab.inria.fr/monitoring/rv-multi,False
@@ -3638,7 +3638,7 @@ https://gitlab.inria.fr/necs-open/promise-polyfill,False
 https://gitlab.inria.fr/necs-open/typeahead.js-bootstrap4-css,False
 https://gitlab.inria.fr/necs_lib/SOCI,True
 https://gitlab.inria.fr/necs_lib/boost-process,True
-https://gitlab.inria.fr/nix-tutorial/chord-experiments,False
+https://gitlab.inria.fr/nix-tutorial/chord-experiments,True
 https://gitlab.inria.fr/nix-tutorial/chord-tuto-nix-2019,False
 https://gitlab.inria.fr/nix-tutorial/nix-tutorial,True
 https://gitlab.inria.fr/nix-tutorial/packages-repository,True
@@ -3696,7 +3696,7 @@ https://gitlab.inria.fr/sed-bso/sonarqube,False
 https://gitlab.inria.fr/sed-lille/game-of-codes-utils,True
 https://gitlab.inria.fr/sed-paris/codingdojo,False
 https://gitlab.inria.fr/sed-paris/developer-meetups,True
-https://gitlab.inria.fr/sed-rennes/VR-Three.js,False
+https://gitlab.inria.fr/sed-rennes/VR-Three.js,True
 https://gitlab.inria.fr/sed-rennes/gforge-to-gitlab-scripts,True
 https://gitlab.inria.fr/sed-rennes/sharelatex-website,True
 https://gitlab.inria.fr/sed-saclay/TutorielGitlabPages,False
@@ -3755,13 +3755,13 @@ https://gitlab.inria.fr/usnb/api-gateway,False
 https://gitlab.inria.fr/usnb/bus-experiment,False
 https://gitlab.inria.fr/usnb/email-bc,False
 https://gitlab.inria.fr/usnb/entity-manager,False
-https://gitlab.inria.fr/usnb/facebook-bc,False
+https://gitlab.inria.fr/usnb/facebook-bc,True
 https://gitlab.inria.fr/usnb/gmail-persona,False
 https://gitlab.inria.fr/usnb/message-transformer,False
 https://gitlab.inria.fr/usnb/messenger-persona,False
 https://gitlab.inria.fr/usnb/slack-persona,False
 https://gitlab.inria.fr/usnb/subscription-manager,False
-https://gitlab.inria.fr/usnb/universal-social-network-bus,False
+https://gitlab.inria.fr/usnb/universal-social-network-bus,True
 https://gitlab.inria.fr/verifisc/mlang,True
 https://gitlab.inria.fr/verifisc/verifisc,True
 https://gitlab.inria.fr/verifisc/verifisc-python,True
@@ -3783,7 +3783,7 @@ https://gitlab.inria.fr/zefxis/GIDL,False
 https://gitlab.inria.fr/zefxis/IoT-web-console,False
 https://gitlab.inria.fr/zefxis/dexdeploy,False
 https://gitlab.inria.fr/zefxis/experiments,True
-https://gitlab.inria.fr/zefxis/monitoring-tool,False
+https://gitlab.inria.fr/zefxis/monitoring-tool,True
 https://gitlab.inria.fr/zefxis/playgrounds,False
 https://gitlab.inria.fr/zefxis/use-cases,False
 https://gitlab.inria.fr/zhozhang/zhongkai-zhang,True
