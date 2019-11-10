@@ -3203,7 +3203,7 @@ https://gitlab.com/pidila/scampi,True
 https://gitlab.com/pidila/scampi-twig,True
 https://gitlab.com/pidila/select-a11y,True
 https://gitlab.com/pidila/sp-simulateurs-data,True
-https://gitlab.huma-num.fr/cbma/cbma-epigraphie-provence,False
+https://gitlab.huma-num.fr/cbma/cbma-epigraphie-provence,True
 https://gitlab.huma-num.fr/cbma/cbma-philologic,True
 https://gitlab.huma-num.fr/cbma/cbma-philologic-docker,False
 https://gitlab.huma-num.fr/cbma/hagiographie,True
@@ -3248,7 +3248,7 @@ https://gitlab.huma-num.fr/lamop/topologie_aix-en-provence,False
 https://gitlab.huma-num.fr/mshs-poitiers/xmlify,True
 https://gitlab.huma-num.fr/nakala-tools/nakalot,True
 https://gitlab.huma-num.fr/nakala-tools/nakanav,True
-https://gitlab.huma-num.fr/rzine/documentation,False
+https://gitlab.huma-num.fr/rzine/documentation,True
 https://gitlab.inria.fr/AlgebraicGeometricModeling/AlgebraicSolvers.jl,True
 https://gitlab.inria.fr/AlgebraicGeometricModeling/Axl.jl,True
 https://gitlab.inria.fr/AlgebraicGeometricModeling/GSplines.jl,True
@@ -3460,7 +3460,7 @@ https://gitlab.inria.fr/dtk/dtk-linear-algebra-dense,False
 https://gitlab.inria.fr/dtk/dtk-linear-algebra-sparse,True
 https://gitlab.inria.fr/dtk/dtk-log,True
 https://gitlab.inria.fr/dtk/dtk-logger,True
-https://gitlab.inria.fr/dtk/dtk-macs,False
+https://gitlab.inria.fr/dtk/dtk-macs,True
 https://gitlab.inria.fr/dtk/dtk-os,True
 https://gitlab.inria.fr/dtk/dtk-pkg,True
 https://gitlab.inria.fr/dtk/dtk-plugins-continuous-geometry,True
@@ -3476,7 +3476,7 @@ https://gitlab.inria.fr/dtk/dtk-tutorials,True
 https://gitlab.inria.fr/dtk/dtk-visual-programming,False
 https://gitlab.inria.fr/dtk/dtk-visualization,True
 https://gitlab.inria.fr/dtk/dtk-visualization-python,True
-https://gitlab.inria.fr/dtk/dtk-widgets,False
+https://gitlab.inria.fr/dtk/dtk-widgets,True
 https://gitlab.inria.fr/dtk/dtk-widgets-python,True
 https://gitlab.inria.fr/dtk/dtk-wm,True
 https://gitlab.inria.fr/dtk/dtk-www,True
@@ -3749,7 +3749,7 @@ https://gitlab.inria.fr/tnfs-alpha/alpha,False
 https://gitlab.inria.fr/tranus/QGIS_Tranus_Reports,False
 https://gitlab.inria.fr/tranus/TRANUS_Interfaces,False
 https://gitlab.inria.fr/tranus/Tranus_Python,False
-https://gitlab.inria.fr/tranus/Tranus_QGIS_Plugins,False
+https://gitlab.inria.fr/tranus/Tranus_QGIS_Plugins,True
 https://gitlab.inria.fr/tyrex-public/mu-RA,True
 https://gitlab.inria.fr/usnb/api-gateway,False
 https://gitlab.inria.fr/usnb/bus-experiment,False
@@ -3782,7 +3782,7 @@ https://gitlab.inria.fr/zefxis/DeXMS-Service,False
 https://gitlab.inria.fr/zefxis/GIDL,False
 https://gitlab.inria.fr/zefxis/IoT-web-console,False
 https://gitlab.inria.fr/zefxis/dexdeploy,False
-https://gitlab.inria.fr/zefxis/experiments,False
+https://gitlab.inria.fr/zefxis/experiments,True
 https://gitlab.inria.fr/zefxis/monitoring-tool,False
 https://gitlab.inria.fr/zefxis/playgrounds,False
 https://gitlab.inria.fr/zefxis/use-cases,False
