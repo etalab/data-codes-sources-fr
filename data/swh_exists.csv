@@ -2219,6 +2219,7 @@ https://github.com/etalab/doc.entreprise.api.gouv.fr,True
 https://github.com/etalab/docker-ansible-git-crypt,True
 https://github.com/etalab/docker-datagouv,True
 https://github.com/etalab/dotation-globale-fonctionnement,True
+https://github.com/etalab/droit-auteur-logiciels,False
 https://github.com/etalab/dvf,True
 https://github.com/etalab/economiecirculaire,True
 https://github.com/etalab/edigeo-parser,True
@@ -3354,7 +3355,7 @@ https://gitlab.inria.fr/WellInverter/WellInverter_Standalone_MacOS,True
 https://gitlab.inria.fr/WellInverter/WellInverter_Standalone_Nuvla,True
 https://gitlab.inria.fr/WellInverter/WellInverter_Standalone_Windows,True
 https://gitlab.inria.fr/adjoint-computation/disk-revolve-public,True
-https://gitlab.inria.fr/aevol/aevol,False
+https://gitlab.inria.fr/aevol/aevol,True
 https://gitlab.inria.fr/agm/axl,True
 https://gitlab.inria.fr/agm/geoalgebrix,True
 https://gitlab.inria.fr/agm/gspline,True
@@ -3574,7 +3575,7 @@ https://gitlab.inria.fr/grew/libcaml-grew,True
 https://gitlab.inria.fr/grew/python,True
 https://gitlab.inria.fr/grid5000/ai_tutorial,True
 https://gitlab.inria.fr/grid5000/bigdata-tutorial,True
-https://gitlab.inria.fr/grid5000/ceph5k,False
+https://gitlab.inria.fr/grid5000/ceph5k,True
 https://gitlab.inria.fr/grid5000/environments-recipes,True
 https://gitlab.inria.fr/grid5000/exhibitv2,True
 https://gitlab.inria.fr/grid5000/g5k-api,True
@@ -3590,7 +3591,7 @@ https://gitlab.inria.fr/grid5000/reference-repository,True
 https://gitlab.inria.fr/grid5000/tutorials,False
 https://gitlab.inria.fr/grid5000/xp5k-openstack,True
 https://gitlab.inria.fr/gt-sw-citation/artifact-archival-swh,True
-https://gitlab.inria.fr/gt-sw-citation/bibtex-sw-entry,False
+https://gitlab.inria.fr/gt-sw-citation/bibtex-sw-entry,True
 https://gitlab.inria.fr/gtpi/inria_skin,True
 https://gitlab.inria.fr/guix-hpc/guix-hpc,True
 https://gitlab.inria.fr/guix-hpc/guix-hpc-non-free,True
@@ -3684,7 +3685,7 @@ https://gitlab.inria.fr/openskecth/labeling_tool,True
 https://gitlab.inria.fr/openskecth/pix2pix_wassersten,True
 https://gitlab.inria.fr/openskecth/sketching_interface,True
 https://gitlab.inria.fr/openskecth/svm_lines_classifier,True
-https://gitlab.inria.fr/openvibe/designer,False
+https://gitlab.inria.fr/openvibe/designer,True
 https://gitlab.inria.fr/openvibe/extras,True
 https://gitlab.inria.fr/openvibe/meta,True
 https://gitlab.inria.fr/openvibe/sdk,True
@@ -3786,7 +3787,7 @@ https://gitlab.inria.fr/usnb/gmail-persona,False
 https://gitlab.inria.fr/usnb/message-transformer,False
 https://gitlab.inria.fr/usnb/messenger-persona,False
 https://gitlab.inria.fr/usnb/slack-persona,False
-https://gitlab.inria.fr/usnb/subscription-manager,False
+https://gitlab.inria.fr/usnb/subscription-manager,True
 https://gitlab.inria.fr/usnb/universal-social-network-bus,True
 https://gitlab.inria.fr/verifisc/mlang,True
 https://gitlab.inria.fr/verifisc/verifisc,True
