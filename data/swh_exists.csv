@@ -1448,7 +1448,7 @@ https://github.com/betagouv/allegement-fillon,True
 https://github.com/betagouv/andi,True
 https://github.com/betagouv/andi-docker,True
 https://github.com/betagouv/andi-matching,True
-https://github.com/betagouv/andi-matching-ui,False
+https://github.com/betagouv/andi-matching-ui,True
 https://github.com/betagouv/annuaire,True
 https://github.com/betagouv/annuaire-api,True
 https://github.com/betagouv/annuaire-import,True
@@ -2888,7 +2888,7 @@ https://github.com/openfun/libcast-xblock,True
 https://github.com/openfun/mail-fun-edx,True
 https://github.com/openfun/maintenance-page,True
 https://github.com/openfun/marsha,True
-https://github.com/openfun/marsha-plugins,False
+https://github.com/openfun/marsha-plugins,True
 https://github.com/openfun/matplotlib,True
 https://github.com/openfun/nantes-oer,True
 https://github.com/openfun/nltk,True
@@ -3398,7 +3398,7 @@ https://gitlab.inria.fr/batsim/pybatsim,True
 https://gitlab.inria.fr/belenios-forks/belenios-swergas,True
 https://gitlab.inria.fr/belenios/belenios,True
 https://gitlab.inria.fr/blare/kblare,True
-https://gitlab.inria.fr/blare/kblare-tests,False
+https://gitlab.inria.fr/blare/kblare-tests,True
 https://gitlab.inria.fr/blare/kblare-tools,True
 https://gitlab.inria.fr/blare/rfblare-tests,True
 https://gitlab.inria.fr/blare/test,True
@@ -3470,7 +3470,7 @@ https://gitlab.inria.fr/dtk/dtk,True
 https://gitlab.inria.fr/dtk/dtk-composer,True
 https://gitlab.inria.fr/dtk/dtk-compositions,True
 https://gitlab.inria.fr/dtk/dtk-conda-recipes,True
-https://gitlab.inria.fr/dtk/dtk-containers,False
+https://gitlab.inria.fr/dtk/dtk-containers,True
 https://gitlab.inria.fr/dtk/dtk-continuous-geometry,True
 https://gitlab.inria.fr/dtk/dtk-core,True
 https://gitlab.inria.fr/dtk/dtk-core-python,True
@@ -3615,7 +3615,7 @@ https://gitlab.inria.fr/local-implicit-schemes/supplementary-material-numerische
 https://gitlab.inria.fr/magnet/mangoes,True
 https://gitlab.inria.fr/magnet/nada,True
 https://gitlab.inria.fr/mastertal/UE803,True
-https://gitlab.inria.fr/matherials/simol,False
+https://gitlab.inria.fr/matherials/simol,True
 https://gitlab.inria.fr/memcad/clangml,False
 https://gitlab.inria.fr/memcad/clangml-transforms,True
 https://gitlab.inria.fr/memphis/nemo,True
@@ -3643,7 +3643,7 @@ https://gitlab.inria.fr/moex/linkky,True
 https://gitlab.inria.fr/monitoring/opportunistic-rv-conf,True
 https://gitlab.inria.fr/monitoring/rv-dist-pub,False
 https://gitlab.inria.fr/monitoring/rv-multi,False
-https://gitlab.inria.fr/monitoring/themis,False
+https://gitlab.inria.fr/monitoring/themis,True
 https://gitlab.inria.fr/monitoring/themis-artifact-article,True
 https://gitlab.inria.fr/monitoring/themis-artifact-outdated,False
 https://gitlab.inria.fr/monitoring/themis-demo,False
@@ -3715,7 +3715,7 @@ https://gitlab.inria.fr/sca_platform/analysis,False
 https://gitlab.inria.fr/sca_platform/equipments,False
 https://gitlab.inria.fr/sca_platform/targets,False
 https://gitlab.inria.fr/scotch/scotch,True
-https://gitlab.inria.fr/scripta/escriptorium,False
+https://gitlab.inria.fr/scripta/escriptorium,True
 https://gitlab.inria.fr/sed-bso/cmake,False
 https://gitlab.inria.fr/sed-bso/heat,False
 https://gitlab.inria.fr/sed-bso/sonarqube,True
@@ -3751,7 +3751,7 @@ https://gitlab.inria.fr/solverstack/ScalFMM,False
 https://gitlab.inria.fr/solverstack/chameleon,False
 https://gitlab.inria.fr/solverstack/fabulous,True
 https://gitlab.inria.fr/solverstack/genfem,True
-https://gitlab.inria.fr/solverstack/h2p3s,False
+https://gitlab.inria.fr/solverstack/h2p3s,True
 https://gitlab.inria.fr/solverstack/hips,False
 https://gitlab.inria.fr/solverstack/hqr,False
 https://gitlab.inria.fr/solverstack/morse_cmake,False
