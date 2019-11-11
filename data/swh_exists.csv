@@ -226,7 +226,7 @@ https://git.unistra.fr/t4-the-origin/arti4,True
 https://git.unistra.fr/uhuit/pgmaggpl,True
 https://git.unistra.fr/uquatre/mips-invader,True
 https://git.unistra.fr/usept/sexy-polyedra-baby,True
-https://git.unistra.fr/vue/cas-authentication,False
+https://git.unistra.fr/vue/cas-authentication,True
 https://git.unistra.fr/vue/cli-plugin-unistra,True
 https://git.unistra.fr/vue/unistra-box,True
 https://git.unistra.fr/xstra-dev/atelier-jenkins-2017,True
@@ -906,7 +906,7 @@ https://github.com/LemonLDAPNG/Plack-Middleware-Auth-FCGI,True
 https://github.com/LemonLDAPNG/apache-session-mongodb,True
 https://github.com/LemonLDAPNG/lasso-rpm,True
 https://github.com/LemonLDAPNG/ldapcon2019-llng-workshop,True
-https://github.com/LemonLDAPNG/lemonldap-dokuwiki-plugin,False
+https://github.com/LemonLDAPNG/lemonldap-dokuwiki-plugin,True
 https://github.com/LemonLDAPNG/lemonldap-mfiles-extension,False
 https://github.com/LemonLDAPNG/lemonldap-ng,True
 https://github.com/LemonLDAPNG/lemonldap-ng-docker,True
@@ -3411,7 +3411,7 @@ https://gitlab.inria.fr/cedar/excel-search,True
 https://gitlab.inria.fr/cedar/extraction-test,True
 https://gitlab.inria.fr/cedar/insee-crawler,True
 https://gitlab.inria.fr/cedar/spadedemo_vldb2019,True
-https://gitlab.inria.fr/cedar/statstical_mentions,False
+https://gitlab.inria.fr/cedar/statstical_mentions,True
 https://gitlab.inria.fr/cerisara/olkisite,False
 https://gitlab.inria.fr/cfrioux/MeneTools,True
 https://gitlab.inria.fr/cidre-public/malcon19,True
@@ -3616,7 +3616,7 @@ https://gitlab.inria.fr/magnet/mangoes,True
 https://gitlab.inria.fr/magnet/nada,True
 https://gitlab.inria.fr/mastertal/UE803,True
 https://gitlab.inria.fr/matherials/simol,True
-https://gitlab.inria.fr/memcad/clangml,False
+https://gitlab.inria.fr/memcad/clangml,True
 https://gitlab.inria.fr/memcad/clangml-transforms,True
 https://gitlab.inria.fr/memphis/nemo,True
 https://gitlab.inria.fr/metapart/copart,False
@@ -3641,7 +3641,7 @@ https://gitlab.inria.fr/moex/class,True
 https://gitlab.inria.fr/moex/linkex,False
 https://gitlab.inria.fr/moex/linkky,True
 https://gitlab.inria.fr/monitoring/opportunistic-rv-conf,True
-https://gitlab.inria.fr/monitoring/rv-dist-pub,False
+https://gitlab.inria.fr/monitoring/rv-dist-pub,True
 https://gitlab.inria.fr/monitoring/rv-multi,False
 https://gitlab.inria.fr/monitoring/themis,True
 https://gitlab.inria.fr/monitoring/themis-artifact-article,True
@@ -3693,7 +3693,7 @@ https://gitlab.inria.fr/optimdbs/optimdbs-medinria,True
 https://gitlab.inria.fr/optimdbs/optimdbs-superproject,True
 https://gitlab.inria.fr/ordo-bdx/io-peak,False
 https://gitlab.inria.fr/ordo-bdx/nrrp-with-starpu,False
-https://gitlab.inria.fr/orpailleur/sofia-docker,False
+https://gitlab.inria.fr/orpailleur/sofia-docker,True
 https://gitlab.inria.fr/panama-team/blaster,False
 https://gitlab.inria.fr/parallel-replica/gen.parRep,True
 https://gitlab.inria.fr/parallel-replica/qsd.gen.samples,True
@@ -3753,7 +3753,7 @@ https://gitlab.inria.fr/solverstack/fabulous,True
 https://gitlab.inria.fr/solverstack/genfem,True
 https://gitlab.inria.fr/solverstack/h2p3s,True
 https://gitlab.inria.fr/solverstack/hips,False
-https://gitlab.inria.fr/solverstack/hqr,False
+https://gitlab.inria.fr/solverstack/hqr,True
 https://gitlab.inria.fr/solverstack/morse_cmake,False
 https://gitlab.inria.fr/solverstack/paddle,True
 https://gitlab.inria.fr/solverstack/parade,False
