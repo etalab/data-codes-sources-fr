@@ -12,8 +12,8 @@ https://dev.ch-poitiers.fr/mssante/mssante-beans-ps,False
 https://dev.ch-poitiers.fr/mssante/mssante-connecteur-annuaire,False
 https://dev.ch-poitiers.fr/mssante/mssante-connecteur-conformite,False
 https://dev.ch-poitiers.fr/mssante/mssante-connecteur-cpsure,False
-https://dev.ch-poitiers.fr/mssante/mssante-connecteur-ldap,False
-https://dev.ch-poitiers.fr/mssante/mssante-envoi-indicateurs,False
+https://dev.ch-poitiers.fr/mssante/mssante-connecteur-ldap,True
+https://dev.ch-poitiers.fr/mssante/mssante-envoi-indicateurs,True
 https://dev.ch-poitiers.fr/mssante/mssante-listeblanche,False
 https://dev.ch-poitiers.fr/mssante/mssante-listeps,False
 https://dev.ch-poitiers.fr/mssante/mssante-milter,False
@@ -21,7 +21,7 @@ https://dev.ch-poitiers.fr/mssante/mssante-nomenclature,False
 https://dev.ch-poitiers.fr/mssante/mssante-sync-annuaire-ldap,False
 https://dev.ch-poitiers.fr/mssante/mssante-sync-cpsure-ldap,False
 https://dev.ch-poitiers.fr/mssante/mssante-sync-ldap-annuaire,False
-https://dev.ch-poitiers.fr/mssante/mssante-sync-unidirectionnel,False
+https://dev.ch-poitiers.fr/mssante/mssante-sync-unidirectionnel,True
 https://dev.ch-poitiers.fr/mssante/mssante-webapp,False
 https://dev.ch-poitiers.fr/mssante/parent,False
 https://forge.grandlyon.com/systemes-dinformation/pasi-portail-d-acces-au-si,True
@@ -613,7 +613,7 @@ https://github.com/EDS-APHP/pancarte-website,True
 https://github.com/EDS-APHP/py-hdfs-mount,True
 https://github.com/EDS-APHP/pySyntheticDatasetGenerator,True
 https://github.com/EDS-APHP/pylivy,True
-https://github.com/EDS-APHP/spark-etl,False
+https://github.com/EDS-APHP/spark-etl,True
 https://github.com/EDS-APHP/spark-opti,True
 https://github.com/EDS-APHP/spark-postgres,True
 https://github.com/EDS-APHP/tag_serve,True
@@ -1163,6 +1163,7 @@ https://github.com/SocialGouv/archifiltre-landing-page,True
 https://github.com/SocialGouv/autosuggest,True
 https://github.com/SocialGouv/bootstrap,True
 https://github.com/SocialGouv/bot,True
+https://github.com/SocialGouv/cdtn-elk,False
 https://github.com/SocialGouv/checkup,True
 https://github.com/SocialGouv/clone-moi-sur-github,True
 https://github.com/SocialGouv/code-du-travail-api,True
@@ -3235,6 +3236,7 @@ https://gitlab.huma-num.fr/cbma/cbma-philologic,True
 https://gitlab.huma-num.fr/cbma/cbma-philologic-docker,True
 https://gitlab.huma-num.fr/cbma/hagiographie,True
 https://gitlab.huma-num.fr/cbma/nosketch_engine-dockerfile,True
+https://gitlab.huma-num.fr/cbma/outil-epigraphie,False
 https://gitlab.huma-num.fr/consortium3d/aLTAG3D,True
 https://gitlab.huma-num.fr/eurhisfirm/annuaires-favre,True
 https://gitlab.huma-num.fr/eurhisfirm/biryani,True
@@ -3333,7 +3335,7 @@ https://gitlab.inria.fr/PSI/psi4,True
 https://gitlab.inria.fr/PaMPA/PaMPA,True
 https://gitlab.inria.fr/Phylophile/Treerecs,True
 https://gitlab.inria.fr/Puffertools/Pufferbench,True
-https://gitlab.inria.fr/Puffertools/Pufferscale,False
+https://gitlab.inria.fr/Puffertools/Pufferscale,True
 https://gitlab.inria.fr/Puffertools/Pufferspack,True
 https://gitlab.inria.fr/Quickspan/quickspan,True
 https://gitlab.inria.fr/RMOD/Ghost,True
@@ -3600,7 +3602,7 @@ https://gitlab.inria.fr/guix-hpc/website,True
 https://gitlab.inria.fr/gv-open/PyLR,True
 https://gitlab.inria.fr/gv-open/pygeobuf,False
 https://gitlab.inria.fr/hsplit/hsplit,True
-https://gitlab.inria.fr/iccv_2019/pyvideoresearch_gunnar,False
+https://gitlab.inria.fr/iccv_2019/pyvideoresearch_gunnar,True
 https://gitlab.inria.fr/jgranier/Rendu-Style-Novat,True
 https://gitlab.inria.fr/kameleon/kameleon-recipes,True
 https://gitlab.inria.fr/kirikomics/hglib,True
@@ -3657,7 +3659,7 @@ https://gitlab.inria.fr/mosaic/timagetk,True
 https://gitlab.inria.fr/mosaic/tissue_analysis,True
 https://gitlab.inria.fr/mosaic/tissue_nukem_3d,True
 https://gitlab.inria.fr/mosaic/tissue_paredes,True
-https://gitlab.inria.fr/myriads-team/python-distem,False
+https://gitlab.inria.fr/myriads-team/python-distem,True
 https://gitlab.inria.fr/necs-open/RainbowVis-JS,True
 https://gitlab.inria.fr/necs-open/braincrafted.bootstrap-bundle,True
 https://gitlab.inria.fr/necs-open/jsonpath-plus,True
