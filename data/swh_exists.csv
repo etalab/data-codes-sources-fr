@@ -2329,7 +2329,7 @@ https://github.com/etalab/transport-history,True
 https://github.com/etalab/transport-landing-page,True
 https://github.com/etalab/transport-ops,True
 https://github.com/etalab/transport-site,True
-https://github.com/etalab/transport-topo,False
+https://github.com/etalab/transport-topo,True
 https://github.com/etalab/transport-validator,True
 https://github.com/etalab/transport-validator-python,True
 https://github.com/etalab/udata-geoplatform,True
@@ -3511,7 +3511,7 @@ https://gitlab.inria.fr/eigen/eigen-mirror,True
 https://gitlab.inria.fr/enseignement/MIAGE_TP_XML_2017,False
 https://gitlab.inria.fr/epione_ML/bayesian-learning-uca,True
 https://gitlab.inria.fr/epione_ML/mcvae,True
-https://gitlab.inria.fr/evalanon/enoslib,False
+https://gitlab.inria.fr/evalanon/enoslib,True
 https://gitlab.inria.fr/evalanon/python-distem,True
 https://gitlab.inria.fr/evalys/big-data-hpc-g5k-expe-tools,True
 https://gitlab.inria.fr/experiments/intel-cat_experiments,True
@@ -3605,7 +3605,7 @@ https://gitlab.inria.fr/jgranier/Rendu-Style-Novat,True
 https://gitlab.inria.fr/kameleon/kameleon-recipes,True
 https://gitlab.inria.fr/kirikomics/hglib,True
 https://gitlab.inria.fr/kstar/clang-omp,False
-https://gitlab.inria.fr/kstar/kstar,False
+https://gitlab.inria.fr/kstar/kstar,True
 https://gitlab.inria.fr/learninglab/mooc-bioinfo,True
 https://gitlab.inria.fr/learninglab/mooc-forum-plugin,False
 https://gitlab.inria.fr/learninglab/mooc-forums-theme,True
@@ -3753,7 +3753,7 @@ https://gitlab.inria.fr/solverstack/chameleon,False
 https://gitlab.inria.fr/solverstack/fabulous,True
 https://gitlab.inria.fr/solverstack/genfem,True
 https://gitlab.inria.fr/solverstack/h2p3s,True
-https://gitlab.inria.fr/solverstack/hips,False
+https://gitlab.inria.fr/solverstack/hips,True
 https://gitlab.inria.fr/solverstack/hqr,True
 https://gitlab.inria.fr/solverstack/morse_cmake,False
 https://gitlab.inria.fr/solverstack/paddle,True
@@ -3763,7 +3763,7 @@ https://gitlab.inria.fr/solverstack/spack-repo,False
 https://gitlab.inria.fr/solverstack/spm,True
 https://gitlab.inria.fr/solverstack/tabakov,False
 https://gitlab.inria.fr/solverstack/vite,True
-https://gitlab.inria.fr/source_code/aes-cryptanalysis-cp-xor-2019,False
+https://gitlab.inria.fr/source_code/aes-cryptanalysis-cp-xor-2019,True
 https://gitlab.inria.fr/source_code/ai_paper_code,False
 https://gitlab.inria.fr/star-explain/fjs_of_fml,False
 https://gitlab.inria.fr/star-explain/jsexplain,True
