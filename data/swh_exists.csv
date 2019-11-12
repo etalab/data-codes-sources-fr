@@ -593,7 +593,7 @@ https://github.com/DIVERSIFY-project/syntmod,True
 https://github.com/DIVERSIFY-project/syringe,True
 https://github.com/DREAL-NA/aides,True
 https://github.com/EDS-APHP/EdsFhirIG,True
-https://github.com/EDS-APHP/HiveQLKernel,False
+https://github.com/EDS-APHP/HiveQLKernel,True
 https://github.com/EDS-APHP/LightICE,True
 https://github.com/EDS-APHP/SparkPdfExtractor,False
 https://github.com/EDS-APHP/TalendComponents,True
@@ -910,7 +910,7 @@ https://github.com/LemonLDAPNG/lemonldap-dokuwiki-plugin,True
 https://github.com/LemonLDAPNG/lemonldap-mfiles-extension,False
 https://github.com/LemonLDAPNG/lemonldap-ng,True
 https://github.com/LemonLDAPNG/lemonldap-ng-docker,True
-https://github.com/LemonLDAPNG/lemonldap-valve-tomcat,False
+https://github.com/LemonLDAPNG/lemonldap-valve-tomcat,True
 https://github.com/LemonLDAPNG/node-fastcgi-authz-client,True
 https://github.com/LemonLDAPNG/node-lemonldap-ng-handler,True
 https://github.com/LemonLDAPNG/pts2019-llng-workshop,False
@@ -3240,7 +3240,7 @@ https://gitlab.huma-num.fr/eurhisfirm/annuaires-favre,True
 https://gitlab.huma-num.fr/eurhisfirm/biryani,True
 https://gitlab.huma-num.fr/eurhisfirm/dfih-open-data,True
 https://gitlab.huma-num.fr/eurhisfirm/dfih-search,True
-https://gitlab.huma-num.fr/eurhisfirm/dfih-tools,False
+https://gitlab.huma-num.fr/eurhisfirm/dfih-tools,True
 https://gitlab.huma-num.fr/eurhisfirm/dfih-ui,True
 https://gitlab.huma-num.fr/eurhisfirm/dfih-wikibase,True
 https://gitlab.huma-num.fr/eurhisfirm/eurhisfirm-sitelinks-server,True
@@ -3602,7 +3602,7 @@ https://gitlab.inria.fr/gv-open/pygeobuf,False
 https://gitlab.inria.fr/hsplit/hsplit,True
 https://gitlab.inria.fr/iccv_2019/pyvideoresearch_gunnar,False
 https://gitlab.inria.fr/jgranier/Rendu-Style-Novat,True
-https://gitlab.inria.fr/kameleon/kameleon-recipes,False
+https://gitlab.inria.fr/kameleon/kameleon-recipes,True
 https://gitlab.inria.fr/kirikomics/hglib,True
 https://gitlab.inria.fr/kstar/clang-omp,False
 https://gitlab.inria.fr/kstar/kstar,False
