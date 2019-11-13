@@ -19,11 +19,11 @@ https://dev.ch-poitiers.fr/mssante/mssante-listeps,False
 https://dev.ch-poitiers.fr/mssante/mssante-milter,False
 https://dev.ch-poitiers.fr/mssante/mssante-nomenclature,False
 https://dev.ch-poitiers.fr/mssante/mssante-sync-annuaire-ldap,False
-https://dev.ch-poitiers.fr/mssante/mssante-sync-cpsure-ldap,False
+https://dev.ch-poitiers.fr/mssante/mssante-sync-cpsure-ldap,True
 https://dev.ch-poitiers.fr/mssante/mssante-sync-ldap-annuaire,False
 https://dev.ch-poitiers.fr/mssante/mssante-sync-unidirectionnel,True
 https://dev.ch-poitiers.fr/mssante/mssante-webapp,False
-https://dev.ch-poitiers.fr/mssante/parent,False
+https://dev.ch-poitiers.fr/mssante/parent,True
 https://forge.grandlyon.com/systemes-dinformation/pasi-portail-d-acces-au-si,True
 https://forgemia.inra.fr/4p/user-guide,True
 https://forgemia.inra.fr/DecisionBleDur/DecisionBleDur,True
@@ -907,7 +907,7 @@ https://github.com/LemonLDAPNG/apache-session-mongodb,True
 https://github.com/LemonLDAPNG/lasso-rpm,True
 https://github.com/LemonLDAPNG/ldapcon2019-llng-workshop,True
 https://github.com/LemonLDAPNG/lemonldap-dokuwiki-plugin,True
-https://github.com/LemonLDAPNG/lemonldap-mfiles-extension,False
+https://github.com/LemonLDAPNG/lemonldap-mfiles-extension,True
 https://github.com/LemonLDAPNG/lemonldap-ng,True
 https://github.com/LemonLDAPNG/lemonldap-ng-docker,True
 https://github.com/LemonLDAPNG/lemonldap-valve-tomcat,True
@@ -3535,7 +3535,7 @@ https://gitlab.inria.fr/foscadiff/demoRameau,True
 https://gitlab.inria.fr/gagallium/gagallium,True
 https://gitlab.inria.fr/gagallium/gagallium-save,True
 https://gitlab.inria.fr/gagallium/gagallium-source,False
-https://gitlab.inria.fr/gagallium/pandoc-pygments,False
+https://gitlab.inria.fr/gagallium/pandoc-pygments,True
 https://gitlab.inria.fr/gagallium/stog-gagallium,True
 https://gitlab.inria.fr/gagallium/stog-math,True
 https://gitlab.inria.fr/gappa/coq,True
@@ -3680,7 +3680,7 @@ https://gitlab.inria.fr/openmp/enertools,True
 https://gitlab.inria.fr/openmp/experiments-hashmaps,True
 https://gitlab.inria.fr/openmp/kaapi,False
 https://gitlab.inria.fr/openmp/kastors,True
-https://gitlab.inria.fr/openmp/libkomp,False
+https://gitlab.inria.fr/openmp/libkomp,True
 https://gitlab.inria.fr/openskecth/camparam_point_correspondancies,True
 https://gitlab.inria.fr/openskecth/designsketch2normal,False
 https://gitlab.inria.fr/openskecth/labeling_tool,True
@@ -3759,7 +3759,7 @@ https://gitlab.inria.fr/solverstack/hips,True
 https://gitlab.inria.fr/solverstack/hqr,True
 https://gitlab.inria.fr/solverstack/morse_cmake,False
 https://gitlab.inria.fr/solverstack/paddle,True
-https://gitlab.inria.fr/solverstack/parade,False
+https://gitlab.inria.fr/solverstack/parade,True
 https://gitlab.inria.fr/solverstack/pastix,True
 https://gitlab.inria.fr/solverstack/spack-repo,False
 https://gitlab.inria.fr/solverstack/spm,True
@@ -3843,7 +3843,7 @@ https://gitlab.ow2.org/lemonldap-ng/website-landing-page,True
 https://gitlabjf.ccomptes.fr/CommunautesJF/beta,False
 https://gitlabjf.ccomptes.fr/altair/master-jf,False
 https://gitlabjf.ccomptes.fr/eig/candidature_promo3,False
-https://gitlabjf.ccomptes.fr/fnicol/NSIS3,False
+https://gitlabjf.ccomptes.fr/fnicol/NSIS3,True
 https://gitlabjf.ccomptes.fr/fnicol/qt-5.6,False
 https://gitlabjf.ccomptes.fr/fnicol/qtcreator-3.5.1,False
 https://gitlabjf.ccomptes.fr/fnicol/x86_64-6.1.0-release-posix-seh-rt_v5-rev0,False
