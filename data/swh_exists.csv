@@ -599,7 +599,7 @@ https://github.com/EDS-APHP/SparkPdfExtractor,False
 https://github.com/EDS-APHP/TalendComponents,True
 https://github.com/EDS-APHP/UimaOnSpark,True
 https://github.com/EDS-APHP/awesome-french-hospitals,True
-https://github.com/EDS-APHP/brat,False
+https://github.com/EDS-APHP/brat,True
 https://github.com/EDS-APHP/docker-nvidia-9.1-cudnn7-datascience,True
 https://github.com/EDS-APHP/dsfaker,True
 https://github.com/EDS-APHP/hive-udf,True
@@ -1369,6 +1369,7 @@ https://github.com/ambanum/node-botometer,True
 https://github.com/ambanum/node-i18n-iso-countries,True
 https://github.com/ambanum/panoptes,True
 https://github.com/ambanum/paris-call-server,True
+https://github.com/ambanum/pariscall.international,False
 https://github.com/ambanum/political-ads-consistency,True
 https://github.com/ambanum/political-ads-crowdsourcing-client,True
 https://github.com/ambanum/political-ads-crowdsourcing-server,True
@@ -2745,7 +2746,7 @@ https://github.com/observatoire-territoires/SOFIE,True
 https://github.com/observatoire-territoires/couvnum,True
 https://github.com/observatoire-territoires/migR,True
 https://github.com/observatoire-territoires/rapport-OT-mobilites,True
-https://github.com/observatoire-territoires/sageo2019,False
+https://github.com/observatoire-territoires/sageo2019,True
 https://github.com/observatoire-territoires/sgf,True
 https://github.com/observatoire-territoires/shinyapp_mob_resid,True
 https://github.com/observatoire-territoires/specificite,True
@@ -3629,7 +3630,7 @@ https://gitlab.inria.fr/metapart/mirror,True
 https://gitlab.inria.fr/metapart/scotch,False
 https://gitlab.inria.fr/metapart/starpart,True
 https://gitlab.inria.fr/metapart/walshaw,False
-https://gitlab.inria.fr/mfx/icesl-documentation,False
+https://gitlab.inria.fr/mfx/icesl-documentation,True
 https://gitlab.inria.fr/mfx/icesl-public,False
 https://gitlab.inria.fr/mgkit/MetaMOF,True
 https://gitlab.inria.fr/mgkit/MetaMeF,True
@@ -3696,7 +3697,7 @@ https://gitlab.inria.fr/openwind/release,False
 https://gitlab.inria.fr/optimdbs/optimdbs-medinria,True
 https://gitlab.inria.fr/optimdbs/optimdbs-superproject,True
 https://gitlab.inria.fr/ordo-bdx/io-peak,False
-https://gitlab.inria.fr/ordo-bdx/nrrp-with-starpu,False
+https://gitlab.inria.fr/ordo-bdx/nrrp-with-starpu,True
 https://gitlab.inria.fr/orpailleur/sofia-docker,True
 https://gitlab.inria.fr/panama-team/blaster,False
 https://gitlab.inria.fr/parallel-replica/gen.parRep,True
@@ -3742,7 +3743,7 @@ https://gitlab.inria.fr/serpico/mwr,True
 https://gitlab.inria.fr/serpico/ndsafir_bin,True
 https://gitlab.inria.fr/serpico/owf_bin,True
 https://gitlab.inria.fr/serpico/thot_bin,True
-https://gitlab.inria.fr/simgrid/simgrid,False
+https://gitlab.inria.fr/simgrid/simgrid,True
 https://gitlab.inria.fr/siteadmin/doc,True
 https://gitlab.inria.fr/siteadmin/gitlab_import_ildap_group_members,False
 https://gitlab.inria.fr/siteadmin/publictest,False
