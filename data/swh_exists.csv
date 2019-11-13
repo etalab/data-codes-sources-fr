@@ -14,7 +14,7 @@ https://dev.ch-poitiers.fr/mssante/mssante-connecteur-conformite,False
 https://dev.ch-poitiers.fr/mssante/mssante-connecteur-cpsure,False
 https://dev.ch-poitiers.fr/mssante/mssante-connecteur-ldap,True
 https://dev.ch-poitiers.fr/mssante/mssante-envoi-indicateurs,True
-https://dev.ch-poitiers.fr/mssante/mssante-listeblanche,False
+https://dev.ch-poitiers.fr/mssante/mssante-listeblanche,True
 https://dev.ch-poitiers.fr/mssante/mssante-listeps,False
 https://dev.ch-poitiers.fr/mssante/mssante-milter,False
 https://dev.ch-poitiers.fr/mssante/mssante-nomenclature,False
@@ -1370,6 +1370,7 @@ https://github.com/ambanum/node-i18n-iso-countries,True
 https://github.com/ambanum/panoptes,True
 https://github.com/ambanum/paris-call-server,True
 https://github.com/ambanum/pariscall.international,False
+https://github.com/ambanum/pariscall.international-backend,False
 https://github.com/ambanum/political-ads-consistency,True
 https://github.com/ambanum/political-ads-crowdsourcing-client,True
 https://github.com/ambanum/political-ads-crowdsourcing-server,True
@@ -3643,7 +3644,7 @@ https://gitlab.inria.fr/mnemosyne/data_prototypes,False
 https://gitlab.inria.fr/mnemosyne/neurosmart,True
 https://gitlab.inria.fr/mnemosyne/vanilla_nn,True
 https://gitlab.inria.fr/moex/class,True
-https://gitlab.inria.fr/moex/linkex,False
+https://gitlab.inria.fr/moex/linkex,True
 https://gitlab.inria.fr/moex/linkky,True
 https://gitlab.inria.fr/monitoring/opportunistic-rv-conf,True
 https://gitlab.inria.fr/monitoring/rv-dist-pub,True
@@ -3673,7 +3674,7 @@ https://gitlab.inria.fr/nix-tutorial/chord-experiments,True
 https://gitlab.inria.fr/nix-tutorial/chord-tuto-nix-2019,True
 https://gitlab.inria.fr/nix-tutorial/nix-tutorial,True
 https://gitlab.inria.fr/nix-tutorial/packages-repository,True
-https://gitlab.inria.fr/nix-tutorial/presentation-slides,False
+https://gitlab.inria.fr/nix-tutorial/presentation-slides,True
 https://gitlab.inria.fr/obelix/broceliande,True
 https://gitlab.inria.fr/obelix/triskele,False
 https://gitlab.inria.fr/openmp/clang,False
@@ -3753,7 +3754,7 @@ https://gitlab.inria.fr/skeletons/necro,True
 https://gitlab.inria.fr/skelton/pyskelton,True
 https://gitlab.inria.fr/skelton/skelton2,False
 https://gitlab.inria.fr/solverstack/ScalFMM,False
-https://gitlab.inria.fr/solverstack/chameleon,False
+https://gitlab.inria.fr/solverstack/chameleon,True
 https://gitlab.inria.fr/solverstack/fabulous,True
 https://gitlab.inria.fr/solverstack/genfem,True
 https://gitlab.inria.fr/solverstack/h2p3s,True
@@ -3774,8 +3775,8 @@ https://gitlab.inria.fr/star-explain/jsexplain,True
 https://gitlab.inria.fr/star-explain/opam-repository,False
 https://gitlab.inria.fr/synalp/python4nlp-2019-public,True
 https://gitlab.inria.fr/synalp/website,True
-https://gitlab.inria.fr/synchrone/heptagon,False
-https://gitlab.inria.fr/thoth/spams-devel,False
+https://gitlab.inria.fr/synchrone/heptagon,True
+https://gitlab.inria.fr/thoth/spams-devel,True
 https://gitlab.inria.fr/tnfs-alpha/alpha,True
 https://gitlab.inria.fr/tranus/QGIS_Tranus_Reports,False
 https://gitlab.inria.fr/tranus/TRANUS_Interfaces,True
