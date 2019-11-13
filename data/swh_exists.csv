@@ -1,7 +1,7 @@
 origin_url,is_available
 https://dev.ch-poitiers.fr/PowerShell/OutilsServeurs,False
 https://dev.ch-poitiers.fr/PowerShell/PagesVertes,False
-https://dev.ch-poitiers.fr/elk/debian-buster,False
+https://dev.ch-poitiers.fr/elk/debian-buster,True
 https://dev.ch-poitiers.fr/elk/stormshield,False
 https://dev.ch-poitiers.fr/firefox/policy-templates,False
 https://dev.ch-poitiers.fr/mssante/mssante-api,False
@@ -1163,7 +1163,7 @@ https://github.com/SocialGouv/archifiltre-landing-page,True
 https://github.com/SocialGouv/autosuggest,True
 https://github.com/SocialGouv/bootstrap,True
 https://github.com/SocialGouv/bot,True
-https://github.com/SocialGouv/cdtn-elk,False
+https://github.com/SocialGouv/cdtn-elk,True
 https://github.com/SocialGouv/checkup,True
 https://github.com/SocialGouv/clone-moi-sur-github,True
 https://github.com/SocialGouv/code-du-travail-api,True
@@ -2331,6 +2331,7 @@ https://github.com/etalab/transport-landing-page,True
 https://github.com/etalab/transport-ops,True
 https://github.com/etalab/transport-site,True
 https://github.com/etalab/transport-topo,True
+https://github.com/etalab/transport-topo-tools,False
 https://github.com/etalab/transport-validator,True
 https://github.com/etalab/transport-validator-python,True
 https://github.com/etalab/udata-geoplatform,True
@@ -3236,7 +3237,7 @@ https://gitlab.huma-num.fr/cbma/cbma-philologic,True
 https://gitlab.huma-num.fr/cbma/cbma-philologic-docker,True
 https://gitlab.huma-num.fr/cbma/hagiographie,True
 https://gitlab.huma-num.fr/cbma/nosketch_engine-dockerfile,True
-https://gitlab.huma-num.fr/cbma/outil-epigraphie,False
+https://gitlab.huma-num.fr/cbma/outil-epigraphie,True
 https://gitlab.huma-num.fr/consortium3d/aLTAG3D,True
 https://gitlab.huma-num.fr/eurhisfirm/annuaires-favre,True
 https://gitlab.huma-num.fr/eurhisfirm/biryani,True
@@ -3701,7 +3702,7 @@ https://gitlab.inria.fr/panama-team/blaster,False
 https://gitlab.inria.fr/parallel-replica/gen.parRep,True
 https://gitlab.inria.fr/parallel-replica/qsd.gen.samples,True
 https://gitlab.inria.fr/parseme-fr/mwe-mg,True
-https://gitlab.inria.fr/patate/patate,False
+https://gitlab.inria.fr/patate/patate,True
 https://gitlab.inria.fr/piper/anatomydb,True
 https://gitlab.inria.fr/piper/application,True
 https://gitlab.inria.fr/piper/child,True
@@ -3720,7 +3721,7 @@ https://gitlab.inria.fr/sca_platform/targets,False
 https://gitlab.inria.fr/scotch/scotch,True
 https://gitlab.inria.fr/scripta/escriptorium,True
 https://gitlab.inria.fr/sed-bso/cmake,False
-https://gitlab.inria.fr/sed-bso/heat,False
+https://gitlab.inria.fr/sed-bso/heat,True
 https://gitlab.inria.fr/sed-bso/sonarqube,True
 https://gitlab.inria.fr/sed-lille/game-of-codes-utils,True
 https://gitlab.inria.fr/sed-paris/codingdojo,False
@@ -3796,7 +3797,7 @@ https://gitlab.inria.fr/verifisc/verifisc,True
 https://gitlab.inria.fr/verifisc/verifisc-python,True
 https://gitlab.inria.fr/vidjil/mixcr,True
 https://gitlab.inria.fr/vidjil/sdsl-lite,False
-https://gitlab.inria.fr/vidjil/tl-index,False
+https://gitlab.inria.fr/vidjil/tl-index,True
 https://gitlab.inria.fr/vidjil/vidjil,True
 https://gitlab.inria.fr/why3/why3,True
 https://gitlab.inria.fr/xkblas/versions,False
