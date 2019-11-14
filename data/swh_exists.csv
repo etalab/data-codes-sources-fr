@@ -7,10 +7,10 @@ https://dev.ch-poitiers.fr/firefox/policy-templates,False
 https://dev.ch-poitiers.fr/mssante/mssante-api,False
 https://dev.ch-poitiers.fr/mssante/mssante-beans-alimentation-annuaire,True
 https://dev.ch-poitiers.fr/mssante/mssante-beans-bal,False
-https://dev.ch-poitiers.fr/mssante/mssante-beans-liste-blanche,False
+https://dev.ch-poitiers.fr/mssante/mssante-beans-liste-blanche,True
 https://dev.ch-poitiers.fr/mssante/mssante-beans-ps,True
 https://dev.ch-poitiers.fr/mssante/mssante-connecteur-annuaire,False
-https://dev.ch-poitiers.fr/mssante/mssante-connecteur-conformite,False
+https://dev.ch-poitiers.fr/mssante/mssante-connecteur-conformite,True
 https://dev.ch-poitiers.fr/mssante/mssante-connecteur-cpsure,False
 https://dev.ch-poitiers.fr/mssante/mssante-connecteur-ldap,True
 https://dev.ch-poitiers.fr/mssante/mssante-envoi-indicateurs,True
@@ -1507,6 +1507,7 @@ https://github.com/betagouv/domain-scan,True
 https://github.com/betagouv/dossiersco,True
 https://github.com/betagouv/dossiersco-maintenance,True
 https://github.com/betagouv/dossiersco-openlab1,True
+https://github.com/betagouv/dossiersco.fr,False
 https://github.com/betagouv/ds_proxy,True
 https://github.com/betagouv/e-controle,True
 https://github.com/betagouv/eac,True
@@ -3710,7 +3711,7 @@ https://gitlab.inria.fr/patate/patate,True
 https://gitlab.inria.fr/piper/anatomydb,True
 https://gitlab.inria.fr/piper/application,True
 https://gitlab.inria.fr/piper/child,True
-https://gitlab.inria.fr/piper/child_pedestrian,False
+https://gitlab.inria.fr/piper/child_pedestrian,True
 https://gitlab.inria.fr/piper/misc_models,True
 https://gitlab.inria.fr/piper/viva,False
 https://gitlab.inria.fr/piy/piy,False
@@ -3748,7 +3749,7 @@ https://gitlab.inria.fr/serpico/owf_bin,True
 https://gitlab.inria.fr/serpico/thot_bin,True
 https://gitlab.inria.fr/simgrid/simgrid,True
 https://gitlab.inria.fr/siteadmin/doc,True
-https://gitlab.inria.fr/siteadmin/gitlab_import_ildap_group_members,False
+https://gitlab.inria.fr/siteadmin/gitlab_import_ildap_group_members,True
 https://gitlab.inria.fr/siteadmin/publictest,False
 https://gitlab.inria.fr/skeletons/Coq,True
 https://gitlab.inria.fr/skeletons/jskel,False
@@ -3768,13 +3769,13 @@ https://gitlab.inria.fr/solverstack/parade,True
 https://gitlab.inria.fr/solverstack/pastix,True
 https://gitlab.inria.fr/solverstack/spack-repo,False
 https://gitlab.inria.fr/solverstack/spm,True
-https://gitlab.inria.fr/solverstack/tabakov,False
+https://gitlab.inria.fr/solverstack/tabakov,True
 https://gitlab.inria.fr/solverstack/vite,True
 https://gitlab.inria.fr/source_code/aes-cryptanalysis-cp-xor-2019,True
 https://gitlab.inria.fr/source_code/ai_paper_code,False
 https://gitlab.inria.fr/star-explain/fjs_of_fml,False
 https://gitlab.inria.fr/star-explain/jsexplain,True
-https://gitlab.inria.fr/star-explain/opam-repository,False
+https://gitlab.inria.fr/star-explain/opam-repository,True
 https://gitlab.inria.fr/synalp/python4nlp-2019-public,True
 https://gitlab.inria.fr/synalp/website,True
 https://gitlab.inria.fr/synchrone/heptagon,True
@@ -3839,6 +3840,7 @@ https://gitlab.irstea.fr/irrig/public,True
 https://gitlab.irstea.fr/irstea-ros/ads1115_driver,True
 https://gitlab.irstea.fr/irstea-ros/labjack_driver,True
 https://gitlab.irstea.fr/irstea-ros/navsat_to_odom,True
+https://gitlab.irstea.fr/pomosed/rfunctions,False
 https://gitlab.irstea.fr/raspberry-pi/multi-sense,True
 https://gitlab.irstea.fr/raspberry-pi/sense-hat,True
 https://gitlab.irstea.fr/support/wiki,True
