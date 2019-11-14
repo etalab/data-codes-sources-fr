@@ -8,7 +8,7 @@ https://dev.ch-poitiers.fr/mssante/mssante-api,False
 https://dev.ch-poitiers.fr/mssante/mssante-beans-alimentation-annuaire,False
 https://dev.ch-poitiers.fr/mssante/mssante-beans-bal,False
 https://dev.ch-poitiers.fr/mssante/mssante-beans-liste-blanche,False
-https://dev.ch-poitiers.fr/mssante/mssante-beans-ps,False
+https://dev.ch-poitiers.fr/mssante/mssante-beans-ps,True
 https://dev.ch-poitiers.fr/mssante/mssante-connecteur-annuaire,False
 https://dev.ch-poitiers.fr/mssante/mssante-connecteur-conformite,False
 https://dev.ch-poitiers.fr/mssante/mssante-connecteur-cpsure,False
@@ -899,7 +899,7 @@ https://github.com/LINCnil/pia,True
 https://github.com/LINCnil/pia-app,True
 https://github.com/LINCnil/pia-back,True
 https://github.com/LINCnil/tosback2,True
-https://github.com/LemonLDAPNG/Apache-Session-Browseable,False
+https://github.com/LemonLDAPNG/Apache-Session-Browseable,True
 https://github.com/LemonLDAPNG/Apache-Session-LDAP,True
 https://github.com/LemonLDAPNG/Apache-Session-NoSQL,True
 https://github.com/LemonLDAPNG/Plack-Middleware-Auth-FCGI,True
@@ -913,7 +913,7 @@ https://github.com/LemonLDAPNG/lemonldap-ng-docker,True
 https://github.com/LemonLDAPNG/lemonldap-valve-tomcat,True
 https://github.com/LemonLDAPNG/node-fastcgi-authz-client,True
 https://github.com/LemonLDAPNG/node-lemonldap-ng-handler,True
-https://github.com/LemonLDAPNG/pts2019-llng-workshop,False
+https://github.com/LemonLDAPNG/pts2019-llng-workshop,True
 https://github.com/LemonLDAPNG/puppet-lemonldap-ng,True
 https://github.com/MTES-MCT/action-bidonvilles,True
 https://github.com/MTES-MCT/action-bidonvilles-api,True
@@ -1370,7 +1370,7 @@ https://github.com/ambanum/node-i18n-iso-countries,True
 https://github.com/ambanum/panoptes,True
 https://github.com/ambanum/paris-call-server,True
 https://github.com/ambanum/pariscall.international,False
-https://github.com/ambanum/pariscall.international-backend,False
+https://github.com/ambanum/pariscall.international-backend,True
 https://github.com/ambanum/political-ads-consistency,True
 https://github.com/ambanum/political-ads-crowdsourcing-client,True
 https://github.com/ambanum/political-ads-crowdsourcing-server,True
@@ -3418,7 +3418,7 @@ https://gitlab.inria.fr/cedar/extraction-test,True
 https://gitlab.inria.fr/cedar/insee-crawler,True
 https://gitlab.inria.fr/cedar/spadedemo_vldb2019,True
 https://gitlab.inria.fr/cedar/statstical_mentions,True
-https://gitlab.inria.fr/cerisara/olkisite,False
+https://gitlab.inria.fr/cerisara/olkisite,True
 https://gitlab.inria.fr/cfrioux/MeneTools,True
 https://gitlab.inria.fr/cidre-public/malcon19,True
 https://gitlab.inria.fr/cidre-public/obfuscated-android-unit-examples,True
@@ -3537,7 +3537,7 @@ https://gitlab.inria.fr/formation-gitlab-ci/tuto-ci-edib,True
 https://gitlab.inria.fr/foscadiff/demoRameau,True
 https://gitlab.inria.fr/gagallium/gagallium,True
 https://gitlab.inria.fr/gagallium/gagallium-save,True
-https://gitlab.inria.fr/gagallium/gagallium-source,False
+https://gitlab.inria.fr/gagallium/gagallium-source,True
 https://gitlab.inria.fr/gagallium/pandoc-pygments,True
 https://gitlab.inria.fr/gagallium/stog-gagallium,True
 https://gitlab.inria.fr/gagallium/stog-math,True
@@ -3685,7 +3685,7 @@ https://gitlab.inria.fr/openmp/kaapi,False
 https://gitlab.inria.fr/openmp/kastors,True
 https://gitlab.inria.fr/openmp/libkomp,True
 https://gitlab.inria.fr/openskecth/camparam_point_correspondancies,True
-https://gitlab.inria.fr/openskecth/designsketch2normal,False
+https://gitlab.inria.fr/openskecth/designsketch2normal,True
 https://gitlab.inria.fr/openskecth/labeling_tool,True
 https://gitlab.inria.fr/openskecth/pix2pix_wassersten,True
 https://gitlab.inria.fr/openskecth/sketching_interface,True
@@ -3783,7 +3783,7 @@ https://gitlab.inria.fr/tranus/TRANUS_Interfaces,True
 https://gitlab.inria.fr/tranus/Tranus_Python,False
 https://gitlab.inria.fr/tranus/Tranus_QGIS_Plugins,True
 https://gitlab.inria.fr/tyrex-public/mu-RA,True
-https://gitlab.inria.fr/usnb/api-gateway,False
+https://gitlab.inria.fr/usnb/api-gateway,True
 https://gitlab.inria.fr/usnb/bus-experiment,False
 https://gitlab.inria.fr/usnb/email-bc,True
 https://gitlab.inria.fr/usnb/entity-manager,False
