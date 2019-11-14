@@ -1369,7 +1369,7 @@ https://github.com/ambanum/node-botometer,True
 https://github.com/ambanum/node-i18n-iso-countries,True
 https://github.com/ambanum/panoptes,True
 https://github.com/ambanum/paris-call-server,True
-https://github.com/ambanum/pariscall.international,False
+https://github.com/ambanum/pariscall.international,True
 https://github.com/ambanum/pariscall.international-backend,True
 https://github.com/ambanum/political-ads-consistency,True
 https://github.com/ambanum/political-ads-crowdsourcing-client,True
@@ -1515,6 +1515,7 @@ https://github.com/betagouv/etudiant-entrepreneur,True
 https://github.com/betagouv/fetch-normalize-data,True
 https://github.com/betagouv/fiches-de-banc,True
 https://github.com/betagouv/freescout,True
+https://github.com/betagouv/geoplus,False
 https://github.com/betagouv/gps-usagers,True
 https://github.com/betagouv/grafana-scalingo,True
 https://github.com/betagouv/heroku-buildpack-ruby,True
@@ -2333,7 +2334,7 @@ https://github.com/etalab/transport-landing-page,True
 https://github.com/etalab/transport-ops,True
 https://github.com/etalab/transport-site,True
 https://github.com/etalab/transport-topo,True
-https://github.com/etalab/transport-topo-tools,False
+https://github.com/etalab/transport-topo-tools,True
 https://github.com/etalab/transport-validator,True
 https://github.com/etalab/transport-validator-python,True
 https://github.com/etalab/udata-geoplatform,True
@@ -3259,7 +3260,7 @@ https://gitlab.huma-num.fr/lamop/Hmaot,True
 https://gitlab.huma-num.fr/lamop/archive-osm,True
 https://gitlab.huma-num.fr/lamop/audiotheque-traduction,True
 https://gitlab.huma-num.fr/lamop/cbma-epigraphie,True
-https://gitlab.huma-num.fr/lamop/duranti,False
+https://gitlab.huma-num.fr/lamop/duranti,True
 https://gitlab.huma-num.fr/lamop/fonds-marc-bloch,True
 https://gitlab.huma-num.fr/lamop/heraut-transcript,True
 https://gitlab.huma-num.fr/lamop/htr,True
@@ -3667,7 +3668,7 @@ https://gitlab.inria.fr/necs-open/RainbowVis-JS,True
 https://gitlab.inria.fr/necs-open/braincrafted.bootstrap-bundle,True
 https://gitlab.inria.fr/necs-open/jsonpath-plus,True
 https://gitlab.inria.fr/necs-open/promise-polyfill,False
-https://gitlab.inria.fr/necs-open/typeahead.js-bootstrap4-css,False
+https://gitlab.inria.fr/necs-open/typeahead.js-bootstrap4-css,True
 https://gitlab.inria.fr/necs_lib/SOCI,True
 https://gitlab.inria.fr/necs_lib/boost-process,True
 https://gitlab.inria.fr/nix-tutorial/chord-experiments,True
@@ -3697,7 +3698,7 @@ https://gitlab.inria.fr/openvibe/sdk,True
 https://gitlab.inria.fr/openwind/release,False
 https://gitlab.inria.fr/optimdbs/optimdbs-medinria,True
 https://gitlab.inria.fr/optimdbs/optimdbs-superproject,True
-https://gitlab.inria.fr/ordo-bdx/io-peak,False
+https://gitlab.inria.fr/ordo-bdx/io-peak,True
 https://gitlab.inria.fr/ordo-bdx/nrrp-with-starpu,True
 https://gitlab.inria.fr/orpailleur/sofia-docker,True
 https://gitlab.inria.fr/panama-team/blaster,False
@@ -3709,7 +3710,7 @@ https://gitlab.inria.fr/piper/anatomydb,True
 https://gitlab.inria.fr/piper/application,True
 https://gitlab.inria.fr/piper/child,True
 https://gitlab.inria.fr/piper/child_pedestrian,False
-https://gitlab.inria.fr/piper/misc_models,False
+https://gitlab.inria.fr/piper/misc_models,True
 https://gitlab.inria.fr/piper/viva,False
 https://gitlab.inria.fr/piy/piy,False
 https://gitlab.inria.fr/popstar/SAT-Equiv,True
@@ -3752,7 +3753,7 @@ https://gitlab.inria.fr/skeletons/Coq,True
 https://gitlab.inria.fr/skeletons/jskel,False
 https://gitlab.inria.fr/skeletons/necro,True
 https://gitlab.inria.fr/skelton/pyskelton,True
-https://gitlab.inria.fr/skelton/skelton2,False
+https://gitlab.inria.fr/skelton/skelton2,True
 https://gitlab.inria.fr/solverstack/ScalFMM,False
 https://gitlab.inria.fr/solverstack/chameleon,True
 https://gitlab.inria.fr/solverstack/fabulous,True
@@ -3789,7 +3790,7 @@ https://gitlab.inria.fr/usnb/email-bc,True
 https://gitlab.inria.fr/usnb/entity-manager,False
 https://gitlab.inria.fr/usnb/facebook-bc,True
 https://gitlab.inria.fr/usnb/gmail-persona,False
-https://gitlab.inria.fr/usnb/message-transformer,False
+https://gitlab.inria.fr/usnb/message-transformer,True
 https://gitlab.inria.fr/usnb/messenger-persona,False
 https://gitlab.inria.fr/usnb/slack-persona,False
 https://gitlab.inria.fr/usnb/subscription-manager,True
@@ -3851,5 +3852,5 @@ https://gitlabjf.ccomptes.fr/fnicol/qt-5.6,False
 https://gitlabjf.ccomptes.fr/fnicol/qtcreator-3.5.1,False
 https://gitlabjf.ccomptes.fr/fnicol/x86_64-6.1.0-release-posix-seh-rt_v5-rev0,False
 https://gitlabjf.ccomptes.fr/startupjf/e-controle,False
-https://gitlabjf.ccomptes.fr/startupjf/e-controle-deploy,False
+https://gitlabjf.ccomptes.fr/startupjf/e-controle-deploy,True
 https://gitlabjf.ccomptes.fr/wikijs/wikijs,False
