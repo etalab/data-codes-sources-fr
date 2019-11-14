@@ -5,7 +5,7 @@ https://dev.ch-poitiers.fr/elk/debian-buster,True
 https://dev.ch-poitiers.fr/elk/stormshield,False
 https://dev.ch-poitiers.fr/firefox/policy-templates,False
 https://dev.ch-poitiers.fr/mssante/mssante-api,False
-https://dev.ch-poitiers.fr/mssante/mssante-beans-alimentation-annuaire,False
+https://dev.ch-poitiers.fr/mssante/mssante-beans-alimentation-annuaire,True
 https://dev.ch-poitiers.fr/mssante/mssante-beans-bal,False
 https://dev.ch-poitiers.fr/mssante/mssante-beans-liste-blanche,False
 https://dev.ch-poitiers.fr/mssante/mssante-beans-ps,True
@@ -20,7 +20,7 @@ https://dev.ch-poitiers.fr/mssante/mssante-milter,False
 https://dev.ch-poitiers.fr/mssante/mssante-nomenclature,False
 https://dev.ch-poitiers.fr/mssante/mssante-sync-annuaire-ldap,False
 https://dev.ch-poitiers.fr/mssante/mssante-sync-cpsure-ldap,True
-https://dev.ch-poitiers.fr/mssante/mssante-sync-ldap-annuaire,False
+https://dev.ch-poitiers.fr/mssante/mssante-sync-ldap-annuaire,True
 https://dev.ch-poitiers.fr/mssante/mssante-sync-unidirectionnel,True
 https://dev.ch-poitiers.fr/mssante/mssante-webapp,False
 https://dev.ch-poitiers.fr/mssante/parent,True
@@ -287,6 +287,7 @@ https://github.com/ANSSI-FR/bmc-tools,True
 https://github.com/ANSSI-FR/bootcode_parser,True
 https://github.com/ANSSI-FR/caml-crush,True
 https://github.com/ANSSI-FR/caradoc,True
+https://github.com/ANSSI-FR/chipsec-check,False
 https://github.com/ANSSI-FR/concerto,True
 https://github.com/ANSSI-FR/coq-prelude,True
 https://github.com/ANSSI-FR/cornetto,True
@@ -3682,7 +3683,7 @@ https://gitlab.inria.fr/openmp/clang,False
 https://gitlab.inria.fr/openmp/energy,True
 https://gitlab.inria.fr/openmp/enertools,True
 https://gitlab.inria.fr/openmp/experiments-hashmaps,True
-https://gitlab.inria.fr/openmp/kaapi,False
+https://gitlab.inria.fr/openmp/kaapi,True
 https://gitlab.inria.fr/openmp/kastors,True
 https://gitlab.inria.fr/openmp/libkomp,True
 https://gitlab.inria.fr/openskecth/camparam_point_correspondancies,True
@@ -3723,7 +3724,7 @@ https://gitlab.inria.fr/sca_platform/equipments,False
 https://gitlab.inria.fr/sca_platform/targets,False
 https://gitlab.inria.fr/scotch/scotch,True
 https://gitlab.inria.fr/scripta/escriptorium,True
-https://gitlab.inria.fr/sed-bso/cmake,False
+https://gitlab.inria.fr/sed-bso/cmake,True
 https://gitlab.inria.fr/sed-bso/heat,True
 https://gitlab.inria.fr/sed-bso/sonarqube,True
 https://gitlab.inria.fr/sed-lille/game-of-codes-utils,True
@@ -3781,7 +3782,7 @@ https://gitlab.inria.fr/thoth/spams-devel,True
 https://gitlab.inria.fr/tnfs-alpha/alpha,True
 https://gitlab.inria.fr/tranus/QGIS_Tranus_Reports,False
 https://gitlab.inria.fr/tranus/TRANUS_Interfaces,True
-https://gitlab.inria.fr/tranus/Tranus_Python,False
+https://gitlab.inria.fr/tranus/Tranus_Python,True
 https://gitlab.inria.fr/tranus/Tranus_QGIS_Plugins,True
 https://gitlab.inria.fr/tyrex-public/mu-RA,True
 https://gitlab.inria.fr/usnb/api-gateway,True
@@ -3799,7 +3800,7 @@ https://gitlab.inria.fr/verifisc/mlang,True
 https://gitlab.inria.fr/verifisc/verifisc,True
 https://gitlab.inria.fr/verifisc/verifisc-python,True
 https://gitlab.inria.fr/vidjil/mixcr,True
-https://gitlab.inria.fr/vidjil/sdsl-lite,False
+https://gitlab.inria.fr/vidjil/sdsl-lite,True
 https://gitlab.inria.fr/vidjil/tl-index,True
 https://gitlab.inria.fr/vidjil/vidjil,True
 https://gitlab.inria.fr/why3/why3,True
@@ -3817,7 +3818,7 @@ https://gitlab.inria.fr/zefxis/IoT-web-console,True
 https://gitlab.inria.fr/zefxis/dexdeploy,False
 https://gitlab.inria.fr/zefxis/experiments,True
 https://gitlab.inria.fr/zefxis/monitoring-tool,True
-https://gitlab.inria.fr/zefxis/playgrounds,False
+https://gitlab.inria.fr/zefxis/playgrounds,True
 https://gitlab.inria.fr/zefxis/use-cases,True
 https://gitlab.inria.fr/zhozhang/zhongkai-zhang,True
 https://gitlab.irstea.fr/HYCAR-Hydro/airgr,True
@@ -3844,7 +3845,7 @@ https://gitlab.irstea.fr/support/wiki,True
 https://gitlab.irstea.fr/vino/Vino,True
 https://gitlab.ow2.org/lemonldap-ng/lemonldap-ng,True
 https://gitlab.ow2.org/lemonldap-ng/website-landing-page,True
-https://gitlabjf.ccomptes.fr/CommunautesJF/beta,False
+https://gitlabjf.ccomptes.fr/CommunautesJF/beta,True
 https://gitlabjf.ccomptes.fr/altair/master-jf,False
 https://gitlabjf.ccomptes.fr/eig/candidature_promo3,False
 https://gitlabjf.ccomptes.fr/fnicol/NSIS3,True
@@ -3853,4 +3854,4 @@ https://gitlabjf.ccomptes.fr/fnicol/qtcreator-3.5.1,False
 https://gitlabjf.ccomptes.fr/fnicol/x86_64-6.1.0-release-posix-seh-rt_v5-rev0,False
 https://gitlabjf.ccomptes.fr/startupjf/e-controle,False
 https://gitlabjf.ccomptes.fr/startupjf/e-controle-deploy,True
-https://gitlabjf.ccomptes.fr/wikijs/wikijs,False
+https://gitlabjf.ccomptes.fr/wikijs/wikijs,True
