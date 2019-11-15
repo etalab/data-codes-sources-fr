@@ -3615,7 +3615,7 @@ https://gitlab.inria.fr/iccv_2019/pyvideoresearch_gunnar,True
 https://gitlab.inria.fr/jgranier/Rendu-Style-Novat,True
 https://gitlab.inria.fr/kameleon/kameleon-recipes,True
 https://gitlab.inria.fr/kirikomics/hglib,True
-https://gitlab.inria.fr/kstar/clang-omp,False
+https://gitlab.inria.fr/kstar/clang-omp,True
 https://gitlab.inria.fr/kstar/kstar,True
 https://gitlab.inria.fr/learninglab/mooc-bioinfo,True
 https://gitlab.inria.fr/learninglab/mooc-forum-plugin,False
@@ -3700,7 +3700,7 @@ https://gitlab.inria.fr/openvibe/designer,True
 https://gitlab.inria.fr/openvibe/extras,True
 https://gitlab.inria.fr/openvibe/meta,True
 https://gitlab.inria.fr/openvibe/sdk,True
-https://gitlab.inria.fr/openwind/release,False
+https://gitlab.inria.fr/openwind/release,True
 https://gitlab.inria.fr/optimdbs/optimdbs-medinria,True
 https://gitlab.inria.fr/optimdbs/optimdbs-superproject,True
 https://gitlab.inria.fr/ordo-bdx/io-peak,True
