@@ -2316,6 +2316,7 @@ https://github.com/etalab/schema-lieux-covoiturage,True
 https://github.com/etalab/schema.data.gouv.fr,True
 https://github.com/etalab/scpc-as-api,True
 https://github.com/etalab/secateur,True
+https://github.com/etalab/sillweb,False
 https://github.com/etalab/sirene,True
 https://github.com/etalab/sirene_as_api,True
 https://github.com/etalab/sirene_as_api_ansible,True
@@ -2904,6 +2905,7 @@ https://github.com/openfun/openedx-comments-docker,True
 https://github.com/openfun/openedx-con-2018,True
 https://github.com/openfun/openedx-con-2019,True
 https://github.com/openfun/openedx-docker,True
+https://github.com/openfun/openedx-ecommerce-docker,False
 https://github.com/openfun/openedx-xapi,True
 https://github.com/openfun/openfun.github.io,True
 https://github.com/openfun/openshift-docker,True
@@ -3654,7 +3656,7 @@ https://gitlab.inria.fr/monitoring/rv-dist-pub,True
 https://gitlab.inria.fr/monitoring/rv-multi,False
 https://gitlab.inria.fr/monitoring/themis,True
 https://gitlab.inria.fr/monitoring/themis-artifact-article,True
-https://gitlab.inria.fr/monitoring/themis-artifact-outdated,False
+https://gitlab.inria.fr/monitoring/themis-artifact-outdated,True
 https://gitlab.inria.fr/monitoring/themis-demo,False
 https://gitlab.inria.fr/monitoring/themis-rv18smarthome,True
 https://gitlab.inria.fr/monitoring/verde,False
@@ -3679,7 +3681,7 @@ https://gitlab.inria.fr/nix-tutorial/nix-tutorial,True
 https://gitlab.inria.fr/nix-tutorial/packages-repository,True
 https://gitlab.inria.fr/nix-tutorial/presentation-slides,True
 https://gitlab.inria.fr/obelix/broceliande,True
-https://gitlab.inria.fr/obelix/triskele,False
+https://gitlab.inria.fr/obelix/triskele,True
 https://gitlab.inria.fr/openmp/clang,False
 https://gitlab.inria.fr/openmp/energy,True
 https://gitlab.inria.fr/openmp/enertools,True
@@ -3752,7 +3754,7 @@ https://gitlab.inria.fr/siteadmin/doc,True
 https://gitlab.inria.fr/siteadmin/gitlab_import_ildap_group_members,True
 https://gitlab.inria.fr/siteadmin/publictest,False
 https://gitlab.inria.fr/skeletons/Coq,True
-https://gitlab.inria.fr/skeletons/jskel,False
+https://gitlab.inria.fr/skeletons/jskel,True
 https://gitlab.inria.fr/skeletons/necro,True
 https://gitlab.inria.fr/skelton/pyskelton,True
 https://gitlab.inria.fr/skelton/skelton2,True
@@ -3789,7 +3791,7 @@ https://gitlab.inria.fr/tyrex-public/mu-RA,True
 https://gitlab.inria.fr/usnb/api-gateway,True
 https://gitlab.inria.fr/usnb/bus-experiment,False
 https://gitlab.inria.fr/usnb/email-bc,True
-https://gitlab.inria.fr/usnb/entity-manager,False
+https://gitlab.inria.fr/usnb/entity-manager,True
 https://gitlab.inria.fr/usnb/facebook-bc,True
 https://gitlab.inria.fr/usnb/gmail-persona,False
 https://gitlab.inria.fr/usnb/message-transformer,True
