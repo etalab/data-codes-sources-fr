@@ -2322,6 +2322,7 @@ https://github.com/etalab/sirene_as_api,True
 https://github.com/etalab/sirene_as_api_ansible,True
 https://github.com/etalab/sorry.data.gouv.fr,True
 https://github.com/etalab/speedtracker,True
+https://github.com/etalab/sprint-open-source,False
 https://github.com/etalab/stars_detective,True
 https://github.com/etalab/taxe-fonciere,True
 https://github.com/etalab/taxe-habitation,True
@@ -3716,7 +3717,7 @@ https://gitlab.inria.fr/piper/child,True
 https://gitlab.inria.fr/piper/child_pedestrian,True
 https://gitlab.inria.fr/piper/misc_models,True
 https://gitlab.inria.fr/piper/viva,False
-https://gitlab.inria.fr/piy/piy,False
+https://gitlab.inria.fr/piy/piy,True
 https://gitlab.inria.fr/popstar/SAT-Equiv,True
 https://gitlab.inria.fr/pvignet/cadbiom,True
 https://gitlab.inria.fr/pvignet/pycryptosat,True
@@ -3758,7 +3759,7 @@ https://gitlab.inria.fr/skeletons/jskel,True
 https://gitlab.inria.fr/skeletons/necro,True
 https://gitlab.inria.fr/skelton/pyskelton,True
 https://gitlab.inria.fr/skelton/skelton2,True
-https://gitlab.inria.fr/solverstack/ScalFMM,False
+https://gitlab.inria.fr/solverstack/ScalFMM,True
 https://gitlab.inria.fr/solverstack/chameleon,True
 https://gitlab.inria.fr/solverstack/fabulous,True
 https://gitlab.inria.fr/solverstack/genfem,True
