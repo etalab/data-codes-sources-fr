@@ -2585,7 +2585,7 @@ https://github.com/medialab/datapol,True
 https://github.com/medialab/datapol-eu,True
 https://github.com/medialab/decoupator,True
 https://github.com/medialab/design-workshop,True
-https://github.com/medialab/didascalies,False
+https://github.com/medialab/didascalies,True
 https://github.com/medialab/digital-training-topics,True
 https://github.com/medialab/dimeweb,True
 https://github.com/medialab/double-dating-data,True
@@ -3637,7 +3637,7 @@ https://gitlab.inria.fr/memphis/nemo,True
 https://gitlab.inria.fr/metapart/copart,False
 https://gitlab.inria.fr/metapart/libgraph,False
 https://gitlab.inria.fr/metapart/mirror,True
-https://gitlab.inria.fr/metapart/scotch,False
+https://gitlab.inria.fr/metapart/scotch,True
 https://gitlab.inria.fr/metapart/starpart,True
 https://gitlab.inria.fr/metapart/walshaw,False
 https://gitlab.inria.fr/mfx/icesl-documentation,True
@@ -3800,7 +3800,7 @@ https://gitlab.inria.fr/usnb/facebook-bc,True
 https://gitlab.inria.fr/usnb/gmail-persona,False
 https://gitlab.inria.fr/usnb/message-transformer,True
 https://gitlab.inria.fr/usnb/messenger-persona,False
-https://gitlab.inria.fr/usnb/slack-persona,False
+https://gitlab.inria.fr/usnb/slack-persona,True
 https://gitlab.inria.fr/usnb/subscription-manager,True
 https://gitlab.inria.fr/usnb/universal-social-network-bus,True
 https://gitlab.inria.fr/verifisc/mlang,True
@@ -3817,7 +3817,7 @@ https://gitlab.inria.fr/xug/nix-tutorial,True
 https://gitlab.inria.fr/yixu/deepmot,True
 https://gitlab.inria.fr/yoann/grew,False
 https://gitlab.inria.fr/zefxis/BCgenerator,False
-https://gitlab.inria.fr/zefxis/DeX-IDL,False
+https://gitlab.inria.fr/zefxis/DeX-IDL,True
 https://gitlab.inria.fr/zefxis/DeXMS,True
 https://gitlab.inria.fr/zefxis/DeXMS-Service,False
 https://gitlab.inria.fr/zefxis/GIDL,True
