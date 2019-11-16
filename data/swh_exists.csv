@@ -1510,7 +1510,7 @@ https://github.com/betagouv/domain-scan,True
 https://github.com/betagouv/dossiersco,True
 https://github.com/betagouv/dossiersco-maintenance,True
 https://github.com/betagouv/dossiersco-openlab1,True
-https://github.com/betagouv/dossiersco.fr,False
+https://github.com/betagouv/dossiersco.fr,True
 https://github.com/betagouv/ds_proxy,True
 https://github.com/betagouv/e-controle,True
 https://github.com/betagouv/eac,True
@@ -2325,7 +2325,7 @@ https://github.com/etalab/sirene_as_api,True
 https://github.com/etalab/sirene_as_api_ansible,True
 https://github.com/etalab/sorry.data.gouv.fr,True
 https://github.com/etalab/speedtracker,True
-https://github.com/etalab/sprint-open-source,False
+https://github.com/etalab/sprint-open-source,True
 https://github.com/etalab/stars_detective,True
 https://github.com/etalab/taxe-fonciere,True
 https://github.com/etalab/taxe-habitation,True
@@ -3756,7 +3756,7 @@ https://gitlab.inria.fr/serpico/thot_bin,True
 https://gitlab.inria.fr/simgrid/simgrid,True
 https://gitlab.inria.fr/siteadmin/doc,True
 https://gitlab.inria.fr/siteadmin/gitlab_import_ildap_group_members,True
-https://gitlab.inria.fr/siteadmin/publictest,False
+https://gitlab.inria.fr/siteadmin/publictest,True
 https://gitlab.inria.fr/skeletons/Coq,True
 https://gitlab.inria.fr/skeletons/jskel,True
 https://gitlab.inria.fr/skeletons/necro,True
@@ -3769,7 +3769,7 @@ https://gitlab.inria.fr/solverstack/genfem,True
 https://gitlab.inria.fr/solverstack/h2p3s,True
 https://gitlab.inria.fr/solverstack/hips,True
 https://gitlab.inria.fr/solverstack/hqr,True
-https://gitlab.inria.fr/solverstack/morse_cmake,False
+https://gitlab.inria.fr/solverstack/morse_cmake,True
 https://gitlab.inria.fr/solverstack/paddle,True
 https://gitlab.inria.fr/solverstack/parade,True
 https://gitlab.inria.fr/solverstack/pastix,True
