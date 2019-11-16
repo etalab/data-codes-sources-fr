@@ -1,6 +1,6 @@
 origin_url,is_available
 https://dev.ch-poitiers.fr/PowerShell/OutilsServeurs,False
-https://dev.ch-poitiers.fr/PowerShell/PagesVertes,False
+https://dev.ch-poitiers.fr/PowerShell/PagesVertes,True
 https://dev.ch-poitiers.fr/elk/debian-buster,True
 https://dev.ch-poitiers.fr/elk/stormshield,False
 https://dev.ch-poitiers.fr/firefox/policy-templates,False
@@ -22,7 +22,7 @@ https://dev.ch-poitiers.fr/mssante/mssante-sync-annuaire-ldap,True
 https://dev.ch-poitiers.fr/mssante/mssante-sync-cpsure-ldap,True
 https://dev.ch-poitiers.fr/mssante/mssante-sync-ldap-annuaire,True
 https://dev.ch-poitiers.fr/mssante/mssante-sync-unidirectionnel,True
-https://dev.ch-poitiers.fr/mssante/mssante-webapp,False
+https://dev.ch-poitiers.fr/mssante/mssante-webapp,True
 https://dev.ch-poitiers.fr/mssante/parent,True
 https://forge.grandlyon.com/systemes-dinformation/pasi-portail-d-acces-au-si,True
 https://forgemia.inra.fr/4p/user-guide,True
@@ -52,6 +52,9 @@ https://forgemia.inra.fr/get-it/nf-taxoaffiliation,True
 https://forgemia.inra.fr/metexplore/MetExploreViz,True
 https://forgemia.inra.fr/metexplore/metabolomics2network,True
 https://forgemia.inra.fr/olivier.bonnefon/mse,True
+https://forgemia.inra.fr/pappso/libodsstream,False
+https://forgemia.inra.fr/pappso/pappsomspp,False
+https://forgemia.inra.fr/pappso/xtpcpp,False
 https://forgemia.inra.fr/record-open-archives/rec-crash,True
 https://forgemia.inra.fr/record-open-archives/recmoustics,True
 https://forgemia.inra.fr/record/AgFlow,True
@@ -2316,7 +2319,7 @@ https://github.com/etalab/schema-lieux-covoiturage,True
 https://github.com/etalab/schema.data.gouv.fr,True
 https://github.com/etalab/scpc-as-api,True
 https://github.com/etalab/secateur,True
-https://github.com/etalab/sillweb,False
+https://github.com/etalab/sillweb,True
 https://github.com/etalab/sirene,True
 https://github.com/etalab/sirene_as_api,True
 https://github.com/etalab/sirene_as_api_ansible,True
@@ -3592,7 +3595,7 @@ https://gitlab.inria.fr/grid5000/exhibitv2,True
 https://gitlab.inria.fr/grid5000/g5k-api,True
 https://gitlab.inria.fr/grid5000/g5k-cheat-sheet,True
 https://gitlab.inria.fr/grid5000/g5k-checks,True
-https://gitlab.inria.fr/grid5000/grid5000-code,False
+https://gitlab.inria.fr/grid5000/grid5000-code,True
 https://gitlab.inria.fr/grid5000/i40e,True
 https://gitlab.inria.fr/grid5000/kwapi-g5k,True
 https://gitlab.inria.fr/grid5000/megaraid_sas,True
@@ -3638,7 +3641,7 @@ https://gitlab.inria.fr/metapart/scotch,False
 https://gitlab.inria.fr/metapart/starpart,True
 https://gitlab.inria.fr/metapart/walshaw,False
 https://gitlab.inria.fr/mfx/icesl-documentation,True
-https://gitlab.inria.fr/mfx/icesl-public,False
+https://gitlab.inria.fr/mfx/icesl-public,True
 https://gitlab.inria.fr/mgkit/MetaMOF,True
 https://gitlab.inria.fr/mgkit/MetaMeF,True
 https://gitlab.inria.fr/mgkit/ofrlex-metamof-new,True
@@ -3646,7 +3649,7 @@ https://gitlab.inria.fr/mgkit/sxpipe,True
 https://gitlab.inria.fr/mgkit/syntax_hightlighting_smg,True
 https://gitlab.inria.fr/miet/miet,True
 https://gitlab.inria.fr/mimoza/mimoza,False
-https://gitlab.inria.fr/mnemosyne/data_prototypes,False
+https://gitlab.inria.fr/mnemosyne/data_prototypes,True
 https://gitlab.inria.fr/mnemosyne/neurosmart,True
 https://gitlab.inria.fr/mnemosyne/vanilla_nn,True
 https://gitlab.inria.fr/moex/class,True
@@ -3722,7 +3725,7 @@ https://gitlab.inria.fr/popstar/SAT-Equiv,True
 https://gitlab.inria.fr/pvignet/cadbiom,True
 https://gitlab.inria.fr/pvignet/pycryptosat,True
 https://gitlab.inria.fr/rainbow-intervals/ros_interval,False
-https://gitlab.inria.fr/sb/simbci,False
+https://gitlab.inria.fr/sb/simbci,True
 https://gitlab.inria.fr/sca_platform/analysis,False
 https://gitlab.inria.fr/sca_platform/equipments,False
 https://gitlab.inria.fr/sca_platform/targets,False
@@ -3775,7 +3778,7 @@ https://gitlab.inria.fr/solverstack/spm,True
 https://gitlab.inria.fr/solverstack/tabakov,True
 https://gitlab.inria.fr/solverstack/vite,True
 https://gitlab.inria.fr/source_code/aes-cryptanalysis-cp-xor-2019,True
-https://gitlab.inria.fr/source_code/ai_paper_code,False
+https://gitlab.inria.fr/source_code/ai_paper_code,True
 https://gitlab.inria.fr/star-explain/fjs_of_fml,False
 https://gitlab.inria.fr/star-explain/jsexplain,True
 https://gitlab.inria.fr/star-explain/opam-repository,True
@@ -3784,7 +3787,7 @@ https://gitlab.inria.fr/synalp/website,True
 https://gitlab.inria.fr/synchrone/heptagon,True
 https://gitlab.inria.fr/thoth/spams-devel,True
 https://gitlab.inria.fr/tnfs-alpha/alpha,True
-https://gitlab.inria.fr/tranus/QGIS_Tranus_Reports,False
+https://gitlab.inria.fr/tranus/QGIS_Tranus_Reports,True
 https://gitlab.inria.fr/tranus/TRANUS_Interfaces,True
 https://gitlab.inria.fr/tranus/Tranus_Python,True
 https://gitlab.inria.fr/tranus/Tranus_QGIS_Plugins,True
@@ -3854,8 +3857,8 @@ https://gitlabjf.ccomptes.fr/CommunautesJF/beta,True
 https://gitlabjf.ccomptes.fr/altair/master-jf,False
 https://gitlabjf.ccomptes.fr/eig/candidature_promo3,True
 https://gitlabjf.ccomptes.fr/fnicol/NSIS3,True
-https://gitlabjf.ccomptes.fr/fnicol/qt-5.6,False
-https://gitlabjf.ccomptes.fr/fnicol/qtcreator-3.5.1,False
+https://gitlabjf.ccomptes.fr/fnicol/qt-5.6,True
+https://gitlabjf.ccomptes.fr/fnicol/qtcreator-3.5.1,True
 https://gitlabjf.ccomptes.fr/fnicol/x86_64-6.1.0-release-posix-seh-rt_v5-rev0,False
 https://gitlabjf.ccomptes.fr/startupjf/e-controle,False
 https://gitlabjf.ccomptes.fr/startupjf/e-controle-deploy,True
