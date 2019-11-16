@@ -290,7 +290,7 @@ https://github.com/ANSSI-FR/bmc-tools,True
 https://github.com/ANSSI-FR/bootcode_parser,True
 https://github.com/ANSSI-FR/caml-crush,True
 https://github.com/ANSSI-FR/caradoc,True
-https://github.com/ANSSI-FR/chipsec-check,False
+https://github.com/ANSSI-FR/chipsec-check,True
 https://github.com/ANSSI-FR/concerto,True
 https://github.com/ANSSI-FR/coq-prelude,True
 https://github.com/ANSSI-FR/cornetto,True
@@ -3497,7 +3497,7 @@ https://gitlab.inria.fr/dtk/dtk-fonts,True
 https://gitlab.inria.fr/dtk/dtk-imaging,True
 https://gitlab.inria.fr/dtk/dtk-imaging-python,True
 https://gitlab.inria.fr/dtk/dtk-io,True
-https://gitlab.inria.fr/dtk/dtk-linear-algebra-dense,False
+https://gitlab.inria.fr/dtk/dtk-linear-algebra-dense,True
 https://gitlab.inria.fr/dtk/dtk-linear-algebra-sparse,True
 https://gitlab.inria.fr/dtk/dtk-log,True
 https://gitlab.inria.fr/dtk/dtk-logger,True
@@ -3602,7 +3602,7 @@ https://gitlab.inria.fr/grid5000/megaraid_sas,True
 https://gitlab.inria.fr/grid5000/metrology-api,True
 https://gitlab.inria.fr/grid5000/omegawatt,True
 https://gitlab.inria.fr/grid5000/reference-repository,True
-https://gitlab.inria.fr/grid5000/tutorials,False
+https://gitlab.inria.fr/grid5000/tutorials,True
 https://gitlab.inria.fr/grid5000/xp5k-openstack,True
 https://gitlab.inria.fr/gt-sw-citation/artifact-archival-swh,True
 https://gitlab.inria.fr/gt-sw-citation/bibtex-sw-entry,True
@@ -3648,7 +3648,7 @@ https://gitlab.inria.fr/mgkit/ofrlex-metamof-new,True
 https://gitlab.inria.fr/mgkit/sxpipe,True
 https://gitlab.inria.fr/mgkit/syntax_hightlighting_smg,True
 https://gitlab.inria.fr/miet/miet,True
-https://gitlab.inria.fr/mimoza/mimoza,False
+https://gitlab.inria.fr/mimoza/mimoza,True
 https://gitlab.inria.fr/mnemosyne/data_prototypes,True
 https://gitlab.inria.fr/mnemosyne/neurosmart,True
 https://gitlab.inria.fr/mnemosyne/vanilla_nn,True
@@ -3793,7 +3793,7 @@ https://gitlab.inria.fr/tranus/Tranus_Python,True
 https://gitlab.inria.fr/tranus/Tranus_QGIS_Plugins,True
 https://gitlab.inria.fr/tyrex-public/mu-RA,True
 https://gitlab.inria.fr/usnb/api-gateway,True
-https://gitlab.inria.fr/usnb/bus-experiment,False
+https://gitlab.inria.fr/usnb/bus-experiment,True
 https://gitlab.inria.fr/usnb/email-bc,True
 https://gitlab.inria.fr/usnb/entity-manager,True
 https://gitlab.inria.fr/usnb/facebook-bc,True
@@ -3819,10 +3819,10 @@ https://gitlab.inria.fr/yoann/grew,False
 https://gitlab.inria.fr/zefxis/BCgenerator,False
 https://gitlab.inria.fr/zefxis/DeX-IDL,True
 https://gitlab.inria.fr/zefxis/DeXMS,True
-https://gitlab.inria.fr/zefxis/DeXMS-Service,False
+https://gitlab.inria.fr/zefxis/DeXMS-Service,True
 https://gitlab.inria.fr/zefxis/GIDL,True
 https://gitlab.inria.fr/zefxis/IoT-web-console,True
-https://gitlab.inria.fr/zefxis/dexdeploy,False
+https://gitlab.inria.fr/zefxis/dexdeploy,True
 https://gitlab.inria.fr/zefxis/experiments,True
 https://gitlab.inria.fr/zefxis/monitoring-tool,True
 https://gitlab.inria.fr/zefxis/playgrounds,True
@@ -3859,7 +3859,7 @@ https://gitlabjf.ccomptes.fr/eig/candidature_promo3,True
 https://gitlabjf.ccomptes.fr/fnicol/NSIS3,True
 https://gitlabjf.ccomptes.fr/fnicol/qt-5.6,True
 https://gitlabjf.ccomptes.fr/fnicol/qtcreator-3.5.1,True
-https://gitlabjf.ccomptes.fr/fnicol/x86_64-6.1.0-release-posix-seh-rt_v5-rev0,False
+https://gitlabjf.ccomptes.fr/fnicol/x86_64-6.1.0-release-posix-seh-rt_v5-rev0,True
 https://gitlabjf.ccomptes.fr/startupjf/e-controle,False
 https://gitlabjf.ccomptes.fr/startupjf/e-controle-deploy,True
 https://gitlabjf.ccomptes.fr/wikijs/wikijs,True
