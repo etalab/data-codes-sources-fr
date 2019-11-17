@@ -1520,7 +1520,7 @@ https://github.com/betagouv/etudiant-entrepreneur,True
 https://github.com/betagouv/fetch-normalize-data,True
 https://github.com/betagouv/fiches-de-banc,True
 https://github.com/betagouv/freescout,True
-https://github.com/betagouv/geoplus,False
+https://github.com/betagouv/geoplus,True
 https://github.com/betagouv/gps-usagers,True
 https://github.com/betagouv/grafana-scalingo,True
 https://github.com/betagouv/heroku-buildpack-ruby,True
@@ -2676,9 +2676,9 @@ https://github.com/medialab/sandcrawler,True
 https://github.com/medialab/sandcrawler-dashboard,True
 https://github.com/medialab/scholarScape,True
 https://github.com/medialab/sciencescape,True
-https://github.com/medialab/scrapers,False
+https://github.com/medialab/scrapers,True
 https://github.com/medialab/scrapyd,True
-https://github.com/medialab/simsim,False
+https://github.com/medialab/simsim,True
 https://github.com/medialab/source-mentions,True
 https://github.com/medialab/source_project,True
 https://github.com/medialab/sowell-animations-html5,True
@@ -2933,7 +2933,7 @@ https://github.com/polewebmaedi/MAEDI-Capitales,True
 https://github.com/polewebmaedi/MAEDI-Pays,True
 https://github.com/polewebmaedi/countries,True
 https://github.com/polewebmaedi/natural-earth-vector,True
-https://github.com/powerapi-ng/hwpc-sensor,False
+https://github.com/powerapi-ng/hwpc-sensor,True
 https://github.com/powerapi-ng/powerapi,True
 https://github.com/powerapi-ng/powerapi-ng.github.io,True
 https://github.com/powerapi-ng/powerapi-scala,True
@@ -3612,7 +3612,7 @@ https://gitlab.inria.fr/guix-hpc/guix-hpc-non-free,True
 https://gitlab.inria.fr/guix-hpc/guix-kernel,True
 https://gitlab.inria.fr/guix-hpc/website,True
 https://gitlab.inria.fr/gv-open/PyLR,True
-https://gitlab.inria.fr/gv-open/pygeobuf,False
+https://gitlab.inria.fr/gv-open/pygeobuf,True
 https://gitlab.inria.fr/hsplit/hsplit,True
 https://gitlab.inria.fr/iccv_2019/pyvideoresearch_gunnar,True
 https://gitlab.inria.fr/jgranier/Rendu-Style-Novat,True
