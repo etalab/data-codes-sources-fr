@@ -1,5 +1,5 @@
 origin_url,is_available
-https://dev.ch-poitiers.fr/PowerShell/OutilsServeurs,False
+https://dev.ch-poitiers.fr/PowerShell/OutilsServeurs,True
 https://dev.ch-poitiers.fr/PowerShell/PagesVertes,True
 https://dev.ch-poitiers.fr/elk/debian-buster,True
 https://dev.ch-poitiers.fr/elk/stormshield,True
@@ -599,7 +599,7 @@ https://github.com/DREAL-NA/aides,True
 https://github.com/EDS-APHP/EdsFhirIG,True
 https://github.com/EDS-APHP/HiveQLKernel,True
 https://github.com/EDS-APHP/LightICE,True
-https://github.com/EDS-APHP/SparkPdfExtractor,False
+https://github.com/EDS-APHP/SparkPdfExtractor,True
 https://github.com/EDS-APHP/TalendComponents,True
 https://github.com/EDS-APHP/UimaOnSpark,True
 https://github.com/EDS-APHP/awesome-french-hospitals,True
@@ -3634,7 +3634,7 @@ https://gitlab.inria.fr/matherials/simol,True
 https://gitlab.inria.fr/memcad/clangml,True
 https://gitlab.inria.fr/memcad/clangml-transforms,True
 https://gitlab.inria.fr/memphis/nemo,True
-https://gitlab.inria.fr/metapart/copart,False
+https://gitlab.inria.fr/metapart/copart,True
 https://gitlab.inria.fr/metapart/libgraph,False
 https://gitlab.inria.fr/metapart/mirror,True
 https://gitlab.inria.fr/metapart/scotch,True
