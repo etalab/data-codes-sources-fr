@@ -2,7 +2,7 @@ origin_url,is_available
 https://dev.ch-poitiers.fr/PowerShell/OutilsServeurs,False
 https://dev.ch-poitiers.fr/PowerShell/PagesVertes,True
 https://dev.ch-poitiers.fr/elk/debian-buster,True
-https://dev.ch-poitiers.fr/elk/stormshield,False
+https://dev.ch-poitiers.fr/elk/stormshield,True
 https://dev.ch-poitiers.fr/firefox/policy-templates,False
 https://dev.ch-poitiers.fr/mssante/mssante-api,False
 https://dev.ch-poitiers.fr/mssante/mssante-beans-alimentation-annuaire,True
@@ -3675,7 +3675,7 @@ https://gitlab.inria.fr/myriads-team/python-distem,True
 https://gitlab.inria.fr/necs-open/RainbowVis-JS,True
 https://gitlab.inria.fr/necs-open/braincrafted.bootstrap-bundle,True
 https://gitlab.inria.fr/necs-open/jsonpath-plus,True
-https://gitlab.inria.fr/necs-open/promise-polyfill,False
+https://gitlab.inria.fr/necs-open/promise-polyfill,True
 https://gitlab.inria.fr/necs-open/typeahead.js-bootstrap4-css,True
 https://gitlab.inria.fr/necs_lib/SOCI,True
 https://gitlab.inria.fr/necs_lib/boost-process,True
@@ -3719,12 +3719,12 @@ https://gitlab.inria.fr/piper/application,True
 https://gitlab.inria.fr/piper/child,True
 https://gitlab.inria.fr/piper/child_pedestrian,True
 https://gitlab.inria.fr/piper/misc_models,True
-https://gitlab.inria.fr/piper/viva,False
+https://gitlab.inria.fr/piper/viva,True
 https://gitlab.inria.fr/piy/piy,True
 https://gitlab.inria.fr/popstar/SAT-Equiv,True
 https://gitlab.inria.fr/pvignet/cadbiom,True
 https://gitlab.inria.fr/pvignet/pycryptosat,True
-https://gitlab.inria.fr/rainbow-intervals/ros_interval,False
+https://gitlab.inria.fr/rainbow-intervals/ros_interval,True
 https://gitlab.inria.fr/sb/simbci,True
 https://gitlab.inria.fr/sca_platform/analysis,False
 https://gitlab.inria.fr/sca_platform/equipments,False
