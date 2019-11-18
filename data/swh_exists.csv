@@ -3,7 +3,7 @@ https://dev.ch-poitiers.fr/PowerShell/OutilsServeurs,True
 https://dev.ch-poitiers.fr/PowerShell/PagesVertes,True
 https://dev.ch-poitiers.fr/elk/debian-buster,True
 https://dev.ch-poitiers.fr/elk/stormshield,True
-https://dev.ch-poitiers.fr/firefox/policy-templates,False
+https://dev.ch-poitiers.fr/firefox/policy-templates,True
 https://dev.ch-poitiers.fr/mssante/mssante-api,False
 https://dev.ch-poitiers.fr/mssante/mssante-beans-alimentation-annuaire,True
 https://dev.ch-poitiers.fr/mssante/mssante-beans-bal,True
@@ -17,7 +17,7 @@ https://dev.ch-poitiers.fr/mssante/mssante-envoi-indicateurs,True
 https://dev.ch-poitiers.fr/mssante/mssante-listeblanche,True
 https://dev.ch-poitiers.fr/mssante/mssante-listeps,False
 https://dev.ch-poitiers.fr/mssante/mssante-milter,False
-https://dev.ch-poitiers.fr/mssante/mssante-nomenclature,False
+https://dev.ch-poitiers.fr/mssante/mssante-nomenclature,True
 https://dev.ch-poitiers.fr/mssante/mssante-sync-annuaire-ldap,True
 https://dev.ch-poitiers.fr/mssante/mssante-sync-cpsure-ldap,True
 https://dev.ch-poitiers.fr/mssante/mssante-sync-ldap-annuaire,True
@@ -676,7 +676,7 @@ https://github.com/IGNF/lidarformat,True
 https://github.com/IGNF/look4,True
 https://github.com/IGNF/mapmatcher,True
 https://github.com/IGNF/ogam,True
-https://github.com/IGNF/ol-geometry-editor,False
+https://github.com/IGNF/ol-geometry-editor,True
 https://github.com/IGNF/roc4j,True
 https://github.com/IGNF/saisie_carhab,True
 https://github.com/IGNF/spark-iqmulus,True
@@ -3848,6 +3848,8 @@ https://gitlab.irstea.fr/irrig/public,True
 https://gitlab.irstea.fr/irstea-ros/ads1115_driver,True
 https://gitlab.irstea.fr/irstea-ros/labjack_driver,True
 https://gitlab.irstea.fr/irstea-ros/navsat_to_odom,True
+https://gitlab.irstea.fr/pomosed/clairelix,False
+https://gitlab.irstea.fr/pomosed/naiades,False
 https://gitlab.irstea.fr/pomosed/rfunctions,False
 https://gitlab.irstea.fr/raspberry-pi/multi-sense,True
 https://gitlab.irstea.fr/raspberry-pi/sense-hat,True
