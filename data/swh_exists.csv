@@ -1240,6 +1240,7 @@ https://github.com/SocialGouv/tools,True
 https://github.com/SocialGouv/tps,True
 https://github.com/SocialGouv/traefigit,True
 https://github.com/SocialGouv/tremplin,True
+https://github.com/SocialGouv/tumeplay-app,False
 https://github.com/SocialGouv/tutoriel-gitlab,True
 https://github.com/SocialGouv/work-in-france,True
 https://github.com/SocialGouv/work-in-france-backoffice,True
@@ -2618,6 +2619,7 @@ https://github.com/medialab/hyphe-browser,True
 https://github.com/medialab/hyphe-corpus-cleaner,True
 https://github.com/medialab/hyphe-java-tree-poc,True
 https://github.com/medialab/hyphe-neo4j-poc,True
+https://github.com/medialab/hyphe-showcase,False
 https://github.com/medialab/hyphe-topic-datascape,True
 https://github.com/medialab/hyphe-traph,True
 https://github.com/medialab/hyphe2solr,True
@@ -2626,6 +2628,7 @@ https://github.com/medialab/iat-exporter,True
 https://github.com/medialab/iat.js,True
 https://github.com/medialab/ipinion-rank,True
 https://github.com/medialab/iwanthue,True
+https://github.com/medialab/kaa,False
 https://github.com/medialab/linkfluence-api,True
 https://github.com/medialab/mango_cognitive,True
 https://github.com/medialab/mango_core,True
@@ -3641,7 +3644,7 @@ https://gitlab.inria.fr/metapart/libgraph,True
 https://gitlab.inria.fr/metapart/mirror,True
 https://gitlab.inria.fr/metapart/scotch,True
 https://gitlab.inria.fr/metapart/starpart,True
-https://gitlab.inria.fr/metapart/walshaw,False
+https://gitlab.inria.fr/metapart/walshaw,True
 https://gitlab.inria.fr/mfx/icesl-documentation,True
 https://gitlab.inria.fr/mfx/icesl-public,True
 https://gitlab.inria.fr/mgkit/MetaMOF,True
@@ -3813,7 +3816,7 @@ https://gitlab.inria.fr/vidjil/sdsl-lite,True
 https://gitlab.inria.fr/vidjil/tl-index,True
 https://gitlab.inria.fr/vidjil/vidjil,True
 https://gitlab.inria.fr/why3/why3,True
-https://gitlab.inria.fr/xkblas/versions,False
+https://gitlab.inria.fr/xkblas/versions,True
 https://gitlab.inria.fr/xug/meetings,True
 https://gitlab.inria.fr/xug/nix-tutorial,True
 https://gitlab.inria.fr/yixu/deepmot,True
@@ -3864,6 +3867,6 @@ https://gitlabjf.ccomptes.fr/fnicol/NSIS3,True
 https://gitlabjf.ccomptes.fr/fnicol/qt-5.6,True
 https://gitlabjf.ccomptes.fr/fnicol/qtcreator-3.5.1,True
 https://gitlabjf.ccomptes.fr/fnicol/x86_64-6.1.0-release-posix-seh-rt_v5-rev0,True
-https://gitlabjf.ccomptes.fr/startupjf/e-controle,False
+https://gitlabjf.ccomptes.fr/startupjf/e-controle,True
 https://gitlabjf.ccomptes.fr/startupjf/e-controle-deploy,True
 https://gitlabjf.ccomptes.fr/wikijs/wikijs,True
