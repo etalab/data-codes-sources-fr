@@ -676,6 +676,7 @@ https://github.com/IGNF/lidarformat,True
 https://github.com/IGNF/look4,True
 https://github.com/IGNF/mapmatcher,True
 https://github.com/IGNF/ogam,True
+https://github.com/IGNF/ol-geometry-editor,False
 https://github.com/IGNF/roc4j,True
 https://github.com/IGNF/saisie_carhab,True
 https://github.com/IGNF/spark-iqmulus,True
@@ -3636,7 +3637,7 @@ https://gitlab.inria.fr/memcad/clangml,True
 https://gitlab.inria.fr/memcad/clangml-transforms,True
 https://gitlab.inria.fr/memphis/nemo,True
 https://gitlab.inria.fr/metapart/copart,True
-https://gitlab.inria.fr/metapart/libgraph,False
+https://gitlab.inria.fr/metapart/libgraph,True
 https://gitlab.inria.fr/metapart/mirror,True
 https://gitlab.inria.fr/metapart/scotch,True
 https://gitlab.inria.fr/metapart/starpart,True
@@ -3664,7 +3665,7 @@ https://gitlab.inria.fr/monitoring/themis-artifact-article,True
 https://gitlab.inria.fr/monitoring/themis-artifact-outdated,True
 https://gitlab.inria.fr/monitoring/themis-demo,False
 https://gitlab.inria.fr/monitoring/themis-rv18smarthome,True
-https://gitlab.inria.fr/monitoring/verde,False
+https://gitlab.inria.fr/monitoring/verde,True
 https://gitlab.inria.fr/mosaic/cellcomplex,True
 https://gitlab.inria.fr/mosaic/draco_stem,True
 https://gitlab.inria.fr/mosaic/mosaic-commons,True
@@ -3800,7 +3801,7 @@ https://gitlab.inria.fr/usnb/entity-manager,True
 https://gitlab.inria.fr/usnb/facebook-bc,True
 https://gitlab.inria.fr/usnb/gmail-persona,False
 https://gitlab.inria.fr/usnb/message-transformer,True
-https://gitlab.inria.fr/usnb/messenger-persona,False
+https://gitlab.inria.fr/usnb/messenger-persona,True
 https://gitlab.inria.fr/usnb/slack-persona,True
 https://gitlab.inria.fr/usnb/subscription-manager,True
 https://gitlab.inria.fr/usnb/universal-social-network-bus,True
