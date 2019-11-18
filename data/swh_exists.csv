@@ -53,7 +53,7 @@ https://forgemia.inra.fr/metexplore/MetExploreViz,True
 https://forgemia.inra.fr/metexplore/metabolomics2network,True
 https://forgemia.inra.fr/olivier.bonnefon/mse,True
 https://forgemia.inra.fr/pappso/libodsstream,False
-https://forgemia.inra.fr/pappso/pappsomspp,False
+https://forgemia.inra.fr/pappso/pappsomspp,True
 https://forgemia.inra.fr/pappso/xtpcpp,False
 https://forgemia.inra.fr/record-open-archives/rec-crash,True
 https://forgemia.inra.fr/record-open-archives/recmoustics,True
@@ -3320,6 +3320,7 @@ https://gitlab.inria.fr/Dae-Ng/Dae-Ng,True
 https://gitlab.inria.fr/Damaris/damaris,True
 https://gitlab.inria.fr/GUDHI/data,True
 https://gitlab.inria.fr/GUDHI/gudhi-docker,True
+https://gitlab.inria.fr/GardiNet/dragonnet,False
 https://gitlab.inria.fr/GardiNet/liblc,True
 https://gitlab.inria.fr/IOTLanguage/IoTCompilertoBIP,True
 https://gitlab.inria.fr/LightFieldCodingLibrary/HEVC,True
@@ -3657,7 +3658,7 @@ https://gitlab.inria.fr/moex/linkex,True
 https://gitlab.inria.fr/moex/linkky,True
 https://gitlab.inria.fr/monitoring/opportunistic-rv-conf,True
 https://gitlab.inria.fr/monitoring/rv-dist-pub,True
-https://gitlab.inria.fr/monitoring/rv-multi,False
+https://gitlab.inria.fr/monitoring/rv-multi,True
 https://gitlab.inria.fr/monitoring/themis,True
 https://gitlab.inria.fr/monitoring/themis-artifact-article,True
 https://gitlab.inria.fr/monitoring/themis-artifact-outdated,True
