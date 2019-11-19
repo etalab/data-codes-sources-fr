@@ -394,10 +394,12 @@ https://github.com/BaseAdresseNationale/charte-experimentation-2017,True
 https://github.com/BaseAdresseNationale/donnees-initiales-2018,True
 https://github.com/BaseAdresseNationale/script_divers,True
 https://github.com/CCSDForge/CcsdCommon,True
+https://github.com/CCSDForge/Convert,False
 https://github.com/CCSDForge/Episciences.org,True
 https://github.com/CCSDForge/FinHal,True
 https://github.com/CCSDForge/HAL,True
 https://github.com/CCSDForge/Sciencesconf.org,True
+https://github.com/CCSDForge/StaticFiles,False
 https://github.com/CEA-LIST/CinguParam,True
 https://github.com/CEA-LIST/Cingulata,True
 https://github.com/CEA-LIST/DAHLIA-BodyIndex,True
@@ -1219,6 +1221,7 @@ https://github.com/SocialGouv/legixplore,True
 https://github.com/SocialGouv/letor-scores,True
 https://github.com/SocialGouv/linters,True
 https://github.com/SocialGouv/maintenance,True
+https://github.com/SocialGouv/maraudes-app,False
 https://github.com/SocialGouv/mattermost-plugin-google-calendar,True
 https://github.com/SocialGouv/meditor,True
 https://github.com/SocialGouv/medle,True
@@ -2598,7 +2601,7 @@ https://github.com/medialab/drive-out,True
 https://github.com/medialab/ds-engine-poc,True
 https://github.com/medialab/edx_helpers,True
 https://github.com/medialab/fabrique-fragmentation,False
-https://github.com/medialab/fabrique-typo-amendements,False
+https://github.com/medialab/fabrique-typo-amendements,True
 https://github.com/medialab/fonio,True
 https://github.com/medialab/forccast-backoffice,True
 https://github.com/medialab/forccast-texts,True
@@ -2942,6 +2945,7 @@ https://github.com/powerapi-ng/hwpc-sensor,True
 https://github.com/powerapi-ng/powerapi,True
 https://github.com/powerapi-ng/powerapi-ng.github.io,True
 https://github.com/powerapi-ng/powerapi-scala,True
+https://github.com/powerapi-ng/pyJoules,False
 https://github.com/powerapi-ng/pyRAPL,True
 https://github.com/powerapi-ng/rapl-formula,True
 https://github.com/powerapi-ng/smartwatts-formula,True
@@ -3325,7 +3329,7 @@ https://gitlab.inria.fr/Dae-Ng/Dae-Ng,True
 https://gitlab.inria.fr/Damaris/damaris,True
 https://gitlab.inria.fr/GUDHI/data,True
 https://gitlab.inria.fr/GUDHI/gudhi-docker,True
-https://gitlab.inria.fr/GardiNet/dragonnet,False
+https://gitlab.inria.fr/GardiNet/dragonnet,True
 https://gitlab.inria.fr/GardiNet/liblc,True
 https://gitlab.inria.fr/IOTLanguage/IoTCompilertoBIP,True
 https://gitlab.inria.fr/LightFieldCodingLibrary/HEVC,True
@@ -3621,6 +3625,7 @@ https://gitlab.inria.fr/gv-open/PyLR,True
 https://gitlab.inria.fr/gv-open/pygeobuf,True
 https://gitlab.inria.fr/hsplit/hsplit,True
 https://gitlab.inria.fr/iccv_2019/pyvideoresearch_gunnar,True
+https://gitlab.inria.fr/inria-ci/doc,False
 https://gitlab.inria.fr/jgranier/Rendu-Style-Novat,True
 https://gitlab.inria.fr/kameleon/kameleon-recipes,True
 https://gitlab.inria.fr/kirikomics/hglib,True
