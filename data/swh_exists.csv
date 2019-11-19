@@ -531,6 +531,7 @@ https://github.com/DISIC/referentiel_redaction-langage-simplifie,True
 https://github.com/DISIC/rgaa,True
 https://github.com/DISIC/rgaa-apps,True
 https://github.com/DISIC/rgaa-test-suite,True
+https://github.com/DISIC/rgaa4-json,False
 https://github.com/DISIC/rgaa_angular-bootstrap,True
 https://github.com/DISIC/rgaa_bibliotheques-javascript,True
 https://github.com/DISIC/rgaa_bibliotheques_javascript,True
@@ -2656,7 +2657,7 @@ https://github.com/medialab/peristyle,True
 https://github.com/medialab/personal-air-timeline,True
 https://github.com/medialab/polarisation-espace-public,True
 https://github.com/medialab/poltergeist,True
-https://github.com/medialab/privacy,False
+https://github.com/medialab/privacy,True
 https://github.com/medialab/pubpub,True
 https://github.com/medialab/python-urlsresolver,False
 https://github.com/medialab/quenouille,True
@@ -3691,7 +3692,7 @@ https://gitlab.inria.fr/nix-tutorial/packages-repository,True
 https://gitlab.inria.fr/nix-tutorial/presentation-slides,True
 https://gitlab.inria.fr/obelix/broceliande,True
 https://gitlab.inria.fr/obelix/triskele,True
-https://gitlab.inria.fr/openmp/clang,False
+https://gitlab.inria.fr/openmp/clang,True
 https://gitlab.inria.fr/openmp/energy,True
 https://gitlab.inria.fr/openmp/enertools,True
 https://gitlab.inria.fr/openmp/experiments-hashmaps,True
@@ -3784,7 +3785,7 @@ https://gitlab.inria.fr/solverstack/tabakov,True
 https://gitlab.inria.fr/solverstack/vite,True
 https://gitlab.inria.fr/source_code/aes-cryptanalysis-cp-xor-2019,True
 https://gitlab.inria.fr/source_code/ai_paper_code,True
-https://gitlab.inria.fr/star-explain/fjs_of_fml,False
+https://gitlab.inria.fr/star-explain/fjs_of_fml,True
 https://gitlab.inria.fr/star-explain/jsexplain,True
 https://gitlab.inria.fr/star-explain/opam-repository,True
 https://gitlab.inria.fr/synalp/python4nlp-2019-public,True
