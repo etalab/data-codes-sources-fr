@@ -1172,6 +1172,7 @@ https://github.com/SocialGouv/autosuggest,True
 https://github.com/SocialGouv/bootstrap,True
 https://github.com/SocialGouv/bot,True
 https://github.com/SocialGouv/cdtn-elk,True
+https://github.com/SocialGouv/cdtn-monolog,False
 https://github.com/SocialGouv/checkup,True
 https://github.com/SocialGouv/clone-moi-sur-github,True
 https://github.com/SocialGouv/code-du-travail-api,True
@@ -1244,7 +1245,7 @@ https://github.com/SocialGouv/tools,True
 https://github.com/SocialGouv/tps,True
 https://github.com/SocialGouv/traefigit,True
 https://github.com/SocialGouv/tremplin,True
-https://github.com/SocialGouv/tumeplay-app,False
+https://github.com/SocialGouv/tumeplay-app,True
 https://github.com/SocialGouv/tutoriel-gitlab,True
 https://github.com/SocialGouv/work-in-france,True
 https://github.com/SocialGouv/work-in-france-backoffice,True
@@ -1381,6 +1382,7 @@ https://github.com/ambanum/panoptes,True
 https://github.com/ambanum/paris-call-server,True
 https://github.com/ambanum/pariscall.international,True
 https://github.com/ambanum/pariscall.international-backend,True
+https://github.com/ambanum/pariscall.international-ops,True
 https://github.com/ambanum/political-ads-consistency,True
 https://github.com/ambanum/political-ads-crowdsourcing-client,True
 https://github.com/ambanum/political-ads-crowdsourcing-server,True
@@ -1607,6 +1609,7 @@ https://github.com/betagouv/pass-culture-publi-mailing,True
 https://github.com/betagouv/pass-culture-shared,True
 https://github.com/betagouv/pass-culture-team,True
 https://github.com/betagouv/pass-culture-web-analytics,True
+https://github.com/betagouv/pc-logstash,False
 https://github.com/betagouv/peps,True
 https://github.com/betagouv/peps-app,True
 https://github.com/betagouv/pia-back,True
@@ -2545,6 +2548,9 @@ https://github.com/lutece-secteur-public/ogp-hackathon-site,True
 https://github.com/lutece-secteur-public/opendata-module-document-ckan,True
 https://github.com/lutece-secteur-public/opengov-plugin-lobbycal,True
 https://github.com/lutece-secteur-public/opengov-plugin-transparency,True
+https://github.com/lutece-secteur-public/particip-plugin-participatorybudget,False
+https://github.com/lutece-secteur-public/particip-plugin-participatoryideation,False
+https://github.com/lutece-secteur-public/particip-site-participatorybudget,False
 https://github.com/lutece-secteur-public/urbanisme-plugin-plu,True
 https://github.com/medialab/ANTA,True
 https://github.com/medialab/ANTA2,True
@@ -3632,7 +3638,7 @@ https://gitlab.inria.fr/kirikomics/hglib,True
 https://gitlab.inria.fr/kstar/clang-omp,True
 https://gitlab.inria.fr/kstar/kstar,True
 https://gitlab.inria.fr/learninglab/mooc-bioinfo,True
-https://gitlab.inria.fr/learninglab/mooc-forum-plugin,False
+https://gitlab.inria.fr/learninglab/mooc-forum-plugin,True
 https://gitlab.inria.fr/learninglab/mooc-forums-theme,True
 https://gitlab.inria.fr/learninglab/mooc-mr-notebooks,True
 https://gitlab.inria.fr/learninglab/mooc-rr/mooc-rr-apps,True
