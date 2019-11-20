@@ -1610,6 +1610,7 @@ https://github.com/betagouv/pass-culture-publi-mailing,True
 https://github.com/betagouv/pass-culture-shared,True
 https://github.com/betagouv/pass-culture-team,True
 https://github.com/betagouv/pass-culture-web-analytics,True
+https://github.com/betagouv/pc-dashboard,False
 https://github.com/betagouv/pc-logstash,True
 https://github.com/betagouv/peps,True
 https://github.com/betagouv/peps-app,True
@@ -3751,7 +3752,7 @@ https://gitlab.inria.fr/scotch/scotch,True
 https://gitlab.inria.fr/scripta/escriptorium,True
 https://gitlab.inria.fr/sed-bso/cmake,True
 https://gitlab.inria.fr/sed-bso/heat,True
-https://gitlab.inria.fr/sed-bso/mdb-javascript,False
+https://gitlab.inria.fr/sed-bso/mdb-javascript,True
 https://gitlab.inria.fr/sed-bso/sonarqube,True
 https://gitlab.inria.fr/sed-lille/game-of-codes-utils,True
 https://gitlab.inria.fr/sed-paris/codingdojo,False
@@ -3866,7 +3867,7 @@ https://gitlab.irstea.fr/irstea-ros/ads1115_driver,True
 https://gitlab.irstea.fr/irstea-ros/labjack_driver,True
 https://gitlab.irstea.fr/irstea-ros/navsat_to_odom,True
 https://gitlab.irstea.fr/pomosed/clairelix,False
-https://gitlab.irstea.fr/pomosed/naiades,False
+https://gitlab.irstea.fr/pomosed/naiades,True
 https://gitlab.irstea.fr/pomosed/rfunctions,False
 https://gitlab.irstea.fr/raspberry-pi/multi-sense,True
 https://gitlab.irstea.fr/raspberry-pi/sense-hat,True
