@@ -1464,6 +1464,7 @@ https://github.com/betagouv/andi,True
 https://github.com/betagouv/andi-docker,True
 https://github.com/betagouv/andi-matching,True
 https://github.com/betagouv/andi-matching-ui,True
+https://github.com/betagouv/andi-service,False
 https://github.com/betagouv/annuaire,True
 https://github.com/betagouv/annuaire-api,True
 https://github.com/betagouv/annuaire-import,True
@@ -1609,7 +1610,7 @@ https://github.com/betagouv/pass-culture-publi-mailing,True
 https://github.com/betagouv/pass-culture-shared,True
 https://github.com/betagouv/pass-culture-team,True
 https://github.com/betagouv/pass-culture-web-analytics,True
-https://github.com/betagouv/pc-logstash,False
+https://github.com/betagouv/pc-logstash,True
 https://github.com/betagouv/peps,True
 https://github.com/betagouv/peps-app,True
 https://github.com/betagouv/pia-back,True
@@ -2638,7 +2639,7 @@ https://github.com/medialab/iat-exporter,True
 https://github.com/medialab/iat.js,True
 https://github.com/medialab/ipinion-rank,True
 https://github.com/medialab/iwanthue,True
-https://github.com/medialab/kaa,False
+https://github.com/medialab/kaa,True
 https://github.com/medialab/linkfluence-api,True
 https://github.com/medialab/mango_cognitive,True
 https://github.com/medialab/mango_core,True
@@ -3750,6 +3751,7 @@ https://gitlab.inria.fr/scotch/scotch,True
 https://gitlab.inria.fr/scripta/escriptorium,True
 https://gitlab.inria.fr/sed-bso/cmake,True
 https://gitlab.inria.fr/sed-bso/heat,True
+https://gitlab.inria.fr/sed-bso/mdb-javascript,False
 https://gitlab.inria.fr/sed-bso/sonarqube,True
 https://gitlab.inria.fr/sed-lille/game-of-codes-utils,True
 https://gitlab.inria.fr/sed-paris/codingdojo,False
@@ -3833,7 +3835,7 @@ https://gitlab.inria.fr/xug/meetings,True
 https://gitlab.inria.fr/xug/nix-tutorial,True
 https://gitlab.inria.fr/yixu/deepmot,True
 https://gitlab.inria.fr/yoann/grew,True
-https://gitlab.inria.fr/zefxis/BCgenerator,False
+https://gitlab.inria.fr/zefxis/BCgenerator,True
 https://gitlab.inria.fr/zefxis/DeX-IDL,True
 https://gitlab.inria.fr/zefxis/DeXMS,True
 https://gitlab.inria.fr/zefxis/DeXMS-Service,True
