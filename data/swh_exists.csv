@@ -1326,6 +1326,7 @@ https://github.com/StartupsPoleEmploi/memo,True
 https://github.com/StartupsPoleEmploi/mjl-avril,True
 https://github.com/StartupsPoleEmploi/perspectives,True
 https://github.com/StartupsPoleEmploi/qpvzrr,True
+https://github.com/StartupsPoleEmploi/toolkit,False
 https://github.com/StartupsPoleEmploi/trefle,True
 https://github.com/StartupsPoleEmploi/zen,True
 https://github.com/addok/addocker,True
@@ -2609,7 +2610,7 @@ https://github.com/medialab/drive-in,True
 https://github.com/medialab/drive-out,True
 https://github.com/medialab/ds-engine-poc,True
 https://github.com/medialab/edx_helpers,True
-https://github.com/medialab/fabrique-fragmentation,False
+https://github.com/medialab/fabrique-fragmentation,True
 https://github.com/medialab/fabrique-typo-amendements,True
 https://github.com/medialab/fonio,True
 https://github.com/medialab/forccast-backoffice,True
