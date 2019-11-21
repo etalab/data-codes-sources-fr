@@ -2552,7 +2552,7 @@ https://github.com/lutece-secteur-public/opengov-plugin-lobbycal,True
 https://github.com/lutece-secteur-public/opengov-plugin-transparency,True
 https://github.com/lutece-secteur-public/particip-plugin-participatorybudget,False
 https://github.com/lutece-secteur-public/particip-plugin-participatoryideation,False
-https://github.com/lutece-secteur-public/particip-site-participatorybudget,False
+https://github.com/lutece-secteur-public/particip-site-participatorybudget,True
 https://github.com/lutece-secteur-public/urbanisme-plugin-plu,True
 https://github.com/medialab/ANTA,True
 https://github.com/medialab/ANTA2,True
@@ -3817,7 +3817,7 @@ https://gitlab.inria.fr/usnb/bus-experiment,True
 https://gitlab.inria.fr/usnb/email-bc,True
 https://gitlab.inria.fr/usnb/entity-manager,True
 https://gitlab.inria.fr/usnb/facebook-bc,True
-https://gitlab.inria.fr/usnb/gmail-persona,False
+https://gitlab.inria.fr/usnb/gmail-persona,True
 https://gitlab.inria.fr/usnb/message-transformer,True
 https://gitlab.inria.fr/usnb/messenger-persona,True
 https://gitlab.inria.fr/usnb/slack-persona,True
