@@ -52,7 +52,7 @@ https://forgemia.inra.fr/get-it/nf-taxoaffiliation,True
 https://forgemia.inra.fr/metexplore/MetExploreViz,True
 https://forgemia.inra.fr/metexplore/metabolomics2network,True
 https://forgemia.inra.fr/olivier.bonnefon/mse,True
-https://forgemia.inra.fr/pappso/libodsstream,False
+https://forgemia.inra.fr/pappso/libodsstream,True
 https://forgemia.inra.fr/pappso/pappsomspp,True
 https://forgemia.inra.fr/pappso/xtpcpp,False
 https://forgemia.inra.fr/record-open-archives/rec-crash,True
@@ -394,7 +394,7 @@ https://github.com/BaseAdresseNationale/charte-experimentation-2017,True
 https://github.com/BaseAdresseNationale/donnees-initiales-2018,True
 https://github.com/BaseAdresseNationale/script_divers,True
 https://github.com/CCSDForge/CcsdCommon,True
-https://github.com/CCSDForge/Convert,False
+https://github.com/CCSDForge/Convert,True
 https://github.com/CCSDForge/Episciences.org,True
 https://github.com/CCSDForge/FinHal,True
 https://github.com/CCSDForge/HAL,True
@@ -1464,7 +1464,7 @@ https://github.com/betagouv/andi,True
 https://github.com/betagouv/andi-docker,True
 https://github.com/betagouv/andi-matching,True
 https://github.com/betagouv/andi-matching-ui,True
-https://github.com/betagouv/andi-service,False
+https://github.com/betagouv/andi-service,True
 https://github.com/betagouv/annuaire,True
 https://github.com/betagouv/annuaire-api,True
 https://github.com/betagouv/annuaire-import,True
@@ -2631,7 +2631,7 @@ https://github.com/medialab/hyphe-browser,True
 https://github.com/medialab/hyphe-corpus-cleaner,True
 https://github.com/medialab/hyphe-java-tree-poc,True
 https://github.com/medialab/hyphe-neo4j-poc,True
-https://github.com/medialab/hyphe-showcase,False
+https://github.com/medialab/hyphe-showcase,True
 https://github.com/medialab/hyphe-topic-datascape,True
 https://github.com/medialab/hyphe-traph,True
 https://github.com/medialab/hyphe2solr,True
@@ -2670,7 +2670,7 @@ https://github.com/medialab/polarisation-espace-public,True
 https://github.com/medialab/poltergeist,True
 https://github.com/medialab/privacy,True
 https://github.com/medialab/pubpub,True
-https://github.com/medialab/python-urlsresolver,False
+https://github.com/medialab/python-urlsresolver,True
 https://github.com/medialab/quenouille,True
 https://github.com/medialab/quinoa,True
 https://github.com/medialab/quinoa-bocal,True
@@ -3633,7 +3633,7 @@ https://gitlab.inria.fr/gv-open/PyLR,True
 https://gitlab.inria.fr/gv-open/pygeobuf,True
 https://gitlab.inria.fr/hsplit/hsplit,True
 https://gitlab.inria.fr/iccv_2019/pyvideoresearch_gunnar,True
-https://gitlab.inria.fr/inria-ci/doc,False
+https://gitlab.inria.fr/inria-ci/doc,True
 https://gitlab.inria.fr/jgranier/Rendu-Style-Novat,True
 https://gitlab.inria.fr/kameleon/kameleon-recipes,True
 https://gitlab.inria.fr/kirikomics/hglib,True
@@ -3793,7 +3793,7 @@ https://gitlab.inria.fr/solverstack/morse_cmake,True
 https://gitlab.inria.fr/solverstack/paddle,True
 https://gitlab.inria.fr/solverstack/parade,True
 https://gitlab.inria.fr/solverstack/pastix,True
-https://gitlab.inria.fr/solverstack/spack-repo,False
+https://gitlab.inria.fr/solverstack/spack-repo,True
 https://gitlab.inria.fr/solverstack/spm,True
 https://gitlab.inria.fr/solverstack/tabakov,True
 https://gitlab.inria.fr/solverstack/vite,True
