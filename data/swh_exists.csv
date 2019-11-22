@@ -1172,7 +1172,7 @@ https://github.com/SocialGouv/autosuggest,True
 https://github.com/SocialGouv/bootstrap,True
 https://github.com/SocialGouv/bot,True
 https://github.com/SocialGouv/cdtn-elk,True
-https://github.com/SocialGouv/cdtn-monolog,False
+https://github.com/SocialGouv/cdtn-monolog,True
 https://github.com/SocialGouv/checkup,True
 https://github.com/SocialGouv/clone-moi-sur-github,True
 https://github.com/SocialGouv/code-du-travail-api,True
@@ -1326,7 +1326,7 @@ https://github.com/StartupsPoleEmploi/memo,True
 https://github.com/StartupsPoleEmploi/mjl-avril,True
 https://github.com/StartupsPoleEmploi/perspectives,True
 https://github.com/StartupsPoleEmploi/qpvzrr,True
-https://github.com/StartupsPoleEmploi/toolkit,False
+https://github.com/StartupsPoleEmploi/toolkit,True
 https://github.com/StartupsPoleEmploi/trefle,True
 https://github.com/StartupsPoleEmploi/zen,True
 https://github.com/addok/addocker,True
@@ -1700,6 +1700,7 @@ https://github.com/cea-hpc/nfs-ganesha,True
 https://github.com/cea-hpc/pcocc,True
 https://github.com/cea-hpc/pdwfs,True
 https://github.com/cea-hpc/phobos,True
+https://github.com/cea-hpc/puppet-gluster,False
 https://github.com/cea-hpc/rbh-find,True
 https://github.com/cea-hpc/rbh-sync,True
 https://github.com/cea-hpc/robinhood,True
@@ -2955,7 +2956,7 @@ https://github.com/powerapi-ng/hwpc-sensor,True
 https://github.com/powerapi-ng/powerapi,True
 https://github.com/powerapi-ng/powerapi-ng.github.io,True
 https://github.com/powerapi-ng/powerapi-scala,True
-https://github.com/powerapi-ng/pyJoules,False
+https://github.com/powerapi-ng/pyJoules,True
 https://github.com/powerapi-ng/pyRAPL,True
 https://github.com/powerapi-ng/rapl-formula,True
 https://github.com/powerapi-ng/smartwatts-formula,True
