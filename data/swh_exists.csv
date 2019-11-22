@@ -3683,7 +3683,7 @@ https://gitlab.inria.fr/monitoring/rv-multi,True
 https://gitlab.inria.fr/monitoring/themis,True
 https://gitlab.inria.fr/monitoring/themis-artifact-article,True
 https://gitlab.inria.fr/monitoring/themis-artifact-outdated,True
-https://gitlab.inria.fr/monitoring/themis-demo,False
+https://gitlab.inria.fr/monitoring/themis-demo,True
 https://gitlab.inria.fr/monitoring/themis-rv18smarthome,True
 https://gitlab.inria.fr/monitoring/verde,True
 https://gitlab.inria.fr/mosaic/cellcomplex,True
@@ -3754,7 +3754,7 @@ https://gitlab.inria.fr/sca_platform/targets,False
 https://gitlab.inria.fr/scotch/scotch,True
 https://gitlab.inria.fr/scripta/escriptorium,True
 https://gitlab.inria.fr/sed-bso/cmake,True
-https://gitlab.inria.fr/sed-bso/gitlab-ci,False
+https://gitlab.inria.fr/sed-bso/gitlab-ci,True
 https://gitlab.inria.fr/sed-bso/heat,True
 https://gitlab.inria.fr/sed-bso/mdb-javascript,True
 https://gitlab.inria.fr/sed-bso/sonarqube,True
