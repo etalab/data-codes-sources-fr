@@ -1612,7 +1612,7 @@ https://github.com/betagouv/pass-culture-publi-mailing,True
 https://github.com/betagouv/pass-culture-shared,True
 https://github.com/betagouv/pass-culture-team,True
 https://github.com/betagouv/pass-culture-web-analytics,True
-https://github.com/betagouv/pc-dashboard,False
+https://github.com/betagouv/pc-dashboard,True
 https://github.com/betagouv/pc-logstash,True
 https://github.com/betagouv/peps,True
 https://github.com/betagouv/peps-app,True
@@ -2927,7 +2927,7 @@ https://github.com/openfun/openedx-comments-docker,True
 https://github.com/openfun/openedx-con-2018,True
 https://github.com/openfun/openedx-con-2019,True
 https://github.com/openfun/openedx-docker,True
-https://github.com/openfun/openedx-ecommerce-docker,False
+https://github.com/openfun/openedx-ecommerce-docker,True
 https://github.com/openfun/openedx-xapi,True
 https://github.com/openfun/openfun.github.io,True
 https://github.com/openfun/openshift-docker,True
@@ -3753,6 +3753,7 @@ https://gitlab.inria.fr/sca_platform/targets,False
 https://gitlab.inria.fr/scotch/scotch,True
 https://gitlab.inria.fr/scripta/escriptorium,True
 https://gitlab.inria.fr/sed-bso/cmake,True
+https://gitlab.inria.fr/sed-bso/gitlab-ci,False
 https://gitlab.inria.fr/sed-bso/heat,True
 https://gitlab.inria.fr/sed-bso/mdb-javascript,True
 https://gitlab.inria.fr/sed-bso/sonarqube,True
@@ -3850,6 +3851,7 @@ https://gitlab.inria.fr/zefxis/monitoring-tool,True
 https://gitlab.inria.fr/zefxis/playgrounds,True
 https://gitlab.inria.fr/zefxis/use-cases,True
 https://gitlab.inria.fr/zhozhang/zhongkai-zhang,True
+https://gitlab.irstea.fr/HYCAR-Hydro/ExcelGR,False
 https://gitlab.irstea.fr/HYCAR-Hydro/airgr,True
 https://gitlab.irstea.fr/HYCAR-Hydro/airgrteaching,True
 https://gitlab.irstea.fr/HYCAR-Hydro/baseflow,True
@@ -3878,7 +3880,7 @@ https://gitlab.irstea.fr/vino/Vino,True
 https://gitlab.ow2.org/lemonldap-ng/lemonldap-ng,True
 https://gitlab.ow2.org/lemonldap-ng/website-landing-page,True
 https://gitlabjf.ccomptes.fr/CommunautesJF/beta,True
-https://gitlabjf.ccomptes.fr/altair/master-jf,False
+https://gitlabjf.ccomptes.fr/altair/master-jf,True
 https://gitlabjf.ccomptes.fr/eig/candidature_promo3,True
 https://gitlabjf.ccomptes.fr/fnicol/NSIS3,True
 https://gitlabjf.ccomptes.fr/fnicol/qt-5.6,True
