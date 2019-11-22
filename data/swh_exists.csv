@@ -399,7 +399,7 @@ https://github.com/CCSDForge/Episciences.org,True
 https://github.com/CCSDForge/FinHal,True
 https://github.com/CCSDForge/HAL,True
 https://github.com/CCSDForge/Sciencesconf.org,True
-https://github.com/CCSDForge/StaticFiles,False
+https://github.com/CCSDForge/StaticFiles,True
 https://github.com/CEA-LIST/CinguParam,True
 https://github.com/CEA-LIST/Cingulata,True
 https://github.com/CEA-LIST/DAHLIA-BodyIndex,True
@@ -1222,7 +1222,7 @@ https://github.com/SocialGouv/legixplore,True
 https://github.com/SocialGouv/letor-scores,True
 https://github.com/SocialGouv/linters,True
 https://github.com/SocialGouv/maintenance,True
-https://github.com/SocialGouv/maraudes-app,False
+https://github.com/SocialGouv/maraudes-app,True
 https://github.com/SocialGouv/mattermost-plugin-google-calendar,True
 https://github.com/SocialGouv/meditor,True
 https://github.com/SocialGouv/medle,True
