@@ -54,7 +54,7 @@ https://forgemia.inra.fr/metexplore/metabolomics2network,True
 https://forgemia.inra.fr/olivier.bonnefon/mse,True
 https://forgemia.inra.fr/pappso/libodsstream,True
 https://forgemia.inra.fr/pappso/pappsomspp,True
-https://forgemia.inra.fr/pappso/xtpcpp,False
+https://forgemia.inra.fr/pappso/xtpcpp,True
 https://forgemia.inra.fr/record-open-archives/rec-crash,True
 https://forgemia.inra.fr/record-open-archives/recmoustics,True
 https://forgemia.inra.fr/record/AgFlow,True
@@ -2242,7 +2242,7 @@ https://github.com/etalab/doc.entreprise.api.gouv.fr,True
 https://github.com/etalab/docker-ansible-git-crypt,True
 https://github.com/etalab/docker-datagouv,True
 https://github.com/etalab/dotation-globale-fonctionnement,True
-https://github.com/etalab/droit-auteur-logiciels,False
+https://github.com/etalab/droit-auteur-logiciels,True
 https://github.com/etalab/dvf,True
 https://github.com/etalab/economiecirculaire,True
 https://github.com/etalab/edigeo-parser,True
