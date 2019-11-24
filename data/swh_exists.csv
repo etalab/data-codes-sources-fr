@@ -256,7 +256,7 @@ https://github.com/1024pix/pix,True
 https://github.com/1024pix/pix-editor,True
 https://github.com/1024pix/pix-help-center-theme,True
 https://github.com/1024pix/pix-lifestyle,True
-https://github.com/1024pix/pix-maintenance,False
+https://github.com/1024pix/pix-maintenance,True
 https://github.com/1024pix/pix-review-router,True
 https://github.com/1024pix/pix-site,True
 https://github.com/1024pix/poc-ovh-api,True
@@ -1605,7 +1605,7 @@ https://github.com/betagouv/pass-culture-datascience,True
 https://github.com/betagouv/pass-culture-doc,True
 https://github.com/betagouv/pass-culture-homepage,True
 https://github.com/betagouv/pass-culture-main,True
-https://github.com/betagouv/pass-culture-metabase,False
+https://github.com/betagouv/pass-culture-metabase,True
 https://github.com/betagouv/pass-culture-pro,True
 https://github.com/betagouv/pass-culture-pro-staging,True
 https://github.com/betagouv/pass-culture-publi-mailing,True
@@ -2619,7 +2619,7 @@ https://github.com/medialab/forccast-texts,True
 https://github.com/medialab/forccast-website,True
 https://github.com/medialab/frontcast,True
 https://github.com/medialab/gazouilloire,True
-https://github.com/medialab/gender_art,False
+https://github.com/medialab/gender_art,True
 https://github.com/medialab/generator-artoo,True
 https://github.com/medialab/giec_base,True
 https://github.com/medialab/gitlaw,True
