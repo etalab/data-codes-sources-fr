@@ -2554,7 +2554,7 @@ https://github.com/lutece-secteur-public/opendata-module-document-ckan,True
 https://github.com/lutece-secteur-public/opengov-plugin-lobbycal,True
 https://github.com/lutece-secteur-public/opengov-plugin-transparency,True
 https://github.com/lutece-secteur-public/particip-plugin-participatorybudget,False
-https://github.com/lutece-secteur-public/particip-plugin-participatoryideation,False
+https://github.com/lutece-secteur-public/particip-plugin-participatoryideation,True
 https://github.com/lutece-secteur-public/particip-site-participatorybudget,True
 https://github.com/lutece-secteur-public/urbanisme-plugin-plu,True
 https://github.com/medialab/ANTA,True
@@ -3543,7 +3543,7 @@ https://gitlab.inria.fr/dtk/dtk-widgets-python,True
 https://gitlab.inria.fr/dtk/dtk-wm,True
 https://gitlab.inria.fr/dtk/dtk-www,True
 https://gitlab.inria.fr/eigen/eigen-mirror,True
-https://gitlab.inria.fr/enseignement/MIAGE_TP_XML_2017,False
+https://gitlab.inria.fr/enseignement/MIAGE_TP_XML_2017,True
 https://gitlab.inria.fr/epione_ML/bayesian-learning-uca,True
 https://gitlab.inria.fr/epione_ML/mcvae,True
 https://gitlab.inria.fr/evalanon/enoslib,True
