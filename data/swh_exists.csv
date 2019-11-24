@@ -533,7 +533,7 @@ https://github.com/DISIC/referentiel_redaction-langage-simplifie,True
 https://github.com/DISIC/rgaa,True
 https://github.com/DISIC/rgaa-apps,True
 https://github.com/DISIC/rgaa-test-suite,True
-https://github.com/DISIC/rgaa4-json,False
+https://github.com/DISIC/rgaa4-json,True
 https://github.com/DISIC/rgaa_angular-bootstrap,True
 https://github.com/DISIC/rgaa_bibliotheques-javascript,True
 https://github.com/DISIC/rgaa_bibliotheques_javascript,True
@@ -3731,7 +3731,7 @@ https://gitlab.inria.fr/optimdbs/optimdbs-superproject,True
 https://gitlab.inria.fr/ordo-bdx/io-peak,True
 https://gitlab.inria.fr/ordo-bdx/nrrp-with-starpu,True
 https://gitlab.inria.fr/orpailleur/sofia-docker,True
-https://gitlab.inria.fr/panama-team/blaster,False
+https://gitlab.inria.fr/panama-team/blaster,True
 https://gitlab.inria.fr/parallel-replica/gen.parRep,True
 https://gitlab.inria.fr/parallel-replica/qsd.gen.samples,True
 https://gitlab.inria.fr/parseme-fr/mwe-mg,True
