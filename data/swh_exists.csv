@@ -697,6 +697,7 @@ https://github.com/INRA/rgs3,True
 https://github.com/INRIA/IFIPSpecifications,True
 https://github.com/INRIA/VisualSedimentation,True
 https://github.com/INRIA/Visualization-Literacy-101,True
+https://github.com/INRIA/aiana-player,False
 https://github.com/INRIA/atable,True
 https://github.com/INRIA/awesome-open-science-software,True
 https://github.com/INRIA/frobel-open-gifts,True
@@ -705,6 +706,8 @@ https://github.com/INRIA/interstices,True
 https://github.com/INRIA/intertrace,True
 https://github.com/INRIA/libpointing,True
 https://github.com/INRIA/libpointing-homebrew,True
+https://github.com/INRIA/mooc-accessibility-api,False
+https://github.com/INRIA/mooc-accessibility-static,False
 https://github.com/INRIA/osc,True
 https://github.com/INRIA/sparklificator,True
 https://github.com/INRIA/spoon,True
