@@ -1608,6 +1608,7 @@ https://github.com/betagouv/pass-culture-datascience,True
 https://github.com/betagouv/pass-culture-doc,True
 https://github.com/betagouv/pass-culture-homepage,True
 https://github.com/betagouv/pass-culture-main,True
+https://github.com/betagouv/pass-culture-maintenance,False
 https://github.com/betagouv/pass-culture-metabase,True
 https://github.com/betagouv/pass-culture-pro,True
 https://github.com/betagouv/pass-culture-pro-staging,True
@@ -2659,7 +2660,7 @@ https://github.com/medialab/medialab-network-dataset,True
 https://github.com/medialab/medialab.github.com,True
 https://github.com/medialab/medialab.sciences-po.fr,True
 https://github.com/medialab/minet,True
-https://github.com/medialab/minivan,False
+https://github.com/medialab/minivan,True
 https://github.com/medialab/miw-animation,True
 https://github.com/medialab/motel,True
 https://github.com/medialab/navicrawler,True
