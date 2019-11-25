@@ -2556,7 +2556,7 @@ https://github.com/lutece-secteur-public/ogp-hackathon-site,True
 https://github.com/lutece-secteur-public/opendata-module-document-ckan,True
 https://github.com/lutece-secteur-public/opengov-plugin-lobbycal,True
 https://github.com/lutece-secteur-public/opengov-plugin-transparency,True
-https://github.com/lutece-secteur-public/particip-plugin-participatorybudget,False
+https://github.com/lutece-secteur-public/particip-plugin-participatorybudget,True
 https://github.com/lutece-secteur-public/particip-plugin-participatoryideation,True
 https://github.com/lutece-secteur-public/particip-site-participatorybudget,True
 https://github.com/lutece-secteur-public/urbanisme-plugin-plu,True
@@ -3370,6 +3370,7 @@ https://gitlab.inria.fr/PSI/psi3,True
 https://gitlab.inria.fr/PSI/psi4,True
 https://gitlab.inria.fr/PaMPA/PaMPA,True
 https://gitlab.inria.fr/Phylophile/Treerecs,True
+https://gitlab.inria.fr/Phylophile/seaview,False
 https://gitlab.inria.fr/Puffertools/Pufferbench,True
 https://gitlab.inria.fr/Puffertools/Pufferscale,True
 https://gitlab.inria.fr/Puffertools/Pufferspack,True
