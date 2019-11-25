@@ -4,7 +4,7 @@ https://dev.ch-poitiers.fr/PowerShell/PagesVertes,True
 https://dev.ch-poitiers.fr/elk/debian-buster,True
 https://dev.ch-poitiers.fr/elk/stormshield,True
 https://dev.ch-poitiers.fr/firefox/policy-templates,True
-https://dev.ch-poitiers.fr/mssante/mssante-api,False
+https://dev.ch-poitiers.fr/mssante/mssante-api,True
 https://dev.ch-poitiers.fr/mssante/mssante-beans-alimentation-annuaire,True
 https://dev.ch-poitiers.fr/mssante/mssante-beans-bal,True
 https://dev.ch-poitiers.fr/mssante/mssante-beans-liste-blanche,True
@@ -3871,7 +3871,7 @@ https://gitlab.irstea.fr/irrig/public,True
 https://gitlab.irstea.fr/irstea-ros/ads1115_driver,True
 https://gitlab.irstea.fr/irstea-ros/labjack_driver,True
 https://gitlab.irstea.fr/irstea-ros/navsat_to_odom,True
-https://gitlab.irstea.fr/pomosed/clairelix,False
+https://gitlab.irstea.fr/pomosed/clairelix,True
 https://gitlab.irstea.fr/pomosed/naiades,True
 https://gitlab.irstea.fr/pomosed/rfunctions,False
 https://gitlab.irstea.fr/raspberry-pi/multi-sense,True
