@@ -697,7 +697,7 @@ https://github.com/INRA/rgs3,True
 https://github.com/INRIA/IFIPSpecifications,True
 https://github.com/INRIA/VisualSedimentation,True
 https://github.com/INRIA/Visualization-Literacy-101,True
-https://github.com/INRIA/aiana-player,False
+https://github.com/INRIA/aiana-player,True
 https://github.com/INRIA/atable,True
 https://github.com/INRIA/awesome-open-science-software,True
 https://github.com/INRIA/frobel-open-gifts,True
@@ -1465,6 +1465,7 @@ https://github.com/betagouv/PeerTube,True
 https://github.com/betagouv/admin-traitdunion,True
 https://github.com/betagouv/allegement-fillon,True
 https://github.com/betagouv/andi,True
+https://github.com/betagouv/andi-data,False
 https://github.com/betagouv/andi-docker,True
 https://github.com/betagouv/andi-matching,True
 https://github.com/betagouv/andi-matching-ui,True
@@ -3134,6 +3135,7 @@ https://github.com/wookey-project/bootloader,True
 https://github.com/wookey-project/driver-ad7843,True
 https://github.com/wookey-project/driver-ili9341,True
 https://github.com/wookey-project/driver-stm32f4x9-cryp,True
+https://github.com/wookey-project/driver-stm32f4xx-can,False
 https://github.com/wookey-project/driver-stm32f4xx-flash,True
 https://github.com/wookey-project/driver-stm32f4xx-hash,True
 https://github.com/wookey-project/driver-stm32f4xx-iso7816,True
