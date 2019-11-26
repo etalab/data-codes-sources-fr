@@ -3135,7 +3135,7 @@ https://github.com/wookey-project/bootloader,True
 https://github.com/wookey-project/driver-ad7843,True
 https://github.com/wookey-project/driver-ili9341,True
 https://github.com/wookey-project/driver-stm32f4x9-cryp,True
-https://github.com/wookey-project/driver-stm32f4xx-can,False
+https://github.com/wookey-project/driver-stm32f4xx-can,True
 https://github.com/wookey-project/driver-stm32f4xx-flash,True
 https://github.com/wookey-project/driver-stm32f4xx-hash,True
 https://github.com/wookey-project/driver-stm32f4xx-iso7816,True
@@ -3306,6 +3306,7 @@ https://gitlab.huma-num.fr/lamop/mirador-docker,True
 https://gitlab.huma-num.fr/lamop/moamo,True
 https://gitlab.huma-num.fr/lamop/nakala,True
 https://gitlab.huma-num.fr/lamop/nasa,True
+https://gitlab.huma-num.fr/lamop/pierre2fondation,False
 https://gitlab.huma-num.fr/lamop/studium,True
 https://gitlab.huma-num.fr/lamop/studium-baldwin,True
 https://gitlab.huma-num.fr/lamop/test,True
