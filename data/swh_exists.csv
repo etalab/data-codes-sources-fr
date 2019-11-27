@@ -53,6 +53,7 @@ https://forgemia.inra.fr/metexplore/MetExploreViz,True
 https://forgemia.inra.fr/metexplore/metabolomics2network,True
 https://forgemia.inra.fr/olivier.bonnefon/mse,True
 https://forgemia.inra.fr/pappso/libodsstream,True
+https://forgemia.inra.fr/pappso/pappsoms-tools,False
 https://forgemia.inra.fr/pappso/pappsomspp,True
 https://forgemia.inra.fr/pappso/xtpcpp,True
 https://forgemia.inra.fr/record-open-archives/rec-crash,True
@@ -1398,7 +1399,7 @@ https://github.com/ambanum/political-ads-scraper,True
 https://github.com/ambanum/server-config,True
 https://github.com/assurance-maladie-digital/XF-Material-Library,False
 https://github.com/assurance-maladie-digital/api-droits-fs-doc,False
-https://github.com/assurance-maladie-digital/api-droits-fs-exemple-php,False
+https://github.com/assurance-maladie-digital/api-droits-fs-exemple-php,True
 https://github.com/assurance-maladie-digital/api.gouv.fr,False
 https://github.com/assurance-maladie-digital/design-system,False
 https://github.com/assurance-maladie-digital/vue-dash,False
@@ -2443,7 +2444,7 @@ https://github.com/indsante/dico-snds-creation-archive,True
 https://github.com/indsante/schema-snds,True
 https://github.com/indsante/synthetic-snds,True
 https://github.com/ivre/ivre,False
-https://github.com/ivre/masscan,False
+https://github.com/ivre/masscan,True
 https://github.com/linbox-team/fflas-ffpack,True
 https://github.com/linbox-team/givaro,True
 https://github.com/linbox-team/linbox,True
