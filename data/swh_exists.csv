@@ -369,6 +369,8 @@ https://github.com/AlsaceDigitale/www.hacksxb.com,True
 https://github.com/AlsaceDigitale/www.swstrasbourg.eu,True
 https://github.com/ApieFrance/ApieFrance.github.io,True
 https://github.com/ApieFrance/choosealicense.com,True
+https://github.com/AssuranceMaladieSec/CertStreamMonitor,True
+https://github.com/AssuranceMaladieSec/abuse,False
 https://github.com/BRGM/ANZSoilML,True
 https://github.com/BRGM/BLiv,True
 https://github.com/BRGM/ComPASS,True
@@ -1394,6 +1396,13 @@ https://github.com/ambanum/political-ads-legality,True
 https://github.com/ambanum/political-ads-legality-server,True
 https://github.com/ambanum/political-ads-scraper,True
 https://github.com/ambanum/server-config,True
+https://github.com/assurance-maladie-digital/XF-Material-Library,False
+https://github.com/assurance-maladie-digital/api-droits-fs-doc,False
+https://github.com/assurance-maladie-digital/api-droits-fs-exemple-php,False
+https://github.com/assurance-maladie-digital/api.gouv.fr,False
+https://github.com/assurance-maladie-digital/design-system,False
+https://github.com/assurance-maladie-digital/vue-dash,False
+https://github.com/assurance-maladie-digital/vue-dot,True
 https://github.com/atlanmod/ACP,True
 https://github.com/atlanmod/ACP-FIX,True
 https://github.com/atlanmod/ACP-all,True
@@ -2433,6 +2442,8 @@ https://github.com/indsante/dico-snds,True
 https://github.com/indsante/dico-snds-creation-archive,True
 https://github.com/indsante/schema-snds,True
 https://github.com/indsante/synthetic-snds,True
+https://github.com/ivre/ivre,False
+https://github.com/ivre/masscan,False
 https://github.com/linbox-team/fflas-ffpack,True
 https://github.com/linbox-team/givaro,True
 https://github.com/linbox-team/linbox,True
