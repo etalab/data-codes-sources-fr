@@ -54,7 +54,7 @@ https://forgemia.inra.fr/metexplore/metabolomics2network,True
 https://forgemia.inra.fr/olivier.bonnefon/mse,True
 https://forgemia.inra.fr/pappso/libodsstream,True
 https://forgemia.inra.fr/pappso/masschroq,False
-https://forgemia.inra.fr/pappso/pappsoms-tools,False
+https://forgemia.inra.fr/pappso/pappsoms-tools,True
 https://forgemia.inra.fr/pappso/pappsomspp,True
 https://forgemia.inra.fr/pappso/xtpcpp,True
 https://forgemia.inra.fr/record-open-archives/rec-crash,True
@@ -500,6 +500,7 @@ https://github.com/DGAC/simupaye,True
 https://github.com/DGFiP/Test-Compta-Demat,True
 https://github.com/DISIC/GMR,True
 https://github.com/DISIC/GMR-sandbox,True
+https://github.com/DISIC/RGAA,False
 https://github.com/DISIC/Test-Compta-Demat,True
 https://github.com/DISIC/XWiki-cerfa-numerique,True
 https://github.com/DISIC/assistant-rgaa,True
@@ -537,6 +538,7 @@ https://github.com/DISIC/referentiel_redaction-langage-simplifie,True
 https://github.com/DISIC/rgaa,True
 https://github.com/DISIC/rgaa-apps,True
 https://github.com/DISIC/rgaa-test-suite,True
+https://github.com/DISIC/rgaa-version-3,False
 https://github.com/DISIC/rgaa4-json,True
 https://github.com/DISIC/rgaa_angular-bootstrap,True
 https://github.com/DISIC/rgaa_bibliotheques-javascript,True
@@ -2856,6 +2858,7 @@ https://github.com/openfisca/ga,True
 https://github.com/openfisca/jupyter,True
 https://github.com/openfisca/legislation-explorer,True
 https://github.com/openfisca/legislation-ipp-to-code,True
+https://github.com/openfisca/openfisca-brestmetropole,False
 https://github.com/openfisca/openfisca-ceq,True
 https://github.com/openfisca/openfisca-core,True
 https://github.com/openfisca/openfisca-cote-d-ivoire,True
@@ -2870,16 +2873,19 @@ https://github.com/openfisca/openfisca-france-api,True
 https://github.com/openfisca/openfisca-france-data,True
 https://github.com/openfisca/openfisca-france-extension-revenu-de-base,True
 https://github.com/openfisca/openfisca-france-indirect-taxation,True
+https://github.com/openfisca/openfisca-france-local,False
 https://github.com/openfisca/openfisca-france-offline,True
 https://github.com/openfisca/openfisca-graphql-server,True
 https://github.com/openfisca/openfisca-italy,True
 https://github.com/openfisca/openfisca-mali,True
 https://github.com/openfisca/openfisca-matplotlib,True
 https://github.com/openfisca/openfisca-ops,True
+https://github.com/openfisca/openfisca-paris,False
 https://github.com/openfisca/openfisca-parsers,True
 https://github.com/openfisca/openfisca-plugin-aggregates,True
 https://github.com/openfisca/openfisca-plugin-inequality,True
 https://github.com/openfisca/openfisca-qt,True
+https://github.com/openfisca/openfisca-rennesmetropole,False
 https://github.com/openfisca/openfisca-senegal,True
 https://github.com/openfisca/openfisca-senegal-ui,True
 https://github.com/openfisca/openfisca-spreadsheet,True
