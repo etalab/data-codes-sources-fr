@@ -16,7 +16,7 @@ https://dev.ch-poitiers.fr/mssante/mssante-connecteur-ldap,True
 https://dev.ch-poitiers.fr/mssante/mssante-envoi-indicateurs,True
 https://dev.ch-poitiers.fr/mssante/mssante-listeblanche,True
 https://dev.ch-poitiers.fr/mssante/mssante-listeps,True
-https://dev.ch-poitiers.fr/mssante/mssante-milter,False
+https://dev.ch-poitiers.fr/mssante/mssante-milter,True
 https://dev.ch-poitiers.fr/mssante/mssante-nomenclature,True
 https://dev.ch-poitiers.fr/mssante/mssante-sync-annuaire-ldap,True
 https://dev.ch-poitiers.fr/mssante/mssante-sync-cpsure-ldap,True
@@ -53,6 +53,7 @@ https://forgemia.inra.fr/metexplore/MetExploreViz,True
 https://forgemia.inra.fr/metexplore/metabolomics2network,True
 https://forgemia.inra.fr/olivier.bonnefon/mse,True
 https://forgemia.inra.fr/pappso/libodsstream,True
+https://forgemia.inra.fr/pappso/masschroq,False
 https://forgemia.inra.fr/pappso/pappsoms-tools,False
 https://forgemia.inra.fr/pappso/pappsomspp,True
 https://forgemia.inra.fr/pappso/xtpcpp,True
@@ -1400,8 +1401,8 @@ https://github.com/ambanum/server-config,True
 https://github.com/assurance-maladie-digital/XF-Material-Library,False
 https://github.com/assurance-maladie-digital/api-droits-fs-doc,False
 https://github.com/assurance-maladie-digital/api-droits-fs-exemple-php,True
-https://github.com/assurance-maladie-digital/api.gouv.fr,False
-https://github.com/assurance-maladie-digital/design-system,False
+https://github.com/assurance-maladie-digital/api.gouv.fr,True
+https://github.com/assurance-maladie-digital/design-system,True
 https://github.com/assurance-maladie-digital/vue-dash,False
 https://github.com/assurance-maladie-digital/vue-dot,True
 https://github.com/atlanmod/ACP,True
