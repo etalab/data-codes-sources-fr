@@ -1401,7 +1401,7 @@ https://github.com/ambanum/political-ads-legality-server,True
 https://github.com/ambanum/political-ads-scraper,True
 https://github.com/ambanum/server-config,True
 https://github.com/assurance-maladie-digital/XF-Material-Library,False
-https://github.com/assurance-maladie-digital/api-droits-fs-doc,False
+https://github.com/assurance-maladie-digital/api-droits-fs-doc,True
 https://github.com/assurance-maladie-digital/api-droits-fs-exemple-php,True
 https://github.com/assurance-maladie-digital/api.gouv.fr,True
 https://github.com/assurance-maladie-digital/design-system,True
@@ -2880,7 +2880,7 @@ https://github.com/openfisca/openfisca-italy,True
 https://github.com/openfisca/openfisca-mali,True
 https://github.com/openfisca/openfisca-matplotlib,True
 https://github.com/openfisca/openfisca-ops,True
-https://github.com/openfisca/openfisca-paris,False
+https://github.com/openfisca/openfisca-paris,True
 https://github.com/openfisca/openfisca-parsers,True
 https://github.com/openfisca/openfisca-plugin-aggregates,True
 https://github.com/openfisca/openfisca-plugin-inequality,True
