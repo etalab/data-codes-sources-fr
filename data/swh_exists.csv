@@ -713,7 +713,7 @@ https://github.com/INRIA/intertrace,True
 https://github.com/INRIA/libpointing,True
 https://github.com/INRIA/libpointing-homebrew,True
 https://github.com/INRIA/mooc-accessibility-api,True
-https://github.com/INRIA/mooc-accessibility-static,False
+https://github.com/INRIA/mooc-accessibility-static,True
 https://github.com/INRIA/osc,True
 https://github.com/INRIA/sparklificator,True
 https://github.com/INRIA/spoon,True
@@ -1622,7 +1622,7 @@ https://github.com/betagouv/pass-culture-datascience,True
 https://github.com/betagouv/pass-culture-doc,True
 https://github.com/betagouv/pass-culture-homepage,True
 https://github.com/betagouv/pass-culture-main,True
-https://github.com/betagouv/pass-culture-maintenance,False
+https://github.com/betagouv/pass-culture-maintenance,True
 https://github.com/betagouv/pass-culture-metabase,True
 https://github.com/betagouv/pass-culture-pro,True
 https://github.com/betagouv/pass-culture-pro-staging,True
@@ -3393,6 +3393,7 @@ https://gitlab.inria.fr/OCSR/chaos,True
 https://gitlab.inria.fr/PSI/psi3,True
 https://gitlab.inria.fr/PSI/psi4,True
 https://gitlab.inria.fr/PaMPA/PaMPA,True
+https://gitlab.inria.fr/ParMmg/testparmmg,False
 https://gitlab.inria.fr/Phylophile/Treerecs,True
 https://gitlab.inria.fr/Phylophile/seaview,True
 https://gitlab.inria.fr/Puffertools/Pufferbench,True
@@ -3493,7 +3494,7 @@ https://gitlab.inria.fr/coding-dojo-saclay/ChronalCoords2.jl,True
 https://gitlab.inria.fr/come4acloud/xaas,True
 https://gitlab.inria.fr/compass/compass,True
 https://gitlab.inria.fr/compass/meshtools,True
-https://gitlab.inria.fr/comprise/comprise_dialog_management,False
+https://gitlab.inria.fr/comprise/comprise_dialog_management,True
 https://gitlab.inria.fr/comprise/comprise_machine_translation,False
 https://gitlab.inria.fr/comprise/comprise_natural_language_generation,False
 https://gitlab.inria.fr/comprise/comprise_natural_language_understanding,False
