@@ -53,7 +53,7 @@ https://forgemia.inra.fr/metexplore/MetExploreViz,True
 https://forgemia.inra.fr/metexplore/metabolomics2network,True
 https://forgemia.inra.fr/olivier.bonnefon/mse,True
 https://forgemia.inra.fr/pappso/libodsstream,True
-https://forgemia.inra.fr/pappso/masschroq,False
+https://forgemia.inra.fr/pappso/masschroq,True
 https://forgemia.inra.fr/pappso/pappsoms-tools,True
 https://forgemia.inra.fr/pappso/pappsomspp,True
 https://forgemia.inra.fr/pappso/xtpcpp,True
@@ -500,7 +500,7 @@ https://github.com/DGAC/simupaye,True
 https://github.com/DGFiP/Test-Compta-Demat,True
 https://github.com/DISIC/GMR,True
 https://github.com/DISIC/GMR-sandbox,True
-https://github.com/DISIC/RGAA,False
+https://github.com/DISIC/RGAA,True
 https://github.com/DISIC/Test-Compta-Demat,True
 https://github.com/DISIC/XWiki-cerfa-numerique,True
 https://github.com/DISIC/assistant-rgaa,True
