@@ -1478,7 +1478,7 @@ https://github.com/betagouv/PeerTube,True
 https://github.com/betagouv/admin-traitdunion,True
 https://github.com/betagouv/allegement-fillon,True
 https://github.com/betagouv/andi,True
-https://github.com/betagouv/andi-data,False
+https://github.com/betagouv/andi-data,True
 https://github.com/betagouv/andi-docker,True
 https://github.com/betagouv/andi-matching,True
 https://github.com/betagouv/andi-matching-ui,True
@@ -2300,6 +2300,7 @@ https://github.com/etalab/guide-des-licences-de-reutilisation,True
 https://github.com/etalab/guide-juridique-logiciel-libre,True
 https://github.com/etalab/guide-juridique-open-data,True
 https://github.com/etalab/guides,True
+https://github.com/etalab/hackathon_associations,False
 https://github.com/etalab/hackdash,True
 https://github.com/etalab/id.data.gouv.fr,True
 https://github.com/etalab/inspire-cartes-producteurs,True
@@ -3492,6 +3493,15 @@ https://gitlab.inria.fr/coding-dojo-saclay/ChronalCoords2.jl,True
 https://gitlab.inria.fr/come4acloud/xaas,True
 https://gitlab.inria.fr/compass/compass,True
 https://gitlab.inria.fr/compass/meshtools,True
+https://gitlab.inria.fr/comprise/comprise_dialog_management,False
+https://gitlab.inria.fr/comprise/comprise_machine_translation,False
+https://gitlab.inria.fr/comprise/comprise_natural_language_generation,False
+https://gitlab.inria.fr/comprise/comprise_natural_language_understanding,False
+https://gitlab.inria.fr/comprise/comprise_sample_app,False
+https://gitlab.inria.fr/comprise/comprise_sdk_client_library,False
+https://gitlab.inria.fr/comprise/comprise_sdk_developer_ui,False
+https://gitlab.inria.fr/comprise/comprise_speech_to_text,False
+https://gitlab.inria.fr/comprise/comprise_text_to_speech,False
 https://gitlab.inria.fr/comprise/deliverable_d21,True
 https://gitlab.inria.fr/coq/coq,True
 https://gitlab.inria.fr/coq/wiki-backup,True
