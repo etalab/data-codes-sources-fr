@@ -538,7 +538,7 @@ https://github.com/DISIC/referentiel_redaction-langage-simplifie,True
 https://github.com/DISIC/rgaa,True
 https://github.com/DISIC/rgaa-apps,True
 https://github.com/DISIC/rgaa-test-suite,True
-https://github.com/DISIC/rgaa-version-3,False
+https://github.com/DISIC/rgaa-version-3,True
 https://github.com/DISIC/rgaa4-json,True
 https://github.com/DISIC/rgaa_angular-bootstrap,True
 https://github.com/DISIC/rgaa_bibliotheques-javascript,True
@@ -2886,7 +2886,7 @@ https://github.com/openfisca/openfisca-parsers,True
 https://github.com/openfisca/openfisca-plugin-aggregates,True
 https://github.com/openfisca/openfisca-plugin-inequality,True
 https://github.com/openfisca/openfisca-qt,True
-https://github.com/openfisca/openfisca-rennesmetropole,False
+https://github.com/openfisca/openfisca-rennesmetropole,True
 https://github.com/openfisca/openfisca-senegal,True
 https://github.com/openfisca/openfisca-senegal-ui,True
 https://github.com/openfisca/openfisca-spreadsheet,True
@@ -3498,9 +3498,9 @@ https://gitlab.inria.fr/comprise/comprise_dialog_management,True
 https://gitlab.inria.fr/comprise/comprise_machine_translation,False
 https://gitlab.inria.fr/comprise/comprise_natural_language_generation,False
 https://gitlab.inria.fr/comprise/comprise_natural_language_understanding,False
-https://gitlab.inria.fr/comprise/comprise_sample_app,False
+https://gitlab.inria.fr/comprise/comprise_sample_app,True
 https://gitlab.inria.fr/comprise/comprise_sdk_client_library,False
-https://gitlab.inria.fr/comprise/comprise_sdk_developer_ui,False
+https://gitlab.inria.fr/comprise/comprise_sdk_developer_ui,True
 https://gitlab.inria.fr/comprise/comprise_speech_to_text,False
 https://gitlab.inria.fr/comprise/comprise_text_to_speech,False
 https://gitlab.inria.fr/comprise/deliverable_d21,True
