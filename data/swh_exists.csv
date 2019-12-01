@@ -2859,7 +2859,7 @@ https://github.com/openfisca/ga,True
 https://github.com/openfisca/jupyter,True
 https://github.com/openfisca/legislation-explorer,True
 https://github.com/openfisca/legislation-ipp-to-code,True
-https://github.com/openfisca/openfisca-brestmetropole,False
+https://github.com/openfisca/openfisca-brestmetropole,True
 https://github.com/openfisca/openfisca-ceq,True
 https://github.com/openfisca/openfisca-core,True
 https://github.com/openfisca/openfisca-cote-d-ivoire,True
@@ -3502,7 +3502,7 @@ https://gitlab.inria.fr/comprise/comprise_natural_language_understanding,False
 https://gitlab.inria.fr/comprise/comprise_sample_app,True
 https://gitlab.inria.fr/comprise/comprise_sdk_client_library,False
 https://gitlab.inria.fr/comprise/comprise_sdk_developer_ui,True
-https://gitlab.inria.fr/comprise/comprise_speech_to_text,False
+https://gitlab.inria.fr/comprise/comprise_speech_to_text,True
 https://gitlab.inria.fr/comprise/comprise_text_to_speech,False
 https://gitlab.inria.fr/comprise/deliverable_d21,True
 https://gitlab.inria.fr/coq/coq,True
