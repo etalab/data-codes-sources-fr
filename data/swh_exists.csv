@@ -2300,7 +2300,7 @@ https://github.com/etalab/guide-des-licences-de-reutilisation,True
 https://github.com/etalab/guide-juridique-logiciel-libre,True
 https://github.com/etalab/guide-juridique-open-data,True
 https://github.com/etalab/guides,True
-https://github.com/etalab/hackathon_associations,False
+https://github.com/etalab/hackathon_associations,True
 https://github.com/etalab/hackdash,True
 https://github.com/etalab/id.data.gouv.fr,True
 https://github.com/etalab/inspire-cartes-producteurs,True
@@ -3495,7 +3495,7 @@ https://gitlab.inria.fr/come4acloud/xaas,True
 https://gitlab.inria.fr/compass/compass,True
 https://gitlab.inria.fr/compass/meshtools,True
 https://gitlab.inria.fr/comprise/comprise_dialog_management,True
-https://gitlab.inria.fr/comprise/comprise_machine_translation,False
+https://gitlab.inria.fr/comprise/comprise_machine_translation,True
 https://gitlab.inria.fr/comprise/comprise_natural_language_generation,False
 https://gitlab.inria.fr/comprise/comprise_natural_language_understanding,False
 https://gitlab.inria.fr/comprise/comprise_sample_app,True
