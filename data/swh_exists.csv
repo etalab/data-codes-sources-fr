@@ -1035,7 +1035,7 @@ https://github.com/OpenEdition/revuesorg_word_templates,True
 https://github.com/OpenEdition/roboh,True
 https://github.com/OpenEdition/screlo,True
 https://github.com/OpenEdition/tei.openedition,True
-https://github.com/OpenEdition/tei.openedition.localized,False
+https://github.com/OpenEdition/tei.openedition.localized,True
 https://github.com/OpenEdition/templates.openedition,True
 https://github.com/OpenEdition/toolpic,True
 https://github.com/PnCevennes/Applications_10.30,True
@@ -2171,6 +2171,7 @@ https://github.com/etalab/DVF-app,True
 https://github.com/etalab/Data-Fundamentals,True
 https://github.com/etalab/GitLegistique.jl,True
 https://github.com/etalab/HackFrancophonie,True
+https://github.com/etalab/LinkedWiki-Docker,False
 https://github.com/etalab/Pathologies_allergiques,True
 https://github.com/etalab/addok-docker,True
 https://github.com/etalab/admin_api_entreprise,True
