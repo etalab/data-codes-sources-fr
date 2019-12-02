@@ -1402,7 +1402,7 @@ https://github.com/ambanum/political-ads-legality,True
 https://github.com/ambanum/political-ads-legality-server,True
 https://github.com/ambanum/political-ads-scraper,True
 https://github.com/ambanum/server-config,True
-https://github.com/assurance-maladie-digital/XF-Material-Library,False
+https://github.com/assurance-maladie-digital/XF-Material-Library,True
 https://github.com/assurance-maladie-digital/api-droits-fs-doc,True
 https://github.com/assurance-maladie-digital/api-droits-fs-exemple-php,True
 https://github.com/assurance-maladie-digital/api.gouv.fr,True
@@ -1649,7 +1649,7 @@ https://github.com/betagouv/pop-consultation,True
 https://github.com/betagouv/pop-data,True
 https://github.com/betagouv/pop-production,True
 https://github.com/betagouv/pop-shared,True
-https://github.com/betagouv/postgresql-openshift-docker,False
+https://github.com/betagouv/postgresql-openshift-docker,True
 https://github.com/betagouv/preuve-covoiturage,True
 https://github.com/betagouv/preuve-covoiturage-doc,True
 https://github.com/betagouv/publicodes,True
@@ -2876,7 +2876,7 @@ https://github.com/openfisca/openfisca-france-api,True
 https://github.com/openfisca/openfisca-france-data,True
 https://github.com/openfisca/openfisca-france-extension-revenu-de-base,True
 https://github.com/openfisca/openfisca-france-indirect-taxation,True
-https://github.com/openfisca/openfisca-france-local,False
+https://github.com/openfisca/openfisca-france-local,True
 https://github.com/openfisca/openfisca-france-offline,True
 https://github.com/openfisca/openfisca-graphql-server,True
 https://github.com/openfisca/openfisca-italy,True
