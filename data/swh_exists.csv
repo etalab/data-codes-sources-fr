@@ -1035,6 +1035,7 @@ https://github.com/OpenEdition/revuesorg_word_templates,True
 https://github.com/OpenEdition/roboh,True
 https://github.com/OpenEdition/screlo,True
 https://github.com/OpenEdition/tei.openedition,True
+https://github.com/OpenEdition/tei.openedition.localized,False
 https://github.com/OpenEdition/templates.openedition,True
 https://github.com/OpenEdition/toolpic,True
 https://github.com/PnCevennes/Applications_10.30,True
@@ -1222,6 +1223,7 @@ https://github.com/SocialGouv/fiches-vdd,True
 https://github.com/SocialGouv/gitlab-ci-yml,True
 https://github.com/SocialGouv/helm-charts,True
 https://github.com/SocialGouv/jest-environment-knex,True
+https://github.com/SocialGouv/jours-feries,False
 https://github.com/SocialGouv/kali-data,True
 https://github.com/SocialGouv/kaligator,True
 https://github.com/SocialGouv/legi-data,True
@@ -1405,7 +1407,7 @@ https://github.com/assurance-maladie-digital/api-droits-fs-doc,True
 https://github.com/assurance-maladie-digital/api-droits-fs-exemple-php,True
 https://github.com/assurance-maladie-digital/api.gouv.fr,True
 https://github.com/assurance-maladie-digital/design-system,True
-https://github.com/assurance-maladie-digital/vue-dash,False
+https://github.com/assurance-maladie-digital/vue-dash,True
 https://github.com/assurance-maladie-digital/vue-dot,True
 https://github.com/atlanmod/ACP,True
 https://github.com/atlanmod/ACP-FIX,True
@@ -2447,7 +2449,7 @@ https://github.com/indsante/dico-snds,True
 https://github.com/indsante/dico-snds-creation-archive,True
 https://github.com/indsante/schema-snds,True
 https://github.com/indsante/synthetic-snds,True
-https://github.com/ivre/ivre,False
+https://github.com/ivre/ivre,True
 https://github.com/ivre/masscan,True
 https://github.com/linbox-team/fflas-ffpack,True
 https://github.com/linbox-team/givaro,True
@@ -3436,7 +3438,7 @@ https://gitlab.inria.fr/aljanon-experiment-framework/init_experiment,True
 https://gitlab.inria.fr/aljanon-experiment-framework/kameleon-recipes,True
 https://gitlab.inria.fr/aljanon-experiment-framework/py_command_wrapper,True
 https://gitlab.inria.fr/aljanon-experiment-framework/py_loguru_wrapper,True
-https://gitlab.inria.fr/aljanon-experiment-framework/setup_experiment,False
+https://gitlab.inria.fr/aljanon-experiment-framework/setup_experiment,True
 https://gitlab.inria.fr/aljanon-experiment-framework/teardown_experiment,True
 https://gitlab.inria.fr/allgo/allgo,True
 https://gitlab.inria.fr/allgo/allgo-blog,True
