@@ -2440,6 +2440,7 @@ https://github.com/ina-foss/amalia-tools,True
 https://github.com/ina-foss/amalia.js,True
 https://github.com/ina-foss/inaSpeechSegmenter,True
 https://github.com/ina-foss/nginx-video-thumbextractor-module,True
+https://github.com/ina-foss/tweet-stance-annotation,False
 https://github.com/ina-foss/twembeddings,True
 https://github.com/ina-foss/voxo-daemon,True
 https://github.com/ina-foss/voxo-dashboard,True
@@ -3501,7 +3502,7 @@ https://gitlab.inria.fr/compass/meshtools,True
 https://gitlab.inria.fr/comprise/comprise_dialog_management,True
 https://gitlab.inria.fr/comprise/comprise_machine_translation,True
 https://gitlab.inria.fr/comprise/comprise_natural_language_generation,False
-https://gitlab.inria.fr/comprise/comprise_natural_language_understanding,False
+https://gitlab.inria.fr/comprise/comprise_natural_language_understanding,True
 https://gitlab.inria.fr/comprise/comprise_sample_app,True
 https://gitlab.inria.fr/comprise/comprise_sdk_client_library,False
 https://gitlab.inria.fr/comprise/comprise_sdk_developer_ui,True
