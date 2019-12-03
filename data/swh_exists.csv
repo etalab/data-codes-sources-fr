@@ -54,6 +54,7 @@ https://forgemia.inra.fr/metexplore/metabolomics2network,True
 https://forgemia.inra.fr/olivier.bonnefon/mse,True
 https://forgemia.inra.fr/pappso/libodsstream,True
 https://forgemia.inra.fr/pappso/masschroq,True
+https://forgemia.inra.fr/pappso/mcqr,False
 https://forgemia.inra.fr/pappso/pappsoms-tools,True
 https://forgemia.inra.fr/pappso/pappsomspp,True
 https://forgemia.inra.fr/pappso/xtpcpp,True
@@ -3510,7 +3511,7 @@ https://gitlab.inria.fr/comprise/comprise_sample_app,True
 https://gitlab.inria.fr/comprise/comprise_sdk_client_library,False
 https://gitlab.inria.fr/comprise/comprise_sdk_developer_ui,True
 https://gitlab.inria.fr/comprise/comprise_speech_to_text,True
-https://gitlab.inria.fr/comprise/comprise_text_to_speech,False
+https://gitlab.inria.fr/comprise/comprise_text_to_speech,True
 https://gitlab.inria.fr/comprise/deliverable_d21,True
 https://gitlab.inria.fr/coq/coq,True
 https://gitlab.inria.fr/coq/wiki-backup,True
