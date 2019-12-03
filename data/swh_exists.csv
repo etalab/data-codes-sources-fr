@@ -266,6 +266,9 @@ https://github.com/1024pix/poc-qmail,True
 https://github.com/1024pix/poc-smtp,True
 https://github.com/1024pix/samlify,True
 https://github.com/1024pix/subdir-buildpack,True
+https://github.com/139bercy/cloud-appliance-ci-cd,False
+https://github.com/139bercy/cloud-appliance-composer-repo,False
+https://github.com/139bercy/cloud-appliance-nexus-repo,False
 https://github.com/139bercy/docker-ci-tool-stack,True
 https://github.com/139bercy/first-ghpages-by-travis,True
 https://github.com/139bercy/hub,True
@@ -1223,7 +1226,7 @@ https://github.com/SocialGouv/fiches-vdd,True
 https://github.com/SocialGouv/gitlab-ci-yml,True
 https://github.com/SocialGouv/helm-charts,True
 https://github.com/SocialGouv/jest-environment-knex,True
-https://github.com/SocialGouv/jours-feries,False
+https://github.com/SocialGouv/jours-feries,True
 https://github.com/SocialGouv/kali-data,True
 https://github.com/SocialGouv/kaligator,True
 https://github.com/SocialGouv/legi-data,True
