@@ -1,6 +1,7 @@
 origin_url,is_available
 https://dev.ch-poitiers.fr/PowerShell/OutilsServeurs,True
 https://dev.ch-poitiers.fr/PowerShell/PagesVertes,True
+https://dev.ch-poitiers.fr/debian/buster-sources,False
 https://dev.ch-poitiers.fr/elk/debian-buster,True
 https://dev.ch-poitiers.fr/elk/stormshield,True
 https://dev.ch-poitiers.fr/firefox/policy-templates,True
@@ -3323,6 +3324,7 @@ https://gitlab.huma-num.fr/lamop/Hmaot,True
 https://gitlab.huma-num.fr/lamop/archive-osm,True
 https://gitlab.huma-num.fr/lamop/audiotheque-traduction,True
 https://gitlab.huma-num.fr/lamop/cbma-epigraphie,True
+https://gitlab.huma-num.fr/lamop/corpus-spacy,False
 https://gitlab.huma-num.fr/lamop/duranti,True
 https://gitlab.huma-num.fr/lamop/fonds-marc-bloch,True
 https://gitlab.huma-num.fr/lamop/heraut-transcript,True
@@ -3683,6 +3685,7 @@ https://gitlab.inria.fr/gv-open/PyLR,True
 https://gitlab.inria.fr/gv-open/pygeobuf,True
 https://gitlab.inria.fr/hsplit/hsplit,True
 https://gitlab.inria.fr/iccv_2019/pyvideoresearch_gunnar,True
+https://gitlab.inria.fr/inria-ci/ctproxy,False
 https://gitlab.inria.fr/inria-ci/doc,True
 https://gitlab.inria.fr/jgranier/Rendu-Style-Novat,True
 https://gitlab.inria.fr/kameleon/kameleon-recipes,True
