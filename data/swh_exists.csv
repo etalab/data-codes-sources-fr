@@ -268,7 +268,7 @@ https://github.com/1024pix/poc-qmail,True
 https://github.com/1024pix/poc-smtp,True
 https://github.com/1024pix/samlify,True
 https://github.com/1024pix/subdir-buildpack,True
-https://github.com/139bercy/cloud-appliance-ci-cd,False
+https://github.com/139bercy/cloud-appliance-ci-cd,True
 https://github.com/139bercy/cloud-appliance-composer-repo,False
 https://github.com/139bercy/cloud-appliance-nexus-repo,False
 https://github.com/139bercy/docker-ci-tool-stack,True
