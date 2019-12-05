@@ -511,6 +511,7 @@ https://github.com/DISIC/XWiki-cerfa-numerique,True
 https://github.com/DISIC/assistant-rgaa,True
 https://github.com/DISIC/bmc-tools,True
 https://github.com/DISIC/circuits,True
+https://github.com/DISIC/design-numerique-admin,False
 https://github.com/DISIC/design.numerique.gouv.fr,True
 https://github.com/DISIC/foss-contrib-policy-template,True
 https://github.com/DISIC/gazette-bluehats,True
@@ -1228,6 +1229,7 @@ https://github.com/SocialGouv/fiches-vdd,True
 https://github.com/SocialGouv/gitlab-ci-yml,True
 https://github.com/SocialGouv/helm-charts,True
 https://github.com/SocialGouv/jest-environment-knex,True
+https://github.com/SocialGouv/jmeter-kibana,False
 https://github.com/SocialGouv/jours-feries,True
 https://github.com/SocialGouv/kali-data,True
 https://github.com/SocialGouv/kaligator,True
@@ -3507,7 +3509,7 @@ https://gitlab.inria.fr/compass/compass,True
 https://gitlab.inria.fr/compass/meshtools,True
 https://gitlab.inria.fr/comprise/comprise_dialog_management,True
 https://gitlab.inria.fr/comprise/comprise_machine_translation,True
-https://gitlab.inria.fr/comprise/comprise_natural_language_generation,False
+https://gitlab.inria.fr/comprise/comprise_natural_language_generation,True
 https://gitlab.inria.fr/comprise/comprise_natural_language_understanding,True
 https://gitlab.inria.fr/comprise/comprise_sample_app,True
 https://gitlab.inria.fr/comprise/comprise_sdk_client_library,False
