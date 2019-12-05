@@ -1037,6 +1037,8 @@ https://github.com/OpenEdition/lodel2,True
 https://github.com/OpenEdition/marc-openedition,True
 https://github.com/OpenEdition/mets.openedition,True
 https://github.com/OpenEdition/oai-openedition,True
+https://github.com/OpenEdition/oeb.em,False
+https://github.com/OpenEdition/oej.em,False
 https://github.com/OpenEdition/revuesorg_word_templates,True
 https://github.com/OpenEdition/roboh,True
 https://github.com/OpenEdition/screlo,True
@@ -1677,6 +1679,7 @@ https://github.com/betagouv/securite-numerique-agile,True
 https://github.com/betagouv/sejour,True
 https://github.com/betagouv/siecle-api,True
 https://github.com/betagouv/siecle-xml_mapper,True
+https://github.com/betagouv/signalconso-loadtest,False
 https://github.com/betagouv/signalement,True
 https://github.com/betagouv/signalement-api,True
 https://github.com/betagouv/signalement-app,True
