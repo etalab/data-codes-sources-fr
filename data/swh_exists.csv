@@ -3284,6 +3284,7 @@ https://gitlab.com/dreal-datalab/cogiter,True
 https://gitlab.com/dreal-datalab/communications,True
 https://gitlab.com/dreal-datalab/drealdown,True
 https://gitlab.com/dreal-datalab/drealthemes,True
+https://gitlab.com/dreal-datalab/nitrates,False
 https://gitlab.com/dreal-datalab/poc-enr-teo,True
 https://gitlab.com/dreal-datalab/reseauchaleur,True
 https://gitlab.com/dreal-datalab/rrrpls,True
@@ -3308,6 +3309,7 @@ https://gitlab.huma-num.fr/cbma/cbma-epigraphie-provence,True
 https://gitlab.huma-num.fr/cbma/cbma-philologic,True
 https://gitlab.huma-num.fr/cbma/cbma-philologic-docker,True
 https://gitlab.huma-num.fr/cbma/epigraphie,False
+https://gitlab.huma-num.fr/cbma/epigraphie-provencal,False
 https://gitlab.huma-num.fr/cbma/hagiographie,True
 https://gitlab.huma-num.fr/cbma/nosketch_engine-dockerfile,True
 https://gitlab.huma-num.fr/cbma/outil-epigraphie,True
