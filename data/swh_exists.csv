@@ -212,7 +212,7 @@ https://git.unistra.fr/integratron/integratron.pages.unistra.fr,True
 https://git.unistra.fr/jupyter/animation,True
 https://git.unistra.fr/la-table-ronde/ecr19-t4-b,True
 https://git.unistra.fr/lo5-antony-et-florian/thegame,True
-https://git.unistra.fr/m32_63_dsrsa/m32_63_dsrsa,False
+https://git.unistra.fr/m32_63_dsrsa/m32_63_dsrsa,True
 https://git.unistra.fr/mac19-t4-c/arct4,True
 https://git.unistra.fr/maf19-t4-c/Asimo-BOT,True
 https://git.unistra.fr/mih18-t4-a/ELECTOR2K18,True
@@ -1232,7 +1232,7 @@ https://github.com/SocialGouv/fiches-vdd,True
 https://github.com/SocialGouv/gitlab-ci-yml,True
 https://github.com/SocialGouv/helm-charts,True
 https://github.com/SocialGouv/jest-environment-knex,True
-https://github.com/SocialGouv/jmeter-kibana,False
+https://github.com/SocialGouv/jmeter-kibana,True
 https://github.com/SocialGouv/jours-feries,True
 https://github.com/SocialGouv/kali-data,True
 https://github.com/SocialGouv/kaligator,True
@@ -3297,6 +3297,7 @@ https://gitlab.com/healthdatahub/programmes-sdns,True
 https://gitlab.com/healthdatahub/schema-snds,True
 https://gitlab.com/healthdatahub/synthetic-snds,True
 https://gitlab.com/healthdatahub/tsfaker,True
+https://gitlab.com/musee-saint-raymond/villa-chiragan,False
 https://gitlab.com/pidila/checklist-pidila,True
 https://gitlab.com/pidila/kit-module-scampi,True
 https://gitlab.com/pidila/kit-sprite-svg,True
