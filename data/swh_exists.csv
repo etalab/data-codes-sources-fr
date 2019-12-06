@@ -212,6 +212,7 @@ https://git.unistra.fr/integratron/integratron.pages.unistra.fr,True
 https://git.unistra.fr/jupyter/animation,True
 https://git.unistra.fr/la-table-ronde/ecr19-t4-b,True
 https://git.unistra.fr/lo5-antony-et-florian/thegame,True
+https://git.unistra.fr/m32_63_dsrsa/m32_63_dsrsa,False
 https://git.unistra.fr/mac19-t4-c/arct4,True
 https://git.unistra.fr/maf19-t4-c/Asimo-BOT,True
 https://git.unistra.fr/mih18-t4-a/ELECTOR2K18,True
@@ -270,7 +271,7 @@ https://github.com/1024pix/samlify,True
 https://github.com/1024pix/subdir-buildpack,True
 https://github.com/139bercy/cloud-appliance-ci-cd,True
 https://github.com/139bercy/cloud-appliance-composer-repo,False
-https://github.com/139bercy/cloud-appliance-nexus-repo,False
+https://github.com/139bercy/cloud-appliance-nexus-repo,True
 https://github.com/139bercy/docker-ci-tool-stack,True
 https://github.com/139bercy/first-ghpages-by-travis,True
 https://github.com/139bercy/hub,True
@@ -511,7 +512,7 @@ https://github.com/DISIC/XWiki-cerfa-numerique,True
 https://github.com/DISIC/assistant-rgaa,True
 https://github.com/DISIC/bmc-tools,True
 https://github.com/DISIC/circuits,True
-https://github.com/DISIC/design-numerique-admin,False
+https://github.com/DISIC/design-numerique-admin,True
 https://github.com/DISIC/design.numerique.gouv.fr,True
 https://github.com/DISIC/foss-contrib-policy-template,True
 https://github.com/DISIC/gazette-bluehats,True
@@ -2450,7 +2451,7 @@ https://github.com/ina-foss/amalia-tools,True
 https://github.com/ina-foss/amalia.js,True
 https://github.com/ina-foss/inaSpeechSegmenter,True
 https://github.com/ina-foss/nginx-video-thumbextractor-module,True
-https://github.com/ina-foss/tweet-stance-annotation,False
+https://github.com/ina-foss/tweet-stance-annotation,True
 https://github.com/ina-foss/twembeddings,True
 https://github.com/ina-foss/voxo-daemon,True
 https://github.com/ina-foss/voxo-dashboard,True
@@ -3306,6 +3307,7 @@ https://gitlab.com/pidila/sp-simulateurs-data,True
 https://gitlab.huma-num.fr/cbma/cbma-epigraphie-provence,True
 https://gitlab.huma-num.fr/cbma/cbma-philologic,True
 https://gitlab.huma-num.fr/cbma/cbma-philologic-docker,True
+https://gitlab.huma-num.fr/cbma/epigraphie,False
 https://gitlab.huma-num.fr/cbma/hagiographie,True
 https://gitlab.huma-num.fr/cbma/nosketch_engine-dockerfile,True
 https://gitlab.huma-num.fr/cbma/outil-epigraphie,True
