@@ -514,6 +514,7 @@ https://github.com/DISIC/bmc-tools,True
 https://github.com/DISIC/circuits,True
 https://github.com/DISIC/design-numerique-admin,True
 https://github.com/DISIC/design.numerique.gouv.fr,True
+https://github.com/DISIC/designgouv-admin,False
 https://github.com/DISIC/foss-contrib-policy-template,True
 https://github.com/DISIC/gazette-bluehats,True
 https://github.com/DISIC/guide-RGAA_CMS,True
@@ -3489,6 +3490,7 @@ https://gitlab.inria.fr/blare/kblare-tools,True
 https://gitlab.inria.fr/blare/rfblare-tests,True
 https://gitlab.inria.fr/blare/test,True
 https://gitlab.inria.fr/bleuse/procset.py,True
+https://gitlab.inria.fr/bora-ucar/karp--sipser-reduction,False
 https://gitlab.inria.fr/bptraffic/star-ips,True
 https://gitlab.inria.fr/cedar/RDFQuotient,True
 https://gitlab.inria.fr/cedar/daggerWithSampling,True
