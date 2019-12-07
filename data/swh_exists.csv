@@ -1245,6 +1245,7 @@ https://github.com/SocialGouv/letor-scores,True
 https://github.com/SocialGouv/linters,True
 https://github.com/SocialGouv/maintenance,True
 https://github.com/SocialGouv/maraudes-app,True
+https://github.com/SocialGouv/maraudes-backend,False
 https://github.com/SocialGouv/mattermost-plugin-google-calendar,True
 https://github.com/SocialGouv/meditor,True
 https://github.com/SocialGouv/medle,True
@@ -3415,7 +3416,7 @@ https://gitlab.inria.fr/OCSR/chaos,True
 https://gitlab.inria.fr/PSI/psi3,True
 https://gitlab.inria.fr/PSI/psi4,True
 https://gitlab.inria.fr/PaMPA/PaMPA,True
-https://gitlab.inria.fr/ParMmg/testparmmg,False
+https://gitlab.inria.fr/ParMmg/testparmmg,True
 https://gitlab.inria.fr/Phylophile/Treerecs,True
 https://gitlab.inria.fr/Phylophile/seaview,True
 https://gitlab.inria.fr/Puffertools/Pufferbench,True
@@ -3833,7 +3834,7 @@ https://gitlab.inria.fr/serpico/3d-flow-assessment,True
 https://gitlab.inria.fr/serpico/airyscanj_bin,True
 https://gitlab.inria.fr/serpico/cpanalysis_bin,True
 https://gitlab.inria.fr/serpico/deep-finder,True
-https://gitlab.inria.fr/serpico/flowscope-wrapping,False
+https://gitlab.inria.fr/serpico/flowscope-wrapping,True
 https://gitlab.inria.fr/serpico/genloc3d_bin,True
 https://gitlab.inria.fr/serpico/hulkground_bin,True
 https://gitlab.inria.fr/serpico/mwr,True
