@@ -3316,7 +3316,7 @@ https://gitlab.huma-num.fr/cbma/epigraphie-provencal,True
 https://gitlab.huma-num.fr/cbma/hagiographie,True
 https://gitlab.huma-num.fr/cbma/nosketch_engine-dockerfile,True
 https://gitlab.huma-num.fr/cbma/outil-epigraphie,True
-https://gitlab.huma-num.fr/cbma/txm,False
+https://gitlab.huma-num.fr/cbma/txm,True
 https://gitlab.huma-num.fr/consortium3d/aLTAG3D,True
 https://gitlab.huma-num.fr/eurhisfirm/annuaires-favre,True
 https://gitlab.huma-num.fr/eurhisfirm/biryani,True
@@ -3684,6 +3684,7 @@ https://gitlab.inria.fr/grid5000/kwapi-g5k,True
 https://gitlab.inria.fr/grid5000/megaraid_sas,True
 https://gitlab.inria.fr/grid5000/metrology-api,True
 https://gitlab.inria.fr/grid5000/omegawatt,True
+https://gitlab.inria.fr/grid5000/python-grid5000,False
 https://gitlab.inria.fr/grid5000/reference-repository,True
 https://gitlab.inria.fr/grid5000/tutorials,True
 https://gitlab.inria.fr/grid5000/xp5k-openstack,True
