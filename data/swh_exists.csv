@@ -514,7 +514,7 @@ https://github.com/DISIC/bmc-tools,True
 https://github.com/DISIC/circuits,True
 https://github.com/DISIC/design-numerique-admin,True
 https://github.com/DISIC/design.numerique.gouv.fr,True
-https://github.com/DISIC/designgouv-admin,False
+https://github.com/DISIC/designgouv-admin,True
 https://github.com/DISIC/foss-contrib-policy-template,True
 https://github.com/DISIC/gazette-bluehats,True
 https://github.com/DISIC/guide-RGAA_CMS,True
@@ -1245,7 +1245,7 @@ https://github.com/SocialGouv/letor-scores,True
 https://github.com/SocialGouv/linters,True
 https://github.com/SocialGouv/maintenance,True
 https://github.com/SocialGouv/maraudes-app,True
-https://github.com/SocialGouv/maraudes-backend,False
+https://github.com/SocialGouv/maraudes-backend,True
 https://github.com/SocialGouv/mattermost-plugin-google-calendar,True
 https://github.com/SocialGouv/meditor,True
 https://github.com/SocialGouv/medle,True
