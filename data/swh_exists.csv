@@ -3311,7 +3311,7 @@ https://gitlab.com/pidila/sp-simulateurs-data,True
 https://gitlab.huma-num.fr/cbma/cbma-epigraphie-provence,True
 https://gitlab.huma-num.fr/cbma/cbma-philologic,True
 https://gitlab.huma-num.fr/cbma/cbma-philologic-docker,True
-https://gitlab.huma-num.fr/cbma/epigraphie,False
+https://gitlab.huma-num.fr/cbma/epigraphie,True
 https://gitlab.huma-num.fr/cbma/epigraphie-provencal,True
 https://gitlab.huma-num.fr/cbma/hagiographie,True
 https://gitlab.huma-num.fr/cbma/nosketch_engine-dockerfile,True
@@ -3699,7 +3699,7 @@ https://gitlab.inria.fr/gv-open/PyLR,True
 https://gitlab.inria.fr/gv-open/pygeobuf,True
 https://gitlab.inria.fr/hsplit/hsplit,True
 https://gitlab.inria.fr/iccv_2019/pyvideoresearch_gunnar,True
-https://gitlab.inria.fr/inria-ci/ctproxy,False
+https://gitlab.inria.fr/inria-ci/ctproxy,True
 https://gitlab.inria.fr/inria-ci/doc,True
 https://gitlab.inria.fr/jgranier/Rendu-Style-Novat,True
 https://gitlab.inria.fr/kameleon/kameleon-recipes,True
