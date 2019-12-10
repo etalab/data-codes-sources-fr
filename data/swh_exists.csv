@@ -1039,7 +1039,7 @@ https://github.com/OpenEdition/lodel2,True
 https://github.com/OpenEdition/marc-openedition,True
 https://github.com/OpenEdition/mets.openedition,True
 https://github.com/OpenEdition/oai-openedition,True
-https://github.com/OpenEdition/oeb.em,False
+https://github.com/OpenEdition/oeb.em,True
 https://github.com/OpenEdition/oej.em,False
 https://github.com/OpenEdition/revuesorg_word_templates,True
 https://github.com/OpenEdition/roboh,True
@@ -1269,6 +1269,7 @@ https://github.com/SocialGouv/tps,True
 https://github.com/SocialGouv/traefigit,True
 https://github.com/SocialGouv/tremplin,True
 https://github.com/SocialGouv/tumeplay-app,True
+https://github.com/SocialGouv/tumeplay-back,False
 https://github.com/SocialGouv/tutoriel-gitlab,True
 https://github.com/SocialGouv/work-in-france,True
 https://github.com/SocialGouv/work-in-france-backoffice,True
