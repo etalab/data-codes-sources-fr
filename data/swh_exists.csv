@@ -1251,6 +1251,7 @@ https://github.com/SocialGouv/maraudes-backend,True
 https://github.com/SocialGouv/mattermost-plugin-google-calendar,True
 https://github.com/SocialGouv/meditor,True
 https://github.com/SocialGouv/medle,True
+https://github.com/SocialGouv/monitor,False
 https://github.com/SocialGouv/next-routes,True
 https://github.com/SocialGouv/polyfill-service,True
 https://github.com/SocialGouv/postgrest,True
@@ -2364,6 +2365,7 @@ https://github.com/etalab/prevair-experiment,True
 https://github.com/etalab/project-legal,True
 https://github.com/etalab/pseudononymizer,True
 https://github.com/etalab/quartiers-prioritaires,True
+https://github.com/etalab/recherche.etalab.studio,False
 https://github.com/etalab/retos-civicos,True
 https://github.com/etalab/retweet,True
 https://github.com/etalab/rna_as_api,True
