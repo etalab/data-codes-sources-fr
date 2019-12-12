@@ -249,6 +249,7 @@ https://github.com/1024pix/ember-cli-matomo-tag-manager,True
 https://github.com/1024pix/ember-sentry,True
 https://github.com/1024pix/formation-jeremie,True
 https://github.com/1024pix/heroku-buildpack-telegraf,True
+https://github.com/1024pix/journee-recherche,False
 https://github.com/1024pix/json-api-crud-server,True
 https://github.com/1024pix/mail-broker,True
 https://github.com/1024pix/matomo,True
@@ -1092,6 +1093,7 @@ https://github.com/PnX-SI/GeoNature-R-package,True
 https://github.com/PnX-SI/GeoNature-atlas,True
 https://github.com/PnX-SI/GeoNature-citizen,True
 https://github.com/PnX-SI/GeoPaysages,True
+https://github.com/PnX-SI/Habref-api-module,False
 https://github.com/PnX-SI/Nomenclature-api-module,True
 https://github.com/PnX-SI/Ressources-techniques,True
 https://github.com/PnX-SI/TaxHub,True
@@ -1668,6 +1670,7 @@ https://github.com/betagouv/preuve-covoiturage,True
 https://github.com/betagouv/preuve-covoiturage-doc,True
 https://github.com/betagouv/publicodes,True
 https://github.com/betagouv/quotient-familial,True
+https://github.com/betagouv/rdv-solidarites.fr,False
 https://github.com/betagouv/react-elasticsearch,True
 https://github.com/betagouv/react-final-form-utils,True
 https://github.com/betagouv/react-hook-data,True
@@ -1747,6 +1750,7 @@ https://github.com/cea-hpc/space9,True
 https://github.com/cea-hpc/sshproxy,True
 https://github.com/cea-hpc/vbridge,True
 https://github.com/cea-hpc/wi4mpi,True
+https://github.com/cea-hpc/yumsync,False
 https://github.com/cea-sec/Sibyl,True
 https://github.com/cea-sec/TorPylle,True
 https://github.com/cea-sec/hairgap,True
