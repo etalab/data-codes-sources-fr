@@ -195,6 +195,7 @@ https://git.unistra.fr/algdis/algdis_public,True
 https://git.unistra.fr/botanique23/T4_PID_A,True
 https://git.unistra.fr/c/st,True
 https://git.unistra.fr/community/ina-import,True
+https://git.unistra.fr/community/io-heurist,False
 https://git.unistra.fr/community/pount-api,True
 https://git.unistra.fr/community/pount-front,True
 https://git.unistra.fr/csrd/white_paper_form,True
@@ -1562,6 +1563,10 @@ https://github.com/betagouv/eac,True
 https://github.com/betagouv/eac-api,True
 https://github.com/betagouv/eac-scrapper,True
 https://github.com/betagouv/etudiant-entrepreneur,True
+https://github.com/betagouv/eva,False
+https://github.com/betagouv/eva-orchestrateur,False
+https://github.com/betagouv/eva-serveur,False
+https://github.com/betagouv/eva-www,False
 https://github.com/betagouv/fetch-normalize-data,True
 https://github.com/betagouv/fiches-de-banc,True
 https://github.com/betagouv/freescout,True
