@@ -2380,6 +2380,7 @@ https://github.com/etalab/rubocop_api_entreprise,True
 https://github.com/etalab/schema-decp-dpa,True
 https://github.com/etalab/schema-irve,True
 https://github.com/etalab/schema-lieux-covoiturage,True
+https://github.com/etalab/schema-stationnement,False
 https://github.com/etalab/schema.data.gouv.fr,True
 https://github.com/etalab/scpc-as-api,True
 https://github.com/etalab/secateur,True
@@ -3301,7 +3302,7 @@ https://gitlab.com/dreal-datalab/cogiter,True
 https://gitlab.com/dreal-datalab/communications,True
 https://gitlab.com/dreal-datalab/drealdown,True
 https://gitlab.com/dreal-datalab/drealthemes,True
-https://gitlab.com/dreal-datalab/nitrates,False
+https://gitlab.com/dreal-datalab/nitrates,True
 https://gitlab.com/dreal-datalab/poc-enr-teo,True
 https://gitlab.com/dreal-datalab/reseauchaleur,True
 https://gitlab.com/dreal-datalab/rrrpls,True
@@ -3699,7 +3700,7 @@ https://gitlab.inria.fr/grid5000/kwapi-g5k,True
 https://gitlab.inria.fr/grid5000/megaraid_sas,True
 https://gitlab.inria.fr/grid5000/metrology-api,True
 https://gitlab.inria.fr/grid5000/omegawatt,True
-https://gitlab.inria.fr/grid5000/python-grid5000,False
+https://gitlab.inria.fr/grid5000/python-grid5000,True
 https://gitlab.inria.fr/grid5000/reference-repository,True
 https://gitlab.inria.fr/grid5000/tutorials,True
 https://gitlab.inria.fr/grid5000/xp5k-openstack,True
