@@ -2219,6 +2219,7 @@ https://github.com/etalab/algorithmes-publics,True
 https://github.com/etalab/api-bal,True
 https://github.com/etalab/api-codes-sources-fr,True
 https://github.com/etalab/api-geo,True
+https://github.com/etalab/api-geocode,False
 https://github.com/etalab/api-rpg,True
 https://github.com/etalab/api-urbanisme,True
 https://github.com/etalab/apicarto,True
@@ -3857,6 +3858,7 @@ https://gitlab.inria.fr/serpico/hulkground_bin,True
 https://gitlab.inria.fr/serpico/mwr,True
 https://gitlab.inria.fr/serpico/ndsafir_bin,True
 https://gitlab.inria.fr/serpico/owf_bin,True
+https://gitlab.inria.fr/serpico/serpico-notebooks,False
 https://gitlab.inria.fr/serpico/thot_bin,True
 https://gitlab.inria.fr/simgrid/simgrid,True
 https://gitlab.inria.fr/siteadmin/doc,True
