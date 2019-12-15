@@ -1676,7 +1676,7 @@ https://github.com/betagouv/preuve-covoiturage,True
 https://github.com/betagouv/preuve-covoiturage-doc,True
 https://github.com/betagouv/publicodes,True
 https://github.com/betagouv/quotient-familial,True
-https://github.com/betagouv/rdv-solidarites.fr,False
+https://github.com/betagouv/rdv-solidarites.fr,True
 https://github.com/betagouv/react-elasticsearch,True
 https://github.com/betagouv/react-final-form-utils,True
 https://github.com/betagouv/react-hook-data,True
@@ -2943,7 +2943,7 @@ https://github.com/openfisca/trace-tool,True
 https://github.com/openfisca/tracker,True
 https://github.com/openfisca/tutorial,True
 https://github.com/openfun/arnold,True
-https://github.com/openfun/celery-redis-sentinel,False
+https://github.com/openfun/celery-redis-sentinel,True
 https://github.com/openfun/cloudkey-py,True
 https://github.com/openfun/configuration,True
 https://github.com/openfun/cookiecutter-docker,True
