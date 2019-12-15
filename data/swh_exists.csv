@@ -1655,7 +1655,7 @@ https://github.com/betagouv/pass-culture-team,True
 https://github.com/betagouv/pass-culture-web-analytics,True
 https://github.com/betagouv/pc-dashboard,True
 https://github.com/betagouv/pc-logstash,True
-https://github.com/betagouv/pc-maintenance,False
+https://github.com/betagouv/pc-maintenance,True
 https://github.com/betagouv/peps,True
 https://github.com/betagouv/peps-app,True
 https://github.com/betagouv/pia-back,True
@@ -1757,7 +1757,7 @@ https://github.com/cea-hpc/space9,True
 https://github.com/cea-hpc/sshproxy,True
 https://github.com/cea-hpc/vbridge,True
 https://github.com/cea-hpc/wi4mpi,True
-https://github.com/cea-hpc/yumsync,False
+https://github.com/cea-hpc/yumsync,True
 https://github.com/cea-sec/Sibyl,True
 https://github.com/cea-sec/TorPylle,True
 https://github.com/cea-sec/hairgap,True
@@ -3541,7 +3541,7 @@ https://gitlab.inria.fr/comprise/comprise_machine_translation,True
 https://gitlab.inria.fr/comprise/comprise_natural_language_generation,True
 https://gitlab.inria.fr/comprise/comprise_natural_language_understanding,True
 https://gitlab.inria.fr/comprise/comprise_sample_app,True
-https://gitlab.inria.fr/comprise/comprise_sdk_client_library,False
+https://gitlab.inria.fr/comprise/comprise_sdk_client_library,True
 https://gitlab.inria.fr/comprise/comprise_sdk_developer_ui,True
 https://gitlab.inria.fr/comprise/comprise_speech_to_text,True
 https://gitlab.inria.fr/comprise/comprise_text_to_speech,True
