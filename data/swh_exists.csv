@@ -1253,6 +1253,7 @@ https://github.com/SocialGouv/mattermost-plugin-google-calendar,True
 https://github.com/SocialGouv/meditor,True
 https://github.com/SocialGouv/medle,True
 https://github.com/SocialGouv/monitor,True
+https://github.com/SocialGouv/monitorer,False
 https://github.com/SocialGouv/next-routes,True
 https://github.com/SocialGouv/polyfill-service,True
 https://github.com/SocialGouv/postgrest,True
@@ -3046,14 +3047,14 @@ https://github.com/riatelab/house-test,False
 https://github.com/riatelab/icc2019,True
 https://github.com/riatelab/intro_sf,True
 https://github.com/riatelab/magrit,True
-https://github.com/riatelab/magrit-rouen,False
+https://github.com/riatelab/magrit-rouen,True
 https://github.com/riatelab/magrit-templates-carto,True
 https://github.com/riatelab/mapinsetr,True
 https://github.com/riatelab/mexusaborder,False
 https://github.com/riatelab/nuts,True
 https://github.com/riatelab/rcarto3d,False
 https://github.com/riatelab/regioviz,True
-https://github.com/riatelab/regioviz-landingpage,False
+https://github.com/riatelab/regioviz-landingpage,True
 https://github.com/riatelab/regiovizlab,True
 https://github.com/riatelab/rgvzall,True
 https://github.com/riatelab/tunisie,True
