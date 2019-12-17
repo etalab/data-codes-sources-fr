@@ -1566,7 +1566,7 @@ https://github.com/betagouv/eac-api,True
 https://github.com/betagouv/eac-scrapper,True
 https://github.com/betagouv/etudiant-entrepreneur,True
 https://github.com/betagouv/eva,True
-https://github.com/betagouv/eva-orchestrateur,False
+https://github.com/betagouv/eva-orchestrateur,True
 https://github.com/betagouv/eva-serveur,False
 https://github.com/betagouv/eva-www,False
 https://github.com/betagouv/fetch-normalize-data,True
@@ -2385,7 +2385,7 @@ https://github.com/etalab/rubocop_api_entreprise,True
 https://github.com/etalab/schema-decp-dpa,True
 https://github.com/etalab/schema-irve,True
 https://github.com/etalab/schema-lieux-covoiturage,True
-https://github.com/etalab/schema-stationnement,False
+https://github.com/etalab/schema-stationnement,True
 https://github.com/etalab/schema.data.gouv.fr,True
 https://github.com/etalab/scpc-as-api,True
 https://github.com/etalab/secateur,True
@@ -3480,6 +3480,7 @@ https://gitlab.inria.fr/RMOD/archive,True
 https://gitlab.inria.fr/Spirals/monsoon,True
 https://gitlab.inria.fr/TeamPlay_Public/TeamPlay_Public_Deliverables,True
 https://gitlab.inria.fr/VeRDi-project/concerto,True
+https://gitlab.inria.fr/VeRDi-project/concerto-evaluation,False
 https://gitlab.inria.fr/VeRDi-project/madeus-journal,True
 https://gitlab.inria.fr/VeRDi-project/madeus-openstack,True
 https://gitlab.inria.fr/VeRDi-project/madeus-openstack-benchmarks,True
