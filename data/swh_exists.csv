@@ -1046,7 +1046,7 @@ https://github.com/OpenEdition/marc-openedition,True
 https://github.com/OpenEdition/mets.openedition,True
 https://github.com/OpenEdition/oai-openedition,True
 https://github.com/OpenEdition/oeb.em,True
-https://github.com/OpenEdition/oej.em,False
+https://github.com/OpenEdition/oej.em,True
 https://github.com/OpenEdition/revuesorg_word_templates,True
 https://github.com/OpenEdition/roboh,True
 https://github.com/OpenEdition/screlo,True
@@ -3340,6 +3340,7 @@ https://gitlab.com/dreal-datalab/cogiter,True
 https://gitlab.com/dreal-datalab/communications,True
 https://gitlab.com/dreal-datalab/drealdown,True
 https://gitlab.com/dreal-datalab/drealthemes,True
+https://gitlab.com/dreal-datalab/essai,False
 https://gitlab.com/dreal-datalab/nitrates,True
 https://gitlab.com/dreal-datalab/poc-enr-teo,True
 https://gitlab.com/dreal-datalab/reseauchaleur,True
@@ -3483,7 +3484,7 @@ https://gitlab.inria.fr/RMOD/archive,True
 https://gitlab.inria.fr/Spirals/monsoon,True
 https://gitlab.inria.fr/TeamPlay_Public/TeamPlay_Public_Deliverables,True
 https://gitlab.inria.fr/VeRDi-project/concerto,True
-https://gitlab.inria.fr/VeRDi-project/concerto-evaluation,False
+https://gitlab.inria.fr/VeRDi-project/concerto-evaluation,True
 https://gitlab.inria.fr/VeRDi-project/madeus-journal,True
 https://gitlab.inria.fr/VeRDi-project/madeus-openstack,True
 https://gitlab.inria.fr/VeRDi-project/madeus-openstack-benchmarks,True
@@ -3681,7 +3682,7 @@ https://gitlab.inria.fr/formation-gitlab-ci/navarop-formation-gitlab-ci,True
 https://gitlab.inria.fr/formation-gitlab-ci/navarop-tutorial,True
 https://gitlab.inria.fr/formation-gitlab-ci/tutio-ci-andrade,True
 https://gitlab.inria.fr/formation-gitlab-ci/tuto-ci-edib,True
-https://gitlab.inria.fr/formations/cmake,False
+https://gitlab.inria.fr/formations/cmake,True
 https://gitlab.inria.fr/foscadiff/demoRameau,True
 https://gitlab.inria.fr/gagallium/gagallium,True
 https://gitlab.inria.fr/gagallium/gagallium-save,True
@@ -3762,7 +3763,7 @@ https://gitlab.inria.fr/kameleon/kameleon-recipes,True
 https://gitlab.inria.fr/kirikomics/hglib,True
 https://gitlab.inria.fr/kstar/clang-omp,True
 https://gitlab.inria.fr/kstar/kstar,True
-https://gitlab.inria.fr/learninglab/formation-ux,False
+https://gitlab.inria.fr/learninglab/formation-ux,True
 https://gitlab.inria.fr/learninglab/mooc-bioinfo,True
 https://gitlab.inria.fr/learninglab/mooc-forum-plugin,True
 https://gitlab.inria.fr/learninglab/mooc-forums-theme,True
