@@ -82,7 +82,7 @@ https://forgemia.inra.fr/umr-astre/spreadrate,True
 https://forgemia.inra.fr/umr-astre/topomatch,True
 https://forgemia.inra.fr/umr-boa/viseago,True
 https://forgemia.inra.fr/umr-gdec/biotools,True
-https://forgemia.inra.fr/umr-gdec/bwgs,False
+https://forgemia.inra.fr/umr-gdec/bwgs,True
 https://forgemia.inra.fr/umr-gdec/clari-te,True
 https://forgemia.inra.fr/umr-gdec/isbpfinder,True
 https://forgemia.inra.fr/umrf/anomaly,True
@@ -303,6 +303,8 @@ https://github.com/ANSSI-FR/caml-crush,True
 https://github.com/ANSSI-FR/caradoc,True
 https://github.com/ANSSI-FR/chipsec-check,True
 https://github.com/ANSSI-FR/concerto,True
+https://github.com/ANSSI-FR/coq-MiniHTTPServer,False
+https://github.com/ANSSI-FR/coq-comparse,False
 https://github.com/ANSSI-FR/coq-prelude,True
 https://github.com/ANSSI-FR/cornetto,True
 https://github.com/ANSSI-FR/libapn,True
@@ -767,6 +769,7 @@ https://github.com/Inist-CNRS/inist-tools,True
 https://github.com/Inist-CNRS/jbj-playground,True
 https://github.com/Inist-CNRS/jussieu-web-home,True
 https://github.com/Inist-CNRS/lodex,True
+https://github.com/Inist-CNRS/lodex-apil,False
 https://github.com/Inist-CNRS/lodex-doc,True
 https://github.com/Inist-CNRS/lodex-doc-gitbook-config,True
 https://github.com/Inist-CNRS/lodex-dumps,True
@@ -3678,6 +3681,7 @@ https://gitlab.inria.fr/formation-gitlab-ci/navarop-formation-gitlab-ci,True
 https://gitlab.inria.fr/formation-gitlab-ci/navarop-tutorial,True
 https://gitlab.inria.fr/formation-gitlab-ci/tutio-ci-andrade,True
 https://gitlab.inria.fr/formation-gitlab-ci/tuto-ci-edib,True
+https://gitlab.inria.fr/formations/cmake,False
 https://gitlab.inria.fr/foscadiff/demoRameau,True
 https://gitlab.inria.fr/gagallium/gagallium,True
 https://gitlab.inria.fr/gagallium/gagallium-save,True
