@@ -520,6 +520,7 @@ https://github.com/DISIC/circuits,True
 https://github.com/DISIC/design-numerique-admin,True
 https://github.com/DISIC/design.numerique.gouv.fr,True
 https://github.com/DISIC/designgouv-admin,True
+https://github.com/DISIC/evenements-bluehats,False
 https://github.com/DISIC/foss-contrib-policy-template,True
 https://github.com/DISIC/gazette-bluehats,True
 https://github.com/DISIC/guide-RGAA_CMS,True
@@ -2265,6 +2266,7 @@ https://github.com/etalab/ckanext-oauth2,True
 https://github.com/etalab/ckanext-sentry,True
 https://github.com/etalab/ckanext-youckan,True
 https://github.com/etalab/cle-interoperabilite-adresse,True
+https://github.com/etalab/code.etalab.gouv.fr,False
 https://github.com/etalab/codegouvfr,True
 https://github.com/etalab/codes-juridiques-francais,True
 https://github.com/etalab/codes-postaux,True
@@ -2393,6 +2395,7 @@ https://github.com/etalab/schema-stationnement,True
 https://github.com/etalab/schema.data.gouv.fr,True
 https://github.com/etalab/scpc-as-api,True
 https://github.com/etalab/secateur,True
+https://github.com/etalab/sill.etalab.gouv.fr,False
 https://github.com/etalab/sillweb,True
 https://github.com/etalab/sirene,True
 https://github.com/etalab/sirene_as_api,True
