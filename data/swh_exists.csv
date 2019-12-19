@@ -304,7 +304,7 @@ https://github.com/ANSSI-FR/caradoc,True
 https://github.com/ANSSI-FR/chipsec-check,True
 https://github.com/ANSSI-FR/concerto,True
 https://github.com/ANSSI-FR/coq-MiniHTTPServer,False
-https://github.com/ANSSI-FR/coq-comparse,False
+https://github.com/ANSSI-FR/coq-comparse,True
 https://github.com/ANSSI-FR/coq-prelude,True
 https://github.com/ANSSI-FR/cornetto,True
 https://github.com/ANSSI-FR/libapn,True
@@ -1257,7 +1257,7 @@ https://github.com/SocialGouv/mattermost-plugin-google-calendar,True
 https://github.com/SocialGouv/meditor,True
 https://github.com/SocialGouv/medle,True
 https://github.com/SocialGouv/monitor,True
-https://github.com/SocialGouv/monitorer,False
+https://github.com/SocialGouv/monitorer,True
 https://github.com/SocialGouv/next-routes,True
 https://github.com/SocialGouv/polyfill-service,True
 https://github.com/SocialGouv/postgrest,True
@@ -1729,6 +1729,7 @@ https://github.com/betagouv/with-react-login,True
 https://github.com/betagouv/with-react-query,True
 https://github.com/betagouv/with-react-redux-login,True
 https://github.com/betagouv/zam,True
+https://github.com/cea-hpc/Hercule,False
 https://github.com/cea-hpc/NabLab,True
 https://github.com/cea-hpc/bridge,True
 https://github.com/cea-hpc/clustershell,True
@@ -3340,7 +3341,7 @@ https://gitlab.com/dreal-datalab/cogiter,True
 https://gitlab.com/dreal-datalab/communications,True
 https://gitlab.com/dreal-datalab/drealdown,True
 https://gitlab.com/dreal-datalab/drealthemes,True
-https://gitlab.com/dreal-datalab/essai,False
+https://gitlab.com/dreal-datalab/essai,True
 https://gitlab.com/dreal-datalab/nitrates,True
 https://gitlab.com/dreal-datalab/poc-enr-teo,True
 https://gitlab.com/dreal-datalab/reseauchaleur,True
