@@ -1519,6 +1519,7 @@ https://github.com/betagouv/api-cpa,True
 https://github.com/betagouv/api-drones,True
 https://github.com/betagouv/api-medicaments,True
 https://github.com/betagouv/api-particulier,True
+https://github.com/betagouv/api-particulier-ansible,False
 https://github.com/betagouv/api-particulier-auth,True
 https://github.com/betagouv/api-particulier-demo-traces,True
 https://github.com/betagouv/api-particulier-lib,True
