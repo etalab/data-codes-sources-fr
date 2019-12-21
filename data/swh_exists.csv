@@ -1519,7 +1519,7 @@ https://github.com/betagouv/api-cpa,True
 https://github.com/betagouv/api-drones,True
 https://github.com/betagouv/api-medicaments,True
 https://github.com/betagouv/api-particulier,True
-https://github.com/betagouv/api-particulier-ansible,False
+https://github.com/betagouv/api-particulier-ansible,True
 https://github.com/betagouv/api-particulier-auth,True
 https://github.com/betagouv/api-particulier-demo-traces,True
 https://github.com/betagouv/api-particulier-lib,True
@@ -2384,7 +2384,7 @@ https://github.com/etalab/prevair-experiment,True
 https://github.com/etalab/project-legal,True
 https://github.com/etalab/pseudononymizer,True
 https://github.com/etalab/quartiers-prioritaires,True
-https://github.com/etalab/recherche.etalab.studio,False
+https://github.com/etalab/recherche.etalab.studio,True
 https://github.com/etalab/retos-civicos,True
 https://github.com/etalab/retweet,True
 https://github.com/etalab/rna_as_api,True
