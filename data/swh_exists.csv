@@ -303,7 +303,7 @@ https://github.com/ANSSI-FR/caml-crush,True
 https://github.com/ANSSI-FR/caradoc,True
 https://github.com/ANSSI-FR/chipsec-check,True
 https://github.com/ANSSI-FR/concerto,True
-https://github.com/ANSSI-FR/coq-MiniHTTPServer,False
+https://github.com/ANSSI-FR/coq-MiniHTTPServer,True
 https://github.com/ANSSI-FR/coq-comparse,True
 https://github.com/ANSSI-FR/coq-prelude,True
 https://github.com/ANSSI-FR/cornetto,True
@@ -520,7 +520,7 @@ https://github.com/DISIC/circuits,True
 https://github.com/DISIC/design-numerique-admin,True
 https://github.com/DISIC/design.numerique.gouv.fr,True
 https://github.com/DISIC/designgouv-admin,True
-https://github.com/DISIC/evenements-bluehats,False
+https://github.com/DISIC/evenements-bluehats,True
 https://github.com/DISIC/foss-contrib-policy-template,True
 https://github.com/DISIC/gazette-bluehats,True
 https://github.com/DISIC/guide-RGAA_CMS,True
