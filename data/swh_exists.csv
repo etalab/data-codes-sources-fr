@@ -1763,7 +1763,7 @@ https://github.com/cea-hpc/selFIe,True
 https://github.com/cea-hpc/shine,True
 https://github.com/cea-hpc/sigmund,True
 https://github.com/cea-hpc/slurm-spank-lua-plugin-mckernel,True
-https://github.com/cea-hpc/slurm_exporter,False
+https://github.com/cea-hpc/slurm_exporter,True
 https://github.com/cea-hpc/space9,True
 https://github.com/cea-hpc/sshproxy,True
 https://github.com/cea-hpc/vbridge,True
