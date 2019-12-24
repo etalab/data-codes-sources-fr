@@ -1751,7 +1751,7 @@ https://github.com/cea-hpc/milkcheck,True
 https://github.com/cea-hpc/modules,True
 https://github.com/cea-hpc/mooshika,True
 https://github.com/cea-hpc/nfs-ganesha,True
-https://github.com/cea-hpc/parablox,False
+https://github.com/cea-hpc/parablox,True
 https://github.com/cea-hpc/pcocc,True
 https://github.com/cea-hpc/pdwfs,True
 https://github.com/cea-hpc/phobos,True
