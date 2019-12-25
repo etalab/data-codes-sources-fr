@@ -1746,7 +1746,7 @@ https://github.com/cea-hpc/kfs,True
 https://github.com/cea-hpc/krb5,True
 https://github.com/cea-hpc/kvsns,True
 https://github.com/cea-hpc/lcap,True
-https://github.com/cea-hpc/mercurio,False
+https://github.com/cea-hpc/mercurio,True
 https://github.com/cea-hpc/milkcheck,True
 https://github.com/cea-hpc/modules,True
 https://github.com/cea-hpc/mooshika,True
