@@ -992,9 +992,9 @@ https://github.com/MTES-MCT/kelrisks-datascience,True
 https://github.com/MTES-MCT/locatio,True
 https://github.com/MTES-MCT/numerique,True
 https://github.com/MTES-MCT/parcours-r,True
-https://github.com/MTES-MCT/parcours_r_exercices,False
-https://github.com/MTES-MCT/parcours_r_module_analyse_multi_dimensionnelles,False
-https://github.com/MTES-MCT/parcours_r_module_analyse_spatiale,False
+https://github.com/MTES-MCT/parcours_r_exercices,True
+https://github.com/MTES-MCT/parcours_r_module_analyse_multi_dimensionnelles,True
+https://github.com/MTES-MCT/parcours_r_module_analyse_spatiale,True
 https://github.com/MTES-MCT/parcours_r_module_applications_shiny,False
 https://github.com/MTES-MCT/parcours_r_module_big_data,False
 https://github.com/MTES-MCT/parcours_r_module_datavisualisation,False
