@@ -997,7 +997,7 @@ https://github.com/MTES-MCT/parcours_r_module_analyse_multi_dimensionnelles,True
 https://github.com/MTES-MCT/parcours_r_module_analyse_spatiale,True
 https://github.com/MTES-MCT/parcours_r_module_applications_shiny,False
 https://github.com/MTES-MCT/parcours_r_module_big_data,True
-https://github.com/MTES-MCT/parcours_r_module_datavisualisation,False
+https://github.com/MTES-MCT/parcours_r_module_datavisualisation,True
 https://github.com/MTES-MCT/parcours_r_module_publication_rmarkdown,False
 https://github.com/MTES-MCT/parcours_r_module_statistiques_descriptives,True
 https://github.com/MTES-MCT/parcours_r_socle_introduction,False
@@ -3778,6 +3778,8 @@ https://gitlab.inria.fr/gv-open/PyLR,True
 https://gitlab.inria.fr/gv-open/pygeobuf,True
 https://gitlab.inria.fr/hsplit/hsplit,True
 https://gitlab.inria.fr/iccv_2019/pyvideoresearch_gunnar,True
+https://gitlab.inria.fr/igrida/kubigrida-charts,False
+https://gitlab.inria.fr/igrida/kubigrida-docker,False
 https://gitlab.inria.fr/inria-ci/ctproxy,True
 https://gitlab.inria.fr/inria-ci/doc,True
 https://gitlab.inria.fr/jgranier/Rendu-Style-Novat,True
