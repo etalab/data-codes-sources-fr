@@ -3778,7 +3778,7 @@ https://gitlab.inria.fr/gv-open/PyLR,True
 https://gitlab.inria.fr/gv-open/pygeobuf,True
 https://gitlab.inria.fr/hsplit/hsplit,True
 https://gitlab.inria.fr/iccv_2019/pyvideoresearch_gunnar,True
-https://gitlab.inria.fr/igrida/kubigrida-charts,False
+https://gitlab.inria.fr/igrida/kubigrida-charts,True
 https://gitlab.inria.fr/igrida/kubigrida-docker,True
 https://gitlab.inria.fr/inria-ci/ctproxy,True
 https://gitlab.inria.fr/inria-ci/doc,True
@@ -4010,7 +4010,7 @@ https://gitlab.irstea.fr/SimAquaLife/PredatorPrey,True
 https://gitlab.irstea.fr/SimAquaLife/SimAquaLife,True
 https://gitlab.irstea.fr/SimAquaLife/StockedDiad,True
 https://gitlab.irstea.fr/SimAquaLife/SturioSaintSeurin,True
-https://gitlab.irstea.fr/cassiopee/jalhyd,False
+https://gitlab.irstea.fr/cassiopee/jalhyd,True
 https://gitlab.irstea.fr/copain/frenchcropusage,True
 https://gitlab.irstea.fr/copain/weather2017,True
 https://gitlab.irstea.fr/cormas-dev/r-cormas,True
