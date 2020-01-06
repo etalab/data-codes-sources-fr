@@ -2628,6 +2628,7 @@ https://github.com/lutece-secteur-public/lutece-auth-plugin-federate-database-fr
 https://github.com/lutece-secteur-public/lutece-ecom-plugin-tipi,True
 https://github.com/lutece-secteur-public/lutece-gru-module-elasticdata-ticketing,True
 https://github.com/lutece-secteur-public/mdph-library-mdph,True
+https://github.com/lutece-secteur-public/module-ideation-participatorybudget,False
 https://github.com/lutece-secteur-public/ocr-module-genericattributes-ocr,True
 https://github.com/lutece-secteur-public/ocr-module-ocra2ia-rest,True
 https://github.com/lutece-secteur-public/ocr-plugin-a2ia,True
@@ -2635,6 +2636,7 @@ https://github.com/lutece-secteur-public/ogp-hackathon-site,True
 https://github.com/lutece-secteur-public/opendata-module-document-ckan,True
 https://github.com/lutece-secteur-public/opengov-plugin-lobbycal,True
 https://github.com/lutece-secteur-public/opengov-plugin-transparency,True
+https://github.com/lutece-secteur-public/particip-plugin-ideation,False
 https://github.com/lutece-secteur-public/particip-plugin-participatorybudget,True
 https://github.com/lutece-secteur-public/particip-plugin-participatoryideation,True
 https://github.com/lutece-secteur-public/particip-site-participatorybudget,True
@@ -3778,6 +3780,7 @@ https://gitlab.inria.fr/guix-hpc/guix-kernel,True
 https://gitlab.inria.fr/guix-hpc/website,True
 https://gitlab.inria.fr/gv-open/PyLR,True
 https://gitlab.inria.fr/gv-open/pygeobuf,True
+https://gitlab.inria.fr/hiepacs/rotor,False
 https://gitlab.inria.fr/hsplit/hsplit,True
 https://gitlab.inria.fr/iccv_2019/pyvideoresearch_gunnar,True
 https://gitlab.inria.fr/igrida/kubigrida-charts,True
