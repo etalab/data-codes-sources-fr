@@ -275,6 +275,7 @@ https://github.com/1024pix/subdir-buildpack,True
 https://github.com/139bercy/cloud-appliance-ci-cd,True
 https://github.com/139bercy/cloud-appliance-composer-repo,True
 https://github.com/139bercy/cloud-appliance-nexus-repo,True
+https://github.com/139bercy/cloud-appliance-observability,False
 https://github.com/139bercy/docker-ci-tool-stack,True
 https://github.com/139bercy/first-ghpages-by-travis,True
 https://github.com/139bercy/hub,True
@@ -3642,6 +3643,7 @@ https://gitlab.inria.fr/dlp-sif/dlp-arduino,True
 https://gitlab.inria.fr/dlp-sif/sonarqube,True
 https://gitlab.inria.fr/doris/doris-android,True
 https://gitlab.inria.fr/doris/doris.gitlabpages.inria.fr,True
+https://gitlab.inria.fr/dsi_public/osc,False
 https://gitlab.inria.fr/dtk/dtk,True
 https://gitlab.inria.fr/dtk/dtk-composer,True
 https://gitlab.inria.fr/dtk/dtk-compositions,True
@@ -3975,6 +3977,7 @@ https://gitlab.inria.fr/usnb/messenger-persona,True
 https://gitlab.inria.fr/usnb/slack-persona,True
 https://gitlab.inria.fr/usnb/subscription-manager,True
 https://gitlab.inria.fr/usnb/universal-social-network-bus,True
+https://gitlab.inria.fr/verifisc/lawspec,False
 https://gitlab.inria.fr/verifisc/mlang,True
 https://gitlab.inria.fr/verifisc/verifisc,True
 https://gitlab.inria.fr/verifisc/verifisc-python,True
