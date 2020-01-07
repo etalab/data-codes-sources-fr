@@ -274,6 +274,7 @@ https://github.com/1024pix/samlify,True
 https://github.com/1024pix/subdir-buildpack,True
 https://github.com/139bercy/cloud-appliance-ci-cd,True
 https://github.com/139bercy/cloud-appliance-composer-repo,True
+https://github.com/139bercy/cloud-appliance-management,False
 https://github.com/139bercy/cloud-appliance-nexus-repo,True
 https://github.com/139bercy/cloud-appliance-observability,False
 https://github.com/139bercy/docker-ci-tool-stack,True
@@ -3797,7 +3798,7 @@ https://gitlab.inria.fr/guix-hpc/guix-kernel,True
 https://gitlab.inria.fr/guix-hpc/website,True
 https://gitlab.inria.fr/gv-open/PyLR,True
 https://gitlab.inria.fr/gv-open/pygeobuf,True
-https://gitlab.inria.fr/hiepacs/rotor,False
+https://gitlab.inria.fr/hiepacs/rotor,True
 https://gitlab.inria.fr/hsplit/hsplit,True
 https://gitlab.inria.fr/hwloc/xmls,False
 https://gitlab.inria.fr/iccv_2019/pyvideoresearch_gunnar,True
