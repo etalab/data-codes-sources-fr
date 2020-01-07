@@ -753,7 +753,7 @@ https://github.com/Ifsttar/Pypixgrid,True
 https://github.com/Ifsttar/Tempus,True
 https://github.com/Ifsttar/YATS,True
 https://github.com/Ifsttar/bil,True
-https://github.com/Ifsttar/openwarble,False
+https://github.com/Ifsttar/openwarble,True
 https://github.com/Inist-CNRS/KitGPEC,True
 https://github.com/Inist-CNRS/MetHAL,True
 https://github.com/Inist-CNRS/RefGPEC,True
@@ -1007,7 +1007,7 @@ https://github.com/MTES-MCT/parcours-r,True
 https://github.com/MTES-MCT/parcours_r_exercices,True
 https://github.com/MTES-MCT/parcours_r_module_analyse_multi_dimensionnelles,True
 https://github.com/MTES-MCT/parcours_r_module_analyse_spatiale,True
-https://github.com/MTES-MCT/parcours_r_module_applications_shiny,False
+https://github.com/MTES-MCT/parcours_r_module_applications_shiny,True
 https://github.com/MTES-MCT/parcours_r_module_big_data,True
 https://github.com/MTES-MCT/parcours_r_module_datavisualisation,True
 https://github.com/MTES-MCT/parcours_r_module_publication_rmarkdown,True
@@ -3646,7 +3646,7 @@ https://gitlab.inria.fr/dep2pict/dep2pict,True
 https://gitlab.inria.fr/dep2pict/dep2pict_doc,True
 https://gitlab.inria.fr/dep2pict/dep2pict_gui,True
 https://gitlab.inria.fr/dep2pict/libcaml_dep2pict,True
-https://gitlab.inria.fr/dexms/deploy,False
+https://gitlab.inria.fr/dexms/deploy,True
 https://gitlab.inria.fr/dexms/dexapi,False
 https://gitlab.inria.fr/dexms/dexidl,False
 https://gitlab.inria.fr/dexms/service,False
