@@ -2629,6 +2629,7 @@ https://github.com/lutece-secteur-public/lutece-ecom-plugin-tipi,True
 https://github.com/lutece-secteur-public/lutece-gru-module-elasticdata-ticketing,True
 https://github.com/lutece-secteur-public/mdph-library-mdph,True
 https://github.com/lutece-secteur-public/module-ideation-participatorybudget,False
+https://github.com/lutece-secteur-public/module-participatoryideation-participatorybudget,False
 https://github.com/lutece-secteur-public/ocr-module-genericattributes-ocr,True
 https://github.com/lutece-secteur-public/ocr-module-ocra2ia-rest,True
 https://github.com/lutece-secteur-public/ocr-plugin-a2ia,True
@@ -3633,6 +3634,11 @@ https://gitlab.inria.fr/dep2pict/dep2pict,True
 https://gitlab.inria.fr/dep2pict/dep2pict_doc,True
 https://gitlab.inria.fr/dep2pict/dep2pict_gui,True
 https://gitlab.inria.fr/dep2pict/libcaml_dep2pict,True
+https://gitlab.inria.fr/dexms/deploy,False
+https://gitlab.inria.fr/dexms/dexapi,False
+https://gitlab.inria.fr/dexms/dexidl,False
+https://gitlab.inria.fr/dexms/service,False
+https://gitlab.inria.fr/dexms/website,False
 https://gitlab.inria.fr/discovery/enoslib,True
 https://gitlab.inria.fr/discovery/keystoneauth,True
 https://gitlab.inria.fr/discovery/keystonemiddleware,True
