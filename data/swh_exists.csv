@@ -2402,6 +2402,7 @@ https://github.com/etalab/piaf-site,True
 https://github.com/etalab/piwik-covisits,True
 https://github.com/etalab/piwik_logs,True
 https://github.com/etalab/plan-ogp-2015-2017,True
+https://github.com/etalab/playlists,False
 https://github.com/etalab/plf,True
 https://github.com/etalab/prevair-demo,True
 https://github.com/etalab/prevair-experiment,True
@@ -3915,6 +3916,7 @@ https://gitlab.inria.fr/popstar/SAT-Equiv,True
 https://gitlab.inria.fr/pvignet/cadbiom,True
 https://gitlab.inria.fr/pvignet/pycryptosat,True
 https://gitlab.inria.fr/rainbow-intervals/ros_interval,True
+https://gitlab.inria.fr/runaway/runaway,False
 https://gitlab.inria.fr/sb/simbci,True
 https://gitlab.inria.fr/sca_platform/analysis,False
 https://gitlab.inria.fr/sca_platform/equipments,False
