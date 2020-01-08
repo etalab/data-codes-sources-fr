@@ -1592,6 +1592,7 @@ https://github.com/betagouv/e-controle,True
 https://github.com/betagouv/eac,True
 https://github.com/betagouv/eac-api,True
 https://github.com/betagouv/eac-scrapper,True
+https://github.com/betagouv/ecolab-transport,False
 https://github.com/betagouv/etudiant-entrepreneur,True
 https://github.com/betagouv/eva,True
 https://github.com/betagouv/eva-orchestrateur,True
@@ -3649,7 +3650,7 @@ https://gitlab.inria.fr/dep2pict/libcaml_dep2pict,True
 https://gitlab.inria.fr/dexms/deploy,True
 https://gitlab.inria.fr/dexms/dexapi,False
 https://gitlab.inria.fr/dexms/dexidl,False
-https://gitlab.inria.fr/dexms/service,False
+https://gitlab.inria.fr/dexms/service,True
 https://gitlab.inria.fr/dexms/website,False
 https://gitlab.inria.fr/discovery/enoslib,True
 https://gitlab.inria.fr/discovery/keystoneauth,True
