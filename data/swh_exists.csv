@@ -279,7 +279,9 @@ https://github.com/139bercy/cloud-appliance-nexus-repo,True
 https://github.com/139bercy/cloud-appliance-observability,True
 https://github.com/139bercy/docker-ci-tool-stack,True
 https://github.com/139bercy/first-ghpages-by-travis,True
+https://github.com/139bercy/graylog-recovery,False
 https://github.com/139bercy/hub,True
+https://github.com/139bercy/influxdb-recovery,False
 https://github.com/139bercy/opendata-quality,True
 https://github.com/ANSSI-FR/AD-control-paths,True
 https://github.com/ANSSI-FR/AD-permissions,True
@@ -2404,7 +2406,7 @@ https://github.com/etalab/piaf-site,True
 https://github.com/etalab/piwik-covisits,True
 https://github.com/etalab/piwik_logs,True
 https://github.com/etalab/plan-ogp-2015-2017,True
-https://github.com/etalab/playlists,False
+https://github.com/etalab/playlists,True
 https://github.com/etalab/plf,True
 https://github.com/etalab/prevair-demo,True
 https://github.com/etalab/prevair-experiment,True
@@ -3712,6 +3714,7 @@ https://gitlab.inria.fr/epione_ML/mcvae,True
 https://gitlab.inria.fr/evalanon/enoslib,True
 https://gitlab.inria.fr/evalanon/python-distem,True
 https://gitlab.inria.fr/evalys/big-data-hpc-g5k-expe-tools,True
+https://gitlab.inria.fr/experiments/cuttr_timing_measurements,False
 https://gitlab.inria.fr/experiments/intel-cat_experiments,True
 https://gitlab.inria.fr/expression-externals/easyloggingpp,True
 https://gitlab.inria.fr/expression-externals/eigen,True
