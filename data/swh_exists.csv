@@ -2663,6 +2663,7 @@ https://github.com/lutece-secteur-public/particip-plugin-participatorybudget,Tru
 https://github.com/lutece-secteur-public/particip-plugin-participatoryideation,True
 https://github.com/lutece-secteur-public/particip-site-participatorybudget,True
 https://github.com/lutece-secteur-public/urbanisme-plugin-plu,True
+https://github.com/medialab/AI-ecosystem-carto-data,False
 https://github.com/medialab/ANTA,True
 https://github.com/medialab/ANTA2,True
 https://github.com/medialab/EAT_datascape,True
@@ -3651,6 +3652,7 @@ https://gitlab.inria.fr/dema/mcgdb,True
 https://gitlab.inria.fr/dema/mcgdb-docker,True
 https://gitlab.inria.fr/dema/mcgdb-seqdiag,True
 https://gitlab.inria.fr/dema/mcgdb-temanejo,True
+https://gitlab.inria.fr/demosinria/demo-ci,False
 https://gitlab.inria.fr/dep2pict/dep2pict,True
 https://gitlab.inria.fr/dep2pict/dep2pict_doc,True
 https://gitlab.inria.fr/dep2pict/dep2pict_gui,True
@@ -3810,7 +3812,7 @@ https://gitlab.inria.fr/gv-open/PyLR,True
 https://gitlab.inria.fr/gv-open/pygeobuf,True
 https://gitlab.inria.fr/hiepacs/rotor,True
 https://gitlab.inria.fr/hsplit/hsplit,True
-https://gitlab.inria.fr/hwloc/xmls,False
+https://gitlab.inria.fr/hwloc/xmls,True
 https://gitlab.inria.fr/iccv_2019/pyvideoresearch_gunnar,True
 https://gitlab.inria.fr/igrida/kubigrida-charts,True
 https://gitlab.inria.fr/igrida/kubigrida-docker,True
