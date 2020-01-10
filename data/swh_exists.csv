@@ -214,6 +214,7 @@ https://git.unistra.fr/integratron/integratron.pages.unistra.fr,True
 https://git.unistra.fr/jupyter/animation,True
 https://git.unistra.fr/la-table-ronde/ecr19-t4-b,True
 https://git.unistra.fr/lo5-antony-et-florian/thegame,True
+https://git.unistra.fr/lp-komi/naojimi,False
 https://git.unistra.fr/m32_63_dsrsa/m32_63_dsrsa,True
 https://git.unistra.fr/mac19-t4-c/arct4,True
 https://git.unistra.fr/maf19-t4-c/Asimo-BOT,True
@@ -1594,7 +1595,7 @@ https://github.com/betagouv/e-controle,True
 https://github.com/betagouv/eac,True
 https://github.com/betagouv/eac-api,True
 https://github.com/betagouv/eac-scrapper,True
-https://github.com/betagouv/ecolab-transport,False
+https://github.com/betagouv/ecolab-transport,True
 https://github.com/betagouv/etudiant-entrepreneur,True
 https://github.com/betagouv/eva,True
 https://github.com/betagouv/eva-orchestrateur,True
@@ -3714,7 +3715,7 @@ https://gitlab.inria.fr/epione_ML/mcvae,True
 https://gitlab.inria.fr/evalanon/enoslib,True
 https://gitlab.inria.fr/evalanon/python-distem,True
 https://gitlab.inria.fr/evalys/big-data-hpc-g5k-expe-tools,True
-https://gitlab.inria.fr/experiments/cuttr_timing_measurements,False
+https://gitlab.inria.fr/experiments/cuttr_timing_measurements,True
 https://gitlab.inria.fr/experiments/intel-cat_experiments,True
 https://gitlab.inria.fr/expression-externals/easyloggingpp,True
 https://gitlab.inria.fr/expression-externals/eigen,True
