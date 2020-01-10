@@ -504,6 +504,8 @@ https://github.com/CNRS-DSI-Dev/user_files_restore,True
 https://github.com/CNRS-DSI-Dev/user_servervars2,True
 https://github.com/CNRS-DSI-Dev/user_set_password,True
 https://github.com/CNRS-DSI-Dev/user_share_guest,True
+https://github.com/Cour-des-comptes/open-anafi-backend,False
+https://github.com/Cour-des-comptes/open-anafi-frontend,False
 https://github.com/DGA-MI-SSI/T-Brop,True
 https://github.com/DGA-MI-SSI/YaCo,True
 https://github.com/DGAC/MattermostModule,True
@@ -1225,6 +1227,7 @@ https://github.com/SocialGouv/archifiltre-landing-page,True
 https://github.com/SocialGouv/autosuggest,True
 https://github.com/SocialGouv/bootstrap,True
 https://github.com/SocialGouv/bot,True
+https://github.com/SocialGouv/carnets,False
 https://github.com/SocialGouv/cdtn-elk,True
 https://github.com/SocialGouv/cdtn-monolog,True
 https://github.com/SocialGouv/checkup,True
@@ -2163,6 +2166,7 @@ https://github.com/entrepreneur-interet-general/tf-han,True
 https://github.com/entrepreneur-interet-general/tf-idf_poc,True
 https://github.com/entrepreneur-interet-general/the-magical-csv-merge-machine,True
 https://github.com/entrepreneur-interet-general/tutos-2018,True
+https://github.com/entrepreneur-interet-general/verslecolepourtous,False
 https://github.com/entrepreneur-interet-general/vue-python-starter-kit,True
 https://github.com/entrepreneur-interet-general/word_convertor,True
 https://github.com/eole/addon-context-linux,True
@@ -2653,6 +2657,7 @@ https://github.com/lutece-secteur-public/ogp-hackathon-site,True
 https://github.com/lutece-secteur-public/opendata-module-document-ckan,True
 https://github.com/lutece-secteur-public/opengov-plugin-lobbycal,True
 https://github.com/lutece-secteur-public/opengov-plugin-transparency,True
+https://github.com/lutece-secteur-public/particip-module-participatoryideation-participatorybudget,False
 https://github.com/lutece-secteur-public/particip-plugin-ideation,False
 https://github.com/lutece-secteur-public/particip-plugin-participatorybudget,True
 https://github.com/lutece-secteur-public/particip-plugin-participatoryideation,True
@@ -3651,7 +3656,7 @@ https://gitlab.inria.fr/dep2pict/dep2pict_doc,True
 https://gitlab.inria.fr/dep2pict/dep2pict_gui,True
 https://gitlab.inria.fr/dep2pict/libcaml_dep2pict,True
 https://gitlab.inria.fr/dexms/deploy,True
-https://gitlab.inria.fr/dexms/dexapi,False
+https://gitlab.inria.fr/dexms/dexapi,True
 https://gitlab.inria.fr/dexms/dexidl,True
 https://gitlab.inria.fr/dexms/service,True
 https://gitlab.inria.fr/dexms/website,False
@@ -4005,7 +4010,7 @@ https://gitlab.inria.fr/usnb/messenger-persona,True
 https://gitlab.inria.fr/usnb/slack-persona,True
 https://gitlab.inria.fr/usnb/subscription-manager,True
 https://gitlab.inria.fr/usnb/universal-social-network-bus,True
-https://gitlab.inria.fr/verifisc/lawspec,False
+https://gitlab.inria.fr/verifisc/lawspec,True
 https://gitlab.inria.fr/verifisc/mlang,True
 https://gitlab.inria.fr/verifisc/verifisc,True
 https://gitlab.inria.fr/verifisc/verifisc-python,True
