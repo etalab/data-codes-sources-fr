@@ -275,7 +275,7 @@ https://github.com/1024pix/samlify,True
 https://github.com/1024pix/subdir-buildpack,True
 https://github.com/139bercy/cloud-appliance-ci-cd,True
 https://github.com/139bercy/cloud-appliance-composer-repo,True
-https://github.com/139bercy/cloud-appliance-management,False
+https://github.com/139bercy/cloud-appliance-management,True
 https://github.com/139bercy/cloud-appliance-nexus-repo,True
 https://github.com/139bercy/cloud-appliance-observability,True
 https://github.com/139bercy/docker-ci-tool-stack,True
@@ -2663,7 +2663,7 @@ https://github.com/lutece-secteur-public/particip-plugin-participatorybudget,Tru
 https://github.com/lutece-secteur-public/particip-plugin-participatoryideation,True
 https://github.com/lutece-secteur-public/particip-site-participatorybudget,True
 https://github.com/lutece-secteur-public/urbanisme-plugin-plu,True
-https://github.com/medialab/AI-ecosystem-carto-data,False
+https://github.com/medialab/AI-ecosystem-carto-data,True
 https://github.com/medialab/ANTA,True
 https://github.com/medialab/ANTA2,True
 https://github.com/medialab/EAT_datascape,True
