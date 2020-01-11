@@ -1227,7 +1227,7 @@ https://github.com/SocialGouv/archifiltre-landing-page,True
 https://github.com/SocialGouv/autosuggest,True
 https://github.com/SocialGouv/bootstrap,True
 https://github.com/SocialGouv/bot,True
-https://github.com/SocialGouv/carnets,False
+https://github.com/SocialGouv/carnets,True
 https://github.com/SocialGouv/cdtn-elk,True
 https://github.com/SocialGouv/cdtn-monolog,True
 https://github.com/SocialGouv/checkup,True
@@ -2166,7 +2166,7 @@ https://github.com/entrepreneur-interet-general/tf-han,True
 https://github.com/entrepreneur-interet-general/tf-idf_poc,True
 https://github.com/entrepreneur-interet-general/the-magical-csv-merge-machine,True
 https://github.com/entrepreneur-interet-general/tutos-2018,True
-https://github.com/entrepreneur-interet-general/verslecolepourtous,False
+https://github.com/entrepreneur-interet-general/verslecolepourtous,True
 https://github.com/entrepreneur-interet-general/vue-python-starter-kit,True
 https://github.com/entrepreneur-interet-general/word_convertor,True
 https://github.com/eole/addon-context-linux,True
@@ -2657,7 +2657,7 @@ https://github.com/lutece-secteur-public/ogp-hackathon-site,True
 https://github.com/lutece-secteur-public/opendata-module-document-ckan,True
 https://github.com/lutece-secteur-public/opengov-plugin-lobbycal,True
 https://github.com/lutece-secteur-public/opengov-plugin-transparency,True
-https://github.com/lutece-secteur-public/particip-module-participatoryideation-participatorybudget,False
+https://github.com/lutece-secteur-public/particip-module-participatoryideation-participatorybudget,True
 https://github.com/lutece-secteur-public/particip-plugin-ideation,False
 https://github.com/lutece-secteur-public/particip-plugin-participatorybudget,True
 https://github.com/lutece-secteur-public/particip-plugin-participatoryideation,True
