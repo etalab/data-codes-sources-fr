@@ -3655,7 +3655,7 @@ https://gitlab.inria.fr/dema/mcgdb,True
 https://gitlab.inria.fr/dema/mcgdb-docker,True
 https://gitlab.inria.fr/dema/mcgdb-seqdiag,True
 https://gitlab.inria.fr/dema/mcgdb-temanejo,True
-https://gitlab.inria.fr/demosinria/demo-ci,False
+https://gitlab.inria.fr/demosinria/demo-ci,True
 https://gitlab.inria.fr/dep2pict/dep2pict,True
 https://gitlab.inria.fr/dep2pict/dep2pict_doc,True
 https://gitlab.inria.fr/dep2pict/dep2pict_gui,True
@@ -3838,7 +3838,7 @@ https://gitlab.inria.fr/magnet/mangoes,True
 https://gitlab.inria.fr/magnet/nada,True
 https://gitlab.inria.fr/mastertal/UE803,True
 https://gitlab.inria.fr/matherials/simol,True
-https://gitlab.inria.fr/mecsi-ext/genumsi,False
+https://gitlab.inria.fr/mecsi-ext/genumsi,True
 https://gitlab.inria.fr/memcad/clangml,True
 https://gitlab.inria.fr/memcad/clangml-transforms,True
 https://gitlab.inria.fr/memphis/nemo,True
