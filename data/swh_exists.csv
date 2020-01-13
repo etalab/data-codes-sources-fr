@@ -263,6 +263,7 @@ https://github.com/1024pix/metrics-grafana,True
 https://github.com/1024pix/metrics-router,True
 https://github.com/1024pix/nginx-lb,True
 https://github.com/1024pix/nginx-lb-dev,True
+https://github.com/1024pix/open-lab,False
 https://github.com/1024pix/pix,True
 https://github.com/1024pix/pix-editor,True
 https://github.com/1024pix/pix-help-center-theme,True
@@ -3837,6 +3838,7 @@ https://gitlab.inria.fr/magnet/mangoes,True
 https://gitlab.inria.fr/magnet/nada,True
 https://gitlab.inria.fr/mastertal/UE803,True
 https://gitlab.inria.fr/matherials/simol,True
+https://gitlab.inria.fr/mecsi-ext/genumsi,False
 https://gitlab.inria.fr/memcad/clangml,True
 https://gitlab.inria.fr/memcad/clangml-transforms,True
 https://gitlab.inria.fr/memphis/nemo,True
