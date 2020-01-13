@@ -755,7 +755,7 @@ https://github.com/Ifsttar/I-Simpa,True
 https://github.com/Ifsttar/NoiseCapture,True
 https://github.com/Ifsttar/NoiseModelling,True
 https://github.com/Ifsttar/NoisePlanet,True
-https://github.com/Ifsttar/Open-SymuVia,False
+https://github.com/Ifsttar/Open-SymuVia,True
 https://github.com/Ifsttar/Pypixgrid,True
 https://github.com/Ifsttar/Tempus,True
 https://github.com/Ifsttar/YATS,True
@@ -3663,7 +3663,7 @@ https://gitlab.inria.fr/dexms/deploy,True
 https://gitlab.inria.fr/dexms/dexapi,True
 https://gitlab.inria.fr/dexms/dexidl,True
 https://gitlab.inria.fr/dexms/service,True
-https://gitlab.inria.fr/dexms/website,False
+https://gitlab.inria.fr/dexms/website,True
 https://gitlab.inria.fr/discovery/enoslib,True
 https://gitlab.inria.fr/discovery/keystoneauth,True
 https://gitlab.inria.fr/discovery/keystonemiddleware,True
@@ -3931,7 +3931,7 @@ https://gitlab.inria.fr/popstar/SAT-Equiv,True
 https://gitlab.inria.fr/pvignet/cadbiom,True
 https://gitlab.inria.fr/pvignet/pycryptosat,True
 https://gitlab.inria.fr/rainbow-intervals/ros_interval,True
-https://gitlab.inria.fr/runaway/runaway,False
+https://gitlab.inria.fr/runaway/runaway,True
 https://gitlab.inria.fr/sb/simbci,True
 https://gitlab.inria.fr/sca_platform/analysis,False
 https://gitlab.inria.fr/sca_platform/equipments,False
