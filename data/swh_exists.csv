@@ -1299,6 +1299,7 @@ https://github.com/SocialGouv/react-departements,True
 https://github.com/SocialGouv/react-medixtor,True
 https://github.com/SocialGouv/renovate-config,True
 https://github.com/SocialGouv/sample-next-app,True
+https://github.com/SocialGouv/schema-pjm,False
 https://github.com/SocialGouv/seminaire,True
 https://github.com/SocialGouv/siret2idcc,True
 https://github.com/SocialGouv/socialgouv.github.io,True
@@ -3644,6 +3645,8 @@ https://gitlab.inria.fr/croco-ocean/croco,True
 https://gitlab.inria.fr/croco-ocean/croco_tools,True
 https://gitlab.inria.fr/crv14/benchmarks,True
 https://gitlab.inria.fr/crv14/evaluation,True
+https://gitlab.inria.fr/damas/container-image-placement,False
+https://gitlab.inria.fr/damas/nitro,False
 https://gitlab.inria.fr/dash/talks,True
 https://gitlab.inria.fr/datapol/experiments-methodology,True
 https://gitlab.inria.fr/datapol/vdanjean-backuppc-client,True
