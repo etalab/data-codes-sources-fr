@@ -218,7 +218,7 @@ https://git.unistra.fr/lp-komi/naojimi,True
 https://git.unistra.fr/m32_63_dsrsa/m32_63_dsrsa,True
 https://git.unistra.fr/mac19-t4-c/arct4,True
 https://git.unistra.fr/maf19-t4-c/Asimo-BOT,True
-https://git.unistra.fr/methal/methal-sources,False
+https://git.unistra.fr/methal/methal-sources,True
 https://git.unistra.fr/mih18-t4-a/ELECTOR2K18,True
 https://git.unistra.fr/my-awesome-group-de-tekdaiv/essaiededepotcommun,False
 https://git.unistra.fr/p4a_zj/P4a,True
@@ -228,7 +228,7 @@ https://git.unistra.fr/presUni/HAJ18-T4-D,True
 https://git.unistra.fr/projet-integrateur-grp-3/frontend,True
 https://git.unistra.fr/pub/SupportPortal-aid,True
 https://git.unistra.fr/pub/revealjs-generator,True
-https://git.unistra.fr/ruizfabo/methal-sources,False
+https://git.unistra.fr/ruizfabo/methal-sources,True
 https://git.unistra.fr/scl19-t4-a/t4-2019,True
 https://git.unistra.fr/scl19-t4-c/juthose,True
 https://git.unistra.fr/scl19-t4-e/t4,True
@@ -3601,6 +3601,7 @@ https://gitlab.inria.fr/bora-ucar/karp--sipser-reduction,True
 https://gitlab.inria.fr/bora-ucar/libspmxv,True
 https://gitlab.inria.fr/bora-ucar/matchmaker,True
 https://gitlab.inria.fr/bptraffic/star-ips,True
+https://gitlab.inria.fr/cado-nfs/cado-nfs,False
 https://gitlab.inria.fr/cedar/RDFQuotient,True
 https://gitlab.inria.fr/cedar/daggerWithSampling,True
 https://gitlab.inria.fr/cedar/excel-extractor,True
