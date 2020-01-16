@@ -203,6 +203,7 @@ https://git.unistra.fr/csrd/white_paper_form,True
 https://git.unistra.fr/datachallenge/openaccessweek2019,True
 https://git.unistra.fr/deepen/corpus-reference,False
 https://git.unistra.fr/ecr19-t4-e/hache-tag-greigns,True
+https://git.unistra.fr/enj/corpus-reference,False
 https://git.unistra.fr/filiere-d-excellence/ghc,True
 https://git.unistra.fr/gdt/back,True
 https://git.unistra.fr/gdt/front,True
@@ -284,7 +285,7 @@ https://github.com/139bercy/cloud-appliance-nexus-repo,True
 https://github.com/139bercy/cloud-appliance-observability,True
 https://github.com/139bercy/docker-ci-tool-stack,True
 https://github.com/139bercy/first-ghpages-by-travis,True
-https://github.com/139bercy/graylog-recovery,False
+https://github.com/139bercy/graylog-recovery,True
 https://github.com/139bercy/hub,True
 https://github.com/139bercy/influxdb-recovery,False
 https://github.com/139bercy/opendata-quality,True
@@ -3432,7 +3433,7 @@ https://gitlab.huma-num.fr/eurhisfirm/dfih-search,True
 https://gitlab.huma-num.fr/eurhisfirm/dfih-tools,True
 https://gitlab.huma-num.fr/eurhisfirm/dfih-ui,True
 https://gitlab.huma-num.fr/eurhisfirm/dfih-wikibase,True
-https://gitlab.huma-num.fr/eurhisfirm/documentation,False
+https://gitlab.huma-num.fr/eurhisfirm/documentation,True
 https://gitlab.huma-num.fr/eurhisfirm/eurhisfirm-sitelinks-server,True
 https://gitlab.huma-num.fr/eurhisfirm/fibo-data,True
 https://gitlab.huma-num.fr/eurhisfirm/fibo-wikibase,True
