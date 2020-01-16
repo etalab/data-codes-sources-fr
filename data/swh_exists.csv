@@ -203,7 +203,7 @@ https://git.unistra.fr/csrd/white_paper_form,True
 https://git.unistra.fr/datachallenge/openaccessweek2019,True
 https://git.unistra.fr/deepen/corpus-reference,False
 https://git.unistra.fr/ecr19-t4-e/hache-tag-greigns,True
-https://git.unistra.fr/enj/corpus-reference,False
+https://git.unistra.fr/enj/corpus-reference,True
 https://git.unistra.fr/filiere-d-excellence/ghc,True
 https://git.unistra.fr/gdt/back,True
 https://git.unistra.fr/gdt/front,True
@@ -1236,6 +1236,7 @@ https://github.com/SocialGouv/bot,True
 https://github.com/SocialGouv/carnets,True
 https://github.com/SocialGouv/cdtn-elk,True
 https://github.com/SocialGouv/cdtn-monolog,True
+https://github.com/SocialGouv/cdtn-run,False
 https://github.com/SocialGouv/checkup,True
 https://github.com/SocialGouv/clone-moi-sur-github,True
 https://github.com/SocialGouv/code-du-travail-api,True
@@ -3685,6 +3686,7 @@ https://gitlab.inria.fr/dlp-sif/dlp-arduino,True
 https://gitlab.inria.fr/dlp-sif/sonarqube,True
 https://gitlab.inria.fr/doris/doris-android,True
 https://gitlab.inria.fr/doris/doris.gitlabpages.inria.fr,True
+https://gitlab.inria.fr/dsi_public/depots_officiels_inria_gitlab,False
 https://gitlab.inria.fr/dsi_public/osc,True
 https://gitlab.inria.fr/dtk/dtk,True
 https://gitlab.inria.fr/dtk/dtk-composer,True
