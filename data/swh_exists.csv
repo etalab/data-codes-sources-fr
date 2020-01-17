@@ -1720,6 +1720,7 @@ https://github.com/betagouv/postgresql-openshift-docker,True
 https://github.com/betagouv/preuve-covoiturage,True
 https://github.com/betagouv/preuve-covoiturage-doc,True
 https://github.com/betagouv/publicodes,True
+https://github.com/betagouv/qrcode-svg,False
 https://github.com/betagouv/quotient-familial,True
 https://github.com/betagouv/rdv-solidarites.fr,True
 https://github.com/betagouv/react-elasticsearch,True
@@ -2105,6 +2106,7 @@ https://github.com/entrepreneur-interet-general/Merge-Machine,True
 https://github.com/entrepreneur-interet-general/OpenScraper,True
 https://github.com/entrepreneur-interet-general/PST2Win,True
 https://github.com/entrepreneur-interet-general/ProxiRH,True
+https://github.com/entrepreneur-interet-general/RembourSante,False
 https://github.com/entrepreneur-interet-general/Ressources-DIG,True
 https://github.com/entrepreneur-interet-general/Shom.H3,True
 https://github.com/entrepreneur-interet-general/Shom.S57,True
@@ -3553,6 +3555,7 @@ https://gitlab.inria.fr/WellInverter/WellInverter_Standalone_Linux,True
 https://gitlab.inria.fr/WellInverter/WellInverter_Standalone_MacOS,True
 https://gitlab.inria.fr/WellInverter/WellInverter_Standalone_Nuvla,True
 https://gitlab.inria.fr/WellInverter/WellInverter_Standalone_Windows,True
+https://gitlab.inria.fr/adjoint-computation/H-Revolve,False
 https://gitlab.inria.fr/adjoint-computation/disk-revolve-public,True
 https://gitlab.inria.fr/aevol/aevol,True
 https://gitlab.inria.fr/agm/axl,True
@@ -3699,7 +3702,7 @@ https://gitlab.inria.fr/dtk/dtk-core,True
 https://gitlab.inria.fr/dtk/dtk-core-python,True
 https://gitlab.inria.fr/dtk/dtk-cross,True
 https://gitlab.inria.fr/dtk/dtk-discrete-geometry,True
-https://gitlab.inria.fr/dtk/dtk-distributed,False
+https://gitlab.inria.fr/dtk/dtk-distributed,True
 https://gitlab.inria.fr/dtk/dtk-doc,True
 https://gitlab.inria.fr/dtk/dtk-fem,True
 https://gitlab.inria.fr/dtk/dtk-fonts,True
