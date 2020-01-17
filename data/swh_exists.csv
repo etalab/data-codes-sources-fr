@@ -51,6 +51,7 @@ https://forgemia.inra.fr/genotoul-bioinfo/tSNPannot,True
 https://forgemia.inra.fr/get-it/nf-assemblshortread,True
 https://forgemia.inra.fr/get-it/nf-taxoaffiliation,True
 https://forgemia.inra.fr/metexplore/MetExploreViz,True
+https://forgemia.inra.fr/metexplore/met4j,False
 https://forgemia.inra.fr/metexplore/metabolomics2network,True
 https://forgemia.inra.fr/olivier.bonnefon/mse,True
 https://forgemia.inra.fr/pappso/libodsstream,True
@@ -287,7 +288,7 @@ https://github.com/139bercy/docker-ci-tool-stack,True
 https://github.com/139bercy/first-ghpages-by-travis,True
 https://github.com/139bercy/graylog-recovery,True
 https://github.com/139bercy/hub,True
-https://github.com/139bercy/influxdb-recovery,False
+https://github.com/139bercy/influxdb-recovery,True
 https://github.com/139bercy/opendata-quality,True
 https://github.com/ANSSI-FR/AD-control-paths,True
 https://github.com/ANSSI-FR/AD-permissions,True
@@ -4083,6 +4084,7 @@ https://gitlab.irstea.fr/pomosed/naiades,True
 https://gitlab.irstea.fr/pomosed/rfunctions,False
 https://gitlab.irstea.fr/raspberry-pi/multi-sense,True
 https://gitlab.irstea.fr/raspberry-pi/sense-hat,True
+https://gitlab.irstea.fr/reversaal/wetlands_xray_tomopgraphy,False
 https://gitlab.irstea.fr/support/wiki,True
 https://gitlab.irstea.fr/vino/Vino,True
 https://gitlab.ow2.org/lemonldap-ng/lemonldap-ng,True
