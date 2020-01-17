@@ -3678,6 +3678,7 @@ https://gitlab.inria.fr/dexms/dexapi,True
 https://gitlab.inria.fr/dexms/dexidl,True
 https://gitlab.inria.fr/dexms/service,True
 https://gitlab.inria.fr/dexms/website,True
+https://gitlab.inria.fr/dhai/SimpleAnnotationServer,False
 https://gitlab.inria.fr/discovery/enoslib,True
 https://gitlab.inria.fr/discovery/keystoneauth,True
 https://gitlab.inria.fr/discovery/keystonemiddleware,True
