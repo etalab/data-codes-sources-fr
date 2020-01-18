@@ -51,7 +51,7 @@ https://forgemia.inra.fr/genotoul-bioinfo/tSNPannot,True
 https://forgemia.inra.fr/get-it/nf-assemblshortread,True
 https://forgemia.inra.fr/get-it/nf-taxoaffiliation,True
 https://forgemia.inra.fr/metexplore/MetExploreViz,True
-https://forgemia.inra.fr/metexplore/met4j,False
+https://forgemia.inra.fr/metexplore/met4j,True
 https://forgemia.inra.fr/metexplore/metabolomics2network,True
 https://forgemia.inra.fr/olivier.bonnefon/mse,True
 https://forgemia.inra.fr/pappso/libodsstream,True
@@ -1721,7 +1721,7 @@ https://github.com/betagouv/postgresql-openshift-docker,True
 https://github.com/betagouv/preuve-covoiturage,True
 https://github.com/betagouv/preuve-covoiturage-doc,True
 https://github.com/betagouv/publicodes,True
-https://github.com/betagouv/qrcode-svg,False
+https://github.com/betagouv/qrcode-svg,True
 https://github.com/betagouv/quotient-familial,True
 https://github.com/betagouv/rdv-solidarites.fr,True
 https://github.com/betagouv/react-elasticsearch,True
