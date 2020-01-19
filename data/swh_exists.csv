@@ -3692,7 +3692,7 @@ https://gitlab.inria.fr/dlp-sif/dlp-arduino,True
 https://gitlab.inria.fr/dlp-sif/sonarqube,True
 https://gitlab.inria.fr/doris/doris-android,True
 https://gitlab.inria.fr/doris/doris.gitlabpages.inria.fr,True
-https://gitlab.inria.fr/dsi_public/depots_officiels_inria_gitlab,False
+https://gitlab.inria.fr/dsi_public/depots_officiels_inria_gitlab,True
 https://gitlab.inria.fr/dsi_public/osc,True
 https://gitlab.inria.fr/dtk/dtk,True
 https://gitlab.inria.fr/dtk/dtk-composer,True
@@ -4084,7 +4084,7 @@ https://gitlab.irstea.fr/pomosed/naiades,True
 https://gitlab.irstea.fr/pomosed/rfunctions,False
 https://gitlab.irstea.fr/raspberry-pi/multi-sense,True
 https://gitlab.irstea.fr/raspberry-pi/sense-hat,True
-https://gitlab.irstea.fr/reversaal/wetlands_xray_tomopgraphy,False
+https://gitlab.irstea.fr/reversaal/wetlands_xray_tomopgraphy,True
 https://gitlab.irstea.fr/support/wiki,True
 https://gitlab.irstea.fr/vino/Vino,True
 https://gitlab.ow2.org/lemonldap-ng/lemonldap-ng,True
