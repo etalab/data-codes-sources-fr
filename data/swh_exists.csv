@@ -1225,7 +1225,7 @@ https://github.com/SimPLU3D/simplu3D-tutorial,True
 https://github.com/SimPLU3D/simplu3D-workflow,True
 https://github.com/SimPLU3D/simplushp2pgsql,True
 https://github.com/SocialGouv/TextStyle,True
-https://github.com/SocialGouv/TextStyle-script,False
+https://github.com/SocialGouv/TextStyle-script,True
 https://github.com/SocialGouv/UDD,True
 https://github.com/SocialGouv/annuaire-mjpm,True
 https://github.com/SocialGouv/ansible-kubeadm-cluster,True
@@ -1486,6 +1486,7 @@ https://github.com/atlanmod/DynamicAnalyser,True
 https://github.com/atlanmod/EMFTVM-D,True
 https://github.com/atlanmod/Ecore2ATLCopier,True
 https://github.com/atlanmod/EnergyModel,True
+https://github.com/atlanmod/FluidTL,True
 https://github.com/atlanmod/LazyOcl_StateMachineExample,True
 https://github.com/atlanmod/MDE4RTS,True
 https://github.com/atlanmod/Mogwai,True
