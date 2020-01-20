@@ -25,11 +25,11 @@ def save_data(data, mode):
     with open(filename(mode, "csv"), "w") as f:
         w = csv.writer(f)
         w.writerow(data.keys())
-        w.writerows(zip(*data.values()))
+        w.writerows(set(zip(*data.values())))
 
     # Save in JSON
     with open(filename(mode, "json"), "w") as f:
-        data = [dict(zip(data.keys(), i)) for i in zip(*data.values())]
+        data = [dict(zip(data.keys(), i)) for i in set(zip(*data.values()))]
         if mode == "org" and len(data) == 1:
             data = data[0]
         json.dump(data, f, ensure_ascii=False)
