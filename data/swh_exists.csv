@@ -1225,6 +1225,7 @@ https://github.com/SimPLU3D/simplu3D-tutorial,True
 https://github.com/SimPLU3D/simplu3D-workflow,True
 https://github.com/SimPLU3D/simplushp2pgsql,True
 https://github.com/SocialGouv/TextStyle,True
+https://github.com/SocialGouv/TextStyle-script,False
 https://github.com/SocialGouv/UDD,True
 https://github.com/SocialGouv/annuaire-mjpm,True
 https://github.com/SocialGouv/ansible-kubeadm-cluster,True
@@ -1304,7 +1305,7 @@ https://github.com/SocialGouv/react-departements,True
 https://github.com/SocialGouv/react-medixtor,True
 https://github.com/SocialGouv/renovate-config,True
 https://github.com/SocialGouv/sample-next-app,True
-https://github.com/SocialGouv/schema-pjm,False
+https://github.com/SocialGouv/schema-pjm,True
 https://github.com/SocialGouv/seminaire,True
 https://github.com/SocialGouv/siret2idcc,True
 https://github.com/SocialGouv/socialgouv.github.io,True
@@ -2291,6 +2292,7 @@ https://github.com/etalab/cada.data.gouv.fr,True
 https://github.com/etalab/cada_explore,True
 https://github.com/etalab/cadastre,True
 https://github.com/etalab/cadastre-bundler-api,True
+https://github.com/etalab/cadastre-mvt,False
 https://github.com/etalab/cadastre.data.gouv.fr,True
 https://github.com/etalab/calculette-impots-exemples,True
 https://github.com/etalab/calculette-impots-m-language-parser,True
@@ -3556,7 +3558,7 @@ https://gitlab.inria.fr/WellInverter/WellInverter_Standalone_Linux,True
 https://gitlab.inria.fr/WellInverter/WellInverter_Standalone_MacOS,True
 https://gitlab.inria.fr/WellInverter/WellInverter_Standalone_Nuvla,True
 https://gitlab.inria.fr/WellInverter/WellInverter_Standalone_Windows,True
-https://gitlab.inria.fr/adjoint-computation/H-Revolve,False
+https://gitlab.inria.fr/adjoint-computation/H-Revolve,True
 https://gitlab.inria.fr/adjoint-computation/disk-revolve-public,True
 https://gitlab.inria.fr/aevol/aevol,True
 https://gitlab.inria.fr/agm/axl,True
