@@ -24,7 +24,7 @@ Les données sont décrites à l'aide de fichiers [Table Schema](https://frictio
 ### Métadonnées d'un répertoire Git
 
 #### Modèle de données
-- Clé primaire : `repertoire_url`
+- Clé primaire : `repertoire_url`, `organisation_nom`
 
 |Nom|Type|Description|Exemple|Propriétés|
 |-|-|-|-|-|

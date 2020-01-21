@@ -2,7 +2,7 @@
    "title":"Métadonnées d'un répertoire Git",
    "author":"Antoine Augusti pour Etalab <antoine.augusti@data.gouv.fr>",
    "created":"2018-12-31",
-   "updated":"2019-10-04",
+   "updated":"2020-01-21",
    "homepage":"https://github.com/etalab/data-codes-sources-fr",
    "fields":[
       {
@@ -186,5 +186,8 @@
          }
       }
    ],
-   "primaryKey":"repertoire_url"
+   "primaryKey": [
+      "repertoire_url",
+      "organisation_nom"
+   ]
 }
