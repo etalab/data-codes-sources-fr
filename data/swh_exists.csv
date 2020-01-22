@@ -31,6 +31,7 @@ https://forgemia.inra.fr/DecisionBleDur/DecisionBleDur,True
 https://forgemia.inra.fr/GET_TRiX/matrix,True
 https://forgemia.inra.fr/QTL/spell-qtl,True
 https://forgemia.inra.fr/adminforgemia/doc-public,True
+https://forgemia.inra.fr/bibliome/bionlp-st-py,False
 https://forgemia.inra.fr/bios4biol/bioinfo-utils,True
 https://forgemia.inra.fr/bios4biol/workflows,True
 https://forgemia.inra.fr/chemhousebas/vsn,True
@@ -3446,9 +3447,11 @@ https://gitlab.huma-num.fr/eurhisfirm/dfih-ui,True
 https://gitlab.huma-num.fr/eurhisfirm/dfih-wikibase,True
 https://gitlab.huma-num.fr/eurhisfirm/documentation,True
 https://gitlab.huma-num.fr/eurhisfirm/eurhisfirm-sitelinks-server,True
+https://gitlab.huma-num.fr/eurhisfirm/eurhisfirm-wikibase-docker,False
 https://gitlab.huma-num.fr/eurhisfirm/fibo-data,True
 https://gitlab.huma-num.fr/eurhisfirm/fibo-wikibase,True
 https://gitlab.huma-num.fr/eurhisfirm/gleif-wikibase,True
+https://gitlab.huma-num.fr/eurhisfirm/scob-wikibase,False
 https://gitlab.huma-num.fr/irihs/flaubertexport,True
 https://gitlab.huma-num.fr/irihs/genetictables,True
 https://gitlab.huma-num.fr/irihs/genetictheme,True
