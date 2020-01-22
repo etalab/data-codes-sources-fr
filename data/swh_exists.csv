@@ -1271,6 +1271,7 @@ https://github.com/SocialGouv/eMJPM-doc,True
 https://github.com/SocialGouv/eMJPM-homepage,True
 https://github.com/SocialGouv/egapro,True
 https://github.com/SocialGouv/emjpm,True
+https://github.com/SocialGouv/emjpm-api-doc,False
 https://github.com/SocialGouv/emjpm-design,True
 https://github.com/SocialGouv/emjpm-design-system,True
 https://github.com/SocialGouv/emjpm-migration-k8s,True
@@ -3956,6 +3957,7 @@ https://gitlab.inria.fr/popstar/SAT-Equiv,True
 https://gitlab.inria.fr/pvignet/cadbiom,True
 https://gitlab.inria.fr/pvignet/pycryptosat,True
 https://gitlab.inria.fr/rainbow-intervals/ros_interval,True
+https://gitlab.inria.fr/runaway/mixup,False
 https://gitlab.inria.fr/runaway/runaway,True
 https://gitlab.inria.fr/sb/simbci,True
 https://gitlab.inria.fr/sca_platform/analysis,False
