@@ -2294,7 +2294,7 @@ https://github.com/etalab/cada.data.gouv.fr,True
 https://github.com/etalab/cada_explore,True
 https://github.com/etalab/cadastre,True
 https://github.com/etalab/cadastre-bundler-api,True
-https://github.com/etalab/cadastre-mvt,False
+https://github.com/etalab/cadastre-mvt,True
 https://github.com/etalab/cadastre.data.gouv.fr,True
 https://github.com/etalab/calculette-impots-exemples,True
 https://github.com/etalab/calculette-impots-m-language-parser,True
@@ -3987,6 +3987,7 @@ https://gitlab.inria.fr/serpico/ndsafir_bin,True
 https://gitlab.inria.fr/serpico/owf_bin,True
 https://gitlab.inria.fr/serpico/serpico-notebooks,True
 https://gitlab.inria.fr/serpico/thot_bin,True
+https://gitlab.inria.fr/sesame/platform,False
 https://gitlab.inria.fr/simgrid/simgrid,True
 https://gitlab.inria.fr/siteadmin/doc,True
 https://gitlab.inria.fr/siteadmin/gitlab_import_ildap_group_members,True
