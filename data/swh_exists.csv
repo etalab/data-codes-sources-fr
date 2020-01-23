@@ -1272,7 +1272,7 @@ https://github.com/SocialGouv/eMJPM-doc,True
 https://github.com/SocialGouv/eMJPM-homepage,True
 https://github.com/SocialGouv/egapro,True
 https://github.com/SocialGouv/emjpm,True
-https://github.com/SocialGouv/emjpm-api-doc,False
+https://github.com/SocialGouv/emjpm-api-doc,True
 https://github.com/SocialGouv/emjpm-design,True
 https://github.com/SocialGouv/emjpm-design-system,True
 https://github.com/SocialGouv/emjpm-migration-k8s,True
@@ -2977,6 +2977,7 @@ https://github.com/openfisca/openfisca-france,True
 https://github.com/openfisca/openfisca-france-api,True
 https://github.com/openfisca/openfisca-france-data,True
 https://github.com/openfisca/openfisca-france-extension-revenu-de-base,True
+https://github.com/openfisca/openfisca-france-fiscalite-miniere,False
 https://github.com/openfisca/openfisca-france-indirect-taxation,True
 https://github.com/openfisca/openfisca-france-local,True
 https://github.com/openfisca/openfisca-france-offline,True
