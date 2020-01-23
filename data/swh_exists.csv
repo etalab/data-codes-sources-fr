@@ -972,6 +972,7 @@ https://github.com/LemonLDAPNG/node-fastcgi-authz-client,True
 https://github.com/LemonLDAPNG/node-lemonldap-ng-handler,True
 https://github.com/LemonLDAPNG/pts2019-llng-workshop,True
 https://github.com/LemonLDAPNG/puppet-lemonldap-ng,True
+https://github.com/MTES-MCT/access4all,False
 https://github.com/MTES-MCT/action-bidonvilles,True
 https://github.com/MTES-MCT/action-bidonvilles-api,True
 https://github.com/MTES-MCT/adock-ansible,True
@@ -2977,7 +2978,7 @@ https://github.com/openfisca/openfisca-france,True
 https://github.com/openfisca/openfisca-france-api,True
 https://github.com/openfisca/openfisca-france-data,True
 https://github.com/openfisca/openfisca-france-extension-revenu-de-base,True
-https://github.com/openfisca/openfisca-france-fiscalite-miniere,False
+https://github.com/openfisca/openfisca-france-fiscalite-miniere,True
 https://github.com/openfisca/openfisca-france-indirect-taxation,True
 https://github.com/openfisca/openfisca-france-local,True
 https://github.com/openfisca/openfisca-france-offline,True
@@ -4051,6 +4052,7 @@ https://gitlab.inria.fr/verifisc/mlang,True
 https://gitlab.inria.fr/verifisc/verifisc,True
 https://gitlab.inria.fr/verifisc/verifisc-python,True
 https://gitlab.inria.fr/vidjil/mixcr,True
+https://gitlab.inria.fr/vidjil/mkdocs-gitlab-plugin,False
 https://gitlab.inria.fr/vidjil/sdsl-lite,True
 https://gitlab.inria.fr/vidjil/tl-index,True
 https://gitlab.inria.fr/vidjil/vidjil,True
