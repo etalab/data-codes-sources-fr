@@ -69,7 +69,7 @@ https://forgemia.inra.fr/record/RecordingTools,True
 https://forgemia.inra.fr/record/agrodynaland,True
 https://forgemia.inra.fr/record/azodyn,True
 https://forgemia.inra.fr/record/pydynamics,True
-https://forgemia.inra.fr/record/recordregistry,False
+https://forgemia.inra.fr/record/recordregistry,True
 https://forgemia.inra.fr/record/recordweb,True
 https://forgemia.inra.fr/record/sunflo,True
 https://forgemia.inra.fr/record/workbench4record,True
@@ -1390,6 +1390,7 @@ https://github.com/StartupsPoleEmploi/Avril-Frontend,True
 https://github.com/StartupsPoleEmploi/Templates-Mailjet,True
 https://github.com/StartupsPoleEmploi/anotea,True
 https://github.com/StartupsPoleEmploi/avril,True
+https://github.com/StartupsPoleEmploi/avril-livret1,False
 https://github.com/StartupsPoleEmploi/baggy,True
 https://github.com/StartupsPoleEmploi/clara,True
 https://github.com/StartupsPoleEmploi/elk-cluster,True
