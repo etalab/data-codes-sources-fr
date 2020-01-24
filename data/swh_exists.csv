@@ -972,7 +972,7 @@ https://github.com/LemonLDAPNG/node-fastcgi-authz-client,True
 https://github.com/LemonLDAPNG/node-lemonldap-ng-handler,True
 https://github.com/LemonLDAPNG/pts2019-llng-workshop,True
 https://github.com/LemonLDAPNG/puppet-lemonldap-ng,True
-https://github.com/MTES-MCT/access4all,False
+https://github.com/MTES-MCT/access4all,True
 https://github.com/MTES-MCT/action-bidonvilles,True
 https://github.com/MTES-MCT/action-bidonvilles-api,True
 https://github.com/MTES-MCT/adock-ansible,True
@@ -3454,7 +3454,7 @@ https://gitlab.huma-num.fr/eurhisfirm/eurhisfirm-wikibase-docker,False
 https://gitlab.huma-num.fr/eurhisfirm/fibo-data,True
 https://gitlab.huma-num.fr/eurhisfirm/fibo-wikibase,True
 https://gitlab.huma-num.fr/eurhisfirm/gleif-wikibase,True
-https://gitlab.huma-num.fr/eurhisfirm/scob-wikibase,False
+https://gitlab.huma-num.fr/eurhisfirm/scob-wikibase,True
 https://gitlab.huma-num.fr/irihs/flaubertexport,True
 https://gitlab.huma-num.fr/irihs/genetictables,True
 https://gitlab.huma-num.fr/irihs/genetictheme,True
