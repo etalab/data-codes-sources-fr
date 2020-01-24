@@ -3997,7 +3997,7 @@ https://gitlab.inria.fr/serpico/ndsafir_bin,True
 https://gitlab.inria.fr/serpico/owf_bin,True
 https://gitlab.inria.fr/serpico/serpico-notebooks,True
 https://gitlab.inria.fr/serpico/thot_bin,True
-https://gitlab.inria.fr/sesame/platform,False
+https://gitlab.inria.fr/sesame/platform,True
 https://gitlab.inria.fr/simgrid/simgrid,True
 https://gitlab.inria.fr/siteadmin/doc,True
 https://gitlab.inria.fr/siteadmin/gitlab_import_ildap_group_members,True
@@ -4037,6 +4037,7 @@ https://gitlab.inria.fr/tranus/TRANUS_Interfaces,True
 https://gitlab.inria.fr/tranus/Tranus_Python,True
 https://gitlab.inria.fr/tranus/Tranus_QGIS_Plugins,True
 https://gitlab.inria.fr/tyrex-public/mu-RA,True
+https://gitlab.inria.fr/ua/HighlyOscillatoryProblems.jl,False
 https://gitlab.inria.fr/usnb/api-gateway,True
 https://gitlab.inria.fr/usnb/bus-experiment,True
 https://gitlab.inria.fr/usnb/email-bc,True
