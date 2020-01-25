@@ -31,7 +31,7 @@ https://forgemia.inra.fr/DecisionBleDur/DecisionBleDur,True
 https://forgemia.inra.fr/GET_TRiX/matrix,True
 https://forgemia.inra.fr/QTL/spell-qtl,True
 https://forgemia.inra.fr/adminforgemia/doc-public,True
-https://forgemia.inra.fr/bibliome/bionlp-st-py,False
+https://forgemia.inra.fr/bibliome/bionlp-st-py,True
 https://forgemia.inra.fr/bios4biol/bioinfo-utils,True
 https://forgemia.inra.fr/bios4biol/workflows,True
 https://forgemia.inra.fr/chemhousebas/vsn,True
@@ -946,7 +946,7 @@ https://github.com/LINCnil/CNIL-Cookies-List,True
 https://github.com/LINCnil/Cabanon,True
 https://github.com/LINCnil/Cookie-consent_Google-Analytics,True
 https://github.com/LINCnil/CookieViz,True
-https://github.com/LINCnil/Guide-RGPD-du-developpeur,False
+https://github.com/LINCnil/Guide-RGPD-du-developpeur,True
 https://github.com/LINCnil/Hally-L-oracle-du-net,True
 https://github.com/LINCnil/Phrase2passe,True
 https://github.com/LINCnil/RGPD,True
