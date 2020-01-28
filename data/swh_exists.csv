@@ -2628,6 +2628,7 @@ https://github.com/lutece-secteur-public/gru-module-mydashboard-identity-pocgra,
 https://github.com/lutece-secteur-public/gru-module-mydashboard-myaccount,True
 https://github.com/lutece-secteur-public/gru-module-notifygru-appointment,True
 https://github.com/lutece-secteur-public/gru-module-notifygru-directory,True
+https://github.com/lutece-secteur-public/gru-module-notifygru-extendcomment,False
 https://github.com/lutece-secteur-public/gru-module-notifygru-forms,True
 https://github.com/lutece-secteur-public/gru-module-notifygru-mapping-manager,True
 https://github.com/lutece-secteur-public/gru-module-notifygru-ticketing,True
@@ -3982,6 +3983,7 @@ https://gitlab.inria.fr/sed-bso/sonarqube,True
 https://gitlab.inria.fr/sed-lille/game-of-codes-utils,True
 https://gitlab.inria.fr/sed-paris/codingdojo,False
 https://gitlab.inria.fr/sed-paris/developer-meetups,True
+https://gitlab.inria.fr/sed-paris/welcome,False
 https://gitlab.inria.fr/sed-rennes/VR-Three.js,True
 https://gitlab.inria.fr/sed-rennes/gforge-to-gitlab-scripts,True
 https://gitlab.inria.fr/sed-rennes/sharelatex-website,True

@@ -1,297 +1,327 @@
 login,description,nom,organisation_url,avatar_url,site_web,adresse,email,est_verifiee,nombre_repertoires,date_creation,plateforme
+LAB-MI,Incubateur du ministère de l'intérieur,LAB MI,https://github.com/LAB-MI,https://avatars2.githubusercontent.com/u/40861536?v=4,,,beta@interieur.gouv.fr,False,4,2018-07-05T13:20:05Z,GitHub
+T432-SAV18-T4-A,,T432_SAV18_T4_A,https://git.unistra.fr/groups/T432-SAV18-T4-A,,,,,,1,,GitLab
+parallel-replica,"Software and resources concerning various implementations of the Parallel Replica algorithm, developed at the ENPC, CERMICS, and at INRIA Paris, MATHERIALS team.",parallel-replica,https://gitlab.inria.fr/groups/parallel-replica,https://gitlab.inria.fr/uploads/-/system/group/avatar/4043/7-ecole_ponts_rvb_transparent-229x300.jpg,,,,,2,,GitLab
+kameleon,Kameleon appliance (system image or archive) generator.,kameleon,https://gitlab.inria.fr/groups/kameleon,,,,,,1,,GitLab
+damas,DAta Management At Scale.,DAMAS,https://gitlab.inria.fr/groups/damas,https://gitlab.inria.fr/uploads/-/system/group/avatar/10623/Screenshot_2020-01-14_at_15.04.44.png,,,,,2,,GitLab
+T432_KRP5_T3_A,,T432_KRP5_T3_A,https://git.unistra.fr/groups/T432_KRP5_T3_A,,,,,,1,,GitLab
+openskecth,"The code related to ""OpenSketch: A Richly-Annotated Dataset of Product Design Sketches"" paper.",OpenSkecth,https://gitlab.inria.fr/groups/openskecth,,,,,,6,,GitLab
 math-comp,Git mirror for the math-comp organization for CI purposes,math-comp,https://gitlab.inria.fr/groups/math-comp,,,,,,0,,GitLab
-mac19-t4-c,Oui,MAC19-T4-C,https://git.unistra.fr/groups/mac19-t4-c,https://git.unistra.fr/uploads/-/system/group/avatar/2570/gnome.jpg,,,,,1,,GitLab
-OpenEdition,Plateforme de publication en sciences humaines et sociales,OpenEdition,https://github.com/OpenEdition,https://avatars0.githubusercontent.com/u/6151903?v=4,https://www.openedition.org,,,False,20,2013-12-10T13:09:15Z,GitHub
-piy,M1 piy ct,piy,https://gitlab.inria.fr/groups/piy,,,,,,1,,GitLab
-grew,This repository contains code and resources relative to the grew software.,grew,https://gitlab.inria.fr/groups/grew,,,,,,17,,GitLab
-sed-paris,Service d’expérimentation et de développement d’Inria de Paris,sed-paris,https://gitlab.inria.fr/groups/sed-paris,,,,,,2,,GitLab
-sympa-community,The Sympa community.,The Sympa Community,https://github.com/sympa-community,https://avatars0.githubusercontent.com/u/25160739?v=4,https://www.sympa.org,https://www.sympa.org,sympa-developpers@listes.renater.fr,False,21,2017-01-16T21:12:00Z,GitHub
-magnet,,Magnet,https://gitlab.inria.fr/groups/magnet,,,,,,2,,GitLab
-mse_group,,mse_group,https://forgemia.inra.fr/groups/mse_group,,,,,,0,,GitLab
-regular-pv,"Regular program verification related projects, papers and presentations.",Regular program verification,https://gitlab.inria.fr/groups/regular-pv,,,,,,0,,GitLab
-strasbourg,,Strasbourg,https://github.com/strasbourg,https://avatars1.githubusercontent.com/u/3673357?v=4,http://strasbourg-data.fr/,"Strasbourg, France",,False,7,2013-02-22T20:56:42Z,GitHub
+botanique23,,botanique23,https://git.unistra.fr/groups/botanique23,,,,,,1,,GitLab
+T432_SPA18_T3_B,Projet T3,T432_SPA18_T3_B,https://git.unistra.fr/groups/T432_SPA18_T3_B,,,,,,1,,GitLab
 evalys,,evalys,https://gitlab.inria.fr/groups/evalys,,,,,,1,,GitLab
+InseeFr,,,https://github.com/InseeFr,https://avatars1.githubusercontent.com/u/11526805?v=4,,,,False,22,2015-03-17T19:10:01Z,GitHub
+M32_18-42-AES,,M32_18-42-AES,https://git.unistra.fr/groups/M32_18-42-AES,,,,,,0,,GitLab
+aviz,"Projects released or developed by the Aviz team-project https://www.aviz.fr/
+",aviz,https://gitlab.inria.fr/groups/aviz,,,,,,1,,GitLab
+NuitDeLinfo_OPA,,NuitDeLinfo_OPA,https://git.unistra.fr/groups/NuitDeLinfo_OPA,,,,,,1,,GitLab
+experiments,Experiments scripts and results,Experiments,https://gitlab.inria.fr/groups/experiments,,,,,,2,,GitLab
+sed-paris,Service d’expérimentation et de développement d’Inria de Paris,sed-paris,https://gitlab.inria.fr/groups/sed-paris,,,,,,3,,GitLab
+PaMPA,"PaMPA is a parallel library for handling, redistributing and remeshing unstructured meshes on distributed-memory architectures, using any sequential remesher.",PaMPA,https://gitlab.inria.fr/groups/PaMPA,https://gitlab.inria.fr/uploads/-/system/group/avatar/1801/logo_gitlab_reduit.png,,,,,1,,GitLab
+elan,Équipe Littératures et Arts Numériques de Litt&Arts (UMR 5316),ELAN,https://gitlab.huma-num.fr/groups/elan,https://gitlab.huma-num.fr/uploads/-/system/group/avatar/112/logo_Litt-et-Arts.png,,,,,0,,GitLab
+record-open-archives,Open Access repositories for old projects involving the Record Team,Record Open Archives,https://forgemia.inra.fr/groups/record-open-archives,,,,,,2,,GitLab
+EDS-APHP,Entrepôt de Données de Santé - French Healthcare Data Warehouse - APHP,EDS-APHP,https://github.com/EDS-APHP,https://avatars1.githubusercontent.com/u/38686630?v=4,,,,False,26,2018-04-24T08:57:48Z,GitHub
+nakala-tools,Ce groupe rassemble différents projets de développement autour de NAKALA,NAKALA-TOOLS,https://gitlab.huma-num.fr/groups/nakala-tools,https://gitlab.huma-num.fr/uploads/-/system/group/avatar/219/nakala-tools.png,,,,,2,,GitLab
+M32_18-61-DES,,M32_18-61-DES,https://git.unistra.fr/groups/M32_18-61-DES,,,,,,1,,GitLab
+openmp,"OpenMP runtime developments at INRIA RA
+* libkomp: extensions to the Intel OpenMP runtime libOMP  used by Intel compilers and CLANG
+* kaapi: past library for fine grain data flow task programming with various APIs (C, C++, Fortran) 
+",openmp,https://gitlab.inria.fr/groups/openmp,,,,,,7,,GitLab
+betagouv,Incubateur de Services Numériques de la Direction Interministérielle du Numérique et du Système d'Information et de Communication de l'État,beta.gouv.fr,https://github.com/betagouv,https://avatars0.githubusercontent.com/u/7874148?v=4,https://beta.gouv.fr,France,,True,227,2014-06-12T19:55:44Z,GitHub
+ecrinum,Chaire de recherche du Canada sur les écritures numériques,ecrinum,https://gitlab.huma-num.fr/groups/ecrinum,https://gitlab.huma-num.fr/uploads/-/system/group/avatar/328/ecrinum.png,,,,,0,,GitLab
+fabnumdef,,Fabrique numérique,https://github.com/fabnumdef,https://avatars2.githubusercontent.com/u/45469312?v=4,,,,False,10,2018-11-29T20:30:03Z,GitHub
+mimoza,Mimoza combines the model generalization method with the zooming user interface (ZUI) paradigm and allows a human expert to explore metabolic network models in a semantically zoomable manner.,mimoza,https://gitlab.inria.fr/groups/mimoza,,,,,,1,,GitLab
+uhuit,,uhuit,https://git.unistra.fr/groups/uhuit,,,,,,1,,GitLab
+Inist-CNRS,Open source developments at Institute for scientific and technical information,Inist-CNRS,https://github.com/Inist-CNRS,https://avatars0.githubusercontent.com/u/11553240?v=4,http://www.inist.fr,"Nancy, France",,False,82,2015-03-19T09:02:18Z,GitHub
+T432_HAJ18-T3-A,,T432_HAJ18-T3-A,https://git.unistra.fr/groups/T432_HAJ18-T3-A,,,,,,1,,GitLab
+dipso,DipSO - Direction pour la Science Ouverte de INRAE,DipSO,https://forgemia.inra.fr/groups/dipso,,,,,,0,,GitLab
+semantic_programs,"I've got programs and want to use them to produce RDF data, to be described (with RDF data), to be trace with RDF data and maybe use/share more RDF data.
+",semantic_programs,https://gitlab.inria.fr/groups/semantic_programs,,,,,,0,,GitLab
+banquedefrance,,Banque de France,https://github.com/banquedefrance,https://avatars3.githubusercontent.com/u/22008170?v=4,,,,False,2,2016-09-05T15:04:02Z,GitHub
+fec,"In telecommunication, information theory, and coding theory, forward error correction (FEC) or channel coding is a technique used for controlling errors in data transmission over unreliable or noisy communication channels.",fec,https://gitlab.inria.fr/groups/fec,,,,,,2,,GitLab
+sympa-community,The Sympa community.,The Sympa Community,https://github.com/sympa-community,https://avatars0.githubusercontent.com/u/25160739?v=4,https://www.sympa.org,https://www.sympa.org,sympa-developpers@listes.renater.fr,False,21,2017-01-16T21:12:00Z,GitHub
+2017-T4-6,Groupe de travail pour le T4,2017-T4-6,https://git.unistra.fr/groups/2017-T4-6,https://git.unistra.fr/uploads/-/system/group/avatar/837/teamlogo.png,,,,,1,,GitLab
+dldb,,dldb,https://gitlab.inria.fr/groups/dldb,,,,,,1,,GitLab
+eig,,EIG,https://gitlabjf.ccomptes.fr/groups/eig,,,,,,1,,GitLab
+OpenCTI-Platform,"Open Cyber Threat Intelligence Platform, supported by @ANSSI-FR, @certeu and @LuatixHQ.",OpenCTI Platform,https://github.com/OpenCTI-Platform,https://avatars3.githubusercontent.com/u/51881218?v=4,https://www.opencti.io,France,contacŧ@opencti.io,False,6,2019-06-16T13:12:38Z,GitHub
+bora-ucar,"Our codes on partitioning, matching, and ordering---or, combinatorial scientific computing with matrices and tensors---are released here.",Bora Ucar's code collection,https://gitlab.inria.fr/groups/bora-ucar,,,,,,3,,GitLab
+skelton,,skelton,https://gitlab.inria.fr/groups/skelton,,,,,,2,,GitLab
+messagerie-melanie2,Dépot public pour la messagerie Mél,Messagerie Mél,https://github.com/messagerie-melanie2,https://avatars2.githubusercontent.com/u/10559275?v=4,,,,False,26,2015-01-16T09:06:53Z,GitHub
+agroecoperenne,Ce groupe rassemble tout le software produit lors du projet,agroecoperenne,https://forgemia.inra.fr/groups/agroecoperenne,,,,,,0,,GitLab
+slamlab,stochastic lagrangian methods,slamlab,https://gitlab.inria.fr/groups/slamlab,,,,,,0,,GitLab
+Unix-Corne,Une équipe de licornes.,Unix-Corne,https://git.unistra.fr/groups/Unix-Corne,https://git.unistra.fr/uploads/-/system/group/avatar/800/licornes.jpg,,,,,0,,GitLab
+SocieteNumerique,Mission Société Numérique - Agence du Numérique - République Française,Société Numérique,https://github.com/SocieteNumerique,https://avatars3.githubusercontent.com/u/31274833?v=4,https://www.societenumerique.gouv.fr,"Paris, France",societe.numerique@finances.gouv.fr,False,11,2017-08-23T09:30:29Z,GitHub
+pappso,"PAPPSO team
+http://pappso.inra.fr/",PAPPSO,https://forgemia.inra.fr/groups/pappso,https://forgemia.inra.fr/uploads/-/system/group/avatar/798/pappso.png,,,,,6,,GitLab
+arche,groupe des projets de l'équipe ARCHE EA3400,arche,https://git.unistra.fr/groups/arche,,,,,,0,,GitLab
+bibliome,Bibliome team @ MaIAGE,Bibliome,https://forgemia.inra.fr/groups/bibliome,,,,,,1,,GitLab
+group_m32_33_rsa,,Group_m32_33_RSA,https://git.unistra.fr/groups/group_m32_33_rsa,,,,,,0,,GitLab
+GendarmerieNationale,,Gendarmerie nationale,https://github.com/GendarmerieNationale,https://avatars1.githubusercontent.com/u/14325754?v=4,http://www.gendarmerie.interieur.gouv.fr,,,False,7,2015-09-17T06:21:20Z,GitHub
+SocialGouv,Fabrique numérique des Ministères Sociaux,Fabrique numérique des Ministères Sociaux,https://github.com/SocialGouv,https://avatars3.githubusercontent.com/u/35456799?v=4,https://incubateur.social.gouv.fr,Paris,dsi-incubateur@sg.social.gouv.fr,False,98,2018-01-15T13:33:35Z,GitHub
+T4_Trail_HHK,,T4_Trail_HHK,https://git.unistra.fr/groups/T4_Trail_HHK,,,,,,1,,GitLab
+parseme-fr,Group related to the ANR PARSEME-FR Project.,parseme-fr,https://gitlab.inria.fr/groups/parseme-fr,,,,,,1,,GitLab
+aife,"Agence pour l'Informatique Financière de l'État.
+
+[www.economie.gouv.fr/aife/](https://www.economie.gouv.fr/aife/)",AIFE,https://gitlab.adullact.net/groups/aife,https://gitlab.adullact.net/uploads/-/system/group/avatar/985/Logo-AIFE.png,,,,,1,,GitLab
+nuitdelinfo_caplante,,NuitDeLinfo_CaPlante,https://git.unistra.fr/groups/nuitdelinfo_caplante,,,,,,0,,GitLab
+line,The http://unice.fr/laboratoires/line and Inria common projects repository.,LINE,https://gitlab.inria.fr/groups/line,,,,,,0,,GitLab
 LemonLDAPNG,"WebSSO, Access Control and Identity Federation free software",LemonLDAP::NG,https://github.com/LemonLDAPNG,https://avatars2.githubusercontent.com/u/24453394?v=4,https://lemonldap-ng.org,,lemonldap-ng-users@ow2.org,False,16,2016-12-08T10:14:18Z,GitHub
-T3,,T3,https://git.unistra.fr/groups/T3,,,,,,4,,GitLab
-metasys,,Metasys,https://forgemia.inra.fr/groups/metasys,,,,,,0,,GitLab
-AlgebraicGeometricModeling,Julia packages for algebraic geometry and geometric modeling,AlgebraicGeometricModeling,https://gitlab.inria.fr/groups/AlgebraicGeometricModeling,,,,,,7,,GitLab
-SIC2,"Projets relatifs à SIC2
-http://sic.g-eau.net",SIC2,https://gitlab.irstea.fr/groups/SIC2,,,,,,0,,GitLab
+datachallenge,A public group for datachallenge,datachallenge,https://git.unistra.fr/groups/datachallenge,,,,,,1,,GitLab
+geopat,,geopat,https://gitlab.irstea.fr/groups/geopat,,,,,,1,,GitLab
+necs-open,,necs-open,https://gitlab.inria.fr/groups/necs-open,,,,,,5,,GitLab
+artichaud,,ArtiChaud,https://git.unistra.fr/groups/artichaud,,,,,,0,,GitLab
+adt-gordon,Documents and scripts for the Gordon ADT,adt-gordon,https://gitlab.inria.fr/groups/adt-gordon,,,,,,0,,GitLab
+PSI,"Psi, acronym of Perfect Simulator, is a framework designed to sample trajectories of large Markov chains with various methods. Markov chains are given as a transition matrix or as a Poisson system based on events and actions on a state space.",PSI,https://gitlab.inria.fr/groups/PSI,,,,,,2,,GitLab
+maverick,Maverick team projects,maverick,https://gitlab.inria.fr/groups/maverick,https://gitlab.inria.fr/uploads/-/system/group/avatar/5320/logo.png,,,,,0,,GitLab
+zefxis,,zefxis,https://gitlab.inria.fr/groups/zefxis,,,,,,7,,GitLab
+dun,Direction des usages du numérique,dun,https://git.unistra.fr/groups/dun,,,,,,0,,GitLab
+EIG_2019,Gitlab du projet plume,EIG_2019,https://gitlabjf.ccomptes.fr/groups/EIG_2019,,,,,,0,,GitLab
+SimAquaLife,Projects around the SimAquaLife framework.,SimAquaLife,https://gitlab.irstea.fr/groups/SimAquaLife,https://gitlab.irstea.fr/uploads/-/system/group/avatar/187/logo_carre.png,,,,,6,,GitLab
+ClassCode,Developments for ClassCode,ClassCode,https://gitlab.inria.fr/groups/ClassCode,,,,,,4,,GitLab
+altair,,altair,https://gitlabjf.ccomptes.fr/groups/altair,,,,,,1,,GitLab
+gdmm,projets de ICube-Info-MIV-GDMM,gdmm,https://git.unistra.fr/groups/gdmm,https://git.unistra.fr/uploads/-/system/group/avatar/333/gdmm2.jpg,,,,,0,,GitLab
+unistra,,Université de Strasbourg,https://github.com/unistra,https://avatars0.githubusercontent.com/u/1830566?v=4,https://unistra.fr,France,,True,64,2012-06-08T12:42:24Z,GitHub
+P4a-projet-js,,P4a-projet-js,https://git.unistra.fr/groups/P4a-projet-js,,,,,,0,,GitLab
+coding-dojo-saclay,Regular coding dojo organized at Inria Saclay ,coding-dojo-saclay,https://gitlab.inria.fr/groups/coding-dojo-saclay,,,,,,3,,GitLab
+PnCevennes,,,https://github.com/PnCevennes,https://avatars0.githubusercontent.com/u/8570760?v=4,,,,False,27,2014-08-27T16:37:57Z,GitHub
+m1i3d,,m1-i3d,https://git.unistra.fr/groups/m1i3d,https://git.unistra.fr/uploads/-/system/group/avatar/2187/I3Dlogo.png,,,,,0,,GitLab
+cassiopee,Projets liés au développement du logiciel Cassiopée en collaboration avec l'AFB,cassiopee,https://gitlab.irstea.fr/groups/cassiopee,https://gitlab.irstea.fr/uploads/-/system/group/avatar/268/icon.png,,,,,1,,GitLab
+etalab,"Etalab aide les administrations à ouvrir et utiliser les données qu’elles produisent, dans le but d’améliorer l’action publique. Un service du Premier ministre.",Etalab,https://github.com/etalab,https://avatars1.githubusercontent.com/u/5313610?v=4,https://www.etalab.gouv.fr,France,contact@etalab.gouv.fr,True,233,2013-08-26T16:03:40Z,GitHub
+ecr19-t4-e,Groupe pour le T4,ECR19-T4-E,https://git.unistra.fr/groups/ecr19-t4-e,https://git.unistra.fr/uploads/-/system/group/avatar/2573/MDRT4.png,,,,,1,,GitLab
+Groupe3Acrobatt,,Groupe3Acrobatt,https://git.unistra.fr/groups/Groupe3Acrobatt,,,,,,0,,GitLab
+lp1-brua-fornazaric,,Lp1-Brua-Fornazaric,https://git.unistra.fr/groups/lp1-brua-fornazaric,,,,,,0,,GitLab
+popstar,,popstar,https://gitlab.inria.fr/groups/popstar,https://gitlab.inria.fr/uploads/-/system/group/avatar/4508/Webp.net-resizeimage.png,,,,,1,,GitLab
+test,,test,https://git.unistra.fr/groups/test,,,,,,0,,GitLab
+cw-leia,LEIA: the Lab Embedded ISO7816 Analyzer A Custom Smartcard Reader for the ChipWhisperer by @ANSSI-FR,LEIA,https://github.com/cw-leia,https://avatars2.githubusercontent.com/u/51098948?v=4,,,,False,4,2019-05-27T22:12:30Z,GitHub
+P54,AndroBrick App,P54,https://git.unistra.fr/groups/P54,https://git.unistra.fr/uploads/-/system/group/avatar/133/etrane.jpg,,,,,0,,GitLab
+mgkit,"Group related to Meta-Grammars, in particular for new languages besides the French one (http://alpage.inria.fr/frmgwiki)",mgkit,https://gitlab.inria.fr/groups/mgkit,,,,,,5,,GitLab
+FLECHE,"Les acteurs du stage ""exploration du modèle FLECHE""",FLECHE,https://forgemia.inra.fr/groups/FLECHE,,,,,,0,,GitLab
+geodatagouv,,geo.data.gouv.fr,https://github.com/geodatagouv,https://avatars0.githubusercontent.com/u/22120797?v=4,https://geo.data.gouv.fr,France,geo@data.gouv.fr,False,11,2016-09-10T18:04:33Z,GitHub
+Ifsttar,IFSTTAR is a public research institution focusing on transport and civil and urban engineering,"Ifsttar - French Institute of Science and Technology for Transport, Development and Networks",https://github.com/Ifsttar,https://avatars1.githubusercontent.com/u/7008647?v=4,http://www.ifsttar.fr,France,scientific.computing@ifsttar.fr,False,10,2014-03-20T08:27:00Z,GitHub
+LHS,,LHS,https://gitlab.inria.fr/groups/LHS,,,,,,0,,GitLab
+W4b_Hartmann_Kieu,,W4b_Hartmann_Kieu,https://git.unistra.fr/groups/W4b_Hartmann_Kieu,,,,,,1,,GitLab
+guix-hpc,Extensions of GNU Guix for high-performance computing.,guix-hpc,https://gitlab.inria.fr/groups/guix-hpc,https://gitlab.inria.fr/uploads/-/system/group/avatar/1745/guix-hpc-square.jpg,,,,,4,,GitLab
+deffinis-gigout,,Deffinis-Gigout,https://git.unistra.fr/groups/deffinis-gigout,,,,,,0,,GitLab
+methal,Projet MeThAL: Vers une macroanalyse du théâtre en alsacien,methal,https://git.unistra.fr/groups/methal,,,,,,1,,GitLab
+gmsive,,gmsive,https://gitlab.inria.fr/groups/gmsive,,,,,,0,,GitLab
+erasme,Service usages numériques de la Métropole de Lyon,Erasme,https://github.com/erasme,https://avatars2.githubusercontent.com/u/204704?v=4,http://www.erasme.org,"208 Bis Rue Garibaldi, Lyon, Rhône, France",,False,49,2010-02-16T16:27:05Z,GitHub
+insa,,insa,https://git.unistra.fr/groups/insa,,,,,,0,,GitLab
+hwloc,"Inria's private hwloc-related repos.
+The official public repo is at https://github.com/open-mpi/hwloc",hwloc,https://gitlab.inria.fr/groups/hwloc,,,,,,1,,GitLab
+raspberry-pi,,raspberry-pi,https://gitlab.irstea.fr/groups/raspberry-pi,,,,,,2,,GitLab
+p4a_zj,,P4a_ZJ,https://git.unistra.fr/groups/p4a_zj,,,,,,1,,GitLab
+cbma,,cbma,https://gitlab.huma-num.fr/groups/cbma,,,,,,8,,GitLab
+GardiNet,Coding Related Software,GardiNet,https://gitlab.inria.fr/groups/GardiNet,,,,,,2,,GitLab
+DPI_ENERGIE,,DPI_ENERGIE,https://git.unistra.fr/groups/DPI_ENERGIE,,,,,,0,,GitLab
+jupyter,Jupyter User Group,jupyter,https://git.unistra.fr/groups/jupyter,https://git.unistra.fr/uploads/-/system/group/avatar/1451/main-logo.png,,,,,1,,GitLab
+ACG,This group gathers together the projects related to Abstract Categorial Grammars.,ACG,https://gitlab.inria.fr/groups/ACG,,,,,,0,,GitLab
+irstea-ros,Développement robotique au sein de l'irstea dans le framework logiciel ROS (Robot Operating System),irstea-ros,https://gitlab.irstea.fr/groups/irstea-ros,,,,,,3,,GitLab
+resibots,"General ResiBots group (see also: resibots/papers, resibots/limbo, resibot/sferes, resibots/limbo)",resibots,https://gitlab.inria.fr/groups/resibots,https://gitlab.inria.fr/uploads/-/system/group/avatar/387/resibots_avatar.png,,,,,0,,GitLab
+minagri-initial,Incubateur de services numériques du ministère de l'agriculture et de l'alimentation,INITIAL,https://github.com/minagri-initial,https://avatars2.githubusercontent.com/u/17923649?v=4,,Toulouse,celia.carceller-kemiche@agriculture.gouv.fr,False,3,2016-03-18T08:50:13Z,GitHub
+crowdguard-public,,Crowdguard Public,https://gitlab.inria.fr/groups/crowdguard-public,,,,,,0,,GitLab
+dhai,Projects on Artificial Intelligence and Digital Humanities,DHAI,https://gitlab.inria.fr/groups/dhai,,,,,,1,,GitLab
+afimb,,AFIMB,https://github.com/afimb,https://avatars3.githubusercontent.com/u/5022841?v=4,http://www.developpement-durable.gouv.fr/lagence-francaise-linformation-multimodale-et-billettique-afimb,"La Défense, France",,False,23,2013-07-16T14:31:55Z,GitHub
+departements-notaires,Départements et Notaires est un extranet permettant d'apporter une réponse en temps réel aux études notariales chargées d’une succession s'interrogeant sur l'existence éventuelle d'une créance du Département au titre de l'aide sociale.,Départements-Notaires,https://gitlab.adullact.net/groups/departements-notaires,https://gitlab.adullact.net/uploads/-/system/group/avatar/743/picto_plume.jpg,,,,,1,,GitLab
+M32Groupe5DES,groupe de travail sur le fonctionnement du DES,M32_Groupe5_DES,https://git.unistra.fr/groups/M32Groupe5DES,,,,,,0,,GitLab
+DGAC,,,https://github.com/DGAC,https://avatars3.githubusercontent.com/u/733152?v=4,,France,,False,7,2011-04-16T10:18:10Z,GitHub
+M32DHOJACZIG,Groupe projet M32 ,M32DHOJACZIG,https://git.unistra.fr/groups/M32DHOJACZIG,,,,,,0,,GitLab
+c,wvw,w,https://git.unistra.fr/groups/c,,,,,,1,,GitLab
+OPIDoR,Optimisation pour le Partage et l'Interopérabilité des Données de la Recherche,,https://github.com/OPIDoR,https://avatars3.githubusercontent.com/u/22028866?v=4,,Nancy,,False,2,2016-09-06T13:13:06Z,GitHub
+AOEINT,,AOEINT,https://git.unistra.fr/groups/AOEINT,,,,,,9,,GitLab
+pinocchio,"All projects related to Pinocchio, the fast rigid body dynamics library",pinocchio,https://gitlab.inria.fr/groups/pinocchio,,,,,,0,,GitLab
 record,"Projects conducted in the RECORD project
 https://www6.inra.fr/record_eng/",record,https://forgemia.inra.fr/groups/record,https://forgemia.inra.fr/uploads/-/system/group/avatar/112/logo_RECORDfonce_white.jpg,,,,,10,,GitLab
-etalab,"Etalab aide les administrations à ouvrir et utiliser les données qu’elles produisent, dans le but d’améliorer l’action publique. Un service du Premier ministre.",Etalab,https://github.com/etalab,https://avatars1.githubusercontent.com/u/5313610?v=4,https://www.etalab.gouv.fr,France,contact@etalab.gouv.fr,True,233,2013-08-26T16:03:40Z,GitHub
-eigen,,eigen,https://gitlab.inria.fr/groups/eigen,,,,,,1,,GitLab
-gagallium,,gagallium,https://gitlab.inria.fr/groups/gagallium,,,,,,6,,GitLab
-algdis,,AlgDis,https://git.unistra.fr/groups/algdis,,,,,,1,,GitLab
-P52-JBHH,Projet P52,P52-JBHH,https://git.unistra.fr/groups/P52-JBHH,,,,,,0,,GitLab
-M32_18-42-AES,,M32_18-42-AES,https://git.unistra.fr/groups/M32_18-42-AES,,,,,,0,,GitLab
-HYCAR-Hydro,"Équipe HYDRO de l'UR HYCAR du centre INRAE d'Antony (Catchment Hydrology research group at INRAE in Antony)
-",HYCAR-Hydro,https://gitlab.irstea.fr/groups/HYCAR-Hydro,https://gitlab.irstea.fr/uploads/-/system/group/avatar/315/logo_irstea_hydro_COUL_smooth_800x800.png,,,,,5,,GitLab
-T432_HAJ18-T3-A,,T432_HAJ18-T3-A,https://git.unistra.fr/groups/T432_HAJ18-T3-A,,,,,,1,,GitLab
-linbox-team,"LinBox, FFLAS-FFPACK, Givaro developer repositories",LinBox Team,https://github.com/linbox-team,https://avatars1.githubusercontent.com/u/13101892?v=4,http://linalg.org,Université Grenoble-Alpes,linbox-devel@googlegroups.com,False,4,2015-06-29T11:50:15Z,GitHub
-expression,,Expression,https://gitlab.inria.fr/groups/expression,https://gitlab.inria.fr/uploads/-/system/group/avatar/10729/Expression.png,,,,,0,,GitLab
-dreal-datalab,"Les projets du DREAL datalab Pays de la Loire, laboratoire d'innovation sur la donnée de la DREAL",DREAL datalab Pays de la Loire,https://gitlab.com/groups/dreal-datalab,https://assets.gitlab-static.net/uploads/-/system/group/avatar/5081776/Logo_datalab.jpg,,,,,13,,GitLab
-necs_lib,,necs_lib,https://gitlab.inria.fr/groups/necs_lib,,,,,,2,,GitLab
-LP1-Walker-Unterfinger,,LP1-Walker-Unterfinger,https://git.unistra.fr/groups/LP1-Walker-Unterfinger,,,,,,0,,GitLab
-lutece-secteur-public,"Applications Métiers LUTECE destinées au Secteur Public. Ne contient pas les modules standards Lutece (moteur de formulaire, ...) hébergés sur lutece-platform",LUTECE Secteur Public,https://github.com/lutece-secteur-public,https://avatars0.githubusercontent.com/u/14327368?v=4,http://fr.lutece.paris.fr,France,,False,126,2015-09-17T08:20:05Z,GitHub
-dev-pi,,dev-PI,https://git.unistra.fr/groups/dev-pi,,,,,,0,,GitLab
-axel,Algebraic-Geometric modeler,axel,https://gitlab.inria.fr/groups/axel,,,,,,0,,GitLab
-dtk,A set of libraries based on Qt5 for modular scientific software development.,dtk,https://gitlab.inria.fr/groups/dtk,https://gitlab.inria.fr/uploads/-/system/group/avatar/4987/dtk.png,,,,,41,,GitLab
-sipf,Service Informatique de Polynésie française,SIPF,https://github.com/sipf,https://avatars2.githubusercontent.com/u/20521749?v=4,https://www.service-public.pf,Polynésie Française,leonard.tavae@informatique.gov.pf,False,18,2016-07-18T17:06:49Z,GitHub
-CNRS-DSI-Dev,OSS Github's repository for CNRS DSI Development Department,CNRS DSI Development Department,https://github.com/CNRS-DSI-Dev,https://avatars2.githubusercontent.com/u/8994995?v=4,,,,False,25,2014-10-02T09:48:14Z,GitHub
-monitoring,Monitoring Workgroup focused on Runtime Verification,monitoring,https://gitlab.inria.fr/groups/monitoring,,,,,,9,,GitLab
-parseme-fr,Group related to the ANR PARSEME-FR Project.,parseme-fr,https://gitlab.inria.fr/groups/parseme-fr,,,,,,1,,GitLab
-DIVERSIFY-project,,,https://github.com/DIVERSIFY-project,https://avatars2.githubusercontent.com/u/3983271?v=4,http://diversify-project.eu/,,,False,46,2013-03-27T08:44:08Z,GitHub
-ProgAvancee,"Groupe pour le projet de Programmation Avancée :
-- Morgane Ritter (M1 I3D CMI IIRVIJ)
-- Martin Heitz (M1 I3D CMI IIRVIJ)
-",ProgAvancee,https://git.unistra.fr/groups/ProgAvancee,,,,,,0,,GitLab
-mastertal,,mastertal,https://gitlab.inria.fr/groups/mastertal,,,,,,1,,GitLab
-139bercy,,Ministères économiques et financiers,https://github.com/139bercy,https://avatars3.githubusercontent.com/u/52052387?v=4,https://www.economie.gouv.fr,,,False,11,2019-06-20T20:55:01Z,GitHub
-thoth,Projects from members of the THOTH team,thoth,https://gitlab.inria.fr/groups/thoth,,,,,,1,,GitLab
-line,The http://unice.fr/laboratoires/line and Inria common projects repository.,LINE,https://gitlab.inria.fr/groups/line,,,,,,0,,GitLab
-irrig,Public group for the project IRRIG,IRRIG2019,https://gitlab.irstea.fr/groups/irrig,,,,,,1,,GitLab
-lepse,"groupe de l'UMR LEPSE - INRA Montpellier, SupAgro ",lepse,https://forgemia.inra.fr/groups/lepse,,,,,,0,,GitLab
+my-first-gitlab-test,,My First GitLab Test,https://git.unistra.fr/groups/my-first-gitlab-test,,,,,,0,,GitLab
+Quickspan,Projects related to quickspan.,Quickspan,https://gitlab.inria.fr/groups/Quickspan,,,,,,1,,GitLab
+defrost,,DEFROST,https://gitlab.inria.fr/groups/defrost,,,,,,1,,GitLab
+citi-lab,http://www.citi-lab.fr/,citi-lab,https://gitlab.inria.fr/groups/citi-lab,https://gitlab.inria.fr/uploads/-/system/group/avatar/1846/logo-citi-1.png,,,,,5,,GitLab
+gdurif_code,,gdurif_code,https://gitlab.inria.fr/groups/gdurif_code,,,,,,0,,GitLab
+openfun,"Higher Education Excellence. Online, Free and Open Courses.",France Université Numérique,https://github.com/openfun,https://avatars2.githubusercontent.com/u/7224891?v=4,https://www.fun-mooc.fr,"Paris, France",fun.dev@fun-mooc.fr,False,67,2014-04-08T12:08:59Z,GitHub
+nanterre,Applications citoyennes open source au service de la ville participative,Ville de Nanterre,https://github.com/nanterre,https://avatars3.githubusercontent.com/u/12966566?v=4,http://www.nanterre.fr,Nanterre,agora@mairie-nanterre.fr,False,8,2015-06-19T12:15:20Z,GitHub
+SFC,Groupe SFC,SFC,https://git.unistra.fr/groups/SFC,,,,,,0,,GitLab
+Madeus,,Madeus,https://gitlab.inria.fr/groups/Madeus,,,,,,2,,GitLab
+regular-pv,"Regular program verification related projects, papers and presentations.",Regular program verification,https://gitlab.inria.fr/groups/regular-pv,,,,,,0,,GitLab
+Tp,,Tp,https://git.unistra.fr/groups/Tp,,,,,,0,,GitLab
+cosme,"Dépôt du Consortium Sources Médiévales, labelisé Cosme2 par la TGIR Huma-Num",cosme,https://gitlab.huma-num.fr/groups/cosme,,,,,,0,,GitLab
+P52,JAVA JEE,P52,https://git.unistra.fr/groups/P52,https://git.unistra.fr/uploads/-/system/group/avatar/210/Angry-Face.png,,,,,0,,GitLab
+addok,,,https://github.com/addok,https://avatars3.githubusercontent.com/u/16663622?v=4,,,,False,14,2016-01-12T09:02:36Z,GitHub
+atlanmod,"(IMT-Atlantique,  LS2N)",Atlanmod,https://github.com/atlanmod,https://avatars3.githubusercontent.com/u/5813030?v=4,http://www.atlanmod.org,Nantes,contact@atlanmod.org,False,60,2013-10-30T11:31:21Z,GitHub
+support,,Support Gitlab,https://gitlab.irstea.fr/groups/support,,,,,,1,,GitLab
+rainbow-intervals,Interval tools for robotics,rainbow-intervals,https://gitlab.inria.fr/groups/rainbow-intervals,,,,,,1,,GitLab
 umrf,"Laboratoire de recherche fromagère
 https://www6.ara.inra.fr/umrf",umrf,https://forgemia.inra.fr/groups/umrf,https://forgemia.inra.fr/uploads/-/system/group/avatar/356/170-Capture-salers.jpg,,,,,3,,GitLab
-lo5-antony-et-florian,,LO5 Antony et Florian,https://git.unistra.fr/groups/lo5-antony-et-florian,,,,,,1,,GitLab
-transfer20,,Simbiot_summer_internship,https://gitlab.inria.fr/groups/transfer20,https://gitlab.inria.fr/uploads/-/system/group/avatar/9360/logo-simbiot-libre-V4-réduit-1024x427.jpg,,,,,0,,GitLab
-HAJ18-T4-C,,HAJ18-T4-C,https://git.unistra.fr/groups/HAJ18-T4-C,,,,,,1,,GitLab
-france-mobilites,le code source de l'outil de capitalisation des marchés publics de France Mobilités,France-Mobilites,https://gitlab.com/groups/france-mobilites,,,,,,1,,GitLab
-siriusquality,"SQ is a process-based model that simulates the phenology and canopy development of small grain cereals and the fluxes of water, N and C in the soil-plant-atmosphere continuum. SQ is a component based software built around the BioMA framework.",SiriusQuality,https://forgemia.inra.fr/groups/siriusquality,https://forgemia.inra.fr/uploads/-/system/group/avatar/154/siriusQualityLogo2.png,,,,,0,,GitLab
-maf19-t4-c,Groupe de t4,MAF19-T4-C,https://git.unistra.fr/groups/maf19-t4-c,,,,,,1,,GitLab
-gecos,"The GeCoS (Generic Compiler Suite) project is an open source compiler infrastructure developed in the CAIRN team at IRISA/INRIA since 2004.
-",GeCoS,https://gitlab.inria.fr/groups/gecos,https://gitlab.inria.fr/uploads/-/system/group/avatar/2310/gecos_icon.png,,,,,11,,GitLab
-dldb,,dldb,https://gitlab.inria.fr/groups/dldb,,,,,,1,,GitLab
-GROUPES32_KREBSV_ONGAGNAN,,GROUPES32_KREBSV_ONGAGNAN,https://git.unistra.fr/groups/GROUPES32_KREBSV_ONGAGNAN,,,,,,0,,GitLab
-4p,Plateforme traitement données drone et phenomobile - projet PHENOME,4P,https://forgemia.inra.fr/groups/4p,,,,,,1,,GitLab
-skeletons,Code related to Skeletal Semantics,skeletons,https://gitlab.inria.fr/groups/skeletons,,,,,,3,,GitLab
-Irstea,Institut national de recherche en sciences et technologies pour l'environnement et l'agriculture,Irstea,https://github.com/Irstea,https://avatars3.githubusercontent.com/u/17542483?v=4,https://www.irstea.fr/,France,,False,19,2016-02-29T08:44:59Z,GitHub
-dep2pict,see dep2pict.loria.fr,dep2pict,https://gitlab.inria.fr/groups/dep2pict,https://gitlab.inria.fr/uploads/-/system/group/avatar/3252/d2p.png,,,,,4,,GitLab
+CEA-LIST,"Smart digital systems for Advanced Manufacturing, Embedded systems, Data intelligence and Health ionizing radiations",CEA LIST,https://github.com/CEA-LIST,https://avatars3.githubusercontent.com/u/24958773?v=4,http://www-list.cea.fr/,CEA Paris-Saclay - Nano-Innov,,False,5,2017-01-06T12:50:46Z,GitHub
+GUDHI,"The GUDHI library is a generic open source C++ library, with a Python interface, for Topological Data Analysis (TDA) and Higher Dimensional Geometry Understanding. The library offers state-of-the-art data structures and algorithms to construct simpli",GUDHI,https://gitlab.inria.fr/groups/GUDHI,https://gitlab.inria.fr/uploads/-/system/group/avatar/3842/touch-icon-192x192.png,,,,,2,,GitLab
+opendatateam,The international team in charge of udata related stuff.,Open Data Team,https://github.com/opendatateam,https://avatars2.githubusercontent.com/u/19330690?v=4,https://getudata.org,World,contact@opendata.team,True,37,2016-05-12T16:04:11Z,GitHub
+lemon,,lemon,https://gitlab.inria.fr/groups/lemon,,,,,,0,,GitLab
+BAS18-T4-B,,BAS18-T4-B,https://git.unistra.fr/groups/BAS18-T4-B,,,,,,1,,GitLab
+yoann,,yoann,https://gitlab.inria.fr/groups/yoann,,,,,,1,,GitLab
+copain,Copain Team Groupe,copain,https://gitlab.irstea.fr/groups/copain,,,,,,2,,GitLab
 lamop,,lamop,https://gitlab.huma-num.fr/groups/lamop,,,,,,22,,GitLab
+iccv_2019,,iccv_2019,https://gitlab.inria.fr/groups/iccv_2019,https://gitlab.inria.fr/uploads/-/system/group/avatar/6071/ydYw4eAvXtc.jpg,,,,,1,,GitLab
+FormationCpp,"Ce groupe a pour but de regrouper les différentes formations en C++ données à travers les centres INRIA, et de favoriser le partage de supports de cours.",FormationCpp,https://gitlab.inria.fr/groups/FormationCpp,,,,,,0,,GitLab
+cedar,"CEDAR is a joint team between Inria Saclay and LIX (CNRS – UMR 7161 and Ecole Polytechnique), focused on rich data analytics at cloud scale.",cedar,https://gitlab.inria.fr/groups/cedar,,,,,,8,,GitLab
+dreal-datalab,"Les projets du DREAL datalab Pays de la Loire, laboratoire d'innovation sur la donnée de la DREAL",DREAL datalab Pays de la Loire,https://gitlab.com/groups/dreal-datalab,https://assets.gitlab-static.net/uploads/-/system/group/avatar/5081776/Logo_datalab.jpg,,,,,13,,GitLab
+culturecommunication,,Ministère chargé de la culture,https://github.com/culturecommunication,https://avatars2.githubusercontent.com/u/3383102?v=4,http://www.culture.gouv.fr/,Paris,,False,4,2013-01-25T16:13:55Z,GitHub
+coast-team,Inria COAST Project-Team - https://team.inria.fr/coast/,coast-team,https://gitlab.inria.fr/groups/coast-team,,,,,,0,,GitLab
+formation-gitlab-ci,Group dedicated for the gitla b ci tutorial,formation-gitlab-ci,https://gitlab.inria.fr/groups/formation-gitlab-ci,,,,,,6,,GitLab
+perception-ral,All the projects leaded by Perception EPI.,perception-ral,https://gitlab.inria.fr/groups/perception-ral,,,,,,0,,GitLab
+laclasse,Equipe de l'ENT Laclasse.com,laclasse,https://forge.grandlyon.com/groups/laclasse,https://forge.grandlyon.com/uploads/-/system/group/avatar/131/icon-256.png,,,,,0,,GitLab
+T3,,T3,https://git.unistra.fr/groups/T3,,,,,,4,,GitLab
+vle-forge,,Virtual Laboratory Environment,https://github.com/vle-forge,https://avatars1.githubusercontent.com/u/2691935?v=4,http://www.vle-project.org,INRA,gauthier.quesnel@inra.fr,False,10,2012-10-31T14:45:32Z,GitHub
+siriusquality,"SQ is a process-based model that simulates the phenology and canopy development of small grain cereals and the fluxes of water, N and C in the soil-plant-atmosphere continuum. SQ is a component based software built around the BioMA framework.",SiriusQuality,https://forgemia.inra.fr/groups/siriusquality,https://forgemia.inra.fr/uploads/-/system/group/avatar/154/siriusQualityLogo2.png,,,,,0,,GitLab
+AlgebraicGeometricModeling,Julia packages for algebraic geometry and geometric modeling,AlgebraicGeometricModeling,https://gitlab.inria.fr/groups/AlgebraicGeometricModeling,,,,,,7,,GitLab
+thoth,Projects from members of the THOTH team,thoth,https://gitlab.inria.fr/groups/thoth,,,,,,1,,GitLab
+coquelicot,A Coq formalization of real analysis compatible with the standard library.,Coquelicot,https://gitlab.inria.fr/groups/coquelicot,,,,,,1,,GitLab
+C-2018,"Groupe des étudiants d'Informatique et Réseaux 1ère année, Promo 2018",C-2018,https://git.unistra.fr/groups/C-2018,,,,,,0,,GitLab
+GROUPES32_KREBSV_ONGAGNAN,,GROUPES32_KREBSV_ONGAGNAN,https://git.unistra.fr/groups/GROUPES32_KREBSV_ONGAGNAN,,,,,,0,,GitLab
+BaseAdresseNationale,,Base Adresse Nationale (BAN),https://github.com/BaseAdresseNationale,https://avatars2.githubusercontent.com/u/19411687?v=4,https://adresse.data.gouv.fr/,France,adresse@data.gouv.fr,False,5,2016-05-17T15:14:06Z,GitHub
+CommunautesJF,,CommunautésJF,https://gitlabjf.ccomptes.fr/groups/CommunautesJF,,,,,,1,,GitLab
+batsim,A group about Batsim and its ecosystem,batsim,https://gitlab.inria.fr/groups/batsim,,,,,,12,,GitLab
+runaway,,runaway,https://gitlab.inria.fr/groups/runaway,,,,,,2,,GitLab
+polewebmaedi,,Pôle Web | MAEDI DCP,https://github.com/polewebmaedi,https://avatars0.githubusercontent.com/u/10907742?v=4,http://www.diplomatie.gouv.fr/,"Quai d'Orsay, Paris, France",quentin.drouet@diplomatie.gouv.fr,False,4,2015-02-08T11:49:13Z,GitHub
+openwind,Releases of openwind toolbox,openwind,https://gitlab.inria.fr/groups/openwind,,,,,,1,,GitLab
+PWeb,L3-Informatique-Programmation Web,PWeb,https://git.unistra.fr/groups/PWeb,,,,,,1,,GitLab
+ir-2019,"Groupe des étudiants d'Informatique et Réseaux 1ère année, Promo 2019",IR-2019,https://git.unistra.fr/groups/ir-2019,,,,,,0,,GitLab
+cea-hpc,,,https://github.com/cea-hpc,https://avatars2.githubusercontent.com/u/1496664?v=4,http://www-hpc.cea.fr/index-en.htm,,,False,37,2012-03-03T14:54:06Z,GitHub
+gip-recia-snc,,GIP RECIA - SNC,https://gitlab.adullact.net/groups/gip-recia-snc,https://gitlab.adullact.net/uploads/-/system/group/avatar/2618/logo.jpg,,,,,0,,GitLab
+OCSR,Open Crowd Simulation Ressources,OCSR,https://gitlab.inria.fr/groups/OCSR,,,,,,2,,GitLab
+medmospy,Repository for MEDeA (Clémentine's encoder decoder software) and MOSES (the statistical reference software),MedMosPy,https://gitlab.inria.fr/groups/medmospy,https://gitlab.inria.fr/uploads/-/system/group/avatar/7953/medmospy-coin.jpg,,,,,0,,GitLab
+CEREMA,,CEREMA,https://github.com/CEREMA,https://avatars2.githubusercontent.com/u/5927912?v=4,,,,False,52,2013-11-13T09:51:42Z,GitHub
+sed-lille,,SED-Lille,https://gitlab.inria.fr/groups/sed-lille,,,,,,1,,GitLab
+sed-bso,Groupe géré par le SED Bordeaux Sud-Ouest,sed-bso,https://gitlab.inria.fr/groups/sed-bso,,,,,,5,,GitLab
+snosan-tools,Observatoire accidentologie plaisance et loisirs nautiques France,SNOSAN,https://github.com/snosan-tools,https://avatars3.githubusercontent.com/u/41202072?v=4,https://www.snosan.fr,Eaux françaises,tech@snosan.fr,True,8,2018-07-13T16:00:07Z,GitHub
+ndv,,ndv,https://git.unistra.fr/groups/ndv,,,,,,0,,GitLab
+local-implicit-schemes,,Local Implicit Schemes,https://gitlab.inria.fr/groups/local-implicit-schemes,,,,,,1,,GitLab
+myriads-team,Myriads team,myriads-team,https://gitlab.inria.fr/groups/myriads-team,,,,,,1,,GitLab
+DREES_code,Dépôts de code de la DREES ,DREES,https://gitlab.com/groups/DREES_code,https://assets.gitlab-static.net/uploads/-/system/group/avatar/2678789/logo_drees.jpg,,,,,1,,GitLab
+scl19-t4-e,Groupe T4,SCL19-T4-E,https://git.unistra.fr/groups/scl19-t4-e,,,,,,1,,GitLab
+pole-is,Les projets du pôle Informatique Scientifique de la DSI - dsi.poleis@irstea.fr,Pôle IS ,https://gitlab.irstea.fr/groups/pole-is,,,,,,0,,GitLab
+T432_GOJ16_T3_B,"Paul Michel, Julian Bréant, Maxime Courillon, Benjamin Colombo",T432_GOJ16_T3_B,https://git.unistra.fr/groups/T432_GOJ16_T3_B,,,,,,1,,GitLab
+indsante,,Health Data Hub (plateforme des données de santé),https://github.com/indsante,https://avatars2.githubusercontent.com/u/47418323?v=4,https://www.health-data-hub.fr/,France,,False,5,2019-02-07T11:40:43Z,GitHub
+get-it,INRA Transfert - GeT-IT,GeT-IT,https://forgemia.inra.fr/groups/get-it,,,,,,0,,GitLab
+ia-flash,Fiabiliser l'envoi de contraventions,IA Flash,https://github.com/ia-flash,https://avatars2.githubusercontent.com/u/48490113?v=4,https://iaflash.fr,,,False,7,2019-03-12T17:14:09Z,GitHub
+ina-foss,,Institut National de l'Audiovisuel,https://github.com/ina-foss,https://avatars2.githubusercontent.com/u/10210683?v=4,http://www.ina.fr,France,,False,14,2014-12-16T16:27:51Z,GitHub
+HAJ18-T4-C,,HAJ18-T4-C,https://git.unistra.fr/groups/HAJ18-T4-C,,,,,,1,,GitLab
+wookey-project,"The WooKey Project, developped by @ANSSI-FR ",WooKey Project,https://github.com/wookey-project,https://avatars3.githubusercontent.com/u/39555274?v=4,https://wookey-project.github.io,Paris,wookey@ssi.gouv.fr,False,59,2018-05-23T10:41:26Z,GitHub
+mastertal,,mastertal,https://gitlab.inria.fr/groups/mastertal,,,,,,1,,GitLab
+reversaal,Projects of the UR reversaal (https://reversaal.inrae.fr/),reversaal,https://gitlab.irstea.fr/groups/reversaal,,,,,,1,,GitLab
+IGNF,,Institut National de l'Information Géographique et Forestière,https://github.com/IGNF,https://avatars0.githubusercontent.com/u/7152524?v=4,http://www.ign.fr,,,False,55,2014-04-03T16:36:07Z,GitHub
+mappemonde,,Mappemonde,https://gitlab.huma-num.fr/groups/mappemonde,https://gitlab.huma-num.fr/uploads/-/system/group/avatar/337/m_ppemonde_mini_logo2.jpg,,,,,0,,GitLab
+ARCEP-dev,The French agency in charge of regulating telecommunications in France,ARCEP [Autorité de Régulation des Communications Électroniques et des Postes],https://github.com/ARCEP-dev,https://avatars1.githubusercontent.com/u/28592559?v=4,https://www.arcep.fr/,Paris FRANCE,,False,10,2017-05-10T09:12:58Z,GitHub
+mac19-t4-c,Oui,MAC19-T4-C,https://git.unistra.fr/groups/mac19-t4-c,https://git.unistra.fr/uploads/-/system/group/avatar/2570/gnome.jpg,,,,,1,,GitLab
 CompCert,Side projects related to the CompCert formally-verified C compiler (http://compcert.inria.fr/),CompCert,https://gitlab.inria.fr/groups/CompCert,,,,,,1,,GitLab
-GATB,Genome Analysis Toolbox with de-Bruijn graph,GATB,https://gitlab.inria.fr/groups/GATB,,,,,,0,,GitLab
-siteadmin,Groupe de support de Gitlab,siteadmin,https://gitlab.inria.fr/groups/siteadmin,,,,,,3,,GitLab
+coq,The Coq proof assistant (see https://coq.inria.fr),coq,https://gitlab.inria.fr/groups/coq,,,,,,2,,GitLab
+datatourisme,,datatourisme,https://framagit.org/groups/datatourisme,https://framagit.org/uploads/-/system/group/avatar/6492/DATAtourisme-logo.jpg,,,,,3,,GitLab
+bios4biol,Group for the Cati Bios4Biol,bios4biol,https://forgemia.inra.fr/groups/bios4biol,,,,,,2,,GitLab
+uquatre,Les meilleurs,uquatre,https://git.unistra.fr/groups/uquatre,,,,,,1,,GitLab
+evalanon,,evalanon,https://gitlab.inria.fr/groups/evalanon,,,,,,2,,GitLab
+HYCAR-Hydro,"Équipe HYDRO de l'UR HYCAR du centre INRAE d'Antony (Catchment Hydrology research group at INRAE in Antony)
+",HYCAR-Hydro,https://gitlab.irstea.fr/groups/HYCAR-Hydro,https://gitlab.irstea.fr/uploads/-/system/group/avatar/315/logo_irstea_hydro_COUL_smooth_800x800.png,,,,,5,,GitLab
+SIC2,"Projets relatifs à SIC2
+http://sic.g-eau.net",SIC2,https://gitlab.irstea.fr/groups/SIC2,,,,,,0,,GitLab
+techdev,,techDev,https://git.unistra.fr/groups/techdev,,,,,,0,,GitLab
+marin-aleatoire,A group for the compilation M1 project,Marin aléatoire,https://git.unistra.fr/groups/marin-aleatoire,,,,,,0,,GitLab
+aevol,http://aevol.fr/,aevol,https://gitlab.inria.fr/groups/aevol,https://gitlab.inria.fr/uploads/-/system/group/avatar/7520/logo.png,,,,,1,,GitLab
+consortium3d,,consortium3d,https://gitlab.huma-num.fr/groups/consortium3d,https://gitlab.huma-num.fr/uploads/-/system/group/avatar/105/C3D_fond.png,,,,,1,,GitLab
+Jean-Thierry-Cocon,Groupe de la nuit de l'info,Jean-Thierry-Cocon,https://git.unistra.fr/groups/Jean-Thierry-Cocon,,,,,,0,,GitLab
+verifisc,Application des méthodes formelles au code général des impôts. Mailing list : https://sympa.inria.fr/sympa/info/verifisc-announce,Verifisc,https://gitlab.inria.fr/groups/verifisc,,,,,,3,,GitLab
+sed-rennes,SED Rennes,sed-rennes,https://gitlab.inria.fr/groups/sed-rennes,,,,,,3,,GitLab
+scl19-t4-a,,SCL19-T4-A,https://git.unistra.fr/groups/scl19-t4-a,,,,,,1,,GitLab
+pastore.ritzenthaler.p4a,,pastore.ritzenthaler.p4a,https://git.unistra.fr/groups/pastore.ritzenthaler.p4a,,,,,,1,,GitLab
+prosecco,The Prosecco team at Inria (https://prosecco.gforge.inria.fr/),Prosecco,https://gitlab.inria.fr/groups/prosecco,,,,,,0,,GitLab
+memcad,MemCAD and related developments,memcad,https://gitlab.inria.fr/groups/memcad,,,,,,2,,GitLab
+doris,,doris,https://gitlab.inria.fr/groups/doris,https://gitlab.inria.fr/uploads/-/system/group/avatar/8252/app_ic_launcher.png,,,,,2,,GitLab
+moex,Software developed within the moex project,moex,https://gitlab.inria.fr/groups/moex,,,,,,3,,GitLab
+gdt,Création d'une application interne pour l'analyse du temps passé.,gdt,https://git.unistra.fr/groups/gdt,,,,,,2,,GitLab
+comprise,,COMPRISE,https://gitlab.inria.fr/groups/comprise,,,,,,10,,GitLab
+Loki,Groupe de projets de l'équipe Loki,Loki,https://gitlab.inria.fr/groups/Loki,https://gitlab.inria.fr/uploads/-/system/group/avatar/4307/loki-LT_Dark_green___red.png,,,,,1,,GitLab
+sed-saclay,,sed-saclay,https://gitlab.inria.fr/groups/sed-saclay,https://gitlab.inria.fr/uploads/-/system/group/avatar/24/logo.jpg,,,,,2,,GitLab
+ua,Uniformly accurate numerical schemes,UniformlyAccurate,https://gitlab.inria.fr/groups/ua,,,,,,1,,GitLab
+pomosed,,pomosed,https://gitlab.irstea.fr/groups/pomosed,,,,,,2,,GitLab
+demosinria,Group to host demo projects,DemosInria,https://gitlab.inria.fr/groups/demosinria,,,,,,1,,GitLab
+diverse-project,,Diverse Project,https://github.com/diverse-project,https://avatars3.githubusercontent.com/u/5571443?v=4,http://diverse-project.github.io,"Rennes, France",,False,40,2013-09-29T20:21:41Z,GitHub
+eigen,,eigen,https://gitlab.inria.fr/groups/eigen,,,,,,1,,GitLab
+ivre,"Network recon framework, published by @cea-sec",IVRE,https://github.com/ivre,https://avatars2.githubusercontent.com/u/55538951?v=4,https://ivre.rocks/,,,False,2,2019-09-19T11:03:50Z,GitHub
+pub,,pub,https://git.unistra.fr/groups/pub,,,,,,2,,GitLab
+DISIC,Direction Interministérielle du Numérique,DINUM,https://github.com/DISIC,https://avatars2.githubusercontent.com/u/12644724?v=4,https://www.numerique.gouv.fr,Paris,communication.dinsic@modernisation.gouv.fr,False,60,2015-05-28T14:03:10Z,GitHub
+shiny_lisc,Un ensemble d’applications shiny développées au LISC,shiny_lisc,https://gitlab.irstea.fr/groups/shiny_lisc,,,,,,0,,GitLab
+alta,"Developers of ALTA, a BRDF analysis library.",alta,https://gitlab.inria.fr/groups/alta,,,,,,1,,GitLab
+LP1-Walker-Unterfinger,,LP1-Walker-Unterfinger,https://git.unistra.fr/groups/LP1-Walker-Unterfinger,,,,,,0,,GitLab
+Conferences,Git group for Conference presentation and posters.,Conferences,https://gitlab.inria.fr/groups/Conferences,,,,,,1,,GitLab
+SimPLU3D,Building simulation with optimization methods from urban regulation,SimPLU3D,https://github.com/SimPLU3D,https://avatars3.githubusercontent.com/u/36670327?v=4,http://SimPLU3D.github.io,,,False,16,2018-02-20T15:31:43Z,GitHub
+belenios,Verifiable online voting system,belenios,https://gitlab.inria.fr/groups/belenios,,,,,,1,,GitLab
+DGFiP,,Direction générale des finances publiques,https://github.com/DGFiP,https://avatars2.githubusercontent.com/u/8778937?v=4,http://www.economie.gouv.fr/dgfip,France,,False,1,2014-09-15T13:24:47Z,GitHub
+Damaris,The group for managing different Damaris projects.,Damaris,https://gitlab.inria.fr/groups/Damaris,https://gitlab.inria.fr/uploads/-/system/group/avatar/5972/Damaris_Group.jpg,,,,,1,,GitLab
+AT1A,,AT1A,https://git.unistra.fr/groups/AT1A,,,,,,1,,GitLab
+dev-pi,,dev-PI,https://git.unistra.fr/groups/dev-pi,,,,,,0,,GitLab
+hiepacs,[[https://team.inria.fr/hiepacs/][HiePACS]] gitlab page,hiepacs,https://gitlab.inria.fr/groups/hiepacs,,,,,,1,,GitLab
+kirikomics,Groupe centralisant les différents projets à créer dans le cadre de l'ADT kirikomics,kirikomics,https://gitlab.inria.fr/groups/kirikomics,,,,,,1,,GitLab
+shareloc_matter_ritzenthaler_ungerer,Groupe du projet ShareLoc,ShareLoc_Matter_Ritzenthaler_Ungerer,https://git.unistra.fr/groups/shareloc_matter_ritzenthaler_ungerer,https://git.unistra.fr/uploads/-/system/group/avatar/3212/ShareLoc.jpg,,,,,0,,GitLab
+mnemosyne,,mnemosyne,https://gitlab.inria.fr/groups/mnemosyne,,,,,,3,,GitLab
+QTL,Group for the QTL team. Mainly dedicated to development of Spell-QTL.,QTL,https://forgemia.inra.fr/groups/QTL,,,,,,1,,GitLab
+xkblas,Drop in replacement of BLAS library for multi GPUs,xkblas,https://gitlab.inria.fr/groups/xkblas,,,,,,1,,GitLab
+metasys,,Metasys,https://forgemia.inra.fr/groups/metasys,,,,,,0,,GitLab
+assurance-maladie-digital,Acteur de la transformation numérique de l'Assurance Maladie,Le Digital de l'Assurance Maladie,https://github.com/assurance-maladie-digital,https://avatars3.githubusercontent.com/u/42236813?v=4,https://assurance-maladie.ameli.fr/qui-sommes-nous/fonctionnement/organisation/cnam-tete-reseau,Angers / Paris / Lyon / Grenoble / Valencienne,,False,7,2018-08-09T09:34:03Z,GitHub
+simgrid,The projects around the SimGrid framework,simgrid,https://gitlab.inria.fr/groups/simgrid,,,,,,2,,GitLab
+bibfr,"Dépôt des fichiers du projet ""Bibliotheques Françoises"" du programme ""Bibliothèques Virtuelle Humanites"" (CESR - Tours)
+
+",bibfr,https://gitlab.huma-num.fr/groups/bibfr,,,,,,0,,GitLab
 MIH18-T4-C,"Groupe de T4:
 Nathan Antoni
 François Haegel
 Thomas Unterfinger
 ",MIH18-T4-C,https://git.unistra.fr/groups/MIH18-T4-C,,,,,,1,,GitLab
-clipos,"CLIP OS version 5, published by @ANSSI-FR ",CLIP OS,https://github.com/clipos,https://avatars1.githubusercontent.com/u/33755864?v=4,https://clip-os.org,"Paris, France",clipos@ssi.gouv.fr,True,22,2017-11-17T14:32:48Z,GitHub
-BAS18-T4-B,,BAS18-T4-B,https://git.unistra.fr/groups/BAS18-T4-B,,,,,,1,,GitLab
-riatelab,"Magrit, cartography, presentations, packages",riatelab,https://github.com/riatelab,https://avatars1.githubusercontent.com/u/17590565?v=4,http://riate.cnrs.fr,Paris,,False,29,2016-03-02T10:09:41Z,GitHub
-InBio,Experimental and computational methods for modeling cellular processes,InBio,https://gitlab.inria.fr/groups/InBio,https://gitlab.inria.fr/uploads/-/system/group/avatar/1823/InBio_logo4.png,,,,,0,,GitLab
-dev-durable-paris,,dev-durable-paris,https://gitlab.inria.fr/groups/dev-durable-paris,,,,,,0,,GitLab
-dipso,DipSO - Direction pour la Science Ouverte de INRAE,DipSO,https://forgemia.inra.fr/groups/dipso,,,,,,0,,GitLab
-Damaris,The group for managing different Damaris projects.,Damaris,https://gitlab.inria.fr/groups/Damaris,https://gitlab.inria.fr/uploads/-/system/group/avatar/5972/Damaris_Group.jpg,,,,,1,,GitLab
-tyrex-public,Projects from the Tyrex team available to the public: https://tyrex.inria.fr,Tyrex Public,https://gitlab.inria.fr/groups/tyrex-public,https://gitlab.inria.fr/uploads/-/system/group/avatar/5242/TrX.png,,,,,1,,GitLab
-startupjf,Groupe destiné au projet développé par StartupJF,StartupJF,https://gitlabjf.ccomptes.fr/groups/startupjf,,,,,,2,,GitLab
-reversaal,Projects of the UR reversaal (https://reversaal.inrae.fr/),reversaal,https://gitlab.irstea.fr/groups/reversaal,,,,,,1,,GitLab
-sed-bso,Groupe géré par le SED Bordeaux Sud-Ouest,sed-bso,https://gitlab.inria.fr/groups/sed-bso,,,,,,5,,GitLab
-AT1-Projet-SuperCopter,Projet contenant le jeu Choplifter pour Android.,AT1-Projet-SuperCopter,https://git.unistra.fr/groups/AT1-Projet-SuperCopter,,,,,,0,,GitLab
-citi-lab,http://www.citi-lab.fr/,citi-lab,https://gitlab.inria.fr/groups/citi-lab,https://gitlab.inria.fr/uploads/-/system/group/avatar/1846/logo-citi-1.png,,,,,5,,GitLab
-StartupsPoleEmploi,Les Startups d’État de l'incubateur de Pôle emploi,Startups d’État Pôle emploi,https://github.com/StartupsPoleEmploi,https://avatars0.githubusercontent.com/u/24388500?v=4,http://www.pole-emploi.fr,Paris / France,,False,21,2016-12-05T12:40:31Z,GitHub
-InriaMecsci,,,https://github.com/InriaMecsci,https://avatars3.githubusercontent.com/u/1922081?v=4,,,,False,35,2012-07-04T13:01:01Z,GitHub
-disrpt,Projects linked to the DisRPT shared task (Discourse Relation Parsing and Treebanking).,disrpt,https://gitlab.inria.fr/groups/disrpt,,,,,,1,,GitLab
-PWeb,L3-Informatique-Programmation Web,PWeb,https://git.unistra.fr/groups/PWeb,,,,,,1,,GitLab
-crv14,"This group is purposed to host benchmarks and experiments related to CRV 14, the 1st International Competition on Runtime Verification held as part of the 2014 edition of the Runtime Verification conference.",crv14,https://gitlab.inria.fr/groups/crv14,,,,,,2,,GitLab
-eurhisfirm,Long-term company-level data for Europe,eurhisfirm,https://gitlab.huma-num.fr/groups/eurhisfirm,https://gitlab.huma-num.fr/uploads/-/system/group/avatar/127/eurhisfirm_logo_899x899.png,,,,,14,,GitLab
-la-table-ronde,Groupe T4,La Table Ronde,https://git.unistra.fr/groups/la-table-ronde,https://git.unistra.fr/uploads/-/system/group/avatar/2561/800px-King_Arthur_and_the_Knights_of_the_Round_Table.jpg,,,,,1,,GitLab
-why3,"Why3 is a software verification platform, featuring a versatile ML-style language and interfaces to various powerful automated and interactive theorem provers.",Why3,https://gitlab.inria.fr/groups/why3,https://gitlab.inria.fr/uploads/-/system/group/avatar/3110/logo.png,,,,,1,,GitLab
-nakala-tools,Ce groupe rassemble différents projets de développement autour de NAKALA,NAKALA-TOOLS,https://gitlab.huma-num.fr/groups/nakala-tools,https://gitlab.huma-num.fr/uploads/-/system/group/avatar/219/nakala-tools.png,,,,,2,,GitLab
-eig,,EIG,https://gitlabjf.ccomptes.fr/groups/eig,,,,,,1,,GitLab
-clipos-archive,"CLIP OS version 4, published by @ANSSI-FR ",CLIP OS - Archive,https://github.com/clipos-archive,https://avatars2.githubusercontent.com/u/38976783?v=4,https://clip-os.org,"Paris, France",clipos@ssi.gouv.fr,True,106,2018-05-04T09:27:14Z,GitHub
-PnX-SI,,SI des parcs nationaux français,https://github.com/PnX-SI,https://avatars1.githubusercontent.com/u/10531541?v=4,,,,False,31,2015-01-14T13:24:26Z,GitHub
-communaute-cimi,The Information Technology Community of the (French) Interior Ministry,CIMI,https://github.com/communaute-cimi,https://avatars2.githubusercontent.com/u/6548778?v=4,http://www.interieur.gouv.fr/,Paris,cimi@interieur.gouv.fr,False,21,2014-01-30T22:05:58Z,GitHub
-hiepacs,[[https://team.inria.fr/hiepacs/][HiePACS]] gitlab page,hiepacs,https://gitlab.inria.fr/groups/hiepacs,,,,,,1,,GitLab
-T4desMeilleurs,non je rigole,DIP18-T4-B,https://git.unistra.fr/groups/T4desMeilleurs,,,,,,1,,GitLab
-isn,,isn,https://gitlab.inria.fr/groups/isn,,,,,,0,,GitLab
-tech-dev,,tech-dev,https://git.unistra.fr/groups/tech-dev,,,,,,0,,GitLab
-aljanon-experiment-framework,,Experiment framework,https://gitlab.inria.fr/groups/aljanon-experiment-framework,,,,,,11,,GitLab
-usix,,usix,https://git.unistra.fr/groups/usix,,,,,,0,,GitLab
-enseignement,,enseignement,https://gitlab.inria.fr/groups/enseignement,,,,,,1,,GitLab
-my-first-gitlab-test,,My First GitLab Test,https://git.unistra.fr/groups/my-first-gitlab-test,,,,,,0,,GitLab
-perception-ral,All the projects leaded by Perception EPI.,perception-ral,https://gitlab.inria.fr/groups/perception-ral,,,,,,0,,GitLab
-t4-boost,,Les JAVAlangue,https://git.unistra.fr/groups/t4-boost,https://git.unistra.fr/uploads/-/system/group/avatar/2554/adzda.jpg,,,,,1,,GitLab
-T432-SAV18-T4-A,,T432_SAV18_T4_A,https://git.unistra.fr/groups/T432-SAV18-T4-A,,,,,,1,,GitLab
-kirikomics,Groupe centralisant les différents projets à créer dans le cadre de l'ADT kirikomics,kirikomics,https://gitlab.inria.fr/groups/kirikomics,,,,,,1,,GitLab
-P4a-projet-js,,P4a-projet-js,https://git.unistra.fr/groups/P4a-projet-js,,,,,,0,,GitLab
-mfx,Team MFX group,mfx,https://gitlab.inria.fr/groups/mfx,,,,,,2,,GitLab
-Madeus,,Madeus,https://gitlab.inria.fr/groups/Madeus,,,,,,2,,GitLab
-lucasilya,Lucas + Ilya = 4ever,Lucasilya,https://git.unistra.fr/groups/lucasilya,,,,,,0,,GitLab
-betagouv,Incubateur de Services Numériques de la Direction Interministérielle du Numérique et du Système d'Information et de Communication de l'État,beta.gouv.fr,https://github.com/betagouv,https://avatars0.githubusercontent.com/u/7874148?v=4,https://beta.gouv.fr,France,,True,227,2014-06-12T19:55:44Z,GitHub
-Codes,,Codes,https://gitlab.inria.fr/groups/Codes,,,,,,0,,GitLab
-steep,steep team group,steep,https://gitlab.inria.fr/groups/steep,,,,,,0,,GitLab
-t3-adibou,,T3 ADIBOU,https://git.unistra.fr/groups/t3-adibou,,,,,,0,,GitLab
-sed-saclay,,sed-saclay,https://gitlab.inria.fr/groups/sed-saclay,https://gitlab.inria.fr/uploads/-/system/group/avatar/24/logo.jpg,,,,,2,,GitLab
-SGMAP-AGD,,Administrateur général des données,https://github.com/SGMAP-AGD,https://avatars2.githubusercontent.com/u/10611493?v=4,,,,False,23,2015-01-20T09:06:59Z,GitHub
-OCSInventory-NG,Open Computers and Software Inventory Next Generation is an assets management and deployment solution.,OCS Inventory NG,https://github.com/OCSInventory-NG,https://avatars1.githubusercontent.com/u/12696216?v=4,http://www.ocsinventory-ng.org,France,contact@ocsinventory-ng.org,False,15,2015-06-01T12:45:13Z,GitHub
-p4a_zj,,P4a_ZJ,https://git.unistra.fr/groups/p4a_zj,,,,,,1,,GitLab
-umr-astre,"https://umr-astre.cirad.fr/
-Mixed Research Unit Animals, Health, Territories, Risks and Ecosystems
-Cirad - Inra
-Montpellier, France",UMR-ASTRE,https://forgemia.inra.fr/groups/umr-astre,https://forgemia.inra.fr/uploads/-/system/group/avatar/840/ASTRE_LOGO_ANGLAIS_couleur_lo.png,,,,,6,,GitLab
-LHS,,LHS,https://gitlab.inria.fr/groups/LHS,,,,,,0,,GitLab
-elsa,,Elsa,https://git.unistra.fr/groups/elsa,https://git.unistra.fr/uploads/-/system/group/avatar/2984/elsa-frozenx750.jpg,,,,,0,,GitLab
-1_teamkayak,,1-Team Kayak,https://git.unistra.fr/groups/1_teamkayak,,,,,,0,,GitLab
-atelier-donnees,,atelier-donnees,https://gitlab.huma-num.fr/groups/atelier-donnees,,,,,,1,,GitLab
-ua,Uniformly accurate numerical schemes,UniformlyAccurate,https://gitlab.inria.fr/groups/ua,,,,,,1,,GitLab
-pidila,"Projets de la Direction de l'information légale et administrative
-https://pidila.gitlab.io/",pidila,https://gitlab.com/groups/pidila,https://assets.gitlab-static.net/uploads/-/system/group/avatar/834955/pidila.png,,,,,9,,GitLab
-kameleon,Kameleon appliance (system image or archive) generator.,kameleon,https://gitlab.inria.fr/groups/kameleon,,,,,,1,,GitLab
-FLECHE,"Les acteurs du stage ""exploration du modèle FLECHE""",FLECHE,https://forgemia.inra.fr/groups/FLECHE,,,,,,0,,GitLab
-cmi-production,Projet Intégrateur,CMI Production,https://git.unistra.fr/groups/cmi-production,,,,,,0,,GitLab
-vue,Plugins vue,vue,https://git.unistra.fr/groups/vue,,,,,,3,,GitLab
-SPA18-T4-C,,SPA18-T4-C,https://git.unistra.fr/groups/SPA18-T4-C,,,,,,1,,GitLab
-cea-hpc,,,https://github.com/cea-hpc,https://avatars2.githubusercontent.com/u/1496664?v=4,http://www-hpc.cea.fr/index-en.htm,,,False,37,2012-03-03T14:54:06Z,GitHub
-anaee-dev,Développements pour Anaee-France,anaee-dev,https://forgemia.inra.fr/groups/anaee-dev,https://forgemia.inra.fr/uploads/-/system/group/avatar/175/AnaEE-France.png,,,,,0,,GitLab
-T4_Trail_HHK,,T4_Trail_HHK,https://git.unistra.fr/groups/T4_Trail_HHK,,,,,,1,,GitLab
-asclepios,Inria Epione team code,Epione,https://gitlab.inria.fr/groups/asclepios,,,,,,1,,GitLab
-MIH18-T4-D,,MIH18-T4-D,https://git.unistra.fr/groups/MIH18-T4-D,,,,,,0,,GitLab
-addok,,,https://github.com/addok,https://avatars3.githubusercontent.com/u/16663622?v=4,,,,False,14,2016-01-12T09:02:36Z,GitHub
-departements-notaires,Départements et Notaires est un extranet permettant d'apporter une réponse en temps réel aux études notariales chargées d’une succession s'interrogeant sur l'existence éventuelle d'une créance du Département au titre de l'aide sociale.,Départements-Notaires,https://gitlab.adullact.net/groups/departements-notaires,https://gitlab.adullact.net/uploads/-/system/group/avatar/743/picto_plume.jpg,,,,,1,,GitLab
-VeRDi-project,VeRDi project - Verified Reconfiguration Driven by execution,VeRDi,https://gitlab.inria.fr/groups/VeRDi-project,,,,,,5,,GitLab
-community,,community,https://git.unistra.fr/groups/community,,,,,,4,,GitLab
-histovec,application (beta) du ministère de l'Intérieur, protéger les acheteurs de véhicules d’occasion,https://github.com/histovec,https://avatars0.githubusercontent.com/u/37241448?v=4,http://histovec.interieur.gouv.fr,,histovec@interieur.gouv.fr,False,3,2018-03-10T11:42:53Z,GitHub
-alta,"Developers of ALTA, a BRDF analysis library.",alta,https://gitlab.inria.fr/groups/alta,,,,,,1,,GitLab
-DREES_code,Dépôts de code de la DREES ,DREES,https://gitlab.com/groups/DREES_code,https://assets.gitlab-static.net/uploads/-/system/group/avatar/2678789/logo_drees.jpg,,,,,1,,GitLab
-ecr19-t4-e,Groupe pour le T4,ECR19-T4-E,https://git.unistra.fr/groups/ecr19-t4-e,https://git.unistra.fr/uploads/-/system/group/avatar/2573/MDRT4.png,,,,,1,,GitLab
-wookey-project,"The WooKey Project, developped by @ANSSI-FR ",WooKey Project,https://github.com/wookey-project,https://avatars3.githubusercontent.com/u/39555274?v=4,https://wookey-project.github.io,Paris,wookey@ssi.gouv.fr,False,59,2018-05-23T10:41:26Z,GitHub
-silteam,Groupe de projet pour le M2 SIL.,SILTEAM,https://git.unistra.fr/groups/silteam,https://git.unistra.fr/uploads/-/system/group/avatar/2813/580b57fcd9996e24bc43c19b.png,,,,,0,,GitLab
-openfisca,Turn law into software.,OpenFisca,https://github.com/openfisca,https://avatars0.githubusercontent.com/u/1794404?v=4,https://openfisca.org/en/,Global,contact@openfisca.org,False,68,2012-05-30T16:38:06Z,GitHub
-C-2018,"Groupe des étudiants d'Informatique et Réseaux 1ère année, Promo 2018",C-2018,https://git.unistra.fr/groups/C-2018,,,,,,0,,GitLab
-tsp-ics,theory and simulation group at institute Charles Sadron,tsp-ics,https://git.unistra.fr/groups/tsp-ics,https://git.unistra.fr/uploads/-/system/group/avatar/327/ICSadron-UdS.png,,,,,0,,GitLab
-Ifsttar,IFSTTAR is a public research institution focusing on transport and civil and urban engineering,"Ifsttar - French Institute of Science and Technology for Transport, Development and Networks",https://github.com/Ifsttar,https://avatars1.githubusercontent.com/u/7008647?v=4,http://www.ifsttar.fr,France,scientific.computing@ifsttar.fr,False,10,2014-03-20T08:27:00Z,GitHub
-guinfaby,"TAIS D-WEB, projet d'apprentissage pour un clone Google Sheets open source.",guinfaby,https://git.unistra.fr/groups/guinfaby,,,,,,0,,GitLab
-gtpi,"Tools for GLPI migrations, data coherence, exports, etc.",gtpi,https://gitlab.inria.fr/groups/gtpi,,,,,,1,,GitLab
-xstra-dev,,xstra-dev,https://git.unistra.fr/groups/xstra-dev,,,,,,3,,GitLab
-entrepreneur-interet-general,Code développé dans le cadre des défis EIG,Entrepreneurs d’intérêt général,https://github.com/entrepreneur-interet-general,https://avatars2.githubusercontent.com/u/25084749?v=4,https://entrepreneur-interet-general.etalab.gouv.fr,"Paris, France",entrepreneur-interet-general@data.gouv.fr,True,86,2017-01-12T16:54:14Z,GitHub
-sb,"sb is the group related to simBCI development. 
-
-For details see https://gitlab.inria.fr/sb/simbci/wikis/home
-",sb,https://gitlab.inria.fr/groups/sb,https://gitlab.inria.fr/uploads/-/system/group/avatar/3830/Serpiente_alquimica.jpg,,,,,1,,GitLab
-damas,DAta Management At Scale.,DAMAS,https://gitlab.inria.fr/groups/damas,https://gitlab.inria.fr/uploads/-/system/group/avatar/10623/Screenshot_2020-01-14_at_15.04.44.png,,,,,2,,GitLab
-gv-open,,gv-open,https://gitlab.inria.fr/groups/gv-open,,,,,,2,,GitLab
-Cour-des-comptes,"S’assurer du bon emploi de l’argent public, en informer les citoyens",Cour des comptes,https://github.com/Cour-des-comptes,https://avatars1.githubusercontent.com/u/58772755?v=4,,,,False,2,2019-12-11T10:50:39Z,GitHub
-pappso,"PAPPSO team
-http://pappso.inra.fr/",PAPPSO,https://forgemia.inra.fr/groups/pappso,https://forgemia.inra.fr/uploads/-/system/group/avatar/798/pappso.png,,,,,6,,GitLab
-defrost,,DEFROST,https://gitlab.inria.fr/groups/defrost,,,,,,1,,GitLab
-M32_G63,Codage de Hamming,M32_G63,https://git.unistra.fr/groups/M32_G63,,,,,,0,,GitLab
-synalp,Synalp Research team,synalp,https://gitlab.inria.fr/groups/synalp,,,,,,2,,GitLab
-l3s5,,L3S5,https://git.unistra.fr/groups/l3s5,,,,,,0,,GitLab
-mappemonde,,Mappemonde,https://gitlab.huma-num.fr/groups/mappemonde,https://gitlab.huma-num.fr/uploads/-/system/group/avatar/337/m_ppemonde_mini_logo2.jpg,,,,,0,,GitLab
-G5M32,Projet Hamming M32,G5M32,https://git.unistra.fr/groups/G5M32,,,,,,0,,GitLab
-gdmm,projets de ICube-Info-MIV-GDMM,gdmm,https://git.unistra.fr/groups/gdmm,https://git.unistra.fr/uploads/-/system/group/avatar/333/gdmm2.jpg,,,,,0,,GitLab
-cget-carto,,,https://github.com/cget-carto,https://avatars1.githubusercontent.com/u/38493408?v=4,,,,False,17,2018-04-18T09:42:24Z,GitHub
-ordo-bdx,Faire de l'ordonnancement à Bordeaux / Working on scheduling in Bordeaux,ordo-bdx,https://gitlab.inria.fr/groups/ordo-bdx,,,,,,2,,GitLab
-mosaic,MOrphogenesis Simulation and Analysis In siliCo,MOSAIC,https://gitlab.inria.fr/groups/mosaic,https://gitlab.inria.fr/uploads/-/system/group/avatar/4134/logo_mosaic_rond.png,,,,,7,,GitLab
-geodatagouv,,geo.data.gouv.fr,https://github.com/geodatagouv,https://avatars0.githubusercontent.com/u/22120797?v=4,https://geo.data.gouv.fr,France,geo@data.gouv.fr,False,11,2016-09-10T18:04:33Z,GitHub
+socio-connect,,socio-connect,https://gitlab.adullact.net/groups/socio-connect,https://gitlab.adullact.net/uploads/-/system/group/avatar/2449/logo-socio-connect06.png,,,,,2,,GitLab
+belenios-forks,,belenios-forks,https://gitlab.inria.fr/groups/belenios-forks,,,,,,1,,GitLab
 scotch,"Package for graph and mesh/hypergraph partitioning, graph clustering, and sparse matrix ordering.",scotch,https://gitlab.inria.fr/groups/scotch,,,,,,1,,GitLab
-eabx-formation,"Projets réalisés dans le cadre de formations, soit par le formateur, soit par les stagiaires",eabx-formation,https://gitlab.irstea.fr/groups/eabx-formation,,,,,,0,,GitLab
-emax,,emax,https://gitlab.irstea.fr/groups/emax,,,,,,1,,GitLab
-admin-donnees,Administrateurs de données (localisées ou non),Administrateurs de données,https://gitlab.cerema.fr/groups/admin-donnees,,,,,,1,,GitLab
-zombilingo,,zombilingo,https://gitlab.inria.fr/groups/zombilingo,,,,,,0,,GitLab
-rainbow-intervals,Interval tools for robotics,rainbow-intervals,https://gitlab.inria.fr/groups/rainbow-intervals,,,,,,1,,GitLab
-AOEINT,,AOEINT,https://git.unistra.fr/groups/AOEINT,,,,,,9,,GitLab
-ext,,ext,https://gitlab.irstea.fr/groups/ext,,,,,,0,,GitLab
-M32MLA,,M32_Marczyk_Lebhertz_Antony,https://git.unistra.fr/groups/M32MLA,,,,,,0,,GitLab
-octocats,,octocats,https://git.unistra.fr/groups/octocats,,,,,,0,,GitLab
-testiny,le groupe de test du cockpit gitlab,testiny,https://git.unistra.fr/groups/testiny,,,,,,0,,GitLab
-pole-is,Les projets du pôle Informatique Scientifique de la DSI - dsi.poleis@irstea.fr,Pôle IS ,https://gitlab.irstea.fr/groups/pole-is,,,,,,0,,GitLab
-experiments,Experiments scripts and results,Experiments,https://gitlab.inria.fr/groups/experiments,,,,,,2,,GitLab
-resibots,"General ResiBots group (see also: resibots/papers, resibots/limbo, resibot/sferes, resibots/limbo)",resibots,https://gitlab.inria.fr/groups/resibots,https://gitlab.inria.fr/uploads/-/system/group/avatar/387/resibots_avatar.png,,,,,0,,GitLab
-SAV18-T4-B,,SAV18-T4-B,https://git.unistra.fr/groups/SAV18-T4-B,,,,,,1,,GitLab
-gdt,Création d'une application interne pour l'analyse du temps passé.,gdt,https://git.unistra.fr/groups/gdt,,,,,,2,,GitLab
-openvibe,"The Openvibe Group is 'OpenViBE @ gitlab'.
-
-How this thing works: Clone the meta repository. That repository will have the other 3 as git submodules. To build openvibe, see the README at the meta repository root.",The Openvibe Group,https://gitlab.inria.fr/groups/openvibe,https://gitlab.inria.fr/uploads/-/system/group/avatar/3020/openvibe_empty.png,,,,,4,,GitLab
+presUni,,HAJ18-T4-D,https://git.unistra.fr/groups/presUni,https://git.unistra.fr/uploads/-/system/group/avatar/1606/logo_unistra.png,,,,,1,,GitLab
+SAV18-T4-C,,SAV18-T4-C,https://git.unistra.fr/groups/SAV18-T4-C,https://git.unistra.fr/uploads/-/system/group/avatar/1601/textless.png,,,,,1,,GitLab
+dtk,A set of libraries based on Qt5 for modular scientific software development.,dtk,https://gitlab.inria.fr/groups/dtk,https://gitlab.inria.fr/uploads/-/system/group/avatar/4987/dtk.png,,,,,41,,GitLab
 dexms,DeXMS introduces a solution for the automated synthesis of protocol mediators that support the interconnection of heterogeneous Things. ,dexms,https://gitlab.inria.fr/groups/dexms,,,,,,5,,GitLab
-kstar,,kstar,https://gitlab.inria.fr/groups/kstar,,,,,,2,,GitLab
-lemonldap-ng,"LemonLDAP::NG is a free single sign-on, access management and identity federation software",LemonLDAP NG,https://gitlab.ow2.org/groups/lemonldap-ng,https://gitlab.ow2.org/uploads/-/system/group/avatar/34/llng_logo_square.png,,,,,2,,GitLab
-diplomatiegouvfr,Dépot public du ministère de l'Europe et des Affaires étrangères,,https://github.com/diplomatiegouvfr,https://avatars1.githubusercontent.com/u/12811797?v=4,http://www.diplomatie.gouv.fr,,,False,20,2015-06-09T09:51:13Z,GitHub
-bora-ucar,"Our codes on partitioning, matching, and ordering---or, combinatorial scientific computing with matrices and tensors---are released here.",Bora Ucar's code collection,https://gitlab.inria.fr/groups/bora-ucar,,,,,,3,,GitLab
-cortexlab,CorteXlab cognitive radio platform,cortexlab,https://gitlab.inria.fr/groups/cortexlab,,,,,,0,,GitLab
-rr-inria,This group gathers persons and projects related to reproducible research @ Inria.,rr-inria,https://gitlab.inria.fr/groups/rr-inria,https://gitlab.inria.fr/uploads/-/system/group/avatar/8784/in_science_we_trust_small.jpg,,,,,0,,GitLab
-orpailleur,,orpailleur,https://gitlab.inria.fr/groups/orpailleur,https://gitlab.inria.fr/uploads/-/system/group/avatar/2495/Orpailleur.png,,,,,1,,GitLab
-M32Groupe5DES,groupe de travail sur le fonctionnement du DES,M32_Groupe5_DES,https://git.unistra.fr/groups/M32Groupe5DES,,,,,,0,,GitLab
-diu-algo,resources linked to the algorithm module of the DIU.,diu-algo,https://gitlab.inria.fr/groups/diu-algo,,,,,,1,,GitLab
-T3_MIH18_T3_A,,T234_MIH18_T3_A,https://git.unistra.fr/groups/T3_MIH18_T3_A,,,,,,1,,GitLab
-xug,Experimentation users-group.,Xug,https://gitlab.inria.fr/groups/xug,,,,,,2,,GitLab
-seul,La tristitude,Seul,https://git.unistra.fr/groups/seul,,,,,,2,,GitLab
-MTES-MCT,,Ministères de la Transition écologique et solidaire & Cohésion des territoires,https://github.com/MTES-MCT,https://avatars2.githubusercontent.com/u/20193330?v=4,,,,False,72,2016-06-28T18:58:13Z,GitHub
-M32DHOJACZIG,Groupe projet M32 ,M32DHOJACZIG,https://git.unistra.fr/groups/M32DHOJACZIG,,,,,,0,,GitLab
-apics,,apics,https://gitlab.inria.fr/groups/apics,,,,,,0,,GitLab
-lp-komi,,LP-GL,https://git.unistra.fr/groups/lp-komi,,,,,,1,,GitLab
-CommunautesJF,,CommunautésJF,https://gitlabjf.ccomptes.fr/groups/CommunautesJF,,,,,,1,,GitLab
-vino,Réseau travaillant sur le projet Vino (Viable Numerical Objects).,vino,https://gitlab.irstea.fr/groups/vino,,,,,,1,,GitLab
-m32_63_dsrsa,"Yoan Van der Spurt
-Arnaud Marak
-Nathanaël Derousseaux
-Lucas Treyer",M32_63_DSRSA,https://git.unistra.fr/groups/m32_63_dsrsa,,,,,,1,,GitLab
-Groupe3Acrobatt,,Groupe3Acrobatt,https://git.unistra.fr/groups/Groupe3Acrobatt,,,,,,0,,GitLab
-atlanmod,,atlanmod,https://gitlab.inria.fr/groups/atlanmod,,,,,,0,,GitLab
-MinistereSupRecherche,,Ministère de l'Enseignement supérieur de la Recherche et de l'Innovation,https://github.com/MinistereSupRecherche,https://avatars3.githubusercontent.com/u/39309220?v=4,http://esr.gouv.fr,Paris,github@recherche.gouv.fr,False,5,2018-05-15T15:48:47Z,GitHub
-culturecommunication,,Ministère chargé de la culture,https://github.com/culturecommunication,https://avatars2.githubusercontent.com/u/3383102?v=4,http://www.culture.gouv.fr/,Paris,,False,4,2013-01-25T16:13:55Z,GitHub
-genotoul-bioinfo,The genotoul bioinfo plateform,Genotoul Bioinfo,https://github.com/genotoul-bioinfo,https://avatars1.githubusercontent.com/u/36693932?v=4,http://bioinfo.genotoul.fr/index.php/about-us/,"Toulouse, France",,False,5,2018-02-21T09:04:11Z,GitHub
-gazelle,IHE Europe Gazelle ,Gazelle,https://gitlab.inria.fr/groups/gazelle,https://gitlab.inria.fr/uploads/-/system/group/avatar/5099/gazelle.png,,,,,1,,GitLab
-shareloc_matter_ritzenthaler_ungerer,Groupe du projet ShareLoc,ShareLoc_Matter_Ritzenthaler_Ungerer,https://git.unistra.fr/groups/shareloc_matter_ritzenthaler_ungerer,https://git.unistra.fr/uploads/-/system/group/avatar/3212/ShareLoc.jpg,,,,,0,,GitLab
-meteofrance,,Météo-France GitHub Organization,https://github.com/meteofrance,https://avatars3.githubusercontent.com/u/47791234?v=4,https://meteofrance.github.io/,,,False,2,2019-02-19T17:41:50Z,GitHub
-nuitdelinfo_caplante,,NuitDeLinfo_CaPlante,https://git.unistra.fr/groups/nuitdelinfo_caplante,,,,,,0,,GitLab
-coqinterval,CoqInterval provides tactics for simplifying the proofs of inequalities on expressions of real numbers for the Coq proof assistant.,CoqInterval,https://gitlab.inria.fr/groups/coqinterval,,,,,,1,,GitLab
-umr-boa,"Projects of UMR Biologie des Oiseaux et Aviculture.
-
-https://www6.val-de-loire.inra.fr/unite-recherches-avicoles
-
-contact: gitlab-boa@inra.fr",UMR-BOA,https://forgemia.inra.fr/groups/umr-boa,https://forgemia.inra.fr/uploads/-/system/group/avatar/516/Logo.jpg,,,,,1,,GitLab
-ia-flash,Fiabiliser l'envoi de contraventions,IA Flash,https://github.com/ia-flash,https://avatars2.githubusercontent.com/u/48490113?v=4,https://iaflash.fr,,,False,7,2019-03-12T17:14:09Z,GitHub
-optimdbs,"Group comprising all repositories related to the DBS target prediction software OptimDBS.
-
-Related Alfresco private file sharing site: https://partage.inria.fr/share/page/site/optimdbs/dashboard",OptimDBS,https://gitlab.inria.fr/groups/optimdbs,https://gitlab.inria.fr/uploads/-/system/group/avatar/7398/optimDBS_avatar.png,,,,,2,,GitLab
-SPA18-T4-D,,PrairieSoft,https://git.unistra.fr/groups/SPA18-T4-D,,,,,,1,,GitLab
-mecsci,Le groupe GitLab de la médiation scientifique Inria,mecsci,https://gitlab.inria.fr/groups/mecsci,,,,,,0,,GitLab
-m1i3d,,m1-i3d,https://git.unistra.fr/groups/m1i3d,https://git.unistra.fr/uploads/-/system/group/avatar/2187/I3Dlogo.png,,,,,0,,GitLab
-openskecth,"The code related to ""OpenSketch: A Richly-Annotated Dataset of Product Design Sketches"" paper.",OpenSkecth,https://gitlab.inria.fr/groups/openskecth,,,,,,6,,GitLab
-ECR19-T4-D,,ECR19-T4-D,https://git.unistra.fr/groups/ECR19-T4-D,,,,,,1,,GitLab
-umr-idees,GITLAB UMR IDEES 6266,umr-idees,https://gitlab.huma-num.fr/groups/umr-idees,https://gitlab.huma-num.fr/uploads/-/system/group/avatar/254/ideeslogo.png,,,,,0,,GitLab
-DYLISS,,DYLISS,https://gitlab.inria.fr/groups/DYLISS,,,,,,8,,GitLab
-flyingpenguins,"Groupe Acrobatt
-
-Développement du projet GeoQuiz",flyingpenguins,https://git.unistra.fr/groups/flyingpenguins,https://git.unistra.fr/uploads/-/system/group/avatar/317/12659748_556862804480737_1516442483_n.jpg,,,,,0,,GitLab
-SimAquaLife,Projects around the SimAquaLife framework.,SimAquaLife,https://gitlab.irstea.fr/groups/SimAquaLife,https://gitlab.irstea.fr/uploads/-/system/group/avatar/187/logo_carre.png,,,,,6,,GitLab
-grid5000,Repositories related to the Grid'5000 project and testbed,grid5000,https://gitlab.inria.fr/groups/grid5000,https://gitlab.inria.fr/uploads/-/system/group/avatar/172/Grid5000.png,,,,,18,,GitLab
-gip-recia-snc,,GIP RECIA - SNC,https://gitlab.adullact.net/groups/gip-recia-snc,https://gitlab.adullact.net/uploads/-/system/group/avatar/2618/logo.jpg,,,,,0,,GitLab
-numerique-gouv,,,https://github.com/numerique-gouv,https://avatars1.githubusercontent.com/u/43571069?v=4,,,,False,2,2018-09-25T10:14:06Z,GitHub
-mgkit,"Group related to Meta-Grammars, in particular for new languages besides the French one (http://alpage.inria.fr/frmgwiki)",mgkit,https://gitlab.inria.fr/groups/mgkit,,,,,,5,,GitLab
-patate,"Developers of the Patate Library, an open source library for 3D computer graphics.",patate,https://gitlab.inria.fr/groups/patate,,,,,,1,,GitLab
-epione_ML,,epione_ML,https://gitlab.inria.fr/groups/epione_ML,,,,,,2,,GitLab
-tranus,"Softwares developed for the TRANUS integrated land use and transportation model: user interfaces, interfaces between QGIS and TRANUS, calibration methods.",tranus,https://gitlab.inria.fr/groups/tranus,,,,,,4,,GitLab
-phenotic,"Git repository of Phenotic team
-https://team.forgemia.inra.fr/phenotic/channels/town-square",Phenotic,https://forgemia.inra.fr/groups/phenotic,https://forgemia.inra.fr/uploads/-/system/group/avatar/466/LogoPhenotic_100x340.jpg,,,,,0,,GitLab
-fip,,fip,https://git.unistra.fr/groups/fip,,,,,,0,,GitLab
-OCSR,Open Crowd Simulation Ressources,OCSR,https://gitlab.inria.fr/groups/OCSR,,,,,,2,,GitLab
-techdev,,techDev,https://git.unistra.fr/groups/techdev,,,,,,0,,GitLab
-inria-ci,This group contains people working or managing the Inria Continuous Integration service.,inria-ci,https://gitlab.inria.fr/groups/inria-ci,,,,,,2,,GitLab
-SimPLU3D,Building simulation with optimization methods from urban regulation,SimPLU3D,https://github.com/SimPLU3D,https://avatars3.githubusercontent.com/u/36670327?v=4,http://SimPLU3D.github.io,,,False,16,2018-02-20T15:31:43Z,GitHub
-DGFiP,,Direction générale des finances publiques,https://github.com/DGFiP,https://avatars2.githubusercontent.com/u/8778937?v=4,http://www.economie.gouv.fr/dgfip,France,,False,1,2014-09-15T13:24:47Z,GitHub
-cassiopee,Projets liés au développement du logiciel Cassiopée en collaboration avec l'AFB,cassiopee,https://gitlab.irstea.fr/groups/cassiopee,https://gitlab.irstea.fr/uploads/-/system/group/avatar/268/icon.png,,,,,1,,GitLab
-VikingRaiders,,VikingRaiders,https://git.unistra.fr/groups/VikingRaiders,,,,,,0,,GitLab
-goj19-t4-b,Projet T4 Projet Tutoré Tycoon,GOJ19-T4-B,https://git.unistra.fr/groups/goj19-t4-b,,,,,,1,,GitLab
-P52_errahmadi,,P52_errahmadi,https://git.unistra.fr/groups/P52_errahmadi,,,,,,0,,GitLab
-cw-leia,LEIA: the Lab Embedded ISO7816 Analyzer A Custom Smartcard Reader for the ChipWhisperer by @ANSSI-FR,LEIA,https://github.com/cw-leia,https://avatars2.githubusercontent.com/u/51098948?v=4,,,,False,4,2019-05-27T22:12:30Z,GitHub
-OAR,Projets in the ecosystem of  OAR:  Resouces and Jobs Management System,OAR,https://gitlab.inria.fr/groups/OAR,,,,,,2,,GitLab
+svdetection,CNV discovery pipeline,SVdetection,https://forgemia.inra.fr/groups/svdetection,,,,,,3,,GitLab
+ApieFrance,,Agence du Patrimoine Immateriel de l'Etat,https://github.com/ApieFrance,https://avatars1.githubusercontent.com/u/9610889?v=4,,"5 place des Vins-de-France, Paris",,False,1,2014-11-07T15:37:28Z,GitHub
+gt-sw-citation,Shared material for the software citation working group,gt-sw-citation,https://gitlab.inria.fr/groups/gt-sw-citation,,,,,,2,,GitLab
+open-source,Projets open source UNICAEN.,open-source,https://git.unicaen.fr/groups/open-source,,,,,,4,,GitLab
+OpenEdition,Plateforme de publication en sciences humaines et sociales,OpenEdition,https://github.com/OpenEdition,https://avatars0.githubusercontent.com/u/6151903?v=4,https://www.openedition.org,,,False,20,2013-12-10T13:09:15Z,GitHub
+DLreasoners,,DLreasoners,https://gitlab.inria.fr/groups/DLreasoners,,,,,,1,,GitLab
+algdis,,AlgDis,https://git.unistra.fr/groups/algdis,,,,,,1,,GitLab
 metexplore,,metexplore,https://forgemia.inra.fr/groups/metexplore,https://forgemia.inra.fr/uploads/-/system/group/avatar/605/Logo_Metexplore.png,,,,,3,,GitLab
-m32,,m32,https://git.unistra.fr/groups/m32,,,,,,0,,GitLab
-P54,AndroBrick App,P54,https://git.unistra.fr/groups/P54,https://git.unistra.fr/uploads/-/system/group/avatar/133/etrane.jpg,,,,,0,,GitLab
-frenchcropusage,team copain has created several thesaurii for document management and dataset description,thesaurus,https://gitlab.irstea.fr/groups/frenchcropusage,,,,,,0,,GitLab
-marin-aleatoire,A group for the compilation M1 project,Marin aléatoire,https://git.unistra.fr/groups/marin-aleatoire,,,,,,0,,GitLab
-PRJ3_gless_lebold_peslier,,PRJ3_gless_lebold_peslier,https://git.unistra.fr/groups/PRJ3_gless_lebold_peslier,,,,,,0,,GitLab
-source_code,,source_code,https://gitlab.inria.fr/groups/source_code,,,,,,2,,GitLab
-foscadiff,diff tool for comparing music score files,foscadiff,https://gitlab.inria.fr/groups/foscadiff,,,,,,1,,GitLab
-csrd,,csrd,https://git.unistra.fr/groups/csrd,,,,,,1,,GitLab
-raspberry-pi,,raspberry-pi,https://gitlab.irstea.fr/groups/raspberry-pi,,,,,,2,,GitLab
-pomosed,,pomosed,https://gitlab.irstea.fr/groups/pomosed,,,,,,2,,GitLab
-memcad,MemCAD and related developments,memcad,https://gitlab.inria.fr/groups/memcad,,,,,,2,,GitLab
+INRA,See Inra's policy towards software licensing and hosting: https://www6.inra.fr/datapartage,Institut national de la recherche agronomique,https://github.com/INRA,https://avatars3.githubusercontent.com/u/28700278?v=4,http://www.inra.fr/,France,,False,6,2017-05-15T07:03:28Z,GitHub
+medialab,"SciencesPo's médialab is an interdisciplinary research laboratory gathering engineers, designers & social science researchers.",médialab Sciences Po,https://github.com/medialab,https://avatars0.githubusercontent.com/u/534856?v=4,https://medialab.sciencespo.fr,"Paris, France",,False,160,2010-12-23T18:26:50Z,GitHub
+DYLISS,,DYLISS,https://gitlab.inria.fr/groups/DYLISS,,,,,,8,,GitLab
+compass,Public repository for ComPASS code,ComPASS,https://gitlab.inria.fr/groups/compass,,,,,,2,,GitLab
+139bercy,,Ministères économiques et financiers,https://github.com/139bercy,https://avatars3.githubusercontent.com/u/52052387?v=4,https://www.economie.gouv.fr,,,False,11,2019-06-20T20:55:01Z,GitHub
+VikingRaiders,,VikingRaiders,https://git.unistra.fr/groups/VikingRaiders,,,,,,0,,GitLab
+adjoint-computation,Implementing algorithms for adjoint computation / automatic differentiation / back-propagation,adjoint-computation,https://gitlab.inria.fr/groups/adjoint-computation,,,,,,1,,GitLab
+l2sched,Machine learning for scheduling,l2sched,https://gitlab.inria.fr/groups/l2sched,,,,,,0,,GitLab
+serpico,Serpico research group,Serpico,https://gitlab.inria.fr/groups/serpico,https://gitlab.inria.fr/uploads/-/system/group/avatar/6652/logo_serpico.gif,,,,,12,,GitLab
+OCSInventory-NG,Open Computers and Software Inventory Next Generation is an assets management and deployment solution.,OCS Inventory NG,https://github.com/OCSInventory-NG,https://avatars1.githubusercontent.com/u/12696216?v=4,http://www.ocsinventory-ng.org,France,contact@ocsinventory-ng.org,False,15,2015-06-01T12:45:13Z,GitHub
+usept,Micha et Thomas sont là,usept,https://git.unistra.fr/groups/usept,,,,,,1,,GitLab
+atlanmod,,atlanmod,https://gitlab.inria.fr/groups/atlanmod,,,,,,0,,GitLab
+BRGM,,,https://github.com/BRGM,https://avatars0.githubusercontent.com/u/18071725?v=4,,,,False,17,2016-03-25T14:13:14Z,GitHub
+G2-HackRobates,Projet ACRObATT 2018 - PROUST ,G2-HackRobates,https://git.unistra.fr/groups/G2-HackRobates,https://git.unistra.fr/uploads/-/system/group/avatar/1405/nexus2cee_teapot.jpg,,,,,0,,GitLab
+lp-komi,,LP-GL,https://git.unistra.fr/groups/lp-komi,,,,,,1,,GitLab
+INRIA,"Inria, the French national research institute for the digital sciences",Inria,https://github.com/INRIA,https://avatars2.githubusercontent.com/u/2951919?v=4,https://www.inria.fr/,,,False,19,2012-12-03T13:03:05Z,GitHub
 ml_genetics,This group gathers projects of machine learning for population genetics.,Machine learning for population genetics,https://gitlab.inria.fr/groups/ml_genetics,https://gitlab.inria.fr/uploads/-/system/group/avatar/3943/logo.png,,,,,0,,GitLab
+admin-donnees,Administrateurs de données (localisées ou non),Administrateurs de données,https://gitlab.cerema.fr/groups/admin-donnees,,,,,,1,,GitLab
+tikkoun_sofrim,,tikkoun_sofrim,https://gitlab.inria.fr/groups/tikkoun_sofrim,,,,,,0,,GitLab
+xug,Experimentation users-group.,Xug,https://gitlab.inria.fr/groups/xug,,,,,,2,,GitLab
+T4desMeilleurs,non je rigole,DIP18-T4-B,https://git.unistra.fr/groups/T4desMeilleurs,,,,,,1,,GitLab
+usix,,usix,https://git.unistra.fr/groups/usix,,,,,,0,,GitLab
+SAV18-T4-B,,SAV18-T4-B,https://git.unistra.fr/groups/SAV18-T4-B,,,,,,1,,GitLab
+region-bretagne,,,https://github.com/region-bretagne,https://avatars3.githubusercontent.com/u/7703447?v=4,,,,False,6,2014-05-26T14:48:16Z,GitHub
+ParMmg,The ParMmg (parallel remeshing using Mmg) working group,ParMmg,https://gitlab.inria.fr/groups/ParMmg,https://gitlab.inria.fr/uploads/-/system/group/avatar/5429/cropped-logo-head.png,,,,,1,,GitLab
+LightFieldCodingLibrary,Collection of tools used for light field editing processing and vizualisation,LightFieldCodingLibrary,https://gitlab.inria.fr/groups/LightFieldCodingLibrary,,,,,,5,,GitLab
+gazelle,IHE Europe Gazelle ,Gazelle,https://gitlab.inria.fr/groups/gazelle,https://gitlab.inria.fr/uploads/-/system/group/avatar/5099/gazelle.png,,,,,1,,GitLab
+sipf,Service Informatique de Polynésie française,SIPF,https://github.com/sipf,https://avatars2.githubusercontent.com/u/20521749?v=4,https://www.service-public.pf,Polynésie Française,leonard.tavae@informatique.gov.pf,False,18,2016-07-18T17:06:49Z,GitHub
+integratron,Groupe de projet integrateur,integratron,https://git.unistra.fr/groups/integratron,,,,,,4,,GitLab
+memphis,data and codes for the Inria Team MEMPHIS (BSO),memphis,https://gitlab.inria.fr/groups/memphis,,,,,,1,,GitLab
+T4_SPC_Simulator,,T4_SPC_Simulator,https://git.unistra.fr/groups/T4_SPC_Simulator,,,,,,1,,GitLab
+GET_TRiX,Projects of the TRiX's facility,GeT_TRiX,https://forgemia.inra.fr/groups/GET_TRiX,https://forgemia.inra.fr/uploads/-/system/group/avatar/334/GeT_logo-RVB.png,,,,,1,,GitLab
+sesame,http://recherche.telecom-bretagne.eu/sesame,sesame,https://gitlab.inria.fr/groups/sesame,,,,,,1,,GitLab
+1024pix,Plateforme d'évaluation et de certification des compétences numériques pour tous les français.,Pix,https://github.com/1024pix,https://avatars0.githubusercontent.com/u/24589578?v=4,https://pix.fr,Paris,,False,31,2016-12-15T14:16:16Z,GitHub
+csrd,,csrd,https://git.unistra.fr/groups/csrd,,,,,,1,,GitLab
 umr-gdec,"Projects of UMR Génétique Diversité et Ecophysiologie des Céréales.
 
 https://www6.clermont.inra.fr/umr1095
@@ -303,246 +333,233 @@ Contacts:
 <helene.rimbert@inra.fr>  
 
 <philippe.leroy.2@inra.fr>  ",UMR GDEC,https://forgemia.inra.fr/groups/umr-gdec,https://forgemia.inra.fr/uploads/-/system/group/avatar/848/gdec_logo.png,,,,,4,,GitLab
-dlp-sif,Includes the stuff related to the Demandez le Programme! organized by the SED of Saclay. ,dlp-sif,https://gitlab.inria.fr/groups/dlp-sif,,,,,,2,,GitLab
-EIG_2019,Gitlab du projet plume,EIG_2019,https://gitlabjf.ccomptes.fr/groups/EIG_2019,,,,,,0,,GitLab
-communautes,Groupe regroupant les projets réalisés par la communautés des JF,communautes,https://gitlabjf.ccomptes.fr/groups/communautes,,,,,,0,,GitLab
-genouest-public,Public projects for GenOuest,genouest-public,https://gitlab.inria.fr/groups/genouest-public,,,,,,0,,GitLab
-banquedefrance,,Banque de France,https://github.com/banquedefrance,https://avatars3.githubusercontent.com/u/22008170?v=4,,,,False,2,2016-09-05T15:04:02Z,GitHub
-nix-tutorial,,nix-tutorial,https://gitlab.inria.fr/groups/nix-tutorial,,,,,,5,,GitLab
-minagri-initial,Incubateur de services numériques du ministère de l'agriculture et de l'alimentation,INITIAL,https://github.com/minagri-initial,https://avatars2.githubusercontent.com/u/17923649?v=4,,Toulouse,celia.carceller-kemiche@agriculture.gouv.fr,False,3,2016-03-18T08:50:13Z,GitHub
-sed-lille,,SED-Lille,https://gitlab.inria.fr/groups/sed-lille,,,,,,1,,GitLab
-aife,"Agence pour l'Informatique Financière de l'État.
-
-[www.economie.gouv.fr/aife/](https://www.economie.gouv.fr/aife/)",AIFE,https://gitlab.adullact.net/groups/aife,https://gitlab.adullact.net/uploads/-/system/group/avatar/985/Logo-AIFE.png,,,,,1,,GitLab
-cosme,"Dépôt du Consortium Sources Médiévales, labelisé Cosme2 par la TGIR Huma-Num",cosme,https://gitlab.huma-num.fr/groups/cosme,,,,,,0,,GitLab
-semantic_programs,"I've got programs and want to use them to produce RDF data, to be described (with RDF data), to be trace with RDF data and maybe use/share more RDF data.
-",semantic_programs,https://gitlab.inria.fr/groups/semantic_programs,,,,,,0,,GitLab
-LAB-MI,Incubateur du ministère de l'intérieur,LAB MI,https://github.com/LAB-MI,https://avatars2.githubusercontent.com/u/40861536?v=4,,,beta@interieur.gouv.fr,False,4,2018-07-05T13:20:05Z,GitHub
-snosan-tools,Observatoire accidentologie plaisance et loisirs nautiques France,SNOSAN,https://github.com/snosan-tools,https://avatars3.githubusercontent.com/u/41202072?v=4,https://www.snosan.fr,Eaux françaises,tech@snosan.fr,True,8,2018-07-13T16:00:07Z,GitHub
-CEA-Leti,Center for Research and Specialized Technology in micro and nanotechnologies,CEA-Leti,https://github.com/CEA-Leti,https://avatars0.githubusercontent.com/u/40635112?v=4,http://www.leti-cea.com/cea-tech/leti/english/Pages/Welcome.aspx,"Grenoble, France",,False,1,2018-06-27T13:48:00Z,GitHub
-DLreasoners,,DLreasoners,https://gitlab.inria.fr/groups/DLreasoners,,,,,,1,,GitLab
-doris,,doris,https://gitlab.inria.fr/groups/doris,https://gitlab.inria.fr/uploads/-/system/group/avatar/8252/app_ic_launcher.png,,,,,2,,GitLab
-jupyter,Jupyter User Group,jupyter,https://git.unistra.fr/groups/jupyter,https://git.unistra.fr/uploads/-/system/group/avatar/1451/main-logo.png,,,,,1,,GitLab
-W51_Strebler,,W51_Strebler,https://git.unistra.fr/groups/W51_Strebler,,,,,,0,,GitLab
-irhs-bioinfo,Bioinformatic projects from BIDefI team at IRHS Angers.,IRHS-Bioinfo,https://forgemia.inra.fr/groups/irhs-bioinfo,https://forgemia.inra.fr/uploads/-/system/group/avatar/846/Wordle_Equipe_BIDeFI.png,,,,,0,,GitLab
-mnemosyne,,mnemosyne,https://gitlab.inria.fr/groups/mnemosyne,,,,,,3,,GitLab
-IOTLanguage,IoT compiler project,IOTLanguage,https://gitlab.inria.fr/groups/IOTLanguage,,,,,,1,,GitLab
-flocq,Flocq (Floats for Coq) is a floating-point formalization for the Coq system. It provides a comprehensive library of theorems on a multi-radix multi-precision arithmetic. It also supports efficient numerical computations inside Coq.,Flocq,https://gitlab.inria.fr/groups/flocq,,,,,,1,,GitLab
-skelton,,skelton,https://gitlab.inria.fr/groups/skelton,,,,,,2,,GitLab
-tikkoun_sofrim,,tikkoun_sofrim,https://gitlab.inria.fr/groups/tikkoun_sofrim,,,,,,0,,GitLab
-FormationCpp,"Ce groupe a pour but de regrouper les différentes formations en C++ données à travers les centres INRIA, et de favoriser le partage de supports de cours.",FormationCpp,https://gitlab.inria.fr/groups/FormationCpp,,,,,,0,,GitLab
-bios4biol,Group for the Cati Bios4Biol,bios4biol,https://forgemia.inra.fr/groups/bios4biol,,,,,,2,,GitLab
-T432_GOJ16_T3_B,"Paul Michel, Julian Bréant, Maxime Courillon, Benjamin Colombo",T432_GOJ16_T3_B,https://git.unistra.fr/groups/T432_GOJ16_T3_B,,,,,,1,,GitLab
-local-implicit-schemes,,Local Implicit Schemes,https://gitlab.inria.fr/groups/local-implicit-schemes,,,,,,1,,GitLab
-MAC19-T4-D,,MAC19-T4-D,https://git.unistra.fr/groups/MAC19-T4-D,,,,,,1,,GitLab
-messagerie-melanie2,Dépot public pour la messagerie Mél,Messagerie Mél,https://github.com/messagerie-melanie2,https://avatars2.githubusercontent.com/u/10559275?v=4,,,,False,26,2015-01-16T09:06:53Z,GitHub
-c,wvw,w,https://git.unistra.fr/groups/c,,,,,,1,,GitLab
-piper,,piper,https://gitlab.inria.fr/groups/piper,https://gitlab.inria.fr/uploads/-/system/group/avatar/1697/Image1.png,,,,,6,,GitLab
-LP1-ShareLoc-Reb-Walker,,LP1-ShareLoc-Reb-Walker,https://git.unistra.fr/groups/LP1-ShareLoc-Reb-Walker,,,,,,0,,GitLab
-P4y,Groupe pour les TP de traitement d'images en P4y,P4y,https://git.unistra.fr/groups/P4y,,,,,,0,,GitLab
-datachallenge,A public group for datachallenge,datachallenge,https://git.unistra.fr/groups/datachallenge,,,,,,1,,GitLab
-ihm,,inter-face-ohm-ma-chine,https://git.unistra.fr/groups/ihm,,,,,,1,,GitLab
-lifeware,Lifeware Inria team (https://lifeware.inria.fr/),Lifeware,https://gitlab.inria.fr/groups/lifeware,,,,,,1,,GitLab
-Loki,Groupe de projets de l'équipe Loki,Loki,https://gitlab.inria.fr/groups/Loki,https://gitlab.inria.fr/uploads/-/system/group/avatar/4307/loki-LT_Dark_green___red.png,,,,,1,,GitLab
-memphis,data and codes for the Inria Team MEMPHIS (BSO),memphis,https://gitlab.inria.fr/groups/memphis,,,,,,1,,GitLab
-ApieFrance,,Agence du Patrimoine Immateriel de l'Etat,https://github.com/ApieFrance,https://avatars1.githubusercontent.com/u/9610889?v=4,,"5 place des Vins-de-France, Paris",,False,1,2014-11-07T15:37:28Z,GitHub
-insa,,insa,https://git.unistra.fr/groups/insa,,,,,,0,,GitLab
-bibfr,"Dépôt des fichiers du projet ""Bibliotheques Françoises"" du programme ""Bibliothèques Virtuelle Humanites"" (CESR - Tours)
-
-",bibfr,https://gitlab.huma-num.fr/groups/bibfr,,,,,,0,,GitLab
-GUDHI,"The GUDHI library is a generic open source C++ library, with a Python interface, for Topological Data Analysis (TDA) and Higher Dimensional Geometry Understanding. The library offers state-of-the-art data structures and algorithms to construct simpli",GUDHI,https://gitlab.inria.fr/groups/GUDHI,https://gitlab.inria.fr/uploads/-/system/group/avatar/3842/touch-icon-192x192.png,,,,,2,,GitLab
-arche,groupe des projets de l'équipe ARCHE EA3400,arche,https://git.unistra.fr/groups/arche,,,,,,0,,GitLab
-systemes-dinformation,,systemes-dinformation,https://forge.grandlyon.com/groups/systemes-dinformation,https://forge.grandlyon.com/uploads/-/system/group/avatar/24/Logo_Forge_Logicielle.png,,,,,1,,GitLab
-methal,Projet MeThAL: Vers une macroanalyse du théâtre en alsacien,methal,https://git.unistra.fr/groups/methal,,,,,,1,,GitLab
-aevol,http://aevol.fr/,aevol,https://gitlab.inria.fr/groups/aevol,https://gitlab.inria.fr/uploads/-/system/group/avatar/7520/logo.png,,,,,1,,GitLab
-gerzaguet_public,Git folder for public git repositories.,Gerzaguet_Public,https://gitlab.inria.fr/groups/gerzaguet_public,,,,,,4,,GitLab
-pinocchio,"All projects related to Pinocchio, the fast rigid body dynamics library",pinocchio,https://gitlab.inria.fr/groups/pinocchio,,,,,,0,,GitLab
-resonance,,resonance,https://gitlab.inria.fr/groups/resonance,,,,,,0,,GitLab
-Ismael,,Ismael,https://git.unistra.fr/groups/Ismael,,,,,,1,,GitLab
-BaseAdresseNationale,,Base Adresse Nationale (BAN),https://github.com/BaseAdresseNationale,https://avatars2.githubusercontent.com/u/19411687?v=4,https://adresse.data.gouv.fr/,France,adresse@data.gouv.fr,False,5,2016-05-17T15:14:06Z,GitHub
-coq-contribs,Coq user's contributions (see https://coq.inria.fr),coq-contribs,https://gitlab.inria.fr/groups/coq-contribs,,,,,,0,,GitLab
-moex,Software developed within the moex project,moex,https://gitlab.inria.fr/groups/moex,,,,,,3,,GitLab
-atlanmod,"(IMT-Atlantique,  LS2N)",Atlanmod,https://github.com/atlanmod,https://avatars3.githubusercontent.com/u/5813030?v=4,http://www.atlanmod.org,Nantes,contact@atlanmod.org,False,60,2013-10-30T11:31:21Z,GitHub
-afimb,,AFIMB,https://github.com/afimb,https://avatars3.githubusercontent.com/u/5022841?v=4,http://www.developpement-durable.gouv.fr/lagence-francaise-linformation-multimodale-et-billettique-afimb,"La Défense, France",,False,23,2013-07-16T14:31:55Z,GitHub
-agroecoperenne,Ce groupe rassemble tout le software produit lors du projet,agroecoperenne,https://forgemia.inra.fr/groups/agroecoperenne,,,,,,0,,GitLab
-ac-strasbourg,,ac-strasbourg,https://git.unistra.fr/groups/ac-strasbourg,https://git.unistra.fr/uploads/-/system/group/avatar/57/ac-strasbourg.jpg,,,,,0,,GitLab
-is,,is,https://gitlab.inria.fr/groups/is,,,,,,0,,GitLab
-bibliome,Bibliome team @ MaIAGE,Bibliome,https://forgemia.inra.fr/groups/bibliome,,,,,,1,,GitLab
-panama-team,,panama,https://gitlab.inria.fr/groups/panama-team,,,,,,1,,GitLab
-PnCevennes,,,https://github.com/PnCevennes,https://avatars0.githubusercontent.com/u/8570760?v=4,,,,False,27,2014-08-27T16:37:57Z,GitHub
-ARCEP-dev,The French agency in charge of regulating telecommunications in France,ARCEP [Autorité de Régulation des Communications Électroniques et des Postes],https://github.com/ARCEP-dev,https://avatars1.githubusercontent.com/u/28592559?v=4,https://www.arcep.fr/,Paris FRANCE,,False,10,2017-05-10T09:12:58Z,GitHub
-dsi_public,Projets logiciels de la DSI d'Inria diffusés sur Internet,dsi_public,https://gitlab.inria.fr/groups/dsi_public,,,,,,2,,GitLab
-LINCnil,Laboratoire d'innovation numérique de la CNIL,LINC,https://github.com/LINCnil,https://avatars2.githubusercontent.com/u/6369551?v=4,http://linc.cnil.fr/,France,ip@cnil.fr,False,15,2014-01-10T14:24:33Z,GitHub
-nanterre,Applications citoyennes open source au service de la ville participative,Ville de Nanterre,https://github.com/nanterre,https://avatars3.githubusercontent.com/u/12966566?v=4,http://www.nanterre.fr,Nanterre,agora@mairie-nanterre.fr,False,8,2015-06-19T12:15:20Z,GitHub
-openwind,Releases of openwind toolbox,openwind,https://gitlab.inria.fr/groups/openwind,,,,,,1,,GitLab
-parkas,Team PARKAS: Synchronous Kahn Parallelism,parkas,https://gitlab.inria.fr/groups/parkas,https://gitlab.inria.fr/uploads/-/system/group/avatar/1234/9846009.png,,,,,0,,GitLab
-prosecco,The Prosecco team at Inria (https://prosecco.gforge.inria.fr/),Prosecco,https://gitlab.inria.fr/groups/prosecco,,,,,,0,,GitLab
-IUT-2015-2016,,IUT-2015-2016,https://git.unistra.fr/groups/IUT-2015-2016,https://git.unistra.fr/uploads/-/system/group/avatar/232/logo-iut-robert-schuman_1_.png,,,,,0,,GitLab
-mih18-t4-a,,MIH18-T4-A,https://git.unistra.fr/groups/mih18-t4-a,,,,,,1,,GitLab
-IUTRS,Membres du service informatique de l'IUTRS et de l'IUT LPS,IUTRS,https://git.unistra.fr/groups/IUTRS,https://git.unistra.fr/uploads/-/system/group/avatar/7/iut_2009_pant_c_.png,,,,,2,,GitLab
-pdn-certic,Groupe de développement et de recherche du Pôle Document Numérique (MRSH / UNICAEN) et du Centre de Ressources Technologiques pour les TIC (DSI / UNICAEN),pdn-certic,https://git.unicaen.fr/groups/pdn-certic,,,,,,1,,GitLab
-gappa,Gappa is a tool intended to help verifying and formally proving properties on numerical programs dealing with floating-point or fixed-point arithmetic.,Gappa,https://gitlab.inria.fr/groups/gappa,,,,,,2,,GitLab
-Quickspan,Projects related to quickspan.,Quickspan,https://gitlab.inria.fr/groups/Quickspan,,,,,,1,,GitLab
-OpenCTI-Platform,"Open Cyber Threat Intelligence Platform, supported by @ANSSI-FR, @certeu and @LuatixHQ.",OpenCTI Platform,https://github.com/OpenCTI-Platform,https://avatars3.githubusercontent.com/u/51881218?v=4,https://www.opencti.io,France,contacŧ@opencti.io,False,6,2019-06-16T13:12:38Z,GitHub
-serpico,Serpico research group,Serpico,https://gitlab.inria.fr/groups/serpico,https://gitlab.inria.fr/uploads/-/system/group/avatar/6652/logo_serpico.gif,,,,,12,,GitLab
-agos-rennes,,agos-rennes,https://gitlab.inria.fr/groups/agos-rennes,,,,,,0,,GitLab
-healthdatahub,https://health-data-hub.fr,Health Data Hub,https://gitlab.com/groups/healthdatahub,https://assets.gitlab-static.net/uploads/-/system/group/avatar/5043343/logo_hdh_400x400.png,,,,,8,,GitLab
-pub,,pub,https://git.unistra.fr/groups/pub,,,,,,2,,GitLab
-pocs,Preuves de concepts diverses,POCS,https://forge.grandlyon.com/groups/pocs,,,,,,0,,GitLab
-igrida,,igrida,https://gitlab.inria.fr/groups/igrida,,,,,,2,,GitLab
-gmsive,,gmsive,https://gitlab.inria.fr/groups/gmsive,,,,,,0,,GitLab
-cea-sec,IT Security at the French Alternative Energies and Atomic Energy Commission,CEA IT Security,https://github.com/cea-sec,https://avatars2.githubusercontent.com/u/5071925?v=4,https://twitter.com/cea_sec,France,,False,6,2013-07-23T09:31:16Z,GitHub
-lp1-brua-fornazaric,,Lp1-Brua-Fornazaric,https://git.unistra.fr/groups/lp1-brua-fornazaric,,,,,,0,,GitLab
-shiny_lisc,Un ensemble d’applications shiny développées au LISC,shiny_lisc,https://gitlab.irstea.fr/groups/shiny_lisc,,,,,,0,,GitLab
-P4zJBGLNH,,P4z JBalanche -GLauciello - NHerr,https://git.unistra.fr/groups/P4zJBGLNH,,,,,,0,,GitLab
-datalocale,Contributions du département de la Gironde aux données et codes ouverts,portail de données ouvertes datalocale.fr,https://github.com/datalocale,https://avatars2.githubusercontent.com/u/1333196?v=4,http://datalocale.fr,"Bordeaux, Gironde, France",datalocale@gironde.fr,False,37,2012-01-16T09:14:12Z,GitHub
-crowdguard-public,,Crowdguard Public,https://gitlab.inria.fr/groups/crowdguard-public,,,,,,0,,GitLab
-diverse-project,,Diverse Project,https://github.com/diverse-project,https://avatars3.githubusercontent.com/u/5571443?v=4,http://diverse-project.github.io,"Rennes, France",,False,40,2013-09-29T20:21:41Z,GitHub
-cbma,,cbma,https://gitlab.huma-num.fr/groups/cbma,,,,,,8,,GitLab
-dasgroup,,DASGROUP,https://git.unistra.fr/groups/dasgroup,,,,,,0,,GitLab
-ANSSI-FR,,ANSSI,https://github.com/ANSSI-FR,https://avatars2.githubusercontent.com/u/1921418?v=4,https://www.ssi.gouv.fr,"Paris, France",opensource@ssi.gouv.fr,True,47,2012-07-04T09:13:48Z,GitHub
-eole,Pôle logiciels libres du Ministère français de l’Éducation nationale,EOLE Team,https://github.com/eole,https://avatars3.githubusercontent.com/u/6362595?v=4,http://pcll.ac-dijon.fr/,Dijon - France,eole-team@ac-dijon.fr,False,16,2014-01-09T19:26:46Z,GitHub
-gdurif_code,,gdurif_code,https://gitlab.inria.fr/groups/gdurif_code,,,,,,0,,GitLab
-deffinis-gigout,,Deffinis-Gigout,https://git.unistra.fr/groups/deffinis-gigout,,,,,,0,,GitLab
-runaway,,runaway,https://gitlab.inria.fr/groups/runaway,,,,,,2,,GitLab
-simgrid,The projects around the SimGrid framework,simgrid,https://gitlab.inria.fr/groups/simgrid,,,,,,2,,GitLab
-adminforgemia,"Groupe d'administrateur de ForgeMIA : support-forgemia@inra.fr
-",adminforgemia,https://forgemia.inra.fr/groups/adminforgemia,https://forgemia.inra.fr/uploads/-/system/group/avatar/24/root-prompt.jpg,,,,,1,,GitLab
-maverick,Maverick team projects,maverick,https://gitlab.inria.fr/groups/maverick,https://gitlab.inria.fr/uploads/-/system/group/avatar/5320/logo.png,,,,,0,,GitLab
-allgo,Science as a service,allgo,https://gitlab.inria.fr/groups/allgo,https://gitlab.inria.fr/uploads/-/system/group/avatar/416/allgo-wo-border.png,,,,,4,,GitLab
-twoshot,,TwoShot,https://git.unistra.fr/groups/twoshot,,,,,,0,,GitLab
+sciproject,Group for manage sci project in *NIX environment,SciProject,https://forgemia.inra.fr/groups/sciproject,,,,,,1,,GitLab
+SPA18-T4-A,,SPA18-T4-A,https://git.unistra.fr/groups/SPA18-T4-A,,,,,,1,,GitLab
 rzine,,rzine,https://gitlab.huma-num.fr/groups/rzine,,,,,,1,,GitLab
-metapart,"MetaPart is a framework for graph or hypergraph manipulation that addresses different problems, like partitioning, repartitioning, or co-partitioning, ... MetaPart is made up of several projects, such as StarPart, LibGraph or CoPart.",metapart,https://gitlab.inria.fr/groups/metapart,,,,,,7,,GitLab
+grew,This repository contains code and resources relative to the grew software.,grew,https://gitlab.inria.fr/groups/grew,,,,,,17,,GitLab
+pdn-certic,Groupe de développement et de recherche du Pôle Document Numérique (MRSH / UNICAEN) et du Centre de Ressources Technologiques pour les TIC (DSI / UNICAEN),pdn-certic,https://git.unicaen.fr/groups/pdn-certic,,,,,,1,,GitLab
+why3,"Why3 is a software verification platform, featuring a versatile ML-style language and interfaces to various powerful automated and interactive theorem provers.",Why3,https://gitlab.inria.fr/groups/why3,https://gitlab.inria.fr/uploads/-/system/group/avatar/3110/logo.png,,,,,1,,GitLab
+DGA-MI-SSI,,DGA/MI SSI,https://github.com/DGA-MI-SSI,https://avatars3.githubusercontent.com/u/29043579?v=4,http://www.defense.gouv.fr/dga,,,False,2,2017-05-29T14:15:03Z,GitHub
+DIVERSIFY-project,,,https://github.com/DIVERSIFY-project,https://avatars2.githubusercontent.com/u/3983271?v=4,http://diversify-project.eu/,,,False,46,2013-03-27T08:44:08Z,GitHub
+UPSud,,Université Paris Sud,https://gitlab.adullact.net/groups/UPSud,https://gitlab.adullact.net/uploads/-/system/group/avatar/1922/xlogo-psud-saclay.jpg.pagespeed.ic.JKQOzRZRLy.jpg,,,,,1,,GitLab
+grid5000,Repositories related to the Grid'5000 project and testbed,grid5000,https://gitlab.inria.fr/groups/grid5000,https://gitlab.inria.fr/uploads/-/system/group/avatar/172/Grid5000.png,,,,,18,,GitLab
 mimesis,"Mimesis team at Inria Nancy Grand-Est (Strasbourg)
 ",mimesis,https://gitlab.inria.fr/groups/mimesis,,,,,,0,,GitLab
-assurance-maladie-digital,Acteur de la transformation numérique de l'Assurance Maladie,Le Digital de l'Assurance Maladie,https://github.com/assurance-maladie-digital,https://avatars3.githubusercontent.com/u/42236813?v=4,https://assurance-maladie.ameli.fr/qui-sommes-nous/fonctionnement/organisation/cnam-tete-reseau,Angers / Paris / Lyon / Grenoble / Valencienne,,False,7,2018-08-09T09:34:03Z,GitHub
-cidre-public,Public resources for the Cidre team ,CIDRE Public,https://gitlab.inria.fr/groups/cidre-public,,,,,,3,,GitLab
-cado-nfs,Repositories related to the cado-nfs software,cado-nfs,https://gitlab.inria.fr/groups/cado-nfs,,,,,,1,,GitLab
-Dae-Ng,Re-engineered version of the DAE platform.,Dae-Ng,https://gitlab.inria.fr/groups/Dae-Ng,,,,,,1,,GitLab
-dgfip,Direction générale des Finances publiques,DGFIP,https://framagit.org/groups/dgfip,https://framagit.org/uploads/-/system/group/avatar/44511/LogoDGFP-fr.png,,,,,1,,GitLab
-angelo.basso-bgallone,,angelo.basso-bgallone,https://git.unistra.fr/groups/angelo.basso-bgallone,,,,,,0,,GitLab
-powerapi-ng,Software-Defined Power Meters,PowerAPI,https://github.com/powerapi-ng,https://avatars1.githubusercontent.com/u/47974262?v=4,http://powerapi.org,"Lille, France",contact@powerapi.org,False,8,2019-02-25T10:34:45Z,GitHub
-record-open-archives,Open Access repositories for old projects involving the Record Team,Record Open Archives,https://forgemia.inra.fr/groups/record-open-archives,,,,,,2,,GitLab
+SGMAP-AGD,,Administrateur général des données,https://github.com/SGMAP-AGD,https://avatars2.githubusercontent.com/u/10611493?v=4,,,,False,23,2015-01-20T09:06:59Z,GitHub
+T432-BAS18-T4-A,Groupe pour le projet T4,T432-BAS18-T4-A,https://git.unistra.fr/groups/T432-BAS18-T4-A,,,,,,1,,GitLab
 star-explain,,star-explain,https://gitlab.inria.fr/groups/star-explain,,,,,,3,,GitLab
-QTL,Group for the QTL team. Mainly dedicated to development of Spell-QTL.,QTL,https://forgemia.inra.fr/groups/QTL,,,,,,1,,GitLab
-DREAL-NA,"Direction régionale de l'environnement, de l'aménagement et du logement de Nouvelle-Aquitaine",DREAL Nouvelle-Aquitaine,https://github.com/DREAL-NA,https://avatars1.githubusercontent.com/u/45490203?v=4,http://www.nouvelle-aquitaine.developpement-durable.gouv.fr,Nouvelle-Aquitaine,,False,1,2018-11-30T14:03:05Z,GitHub
-W4b_Hartmann_Kieu,,W4b_Hartmann_Kieu,https://git.unistra.fr/groups/W4b_Hartmann_Kieu,,,,,,1,,GitLab
-polewebmaedi,,Pôle Web | MAEDI DCP,https://github.com/polewebmaedi,https://avatars0.githubusercontent.com/u/10907742?v=4,http://www.diplomatie.gouv.fr/,"Quai d'Orsay, Paris, France",quentin.drouet@diplomatie.gouv.fr,False,4,2015-02-08T11:49:13Z,GitHub
-Inist-CNRS,Open source developments at Institute for scientific and technical information,Inist-CNRS,https://github.com/Inist-CNRS,https://avatars0.githubusercontent.com/u/11553240?v=4,http://www.inist.fr,"Nancy, France",,False,82,2015-03-19T09:02:18Z,GitHub
-enseignement-mistea,,enseignement-MISTEA,https://forgemia.inra.fr/groups/enseignement-mistea,,,,,,1,,GitLab
-opendatateam,The international team in charge of udata related stuff.,Open Data Team,https://github.com/opendatateam,https://avatars2.githubusercontent.com/u/19330690?v=4,https://getudata.org,World,contact@opendata.team,True,37,2016-05-12T16:04:11Z,GitHub
-ir-2019,"Groupe des étudiants d'Informatique et Réseaux 1ère année, Promo 2019",IR-2019,https://git.unistra.fr/groups/ir-2019,,,,,,0,,GitLab
-M32_18-61-DES,,M32_18-61-DES,https://git.unistra.fr/groups/M32_18-61-DES,,,,,,1,,GitLab
-altair,,altair,https://gitlabjf.ccomptes.fr/groups/altair,,,,,,1,,GitLab
-hsplit,Hardware split of MPI communicators,Hsplit,https://gitlab.inria.fr/groups/hsplit,,,,,,1,,GitLab
-SocialGouv,Fabrique numérique des Ministères Sociaux,Fabrique numérique des Ministères Sociaux,https://github.com/SocialGouv,https://avatars3.githubusercontent.com/u/35456799?v=4,https://incubateur.social.gouv.fr,Paris,dsi-incubateur@sg.social.gouv.fr,False,98,2018-01-15T13:33:35Z,GitHub
-stz,sdfsfs,stz,https://git.unistra.fr/groups/stz,,,,,,0,,GitLab
-scl19-t4-a,,SCL19-T4-A,https://git.unistra.fr/groups/scl19-t4-a,,,,,,1,,GitLab
-aviz,"Projects released or developed by the Aviz team-project https://www.aviz.fr/
-",aviz,https://gitlab.inria.fr/groups/aviz,,,,,,1,,GitLab
-usept,Micha et Thomas sont là,usept,https://git.unistra.fr/groups/usept,,,,,,1,,GitLab
-projet-integrateur-grp-3,,projet-integrateur-grp-3,https://git.unistra.fr/groups/projet-integrateur-grp-3,,,,,,1,,GitLab
-synchrone,,synchrone,https://gitlab.inria.fr/groups/synchrone,,,,,,1,,GitLab
-openmp,"OpenMP runtime developments at INRIA RA
-* libkomp: extensions to the Intel OpenMP runtime libOMP  used by Intel compilers and CLANG
-* kaapi: past library for fine grain data flow task programming with various APIs (C, C++, Fortran) 
-",openmp,https://gitlab.inria.fr/groups/openmp,,,,,,7,,GitLab
+4p,Plateforme traitement données drone et phenomobile - projet PHENOME,4P,https://forgemia.inra.fr/groups/4p,,,,,,1,,GitLab
+alexdylanetiphaine,test exercice collaborer,alexdylanetiphaine,https://git.unistra.fr/groups/alexdylanetiphaine,,,,,,0,,GitLab
+is,,is,https://gitlab.inria.fr/groups/is,,,,,,0,,GitLab
+openfisca,A versatile microsimulation software,OpenFisca,https://framagit.org/groups/openfisca,https://framagit.org/uploads/-/system/group/avatar/221/openfisca-1794404.png,,,,,10,,GitLab
+emax,,emax,https://gitlab.irstea.fr/groups/emax,,,,,,1,,GitLab
+vidjil,"Repertoire Sequencing (RepSeq) tools, Bonsai bioinformatics lab  at CRIStAL (Univ. Lille, CNRS) and Inria.",vidjil,https://gitlab.inria.fr/groups/vidjil,https://gitlab.inria.fr/uploads/-/system/group/avatar/51/vidjil-avatar.png,,,,,6,,GitLab
+P52_SANTORO_SCHNEPP,Binôme module P52 SANTORO Anthony et SCHNEPP Jemy.,P52_SANTORO_SCHNEPP,https://git.unistra.fr/groups/P52_SANTORO_SCHNEPP,,,,,,0,,GitLab
+mecsi-ext,Projets développés et maintenus par des partenaires extérieurs de la médiation scientifiques Inria,mecsi-ext,https://gitlab.inria.fr/groups/mecsi-ext,,,,,,1,,GitLab
+coq-contribs,Coq user's contributions (see https://coq.inria.fr),coq-contribs,https://gitlab.inria.fr/groups/coq-contribs,,,,,,0,,GitLab
+tnfs-alpha,,tnfs-alpha,https://gitlab.inria.fr/groups/tnfs-alpha,,,,,,1,,GitLab
+t4-boost,,Les JAVAlangue,https://git.unistra.fr/groups/t4-boost,https://git.unistra.fr/uploads/-/system/group/avatar/2554/adzda.jpg,,,,,1,,GitLab
+frenchcropusage,team copain has created several thesaurii for document management and dataset description,thesaurus,https://gitlab.irstea.fr/groups/frenchcropusage,,,,,,0,,GitLab
+P4y,Groupe pour les TP de traitement d'images en P4y,P4y,https://git.unistra.fr/groups/P4y,,,,,,0,,GitLab
+clipos,"CLIP OS version 5, published by @ANSSI-FR ",CLIP OS,https://github.com/clipos,https://avatars1.githubusercontent.com/u/33755864?v=4,https://clip-os.org,"Paris, France",clipos@ssi.gouv.fr,True,22,2017-11-17T14:32:48Z,GitHub
+irhs-bioinfo,Bioinformatic projects from BIDefI team at IRHS Angers.,IRHS-Bioinfo,https://forgemia.inra.fr/groups/irhs-bioinfo,https://forgemia.inra.fr/uploads/-/system/group/avatar/846/Wordle_Equipe_BIDeFI.png,,,,,0,,GitLab
+umr-astre,"https://umr-astre.cirad.fr/
+Mixed Research Unit Animals, Health, Territories, Risks and Ecosystems
+Cirad - Inra
+Montpellier, France",UMR-ASTRE,https://forgemia.inra.fr/groups/umr-astre,https://forgemia.inra.fr/uploads/-/system/group/avatar/840/ASTRE_LOGO_ANGLAIS_couleur_lo.png,,,,,6,,GitLab
+Phylophile,Phylophile project,Phylophile,https://gitlab.inria.fr/groups/Phylophile,,,,,,2,,GitLab
+LINCnil,Laboratoire d'innovation numérique de la CNIL,LINC,https://github.com/LINCnil,https://avatars2.githubusercontent.com/u/6369551?v=4,http://linc.cnil.fr/,France,ip@cnil.fr,False,15,2014-01-10T14:24:33Z,GitHub
+riatelab,"Magrit, cartography, presentations, packages",riatelab,https://github.com/riatelab,https://avatars1.githubusercontent.com/u/17590565?v=4,http://riate.cnrs.fr,Paris,,False,29,2016-03-02T10:09:41Z,GitHub
+zombilingo,,zombilingo,https://gitlab.inria.fr/groups/zombilingo,,,,,,0,,GitLab
+urgi-is,Groupe de l'ensemble des membres de l'équipe _Information System & Data Integration_ de l'URGI : https://urgi.versailles.inra.fr/About-us/Team,urgi-is,https://forgemia.inra.fr/groups/urgi-is,,,,,,2,,GitLab
+miet,,miet,https://gitlab.inria.fr/groups/miet,,,,,,1,,GitLab
+community,,community,https://git.unistra.fr/groups/community,,,,,,4,,GitLab
+lifeware,Lifeware Inria team (https://lifeware.inria.fr/),Lifeware,https://gitlab.inria.fr/groups/lifeware,,,,,,1,,GitLab
+cigri-ctrl,,cigri-ctrl,https://gitlab.inria.fr/groups/cigri-ctrl,,,,,,2,,GitLab
+mecsci,Le groupe GitLab de la médiation scientifique Inria,mecsci,https://gitlab.inria.fr/groups/mecsci,,,,,,0,,GitLab
+tyrex-public,Projects from the Tyrex team available to the public: https://tyrex.inria.fr,Tyrex Public,https://gitlab.inria.fr/groups/tyrex-public,https://gitlab.inria.fr/uploads/-/system/group/avatar/5242/TrX.png,,,,,1,,GitLab
+goj19-t4-b,Projet T4 Projet Tutoré Tycoon,GOJ19-T4-B,https://git.unistra.fr/groups/goj19-t4-b,,,,,,1,,GitLab
+inria-ci,This group contains people working or managing the Inria Continuous Integration service.,inria-ci,https://gitlab.inria.fr/groups/inria-ci,,,,,,2,,GitLab
+ProgAvancee,"Groupe pour le projet de Programmation Avancée :
+- Morgane Ritter (M1 I3D CMI IIRVIJ)
+- Martin Heitz (M1 I3D CMI IIRVIJ)
+",ProgAvancee,https://git.unistra.fr/groups/ProgAvancee,,,,,,0,,GitLab
+mymenu-1,,Mymenu-1,https://git.unistra.fr/groups/mymenu-1,,,,,,0,,GitLab
+LP1-ShareLoc-Reb-Walker,,LP1-ShareLoc-Reb-Walker,https://git.unistra.fr/groups/LP1-ShareLoc-Reb-Walker,,,,,,0,,GitLab
+piy,M1 piy ct,piy,https://gitlab.inria.fr/groups/piy,,,,,,1,,GitLab
+elsa,,Elsa,https://git.unistra.fr/groups/elsa,https://git.unistra.fr/uploads/-/system/group/avatar/2984/elsa-frozenx750.jpg,,,,,0,,GitLab
+dlp-sif,Includes the stuff related to the Demandez le Programme! organized by the SED of Saclay. ,dlp-sif,https://gitlab.inria.fr/groups/dlp-sif,,,,,,2,,GitLab
 scripta,,scripta,https://gitlab.inria.fr/groups/scripta,,,,,,1,,GitLab
-Spirals,GitLab group for the Inria/ULille Spirals project-team - http://team.inria.fr/spirals,Spirals,https://gitlab.inria.fr/groups/Spirals,https://gitlab.inria.fr/uploads/-/system/group/avatar/945/Untitled.png,,,,,1,,GitLab
-mediation-sif,,Mediation-SIF,https://gitlab.inria.fr/groups/mediation-sif,,,,,,0,,GitLab
-micmacIGN,,,https://github.com/micmacIGN,https://avatars2.githubusercontent.com/u/23313230?v=4,,,,False,5,2016-11-07T12:47:54Z,GitHub
-batsim,A group about Batsim and its ecosystem,batsim,https://gitlab.inria.fr/groups/batsim,,,,,,12,,GitLab
-erasme,Service usages numériques de la Métropole de Lyon,Erasme,https://github.com/erasme,https://avatars2.githubusercontent.com/u/204704?v=4,http://www.erasme.org,"208 Bis Rue Garibaldi, Lyon, Rhône, France",,False,49,2010-02-16T16:27:05Z,GitHub
-NGS,,NGS,https://gitlab.inria.fr/groups/NGS,,,,,,5,,GitLab
-blare,Blare DIFC tools,blare,https://gitlab.inria.fr/groups/blare,,,,,,5,,GitLab
-etalab,,etalab,https://framagit.org/groups/etalab,https://framagit.org/uploads/-/system/group/avatar/682/etalab.png,,,,,31,,GitLab
-sequoia,,sequoia,https://gitlab.inria.fr/groups/sequoia,,,,,,1,,GitLab
-uhaina,Uhaina software development,uhaina,https://gitlab.inria.fr/groups/uhaina,,,,,,0,,GitLab
-scl19-t4-c,,SCL19-T4-C,https://git.unistra.fr/groups/scl19-t4-c,,,,,,1,,GitLab
-integratron,Groupe de projet integrateur,integratron,https://git.unistra.fr/groups/integratron,,,,,,4,,GitLab
-CCSDForge,Centre pour la Communication Scientifique Directe,CCSD,https://github.com/CCSDForge,https://avatars2.githubusercontent.com/u/11413818?v=4,https://www.ccsd.cnrs.fr/,France,ccsd@ccsd.cnrs.fr,False,7,2015-03-10T20:19:03Z,GitHub
+crv14,"This group is purposed to host benchmarks and experiments related to CRV 14, the 1st International Competition on Runtime Verification held as part of the 2014 edition of the Runtime Verification conference.",crv14,https://gitlab.inria.fr/groups/crv14,,,,,,2,,GitLab
+P4az-QQA,P4a Gossa,P4az,https://git.unistra.fr/groups/P4az-QQA,,,,,,1,,GitLab
+observatoire-territoires,,Observatoire des territoires - CGET,https://github.com/observatoire-territoires,https://avatars1.githubusercontent.com/u/33053387?v=4,http://www.observatoire-des-territoires.gouv.fr,,,False,10,2017-10-24T08:10:47Z,GitHub
+france-mobilites,le code source de l'outil de capitalisation des marchés publics de France Mobilités,France-Mobilites,https://gitlab.com/groups/france-mobilites,,,,,,1,,GitLab
+A31DhordainSchwehr,,A31DhordainSchwehr,https://git.unistra.fr/groups/A31DhordainSchwehr,,,,,,0,,GitLab
+MTES-MCT,,Ministères de la Transition écologique et solidaire & Cohésion des territoires,https://github.com/MTES-MCT,https://avatars2.githubusercontent.com/u/20193330?v=4,,,,False,72,2016-06-28T18:58:13Z,GitHub
+G5M32,Projet Hamming M32,G5M32,https://git.unistra.fr/groups/G5M32,,,,,,0,,GitLab
+disrpt,Projects linked to the DisRPT shared task (Discourse Relation Parsing and Treebanking).,disrpt,https://gitlab.inria.fr/groups/disrpt,,,,,,1,,GitLab
+PnEcrins,Etablissement public du ministère de l'environnement,Parc national des Ecrins,https://github.com/PnEcrins,https://avatars3.githubusercontent.com/u/10025600?v=4,http://www.ecrins-parcnational.fr,"Gap, France",,False,12,2014-12-01T10:56:16Z,GitHub
+lutece-secteur-public,"Applications Métiers LUTECE destinées au Secteur Public. Ne contient pas les modules standards Lutece (moteur de formulaire, ...) hébergés sur lutece-platform",LUTECE Secteur Public,https://github.com/lutece-secteur-public,https://avatars0.githubusercontent.com/u/14327368?v=4,http://fr.lutece.paris.fr,France,,False,127,2015-09-17T08:20:05Z,GitHub
+tech-dev,,tech-dev,https://git.unistra.fr/groups/tech-dev,,,,,,0,,GitLab
+matherials,,matherials,https://gitlab.inria.fr/groups/matherials,,,,,,1,,GitLab
+phenotic,"Git repository of Phenotic team
+https://team.forgemia.inra.fr/phenotic/channels/town-square",Phenotic,https://forgemia.inra.fr/groups/phenotic,https://forgemia.inra.fr/uploads/-/system/group/avatar/466/LogoPhenotic_100x340.jpg,,,,,0,,GitLab
+CNRS-DSI-Dev,OSS Github's repository for CNRS DSI Development Department,CNRS DSI Development Department,https://github.com/CNRS-DSI-Dev,https://avatars2.githubusercontent.com/u/8994995?v=4,,,,False,25,2014-10-02T09:48:14Z,GitHub
+SPA18-T4-D,,PrairieSoft,https://git.unistra.fr/groups/SPA18-T4-D,,,,,,1,,GitLab
+cado-nfs,Repositories related to the cado-nfs software,cado-nfs,https://gitlab.inria.fr/groups/cado-nfs,,,,,,1,,GitLab
+TeamPlay_Public,"Public, open group, for TeamPlay related purposes. 
+Can host subgroups or Git Projects.",TeamPlay_Public,https://gitlab.inria.fr/groups/TeamPlay_Public,,,,,,1,,GitLab
+irrig,Public group for the project IRRIG,IRRIG2019,https://gitlab.irstea.fr/groups/irrig,,,,,,1,,GitLab
+necs_lib,,necs_lib,https://gitlab.inria.fr/groups/necs_lib,,,,,,2,,GitLab
+BLL17_T3_D,,BLL17_T3_D,https://git.unistra.fr/groups/BLL17_T3_D,,,,,,1,,GitLab
+guinfaby,"TAIS D-WEB, projet d'apprentissage pour un clone Google Sheets open source.",guinfaby,https://git.unistra.fr/groups/guinfaby,,,,,,0,,GitLab
+InriaMecsci,,,https://github.com/InriaMecsci,https://avatars3.githubusercontent.com/u/1922081?v=4,,,,False,35,2012-07-04T13:01:01Z,GitHub
+DecisionBleDur,The work group of the DecisionBleDur project,DecisionBleDur,https://forgemia.inra.fr/groups/DecisionBleDur,,,,,,1,,GitLab
+adminforgemia,"Groupe d'administrateur de ForgeMIA : support-forgemia@inra.fr
+",adminforgemia,https://forgemia.inra.fr/groups/adminforgemia,https://forgemia.inra.fr/uploads/-/system/group/avatar/24/root-prompt.jpg,,,,,1,,GitLab
+almanach,Group to host software developed by Almanach or inherited from Alpage and Atoll,almanach,https://gitlab.inria.fr/groups/almanach,,,,,,1,,GitLab
+xstra-dev,,xstra-dev,https://git.unistra.fr/groups/xstra-dev,,,,,,3,,GitLab
+diu-algo,resources linked to the algorithm module of the DIU.,diu-algo,https://gitlab.inria.fr/groups/diu-algo,,,,,,1,,GitLab
+T3_MIH18_T3_A,,T234_MIH18_T3_A,https://git.unistra.fr/groups/T3_MIH18_T3_A,,,,,,1,,GitLab
+asclepios,Inria Epione team code,Epione,https://gitlab.inria.fr/groups/asclepios,,,,,,1,,GitLab
+meteofrance,,Météo-France GitHub Organization,https://github.com/meteofrance,https://avatars3.githubusercontent.com/u/47791234?v=4,https://meteofrance.github.io/,,,False,2,2019-02-19T17:41:50Z,GitHub
+communaute-cimi,The Information Technology Community of the (French) Interior Ministry,CIMI,https://github.com/communaute-cimi,https://avatars2.githubusercontent.com/u/6548778?v=4,http://www.interieur.gouv.fr/,Paris,cimi@interieur.gouv.fr,False,21,2014-01-30T22:05:58Z,GitHub
+sigrennesmetropole,Service  de l'Information Géographique de Rennes Métropole,SIG RENNES METROPOLE,https://github.com/sigrennesmetropole,https://avatars0.githubusercontent.com/u/9948947?v=4,,RENNES,sig@rennesmetropole.fr,False,15,2014-11-25T15:18:16Z,GitHub
+dev-durable-paris,,dev-durable-paris,https://gitlab.inria.fr/groups/dev-durable-paris,,,,,,0,,GitLab
+transfer20,,Simbiot_summer_internship,https://gitlab.inria.fr/groups/transfer20,https://gitlab.inria.fr/uploads/-/system/group/avatar/9360/logo-simbiot-libre-V4-réduit-1024x427.jpg,,,,,0,,GitLab
+maf19-t4-c,Groupe de t4,MAF19-T4-C,https://git.unistra.fr/groups/maf19-t4-c,,,,,,1,,GitLab
+atelier-donnees,,atelier-donnees,https://gitlab.huma-num.fr/groups/atelier-donnees,,,,,,1,,GitLab
+tsp-ics,theory and simulation group at institute Charles Sadron,tsp-ics,https://git.unistra.fr/groups/tsp-ics,https://git.unistra.fr/uploads/-/system/group/avatar/327/ICSadron-UdS.png,,,,,0,,GitLab
+panama-team,,panama,https://gitlab.inria.fr/groups/panama-team,,,,,,1,,GitLab
 RMOD,"Home of the RMOD team •
 [info for newcomers](RMOD/Welcome) •
 [shared bibliography](RMOD/Bibliography) and [paper templates](RMOD/LatexTemplates) •
 [team infrastructure](RMOD/servers)",RMOD,https://gitlab.inria.fr/groups/RMOD,https://gitlab.inria.fr/uploads/-/system/group/avatar/6199/rmod.png,,,,,3,,GitLab
-matherials,,matherials,https://gitlab.inria.fr/groups/matherials,,,,,,1,,GitLab
-SocieteNumerique,Mission Société Numérique - Agence du Numérique - République Française,Société Numérique,https://github.com/SocieteNumerique,https://avatars3.githubusercontent.com/u/31274833?v=4,https://www.societenumerique.gouv.fr,"Paris, France",societe.numerique@finances.gouv.fr,False,11,2017-08-23T09:30:29Z,GitHub
-ACG,This group gathers together the projects related to Abstract Categorial Grammars.,ACG,https://gitlab.inria.fr/groups/ACG,,,,,,0,,GitLab
-obelix,,obelix,https://gitlab.inria.fr/groups/obelix,,,,,,2,,GitLab
-get-it,INRA Transfert - GeT-IT,GeT-IT,https://forgemia.inra.fr/groups/get-it,,,,,,0,,GitLab
-INRIA,"Inria, the French national research institute for the digital sciences",Inria,https://github.com/INRIA,https://avatars2.githubusercontent.com/u/2951919?v=4,https://www.inria.fr/,,,False,19,2012-12-03T13:03:05Z,GitHub
-usnb,,usnb,https://gitlab.inria.fr/groups/usnb,,,,,,11,,GitLab
-M32-RSA,,M32-RSA,https://git.unistra.fr/groups/M32-RSA,,,,,,0,,GitLab
-verifisc,Application des méthodes formelles au code général des impôts. Mailing list : https://sympa.inria.fr/sympa/info/verifisc-announce,Verifisc,https://gitlab.inria.fr/groups/verifisc,,,,,,3,,GitLab
-Pseudo_Haptic_Textures,,Pseudo_Haptic_Textures,https://gitlab.inria.fr/groups/Pseudo_Haptic_Textures,,,,,,0,,GitLab
-GendarmerieNationale,,Gendarmerie nationale,https://github.com/GendarmerieNationale,https://avatars1.githubusercontent.com/u/14325754?v=4,http://www.gendarmerie.interieur.gouv.fr,,,False,7,2015-09-17T06:21:20Z,GitHub
-T432_DIP18_T3_B,,T432_DIP18_T3_B,https://git.unistra.fr/groups/T432_DIP18_T3_B,,,,,,1,,GitLab
-AT1A,,AT1A,https://git.unistra.fr/groups/AT1A,,,,,,1,,GitLab
-BLL17_T3_D,,BLL17_T3_D,https://git.unistra.fr/groups/BLL17_T3_D,,,,,,1,,GitLab
-consultation-gouv,,Consultation.gouv.fr,https://github.com/consultation-gouv,https://avatars2.githubusercontent.com/u/26903975?v=4,,,support.consultation@etalab.gouv.fr,False,4,2017-04-04T15:39:43Z,GitHub
-modelisation-deplacements,Membres du réseau de modélisation statique des déplacements,Modelisation deplacements,https://gitlab.cerema.fr/groups/modelisation-deplacements,,,,,,0,,GitLab
-MoReFEM,"MoReFEM core library and models that are built on top of it.
-
-MoReFEM is a HPC finite element library developed by M3DISIM team.",MoReFEM,https://gitlab.inria.fr/groups/MoReFEM,,,,,,1,,GitLab
-support,,Support Gitlab,https://gitlab.irstea.fr/groups/support,,,,,,1,,GitLab
-MIH18-T4-B,"Groupe de T4 composé de Carole Tréser, Jean-Noël Mayeur et Maxime Dhordain",MIH18-T4-B,https://git.unistra.fr/groups/MIH18-T4-B,https://git.unistra.fr/uploads/-/system/group/avatar/1616/29--merkel-in-berlin---4256402fe206be14.jpg,,,,,1,,GitLab
-ina-foss,,Institut National de l'Audiovisuel,https://github.com/ina-foss,https://avatars2.githubusercontent.com/u/10210683?v=4,http://www.ina.fr,France,,False,14,2014-12-16T16:27:51Z,GitHub
-musee-saint-raymond,"Projets numériques du musée Saint-Raymond, musée d'Archéologie de Toulouse.",Musée Saint-Raymond,https://gitlab.com/groups/musee-saint-raymond,https://assets.gitlab-static.net/uploads/-/system/group/avatar/3815549/logo-musee-saint-raymond.png,,,,,1,,GitLab
-cedar,"CEDAR is a joint team between Inria Saclay and LIX (CNRS – UMR 7161 and Ecole Polytechnique), focused on rich data analytics at cloud scale.",cedar,https://gitlab.inria.fr/groups/cedar,,,,,,8,,GitLab
-anr-greco,Groupe de dépots pour l'ANR Greco,anr-greco,https://gitlab.inria.fr/groups/anr-greco,,,,,,0,,GitLab
-EDS-APHP,Entrepôt de Données de Santé - French Healthcare Data Warehouse - APHP,EDS-APHP,https://github.com/EDS-APHP,https://avatars1.githubusercontent.com/u/38686630?v=4,,,,False,26,2018-04-24T08:57:48Z,GitHub
-vle-forge,,Virtual Laboratory Environment,https://github.com/vle-forge,https://avatars1.githubusercontent.com/u/2691935?v=4,http://www.vle-project.org,INRA,gauthier.quesnel@inra.fr,False,10,2012-10-31T14:45:32Z,GitHub
-anatoscope,,anatoscope,https://gitlab.inria.fr/groups/anatoscope,,,,,,0,,GitLab
-M32_18-11-CRC,,M32_18-11-CRC,https://git.unistra.fr/groups/M32_18-11-CRC,,,,,,0,,GitLab
-Unix-Corne,Une équipe de licornes.,Unix-Corne,https://git.unistra.fr/groups/Unix-Corne,https://git.unistra.fr/uploads/-/system/group/avatar/800/licornes.jpg,,,,,0,,GitLab
-Puffertools,Puffertools groups projects related to malleability in distributed storage systems.,Puffertools,https://gitlab.inria.fr/groups/Puffertools,https://gitlab.inria.fr/uploads/-/system/group/avatar/5684/Screen_Shot_2018-07-20_at_2.24.47_PM.png,,,,,3,,GitLab
-t4-the-origin,Le groupe de T4. Les vrais. Des économistes comme vous n'en avez jamais vu. C'est faux. ,MAC19-T4-B,https://git.unistra.fr/groups/t4-the-origin,https://git.unistra.fr/uploads/-/system/group/avatar/2569/244416_640876411_cheveuxenbroussaille_H090326_L.jpg,,,,,1,,GitLab
-1ag-2019,Groupes des étudiants de première année généraliste,1AG-2019,https://git.unistra.fr/groups/1ag-2019,,,,,,0,,GitLab
-myriads-team,Myriads team,myriads-team,https://gitlab.inria.fr/groups/myriads-team,,,,,,1,,GitLab
-genotoul-bioinfo,Projects of the Genotoul platform,genotoul-bioinfo,https://forgemia.inra.fr/groups/genotoul-bioinfo,,,,,,13,,GitLab
-evalanon,,evalanon,https://gitlab.inria.fr/groups/evalanon,,,,,,2,,GitLab
-wikijs,,wikijs,https://gitlabjf.ccomptes.fr/groups/wikijs,https://gitlabjf.ccomptes.fr/uploads/-/system/group/avatar/85/koala.GIF,,,,,1,,GitLab
-artichaud,,ArtiChaud,https://git.unistra.fr/groups/artichaud,,,,,,0,,GitLab
-VeRDi,,VeRDi,https://gitlab.inria.fr/groups/VeRDi,,,,,,0,,GitLab
-sciproject,Group for manage sci project in *NIX environment,SciProject,https://forgemia.inra.fr/groups/sciproject,,,,,,1,,GitLab
-sesame,http://recherche.telecom-bretagne.eu/sesame,sesame,https://gitlab.inria.fr/groups/sesame,,,,,,1,,GitLab
-infoprox,,infoprox,https://git.unistra.fr/groups/infoprox,,,,,,0,,GitLab
-test,,test,https://git.unistra.fr/groups/test,,,,,,0,,GitLab
-coding-dojo-saclay,Regular coding dojo organized at Inria Saclay ,coding-dojo-saclay,https://gitlab.inria.fr/groups/coding-dojo-saclay,,,,,,3,,GitLab
-unistra,,Université de Strasbourg,https://github.com/unistra,https://avatars0.githubusercontent.com/u/1830566?v=4,https://unistra.fr,France,,True,64,2012-06-08T12:42:24Z,GitHub
-mimoza,Mimoza combines the model generalization method with the zooming user interface (ZUI) paradigm and allows a human expert to explore metabolic network models in a semantically zoomable manner.,mimoza,https://gitlab.inria.fr/groups/mimoza,,,,,,1,,GitLab
-belenios,Verifiable online voting system,belenios,https://gitlab.inria.fr/groups/belenios,,,,,,1,,GitLab
-DPI_ENERGIE,,DPI_ENERGIE,https://git.unistra.fr/groups/DPI_ENERGIE,,,,,,0,,GitLab
-urgi-is,Groupe de l'ensemble des membres de l'équipe _Information System & Data Integration_ de l'URGI : https://urgi.versailles.inra.fr/About-us/Team,urgi-is,https://forgemia.inra.fr/groups/urgi-is,,,,,,2,,GitLab
-1024pix,Plateforme d'évaluation et de certification des compétences numériques pour tous les français.,Pix,https://github.com/1024pix,https://avatars0.githubusercontent.com/u/24589578?v=4,https://pix.fr,Paris,,False,31,2016-12-15T14:16:16Z,GitHub
-arar_reporter,pour ajouter facilement les reporters (issues),ArAr_reporter,https://gitlab.huma-num.fr/groups/arar_reporter,,,,,,0,,GitLab
-SAV18-T4-C,,SAV18-T4-C,https://git.unistra.fr/groups/SAV18-T4-C,https://git.unistra.fr/uploads/-/system/group/avatar/1601/textless.png,,,,,1,,GitLab
-mymenu-1,,Mymenu-1,https://git.unistra.fr/groups/mymenu-1,,,,,,0,,GitLab
-creativlab,,CreativLab,https://gitlab.inria.fr/groups/creativlab,,,,,,0,,GitLab
-T432_SPA18_T3_B,Projet T3,T432_SPA18_T3_B,https://git.unistra.fr/groups/T432_SPA18_T3_B,,,,,,1,,GitLab
-CeintureNoire,"Ismael EL KASBAOUI, Dresse Yassine, Mickaël Kenan",CeintureNoire,https://git.unistra.fr/groups/CeintureNoire,,,,,,0,,GitLab
-CEREMA,,CEREMA,https://github.com/CEREMA,https://avatars2.githubusercontent.com/u/5927912?v=4,,,,False,52,2013-11-13T09:51:42Z,GitHub
-dash,"Group for presentations, administrative documents etc linked to ANR Dash.",dash,https://gitlab.inria.fr/groups/dash,https://gitlab.inria.fr/uploads/-/system/group/avatar/3234/logo_dash.png,,,,,1,,GitLab
-P4a,Groupe de projet pour les TP de P4a (programmation mobile - Android),P4a,https://git.unistra.fr/groups/P4a,https://git.unistra.fr/uploads/-/system/group/avatar/275/android.jpg,,,,,0,,GitLab
+anaee-dev,Développements pour Anaee-France,anaee-dev,https://forgemia.inra.fr/groups/anaee-dev,https://forgemia.inra.fr/uploads/-/system/group/avatar/175/AnaEE-France.png,,,,,0,,GitLab
+piper,,piper,https://gitlab.inria.fr/groups/piper,https://gitlab.inria.fr/uploads/-/system/group/avatar/1697/Image1.png,,,,,6,,GitLab
 sil-2-projet-2,,SIL 2 Projet 2,https://git.unistra.fr/groups/sil-2-projet-2,,,,,,0,,GitLab
-TeamPlay_Public,"Public, open group, for TeamPlay related purposes. 
-Can host subgroups or Git Projects.",TeamPlay_Public,https://gitlab.inria.fr/groups/TeamPlay_Public,,,,,,1,,GitLab
-ambanum,French Ambassador for Digital Affairs / Ambassadeur pour le numérique,AmbaNum,https://github.com/ambanum,https://avatars1.githubusercontent.com/u/49390874?v=4,https://diplomatie.gouv.fr/fr/politique-etrangere-de-la-france/diplomatie-numerique/,France,,False,20,2019-04-08T07:55:00Z,GitHub
-popstar,,popstar,https://gitlab.inria.fr/groups/popstar,https://gitlab.inria.fr/uploads/-/system/group/avatar/4508/Webp.net-resizeimage.png,,,,,1,,GitLab
-openfun,"Higher Education Excellence. Online, Free and Open Courses.",France Université Numérique,https://github.com/openfun,https://avatars2.githubusercontent.com/u/7224891?v=4,https://www.fun-mooc.fr,"Paris, France",fun.dev@fun-mooc.fr,False,67,2014-04-08T12:08:59Z,GitHub
-belenios-forks,,belenios-forks,https://gitlab.inria.fr/groups/belenios-forks,,,,,,1,,GitLab
-LETG,Unité Mixte de Recherche Littoral Environnement Télédétection et Géomatique,UMR LETG CNRS,https://github.com/LETG,https://avatars3.githubusercontent.com/u/12861431?v=4,http://letg.cnrs.fr/,,,False,12,2015-06-12T14:07:35Z,GitHub
-open-source,Projets open source UNICAEN.,open-source,https://git.unicaen.fr/groups/open-source,,,,,,4,,GitLab
-almanach,Group to host software developed by Almanach or inherited from Alpage and Atoll,almanach,https://gitlab.inria.fr/groups/almanach,,,,,,1,,GitLab
-agos-bso,,agos-bso,https://gitlab.inria.fr/groups/agos-bso,,,,,,1,,GitLab
-datapol,Repositories related to the datamove or polaris projet,datapol,https://gitlab.inria.fr/groups/datapol,,,,,,3,,GitLab
-tnfs-alpha,,tnfs-alpha,https://gitlab.inria.fr/groups/tnfs-alpha,,,,,,1,,GitLab
-P4az-QQA,P4a Gossa,P4az,https://git.unistra.fr/groups/P4az-QQA,,,,,,1,,GitLab
-openfisca,A versatile microsimulation software,OpenFisca,https://framagit.org/groups/openfisca,https://framagit.org/uploads/-/system/group/avatar/221/openfisca-1794404.png,,,,,10,,GitLab
-andiamo,Analyse Discursive Automatique Multi-Objectifs ,AnDiAMO,https://gitlab.inria.fr/groups/andiamo,https://gitlab.inria.fr/uploads/-/system/group/avatar/6805/keep-calm-and-andiamo-avanti.png,,,,,2,,GitLab
-dinsic-pim,,,https://github.com/dinsic-pim,https://avatars3.githubusercontent.com/u/35118060?v=4,,,tchap.dinsic@modernisation.gouv.fr,False,5,2018-01-04T22:38:54Z,GitHub
+gagallium,,gagallium,https://gitlab.inria.fr/groups/gagallium,,,,,,6,,GitLab
+angelo.basso-bgallone,,angelo.basso-bgallone,https://git.unistra.fr/groups/angelo.basso-bgallone,,,,,,0,,GitLab
+MarTo,Markov Toolkit for Markov models simulation: perfect sampling and Monte Carlo simulation,MarTo,https://gitlab.inria.fr/groups/MarTo,,,,,,1,,GitLab
+ANSSI-FR,,ANSSI,https://github.com/ANSSI-FR,https://avatars2.githubusercontent.com/u/1921418?v=4,https://www.ssi.gouv.fr,"Paris, France",opensource@ssi.gouv.fr,True,47,2012-07-04T09:13:48Z,GitHub
+m32_Elgamal_Grp3,,m32_Elgamal_Grp3,https://git.unistra.fr/groups/m32_Elgamal_Grp3,,,,,,0,,GitLab
+startupjf,Groupe destiné au projet développé par StartupJF,StartupJF,https://gitlabjf.ccomptes.fr/groups/startupjf,,,,,,2,,GitLab
+ECR19-T4-D,,ECR19-T4-D,https://git.unistra.fr/groups/ECR19-T4-D,,,,,,1,,GitLab
+lattice,Travaux collaboratifs du Lattice,Lattice,https://gitlab.huma-num.fr/groups/lattice,https://gitlab.huma-num.fr/uploads/-/system/group/avatar/119/logo_lattice_L.jpg,,,,,0,,GitLab
+M32_G63,Codage de Hamming,M32_G63,https://git.unistra.fr/groups/M32_G63,,,,,,0,,GitLab
+MIH18-T4-B,"Groupe de T4 composé de Carole Tréser, Jean-Noël Mayeur et Maxime Dhordain",MIH18-T4-B,https://git.unistra.fr/groups/MIH18-T4-B,https://git.unistra.fr/uploads/-/system/group/avatar/1616/29--merkel-in-berlin---4256402fe206be14.jpg,,,,,1,,GitLab
+openvibe,"The Openvibe Group is 'OpenViBE @ gitlab'.
+
+How this thing works: Clone the meta repository. That repository will have the other 3 as git submodules. To build openvibe, see the README at the meta repository root.",The Openvibe Group,https://gitlab.inria.fr/groups/openvibe,https://gitlab.inria.fr/uploads/-/system/group/avatar/3020/openvibe_empty.png,,,,,4,,GitLab
+cidre-public,Public resources for the Cidre team ,CIDRE Public,https://gitlab.inria.fr/groups/cidre-public,,,,,,3,,GitLab
+M32-RSA,,M32-RSA,https://git.unistra.fr/groups/M32-RSA,,,,,,0,,GitLab
+datalocale,Contributions du département de la Gironde aux données et codes ouverts,portail de données ouvertes datalocale.fr,https://github.com/datalocale,https://avatars2.githubusercontent.com/u/1333196?v=4,http://datalocale.fr,"Bordeaux, Gironde, France",datalocale@gironde.fr,False,37,2012-01-16T09:14:12Z,GitHub
+anatoscope,,anatoscope,https://gitlab.inria.fr/groups/anatoscope,,,,,,0,,GitLab
+solverstack,"High-performance computing software stack.
+
+User's guide : TODO",solverstack,https://gitlab.inria.fr/groups/solverstack,,,,,,15,,GitLab
+portic,"Members of ANR PORTIC 18-CE-38-0010
+https://anr.fr/Projet-ANR-18-CE38-0010",Portic,https://gitlab.huma-num.fr/groups/portic,https://gitlab.huma-num.fr/uploads/-/system/group/avatar/253/portic_logo_300dpi.png,,,,,0,,GitLab
+etalab,,etalab,https://framagit.org/groups/etalab,https://framagit.org/uploads/-/system/group/avatar/682/etalab.png,,,,,31,,GitLab
+scl19-t4-c,,SCL19-T4-C,https://git.unistra.fr/groups/scl19-t4-c,,,,,,1,,GitLab
+gtpi,"Tools for GLPI migrations, data coherence, exports, etc.",gtpi,https://gitlab.inria.fr/groups/gtpi,,,,,,1,,GitLab
+arar_reporter,pour ajouter facilement les reporters (issues),ArAr_reporter,https://gitlab.huma-num.fr/groups/arar_reporter,,,,,,0,,GitLab
+eole,Pôle logiciels libres du Ministère français de l’Éducation nationale,EOLE Team,https://github.com/eole,https://avatars3.githubusercontent.com/u/6362595?v=4,http://pcll.ac-dijon.fr/,Dijon - France,eole-team@ac-dijon.fr,False,16,2014-01-09T19:26:46Z,GitHub
+AT1-Projet-SuperCopter,Projet contenant le jeu Choplifter pour Android.,AT1-Projet-SuperCopter,https://git.unistra.fr/groups/AT1-Projet-SuperCopter,,,,,,0,,GitLab
+synchrone,,synchrone,https://gitlab.inria.fr/groups/synchrone,,,,,,1,,GitLab
+t4-the-origin,Le groupe de T4. Les vrais. Des économistes comme vous n'en avez jamais vu. C'est faux. ,MAC19-T4-B,https://git.unistra.fr/groups/t4-the-origin,https://git.unistra.fr/uploads/-/system/group/avatar/2569/244416_640876411_cheveuxenbroussaille_H090326_L.jpg,,,,,1,,GitLab
+discovery,,discovery,https://gitlab.inria.fr/groups/discovery,,,,,,5,,GitLab
+octocats,,octocats,https://git.unistra.fr/groups/octocats,,,,,,0,,GitLab
+VeRDi-project,VeRDi project - Verified Reconfiguration Driven by execution,VeRDi,https://gitlab.inria.fr/groups/VeRDi-project,,,,,,5,,GitLab
+dsi_public,Projets logiciels de la DSI d'Inria diffusés sur Internet,dsi_public,https://gitlab.inria.fr/groups/dsi_public,,,,,,2,,GitLab
+Spirals-Team,Software & data from the Spirals research team (University of Lille / Inria),Spirals Team,https://github.com/Spirals-Team,https://avatars2.githubusercontent.com/u/9421796?v=4,https://team.inria.fr/spirals,"Lille, France",,False,43,2014-10-27T19:18:57Z,GitHub
+NGS,,NGS,https://gitlab.inria.fr/groups/NGS,,,,,,5,,GitLab
+popsim_group,,popsim_group,https://forgemia.inra.fr/groups/popsim_group,,,,,,0,,GitLab
+monitoring,Monitoring Workgroup focused on Runtime Verification,monitoring,https://gitlab.inria.fr/groups/monitoring,,,,,,9,,GitLab
+cget-carto,,,https://github.com/cget-carto,https://avatars1.githubusercontent.com/u/38493408?v=4,,,,False,17,2018-04-18T09:42:24Z,GitHub
+strasbourg,,Strasbourg,https://github.com/strasbourg,https://avatars1.githubusercontent.com/u/3673357?v=4,http://strasbourg-data.fr/,"Strasbourg, France",,False,7,2013-02-22T20:56:42Z,GitHub
+cortexlab,CorteXlab cognitive radio platform,cortexlab,https://gitlab.inria.fr/groups/cortexlab,,,,,,0,,GitLab
+pidila,"Projets de la Direction de l'information légale et administrative
+https://pidila.gitlab.io/",pidila,https://gitlab.com/groups/pidila,https://assets.gitlab-static.net/uploads/-/system/group/avatar/834955/pidila.png,,,,,9,,GitLab
 enj,Détection de l'enjambement dans la poésie en anglais / Detecting enjambment in poetry in English,enj,https://git.unistra.fr/groups/enj,,,,,,1,,GitLab
-T432-BAS18-T4-A,Groupe pour le projet T4,T432-BAS18-T4-A,https://git.unistra.fr/groups/T432-BAS18-T4-A,,,,,,1,,GitLab
+PnX-SI,,SI des parcs nationaux français,https://github.com/PnX-SI,https://avatars1.githubusercontent.com/u/10531541?v=4,,,,False,31,2015-01-14T13:24:26Z,GitHub
+mih18-t4-a,,MIH18-T4-A,https://git.unistra.fr/groups/mih18-t4-a,,,,,,1,,GitLab
+l3s5,,L3S5,https://git.unistra.fr/groups/l3s5,,,,,,0,,GitLab
+SPA18-T4-C,,SPA18-T4-C,https://git.unistra.fr/groups/SPA18-T4-C,,,,,,1,,GitLab
+chemhousebas,"Ce site est un bac à sable pour le groupe chemhouse qui regroupe du personnel INRA mais aussi IRSTEA, et autres.
+ChemHouse, un pôle de compétences en Chimiométrie !
+",chemhousebas,https://forgemia.inra.fr/groups/chemhousebas,,,,,,1,,GitLab
+Dae-Ng,Re-engineered version of the DAE platform.,Dae-Ng,https://gitlab.inria.fr/groups/Dae-Ng,,,,,,1,,GitLab
+fip,,fip,https://git.unistra.fr/groups/fip,,,,,,0,,GitLab
+flyingpenguins,"Groupe Acrobatt
+
+Développement du projet GeoQuiz",flyingpenguins,https://git.unistra.fr/groups/flyingpenguins,https://git.unistra.fr/uploads/-/system/group/avatar/317/12659748_556862804480737_1516442483_n.jpg,,,,,0,,GitLab
+expression,,Expression,https://gitlab.inria.fr/groups/expression,https://gitlab.inria.fr/uploads/-/system/group/avatar/10729/Expression.png,,,,,0,,GitLab
+Alpha,Alpha language,Alpha,https://gitlab.inria.fr/groups/Alpha,,,,,,2,,GitLab
+hsplit,Hardware split of MPI communicators,Hsplit,https://gitlab.inria.fr/groups/hsplit,,,,,,1,,GitLab
+CAMMA-public,Public projects from Research Group CAMMA,CAMMA-public,https://git.unistra.fr/groups/CAMMA-public,,,,,,1,,GitLab
+sca_platform,Group of side-channel involved researchers in Rennes sharing their tools.,sca_platform,https://gitlab.inria.fr/groups/sca_platform,,,,,,0,,GitLab
+la-table-ronde,Groupe T4,La Table Ronde,https://git.unistra.fr/groups/la-table-ronde,https://git.unistra.fr/uploads/-/system/group/avatar/2561/800px-King_Arthur_and_the_Knights_of_the_Round_Table.jpg,,,,,1,,GitLab
+M32MLA,,M32_Marczyk_Lebhertz_Antony,https://git.unistra.fr/groups/M32MLA,,,,,,0,,GitLab
+gv-open,,gv-open,https://gitlab.inria.fr/groups/gv-open,,,,,,2,,GitLab
+StartupsPoleEmploi,Les Startups d’État de l'incubateur de Pôle emploi,Startups d’État Pôle emploi,https://github.com/StartupsPoleEmploi,https://avatars0.githubusercontent.com/u/24388500?v=4,http://www.pole-emploi.fr,Paris / France,,False,21,2016-12-05T12:40:31Z,GitHub
+p4b-ongagna-lehmann-at3,,Ongagna Lehmann AT3,https://git.unistra.fr/groups/p4b-ongagna-lehmann-at3,,,,,,1,,GitLab
+BrickDroid,,BrickDroid,https://git.unistra.fr/groups/BrickDroid,https://git.unistra.fr/uploads/-/system/group/avatar/202/brickDroid_2.png,,,,,0,,GitLab
+silteam,Groupe de projet pour le M2 SIL.,SILTEAM,https://git.unistra.fr/groups/silteam,https://git.unistra.fr/uploads/-/system/group/avatar/2813/580b57fcd9996e24bc43c19b.png,,,,,0,,GitLab
+1_teamkayak,,1-Team Kayak,https://git.unistra.fr/groups/1_teamkayak,,,,,,0,,GitLab
+projet-integrateur-grp-3,,projet-integrateur-grp-3,https://git.unistra.fr/groups/projet-integrateur-grp-3,,,,,,1,,GitLab
+isn,,isn,https://gitlab.inria.fr/groups/isn,,,,,,0,,GitLab
+dasgroup,,DASGROUP,https://git.unistra.fr/groups/dasgroup,,,,,,0,,GitLab
+gecos,"The GeCoS (Generic Compiler Suite) project is an open source compiler infrastructure developed in the CAIRN team at IRISA/INRIA since 2004.
+",GeCoS,https://gitlab.inria.fr/groups/gecos,https://gitlab.inria.fr/uploads/-/system/group/avatar/2310/gecos_icon.png,,,,,11,,GitLab
+e-carre,Creation d'un environnement collaboratif d'accompagnement pour les plateformes territoriales,e-carre,https://gitlab.adullact.net/groups/e-carre,https://gitlab.adullact.net/uploads/-/system/group/avatar/2009/e-carre.png,,,,,1,,GitLab
+gappa,Gappa is a tool intended to help verifying and formally proving properties on numerical programs dealing with floating-point or fixed-point arithmetic.,Gappa,https://gitlab.inria.fr/groups/gappa,,,,,,2,,GitLab
+corese,Group for development related to Corese.,corese,https://gitlab.inria.fr/groups/corese,,,,,,1,,GitLab
+uhaina,Uhaina software development,uhaina,https://gitlab.inria.fr/groups/uhaina,,,,,,0,,GitLab
+croco-ocean,"Coastal and Regional Ocean COmmunity model
+
+CROCO is a new oceanic modeling system built upon ROMS_AGRIF and the
+non-hydrostatic kernel of SNH (under testing), gradually including
+algorithms from MARS3D (sediments) and HYCOM (vertical coordinates).
+",croco-ocean,https://gitlab.inria.fr/groups/croco-ocean,https://gitlab.inria.fr/uploads/-/system/group/avatar/2367/logo_Croco2.png,,,,,2,,GitLab
+MUSIC,Inria Epione and IHU LIRYC application(s),MUSIC,https://gitlab.inria.fr/groups/MUSIC,https://gitlab.inria.fr/uploads/-/system/group/avatar/5488/mwhitesmall.png,,,,,1,,GitLab
+ext,,ext,https://gitlab.irstea.fr/groups/ext,,,,,,0,,GitLab
+Stream,,Stream : Simulation de trafic mésoscopique évenementielle,https://gitlab.cerema.fr/groups/Stream,,,,,,2,,GitLab
+P4a,Groupe de projet pour les TP de P4a (programmation mobile - Android),P4a,https://git.unistra.fr/groups/P4a,https://git.unistra.fr/uploads/-/system/group/avatar/275/android.jpg,,,,,0,,GitLab
+wikijs,,wikijs,https://gitlabjf.ccomptes.fr/groups/wikijs,https://gitlabjf.ccomptes.fr/uploads/-/system/group/avatar/85/koala.GIF,,,,,1,,GitLab
+M32_18-11-CRC,,M32_18-11-CRC,https://git.unistra.fr/groups/M32_18-11-CRC,,,,,,0,,GitLab
+IUTRS,Membres du service informatique de l'IUTRS et de l'IUT LPS,IUTRS,https://git.unistra.fr/groups/IUTRS,https://git.unistra.fr/uploads/-/system/group/avatar/7/iut_2009_pant_c_.png,,,,,2,,GitLab
+ac-strasbourg,,ac-strasbourg,https://git.unistra.fr/groups/ac-strasbourg,https://git.unistra.fr/uploads/-/system/group/avatar/57/ac-strasbourg.jpg,,,,,0,,GitLab
+dinsic-pim,,,https://github.com/dinsic-pim,https://avatars3.githubusercontent.com/u/35118060?v=4,,,tchap.dinsic@modernisation.gouv.fr,False,5,2018-01-04T22:38:54Z,GitHub
+dep2pict,see dep2pict.loria.fr,dep2pict,https://gitlab.inria.fr/groups/dep2pict,https://gitlab.inria.fr/uploads/-/system/group/avatar/3252/d2p.png,,,,,4,,GitLab
+CCSDForge,Centre pour la Communication Scientifique Directe,CCSD,https://github.com/CCSDForge,https://avatars2.githubusercontent.com/u/11413818?v=4,https://www.ccsd.cnrs.fr/,France,ccsd@ccsd.cnrs.fr,False,7,2015-03-10T20:19:03Z,GitHub
+Florian-William,,Florian-William,https://git.unistra.fr/groups/Florian-William,,,,,,1,,GitLab
+pocs,Preuves de concepts diverses,POCS,https://forge.grandlyon.com/groups/pocs,,,,,,0,,GitLab
+sequoia,,sequoia,https://gitlab.inria.fr/groups/sequoia,,,,,,1,,GitLab
+metapart,"MetaPart is a framework for graph or hypergraph manipulation that addresses different problems, like partitioning, repartitioning, or co-partitioning, ... MetaPart is made up of several projects, such as StarPart, LibGraph or CoPart.",metapart,https://gitlab.inria.fr/groups/metapart,,,,,,7,,GitLab
+InBio,Experimental and computational methods for modeling cellular processes,InBio,https://gitlab.inria.fr/groups/InBio,https://gitlab.inria.fr/uploads/-/system/group/avatar/1823/InBio_logo4.png,,,,,0,,GitLab
+P4zJBGLNH,,P4z JBalanche -GLauciello - NHerr,https://git.unistra.fr/groups/P4zJBGLNH,,,,,,0,,GitLab
+T432_DIP18_T3_B,,T432_DIP18_T3_B,https://git.unistra.fr/groups/T432_DIP18_T3_B,,,,,,1,,GitLab
+usnb,,usnb,https://gitlab.inria.fr/groups/usnb,,,,,,11,,GitLab
+anr-greco,Groupe de dépots pour l'ANR Greco,anr-greco,https://gitlab.inria.fr/groups/anr-greco,,,,,,0,,GitLab
+genouest-public,Public projects for GenOuest,genouest-public,https://gitlab.inria.fr/groups/genouest-public,,,,,,0,,GitLab
+source_code,,source_code,https://gitlab.inria.fr/groups/source_code,,,,,,2,,GitLab
+MinistereSupRecherche,,Ministère de l'Enseignement supérieur de la Recherche et de l'Innovation,https://github.com/MinistereSupRecherche,https://avatars3.githubusercontent.com/u/39309220?v=4,http://esr.gouv.fr,Paris,github@recherche.gouv.fr,False,5,2018-05-15T15:48:47Z,GitHub
+twoshot,,TwoShot,https://git.unistra.fr/groups/twoshot,,,,,,0,,GitLab
+Pseudo_Haptic_Textures,,Pseudo_Haptic_Textures,https://gitlab.inria.fr/groups/Pseudo_Haptic_Textures,,,,,,0,,GitLab
+enseignement,,enseignement,https://gitlab.inria.fr/groups/enseignement,,,,,,1,,GitLab
+agos-rennes,,agos-rennes,https://gitlab.inria.fr/groups/agos-rennes,,,,,,0,,GitLab
+DREAL-NA,"Direction régionale de l'environnement, de l'aménagement et du logement de Nouvelle-Aquitaine",DREAL Nouvelle-Aquitaine,https://github.com/DREAL-NA,https://avatars1.githubusercontent.com/u/45490203?v=4,http://www.nouvelle-aquitaine.developpement-durable.gouv.fr,Nouvelle-Aquitaine,,False,1,2018-11-30T14:03:05Z,GitHub
+clipos-archive,"CLIP OS version 4, published by @ANSSI-FR ",CLIP OS - Archive,https://github.com/clipos-archive,https://avatars2.githubusercontent.com/u/38976783?v=4,https://clip-os.org,"Paris, France",clipos@ssi.gouv.fr,True,106,2018-05-04T09:27:14Z,GitHub
+flowvr,FlowVR is an open source middelware to augment parallel simulations running on thousands of cores with in situ processing capabilities and live steering.,FlowVR,https://gitlab.inria.fr/groups/flowvr,,,,,,1,,GitLab
+enseignement-mistea,,enseignement-MISTEA,https://forgemia.inra.fr/groups/enseignement-mistea,,,,,,1,,GitLab
+agm,C++ packages for Algebraic Geometric Modeling,agm,https://gitlab.inria.fr/groups/agm,,,,,,5,,GitLab
+Simbiot,,Simbiot,https://gitlab.inria.fr/groups/Simbiot,,,,,,0,,GitLab
+MIH18-T4-D,,MIH18-T4-D,https://git.unistra.fr/groups/MIH18-T4-D,,,,,,0,,GitLab
+datapol,Repositories related to the datamove or polaris projet,datapol,https://gitlab.inria.fr/groups/datapol,,,,,,3,,GitLab
+AssuranceMaladieSec,IT Security Department of Assurance Maladie (French public Health Insurance) ,Département Sécurité de la DDSI de l'Assurance Maladie,https://github.com/AssuranceMaladieSec,https://avatars2.githubusercontent.com/u/35814749?v=4,https://www.ameli.fr/,"Paris, France",dets.cnam@assurance-maladie.fr,False,2,2018-01-25T18:41:47Z,GitHub
+ihm,,inter-face-ohm-ma-chine,https://git.unistra.fr/groups/ihm,,,,,,1,,GitLab
+Irstea,Institut national de recherche en sciences et technologies pour l'environnement et l'agriculture,Irstea,https://github.com/Irstea,https://avatars3.githubusercontent.com/u/17542483?v=4,https://www.irstea.fr/,France,,False,19,2016-02-29T08:44:59Z,GitHub
 S32TP5,"Groupe issu du TP5 déstiné à réaliser les différents TP Réseaux
 
 Composé de :
@@ -551,157 +568,140 @@ SCHACKIS Lucas
 NGUYEN Thomas
 MATHIS Romaric
 ",S32_SCHACKIS_MATHIS_NGUYEN,https://git.unistra.fr/groups/S32TP5,,,,,,1,,GitLab
-iccv_2019,,iccv_2019,https://gitlab.inria.fr/groups/iccv_2019,https://gitlab.inria.fr/uploads/-/system/group/avatar/6071/ydYw4eAvXtc.jpg,,,,,1,,GitLab
-my-awesome-group-de-tekdaiv,TP tekdaiv,My awesome group de tekdaiv,https://git.unistra.fr/groups/my-awesome-group-de-tekdaiv,,,,,,0,,GitLab
-l2sched,Machine learning for scheduling,l2sched,https://gitlab.inria.fr/groups/l2sched,,,,,,0,,GitLab
-dun,Direction des usages du numérique,dun,https://git.unistra.fr/groups/dun,,,,,,0,,GitLab
+andiamo,Analyse Discursive Automatique Multi-Objectifs ,AnDiAMO,https://gitlab.inria.fr/groups/andiamo,https://gitlab.inria.fr/uploads/-/system/group/avatar/6805/keep-calm-and-andiamo-avanti.png,,,,,2,,GitLab
+nantesmetropole,,Nantes Métropole,https://github.com/nantesmetropole,https://avatars2.githubusercontent.com/u/20111354?v=4,http://www.nantesmetropole.fr/,Nantes,,False,3,2016-06-23T14:05:25Z,GitHub
+vino,Réseau travaillant sur le projet Vino (Viable Numerical Objects).,vino,https://gitlab.irstea.fr/groups/vino,,,,,,1,,GitLab
+axel,Algebraic-Geometric modeler,axel,https://gitlab.inria.fr/groups/axel,,,,,,0,,GitLab
 CAPES-Math,,CAPES-Math,https://gitlab.inria.fr/groups/CAPES-Math,,,,,,2,,GitLab
+orpailleur,,orpailleur,https://gitlab.inria.fr/groups/orpailleur,https://gitlab.inria.fr/uploads/-/system/group/avatar/2495/Orpailleur.png,,,,,1,,GitLab
+ProgrammeVitam,French government IT program for digital archives,Programme Vitam,https://github.com/ProgrammeVitam,https://avatars1.githubusercontent.com/u/22972117?v=4,http://www.programmevitam.fr,,contact@programmevitam.fr,False,11,2016-10-21T03:17:08Z,GitHub
+mediation-sif,,Mediation-SIF,https://gitlab.inria.fr/groups/mediation-sif,,,,,,0,,GitLab
+Ismael,,Ismael,https://git.unistra.fr/groups/Ismael,,,,,,1,,GitLab
+nix-tutorial,,nix-tutorial,https://gitlab.inria.fr/groups/nix-tutorial,,,,,,5,,GitLab
+mosaic,MOrphogenesis Simulation and Analysis In siliCo,MOSAIC,https://gitlab.inria.fr/groups/mosaic,https://gitlab.inria.fr/uploads/-/system/group/avatar/4134/logo_mosaic_rond.png,,,,,7,,GitLab
+my-awesome-group-de-tekdaiv,TP tekdaiv,My awesome group de tekdaiv,https://git.unistra.fr/groups/my-awesome-group-de-tekdaiv,,,,,,0,,GitLab
+m32,,m32,https://git.unistra.fr/groups/m32,,,,,,0,,GitLab
+mfx,Team MFX group,mfx,https://gitlab.inria.fr/groups/mfx,,,,,,2,,GitLab
 INSIDE-information-systems,"French joint research center between BRGM, French Biodiversity Agency, IFREMER, MNHN",INSIDE - environmental information systems research center,https://github.com/INSIDE-information-systems,https://avatars0.githubusercontent.com/u/40667762?v=4,http://www.pole-inside.fr,,,False,9,2018-06-28T14:34:48Z,GitHub
-Florian-William,,Florian-William,https://git.unistra.fr/groups/Florian-William,,,,,,1,,GitLab
+skeletons,Code related to Skeletal Semantics,skeletons,https://gitlab.inria.fr/groups/skeletons,,,,,,3,,GitLab
 WIDE,"Groupe de l'équipe Irisa WIDE (the World Is DistrbutEd)
 https://team.inria.fr/wide/",WIDE,https://gitlab.inria.fr/groups/WIDE,https://gitlab.inria.fr/uploads/-/system/group/avatar/328/logoWide-CMJN.png,,,,,4,,GitLab
-xkblas,Drop in replacement of BLAS library for multi GPUs,xkblas,https://gitlab.inria.fr/groups/xkblas,,,,,,1,,GitLab
-e-carre,Creation d'un environnement collaboratif d'accompagnement pour les plateformes territoriales,e-carre,https://gitlab.adullact.net/groups/e-carre,https://gitlab.adullact.net/uploads/-/system/group/avatar/2009/e-carre.png,,,,,1,,GitLab
-gt-sw-citation,Shared material for the software citation working group,gt-sw-citation,https://gitlab.inria.fr/groups/gt-sw-citation,,,,,,2,,GitLab
-WellInverter,WellInverter standalone distributions,WellInverter,https://gitlab.inria.fr/groups/WellInverter,,,,,,4,,GitLab
-A31DhordainSchwehr,,A31DhordainSchwehr,https://git.unistra.fr/groups/A31DhordainSchwehr,,,,,,0,,GitLab
-Spirals-Team,Software & data from the Spirals research team (University of Lille / Inria),Spirals Team,https://github.com/Spirals-Team,https://avatars2.githubusercontent.com/u/9421796?v=4,https://team.inria.fr/spirals,"Lille, France",,False,43,2014-10-27T19:18:57Z,GitHub
-cigri-ctrl,,cigri-ctrl,https://gitlab.inria.fr/groups/cigri-ctrl,,,,,,2,,GitLab
-coast-team,Inria COAST Project-Team - https://team.inria.fr/coast/,coast-team,https://gitlab.inria.fr/groups/coast-team,,,,,,0,,GitLab
-ClassCode,Developments for ClassCode,ClassCode,https://gitlab.inria.fr/groups/ClassCode,,,,,,4,,GitLab
-irihs,Institut de Recherche Interdisciplinaire Homme Société (FED 4137),IRIHS,https://gitlab.huma-num.fr/groups/irihs,https://gitlab.huma-num.fr/uploads/-/system/group/avatar/179/irihs.png,,,,,3,,GitLab
-IGNF,,Institut National de l'Information Géographique et Forestière,https://github.com/IGNF,https://avatars0.githubusercontent.com/u/7152524?v=4,http://www.ign.fr,,,False,55,2014-04-03T16:36:07Z,GitHub
-flowvr,FlowVR is an open source middelware to augment parallel simulations running on thousands of cores with in situ processing capabilities and live steering.,FlowVR,https://gitlab.inria.fr/groups/flowvr,,,,,,1,,GitLab
-formation-gitlab-ci,Group dedicated for the gitla b ci tutorial,formation-gitlab-ci,https://gitlab.inria.fr/groups/formation-gitlab-ci,,,,,,6,,GitLab
-hwloc,"Inria's private hwloc-related repos.
-The official public repo is at https://github.com/open-mpi/hwloc",hwloc,https://gitlab.inria.fr/groups/hwloc,,,,,,1,,GitLab
-ecrinum,Chaire de recherche du Canada sur les écritures numériques,ecrinum,https://gitlab.huma-num.fr/groups/ecrinum,https://gitlab.huma-num.fr/uploads/-/system/group/avatar/328/ecrinum.png,,,,,0,,GitLab
-yoann,,yoann,https://gitlab.inria.fr/groups/yoann,,,,,,1,,GitLab
-agm,C++ packages for Algebraic Geometric Modeling,agm,https://gitlab.inria.fr/groups/agm,,,,,,5,,GitLab
-DGAC,,,https://github.com/DGAC,https://avatars3.githubusercontent.com/u/733152?v=4,,France,,False,7,2011-04-16T10:18:10Z,GitHub
-medmospy,Repository for MEDeA (Clémentine's encoder decoder software) and MOSES (the statistical reference software),MedMosPy,https://gitlab.inria.fr/groups/medmospy,https://gitlab.inria.fr/uploads/-/system/group/avatar/7953/medmospy-coin.jpg,,,,,0,,GitLab
-elan,Équipe Littératures et Arts Numériques de Litt&Arts (UMR 5316),ELAN,https://gitlab.huma-num.fr/groups/elan,https://gitlab.huma-num.fr/uploads/-/system/group/avatar/112/logo_Litt-et-Arts.png,,,,,0,,GitLab
-CEA-LIST,"Smart digital systems for Advanced Manufacturing, Embedded systems, Data intelligence and Health ionizing radiations",CEA LIST,https://github.com/CEA-LIST,https://avatars3.githubusercontent.com/u/24958773?v=4,http://www-list.cea.fr/,CEA Paris-Saclay - Nano-Innov,,False,5,2017-01-06T12:50:46Z,GitHub
-ParMmg,The ParMmg (parallel remeshing using Mmg) working group,ParMmg,https://gitlab.inria.fr/groups/ParMmg,https://gitlab.inria.fr/uploads/-/system/group/avatar/5429/cropped-logo-head.png,,,,,1,,GitLab
-fec,"In telecommunication, information theory, and coding theory, forward error correction (FEC) or channel coding is a technique used for controlling errors in data transmission over unreliable or noisy communication channels.",fec,https://gitlab.inria.fr/groups/fec,,,,,,2,,GitLab
-corese,Group for development related to Corese.,corese,https://gitlab.inria.fr/groups/corese,,,,,,1,,GitLab
-region-bretagne,,,https://github.com/region-bretagne,https://avatars3.githubusercontent.com/u/7703447?v=4,,,,False,6,2014-05-26T14:48:16Z,GitHub
-mecsi-ext,Projets développés et maintenus par des partenaires extérieurs de la médiation scientifiques Inria,mecsi-ext,https://gitlab.inria.fr/groups/mecsi-ext,,,,,,1,,GitLab
-pastore.ritzenthaler.p4a,,pastore.ritzenthaler.p4a,https://git.unistra.fr/groups/pastore.ritzenthaler.p4a,,,,,,1,,GitLab
-ndv,,ndv,https://git.unistra.fr/groups/ndv,,,,,,0,,GitLab
-fabnumdef,,Fabrique numérique,https://github.com/fabnumdef,https://avatars2.githubusercontent.com/u/45469312?v=4,,,,False,10,2018-11-29T20:30:03Z,GitHub
-compass,Public repository for ComPASS code,ComPASS,https://gitlab.inria.fr/groups/compass,,,,,,2,,GitLab
-AssuranceMaladieSec,IT Security Department of Assurance Maladie (French public Health Insurance) ,Département Sécurité de la DDSI de l'Assurance Maladie,https://github.com/AssuranceMaladieSec,https://avatars2.githubusercontent.com/u/35814749?v=4,https://www.ameli.fr/,"Paris, France",dets.cnam@assurance-maladie.fr,False,2,2018-01-25T18:41:47Z,GitHub
-TAMIS,TAMIS projects ,TAMIS,https://gitlab.inria.fr/groups/TAMIS,,,,,,0,,GitLab
-medialab,"SciencesPo's médialab is an interdisciplinary research laboratory gathering engineers, designers & social science researchers.",médialab Sciences Po,https://github.com/medialab,https://avatars0.githubusercontent.com/u/534856?v=4,https://medialab.sciencespo.fr,"Paris, France",,False,160,2010-12-23T18:26:50Z,GitHub
-uquatre,Les meilleurs,uquatre,https://git.unistra.fr/groups/uquatre,,,,,,1,,GitLab
-socio-connect,,socio-connect,https://gitlab.adullact.net/groups/socio-connect,https://gitlab.adullact.net/uploads/-/system/group/avatar/2449/logo-socio-connect06.png,,,,,2,,GitLab
-GET_TRiX,Projects of the TRiX's facility,GeT_TRiX,https://forgemia.inra.fr/groups/GET_TRiX,https://forgemia.inra.fr/uploads/-/system/group/avatar/334/GeT_logo-RVB.png,,,,,1,,GitLab
-alexdylanetiphaine,test exercice collaborer,alexdylanetiphaine,https://git.unistra.fr/groups/alexdylanetiphaine,,,,,,0,,GitLab
-filiere-d-excellence,CMI filière d'excellence,Filiere d excellence,https://git.unistra.fr/groups/filiere-d-excellence,,,,,,1,,GitLab
-Simbiot,,Simbiot,https://gitlab.inria.fr/groups/Simbiot,,,,,,0,,GitLab
-HPC,Le git du méso-centre HPC de l'Université de Strasbourg,HPC,https://git.unistra.fr/groups/HPC,https://git.unistra.fr/uploads/-/system/group/avatar/1276/1bonhomme.png,,,,,1,,GitLab
-ivre,"Network recon framework, published by @cea-sec",IVRE,https://github.com/ivre,https://avatars2.githubusercontent.com/u/55538951?v=4,https://ivre.rocks/,,,False,2,2019-09-19T11:03:50Z,GitHub
-SFC,Groupe SFC,SFC,https://git.unistra.fr/groups/SFC,,,,,,0,,GitLab
-copain,Copain Team Groupe,copain,https://gitlab.irstea.fr/groups/copain,,,,,,2,,GitLab
-croco-ocean,"Coastal and Regional Ocean COmmunity model
-
-CROCO is a new oceanic modeling system built upon ROMS_AGRIF and the
-non-hydrostatic kernel of SNH (under testing), gradually including
-algorithms from MARS3D (sediments) and HYCOM (vertical coordinates).
-",croco-ocean,https://gitlab.inria.fr/groups/croco-ocean,https://gitlab.inria.fr/uploads/-/system/group/avatar/2367/logo_Croco2.png,,,,,2,,GitLab
-portic,"Members of ANR PORTIC 18-CE-38-0010
-https://anr.fr/Projet-ANR-18-CE38-0010",Portic,https://gitlab.huma-num.fr/groups/portic,https://gitlab.huma-num.fr/uploads/-/system/group/avatar/253/portic_logo_300dpi.png,,,,,0,,GitLab
-BRGM,,,https://github.com/BRGM,https://avatars0.githubusercontent.com/u/18071725?v=4,,,,False,17,2016-03-25T14:13:14Z,GitHub
-miet,,miet,https://gitlab.inria.fr/groups/miet,,,,,,1,,GitLab
-sca_platform,Group of side-channel involved researchers in Rennes sharing their tools.,sca_platform,https://gitlab.inria.fr/groups/sca_platform,,,,,,0,,GitLab
-mshs-poitiers,"Maison des Sciences de l'Homme et de la Société (USR 3565 CNRS- Université de Poitiers, France)",Mshs-Poitiers,https://gitlab.huma-num.fr/groups/mshs-poitiers,https://gitlab.huma-num.fr/uploads/-/system/group/avatar/200/LOGO_MSHS_v.png,,,,,1,,GitLab
-indsante,,Health Data Hub (plateforme des données de santé),https://github.com/indsante,https://avatars2.githubusercontent.com/u/47418323?v=4,https://www.health-data-hub.fr/,France,,False,5,2019-02-07T11:40:43Z,GitHub
-chemhousebas,"Ce site est un bac à sable pour le groupe chemhouse qui regroupe du personnel INRA mais aussi IRSTEA, et autres.
-ChemHouse, un pôle de compétences en Chimiométrie !
-",chemhousebas,https://forgemia.inra.fr/groups/chemhousebas,,,,,,1,,GitLab
-necs_deprecated,,necs_deprecated,https://gitlab.inria.fr/groups/necs_deprecated,,,,,,0,,GitLab
-OPIDoR,Optimisation pour le Partage et l'Interopérabilité des Données de la Recherche,,https://github.com/OPIDoR,https://avatars3.githubusercontent.com/u/22028866?v=4,,Nancy,,False,2,2016-09-06T13:13:06Z,GitHub
-irstea-ros,Développement robotique au sein de l'irstea dans le framework logiciel ROS (Robot Operating System),irstea-ros,https://gitlab.irstea.fr/groups/irstea-ros,,,,,,3,,GitLab
-botanique23,,botanique23,https://git.unistra.fr/groups/botanique23,,,,,,1,,GitLab
-Phylophile,Phylophile project,Phylophile,https://gitlab.inria.fr/groups/Phylophile,,,,,,2,,GitLab
-group_m32_33_rsa,,Group_m32_33_RSA,https://git.unistra.fr/groups/group_m32_33_rsa,,,,,,0,,GitLab
-coq,The Coq proof assistant (see https://coq.inria.fr),coq,https://gitlab.inria.fr/groups/coq,,,,,,2,,GitLab
-SPA18-T4-A,,SPA18-T4-A,https://git.unistra.fr/groups/SPA18-T4-A,,,,,,1,,GitLab
-Alpha,Alpha language,Alpha,https://gitlab.inria.fr/groups/Alpha,,,,,,2,,GitLab
-BrickDroid,,BrickDroid,https://git.unistra.fr/groups/BrickDroid,https://git.unistra.fr/uploads/-/system/group/avatar/202/brickDroid_2.png,,,,,0,,GitLab
-ProgrammeVitam,French government IT program for digital archives,Programme Vitam,https://github.com/ProgrammeVitam,https://avatars1.githubusercontent.com/u/22972117?v=4,http://www.programmevitam.fr,,contact@programmevitam.fr,False,11,2016-10-21T03:17:08Z,GitHub
-lattice,Travaux collaboratifs du Lattice,Lattice,https://gitlab.huma-num.fr/groups/lattice,https://gitlab.huma-num.fr/uploads/-/system/group/avatar/119/logo_lattice_L.jpg,,,,,0,,GitLab
 learninglab,"Créé en juin 2016, Inria Learning Lab a pour ambition de faire de l'éducation numérique un enjeu de recherche majeur et de fédérer l'ensemble des équipes de recherche Inria qui abordent ces thématiques.",learninglab,https://gitlab.inria.fr/groups/learninglab,https://gitlab.inria.fr/uploads/-/system/group/avatar/1287/icon-inria-learninglab-512_blanc.png,,,,,5,,GitLab
-lemon,,lemon,https://gitlab.inria.fr/groups/lemon,,,,,,0,,GitLab
-DISIC,Direction Interministérielle du Numérique,DINUM,https://github.com/DISIC,https://avatars2.githubusercontent.com/u/12644724?v=4,https://www.numerique.gouv.fr,Paris,communication.dinsic@modernisation.gouv.fr,False,60,2015-05-28T14:03:10Z,GitHub
-G2-HackRobates,Projet ACRObATT 2018 - PROUST ,G2-HackRobates,https://git.unistra.fr/groups/G2-HackRobates,https://git.unistra.fr/uploads/-/system/group/avatar/1405/nexus2cee_teapot.jpg,,,,,0,,GitLab
-svdetection,CNV discovery pipeline,SVdetection,https://forgemia.inra.fr/groups/svdetection,,,,,,3,,GitLab
-guix-hpc,Extensions of GNU Guix for high-performance computing.,guix-hpc,https://gitlab.inria.fr/groups/guix-hpc,https://gitlab.inria.fr/uploads/-/system/group/avatar/1745/guix-hpc-square.jpg,,,,,4,,GitLab
-formations,Formations SED (pour le moment juste le SED Inria Saclay),Formations,https://gitlab.inria.fr/groups/formations,,,,,,1,,GitLab
-LP-JBHH,,LP-JBHH,https://git.unistra.fr/groups/LP-JBHH,,,,,,1,,GitLab
-P52,JAVA JEE,P52,https://git.unistra.fr/groups/P52,https://git.unistra.fr/uploads/-/system/group/avatar/210/Angry-Face.png,,,,,0,,GitLab
+siteadmin,Groupe de support de Gitlab,siteadmin,https://gitlab.inria.fr/groups/siteadmin,,,,,,3,,GitLab
+eurhisfirm,Long-term company-level data for Europe,eurhisfirm,https://gitlab.huma-num.fr/groups/eurhisfirm,https://gitlab.huma-num.fr/uploads/-/system/group/avatar/127/eurhisfirm_logo_899x899.png,,,,,14,,GitLab
+necs_deprecated,,necs_deprecated,https://gitlab.inria.fr/groups/necs_deprecated,,,,,,0,,GitLab
+systemes-dinformation,,systemes-dinformation,https://forge.grandlyon.com/groups/systemes-dinformation,https://forge.grandlyon.com/uploads/-/system/group/avatar/24/Logo_Forge_Logicielle.png,,,,,1,,GitLab
+MAC19-T4-D,,MAC19-T4-D,https://git.unistra.fr/groups/MAC19-T4-D,,,,,,1,,GitLab
+GATB,Genome Analysis Toolbox with de-Bruijn graph,GATB,https://gitlab.inria.fr/groups/GATB,,,,,,0,,GitLab
 BAS18-T4-D,,BAS18-T4-D,https://git.unistra.fr/groups/BAS18-T4-D,,,,,,1,,GitLab
-INRA,See Inra's policy towards software licensing and hosting: https://www6.inra.fr/datapartage,Institut national de la recherche agronomique,https://github.com/INRA,https://avatars3.githubusercontent.com/u/28700278?v=4,http://www.inra.fr/,France,,False,6,2017-05-15T07:03:28Z,GitHub
-T432_KRP5_T3_A,,T432_KRP5_T3_A,https://git.unistra.fr/groups/T432_KRP5_T3_A,,,,,,1,,GitLab
-cormas-dev,Developments around the Cormas (COmmon pool Resources Multi-Agents Systems) platform.,cormas-dev,https://gitlab.irstea.fr/groups/cormas-dev,,,,,,1,,GitLab
-comprise,,COMPRISE,https://gitlab.inria.fr/groups/comprise,,,,,,10,,GitLab
-Conferences,Git group for Conference presentation and posters.,Conferences,https://gitlab.inria.fr/groups/Conferences,,,,,,1,,GitLab
-popsim_group,,popsim_group,https://forgemia.inra.fr/groups/popsim_group,,,,,,0,,GitLab
-adjoint-computation,Implementing algorithms for adjoint computation / automatic differentiation / back-propagation,adjoint-computation,https://gitlab.inria.fr/groups/adjoint-computation,,,,,,1,,GitLab
-discovery,,discovery,https://gitlab.inria.fr/groups/discovery,,,,,,5,,GitLab
-Jean-Thierry-Cocon,Groupe de la nuit de l'info,Jean-Thierry-Cocon,https://git.unistra.fr/groups/Jean-Thierry-Cocon,,,,,,0,,GitLab
+epione_ML,,epione_ML,https://gitlab.inria.fr/groups/epione_ML,,,,,,2,,GitLab
+Codes,,Codes,https://gitlab.inria.fr/groups/Codes,,,,,,0,,GitLab
+bptraffic,Projects related to traffic predction using belief propagation algorithm,bptraffic,https://gitlab.inria.fr/groups/bptraffic,,,,,,1,,GitLab
+obelix,,obelix,https://gitlab.inria.fr/groups/obelix,,,,,,2,,GitLab
+igrida,,igrida,https://gitlab.inria.fr/groups/igrida,,,,,,2,,GitLab
+eabx-formation,"Projets réalisés dans le cadre de formations, soit par le formateur, soit par les stagiaires",eabx-formation,https://gitlab.irstea.fr/groups/eabx-formation,,,,,,0,,GitLab
+filiere-d-excellence,CMI filière d'excellence,Filiere d excellence,https://git.unistra.fr/groups/filiere-d-excellence,,,,,,1,,GitLab
+formations,Formations SED (pour le moment juste le SED Inria Saclay),Formations,https://gitlab.inria.fr/groups/formations,,,,,,1,,GitLab
+steep,steep team group,steep,https://gitlab.inria.fr/groups/steep,,,,,,0,,GitLab
+entrepreneur-interet-general,Code développé dans le cadre des défis EIG,Entrepreneurs d’intérêt général,https://github.com/entrepreneur-interet-general,https://avatars2.githubusercontent.com/u/25084749?v=4,https://entrepreneur-interet-general.etalab.gouv.fr,"Paris, France",entrepreneur-interet-general@data.gouv.fr,True,86,2017-01-12T16:54:14Z,GitHub
+genotoul-bioinfo,Projects of the Genotoul platform,genotoul-bioinfo,https://forgemia.inra.fr/groups/genotoul-bioinfo,,,,,,13,,GitLab
+Puffertools,Puffertools groups projects related to malleability in distributed storage systems.,Puffertools,https://gitlab.inria.fr/groups/Puffertools,https://gitlab.inria.fr/uploads/-/system/group/avatar/5684/Screen_Shot_2018-07-20_at_2.24.47_PM.png,,,,,3,,GitLab
+agos-bso,,agos-bso,https://gitlab.inria.fr/groups/agos-bso,,,,,,1,,GitLab
+dash,"Group for presentations, administrative documents etc linked to ANR Dash.",dash,https://gitlab.inria.fr/groups/dash,https://gitlab.inria.fr/uploads/-/system/group/avatar/3234/logo_dash.png,,,,,1,,GitLab
+Cour-des-comptes,"S’assurer du bon emploi de l’argent public, en informer les citoyens",Cour des comptes,https://github.com/Cour-des-comptes,https://avatars1.githubusercontent.com/u/58772755?v=4,,,,False,2,2019-12-11T10:50:39Z,GitHub
+W51_Strebler,,W51_Strebler,https://git.unistra.fr/groups/W51_Strebler,,,,,,0,,GitLab
+consultation-gouv,,Consultation.gouv.fr,https://github.com/consultation-gouv,https://avatars2.githubusercontent.com/u/26903975?v=4,,,support.consultation@etalab.gouv.fr,False,4,2017-04-04T15:39:43Z,GitHub
+parkas,Team PARKAS: Synchronous Kahn Parallelism,parkas,https://gitlab.inria.fr/groups/parkas,https://gitlab.inria.fr/uploads/-/system/group/avatar/1234/9846009.png,,,,,0,,GitLab
+communautes,Groupe regroupant les projets réalisés par la communautés des JF,communautes,https://gitlabjf.ccomptes.fr/groups/communautes,,,,,,0,,GitLab
+foscadiff,diff tool for comparing music score files,foscadiff,https://gitlab.inria.fr/groups/foscadiff,,,,,,1,,GitLab
+creativlab,,CreativLab,https://gitlab.inria.fr/groups/creativlab,,,,,,0,,GitLab
+lo5-antony-et-florian,,LO5 Antony et Florian,https://git.unistra.fr/groups/lo5-antony-et-florian,,,,,,1,,GitLab
+LETG,Unité Mixte de Recherche Littoral Environnement Télédétection et Géomatique,UMR LETG CNRS,https://github.com/LETG,https://avatars3.githubusercontent.com/u/12861431?v=4,http://letg.cnrs.fr/,,,False,12,2015-06-12T14:07:35Z,GitHub
+IUT-2015-2016,,IUT-2015-2016,https://git.unistra.fr/groups/IUT-2015-2016,https://git.unistra.fr/uploads/-/system/group/avatar/232/logo-iut-robert-schuman_1_.png,,,,,0,,GitLab
+lucasilya,Lucas + Ilya = 4ever,Lucasilya,https://git.unistra.fr/groups/lucasilya,,,,,,0,,GitLab
+magnet,,Magnet,https://gitlab.inria.fr/groups/magnet,,,,,,2,,GitLab
+flocq,Flocq (Floats for Coq) is a floating-point formalization for the Coq system. It provides a comprehensive library of theorems on a multi-radix multi-precision arithmetic. It also supports efficient numerical computations inside Coq.,Flocq,https://gitlab.inria.fr/groups/flocq,,,,,,1,,GitLab
+apics,,apics,https://gitlab.inria.fr/groups/apics,,,,,,0,,GitLab
+micmacIGN,,,https://github.com/micmacIGN,https://avatars2.githubusercontent.com/u/23313230?v=4,,,,False,5,2016-11-07T12:47:54Z,GitHub
+resonance,,resonance,https://gitlab.inria.fr/groups/resonance,,,,,,0,,GitLab
+histovec,application (beta) du ministère de l'Intérieur, protéger les acheteurs de véhicules d’occasion,https://github.com/histovec,https://avatars0.githubusercontent.com/u/37241448?v=4,http://histovec.interieur.gouv.fr,,histovec@interieur.gouv.fr,False,3,2018-03-10T11:42:53Z,GitHub
+musee-saint-raymond,"Projets numériques du musée Saint-Raymond, musée d'Archéologie de Toulouse.",Musée Saint-Raymond,https://gitlab.com/groups/musee-saint-raymond,https://assets.gitlab-static.net/uploads/-/system/group/avatar/3815549/logo-musee-saint-raymond.png,,,,,1,,GitLab
+blare,Blare DIFC tools,blare,https://gitlab.inria.fr/groups/blare,,,,,,5,,GitLab
+LP-JBHH,,LP-JBHH,https://git.unistra.fr/groups/LP-JBHH,,,,,,1,,GitLab
+coqinterval,CoqInterval provides tactics for simplifying the proofs of inequalities on expressions of real numbers for the Coq proof assistant.,CoqInterval,https://gitlab.inria.fr/groups/coqinterval,,,,,,1,,GitLab
+MoReFEM,"MoReFEM core library and models that are built on top of it.
+
+MoReFEM is a HPC finite element library developed by M3DISIM team.",MoReFEM,https://gitlab.inria.fr/groups/MoReFEM,,,,,,1,,GitLab
+OAR,Projets in the ecosystem of  OAR:  Resouces and Jobs Management System,OAR,https://gitlab.inria.fr/groups/OAR,,,,,,2,,GitLab
+umr-idees,GITLAB UMR IDEES 6266,umr-idees,https://gitlab.huma-num.fr/groups/umr-idees,https://gitlab.huma-num.fr/uploads/-/system/group/avatar/254/ideeslogo.png,,,,,0,,GitLab
+modelisation-deplacements,Membres du réseau de modélisation statique des déplacements,Modelisation deplacements,https://gitlab.cerema.fr/groups/modelisation-deplacements,,,,,,0,,GitLab
+stz,sdfsfs,stz,https://git.unistra.fr/groups/stz,,,,,,0,,GitLab
+linbox-team,"LinBox, FFLAS-FFPACK, Givaro developer repositories",LinBox Team,https://github.com/linbox-team,https://avatars1.githubusercontent.com/u/13101892?v=4,http://linalg.org,Université Grenoble-Alpes,linbox-devel@googlegroups.com,False,4,2015-06-29T11:50:15Z,GitHub
+t3-adibou,,T3 ADIBOU,https://git.unistra.fr/groups/t3-adibou,,,,,,0,,GitLab
+rr-inria,This group gathers persons and projects related to reproducible research @ Inria.,rr-inria,https://gitlab.inria.fr/groups/rr-inria,https://gitlab.inria.fr/uploads/-/system/group/avatar/8784/in_science_we_trust_small.jpg,,,,,0,,GitLab
+lepse,"groupe de l'UMR LEPSE - INRA Montpellier, SupAgro ",lepse,https://forgemia.inra.fr/groups/lepse,,,,,,0,,GitLab
+tranus,"Softwares developed for the TRANUS integrated land use and transportation model: user interfaces, interfaces between QGIS and TRANUS, calibration methods.",tranus,https://gitlab.inria.fr/groups/tranus,,,,,,4,,GitLab
+allgo,Science as a service,allgo,https://gitlab.inria.fr/groups/allgo,https://gitlab.inria.fr/uploads/-/system/group/avatar/416/allgo-wo-border.png,,,,,4,,GitLab
+VeRDi,,VeRDi,https://gitlab.inria.fr/groups/VeRDi,,,,,,0,,GitLab
+TAMIS,TAMIS projects ,TAMIS,https://gitlab.inria.fr/groups/TAMIS,,,,,,0,,GitLab
+powerapi-ng,Software-Defined Power Meters,PowerAPI,https://github.com/powerapi-ng,https://avatars1.githubusercontent.com/u/47974262?v=4,http://powerapi.org,"Lille, France",contact@powerapi.org,False,8,2019-02-25T10:34:45Z,GitHub
+m32_63_dsrsa,"Yoan Van der Spurt
+Arnaud Marak
+Nathanaël Derousseaux
+Lucas Treyer",M32_63_DSRSA,https://git.unistra.fr/groups/m32_63_dsrsa,,,,,,1,,GitLab
+optimdbs,"Group comprising all repositories related to the DBS target prediction software OptimDBS.
+
+Related Alfresco private file sharing site: https://partage.inria.fr/share/page/site/optimdbs/dashboard",OptimDBS,https://gitlab.inria.fr/groups/optimdbs,https://gitlab.inria.fr/uploads/-/system/group/avatar/7398/optimDBS_avatar.png,,,,,2,,GitLab
+mshs-poitiers,"Maison des Sciences de l'Homme et de la Société (USR 3565 CNRS- Université de Poitiers, France)",Mshs-Poitiers,https://gitlab.huma-num.fr/groups/mshs-poitiers,https://gitlab.huma-num.fr/uploads/-/system/group/avatar/200/LOGO_MSHS_v.png,,,,,1,,GitLab
+vfs,Valentin - Fiona - Samir ,VFS,https://git.unistra.fr/groups/vfs,,,,,,0,,GitLab
+Spirals,GitLab group for the Inria/ULille Spirals project-team - http://team.inria.fr/spirals,Spirals,https://gitlab.inria.fr/groups/Spirals,https://gitlab.inria.fr/uploads/-/system/group/avatar/945/Untitled.png,,,,,1,,GitLab
+semagramme-public-projects,,Sémagramme Public Projects,https://gitlab.inria.fr/groups/semagramme-public-projects,,,,,,0,,GitLab
+testiny,le groupe de test du cockpit gitlab,testiny,https://git.unistra.fr/groups/testiny,,,,,,0,,GitLab
+sb,"sb is the group related to simBCI development. 
+
+For details see https://gitlab.inria.fr/sb/simbci/wikis/home
+",sb,https://gitlab.inria.fr/groups/sb,https://gitlab.inria.fr/uploads/-/system/group/avatar/3830/Serpiente_alquimica.jpg,,,,,1,,GitLab
+1ag-2019,Groupes des étudiants de première année généraliste,1AG-2019,https://git.unistra.fr/groups/1ag-2019,,,,,,0,,GitLab
+HPC,Le git du méso-centre HPC de l'Université de Strasbourg,HPC,https://git.unistra.fr/groups/HPC,https://git.unistra.fr/uploads/-/system/group/avatar/1276/1bonhomme.png,,,,,1,,GitLab
+reliability-hpc,"Projects related to reliability in HPC. 
+Currently contributors belong to the Inria teams ROMA and TADAAM.",reliability-hpc,https://gitlab.inria.fr/groups/reliability-hpc,,,,,,0,,GitLab
 com,Service de la communication,com,https://git.unistra.fr/groups/com,,,,,,0,,GitLab
-datatourisme,,datatourisme,https://framagit.org/groups/datatourisme,https://framagit.org/uploads/-/system/group/avatar/6492/DATAtourisme-logo.jpg,,,,,3,,GitLab
+mse_group,,mse_group,https://forgemia.inra.fr/groups/mse_group,,,,,,0,,GitLab
+genotoul-bioinfo,The genotoul bioinfo plateform,Genotoul Bioinfo,https://github.com/genotoul-bioinfo,https://avatars1.githubusercontent.com/u/36693932?v=4,http://bioinfo.genotoul.fr/index.php/about-us/,"Toulouse, France",,False,5,2018-02-21T09:04:11Z,GitHub
+synalp,Synalp Research team,synalp,https://gitlab.inria.fr/groups/synalp,,,,,,2,,GitLab
+PRJ3_gless_lebold_peslier,,PRJ3_gless_lebold_peslier,https://git.unistra.fr/groups/PRJ3_gless_lebold_peslier,,,,,,0,,GitLab
+umr-boa,"Projects of UMR Biologie des Oiseaux et Aviculture.
+
+https://www6.val-de-loire.inra.fr/unite-recherches-avicoles
+
+contact: gitlab-boa@inra.fr",UMR-BOA,https://forgemia.inra.fr/groups/umr-boa,https://forgemia.inra.fr/uploads/-/system/group/avatar/516/Logo.jpg,,,,,1,,GitLab
+CeintureNoire,"Ismael EL KASBAOUI, Dresse Yassine, Mickaël Kenan",CeintureNoire,https://git.unistra.fr/groups/CeintureNoire,,,,,,0,,GitLab
+come4acloud,,come4acloud,https://gitlab.inria.fr/groups/come4acloud,,,,,,1,,GitLab
+diplomatiegouvfr,Dépot public du ministère de l'Europe et des Affaires étrangères,,https://github.com/diplomatiegouvfr,https://avatars1.githubusercontent.com/u/12811797?v=4,http://www.diplomatie.gouv.fr,,,False,20,2015-06-09T09:51:13Z,GitHub
+seul,La tristitude,Seul,https://git.unistra.fr/groups/seul,,,,,,2,,GitLab
+patate,"Developers of the Patate Library, an open source library for 3D computer graphics.",patate,https://gitlab.inria.fr/groups/patate,,,,,,1,,GitLab
 parietal,"Gitlab for the Parietal group
 
 https://team.inria.fr/parietal/",parietal,https://gitlab.inria.fr/groups/parietal,,,,,,0,,GitLab
-consortium3d,,consortium3d,https://gitlab.huma-num.fr/groups/consortium3d,https://gitlab.huma-num.fr/uploads/-/system/group/avatar/105/C3D_fond.png,,,,,1,,GitLab
-reliability-hpc,"Projects related to reliability in HPC. 
-Currently contributors belong to the Inria teams ROMA and TADAAM.",reliability-hpc,https://gitlab.inria.fr/groups/reliability-hpc,,,,,,0,,GitLab
-DecisionBleDur,The work group of the DecisionBleDur project,DecisionBleDur,https://forgemia.inra.fr/groups/DecisionBleDur,,,,,,1,,GitLab
-T4_SPC_Simulator,,T4_SPC_Simulator,https://git.unistra.fr/groups/T4_SPC_Simulator,,,,,,1,,GitLab
-DGA-MI-SSI,,DGA/MI SSI,https://github.com/DGA-MI-SSI,https://avatars3.githubusercontent.com/u/29043579?v=4,http://www.defense.gouv.fr/dga,,,False,2,2017-05-29T14:15:03Z,GitHub
-parallel-replica,"Software and resources concerning various implementations of the Parallel Replica algorithm, developed at the ENPC, CERMICS, and at INRIA Paris, MATHERIALS team.",parallel-replica,https://gitlab.inria.fr/groups/parallel-replica,https://gitlab.inria.fr/uploads/-/system/group/avatar/4043/7-ecole_ponts_rvb_transparent-229x300.jpg,,,,,2,,GitLab
-semagramme-public-projects,,Sémagramme Public Projects,https://gitlab.inria.fr/groups/semagramme-public-projects,,,,,,0,,GitLab
-come4acloud,,come4acloud,https://gitlab.inria.fr/groups/come4acloud,,,,,,1,,GitLab
-adt-gordon,Documents and scripts for the Gordon ADT,adt-gordon,https://gitlab.inria.fr/groups/adt-gordon,,,,,,0,,GitLab
-sigrennesmetropole,Service  de l'Information Géographique de Rennes Métropole,SIG RENNES METROPOLE,https://github.com/sigrennesmetropole,https://avatars0.githubusercontent.com/u/9948947?v=4,,RENNES,sig@rennesmetropole.fr,False,15,2014-11-25T15:18:16Z,GitHub
-nantesmetropole,,Nantes Métropole,https://github.com/nantesmetropole,https://avatars2.githubusercontent.com/u/20111354?v=4,http://www.nantesmetropole.fr/,Nantes,,False,3,2016-06-23T14:05:25Z,GitHub
-solverstack,"High-performance computing software stack.
-
-User's guide : TODO",solverstack,https://gitlab.inria.fr/groups/solverstack,,,,,,15,,GitLab
-geopat,,geopat,https://gitlab.irstea.fr/groups/geopat,,,,,,1,,GitLab
-scl19-t4-e,Groupe T4,SCL19-T4-E,https://git.unistra.fr/groups/scl19-t4-e,,,,,,1,,GitLab
-presUni,,HAJ18-T4-D,https://git.unistra.fr/groups/presUni,https://git.unistra.fr/uploads/-/system/group/avatar/1606/logo_unistra.png,,,,,1,,GitLab
-PnEcrins,Etablissement public du ministère de l'environnement,Parc national des Ecrins,https://github.com/PnEcrins,https://avatars3.githubusercontent.com/u/10025600?v=4,http://www.ecrins-parcnational.fr,"Gap, France",,False,12,2014-12-01T10:56:16Z,GitHub
-MUSIC,Inria Epione and IHU LIRYC application(s),MUSIC,https://gitlab.inria.fr/groups/MUSIC,https://gitlab.inria.fr/uploads/-/system/group/avatar/5488/mwhitesmall.png,,,,,1,,GitLab
-dhai,Projects on Artificial Intelligence and Digital Humanities,DHAI,https://gitlab.inria.fr/groups/dhai,,,,,,1,,GitLab
-p4b-ongagna-lehmann-at3,,Ongagna Lehmann AT3,https://git.unistra.fr/groups/p4b-ongagna-lehmann-at3,,,,,,1,,GitLab
-necs-open,,necs-open,https://gitlab.inria.fr/groups/necs-open,,,,,,5,,GitLab
-LightFieldCodingLibrary,Collection of tools used for light field editing processing and vizualisation,LightFieldCodingLibrary,https://gitlab.inria.fr/groups/LightFieldCodingLibrary,,,,,,5,,GitLab
-vidjil,"Repertoire Sequencing (RepSeq) tools, Bonsai bioinformatics lab  at CRIStAL (Univ. Lille, CNRS) and Inria.",vidjil,https://gitlab.inria.fr/groups/vidjil,https://gitlab.inria.fr/uploads/-/system/group/avatar/51/vidjil-avatar.png,,,,,6,,GitLab
+numerique-gouv,,,https://github.com/numerique-gouv,https://avatars1.githubusercontent.com/u/43571069?v=4,,,,False,2,2018-09-25T10:14:06Z,GitHub
+aljanon-experiment-framework,,Experiment framework,https://gitlab.inria.fr/groups/aljanon-experiment-framework,,,,,,11,,GitLab
 dema,,dema,https://gitlab.inria.fr/groups/dema,,,,,,6,,GitLab
-Stream,,Stream : Simulation de trafic mésoscopique évenementielle,https://gitlab.cerema.fr/groups/Stream,,,,,,2,,GitLab
-sed-rennes,SED Rennes,sed-rennes,https://gitlab.inria.fr/groups/sed-rennes,,,,,,3,,GitLab
-CAMMA-public,Public projects from Research Group CAMMA,CAMMA-public,https://git.unistra.fr/groups/CAMMA-public,,,,,,1,,GitLab
-zefxis,,zefxis,https://gitlab.inria.fr/groups/zefxis,,,,,,7,,GitLab
-PSI,"Psi, acronym of Perfect Simulator, is a framework designed to sample trajectories of large Markov chains with various methods. Markov chains are given as a transition matrix or as a Poisson system based on events and actions on a state space.",PSI,https://gitlab.inria.fr/groups/PSI,,,,,,2,,GitLab
-m32_Elgamal_Grp3,,m32_Elgamal_Grp3,https://git.unistra.fr/groups/m32_Elgamal_Grp3,,,,,,0,,GitLab
-demosinria,Group to host demo projects,DemosInria,https://gitlab.inria.fr/groups/demosinria,,,,,,1,,GitLab
-MarTo,Markov Toolkit for Markov models simulation: perfect sampling and Monte Carlo simulation,MarTo,https://gitlab.inria.fr/groups/MarTo,,,,,,1,,GitLab
-observatoire-territoires,,Observatoire des territoires - CGET,https://github.com/observatoire-territoires,https://avatars1.githubusercontent.com/u/33053387?v=4,http://www.observatoire-des-territoires.gouv.fr,,,False,10,2017-10-24T08:10:47Z,GitHub
-vfs,Valentin - Fiona - Samir ,VFS,https://git.unistra.fr/groups/vfs,,,,,,0,,GitLab
-PaMPA,"PaMPA is a parallel library for handling, redistributing and remeshing unstructured meshes on distributed-memory architectures, using any sequential remesher.",PaMPA,https://gitlab.inria.fr/groups/PaMPA,https://gitlab.inria.fr/uploads/-/system/group/avatar/1801/logo_gitlab_reduit.png,,,,,1,,GitLab
-Tp,,Tp,https://git.unistra.fr/groups/Tp,,,,,,0,,GitLab
-coquelicot,A Coq formalization of real analysis compatible with the standard library.,Coquelicot,https://gitlab.inria.fr/groups/coquelicot,,,,,,1,,GitLab
-2017-T4-6,Groupe de travail pour le T4,2017-T4-6,https://git.unistra.fr/groups/2017-T4-6,https://git.unistra.fr/uploads/-/system/group/avatar/837/teamlogo.png,,,,,1,,GitLab
-InseeFr,,,https://github.com/InseeFr,https://avatars1.githubusercontent.com/u/11526805?v=4,,,,False,22,2015-03-17T19:10:01Z,GitHub
-GardiNet,Coding Related Software,GardiNet,https://gitlab.inria.fr/groups/GardiNet,,,,,,2,,GitLab
-bptraffic,Projects related to traffic predction using belief propagation algorithm,bptraffic,https://gitlab.inria.fr/groups/bptraffic,,,,,,1,,GitLab
-NuitDeLinfo_OPA,,NuitDeLinfo_OPA,https://git.unistra.fr/groups/NuitDeLinfo_OPA,,,,,,1,,GitLab
-slamlab,stochastic lagrangian methods,slamlab,https://gitlab.inria.fr/groups/slamlab,,,,,,0,,GitLab
-UPSud,,Université Paris Sud,https://gitlab.adullact.net/groups/UPSud,https://gitlab.adullact.net/uploads/-/system/group/avatar/1922/xlogo-psud-saclay.jpg.pagespeed.ic.JKQOzRZRLy.jpg,,,,,1,,GitLab
-uhuit,,uhuit,https://git.unistra.fr/groups/uhuit,,,,,,1,,GitLab
-laclasse,Equipe de l'ENT Laclasse.com,laclasse,https://forge.grandlyon.com/groups/laclasse,https://forge.grandlyon.com/uploads/-/system/group/avatar/131/icon-256.png,,,,,0,,GitLab
-P52_SANTORO_SCHNEPP,Binôme module P52 SANTORO Anthony et SCHNEPP Jemy.,P52_SANTORO_SCHNEPP,https://git.unistra.fr/groups/P52_SANTORO_SCHNEPP,,,,,,0,,GitLab
+openfisca,Turn law into software.,OpenFisca,https://github.com/openfisca,https://avatars0.githubusercontent.com/u/1794404?v=4,https://openfisca.org/en/,Global,contact@openfisca.org,False,68,2012-05-30T16:38:06Z,GitHub
+cormas-dev,Developments around the Cormas (COmmon pool Resources Multi-Agents Systems) platform.,cormas-dev,https://gitlab.irstea.fr/groups/cormas-dev,,,,,,1,,GitLab
+irihs,Institut de Recherche Interdisciplinaire Homme Société (FED 4137),IRIHS,https://gitlab.huma-num.fr/groups/irihs,https://gitlab.huma-num.fr/uploads/-/system/group/avatar/179/irihs.png,,,,,3,,GitLab
+ambanum,French Ambassador for Digital Affairs / Ambassadeur pour le numérique,AmbaNum,https://github.com/ambanum,https://avatars1.githubusercontent.com/u/49390874?v=4,https://diplomatie.gouv.fr/fr/politique-etrangere-de-la-france/diplomatie-numerique/,France,,False,20,2019-04-08T07:55:00Z,GitHub
+healthdatahub,https://health-data-hub.fr,Health Data Hub,https://gitlab.com/groups/healthdatahub,https://assets.gitlab-static.net/uploads/-/system/group/avatar/5043343/logo_hdh_400x400.png,,,,,8,,GitLab
+kstar,,kstar,https://gitlab.inria.fr/groups/kstar,,,,,,2,,GitLab
+dgfip,Direction générale des Finances publiques,DGFIP,https://framagit.org/groups/dgfip,https://framagit.org/uploads/-/system/group/avatar/44511/LogoDGFP-fr.png,,,,,1,,GitLab
+cea-sec,IT Security at the French Alternative Energies and Atomic Energy Commission,CEA IT Security,https://github.com/cea-sec,https://avatars2.githubusercontent.com/u/5071925?v=4,https://twitter.com/cea_sec,France,,False,6,2013-07-23T09:31:16Z,GitHub
+P52-JBHH,Projet P52,P52-JBHH,https://git.unistra.fr/groups/P52-JBHH,,,,,,0,,GitLab
+P52_errahmadi,,P52_errahmadi,https://git.unistra.fr/groups/P52_errahmadi,,,,,,0,,GitLab
+gerzaguet_public,Git folder for public git repositories.,Gerzaguet_Public,https://gitlab.inria.fr/groups/gerzaguet_public,,,,,,4,,GitLab
+IOTLanguage,IoT compiler project,IOTLanguage,https://gitlab.inria.fr/groups/IOTLanguage,,,,,,1,,GitLab
+CEA-Leti,Center for Research and Specialized Technology in micro and nanotechnologies,CEA-Leti,https://github.com/CEA-Leti,https://avatars0.githubusercontent.com/u/40635112?v=4,http://www.leti-cea.com/cea-tech/leti/english/Pages/Welcome.aspx,"Grenoble, France",,False,1,2018-06-27T13:48:00Z,GitHub
+lemonldap-ng,"LemonLDAP::NG is a free single sign-on, access management and identity federation software",LemonLDAP NG,https://gitlab.ow2.org/groups/lemonldap-ng,https://gitlab.ow2.org/uploads/-/system/group/avatar/34/llng_logo_square.png,,,,,2,,GitLab
+ordo-bdx,Faire de l'ordonnancement à Bordeaux / Working on scheduling in Bordeaux,ordo-bdx,https://gitlab.inria.fr/groups/ordo-bdx,,,,,,2,,GitLab
+vue,Plugins vue,vue,https://git.unistra.fr/groups/vue,,,,,,3,,GitLab
+infoprox,,infoprox,https://git.unistra.fr/groups/infoprox,,,,,,0,,GitLab
+WellInverter,WellInverter standalone distributions,WellInverter,https://gitlab.inria.fr/groups/WellInverter,,,,,,4,,GitLab
+cmi-production,Projet Intégrateur,CMI Production,https://git.unistra.fr/groups/cmi-production,,,,,,0,,GitLab
