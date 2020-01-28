@@ -1568,6 +1568,7 @@ https://github.com/betagouv/api-medicaments,True
 https://github.com/betagouv/api-particulier,True
 https://github.com/betagouv/api-particulier-ansible,True
 https://github.com/betagouv/api-particulier-auth,True
+https://github.com/betagouv/api-particulier-demo,False
 https://github.com/betagouv/api-particulier-demo-traces,True
 https://github.com/betagouv/api-particulier-lib,True
 https://github.com/betagouv/api-particulier-web,True
@@ -2874,6 +2875,7 @@ https://github.com/messagerie-melanie2/Roundcube-plugins-Mel,True
 https://github.com/messagerie-melanie2/SabreDAVM2,True
 https://github.com/meteofrance/formation-deep-learning,True
 https://github.com/meteofrance/meteofrance.github.io,True
+https://github.com/meteofrance/meteonet,False
 https://github.com/micmacIGN/Documentation,True
 https://github.com/micmacIGN/InterfaceCEREMA,True
 https://github.com/micmacIGN/Papers,True
@@ -3983,7 +3985,7 @@ https://gitlab.inria.fr/sed-bso/sonarqube,True
 https://gitlab.inria.fr/sed-lille/game-of-codes-utils,True
 https://gitlab.inria.fr/sed-paris/codingdojo,False
 https://gitlab.inria.fr/sed-paris/developer-meetups,True
-https://gitlab.inria.fr/sed-paris/welcome,False
+https://gitlab.inria.fr/sed-paris/welcome,True
 https://gitlab.inria.fr/sed-rennes/VR-Three.js,True
 https://gitlab.inria.fr/sed-rennes/gforge-to-gitlab-scripts,True
 https://gitlab.inria.fr/sed-rennes/sharelatex-website,True
