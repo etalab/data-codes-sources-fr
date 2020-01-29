@@ -32,6 +32,7 @@ https://forgemia.inra.fr/GET_TRiX/matrix,True
 https://forgemia.inra.fr/QTL/spell-qtl,True
 https://forgemia.inra.fr/adminforgemia/doc-public,True
 https://forgemia.inra.fr/bibliome/bionlp-st-py,True
+https://forgemia.inra.fr/bibliome/formation-alvisnlp,False
 https://forgemia.inra.fr/bios4biol/bioinfo-utils,True
 https://forgemia.inra.fr/bios4biol/workflows,True
 https://forgemia.inra.fr/chemhousebas/vsn,True
@@ -1031,6 +1032,7 @@ https://github.com/MTES-MCT/parcours_r_module_publication_rmarkdown,True
 https://github.com/MTES-MCT/parcours_r_module_statistiques_descriptives,True
 https://github.com/MTES-MCT/parcours_r_socle_introduction,True
 https://github.com/MTES-MCT/parcours_r_socle_preparation_des_donnees,True
+https://github.com/MTES-MCT/partaj,False
 https://github.com/MTES-MCT/permis-construire,True
 https://github.com/MTES-MCT/portail,True
 https://github.com/MTES-MCT/rapportNav,True
@@ -3521,6 +3523,7 @@ https://gitlab.inria.fr/DYLISS/samifier-matching-kernel,True
 https://gitlab.inria.fr/DYLISS/samifier-web,True
 https://gitlab.inria.fr/Dae-Ng/Dae-Ng,True
 https://gitlab.inria.fr/Damaris/damaris,True
+https://gitlab.inria.fr/GATB/simka,False
 https://gitlab.inria.fr/GUDHI/data,True
 https://gitlab.inria.fr/GUDHI/gudhi-docker,True
 https://gitlab.inria.fr/GardiNet/dragonnet,True
@@ -3667,7 +3670,7 @@ https://gitlab.inria.fr/comprise/comprise_sdk_developer_ui,True
 https://gitlab.inria.fr/comprise/comprise_speech_to_text,True
 https://gitlab.inria.fr/comprise/comprise_text_to_speech,True
 https://gitlab.inria.fr/comprise/deliverable_d21,True
-https://gitlab.inria.fr/computer_architecture/y86-environment,False
+https://gitlab.inria.fr/computer_architecture/y86-environment,True
 https://gitlab.inria.fr/coq/coq,True
 https://gitlab.inria.fr/coq/wiki-backup,True
 https://gitlab.inria.fr/coqinterval/interval,True
@@ -3875,6 +3878,7 @@ https://gitlab.inria.fr/local-implicit-schemes/supplementary-material-numerische
 https://gitlab.inria.fr/magnet/mangoes,True
 https://gitlab.inria.fr/magnet/nada,True
 https://gitlab.inria.fr/mastertal/UE803,True
+https://gitlab.inria.fr/mastertal/discourse-parsing,False
 https://gitlab.inria.fr/matherials/simol,True
 https://gitlab.inria.fr/mecsi-ext/genumsi,True
 https://gitlab.inria.fr/memcad/clangml,True
