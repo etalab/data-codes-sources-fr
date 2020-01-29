@@ -2629,7 +2629,7 @@ https://github.com/lutece-secteur-public/gru-module-mydashboard-identity-pocgra,
 https://github.com/lutece-secteur-public/gru-module-mydashboard-myaccount,True
 https://github.com/lutece-secteur-public/gru-module-notifygru-appointment,True
 https://github.com/lutece-secteur-public/gru-module-notifygru-directory,True
-https://github.com/lutece-secteur-public/gru-module-notifygru-extendcomment,False
+https://github.com/lutece-secteur-public/gru-module-notifygru-extendcomment,True
 https://github.com/lutece-secteur-public/gru-module-notifygru-forms,True
 https://github.com/lutece-secteur-public/gru-module-notifygru-mapping-manager,True
 https://github.com/lutece-secteur-public/gru-module-notifygru-ticketing,True
