@@ -202,6 +202,7 @@ https://git.unistra.fr/community/ina-import,True
 https://git.unistra.fr/community/io-heurist,True
 https://git.unistra.fr/community/pount-api,True
 https://git.unistra.fr/community/pount-front,True
+https://git.unistra.fr/conseils/enquete-unistra-2019,False
 https://git.unistra.fr/csrd/white_paper_form,True
 https://git.unistra.fr/datachallenge/openaccessweek2019,True
 https://git.unistra.fr/deepen/corpus-reference,False
@@ -3666,6 +3667,7 @@ https://gitlab.inria.fr/comprise/comprise_sdk_developer_ui,True
 https://gitlab.inria.fr/comprise/comprise_speech_to_text,True
 https://gitlab.inria.fr/comprise/comprise_text_to_speech,True
 https://gitlab.inria.fr/comprise/deliverable_d21,True
+https://gitlab.inria.fr/computer_architecture/y86-environment,False
 https://gitlab.inria.fr/coq/coq,True
 https://gitlab.inria.fr/coq/wiki-backup,True
 https://gitlab.inria.fr/coqinterval/interval,True
@@ -4087,7 +4089,7 @@ https://gitlab.irstea.fr/HYCAR-Hydro/ExcelGR,True
 https://gitlab.irstea.fr/HYCAR-Hydro/airgr,True
 https://gitlab.irstea.fr/HYCAR-Hydro/airgrteaching,True
 https://gitlab.irstea.fr/HYCAR-Hydro/baseflow,True
-https://gitlab.irstea.fr/HYCAR-Hydro/diagramgrmodels,False
+https://gitlab.irstea.fr/HYCAR-Hydro/diagramgrmodels,True
 https://gitlab.irstea.fr/SimAquaLife/GR3D,True
 https://gitlab.irstea.fr/SimAquaLife/PikeLake,True
 https://gitlab.irstea.fr/SimAquaLife/PredatorPrey,True
