@@ -222,7 +222,7 @@ https://git.unistra.fr/jupyter/animation,True
 https://git.unistra.fr/konflict/central-server,False
 https://git.unistra.fr/konflict/central-server-client,False
 https://git.unistra.fr/konflict/game-server,False
-https://git.unistra.fr/konflict/mobile-app,False
+https://git.unistra.fr/konflict/mobile-app,True
 https://git.unistra.fr/la-table-ronde/ecr19-t4-b,True
 https://git.unistra.fr/lo5-antony-et-florian/thegame,True
 https://git.unistra.fr/lp-komi/naojimi,True
@@ -2215,6 +2215,7 @@ https://github.com/eole/salt,True
 https://github.com/eole/salt-winrepo-ng,True
 https://github.com/eole/systemd-formula,True
 https://github.com/eole/template-formula,True
+https://github.com/eole/tools,False
 https://github.com/erasme/androidwifidirect,True
 https://github.com/erasme/ansible-etherpad,True
 https://github.com/erasme/ansible-interfaces,True
@@ -2560,6 +2561,7 @@ https://github.com/indsante/dico-snds-creation-archive,True
 https://github.com/indsante/schema-snds,True
 https://github.com/indsante/synthetic-snds,True
 https://github.com/ivre/ivre,True
+https://github.com/ivre/ivre-test-samples,False
 https://github.com/ivre/masscan,True
 https://github.com/linbox-team/fflas-ffpack,True
 https://github.com/linbox-team/givaro,True
@@ -3814,7 +3816,7 @@ https://gitlab.inria.fr/gerzaguet_public/2a_imr_wirelessnetwork_lab,True
 https://gitlab.inria.fr/gerzaguet_public/3a_sysnum_wirelesscomm_tx,True
 https://gitlab.inria.fr/gerzaguet_public/digitalcomm.jl,True
 https://gitlab.inria.fr/gerzaguet_public/julia_seminar,True
-https://gitlab.inria.fr/gerzaguet_public/uhd.jl,False
+https://gitlab.inria.fr/gerzaguet_public/uhd.jl,True
 https://gitlab.inria.fr/grew/DSQtoAMR,True
 https://gitlab.inria.fr/grew/DSQtoDMRS,True
 https://gitlab.inria.fr/grew/POStoSSQ,True
