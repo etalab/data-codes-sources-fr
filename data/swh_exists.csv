@@ -219,6 +219,10 @@ https://git.unistra.fr/integratron/integrateur-api,True
 https://git.unistra.fr/integratron/integrateur-cli,True
 https://git.unistra.fr/integratron/integratron.pages.unistra.fr,True
 https://git.unistra.fr/jupyter/animation,True
+https://git.unistra.fr/konflict/central-server,False
+https://git.unistra.fr/konflict/central-server-client,False
+https://git.unistra.fr/konflict/game-server,False
+https://git.unistra.fr/konflict/mobile-app,False
 https://git.unistra.fr/la-table-ronde/ecr19-t4-b,True
 https://git.unistra.fr/lo5-antony-et-florian/thegame,True
 https://git.unistra.fr/lp-komi/naojimi,True
@@ -270,7 +274,7 @@ https://github.com/1024pix/metrics-grafana,True
 https://github.com/1024pix/metrics-router,True
 https://github.com/1024pix/nginx-lb,True
 https://github.com/1024pix/nginx-lb-dev,True
-https://github.com/1024pix/open-lab,False
+https://github.com/1024pix/open-lab,True
 https://github.com/1024pix/pix,True
 https://github.com/1024pix/pix-editor,True
 https://github.com/1024pix/pix-help-center-theme,True
@@ -2002,6 +2006,7 @@ https://github.com/culturecommunication/francearchives-cubicweb,True
 https://github.com/culturecommunication/francearchives-cubicweb-edition,True
 https://github.com/culturecommunication/ginco,True
 https://github.com/culturecommunication/ginco-diff,True
+https://github.com/culturecommunication/octave,False
 https://github.com/cw-leia/chipwhisperer,True
 https://github.com/cw-leia/chipwhisperer-target-cw308t,True
 https://github.com/cw-leia/cw-leia-standalone-firmware,True
@@ -3809,6 +3814,7 @@ https://gitlab.inria.fr/gerzaguet_public/2a_imr_wirelessnetwork_lab,True
 https://gitlab.inria.fr/gerzaguet_public/3a_sysnum_wirelesscomm_tx,True
 https://gitlab.inria.fr/gerzaguet_public/digitalcomm.jl,True
 https://gitlab.inria.fr/gerzaguet_public/julia_seminar,True
+https://gitlab.inria.fr/gerzaguet_public/uhd.jl,False
 https://gitlab.inria.fr/grew/DSQtoAMR,True
 https://gitlab.inria.fr/grew/DSQtoDMRS,True
 https://gitlab.inria.fr/grew/POStoSSQ,True
@@ -3975,7 +3981,7 @@ https://gitlab.inria.fr/popstar/SAT-Equiv,True
 https://gitlab.inria.fr/pvignet/cadbiom,True
 https://gitlab.inria.fr/pvignet/pycryptosat,True
 https://gitlab.inria.fr/rainbow-intervals/ros_interval,True
-https://gitlab.inria.fr/runaway/mixup,False
+https://gitlab.inria.fr/runaway/mixup,True
 https://gitlab.inria.fr/runaway/runaway,True
 https://gitlab.inria.fr/sb/simbci,True
 https://gitlab.inria.fr/sca_platform/analysis,False
@@ -4050,7 +4056,7 @@ https://gitlab.inria.fr/tranus/TRANUS_Interfaces,True
 https://gitlab.inria.fr/tranus/Tranus_Python,True
 https://gitlab.inria.fr/tranus/Tranus_QGIS_Plugins,True
 https://gitlab.inria.fr/tyrex-public/mu-RA,True
-https://gitlab.inria.fr/ua/HighlyOscillatoryProblems.jl,False
+https://gitlab.inria.fr/ua/HighlyOscillatoryProblems.jl,True
 https://gitlab.inria.fr/usnb/api-gateway,True
 https://gitlab.inria.fr/usnb/bus-experiment,True
 https://gitlab.inria.fr/usnb/email-bc,True
