@@ -1484,6 +1484,7 @@ https://github.com/assurance-maladie-digital/api-droits-fs-doc,True
 https://github.com/assurance-maladie-digital/api-droits-fs-exemple-php,True
 https://github.com/assurance-maladie-digital/api.gouv.fr,True
 https://github.com/assurance-maladie-digital/design-system,True
+https://github.com/assurance-maladie-digital/vue-cli-preset,False
 https://github.com/assurance-maladie-digital/vue-dash,True
 https://github.com/assurance-maladie-digital/vue-dot,True
 https://github.com/atlanmod/ACP,True
@@ -2215,7 +2216,7 @@ https://github.com/eole/salt,True
 https://github.com/eole/salt-winrepo-ng,True
 https://github.com/eole/systemd-formula,True
 https://github.com/eole/template-formula,True
-https://github.com/eole/tools,False
+https://github.com/eole/tools,True
 https://github.com/erasme/androidwifidirect,True
 https://github.com/erasme/ansible-etherpad,True
 https://github.com/erasme/ansible-interfaces,True
