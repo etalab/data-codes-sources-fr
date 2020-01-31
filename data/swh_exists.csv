@@ -2272,6 +2272,9 @@ https://github.com/erasme/testWebhook,True
 https://github.com/erasme/vagrant-dev-env,True
 https://github.com/erasme/webnapperon2,True
 https://github.com/erasme/website_griotte,True
+https://github.com/etalab-ia/ami-ia,False
+https://github.com/etalab-ia/piaf-code,False
+https://github.com/etalab-ia/pseudo_conseil_etat,False
 https://github.com/etalab/Algo_gouv,True
 https://github.com/etalab/Attendize,True
 https://github.com/etalab/DVF-app,True
@@ -3201,7 +3204,7 @@ https://github.com/strasbourg/parkings-api,True
 https://github.com/strasbourg/stats-api,True
 https://github.com/strasbourg/strasbourgstartups,True
 https://github.com/strasbourg/velhop-api,True
-https://github.com/sympa-community/MHonArc,False
+https://github.com/sympa-community/MHonArc,True
 https://github.com/sympa-community/ansible-webmail-server,True
 https://github.com/sympa-community/dotorg,True
 https://github.com/sympa-community/gpldoc,True
