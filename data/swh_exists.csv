@@ -237,6 +237,7 @@ https://git.unistra.fr/mih18-t4-a/ELECTOR2K18,True
 https://git.unistra.fr/my-awesome-group-de-tekdaiv/essaiededepotcommun,False
 https://git.unistra.fr/p4a_zj/P4a,True
 https://git.unistra.fr/p4b-ongagna-lehmann-at3/P4a,True
+https://git.unistra.fr/p4z_sarah_yoann/P4z,False
 https://git.unistra.fr/pastore.ritzenthaler.p4a/P4a,True
 https://git.unistra.fr/presUni/HAJ18-T4-D,True
 https://git.unistra.fr/projet-integrateur-grp-3/frontend,True
@@ -1766,6 +1767,7 @@ https://github.com/betagouv/signalconso-loadtest,True
 https://github.com/betagouv/signalement,True
 https://github.com/betagouv/signalement-api,True
 https://github.com/betagouv/signalement-app,True
+https://github.com/betagouv/signup-ansible,False
 https://github.com/betagouv/signup-back,True
 https://github.com/betagouv/signup-front,True
 https://github.com/betagouv/signup-oauth,True
@@ -2010,7 +2012,7 @@ https://github.com/culturecommunication/francearchives-cubicweb,True
 https://github.com/culturecommunication/francearchives-cubicweb-edition,True
 https://github.com/culturecommunication/ginco,True
 https://github.com/culturecommunication/ginco-diff,True
-https://github.com/culturecommunication/octave,False
+https://github.com/culturecommunication/octave,True
 https://github.com/cw-leia/chipwhisperer,True
 https://github.com/cw-leia/chipwhisperer-target-cw308t,True
 https://github.com/cw-leia/cw-leia-standalone-firmware,True
@@ -3871,7 +3873,7 @@ https://gitlab.inria.fr/hiepacs/rotor,True
 https://gitlab.inria.fr/hsplit/hsplit,True
 https://gitlab.inria.fr/hwloc/xmls,True
 https://gitlab.inria.fr/iccv_2019/pyvideoresearch_gunnar,True
-https://gitlab.inria.fr/igrida/gvirt,False
+https://gitlab.inria.fr/igrida/gvirt,True
 https://gitlab.inria.fr/igrida/kubigrida-charts,True
 https://gitlab.inria.fr/igrida/kubigrida-docker,True
 https://gitlab.inria.fr/inria-ci/ctproxy,True
@@ -4054,6 +4056,7 @@ https://gitlab.inria.fr/source_code/ai_paper_code,True
 https://gitlab.inria.fr/star-explain/fjs_of_fml,True
 https://gitlab.inria.fr/star-explain/jsexplain,True
 https://gitlab.inria.fr/star-explain/opam-repository,True
+https://gitlab.inria.fr/starpu/starpu,False
 https://gitlab.inria.fr/synalp/python4nlp-2019-public,True
 https://gitlab.inria.fr/synalp/website,True
 https://gitlab.inria.fr/synchrone/heptagon,True
