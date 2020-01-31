@@ -29,6 +29,7 @@ https://forge.grandlyon.com/systemes-dinformation/pasi-portail-d-acces-au-si,Tru
 https://forgemia.inra.fr/4p/user-guide,True
 https://forgemia.inra.fr/DecisionBleDur/DecisionBleDur,True
 https://forgemia.inra.fr/GET_TRiX/matrix,True
+https://forgemia.inra.fr/GNet/cytopheno_omics,False
 https://forgemia.inra.fr/QTL/spell-qtl,True
 https://forgemia.inra.fr/adminforgemia/doc-public,True
 https://forgemia.inra.fr/bibliome/bionlp-st-py,True
@@ -55,6 +56,7 @@ https://forgemia.inra.fr/get-it/nf-taxoaffiliation,True
 https://forgemia.inra.fr/metexplore/MetExploreViz,True
 https://forgemia.inra.fr/metexplore/met4j,True
 https://forgemia.inra.fr/metexplore/metabolomics2network,True
+https://forgemia.inra.fr/metexplore/tutorialmet4j,False
 https://forgemia.inra.fr/olivier.bonnefon/mse,True
 https://forgemia.inra.fr/pappso/libodsstream,True
 https://forgemia.inra.fr/pappso/masschroq,True
@@ -220,6 +222,7 @@ https://git.unistra.fr/integratron/integrateur-cli,True
 https://git.unistra.fr/integratron/integratron.pages.unistra.fr,True
 https://git.unistra.fr/jupyter/animation,True
 https://git.unistra.fr/konflict/central-server,False
+https://git.unistra.fr/konflict/central-server-api,False
 https://git.unistra.fr/konflict/central-server-client,False
 https://git.unistra.fr/konflict/game-server,False
 https://git.unistra.fr/konflict/mobile-app,True
@@ -2206,6 +2209,7 @@ https://github.com/eole/docs,True
 https://github.com/eole/e-auth,True
 https://github.com/eole/e2guardian,True
 https://github.com/eole/faketools,True
+https://github.com/eole/gitolite,False
 https://github.com/eole/libvirt-formula,True
 https://github.com/eole/mastodon,True
 https://github.com/eole/one,True
@@ -2562,7 +2566,7 @@ https://github.com/indsante/dico-snds-creation-archive,True
 https://github.com/indsante/schema-snds,True
 https://github.com/indsante/synthetic-snds,True
 https://github.com/ivre/ivre,True
-https://github.com/ivre/ivre-test-samples,False
+https://github.com/ivre/ivre-test-samples,True
 https://github.com/ivre/masscan,True
 https://github.com/linbox-team/fflas-ffpack,True
 https://github.com/linbox-team/givaro,True
