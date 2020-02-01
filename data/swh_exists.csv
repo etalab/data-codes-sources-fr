@@ -33,7 +33,7 @@ https://forgemia.inra.fr/GNet/cytopheno_omics,False
 https://forgemia.inra.fr/QTL/spell-qtl,True
 https://forgemia.inra.fr/adminforgemia/doc-public,True
 https://forgemia.inra.fr/bibliome/bionlp-st-py,True
-https://forgemia.inra.fr/bibliome/formation-alvisnlp,False
+https://forgemia.inra.fr/bibliome/formation-alvisnlp,True
 https://forgemia.inra.fr/bios4biol/bioinfo-utils,True
 https://forgemia.inra.fr/bios4biol/workflows,True
 https://forgemia.inra.fr/chemhousebas/vsn,True
@@ -205,7 +205,7 @@ https://git.unistra.fr/community/ina-import,True
 https://git.unistra.fr/community/io-heurist,True
 https://git.unistra.fr/community/pount-api,True
 https://git.unistra.fr/community/pount-front,True
-https://git.unistra.fr/conseils/enquete-unistra-2019,False
+https://git.unistra.fr/conseils/enquete-unistra-2019,True
 https://git.unistra.fr/csrd/white_paper_form,True
 https://git.unistra.fr/datachallenge/openaccessweek2019,True
 https://git.unistra.fr/deepen/corpus-reference,False
@@ -237,7 +237,7 @@ https://git.unistra.fr/mih18-t4-a/ELECTOR2K18,True
 https://git.unistra.fr/my-awesome-group-de-tekdaiv/essaiededepotcommun,False
 https://git.unistra.fr/p4a_zj/P4a,True
 https://git.unistra.fr/p4b-ongagna-lehmann-at3/P4a,True
-https://git.unistra.fr/p4z_sarah_yoann/P4z,False
+https://git.unistra.fr/p4z_sarah_yoann/P4z,True
 https://git.unistra.fr/pastore.ritzenthaler.p4a/P4a,True
 https://git.unistra.fr/presUni/HAJ18-T4-D,True
 https://git.unistra.fr/projet-integrateur-grp-3/frontend,True
@@ -1580,7 +1580,7 @@ https://github.com/betagouv/api-medicaments,True
 https://github.com/betagouv/api-particulier,True
 https://github.com/betagouv/api-particulier-ansible,True
 https://github.com/betagouv/api-particulier-auth,True
-https://github.com/betagouv/api-particulier-demo,False
+https://github.com/betagouv/api-particulier-demo,True
 https://github.com/betagouv/api-particulier-demo-traces,True
 https://github.com/betagouv/api-particulier-lib,True
 https://github.com/betagouv/api-particulier-web,True
