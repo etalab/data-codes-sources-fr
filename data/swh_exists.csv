@@ -1040,7 +1040,7 @@ https://github.com/MTES-MCT/parcours_r_module_publication_rmarkdown,True
 https://github.com/MTES-MCT/parcours_r_module_statistiques_descriptives,True
 https://github.com/MTES-MCT/parcours_r_socle_introduction,True
 https://github.com/MTES-MCT/parcours_r_socle_preparation_des_donnees,True
-https://github.com/MTES-MCT/partaj,False
+https://github.com/MTES-MCT/partaj,True
 https://github.com/MTES-MCT/permis-construire,True
 https://github.com/MTES-MCT/portail,True
 https://github.com/MTES-MCT/rapportNav,True
@@ -2272,7 +2272,7 @@ https://github.com/erasme/testWebhook,True
 https://github.com/erasme/vagrant-dev-env,True
 https://github.com/erasme/webnapperon2,True
 https://github.com/erasme/website_griotte,True
-https://github.com/etalab-ia/ami-ia,False
+https://github.com/etalab-ia/ami-ia,True
 https://github.com/etalab-ia/piaf-code,False
 https://github.com/etalab-ia/pseudo_conseil_etat,False
 https://github.com/etalab/Algo_gouv,True
@@ -3646,6 +3646,7 @@ https://gitlab.inria.fr/blare/kblare-tools,True
 https://gitlab.inria.fr/blare/rfblare-tests,True
 https://gitlab.inria.fr/blare/test,True
 https://gitlab.inria.fr/bleuse/procset.py,True
+https://gitlab.inria.fr/bora-ucar/fast-matching,False
 https://gitlab.inria.fr/bora-ucar/karp--sipser-reduction,True
 https://gitlab.inria.fr/bora-ucar/libspmxv,True
 https://gitlab.inria.fr/bora-ucar/matchmaker,True
