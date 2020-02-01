@@ -223,8 +223,8 @@ https://git.unistra.fr/integratron/integratron.pages.unistra.fr,True
 https://git.unistra.fr/jupyter/animation,True
 https://git.unistra.fr/konflict/central-server,False
 https://git.unistra.fr/konflict/central-server-api,False
-https://git.unistra.fr/konflict/central-server-client,False
-https://git.unistra.fr/konflict/game-server,False
+https://git.unistra.fr/konflict/central-server-client,True
+https://git.unistra.fr/konflict/game-server,True
 https://git.unistra.fr/konflict/mobile-app,True
 https://git.unistra.fr/la-table-ronde/ecr19-t4-b,True
 https://git.unistra.fr/lo5-antony-et-florian/thegame,True
