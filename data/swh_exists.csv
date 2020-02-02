@@ -2273,7 +2273,7 @@ https://github.com/erasme/vagrant-dev-env,True
 https://github.com/erasme/webnapperon2,True
 https://github.com/erasme/website_griotte,True
 https://github.com/etalab-ia/ami-ia,True
-https://github.com/etalab-ia/piaf-code,False
+https://github.com/etalab-ia/piaf-code,True
 https://github.com/etalab-ia/pseudo_conseil_etat,False
 https://github.com/etalab/Algo_gouv,True
 https://github.com/etalab/Attendize,True
@@ -4064,6 +4064,7 @@ https://gitlab.inria.fr/starpu/starpu,False
 https://gitlab.inria.fr/synalp/python4nlp-2019-public,True
 https://gitlab.inria.fr/synalp/website,True
 https://gitlab.inria.fr/synchrone/heptagon,True
+https://gitlab.inria.fr/the-missing-path/the-missing-path.gitlab.inria.fr,False
 https://gitlab.inria.fr/thoth/spams-devel,True
 https://gitlab.inria.fr/tnfs-alpha/alpha,True
 https://gitlab.inria.fr/tranus/QGIS_Tranus_Reports,True
