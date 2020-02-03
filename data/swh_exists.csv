@@ -1576,6 +1576,7 @@ https://github.com/banquedefrance/go-ethereum,True
 https://github.com/banquedefrance/madre_bat,True
 https://github.com/betagouv/Aidants_Connect,True
 https://github.com/betagouv/ClasseA12,True
+https://github.com/betagouv/Ecolab,False
 https://github.com/betagouv/Element.details,True
 https://github.com/betagouv/OpenFiscaFrance.jl,True
 https://github.com/betagouv/OpenLawEditor,True
@@ -3277,6 +3278,7 @@ https://github.com/unistra/django-workflows,True
 https://github.com/unistra/djangorestframework-spore,True
 https://github.com/unistra/dtrt-ffmpeg,True
 https://github.com/unistra/eplouribousse,True
+https://github.com/unistra/eva,False
 https://github.com/unistra/excalibur,True
 https://github.com/unistra/ffmpod-installer,True
 https://github.com/unistra/fsp,True
