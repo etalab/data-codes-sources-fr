@@ -537,6 +537,7 @@ https://github.com/DGFiP/Test-Compta-Demat,True
 https://github.com/DISIC/GMR,True
 https://github.com/DISIC/GMR-sandbox,True
 https://github.com/DISIC/RGAA,True
+https://github.com/DISIC/RGAA-tests,False
 https://github.com/DISIC/Test-Compta-Demat,True
 https://github.com/DISIC/XWiki-cerfa-numerique,True
 https://github.com/DISIC/assistant-rgaa,True
@@ -683,7 +684,7 @@ https://github.com/Geographie-cites/Metapop,True
 https://github.com/Geographie-cites/MicMac,True
 https://github.com/Geographie-cites/ameginatif,True
 https://github.com/Geographie-cites/aperitif,True
-https://github.com/Geographie-cites/autobiopedia,False
+https://github.com/Geographie-cites/autobiopedia,True
 https://github.com/Geographie-cites/corpusminer-app,True
 https://github.com/Geographie-cites/corpusminer-package,True
 https://github.com/Geographie-cites/cybergeo20,True
@@ -1646,6 +1647,7 @@ https://github.com/betagouv/dossiersco-openlab1,True
 https://github.com/betagouv/dossiersco.fr,True
 https://github.com/betagouv/ds_proxy,True
 https://github.com/betagouv/e-controle,True
+https://github.com/betagouv/e-controle-load-test,False
 https://github.com/betagouv/eac,True
 https://github.com/betagouv/eac-api,True
 https://github.com/betagouv/eac-scrapper,True
@@ -3692,6 +3694,7 @@ https://gitlab.inria.fr/citi-lab/dycton,True
 https://gitlab.inria.fr/citi-lab/embench,True
 https://gitlab.inria.fr/citi-lab/sytare,True
 https://gitlab.inria.fr/citi-lab/sytare-public,True
+https://gitlab.inria.fr/coccinelle/coccinelle,False
 https://gitlab.inria.fr/coding-dojo-saclay/Blockchain,True
 https://gitlab.inria.fr/coding-dojo-saclay/ChronalCoords.jl,True
 https://gitlab.inria.fr/coding-dojo-saclay/ChronalCoords2.jl,True
