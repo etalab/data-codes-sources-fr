@@ -57,7 +57,7 @@ https://forgemia.inra.fr/get-it/nf-taxoaffiliation,True
 https://forgemia.inra.fr/metexplore/MetExploreViz,True
 https://forgemia.inra.fr/metexplore/met4j,True
 https://forgemia.inra.fr/metexplore/metabolomics2network,True
-https://forgemia.inra.fr/metexplore/tutorialmet4j,False
+https://forgemia.inra.fr/metexplore/tutorialmet4j,True
 https://forgemia.inra.fr/olivier.bonnefon/mse,True
 https://forgemia.inra.fr/pappso/libodsstream,True
 https://forgemia.inra.fr/pappso/masschroq,True
@@ -1807,7 +1807,7 @@ https://github.com/betagouv/standup,True
 https://github.com/betagouv/svair-api,True
 https://github.com/betagouv/svair-mock,True
 https://github.com/betagouv/svair-mock-data,False
-https://github.com/betagouv/svair-mock-deprecated,False
+https://github.com/betagouv/svair-mock-deprecated,True
 https://github.com/betagouv/syso,True
 https://github.com/betagouv/syso-core,True
 https://github.com/betagouv/taux-collectifs-cotisation-atmp,True
