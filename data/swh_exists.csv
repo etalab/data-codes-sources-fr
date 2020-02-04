@@ -38,6 +38,7 @@ https://forgemia.inra.fr/bios4biol/bioinfo-utils,True
 https://forgemia.inra.fr/bios4biol/workflows,True
 https://forgemia.inra.fr/chemhousebas/vsn,True
 https://forgemia.inra.fr/enseignement-mistea/reports-with-markdown,True
+https://forgemia.inra.fr/formation/formation-python-inrae,False
 https://forgemia.inra.fr/formation/python-pour-les-biologistes,False
 https://forgemia.inra.fr/genotoul-bioinfo/dgenies,True
 https://forgemia.inra.fr/genotoul-bioinfo/dgenies-viewer,True
@@ -678,6 +679,7 @@ https://github.com/GendarmerieNationale/GendLoc-,True
 https://github.com/GendarmerieNationale/Geo-Secours,True
 https://github.com/GendarmerieNationale/GeolocOptinAdhoc,True
 https://github.com/GendarmerieNationale/PA_GENDLOC_final,True
+https://github.com/GendarmerieNationale/ReceptionInfoDrone,False
 https://github.com/GendarmerieNationale/hackathongendloc,True
 https://github.com/GendarmerieNationale/socialgendmap,True
 https://github.com/Geographie-cites/Accessim,True
@@ -694,7 +696,7 @@ https://github.com/Geographie-cites/h24,True
 https://github.com/Geographie-cites/lucie,True
 https://github.com/Geographie-cites/micmac-scala,True
 https://github.com/Geographie-cites/mobiliscope,True
-https://github.com/Geographie-cites/semogeo,False
+https://github.com/Geographie-cites/semogeo,True
 https://github.com/Geographie-cites/springer-simpoplocal,True
 https://github.com/Geographie-cites/thesaR,True
 https://github.com/Geographie-cites/toyspace,False
@@ -1509,7 +1511,7 @@ https://github.com/assurance-maladie-digital/api-droits-fs-doc,True
 https://github.com/assurance-maladie-digital/api-droits-fs-exemple-php,True
 https://github.com/assurance-maladie-digital/api.gouv.fr,True
 https://github.com/assurance-maladie-digital/design-system,True
-https://github.com/assurance-maladie-digital/vue-cli-preset,False
+https://github.com/assurance-maladie-digital/vue-cli-preset,True
 https://github.com/assurance-maladie-digital/vue-dash,True
 https://github.com/assurance-maladie-digital/vue-dot,True
 https://github.com/atlanmod/ACP,True
@@ -1602,7 +1604,7 @@ https://github.com/betagouv/api-medicaments,True
 https://github.com/betagouv/api-particulier,True
 https://github.com/betagouv/api-particulier-ansible,True
 https://github.com/betagouv/api-particulier-auth,True
-https://github.com/betagouv/api-particulier-auth-deprecated,False
+https://github.com/betagouv/api-particulier-auth-deprecated,True
 https://github.com/betagouv/api-particulier-demo,True
 https://github.com/betagouv/api-particulier-demo-traces,True
 https://github.com/betagouv/api-particulier-deprecated,False
@@ -2924,7 +2926,7 @@ https://github.com/messagerie-melanie2/Roundcube-plugins-Mel,True
 https://github.com/messagerie-melanie2/SabreDAVM2,True
 https://github.com/meteofrance/formation-deep-learning,True
 https://github.com/meteofrance/meteofrance.github.io,True
-https://github.com/meteofrance/meteonet,False
+https://github.com/meteofrance/meteonet,True
 https://github.com/micmacIGN/Documentation,True
 https://github.com/micmacIGN/InterfaceCEREMA,True
 https://github.com/micmacIGN/Papers,True
