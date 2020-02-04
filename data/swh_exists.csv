@@ -38,6 +38,7 @@ https://forgemia.inra.fr/bios4biol/bioinfo-utils,True
 https://forgemia.inra.fr/bios4biol/workflows,True
 https://forgemia.inra.fr/chemhousebas/vsn,True
 https://forgemia.inra.fr/enseignement-mistea/reports-with-markdown,True
+https://forgemia.inra.fr/formation/python-pour-les-biologistes,False
 https://forgemia.inra.fr/genotoul-bioinfo/dgenies,True
 https://forgemia.inra.fr/genotoul-bioinfo/dgenies-viewer,True
 https://forgemia.inra.fr/genotoul-bioinfo/jflow,True
@@ -1601,12 +1602,15 @@ https://github.com/betagouv/api-medicaments,True
 https://github.com/betagouv/api-particulier,True
 https://github.com/betagouv/api-particulier-ansible,True
 https://github.com/betagouv/api-particulier-auth,True
+https://github.com/betagouv/api-particulier-auth-deprecated,False
 https://github.com/betagouv/api-particulier-demo,True
 https://github.com/betagouv/api-particulier-demo-traces,True
+https://github.com/betagouv/api-particulier-deprecated,False
 https://github.com/betagouv/api-particulier-lib,True
 https://github.com/betagouv/api-particulier-web,True
 https://github.com/betagouv/api-scopes,True
 https://github.com/betagouv/api-stats-elk,True
+https://github.com/betagouv/api-stats-elk-deprecated,False
 https://github.com/betagouv/api.gouv.fr,True
 https://github.com/betagouv/aplus,True
 https://github.com/betagouv/beta.gouv.fr,True
@@ -1670,6 +1674,7 @@ https://github.com/betagouv/ilos,True
 https://github.com/betagouv/impact-tests,True
 https://github.com/betagouv/itou,True
 https://github.com/betagouv/kong-delegateAuth,True
+https://github.com/betagouv/kong-delegateAuth-deprecated,False
 https://github.com/betagouv/la-sass-vy,True
 https://github.com/betagouv/lapin,True
 https://github.com/betagouv/leximpact-client,True
@@ -1802,6 +1807,7 @@ https://github.com/betagouv/standup,True
 https://github.com/betagouv/svair-api,True
 https://github.com/betagouv/svair-mock,True
 https://github.com/betagouv/svair-mock-data,False
+https://github.com/betagouv/svair-mock-deprecated,False
 https://github.com/betagouv/syso,True
 https://github.com/betagouv/syso-core,True
 https://github.com/betagouv/taux-collectifs-cotisation-atmp,True
@@ -4085,7 +4091,7 @@ https://gitlab.inria.fr/source_code/ai_paper_code,True
 https://gitlab.inria.fr/star-explain/fjs_of_fml,True
 https://gitlab.inria.fr/star-explain/jsexplain,True
 https://gitlab.inria.fr/star-explain/opam-repository,True
-https://gitlab.inria.fr/starpu/starpu,False
+https://gitlab.inria.fr/starpu/starpu,True
 https://gitlab.inria.fr/synalp/python4nlp-2019-public,True
 https://gitlab.inria.fr/synalp/website,True
 https://gitlab.inria.fr/synchrone/heptagon,True
