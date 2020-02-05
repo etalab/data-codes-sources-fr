@@ -38,7 +38,7 @@ https://forgemia.inra.fr/bios4biol/bioinfo-utils,True
 https://forgemia.inra.fr/bios4biol/workflows,True
 https://forgemia.inra.fr/chemhousebas/vsn,True
 https://forgemia.inra.fr/enseignement-mistea/reports-with-markdown,True
-https://forgemia.inra.fr/formation/formation-python-inrae,False
+https://forgemia.inra.fr/formation/formation-python-inrae,True
 https://forgemia.inra.fr/formation/python-pour-les-biologistes,True
 https://forgemia.inra.fr/genotoul-bioinfo/dgenies,True
 https://forgemia.inra.fr/genotoul-bioinfo/dgenies-viewer,True
@@ -62,7 +62,9 @@ https://forgemia.inra.fr/metexplore/tutorialmet4j,True
 https://forgemia.inra.fr/olivier.bonnefon/mse,True
 https://forgemia.inra.fr/pappso/libodsstream,True
 https://forgemia.inra.fr/pappso/masschroq,True
+https://forgemia.inra.fr/pappso/massxpert,False
 https://forgemia.inra.fr/pappso/mcqr,True
+https://forgemia.inra.fr/pappso/minexpert2,False
 https://forgemia.inra.fr/pappso/pappsoms-tools,True
 https://forgemia.inra.fr/pappso/pappsomspp,True
 https://forgemia.inra.fr/pappso/xtpcpp,True
@@ -1808,7 +1810,7 @@ https://github.com/betagouv/sqlalchemy-handler,True
 https://github.com/betagouv/standup,True
 https://github.com/betagouv/svair-api,True
 https://github.com/betagouv/svair-mock,True
-https://github.com/betagouv/svair-mock-data,False
+https://github.com/betagouv/svair-mock-data,True
 https://github.com/betagouv/svair-mock-deprecated,True
 https://github.com/betagouv/syso,True
 https://github.com/betagouv/syso-core,True
@@ -3128,6 +3130,7 @@ https://github.com/openfun/politique-de-contribution-open-source,True
 https://github.com/openfun/poss-2018,True
 https://github.com/openfun/potsie,True
 https://github.com/openfun/proctoru-xblock,True
+https://github.com/openfun/ralph,False
 https://github.com/openfun/richie,True
 https://github.com/openfun/subsrt,True
 https://github.com/openfun/svg-converter,True
