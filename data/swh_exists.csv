@@ -39,7 +39,7 @@ https://forgemia.inra.fr/bios4biol/workflows,True
 https://forgemia.inra.fr/chemhousebas/vsn,True
 https://forgemia.inra.fr/enseignement-mistea/reports-with-markdown,True
 https://forgemia.inra.fr/formation/formation-python-inrae,False
-https://forgemia.inra.fr/formation/python-pour-les-biologistes,False
+https://forgemia.inra.fr/formation/python-pour-les-biologistes,True
 https://forgemia.inra.fr/genotoul-bioinfo/dgenies,True
 https://forgemia.inra.fr/genotoul-bioinfo/dgenies-viewer,True
 https://forgemia.inra.fr/genotoul-bioinfo/jflow,True
@@ -1676,7 +1676,7 @@ https://github.com/betagouv/ilos,True
 https://github.com/betagouv/impact-tests,True
 https://github.com/betagouv/itou,True
 https://github.com/betagouv/kong-delegateAuth,True
-https://github.com/betagouv/kong-delegateAuth-deprecated,False
+https://github.com/betagouv/kong-delegateAuth-deprecated,True
 https://github.com/betagouv/la-sass-vy,True
 https://github.com/betagouv/lapin,True
 https://github.com/betagouv/leximpact-client,True
@@ -3704,7 +3704,7 @@ https://gitlab.inria.fr/citi-lab/dycton,True
 https://gitlab.inria.fr/citi-lab/embench,True
 https://gitlab.inria.fr/citi-lab/sytare,True
 https://gitlab.inria.fr/citi-lab/sytare-public,True
-https://gitlab.inria.fr/coccinelle/coccinelle,False
+https://gitlab.inria.fr/coccinelle/coccinelle,True
 https://gitlab.inria.fr/coding-dojo-saclay/Blockchain,True
 https://gitlab.inria.fr/coding-dojo-saclay/ChronalCoords.jl,True
 https://gitlab.inria.fr/coding-dojo-saclay/ChronalCoords2.jl,True
