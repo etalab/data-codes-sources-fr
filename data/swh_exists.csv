@@ -1080,6 +1080,7 @@ https://github.com/MTES-MCT/secmar-documentation,True
 https://github.com/MTES-MCT/toolbox,True
 https://github.com/MTES-MCT/trackdechets,True
 https://github.com/MTES-MCT/trackdechets-datascience,True
+https://github.com/MTES-MCT/trackdechets-oauth2-demo-app,False
 https://github.com/MTES-MCT/transport-routier,True
 https://github.com/MTES-MCT/trashadvisor,True
 https://github.com/MTES-MCT/udata-doc,True
@@ -1229,6 +1230,7 @@ https://github.com/ProgrammeVitam/sedatools,True
 https://github.com/ProgrammeVitam/vitam,True
 https://github.com/ProgrammeVitam/vitam-griffins,True
 https://github.com/ProgrammeVitam/vitam-itests,True
+https://github.com/ProgrammeVitam/vitam-ui,False
 https://github.com/SGMAP-AGD/CompareDF,True
 https://github.com/SGMAP-AGD/DAMIR,True
 https://github.com/SGMAP-AGD/Datadouane,True
@@ -3567,6 +3569,7 @@ https://gitlab.inria.fr/ClassCode/classcodeadmin,True
 https://gitlab.inria.fr/ClassCode/pixees-theme,True
 https://gitlab.inria.fr/CompCert/ci,True
 https://gitlab.inria.fr/Conferences/ICT_2018_MUFF,True
+https://gitlab.inria.fr/D3/contour-detect,False
 https://gitlab.inria.fr/DLreasoners/stare,True
 https://gitlab.inria.fr/DYLISS/PathModel,True
 https://gitlab.inria.fr/DYLISS/aucome,True
