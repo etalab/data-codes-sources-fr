@@ -1054,7 +1054,7 @@ https://github.com/MTES-MCT/kelrisks-data-preparation,True
 https://github.com/MTES-MCT/kelrisks-datascience,True
 https://github.com/MTES-MCT/locatio,True
 https://github.com/MTES-MCT/mobilic,False
-https://github.com/MTES-MCT/mobilic-api,False
+https://github.com/MTES-MCT/mobilic-api,True
 https://github.com/MTES-MCT/numerique,True
 https://github.com/MTES-MCT/parcours-r,True
 https://github.com/MTES-MCT/parcours_r_exercices,True
@@ -1618,7 +1618,7 @@ https://github.com/betagouv/api-particulier-lib,True
 https://github.com/betagouv/api-particulier-web,True
 https://github.com/betagouv/api-scopes,True
 https://github.com/betagouv/api-stats-elk,True
-https://github.com/betagouv/api-stats-elk-deprecated,False
+https://github.com/betagouv/api-stats-elk-deprecated,True
 https://github.com/betagouv/api.gouv.fr,True
 https://github.com/betagouv/aplus,True
 https://github.com/betagouv/beta.gouv.fr,True
@@ -3294,7 +3294,7 @@ https://github.com/unistra/django-workflows,True
 https://github.com/unistra/djangorestframework-spore,True
 https://github.com/unistra/dtrt-ffmpeg,True
 https://github.com/unistra/eplouribousse,True
-https://github.com/unistra/eva,False
+https://github.com/unistra/eva,True
 https://github.com/unistra/excalibur,True
 https://github.com/unistra/ffmpod-installer,True
 https://github.com/unistra/fsp,True
