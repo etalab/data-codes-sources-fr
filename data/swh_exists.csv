@@ -62,7 +62,7 @@ https://forgemia.inra.fr/metexplore/tutorialmet4j,True
 https://forgemia.inra.fr/olivier.bonnefon/mse,True
 https://forgemia.inra.fr/pappso/libodsstream,True
 https://forgemia.inra.fr/pappso/masschroq,True
-https://forgemia.inra.fr/pappso/massxpert,False
+https://forgemia.inra.fr/pappso/massxpert,True
 https://forgemia.inra.fr/pappso/mcqr,True
 https://forgemia.inra.fr/pappso/minexpert2,False
 https://forgemia.inra.fr/pappso/pappsoms-tools,True
@@ -3132,7 +3132,7 @@ https://github.com/openfun/politique-de-contribution-open-source,True
 https://github.com/openfun/poss-2018,True
 https://github.com/openfun/potsie,True
 https://github.com/openfun/proctoru-xblock,True
-https://github.com/openfun/ralph,False
+https://github.com/openfun/ralph,True
 https://github.com/openfun/richie,True
 https://github.com/openfun/subsrt,True
 https://github.com/openfun/svg-converter,True
