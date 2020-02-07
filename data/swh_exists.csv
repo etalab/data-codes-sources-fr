@@ -3717,7 +3717,7 @@ https://gitlab.inria.fr/citi-lab/embench,True
 https://gitlab.inria.fr/citi-lab/sytare,True
 https://gitlab.inria.fr/citi-lab/sytare-public,True
 https://gitlab.inria.fr/coccinelle/coccinelle,True
-https://gitlab.inria.fr/coccinelle/reference_scores,False
+https://gitlab.inria.fr/coccinelle/reference_scores,True
 https://gitlab.inria.fr/coding-dojo-saclay/Blockchain,True
 https://gitlab.inria.fr/coding-dojo-saclay/ChronalCoords.jl,True
 https://gitlab.inria.fr/coding-dojo-saclay/ChronalCoords2.jl,True
