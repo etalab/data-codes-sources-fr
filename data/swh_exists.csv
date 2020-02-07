@@ -414,6 +414,7 @@ https://github.com/AssuranceMaladieSec/abuse,True
 https://github.com/BRGM/ANZSoilML,True
 https://github.com/BRGM/BLiv,True
 https://github.com/BRGM/ComPASS,True
+https://github.com/BRGM/ComPASS-data,False
 https://github.com/BRGM/GeoSciML,True
 https://github.com/BRGM/GeoSciMLontology,True
 https://github.com/BRGM/MeshTools,True
@@ -701,7 +702,7 @@ https://github.com/Geographie-cites/mobiliscope,True
 https://github.com/Geographie-cites/semogeo,True
 https://github.com/Geographie-cites/springer-simpoplocal,True
 https://github.com/Geographie-cites/thesaR,True
-https://github.com/Geographie-cites/toyspace,False
+https://github.com/Geographie-cites/toyspace,True
 https://github.com/Geographie-cites/toyspace-dev,False
 https://github.com/IGNF/CartAGen,True
 https://github.com/IGNF/ContinuousGeneralisation,True
