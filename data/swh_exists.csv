@@ -64,7 +64,7 @@ https://forgemia.inra.fr/pappso/libodsstream,True
 https://forgemia.inra.fr/pappso/masschroq,True
 https://forgemia.inra.fr/pappso/massxpert,True
 https://forgemia.inra.fr/pappso/mcqr,True
-https://forgemia.inra.fr/pappso/minexpert2,False
+https://forgemia.inra.fr/pappso/minexpert2,True
 https://forgemia.inra.fr/pappso/pappsoms-tools,True
 https://forgemia.inra.fr/pappso/pappsomspp,True
 https://forgemia.inra.fr/pappso/xtpcpp,True
@@ -1053,7 +1053,7 @@ https://github.com/MTES-MCT/kelrisks,True
 https://github.com/MTES-MCT/kelrisks-data-preparation,True
 https://github.com/MTES-MCT/kelrisks-datascience,True
 https://github.com/MTES-MCT/locatio,True
-https://github.com/MTES-MCT/mobilic,False
+https://github.com/MTES-MCT/mobilic,True
 https://github.com/MTES-MCT/mobilic-api,True
 https://github.com/MTES-MCT/numerique,True
 https://github.com/MTES-MCT/parcours-r,True
@@ -3569,7 +3569,7 @@ https://gitlab.inria.fr/ClassCode/classcodeadmin,True
 https://gitlab.inria.fr/ClassCode/pixees-theme,True
 https://gitlab.inria.fr/CompCert/ci,True
 https://gitlab.inria.fr/Conferences/ICT_2018_MUFF,True
-https://gitlab.inria.fr/D3/contour-detect,False
+https://gitlab.inria.fr/D3/contour-detect,True
 https://gitlab.inria.fr/DLreasoners/stare,True
 https://gitlab.inria.fr/DYLISS/PathModel,True
 https://gitlab.inria.fr/DYLISS/aucome,True
@@ -4106,7 +4106,7 @@ https://gitlab.inria.fr/starpu/starpu,True
 https://gitlab.inria.fr/synalp/python4nlp-2019-public,True
 https://gitlab.inria.fr/synalp/website,True
 https://gitlab.inria.fr/synchrone/heptagon,True
-https://gitlab.inria.fr/the-missing-path/the-missing-path.gitlab.inria.fr,False
+https://gitlab.inria.fr/the-missing-path/the-missing-path.gitlab.inria.fr,True
 https://gitlab.inria.fr/thoth/spams-devel,True
 https://gitlab.inria.fr/tnfs-alpha/alpha,True
 https://gitlab.inria.fr/tranus/QGIS_Tranus_Reports,True
