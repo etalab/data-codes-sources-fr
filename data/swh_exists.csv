@@ -703,7 +703,7 @@ https://github.com/Geographie-cites/semogeo,True
 https://github.com/Geographie-cites/springer-simpoplocal,True
 https://github.com/Geographie-cites/thesaR,True
 https://github.com/Geographie-cites/toyspace,True
-https://github.com/Geographie-cites/toyspace-dev,False
+https://github.com/Geographie-cites/toyspace-dev,True
 https://github.com/IGNF/CartAGen,True
 https://github.com/IGNF/ContinuousGeneralisation,True
 https://github.com/IGNF/MultiCriteriaMatching,True
@@ -1231,7 +1231,7 @@ https://github.com/ProgrammeVitam/sedatools,True
 https://github.com/ProgrammeVitam/vitam,True
 https://github.com/ProgrammeVitam/vitam-griffins,True
 https://github.com/ProgrammeVitam/vitam-itests,True
-https://github.com/ProgrammeVitam/vitam-ui,False
+https://github.com/ProgrammeVitam/vitam-ui,True
 https://github.com/SGMAP-AGD/CompareDF,True
 https://github.com/SGMAP-AGD/DAMIR,True
 https://github.com/SGMAP-AGD/Datadouane,True
@@ -1803,7 +1803,7 @@ https://github.com/betagouv/signalconso-loadtest,True
 https://github.com/betagouv/signalement,True
 https://github.com/betagouv/signalement-api,True
 https://github.com/betagouv/signalement-app,True
-https://github.com/betagouv/signup-ansible,False
+https://github.com/betagouv/signup-ansible,True
 https://github.com/betagouv/signup-back,True
 https://github.com/betagouv/signup-front,True
 https://github.com/betagouv/signup-oauth,True
@@ -2246,6 +2246,7 @@ https://github.com/entrepreneur-interet-general/word_convertor,True
 https://github.com/eole/addon-context-linux,True
 https://github.com/eole/dhcpd-formula,True
 https://github.com/eole/docs,True
+https://github.com/eole/documentation,False
 https://github.com/eole/e-auth,True
 https://github.com/eole/e2guardian,True
 https://github.com/eole/faketools,True
@@ -3522,6 +3523,7 @@ https://gitlab.huma-num.fr/eurhisfirm/fibo-data,True
 https://gitlab.huma-num.fr/eurhisfirm/fibo-wikibase,True
 https://gitlab.huma-num.fr/eurhisfirm/gleif-wikibase,True
 https://gitlab.huma-num.fr/eurhisfirm/scob-wikibase,True
+https://gitlab.huma-num.fr/irihs/NakalaTools,False
 https://gitlab.huma-num.fr/irihs/flaubertexport,True
 https://gitlab.huma-num.fr/irihs/genetictables,True
 https://gitlab.huma-num.fr/irihs/genetictheme,True
@@ -3715,6 +3717,7 @@ https://gitlab.inria.fr/citi-lab/embench,True
 https://gitlab.inria.fr/citi-lab/sytare,True
 https://gitlab.inria.fr/citi-lab/sytare-public,True
 https://gitlab.inria.fr/coccinelle/coccinelle,True
+https://gitlab.inria.fr/coccinelle/reference_scores,False
 https://gitlab.inria.fr/coding-dojo-saclay/Blockchain,True
 https://gitlab.inria.fr/coding-dojo-saclay/ChronalCoords.jl,True
 https://gitlab.inria.fr/coding-dojo-saclay/ChronalCoords2.jl,True
