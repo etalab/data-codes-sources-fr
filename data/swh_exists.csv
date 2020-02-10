@@ -1673,6 +1673,7 @@ https://github.com/betagouv/eva-serveur,True
 https://github.com/betagouv/eva-www,True
 https://github.com/betagouv/fetch-normalize-data,True
 https://github.com/betagouv/fiches-de-banc,True
+https://github.com/betagouv/fin-de-mps,False
 https://github.com/betagouv/freescout,True
 https://github.com/betagouv/geoplus,True
 https://github.com/betagouv/gps-usagers,True
@@ -2312,8 +2313,9 @@ https://github.com/erasme/vagrant-dev-env,True
 https://github.com/erasme/webnapperon2,True
 https://github.com/erasme/website_griotte,True
 https://github.com/etalab-ia/ami-ia,True
+https://github.com/etalab-ia/data_science_template,False
 https://github.com/etalab-ia/piaf-code,True
-https://github.com/etalab-ia/pseudo_conseil_etat,False
+https://github.com/etalab-ia/pseudo_conseil_etat,True
 https://github.com/etalab/Algo_gouv,True
 https://github.com/etalab/Attendize,True
 https://github.com/etalab/DVF-app,True
