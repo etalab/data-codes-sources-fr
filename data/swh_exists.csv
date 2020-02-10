@@ -25,6 +25,12 @@ https://dev.ch-poitiers.fr/mssante/mssante-sync-ldap-annuaire,True
 https://dev.ch-poitiers.fr/mssante/mssante-sync-unidirectionnel,True
 https://dev.ch-poitiers.fr/mssante/mssante-webapp,True
 https://dev.ch-poitiers.fr/mssante/parent,True
+https://forge.grandlyon.com/laclasse/client,True
+https://forge.grandlyon.com/laclasse/publipostage,True
+https://forge.grandlyon.com/laclasse/roundcube_elastic_skin,True
+https://forge.grandlyon.com/laclasse/roundcube_laclasse_addressbook,True
+https://forge.grandlyon.com/laclasse/roundcube_laclasse_cas,True
+https://forge.grandlyon.com/laclasse/wordpress-theme-laclasse,True
 https://forge.grandlyon.com/systemes-dinformation/pasi-portail-d-acces-au-si,True
 https://forgemia.inra.fr/4p/user-guide,True
 https://forgemia.inra.fr/DecisionBleDur/DecisionBleDur,True
@@ -2598,6 +2604,7 @@ https://github.com/ina-foss/amalia-model,True
 https://github.com/ina-foss/amalia-php,True
 https://github.com/ina-foss/amalia-tools,True
 https://github.com/ina-foss/amalia.js,True
+https://github.com/ina-foss/inaFaceGender,False
 https://github.com/ina-foss/inaSpeechSegmenter,True
 https://github.com/ina-foss/nginx-video-thumbextractor-module,True
 https://github.com/ina-foss/tweet-stance-annotation,True
