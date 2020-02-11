@@ -26,6 +26,7 @@ https://dev.ch-poitiers.fr/mssante/mssante-sync-unidirectionnel,True
 https://dev.ch-poitiers.fr/mssante/mssante-webapp,True
 https://dev.ch-poitiers.fr/mssante/parent,True
 https://forge.grandlyon.com/laclasse/client,True
+https://forge.grandlyon.com/laclasse/onlyoffice,False
 https://forge.grandlyon.com/laclasse/publipostage,True
 https://forge.grandlyon.com/laclasse/roundcube_elastic_skin,True
 https://forge.grandlyon.com/laclasse/roundcube_laclasse_addressbook,True
@@ -296,6 +297,7 @@ https://github.com/1024pix/pix-lifestyle,True
 https://github.com/1024pix/pix-maintenance,True
 https://github.com/1024pix/pix-review-router,True
 https://github.com/1024pix/pix-site,True
+https://github.com/1024pix/pix-site-pro,False
 https://github.com/1024pix/poc-ovh-api,True
 https://github.com/1024pix/poc-qmail,True
 https://github.com/1024pix/poc-smtp,True
@@ -1620,7 +1622,7 @@ https://github.com/betagouv/api-particulier-auth,True
 https://github.com/betagouv/api-particulier-auth-deprecated,True
 https://github.com/betagouv/api-particulier-demo,True
 https://github.com/betagouv/api-particulier-demo-traces,True
-https://github.com/betagouv/api-particulier-deprecated,False
+https://github.com/betagouv/api-particulier-deprecated,True
 https://github.com/betagouv/api-particulier-lib,True
 https://github.com/betagouv/api-particulier-web,True
 https://github.com/betagouv/api-scopes,True
@@ -2261,6 +2263,7 @@ https://github.com/eole/gitolite,False
 https://github.com/eole/libvirt-formula,True
 https://github.com/eole/mastodon,True
 https://github.com/eole/one,True
+https://github.com/eole/ports,False
 https://github.com/eole/redmine_backlogs,True
 https://github.com/eole/redmine_git_hosting,True
 https://github.com/eole/redmine_track_control,True
@@ -2319,6 +2322,18 @@ https://github.com/erasme/vagrant-dev-env,True
 https://github.com/erasme/webnapperon2,True
 https://github.com/erasme/website_griotte,True
 https://github.com/etalab-ia/ami-ia,True
+https://github.com/etalab-ia/ami-ia-anssi,False
+https://github.com/etalab-ia/ami-ia-ce,False
+https://github.com/etalab-ia/ami-ia-chub,False
+https://github.com/etalab-ia/ami-ia-crmana,False
+https://github.com/etalab-ia/ami-ia-dgcl,False
+https://github.com/etalab-ia/ami-ia-dgddi,False
+https://github.com/etalab-ia/ami-ia-dggn,False
+https://github.com/etalab-ia/ami-ia-dgs,False
+https://github.com/etalab-ia/ami-ia-ineris,False
+https://github.com/etalab-ia/ami-ia-insee,False
+https://github.com/etalab-ia/ami-ia-irsn,False
+https://github.com/etalab-ia/ami-ia-sisse,False
 https://github.com/etalab-ia/data_science_template,False
 https://github.com/etalab-ia/piaf-code,True
 https://github.com/etalab-ia/pseudo_conseil_etat,True
