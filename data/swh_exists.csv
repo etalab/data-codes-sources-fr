@@ -550,7 +550,7 @@ https://github.com/DGFiP/Test-Compta-Demat,True
 https://github.com/DISIC/GMR,True
 https://github.com/DISIC/GMR-sandbox,True
 https://github.com/DISIC/RGAA,True
-https://github.com/DISIC/RGAA-tests,False
+https://github.com/DISIC/RGAA-tests,True
 https://github.com/DISIC/Test-Compta-Demat,True
 https://github.com/DISIC/XWiki-cerfa-numerique,True
 https://github.com/DISIC/assistant-rgaa,True
@@ -2255,7 +2255,7 @@ https://github.com/entrepreneur-interet-general/word_convertor,True
 https://github.com/eole/addon-context-linux,True
 https://github.com/eole/dhcpd-formula,True
 https://github.com/eole/docs,True
-https://github.com/eole/documentation,False
+https://github.com/eole/documentation,True
 https://github.com/eole/e-auth,True
 https://github.com/eole/e2guardian,True
 https://github.com/eole/faketools,True
@@ -2323,7 +2323,7 @@ https://github.com/erasme/webnapperon2,True
 https://github.com/erasme/website_griotte,True
 https://github.com/etalab-ia/ami-ia,True
 https://github.com/etalab-ia/ami-ia-anssi,False
-https://github.com/etalab-ia/ami-ia-ce,False
+https://github.com/etalab-ia/ami-ia-ce,True
 https://github.com/etalab-ia/ami-ia-chub,False
 https://github.com/etalab-ia/ami-ia-crmana,False
 https://github.com/etalab-ia/ami-ia-dgcl,False
@@ -3547,7 +3547,7 @@ https://gitlab.huma-num.fr/eurhisfirm/fibo-data,True
 https://gitlab.huma-num.fr/eurhisfirm/fibo-wikibase,True
 https://gitlab.huma-num.fr/eurhisfirm/gleif-wikibase,True
 https://gitlab.huma-num.fr/eurhisfirm/scob-wikibase,True
-https://gitlab.huma-num.fr/irihs/NakalaTools,False
+https://gitlab.huma-num.fr/irihs/NakalaTools,True
 https://gitlab.huma-num.fr/irihs/flaubertexport,True
 https://gitlab.huma-num.fr/irihs/genetictables,True
 https://gitlab.huma-num.fr/irihs/genetictheme,True
