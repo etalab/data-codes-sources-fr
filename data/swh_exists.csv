@@ -1327,6 +1327,7 @@ https://github.com/SocialGouv/emjpm,True
 https://github.com/SocialGouv/emjpm-api-doc,True
 https://github.com/SocialGouv/emjpm-design,True
 https://github.com/SocialGouv/emjpm-design-system,True
+https://github.com/SocialGouv/emjpm-editor-app,False
 https://github.com/SocialGouv/emjpm-migration-k8s,True
 https://github.com/SocialGouv/emjpm-ui,True
 https://github.com/SocialGouv/faq-code-du-travail,True
@@ -2324,7 +2325,7 @@ https://github.com/erasme/website_griotte,True
 https://github.com/etalab-ia/ami-ia,True
 https://github.com/etalab-ia/ami-ia-anssi,False
 https://github.com/etalab-ia/ami-ia-ce,True
-https://github.com/etalab-ia/ami-ia-chub,False
+https://github.com/etalab-ia/ami-ia-chub,True
 https://github.com/etalab-ia/ami-ia-crmana,False
 https://github.com/etalab-ia/ami-ia-dgcl,False
 https://github.com/etalab-ia/ami-ia-dgddi,False
