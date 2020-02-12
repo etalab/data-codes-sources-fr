@@ -28,7 +28,7 @@ https://dev.ch-poitiers.fr/mssante/parent,True
 https://forge.grandlyon.com/laclasse/client,True
 https://forge.grandlyon.com/laclasse/etherpad,False
 https://forge.grandlyon.com/laclasse/mail,False
-https://forge.grandlyon.com/laclasse/onlyoffice,False
+https://forge.grandlyon.com/laclasse/onlyoffice,True
 https://forge.grandlyon.com/laclasse/publipostage,True
 https://forge.grandlyon.com/laclasse/roundcube,False
 https://forge.grandlyon.com/laclasse/roundcube_elastic_skin,True
@@ -2339,7 +2339,7 @@ https://github.com/etalab-ia/ami-ia-dgs,False
 https://github.com/etalab-ia/ami-ia-ineris,False
 https://github.com/etalab-ia/ami-ia-insee,False
 https://github.com/etalab-ia/ami-ia-irsn,False
-https://github.com/etalab-ia/ami-ia-sisse,False
+https://github.com/etalab-ia/ami-ia-sisse,True
 https://github.com/etalab-ia/data_science_template,False
 https://github.com/etalab-ia/piaf-code,True
 https://github.com/etalab-ia/pseudo_conseil_etat,True
