@@ -26,8 +26,11 @@ https://dev.ch-poitiers.fr/mssante/mssante-sync-unidirectionnel,True
 https://dev.ch-poitiers.fr/mssante/mssante-webapp,True
 https://dev.ch-poitiers.fr/mssante/parent,True
 https://forge.grandlyon.com/laclasse/client,True
+https://forge.grandlyon.com/laclasse/etherpad,False
+https://forge.grandlyon.com/laclasse/mail,False
 https://forge.grandlyon.com/laclasse/onlyoffice,False
 https://forge.grandlyon.com/laclasse/publipostage,True
+https://forge.grandlyon.com/laclasse/roundcube,False
 https://forge.grandlyon.com/laclasse/roundcube_elastic_skin,True
 https://forge.grandlyon.com/laclasse/roundcube_laclasse_addressbook,True
 https://forge.grandlyon.com/laclasse/roundcube_laclasse_cas,True
@@ -937,6 +940,7 @@ https://github.com/InseeFr/Destinie-2,True
 https://github.com/InseeFr/Eno,True
 https://github.com/InseeFr/Eno-CLI,True
 https://github.com/InseeFr/Eno-WS,True
+https://github.com/InseeFr/IAM,False
 https://github.com/InseeFr/Keycloak-FranceConnect,True
 https://github.com/InseeFr/Lunatic,True
 https://github.com/InseeFr/Lunatic-Model,True
@@ -950,6 +954,7 @@ https://github.com/InseeFr/Pogues-Back-Office,True
 https://github.com/InseeFr/Pogues-Model,True
 https://github.com/InseeFr/Quatro,True
 https://github.com/InseeFr/VTL-Tools,True
+https://github.com/InseeFr/Wilco,False
 https://github.com/InseeFr/diffman,True
 https://github.com/Irstea/ALPFORPLOTS,True
 https://github.com/Irstea/Redmine-mod-perl-auth,True
