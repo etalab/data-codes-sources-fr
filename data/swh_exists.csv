@@ -30,7 +30,7 @@ https://forge.grandlyon.com/laclasse/etherpad,False
 https://forge.grandlyon.com/laclasse/mail,False
 https://forge.grandlyon.com/laclasse/onlyoffice,True
 https://forge.grandlyon.com/laclasse/publipostage,True
-https://forge.grandlyon.com/laclasse/roundcube,False
+https://forge.grandlyon.com/laclasse/roundcube,True
 https://forge.grandlyon.com/laclasse/roundcube_elastic_skin,True
 https://forge.grandlyon.com/laclasse/roundcube_laclasse_addressbook,True
 https://forge.grandlyon.com/laclasse/roundcube_laclasse_cas,True
@@ -833,7 +833,7 @@ https://github.com/Inist-CNRS/ezmaster-jekyll,True
 https://github.com/Inist-CNRS/ezmaster-mongo,True
 https://github.com/Inist-CNRS/ezmaster-mysql,True
 https://github.com/Inist-CNRS/ezmaster-phpserver,True
-https://github.com/Inist-CNRS/ezmaster-skosmos,False
+https://github.com/Inist-CNRS/ezmaster-skosmos,True
 https://github.com/Inist-CNRS/ezmaster-virtuoso,True
 https://github.com/Inist-CNRS/ezmaster-web-term,True
 https://github.com/Inist-CNRS/ezmaster-webserver,True
