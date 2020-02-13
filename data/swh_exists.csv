@@ -832,6 +832,7 @@ https://github.com/Inist-CNRS/ezmaster-jekyll,True
 https://github.com/Inist-CNRS/ezmaster-mongo,True
 https://github.com/Inist-CNRS/ezmaster-mysql,True
 https://github.com/Inist-CNRS/ezmaster-phpserver,True
+https://github.com/Inist-CNRS/ezmaster-skosmos,False
 https://github.com/Inist-CNRS/ezmaster-virtuoso,True
 https://github.com/Inist-CNRS/ezmaster-web-term,True
 https://github.com/Inist-CNRS/ezmaster-webserver,True
@@ -2340,7 +2341,7 @@ https://github.com/etalab-ia/ami-ia-ineris,False
 https://github.com/etalab-ia/ami-ia-insee,False
 https://github.com/etalab-ia/ami-ia-irsn,False
 https://github.com/etalab-ia/ami-ia-sisse,True
-https://github.com/etalab-ia/data_science_template,False
+https://github.com/etalab-ia/data_science_template,True
 https://github.com/etalab-ia/piaf-code,True
 https://github.com/etalab-ia/pseudo_conseil_etat,True
 https://github.com/etalab/Algo_gouv,True
