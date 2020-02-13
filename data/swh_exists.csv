@@ -35,6 +35,7 @@ https://forge.grandlyon.com/laclasse/roundcube_elastic_skin,True
 https://forge.grandlyon.com/laclasse/roundcube_laclasse_addressbook,True
 https://forge.grandlyon.com/laclasse/roundcube_laclasse_cas,True
 https://forge.grandlyon.com/laclasse/wordpress-theme-laclasse,True
+https://forge.grandlyon.com/systemes-dinformation/gat_gatling,False
 https://forge.grandlyon.com/systemes-dinformation/pasi-portail-d-acces-au-si,True
 https://forgemia.inra.fr/4p/user-guide,True
 https://forgemia.inra.fr/DecisionBleDur/DecisionBleDur,True
@@ -3112,6 +3113,7 @@ https://github.com/openfisca/trace-tool,True
 https://github.com/openfisca/tracker,True
 https://github.com/openfisca/tutorial,True
 https://github.com/openfun/arnold,True
+https://github.com/openfun/ashley,False
 https://github.com/openfun/celery-redis-sentinel,True
 https://github.com/openfun/cloudkey-py,True
 https://github.com/openfun/configuration,True
