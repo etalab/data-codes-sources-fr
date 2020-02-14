@@ -301,7 +301,7 @@ https://github.com/1024pix/pix-lifestyle,True
 https://github.com/1024pix/pix-maintenance,True
 https://github.com/1024pix/pix-review-router,True
 https://github.com/1024pix/pix-site,True
-https://github.com/1024pix/pix-site-pro,False
+https://github.com/1024pix/pix-site-pro,True
 https://github.com/1024pix/poc-ovh-api,True
 https://github.com/1024pix/poc-qmail,True
 https://github.com/1024pix/poc-smtp,True
@@ -2339,7 +2339,7 @@ https://github.com/etalab-ia/ami-ia-dgddi,True
 https://github.com/etalab-ia/ami-ia-dggn,False
 https://github.com/etalab-ia/ami-ia-dgs,False
 https://github.com/etalab-ia/ami-ia-ineris,True
-https://github.com/etalab-ia/ami-ia-insee,False
+https://github.com/etalab-ia/ami-ia-insee,True
 https://github.com/etalab-ia/ami-ia-irsn,False
 https://github.com/etalab-ia/ami-ia-sisse,True
 https://github.com/etalab-ia/data_science_template,True
@@ -2627,7 +2627,7 @@ https://github.com/ina-foss/amalia-model,True
 https://github.com/ina-foss/amalia-php,True
 https://github.com/ina-foss/amalia-tools,True
 https://github.com/ina-foss/amalia.js,True
-https://github.com/ina-foss/inaFaceGender,False
+https://github.com/ina-foss/inaFaceGender,True
 https://github.com/ina-foss/inaSpeechSegmenter,True
 https://github.com/ina-foss/nginx-video-thumbextractor-module,True
 https://github.com/ina-foss/tweet-stance-annotation,True
