@@ -26,7 +26,7 @@ https://dev.ch-poitiers.fr/mssante/mssante-sync-unidirectionnel,True
 https://dev.ch-poitiers.fr/mssante/mssante-webapp,True
 https://dev.ch-poitiers.fr/mssante/parent,True
 https://forge.grandlyon.com/laclasse/client,True
-https://forge.grandlyon.com/laclasse/etherpad,False
+https://forge.grandlyon.com/laclasse/etherpad,True
 https://forge.grandlyon.com/laclasse/mail,False
 https://forge.grandlyon.com/laclasse/onlyoffice,True
 https://forge.grandlyon.com/laclasse/publipostage,True
@@ -306,6 +306,7 @@ https://github.com/1024pix/poc-ovh-api,True
 https://github.com/1024pix/poc-qmail,True
 https://github.com/1024pix/poc-smtp,True
 https://github.com/1024pix/samlify,True
+https://github.com/1024pix/scalingo-app-switch,False
 https://github.com/1024pix/subdir-buildpack,True
 https://github.com/139bercy/cloud-appliance-ci-cd,True
 https://github.com/139bercy/cloud-appliance-composer-repo,True
@@ -1602,7 +1603,7 @@ https://github.com/banquedefrance/go-ethereum,True
 https://github.com/banquedefrance/madre_bat,True
 https://github.com/betagouv/Aidants_Connect,True
 https://github.com/betagouv/ClasseA12,True
-https://github.com/betagouv/Ecolab,False
+https://github.com/betagouv/Ecolab,True
 https://github.com/betagouv/Element.details,True
 https://github.com/betagouv/OpenFiscaFrance.jl,True
 https://github.com/betagouv/OpenLawEditor,True
@@ -2340,7 +2341,7 @@ https://github.com/etalab-ia/ami-ia-dggn,False
 https://github.com/etalab-ia/ami-ia-dgs,False
 https://github.com/etalab-ia/ami-ia-ineris,True
 https://github.com/etalab-ia/ami-ia-insee,True
-https://github.com/etalab-ia/ami-ia-irsn,False
+https://github.com/etalab-ia/ami-ia-irsn,True
 https://github.com/etalab-ia/ami-ia-sisse,True
 https://github.com/etalab-ia/data_science_template,True
 https://github.com/etalab-ia/piaf-code,True
@@ -2835,6 +2836,7 @@ https://github.com/medialab/ds-engine-poc,True
 https://github.com/medialab/edx_helpers,True
 https://github.com/medialab/fabrique-fragmentation,True
 https://github.com/medialab/fabrique-typo-amendements,True
+https://github.com/medialab/factiva-search-urls,False
 https://github.com/medialab/fonio,True
 https://github.com/medialab/forccast-backoffice,True
 https://github.com/medialab/forccast-texts,True
