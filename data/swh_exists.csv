@@ -41,6 +41,7 @@ https://forgemia.inra.fr/4p/user-guide,True
 https://forgemia.inra.fr/DecisionBleDur/DecisionBleDur,True
 https://forgemia.inra.fr/GET_TRiX/matrix,True
 https://forgemia.inra.fr/GNet/cytopheno_omics,True
+https://forgemia.inra.fr/GNet/einkorn_grain_transcriptome,False
 https://forgemia.inra.fr/QTL/spell-qtl,True
 https://forgemia.inra.fr/adminforgemia/doc-public,True
 https://forgemia.inra.fr/bibliome/bionlp-st-py,True
@@ -2335,7 +2336,7 @@ https://github.com/etalab-ia/ami-ia-anssi,False
 https://github.com/etalab-ia/ami-ia-ce,True
 https://github.com/etalab-ia/ami-ia-chub,True
 https://github.com/etalab-ia/ami-ia-crmana,True
-https://github.com/etalab-ia/ami-ia-dgcl,False
+https://github.com/etalab-ia/ami-ia-dgcl,True
 https://github.com/etalab-ia/ami-ia-dgddi,True
 https://github.com/etalab-ia/ami-ia-dggn,False
 https://github.com/etalab-ia/ami-ia-dgs,False
