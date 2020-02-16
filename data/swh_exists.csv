@@ -35,7 +35,7 @@ https://forge.grandlyon.com/laclasse/roundcube_elastic_skin,True
 https://forge.grandlyon.com/laclasse/roundcube_laclasse_addressbook,True
 https://forge.grandlyon.com/laclasse/roundcube_laclasse_cas,True
 https://forge.grandlyon.com/laclasse/wordpress-theme-laclasse,True
-https://forge.grandlyon.com/systemes-dinformation/gat_gatling,False
+https://forge.grandlyon.com/systemes-dinformation/gat_gatling,True
 https://forge.grandlyon.com/systemes-dinformation/pasi-portail-d-acces-au-si,True
 https://forgemia.inra.fr/4p/user-guide,True
 https://forgemia.inra.fr/DecisionBleDur/DecisionBleDur,True
@@ -2339,7 +2339,7 @@ https://github.com/etalab-ia/ami-ia-crmana,True
 https://github.com/etalab-ia/ami-ia-dgcl,True
 https://github.com/etalab-ia/ami-ia-dgddi,True
 https://github.com/etalab-ia/ami-ia-dggn,False
-https://github.com/etalab-ia/ami-ia-dgs,False
+https://github.com/etalab-ia/ami-ia-dgs,True
 https://github.com/etalab-ia/ami-ia-ineris,True
 https://github.com/etalab-ia/ami-ia-insee,True
 https://github.com/etalab-ia/ami-ia-irsn,True
