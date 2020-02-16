@@ -41,7 +41,7 @@ https://forgemia.inra.fr/4p/user-guide,True
 https://forgemia.inra.fr/DecisionBleDur/DecisionBleDur,True
 https://forgemia.inra.fr/GET_TRiX/matrix,True
 https://forgemia.inra.fr/GNet/cytopheno_omics,True
-https://forgemia.inra.fr/GNet/einkorn_grain_transcriptome,False
+https://forgemia.inra.fr/GNet/einkorn_grain_transcriptome,True
 https://forgemia.inra.fr/QTL/spell-qtl,True
 https://forgemia.inra.fr/adminforgemia/doc-public,True
 https://forgemia.inra.fr/bibliome/bionlp-st-py,True
@@ -944,7 +944,7 @@ https://github.com/InseeFr/Destinie-2,True
 https://github.com/InseeFr/Eno,True
 https://github.com/InseeFr/Eno-CLI,True
 https://github.com/InseeFr/Eno-WS,True
-https://github.com/InseeFr/IAM,False
+https://github.com/InseeFr/IAM,True
 https://github.com/InseeFr/Keycloak-FranceConnect,True
 https://github.com/InseeFr/Lunatic,True
 https://github.com/InseeFr/Lunatic-Model,True
