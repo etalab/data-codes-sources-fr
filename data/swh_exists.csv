@@ -1048,6 +1048,7 @@ https://github.com/MTES-MCT/camino-landingpage,True
 https://github.com/MTES-MCT/camino-portainer,True
 https://github.com/MTES-MCT/camino-scripting,True
 https://github.com/MTES-MCT/camino-ui,True
+https://github.com/MTES-MCT/carbure,False
 https://github.com/MTES-MCT/choisir-une-licence,True
 https://github.com/MTES-MCT/cobot-admin,True
 https://github.com/MTES-MCT/cobot-api,True
@@ -1056,6 +1057,7 @@ https://github.com/MTES-MCT/data-preparation-plugin,True
 https://github.com/MTES-MCT/dataqual,True
 https://github.com/MTES-MCT/dataroom,True
 https://github.com/MTES-MCT/ecophyto,True
+https://github.com/MTES-MCT/enr,False
 https://github.com/MTES-MCT/enr-and-ground,True
 https://github.com/MTES-MCT/explorateur-ecocites,True
 https://github.com/MTES-MCT/filharmonic,True
@@ -1386,6 +1388,7 @@ https://github.com/SocialGouv/tremplin,True
 https://github.com/SocialGouv/tumeplay-app,True
 https://github.com/SocialGouv/tumeplay-back,True
 https://github.com/SocialGouv/tutoriel-gitlab,True
+https://github.com/SocialGouv/ui,False
 https://github.com/SocialGouv/work-in-france,True
 https://github.com/SocialGouv/work-in-france-backoffice,True
 https://github.com/SocialGouv/work-in-france-bo,True
