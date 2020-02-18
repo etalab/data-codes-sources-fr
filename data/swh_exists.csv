@@ -1049,7 +1049,7 @@ https://github.com/MTES-MCT/camino-landingpage,True
 https://github.com/MTES-MCT/camino-portainer,True
 https://github.com/MTES-MCT/camino-scripting,True
 https://github.com/MTES-MCT/camino-ui,True
-https://github.com/MTES-MCT/carbure,False
+https://github.com/MTES-MCT/carbure,True
 https://github.com/MTES-MCT/choisir-une-licence,True
 https://github.com/MTES-MCT/cobot-admin,True
 https://github.com/MTES-MCT/cobot-api,True
@@ -1429,6 +1429,7 @@ https://github.com/Spirals-Team/docker-g5k,True
 https://github.com/Spirals-Team/docker-machine-driver-g5k,True
 https://github.com/Spirals-Team/ermis,True
 https://github.com/Spirals-Team/exception-parser,True
+https://github.com/Spirals-Team/failure-oblivious-experiments,False
 https://github.com/Spirals-Team/genpack-container,True
 https://github.com/Spirals-Team/genpack-swarm,True
 https://github.com/Spirals-Team/had-loop,True
