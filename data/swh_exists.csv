@@ -307,6 +307,7 @@ https://github.com/1024pix/poc-ovh-api,True
 https://github.com/1024pix/poc-qmail,True
 https://github.com/1024pix/poc-smtp,True
 https://github.com/1024pix/samlify,True
+https://github.com/1024pix/scalingo-app-manager,False
 https://github.com/1024pix/scalingo-app-switch,True
 https://github.com/1024pix/subdir-buildpack,True
 https://github.com/139bercy/cloud-appliance-ci-cd,True
