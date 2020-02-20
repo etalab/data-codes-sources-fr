@@ -1847,11 +1847,12 @@ https://github.com/betagouv/syso,True
 https://github.com/betagouv/syso-core,True
 https://github.com/betagouv/taux-collectifs-cotisation-atmp,True
 https://github.com/betagouv/taux-versement-transport,True
-https://github.com/betagouv/template.beta.gouv.fr,False
+https://github.com/betagouv/template.beta.gouv.fr,True
 https://github.com/betagouv/trait-d-union,True
 https://github.com/betagouv/traitdunion-landing-pages,True
 https://github.com/betagouv/traitdunion-metabase,True
 https://github.com/betagouv/verif.site,True
+https://github.com/betagouv/visam,False
 https://github.com/betagouv/voir-et-localiser-samu-sign-on,True
 https://github.com/betagouv/with-login,True
 https://github.com/betagouv/with-query-router,True
@@ -3124,7 +3125,7 @@ https://github.com/openfisca/trace-tool,True
 https://github.com/openfisca/tracker,True
 https://github.com/openfisca/tutorial,True
 https://github.com/openfun/arnold,True
-https://github.com/openfun/ashley,False
+https://github.com/openfun/ashley,True
 https://github.com/openfun/celery-redis-sentinel,True
 https://github.com/openfun/cloudkey-py,True
 https://github.com/openfun/configuration,True
