@@ -1378,7 +1378,7 @@ https://github.com/SocialGouv/sample-next-app,True
 https://github.com/SocialGouv/schema-pjm,True
 https://github.com/SocialGouv/seminaire,True
 https://github.com/SocialGouv/siret2idcc,True
-https://github.com/SocialGouv/social-ui,False
+https://github.com/SocialGouv/social-ui,True
 https://github.com/SocialGouv/socialgouv.github.io,True
 https://github.com/SocialGouv/standup,True
 https://github.com/SocialGouv/suggest,True
@@ -1431,7 +1431,7 @@ https://github.com/Spirals-Team/docker-g5k,True
 https://github.com/Spirals-Team/docker-machine-driver-g5k,True
 https://github.com/Spirals-Team/ermis,True
 https://github.com/Spirals-Team/exception-parser,True
-https://github.com/Spirals-Team/failure-oblivious-experiments,False
+https://github.com/Spirals-Team/failure-oblivious-experiments,True
 https://github.com/Spirals-Team/genpack-container,True
 https://github.com/Spirals-Team/genpack-swarm,True
 https://github.com/Spirals-Team/had-loop,True
@@ -2074,6 +2074,11 @@ https://github.com/consultation-gouv/consultation.gouv.fr,True
 https://github.com/consultation-gouv/deploiement.consultation,True
 https://github.com/consultation-gouv/npm.verif.consultation,True
 https://github.com/consultation-gouv/specs-apis-deploiement,True
+https://github.com/cstb/citygml-energy,True
+https://github.com/cstb/conan-package-tools,True
+https://github.com/cstb/ifc-sdk,True
+https://github.com/cstb/qt5-swagger-codegen,True
+https://github.com/cstb/swagger-codegen,True
 https://github.com/culturecommunication/francearchives-cubicweb,True
 https://github.com/culturecommunication/francearchives-cubicweb-edition,True
 https://github.com/culturecommunication/ginco,True
@@ -2282,7 +2287,7 @@ https://github.com/eole/gitolite,False
 https://github.com/eole/libvirt-formula,True
 https://github.com/eole/mastodon,True
 https://github.com/eole/one,True
-https://github.com/eole/ports,False
+https://github.com/eole/ports,True
 https://github.com/eole/redmine_backlogs,True
 https://github.com/eole/redmine_git_hosting,True
 https://github.com/eole/redmine_track_control,True
@@ -3511,6 +3516,8 @@ https://gitlab.cerema.fr/Stream/qstream,True
 https://gitlab.cerema.fr/Stream/stream-python,True
 https://gitlab.cerema.fr/admin-donnees/admin_referentiels_postgresql,True
 https://gitlab.cerema.fr/admin-donnees/fr.cerema.admin_donnees_postgresql,True
+https://gitlab.com/CSTB/ifc2x3-SDK,False
+https://gitlab.com/CSTB/mathis,False
 https://gitlab.com/DREES_code/formulaire_zonage_ars,True
 https://gitlab.com/dreal-datalab/adresses-mairies-epci,True
 https://gitlab.com/dreal-datalab/autorite-environnementale,False
