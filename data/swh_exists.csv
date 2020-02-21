@@ -1763,6 +1763,7 @@ https://github.com/betagouv/openfisca-rennesmetropole,True
 https://github.com/betagouv/openfisca-tracer,True
 https://github.com/betagouv/openfisca-web-api,True
 https://github.com/betagouv/opensimplif,True
+https://github.com/betagouv/osticket-docker,False
 https://github.com/betagouv/paie-api,True
 https://github.com/betagouv/paie-carto,True
 https://github.com/betagouv/paie-editor,True
@@ -1857,6 +1858,7 @@ https://github.com/betagouv/voir-et-localiser-samu-sign-on,True
 https://github.com/betagouv/with-login,True
 https://github.com/betagouv/with-query-router,True
 https://github.com/betagouv/with-react-form,True
+https://github.com/betagouv/with-react-formidable,False
 https://github.com/betagouv/with-react-login,True
 https://github.com/betagouv/with-react-query,True
 https://github.com/betagouv/with-react-redux-login,True
@@ -4232,6 +4234,7 @@ https://gitlab.irstea.fr/irrig/public,True
 https://gitlab.irstea.fr/irstea-ros/ads1115_driver,True
 https://gitlab.irstea.fr/irstea-ros/labjack_driver,True
 https://gitlab.irstea.fr/irstea-ros/navsat_to_odom,True
+https://gitlab.irstea.fr/pole-is/hugo-test,False
 https://gitlab.irstea.fr/pomosed/clairelix,True
 https://gitlab.irstea.fr/pomosed/naiades,True
 https://gitlab.irstea.fr/pomosed/rfunctions,False
