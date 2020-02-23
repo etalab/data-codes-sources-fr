@@ -3519,7 +3519,7 @@ https://gitlab.cerema.fr/Stream/qstream,True
 https://gitlab.cerema.fr/Stream/stream-python,True
 https://gitlab.cerema.fr/admin-donnees/admin_referentiels_postgresql,True
 https://gitlab.cerema.fr/admin-donnees/fr.cerema.admin_donnees_postgresql,True
-https://gitlab.com/CSTB/ifc2x3-SDK,False
+https://gitlab.com/CSTB/ifc2x3-SDK,True
 https://gitlab.com/CSTB/mathis,False
 https://gitlab.com/DREES_code/formulaire_zonage_ars,True
 https://gitlab.com/dreal-datalab/adresses-mairies-epci,True
