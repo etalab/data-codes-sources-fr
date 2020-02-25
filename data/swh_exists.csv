@@ -309,7 +309,7 @@ https://github.com/1024pix/poc-smtp,True
 https://github.com/1024pix/samlify,True
 https://github.com/1024pix/scalingo-app-manager,True
 https://github.com/1024pix/scalingo-app-switch,True
-https://github.com/1024pix/scalingo-review-app-manager,False
+https://github.com/1024pix/scalingo-review-app-manager,True
 https://github.com/1024pix/subdir-buildpack,True
 https://github.com/139bercy/cloud-appliance-ci-cd,True
 https://github.com/139bercy/cloud-appliance-composer-repo,True
@@ -1765,7 +1765,7 @@ https://github.com/betagouv/openfisca-rennesmetropole,True
 https://github.com/betagouv/openfisca-tracer,True
 https://github.com/betagouv/openfisca-web-api,True
 https://github.com/betagouv/opensimplif,True
-https://github.com/betagouv/osticket-docker,False
+https://github.com/betagouv/osticket-docker,True
 https://github.com/betagouv/paie-api,True
 https://github.com/betagouv/paie-carto,True
 https://github.com/betagouv/paie-editor,True
@@ -1806,6 +1806,7 @@ https://github.com/betagouv/pop-data,True
 https://github.com/betagouv/pop-production,True
 https://github.com/betagouv/pop-shared,True
 https://github.com/betagouv/postgresql-openshift-docker,True
+https://github.com/betagouv/poubellesbattle,False
 https://github.com/betagouv/preuve-covoiturage,True
 https://github.com/betagouv/preuve-covoiturage-doc,True
 https://github.com/betagouv/publicodes,True
