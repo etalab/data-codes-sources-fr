@@ -1698,6 +1698,7 @@ https://github.com/betagouv/ecolab-transport,True
 https://github.com/betagouv/etudiant-entrepreneur,True
 https://github.com/betagouv/eva,True
 https://github.com/betagouv/eva-orchestrateur,True
+https://github.com/betagouv/eva-redirection-cohortes,False
 https://github.com/betagouv/eva-serveur,True
 https://github.com/betagouv/eva-www,True
 https://github.com/betagouv/fetch-normalize-data,True
@@ -1863,7 +1864,7 @@ https://github.com/betagouv/voir-et-localiser-samu-sign-on,True
 https://github.com/betagouv/with-login,True
 https://github.com/betagouv/with-query-router,True
 https://github.com/betagouv/with-react-form,True
-https://github.com/betagouv/with-react-formidable,False
+https://github.com/betagouv/with-react-formidable,True
 https://github.com/betagouv/with-react-login,True
 https://github.com/betagouv/with-react-query,True
 https://github.com/betagouv/with-react-redux-login,True
@@ -2437,6 +2438,7 @@ https://github.com/etalab/ckanext-youckan,True
 https://github.com/etalab/cle-interoperabilite-adresse,True
 https://github.com/etalab/code.etalab.gouv.fr,True
 https://github.com/etalab/codegouvfr,True
+https://github.com/etalab/codegouvfr-data,False
 https://github.com/etalab/codes-juridiques-francais,True
 https://github.com/etalab/codes-postaux,True
 https://github.com/etalab/collectivites.data.gouv.fr,True
