@@ -110,6 +110,7 @@ https://forgemia.inra.fr/umr-gdec/isbpfinder,True
 https://forgemia.inra.fr/umrf/anomaly,True
 https://forgemia.inra.fr/umrf/dairydb,True
 https://forgemia.inra.fr/umrf/utopia,True
+https://forgemia.inra.fr/urgi-is/data-discovery,False
 https://forgemia.inra.fr/urgi-is/docker-rare,True
 https://forgemia.inra.fr/urgi-is/ontologies,True
 https://framagit.org/datatourisme/api,True
@@ -1343,6 +1344,7 @@ https://github.com/SocialGouv/emjpm-design,True
 https://github.com/SocialGouv/emjpm-design-system,True
 https://github.com/SocialGouv/emjpm-editor-app,True
 https://github.com/SocialGouv/emjpm-migration-k8s,True
+https://github.com/SocialGouv/emjpm-portail,False
 https://github.com/SocialGouv/emjpm-ui,True
 https://github.com/SocialGouv/faq-code-du-travail,True
 https://github.com/SocialGouv/fce,True
@@ -2364,6 +2366,7 @@ https://github.com/etalab-ia/ami-ia-insee,True
 https://github.com/etalab-ia/ami-ia-irsn,True
 https://github.com/etalab-ia/ami-ia-sisse,True
 https://github.com/etalab-ia/data_science_template,True
+https://github.com/etalab-ia/demo-piaf,False
 https://github.com/etalab-ia/piaf-code,True
 https://github.com/etalab-ia/pseudo_conseil_etat,True
 https://github.com/etalab/Algo_gouv,True
@@ -3523,7 +3526,7 @@ https://gitlab.cerema.fr/Stream/stream-python,True
 https://gitlab.cerema.fr/admin-donnees/admin_referentiels_postgresql,True
 https://gitlab.cerema.fr/admin-donnees/fr.cerema.admin_donnees_postgresql,True
 https://gitlab.com/CSTB/ifc2x3-SDK,True
-https://gitlab.com/CSTB/mathis,False
+https://gitlab.com/CSTB/mathis,True
 https://gitlab.com/DREES_code/formulaire_zonage_ars,True
 https://gitlab.com/dreal-datalab/adresses-mairies-epci,True
 https://gitlab.com/dreal-datalab/autorite-environnementale,False
