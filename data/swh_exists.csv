@@ -2160,6 +2160,7 @@ https://github.com/diplomatiegouvfr/hornet-themes-intranet,True
 https://github.com/diplomatiegouvfr/tomcat8-instance,True
 https://github.com/diverse-project/CapellaRover,True
 https://github.com/diverse-project/ContreMaitre,True
+https://github.com/diverse-project/ICPE2020,False
 https://github.com/diverse-project/InspectorGuidget,True
 https://github.com/diverse-project/MML-classification,True
 https://github.com/diverse-project/MML-regression,True
@@ -4080,6 +4081,7 @@ https://gitlab.inria.fr/openskecth/sketching_interface,True
 https://gitlab.inria.fr/openskecth/svm_lines_classifier,True
 https://gitlab.inria.fr/openvibe/designer,True
 https://gitlab.inria.fr/openvibe/extras,True
+https://gitlab.inria.fr/openvibe/games,False
 https://gitlab.inria.fr/openvibe/meta,True
 https://gitlab.inria.fr/openvibe/sdk,True
 https://gitlab.inria.fr/openwind/release,True
