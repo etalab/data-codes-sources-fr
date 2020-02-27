@@ -96,6 +96,7 @@ https://forgemia.inra.fr/sciproject/managesciproject,True
 https://forgemia.inra.fr/svdetection/cnvpipelines,True
 https://forgemia.inra.fr/svdetection/popsim,True
 https://forgemia.inra.fr/svdetection/svlib,True
+https://forgemia.inra.fr/umr-1202-biogeco/snakemake_singularity_hpc,False
 https://forgemia.inra.fr/umr-astre/cirad,True
 https://forgemia.inra.fr/umr-astre/epidmap,True
 https://forgemia.inra.fr/umr-astre/geonetwork,True
@@ -549,6 +550,7 @@ https://github.com/Cour-des-comptes/open-anafi-frontend,True
 https://github.com/DGA-MI-SSI/T-Brop,True
 https://github.com/DGA-MI-SSI/YaCo,True
 https://github.com/DGAC/MattermostModule,True
+https://github.com/DGAC/asterix-replay,False
 https://github.com/DGAC/dgac.github.io,True
 https://github.com/DGAC/nmb2b-client-js,True
 https://github.com/DGAC/nmb2b-client-js-example,True
@@ -1462,6 +1464,7 @@ https://github.com/StartupsPoleEmploi/Templates-Mailjet,True
 https://github.com/StartupsPoleEmploi/anotea,True
 https://github.com/StartupsPoleEmploi/avril,True
 https://github.com/StartupsPoleEmploi/avril-livret1,True
+https://github.com/StartupsPoleEmploi/avril-profil,False
 https://github.com/StartupsPoleEmploi/baggy,True
 https://github.com/StartupsPoleEmploi/clara,True
 https://github.com/StartupsPoleEmploi/elk-cluster,True
@@ -1615,7 +1618,7 @@ https://github.com/banquedefrance/go-ethereum,True
 https://github.com/banquedefrance/madre_bat,True
 https://github.com/betagouv/Aidants_Connect,True
 https://github.com/betagouv/ClasseA12,True
-https://github.com/betagouv/DNC,False
+https://github.com/betagouv/DNC,True
 https://github.com/betagouv/Ecolab,True
 https://github.com/betagouv/Element.details,True
 https://github.com/betagouv/OpenFiscaFrance.jl,True
