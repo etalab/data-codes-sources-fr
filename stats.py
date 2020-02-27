@@ -67,7 +67,7 @@ top_languages = (
     .groupby("langage")["nom"]
     .count()
     .sort_values(ascending=False)
-    .head(10)
+    .head(11)
     .to_dict()
 )
 
