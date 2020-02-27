@@ -96,7 +96,7 @@ https://forgemia.inra.fr/sciproject/managesciproject,True
 https://forgemia.inra.fr/svdetection/cnvpipelines,True
 https://forgemia.inra.fr/svdetection/popsim,True
 https://forgemia.inra.fr/svdetection/svlib,True
-https://forgemia.inra.fr/umr-1202-biogeco/snakemake_singularity_hpc,False
+https://forgemia.inra.fr/umr-1202-biogeco/snakemake_singularity_hpc,True
 https://forgemia.inra.fr/umr-astre/cirad,True
 https://forgemia.inra.fr/umr-astre/epidmap,True
 https://forgemia.inra.fr/umr-astre/geonetwork,True
@@ -2164,7 +2164,7 @@ https://github.com/diplomatiegouvfr/hornet-themes-intranet,True
 https://github.com/diplomatiegouvfr/tomcat8-instance,True
 https://github.com/diverse-project/CapellaRover,True
 https://github.com/diverse-project/ContreMaitre,True
-https://github.com/diverse-project/ICPE2020,False
+https://github.com/diverse-project/ICPE2020,True
 https://github.com/diverse-project/InspectorGuidget,True
 https://github.com/diverse-project/MML-classification,True
 https://github.com/diverse-project/MML-regression,True
