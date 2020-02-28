@@ -1703,7 +1703,7 @@ https://github.com/betagouv/ecolab-transport,True
 https://github.com/betagouv/etudiant-entrepreneur,True
 https://github.com/betagouv/eva,True
 https://github.com/betagouv/eva-orchestrateur,True
-https://github.com/betagouv/eva-redirection-cohortes,False
+https://github.com/betagouv/eva-redirection-cohortes,True
 https://github.com/betagouv/eva-serveur,True
 https://github.com/betagouv/eva-www,True
 https://github.com/betagouv/fetch-normalize-data,True
@@ -2444,7 +2444,7 @@ https://github.com/etalab/ckanext-youckan,True
 https://github.com/etalab/cle-interoperabilite-adresse,True
 https://github.com/etalab/code.etalab.gouv.fr,True
 https://github.com/etalab/codegouvfr,True
-https://github.com/etalab/codegouvfr-data,False
+https://github.com/etalab/codegouvfr-data,True
 https://github.com/etalab/codes-juridiques-francais,True
 https://github.com/etalab/codes-postaux,True
 https://github.com/etalab/collectivites.data.gouv.fr,True
