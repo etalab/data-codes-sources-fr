@@ -246,6 +246,8 @@ https://git.unistra.fr/konflict/central-server-client,True
 https://git.unistra.fr/konflict/game-server,True
 https://git.unistra.fr/konflict/mobile-app,True
 https://git.unistra.fr/la-table-ronde/ecr19-t4-b,True
+https://git.unistra.fr/les-sans-noms/react_admin_jeux,False
+https://git.unistra.fr/les-sans-noms/serveur-de-jeux-websocket-t-lechargable,False
 https://git.unistra.fr/lo5-antony-et-florian/thegame,True
 https://git.unistra.fr/lp-komi/naojimi,True
 https://git.unistra.fr/m32_63_dsrsa/m32_63_dsrsa,True
@@ -2375,7 +2377,7 @@ https://github.com/etalab-ia/ami-ia-insee,True
 https://github.com/etalab-ia/ami-ia-irsn,True
 https://github.com/etalab-ia/ami-ia-sisse,True
 https://github.com/etalab-ia/data_science_template,True
-https://github.com/etalab-ia/demo-piaf,False
+https://github.com/etalab-ia/demo-piaf,True
 https://github.com/etalab-ia/piaf-code,True
 https://github.com/etalab-ia/pseudo_conseil_etat,True
 https://github.com/etalab/Algo_gouv,True
@@ -4088,7 +4090,7 @@ https://gitlab.inria.fr/openskecth/sketching_interface,True
 https://gitlab.inria.fr/openskecth/svm_lines_classifier,True
 https://gitlab.inria.fr/openvibe/designer,True
 https://gitlab.inria.fr/openvibe/extras,True
-https://gitlab.inria.fr/openvibe/games,False
+https://gitlab.inria.fr/openvibe/games,True
 https://gitlab.inria.fr/openvibe/meta,True
 https://gitlab.inria.fr/openvibe/sdk,True
 https://gitlab.inria.fr/openwind/release,True
