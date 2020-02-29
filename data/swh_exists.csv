@@ -246,8 +246,8 @@ https://git.unistra.fr/konflict/central-server-client,True
 https://git.unistra.fr/konflict/game-server,True
 https://git.unistra.fr/konflict/mobile-app,True
 https://git.unistra.fr/la-table-ronde/ecr19-t4-b,True
-https://git.unistra.fr/les-sans-noms/react_admin_jeux,False
-https://git.unistra.fr/les-sans-noms/serveur-de-jeux-websocket-t-lechargable,False
+https://git.unistra.fr/les-sans-noms/react_admin_jeux,True
+https://git.unistra.fr/les-sans-noms/serveur-de-jeux-websocket-t-lechargable,True
 https://git.unistra.fr/lo5-antony-et-florian/thegame,True
 https://git.unistra.fr/lp-komi/naojimi,True
 https://git.unistra.fr/m32_63_dsrsa/m32_63_dsrsa,True
@@ -4255,7 +4255,7 @@ https://gitlab.irstea.fr/irrig/public,True
 https://gitlab.irstea.fr/irstea-ros/ads1115_driver,True
 https://gitlab.irstea.fr/irstea-ros/labjack_driver,True
 https://gitlab.irstea.fr/irstea-ros/navsat_to_odom,True
-https://gitlab.irstea.fr/pole-is/hugo-test,False
+https://gitlab.irstea.fr/pole-is/hugo-test,True
 https://gitlab.irstea.fr/pomosed/clairelix,True
 https://gitlab.irstea.fr/pomosed/naiades,True
 https://gitlab.irstea.fr/pomosed/rfunctions,False
