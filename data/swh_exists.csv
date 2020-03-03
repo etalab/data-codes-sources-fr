@@ -3445,7 +3445,7 @@ https://github.com/wookey-project/driver-stm32f4xx-spi,True
 https://github.com/wookey-project/driver-stm32f4xx-usart,True
 https://github.com/wookey-project/driver-stm32f4xx-usb,True
 https://github.com/wookey-project/driver-stm32f4xx-usbotgfs,False
-https://github.com/wookey-project/driver-stm32f4xx-usbotghs,False
+https://github.com/wookey-project/driver-stm32f4xx-usbotghs,True
 https://github.com/wookey-project/ewok-kernel,True
 https://github.com/wookey-project/ewok-legacy,True
 https://github.com/wookey-project/hard-libs,True
@@ -3635,6 +3635,8 @@ https://gitlab.huma-num.fr/mshs-poitiers/xmlify,True
 https://gitlab.huma-num.fr/nakala-tools/nakalot,True
 https://gitlab.huma-num.fr/nakala-tools/nakanav,True
 https://gitlab.huma-num.fr/rzine/documentation,True
+https://gitlab.in2p3.fr/Enssib/abcdev,False
+https://gitlab.in2p3.fr/Enssib/bibliotouch,False
 https://gitlab.inria.fr/AlgebraicGeometricModeling/AlgebraicSolvers.jl,True
 https://gitlab.inria.fr/AlgebraicGeometricModeling/Axl.jl,True
 https://gitlab.inria.fr/AlgebraicGeometricModeling/GSplines.jl,True
