@@ -1847,6 +1847,7 @@ https://github.com/betagouv/signalconso-loadtest,True
 https://github.com/betagouv/signalement,True
 https://github.com/betagouv/signalement-api,True
 https://github.com/betagouv/signalement-app,True
+https://github.com/betagouv/signup,False
 https://github.com/betagouv/signup-ansible,True
 https://github.com/betagouv/signup-back,True
 https://github.com/betagouv/signup-front,True
@@ -3443,6 +3444,8 @@ https://github.com/wookey-project/driver-stm32f4xx-sdio,True
 https://github.com/wookey-project/driver-stm32f4xx-spi,True
 https://github.com/wookey-project/driver-stm32f4xx-usart,True
 https://github.com/wookey-project/driver-stm32f4xx-usb,True
+https://github.com/wookey-project/driver-stm32f4xx-usbotgfs,False
+https://github.com/wookey-project/driver-stm32f4xx-usbotghs,False
 https://github.com/wookey-project/ewok-kernel,True
 https://github.com/wookey-project/ewok-legacy,True
 https://github.com/wookey-project/hard-libs,True
@@ -3467,6 +3470,7 @@ https://github.com/wookey-project/libsmartcard,True
 https://github.com/wookey-project/libstd,True
 https://github.com/wookey-project/libtoken,True
 https://github.com/wookey-project/libwookey,True
+https://github.com/wookey-project/libxDCI,False
 https://github.com/wookey-project/manifest,True
 https://github.com/wookey-project/perms-matrix-disco407-samples,True
 https://github.com/wookey-project/perms-matrix-wookey,True
