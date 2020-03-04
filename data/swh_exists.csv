@@ -3470,7 +3470,7 @@ https://github.com/wookey-project/libsmartcard,True
 https://github.com/wookey-project/libstd,True
 https://github.com/wookey-project/libtoken,True
 https://github.com/wookey-project/libwookey,True
-https://github.com/wookey-project/libxDCI,False
+https://github.com/wookey-project/libxDCI,True
 https://github.com/wookey-project/manifest,True
 https://github.com/wookey-project/perms-matrix-disco407-samples,True
 https://github.com/wookey-project/perms-matrix-wookey,True
