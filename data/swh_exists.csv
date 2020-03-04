@@ -160,6 +160,11 @@ https://framagit.org/openfisca/calculette-impots-web-api,True
 https://framagit.org/openfisca/calculette-impots-web-explorer,True
 https://framagit.org/openfisca/french-income-taxes-test-cases,True
 https://framagit.org/openfisca/ines-libre,True
+https://git.ademe.fr/docker/getpdf,False
+https://git.ademe.fr/docker/httpd,False
+https://git.ademe.fr/docker/httpd-php,False
+https://git.ademe.fr/docker/phpfpm,False
+https://git.ademe.fr/docker/ssh-sftp,False
 https://git.unicaen.fr/open-source/OSE,True
 https://git.unicaen.fr/open-source/sygal,True
 https://git.unicaen.fr/open-source/sygal-doc,True
@@ -231,6 +236,7 @@ https://git.unistra.fr/deepen/corpus-reference,False
 https://git.unistra.fr/ecr19-t4-e/hache-tag-greigns,True
 https://git.unistra.fr/enj/corpus-reference,True
 https://git.unistra.fr/filiere-d-excellence/ghc,True
+https://git.unistra.fr/g4b-le-futur/g4b,False
 https://git.unistra.fr/gdt/back,True
 https://git.unistra.fr/gdt/front,True
 https://git.unistra.fr/goj19-t4-b/projet-tutore-tycoon,True
