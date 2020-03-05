@@ -848,6 +848,7 @@ https://github.com/Inist-CNRS/ezmaster-gitbook,True
 https://github.com/Inist-CNRS/ezmaster-globs,True
 https://github.com/Inist-CNRS/ezmaster-hexo,True
 https://github.com/Inist-CNRS/ezmaster-jekyll,True
+https://github.com/Inist-CNRS/ezmaster-jena-fuseki,False
 https://github.com/Inist-CNRS/ezmaster-mongo,True
 https://github.com/Inist-CNRS/ezmaster-mysql,True
 https://github.com/Inist-CNRS/ezmaster-phpserver,True
@@ -1213,7 +1214,7 @@ https://github.com/PnX-SI/GeoNature,True
 https://github.com/PnX-SI/GeoNature-R-package,True
 https://github.com/PnX-SI/GeoNature-atlas,True
 https://github.com/PnX-SI/GeoNature-citizen,True
-https://github.com/PnX-SI/GeoNature-packaging,False
+https://github.com/PnX-SI/GeoNature-packaging,True
 https://github.com/PnX-SI/GeoPaysages,True
 https://github.com/PnX-SI/Habref-api-module,True
 https://github.com/PnX-SI/Nomenclature-api-module,True
@@ -3619,6 +3620,7 @@ https://gitlab.huma-num.fr/lamop/archive-osm,True
 https://gitlab.huma-num.fr/lamop/audiotheque-traduction,True
 https://gitlab.huma-num.fr/lamop/cbma-epigraphie,True
 https://gitlab.huma-num.fr/lamop/corpus-spacy,True
+https://gitlab.huma-num.fr/lamop/dalek,False
 https://gitlab.huma-num.fr/lamop/duranti,True
 https://gitlab.huma-num.fr/lamop/fonds-marc-bloch,True
 https://gitlab.huma-num.fr/lamop/heraut-transcript,True
@@ -3638,6 +3640,7 @@ https://gitlab.huma-num.fr/lamop/test,True
 https://gitlab.huma-num.fr/lamop/topama,True
 https://gitlab.huma-num.fr/lamop/topama-eveches,True
 https://gitlab.huma-num.fr/lamop/topologie_aix-en-provence,False
+https://gitlab.huma-num.fr/lamop/yersinia,False
 https://gitlab.huma-num.fr/mshs-poitiers/xmlify,True
 https://gitlab.huma-num.fr/nakala-tools/nakalot,True
 https://gitlab.huma-num.fr/nakala-tools/nakanav,True
