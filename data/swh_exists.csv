@@ -163,7 +163,7 @@ https://framagit.org/openfisca/french-income-taxes-test-cases,True
 https://framagit.org/openfisca/ines-libre,True
 https://git.ademe.fr/docker/getpdf,True
 https://git.ademe.fr/docker/httpd,False
-https://git.ademe.fr/docker/httpd-php,False
+https://git.ademe.fr/docker/httpd-php,True
 https://git.ademe.fr/docker/phpfpm,False
 https://git.ademe.fr/docker/ssh-sftp,False
 https://git.ademe.fr/docker/sshd-sftp,False
@@ -1067,6 +1067,8 @@ https://github.com/MTES-MCT/camino-portainer,True
 https://github.com/MTES-MCT/camino-scripting,True
 https://github.com/MTES-MCT/camino-ui,True
 https://github.com/MTES-MCT/carbure,True
+https://github.com/MTES-MCT/cerbere-nodejs,False
+https://github.com/MTES-MCT/cerbere-python,False
 https://github.com/MTES-MCT/choisir-une-licence,True
 https://github.com/MTES-MCT/cobot-admin,True
 https://github.com/MTES-MCT/cobot-api,True
@@ -1401,7 +1403,7 @@ https://github.com/SocialGouv/siret2idcc,True
 https://github.com/SocialGouv/social-ui,True
 https://github.com/SocialGouv/socialgouv.github.io,True
 https://github.com/SocialGouv/standup,True
-https://github.com/SocialGouv/standup2,False
+https://github.com/SocialGouv/standup2,True
 https://github.com/SocialGouv/suggest,True
 https://github.com/SocialGouv/template.data.gouv.fr.react,True
 https://github.com/SocialGouv/tocbot,True
@@ -2326,6 +2328,7 @@ https://github.com/eole/redmine_track_control,True
 https://github.com/eole/salt,True
 https://github.com/eole/salt-winrepo-ng,True
 https://github.com/eole/systemd-formula,True
+https://github.com/eole/telegraf-formula,False
 https://github.com/eole/template-formula,True
 https://github.com/eole/tools,True
 https://github.com/erasme/androidwifidirect,True
