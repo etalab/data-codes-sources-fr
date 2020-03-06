@@ -160,7 +160,7 @@ https://framagit.org/openfisca/calculette-impots-web-api,True
 https://framagit.org/openfisca/calculette-impots-web-explorer,True
 https://framagit.org/openfisca/french-income-taxes-test-cases,True
 https://framagit.org/openfisca/ines-libre,True
-https://git.ademe.fr/docker/getpdf,False
+https://git.ademe.fr/docker/getpdf,True
 https://git.ademe.fr/docker/httpd,False
 https://git.ademe.fr/docker/httpd-php,False
 https://git.ademe.fr/docker/phpfpm,False
