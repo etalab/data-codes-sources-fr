@@ -3457,7 +3457,7 @@ https://github.com/wookey-project/driver-stm32f4xx-sdio,True
 https://github.com/wookey-project/driver-stm32f4xx-spi,True
 https://github.com/wookey-project/driver-stm32f4xx-usart,True
 https://github.com/wookey-project/driver-stm32f4xx-usb,True
-https://github.com/wookey-project/driver-stm32f4xx-usbotgfs,False
+https://github.com/wookey-project/driver-stm32f4xx-usbotgfs,True
 https://github.com/wookey-project/driver-stm32f4xx-usbotghs,True
 https://github.com/wookey-project/ewok-kernel,True
 https://github.com/wookey-project/ewok-legacy,True
