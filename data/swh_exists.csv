@@ -35,6 +35,7 @@ https://forge.grandlyon.com/laclasse/roundcube_elastic_skin,True
 https://forge.grandlyon.com/laclasse/roundcube_laclasse_addressbook,True
 https://forge.grandlyon.com/laclasse/roundcube_laclasse_cas,True
 https://forge.grandlyon.com/laclasse/wordpress-theme-laclasse,True
+https://forge.grandlyon.com/pocs/elasticsearch-suggester-tester,False
 https://forge.grandlyon.com/systemes-dinformation/gat_gatling,True
 https://forge.grandlyon.com/systemes-dinformation/pasi-portail-d-acces-au-si,True
 https://forgemia.inra.fr/4p/user-guide,True
@@ -363,6 +364,7 @@ https://github.com/ANSSI-FR/coq-MiniHTTPServer,True
 https://github.com/ANSSI-FR/coq-comparse,True
 https://github.com/ANSSI-FR/coq-prelude,True
 https://github.com/ANSSI-FR/cornetto,True
+https://github.com/ANSSI-FR/ctf,True
 https://github.com/ANSSI-FR/libapn,True
 https://github.com/ANSSI-FR/libecc,True
 https://github.com/ANSSI-FR/mabo,True
@@ -811,6 +813,7 @@ https://github.com/INRIA/libpointing-homebrew,True
 https://github.com/INRIA/mooc-accessibility-api,True
 https://github.com/INRIA/mooc-accessibility-static,True
 https://github.com/INRIA/osc,True
+https://github.com/INRIA/scikit-learn-mooc,True
 https://github.com/INRIA/sparklificator,True
 https://github.com/INRIA/spoon,True
 https://github.com/INRIA/tralics,True
@@ -1720,6 +1723,7 @@ https://github.com/betagouv/eac,True
 https://github.com/betagouv/eac-api,True
 https://github.com/betagouv/eac-scrapper,True
 https://github.com/betagouv/ecolab-transport,True
+https://github.com/betagouv/ecosante,False
 https://github.com/betagouv/etudiant-entrepreneur,True
 https://github.com/betagouv/eva,True
 https://github.com/betagouv/eva-orchestrateur,True
@@ -2640,6 +2644,7 @@ https://github.com/etalab/wiki-data-gouv,True
 https://github.com/etalab/youckan,True
 https://github.com/etalab/zammad-contact-form,True
 https://github.com/fabnumdef/GeoGate,True
+https://github.com/fabnumdef/chatbot-back,False
 https://github.com/fabnumdef/design-system,True
 https://github.com/fabnumdef/e-chauffeur,True
 https://github.com/fabnumdef/e-chauffeur_api,True
