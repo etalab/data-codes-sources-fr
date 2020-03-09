@@ -1086,6 +1086,7 @@ https://github.com/MTES-MCT/filharmonic-infrastructure,True
 https://github.com/MTES-MCT/filharmonic-ui,True
 https://github.com/MTES-MCT/fluctuat,True
 https://github.com/MTES-MCT/fluctuat-apidoc,True
+https://github.com/MTES-MCT/france-connect-python,False
 https://github.com/MTES-MCT/geo-communes-api,True
 https://github.com/MTES-MCT/geostatis,True
 https://github.com/MTES-MCT/invasivalerte,True
@@ -1393,6 +1394,7 @@ https://github.com/SocialGouv/next-routes,True
 https://github.com/SocialGouv/polyfill-service,True
 https://github.com/SocialGouv/postgrest,True
 https://github.com/SocialGouv/postgrester,True
+https://github.com/SocialGouv/presentation-textstyle,False
 https://github.com/SocialGouv/react-departements,True
 https://github.com/SocialGouv/react-medixtor,True
 https://github.com/SocialGouv/renovate-config,True
@@ -2647,6 +2649,7 @@ https://github.com/fabnumdef/e-chauffeur_lib-vue,True
 https://github.com/fabnumdef/e-chauffeur_user,True
 https://github.com/fabnumdef/fabnumdef.d3,False
 https://github.com/fabnumdef/fabnumdef.github.io,True
+https://github.com/fabnumdef/fabrique-chatbot-back,False
 https://github.com/fabnumdef/resources,True
 https://github.com/genotoul-bioinfo/WorkflowFrameworkComparison,True
 https://github.com/genotoul-bioinfo/configs,True
@@ -3625,7 +3628,7 @@ https://gitlab.huma-num.fr/lamop/archive-osm,True
 https://gitlab.huma-num.fr/lamop/audiotheque-traduction,True
 https://gitlab.huma-num.fr/lamop/cbma-epigraphie,True
 https://gitlab.huma-num.fr/lamop/corpus-spacy,True
-https://gitlab.huma-num.fr/lamop/dalek,False
+https://gitlab.huma-num.fr/lamop/dalek,True
 https://gitlab.huma-num.fr/lamop/duranti,True
 https://gitlab.huma-num.fr/lamop/fonds-marc-bloch,True
 https://gitlab.huma-num.fr/lamop/heraut-transcript,True
