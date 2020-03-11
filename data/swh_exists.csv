@@ -97,6 +97,7 @@ https://forgemia.inra.fr/record/recordweb,True
 https://forgemia.inra.fr/record/sunflo,True
 https://forgemia.inra.fr/record/workbench4record,True
 https://forgemia.inra.fr/sciproject/managesciproject,True
+https://forgemia.inra.fr/singularity/test,False
 https://forgemia.inra.fr/svdetection/cnvpipelines,True
 https://forgemia.inra.fr/svdetection/popsim,True
 https://forgemia.inra.fr/svdetection/svlib,True
@@ -853,7 +854,7 @@ https://github.com/Inist-CNRS/ezmaster-gitbook,True
 https://github.com/Inist-CNRS/ezmaster-globs,True
 https://github.com/Inist-CNRS/ezmaster-hexo,True
 https://github.com/Inist-CNRS/ezmaster-jekyll,True
-https://github.com/Inist-CNRS/ezmaster-jena-fuseki,False
+https://github.com/Inist-CNRS/ezmaster-jena-fuseki,True
 https://github.com/Inist-CNRS/ezmaster-mongo,True
 https://github.com/Inist-CNRS/ezmaster-mysql,True
 https://github.com/Inist-CNRS/ezmaster-phpserver,True
@@ -1427,6 +1428,7 @@ https://github.com/SocialGouv/work-in-france-backoffice,True
 https://github.com/SocialGouv/work-in-france-bo,True
 https://github.com/SocialGouv/work-in-france-bo-public,True
 https://github.com/SocialGouv/work-in-france-extractor,True
+https://github.com/SocialGouv/www,False
 https://github.com/SocieteNumerique/CivicTechFest,True
 https://github.com/SocieteNumerique/Site-Mission-Societe-Numerique,True
 https://github.com/SocieteNumerique/carto-sonum,True
