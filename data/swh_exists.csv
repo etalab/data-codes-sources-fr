@@ -1091,7 +1091,7 @@ https://github.com/MTES-MCT/filharmonic-infrastructure,True
 https://github.com/MTES-MCT/filharmonic-ui,True
 https://github.com/MTES-MCT/fluctuat,True
 https://github.com/MTES-MCT/fluctuat-apidoc,True
-https://github.com/MTES-MCT/france-connect-python,False
+https://github.com/MTES-MCT/france-connect-python,True
 https://github.com/MTES-MCT/geo-communes-api,True
 https://github.com/MTES-MCT/geostatis,True
 https://github.com/MTES-MCT/invasivalerte,True
@@ -1682,7 +1682,7 @@ https://github.com/betagouv/api-stats-elk,True
 https://github.com/betagouv/api-stats-elk-deprecated,True
 https://github.com/betagouv/api.gouv.fr,True
 https://github.com/betagouv/aplus,True
-https://github.com/betagouv/aplus-docs,False
+https://github.com/betagouv/aplus-docs,True
 https://github.com/betagouv/beta.gouv.fr,True
 https://github.com/betagouv/beta.gouv.fr.wiki-autoclone,True
 https://github.com/betagouv/beta.ssi,True
@@ -1727,7 +1727,7 @@ https://github.com/betagouv/eac,True
 https://github.com/betagouv/eac-api,True
 https://github.com/betagouv/eac-scrapper,True
 https://github.com/betagouv/ecolab-transport,True
-https://github.com/betagouv/ecosante,False
+https://github.com/betagouv/ecosante,True
 https://github.com/betagouv/etudiant-entrepreneur,True
 https://github.com/betagouv/eva,True
 https://github.com/betagouv/eva-orchestrateur,True
@@ -3659,7 +3659,7 @@ https://gitlab.huma-num.fr/lamop/test,True
 https://gitlab.huma-num.fr/lamop/topama,True
 https://gitlab.huma-num.fr/lamop/topama-eveches,True
 https://gitlab.huma-num.fr/lamop/topologie_aix-en-provence,False
-https://gitlab.huma-num.fr/lamop/yersinia,False
+https://gitlab.huma-num.fr/lamop/yersinia,True
 https://gitlab.huma-num.fr/mshs-poitiers/xmlify,True
 https://gitlab.huma-num.fr/nakala-tools/nakalot,True
 https://gitlab.huma-num.fr/nakala-tools/nakanav,True
