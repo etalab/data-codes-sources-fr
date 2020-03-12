@@ -97,7 +97,7 @@ https://forgemia.inra.fr/record/recordweb,True
 https://forgemia.inra.fr/record/sunflo,True
 https://forgemia.inra.fr/record/workbench4record,True
 https://forgemia.inra.fr/sciproject/managesciproject,True
-https://forgemia.inra.fr/singularity/test,False
+https://forgemia.inra.fr/singularity/test,True
 https://forgemia.inra.fr/svdetection/cnvpipelines,True
 https://forgemia.inra.fr/svdetection/popsim,True
 https://forgemia.inra.fr/svdetection/svlib,True
@@ -836,6 +836,7 @@ https://github.com/Ifsttar/NoiseModelling,True
 https://github.com/Ifsttar/NoisePlanet,True
 https://github.com/Ifsttar/Open-SymuVia,True
 https://github.com/Ifsttar/Pypixgrid,True
+https://github.com/Ifsttar/SymuRes,False
 https://github.com/Ifsttar/Tempus,True
 https://github.com/Ifsttar/YATS,True
 https://github.com/Ifsttar/bil,True
@@ -1856,6 +1857,7 @@ https://github.com/betagouv/react-hook-data,True
 https://github.com/betagouv/react-i18nliner,True
 https://github.com/betagouv/react-loading-infinite-scroller,True
 https://github.com/betagouv/react-reducer-effect-context-data,True
+https://github.com/betagouv/redirections,False
 https://github.com/betagouv/redux-react-modals,True
 https://github.com/betagouv/redux-saga-data,True
 https://github.com/betagouv/redux-thunk-data,True
@@ -3632,6 +3634,7 @@ https://gitlab.huma-num.fr/eurhisfirm/fibo-data,True
 https://gitlab.huma-num.fr/eurhisfirm/fibo-wikibase,True
 https://gitlab.huma-num.fr/eurhisfirm/gleif-wikibase,True
 https://gitlab.huma-num.fr/eurhisfirm/scob-wikibase,True
+https://gitlab.huma-num.fr/eurhisfirm/test-app-saisie,False
 https://gitlab.huma-num.fr/irihs/NakalaTools,True
 https://gitlab.huma-num.fr/irihs/flaubertexport,True
 https://gitlab.huma-num.fr/irihs/genetictables,True
