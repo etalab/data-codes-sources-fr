@@ -76,6 +76,7 @@ https://forgemia.inra.fr/metexplore/metabolomics2network,True
 https://forgemia.inra.fr/metexplore/metexplore2,True
 https://forgemia.inra.fr/metexplore/tutorialmet4j,True
 https://forgemia.inra.fr/olivier.bonnefon/mse,True
+https://forgemia.inra.fr/pappso/custompwiz,False
 https://forgemia.inra.fr/pappso/libodsstream,True
 https://forgemia.inra.fr/pappso/masschroq,True
 https://forgemia.inra.fr/pappso/massxpert,True
@@ -1828,6 +1829,7 @@ https://github.com/betagouv/pass-culture-web-analytics,True
 https://github.com/betagouv/pc-dashboard,True
 https://github.com/betagouv/pc-logstash,True
 https://github.com/betagouv/pc-maintenance,True
+https://github.com/betagouv/pc-monitoring,False
 https://github.com/betagouv/peps,True
 https://github.com/betagouv/peps-app,True
 https://github.com/betagouv/pia-back,True
@@ -2653,7 +2655,7 @@ https://github.com/etalab/wiki-data-gouv,True
 https://github.com/etalab/youckan,True
 https://github.com/etalab/zammad-contact-form,True
 https://github.com/fabnumdef/GeoGate,True
-https://github.com/fabnumdef/chatbot-back,False
+https://github.com/fabnumdef/chatbot-back,True
 https://github.com/fabnumdef/design-system,True
 https://github.com/fabnumdef/e-chauffeur,True
 https://github.com/fabnumdef/e-chauffeur_api,True
@@ -3545,6 +3547,7 @@ https://gitlab.adullact.net/capex/capex,True
 https://gitlab.adullact.net/demarches-simplifiees/puppet-demarches-simplifiees,True
 https://gitlab.adullact.net/demarches-simplifiees/vagrant-demarches-simplifiees,True
 https://gitlab.adullact.net/departements-notaires/departements-notaires,True
+https://gitlab.adullact.net/departements-notaires/departements-notaires-v2,False
 https://gitlab.adullact.net/directmairie/directmairie,True
 https://gitlab.adullact.net/directmairie/puppet-directmairie,True
 https://gitlab.adullact.net/e-carre/e-carre-particuliers,True
