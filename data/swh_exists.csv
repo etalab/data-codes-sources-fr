@@ -1120,6 +1120,7 @@ https://github.com/MTES-MCT/parcours_r_socle_preparation_des_donnees,True
 https://github.com/MTES-MCT/partaj,True
 https://github.com/MTES-MCT/permis-construire,True
 https://github.com/MTES-MCT/portail,True
+https://github.com/MTES-MCT/potentiel,False
 https://github.com/MTES-MCT/rapportNav,True
 https://github.com/MTES-MCT/rieau,True
 https://github.com/MTES-MCT/rieau-api,True
@@ -1719,6 +1720,7 @@ https://github.com/betagouv/discourse-oauth2-basic,True
 https://github.com/betagouv/django-magicauth,True
 https://github.com/betagouv/dns,True
 https://github.com/betagouv/docs.dossiersco.fr,True
+https://github.com/betagouv/documentation,False
 https://github.com/betagouv/domain-scan,True
 https://github.com/betagouv/dossiersco,True
 https://github.com/betagouv/dossiersco-maintenance,True
@@ -2657,6 +2659,7 @@ https://github.com/etalab/youckan,True
 https://github.com/etalab/zammad-contact-form,True
 https://github.com/fabnumdef/GeoGate,True
 https://github.com/fabnumdef/chatbot-back,True
+https://github.com/fabnumdef/chatbot-front,False
 https://github.com/fabnumdef/design-system,True
 https://github.com/fabnumdef/e-chauffeur,True
 https://github.com/fabnumdef/e-chauffeur_api,True
