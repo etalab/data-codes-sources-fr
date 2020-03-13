@@ -45,7 +45,7 @@ https://forgemia.inra.fr/GNet/cytopheno_omics,True
 https://forgemia.inra.fr/GNet/einkorn_grain_transcriptome,True
 https://forgemia.inra.fr/QTL/spell-qtl,True
 https://forgemia.inra.fr/adminforgemia/doc-public,True
-https://forgemia.inra.fr/bibliome/alvisae-anaee,False
+https://forgemia.inra.fr/bibliome/alvisae-anaee,True
 https://forgemia.inra.fr/bibliome/bionlp-st-py,True
 https://forgemia.inra.fr/bibliome/formation-alvisnlp,True
 https://forgemia.inra.fr/bios4biol/bioinfo-utils,True
@@ -1118,7 +1118,7 @@ https://github.com/MTES-MCT/parcours_r_module_statistiques_descriptives,True
 https://github.com/MTES-MCT/parcours_r_socle_introduction,True
 https://github.com/MTES-MCT/parcours_r_socle_preparation_des_donnees,True
 https://github.com/MTES-MCT/partaj,True
-https://github.com/MTES-MCT/passport-cerbere,False
+https://github.com/MTES-MCT/passport-cerbere,True
 https://github.com/MTES-MCT/permis-construire,True
 https://github.com/MTES-MCT/portail,True
 https://github.com/MTES-MCT/potentiel,False
@@ -1721,7 +1721,7 @@ https://github.com/betagouv/discourse-oauth2-basic,True
 https://github.com/betagouv/django-magicauth,True
 https://github.com/betagouv/dns,True
 https://github.com/betagouv/docs.dossiersco.fr,True
-https://github.com/betagouv/documentation,False
+https://github.com/betagouv/documentation,True
 https://github.com/betagouv/domain-scan,True
 https://github.com/betagouv/dossiersco,True
 https://github.com/betagouv/dossiersco-maintenance,True
@@ -3552,7 +3552,7 @@ https://gitlab.adullact.net/capex/capex,True
 https://gitlab.adullact.net/demarches-simplifiees/puppet-demarches-simplifiees,True
 https://gitlab.adullact.net/demarches-simplifiees/vagrant-demarches-simplifiees,True
 https://gitlab.adullact.net/departements-notaires/departements-notaires,True
-https://gitlab.adullact.net/departements-notaires/departements-notaires-v2,False
+https://gitlab.adullact.net/departements-notaires/departements-notaires-v2,True
 https://gitlab.adullact.net/directmairie/directmairie,True
 https://gitlab.adullact.net/directmairie/puppet-directmairie,True
 https://gitlab.adullact.net/e-carre/e-carre-particuliers,True
