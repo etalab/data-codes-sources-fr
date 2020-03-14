@@ -838,7 +838,7 @@ https://github.com/Ifsttar/NoiseModelling,True
 https://github.com/Ifsttar/NoisePlanet,True
 https://github.com/Ifsttar/Open-SymuVia,True
 https://github.com/Ifsttar/Pypixgrid,True
-https://github.com/Ifsttar/SymuRes,False
+https://github.com/Ifsttar/SymuRes,True
 https://github.com/Ifsttar/Tempus,True
 https://github.com/Ifsttar/YATS,True
 https://github.com/Ifsttar/bil,True
@@ -1405,7 +1405,7 @@ https://github.com/SocialGouv/next-routes,True
 https://github.com/SocialGouv/polyfill-service,True
 https://github.com/SocialGouv/postgrest,True
 https://github.com/SocialGouv/postgrester,True
-https://github.com/SocialGouv/presentation-textstyle,False
+https://github.com/SocialGouv/presentation-textstyle,True
 https://github.com/SocialGouv/react-departements,True
 https://github.com/SocialGouv/react-medixtor,True
 https://github.com/SocialGouv/renovate-config,True
@@ -3636,7 +3636,7 @@ https://gitlab.huma-num.fr/eurhisfirm/dfih-ui,True
 https://gitlab.huma-num.fr/eurhisfirm/dfih-wikibase,True
 https://gitlab.huma-num.fr/eurhisfirm/documentation,True
 https://gitlab.huma-num.fr/eurhisfirm/eurhisfirm-sitelinks-server,True
-https://gitlab.huma-num.fr/eurhisfirm/eurhisfirm-wikibase,False
+https://gitlab.huma-num.fr/eurhisfirm/eurhisfirm-wikibase,True
 https://gitlab.huma-num.fr/eurhisfirm/eurhisfirm-wikibase-docker,True
 https://gitlab.huma-num.fr/eurhisfirm/fibo-data,True
 https://gitlab.huma-num.fr/eurhisfirm/fibo-wikibase,True
