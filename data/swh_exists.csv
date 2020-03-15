@@ -1884,7 +1884,7 @@ https://github.com/betagouv/signalconso-loadtest,True
 https://github.com/betagouv/signalement,True
 https://github.com/betagouv/signalement-api,True
 https://github.com/betagouv/signalement-app,True
-https://github.com/betagouv/signup,False
+https://github.com/betagouv/signup,True
 https://github.com/betagouv/signup-ansible,True
 https://github.com/betagouv/signup-back,True
 https://github.com/betagouv/signup-front,True
