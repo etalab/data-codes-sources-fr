@@ -280,6 +280,11 @@ https://git.unistra.fr/projet-integrateur-grp-3/frontend,True
 https://git.unistra.fr/pub/SupportPortal-aid,True
 https://git.unistra.fr/pub/revealjs-generator,True
 https://git.unistra.fr/ruizfabo/methal-sources,True
+https://git.unistra.fr/s2/a21,False
+https://git.unistra.fr/s2/m22,False
+https://git.unistra.fr/s2/p21,False
+https://git.unistra.fr/s2/s21,False
+https://git.unistra.fr/s2/t22,False
 https://git.unistra.fr/scl19-t4-a/t4-2019,True
 https://git.unistra.fr/scl19-t4-c/juthose,True
 https://git.unistra.fr/scl19-t4-e/t4,True
@@ -1078,7 +1083,7 @@ https://github.com/MTES-MCT/camino-scripting,True
 https://github.com/MTES-MCT/camino-ui,True
 https://github.com/MTES-MCT/carbure,True
 https://github.com/MTES-MCT/cerbere-nodejs,True
-https://github.com/MTES-MCT/cerbere-python,False
+https://github.com/MTES-MCT/cerbere-python,True
 https://github.com/MTES-MCT/choisir-une-licence,True
 https://github.com/MTES-MCT/cobot-admin,True
 https://github.com/MTES-MCT/cobot-api,True
@@ -1435,7 +1440,7 @@ https://github.com/SocialGouv/work-in-france-backoffice,True
 https://github.com/SocialGouv/work-in-france-bo,True
 https://github.com/SocialGouv/work-in-france-bo-public,True
 https://github.com/SocialGouv/work-in-france-extractor,True
-https://github.com/SocialGouv/www,False
+https://github.com/SocialGouv/www,True
 https://github.com/SocieteNumerique/CivicTechFest,True
 https://github.com/SocieteNumerique/Site-Mission-Societe-Numerique,True
 https://github.com/SocieteNumerique/carto-sonum,True
@@ -3679,7 +3684,7 @@ https://gitlab.huma-num.fr/nakala-tools/nakalot,True
 https://gitlab.huma-num.fr/nakala-tools/nakanav,True
 https://gitlab.huma-num.fr/rzine/documentation,True
 https://gitlab.huma-num.fr/tip/test,False
-https://gitlab.in2p3.fr/Enssib/abcdev,False
+https://gitlab.in2p3.fr/Enssib/abcdev,True
 https://gitlab.in2p3.fr/Enssib/bibliotouch,False
 https://gitlab.inria.fr/AlgebraicGeometricModeling/AlgebraicSolvers.jl,True
 https://gitlab.inria.fr/AlgebraicGeometricModeling/Axl.jl,True
