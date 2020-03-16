@@ -1912,7 +1912,7 @@ https://github.com/betagouv/traitdunion-metabase,True
 https://github.com/betagouv/verif.site,True
 https://github.com/betagouv/visam,True
 https://github.com/betagouv/voir-et-localiser-samu-sign-on,True
-https://github.com/betagouv/webconf,False
+https://github.com/betagouv/webconf,True
 https://github.com/betagouv/with-login,True
 https://github.com/betagouv/with-query-router,True
 https://github.com/betagouv/with-react-form,True
@@ -2620,12 +2620,12 @@ https://github.com/etalab/rubocop_api_entreprise,True
 https://github.com/etalab/schema-decp-dpa,True
 https://github.com/etalab/schema-irve,True
 https://github.com/etalab/schema-lieux-covoiturage,True
-https://github.com/etalab/schema-plf,False
+https://github.com/etalab/schema-plf,True
 https://github.com/etalab/schema-stationnement,True
 https://github.com/etalab/schema.data.gouv.fr,True
 https://github.com/etalab/scpc-as-api,True
 https://github.com/etalab/secateur,True
-https://github.com/etalab/sill-data,False
+https://github.com/etalab/sill-data,True
 https://github.com/etalab/sill-plus-wikidata,True
 https://github.com/etalab/sill.etalab.gouv.fr,True
 https://github.com/etalab/sillweb,True
