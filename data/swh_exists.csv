@@ -1208,6 +1208,7 @@ https://github.com/PnCevennes/gn_module_suivi_chiro,True
 https://github.com/PnCevennes/gn_module_suivi_oedic,True
 https://github.com/PnCevennes/ng-mapCreator-fp,True
 https://github.com/PnCevennes/obs_eau_calcul_debits,True
+https://github.com/PnCevennes/oeasc_frontend,False
 https://github.com/PnCevennes/porteconnaissance_pq,True
 https://github.com/PnCevennes/projet_suivi,True
 https://github.com/PnCevennes/projet_suivis_frontend,True
@@ -1522,6 +1523,7 @@ https://github.com/StartupsPoleEmploi/qpvzrr,True
 https://github.com/StartupsPoleEmploi/toolkit,True
 https://github.com/StartupsPoleEmploi/trefle,True
 https://github.com/StartupsPoleEmploi/zen,True
+https://github.com/StartupsPoleEmploi/zen-createur,False
 https://github.com/addok/addocker,True
 https://github.com/addok/addok,True
 https://github.com/addok/addok-csv,True
@@ -1839,7 +1841,7 @@ https://github.com/betagouv/pass-culture-web-analytics,True
 https://github.com/betagouv/pc-dashboard,True
 https://github.com/betagouv/pc-logstash,True
 https://github.com/betagouv/pc-maintenance,True
-https://github.com/betagouv/pc-monitoring,False
+https://github.com/betagouv/pc-monitoring,True
 https://github.com/betagouv/peps,True
 https://github.com/betagouv/peps-app,True
 https://github.com/betagouv/pia-back,True
