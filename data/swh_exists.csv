@@ -281,7 +281,7 @@ https://git.unistra.fr/pub/SupportPortal-aid,True
 https://git.unistra.fr/pub/revealjs-generator,True
 https://git.unistra.fr/ruizfabo/methal-sources,True
 https://git.unistra.fr/s2/a21,False
-https://git.unistra.fr/s2/m22,False
+https://git.unistra.fr/s2/m22,True
 https://git.unistra.fr/s2/p21,False
 https://git.unistra.fr/s2/s21,False
 https://git.unistra.fr/s2/t22,False
@@ -990,6 +990,8 @@ https://github.com/InseeFr/Pogues,True
 https://github.com/InseeFr/Pogues-Back-Office,True
 https://github.com/InseeFr/Pogues-Model,True
 https://github.com/InseeFr/Quatro,True
+https://github.com/InseeFr/Queen,False
+https://github.com/InseeFr/Queen-Back-Office,False
 https://github.com/InseeFr/VTL-Tools,True
 https://github.com/InseeFr/Wilco,True
 https://github.com/InseeFr/diffman,True
@@ -1761,6 +1763,7 @@ https://github.com/betagouv/i18nliner-js,True
 https://github.com/betagouv/ilos,True
 https://github.com/betagouv/impact-tests,True
 https://github.com/betagouv/itou,True
+https://github.com/betagouv/itou-discourse,False
 https://github.com/betagouv/kong-delegateAuth,True
 https://github.com/betagouv/kong-delegateAuth-deprecated,True
 https://github.com/betagouv/la-sass-vy,True
@@ -3455,6 +3458,7 @@ https://github.com/unistra/xml-archive-to-pdf,True
 https://github.com/vle-forge/Echll,True
 https://github.com/vle-forge/debian,True
 https://github.com/vle-forge/irritator,True
+https://github.com/vle-forge/irritator-old,False
 https://github.com/vle-forge/node-vle,True
 https://github.com/vle-forge/packages,True
 https://github.com/vle-forge/pyvle,True
@@ -3688,7 +3692,7 @@ https://gitlab.huma-num.fr/nakala-tools/nakanav,True
 https://gitlab.huma-num.fr/rzine/documentation,True
 https://gitlab.huma-num.fr/tip/test,True
 https://gitlab.in2p3.fr/Enssib/abcdev,True
-https://gitlab.in2p3.fr/Enssib/bibliotouch,False
+https://gitlab.in2p3.fr/Enssib/bibliotouch,True
 https://gitlab.inria.fr/AlgebraicGeometricModeling/AlgebraicSolvers.jl,True
 https://gitlab.inria.fr/AlgebraicGeometricModeling/Axl.jl,True
 https://gitlab.inria.fr/AlgebraicGeometricModeling/GSplines.jl,True
