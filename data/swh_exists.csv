@@ -1210,7 +1210,7 @@ https://github.com/PnCevennes/gn_module_suivi_chiro,True
 https://github.com/PnCevennes/gn_module_suivi_oedic,True
 https://github.com/PnCevennes/ng-mapCreator-fp,True
 https://github.com/PnCevennes/obs_eau_calcul_debits,True
-https://github.com/PnCevennes/oeasc_frontend,False
+https://github.com/PnCevennes/oeasc_frontend,True
 https://github.com/PnCevennes/porteconnaissance_pq,True
 https://github.com/PnCevennes/projet_suivi,True
 https://github.com/PnCevennes/projet_suivis_frontend,True
@@ -1897,6 +1897,7 @@ https://github.com/betagouv/signup-oauth,True
 https://github.com/betagouv/signup.api.gouv.fr,True
 https://github.com/betagouv/signup.api.gouv.fr-docker,True
 https://github.com/betagouv/slack-ovh,True
+https://github.com/betagouv/solidarite-numerique,False
 https://github.com/betagouv/sqlalchemy-api-handler,True
 https://github.com/betagouv/sqlalchemy-handler,True
 https://github.com/betagouv/standup,True
