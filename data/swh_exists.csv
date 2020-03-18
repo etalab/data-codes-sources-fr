@@ -283,7 +283,7 @@ https://git.unistra.fr/ruizfabo/methal-sources,True
 https://git.unistra.fr/s2/a21,False
 https://git.unistra.fr/s2/m22,True
 https://git.unistra.fr/s2/p21,True
-https://git.unistra.fr/s2/s21,False
+https://git.unistra.fr/s2/s21,True
 https://git.unistra.fr/s2/t22,True
 https://git.unistra.fr/scl19-t4-a/t4-2019,True
 https://git.unistra.fr/scl19-t4-c/juthose,True
@@ -992,7 +992,7 @@ https://github.com/InseeFr/Pogues-Back-Office,True
 https://github.com/InseeFr/Pogues-Model,True
 https://github.com/InseeFr/Quatro,True
 https://github.com/InseeFr/Queen,False
-https://github.com/InseeFr/Queen-Back-Office,False
+https://github.com/InseeFr/Queen-Back-Office,True
 https://github.com/InseeFr/VTL-Tools,True
 https://github.com/InseeFr/Wilco,True
 https://github.com/InseeFr/diffman,True
@@ -1114,6 +1114,7 @@ https://github.com/MTES-MCT/kelrisks-datascience,True
 https://github.com/MTES-MCT/locatio,True
 https://github.com/MTES-MCT/mobilic,True
 https://github.com/MTES-MCT/mobilic-api,True
+https://github.com/MTES-MCT/node-cerbere,False
 https://github.com/MTES-MCT/numerique,True
 https://github.com/MTES-MCT/parcours-r,True
 https://github.com/MTES-MCT/parcours_r_exercices,True
