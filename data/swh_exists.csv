@@ -282,7 +282,7 @@ https://git.unistra.fr/pub/revealjs-generator,True
 https://git.unistra.fr/ruizfabo/methal-sources,True
 https://git.unistra.fr/s2/a21,False
 https://git.unistra.fr/s2/m22,True
-https://git.unistra.fr/s2/p21,False
+https://git.unistra.fr/s2/p21,True
 https://git.unistra.fr/s2/s21,False
 https://git.unistra.fr/s2/t22,True
 https://git.unistra.fr/scl19-t4-a/t4-2019,True
@@ -298,6 +298,7 @@ https://git.unistra.fr/usept/sexy-polyedra-baby,True
 https://git.unistra.fr/vue/cas-authentication,True
 https://git.unistra.fr/vue/cli-plugin-unistra,True
 https://git.unistra.fr/vue/unistra-box,True
+https://git.unistra.fr/web_project/gigleux_web_project_1,False
 https://git.unistra.fr/xstra-dev/atelier-jenkins-2017,True
 https://git.unistra.fr/xstra-dev/conteneur-2019,True
 https://git.unistra.fr/xstra-dev/tp-gitlab-ci,True
@@ -1763,7 +1764,7 @@ https://github.com/betagouv/i18nliner-js,True
 https://github.com/betagouv/ilos,True
 https://github.com/betagouv/impact-tests,True
 https://github.com/betagouv/itou,True
-https://github.com/betagouv/itou-discourse,False
+https://github.com/betagouv/itou-discourse,True
 https://github.com/betagouv/kong-delegateAuth,True
 https://github.com/betagouv/kong-delegateAuth-deprecated,True
 https://github.com/betagouv/la-sass-vy,True
@@ -1829,6 +1830,7 @@ https://github.com/betagouv/pass-culture-api,True
 https://github.com/betagouv/pass-culture-app-staging,True
 https://github.com/betagouv/pass-culture-blog,True
 https://github.com/betagouv/pass-culture-browser,True
+https://github.com/betagouv/pass-culture-data-analytics,False
 https://github.com/betagouv/pass-culture-datascience,True
 https://github.com/betagouv/pass-culture-doc,True
 https://github.com/betagouv/pass-culture-homepage,True
@@ -2673,7 +2675,7 @@ https://github.com/etalab/youckan,True
 https://github.com/etalab/zammad-contact-form,True
 https://github.com/fabnumdef/GeoGate,True
 https://github.com/fabnumdef/chatbot-back,True
-https://github.com/fabnumdef/chatbot-front,False
+https://github.com/fabnumdef/chatbot-front,True
 https://github.com/fabnumdef/design-system,True
 https://github.com/fabnumdef/e-chauffeur,True
 https://github.com/fabnumdef/e-chauffeur_api,True
