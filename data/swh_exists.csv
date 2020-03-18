@@ -1509,6 +1509,7 @@ https://github.com/StartupsPoleEmploi/anotea,True
 https://github.com/StartupsPoleEmploi/avril,True
 https://github.com/StartupsPoleEmploi/avril-livret1,True
 https://github.com/StartupsPoleEmploi/avril-profil,True
+https://github.com/StartupsPoleEmploi/avril-shared,False
 https://github.com/StartupsPoleEmploi/baggy,True
 https://github.com/StartupsPoleEmploi/clara,True
 https://github.com/StartupsPoleEmploi/elk-cluster,True
@@ -2687,7 +2688,7 @@ https://github.com/fabnumdef/e-chauffeur_user,True
 https://github.com/fabnumdef/fabnumdef.d3,False
 https://github.com/fabnumdef/fabnumdef.github.io,True
 https://github.com/fabnumdef/fabrique-chatbot-back,True
-https://github.com/fabnumdef/fabrique-chatbot-front,False
+https://github.com/fabnumdef/fabrique-chatbot-front,True
 https://github.com/fabnumdef/resources,True
 https://github.com/genotoul-bioinfo/WorkflowFrameworkComparison,True
 https://github.com/genotoul-bioinfo/configs,True
