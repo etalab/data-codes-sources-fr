@@ -337,6 +337,7 @@ https://github.com/1024pix/scalingo-app-manager,True
 https://github.com/1024pix/scalingo-app-switch,True
 https://github.com/1024pix/scalingo-review-app-manager,True
 https://github.com/1024pix/subdir-buildpack,True
+https://github.com/1024pix/test-deploy-from-slack,False
 https://github.com/139bercy/cloud-appliance-ci-cd,True
 https://github.com/139bercy/cloud-appliance-composer-repo,True
 https://github.com/139bercy/cloud-appliance-management,True
@@ -1114,7 +1115,7 @@ https://github.com/MTES-MCT/kelrisks-datascience,True
 https://github.com/MTES-MCT/locatio,True
 https://github.com/MTES-MCT/mobilic,True
 https://github.com/MTES-MCT/mobilic-api,True
-https://github.com/MTES-MCT/node-cerbere,False
+https://github.com/MTES-MCT/node-cerbere,True
 https://github.com/MTES-MCT/numerique,True
 https://github.com/MTES-MCT/parcours-r,True
 https://github.com/MTES-MCT/parcours_r_exercices,True
@@ -2433,6 +2434,7 @@ https://github.com/etalab-ia/data_science_template,True
 https://github.com/etalab-ia/demo-piaf,True
 https://github.com/etalab-ia/piaf-code,True
 https://github.com/etalab-ia/pseudo_conseil_etat,True
+https://github.com/etalab-ia/pseudonymisation_decisions_ce,False
 https://github.com/etalab/Algo_gouv,True
 https://github.com/etalab/Attendize,True
 https://github.com/etalab/DVF-app,True
