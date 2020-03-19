@@ -35,7 +35,10 @@ https://forge.grandlyon.com/laclasse/roundcube_elastic_skin,True
 https://forge.grandlyon.com/laclasse/roundcube_laclasse_addressbook,True
 https://forge.grandlyon.com/laclasse/roundcube_laclasse_cas,True
 https://forge.grandlyon.com/laclasse/wordpress-theme-laclasse,True
+https://forge.grandlyon.com/pocs/__trash__introduction-au-langage-python-2,False
 https://forge.grandlyon.com/pocs/elasticsearch-suggester-tester,True
+https://forge.grandlyon.com/pocs/introduction-au-langage-python-1,False
+https://forge.grandlyon.com/pocs/introduction-au-langage-python-2,False
 https://forge.grandlyon.com/systemes-dinformation/gat_gatling,True
 https://forge.grandlyon.com/systemes-dinformation/pasi-portail-d-acces-au-si,True
 https://forgemia.inra.fr/4p/user-guide,True
@@ -298,7 +301,7 @@ https://git.unistra.fr/usept/sexy-polyedra-baby,True
 https://git.unistra.fr/vue/cas-authentication,True
 https://git.unistra.fr/vue/cli-plugin-unistra,True
 https://git.unistra.fr/vue/unistra-box,True
-https://git.unistra.fr/web_project/gigleux_web_project_1,False
+https://git.unistra.fr/web_project/gigleux_web_project_1,True
 https://git.unistra.fr/xstra-dev/atelier-jenkins-2017,True
 https://git.unistra.fr/xstra-dev/conteneur-2019,True
 https://git.unistra.fr/xstra-dev/tp-gitlab-ci,True
@@ -1415,6 +1418,7 @@ https://github.com/SocialGouv/monitor,True
 https://github.com/SocialGouv/monitorer,True
 https://github.com/SocialGouv/next-routes,True
 https://github.com/SocialGouv/polyfill-service,True
+https://github.com/SocialGouv/polyfill-service2,False
 https://github.com/SocialGouv/postgrest,True
 https://github.com/SocialGouv/postgrester,True
 https://github.com/SocialGouv/presentation-textstyle,True
@@ -1529,7 +1533,7 @@ https://github.com/StartupsPoleEmploi/qpvzrr,True
 https://github.com/StartupsPoleEmploi/toolkit,True
 https://github.com/StartupsPoleEmploi/trefle,True
 https://github.com/StartupsPoleEmploi/zen,True
-https://github.com/StartupsPoleEmploi/zen-createur,False
+https://github.com/StartupsPoleEmploi/zen-createur,True
 https://github.com/addok/addocker,True
 https://github.com/addok/addok,True
 https://github.com/addok/addok-csv,True
@@ -1902,7 +1906,7 @@ https://github.com/betagouv/signup-oauth,True
 https://github.com/betagouv/signup.api.gouv.fr,True
 https://github.com/betagouv/signup.api.gouv.fr-docker,True
 https://github.com/betagouv/slack-ovh,True
-https://github.com/betagouv/solidarite-numerique,False
+https://github.com/betagouv/solidarite-numerique,True
 https://github.com/betagouv/sqlalchemy-api-handler,True
 https://github.com/betagouv/sqlalchemy-handler,True
 https://github.com/betagouv/standup,True
@@ -3035,6 +3039,7 @@ https://github.com/medialab/trustlab,True
 https://github.com/medialab/txjsonrpc,True
 https://github.com/medialab/unfccc-scrap-snippet,True
 https://github.com/medialab/ural,True
+https://github.com/medialab/webclim_analyses,False
 https://github.com/medialab/website,True
 https://github.com/medialab/well-being-metrics,True
 https://github.com/medialab/zup,True
