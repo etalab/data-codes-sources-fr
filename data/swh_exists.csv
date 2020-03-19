@@ -3627,6 +3627,7 @@ https://gitlab.com/healthdatahub/schema-snds,True
 https://gitlab.com/healthdatahub/synthetic-snds,True
 https://gitlab.com/healthdatahub/tsfaker,True
 https://gitlab.com/musee-saint-raymond/villa-chiragan,True
+https://gitlab.com/pidila/checklist-app,False
 https://gitlab.com/pidila/checklist-pidila,True
 https://gitlab.com/pidila/kit-module-scampi,True
 https://gitlab.com/pidila/kit-sprite-svg,True
@@ -3661,7 +3662,7 @@ https://gitlab.huma-num.fr/eurhisfirm/fibo-data,True
 https://gitlab.huma-num.fr/eurhisfirm/fibo-wikibase,True
 https://gitlab.huma-num.fr/eurhisfirm/gleif-wikibase,True
 https://gitlab.huma-num.fr/eurhisfirm/scob-wikibase,True
-https://gitlab.huma-num.fr/eurhisfirm/test-app-saisie,False
+https://gitlab.huma-num.fr/eurhisfirm/test-app-saisie,True
 https://gitlab.huma-num.fr/irihs/NakalaTools,True
 https://gitlab.huma-num.fr/irihs/flaubertexport,True
 https://gitlab.huma-num.fr/irihs/genetictables,True
