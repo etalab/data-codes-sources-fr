@@ -2439,7 +2439,7 @@ https://github.com/etalab-ia/data_science_template,True
 https://github.com/etalab-ia/demo-piaf,True
 https://github.com/etalab-ia/piaf-code,True
 https://github.com/etalab-ia/pseudo_conseil_etat,True
-https://github.com/etalab-ia/pseudonymisation_decisions_ce,False
+https://github.com/etalab-ia/pseudonymisation_decisions_ce,True
 https://github.com/etalab/Algo_gouv,True
 https://github.com/etalab/Attendize,True
 https://github.com/etalab/DVF-app,True
@@ -3622,6 +3622,7 @@ https://gitlab.com/dreal-datalab/drealdown,True
 https://gitlab.com/dreal-datalab/drealthemes,True
 https://gitlab.com/dreal-datalab/essai,True
 https://gitlab.com/dreal-datalab/nitrates,True
+https://gitlab.com/dreal-datalab/pesticides,False
 https://gitlab.com/dreal-datalab/poc-enr-teo,True
 https://gitlab.com/dreal-datalab/reseauchaleur,True
 https://gitlab.com/dreal-datalab/rrrpls,True
