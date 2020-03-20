@@ -340,7 +340,7 @@ https://github.com/1024pix/scalingo-app-manager,True
 https://github.com/1024pix/scalingo-app-switch,True
 https://github.com/1024pix/scalingo-review-app-manager,True
 https://github.com/1024pix/subdir-buildpack,True
-https://github.com/1024pix/test-deploy-from-slack,False
+https://github.com/1024pix/test-deploy-from-slack,True
 https://github.com/139bercy/cloud-appliance-ci-cd,True
 https://github.com/139bercy/cloud-appliance-composer-repo,True
 https://github.com/139bercy/cloud-appliance-management,True
@@ -1887,6 +1887,7 @@ https://github.com/betagouv/redirections,True
 https://github.com/betagouv/redux-react-modals,True
 https://github.com/betagouv/redux-saga-data,True
 https://github.com/betagouv/redux-thunk-data,True
+https://github.com/betagouv/reserve-civique-redirect,False
 https://github.com/betagouv/retraite,True
 https://github.com/betagouv/role-ansible,True
 https://github.com/betagouv/secretariat,True
