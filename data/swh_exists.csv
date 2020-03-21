@@ -995,7 +995,7 @@ https://github.com/InseeFr/Pogues,True
 https://github.com/InseeFr/Pogues-Back-Office,True
 https://github.com/InseeFr/Pogues-Model,True
 https://github.com/InseeFr/Quatro,True
-https://github.com/InseeFr/Queen,False
+https://github.com/InseeFr/Queen,True
 https://github.com/InseeFr/Queen-Back-Office,True
 https://github.com/InseeFr/VTL-Tools,True
 https://github.com/InseeFr/Wilco,True
@@ -1837,7 +1837,7 @@ https://github.com/betagouv/pass-culture-api,True
 https://github.com/betagouv/pass-culture-app-staging,True
 https://github.com/betagouv/pass-culture-blog,True
 https://github.com/betagouv/pass-culture-browser,True
-https://github.com/betagouv/pass-culture-data-analytics,False
+https://github.com/betagouv/pass-culture-data-analytics,True
 https://github.com/betagouv/pass-culture-datascience,True
 https://github.com/betagouv/pass-culture-doc,True
 https://github.com/betagouv/pass-culture-homepage,True
@@ -1887,7 +1887,7 @@ https://github.com/betagouv/redirections,True
 https://github.com/betagouv/redux-react-modals,True
 https://github.com/betagouv/redux-saga-data,True
 https://github.com/betagouv/redux-thunk-data,True
-https://github.com/betagouv/reserve-civique-redirect,False
+https://github.com/betagouv/reserve-civique-redirect,True
 https://github.com/betagouv/retraite,True
 https://github.com/betagouv/role-ansible,True
 https://github.com/betagouv/secretariat,True
@@ -3040,7 +3040,7 @@ https://github.com/medialab/trustlab,True
 https://github.com/medialab/txjsonrpc,True
 https://github.com/medialab/unfccc-scrap-snippet,True
 https://github.com/medialab/ural,True
-https://github.com/medialab/webclim_analyses,False
+https://github.com/medialab/webclim_analyses,True
 https://github.com/medialab/website,True
 https://github.com/medialab/well-being-metrics,True
 https://github.com/medialab/zup,True
