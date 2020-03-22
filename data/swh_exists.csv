@@ -1098,6 +1098,7 @@ https://github.com/MTES-MCT/cobot-bot,True
 https://github.com/MTES-MCT/data-preparation-plugin,True
 https://github.com/MTES-MCT/dataqual,True
 https://github.com/MTES-MCT/dataroom,True
+https://github.com/MTES-MCT/dtlk-api,False
 https://github.com/MTES-MCT/ecophyto,True
 https://github.com/MTES-MCT/enr,True
 https://github.com/MTES-MCT/enr-and-ground,True
@@ -3622,7 +3623,7 @@ https://gitlab.com/dreal-datalab/drealdown,True
 https://gitlab.com/dreal-datalab/drealthemes,True
 https://gitlab.com/dreal-datalab/essai,True
 https://gitlab.com/dreal-datalab/nitrates,True
-https://gitlab.com/dreal-datalab/pesticides,False
+https://gitlab.com/dreal-datalab/pesticides,True
 https://gitlab.com/dreal-datalab/poc-enr-teo,True
 https://gitlab.com/dreal-datalab/reseauchaleur,True
 https://gitlab.com/dreal-datalab/rrrpls,True
