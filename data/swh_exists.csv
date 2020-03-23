@@ -38,7 +38,7 @@ https://forge.grandlyon.com/laclasse/wordpress-theme-laclasse,True
 https://forge.grandlyon.com/pocs/__trash__introduction-au-langage-python-2,False
 https://forge.grandlyon.com/pocs/elasticsearch-suggester-tester,True
 https://forge.grandlyon.com/pocs/introduction-au-langage-python-1,True
-https://forge.grandlyon.com/pocs/introduction-au-langage-python-2,False
+https://forge.grandlyon.com/pocs/introduction-au-langage-python-2,True
 https://forge.grandlyon.com/systemes-dinformation/gat_gatling,True
 https://forge.grandlyon.com/systemes-dinformation/pasi-portail-d-acces-au-si,True
 https://forgemia.inra.fr/4p/user-guide,True
@@ -1099,6 +1099,7 @@ https://github.com/MTES-MCT/data-preparation-plugin,True
 https://github.com/MTES-MCT/dataqual,True
 https://github.com/MTES-MCT/dataroom,True
 https://github.com/MTES-MCT/dtlk-api,True
+https://github.com/MTES-MCT/dtlk-ihm-alimentation,False
 https://github.com/MTES-MCT/ecophyto,True
 https://github.com/MTES-MCT/enr,True
 https://github.com/MTES-MCT/enr-and-ground,True
@@ -2533,6 +2534,7 @@ https://github.com/etalab/data.gouv.fr,True
 https://github.com/etalab/datagouv-funfacts,True
 https://github.com/etalab/datagouv-search-indicator,True
 https://github.com/etalab/datasets_reco,True
+https://github.com/etalab/de-dpe-processing,False
 https://github.com/etalab/decoupage-administratif,True
 https://github.com/etalab/decp-rama,True
 https://github.com/etalab/deleted-datasets-schema,True
