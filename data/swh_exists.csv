@@ -120,6 +120,7 @@ https://forgemia.inra.fr/umr-gdec/clari-te,True
 https://forgemia.inra.fr/umr-gdec/isbpfinder,True
 https://forgemia.inra.fr/umrf/anomaly,True
 https://forgemia.inra.fr/umrf/dairydb,True
+https://forgemia.inra.fr/umrf/ranomaly,False
 https://forgemia.inra.fr/umrf/utopia,True
 https://forgemia.inra.fr/urgi-is/data-discovery,True
 https://forgemia.inra.fr/urgi-is/docker-rare,True
@@ -3244,6 +3245,7 @@ https://github.com/openfun/edx-platform,True
 https://github.com/openfun/edx-proctoring,True
 https://github.com/openfun/edx-theme,True
 https://github.com/openfun/edx_data_scripts,True
+https://github.com/openfun/etherpad-docker,False
 https://github.com/openfun/flower-docker,True
 https://github.com/openfun/fonzie,True
 https://github.com/openfun/fun-apps,True
