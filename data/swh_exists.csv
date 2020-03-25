@@ -326,6 +326,7 @@ https://github.com/1024pix/nginx-lb,True
 https://github.com/1024pix/nginx-lb-dev,True
 https://github.com/1024pix/open-lab,True
 https://github.com/1024pix/pix,True
+https://github.com/1024pix/pix-bot,False
 https://github.com/1024pix/pix-editor,True
 https://github.com/1024pix/pix-help-center-theme,True
 https://github.com/1024pix/pix-lifestyle,True
@@ -1097,6 +1098,7 @@ https://github.com/MTES-MCT/choisir-une-licence,True
 https://github.com/MTES-MCT/cobot-admin,True
 https://github.com/MTES-MCT/cobot-api,True
 https://github.com/MTES-MCT/cobot-bot,True
+https://github.com/MTES-MCT/cours-java-debutant,False
 https://github.com/MTES-MCT/data-preparation-plugin,True
 https://github.com/MTES-MCT/dataqual,True
 https://github.com/MTES-MCT/dataroom,True
@@ -1149,6 +1151,7 @@ https://github.com/MTES-MCT/secmar-data,True
 https://github.com/MTES-MCT/secmar-documentation,True
 https://github.com/MTES-MCT/toolbox,True
 https://github.com/MTES-MCT/trackdechets,True
+https://github.com/MTES-MCT/trackdechets-bulk-account-creation,False
 https://github.com/MTES-MCT/trackdechets-datascience,True
 https://github.com/MTES-MCT/trackdechets-oauth2-demo-app,True
 https://github.com/MTES-MCT/transport-routier,True
