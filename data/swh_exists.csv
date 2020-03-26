@@ -1098,7 +1098,7 @@ https://github.com/MTES-MCT/choisir-une-licence,True
 https://github.com/MTES-MCT/cobot-admin,True
 https://github.com/MTES-MCT/cobot-api,True
 https://github.com/MTES-MCT/cobot-bot,True
-https://github.com/MTES-MCT/cours-java-debutant,False
+https://github.com/MTES-MCT/cours-java-debutant,True
 https://github.com/MTES-MCT/data-preparation-plugin,True
 https://github.com/MTES-MCT/dataqual,True
 https://github.com/MTES-MCT/dataroom,True
@@ -2525,6 +2525,7 @@ https://github.com/etalab/comptes-collectivites,True
 https://github.com/etalab/contours-administratifs,True
 https://github.com/etalab/contribution-adresse,True
 https://github.com/etalab/couverture-urbanisme,True
+https://github.com/etalab/covid19-dashboard,False
 https://github.com/etalab/cowbots,True
 https://github.com/etalab/croquemort,True
 https://github.com/etalab/csv-gg,True
