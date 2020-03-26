@@ -326,7 +326,7 @@ https://github.com/1024pix/nginx-lb,True
 https://github.com/1024pix/nginx-lb-dev,True
 https://github.com/1024pix/open-lab,True
 https://github.com/1024pix/pix,True
-https://github.com/1024pix/pix-bot,False
+https://github.com/1024pix/pix-bot,True
 https://github.com/1024pix/pix-editor,True
 https://github.com/1024pix/pix-help-center-theme,True
 https://github.com/1024pix/pix-lifestyle,True
@@ -1771,6 +1771,7 @@ https://github.com/betagouv/eva-www,True
 https://github.com/betagouv/fetch-normalize-data,True
 https://github.com/betagouv/fiches-de-banc,True
 https://github.com/betagouv/fin-de-mps,True
+https://github.com/betagouv/francaisaletranger,False
 https://github.com/betagouv/freescout,True
 https://github.com/betagouv/geoplus,True
 https://github.com/betagouv/gps-usagers,True
@@ -3452,6 +3453,7 @@ https://github.com/unistra/ffmpod-installer,True
 https://github.com/unistra/fsp,True
 https://github.com/unistra/gspore,True
 https://github.com/unistra/itop-synchro-dashboard,True
+https://github.com/unistra/jitsi-meet,False
 https://github.com/unistra/jspore,True
 https://github.com/unistra/ls-spore,True
 https://github.com/unistra/ls-spore-ui,True
