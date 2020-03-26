@@ -1725,7 +1725,7 @@ https://github.com/betagouv/blog.beta.gouv.fr,True
 https://github.com/betagouv/blog.dossiersco.fr,True
 https://github.com/betagouv/bourses,True
 https://github.com/betagouv/boussole,True
-https://github.com/betagouv/calcul-co2-inverse,False
+https://github.com/betagouv/calcul-co2-inverse,True
 https://github.com/betagouv/ccas,True
 https://github.com/betagouv/cerfa-form-filler,True
 https://github.com/betagouv/civilsdeladefense,True
@@ -1772,7 +1772,7 @@ https://github.com/betagouv/eva-www,True
 https://github.com/betagouv/fetch-normalize-data,True
 https://github.com/betagouv/fiches-de-banc,True
 https://github.com/betagouv/fin-de-mps,True
-https://github.com/betagouv/francaisaletranger,False
+https://github.com/betagouv/francaisaletranger,True
 https://github.com/betagouv/freescout,True
 https://github.com/betagouv/geoplus,True
 https://github.com/betagouv/gps-usagers,True
@@ -1783,6 +1783,7 @@ https://github.com/betagouv/ilos,True
 https://github.com/betagouv/impact-tests,True
 https://github.com/betagouv/itou,True
 https://github.com/betagouv/itou-discourse,True
+https://github.com/betagouv/kibana-scalingo,False
 https://github.com/betagouv/kong-delegateAuth,True
 https://github.com/betagouv/kong-delegateAuth-deprecated,True
 https://github.com/betagouv/la-sass-vy,True
