@@ -840,7 +840,7 @@ https://github.com/INSIDE-information-systems/CO2emissions_email_plugin,True
 https://github.com/INSIDE-information-systems/EnvironmentalSemanticWeb,True
 https://github.com/INSIDE-information-systems/HydrogeologyWxS,True
 https://github.com/INSIDE-information-systems/RiverNetworkWPS,True
-https://github.com/INSIDE-information-systems/Roadmap,False
+https://github.com/INSIDE-information-systems/Roadmap,True
 https://github.com/INSIDE-information-systems/SensorThingsAPI,True
 https://github.com/INSIDE-information-systems/TheHeart,True
 https://github.com/INSIDE-information-systems/WFS3,True
@@ -1444,6 +1444,7 @@ https://github.com/SocialGouv/socialgouv.github.io,True
 https://github.com/SocialGouv/standup,True
 https://github.com/SocialGouv/standup2,True
 https://github.com/SocialGouv/suggest,True
+https://github.com/SocialGouv/support,False
 https://github.com/SocialGouv/template.data.gouv.fr.react,True
 https://github.com/SocialGouv/tocbot,True
 https://github.com/SocialGouv/tools,True
@@ -3085,7 +3086,7 @@ https://github.com/messagerie-melanie2/Roundcube-Skin-Melanie2-Larry,True
 https://github.com/messagerie-melanie2/Roundcube-Skin-Melanie2-Larry-Mobile,True
 https://github.com/messagerie-melanie2/Roundcube-plugins-Mel,True
 https://github.com/messagerie-melanie2/SabreDAVM2,True
-https://github.com/messagerie-melanie2/mel_archivage,False
+https://github.com/messagerie-melanie2/mel_archivage,True
 https://github.com/meteofrance/formation-deep-learning,True
 https://github.com/meteofrance/meteofrance.github.io,True
 https://github.com/meteofrance/meteonet,True
