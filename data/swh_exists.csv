@@ -2006,6 +2006,7 @@ https://github.com/cget-carto/clsm,True
 https://github.com/cget-carto/cooperations,True
 https://github.com/cget-carto/dataviz,True
 https://github.com/cget-carto/dgf,True
+https://github.com/cget-carto/dgf_2020,False
 https://github.com/cget-carto/dotation_investissement,True
 https://github.com/cget-carto/le-grand-debat-national,True
 https://github.com/cget-carto/metropoles,True
@@ -2552,6 +2553,7 @@ https://github.com/etalab/datagouv-funfacts,True
 https://github.com/etalab/datagouv-search-indicator,True
 https://github.com/etalab/datasets_reco,True
 https://github.com/etalab/de-dpe-processing,True
+https://github.com/etalab/de-quality-processing,False
 https://github.com/etalab/decoupage-administratif,True
 https://github.com/etalab/decp-rama,True
 https://github.com/etalab/deleted-datasets-schema,True
