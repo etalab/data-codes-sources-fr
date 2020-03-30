@@ -682,6 +682,7 @@ https://github.com/DIVERSIFY-project/diversitype,True
 https://github.com/DIVERSIFY-project/dockersmartghundertow,True
 https://github.com/DIVERSIFY-project/dspot-results,True
 https://github.com/DIVERSIFY-project/graphhopper-client,True
+https://github.com/DIVERSIFY-project/journey-extraordinary-test-suite,False
 https://github.com/DIVERSIFY-project/loop-perforation,True
 https://github.com/DIVERSIFY-project/maven-diversifier,True
 https://github.com/DIVERSIFY-project/maven-diversifier-experiments,True
@@ -1240,6 +1241,7 @@ https://github.com/PnEcrins/Flask-leaflet-example,True
 https://github.com/PnEcrins/FollowDem,True
 https://github.com/PnEcrins/FollowDem-admin,True
 https://github.com/PnEcrins/FollowDem-admin-front,True
+https://github.com/PnEcrins/GeoConstats,False
 https://github.com/PnEcrins/GeoNature-migration,False
 https://github.com/PnEcrins/GeoNature-migration-PNE,True
 https://github.com/PnEcrins/GeoNature-mobile,True
