@@ -125,6 +125,7 @@ https://forgemia.inra.fr/umrf/ranomaly,True
 https://forgemia.inra.fr/umrf/utopia,True
 https://forgemia.inra.fr/urgi-is/data-discovery,True
 https://forgemia.inra.fr/urgi-is/docker-rare,True
+https://forgemia.inra.fr/urgi-is/faidare,False
 https://forgemia.inra.fr/urgi-is/ontologies,True
 https://framagit.org/datatourisme/api,True
 https://framagit.org/datatourisme/docker-stack,True
@@ -1028,7 +1029,7 @@ https://github.com/LAB-MI/LAB-MI.github.io,True
 https://github.com/LAB-MI/api.gouv.fr,True
 https://github.com/LAB-MI/candilib,True
 https://github.com/LAB-MI/candilibV2,True
-https://github.com/LAB-MI/covid-19-certificate,False
+https://github.com/LAB-MI/covid-19-certificate,True
 https://github.com/LETG/csw-harvester,True
 https://github.com/LETG/geocms,True
 https://github.com/LETG/letg-spip,True
@@ -1195,6 +1196,7 @@ https://github.com/OpenEdition/bilbo,True
 https://github.com/OpenEdition/checklist,True
 https://github.com/OpenEdition/checklist-lodel,True
 https://github.com/OpenEdition/echo,True
+https://github.com/OpenEdition/kbart-openedition,False
 https://github.com/OpenEdition/lodel,True
 https://github.com/OpenEdition/lodel2,True
 https://github.com/OpenEdition/marc-openedition,True
