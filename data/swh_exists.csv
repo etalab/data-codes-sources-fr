@@ -298,6 +298,7 @@ https://git.unistra.fr/seul/LeMeilleurPresident,True
 https://git.unistra.fr/seul/P4a,True
 https://git.unistra.fr/t4-boost/t4,True
 https://git.unistra.fr/t4-the-origin/arti4,True
+https://git.unistra.fr/t4_workisusels/projet_t4_workisuseless,False
 https://git.unistra.fr/uhuit/pgmaggpl,True
 https://git.unistra.fr/uquatre/mips-invader,True
 https://git.unistra.fr/usept/sexy-polyedra-baby,True
@@ -1685,6 +1686,7 @@ https://github.com/atlanmod/zoo,True
 https://github.com/banquedefrance/go-ethereum,True
 https://github.com/banquedefrance/madre_bat,True
 https://github.com/betagouv/Aidants_Connect,True
+https://github.com/betagouv/Aidants_Connect_Carto,False
 https://github.com/betagouv/ClasseA12,True
 https://github.com/betagouv/DNC,True
 https://github.com/betagouv/Ecolab,True
@@ -1717,6 +1719,7 @@ https://github.com/betagouv/api-particulier-demo,True
 https://github.com/betagouv/api-particulier-demo-traces,True
 https://github.com/betagouv/api-particulier-deprecated,True
 https://github.com/betagouv/api-particulier-lib,True
+https://github.com/betagouv/api-particulier-portail,False
 https://github.com/betagouv/api-particulier-web,True
 https://github.com/betagouv/api-scopes,True
 https://github.com/betagouv/api-stats-elk,True
@@ -1782,6 +1785,7 @@ https://github.com/betagouv/fetch-normalize-data,True
 https://github.com/betagouv/fiches-de-banc,True
 https://github.com/betagouv/fin-de-mps,True
 https://github.com/betagouv/francaisaletranger,True
+https://github.com/betagouv/francaisaletranger-api,False
 https://github.com/betagouv/freescout,True
 https://github.com/betagouv/geoplus,True
 https://github.com/betagouv/gps-usagers,True
