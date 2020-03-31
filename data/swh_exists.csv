@@ -1051,6 +1051,7 @@ https://github.com/LINCnil/Guide-RGPD-du-developpeur,True
 https://github.com/LINCnil/Hally-L-oracle-du-net,True
 https://github.com/LINCnil/Phrase2passe,True
 https://github.com/LINCnil/RGPD,True
+https://github.com/LINCnil/Recommandations-pour-le-teletravail,False
 https://github.com/LINCnil/cookieCuttr,True
 https://github.com/LINCnil/dereferencement,True
 https://github.com/LINCnil/encryption_infographics,True
@@ -1385,7 +1386,7 @@ https://github.com/SocialGouv/code-du-travail-ui,True
 https://github.com/SocialGouv/conventions-collectives,True
 https://github.com/SocialGouv/cors-anywhere,True
 https://github.com/SocialGouv/datafiller,True
-https://github.com/SocialGouv/datafiller-data,False
+https://github.com/SocialGouv/datafiller-data,True
 https://github.com/SocialGouv/dila-api-client,True
 https://github.com/SocialGouv/dila-tests-api,True
 https://github.com/SocialGouv/dila2sql,True
