@@ -502,6 +502,7 @@ https://github.com/CEA-LIST/N2D2,True
 https://github.com/CEA-LIST/sgntx,True
 https://github.com/CEA-Leti/wsnet,True
 https://github.com/CEREMA/com.cerema.infocentre_old,True
+https://github.com/CEREMA/dataroom,False
 https://github.com/CEREMA/dsi.adutils,True
 https://github.com/CEREMA/dterce.ressource_covadis,True
 https://github.com/CEREMA/dtermed-ceremao,True
@@ -1198,7 +1199,7 @@ https://github.com/OpenEdition/bilbo,True
 https://github.com/OpenEdition/checklist,True
 https://github.com/OpenEdition/checklist-lodel,True
 https://github.com/OpenEdition/echo,True
-https://github.com/OpenEdition/kbart-openedition,False
+https://github.com/OpenEdition/kbart-openedition,True
 https://github.com/OpenEdition/lodel,True
 https://github.com/OpenEdition/lodel2,True
 https://github.com/OpenEdition/marc-openedition,True
@@ -1452,7 +1453,7 @@ https://github.com/SocialGouv/socialgouv.github.io,True
 https://github.com/SocialGouv/standup,True
 https://github.com/SocialGouv/standup2,True
 https://github.com/SocialGouv/suggest,True
-https://github.com/SocialGouv/support,False
+https://github.com/SocialGouv/support,True
 https://github.com/SocialGouv/template.data.gouv.fr.react,True
 https://github.com/SocialGouv/tocbot,True
 https://github.com/SocialGouv/tools,True
@@ -2561,7 +2562,7 @@ https://github.com/etalab/datagouv-funfacts,True
 https://github.com/etalab/datagouv-search-indicator,True
 https://github.com/etalab/datasets_reco,True
 https://github.com/etalab/de-dpe-processing,True
-https://github.com/etalab/de-quality-processing,False
+https://github.com/etalab/de-quality-processing,True
 https://github.com/etalab/decoupage-administratif,True
 https://github.com/etalab/decp-rama,True
 https://github.com/etalab/deleted-datasets-schema,True
