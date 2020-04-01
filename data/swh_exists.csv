@@ -1721,7 +1721,7 @@ https://github.com/betagouv/api-particulier-demo,True
 https://github.com/betagouv/api-particulier-demo-traces,True
 https://github.com/betagouv/api-particulier-deprecated,True
 https://github.com/betagouv/api-particulier-lib,True
-https://github.com/betagouv/api-particulier-portail,False
+https://github.com/betagouv/api-particulier-portail,True
 https://github.com/betagouv/api-particulier-web,True
 https://github.com/betagouv/api-scopes,True
 https://github.com/betagouv/api-stats-elk,True
@@ -2545,6 +2545,7 @@ https://github.com/etalab/contours-administratifs,True
 https://github.com/etalab/contribution-adresse,True
 https://github.com/etalab/couverture-urbanisme,True
 https://github.com/etalab/covid19-dashboard,True
+https://github.com/etalab/covid19-orientation,False
 https://github.com/etalab/cowbots,True
 https://github.com/etalab/croquemort,True
 https://github.com/etalab/csv-gg,True
