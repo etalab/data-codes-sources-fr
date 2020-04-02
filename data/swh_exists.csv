@@ -1384,6 +1384,7 @@ https://github.com/SocialGouv/code-du-travail-numerique2,True
 https://github.com/SocialGouv/code-du-travail-scenarios,True
 https://github.com/SocialGouv/code-du-travail-slides,True
 https://github.com/SocialGouv/code-du-travail-ui,True
+https://github.com/SocialGouv/contributions-data,False
 https://github.com/SocialGouv/conventions-collectives,True
 https://github.com/SocialGouv/cors-anywhere,True
 https://github.com/SocialGouv/datafiller,True
@@ -2015,7 +2016,7 @@ https://github.com/cget-carto/clsm,True
 https://github.com/cget-carto/cooperations,True
 https://github.com/cget-carto/dataviz,True
 https://github.com/cget-carto/dgf,True
-https://github.com/cget-carto/dgf_2020,False
+https://github.com/cget-carto/dgf_2020,True
 https://github.com/cget-carto/dotation_investissement,True
 https://github.com/cget-carto/le-grand-debat-national,True
 https://github.com/cget-carto/metropoles,True
