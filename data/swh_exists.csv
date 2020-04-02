@@ -44,6 +44,7 @@ https://forge.grandlyon.com/systemes-dinformation/pasi-portail-d-acces-au-si,Tru
 https://forgemia.inra.fr/4p/user-guide,True
 https://forgemia.inra.fr/DecisionBleDur/DecisionBleDur,True
 https://forgemia.inra.fr/GET_TRiX/matrix,True
+https://forgemia.inra.fr/GNet/appinetwork,False
 https://forgemia.inra.fr/GNet/cytopheno_omics,True
 https://forgemia.inra.fr/GNet/einkorn_grain_transcriptome,True
 https://forgemia.inra.fr/QTL/spell-qtl,True
@@ -1095,6 +1096,7 @@ https://github.com/MTES-MCT/camino-imports-postgres,True
 https://github.com/MTES-MCT/camino-imports-spreadsheet-jorf,True
 https://github.com/MTES-MCT/camino-imports-spreadsheets,True
 https://github.com/MTES-MCT/camino-landingpage,True
+https://github.com/MTES-MCT/camino-matomo,False
 https://github.com/MTES-MCT/camino-portainer,True
 https://github.com/MTES-MCT/camino-scripting,True
 https://github.com/MTES-MCT/camino-ui,True
@@ -1704,6 +1706,7 @@ https://github.com/betagouv/andi-data,True
 https://github.com/betagouv/andi-docker,True
 https://github.com/betagouv/andi-matching,True
 https://github.com/betagouv/andi-matching-ui,True
+https://github.com/betagouv/andi-python,False
 https://github.com/betagouv/andi-service,True
 https://github.com/betagouv/annuaire,True
 https://github.com/betagouv/annuaire-api,True
@@ -1788,7 +1791,7 @@ https://github.com/betagouv/fetch-normalize-data,True
 https://github.com/betagouv/fiches-de-banc,True
 https://github.com/betagouv/fin-de-mps,True
 https://github.com/betagouv/francaisaletranger,True
-https://github.com/betagouv/francaisaletranger-api,False
+https://github.com/betagouv/francaisaletranger-api,True
 https://github.com/betagouv/freescout,True
 https://github.com/betagouv/geoplus,True
 https://github.com/betagouv/gps-usagers,True
