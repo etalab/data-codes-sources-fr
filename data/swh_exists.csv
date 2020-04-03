@@ -301,7 +301,7 @@ https://git.unistra.fr/seul/LeMeilleurPresident,True
 https://git.unistra.fr/seul/P4a,True
 https://git.unistra.fr/t4-boost/t4,True
 https://git.unistra.fr/t4-the-origin/arti4,True
-https://git.unistra.fr/t4_workisusels/projet_t4_workisuseless,False
+https://git.unistra.fr/t4_workisusels/projet_t4_workisuseless,True
 https://git.unistra.fr/uhuit/pgmaggpl,True
 https://git.unistra.fr/uquatre/mips-invader,True
 https://git.unistra.fr/usept/sexy-polyedra-baby,True
@@ -1002,6 +1002,8 @@ https://github.com/InseeFr/Mesange,True
 https://github.com/InseeFr/Metadata-API,True
 https://github.com/InseeFr/Omphale,True
 https://github.com/InseeFr/Ontologies,True
+https://github.com/InseeFr/Pearl-Jam,False
+https://github.com/InseeFr/Pearl-Jam-Back-Office,False
 https://github.com/InseeFr/Pogues,True
 https://github.com/InseeFr/Pogues-Back-Office,True
 https://github.com/InseeFr/Pogues-Model,True
@@ -2563,6 +2565,7 @@ https://github.com/etalab/csv_detective_api,True
 https://github.com/etalab/csvapi,True
 https://github.com/etalab/csvapi-front,True
 https://github.com/etalab/dactylo,True
+https://github.com/etalab/dashboard-aides-entreprises,False
 https://github.com/etalab/dashboard_api_entreprise,True
 https://github.com/etalab/data-codes-sources-fr,True
 https://github.com/etalab/data.etalab.studio,True
@@ -3076,6 +3079,7 @@ https://github.com/medialab/testing_otree,True
 https://github.com/medialab/toflit18,True
 https://github.com/medialab/toflit18_data,True
 https://github.com/medialab/tools,True
+https://github.com/medialab/tools-old,False
 https://github.com/medialab/trustlab,True
 https://github.com/medialab/txjsonrpc,True
 https://github.com/medialab/unfccc-scrap-snippet,True
@@ -4389,6 +4393,7 @@ https://gitlab.irstea.fr/reversaal/wetlands_xray_tomopgraphy,True
 https://gitlab.irstea.fr/support/wiki,True
 https://gitlab.irstea.fr/vino/Vino,True
 https://gitlab.ow2.org/lemonldap-ng/lemonldap-ng,True
+https://gitlab.ow2.org/lemonldap-ng/vue-manager-for-llng,False
 https://gitlab.ow2.org/lemonldap-ng/website-landing-page,True
 https://gitlabjf.ccomptes.fr/CommunautesJF/beta,True
 https://gitlabjf.ccomptes.fr/altair/master-jf,True
