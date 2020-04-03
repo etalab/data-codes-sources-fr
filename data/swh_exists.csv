@@ -44,7 +44,7 @@ https://forge.grandlyon.com/systemes-dinformation/pasi-portail-d-acces-au-si,Tru
 https://forgemia.inra.fr/4p/user-guide,True
 https://forgemia.inra.fr/DecisionBleDur/DecisionBleDur,True
 https://forgemia.inra.fr/GET_TRiX/matrix,True
-https://forgemia.inra.fr/GNet/appinetwork,False
+https://forgemia.inra.fr/GNet/appinetwork,True
 https://forgemia.inra.fr/GNet/cytopheno_omics,True
 https://forgemia.inra.fr/GNet/einkorn_grain_transcriptome,True
 https://forgemia.inra.fr/QTL/spell-qtl,True
@@ -3007,6 +3007,7 @@ https://github.com/medialab/hyphe-showcase,True
 https://github.com/medialab/hyphe-topic-datascape,True
 https://github.com/medialab/hyphe-traph,True
 https://github.com/medialab/hyphe2solr,True
+https://github.com/medialab/hyphe_openstack_client,False
 https://github.com/medialab/iat-data-exporter,True
 https://github.com/medialab/iat-exporter,True
 https://github.com/medialab/iat.js,True
