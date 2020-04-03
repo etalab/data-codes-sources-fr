@@ -247,6 +247,7 @@ https://git.unistra.fr/conseils/enquete-unistra-2019,True
 https://git.unistra.fr/csrd/white_paper_form,True
 https://git.unistra.fr/datachallenge/openaccessweek2019,True
 https://git.unistra.fr/deepen/corpus-reference,False
+https://git.unistra.fr/dring/dring,False
 https://git.unistra.fr/ecr19-t4-e/hache-tag-greigns,True
 https://git.unistra.fr/enj/corpus-reference,True
 https://git.unistra.fr/filiere-d-excellence/ghc,True
@@ -1097,7 +1098,7 @@ https://github.com/MTES-MCT/camino-imports-postgres,True
 https://github.com/MTES-MCT/camino-imports-spreadsheet-jorf,True
 https://github.com/MTES-MCT/camino-imports-spreadsheets,True
 https://github.com/MTES-MCT/camino-landingpage,True
-https://github.com/MTES-MCT/camino-matomo,False
+https://github.com/MTES-MCT/camino-matomo,True
 https://github.com/MTES-MCT/camino-portainer,True
 https://github.com/MTES-MCT/camino-scripting,True
 https://github.com/MTES-MCT/camino-ui,True
@@ -1387,9 +1388,10 @@ https://github.com/SocialGouv/code-du-travail-numerique2,True
 https://github.com/SocialGouv/code-du-travail-scenarios,True
 https://github.com/SocialGouv/code-du-travail-slides,True
 https://github.com/SocialGouv/code-du-travail-ui,True
-https://github.com/SocialGouv/contributions-data,False
+https://github.com/SocialGouv/contributions-data,True
 https://github.com/SocialGouv/conventions-collectives,True
 https://github.com/SocialGouv/cors-anywhere,True
+https://github.com/SocialGouv/covid,False
 https://github.com/SocialGouv/datafiller,True
 https://github.com/SocialGouv/datafiller-data,True
 https://github.com/SocialGouv/dila-api-client,True
@@ -1987,6 +1989,7 @@ https://github.com/cea-hpc/milkcheck,True
 https://github.com/cea-hpc/modules,True
 https://github.com/cea-hpc/mooshika,True
 https://github.com/cea-hpc/nfs-ganesha,True
+https://github.com/cea-hpc/octocatalog-diff,False
 https://github.com/cea-hpc/parablox,True
 https://github.com/cea-hpc/pcocc,True
 https://github.com/cea-hpc/pdwfs,True
