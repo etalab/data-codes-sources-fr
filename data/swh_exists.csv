@@ -1394,6 +1394,7 @@ https://github.com/SocialGouv/contributions-data,True
 https://github.com/SocialGouv/conventions-collectives,True
 https://github.com/SocialGouv/cors-anywhere,True
 https://github.com/SocialGouv/covid,False
+https://github.com/SocialGouv/covid19-orientation,False
 https://github.com/SocialGouv/datafiller,True
 https://github.com/SocialGouv/datafiller-data,True
 https://github.com/SocialGouv/dila-api-client,True
@@ -1991,7 +1992,7 @@ https://github.com/cea-hpc/milkcheck,True
 https://github.com/cea-hpc/modules,True
 https://github.com/cea-hpc/mooshika,True
 https://github.com/cea-hpc/nfs-ganesha,True
-https://github.com/cea-hpc/octocatalog-diff,False
+https://github.com/cea-hpc/octocatalog-diff,True
 https://github.com/cea-hpc/parablox,True
 https://github.com/cea-hpc/pcocc,True
 https://github.com/cea-hpc/pdwfs,True
