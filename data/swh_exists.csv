@@ -1004,7 +1004,7 @@ https://github.com/InseeFr/Mesange,True
 https://github.com/InseeFr/Metadata-API,True
 https://github.com/InseeFr/Omphale,True
 https://github.com/InseeFr/Ontologies,True
-https://github.com/InseeFr/Pearl-Jam,False
+https://github.com/InseeFr/Pearl-Jam,True
 https://github.com/InseeFr/Pearl-Jam-Back-Office,False
 https://github.com/InseeFr/Pogues,True
 https://github.com/InseeFr/Pogues-Back-Office,True
@@ -1397,6 +1397,7 @@ https://github.com/SocialGouv/conventions-collectives,True
 https://github.com/SocialGouv/cors-anywhere,True
 https://github.com/SocialGouv/covid,False
 https://github.com/SocialGouv/covid19-orientation,False
+https://github.com/SocialGouv/covid19-tests-schemas,False
 https://github.com/SocialGouv/datafiller,True
 https://github.com/SocialGouv/datafiller-data,True
 https://github.com/SocialGouv/dila-api-client,True
@@ -1714,7 +1715,7 @@ https://github.com/betagouv/andi-data,True
 https://github.com/betagouv/andi-docker,True
 https://github.com/betagouv/andi-matching,True
 https://github.com/betagouv/andi-matching-ui,True
-https://github.com/betagouv/andi-python,False
+https://github.com/betagouv/andi-python,True
 https://github.com/betagouv/andi-service,True
 https://github.com/betagouv/annuaire,True
 https://github.com/betagouv/annuaire-api,True
