@@ -1379,6 +1379,7 @@ https://github.com/SocialGouv/carnets,True
 https://github.com/SocialGouv/cdtn-elk,True
 https://github.com/SocialGouv/cdtn-monolog,True
 https://github.com/SocialGouv/cdtn-run,True
+https://github.com/SocialGouv/cdtn-veille-git,False
 https://github.com/SocialGouv/checkup,True
 https://github.com/SocialGouv/clone-moi-sur-github,True
 https://github.com/SocialGouv/code-du-travail-api,True
@@ -3011,7 +3012,7 @@ https://github.com/medialab/hyphe-showcase,True
 https://github.com/medialab/hyphe-topic-datascape,True
 https://github.com/medialab/hyphe-traph,True
 https://github.com/medialab/hyphe2solr,True
-https://github.com/medialab/hyphe_openstack_client,False
+https://github.com/medialab/hyphe_openstack_client,True
 https://github.com/medialab/iat-data-exporter,True
 https://github.com/medialab/iat-exporter,True
 https://github.com/medialab/iat.js,True
@@ -3084,7 +3085,7 @@ https://github.com/medialab/testing_otree,True
 https://github.com/medialab/toflit18,True
 https://github.com/medialab/toflit18_data,True
 https://github.com/medialab/tools,True
-https://github.com/medialab/tools-old,False
+https://github.com/medialab/tools-old,True
 https://github.com/medialab/trustlab,True
 https://github.com/medialab/txjsonrpc,True
 https://github.com/medialab/unfccc-scrap-snippet,True
