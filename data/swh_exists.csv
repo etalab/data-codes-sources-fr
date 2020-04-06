@@ -1397,7 +1397,7 @@ https://github.com/SocialGouv/contributions-data,True
 https://github.com/SocialGouv/conventions-collectives,True
 https://github.com/SocialGouv/cors-anywhere,True
 https://github.com/SocialGouv/covid,False
-https://github.com/SocialGouv/covid19-orientation,False
+https://github.com/SocialGouv/covid19-orientation,True
 https://github.com/SocialGouv/covid19-tests-schemas,False
 https://github.com/SocialGouv/datafiller,True
 https://github.com/SocialGouv/datafiller-data,True
@@ -3350,6 +3350,7 @@ https://github.com/powerapi-ng/pyJoules,True
 https://github.com/powerapi-ng/pyRAPL,True
 https://github.com/powerapi-ng/rapl-formula,True
 https://github.com/powerapi-ng/smartwatts-formula,True
+https://github.com/region-bretagne/cit,False
 https://github.com/region-bretagne/dd-portal,True
 https://github.com/region-bretagne/inventaire,True
 https://github.com/region-bretagne/mviewer-apps,True
