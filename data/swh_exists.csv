@@ -46,6 +46,7 @@ https://forgemia.inra.fr/DecisionBleDur/DecisionBleDur,True
 https://forgemia.inra.fr/GET_TRiX/matrix,True
 https://forgemia.inra.fr/GNet/appinetwork,True
 https://forgemia.inra.fr/GNet/cytopheno_omics,True
+https://forgemia.inra.fr/GNet/dicoexpress,False
 https://forgemia.inra.fr/GNet/einkorn_grain_transcriptome,True
 https://forgemia.inra.fr/QTL/spell-qtl,True
 https://forgemia.inra.fr/adminforgemia/doc-public,True
@@ -866,7 +867,7 @@ https://github.com/Ifsttar/YATS,True
 https://github.com/Ifsttar/bil,True
 https://github.com/Ifsttar/openwarble,True
 https://github.com/Ifsttar/qrtone,False
-https://github.com/Ifsttar/qrtone-android,False
+https://github.com/Ifsttar/qrtone-android,True
 https://github.com/Inist-CNRS/KitGPEC,True
 https://github.com/Inist-CNRS/MetHAL,True
 https://github.com/Inist-CNRS/RefGPEC,True
@@ -1997,7 +1998,7 @@ https://github.com/cea-hpc/modules,True
 https://github.com/cea-hpc/mooshika,True
 https://github.com/cea-hpc/nfs-ganesha,True
 https://github.com/cea-hpc/octocatalog-diff,True
-https://github.com/cea-hpc/openssh-portable,False
+https://github.com/cea-hpc/openssh-portable,True
 https://github.com/cea-hpc/parablox,True
 https://github.com/cea-hpc/pcocc,True
 https://github.com/cea-hpc/pdwfs,True
@@ -3351,7 +3352,7 @@ https://github.com/powerapi-ng/pyJoules,True
 https://github.com/powerapi-ng/pyRAPL,True
 https://github.com/powerapi-ng/rapl-formula,True
 https://github.com/powerapi-ng/smartwatts-formula,True
-https://github.com/region-bretagne/cit,False
+https://github.com/region-bretagne/cit,True
 https://github.com/region-bretagne/dd-portal,True
 https://github.com/region-bretagne/inventaire,True
 https://github.com/region-bretagne/mviewer-apps,True
