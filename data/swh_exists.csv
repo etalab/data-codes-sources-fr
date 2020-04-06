@@ -266,6 +266,7 @@ https://git.unistra.fr/konflict/central-server,False
 https://git.unistra.fr/konflict/central-server-api,True
 https://git.unistra.fr/konflict/central-server-client,True
 https://git.unistra.fr/konflict/game-server,True
+https://git.unistra.fr/konflict/game-websocket,False
 https://git.unistra.fr/konflict/mobile-app,True
 https://git.unistra.fr/la-table-ronde/ecr19-t4-b,True
 https://git.unistra.fr/les-quatres-cavaliers-de-l-apocalypse-et-les-deux-stagiaires/ihm-projet,False
@@ -866,7 +867,7 @@ https://github.com/Ifsttar/Tempus,True
 https://github.com/Ifsttar/YATS,True
 https://github.com/Ifsttar/bil,True
 https://github.com/Ifsttar/openwarble,True
-https://github.com/Ifsttar/qrtone,False
+https://github.com/Ifsttar/qrtone,True
 https://github.com/Ifsttar/qrtone-android,True
 https://github.com/Inist-CNRS/KitGPEC,True
 https://github.com/Inist-CNRS/MetHAL,True
@@ -1040,6 +1041,7 @@ https://github.com/LAB-MI/api.gouv.fr,True
 https://github.com/LAB-MI/candilib,True
 https://github.com/LAB-MI/candilibV2,True
 https://github.com/LAB-MI/covid-19-certificate,True
+https://github.com/LAB-MI/deplacement-codiv-19,False
 https://github.com/LETG/csw-harvester,True
 https://github.com/LETG/geocms,True
 https://github.com/LETG/letg-spip,True
@@ -1255,7 +1257,7 @@ https://github.com/PnEcrins/Flask-leaflet-example,True
 https://github.com/PnEcrins/FollowDem,True
 https://github.com/PnEcrins/FollowDem-admin,True
 https://github.com/PnEcrins/FollowDem-admin-front,True
-https://github.com/PnEcrins/GeoConstats,False
+https://github.com/PnEcrins/GeoConstats,True
 https://github.com/PnEcrins/GeoNature-migration,False
 https://github.com/PnEcrins/GeoNature-migration-PNE,True
 https://github.com/PnEcrins/GeoNature-mobile,True
@@ -1399,7 +1401,7 @@ https://github.com/SocialGouv/conventions-collectives,True
 https://github.com/SocialGouv/cors-anywhere,True
 https://github.com/SocialGouv/covid,False
 https://github.com/SocialGouv/covid19-orientation,True
-https://github.com/SocialGouv/covid19-tests-schemas,False
+https://github.com/SocialGouv/covid19-tests-schemas,True
 https://github.com/SocialGouv/datafiller,True
 https://github.com/SocialGouv/datafiller-data,True
 https://github.com/SocialGouv/dila-api-client,True
@@ -2572,7 +2574,7 @@ https://github.com/etalab/csv_detective_api,True
 https://github.com/etalab/csvapi,True
 https://github.com/etalab/csvapi-front,True
 https://github.com/etalab/dactylo,True
-https://github.com/etalab/dashboard-aides-entreprises,False
+https://github.com/etalab/dashboard-aides-entreprises,True
 https://github.com/etalab/dashboard_api_entreprise,True
 https://github.com/etalab/data-codes-sources-fr,True
 https://github.com/etalab/data.etalab.studio,True
