@@ -1701,7 +1701,7 @@ https://github.com/atlanmod/zoo,True
 https://github.com/banquedefrance/go-ethereum,True
 https://github.com/banquedefrance/madre_bat,True
 https://github.com/betagouv/Aidants_Connect,True
-https://github.com/betagouv/Aidants_Connect_Carto,False
+https://github.com/betagouv/Aidants_Connect_Carto,True
 https://github.com/betagouv/ClasseA12,True
 https://github.com/betagouv/DNC,True
 https://github.com/betagouv/Ecolab,True
@@ -1997,6 +1997,7 @@ https://github.com/cea-hpc/modules,True
 https://github.com/cea-hpc/mooshika,True
 https://github.com/cea-hpc/nfs-ganesha,True
 https://github.com/cea-hpc/octocatalog-diff,True
+https://github.com/cea-hpc/openssh-portable,False
 https://github.com/cea-hpc/parablox,True
 https://github.com/cea-hpc/pcocc,True
 https://github.com/cea-hpc/pdwfs,True
