@@ -46,7 +46,7 @@ https://forgemia.inra.fr/DecisionBleDur/DecisionBleDur,True
 https://forgemia.inra.fr/GET_TRiX/matrix,True
 https://forgemia.inra.fr/GNet/appinetwork,True
 https://forgemia.inra.fr/GNet/cytopheno_omics,True
-https://forgemia.inra.fr/GNet/dicoexpress,False
+https://forgemia.inra.fr/GNet/dicoexpress,True
 https://forgemia.inra.fr/GNet/einkorn_grain_transcriptome,True
 https://forgemia.inra.fr/QTL/spell-qtl,True
 https://forgemia.inra.fr/adminforgemia/doc-public,True
@@ -1922,6 +1922,7 @@ https://github.com/betagouv/publicodes,True
 https://github.com/betagouv/qrcode-svg,True
 https://github.com/betagouv/quotient-familial,True
 https://github.com/betagouv/rdv-solidarites.fr,True
+https://github.com/betagouv/rdv-solidarites.fr-webhook-exemples,False
 https://github.com/betagouv/react-elasticsearch,True
 https://github.com/betagouv/react-final-form-utils,True
 https://github.com/betagouv/react-hook-data,True
