@@ -357,6 +357,7 @@ https://github.com/139bercy/cloud-appliance-composer-repo,True
 https://github.com/139bercy/cloud-appliance-management,True
 https://github.com/139bercy/cloud-appliance-nexus-repo,True
 https://github.com/139bercy/cloud-appliance-observability,True
+https://github.com/139bercy/decp-rama,False
 https://github.com/139bercy/docker-ci-tool-stack,True
 https://github.com/139bercy/first-ghpages-by-travis,True
 https://github.com/139bercy/graylog-recovery,True
@@ -411,6 +412,7 @@ https://github.com/ANSSI-FR/tabi,True
 https://github.com/ANSSI-FR/transdep,True
 https://github.com/ANSSI-FR/x509-parser,True
 https://github.com/ANSSI-FR/xsvgen,True
+https://github.com/ARCEP-dev/BLOM,False
 https://github.com/ARCEP-dev/adresse,True
 https://github.com/ARCEP-dev/basePopDom,True
 https://github.com/ARCEP-dev/dataTools,True
