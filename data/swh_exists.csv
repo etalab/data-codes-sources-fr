@@ -266,7 +266,7 @@ https://git.unistra.fr/konflict/central-server,False
 https://git.unistra.fr/konflict/central-server-api,True
 https://git.unistra.fr/konflict/central-server-client,True
 https://git.unistra.fr/konflict/game-server,True
-https://git.unistra.fr/konflict/game-websocket,False
+https://git.unistra.fr/konflict/game-websocket,True
 https://git.unistra.fr/konflict/mobile-app,True
 https://git.unistra.fr/la-table-ronde/ecr19-t4-b,True
 https://git.unistra.fr/les-quatres-cavaliers-de-l-apocalypse-et-les-deux-stagiaires/ihm-projet,False
@@ -1042,6 +1042,7 @@ https://github.com/LAB-MI/candilib,True
 https://github.com/LAB-MI/candilibV2,True
 https://github.com/LAB-MI/covid-19-certificate,True
 https://github.com/LAB-MI/deplacement-codiv-19,False
+https://github.com/LAB-MI/deplacement-covid-19,False
 https://github.com/LETG/csw-harvester,True
 https://github.com/LETG/geocms,True
 https://github.com/LETG/letg-spip,True
@@ -2564,6 +2565,7 @@ https://github.com/etalab/contours-administratifs,True
 https://github.com/etalab/contribution-adresse,True
 https://github.com/etalab/couverture-urbanisme,True
 https://github.com/etalab/covid19-dashboard,True
+https://github.com/etalab/covid19-data,False
 https://github.com/etalab/covid19-orientation,True
 https://github.com/etalab/cowbots,True
 https://github.com/etalab/croquemort,True
@@ -2737,6 +2739,7 @@ https://github.com/etalab/zammad-contact-form,True
 https://github.com/fabnumdef/GeoGate,True
 https://github.com/fabnumdef/chatbot-back,True
 https://github.com/fabnumdef/chatbot-front,True
+https://github.com/fabnumdef/chatbot-template,False
 https://github.com/fabnumdef/design-system,True
 https://github.com/fabnumdef/e-chauffeur,True
 https://github.com/fabnumdef/e-chauffeur_api,True
