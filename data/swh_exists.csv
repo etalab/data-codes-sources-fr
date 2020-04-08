@@ -1387,7 +1387,7 @@ https://github.com/SocialGouv/carnets,True
 https://github.com/SocialGouv/cdtn-elk,True
 https://github.com/SocialGouv/cdtn-monolog,True
 https://github.com/SocialGouv/cdtn-run,True
-https://github.com/SocialGouv/cdtn-veille-git,False
+https://github.com/SocialGouv/cdtn-veille-git,True
 https://github.com/SocialGouv/checkup,True
 https://github.com/SocialGouv/clone-moi-sur-github,True
 https://github.com/SocialGouv/code-du-travail-api,True
@@ -3103,6 +3103,7 @@ https://github.com/medialab/txjsonrpc,True
 https://github.com/medialab/unfccc-scrap-snippet,True
 https://github.com/medialab/ural,True
 https://github.com/medialab/webclim_analyses,True
+https://github.com/medialab/webclim_analyses_covid19,False
 https://github.com/medialab/website,True
 https://github.com/medialab/well-being-metrics,True
 https://github.com/medialab/zup,True
