@@ -554,6 +554,7 @@ https://github.com/CEREMA/dtermed.virtualdesktop,True
 https://github.com/CEREMA/dtermed.webapp.bpclight,True
 https://github.com/CEREMA/dtermed.webapp.ecureuil,True
 https://github.com/CEREMA/dtermed.webapp.rivages,True
+https://github.com/CEREMA/dterso.chaineTraitement.traitementImageSatelitteEtIndicateursDerives,False
 https://github.com/CEREMA/dterso.pluginQgis.CeremaCartEau,True
 https://github.com/CEREMA/dterso.pluginQgis3.CeremaCartEau3,True
 https://github.com/CEREMA/rivages-android,True
@@ -1403,7 +1404,7 @@ https://github.com/SocialGouv/code-du-travail-ui,True
 https://github.com/SocialGouv/contributions-data,True
 https://github.com/SocialGouv/conventions-collectives,True
 https://github.com/SocialGouv/cors-anywhere,True
-https://github.com/SocialGouv/covid,False
+https://github.com/SocialGouv/covid,True
 https://github.com/SocialGouv/covid19-orientation,True
 https://github.com/SocialGouv/covid19-tests-schemas,True
 https://github.com/SocialGouv/datafiller,True
