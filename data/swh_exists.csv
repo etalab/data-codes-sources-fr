@@ -357,7 +357,7 @@ https://github.com/139bercy/cloud-appliance-composer-repo,True
 https://github.com/139bercy/cloud-appliance-management,True
 https://github.com/139bercy/cloud-appliance-nexus-repo,True
 https://github.com/139bercy/cloud-appliance-observability,True
-https://github.com/139bercy/decp-rama,False
+https://github.com/139bercy/decp-rama,True
 https://github.com/139bercy/docker-ci-tool-stack,True
 https://github.com/139bercy/first-ghpages-by-travis,True
 https://github.com/139bercy/graylog-recovery,True
@@ -2744,7 +2744,7 @@ https://github.com/etalab/zammad-contact-form,True
 https://github.com/fabnumdef/GeoGate,True
 https://github.com/fabnumdef/chatbot-back,True
 https://github.com/fabnumdef/chatbot-front,True
-https://github.com/fabnumdef/chatbot-template,False
+https://github.com/fabnumdef/chatbot-template,True
 https://github.com/fabnumdef/design-system,True
 https://github.com/fabnumdef/e-chauffeur,True
 https://github.com/fabnumdef/e-chauffeur_api,True
