@@ -2793,6 +2793,7 @@ https://github.com/ina-foss/amalia.js,True
 https://github.com/ina-foss/inaFaceGender,True
 https://github.com/ina-foss/inaSpeechSegmenter,True
 https://github.com/ina-foss/nginx-video-thumbextractor-module,True
+https://github.com/ina-foss/stream-index-massive-tweets,False
 https://github.com/ina-foss/tweet-stance-annotation,True
 https://github.com/ina-foss/twembeddings,True
 https://github.com/ina-foss/voxo-daemon,True
@@ -3103,7 +3104,7 @@ https://github.com/medialab/txjsonrpc,True
 https://github.com/medialab/unfccc-scrap-snippet,True
 https://github.com/medialab/ural,True
 https://github.com/medialab/webclim_analyses,True
-https://github.com/medialab/webclim_analyses_covid19,False
+https://github.com/medialab/webclim_analyses_covid19,True
 https://github.com/medialab/website,True
 https://github.com/medialab/well-being-metrics,True
 https://github.com/medialab/zup,True
@@ -3555,6 +3556,7 @@ https://github.com/wookey-project/app-dfu-usb,True
 https://github.com/wookey-project/app-sample-blinky,True
 https://github.com/wookey-project/app-sample-button,True
 https://github.com/wookey-project/app-sample-leds,True
+https://github.com/wookey-project/app-woocan-canspy,False
 https://github.com/wookey-project/app-wookey-crypto,True
 https://github.com/wookey-project/app-wookey-flash,True
 https://github.com/wookey-project/app-wookey-pin,True
@@ -3604,6 +3606,7 @@ https://github.com/wookey-project/libwookey,True
 https://github.com/wookey-project/libxDCI,True
 https://github.com/wookey-project/manifest,True
 https://github.com/wookey-project/perms-matrix-disco407-samples,True
+https://github.com/wookey-project/perms-matrix-woocan,False
 https://github.com/wookey-project/perms-matrix-wookey,True
 https://github.com/wookey-project/tataouine,True
 https://github.com/wookey-project/wookey-docker,True
