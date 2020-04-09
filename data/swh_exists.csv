@@ -3556,7 +3556,7 @@ https://github.com/wookey-project/app-dfu-usb,True
 https://github.com/wookey-project/app-sample-blinky,True
 https://github.com/wookey-project/app-sample-button,True
 https://github.com/wookey-project/app-sample-leds,True
-https://github.com/wookey-project/app-woocan-canspy,False
+https://github.com/wookey-project/app-woocan-canspy,True
 https://github.com/wookey-project/app-wookey-crypto,True
 https://github.com/wookey-project/app-wookey-flash,True
 https://github.com/wookey-project/app-wookey-pin,True
