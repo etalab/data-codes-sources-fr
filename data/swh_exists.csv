@@ -55,7 +55,7 @@ https://forgemia.inra.fr/bibliome/bionlp-st-py,True
 https://forgemia.inra.fr/bibliome/formation-alvisnlp,True
 https://forgemia.inra.fr/bios4biol/bioinfo-utils,True
 https://forgemia.inra.fr/bios4biol/workflows,True
-https://forgemia.inra.fr/chemhousebas/parafac,False
+https://forgemia.inra.fr/chemhousebas/parafac,True
 https://forgemia.inra.fr/chemhousebas/vsn,True
 https://forgemia.inra.fr/enseignement-mistea/reports-with-markdown,True
 https://forgemia.inra.fr/epgv/nlgenomesweeper,True
@@ -555,7 +555,7 @@ https://github.com/CEREMA/dtermed.virtualdesktop,True
 https://github.com/CEREMA/dtermed.webapp.bpclight,True
 https://github.com/CEREMA/dtermed.webapp.ecureuil,True
 https://github.com/CEREMA/dtermed.webapp.rivages,True
-https://github.com/CEREMA/dterso.chaineTraitement.traitementImageSatelitteEtIndicateursDerives,False
+https://github.com/CEREMA/dterso.chaineTraitement.traitementImageSatelitteEtIndicateursDerives,True
 https://github.com/CEREMA/dterso.pluginQgis.CeremaCartEau,True
 https://github.com/CEREMA/dterso.pluginQgis3.CeremaCartEau3,True
 https://github.com/CEREMA/rivages-android,True
