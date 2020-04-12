@@ -1718,6 +1718,7 @@ https://github.com/betagouv/Element.details,True
 https://github.com/betagouv/OpenFiscaFrance.jl,True
 https://github.com/betagouv/OpenLawEditor,True
 https://github.com/betagouv/PeerTube,True
+https://github.com/betagouv/StopCovid,False
 https://github.com/betagouv/admin-traitdunion,True
 https://github.com/betagouv/allegement-fillon,True
 https://github.com/betagouv/andi,True
@@ -3329,7 +3330,7 @@ https://github.com/openfun/marsha,True
 https://github.com/openfun/marsha-plugins,True
 https://github.com/openfun/matplotlib,True
 https://github.com/openfun/nantes-oer,True
-https://github.com/openfun/nextcloud-docker,False
+https://github.com/openfun/nextcloud-docker,True
 https://github.com/openfun/nltk,True
 https://github.com/openfun/openedx-comments-docker,True
 https://github.com/openfun/openedx-con-2018,True
