@@ -338,6 +338,7 @@ https://github.com/1024pix/open-lab,True
 https://github.com/1024pix/pix,True
 https://github.com/1024pix/pix-bot,True
 https://github.com/1024pix/pix-editor,True
+https://github.com/1024pix/pix-engineering,False
 https://github.com/1024pix/pix-help-center-theme,True
 https://github.com/1024pix/pix-lifestyle,True
 https://github.com/1024pix/pix-maintenance,True
@@ -2795,7 +2796,7 @@ https://github.com/ina-foss/amalia.js,True
 https://github.com/ina-foss/inaFaceGender,True
 https://github.com/ina-foss/inaSpeechSegmenter,True
 https://github.com/ina-foss/nginx-video-thumbextractor-module,True
-https://github.com/ina-foss/stream-index-massive-tweets,False
+https://github.com/ina-foss/stream-index-massive-tweets,True
 https://github.com/ina-foss/tweet-stance-annotation,True
 https://github.com/ina-foss/twembeddings,True
 https://github.com/ina-foss/voxo-daemon,True
