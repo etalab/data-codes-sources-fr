@@ -339,7 +339,7 @@ https://github.com/1024pix/open-lab,True
 https://github.com/1024pix/pix,True
 https://github.com/1024pix/pix-bot,True
 https://github.com/1024pix/pix-editor,True
-https://github.com/1024pix/pix-engineering,False
+https://github.com/1024pix/pix-engineering,True
 https://github.com/1024pix/pix-help-center-theme,True
 https://github.com/1024pix/pix-lifestyle,True
 https://github.com/1024pix/pix-maintenance,True
@@ -3486,6 +3486,8 @@ https://github.com/unistra/aria,True
 https://github.com/unistra/avc-client,True
 https://github.com/unistra/avc-doc,True
 https://github.com/unistra/avc-server,True
+https://github.com/unistra/bigbluebutton,False
+https://github.com/unistra/bn-ldap-authentication,False
 https://github.com/unistra/bottle-drybones,True
 https://github.com/unistra/britney-utils,True
 https://github.com/unistra/budgetweb,True
@@ -3513,6 +3515,7 @@ https://github.com/unistra/eva,True
 https://github.com/unistra/excalibur,True
 https://github.com/unistra/ffmpod-installer,True
 https://github.com/unistra/fsp,True
+https://github.com/unistra/greenlight,False
 https://github.com/unistra/gspore,True
 https://github.com/unistra/itop-synchro-dashboard,True
 https://github.com/unistra/jitsi-meet,True
@@ -3786,6 +3789,9 @@ https://gitlab.huma-num.fr/nakala-tools/nakalot,True
 https://gitlab.huma-num.fr/nakala-tools/nakanav,True
 https://gitlab.huma-num.fr/rzine/documentation,True
 https://gitlab.huma-num.fr/tip/test,True
+https://gitlab.huma-num.fr/txm/textometrie,False
+https://gitlab.huma-num.fr/txm/txm-manual,False
+https://gitlab.huma-num.fr/txm/txm-software,False
 https://gitlab.in2p3.fr/Enssib/abcdev,True
 https://gitlab.in2p3.fr/Enssib/bibliotouch,True
 https://gitlab.inria.fr/AlgebraicGeometricModeling/AlgebraicSolvers.jl,True
