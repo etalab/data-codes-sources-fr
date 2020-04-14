@@ -48,6 +48,7 @@ https://forgemia.inra.fr/GNet/appinetwork,True
 https://forgemia.inra.fr/GNet/cytopheno_omics,True
 https://forgemia.inra.fr/GNet/dicoexpress,True
 https://forgemia.inra.fr/GNet/einkorn_grain_transcriptome,True
+https://forgemia.inra.fr/GNet/pipelineoge,False
 https://forgemia.inra.fr/QTL/spell-qtl,True
 https://forgemia.inra.fr/adminforgemia/doc-public,True
 https://forgemia.inra.fr/bibliome/alvisae-anaee,True
