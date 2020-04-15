@@ -48,7 +48,7 @@ https://forgemia.inra.fr/GNet/appinetwork,True
 https://forgemia.inra.fr/GNet/cytopheno_omics,True
 https://forgemia.inra.fr/GNet/dicoexpress,True
 https://forgemia.inra.fr/GNet/einkorn_grain_transcriptome,True
-https://forgemia.inra.fr/GNet/pipelineoge,False
+https://forgemia.inra.fr/GNet/pipelineoge,True
 https://forgemia.inra.fr/QTL/spell-qtl,True
 https://forgemia.inra.fr/adminforgemia/doc-public,True
 https://forgemia.inra.fr/bibliome/alvisae-anaee,True
@@ -1437,6 +1437,7 @@ https://github.com/SocialGouv/emjpm-portail,True
 https://github.com/SocialGouv/emjpm-ui,True
 https://github.com/SocialGouv/faq-code-du-travail,True
 https://github.com/SocialGouv/fce,True
+https://github.com/SocialGouv/fiches-travail-data,False
 https://github.com/SocialGouv/fiches-vdd,True
 https://github.com/SocialGouv/gitlab-ci-yml,True
 https://github.com/SocialGouv/hasura,True
@@ -1507,6 +1508,7 @@ https://github.com/SocieteNumerique/pass-numerique,True
 https://github.com/SocieteNumerique/rapport-inclusion,True
 https://github.com/SocieteNumerique/societenumerique.github.io,True
 https://github.com/SocieteNumerique/societenumerique.github.io-old,True
+https://github.com/SocieteNumerique/solidarite-numerique,False
 https://github.com/SocieteNumerique/tutoriel,True
 https://github.com/Spirals-Team/BtrShop-android,True
 https://github.com/Spirals-Team/BtrShop-cloud,True
@@ -1826,6 +1828,7 @@ https://github.com/betagouv/ilos,True
 https://github.com/betagouv/impact-tests,True
 https://github.com/betagouv/itou,True
 https://github.com/betagouv/itou-discourse,True
+https://github.com/betagouv/itou-entreprise,True
 https://github.com/betagouv/itou_entreprise,False
 https://github.com/betagouv/kibana-scalingo,True
 https://github.com/betagouv/kong-delegateAuth,True
@@ -3786,6 +3789,7 @@ https://gitlab.huma-num.fr/lamop/test,True
 https://gitlab.huma-num.fr/lamop/topama,True
 https://gitlab.huma-num.fr/lamop/topama-eveches,True
 https://gitlab.huma-num.fr/lamop/topologie_aix-en-provence,False
+https://gitlab.huma-num.fr/lamop/wikidata2gramps,True
 https://gitlab.huma-num.fr/lamop/yersinia,True
 https://gitlab.huma-num.fr/mshs-poitiers/xmlify,True
 https://gitlab.huma-num.fr/nakala-tools/nakalot,True
