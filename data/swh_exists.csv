@@ -3336,7 +3336,7 @@ https://github.com/openfun/marsha-plugins,True
 https://github.com/openfun/matplotlib,True
 https://github.com/openfun/nantes-oer,True
 https://github.com/openfun/nextcloud-docker,True
-https://github.com/openfun/nextcloud-shibboleth-sync,False
+https://github.com/openfun/nextcloud-shibboleth-sync,True
 https://github.com/openfun/nltk,True
 https://github.com/openfun/openedx-comments-docker,True
 https://github.com/openfun/openedx-con-2018,True
