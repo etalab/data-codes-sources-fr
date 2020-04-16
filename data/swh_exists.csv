@@ -2669,6 +2669,7 @@ https://github.com/etalab/majic,True
 https://github.com/etalab/mastodon-stats,True
 https://github.com/etalab/mediawiki-etalab-skin,True
 https://github.com/etalab/monReseauMobile,True
+https://github.com/etalab/monitor-consolidation,False
 https://github.com/etalab/monuments-historiques,True
 https://github.com/etalab/munin-plugins,True
 https://github.com/etalab/munin-theme,True
@@ -3493,7 +3494,7 @@ https://github.com/unistra/aria,True
 https://github.com/unistra/avc-client,True
 https://github.com/unistra/avc-doc,True
 https://github.com/unistra/avc-server,True
-https://github.com/unistra/bigbluebutton,False
+https://github.com/unistra/bigbluebutton,True
 https://github.com/unistra/bn-ldap-authentication,False
 https://github.com/unistra/bottle-drybones,True
 https://github.com/unistra/britney-utils,True
@@ -3797,7 +3798,7 @@ https://gitlab.huma-num.fr/nakala-tools/nakalot,True
 https://gitlab.huma-num.fr/nakala-tools/nakanav,True
 https://gitlab.huma-num.fr/rzine/documentation,True
 https://gitlab.huma-num.fr/tip/test,True
-https://gitlab.huma-num.fr/txm/textometrie,False
+https://gitlab.huma-num.fr/txm/textometrie,True
 https://gitlab.huma-num.fr/txm/txm-manual,False
 https://gitlab.huma-num.fr/txm/txm-software,True
 https://gitlab.in2p3.fr/Enssib/abcdev,True
@@ -4379,6 +4380,7 @@ https://gitlab.inria.fr/usnb/messenger-persona,True
 https://gitlab.inria.fr/usnb/slack-persona,True
 https://gitlab.inria.fr/usnb/subscription-manager,True
 https://gitlab.inria.fr/usnb/universal-social-network-bus,True
+https://gitlab.inria.fr/verifisc/catala,False
 https://gitlab.inria.fr/verifisc/lawspec,True
 https://gitlab.inria.fr/verifisc/mlang,True
 https://gitlab.inria.fr/verifisc/verifisc,True
