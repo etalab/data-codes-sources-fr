@@ -416,7 +416,7 @@ https://github.com/ANSSI-FR/tabi,True
 https://github.com/ANSSI-FR/transdep,True
 https://github.com/ANSSI-FR/x509-parser,True
 https://github.com/ANSSI-FR/xsvgen,True
-https://github.com/ARCEP-dev/BLOM,False
+https://github.com/ARCEP-dev/BLOM,True
 https://github.com/ARCEP-dev/adresse,True
 https://github.com/ARCEP-dev/basePopDom,True
 https://github.com/ARCEP-dev/dataTools,True
@@ -3799,7 +3799,7 @@ https://gitlab.huma-num.fr/nakala-tools/nakanav,True
 https://gitlab.huma-num.fr/rzine/documentation,True
 https://gitlab.huma-num.fr/tip/test,True
 https://gitlab.huma-num.fr/txm/textometrie,True
-https://gitlab.huma-num.fr/txm/txm-manual,False
+https://gitlab.huma-num.fr/txm/txm-manual,True
 https://gitlab.huma-num.fr/txm/txm-software,True
 https://gitlab.in2p3.fr/Enssib/abcdev,True
 https://gitlab.in2p3.fr/Enssib/bibliotouch,True
