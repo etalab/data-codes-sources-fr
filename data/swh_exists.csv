@@ -258,6 +258,7 @@ https://git.unistra.fr/ecr19-t4-e/hache-tag-greigns,True
 https://git.unistra.fr/enj/corpus-reference,True
 https://git.unistra.fr/filiere-d-excellence/ghc,True
 https://git.unistra.fr/g4b-le-futur/g4b,True
+https://git.unistra.fr/g4b-michel/michel-app,False
 https://git.unistra.fr/gdt/back,True
 https://git.unistra.fr/gdt/front,True
 https://git.unistra.fr/goj19-t4-b/projet-tutore-tycoon,True
@@ -3496,7 +3497,7 @@ https://github.com/unistra/avc-client,True
 https://github.com/unistra/avc-doc,True
 https://github.com/unistra/avc-server,True
 https://github.com/unistra/bigbluebutton,True
-https://github.com/unistra/bn-ldap-authentication,False
+https://github.com/unistra/bn-ldap-authentication,True
 https://github.com/unistra/bottle-drybones,True
 https://github.com/unistra/britney-utils,True
 https://github.com/unistra/budgetweb,True
@@ -3524,7 +3525,7 @@ https://github.com/unistra/eva,True
 https://github.com/unistra/excalibur,True
 https://github.com/unistra/ffmpod-installer,True
 https://github.com/unistra/fsp,True
-https://github.com/unistra/greenlight,False
+https://github.com/unistra/greenlight,True
 https://github.com/unistra/gspore,True
 https://github.com/unistra/itop-synchro-dashboard,True
 https://github.com/unistra/jitsi-meet,True
@@ -3712,6 +3713,7 @@ https://gitlab.com/dreal-datalab/drealdown,True
 https://gitlab.com/dreal-datalab/drealthemes,True
 https://gitlab.com/dreal-datalab/essai,True
 https://gitlab.com/dreal-datalab/nitrates,True
+https://gitlab.com/dreal-datalab/ort_effectifs_transport,False
 https://gitlab.com/dreal-datalab/pesticides,True
 https://gitlab.com/dreal-datalab/poc-enr-teo,True
 https://gitlab.com/dreal-datalab/reseauchaleur,True
