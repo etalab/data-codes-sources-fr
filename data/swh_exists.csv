@@ -2672,7 +2672,7 @@ https://github.com/etalab/majic,True
 https://github.com/etalab/mastodon-stats,True
 https://github.com/etalab/mediawiki-etalab-skin,True
 https://github.com/etalab/monReseauMobile,True
-https://github.com/etalab/monitor-consolidation,False
+https://github.com/etalab/monitor-consolidation,True
 https://github.com/etalab/monuments-historiques,True
 https://github.com/etalab/munin-plugins,True
 https://github.com/etalab/munin-theme,True
@@ -3714,7 +3714,7 @@ https://gitlab.com/dreal-datalab/drealdown,True
 https://gitlab.com/dreal-datalab/drealthemes,True
 https://gitlab.com/dreal-datalab/essai,True
 https://gitlab.com/dreal-datalab/nitrates,True
-https://gitlab.com/dreal-datalab/ort_effectifs_transport,False
+https://gitlab.com/dreal-datalab/ort_effectifs_transport,True
 https://gitlab.com/dreal-datalab/pesticides,True
 https://gitlab.com/dreal-datalab/poc-enr-teo,True
 https://gitlab.com/dreal-datalab/reseauchaleur,True
