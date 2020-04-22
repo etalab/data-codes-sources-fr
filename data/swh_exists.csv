@@ -798,7 +798,7 @@ https://github.com/EsupPortail/esup-isbn,True
 https://github.com/EsupPortail/esup-koha,True
 https://github.com/EsupPortail/esup-lecture,True
 https://github.com/EsupPortail/esup-mdw,True
-https://github.com/EsupPortail/esup-mdw-pegase,False
+https://github.com/EsupPortail/esup-mdw-pegase,True
 https://github.com/EsupPortail/esup-news,True
 https://github.com/EsupPortail/esup-nfc-tag-arduino,True
 https://github.com/EsupPortail/esup-nfc-tag-desktop,True
@@ -3184,6 +3184,7 @@ https://github.com/medialab/polarisation-espace-public,True
 https://github.com/medialab/poltergeist,True
 https://github.com/medialab/privacy,True
 https://github.com/medialab/pubpub,True
+https://github.com/medialab/python-boilerpipe,False
 https://github.com/medialab/python-urlsresolver,True
 https://github.com/medialab/quenouille,True
 https://github.com/medialab/quinoa,True
@@ -3468,7 +3469,7 @@ https://github.com/openfun/potsie,True
 https://github.com/openfun/proctoru-xblock,True
 https://github.com/openfun/ralph,True
 https://github.com/openfun/richie,True
-https://github.com/openfun/richie-cnfpt,False
+https://github.com/openfun/richie-cnfpt,True
 https://github.com/openfun/subsrt,True
 https://github.com/openfun/svg-converter,True
 https://github.com/openfun/videofront,True
