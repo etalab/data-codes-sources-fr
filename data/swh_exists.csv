@@ -826,7 +826,7 @@ https://github.com/EsupPortail/esup-publisher,True
 https://github.com/EsupPortail/esup-sgc,True
 https://github.com/EsupPortail/esup-sgc-client,True
 https://github.com/EsupPortail/esup-sgc-client-installer,True
-https://github.com/EsupPortail/esup-sifac-missions2,False
+https://github.com/EsupPortail/esup-sifac-missions2,True
 https://github.com/EsupPortail/esup-signature,True
 https://github.com/EsupPortail/esup-smsu,True
 https://github.com/EsupPortail/esup-smsu-api,True
@@ -1891,7 +1891,7 @@ https://github.com/betagouv/competences-pro-serveur,True
 https://github.com/betagouv/competences-pro-www,True
 https://github.com/betagouv/compta,True
 https://github.com/betagouv/cout-embauche,True
-https://github.com/betagouv/covid19-algorithme-orientation-api,False
+https://github.com/betagouv/covid19-algorithme-orientation-api,True
 https://github.com/betagouv/covid19-algorithme-orientation-elixir,True
 https://github.com/betagouv/dashboard_apientreprise,True
 https://github.com/betagouv/dds-cross-simulator,True
@@ -3535,6 +3535,7 @@ https://github.com/sigrennesmetropole/addon_rva,True
 https://github.com/sigrennesmetropole/addon_urbanisme,True
 https://github.com/sigrennesmetropole/api_rva,True
 https://github.com/sigrennesmetropole/cadastrapp,True
+https://github.com/sigrennesmetropole/geor_signalement,False
 https://github.com/sigrennesmetropole/geoserver_sld,True
 https://github.com/sigrennesmetropole/images,True
 https://github.com/sigrennesmetropole/mviewer,True
