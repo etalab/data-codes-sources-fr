@@ -850,7 +850,7 @@ https://github.com/EsupPortail/iframe-autoheight-using-postMessage,True
 https://github.com/EsupPortail/logstash-input-LDAPSearch,True
 https://github.com/EsupPortail/moodle-mod_pod,True
 https://github.com/EsupPortail/moodle-mod_pod-filter,True
-https://github.com/EsupPortail/nginx-auth-cas-lua,False
+https://github.com/EsupPortail/nginx-auth-cas-lua,True
 https://github.com/EsupPortail/nuxeo-onlyoffice,True
 https://github.com/EsupPortail/orioai-nuxeo,True
 https://github.com/EsupPortail/pod,True
