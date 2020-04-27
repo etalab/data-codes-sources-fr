@@ -722,6 +722,13 @@ https://github.com/DIVERSIFY-project/summer,True
 https://github.com/DIVERSIFY-project/syntmod,True
 https://github.com/DIVERSIFY-project/syringe,True
 https://github.com/DREAL-NA/aides,True
+https://github.com/Delegation-numerique-en-sante/covid19-algorithme-orientation,False
+https://github.com/Delegation-numerique-en-sante/covid19-algorithme-orientation-api,False
+https://github.com/Delegation-numerique-en-sante/covid19-algorithme-orientation-arbre-de-decision,False
+https://github.com/Delegation-numerique-en-sante/covid19-algorithme-orientation-check,False
+https://github.com/Delegation-numerique-en-sante/covid19-algorithme-orientation-proxy,False
+https://github.com/Delegation-numerique-en-sante/covid19-algorithme-orientation-schema-donnees,False
+https://github.com/Delegation-numerique-en-sante/covid19-questionnaire-telesurveillance,False
 https://github.com/EDS-APHP/EdsFhirIG,True
 https://github.com/EDS-APHP/HiveQLKernel,True
 https://github.com/EDS-APHP/LightICE,True
@@ -2002,6 +2009,7 @@ https://github.com/betagouv/paie-carto,True
 https://github.com/betagouv/paie-editor,True
 https://github.com/betagouv/paie-tests,True
 https://github.com/betagouv/paie-www,True
+https://github.com/betagouv/particulier.api.gouv.fr,False
 https://github.com/betagouv/pass-culture-api,True
 https://github.com/betagouv/pass-culture-app-staging,True
 https://github.com/betagouv/pass-culture-blog,True
