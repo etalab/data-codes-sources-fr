@@ -750,7 +750,7 @@ https://github.com/EDS-APHP/tag_serve,True
 https://github.com/EDS-APHP/uima-aphp,True
 https://github.com/EDS-APHP/yarn-manager,True
 https://github.com/EsupPortail/CMoodle-proxy-portlet,True
-https://github.com/EsupPortail/Esup-Pod,False
+https://github.com/EsupPortail/Esup-Pod,True
 https://github.com/EsupPortail/EsupUserApps,True
 https://github.com/EsupPortail/H5PP,True
 https://github.com/EsupPortail/ProlongationENT,True
@@ -851,7 +851,7 @@ https://github.com/EsupPortail/portlet-tools,True
 https://github.com/EsupPortail/proto-portlet-angular,True
 https://github.com/EsupPortail/proxy-broadcast,True
 https://github.com/EsupPortail/sygal,True
-https://github.com/EsupPortail/sygal-import-ws,False
+https://github.com/EsupPortail/sygal-import-ws,True
 https://github.com/GendarmerieNationale/FlowTracker,True
 https://github.com/GendarmerieNationale/GendLoc-,True
 https://github.com/GendarmerieNationale/Geo-Secours,True
