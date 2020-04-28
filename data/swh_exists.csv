@@ -350,6 +350,7 @@ https://github.com/1024pix/pix-maintenance,True
 https://github.com/1024pix/pix-review-router,True
 https://github.com/1024pix/pix-site,True
 https://github.com/1024pix/pix-site-pro,True
+https://github.com/1024pix/pix-ui,False
 https://github.com/1024pix/poc-ovh-api,True
 https://github.com/1024pix/poc-qmail,True
 https://github.com/1024pix/poc-smtp,True
@@ -726,6 +727,7 @@ https://github.com/Delegation-numerique-en-sante/covid19-algorithme-orientation,
 https://github.com/Delegation-numerique-en-sante/covid19-algorithme-orientation-api,False
 https://github.com/Delegation-numerique-en-sante/covid19-algorithme-orientation-arbre-de-decision,False
 https://github.com/Delegation-numerique-en-sante/covid19-algorithme-orientation-check,False
+https://github.com/Delegation-numerique-en-sante/covid19-algorithme-orientation-openapi,False
 https://github.com/Delegation-numerique-en-sante/covid19-algorithme-orientation-proxy,False
 https://github.com/Delegation-numerique-en-sante/covid19-algorithme-orientation-schema-donnees,False
 https://github.com/Delegation-numerique-en-sante/covid19-questionnaire-telesurveillance,False
@@ -2009,7 +2011,7 @@ https://github.com/betagouv/paie-carto,True
 https://github.com/betagouv/paie-editor,True
 https://github.com/betagouv/paie-tests,True
 https://github.com/betagouv/paie-www,True
-https://github.com/betagouv/particulier.api.gouv.fr,False
+https://github.com/betagouv/particulier.api.gouv.fr,True
 https://github.com/betagouv/pass-culture-api,True
 https://github.com/betagouv/pass-culture-app-staging,True
 https://github.com/betagouv/pass-culture-blog,True
