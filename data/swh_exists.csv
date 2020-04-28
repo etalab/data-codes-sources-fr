@@ -365,6 +365,7 @@ https://github.com/139bercy/cloud-appliance-composer-repo,True
 https://github.com/139bercy/cloud-appliance-management,True
 https://github.com/139bercy/cloud-appliance-nexus-repo,True
 https://github.com/139bercy/cloud-appliance-observability,True
+https://github.com/139bercy/decp-monitoring,False
 https://github.com/139bercy/decp-rama,True
 https://github.com/139bercy/docker-ci-tool-stack,True
 https://github.com/139bercy/first-ghpages-by-travis,True
@@ -763,7 +764,7 @@ https://github.com/EsupPortail/Esup-Pod,True
 https://github.com/EsupPortail/EsupUserApps,True
 https://github.com/EsupPortail/H5PP,True
 https://github.com/EsupPortail/ProlongationENT,True
-https://github.com/EsupPortail/ProlongationENT-alerts,False
+https://github.com/EsupPortail/ProlongationENT-alerts,True
 https://github.com/EsupPortail/ProlongationENT-apps,True
 https://github.com/EsupPortail/ProlongationENT-home,True
 https://github.com/EsupPortail/agimus-ng,True
@@ -2767,7 +2768,7 @@ https://github.com/etalab/geoids,True
 https://github.com/etalab/geologos,True
 https://github.com/etalab/geozones,True
 https://github.com/etalab/gpu-jpeg2k,True
-https://github.com/etalab/gtfs_converter,False
+https://github.com/etalab/gtfs_converter,True
 https://github.com/etalab/guide-des-licences-de-reutilisation,True
 https://github.com/etalab/guide-juridique-logiciel-libre,True
 https://github.com/etalab/guide-juridique-open-data,True
