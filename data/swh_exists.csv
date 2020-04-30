@@ -1558,6 +1558,7 @@ https://github.com/SocialGouv/fiches-travail-data,True
 https://github.com/SocialGouv/fiches-vdd,True
 https://github.com/SocialGouv/gitlab-ci-yml,True
 https://github.com/SocialGouv/hasura,True
+https://github.com/SocialGouv/hasura-permissions-viewer,True
 https://github.com/SocialGouv/helm-charts,True
 https://github.com/SocialGouv/jest-environment-knex,True
 https://github.com/SocialGouv/jmeter-kibana,True
@@ -3542,6 +3543,7 @@ https://github.com/riatelab/rgvzall,True
 https://github.com/riatelab/tunisie,True
 https://github.com/riatelab/world,True
 https://github.com/sigrennesmetropole/MViewer-SIGRM,True
+https://github.com/sigrennesmetropole/MapStore2,False
 https://github.com/sigrennesmetropole/QgisCadastrePlugin,True
 https://github.com/sigrennesmetropole/addon_rva,True
 https://github.com/sigrennesmetropole/addon_urbanisme,True
@@ -3673,11 +3675,13 @@ https://github.com/unistra/python-glpi-api,True
 https://github.com/unistra/rfpportal-frcsxb,True
 https://github.com/unistra/rng-to-html-form,True
 https://github.com/unistra/rt-farming,True
+https://github.com/unistra/schedulesy,False
 https://github.com/unistra/shippo,True
 https://github.com/unistra/simple-python-drybones,True
 https://github.com/unistra/sympa-qa,True
 https://github.com/unistra/tarifweb,True
 https://github.com/unistra/thursdays,True
+https://github.com/unistra/unistra-schedule,False
 https://github.com/unistra/unistra.github.com,True
 https://github.com/unistra/viewflow,True
 https://github.com/unistra/xml-archive-to-pdf,True
