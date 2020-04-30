@@ -727,7 +727,7 @@ https://github.com/DREAL-NA/aides,True
 https://github.com/Delegation-numerique-en-sante/covid19-algorithme-orientation,False
 https://github.com/Delegation-numerique-en-sante/covid19-algorithme-orientation-api,False
 https://github.com/Delegation-numerique-en-sante/covid19-algorithme-orientation-arbre-de-decision,False
-https://github.com/Delegation-numerique-en-sante/covid19-algorithme-orientation-check,False
+https://github.com/Delegation-numerique-en-sante/covid19-algorithme-orientation-check,True
 https://github.com/Delegation-numerique-en-sante/covid19-algorithme-orientation-openapi,True
 https://github.com/Delegation-numerique-en-sante/covid19-algorithme-orientation-proxy,True
 https://github.com/Delegation-numerique-en-sante/covid19-algorithme-orientation-schema-donnees,False
@@ -3798,6 +3798,7 @@ https://gitlab.adullact.net/demarches-simplifiees/puppet-demarches-simplifiees,T
 https://gitlab.adullact.net/demarches-simplifiees/vagrant-demarches-simplifiees,True
 https://gitlab.adullact.net/departements-notaires/departements-notaires,True
 https://gitlab.adullact.net/departements-notaires/departements-notaires-v2,True
+https://gitlab.adullact.net/departements-notaires/vagrant-departements-notaires,False
 https://gitlab.adullact.net/directmairie/directmairie,True
 https://gitlab.adullact.net/directmairie/puppet-directmairie,True
 https://gitlab.adullact.net/e-carre/e-carre-particuliers,True
