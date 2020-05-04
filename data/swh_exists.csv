@@ -365,6 +365,7 @@ https://github.com/139bercy/cloud-appliance-composer-repo,True
 https://github.com/139bercy/cloud-appliance-management,True
 https://github.com/139bercy/cloud-appliance-nexus-repo,True
 https://github.com/139bercy/cloud-appliance-observability,True
+https://github.com/139bercy/decp-docs,False
 https://github.com/139bercy/decp-monitoring,True
 https://github.com/139bercy/decp-rama,True
 https://github.com/139bercy/docker-ci-tool-stack,True
@@ -3905,7 +3906,7 @@ https://gitlab.huma-num.fr/lamop/cbma-epigraphie,True
 https://gitlab.huma-num.fr/lamop/corpus-spacy,True
 https://gitlab.huma-num.fr/lamop/dalek,True
 https://gitlab.huma-num.fr/lamop/duranti,True
-https://gitlab.huma-num.fr/lamop/epat,False
+https://gitlab.huma-num.fr/lamop/epat,True
 https://gitlab.huma-num.fr/lamop/fonds-marc-bloch,True
 https://gitlab.huma-num.fr/lamop/heraut-transcript,True
 https://gitlab.huma-num.fr/lamop/htr,True
