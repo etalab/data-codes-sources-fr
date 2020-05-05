@@ -365,7 +365,7 @@ https://github.com/139bercy/cloud-appliance-composer-repo,True
 https://github.com/139bercy/cloud-appliance-management,True
 https://github.com/139bercy/cloud-appliance-nexus-repo,True
 https://github.com/139bercy/cloud-appliance-observability,True
-https://github.com/139bercy/decp-docs,False
+https://github.com/139bercy/decp-docs,True
 https://github.com/139bercy/decp-monitoring,True
 https://github.com/139bercy/decp-rama,True
 https://github.com/139bercy/docker-ci-tool-stack,True
@@ -2130,6 +2130,7 @@ https://github.com/cea-hpc/gssapi,True
 https://github.com/cea-hpc/heimdal,True
 https://github.com/cea-hpc/hp2p,True
 https://github.com/cea-hpc/kfs,True
+https://github.com/cea-hpc/kpatch,False
 https://github.com/cea-hpc/krb5,True
 https://github.com/cea-hpc/kvsns,True
 https://github.com/cea-hpc/lcap,True
@@ -2338,6 +2339,7 @@ https://github.com/consultation-gouv/specs-apis-deploiement,True
 https://github.com/cstb/citygml-energy,True
 https://github.com/cstb/conan-package-tools,True
 https://github.com/cstb/ifc-sdk,True
+https://github.com/cstb/pomegranate,False
 https://github.com/cstb/qt5-swagger-codegen,True
 https://github.com/cstb/swagger-codegen,True
 https://github.com/culturecommunication/francearchives-cubicweb,True
