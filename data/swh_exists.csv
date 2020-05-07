@@ -275,6 +275,7 @@ https://git.unistra.fr/konflict/central-server-client,True
 https://git.unistra.fr/konflict/game-server,True
 https://git.unistra.fr/konflict/game-websocket,True
 https://git.unistra.fr/konflict/mobile-app,True
+https://git.unistra.fr/konflict/serveur-central,False
 https://git.unistra.fr/la-table-ronde/ecr19-t4-b,True
 https://git.unistra.fr/les-quatres-cavaliers-de-l-apocalypse-et-les-deux-stagiaires/ihm-projet,False
 https://git.unistra.fr/les-sans-noms/react_admin_jeux,True
@@ -3905,6 +3906,7 @@ https://gitlab.huma-num.fr/irihs/flaubertexport,True
 https://gitlab.huma-num.fr/irihs/genetictables,True
 https://gitlab.huma-num.fr/irihs/genetictheme,True
 https://gitlab.huma-num.fr/lamop/Hmaot,True
+https://gitlab.huma-num.fr/lamop/archivage-kronobase.org,False
 https://gitlab.huma-num.fr/lamop/archive-osm,True
 https://gitlab.huma-num.fr/lamop/audiotheque-traduction,True
 https://gitlab.huma-num.fr/lamop/cbma-epigraphie,True
