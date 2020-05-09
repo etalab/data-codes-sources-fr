@@ -2739,7 +2739,7 @@ https://github.com/etalab/doc.data.gouv.fr,True
 https://github.com/etalab/doc.entreprise.api.gouv.fr,True
 https://github.com/etalab/docker-ansible-git-crypt,True
 https://github.com/etalab/docker-datagouv,True
-https://github.com/etalab/documentation-libreoffice,False
+https://github.com/etalab/documentation-libreoffice,True
 https://github.com/etalab/dotation-globale-fonctionnement,True
 https://github.com/etalab/droit-auteur-logiciels,True
 https://github.com/etalab/dvf,True
@@ -3509,7 +3509,7 @@ https://github.com/polewebmaedi/MAEDI-Capitales,True
 https://github.com/polewebmaedi/MAEDI-Pays,True
 https://github.com/polewebmaedi/countries,True
 https://github.com/polewebmaedi/natural-earth-vector,True
-https://github.com/powerapi-ng/energy-scripts,False
+https://github.com/powerapi-ng/energy-scripts,True
 https://github.com/powerapi-ng/hwpc-sensor,True
 https://github.com/powerapi-ng/powerapi,True
 https://github.com/powerapi-ng/powerapi-ng.github.io,True
@@ -3912,7 +3912,7 @@ https://gitlab.huma-num.fr/irihs/flaubertexport,True
 https://gitlab.huma-num.fr/irihs/genetictables,True
 https://gitlab.huma-num.fr/irihs/genetictheme,True
 https://gitlab.huma-num.fr/lamop/Hmaot,True
-https://gitlab.huma-num.fr/lamop/archivage-kronobase.org,False
+https://gitlab.huma-num.fr/lamop/archivage-kronobase.org,True
 https://gitlab.huma-num.fr/lamop/archive-osm,True
 https://gitlab.huma-num.fr/lamop/audiotheque-traduction,True
 https://gitlab.huma-num.fr/lamop/cbma-epigraphie,True
