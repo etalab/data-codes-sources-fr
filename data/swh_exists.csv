@@ -1168,8 +1168,10 @@ https://github.com/LAB-MI/api.gouv.fr,True
 https://github.com/LAB-MI/candilib,True
 https://github.com/LAB-MI/candilibV2,True
 https://github.com/LAB-MI/covid-19-certificate,True
+https://github.com/LAB-MI/demande-masques-covid-19,False
 https://github.com/LAB-MI/deplacement-codiv-19,False
 https://github.com/LAB-MI/deplacement-covid-19,True
+https://github.com/LAB-MI/remise-masques-covid-19,False
 https://github.com/LETG/csw-harvester,True
 https://github.com/LETG/geocms,True
 https://github.com/LETG/letg-spip,True
