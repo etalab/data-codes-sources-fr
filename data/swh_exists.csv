@@ -274,6 +274,8 @@ https://git.unistra.fr/konflict/central-server-api,True
 https://git.unistra.fr/konflict/central-server-client,True
 https://git.unistra.fr/konflict/game-server,True
 https://git.unistra.fr/konflict/game-websocket,True
+https://git.unistra.fr/konflict/konflict-local-tunnel,False
+https://git.unistra.fr/konflict/konflict-local-tunnel-server,False
 https://git.unistra.fr/konflict/mobile-app,True
 https://git.unistra.fr/konflict/serveur-central,True
 https://git.unistra.fr/la-table-ronde/ecr19-t4-b,True
@@ -4512,6 +4514,9 @@ https://gitlab.inria.fr/star-explain/fjs_of_fml,True
 https://gitlab.inria.fr/star-explain/jsexplain,True
 https://gitlab.inria.fr/star-explain/opam-repository,True
 https://gitlab.inria.fr/starpu/starpu,True
+https://gitlab.inria.fr/stopcovid19/accueil,False
+https://gitlab.inria.fr/stopcovid19/stopcovid-robertsdk-android,False
+https://gitlab.inria.fr/stopcovid19/stopcovid-robertsdk-ios,False
 https://gitlab.inria.fr/synalp/python4nlp-2019-public,True
 https://gitlab.inria.fr/synalp/website,True
 https://gitlab.inria.fr/synchrone/heptagon,True
