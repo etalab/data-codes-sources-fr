@@ -275,7 +275,7 @@ https://git.unistra.fr/konflict/central-server-client,True
 https://git.unistra.fr/konflict/game-server,True
 https://git.unistra.fr/konflict/game-websocket,True
 https://git.unistra.fr/konflict/konflict-local-tunnel,True
-https://git.unistra.fr/konflict/konflict-local-tunnel-server,False
+https://git.unistra.fr/konflict/konflict-local-tunnel-server,True
 https://git.unistra.fr/konflict/mobile-app,True
 https://git.unistra.fr/konflict/serveur-central,True
 https://git.unistra.fr/la-table-ronde/ecr19-t4-b,True
@@ -1882,6 +1882,7 @@ https://github.com/betagouv/api-particulier-demo-traces,True
 https://github.com/betagouv/api-particulier-deprecated,True
 https://github.com/betagouv/api-particulier-lib,True
 https://github.com/betagouv/api-particulier-portail,True
+https://github.com/betagouv/api-particulier-token-sender,False
 https://github.com/betagouv/api-particulier-web,True
 https://github.com/betagouv/api-scopes,True
 https://github.com/betagouv/api-stats-elk,True
@@ -2795,7 +2796,7 @@ https://github.com/etalab/guides.etalab.gouv.fr,True
 https://github.com/etalab/hackathon_associations,True
 https://github.com/etalab/hackdash,True
 https://github.com/etalab/id.data.gouv.fr,True
-https://github.com/etalab/infolettre-lab-ia,False
+https://github.com/etalab/infolettre-lab-ia,True
 https://github.com/etalab/inspire-cartes-producteurs,True
 https://github.com/etalab/inventaire-codes-sources-organismes-publics,True
 https://github.com/etalab/irve,True
@@ -4518,7 +4519,7 @@ https://gitlab.inria.fr/star-explain/opam-repository,True
 https://gitlab.inria.fr/starpu/starpu,True
 https://gitlab.inria.fr/stopcovid19/accueil,True
 https://gitlab.inria.fr/stopcovid19/robert-client-api-spec,False
-https://gitlab.inria.fr/stopcovid19/robert-server,False
+https://gitlab.inria.fr/stopcovid19/robert-server,True
 https://gitlab.inria.fr/stopcovid19/stopcovid-robertsdk-android,True
 https://gitlab.inria.fr/stopcovid19/stopcovid-robertsdk-ios,False
 https://gitlab.inria.fr/synalp/python4nlp-2019-public,True
