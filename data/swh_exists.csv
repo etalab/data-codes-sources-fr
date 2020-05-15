@@ -1938,6 +1938,7 @@ https://github.com/betagouv/e-controle-load-test,True
 https://github.com/betagouv/eac,True
 https://github.com/betagouv/eac-api,True
 https://github.com/betagouv/eac-scrapper,True
+https://github.com/betagouv/ecolab-data,False
 https://github.com/betagouv/ecolab-transport,True
 https://github.com/betagouv/ecosante,True
 https://github.com/betagouv/etudiant-entrepreneur,True
@@ -2169,6 +2170,7 @@ https://github.com/cea-hpc/sigmund,True
 https://github.com/cea-hpc/slurm-spank-lua-plugin-mckernel,True
 https://github.com/cea-hpc/slurm_exporter,True
 https://github.com/cea-hpc/space9,True
+https://github.com/cea-hpc/ssh-ldap-pubkey,False
 https://github.com/cea-hpc/sshproxy,True
 https://github.com/cea-hpc/vbridge,True
 https://github.com/cea-hpc/wi4mpi,True
@@ -2641,6 +2643,7 @@ https://github.com/etalab-ia/ami-ia-sisse,True
 https://github.com/etalab-ia/data_science_template,True
 https://github.com/etalab-ia/demo-piaf,True
 https://github.com/etalab-ia/piaf-code,True
+https://github.com/etalab-ia/pseudo_api,False
 https://github.com/etalab-ia/pseudo_app,False
 https://github.com/etalab-ia/pseudo_conseil_etat,True
 https://github.com/etalab-ia/pseudonymisation_decisions_ce,True
@@ -2991,6 +2994,7 @@ https://github.com/lutece-secteur-public/espacepublic-module-elasticdata-dansmar
 https://github.com/lutece-secteur-public/espacepublic-module-rest-dansmarue,True
 https://github.com/lutece-secteur-public/espacepublic-module-workflow-dansmarue,True
 https://github.com/lutece-secteur-public/espacepublic-plugin-dansmarue,True
+https://github.com/lutece-secteur-public/espacepublic-plugin-fodansmarue,False
 https://github.com/lutece-secteur-public/etatcivil-module-formengine-etatcivil,True
 https://github.com/lutece-secteur-public/franceconnect-module-mylutece-franceconnect,True
 https://github.com/lutece-secteur-public/franceconnect-plugin-fcsample,True
@@ -4606,6 +4610,7 @@ https://gitlab.irstea.fr/pomosed/naiades,True
 https://gitlab.irstea.fr/pomosed/rfunctions,False
 https://gitlab.irstea.fr/raspberry-pi/multi-sense,True
 https://gitlab.irstea.fr/raspberry-pi/sense-hat,True
+https://gitlab.irstea.fr/reversaal/OhmPi,False
 https://gitlab.irstea.fr/reversaal/wetlands_xray_tomopgraphy,True
 https://gitlab.irstea.fr/support/wiki,True
 https://gitlab.irstea.fr/vino/Vino,True
