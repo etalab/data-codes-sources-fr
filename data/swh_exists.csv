@@ -3859,7 +3859,7 @@ https://gitlab.cerema.fr/Stream/stream-python,True
 https://gitlab.cerema.fr/admin-donnees/admin_referentiels_postgresql,True
 https://gitlab.cerema.fr/admin-donnees/fr.cerema.admin_donnees_postgresql,True
 https://gitlab.cerema.fr/centre-est/admin_ceremabase,False
-https://gitlab.com/CSTB/geocoding_tools,False
+https://gitlab.com/CSTB/geocoding_tools,True
 https://gitlab.com/CSTB/ifc2x3-SDK,True
 https://gitlab.com/CSTB/mathis,True
 https://gitlab.com/DREES_code/formulaire_zonage_ars,True
@@ -3931,7 +3931,9 @@ https://gitlab.huma-num.fr/irihs/flaubertexport,True
 https://gitlab.huma-num.fr/irihs/genetictables,True
 https://gitlab.huma-num.fr/irihs/genetictheme,True
 https://gitlab.huma-num.fr/lamop/Hmaot,True
+https://gitlab.huma-num.fr/lamop/aladin,False
 https://gitlab.huma-num.fr/lamop/archivage-kronobase.org,True
+https://gitlab.huma-num.fr/lamop/archive-htr-livre_rouge,False
 https://gitlab.huma-num.fr/lamop/archive-osm,True
 https://gitlab.huma-num.fr/lamop/audiotheque-traduction,True
 https://gitlab.huma-num.fr/lamop/cbma-epigraphie,True
