@@ -1938,7 +1938,7 @@ https://github.com/betagouv/e-controle-load-test,True
 https://github.com/betagouv/eac,True
 https://github.com/betagouv/eac-api,True
 https://github.com/betagouv/eac-scrapper,True
-https://github.com/betagouv/ecolab-data,False
+https://github.com/betagouv/ecolab-data,True
 https://github.com/betagouv/ecolab-transport,True
 https://github.com/betagouv/ecosante,True
 https://github.com/betagouv/etudiant-entrepreneur,True
@@ -1977,7 +1977,7 @@ https://github.com/betagouv/ludwig-api,True
 https://github.com/betagouv/ludwig-ui,True
 https://github.com/betagouv/mas,True
 https://github.com/betagouv/matomo,False
-https://github.com/betagouv/matomo-beta,False
+https://github.com/betagouv/matomo-beta,True
 https://github.com/betagouv/mdph,True
 https://github.com/betagouv/mdph-evaluation,True
 https://github.com/betagouv/mdph-geva-etl,True
@@ -2644,7 +2644,7 @@ https://github.com/etalab-ia/data_science_template,True
 https://github.com/etalab-ia/demo-piaf,True
 https://github.com/etalab-ia/piaf-code,True
 https://github.com/etalab-ia/pseudo_api,False
-https://github.com/etalab-ia/pseudo_app,False
+https://github.com/etalab-ia/pseudo_app,True
 https://github.com/etalab-ia/pseudo_conseil_etat,True
 https://github.com/etalab-ia/pseudonymisation_decisions_ce,True
 https://github.com/etalab/Algo_gouv,True
