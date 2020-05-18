@@ -1603,6 +1603,7 @@ https://github.com/SocialGouv/renovate-config,True
 https://github.com/SocialGouv/sample-next-app,True
 https://github.com/SocialGouv/schema-pjm,True
 https://github.com/SocialGouv/seminaire,True
+https://github.com/SocialGouv/serving-ml,False
 https://github.com/SocialGouv/siret2idcc,True
 https://github.com/SocialGouv/social-ui,True
 https://github.com/SocialGouv/socialgouv.github.io,True
@@ -1815,6 +1816,7 @@ https://github.com/atlanmod/atlanmod-platform,True
 https://github.com/atlanmod/atlanmod.github.io,True
 https://github.com/atlanmod/busfactor_demo,True
 https://github.com/atlanmod/csy-traceability,True
+https://github.com/atlanmod/eel,False
 https://github.com/atlanmod/emf,True
 https://github.com/atlanmod/emfviews,True
 https://github.com/atlanmod/emfviewsSQL,True
@@ -2643,7 +2645,7 @@ https://github.com/etalab-ia/ami-ia-sisse,True
 https://github.com/etalab-ia/data_science_template,True
 https://github.com/etalab-ia/demo-piaf,True
 https://github.com/etalab-ia/piaf-code,True
-https://github.com/etalab-ia/pseudo_api,False
+https://github.com/etalab-ia/pseudo_api,True
 https://github.com/etalab-ia/pseudo_app,True
 https://github.com/etalab-ia/pseudo_conseil_etat,True
 https://github.com/etalab-ia/pseudonymisation_decisions_ce,True
