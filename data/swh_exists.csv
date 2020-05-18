@@ -79,6 +79,7 @@ https://forgemia.inra.fr/genotoul-bioinfo/srna-tabac,True
 https://forgemia.inra.fr/genotoul-bioinfo/tSNPannot,True
 https://forgemia.inra.fr/get-it/nf-assemblshortread,True
 https://forgemia.inra.fr/get-it/nf-taxoaffiliation,True
+https://forgemia.inra.fr/hackathon-portail-calcul/hackathon_organisation,False
 https://forgemia.inra.fr/metexplore/MetExploreViz,True
 https://forgemia.inra.fr/metexplore/met4j,True
 https://forgemia.inra.fr/metexplore/metabolomics2network,True
@@ -1514,6 +1515,7 @@ https://github.com/SocialGouv/autosuggest,True
 https://github.com/SocialGouv/bootstrap,True
 https://github.com/SocialGouv/bot,True
 https://github.com/SocialGouv/carnets,True
+https://github.com/SocialGouv/cdtn-admin,False
 https://github.com/SocialGouv/cdtn-elk,True
 https://github.com/SocialGouv/cdtn-monolog,True
 https://github.com/SocialGouv/cdtn-run,True
@@ -1603,7 +1605,7 @@ https://github.com/SocialGouv/renovate-config,True
 https://github.com/SocialGouv/sample-next-app,True
 https://github.com/SocialGouv/schema-pjm,True
 https://github.com/SocialGouv/seminaire,True
-https://github.com/SocialGouv/serving-ml,False
+https://github.com/SocialGouv/serving-ml,True
 https://github.com/SocialGouv/siret2idcc,True
 https://github.com/SocialGouv/social-ui,True
 https://github.com/SocialGouv/socialgouv.github.io,True
@@ -1816,7 +1818,7 @@ https://github.com/atlanmod/atlanmod-platform,True
 https://github.com/atlanmod/atlanmod.github.io,True
 https://github.com/atlanmod/busfactor_demo,True
 https://github.com/atlanmod/csy-traceability,True
-https://github.com/atlanmod/eel,False
+https://github.com/atlanmod/eel,True
 https://github.com/atlanmod/emf,True
 https://github.com/atlanmod/emfviews,True
 https://github.com/atlanmod/emfviewsSQL,True
@@ -1940,6 +1942,7 @@ https://github.com/betagouv/e-controle-load-test,True
 https://github.com/betagouv/eac,True
 https://github.com/betagouv/eac-api,True
 https://github.com/betagouv/eac-scrapper,True
+https://github.com/betagouv/ecolab-climat,False
 https://github.com/betagouv/ecolab-data,True
 https://github.com/betagouv/ecolab-transport,True
 https://github.com/betagouv/ecosante,True
