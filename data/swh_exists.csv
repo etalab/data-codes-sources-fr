@@ -375,6 +375,7 @@ https://github.com/139bercy/decp-monitoring,True
 https://github.com/139bercy/decp-rama,True
 https://github.com/139bercy/docker-ci-tool-stack,True
 https://github.com/139bercy/first-ghpages-by-travis,True
+https://github.com/139bercy/format-commande-publique,False
 https://github.com/139bercy/graylog-recovery,True
 https://github.com/139bercy/hub,True
 https://github.com/139bercy/influxdb-recovery,True
@@ -2812,7 +2813,7 @@ https://github.com/etalab/inventaire-codes-sources-organismes-publics,True
 https://github.com/etalab/irve,True
 https://github.com/etalab/jours-feries-france,True
 https://github.com/etalab/jours-feries-france-api,True
-https://github.com/etalab/jours-feries-france-data,False
+https://github.com/etalab/jours-feries-france-data,True
 https://github.com/etalab/js-normadresse,True
 https://github.com/etalab/labels-and-roads,True
 https://github.com/etalab/labonneboite,True
