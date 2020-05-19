@@ -1300,6 +1300,7 @@ https://github.com/MTES-MCT/rieau,True
 https://github.com/MTES-MCT/rieau-api,True
 https://github.com/MTES-MCT/rieau-infra,True
 https://github.com/MTES-MCT/rieau-ui,True
+https://github.com/MTES-MCT/savoirfR,False
 https://github.com/MTES-MCT/secmar-data,True
 https://github.com/MTES-MCT/secmar-documentation,True
 https://github.com/MTES-MCT/toolbox,True
@@ -1615,6 +1616,7 @@ https://github.com/SocialGouv/standup2,True
 https://github.com/SocialGouv/suggest,True
 https://github.com/SocialGouv/support,True
 https://github.com/SocialGouv/template.data.gouv.fr.react,True
+https://github.com/SocialGouv/test-renovate,False
 https://github.com/SocialGouv/tocbot,True
 https://github.com/SocialGouv/tools,True
 https://github.com/SocialGouv/tps,True
@@ -3970,7 +3972,7 @@ https://gitlab.huma-num.fr/lamop/yersinia,True
 https://gitlab.huma-num.fr/mshs-poitiers/xmlify,True
 https://gitlab.huma-num.fr/nakala-tools/nakalot,True
 https://gitlab.huma-num.fr/nakala-tools/nakanav,True
-https://gitlab.huma-num.fr/portic/porticapi,False
+https://gitlab.huma-num.fr/portic/porticapi,True
 https://gitlab.huma-num.fr/rzine/Rzine_actu,True
 https://gitlab.huma-num.fr/rzine/documentation,True
 https://gitlab.huma-num.fr/tip/test,True
@@ -4538,7 +4540,7 @@ https://gitlab.inria.fr/stopcovid19/accueil,True
 https://gitlab.inria.fr/stopcovid19/robert-client-api-spec,True
 https://gitlab.inria.fr/stopcovid19/robert-server,True
 https://gitlab.inria.fr/stopcovid19/stopcovid-robertsdk-android,True
-https://gitlab.inria.fr/stopcovid19/stopcovid-robertsdk-ios,False
+https://gitlab.inria.fr/stopcovid19/stopcovid-robertsdk-ios,True
 https://gitlab.inria.fr/synalp/python4nlp-2019-public,True
 https://gitlab.inria.fr/synalp/website,True
 https://gitlab.inria.fr/synchrone/heptagon,True
