@@ -2178,7 +2178,7 @@ https://github.com/cea-hpc/sigmund,True
 https://github.com/cea-hpc/slurm-spank-lua-plugin-mckernel,True
 https://github.com/cea-hpc/slurm_exporter,True
 https://github.com/cea-hpc/space9,True
-https://github.com/cea-hpc/ssh-ldap-pubkey,False
+https://github.com/cea-hpc/ssh-ldap-pubkey,True
 https://github.com/cea-hpc/sshproxy,True
 https://github.com/cea-hpc/vbridge,True
 https://github.com/cea-hpc/wi4mpi,True
@@ -3941,7 +3941,7 @@ https://gitlab.huma-num.fr/irihs/genetictheme,True
 https://gitlab.huma-num.fr/lamop/Hmaot,True
 https://gitlab.huma-num.fr/lamop/aladin,False
 https://gitlab.huma-num.fr/lamop/archivage-kronobase.org,True
-https://gitlab.huma-num.fr/lamop/archive-htr-livre_rouge,False
+https://gitlab.huma-num.fr/lamop/archive-htr-livre_rouge,True
 https://gitlab.huma-num.fr/lamop/archive-osm,True
 https://gitlab.huma-num.fr/lamop/audiotheque-traduction,True
 https://gitlab.huma-num.fr/lamop/cbma-epigraphie,True
@@ -3972,6 +3972,7 @@ https://gitlab.huma-num.fr/lamop/yersinia,True
 https://gitlab.huma-num.fr/mshs-poitiers/xmlify,True
 https://gitlab.huma-num.fr/nakala-tools/nakalot,True
 https://gitlab.huma-num.fr/nakala-tools/nakanav,True
+https://gitlab.huma-num.fr/portic/navigocorpus,False
 https://gitlab.huma-num.fr/portic/porticapi,True
 https://gitlab.huma-num.fr/rzine/Rzine_actu,True
 https://gitlab.huma-num.fr/rzine/documentation,True
