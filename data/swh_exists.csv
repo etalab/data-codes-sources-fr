@@ -3866,7 +3866,7 @@ https://gitlab.cerema.fr/Stream/qstream,True
 https://gitlab.cerema.fr/Stream/stream-python,True
 https://gitlab.cerema.fr/admin-donnees/admin_referentiels_postgresql,True
 https://gitlab.cerema.fr/admin-donnees/fr.cerema.admin_donnees_postgresql,True
-https://gitlab.cerema.fr/centre-est/admin_ceremabase,False
+https://gitlab.cerema.fr/centre-est/admin_ceremabase,True
 https://gitlab.com/CSTB/geocoding_tools,True
 https://gitlab.com/CSTB/ifc2x3-SDK,True
 https://gitlab.com/CSTB/mathis,True
