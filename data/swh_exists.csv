@@ -4544,6 +4544,8 @@ https://gitlab.inria.fr/stopcovid19/stopcovid-blesdk-android,False
 https://gitlab.inria.fr/stopcovid19/stopcovid-blesdk-ios,False
 https://gitlab.inria.fr/stopcovid19/stopcovid-robertsdk-android,True
 https://gitlab.inria.fr/stopcovid19/stopcovid-robertsdk-ios,True
+https://gitlab.inria.fr/stopcovid19/submission-code-server,False
+https://gitlab.inria.fr/stopcovid19/submission-code-server-client-api-spec,False
 https://gitlab.inria.fr/synalp/python4nlp-2019-public,True
 https://gitlab.inria.fr/synalp/website,True
 https://gitlab.inria.fr/synchrone/heptagon,True
