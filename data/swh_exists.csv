@@ -1173,7 +1173,7 @@ https://github.com/LAB-MI/api.gouv.fr,True
 https://github.com/LAB-MI/candilib,True
 https://github.com/LAB-MI/candilibV2,True
 https://github.com/LAB-MI/covid-19-certificate,True
-https://github.com/LAB-MI/demande-masques-covid-19,False
+https://github.com/LAB-MI/demande-masques-covid-19,True
 https://github.com/LAB-MI/deplacement-codiv-19,False
 https://github.com/LAB-MI/deplacement-covid-19,True
 https://github.com/LAB-MI/remise-masques-covid-19,True
@@ -3972,7 +3972,7 @@ https://gitlab.huma-num.fr/lamop/yersinia,True
 https://gitlab.huma-num.fr/mshs-poitiers/xmlify,True
 https://gitlab.huma-num.fr/nakala-tools/nakalot,True
 https://gitlab.huma-num.fr/nakala-tools/nakanav,True
-https://gitlab.huma-num.fr/portic/navigocorpus,False
+https://gitlab.huma-num.fr/portic/navigocorpus,True
 https://gitlab.huma-num.fr/portic/porticapi,True
 https://gitlab.huma-num.fr/rzine/Rzine_actu,True
 https://gitlab.huma-num.fr/rzine/documentation,True
@@ -4540,6 +4540,8 @@ https://gitlab.inria.fr/starpu/starpu,True
 https://gitlab.inria.fr/stopcovid19/accueil,True
 https://gitlab.inria.fr/stopcovid19/robert-client-api-spec,True
 https://gitlab.inria.fr/stopcovid19/robert-server,True
+https://gitlab.inria.fr/stopcovid19/stopcovid-blesdk-android,False
+https://gitlab.inria.fr/stopcovid19/stopcovid-blesdk-ios,False
 https://gitlab.inria.fr/stopcovid19/stopcovid-robertsdk-android,True
 https://gitlab.inria.fr/stopcovid19/stopcovid-robertsdk-ios,True
 https://gitlab.inria.fr/synalp/python4nlp-2019-public,True
