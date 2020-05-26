@@ -1616,7 +1616,7 @@ https://github.com/SocialGouv/standup2,True
 https://github.com/SocialGouv/suggest,True
 https://github.com/SocialGouv/support,True
 https://github.com/SocialGouv/template.data.gouv.fr.react,True
-https://github.com/SocialGouv/test-renovate,False
+https://github.com/SocialGouv/test-renovate,True
 https://github.com/SocialGouv/tocbot,True
 https://github.com/SocialGouv/tools,True
 https://github.com/SocialGouv/tps,True
@@ -4544,6 +4544,7 @@ https://gitlab.inria.fr/stopcovid19/robert-server,True
 https://gitlab.inria.fr/stopcovid19/stopcovid-android,False
 https://gitlab.inria.fr/stopcovid19/stopcovid-blesdk-android,True
 https://gitlab.inria.fr/stopcovid19/stopcovid-blesdk-ios,True
+https://gitlab.inria.fr/stopcovid19/stopcovid-ios,True
 https://gitlab.inria.fr/stopcovid19/stopcovid-robertsdk-android,True
 https://gitlab.inria.fr/stopcovid19/stopcovid-robertsdk-ios,True
 https://gitlab.inria.fr/stopcovid19/submission-code-server,False
