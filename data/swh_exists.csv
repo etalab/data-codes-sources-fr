@@ -187,6 +187,7 @@ https://git.ademe.fr/docker/httpd-php,True
 https://git.ademe.fr/docker/phpfpm,True
 https://git.ademe.fr/docker/ssh-sftp,False
 https://git.ademe.fr/docker/sshd-sftp,True
+https://git.ademe.fr/open-source/annuaire-de-la-reparation,False
 https://git.unicaen.fr/open-source/OSE,True
 https://git.unicaen.fr/open-source/sygal,True
 https://git.unicaen.fr/open-source/sygal-doc,True
