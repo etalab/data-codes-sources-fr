@@ -187,7 +187,7 @@ https://git.ademe.fr/docker/httpd-php,True
 https://git.ademe.fr/docker/phpfpm,True
 https://git.ademe.fr/docker/ssh-sftp,False
 https://git.ademe.fr/docker/sshd-sftp,True
-https://git.ademe.fr/open-source/annuaire-de-la-reparation,False
+https://git.ademe.fr/open-source/annuaire-de-la-reparation,True
 https://git.unicaen.fr/open-source/OSE,True
 https://git.unicaen.fr/open-source/sygal,True
 https://git.unicaen.fr/open-source/sygal-doc,True
@@ -1908,6 +1908,7 @@ https://github.com/betagouv/blog.beta.gouv.fr,True
 https://github.com/betagouv/blog.dossiersco.fr,True
 https://github.com/betagouv/bourses,True
 https://github.com/betagouv/boussole,True
+https://github.com/betagouv/budget,False
 https://github.com/betagouv/calcul-co2-inverse,True
 https://github.com/betagouv/ccas,True
 https://github.com/betagouv/cerfa-form-filler,True
