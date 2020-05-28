@@ -1618,6 +1618,7 @@ https://github.com/SocialGouv/suggest,True
 https://github.com/SocialGouv/support,True
 https://github.com/SocialGouv/template.data.gouv.fr.react,True
 https://github.com/SocialGouv/test-renovate,True
+https://github.com/SocialGouv/test-renovate-cdtn,False
 https://github.com/SocialGouv/tocbot,True
 https://github.com/SocialGouv/tools,True
 https://github.com/SocialGouv/tps,True
@@ -2883,6 +2884,7 @@ https://github.com/etalab/sorry.data.gouv.fr,True
 https://github.com/etalab/speedtracker,True
 https://github.com/etalab/sprint-open-source,True
 https://github.com/etalab/stars_detective,True
+https://github.com/etalab/tableschema-template,False
 https://github.com/etalab/taxe-fonciere,True
 https://github.com/etalab/taxe-habitation,True
 https://github.com/etalab/template-jekyll,True
@@ -3920,7 +3922,7 @@ https://gitlab.huma-num.fr/cbma/nosketch_engine-dockerfile,True
 https://gitlab.huma-num.fr/cbma/outil-epigraphie,True
 https://gitlab.huma-num.fr/cbma/txm,True
 https://gitlab.huma-num.fr/consortium3d/aLTAG3D,True
-https://gitlab.huma-num.fr/cosme/telma_chartes_imports,False
+https://gitlab.huma-num.fr/cosme/telma_chartes_imports,True
 https://gitlab.huma-num.fr/eurhisfirm/annuaires-favre,True
 https://gitlab.huma-num.fr/eurhisfirm/biryani,True
 https://gitlab.huma-num.fr/eurhisfirm/dfih-open-data,True
