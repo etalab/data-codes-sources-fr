@@ -2757,6 +2757,7 @@ https://github.com/etalab/datagouv-search-indicator,True
 https://github.com/etalab/datasets_reco,True
 https://github.com/etalab/de-dpe-processing,True
 https://github.com/etalab/de-quality-processing,True
+https://github.com/etalab/de-resources-app-ui,False
 https://github.com/etalab/decoupage-administratif,True
 https://github.com/etalab/decp-rama,True
 https://github.com/etalab/deleted-datasets-schema,True
@@ -4553,7 +4554,7 @@ https://gitlab.inria.fr/stopcovid19/stopcovid-blesdk-ios,True
 https://gitlab.inria.fr/stopcovid19/stopcovid-ios,True
 https://gitlab.inria.fr/stopcovid19/stopcovid-robertsdk-android,True
 https://gitlab.inria.fr/stopcovid19/stopcovid-robertsdk-ios,True
-https://gitlab.inria.fr/stopcovid19/submission-code-server,False
+https://gitlab.inria.fr/stopcovid19/submission-code-server,True
 https://gitlab.inria.fr/stopcovid19/submission-code-server-client-api-spec,True
 https://gitlab.inria.fr/synalp/python4nlp-2019-public,True
 https://gitlab.inria.fr/synalp/website,True
