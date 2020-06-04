@@ -3294,7 +3294,8 @@ https://github.com/medialab/unfccc-scrap-snippet,True
 https://github.com/medialab/ural,True
 https://github.com/medialab/webclim_analyses,True
 https://github.com/medialab/webclim_analyses_covid19,True
-https://github.com/medialab/webclim_temporal_evolution_facebook,False
+https://github.com/medialab/webclim_propagation_graphs_facebook,False
+https://github.com/medialab/webclim_temporal_evolution_facebook,True
 https://github.com/medialab/website,True
 https://github.com/medialab/well-being-metrics,True
 https://github.com/medialab/zup,True
