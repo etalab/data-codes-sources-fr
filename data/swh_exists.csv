@@ -90,6 +90,7 @@ https://forgemia.inra.fr/pappso/beads,True
 https://forgemia.inra.fr/pappso/custompwiz,True
 https://forgemia.inra.fr/pappso/groupingprotein,True
 https://forgemia.inra.fr/pappso/libodsstream,True
+https://forgemia.inra.fr/pappso/libpwizlite,False
 https://forgemia.inra.fr/pappso/masschroq,True
 https://forgemia.inra.fr/pappso/massxpert,True
 https://forgemia.inra.fr/pappso/mcqr,True
@@ -610,8 +611,10 @@ https://github.com/CNRS-DSI-Dev/user_set_password,True
 https://github.com/CNRS-DSI-Dev/user_share_guest,True
 https://github.com/Cour-des-comptes/open-anafi-backend,True
 https://github.com/Cour-des-comptes/open-anafi-frontend,True
+https://github.com/DGA-MI-SSI/Afl-taenia-mt,False
 https://github.com/DGA-MI-SSI/T-Brop,True
 https://github.com/DGA-MI-SSI/YaCo,True
+https://github.com/DGA-MI-SSI/unicorn-ppc,False
 https://github.com/DGAC/MattermostModule,True
 https://github.com/DGAC/asterix-replay,False
 https://github.com/DGAC/asterix-tool,True
@@ -3530,6 +3533,7 @@ https://github.com/openfun/proctoru-xblock,True
 https://github.com/openfun/ralph,True
 https://github.com/openfun/richie,True
 https://github.com/openfun/richie-cnfpt,True
+https://github.com/openfun/richie-site-factory,False
 https://github.com/openfun/subsrt,True
 https://github.com/openfun/svg-converter,True
 https://github.com/openfun/videofront,True
