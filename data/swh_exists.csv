@@ -3292,6 +3292,7 @@ https://github.com/medialab/unfccc-scrap-snippet,True
 https://github.com/medialab/ural,True
 https://github.com/medialab/webclim_analyses,True
 https://github.com/medialab/webclim_analyses_covid19,True
+https://github.com/medialab/webclim_temporal_evolution_facebook,False
 https://github.com/medialab/website,True
 https://github.com/medialab/well-being-metrics,True
 https://github.com/medialab/zup,True
@@ -3479,6 +3480,7 @@ https://github.com/openfun/cookiecutter-docker,True
 https://github.com/openfun/crowdin-docker,True
 https://github.com/openfun/cs_comments_service,True
 https://github.com/openfun/django-cong-2018,True
+https://github.com/openfun/django-lti-toolbox,False
 https://github.com/openfun/django-wiki,True
 https://github.com/openfun/dmcloud,True
 https://github.com/openfun/dmcloud-migrate,True
