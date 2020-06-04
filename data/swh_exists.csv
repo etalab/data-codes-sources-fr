@@ -2179,6 +2179,7 @@ https://github.com/cea-hpc/pdwfs,True
 https://github.com/cea-hpc/phobos,True
 https://github.com/cea-hpc/puppet-gluster,True
 https://github.com/cea-hpc/rbh-find,True
+https://github.com/cea-hpc/rbh-fsevents,False
 https://github.com/cea-hpc/rbh-sync,True
 https://github.com/cea-hpc/robinhood,True
 https://github.com/cea-hpc/selFIe,True
@@ -2717,6 +2718,7 @@ https://github.com/etalab/calculette-impots-exemples,True
 https://github.com/etalab/calculette-impots-m-language-parser,True
 https://github.com/etalab/calculette-impots-m-source-code,True
 https://github.com/etalab/calendrier-lavent,True
+https://github.com/etalab/calendrier.api.gouv.fr,False
 https://github.com/etalab/cartes.data.gouv.fr,True
 https://github.com/etalab/carto-map-jurpol,True
 https://github.com/etalab/carto_actions_collectives,True
