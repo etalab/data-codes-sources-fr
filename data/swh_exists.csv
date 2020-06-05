@@ -611,7 +611,7 @@ https://github.com/CNRS-DSI-Dev/user_set_password,True
 https://github.com/CNRS-DSI-Dev/user_share_guest,True
 https://github.com/Cour-des-comptes/open-anafi-backend,True
 https://github.com/Cour-des-comptes/open-anafi-frontend,True
-https://github.com/DGA-MI-SSI/Afl-taenia-mt,False
+https://github.com/DGA-MI-SSI/Afl-taenia-mt,True
 https://github.com/DGA-MI-SSI/T-Brop,True
 https://github.com/DGA-MI-SSI/YaCo,True
 https://github.com/DGA-MI-SSI/unicorn-ppc,False
@@ -1242,7 +1242,7 @@ https://github.com/MTES-MCT/bulk-geocoding-python-client,True
 https://github.com/MTES-MCT/camino-api,True
 https://github.com/MTES-MCT/camino-database,True
 https://github.com/MTES-MCT/camino-flux,True
-https://github.com/MTES-MCT/camino-flux-QGIS,False
+https://github.com/MTES-MCT/camino-flux-QGIS,True
 https://github.com/MTES-MCT/camino-imports-geojson,True
 https://github.com/MTES-MCT/camino-imports-postgres,True
 https://github.com/MTES-MCT/camino-imports-spreadsheet-jorf,True
@@ -1764,6 +1764,7 @@ https://github.com/afimb/siri-validator,True
 https://github.com/afimb/siri_api,True
 https://github.com/afimb/siri_lite,True
 https://github.com/afimb/webtopo_api,True
+https://github.com/ambanum/CGUs,False
 https://github.com/ambanum/DormantTwitterAccountsDetector,True
 https://github.com/ambanum/ParisCall,True
 https://github.com/ambanum/TwitterAccountsHistory,True
