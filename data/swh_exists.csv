@@ -3294,7 +3294,7 @@ https://github.com/medialab/unfccc-scrap-snippet,True
 https://github.com/medialab/ural,True
 https://github.com/medialab/webclim_analyses,True
 https://github.com/medialab/webclim_analyses_covid19,True
-https://github.com/medialab/webclim_propagation_graphs_facebook,False
+https://github.com/medialab/webclim_propagation_graphs_facebook,True
 https://github.com/medialab/webclim_temporal_evolution_facebook,True
 https://github.com/medialab/website,True
 https://github.com/medialab/well-being-metrics,True
@@ -3538,7 +3538,7 @@ https://github.com/openfun/proctoru-xblock,True
 https://github.com/openfun/ralph,True
 https://github.com/openfun/richie,True
 https://github.com/openfun/richie-cnfpt,True
-https://github.com/openfun/richie-site-factory,False
+https://github.com/openfun/richie-site-factory,True
 https://github.com/openfun/subsrt,True
 https://github.com/openfun/svg-converter,True
 https://github.com/openfun/videofront,True
