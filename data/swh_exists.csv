@@ -1242,6 +1242,7 @@ https://github.com/MTES-MCT/bulk-geocoding-python-client,True
 https://github.com/MTES-MCT/camino-api,True
 https://github.com/MTES-MCT/camino-database,True
 https://github.com/MTES-MCT/camino-flux,True
+https://github.com/MTES-MCT/camino-flux-QGIS,False
 https://github.com/MTES-MCT/camino-imports-geojson,True
 https://github.com/MTES-MCT/camino-imports-postgres,True
 https://github.com/MTES-MCT/camino-imports-spreadsheet-jorf,True
@@ -1871,6 +1872,7 @@ https://github.com/betagouv/OpenFiscaFrance.jl,True
 https://github.com/betagouv/OpenLawEditor,True
 https://github.com/betagouv/PeerTube,True
 https://github.com/betagouv/StopCovid,True
+https://github.com/betagouv/a11y-generateur-declaration,False
 https://github.com/betagouv/admin-traitdunion,True
 https://github.com/betagouv/allegement-fillon,True
 https://github.com/betagouv/andi,True
@@ -1971,6 +1973,7 @@ https://github.com/betagouv/francaisaletranger,True
 https://github.com/betagouv/francaisaletranger-api,True
 https://github.com/betagouv/freescout,True
 https://github.com/betagouv/geoplus,True
+https://github.com/betagouv/glossary-bot,False
 https://github.com/betagouv/gps-usagers,True
 https://github.com/betagouv/grafana-scalingo,True
 https://github.com/betagouv/heroku-buildpack-ruby,True
