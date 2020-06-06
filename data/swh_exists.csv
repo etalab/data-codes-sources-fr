@@ -1873,7 +1873,7 @@ https://github.com/betagouv/OpenFiscaFrance.jl,True
 https://github.com/betagouv/OpenLawEditor,True
 https://github.com/betagouv/PeerTube,True
 https://github.com/betagouv/StopCovid,True
-https://github.com/betagouv/a11y-generateur-declaration,False
+https://github.com/betagouv/a11y-generateur-declaration,True
 https://github.com/betagouv/admin-traitdunion,True
 https://github.com/betagouv/allegement-fillon,True
 https://github.com/betagouv/andi,True
@@ -3818,7 +3818,7 @@ https://github.com/wookey-project/perms-matrix-disco407-samples,True
 https://github.com/wookey-project/perms-matrix-woocan,True
 https://github.com/wookey-project/perms-matrix-wookey,True
 https://github.com/wookey-project/tataouine,True
-https://github.com/wookey-project/tataouine-configs,False
+https://github.com/wookey-project/tataouine-configs,True
 https://github.com/wookey-project/tataouine-layouts,False
 https://github.com/wookey-project/wookey-docker,True
 https://github.com/wookey-project/wookey-project.github.io,True
