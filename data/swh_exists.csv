@@ -1764,7 +1764,7 @@ https://github.com/afimb/siri-validator,True
 https://github.com/afimb/siri_api,True
 https://github.com/afimb/siri_lite,True
 https://github.com/afimb/webtopo_api,True
-https://github.com/ambanum/CGUs,False
+https://github.com/ambanum/CGUs,True
 https://github.com/ambanum/DormantTwitterAccountsDetector,True
 https://github.com/ambanum/ParisCall,True
 https://github.com/ambanum/TwitterAccountsHistory,True
@@ -4644,6 +4644,8 @@ https://gitlab.irstea.fr/copain/weather2017,True
 https://gitlab.irstea.fr/cormas-dev/r-cormas,True
 https://gitlab.irstea.fr/emax/bddfontblanche,True
 https://gitlab.irstea.fr/geopat/geopat,True
+https://gitlab.irstea.fr/hru-delin-dev/hru-delin,False
+https://gitlab.irstea.fr/hru-delin-dev/hru-delin-qgis,False
 https://gitlab.irstea.fr/in-wop/multivgest,False
 https://gitlab.irstea.fr/in-wop/vgest,False
 https://gitlab.irstea.fr/irrig/public,True
@@ -4660,6 +4662,7 @@ https://gitlab.irstea.fr/reversaal/OhmPi,True
 https://gitlab.irstea.fr/reversaal/wetlands_xray_tomopgraphy,True
 https://gitlab.irstea.fr/support/wiki,True
 https://gitlab.irstea.fr/vino/Vino,True
+https://gitlab.irstea.fr/watasitdev/j2k-coupling,False
 https://gitlab.ow2.org/lemonldap-ng/lemonldap-ng,True
 https://gitlab.ow2.org/lemonldap-ng/vue-manager-for-llng,True
 https://gitlab.ow2.org/lemonldap-ng/website-landing-page,True
