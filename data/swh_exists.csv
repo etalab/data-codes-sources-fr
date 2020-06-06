@@ -2377,7 +2377,7 @@ https://github.com/consultation-gouv/specs-apis-deploiement,True
 https://github.com/cstb/citygml-energy,True
 https://github.com/cstb/conan-package-tools,True
 https://github.com/cstb/ifc-sdk,True
-https://github.com/cstb/jupyterhub-docker,False
+https://github.com/cstb/jupyterhub-docker,True
 https://github.com/cstb/pomegranate,True
 https://github.com/cstb/qt5-swagger-codegen,True
 https://github.com/cstb/swagger-codegen,True
