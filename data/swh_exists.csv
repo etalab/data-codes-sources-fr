@@ -2722,7 +2722,7 @@ https://github.com/etalab/calculette-impots-exemples,True
 https://github.com/etalab/calculette-impots-m-language-parser,True
 https://github.com/etalab/calculette-impots-m-source-code,True
 https://github.com/etalab/calendrier-lavent,True
-https://github.com/etalab/calendrier.api.gouv.fr,False
+https://github.com/etalab/calendrier.api.gouv.fr,True
 https://github.com/etalab/cartes.data.gouv.fr,True
 https://github.com/etalab/carto-map-jurpol,True
 https://github.com/etalab/carto_actions_collectives,True
@@ -4647,7 +4647,7 @@ https://gitlab.irstea.fr/geopat/geopat,True
 https://gitlab.irstea.fr/hru-delin-dev/hru-delin,False
 https://gitlab.irstea.fr/hru-delin-dev/hru-delin-qgis,False
 https://gitlab.irstea.fr/in-wop/multivgest,False
-https://gitlab.irstea.fr/in-wop/vgest,False
+https://gitlab.irstea.fr/in-wop/vgest,True
 https://gitlab.irstea.fr/irrig/public,True
 https://gitlab.irstea.fr/irstea-ros/ads1115_driver,True
 https://gitlab.irstea.fr/irstea-ros/labjack_driver,True
