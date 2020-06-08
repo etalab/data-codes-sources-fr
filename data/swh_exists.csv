@@ -306,6 +306,7 @@ https://git.unistra.fr/pub/SupportPortal-aid,True
 https://git.unistra.fr/pub/revealjs-generator,True
 https://git.unistra.fr/ruizfabo/methal-sources,True
 https://git.unistra.fr/s2/a21,False
+https://git.unistra.fr/s2/a22-projet,False
 https://git.unistra.fr/s2/m22,True
 https://git.unistra.fr/s2/p21,True
 https://git.unistra.fr/s2/s21,True
@@ -614,6 +615,7 @@ https://github.com/Cour-des-comptes/open-anafi-frontend,True
 https://github.com/DGA-MI-SSI/Afl-taenia-mt,True
 https://github.com/DGA-MI-SSI/T-Brop,True
 https://github.com/DGA-MI-SSI/YaCo,True
+https://github.com/DGA-MI-SSI/unicorn,False
 https://github.com/DGA-MI-SSI/unicorn-ppc,False
 https://github.com/DGAC/MattermostModule,True
 https://github.com/DGAC/asterix-replay,False
@@ -4647,7 +4649,7 @@ https://gitlab.irstea.fr/emax/bddfontblanche,True
 https://gitlab.irstea.fr/geopat/geopat,True
 https://gitlab.irstea.fr/hru-delin-dev/hru-delin,False
 https://gitlab.irstea.fr/hru-delin-dev/hru-delin-qgis,False
-https://gitlab.irstea.fr/in-wop/multivgest,False
+https://gitlab.irstea.fr/in-wop/multivgest,True
 https://gitlab.irstea.fr/in-wop/vgest,True
 https://gitlab.irstea.fr/irrig/public,True
 https://gitlab.irstea.fr/irstea-ros/ads1115_driver,True
