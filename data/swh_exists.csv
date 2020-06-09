@@ -616,7 +616,7 @@ https://github.com/DGA-MI-SSI/Afl-taenia-mt,True
 https://github.com/DGA-MI-SSI/T-Brop,True
 https://github.com/DGA-MI-SSI/YaCo,True
 https://github.com/DGA-MI-SSI/unicorn,False
-https://github.com/DGA-MI-SSI/unicorn-ppc,False
+https://github.com/DGA-MI-SSI/unicorn-ppc,True
 https://github.com/DGAC/MattermostModule,True
 https://github.com/DGAC/asterix-replay,False
 https://github.com/DGAC/asterix-tool,True
@@ -4651,7 +4651,7 @@ https://gitlab.irstea.fr/copain/weather2017,True
 https://gitlab.irstea.fr/cormas-dev/r-cormas,True
 https://gitlab.irstea.fr/emax/bddfontblanche,True
 https://gitlab.irstea.fr/geopat/geopat,True
-https://gitlab.irstea.fr/hru-delin-dev/hru-delin,False
+https://gitlab.irstea.fr/hru-delin-dev/hru-delin,True
 https://gitlab.irstea.fr/hru-delin-dev/hru-delin-qgis,False
 https://gitlab.irstea.fr/in-wop/multivgest,True
 https://gitlab.irstea.fr/in-wop/vgest,True
