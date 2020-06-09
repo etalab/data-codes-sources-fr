@@ -1767,6 +1767,7 @@ https://github.com/afimb/siri_api,True
 https://github.com/afimb/siri_lite,True
 https://github.com/afimb/webtopo_api,True
 https://github.com/ambanum/CGUs,True
+https://github.com/ambanum/CGUs-ops,False
 https://github.com/ambanum/DormantTwitterAccountsDetector,True
 https://github.com/ambanum/ParisCall,True
 https://github.com/ambanum/TwitterAccountsHistory,True
@@ -1995,6 +1996,7 @@ https://github.com/betagouv/lapin,True
 https://github.com/betagouv/leximpact-client,True
 https://github.com/betagouv/leximpact-server,True
 https://github.com/betagouv/logstash-boilerplate,True
+https://github.com/betagouv/loomio,False
 https://github.com/betagouv/ludwig,True
 https://github.com/betagouv/ludwig-api,True
 https://github.com/betagouv/ludwig-ui,True
@@ -4631,6 +4633,8 @@ https://gitlab.inria.fr/zefxis/use-cases,True
 https://gitlab.inria.fr/zhozhang/zhongkai-zhang,True
 https://gitlab.irstea.fr/HYCAR-Hydro/ExcelGR,True
 https://gitlab.irstea.fr/HYCAR-Hydro/airgr,True
+https://gitlab.irstea.fr/HYCAR-Hydro/airgrassim,False
+https://gitlab.irstea.fr/HYCAR-Hydro/airgrdatassim,False
 https://gitlab.irstea.fr/HYCAR-Hydro/airgrteaching,True
 https://gitlab.irstea.fr/HYCAR-Hydro/baseflow,True
 https://gitlab.irstea.fr/HYCAR-Hydro/diagramgrmodels,True
