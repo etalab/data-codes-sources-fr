@@ -615,7 +615,7 @@ https://github.com/Cour-des-comptes/open-anafi-frontend,True
 https://github.com/DGA-MI-SSI/Afl-taenia-mt,True
 https://github.com/DGA-MI-SSI/T-Brop,True
 https://github.com/DGA-MI-SSI/YaCo,True
-https://github.com/DGA-MI-SSI/unicorn,False
+https://github.com/DGA-MI-SSI/unicorn,True
 https://github.com/DGA-MI-SSI/unicorn-ppc,True
 https://github.com/DGAC/MattermostModule,True
 https://github.com/DGAC/asterix-replay,False
@@ -3825,7 +3825,7 @@ https://github.com/wookey-project/perms-matrix-woocan,True
 https://github.com/wookey-project/perms-matrix-wookey,True
 https://github.com/wookey-project/tataouine,True
 https://github.com/wookey-project/tataouine-configs,True
-https://github.com/wookey-project/tataouine-layouts,False
+https://github.com/wookey-project/tataouine-layouts,True
 https://github.com/wookey-project/wookey-docker,True
 https://github.com/wookey-project/wookey-project.github.io,True
 https://github.com/wookey-project/wookeypedia,True
@@ -4639,9 +4639,9 @@ https://gitlab.irstea.fr/HYCAR-Hydro/airgrdatassim,False
 https://gitlab.irstea.fr/HYCAR-Hydro/airgrmaps,False
 https://gitlab.irstea.fr/HYCAR-Hydro/airgrteaching,True
 https://gitlab.irstea.fr/HYCAR-Hydro/baseflow,True
-https://gitlab.irstea.fr/HYCAR-Hydro/basinsample,False
+https://gitlab.irstea.fr/HYCAR-Hydro/basinsample,True
 https://gitlab.irstea.fr/HYCAR-Hydro/diagramgrmodels,True
-https://gitlab.irstea.fr/HYCAR-Hydro/profilshydro,False
+https://gitlab.irstea.fr/HYCAR-Hydro/profilshydro,True
 https://gitlab.irstea.fr/SimAquaLife/GR3D,True
 https://gitlab.irstea.fr/SimAquaLife/PikeLake,True
 https://gitlab.irstea.fr/SimAquaLife/PredatorPrey,True
