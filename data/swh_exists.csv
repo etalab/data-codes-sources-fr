@@ -2754,6 +2754,7 @@ https://github.com/etalab/couverture-urbanisme,True
 https://github.com/etalab/covid19-dashboard,True
 https://github.com/etalab/covid19-data,True
 https://github.com/etalab/covid19-orientation,True
+https://github.com/etalab/covid19-timeline,False
 https://github.com/etalab/cowbots,True
 https://github.com/etalab/croquemort,True
 https://github.com/etalab/csv-gg,True
@@ -3486,6 +3487,7 @@ https://github.com/openfisca/tracker,True
 https://github.com/openfisca/tutorial,True
 https://github.com/openfun/arnold,True
 https://github.com/openfun/ashley,True
+https://github.com/openfun/bbb-stress-test,False
 https://github.com/openfun/celery-redis-sentinel,True
 https://github.com/openfun/cloudkey-py,True
 https://github.com/openfun/configuration,True
