@@ -3487,7 +3487,7 @@ https://github.com/openfisca/tracker,True
 https://github.com/openfisca/tutorial,True
 https://github.com/openfun/arnold,True
 https://github.com/openfun/ashley,True
-https://github.com/openfun/bbb-stress-test,False
+https://github.com/openfun/bbb-stress-test,True
 https://github.com/openfun/celery-redis-sentinel,True
 https://github.com/openfun/cloudkey-py,True
 https://github.com/openfun/configuration,True
@@ -3495,7 +3495,7 @@ https://github.com/openfun/cookiecutter-docker,True
 https://github.com/openfun/crowdin-docker,True
 https://github.com/openfun/cs_comments_service,True
 https://github.com/openfun/django-cong-2018,True
-https://github.com/openfun/django-lti-toolbox,False
+https://github.com/openfun/django-lti-toolbox,True
 https://github.com/openfun/django-wiki,True
 https://github.com/openfun/dmcloud,True
 https://github.com/openfun/dmcloud-migrate,True
