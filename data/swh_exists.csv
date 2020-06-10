@@ -3334,6 +3334,7 @@ https://github.com/messagerie-melanie2/Roundcube-Skin-Melanie2-Larry,True
 https://github.com/messagerie-melanie2/Roundcube-Skin-Melanie2-Larry-Mobile,True
 https://github.com/messagerie-melanie2/Roundcube-plugins-Mel,True
 https://github.com/messagerie-melanie2/SabreDAVM2,True
+https://github.com/messagerie-melanie2/mel-electron,False
 https://github.com/messagerie-melanie2/mel_archivage,True
 https://github.com/meteofrance/formation-deep-learning,True
 https://github.com/meteofrance/formation-mlflow,True
@@ -4635,9 +4636,12 @@ https://gitlab.irstea.fr/HYCAR-Hydro/ExcelGR,True
 https://gitlab.irstea.fr/HYCAR-Hydro/airgr,True
 https://gitlab.irstea.fr/HYCAR-Hydro/airgrassim,False
 https://gitlab.irstea.fr/HYCAR-Hydro/airgrdatassim,False
+https://gitlab.irstea.fr/HYCAR-Hydro/airgrmaps,False
 https://gitlab.irstea.fr/HYCAR-Hydro/airgrteaching,True
 https://gitlab.irstea.fr/HYCAR-Hydro/baseflow,True
+https://gitlab.irstea.fr/HYCAR-Hydro/basinsample,False
 https://gitlab.irstea.fr/HYCAR-Hydro/diagramgrmodels,True
+https://gitlab.irstea.fr/HYCAR-Hydro/profilshydro,False
 https://gitlab.irstea.fr/SimAquaLife/GR3D,True
 https://gitlab.irstea.fr/SimAquaLife/PikeLake,True
 https://gitlab.irstea.fr/SimAquaLife/PredatorPrey,True
