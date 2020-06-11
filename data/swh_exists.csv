@@ -90,7 +90,7 @@ https://forgemia.inra.fr/pappso/beads,True
 https://forgemia.inra.fr/pappso/custompwiz,True
 https://forgemia.inra.fr/pappso/groupingprotein,True
 https://forgemia.inra.fr/pappso/libodsstream,True
-https://forgemia.inra.fr/pappso/libpwizlite,False
+https://forgemia.inra.fr/pappso/libpwizlite,True
 https://forgemia.inra.fr/pappso/masschroq,True
 https://forgemia.inra.fr/pappso/massxpert,True
 https://forgemia.inra.fr/pappso/mcqr,True
@@ -1202,6 +1202,7 @@ https://github.com/LINCnil/CNIL-Cookies-List,True
 https://github.com/LINCnil/Cabanon,True
 https://github.com/LINCnil/Cookie-consent_Google-Analytics,True
 https://github.com/LINCnil/CookieViz,True
+https://github.com/LINCnil/GDPR-Developer-Guide,False
 https://github.com/LINCnil/Guide-RGPD-du-developpeur,True
 https://github.com/LINCnil/Hally-L-oracle-du-net,True
 https://github.com/LINCnil/Phrase2passe,True
@@ -1947,6 +1948,8 @@ https://github.com/betagouv/dialogue-de-gestion,True
 https://github.com/betagouv/discourse-oauth2-basic,True
 https://github.com/betagouv/django-magicauth,True
 https://github.com/betagouv/dns,True
+https://github.com/betagouv/doc.incubateur.net-communaute,False
+https://github.com/betagouv/doc.incubateur.net-startups,False
 https://github.com/betagouv/docs.dossiersco.fr,True
 https://github.com/betagouv/documentation,True
 https://github.com/betagouv/domain-scan,True
@@ -2754,7 +2757,7 @@ https://github.com/etalab/couverture-urbanisme,True
 https://github.com/etalab/covid19-dashboard,True
 https://github.com/etalab/covid19-data,True
 https://github.com/etalab/covid19-orientation,True
-https://github.com/etalab/covid19-timeline,False
+https://github.com/etalab/covid19-timeline,True
 https://github.com/etalab/cowbots,True
 https://github.com/etalab/croquemort,True
 https://github.com/etalab/csv-gg,True
@@ -4637,7 +4640,7 @@ https://gitlab.inria.fr/zhozhang/zhongkai-zhang,True
 https://gitlab.irstea.fr/HYCAR-Hydro/ExcelGR,True
 https://gitlab.irstea.fr/HYCAR-Hydro/airgr,True
 https://gitlab.irstea.fr/HYCAR-Hydro/airgrassim,False
-https://gitlab.irstea.fr/HYCAR-Hydro/airgrdatassim,False
+https://gitlab.irstea.fr/HYCAR-Hydro/airgrdatassim,True
 https://gitlab.irstea.fr/HYCAR-Hydro/airgrmaps,False
 https://gitlab.irstea.fr/HYCAR-Hydro/airgrteaching,True
 https://gitlab.irstea.fr/HYCAR-Hydro/baseflow,True
