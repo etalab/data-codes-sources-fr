@@ -2837,7 +2837,7 @@ https://github.com/etalab/id.data.gouv.fr,True
 https://github.com/etalab/infolettre-lab-ia,True
 https://github.com/etalab/inspire-cartes-producteurs,True
 https://github.com/etalab/inventaire-codes-sources-organismes-publics,True
-https://github.com/etalab/iris,False
+https://github.com/etalab/iris,True
 https://github.com/etalab/irve,True
 https://github.com/etalab/jours-feries-france,True
 https://github.com/etalab/jours-feries-france-api,True
@@ -3339,7 +3339,7 @@ https://github.com/messagerie-melanie2/Roundcube-Skin-Melanie2-Larry,True
 https://github.com/messagerie-melanie2/Roundcube-Skin-Melanie2-Larry-Mobile,True
 https://github.com/messagerie-melanie2/Roundcube-plugins-Mel,True
 https://github.com/messagerie-melanie2/SabreDAVM2,True
-https://github.com/messagerie-melanie2/mel-electron,False
+https://github.com/messagerie-melanie2/mel-electron,True
 https://github.com/messagerie-melanie2/mel_archivage,True
 https://github.com/meteofrance/formation-deep-learning,True
 https://github.com/meteofrance/formation-mlflow,True
@@ -4016,6 +4016,7 @@ https://gitlab.huma-num.fr/rzine/Rzine_actu,True
 https://gitlab.huma-num.fr/rzine/documentation,True
 https://gitlab.huma-num.fr/tip/test,True
 https://gitlab.huma-num.fr/txm/textometrie,True
+https://gitlab.huma-num.fr/txm/txm-contrib,False
 https://gitlab.huma-num.fr/txm/txm-manual,True
 https://gitlab.huma-num.fr/txm/txm-software,True
 https://gitlab.in2p3.fr/Enssib/abcdev,True
