@@ -377,7 +377,7 @@ https://github.com/139bercy/cloud-appliance-nexus-repo,True
 https://github.com/139bercy/cloud-appliance-observability,True
 https://github.com/139bercy/decp-docs,True
 https://github.com/139bercy/decp-monitoring,True
-https://github.com/139bercy/decp-projet,False
+https://github.com/139bercy/decp-projet,True
 https://github.com/139bercy/decp-rama,True
 https://github.com/139bercy/docker-ci-tool-stack,True
 https://github.com/139bercy/first-ghpages-by-travis,True
@@ -2858,7 +2858,7 @@ https://github.com/etalab/monitor-consolidation,True
 https://github.com/etalab/monuments-historiques,True
 https://github.com/etalab/munin-plugins,True
 https://github.com/etalab/munin-theme,True
-https://github.com/etalab/noms-de-domaine-organismes-publics,False
+https://github.com/etalab/noms-de-domaine-organismes-publics,True
 https://github.com/etalab/normadresse,True
 https://github.com/etalab/notebooks,True
 https://github.com/etalab/ofsearch,True
