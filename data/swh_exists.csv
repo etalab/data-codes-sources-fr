@@ -1157,6 +1157,7 @@ https://github.com/InseeFr/Pogues-Model,True
 https://github.com/InseeFr/Quatro,True
 https://github.com/InseeFr/Queen,True
 https://github.com/InseeFr/Queen-Back-Office,True
+https://github.com/InseeFr/Trevas,False
 https://github.com/InseeFr/VTL-Tools,True
 https://github.com/InseeFr/Wilco,True
 https://github.com/InseeFr/diffman,True
@@ -1774,7 +1775,7 @@ https://github.com/afimb/siri_api,True
 https://github.com/afimb/siri_lite,True
 https://github.com/afimb/webtopo_api,True
 https://github.com/ambanum/CGUs,True
-https://github.com/ambanum/CGUs-data,False
+https://github.com/ambanum/CGUs-data,True
 https://github.com/ambanum/CGUs-ops,False
 https://github.com/ambanum/DormantTwitterAccountsDetector,True
 https://github.com/ambanum/ParisCall,True
@@ -3042,6 +3043,7 @@ https://github.com/lutece-secteur-public/espacepublic-plugin-dansmarue,True
 https://github.com/lutece-secteur-public/espacepublic-plugin-fodansmarue,True
 https://github.com/lutece-secteur-public/etatcivil-module-formengine-etatcivil,True
 https://github.com/lutece-secteur-public/franceconnect-module-mylutece-franceconnect,True
+https://github.com/lutece-secteur-public/franceconnect-module-oauth2-franceconnect,False
 https://github.com/lutece-secteur-public/franceconnect-plugin-fcsample,True
 https://github.com/lutece-secteur-public/franceconnect-plugin-franceconnect,True
 https://github.com/lutece-secteur-public/gra-plugin-bandeau,True
