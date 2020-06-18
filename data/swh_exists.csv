@@ -1205,7 +1205,7 @@ https://github.com/LINCnil/CNIL-Cookies-List,True
 https://github.com/LINCnil/Cabanon,True
 https://github.com/LINCnil/Cookie-consent_Google-Analytics,True
 https://github.com/LINCnil/CookieViz,True
-https://github.com/LINCnil/GDPR-Developer-Guide,False
+https://github.com/LINCnil/GDPR-Developer-Guide,True
 https://github.com/LINCnil/Guide-RGPD-du-developpeur,True
 https://github.com/LINCnil/Hally-L-oracle-du-net,True
 https://github.com/LINCnil/Phrase2passe,True
@@ -2007,7 +2007,7 @@ https://github.com/betagouv/lapin,True
 https://github.com/betagouv/leximpact-client,True
 https://github.com/betagouv/leximpact-server,True
 https://github.com/betagouv/logstash-boilerplate,True
-https://github.com/betagouv/loomio,False
+https://github.com/betagouv/loomio,True
 https://github.com/betagouv/ludwig,True
 https://github.com/betagouv/ludwig-api,True
 https://github.com/betagouv/ludwig-ui,True
@@ -3043,7 +3043,7 @@ https://github.com/lutece-secteur-public/espacepublic-plugin-dansmarue,True
 https://github.com/lutece-secteur-public/espacepublic-plugin-fodansmarue,True
 https://github.com/lutece-secteur-public/etatcivil-module-formengine-etatcivil,True
 https://github.com/lutece-secteur-public/franceconnect-module-mylutece-franceconnect,True
-https://github.com/lutece-secteur-public/franceconnect-module-oauth2-franceconnect,False
+https://github.com/lutece-secteur-public/franceconnect-module-oauth2-franceconnect,True
 https://github.com/lutece-secteur-public/franceconnect-plugin-fcsample,True
 https://github.com/lutece-secteur-public/franceconnect-plugin-franceconnect,True
 https://github.com/lutece-secteur-public/gra-plugin-bandeau,True
@@ -3499,6 +3499,7 @@ https://github.com/openfisca/support-bot,True
 https://github.com/openfisca/trace-tool,True
 https://github.com/openfisca/tracker,True
 https://github.com/openfisca/tutorial,True
+https://github.com/openfun/ansible-role-bigbluebutton,False
 https://github.com/openfun/arnold,True
 https://github.com/openfun/ashley,True
 https://github.com/openfun/bbb-stress-test,True
