@@ -989,6 +989,7 @@ https://github.com/INRIA/spoon,True
 https://github.com/INRIA/tralics,True
 https://github.com/INRIA/velus,True
 https://github.com/INRIA/zelus,True
+https://github.com/INSIDE-information-systems/API4INSPIRE,False
 https://github.com/INSIDE-information-systems/CO2emissions_email_plugin,True
 https://github.com/INSIDE-information-systems/EnvironmentalSemanticWeb,True
 https://github.com/INSIDE-information-systems/HydrogeologyWxS,True
@@ -4021,6 +4022,7 @@ https://gitlab.huma-num.fr/lamop/yersinia,True
 https://gitlab.huma-num.fr/mshs-poitiers/xmlify,True
 https://gitlab.huma-num.fr/nakala-tools/nakalot,True
 https://gitlab.huma-num.fr/nakala-tools/nakanav,True
+https://gitlab.huma-num.fr/portic/gazetteer,False
 https://gitlab.huma-num.fr/portic/navigocorpus,True
 https://gitlab.huma-num.fr/portic/porticapi,True
 https://gitlab.huma-num.fr/rzine/Rzine_actu,True
