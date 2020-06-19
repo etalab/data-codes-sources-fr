@@ -286,6 +286,8 @@ https://git.unistra.fr/konflict/mobile-app,True
 https://git.unistra.fr/konflict/serveur-central,True
 https://git.unistra.fr/la-table-ronde/ecr19-t4-b,True
 https://git.unistra.fr/les-quatres-cavaliers-de-l-apocalypse-et-les-deux-stagiaires/ihm-projet,False
+https://git.unistra.fr/les-sans-noms/dossiers,False
+https://git.unistra.fr/les-sans-noms/mod-le-serveur,False
 https://git.unistra.fr/les-sans-noms/react_admin_jeux,True
 https://git.unistra.fr/les-sans-noms/serveur-de-jeux-websocket-t-lechargable,True
 https://git.unistra.fr/lo5-antony-et-florian/thegame,True
@@ -1534,7 +1536,7 @@ https://github.com/SocialGouv/bootstrap,True
 https://github.com/SocialGouv/bot,True
 https://github.com/SocialGouv/carnets,True
 https://github.com/SocialGouv/cdtn-admin,True
-https://github.com/SocialGouv/cdtn-api,False
+https://github.com/SocialGouv/cdtn-api,True
 https://github.com/SocialGouv/cdtn-elk,True
 https://github.com/SocialGouv/cdtn-monolog,True
 https://github.com/SocialGouv/cdtn-run,True
