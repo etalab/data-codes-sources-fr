@@ -80,6 +80,7 @@ https://forgemia.inra.fr/genotoul-bioinfo/srna-tabac,True
 https://forgemia.inra.fr/genotoul-bioinfo/tSNPannot,True
 https://forgemia.inra.fr/get-it/nf-assemblshortread,True
 https://forgemia.inra.fr/get-it/nf-taxoaffiliation,True
+https://forgemia.inra.fr/hackathon-portail-calcul/existant,False
 https://forgemia.inra.fr/hackathon-portail-calcul/hackathon_organisation,True
 https://forgemia.inra.fr/metexplore/MetExploreViz,True
 https://forgemia.inra.fr/metexplore/met4j,True
@@ -1961,7 +1962,7 @@ https://github.com/betagouv/discourse-oauth2-basic,True
 https://github.com/betagouv/django-magicauth,True
 https://github.com/betagouv/dns,True
 https://github.com/betagouv/doc.incubateur.net-communaute,True
-https://github.com/betagouv/doc.incubateur.net-startups,False
+https://github.com/betagouv/doc.incubateur.net-startups,True
 https://github.com/betagouv/docs.dossiersco.fr,True
 https://github.com/betagouv/documentation,True
 https://github.com/betagouv/domain-scan,True
@@ -4030,6 +4031,14 @@ https://gitlab.huma-num.fr/portic/navigocorpus,True
 https://gitlab.huma-num.fr/portic/porticapi,True
 https://gitlab.huma-num.fr/rzine/Rzine_actu,True
 https://gitlab.huma-num.fr/rzine/documentation,True
+https://gitlab.huma-num.fr/tip/flatdb4geonames,False
+https://gitlab.huma-num.fr/tip/geneaquilt,False
+https://gitlab.huma-num.fr/tip/graphic-kit,False
+https://gitlab.huma-num.fr/tip/kinsources.net,False
+https://gitlab.huma-num.fr/tip/kintip.net,False
+https://gitlab.huma-num.fr/tip/kiwa,False
+https://gitlab.huma-num.fr/tip/puck,False
+https://gitlab.huma-num.fr/tip/puckinstaller,False
 https://gitlab.huma-num.fr/tip/test,True
 https://gitlab.huma-num.fr/txm/textometrie,True
 https://gitlab.huma-num.fr/txm/txm-contrib,True
