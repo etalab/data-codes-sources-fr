@@ -64,7 +64,7 @@ https://forgemia.inra.fr/enseignement-mistea/reports-with-markdown,True
 https://forgemia.inra.fr/epgv/nlgenomesweeper,True
 https://forgemia.inra.fr/formation/formation-python-inrae,True
 https://forgemia.inra.fr/formation/python-pour-les-biologistes,True
-https://forgemia.inra.fr/gafl/snakemake_modules,False
+https://forgemia.inra.fr/gafl/snakemake_modules,True
 https://forgemia.inra.fr/genotoul-bioinfo/dgenies,True
 https://forgemia.inra.fr/genotoul-bioinfo/dgenies-viewer,True
 https://forgemia.inra.fr/genotoul-bioinfo/jflow,True
@@ -1578,7 +1578,7 @@ https://github.com/SocialGouv/eMJPM-app,True
 https://github.com/SocialGouv/eMJPM-doc,True
 https://github.com/SocialGouv/eMJPM-homepage,True
 https://github.com/SocialGouv/egapro,True
-https://github.com/SocialGouv/egapro-api,False
+https://github.com/SocialGouv/egapro-api,True
 https://github.com/SocialGouv/emjpm,True
 https://github.com/SocialGouv/emjpm-api-doc,True
 https://github.com/SocialGouv/emjpm-design,True
