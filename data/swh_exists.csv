@@ -1033,6 +1033,7 @@ https://github.com/Inist-CNRS/ezmaster-globs,True
 https://github.com/Inist-CNRS/ezmaster-hexo,True
 https://github.com/Inist-CNRS/ezmaster-jekyll,True
 https://github.com/Inist-CNRS/ezmaster-jena-fuseki,True
+https://github.com/Inist-CNRS/ezmaster-libpostal,False
 https://github.com/Inist-CNRS/ezmaster-mongo,True
 https://github.com/Inist-CNRS/ezmaster-mysql,True
 https://github.com/Inist-CNRS/ezmaster-phpserver,True
@@ -1162,7 +1163,7 @@ https://github.com/InseeFr/Pogues-Model,True
 https://github.com/InseeFr/Quatro,True
 https://github.com/InseeFr/Queen,True
 https://github.com/InseeFr/Queen-Back-Office,True
-https://github.com/InseeFr/Trevas,False
+https://github.com/InseeFr/Trevas,True
 https://github.com/InseeFr/VTL-Tools,True
 https://github.com/InseeFr/Wilco,True
 https://github.com/InseeFr/diffman,True
@@ -4034,8 +4035,8 @@ https://gitlab.huma-num.fr/rzine/Rzine_actu,True
 https://gitlab.huma-num.fr/rzine/documentation,True
 https://gitlab.huma-num.fr/tip/flatdb4geonames,True
 https://gitlab.huma-num.fr/tip/geneaquilt,False
-https://gitlab.huma-num.fr/tip/graphic-kit,False
-https://gitlab.huma-num.fr/tip/kinsources.net,False
+https://gitlab.huma-num.fr/tip/graphic-kit,True
+https://gitlab.huma-num.fr/tip/kinsources.net,True
 https://gitlab.huma-num.fr/tip/kintip.net,False
 https://gitlab.huma-num.fr/tip/kiwa,False
 https://gitlab.huma-num.fr/tip/puck,False
