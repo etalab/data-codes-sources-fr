@@ -80,7 +80,7 @@ https://forgemia.inra.fr/genotoul-bioinfo/srna-tabac,True
 https://forgemia.inra.fr/genotoul-bioinfo/tSNPannot,True
 https://forgemia.inra.fr/get-it/nf-assemblshortread,True
 https://forgemia.inra.fr/get-it/nf-taxoaffiliation,True
-https://forgemia.inra.fr/hackathon-portail-calcul/existant,False
+https://forgemia.inra.fr/hackathon-portail-calcul/existant,True
 https://forgemia.inra.fr/hackathon-portail-calcul/hackathon_organisation,True
 https://forgemia.inra.fr/metexplore/MetExploreViz,True
 https://forgemia.inra.fr/metexplore/met4j,True
@@ -441,6 +441,7 @@ https://github.com/ANSSI-FR/x509-parser,True
 https://github.com/ANSSI-FR/xsvgen,True
 https://github.com/ARCEP-dev/BLOM,True
 https://github.com/ARCEP-dev/adresse,True
+https://github.com/ARCEP-dev/algo_maconnexioninternet,False
 https://github.com/ARCEP-dev/basePopDom,True
 https://github.com/ARCEP-dev/dataTools,True
 https://github.com/ARCEP-dev/disPorts,True
@@ -2411,6 +2412,7 @@ https://github.com/cw-leia/chipwhisperer,True
 https://github.com/cw-leia/chipwhisperer-target-cw308t,True
 https://github.com/cw-leia/cw-leia-standalone-firmware,True
 https://github.com/cw-leia/cw-leia-standalone-hard,True
+https://github.com/cw-leia/smartleia,False
 https://github.com/datalocale/BinFul,True
 https://github.com/datalocale/ECV-IJBA,True
 https://github.com/datalocale/G8_Metadata_Mapping,True
@@ -3639,6 +3641,7 @@ https://github.com/sigrennesmetropole/addon_rva,True
 https://github.com/sigrennesmetropole/addon_urbanisme,True
 https://github.com/sigrennesmetropole/api_rva,True
 https://github.com/sigrennesmetropole/cadastrapp,True
+https://github.com/sigrennesmetropole/cartoHoraires,False
 https://github.com/sigrennesmetropole/geor_signalement,True
 https://github.com/sigrennesmetropole/geoserver_sld,True
 https://github.com/sigrennesmetropole/images,True
@@ -4025,6 +4028,7 @@ https://gitlab.huma-num.fr/lamop/topama-eveches,True
 https://gitlab.huma-num.fr/lamop/topologie_aix-en-provence,False
 https://gitlab.huma-num.fr/lamop/wikidata2gramps,True
 https://gitlab.huma-num.fr/lamop/yersinia,True
+https://gitlab.huma-num.fr/mappemonde/archives,False
 https://gitlab.huma-num.fr/mshs-poitiers/xmlify,True
 https://gitlab.huma-num.fr/nakala-tools/nakalot,True
 https://gitlab.huma-num.fr/nakala-tools/nakanav,True
