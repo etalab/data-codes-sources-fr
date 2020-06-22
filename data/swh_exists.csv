@@ -287,7 +287,7 @@ https://git.unistra.fr/konflict/mobile-app,True
 https://git.unistra.fr/konflict/serveur-central,True
 https://git.unistra.fr/la-table-ronde/ecr19-t4-b,True
 https://git.unistra.fr/les-quatres-cavaliers-de-l-apocalypse-et-les-deux-stagiaires/ihm-projet,False
-https://git.unistra.fr/les-sans-noms/dossiers,False
+https://git.unistra.fr/les-sans-noms/dossiers,True
 https://git.unistra.fr/les-sans-noms/mod-le-serveur,False
 https://git.unistra.fr/les-sans-noms/react_admin_jeux,True
 https://git.unistra.fr/les-sans-noms/serveur-de-jeux-websocket-t-lechargable,True
@@ -3507,7 +3507,7 @@ https://github.com/openfisca/support-bot,True
 https://github.com/openfisca/trace-tool,True
 https://github.com/openfisca/tracker,True
 https://github.com/openfisca/tutorial,True
-https://github.com/openfun/ansible-role-bigbluebutton,False
+https://github.com/openfun/ansible-role-bigbluebutton,True
 https://github.com/openfun/arnold,True
 https://github.com/openfun/ashley,True
 https://github.com/openfun/bbb-stress-test,True
@@ -4042,7 +4042,7 @@ https://gitlab.huma-num.fr/tip/geneaquilt,False
 https://gitlab.huma-num.fr/tip/graphic-kit,True
 https://gitlab.huma-num.fr/tip/kinsources.net,True
 https://gitlab.huma-num.fr/tip/kintip.net,True
-https://gitlab.huma-num.fr/tip/kiwa,False
+https://gitlab.huma-num.fr/tip/kiwa,True
 https://gitlab.huma-num.fr/tip/puck,True
 https://gitlab.huma-num.fr/tip/puckinstaller,True
 https://gitlab.huma-num.fr/tip/test,True
