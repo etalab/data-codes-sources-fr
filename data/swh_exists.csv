@@ -865,6 +865,7 @@ https://github.com/EsupPortail/esup-smsu,True
 https://github.com/EsupPortail/esup-smsu-api,True
 https://github.com/EsupPortail/esup-smsu-api-admin,True
 https://github.com/EsupPortail/esup-smsu-api-mail,True
+https://github.com/EsupPortail/esup-stage,False
 https://github.com/EsupPortail/esup-uportal,True
 https://github.com/EsupPortail/esup-wayf,True
 https://github.com/EsupPortail/esup-webengine-intranets,True
@@ -2003,6 +2004,8 @@ https://github.com/betagouv/i18nliner-js,True
 https://github.com/betagouv/ilos,True
 https://github.com/betagouv/impact-tests,True
 https://github.com/betagouv/itou,True
+https://github.com/betagouv/itou-bitoubi,False
+https://github.com/betagouv/itou-cocorico,False
 https://github.com/betagouv/itou-discourse,True
 https://github.com/betagouv/itou-entreprise,True
 https://github.com/betagouv/itou_entreprise,False
