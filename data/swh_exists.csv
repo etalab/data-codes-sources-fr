@@ -2005,7 +2005,7 @@ https://github.com/betagouv/i18nliner-js,True
 https://github.com/betagouv/ilos,True
 https://github.com/betagouv/impact-tests,True
 https://github.com/betagouv/itou,True
-https://github.com/betagouv/itou-bitoubi,False
+https://github.com/betagouv/itou-bitoubi,True
 https://github.com/betagouv/itou-cocorico,True
 https://github.com/betagouv/itou-discourse,True
 https://github.com/betagouv/itou-entreprise,True
@@ -2795,6 +2795,7 @@ https://github.com/etalab/data.etalab.studio,True
 https://github.com/etalab/data.gouv.fr,True
 https://github.com/etalab/datagouv-funfacts,True
 https://github.com/etalab/datagouv-search-indicator,True
+https://github.com/etalab/datagouvfr-pages,False
 https://github.com/etalab/datasets_reco,True
 https://github.com/etalab/de-dpe-processing,True
 https://github.com/etalab/de-quality-processing,True
@@ -3951,7 +3952,7 @@ https://gitlab.com/dreal-datalab/rrrpls,True
 https://gitlab.com/dreal-datalab/shinydreal,True
 https://gitlab.com/dreal-datalab/si_eau_pesticides,True
 https://gitlab.com/france-mobilites/documents-marches-publics,True
-https://gitlab.com/hatvp-open/agora,False
+https://gitlab.com/hatvp-open/agora,True
 https://gitlab.com/healthdatahub/dico-snds,True
 https://gitlab.com/healthdatahub/documentation-snds,True
 https://gitlab.com/healthdatahub/indexation-nomenclatures,True
