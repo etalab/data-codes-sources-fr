@@ -441,7 +441,7 @@ https://github.com/ANSSI-FR/x509-parser,True
 https://github.com/ANSSI-FR/xsvgen,True
 https://github.com/ARCEP-dev/BLOM,True
 https://github.com/ARCEP-dev/adresse,True
-https://github.com/ARCEP-dev/algo_maconnexioninternet,False
+https://github.com/ARCEP-dev/algo_maconnexioninternet,True
 https://github.com/ARCEP-dev/basePopDom,True
 https://github.com/ARCEP-dev/dataTools,True
 https://github.com/ARCEP-dev/disPorts,True
