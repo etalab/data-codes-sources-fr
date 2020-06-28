@@ -4042,7 +4042,7 @@ https://gitlab.huma-num.fr/mappemonde/archives,True
 https://gitlab.huma-num.fr/mshs-poitiers/xmlify,True
 https://gitlab.huma-num.fr/nakala-tools/nakalot,True
 https://gitlab.huma-num.fr/nakala-tools/nakanav,True
-https://gitlab.huma-num.fr/portic/gazetteer,False
+https://gitlab.huma-num.fr/portic/gazetteer,True
 https://gitlab.huma-num.fr/portic/navigocorpus,True
 https://gitlab.huma-num.fr/portic/porticapi,True
 https://gitlab.huma-num.fr/rzine/Rzine_actu,True
@@ -4681,11 +4681,13 @@ https://gitlab.inria.fr/zefxis/playgrounds,True
 https://gitlab.inria.fr/zefxis/use-cases,True
 https://gitlab.inria.fr/zhozhang/zhongkai-zhang,True
 https://gitlab.irstea.fr/HYCAR-Hydro/ExcelGR,True
+https://gitlab.irstea.fr/HYCAR-Hydro/airGR-Website,False
 https://gitlab.irstea.fr/HYCAR-Hydro/airgr,True
 https://gitlab.irstea.fr/HYCAR-Hydro/airgrassim,False
 https://gitlab.irstea.fr/HYCAR-Hydro/airgrdatassim,True
 https://gitlab.irstea.fr/HYCAR-Hydro/airgrmaps,True
 https://gitlab.irstea.fr/HYCAR-Hydro/airgrteaching,True
+https://gitlab.irstea.fr/HYCAR-Hydro/airgrteaching-website,False
 https://gitlab.irstea.fr/HYCAR-Hydro/baseflow,True
 https://gitlab.irstea.fr/HYCAR-Hydro/basinsample,True
 https://gitlab.irstea.fr/HYCAR-Hydro/diagramgrmodels,True
