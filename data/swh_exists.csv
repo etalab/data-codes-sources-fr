@@ -281,7 +281,7 @@ https://git.unistra.fr/jupyter/animation,True
 https://git.unistra.fr/konflict/central-server,False
 https://git.unistra.fr/konflict/central-server-api,True
 https://git.unistra.fr/konflict/central-server-client,True
-https://git.unistra.fr/konflict/docker,False
+https://git.unistra.fr/konflict/docker,True
 https://git.unistra.fr/konflict/game-server,True
 https://git.unistra.fr/konflict/game-websocket,True
 https://git.unistra.fr/konflict/konflict-local-tunnel,True
