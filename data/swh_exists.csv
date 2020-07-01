@@ -102,7 +102,7 @@ https://forgemia.inra.fr/pappso/minexpert2,True
 https://forgemia.inra.fr/pappso/pappsoms-tools,True
 https://forgemia.inra.fr/pappso/pappsomspp,True
 https://forgemia.inra.fr/pappso/xtpcpp,True
-https://forgemia.inra.fr/pegase/pegase-fair,False
+https://forgemia.inra.fr/pegase/pegase-fair,True
 https://forgemia.inra.fr/record-open-archives/rec-crash,True
 https://forgemia.inra.fr/record-open-archives/recmoustics,True
 https://forgemia.inra.fr/record/AgFlow,True
@@ -869,7 +869,7 @@ https://github.com/EsupPortail/esup-smsu,True
 https://github.com/EsupPortail/esup-smsu-api,True
 https://github.com/EsupPortail/esup-smsu-api-admin,True
 https://github.com/EsupPortail/esup-smsu-api-mail,True
-https://github.com/EsupPortail/esup-stage,False
+https://github.com/EsupPortail/esup-stage,True
 https://github.com/EsupPortail/esup-uportal,True
 https://github.com/EsupPortail/esup-wayf,True
 https://github.com/EsupPortail/esup-webengine-intranets,True
