@@ -1962,6 +1962,7 @@ https://github.com/betagouv/cout-embauche,True
 https://github.com/betagouv/covid19-algorithme-orientation-api,True
 https://github.com/betagouv/covid19-algorithme-orientation-elixir,True
 https://github.com/betagouv/dashboard_apientreprise,True
+https://github.com/betagouv/datapass,False
 https://github.com/betagouv/dds-cross-simulator,True
 https://github.com/betagouv/demarches-simplifiees.fr,True
 https://github.com/betagouv/diagoriente-admin,True
@@ -2697,6 +2698,7 @@ https://github.com/etalab-ia/ami-ia-ineris,True
 https://github.com/etalab-ia/ami-ia-insee,True
 https://github.com/etalab-ia/ami-ia-irsn,True
 https://github.com/etalab-ia/ami-ia-sisse,True
+https://github.com/etalab-ia/data_gouv_text,False
 https://github.com/etalab-ia/data_science_template,True
 https://github.com/etalab-ia/demo-piaf,True
 https://github.com/etalab-ia/piaf-code,True
