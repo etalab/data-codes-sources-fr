@@ -3021,6 +3021,7 @@ https://github.com/ina-foss/amalia-tools,True
 https://github.com/ina-foss/amalia.js,True
 https://github.com/ina-foss/inaFaceGender,True
 https://github.com/ina-foss/inaSpeechSegmenter,True
+https://github.com/ina-foss/louvain-news-clustering,False
 https://github.com/ina-foss/nginx-video-thumbextractor-module,True
 https://github.com/ina-foss/stream-index-massive-tweets,True
 https://github.com/ina-foss/tweet-stance-annotation,True
@@ -4052,6 +4053,7 @@ https://gitlab.huma-num.fr/portic/gazetteer,True
 https://gitlab.huma-num.fr/portic/navigocorpus,True
 https://gitlab.huma-num.fr/portic/porticapi,True
 https://gitlab.huma-num.fr/rzine/Rzine_actu,True
+https://gitlab.huma-num.fr/rzine/add_publication,False
 https://gitlab.huma-num.fr/rzine/documentation,True
 https://gitlab.huma-num.fr/tip/flatdb4geonames,True
 https://gitlab.huma-num.fr/tip/geneaquilt,True
