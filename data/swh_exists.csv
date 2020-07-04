@@ -385,6 +385,7 @@ https://github.com/139bercy/cloud-appliance-composer-repo,True
 https://github.com/139bercy/cloud-appliance-management,True
 https://github.com/139bercy/cloud-appliance-nexus-repo,True
 https://github.com/139bercy/cloud-appliance-observability,True
+https://github.com/139bercy/decp-augmente,False
 https://github.com/139bercy/decp-docs,True
 https://github.com/139bercy/decp-monitoring,True
 https://github.com/139bercy/decp-projet,True
@@ -3995,6 +3996,7 @@ https://gitlab.huma-num.fr/cbma/nosketch_engine-dockerfile,True
 https://gitlab.huma-num.fr/cbma/outil-epigraphie,True
 https://gitlab.huma-num.fr/cbma/txm,True
 https://gitlab.huma-num.fr/consortium3d/aLTAG3D,True
+https://gitlab.huma-num.fr/cosme/telma_chartes_exports,False
 https://gitlab.huma-num.fr/cosme/telma_chartes_imports,True
 https://gitlab.huma-num.fr/eurhisfirm/annuaires-favre,True
 https://gitlab.huma-num.fr/eurhisfirm/biryani,True
