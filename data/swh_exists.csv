@@ -4059,7 +4059,7 @@ https://gitlab.huma-num.fr/portic/navigocorpus,True
 https://gitlab.huma-num.fr/portic/porticapi,True
 https://gitlab.huma-num.fr/rzine/Rzine_actu,True
 https://gitlab.huma-num.fr/rzine/add_author,True
-https://gitlab.huma-num.fr/rzine/add_news,False
+https://gitlab.huma-num.fr/rzine/add_news,True
 https://gitlab.huma-num.fr/rzine/add_publication,True
 https://gitlab.huma-num.fr/rzine/documentation,True
 https://gitlab.huma-num.fr/tip/flatdb4geonames,True
