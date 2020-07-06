@@ -89,7 +89,7 @@ https://forgemia.inra.fr/metexplore/met4j,True
 https://forgemia.inra.fr/metexplore/metabolomics2network,True
 https://forgemia.inra.fr/metexplore/metexplore2,True
 https://forgemia.inra.fr/metexplore/tutorialmet4j,True
-https://forgemia.inra.fr/migale/formations,False
+https://forgemia.inra.fr/migale/formations,True
 https://forgemia.inra.fr/olivier.bonnefon/mse,True
 https://forgemia.inra.fr/pappso/beads,True
 https://forgemia.inra.fr/pappso/custompwiz,True
@@ -1146,6 +1146,7 @@ https://github.com/InriaMecsci/voronoi-diagramme,True
 https://github.com/InriaMecsci/voronoi-jeu,True
 https://github.com/InriaMecsci/zero,True
 https://github.com/InseeFr/ARC,True
+https://github.com/InseeFr/Avionic,False
 https://github.com/InseeFr/Bauhaus,True
 https://github.com/InseeFr/Bauhaus-Back-Office,True
 https://github.com/InseeFr/CSPA-SA-Client,True
@@ -2701,7 +2702,7 @@ https://github.com/etalab-ia/ami-ia-ineris,True
 https://github.com/etalab-ia/ami-ia-insee,True
 https://github.com/etalab-ia/ami-ia-irsn,True
 https://github.com/etalab-ia/ami-ia-sisse,True
-https://github.com/etalab-ia/data_gouv_text,False
+https://github.com/etalab-ia/data_gouv_text,True
 https://github.com/etalab-ia/data_science_template,True
 https://github.com/etalab-ia/demo-piaf,True
 https://github.com/etalab-ia/florian_opendatascience,False
@@ -2810,6 +2811,7 @@ https://github.com/etalab/datagouv-search-indicator,True
 https://github.com/etalab/datagouvfr-pages,True
 https://github.com/etalab/datasets_reco,True
 https://github.com/etalab/de-dpe-processing,True
+https://github.com/etalab/de-geocodage-sirene,False
 https://github.com/etalab/de-quality-processing,True
 https://github.com/etalab/de-resources-app-ui,True
 https://github.com/etalab/decoupage-administratif,True
@@ -3427,7 +3429,7 @@ https://github.com/metwork-framework/jsonlog2elasticsearch,True
 https://github.com/metwork-framework/jsonsyslog2elasticsearch,False
 https://github.com/metwork-framework/layerapi2,True
 https://github.com/metwork-framework/linux_distributions_dependencies_checker,False
-https://github.com/metwork-framework/linux_distributions_integration_tests,False
+https://github.com/metwork-framework/linux_distributions_integration_tests,True
 https://github.com/metwork-framework/log_proxy,False
 https://github.com/metwork-framework/lua-resty-statsd,True
 https://github.com/metwork-framework/mapserverapi,True
@@ -3606,6 +3608,7 @@ https://github.com/openfisca/reform-simulator,True
 https://github.com/openfisca/reformator,True
 https://github.com/openfisca/support-bot,True
 https://github.com/openfisca/trace-tool,True
+https://github.com/openfisca/tracer,False
 https://github.com/openfisca/tracker,True
 https://github.com/openfisca/tutorial,True
 https://github.com/openfun/ansible-role-bigbluebutton,True
@@ -4050,6 +4053,7 @@ https://gitlab.com/dreal-datalab/si_eau_pesticides,True
 https://gitlab.com/france-mobilites/documents-marches-publics,True
 https://gitlab.com/hatvp-open/agora,True
 https://gitlab.com/healthdatahub/dico-snds,True
+https://gitlab.com/healthdatahub/dico-snds-creation-archive,False
 https://gitlab.com/healthdatahub/documentation-snds,True
 https://gitlab.com/healthdatahub/indexation-nomenclatures,True
 https://gitlab.com/healthdatahub/omop,True
@@ -4060,6 +4064,7 @@ https://gitlab.com/healthdatahub/tsfaker,True
 https://gitlab.com/musee-saint-raymond/villa-chiragan,True
 https://gitlab.com/pidila/checklist-app,True
 https://gitlab.com/pidila/checklist-pidila,True
+https://gitlab.com/pidila/checklist-pidila-old,False
 https://gitlab.com/pidila/kit-module-scampi,True
 https://gitlab.com/pidila/kit-sprite-svg,True
 https://gitlab.com/pidila/pidila.gitlab.io,True
@@ -4078,7 +4083,7 @@ https://gitlab.huma-num.fr/cbma/nosketch_engine-dockerfile,True
 https://gitlab.huma-num.fr/cbma/outil-epigraphie,True
 https://gitlab.huma-num.fr/cbma/txm,True
 https://gitlab.huma-num.fr/consortium3d/aLTAG3D,True
-https://gitlab.huma-num.fr/cosme/telma_chartes_exports,False
+https://gitlab.huma-num.fr/cosme/telma_chartes_exports,True
 https://gitlab.huma-num.fr/cosme/telma_chartes_imports,True
 https://gitlab.huma-num.fr/eurhisfirm/annuaires-favre,True
 https://gitlab.huma-num.fr/eurhisfirm/biryani,True
