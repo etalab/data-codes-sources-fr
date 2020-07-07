@@ -1146,7 +1146,7 @@ https://github.com/InriaMecsci/voronoi-diagramme,True
 https://github.com/InriaMecsci/voronoi-jeu,True
 https://github.com/InriaMecsci/zero,True
 https://github.com/InseeFr/ARC,True
-https://github.com/InseeFr/Avionic,False
+https://github.com/InseeFr/Avionic,True
 https://github.com/InseeFr/Bauhaus,True
 https://github.com/InseeFr/Bauhaus-Back-Office,True
 https://github.com/InseeFr/CSPA-SA-Client,True
@@ -3447,7 +3447,7 @@ https://github.com/metwork-framework/mfextaddon_python2,False
 https://github.com/metwork-framework/mfextaddon_python3_ia,True
 https://github.com/metwork-framework/mfextaddon_rabbitmq,False
 https://github.com/metwork-framework/mfextaddon_scientific,True
-https://github.com/metwork-framework/mfextaddon_template,False
+https://github.com/metwork-framework/mfextaddon_template,True
 https://github.com/metwork-framework/mfextaddon_vim,False
 https://github.com/metwork-framework/mfextaddons,False
 https://github.com/metwork-framework/mflog,True
