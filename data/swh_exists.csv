@@ -3386,7 +3386,7 @@ https://github.com/meteofrance/meteofrance.github.io,True
 https://github.com/meteofrance/meteonet,True
 https://github.com/metwork-framework/acquisition,False
 https://github.com/metwork-framework/aiohttp_github_helpers,True
-https://github.com/metwork-framework/aiohttp_metwork_middlewares,False
+https://github.com/metwork-framework/aiohttp_metwork_middlewares,True
 https://github.com/metwork-framework/auto-changelog,True
 https://github.com/metwork-framework/circus_autorestart_plugin,True
 https://github.com/metwork-framework/cookiecutter,True
