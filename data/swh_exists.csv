@@ -3416,7 +3416,7 @@ https://github.com/metwork-framework/generate_changelogs,True
 https://github.com/metwork-framework/github_copy_integration_branch,True
 https://github.com/metwork-framework/github_force_common_files,True
 https://github.com/metwork-framework/github_organization_dashboard,True
-https://github.com/metwork-framework/github_organization_management,False
+https://github.com/metwork-framework/github_organization_management,True
 https://github.com/metwork-framework/github_webhook_issue_labelling,True
 https://github.com/metwork-framework/github_webhook_no_pullrequest_on_master,True
 https://github.com/metwork-framework/github_webhook_pr_labelling,True
@@ -4053,7 +4053,7 @@ https://gitlab.com/dreal-datalab/si_eau_pesticides,True
 https://gitlab.com/france-mobilites/documents-marches-publics,True
 https://gitlab.com/hatvp-open/agora,True
 https://gitlab.com/healthdatahub/dico-snds,True
-https://gitlab.com/healthdatahub/dico-snds-creation-archive,False
+https://gitlab.com/healthdatahub/dico-snds-creation-archive,True
 https://gitlab.com/healthdatahub/documentation-snds,True
 https://gitlab.com/healthdatahub/indexation-nomenclatures,True
 https://gitlab.com/healthdatahub/omop,True
