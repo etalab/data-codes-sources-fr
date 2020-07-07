@@ -2705,7 +2705,7 @@ https://github.com/etalab-ia/ami-ia-sisse,True
 https://github.com/etalab-ia/data_gouv_text,True
 https://github.com/etalab-ia/data_science_template,True
 https://github.com/etalab-ia/demo-piaf,True
-https://github.com/etalab-ia/florian_opendatascience,False
+https://github.com/etalab-ia/florian_opendatascience,True
 https://github.com/etalab-ia/piaf-code,True
 https://github.com/etalab-ia/pseudo_api,True
 https://github.com/etalab-ia/pseudo_app,True
@@ -3430,7 +3430,7 @@ https://github.com/metwork-framework/jsonsyslog2elasticsearch,False
 https://github.com/metwork-framework/layerapi2,True
 https://github.com/metwork-framework/linux_distributions_dependencies_checker,False
 https://github.com/metwork-framework/linux_distributions_integration_tests,True
-https://github.com/metwork-framework/log_proxy,False
+https://github.com/metwork-framework/log_proxy,True
 https://github.com/metwork-framework/lua-resty-statsd,True
 https://github.com/metwork-framework/mapserverapi,True
 https://github.com/metwork-framework/mapserverapi_python,True
@@ -3460,7 +3460,7 @@ https://github.com/metwork-framework/mfutil_c,True
 https://github.com/metwork-framework/mfutil_lua,True
 https://github.com/metwork-framework/opinionated_configparser,False
 https://github.com/metwork-framework/public-website,True
-https://github.com/metwork-framework/quickstart,False
+https://github.com/metwork-framework/quickstart,True
 https://github.com/metwork-framework/resources,True
 https://github.com/metwork-framework/telegraf-unixsocket-python-client,True
 https://github.com/metwork-framework/testrepo,True
