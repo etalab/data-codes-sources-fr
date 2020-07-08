@@ -3392,7 +3392,7 @@ https://github.com/meteofrance/formation-deep-learning,True
 https://github.com/meteofrance/formation-mlflow,True
 https://github.com/meteofrance/meteofrance.github.io,True
 https://github.com/meteofrance/meteonet,True
-https://github.com/metwork-framework/acquisition,False
+https://github.com/metwork-framework/acquisition,True
 https://github.com/metwork-framework/aiohttp_github_helpers,True
 https://github.com/metwork-framework/aiohttp_metwork_middlewares,True
 https://github.com/metwork-framework/auto-changelog,True
@@ -3436,7 +3436,7 @@ https://github.com/metwork-framework/jinja2_shell_extension,True
 https://github.com/metwork-framework/jsonlog2elasticsearch,True
 https://github.com/metwork-framework/jsonsyslog2elasticsearch,False
 https://github.com/metwork-framework/layerapi2,True
-https://github.com/metwork-framework/linux_distributions_dependencies_checker,False
+https://github.com/metwork-framework/linux_distributions_dependencies_checker,True
 https://github.com/metwork-framework/linux_distributions_integration_tests,True
 https://github.com/metwork-framework/log_proxy,True
 https://github.com/metwork-framework/lua-resty-statsd,True
@@ -3461,12 +3461,12 @@ https://github.com/metwork-framework/mfextaddons,False
 https://github.com/metwork-framework/mflog,True
 https://github.com/metwork-framework/mfplugin,False
 https://github.com/metwork-framework/mfserv,True
-https://github.com/metwork-framework/mfserv_python2_tests,False
+https://github.com/metwork-framework/mfserv_python2_tests,True
 https://github.com/metwork-framework/mfsysmon,True
 https://github.com/metwork-framework/mfutil,False
 https://github.com/metwork-framework/mfutil_c,True
 https://github.com/metwork-framework/mfutil_lua,True
-https://github.com/metwork-framework/opinionated_configparser,False
+https://github.com/metwork-framework/opinionated_configparser,True
 https://github.com/metwork-framework/public-website,True
 https://github.com/metwork-framework/quickstart,True
 https://github.com/metwork-framework/resources,True
