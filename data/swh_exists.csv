@@ -195,6 +195,13 @@ https://git.ademe.fr/docker/phpfpm,True
 https://git.ademe.fr/docker/ssh-sftp,False
 https://git.ademe.fr/docker/sshd-sftp,True
 https://git.ademe.fr/open-source/annuaire-de-la-reparation,True
+https://git.beta.pole-emploi.fr/claravue/simulateur-clara,False
+https://git.beta.pole-emploi.fr/open-source/immersion,False
+https://git.beta.pole-emploi.fr/open-source/jitsi,False
+https://git.beta.pole-emploi.fr/open-source/labonneformation,False
+https://git.beta.pole-emploi.fr/open-source/toolkit,False
+https://git.beta.pole-emploi.fr/open-source/trefle,False
+https://git.beta.pole-emploi.fr/open-source/tuiles,False
 https://git.unicaen.fr/open-source/OSE,True
 https://git.unicaen.fr/open-source/sygal,True
 https://git.unicaen.fr/open-source/sygal-doc,True
@@ -1956,6 +1963,7 @@ https://github.com/betagouv/civilsdeladefense,True
 https://github.com/betagouv/co-constuisons-api,True
 https://github.com/betagouv/co-constuisons-bot,True
 https://github.com/betagouv/codimd,True
+https://github.com/betagouv/codimd-server,True
 https://github.com/betagouv/coding-dojos,True
 https://github.com/betagouv/competences-pro,True
 https://github.com/betagouv/competences-pro-orchestrateur,True
