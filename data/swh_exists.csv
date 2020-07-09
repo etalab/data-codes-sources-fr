@@ -3453,7 +3453,7 @@ https://github.com/metwork-framework/mfextaddon_mapserver,True
 https://github.com/metwork-framework/mfextaddon_php,False
 https://github.com/metwork-framework/mfextaddon_python2,False
 https://github.com/metwork-framework/mfextaddon_python3_ia,True
-https://github.com/metwork-framework/mfextaddon_rabbitmq,False
+https://github.com/metwork-framework/mfextaddon_rabbitmq,True
 https://github.com/metwork-framework/mfextaddon_scientific,True
 https://github.com/metwork-framework/mfextaddon_template,True
 https://github.com/metwork-framework/mfextaddon_vim,False
