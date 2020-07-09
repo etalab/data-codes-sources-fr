@@ -84,6 +84,7 @@ https://forgemia.inra.fr/get-it/nf-taxoaffiliation,True
 https://forgemia.inra.fr/hackathon-portail-calcul/criteres,True
 https://forgemia.inra.fr/hackathon-portail-calcul/existant,True
 https://forgemia.inra.fr/hackathon-portail-calcul/hackathon_organisation,True
+https://forgemia.inra.fr/infosol/SolEil,False
 https://forgemia.inra.fr/metexplore/MetExploreViz,True
 https://forgemia.inra.fr/metexplore/met4j,True
 https://forgemia.inra.fr/metexplore/metabolomics2network,True
@@ -2131,6 +2132,7 @@ https://github.com/betagouv/pop-consultation,True
 https://github.com/betagouv/pop-data,True
 https://github.com/betagouv/pop-production,True
 https://github.com/betagouv/pop-shared,True
+https://github.com/betagouv/portail-feeder,False
 https://github.com/betagouv/postgresql-openshift-docker,True
 https://github.com/betagouv/poubellesbattle,True
 https://github.com/betagouv/preuve-covoiturage,True
