@@ -3405,7 +3405,7 @@ https://github.com/metwork-framework/cookiecutter_hooks,True
 https://github.com/metwork-framework/cronwrapper,True
 https://github.com/metwork-framework/deploycron,True
 https://github.com/metwork-framework/directory_observer,False
-https://github.com/metwork-framework/docker-centos7-opinionated,False
+https://github.com/metwork-framework/docker-centos7-opinionated,True
 https://github.com/metwork-framework/docker-drone-docker-specific-image,True
 https://github.com/metwork-framework/docker-drone-downstream-specific-image,True
 https://github.com/metwork-framework/docker-envtpl-runimage,True
@@ -3462,7 +3462,7 @@ https://github.com/metwork-framework/mfextaddon_template,True
 https://github.com/metwork-framework/mfextaddon_vim,False
 https://github.com/metwork-framework/mfextaddons,False
 https://github.com/metwork-framework/mflog,True
-https://github.com/metwork-framework/mfplugin,False
+https://github.com/metwork-framework/mfplugin,True
 https://github.com/metwork-framework/mfserv,True
 https://github.com/metwork-framework/mfserv_python2_tests,True
 https://github.com/metwork-framework/mfsysmon,True
