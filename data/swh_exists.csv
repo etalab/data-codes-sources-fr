@@ -204,7 +204,7 @@ https://git.beta.pole-emploi.fr/open-source/jitsi,False
 https://git.beta.pole-emploi.fr/open-source/labonneformation,False
 https://git.beta.pole-emploi.fr/open-source/toolkit,False
 https://git.beta.pole-emploi.fr/open-source/trefle,False
-https://git.beta.pole-emploi.fr/open-source/tuiles,False
+https://git.beta.pole-emploi.fr/open-source/tuiles,True
 https://git.unicaen.fr/open-source/OSE,True
 https://git.unicaen.fr/open-source/sygal,True
 https://git.unicaen.fr/open-source/sygal-doc,True
@@ -2135,7 +2135,7 @@ https://github.com/betagouv/pop-consultation,True
 https://github.com/betagouv/pop-data,True
 https://github.com/betagouv/pop-production,True
 https://github.com/betagouv/pop-shared,True
-https://github.com/betagouv/portail-feeder,False
+https://github.com/betagouv/portail-feeder,True
 https://github.com/betagouv/postgresql-openshift-docker,True
 https://github.com/betagouv/poubellesbattle,True
 https://github.com/betagouv/preuve-covoiturage,True
@@ -3462,7 +3462,7 @@ https://github.com/metwork-framework/mfextaddon_rabbitmq,True
 https://github.com/metwork-framework/mfextaddon_scientific,True
 https://github.com/metwork-framework/mfextaddon_template,True
 https://github.com/metwork-framework/mfextaddon_vim,False
-https://github.com/metwork-framework/mfextaddons,False
+https://github.com/metwork-framework/mfextaddons,True
 https://github.com/metwork-framework/mflog,True
 https://github.com/metwork-framework/mfplugin,True
 https://github.com/metwork-framework/mfserv,True
@@ -4842,7 +4842,7 @@ https://gitlab.irstea.fr/support/wiki,True
 https://gitlab.irstea.fr/vino/Vino,True
 https://gitlab.irstea.fr/watasitdev/j2k-coupling,True
 https://gitlab.orfeo-toolbox.org/orfeotoolbox/otb,False
-https://gitlab.orfeo-toolbox.org/orfeotoolbox/otb-build-env,False
+https://gitlab.orfeo-toolbox.org/orfeotoolbox/otb-build-env,True
 https://gitlab.orfeo-toolbox.org/orfeotoolbox/otb-data,False
 https://gitlab.orfeo-toolbox.org/orfeotoolbox/otb-devutils,False
 https://gitlab.orfeo-toolbox.org/orfeotoolbox/otb-documents,False
