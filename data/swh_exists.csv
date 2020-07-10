@@ -3437,7 +3437,7 @@ https://github.com/metwork-framework/jinja2_from_json_extension,True
 https://github.com/metwork-framework/jinja2_getenv_extension,True
 https://github.com/metwork-framework/jinja2_shell_extension,True
 https://github.com/metwork-framework/jsonlog2elasticsearch,True
-https://github.com/metwork-framework/jsonsyslog2elasticsearch,False
+https://github.com/metwork-framework/jsonsyslog2elasticsearch,True
 https://github.com/metwork-framework/layerapi2,True
 https://github.com/metwork-framework/linux_distributions_dependencies_checker,True
 https://github.com/metwork-framework/linux_distributions_integration_tests,True
