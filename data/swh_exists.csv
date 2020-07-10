@@ -3477,8 +3477,8 @@ https://github.com/metwork-framework/quickstart,True
 https://github.com/metwork-framework/resources,True
 https://github.com/metwork-framework/telegraf-unixsocket-python-client,True
 https://github.com/metwork-framework/testrepo,True
-https://github.com/metwork-framework/testrepo2,False
-https://github.com/metwork-framework/xattrfile,False
+https://github.com/metwork-framework/testrepo2,True
+https://github.com/metwork-framework/xattrfile,True
 https://github.com/micmacIGN/Documentation,True
 https://github.com/micmacIGN/InterfaceCEREMA,True
 https://github.com/micmacIGN/Papers,True
