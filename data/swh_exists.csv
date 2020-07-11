@@ -4850,7 +4850,7 @@ https://gitlab.orfeo-toolbox.org/orfeotoolbox/qgis-otb-plugin,False
 https://gitlab.orfeo-toolbox.org/orfeotoolbox/staged-recipes,False
 https://gitlab.orfeo-toolbox.org/orfeotoolbox/superbuild-artifact,True
 https://gitlab.orfeo-toolbox.org/remote_modules/diapotb,False
-https://gitlab.orfeo-toolbox.org/remote_modules/functor-application-template,False
+https://gitlab.orfeo-toolbox.org/remote_modules/functor-application-template,True
 https://gitlab.orfeo-toolbox.org/remote_modules/let-it-snow,True
 https://gitlab.orfeo-toolbox.org/remote_modules/lsd-cmla,False
 https://gitlab.orfeo-toolbox.org/remote_modules/otb-slic,False
