@@ -4845,7 +4845,7 @@ https://gitlab.orfeo-toolbox.org/orfeotoolbox/otb,True
 https://gitlab.orfeo-toolbox.org/orfeotoolbox/otb-build-env,True
 https://gitlab.orfeo-toolbox.org/orfeotoolbox/otb-data,False
 https://gitlab.orfeo-toolbox.org/orfeotoolbox/otb-devutils,False
-https://gitlab.orfeo-toolbox.org/orfeotoolbox/otb-documents,False
+https://gitlab.orfeo-toolbox.org/orfeotoolbox/otb-documents,True
 https://gitlab.orfeo-toolbox.org/orfeotoolbox/qgis-otb-plugin,False
 https://gitlab.orfeo-toolbox.org/orfeotoolbox/staged-recipes,False
 https://gitlab.orfeo-toolbox.org/orfeotoolbox/superbuild-artifact,True
