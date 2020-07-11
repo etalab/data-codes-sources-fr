@@ -85,7 +85,7 @@ https://forgemia.inra.fr/get-it/nf-taxoaffiliation,True
 https://forgemia.inra.fr/hackathon-portail-calcul/criteres,True
 https://forgemia.inra.fr/hackathon-portail-calcul/existant,True
 https://forgemia.inra.fr/hackathon-portail-calcul/hackathon_organisation,True
-https://forgemia.inra.fr/infosol/SolEil,False
+https://forgemia.inra.fr/infosol/SolEil,True
 https://forgemia.inra.fr/metexplore/MetExploreViz,True
 https://forgemia.inra.fr/metexplore/met4j,True
 https://forgemia.inra.fr/metexplore/metabolomics2network,True
@@ -3422,7 +3422,7 @@ https://github.com/metwork-framework/docker-mfxxx-centos6-testimage,True
 https://github.com/metwork-framework/docker-mfxxx-centos7-buildimage,True
 https://github.com/metwork-framework/docker-mfxxx-centos7-testimage,True
 https://github.com/metwork-framework/docker-portable-envtpl-buildimage,True
-https://github.com/metwork-framework/enumerate-markdown,False
+https://github.com/metwork-framework/enumerate-markdown,True
 https://github.com/metwork-framework/envtpl,True
 https://github.com/metwork-framework/external_sources,True
 https://github.com/metwork-framework/generate_changelogs,True
@@ -4848,7 +4848,7 @@ https://gitlab.orfeo-toolbox.org/orfeotoolbox/otb-devutils,False
 https://gitlab.orfeo-toolbox.org/orfeotoolbox/otb-documents,False
 https://gitlab.orfeo-toolbox.org/orfeotoolbox/qgis-otb-plugin,False
 https://gitlab.orfeo-toolbox.org/orfeotoolbox/staged-recipes,False
-https://gitlab.orfeo-toolbox.org/orfeotoolbox/superbuild-artifact,False
+https://gitlab.orfeo-toolbox.org/orfeotoolbox/superbuild-artifact,True
 https://gitlab.orfeo-toolbox.org/remote_modules/diapotb,False
 https://gitlab.orfeo-toolbox.org/remote_modules/functor-application-template,False
 https://gitlab.orfeo-toolbox.org/remote_modules/let-it-snow,True
