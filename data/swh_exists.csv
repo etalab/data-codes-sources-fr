@@ -3452,7 +3452,7 @@ https://github.com/metwork-framework/mfbase,True
 https://github.com/metwork-framework/mfbus,True
 https://github.com/metwork-framework/mfcom,True
 https://github.com/metwork-framework/mfdata,True
-https://github.com/metwork-framework/mfdata_python2_tests,False
+https://github.com/metwork-framework/mfdata_python2_tests,True
 https://github.com/metwork-framework/mfext,True
 https://github.com/metwork-framework/mfextaddon_mapserver,True
 https://github.com/metwork-framework/mfextaddon_php,False
@@ -3468,7 +3468,7 @@ https://github.com/metwork-framework/mfplugin,True
 https://github.com/metwork-framework/mfserv,True
 https://github.com/metwork-framework/mfserv_python2_tests,True
 https://github.com/metwork-framework/mfsysmon,True
-https://github.com/metwork-framework/mfutil,False
+https://github.com/metwork-framework/mfutil,True
 https://github.com/metwork-framework/mfutil_c,True
 https://github.com/metwork-framework/mfutil_lua,True
 https://github.com/metwork-framework/opinionated_configparser,True
