@@ -197,13 +197,13 @@ https://git.ademe.fr/docker/phpfpm,True
 https://git.ademe.fr/docker/ssh-sftp,False
 https://git.ademe.fr/docker/sshd-sftp,True
 https://git.ademe.fr/open-source/annuaire-de-la-reparation,True
-https://git.beta.pole-emploi.fr/claravue/simulateur-clara,False
+https://git.beta.pole-emploi.fr/claravue/simulateur-clara,True
 https://git.beta.pole-emploi.fr/open-source/exploration-web-components,False
 https://git.beta.pole-emploi.fr/open-source/immersion,True
 https://git.beta.pole-emploi.fr/open-source/jitsi,False
 https://git.beta.pole-emploi.fr/open-source/labonneformation,False
-https://git.beta.pole-emploi.fr/open-source/toolkit,False
-https://git.beta.pole-emploi.fr/open-source/trefle,False
+https://git.beta.pole-emploi.fr/open-source/toolkit,True
+https://git.beta.pole-emploi.fr/open-source/trefle,True
 https://git.beta.pole-emploi.fr/open-source/tuiles,True
 https://git.unicaen.fr/open-source/OSE,True
 https://git.unicaen.fr/open-source/sygal,True
