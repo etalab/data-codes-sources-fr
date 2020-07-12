@@ -3406,7 +3406,7 @@ https://github.com/metwork-framework/cookiecutter,True
 https://github.com/metwork-framework/cookiecutter_hooks,True
 https://github.com/metwork-framework/cronwrapper,True
 https://github.com/metwork-framework/deploycron,True
-https://github.com/metwork-framework/directory_observer,False
+https://github.com/metwork-framework/directory_observer,True
 https://github.com/metwork-framework/docker-centos7-opinionated,True
 https://github.com/metwork-framework/docker-drone-docker-specific-image,True
 https://github.com/metwork-framework/docker-drone-downstream-specific-image,True
@@ -4844,7 +4844,7 @@ https://gitlab.irstea.fr/watasitdev/j2k-coupling,True
 https://gitlab.orfeo-toolbox.org/orfeotoolbox/otb,True
 https://gitlab.orfeo-toolbox.org/orfeotoolbox/otb-build-env,True
 https://gitlab.orfeo-toolbox.org/orfeotoolbox/otb-data,False
-https://gitlab.orfeo-toolbox.org/orfeotoolbox/otb-devutils,False
+https://gitlab.orfeo-toolbox.org/orfeotoolbox/otb-devutils,True
 https://gitlab.orfeo-toolbox.org/orfeotoolbox/otb-documents,True
 https://gitlab.orfeo-toolbox.org/orfeotoolbox/qgis-otb-plugin,False
 https://gitlab.orfeo-toolbox.org/orfeotoolbox/staged-recipes,False
