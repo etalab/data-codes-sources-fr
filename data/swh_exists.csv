@@ -200,7 +200,7 @@ https://git.ademe.fr/open-source/annuaire-de-la-reparation,True
 https://git.beta.pole-emploi.fr/claravue/simulateur-clara,True
 https://git.beta.pole-emploi.fr/open-source/exploration-web-components,False
 https://git.beta.pole-emploi.fr/open-source/immersion,True
-https://git.beta.pole-emploi.fr/open-source/jitsi,False
+https://git.beta.pole-emploi.fr/open-source/jitsi,True
 https://git.beta.pole-emploi.fr/open-source/labonneformation,False
 https://git.beta.pole-emploi.fr/open-source/toolkit,True
 https://git.beta.pole-emploi.fr/open-source/trefle,True
@@ -4846,7 +4846,7 @@ https://gitlab.orfeo-toolbox.org/orfeotoolbox/otb-build-env,True
 https://gitlab.orfeo-toolbox.org/orfeotoolbox/otb-data,False
 https://gitlab.orfeo-toolbox.org/orfeotoolbox/otb-devutils,True
 https://gitlab.orfeo-toolbox.org/orfeotoolbox/otb-documents,True
-https://gitlab.orfeo-toolbox.org/orfeotoolbox/qgis-otb-plugin,False
+https://gitlab.orfeo-toolbox.org/orfeotoolbox/qgis-otb-plugin,True
 https://gitlab.orfeo-toolbox.org/orfeotoolbox/staged-recipes,False
 https://gitlab.orfeo-toolbox.org/orfeotoolbox/superbuild-artifact,True
 https://gitlab.orfeo-toolbox.org/remote_modules/diapotb,False
@@ -4856,7 +4856,7 @@ https://gitlab.orfeo-toolbox.org/remote_modules/lsd-cmla,False
 https://gitlab.orfeo-toolbox.org/remote_modules/otb-slic,False
 https://gitlab.orfeo-toolbox.org/remote_modules/remote-module-template,False
 https://gitlab.orfeo-toolbox.org/remote_modules/wasp,True
-https://gitlab.orfeo-toolbox.org/s1-tiling/s1tiling,False
+https://gitlab.orfeo-toolbox.org/s1-tiling/s1tiling,True
 https://gitlab.ow2.org/lemonldap-ng/lemonldap-ng,True
 https://gitlab.ow2.org/lemonldap-ng/vue-manager-for-llng,True
 https://gitlab.ow2.org/lemonldap-ng/website-landing-page,True
