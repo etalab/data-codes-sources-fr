@@ -3462,7 +3462,7 @@ https://github.com/metwork-framework/mfextaddon_python3_ia,True
 https://github.com/metwork-framework/mfextaddon_rabbitmq,True
 https://github.com/metwork-framework/mfextaddon_scientific,True
 https://github.com/metwork-framework/mfextaddon_template,True
-https://github.com/metwork-framework/mfextaddon_vim,False
+https://github.com/metwork-framework/mfextaddon_vim,True
 https://github.com/metwork-framework/mfextaddons,True
 https://github.com/metwork-framework/mflog,True
 https://github.com/metwork-framework/mfplugin,True
@@ -4854,7 +4854,7 @@ https://gitlab.orfeo-toolbox.org/remote_modules/diapotb,False
 https://gitlab.orfeo-toolbox.org/remote_modules/functor-application-template,True
 https://gitlab.orfeo-toolbox.org/remote_modules/let-it-snow,True
 https://gitlab.orfeo-toolbox.org/remote_modules/lsd-cmla,False
-https://gitlab.orfeo-toolbox.org/remote_modules/otb-slic,False
+https://gitlab.orfeo-toolbox.org/remote_modules/otb-slic,True
 https://gitlab.orfeo-toolbox.org/remote_modules/remote-module-template,False
 https://gitlab.orfeo-toolbox.org/remote_modules/wasp,True
 https://gitlab.orfeo-toolbox.org/s1-tiling/s1tiling,True
