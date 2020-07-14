@@ -198,7 +198,7 @@ https://git.ademe.fr/docker/ssh-sftp,False
 https://git.ademe.fr/docker/sshd-sftp,True
 https://git.ademe.fr/open-source/annuaire-de-la-reparation,True
 https://git.beta.pole-emploi.fr/claravue/simulateur-clara,True
-https://git.beta.pole-emploi.fr/open-source/exploration-web-components,False
+https://git.beta.pole-emploi.fr/open-source/exploration-web-components,True
 https://git.beta.pole-emploi.fr/open-source/immersion,True
 https://git.beta.pole-emploi.fr/open-source/jitsi,True
 https://git.beta.pole-emploi.fr/open-source/labonneformation,False
