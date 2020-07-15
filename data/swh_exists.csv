@@ -4845,7 +4845,7 @@ https://gitlab.irstea.fr/vino/Vino,True
 https://gitlab.irstea.fr/watasitdev/j2k-coupling,True
 https://gitlab.orfeo-toolbox.org/orfeotoolbox/otb,True
 https://gitlab.orfeo-toolbox.org/orfeotoolbox/otb-build-env,True
-https://gitlab.orfeo-toolbox.org/orfeotoolbox/otb-data,False
+https://gitlab.orfeo-toolbox.org/orfeotoolbox/otb-data,True
 https://gitlab.orfeo-toolbox.org/orfeotoolbox/otb-devutils,True
 https://gitlab.orfeo-toolbox.org/orfeotoolbox/otb-documents,True
 https://gitlab.orfeo-toolbox.org/orfeotoolbox/qgis-otb-plugin,True
