@@ -201,7 +201,7 @@ https://git.beta.pole-emploi.fr/claravue/simulateur-clara,True
 https://git.beta.pole-emploi.fr/open-source/exploration-web-components,True
 https://git.beta.pole-emploi.fr/open-source/immersion,True
 https://git.beta.pole-emploi.fr/open-source/jitsi,True
-https://git.beta.pole-emploi.fr/open-source/labonneformation,False
+https://git.beta.pole-emploi.fr/open-source/labonneformation,True
 https://git.beta.pole-emploi.fr/open-source/toolkit,True
 https://git.beta.pole-emploi.fr/open-source/trefle,True
 https://git.beta.pole-emploi.fr/open-source/tuiles,True
@@ -2797,6 +2797,7 @@ https://github.com/etalab/cle-interoperabilite-adresse,True
 https://github.com/etalab/code.etalab.gouv.fr,True
 https://github.com/etalab/codegouvfr,True
 https://github.com/etalab/codegouvfr-data,True
+https://github.com/etalab/codegouvfr-deps,False
 https://github.com/etalab/codes-juridiques-francais,True
 https://github.com/etalab/codes-postaux,True
 https://github.com/etalab/collectivites.data.gouv.fr,True
@@ -3202,6 +3203,7 @@ https://github.com/medialab/ANTA2,True
 https://github.com/medialab/EAT_datascape,True
 https://github.com/medialab/Facettage,True
 https://github.com/medialab/FlaskTools,True
+https://github.com/medialab/GeoPolHist,False
 https://github.com/medialab/Ghost,True
 https://github.com/medialab/LDA_testing,True
 https://github.com/medialab/MNAM,True
@@ -4857,7 +4859,7 @@ https://gitlab.orfeo-toolbox.org/remote_modules/functor-application-template,Tru
 https://gitlab.orfeo-toolbox.org/remote_modules/let-it-snow,True
 https://gitlab.orfeo-toolbox.org/remote_modules/lsd-cmla,False
 https://gitlab.orfeo-toolbox.org/remote_modules/otb-slic,True
-https://gitlab.orfeo-toolbox.org/remote_modules/remote-module-template,False
+https://gitlab.orfeo-toolbox.org/remote_modules/remote-module-template,True
 https://gitlab.orfeo-toolbox.org/remote_modules/wasp,True
 https://gitlab.orfeo-toolbox.org/s1-tiling/s1tiling,True
 https://gitlab.ow2.org/lemonldap-ng/lemonldap-ng,True
