@@ -2964,6 +2964,7 @@ https://github.com/etalab/stars_detective,True
 https://github.com/etalab/tableschema-template,True
 https://github.com/etalab/taxe-fonciere,True
 https://github.com/etalab/taxe-habitation,True
+https://github.com/etalab/tchatcha,False
 https://github.com/etalab/template-jekyll,True
 https://github.com/etalab/template.data.gouv.fr,True
 https://github.com/etalab/tiles.data.gouv.fr,True
@@ -4852,7 +4853,7 @@ https://gitlab.orfeo-toolbox.org/orfeotoolbox/otb-data,True
 https://gitlab.orfeo-toolbox.org/orfeotoolbox/otb-devutils,True
 https://gitlab.orfeo-toolbox.org/orfeotoolbox/otb-documents,True
 https://gitlab.orfeo-toolbox.org/orfeotoolbox/qgis-otb-plugin,True
-https://gitlab.orfeo-toolbox.org/orfeotoolbox/staged-recipes,False
+https://gitlab.orfeo-toolbox.org/orfeotoolbox/staged-recipes,True
 https://gitlab.orfeo-toolbox.org/orfeotoolbox/superbuild-artifact,True
 https://gitlab.orfeo-toolbox.org/remote_modules/diapotb,False
 https://gitlab.orfeo-toolbox.org/remote_modules/functor-application-template,True
