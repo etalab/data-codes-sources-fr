@@ -1351,6 +1351,7 @@ https://github.com/MTES-MCT/trackdechets,True
 https://github.com/MTES-MCT/trackdechets-bulk-account-creation,True
 https://github.com/MTES-MCT/trackdechets-datascience,True
 https://github.com/MTES-MCT/trackdechets-oauth2-demo-app,True
+https://github.com/MTES-MCT/trackdechets-website,False
 https://github.com/MTES-MCT/transport-routier,True
 https://github.com/MTES-MCT/trashadvisor,True
 https://github.com/MTES-MCT/udata-doc,True
@@ -3673,6 +3674,7 @@ https://github.com/openfun/learninglocker-docker,True
 https://github.com/openfun/libcast-xblock,True
 https://github.com/openfun/mail-fun-edx,True
 https://github.com/openfun/maintenance-page,True
+https://github.com/openfun/marion,False
 https://github.com/openfun/marsha,True
 https://github.com/openfun/marsha-plugins,True
 https://github.com/openfun/matplotlib,True
