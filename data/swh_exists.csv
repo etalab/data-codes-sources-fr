@@ -1039,9 +1039,9 @@ https://github.com/Icy-imaging/Icy-Kernel,True
 https://github.com/Icy-imaging/Icy-MMBlocks,True
 https://github.com/Icy-imaging/Icy-MMRemote,True
 https://github.com/Icy-imaging/Icy-MicroManager,True
-https://github.com/Icy-imaging/Icy-Particle,False
+https://github.com/Icy-imaging/Icy-Particle,True
 https://github.com/Icy-imaging/Icy-ROITooltip,False
-https://github.com/Icy-imaging/Icy-RepositoryGenerator,False
+https://github.com/Icy-imaging/Icy-RepositoryGenerator,True
 https://github.com/Icy-imaging/Icy-Test,False
 https://github.com/Icy-imaging/Icy-Updater,True
 https://github.com/Icy-imaging/Plugins-Tutorials,True
@@ -3547,7 +3547,7 @@ https://github.com/neuroanatomy/SurfaceRAMON,True
 https://github.com/neuroanatomy/autism,True
 https://github.com/neuroanatomy/bruker2nifti,True
 https://github.com/neuroanatomy/fiind,False
-https://github.com/neuroanatomy/flattener,False
+https://github.com/neuroanatomy/flattener,True
 https://github.com/neuroanatomy/foldgraph,False
 https://github.com/neuroanatomy/genomic-architecture,True
 https://github.com/neuroanatomy/growth,True
