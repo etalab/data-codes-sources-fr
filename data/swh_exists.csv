@@ -1045,7 +1045,7 @@ https://github.com/Icy-imaging/Icy-RepositoryGenerator,False
 https://github.com/Icy-imaging/Icy-Test,False
 https://github.com/Icy-imaging/Icy-Updater,True
 https://github.com/Icy-imaging/Plugins-Tutorials,True
-https://github.com/Icy-imaging/SaveAsTifFast,False
+https://github.com/Icy-imaging/SaveAsTifFast,True
 https://github.com/Ifsttar/I-Simpa,True
 https://github.com/Ifsttar/NoiseCapture,True
 https://github.com/Ifsttar/NoiseModelling,True
@@ -3726,7 +3726,7 @@ https://github.com/openfun/learninglocker-docker,True
 https://github.com/openfun/libcast-xblock,True
 https://github.com/openfun/mail-fun-edx,True
 https://github.com/openfun/maintenance-page,True
-https://github.com/openfun/marion,False
+https://github.com/openfun/marion,True
 https://github.com/openfun/marsha,True
 https://github.com/openfun/marsha-plugins,True
 https://github.com/openfun/matplotlib,True
@@ -4910,7 +4910,7 @@ https://gitlab.orfeo-toolbox.org/orfeotoolbox/otb-documents,True
 https://gitlab.orfeo-toolbox.org/orfeotoolbox/qgis-otb-plugin,True
 https://gitlab.orfeo-toolbox.org/orfeotoolbox/staged-recipes,True
 https://gitlab.orfeo-toolbox.org/orfeotoolbox/superbuild-artifact,True
-https://gitlab.orfeo-toolbox.org/remote_modules/diapotb,False
+https://gitlab.orfeo-toolbox.org/remote_modules/diapotb,True
 https://gitlab.orfeo-toolbox.org/remote_modules/functor-application-template,True
 https://gitlab.orfeo-toolbox.org/remote_modules/let-it-snow,True
 https://gitlab.orfeo-toolbox.org/remote_modules/lsd-cmla,False
