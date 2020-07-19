@@ -991,7 +991,7 @@ https://github.com/IGNF/spark-iqmulus,True
 https://github.com/IGNF/tactileo-quest,True
 https://github.com/IGNF/validator,True
 https://github.com/IGNF/validator-example,True
-https://github.com/IGNF/validator-schema,False
+https://github.com/IGNF/validator-schema,True
 https://github.com/IGNF/visio_dpc,True
 https://github.com/IGNF/wxfreechart,True
 https://github.com/INRA/AU_metabo,True
@@ -1373,7 +1373,7 @@ https://github.com/MTES-MCT/trackdechets,True
 https://github.com/MTES-MCT/trackdechets-bulk-account-creation,True
 https://github.com/MTES-MCT/trackdechets-datascience,True
 https://github.com/MTES-MCT/trackdechets-oauth2-demo-app,True
-https://github.com/MTES-MCT/trackdechets-website,False
+https://github.com/MTES-MCT/trackdechets-website,True
 https://github.com/MTES-MCT/transport-routier,True
 https://github.com/MTES-MCT/trashadvisor,True
 https://github.com/MTES-MCT/udata-doc,True
@@ -3484,7 +3484,7 @@ https://github.com/metwork-framework/mfdata,True
 https://github.com/metwork-framework/mfdata_python2_tests,True
 https://github.com/metwork-framework/mfext,True
 https://github.com/metwork-framework/mfextaddon_mapserver,True
-https://github.com/metwork-framework/mfextaddon_php,False
+https://github.com/metwork-framework/mfextaddon_php,True
 https://github.com/metwork-framework/mfextaddon_python2,True
 https://github.com/metwork-framework/mfextaddon_python3_ia,True
 https://github.com/metwork-framework/mfextaddon_rabbitmq,True
@@ -3537,7 +3537,7 @@ https://github.com/neuroanatomy/Cerebellum,True
 https://github.com/neuroanatomy/CoactivationMap.app,True
 https://github.com/neuroanatomy/FerretDiffusionTractTracingComparison,True
 https://github.com/neuroanatomy/GWPC,False
-https://github.com/neuroanatomy/GuerrillaPLI,False
+https://github.com/neuroanatomy/GuerrillaPLI,True
 https://github.com/neuroanatomy/QCApp,True
 https://github.com/neuroanatomy/QCApp-Cb,True
 https://github.com/neuroanatomy/QCApp-vsub,True
