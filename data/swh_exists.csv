@@ -905,7 +905,7 @@ https://github.com/EsupPortail/proxy-broadcast,True
 https://github.com/EsupPortail/sygal,True
 https://github.com/EsupPortail/sygal-import-ws,True
 https://github.com/GHFC/GNW,True
-https://github.com/GHFC/Healthy-Brain-Network,False
+https://github.com/GHFC/Healthy-Brain-Network,True
 https://github.com/GHFC/HyPyP,False
 https://github.com/GHFC/SoNeTAA,False
 https://github.com/GHFC/StratiPy,True
@@ -3554,7 +3554,7 @@ https://github.com/neuroanatomy/growth,True
 https://github.com/neuroanatomy/marching_cubes,True
 https://github.com/neuroanatomy/meshgeometry,True
 https://github.com/neuroanatomy/microdraw,True
-https://github.com/neuroanatomy/microdraw.py,False
+https://github.com/neuroanatomy/microdraw.py,True
 https://github.com/neuroanatomy/mrijs,False
 https://github.com/neuroanatomy/neuroanatomy.github.com,True
 https://github.com/neuroanatomy/neuroimaging-sharing-tools,False
