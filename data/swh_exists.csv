@@ -1033,7 +1033,7 @@ https://github.com/INSIDE-information-systems/WFS3,True
 https://github.com/INSIDE-information-systems/WatershedWPS,True
 https://github.com/INSIDE-information-systems/wfd2018,True
 https://github.com/Icy-imaging/Icy-App,True
-https://github.com/Icy-imaging/Icy-Benchmark,False
+https://github.com/Icy-imaging/Icy-Benchmark,True
 https://github.com/Icy-imaging/Icy-Insubstantial,True
 https://github.com/Icy-imaging/Icy-Kernel,True
 https://github.com/Icy-imaging/Icy-MMBlocks,True
@@ -1042,7 +1042,7 @@ https://github.com/Icy-imaging/Icy-MicroManager,True
 https://github.com/Icy-imaging/Icy-Particle,True
 https://github.com/Icy-imaging/Icy-ROITooltip,False
 https://github.com/Icy-imaging/Icy-RepositoryGenerator,True
-https://github.com/Icy-imaging/Icy-Test,False
+https://github.com/Icy-imaging/Icy-Test,True
 https://github.com/Icy-imaging/Icy-Updater,True
 https://github.com/Icy-imaging/Plugins-Tutorials,True
 https://github.com/Icy-imaging/SaveAsTifFast,True
@@ -2820,7 +2820,7 @@ https://github.com/etalab/cle-interoperabilite-adresse,True
 https://github.com/etalab/code.etalab.gouv.fr,True
 https://github.com/etalab/codegouvfr,True
 https://github.com/etalab/codegouvfr-data,True
-https://github.com/etalab/codegouvfr-deps,False
+https://github.com/etalab/codegouvfr-deps,True
 https://github.com/etalab/codes-juridiques-francais,True
 https://github.com/etalab/codes-postaux,True
 https://github.com/etalab/collectivites.data.gouv.fr,True
@@ -3548,7 +3548,7 @@ https://github.com/neuroanatomy/autism,True
 https://github.com/neuroanatomy/bruker2nifti,True
 https://github.com/neuroanatomy/fiind,False
 https://github.com/neuroanatomy/flattener,True
-https://github.com/neuroanatomy/foldgraph,False
+https://github.com/neuroanatomy/foldgraph,True
 https://github.com/neuroanatomy/genomic-architecture,True
 https://github.com/neuroanatomy/growth,True
 https://github.com/neuroanatomy/marching_cubes,True
@@ -4913,7 +4913,7 @@ https://gitlab.orfeo-toolbox.org/orfeotoolbox/superbuild-artifact,True
 https://gitlab.orfeo-toolbox.org/remote_modules/diapotb,True
 https://gitlab.orfeo-toolbox.org/remote_modules/functor-application-template,True
 https://gitlab.orfeo-toolbox.org/remote_modules/let-it-snow,True
-https://gitlab.orfeo-toolbox.org/remote_modules/lsd-cmla,False
+https://gitlab.orfeo-toolbox.org/remote_modules/lsd-cmla,True
 https://gitlab.orfeo-toolbox.org/remote_modules/otb-slic,True
 https://gitlab.orfeo-toolbox.org/remote_modules/remote-module-template,True
 https://gitlab.orfeo-toolbox.org/remote_modules/wasp,True
