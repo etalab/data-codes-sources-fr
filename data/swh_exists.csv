@@ -902,6 +902,7 @@ https://github.com/EsupPortail/pod,True
 https://github.com/EsupPortail/portlet-tools,True
 https://github.com/EsupPortail/proto-portlet-angular,True
 https://github.com/EsupPortail/proxy-broadcast,True
+https://github.com/EsupPortail/rocket-chat-rest-client,False
 https://github.com/EsupPortail/sygal,True
 https://github.com/EsupPortail/sygal-import-ws,True
 https://github.com/GHFC/GNW,True
@@ -3555,7 +3556,7 @@ https://github.com/neuroanatomy/marching_cubes,True
 https://github.com/neuroanatomy/meshgeometry,True
 https://github.com/neuroanatomy/microdraw,True
 https://github.com/neuroanatomy/microdraw.py,True
-https://github.com/neuroanatomy/mrijs,False
+https://github.com/neuroanatomy/mrijs,True
 https://github.com/neuroanatomy/neuroanatomy.github.com,True
 https://github.com/neuroanatomy/neuroimaging-sharing-tools,False
 https://github.com/neuroanatomy/reorient,True
@@ -4236,6 +4237,7 @@ https://gitlab.huma-num.fr/tip/test,True
 https://gitlab.huma-num.fr/txm/textometrie,True
 https://gitlab.huma-num.fr/txm/txm-contrib,True
 https://gitlab.huma-num.fr/txm/txm-manual,True
+https://gitlab.huma-num.fr/txm/txm-ressources,False
 https://gitlab.huma-num.fr/txm/txm-software,True
 https://gitlab.in2p3.fr/Enssib/abcdev,True
 https://gitlab.in2p3.fr/Enssib/bibliotouch,True
