@@ -2746,6 +2746,7 @@ https://github.com/etalab-ia/data_science_template,True
 https://github.com/etalab-ia/demo-piaf,True
 https://github.com/etalab-ia/florian_opendatascience,True
 https://github.com/etalab-ia/piaf-code,True
+https://github.com/etalab-ia/piaf_agent,False
 https://github.com/etalab-ia/pseudo_api,True
 https://github.com/etalab-ia/pseudo_app,True
 https://github.com/etalab-ia/pseudo_conseil_etat,True
@@ -3537,7 +3538,7 @@ https://github.com/neuroanatomy/BrainBox,True
 https://github.com/neuroanatomy/Cerebellum,True
 https://github.com/neuroanatomy/CoactivationMap.app,True
 https://github.com/neuroanatomy/FerretDiffusionTractTracingComparison,True
-https://github.com/neuroanatomy/GWPC,False
+https://github.com/neuroanatomy/GWPC,True
 https://github.com/neuroanatomy/GuerrillaPLI,True
 https://github.com/neuroanatomy/QCApp,True
 https://github.com/neuroanatomy/QCApp-Cb,True
