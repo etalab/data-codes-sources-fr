@@ -3548,7 +3548,7 @@ https://github.com/neuroanatomy/StereotaxicRAMON,True
 https://github.com/neuroanatomy/SurfaceRAMON,True
 https://github.com/neuroanatomy/autism,True
 https://github.com/neuroanatomy/bruker2nifti,True
-https://github.com/neuroanatomy/fiind,False
+https://github.com/neuroanatomy/fiind,True
 https://github.com/neuroanatomy/flattener,True
 https://github.com/neuroanatomy/foldgraph,True
 https://github.com/neuroanatomy/genomic-architecture,True
@@ -4238,7 +4238,7 @@ https://gitlab.huma-num.fr/tip/test,True
 https://gitlab.huma-num.fr/txm/textometrie,True
 https://gitlab.huma-num.fr/txm/txm-contrib,True
 https://gitlab.huma-num.fr/txm/txm-manual,True
-https://gitlab.huma-num.fr/txm/txm-ressources,False
+https://gitlab.huma-num.fr/txm/txm-ressources,True
 https://gitlab.huma-num.fr/txm/txm-software,True
 https://gitlab.in2p3.fr/Enssib/abcdev,True
 https://gitlab.in2p3.fr/Enssib/bibliotouch,True
