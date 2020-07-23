@@ -326,10 +326,13 @@ https://git.unistra.fr/pub/SupportPortal-aid,True
 https://git.unistra.fr/pub/revealjs-generator,True
 https://git.unistra.fr/ruizfabo/methal-sources,True
 https://git.unistra.fr/s2/a21,False
+https://git.unistra.fr/s2/a21-d21-mini-projet,False
 https://git.unistra.fr/s2/a22-projet,False
+https://git.unistra.fr/s2/classe-de-neige,False
 https://git.unistra.fr/s2/m21,True
 https://git.unistra.fr/s2/m22,True
 https://git.unistra.fr/s2/p21,True
+https://git.unistra.fr/s2/p21-mini-projet,False
 https://git.unistra.fr/s2/s21,True
 https://git.unistra.fr/s2/t22,True
 https://git.unistra.fr/scl19-t4-a/t4-2019,True
@@ -3029,7 +3032,7 @@ https://github.com/etalab/transport-validator,True
 https://github.com/etalab/transport-validator-python,True
 https://github.com/etalab/udata-geoplatform,True
 https://github.com/etalab/udata-gouvfr,True
-https://github.com/etalab/udata-schema-gouvfr,False
+https://github.com/etalab/udata-schema-gouvfr,True
 https://github.com/etalab/urbaclic,True
 https://github.com/etalab/urbaclic-next,True
 https://github.com/etalab/urban-olympics.etalab.studio,True
