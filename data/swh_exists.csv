@@ -419,7 +419,7 @@ https://github.com/ANSSI-FR/ADTimeline,True
 https://github.com/ANSSI-FR/ASCAD,True
 https://github.com/ANSSI-FR/Binacle,True
 https://github.com/ANSSI-FR/FreeSpec,True
-https://github.com/ANSSI-FR/MLA,False
+https://github.com/ANSSI-FR/MLA,True
 https://github.com/ANSSI-FR/ORADAD,True
 https://github.com/ANSSI-FR/OVALI,True
 https://github.com/ANSSI-FR/ProTIP,True
@@ -2613,6 +2613,7 @@ https://github.com/entrepreneur-interet-general/PST2Win,True
 https://github.com/entrepreneur-interet-general/ProxiRH,True
 https://github.com/entrepreneur-interet-general/RembourSante,True
 https://github.com/entrepreneur-interet-general/Ressources-DIG,True
+https://github.com/entrepreneur-interet-general/Sequoia-CGDD,False
 https://github.com/entrepreneur-interet-general/Shom.H3,True
 https://github.com/entrepreneur-interet-general/Shom.S57,True
 https://github.com/entrepreneur-interet-general/addocker,True
