@@ -4139,6 +4139,11 @@ https://gitlab.com/CSTB/geocoding_tools,True
 https://gitlab.com/CSTB/ifc2x3-SDK,True
 https://gitlab.com/CSTB/mathis,True
 https://gitlab.com/DREES_code/formulaire_zonage_ars,True
+https://gitlab.com/cortext/ANSES,False
+https://gitlab.com/cortext/cib-database,False
+https://gitlab.com/cortext/cortext-pub,False
+https://gitlab.com/cortext/patstat,False
+https://gitlab.com/cortext/pytheas-youtube,False
 https://gitlab.com/dreal-datalab/adresses-mairies-epci,True
 https://gitlab.com/dreal-datalab/autorite-environnementale,False
 https://gitlab.com/dreal-datalab/autorite_environnementale,True
