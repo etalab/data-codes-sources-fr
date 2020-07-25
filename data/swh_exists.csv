@@ -328,7 +328,7 @@ https://git.unistra.fr/ruizfabo/methal-sources,True
 https://git.unistra.fr/s2/a21,False
 https://git.unistra.fr/s2/a21-d21-mini-projet,False
 https://git.unistra.fr/s2/a22-projet,False
-https://git.unistra.fr/s2/classe-de-neige,False
+https://git.unistra.fr/s2/classe-de-neige,True
 https://git.unistra.fr/s2/m21,True
 https://git.unistra.fr/s2/m22,True
 https://git.unistra.fr/s2/p21,True
@@ -2867,7 +2867,7 @@ https://github.com/etalab/csv-gg,True
 https://github.com/etalab/csv2html,True
 https://github.com/etalab/csv_detective,True
 https://github.com/etalab/csv_detective_api,True
-https://github.com/etalab/csv_detective_ml,False
+https://github.com/etalab/csv_detective_ml,True
 https://github.com/etalab/csvapi,True
 https://github.com/etalab/csvapi-front,True
 https://github.com/etalab/dactylo,True
