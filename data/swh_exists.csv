@@ -1836,6 +1836,8 @@ https://github.com/ambanum/CGUs,True
 https://github.com/ambanum/CGUs-data,True
 https://github.com/ambanum/CGUs-data-snapshots,True
 https://github.com/ambanum/CGUs-ops,False
+https://github.com/ambanum/CGUs-snapshots,False
+https://github.com/ambanum/CGUs-versions,False
 https://github.com/ambanum/DormantTwitterAccountsDetector,True
 https://github.com/ambanum/ParisCall,True
 https://github.com/ambanum/TwitterAccountsHistory,True
@@ -2061,6 +2063,7 @@ https://github.com/betagouv/itou-bitoubi,True
 https://github.com/betagouv/itou-cocorico,True
 https://github.com/betagouv/itou-discourse,True
 https://github.com/betagouv/itou-entreprise,True
+https://github.com/betagouv/itou-fdi,False
 https://github.com/betagouv/itou_entreprise,False
 https://github.com/betagouv/kibana-scalingo,True
 https://github.com/betagouv/kong-delegateAuth,True
@@ -3081,6 +3084,7 @@ https://github.com/geodatagouv/parsers,True
 https://github.com/geodatagouv/plunger,True
 https://github.com/geodatagouv/transcoder,True
 https://github.com/geodatagouv/wfs-client,True
+https://github.com/histovec/csa-as-pdf,False
 https://github.com/histovec/histovec-beta,True
 https://github.com/histovec/mock-up,True
 https://github.com/histovec/slides,True
@@ -3109,6 +3113,7 @@ https://github.com/ina-foss/voxo-daemon,True
 https://github.com/ina-foss/voxo-dashboard,True
 https://github.com/ina-foss/voxo-docker,True
 https://github.com/ina-foss/voxo-lib,True
+https://github.com/incubateur-territoires/incubateur.anct.gouv.fr,False
 https://github.com/indsante/Documentation-SNDS,True
 https://github.com/indsante/dico-snds,True
 https://github.com/indsante/dico-snds-creation-archive,True
