@@ -1585,6 +1585,7 @@ https://github.com/SocialGouv/ansible-kubeadm-cluster,True
 https://github.com/SocialGouv/app-nextjs-node-ts,True
 https://github.com/SocialGouv/archifiltre,True
 https://github.com/SocialGouv/archifiltre-landing-page,True
+https://github.com/SocialGouv/archifiltre-site,False
 https://github.com/SocialGouv/autosuggest,True
 https://github.com/SocialGouv/bootstrap,True
 https://github.com/SocialGouv/bot,True
@@ -3085,7 +3086,7 @@ https://github.com/geodatagouv/parsers,True
 https://github.com/geodatagouv/plunger,True
 https://github.com/geodatagouv/transcoder,True
 https://github.com/geodatagouv/wfs-client,True
-https://github.com/histovec/csa-as-pdf,False
+https://github.com/histovec/csa-as-pdf,True
 https://github.com/histovec/histovec-beta,True
 https://github.com/histovec/mock-up,True
 https://github.com/histovec/slides,True
