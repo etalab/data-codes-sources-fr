@@ -82,6 +82,7 @@ https://forgemia.inra.fr/genotoul-bioinfo/srna-tabac,True
 https://forgemia.inra.fr/genotoul-bioinfo/tSNPannot,True
 https://forgemia.inra.fr/get-it/nf-assemblshortread,True
 https://forgemia.inra.fr/get-it/nf-taxoaffiliation,True
+https://forgemia.inra.fr/gryc-data/candida_glabrata-cbs_138,False
 https://forgemia.inra.fr/hackathon-portail-calcul/criteres,True
 https://forgemia.inra.fr/hackathon-portail-calcul/existant,True
 https://forgemia.inra.fr/hackathon-portail-calcul/hackathon_organisation,True
@@ -1836,7 +1837,7 @@ https://github.com/ambanum/CGUs,True
 https://github.com/ambanum/CGUs-data,True
 https://github.com/ambanum/CGUs-data-snapshots,True
 https://github.com/ambanum/CGUs-ops,False
-https://github.com/ambanum/CGUs-snapshots,False
+https://github.com/ambanum/CGUs-snapshots,True
 https://github.com/ambanum/CGUs-versions,False
 https://github.com/ambanum/DormantTwitterAccountsDetector,True
 https://github.com/ambanum/ParisCall,True
@@ -2063,7 +2064,7 @@ https://github.com/betagouv/itou-bitoubi,True
 https://github.com/betagouv/itou-cocorico,True
 https://github.com/betagouv/itou-discourse,True
 https://github.com/betagouv/itou-entreprise,True
-https://github.com/betagouv/itou-fdi,False
+https://github.com/betagouv/itou-fdi,True
 https://github.com/betagouv/itou_entreprise,False
 https://github.com/betagouv/kibana-scalingo,True
 https://github.com/betagouv/kong-delegateAuth,True
