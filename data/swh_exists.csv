@@ -3115,7 +3115,7 @@ https://github.com/ina-foss/voxo-daemon,True
 https://github.com/ina-foss/voxo-dashboard,True
 https://github.com/ina-foss/voxo-docker,True
 https://github.com/ina-foss/voxo-lib,True
-https://github.com/incubateur-territoires/incubateur.anct.gouv.fr,False
+https://github.com/incubateur-territoires/incubateur.anct.gouv.fr,True
 https://github.com/indsante/Documentation-SNDS,True
 https://github.com/indsante/dico-snds,True
 https://github.com/indsante/dico-snds-creation-archive,True
@@ -3286,6 +3286,7 @@ https://github.com/medialab/artoo,True
 https://github.com/medialab/artoratoire,True
 https://github.com/medialab/benchmarkForceAtlas2,True
 https://github.com/medialab/benchmarkNetworkCut,True
+https://github.com/medialab/bhht-datascape,True
 https://github.com/medialab/bhht-scripts,True
 https://github.com/medialab/bibliotools3.0,True
 https://github.com/medialab/bothan,True
