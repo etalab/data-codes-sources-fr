@@ -639,6 +639,8 @@ https://github.com/CNRS-DSI-Dev/user_files_restore,True
 https://github.com/CNRS-DSI-Dev/user_servervars2,True
 https://github.com/CNRS-DSI-Dev/user_set_password,True
 https://github.com/CNRS-DSI-Dev/user_share_guest,True
+https://github.com/CatalaLang/catala,False
+https://github.com/CatalaLang/catala-website,False
 https://github.com/Cour-des-comptes/open-anafi-backend,True
 https://github.com/Cour-des-comptes/open-anafi-frontend,True
 https://github.com/DGA-MI-SSI/Afl-taenia-mt,True
@@ -3869,7 +3871,7 @@ https://github.com/sigrennesmetropole/mviewerstudio,True
 https://github.com/sigrennesmetropole/photos_obliques,True
 https://github.com/sigrennesmetropole/qgis-3liz-tools,True
 https://github.com/sigrennesmetropole/rmtr,True
-https://github.com/sigrennesmetropole/storymap,False
+https://github.com/sigrennesmetropole/storymap,True
 https://github.com/sigrennesmetropole/sviewer,True
 https://github.com/sigrennesmetropole/sviewer_generator,True
 https://github.com/sigrennesmetropole/visualiseur,True
@@ -4150,7 +4152,7 @@ https://gitlab.com/CSTB/ifc2x3-SDK,True
 https://gitlab.com/CSTB/mathis,True
 https://gitlab.com/DREES_code/formulaire_zonage_ars,True
 https://gitlab.com/cortext/ANSES,True
-https://gitlab.com/cortext/cib-database,False
+https://gitlab.com/cortext/cib-database,True
 https://gitlab.com/cortext/cortext-pub,True
 https://gitlab.com/cortext/patstat,False
 https://gitlab.com/cortext/pytheas-youtube,True
