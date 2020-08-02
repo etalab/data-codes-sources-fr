@@ -639,7 +639,7 @@ https://github.com/CNRS-DSI-Dev/user_files_restore,True
 https://github.com/CNRS-DSI-Dev/user_servervars2,True
 https://github.com/CNRS-DSI-Dev/user_set_password,True
 https://github.com/CNRS-DSI-Dev/user_share_guest,True
-https://github.com/CatalaLang/catala,False
+https://github.com/CatalaLang/catala,True
 https://github.com/CatalaLang/catala-website,True
 https://github.com/Cour-des-comptes/open-anafi-backend,True
 https://github.com/Cour-des-comptes/open-anafi-frontend,True
@@ -4419,6 +4419,7 @@ https://gitlab.inria.fr/batsim/evalys,True
 https://gitlab.inria.fr/batsim/pybatsim,True
 https://gitlab.inria.fr/belenios-forks/belenios-swergas,True
 https://gitlab.inria.fr/belenios/belenios,True
+https://gitlab.inria.fr/belenios/belenios-prepared-database,False
 https://gitlab.inria.fr/blare/kblare,True
 https://gitlab.inria.fr/blare/kblare-tests,True
 https://gitlab.inria.fr/blare/kblare-tools,True
