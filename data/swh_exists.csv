@@ -2054,6 +2054,7 @@ https://github.com/betagouv/covid19-algorithme-orientation-api,True
 https://github.com/betagouv/covid19-algorithme-orientation-elixir,True
 https://github.com/betagouv/dashboard_apientreprise,True
 https://github.com/betagouv/datapass,True
+https://github.com/betagouv/datapass-api-particulier-bridge,True
 https://github.com/betagouv/dds-cross-simulator,True
 https://github.com/betagouv/demarches-simplifiees.fr,True
 https://github.com/betagouv/diagoriente-admin,True
@@ -2926,6 +2927,8 @@ https://github.com/etalab/covid19-orientation,True
 https://github.com/etalab/covid19-timeline,True
 https://github.com/etalab/cowbots,True
 https://github.com/etalab/croquemort,True
+https://github.com/etalab/csv-detective,False
+https://github.com/etalab/csv-detective-ml,False
 https://github.com/etalab/csv-gg,True
 https://github.com/etalab/csv2html,True
 https://github.com/etalab/csv_detective,True
@@ -3118,7 +3121,7 @@ https://github.com/ezpaarse-project/biblio-broadcaster,True
 https://github.com/ezpaarse-project/biblio-logger-example,True
 https://github.com/ezpaarse-project/bibliolog,True
 https://github.com/ezpaarse-project/bibliomap,True
-https://github.com/ezpaarse-project/bibliomap-enricher,False
+https://github.com/ezpaarse-project/bibliomap-enricher,True
 https://github.com/ezpaarse-project/bibliomap-harvester,True
 https://github.com/ezpaarse-project/bibliomap-theme.github.io,True
 https://github.com/ezpaarse-project/bibliomap-viewer,True
@@ -4248,7 +4251,7 @@ https://gitlab.com/DREES_code/formulaire_zonage_ars,True
 https://gitlab.com/cortext/ANSES,True
 https://gitlab.com/cortext/cib-database,True
 https://gitlab.com/cortext/cortext-pub,True
-https://gitlab.com/cortext/patstat,False
+https://gitlab.com/cortext/patstat,True
 https://gitlab.com/cortext/pytheas-youtube,True
 https://gitlab.com/dreal-datalab/adresses-mairies-epci,True
 https://gitlab.com/dreal-datalab/autorite-environnementale,False
