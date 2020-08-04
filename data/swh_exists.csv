@@ -3960,6 +3960,7 @@ https://github.com/sigrennesmetropole/addon_urbanisme,True
 https://github.com/sigrennesmetropole/api_rva,True
 https://github.com/sigrennesmetropole/cadastrapp,True
 https://github.com/sigrennesmetropole/cartoHoraires,True
+https://github.com/sigrennesmetropole/dual_viewer,False
 https://github.com/sigrennesmetropole/geor_signalement,True
 https://github.com/sigrennesmetropole/geoserver_sld,True
 https://github.com/sigrennesmetropole/images,True
@@ -3972,6 +3973,7 @@ https://github.com/sigrennesmetropole/storymap,True
 https://github.com/sigrennesmetropole/sviewer,True
 https://github.com/sigrennesmetropole/sviewer_generator,True
 https://github.com/sigrennesmetropole/visualiseur,True
+https://github.com/sigrennesmetropole/widget-rm,False
 https://github.com/sipf/ckan,True
 https://github.com/sipf/codespostaux-api,True
 https://github.com/sipf/codespostaux-ui,True
@@ -5025,6 +5027,7 @@ https://gitlab.irstea.fr/SimAquaLife/SimAquaLife,True
 https://gitlab.irstea.fr/SimAquaLife/StockedDiad,True
 https://gitlab.irstea.fr/SimAquaLife/SturioSaintSeurin,True
 https://gitlab.irstea.fr/cassiopee/jalhyd,True
+https://gitlab.irstea.fr/cassiopee/rcassiopee,False
 https://gitlab.irstea.fr/copain/frenchcropusage,True
 https://gitlab.irstea.fr/copain/pdf2blocs,True
 https://gitlab.irstea.fr/copain/phenologicalstages,True
