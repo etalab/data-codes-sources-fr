@@ -3151,7 +3151,7 @@ https://github.com/ezpaarse-project/ezpaarse-web-home,True
 https://github.com/ezpaarse-project/getting-started-with-ezvis,True
 https://github.com/ezpaarse-project/ip-range-generator,True
 https://github.com/ezpaarse-project/irevue-logs-cleaner,True
-https://github.com/ezpaarse-project/node-ezmesure,False
+https://github.com/ezpaarse-project/node-ezmesure,True
 https://github.com/ezpaarse-project/node-ezpaarse,True
 https://github.com/ezpaarse-project/slides,True
 https://github.com/fabnumdef/GeoGate,True
@@ -3964,6 +3964,7 @@ https://github.com/sigrennesmetropole/dual_viewer,True
 https://github.com/sigrennesmetropole/geor_signalement,True
 https://github.com/sigrennesmetropole/geoserver_sld,True
 https://github.com/sigrennesmetropole/images,True
+https://github.com/sigrennesmetropole/invest_rennes,False
 https://github.com/sigrennesmetropole/mviewer,True
 https://github.com/sigrennesmetropole/mviewerstudio,True
 https://github.com/sigrennesmetropole/photos_obliques,True
@@ -5027,7 +5028,7 @@ https://gitlab.irstea.fr/SimAquaLife/SimAquaLife,True
 https://gitlab.irstea.fr/SimAquaLife/StockedDiad,True
 https://gitlab.irstea.fr/SimAquaLife/SturioSaintSeurin,True
 https://gitlab.irstea.fr/cassiopee/jalhyd,True
-https://gitlab.irstea.fr/cassiopee/rcassiopee,False
+https://gitlab.irstea.fr/cassiopee/rcassiopee,True
 https://gitlab.irstea.fr/copain/frenchcropusage,True
 https://gitlab.irstea.fr/copain/pdf2blocs,True
 https://gitlab.irstea.fr/copain/phenologicalstages,True
