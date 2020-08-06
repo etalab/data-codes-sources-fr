@@ -1,4 +1,17 @@
 origin_url,is_available
+https://dci-gitlab.cines.fr/dad/fdp-api,False
+https://dci-gitlab.cines.fr/dad/fdp-client,False
+https://dci-gitlab.cines.fr/dad/fdp-pillar,False
+https://dci-gitlab.cines.fr/dad/ffds-register-front,False
+https://dci-gitlab.cines.fr/dad/openrefine-metadata,False
+https://dci-gitlab.cines.fr/dad/pastis-dad-externe,False
+https://dci-gitlab.cines.fr/dad/pastis-extern,False
+https://dci-gitlab.cines.fr/dad/sip-builder-parent,False
+https://dci-gitlab.cines.fr/dad/smartapi,False
+https://dci-gitlab.cines.fr/dad/test-sphinx,False
+https://dci-gitlab.cines.fr/dad/vitam-ui-cea_app_referential_pr1,False
+https://dci-gitlab.cines.fr/dad/vitam-ui-develop,False
+https://dci-gitlab.cines.fr/dad/vitamui-cines-pastis-old,False
 https://dev.ch-poitiers.fr/PowerShell/OutilsServeurs,True
 https://dev.ch-poitiers.fr/PowerShell/PagesVertes,True
 https://dev.ch-poitiers.fr/debian/buster-sources,True
@@ -2531,6 +2544,7 @@ https://github.com/cstb/jupyterhub-docker,True
 https://github.com/cstb/pomegranate,True
 https://github.com/cstb/qt5-swagger-codegen,True
 https://github.com/cstb/swagger-codegen,True
+https://github.com/ctools/ctools,True
 https://github.com/culturecommunication/francearchives-cubicweb,True
 https://github.com/culturecommunication/francearchives-cubicweb-edition,True
 https://github.com/culturecommunication/ginco,True
@@ -3170,6 +3184,7 @@ https://github.com/fabnumdef/fabnumdef.github.io,True
 https://github.com/fabnumdef/fabrique-chatbot-back,True
 https://github.com/fabnumdef/fabrique-chatbot-front,True
 https://github.com/fabnumdef/resources,True
+https://github.com/gammalib/gammalib,True
 https://github.com/genotoul-bioinfo/WorkflowFrameworkComparison,True
 https://github.com/genotoul-bioinfo/configs,True
 https://github.com/genotoul-bioinfo/dgenies,True
@@ -3221,6 +3236,12 @@ https://github.com/indsante/dico-snds,True
 https://github.com/indsante/dico-snds-creation-archive,True
 https://github.com/indsante/schema-snds,True
 https://github.com/indsante/synthetic-snds,True
+https://github.com/inrae/BedloadR,False
+https://github.com/inrae/GR3D,False
+https://github.com/inrae/ODAM,False
+https://github.com/inrae/dbexportmodel,False
+https://github.com/inrae/filo-docker,False
+https://github.com/inrae/filo-science,False
 https://github.com/ivre/ivre,True
 https://github.com/ivre/ivre-test-samples,True
 https://github.com/ivre/masscan,True
