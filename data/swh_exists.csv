@@ -4,11 +4,11 @@ https://dci-gitlab.cines.fr/dad/fdp-client,False
 https://dci-gitlab.cines.fr/dad/fdp-pillar,False
 https://dci-gitlab.cines.fr/dad/ffds-register-front,False
 https://dci-gitlab.cines.fr/dad/openrefine-metadata,False
-https://dci-gitlab.cines.fr/dad/pastis-dad-externe,False
+https://dci-gitlab.cines.fr/dad/pastis-dad-externe,True
 https://dci-gitlab.cines.fr/dad/pastis-extern,False
 https://dci-gitlab.cines.fr/dad/sip-builder-parent,False
 https://dci-gitlab.cines.fr/dad/smartapi,False
-https://dci-gitlab.cines.fr/dad/test-sphinx,False
+https://dci-gitlab.cines.fr/dad/test-sphinx,True
 https://dci-gitlab.cines.fr/dad/vitam-ui-cea_app_referential_pr1,False
 https://dci-gitlab.cines.fr/dad/vitam-ui-develop,False
 https://dci-gitlab.cines.fr/dad/vitamui-cines-pastis-old,False
@@ -801,7 +801,7 @@ https://github.com/Deducteam/SizeChangeTool,True
 https://github.com/Deducteam/Sukerujo,True
 https://github.com/Deducteam/atom-dedukti,True
 https://github.com/Deducteam/dk2agda,False
-https://github.com/Deducteam/dkmeta,False
+https://github.com/Deducteam/dkmeta,True
 https://github.com/Deducteam/dkpsuler,True
 https://github.com/Deducteam/ekstrakto,True
 https://github.com/Deducteam/isabelle_dedukti,True
