@@ -2941,7 +2941,7 @@ https://github.com/etalab/covid19-orientation,True
 https://github.com/etalab/covid19-timeline,True
 https://github.com/etalab/cowbots,True
 https://github.com/etalab/croquemort,True
-https://github.com/etalab/csv-detective,False
+https://github.com/etalab/csv-detective,True
 https://github.com/etalab/csv-detective-ml,False
 https://github.com/etalab/csv-gg,True
 https://github.com/etalab/csv2html,True
@@ -4287,6 +4287,7 @@ https://gitlab.com/dreal-datalab/drealdown,True
 https://gitlab.com/dreal-datalab/drealthemes,True
 https://gitlab.com/dreal-datalab/enr_reseaux_teo,True
 https://gitlab.com/dreal-datalab/essai,True
+https://gitlab.com/dreal-datalab/indicateurs_territoriaux,False
 https://gitlab.com/dreal-datalab/nitrates,True
 https://gitlab.com/dreal-datalab/ort_effectifs_transport,True
 https://gitlab.com/dreal-datalab/pesticides,True
