@@ -3056,6 +3056,7 @@ https://github.com/etalab/osem,True
 https://github.com/etalab/osm-wms,True
 https://github.com/etalab/ouverture-des-codes-sources-publics,True
 https://github.com/etalab/ox-html-timeline,True
+https://github.com/etalab/pandoc-guides,False
 https://github.com/etalab/papillon,True
 https://github.com/etalab/piaf,True
 https://github.com/etalab/piaf-site,True
@@ -3236,11 +3237,11 @@ https://github.com/indsante/dico-snds,True
 https://github.com/indsante/dico-snds-creation-archive,True
 https://github.com/indsante/schema-snds,True
 https://github.com/indsante/synthetic-snds,True
-https://github.com/inrae/BedloadR,False
+https://github.com/inrae/BedloadR,True
 https://github.com/inrae/GR3D,False
-https://github.com/inrae/ODAM,False
+https://github.com/inrae/ODAM,True
 https://github.com/inrae/dbexportmodel,False
-https://github.com/inrae/filo-docker,False
+https://github.com/inrae/filo-docker,True
 https://github.com/inrae/filo-science,False
 https://github.com/ivre/ivre,True
 https://github.com/ivre/ivre-test-samples,True
