@@ -1,5 +1,5 @@
 origin_url,is_available
-https://dci-gitlab.cines.fr/dad/fdp-api,False
+https://dci-gitlab.cines.fr/dad/fdp-api,True
 https://dci-gitlab.cines.fr/dad/fdp-client,False
 https://dci-gitlab.cines.fr/dad/fdp-pillar,False
 https://dci-gitlab.cines.fr/dad/ffds-register-front,False
@@ -4543,7 +4543,7 @@ https://gitlab.inria.fr/batsim/evalys,True
 https://gitlab.inria.fr/batsim/pybatsim,True
 https://gitlab.inria.fr/belenios-forks/belenios-swergas,True
 https://gitlab.inria.fr/belenios/belenios,True
-https://gitlab.inria.fr/belenios/belenios-prepared-database,False
+https://gitlab.inria.fr/belenios/belenios-prepared-database,True
 https://gitlab.inria.fr/blare/kblare,True
 https://gitlab.inria.fr/blare/kblare-tests,True
 https://gitlab.inria.fr/blare/kblare-tools,True
