@@ -805,7 +805,7 @@ https://github.com/Deducteam/dkmeta,True
 https://github.com/Deducteam/dkpsuler,True
 https://github.com/Deducteam/ekstrakto,True
 https://github.com/Deducteam/isabelle_dedukti,True
-https://github.com/Deducteam/lambdapi,False
+https://github.com/Deducteam/lambdapi,True
 https://github.com/Deducteam/personoj,True
 https://github.com/Deducteam/pvs-with-proofs,True
 https://github.com/Deducteam/resystance,True
@@ -4289,7 +4289,7 @@ https://gitlab.com/dreal-datalab/drealdown,True
 https://gitlab.com/dreal-datalab/drealthemes,True
 https://gitlab.com/dreal-datalab/enr_reseaux_teo,True
 https://gitlab.com/dreal-datalab/essai,True
-https://gitlab.com/dreal-datalab/indicateurs_territoriaux,False
+https://gitlab.com/dreal-datalab/indicateurs_territoriaux,True
 https://gitlab.com/dreal-datalab/nitrates,True
 https://gitlab.com/dreal-datalab/ort_effectifs_transport,True
 https://gitlab.com/dreal-datalab/pesticides,True
