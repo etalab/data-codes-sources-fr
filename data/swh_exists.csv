@@ -3,7 +3,7 @@ https://dci-gitlab.cines.fr/dad/fdp-api,True
 https://dci-gitlab.cines.fr/dad/fdp-client,True
 https://dci-gitlab.cines.fr/dad/fdp-pillar,True
 https://dci-gitlab.cines.fr/dad/ffds-register-front,False
-https://dci-gitlab.cines.fr/dad/openrefine-metadata,False
+https://dci-gitlab.cines.fr/dad/openrefine-metadata,True
 https://dci-gitlab.cines.fr/dad/pastis-dad-externe,True
 https://dci-gitlab.cines.fr/dad/pastis-extern,False
 https://dci-gitlab.cines.fr/dad/sip-builder-parent,True
@@ -11,7 +11,7 @@ https://dci-gitlab.cines.fr/dad/smartapi,False
 https://dci-gitlab.cines.fr/dad/test-sphinx,True
 https://dci-gitlab.cines.fr/dad/vitam-ui-cea_app_referential_pr1,False
 https://dci-gitlab.cines.fr/dad/vitam-ui-develop,True
-https://dci-gitlab.cines.fr/dad/vitamui-cines-pastis-old,False
+https://dci-gitlab.cines.fr/dad/vitamui-cines-pastis-old,True
 https://dev.ch-poitiers.fr/PowerShell/OutilsServeurs,True
 https://dev.ch-poitiers.fr/PowerShell/PagesVertes,True
 https://dev.ch-poitiers.fr/debian/buster-sources,True
