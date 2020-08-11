@@ -1494,7 +1494,7 @@ https://github.com/OpenFLUID/openfluid-wareshub,True
 https://github.com/OpenFLUID/openfluid-wareshub-client,True
 https://github.com/OpenFLUID/openfluidjs,True
 https://github.com/OpenFLUID/pyopenfluid,True
-https://github.com/OpenFLUID/pyopenfluid-old,False
+https://github.com/OpenFLUID/pyopenfluid-old,True
 https://github.com/OpenFLUID/ropenfluid,True
 https://github.com/PnCevennes/Applications_10.30,True
 https://github.com/PnCevennes/GeoNature-atlas,True
@@ -3257,7 +3257,7 @@ https://github.com/indsante/synthetic-snds,True
 https://github.com/inrae/BedloadR,True
 https://github.com/inrae/GR3D,False
 https://github.com/inrae/ODAM,True
-https://github.com/inrae/dbexportmodel,False
+https://github.com/inrae/dbexportmodel,True
 https://github.com/inrae/filo-docker,True
 https://github.com/inrae/filo-science,True
 https://github.com/ivre/ivre,True
