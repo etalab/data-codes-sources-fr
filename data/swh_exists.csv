@@ -1489,7 +1489,7 @@ https://github.com/OpenFLUID/openfluid-containers,True
 https://github.com/OpenFLUID/openfluid-eclipse-plugins,True
 https://github.com/OpenFLUID/openfluid-fluidhub,True
 https://github.com/OpenFLUID/openfluid-fluidhub-api,True
-https://github.com/OpenFLUID/openfluid-fluidhub-services-jsprototype,False
+https://github.com/OpenFLUID/openfluid-fluidhub-services-jsprototype,True
 https://github.com/OpenFLUID/openfluid-wareshub,True
 https://github.com/OpenFLUID/openfluid-wareshub-client,True
 https://github.com/OpenFLUID/openfluidjs,True
