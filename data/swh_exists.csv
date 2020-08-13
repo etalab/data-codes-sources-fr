@@ -959,6 +959,7 @@ https://github.com/GHFC/Healthy-Brain-Network,True
 https://github.com/GHFC/HyPyP,True
 https://github.com/GHFC/SoNeTAA,True
 https://github.com/GHFC/StratiPy,True
+https://github.com/GHFC/genevo,False
 https://github.com/GHFC/neanderthal-synapse,True
 https://github.com/GHFC/sinagot,True
 https://github.com/GendarmerieNationale/FlowTracker,True
@@ -2132,7 +2133,7 @@ https://github.com/betagouv/heroku-buildpack-ruby,True
 https://github.com/betagouv/i18nliner-js,True
 https://github.com/betagouv/ilos,True
 https://github.com/betagouv/impact-tests,True
-https://github.com/betagouv/indice_pollution,False
+https://github.com/betagouv/indice_pollution,True
 https://github.com/betagouv/itou,True
 https://github.com/betagouv/itou-bitoubi,True
 https://github.com/betagouv/itou-cocorico,True
