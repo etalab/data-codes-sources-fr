@@ -9,7 +9,7 @@ https://dci-gitlab.cines.fr/dad/pastis-extern,False
 https://dci-gitlab.cines.fr/dad/sip-builder-parent,True
 https://dci-gitlab.cines.fr/dad/smartapi,True
 https://dci-gitlab.cines.fr/dad/test-sphinx,True
-https://dci-gitlab.cines.fr/dad/vitam-ui-cea_app_referential_pr1,False
+https://dci-gitlab.cines.fr/dad/vitam-ui-cea_app_referential_pr1,True
 https://dci-gitlab.cines.fr/dad/vitam-ui-develop,True
 https://dci-gitlab.cines.fr/dad/vitamui-cines-pastis-old,True
 https://dev.ch-poitiers.fr/PowerShell/OutilsServeurs,True
@@ -3164,7 +3164,7 @@ https://github.com/ezpaarse-project/bibliomap-viewer,True
 https://github.com/ezpaarse-project/crossref,True
 https://github.com/ezpaarse-project/dbbench,True
 https://github.com/ezpaarse-project/docker-ezvis,True
-https://github.com/ezpaarse-project/ez-unpaywall,False
+https://github.com/ezpaarse-project/ez-unpaywall,True
 https://github.com/ezpaarse-project/ezmesure,True
 https://github.com/ezpaarse-project/ezmesure-admin,True
 https://github.com/ezpaarse-project/ezmesure-widgets,True
