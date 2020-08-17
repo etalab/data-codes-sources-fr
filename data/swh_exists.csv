@@ -2,6 +2,7 @@ origin_url,is_available
 https://dci-gitlab.cines.fr/dad/fdp-api,True
 https://dci-gitlab.cines.fr/dad/fdp-client,True
 https://dci-gitlab.cines.fr/dad/fdp-pillar,True
+https://dci-gitlab.cines.fr/dad/ffds-register-api,False
 https://dci-gitlab.cines.fr/dad/ffds-register-front,True
 https://dci-gitlab.cines.fr/dad/openrefine-metadata,True
 https://dci-gitlab.cines.fr/dad/pastis-dad-externe,True
@@ -3305,6 +3306,7 @@ https://github.com/lutece-secteur-public/gru-library-identitystore,True
 https://github.com/lutece-secteur-public/gru-library-keydiversification,True
 https://github.com/lutece-secteur-public/gru-library-notifygru,True
 https://github.com/lutece-secteur-public/gru-module-appointment-alert,True
+https://github.com/lutece-secteur-public/gru-module-appointment-desk,False
 https://github.com/lutece-secteur-public/gru-module-appointment-filling,True
 https://github.com/lutece-secteur-public/gru-module-appointment-leaflet,True
 https://github.com/lutece-secteur-public/gru-module-appointment-mydashboard,True
