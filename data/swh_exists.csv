@@ -136,6 +136,7 @@ https://forgemia.inra.fr/record/workbench4record,True
 https://forgemia.inra.fr/sciproject/managesciproject,True
 https://forgemia.inra.fr/singularity/bcftools_v1.10.2,True
 https://forgemia.inra.fr/singularity/test,True
+https://forgemia.inra.fr/sunrise/network-inference,True
 https://forgemia.inra.fr/svdetection/cnvpipelines,True
 https://forgemia.inra.fr/svdetection/popsim,True
 https://forgemia.inra.fr/svdetection/svlib,True
@@ -810,7 +811,7 @@ https://github.com/Deducteam/lambdapi,True
 https://github.com/Deducteam/personoj,True
 https://github.com/Deducteam/pvs-with-proofs,True
 https://github.com/Deducteam/resystance,True
-https://github.com/Deducteam/universo,False
+https://github.com/Deducteam/universo,True
 https://github.com/Deducteam/zenon_modulo,True
 https://github.com/Deducteam/zenon_modulo-lib-gen,True
 https://github.com/Delegation-numerique-en-sante/covid19-algorithme-orientation,True
@@ -2284,6 +2285,7 @@ https://github.com/betagouv/signup-front,True
 https://github.com/betagouv/signup-oauth,True
 https://github.com/betagouv/signup.api.gouv.fr,True
 https://github.com/betagouv/signup.api.gouv.fr-docker,True
+https://github.com/betagouv/sirius,True
 https://github.com/betagouv/slack-ovh,True
 https://github.com/betagouv/solidarite-numerique,True
 https://github.com/betagouv/sqlalchemy-api-handler,True
