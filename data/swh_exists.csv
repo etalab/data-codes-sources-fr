@@ -6,7 +6,7 @@ https://dci-gitlab.cines.fr/dad/ffds-register-api,False
 https://dci-gitlab.cines.fr/dad/ffds-register-front,True
 https://dci-gitlab.cines.fr/dad/openrefine-metadata,True
 https://dci-gitlab.cines.fr/dad/pastis-dad-externe,True
-https://dci-gitlab.cines.fr/dad/pastis-extern,False
+https://dci-gitlab.cines.fr/dad/pastis-extern,True
 https://dci-gitlab.cines.fr/dad/sip-builder-parent,True
 https://dci-gitlab.cines.fr/dad/smartapi,True
 https://dci-gitlab.cines.fr/dad/test-sphinx,True
@@ -3093,6 +3093,7 @@ https://github.com/etalab/project-legal,True
 https://github.com/etalab/pseudononymizer,True
 https://github.com/etalab/quartiers-prioritaires,True
 https://github.com/etalab/recherche.etalab.studio,True
+https://github.com/etalab/recommendations-edito,False
 https://github.com/etalab/retos-civicos,True
 https://github.com/etalab/retweet,True
 https://github.com/etalab/rna_as_api,True
