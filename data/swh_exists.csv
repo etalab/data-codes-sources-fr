@@ -2,7 +2,7 @@ origin_url,is_available
 https://dci-gitlab.cines.fr/dad/fdp-api,True
 https://dci-gitlab.cines.fr/dad/fdp-client,True
 https://dci-gitlab.cines.fr/dad/fdp-pillar,True
-https://dci-gitlab.cines.fr/dad/ffds-register-api,False
+https://dci-gitlab.cines.fr/dad/ffds-register-api,True
 https://dci-gitlab.cines.fr/dad/ffds-register-front,True
 https://dci-gitlab.cines.fr/dad/openrefine-metadata,True
 https://dci-gitlab.cines.fr/dad/pastis-dad-externe,True
