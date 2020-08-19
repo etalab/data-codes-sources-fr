@@ -391,12 +391,14 @@ https://github.com/1024pix/nginx-lb-dev,True
 https://github.com/1024pix/open-lab,True
 https://github.com/1024pix/pix,True
 https://github.com/1024pix/pix-bot,True
+https://github.com/1024pix/pix-db-stats,False
 https://github.com/1024pix/pix-editor,True
 https://github.com/1024pix/pix-engineering,True
 https://github.com/1024pix/pix-help-center-theme,True
 https://github.com/1024pix/pix-lifestyle,True
 https://github.com/1024pix/pix-maintenance,True
 https://github.com/1024pix/pix-review-router,True
+https://github.com/1024pix/pix-saml-idp,False
 https://github.com/1024pix/pix-site,True
 https://github.com/1024pix/pix-site-pro,True
 https://github.com/1024pix/pix-ui,True
