@@ -391,7 +391,7 @@ https://github.com/1024pix/nginx-lb-dev,True
 https://github.com/1024pix/open-lab,True
 https://github.com/1024pix/pix,True
 https://github.com/1024pix/pix-bot,True
-https://github.com/1024pix/pix-db-stats,False
+https://github.com/1024pix/pix-db-stats,True
 https://github.com/1024pix/pix-editor,True
 https://github.com/1024pix/pix-engineering,True
 https://github.com/1024pix/pix-help-center-theme,True
@@ -1891,13 +1891,13 @@ https://github.com/abes-esr/poc-fne-wikibase-docker,True
 https://github.com/abes-esr/poc-fne-wikidata-query-gui,True
 https://github.com/abes-esr/pydref,False
 https://github.com/abes-esr/sudoc-toolkit,False
-https://github.com/abes-esr/theses-batch,False
-https://github.com/abes-esr/theses-batch-ongoingthesestodelete,False
+https://github.com/abes-esr/theses-batch,True
+https://github.com/abes-esr/theses-batch-ongoingthesestodelete,True
 https://github.com/abes-esr/theses-dataaccesslayer,False
 https://github.com/abes-esr/theses-misc,False
-https://github.com/abes-esr/theses-oracletosolr-indexing,False
+https://github.com/abes-esr/theses-oracletosolr-indexing,True
 https://github.com/abes-esr/winibw-scripts,False
-https://github.com/abes-esr/zotero-translators,False
+https://github.com/abes-esr/zotero-translators,True
 https://github.com/addok/addocker,True
 https://github.com/addok/addok,True
 https://github.com/addok/addok-csv,True
