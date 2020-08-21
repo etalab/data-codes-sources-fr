@@ -1895,7 +1895,7 @@ https://github.com/abes-esr/sudoc-toolkit,False
 https://github.com/abes-esr/theses-batch,True
 https://github.com/abes-esr/theses-batch-ongoingthesestodelete,True
 https://github.com/abes-esr/theses-dataaccesslayer,False
-https://github.com/abes-esr/theses-misc,False
+https://github.com/abes-esr/theses-misc,True
 https://github.com/abes-esr/theses-oracletosolr-indexing,True
 https://github.com/abes-esr/winibw-scripts,False
 https://github.com/abes-esr/zotero-translators,True
