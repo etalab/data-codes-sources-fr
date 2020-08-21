@@ -1883,7 +1883,7 @@ https://github.com/abes-esr/algoliens-web,False
 https://github.com/abes-esr/archi-htmlreport-docker,True
 https://github.com/abes-esr/archi-model-example,True
 https://github.com/abes-esr/ezmaster-globs,True
-https://github.com/abes-esr/idref-api,False
+https://github.com/abes-esr/idref-api,True
 https://github.com/abes-esr/item-api,True
 https://github.com/abes-esr/item-client,True
 https://github.com/abes-esr/poc-fne,True
