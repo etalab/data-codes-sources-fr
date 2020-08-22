@@ -1879,7 +1879,7 @@ https://github.com/abes-esr/abes-politique-developpement,True
 https://github.com/abes-esr/abes-sparql-examples,True
 https://github.com/abes-esr/abes-uptimerobot-widget,False
 https://github.com/abes-esr/abes-webservices,True
-https://github.com/abes-esr/abes-xslt,False
+https://github.com/abes-esr/abes-xslt,True
 https://github.com/abes-esr/algoliens-web,False
 https://github.com/abes-esr/archi-htmlreport-docker,True
 https://github.com/abes-esr/archi-model-example,True
@@ -1897,7 +1897,7 @@ https://github.com/abes-esr/theses-batch-ongoingthesestodelete,True
 https://github.com/abes-esr/theses-dataaccesslayer,False
 https://github.com/abes-esr/theses-misc,True
 https://github.com/abes-esr/theses-oracletosolr-indexing,True
-https://github.com/abes-esr/winibw-scripts,False
+https://github.com/abes-esr/winibw-scripts,True
 https://github.com/abes-esr/zotero-translators,True
 https://github.com/addok/addocker,True
 https://github.com/addok/addok,True
@@ -3124,7 +3124,7 @@ https://github.com/etalab/project-legal,True
 https://github.com/etalab/pseudononymizer,True
 https://github.com/etalab/quartiers-prioritaires,True
 https://github.com/etalab/recherche.etalab.studio,True
-https://github.com/etalab/recommendations-edito,False
+https://github.com/etalab/recommendations-edito,True
 https://github.com/etalab/retos-civicos,True
 https://github.com/etalab/retweet,True
 https://github.com/etalab/rna_as_api,True
