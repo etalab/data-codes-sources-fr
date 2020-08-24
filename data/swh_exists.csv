@@ -96,7 +96,7 @@ https://forgemia.inra.fr/genotoul-bioinfo/ngspipelines,True
 https://forgemia.inra.fr/genotoul-bioinfo/pyrocleaner,True
 https://forgemia.inra.fr/genotoul-bioinfo/srna-tabac,True
 https://forgemia.inra.fr/genotoul-bioinfo/tSNPannot,True
-https://forgemia.inra.fr/genotoul-bioinfo/use-nextflow-nfcore-course,False
+https://forgemia.inra.fr/genotoul-bioinfo/use-nextflow-nfcore-course,True
 https://forgemia.inra.fr/get-it/nf-assemblshortread,True
 https://forgemia.inra.fr/get-it/nf-taxoaffiliation,True
 https://forgemia.inra.fr/gryc-data/candida_glabrata-cbs_138,True
@@ -1876,7 +1876,7 @@ https://github.com/X-DataInitiative/tick,True
 https://github.com/X-DataInitiative/tick-datasets,True
 https://github.com/X-DataInitiative/tick_appveyor,True
 https://github.com/X-DataInitiative/tick_archive,True
-https://github.com/abes-esr/abes-ontology,False
+https://github.com/abes-esr/abes-ontology,True
 https://github.com/abes-esr/abes-politique-developpement,True
 https://github.com/abes-esr/abes-sparql-examples,True
 https://github.com/abes-esr/abes-uptimerobot-widget,False
