@@ -96,6 +96,7 @@ https://forgemia.inra.fr/genotoul-bioinfo/ngspipelines,True
 https://forgemia.inra.fr/genotoul-bioinfo/pyrocleaner,True
 https://forgemia.inra.fr/genotoul-bioinfo/srna-tabac,True
 https://forgemia.inra.fr/genotoul-bioinfo/tSNPannot,True
+https://forgemia.inra.fr/genotoul-bioinfo/use-nextflow-nfcore-course,False
 https://forgemia.inra.fr/get-it/nf-assemblshortread,True
 https://forgemia.inra.fr/get-it/nf-taxoaffiliation,True
 https://forgemia.inra.fr/gryc-data/candida_glabrata-cbs_138,True
@@ -1949,6 +1950,7 @@ https://github.com/ambanum/TwitterAccountsHistory,True
 https://github.com/ambanum/beta.gouv.fr,True
 https://github.com/ambanum/desinfo-mattermost-integrations,True
 https://github.com/ambanum/desinfo.quaidorsay.fr-wiki,True
+https://github.com/ambanum/disencyclopedia,False
 https://github.com/ambanum/disinfo.quaidorsay.fr,True
 https://github.com/ambanum/disinfo.quaidorsay.fr-ops,True
 https://github.com/ambanum/disinformation-chatbots,True
@@ -4041,6 +4043,7 @@ https://github.com/sigrennesmetropole/cartoHoraires,True
 https://github.com/sigrennesmetropole/dual_viewer,True
 https://github.com/sigrennesmetropole/geor_signalement,True
 https://github.com/sigrennesmetropole/geor_urbanisme,True
+https://github.com/sigrennesmetropole/geor_urbanisme_mapstore,False
 https://github.com/sigrennesmetropole/geoserver_sld,True
 https://github.com/sigrennesmetropole/images,True
 https://github.com/sigrennesmetropole/invest_rennes,True
