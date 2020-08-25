@@ -11,6 +11,7 @@ https://dci-gitlab.cines.fr/dad/pastis-extern,True
 https://dci-gitlab.cines.fr/dad/sip-builder-parent,True
 https://dci-gitlab.cines.fr/dad/smartapi,True
 https://dci-gitlab.cines.fr/dad/test-sphinx,True
+https://dci-gitlab.cines.fr/dad/vitam-rest-api,False
 https://dci-gitlab.cines.fr/dad/vitam-ui-cea_app_referential_pr1,True
 https://dci-gitlab.cines.fr/dad/vitam-ui-develop,True
 https://dci-gitlab.cines.fr/dad/vitamui-cines-pastis-old,True
@@ -69,6 +70,7 @@ https://forgemia.inra.fr/GNet/einkorn_grain_transcriptome,True
 https://forgemia.inra.fr/GNet/pipelineoge,True
 https://forgemia.inra.fr/QTL/spell-qtl,True
 https://forgemia.inra.fr/adminforgemia/doc-public,True
+https://forgemia.inra.fr/baric/family-companion,False
 https://forgemia.inra.fr/bibliome/alvisae-anaee,True
 https://forgemia.inra.fr/bibliome/bionlp-st-py,True
 https://forgemia.inra.fr/bibliome/formation-alvisnlp,True
@@ -1893,7 +1895,7 @@ https://github.com/abes-esr/poc-fne,True
 https://github.com/abes-esr/poc-fne-wikibase-docker,True
 https://github.com/abes-esr/poc-fne-wikidata-query-gui,True
 https://github.com/abes-esr/pydref,False
-https://github.com/abes-esr/sudoc-toolkit,False
+https://github.com/abes-esr/sudoc-toolkit,True
 https://github.com/abes-esr/theses-batch,True
 https://github.com/abes-esr/theses-batch-ongoingthesestodelete,True
 https://github.com/abes-esr/theses-dataaccesslayer,False
@@ -1946,6 +1948,7 @@ https://github.com/ambanum/CGUs-snapshots,True
 https://github.com/ambanum/CGUs-versions,True
 https://github.com/ambanum/DormantTwitterAccountsDetector,True
 https://github.com/ambanum/ParisCall,True
+https://github.com/ambanum/TOSBack-CGUs-bridge,False
 https://github.com/ambanum/TwitterAccountsHistory,True
 https://github.com/ambanum/beta.gouv.fr,True
 https://github.com/ambanum/desinfo-mattermost-integrations,True
@@ -5071,6 +5074,7 @@ https://gitlab.inria.fr/verifisc/verifisc-python,True
 https://gitlab.inria.fr/vidjil/mixcr,True
 https://gitlab.inria.fr/vidjil/mkdocs-gitlab-plugin,True
 https://gitlab.inria.fr/vidjil/sdsl-lite,True
+https://gitlab.inria.fr/vidjil/should,False
 https://gitlab.inria.fr/vidjil/tl-index,True
 https://gitlab.inria.fr/vidjil/vidjil,True
 https://gitlab.inria.fr/why3/why3,True
