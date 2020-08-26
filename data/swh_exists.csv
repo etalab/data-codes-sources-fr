@@ -2697,7 +2697,7 @@ https://github.com/diverse-project/flink-datacenter,True
 https://github.com/diverse-project/gen-mobile-data-app,True
 https://github.com/diverse-project/k3,True
 https://github.com/diverse-project/kcvl,True
-https://github.com/diverse-project/kermeta,False
+https://github.com/diverse-project/kermeta,True
 https://github.com/diverse-project/matisseTemplate,True
 https://github.com/diverse-project/maven-miner,True
 https://github.com/diverse-project/melange,True
@@ -3139,7 +3139,7 @@ https://github.com/etalab/retweet,True
 https://github.com/etalab/rna_as_api,True
 https://github.com/etalab/rncs_worker_api_entreprise,True
 https://github.com/etalab/rubocop_api_entreprise,True
-https://github.com/etalab/schema-bal,False
+https://github.com/etalab/schema-bal,True
 https://github.com/etalab/schema-decp-dpa,True
 https://github.com/etalab/schema-generic-template,False
 https://github.com/etalab/schema-irve,True
