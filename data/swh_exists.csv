@@ -5,6 +5,7 @@ https://dci-gitlab.cines.fr/dad/fdp-pillar,True
 https://dci-gitlab.cines.fr/dad/federated-fair-data-space-documentation,False
 https://dci-gitlab.cines.fr/dad/ffds-register-api,True
 https://dci-gitlab.cines.fr/dad/ffds-register-front,True
+https://dci-gitlab.cines.fr/dad/ffds-smart-harvester,False
 https://dci-gitlab.cines.fr/dad/openrefine-metadata,True
 https://dci-gitlab.cines.fr/dad/pastis-dad-externe,True
 https://dci-gitlab.cines.fr/dad/pastis-extern,True
@@ -3020,6 +3021,7 @@ https://github.com/etalab/datagouv-dashboard-moderation,True
 https://github.com/etalab/datagouv-funfacts,True
 https://github.com/etalab/datagouv-search-indicator,True
 https://github.com/etalab/datagouvfr-pages,True
+https://github.com/etalab/datagouvfr-recommendations-edito,False
 https://github.com/etalab/datasets_reco,True
 https://github.com/etalab/de-dpe-processing,True
 https://github.com/etalab/de-geocodage-sirene,False
@@ -3137,6 +3139,7 @@ https://github.com/etalab/retweet,True
 https://github.com/etalab/rna_as_api,True
 https://github.com/etalab/rncs_worker_api_entreprise,True
 https://github.com/etalab/rubocop_api_entreprise,True
+https://github.com/etalab/schema-bal,False
 https://github.com/etalab/schema-decp-dpa,True
 https://github.com/etalab/schema-generic-template,False
 https://github.com/etalab/schema-irve,True
@@ -4475,6 +4478,7 @@ https://gitlab.huma-num.fr/tip/puckinstaller,True
 https://gitlab.huma-num.fr/tip/test,True
 https://gitlab.huma-num.fr/txm/textometrie,True
 https://gitlab.huma-num.fr/txm/txm-contrib,True
+https://gitlab.huma-num.fr/txm/txm-javadoc,False
 https://gitlab.huma-num.fr/txm/txm-manual,True
 https://gitlab.huma-num.fr/txm/txm-ressources,True
 https://gitlab.huma-num.fr/txm/txm-software,True
@@ -5078,7 +5082,7 @@ https://gitlab.inria.fr/verifisc/verifisc-python,True
 https://gitlab.inria.fr/vidjil/mixcr,True
 https://gitlab.inria.fr/vidjil/mkdocs-gitlab-plugin,True
 https://gitlab.inria.fr/vidjil/sdsl-lite,True
-https://gitlab.inria.fr/vidjil/should,False
+https://gitlab.inria.fr/vidjil/should,True
 https://gitlab.inria.fr/vidjil/tl-index,True
 https://gitlab.inria.fr/vidjil/vidjil,True
 https://gitlab.inria.fr/why3/why3,True
