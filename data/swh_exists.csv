@@ -3138,6 +3138,7 @@ https://github.com/etalab/rna_as_api,True
 https://github.com/etalab/rncs_worker_api_entreprise,True
 https://github.com/etalab/rubocop_api_entreprise,True
 https://github.com/etalab/schema-decp-dpa,True
+https://github.com/etalab/schema-generic-template,False
 https://github.com/etalab/schema-irve,True
 https://github.com/etalab/schema-lieux-covoiturage,True
 https://github.com/etalab/schema-plf,True
@@ -4047,7 +4048,7 @@ https://github.com/sigrennesmetropole/cartoHoraires,True
 https://github.com/sigrennesmetropole/dual_viewer,True
 https://github.com/sigrennesmetropole/geor_signalement,True
 https://github.com/sigrennesmetropole/geor_urbanisme,True
-https://github.com/sigrennesmetropole/geor_urbanisme_mapstore,False
+https://github.com/sigrennesmetropole/geor_urbanisme_mapstore,True
 https://github.com/sigrennesmetropole/geoserver_sld,True
 https://github.com/sigrennesmetropole/images,True
 https://github.com/sigrennesmetropole/invest_rennes,True
@@ -4147,6 +4148,8 @@ https://github.com/unistra/django-workflows,True
 https://github.com/unistra/djangorestframework-spore,True
 https://github.com/unistra/dtrt-ffmpeg,True
 https://github.com/unistra/eplouribousse,True
+https://github.com/unistra/esup-schedulesy-backend,False
+https://github.com/unistra/esup-schedulesy-frontend,False
 https://github.com/unistra/eva,True
 https://github.com/unistra/excalibur,True
 https://github.com/unistra/ffmpod-installer,True
