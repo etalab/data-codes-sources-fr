@@ -584,6 +584,7 @@ https://github.com/CEA-LIST/sgntx,True
 https://github.com/CEA-Leti/wsnet,True
 https://github.com/CEREMA/com.cerema.infocentre_old,True
 https://github.com/CEREMA/dataroom,True
+https://github.com/CEREMA/django_unchained,False
 https://github.com/CEREMA/dsi.adutils,True
 https://github.com/CEREMA/dterce.ressource_covadis,True
 https://github.com/CEREMA/dtermed-ceremao,True
@@ -1883,7 +1884,7 @@ https://github.com/X-DataInitiative/tick_archive,True
 https://github.com/abes-esr/abes-ontology,True
 https://github.com/abes-esr/abes-politique-developpement,True
 https://github.com/abes-esr/abes-sparql-examples,True
-https://github.com/abes-esr/abes-uptimerobot-widget,False
+https://github.com/abes-esr/abes-uptimerobot-widget,True
 https://github.com/abes-esr/abes-webservices,True
 https://github.com/abes-esr/abes-xslt,True
 https://github.com/abes-esr/algoliens-web,True
@@ -4478,7 +4479,7 @@ https://gitlab.huma-num.fr/tip/puckinstaller,True
 https://gitlab.huma-num.fr/tip/test,True
 https://gitlab.huma-num.fr/txm/textometrie,True
 https://gitlab.huma-num.fr/txm/txm-contrib,True
-https://gitlab.huma-num.fr/txm/txm-javadoc,False
+https://gitlab.huma-num.fr/txm/txm-javadoc,True
 https://gitlab.huma-num.fr/txm/txm-manual,True
 https://gitlab.huma-num.fr/txm/txm-ressources,True
 https://gitlab.huma-num.fr/txm/txm-software,True
