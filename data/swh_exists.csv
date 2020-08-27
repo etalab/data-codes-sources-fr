@@ -3141,7 +3141,7 @@ https://github.com/etalab/rncs_worker_api_entreprise,True
 https://github.com/etalab/rubocop_api_entreprise,True
 https://github.com/etalab/schema-bal,True
 https://github.com/etalab/schema-decp-dpa,True
-https://github.com/etalab/schema-generic-template,False
+https://github.com/etalab/schema-generic-template,True
 https://github.com/etalab/schema-irve,True
 https://github.com/etalab/schema-lieux-covoiturage,True
 https://github.com/etalab/schema-plf,True
