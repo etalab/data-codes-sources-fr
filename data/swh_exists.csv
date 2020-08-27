@@ -71,7 +71,7 @@ https://forgemia.inra.fr/GNet/einkorn_grain_transcriptome,True
 https://forgemia.inra.fr/GNet/pipelineoge,True
 https://forgemia.inra.fr/QTL/spell-qtl,True
 https://forgemia.inra.fr/adminforgemia/doc-public,True
-https://forgemia.inra.fr/baric/family-companion,False
+https://forgemia.inra.fr/baric/family-companion,True
 https://forgemia.inra.fr/bibliome/alvisae-anaee,True
 https://forgemia.inra.fr/bibliome/bionlp-st-py,True
 https://forgemia.inra.fr/bibliome/formation-alvisnlp,True
@@ -1956,7 +1956,7 @@ https://github.com/ambanum/TwitterAccountsHistory,True
 https://github.com/ambanum/beta.gouv.fr,True
 https://github.com/ambanum/desinfo-mattermost-integrations,True
 https://github.com/ambanum/desinfo.quaidorsay.fr-wiki,True
-https://github.com/ambanum/disencyclopedia,False
+https://github.com/ambanum/disencyclopedia,True
 https://github.com/ambanum/disinfo.quaidorsay.fr,True
 https://github.com/ambanum/disinfo.quaidorsay.fr-ops,True
 https://github.com/ambanum/disinformation-chatbots,True
@@ -3022,7 +3022,7 @@ https://github.com/etalab/datagouv-dashboard-moderation,True
 https://github.com/etalab/datagouv-funfacts,True
 https://github.com/etalab/datagouv-search-indicator,True
 https://github.com/etalab/datagouvfr-pages,True
-https://github.com/etalab/datagouvfr-recommendations-edito,False
+https://github.com/etalab/datagouvfr-recommendations-edito,True
 https://github.com/etalab/datasets_reco,True
 https://github.com/etalab/de-dpe-processing,True
 https://github.com/etalab/de-geocodage-sirene,False
