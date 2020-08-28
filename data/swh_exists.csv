@@ -2,7 +2,7 @@ origin_url,is_available
 https://dci-gitlab.cines.fr/dad/fdp-api,True
 https://dci-gitlab.cines.fr/dad/fdp-client,True
 https://dci-gitlab.cines.fr/dad/fdp-pillar,True
-https://dci-gitlab.cines.fr/dad/federated-fair-data-space-documentation,False
+https://dci-gitlab.cines.fr/dad/federated-fair-data-space-documentation,True
 https://dci-gitlab.cines.fr/dad/ffds-register-api,True
 https://dci-gitlab.cines.fr/dad/ffds-register-front,True
 https://dci-gitlab.cines.fr/dad/ffds-smart-harvester,False
@@ -1897,7 +1897,7 @@ https://github.com/abes-esr/item-client,True
 https://github.com/abes-esr/poc-fne,True
 https://github.com/abes-esr/poc-fne-wikibase-docker,True
 https://github.com/abes-esr/poc-fne-wikidata-query-gui,True
-https://github.com/abes-esr/pydref,False
+https://github.com/abes-esr/pydref,True
 https://github.com/abes-esr/sudoc-toolkit,True
 https://github.com/abes-esr/theses-batch,True
 https://github.com/abes-esr/theses-batch-ongoingthesestodelete,True
@@ -2394,6 +2394,7 @@ https://github.com/cea-hpc/slurm_exporter,True
 https://github.com/cea-hpc/space9,True
 https://github.com/cea-hpc/ssh-ldap-pubkey,True
 https://github.com/cea-hpc/sshproxy,True
+https://github.com/cea-hpc/swan,False
 https://github.com/cea-hpc/vbridge,True
 https://github.com/cea-hpc/wi4mpi,True
 https://github.com/cea-hpc/yumsync,True
@@ -4153,7 +4154,7 @@ https://github.com/unistra/djangorestframework-spore,True
 https://github.com/unistra/dtrt-ffmpeg,True
 https://github.com/unistra/eplouribousse,True
 https://github.com/unistra/esup-schedulesy-backend,False
-https://github.com/unistra/esup-schedulesy-frontend,False
+https://github.com/unistra/esup-schedulesy-frontend,True
 https://github.com/unistra/eva,True
 https://github.com/unistra/excalibur,True
 https://github.com/unistra/ffmpod-installer,True
