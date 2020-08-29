@@ -2395,7 +2395,7 @@ https://github.com/cea-hpc/slurm_exporter,True
 https://github.com/cea-hpc/space9,True
 https://github.com/cea-hpc/ssh-ldap-pubkey,True
 https://github.com/cea-hpc/sshproxy,True
-https://github.com/cea-hpc/swan,False
+https://github.com/cea-hpc/swan,True
 https://github.com/cea-hpc/vbridge,True
 https://github.com/cea-hpc/wi4mpi,True
 https://github.com/cea-hpc/yumsync,True
