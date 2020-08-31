@@ -2181,6 +2181,7 @@ https://github.com/betagouv/itou-cocorico,True
 https://github.com/betagouv/itou-discourse,True
 https://github.com/betagouv/itou-entreprise,True
 https://github.com/betagouv/itou-fdi,True
+https://github.com/betagouv/itou-gitbook,False
 https://github.com/betagouv/itou_entreprise,False
 https://github.com/betagouv/kibana-scalingo,True
 https://github.com/betagouv/kong-delegateAuth,True
@@ -3309,7 +3310,9 @@ https://github.com/indsante/schema-snds,True
 https://github.com/indsante/synthetic-snds,True
 https://github.com/inrae/BedloadR,True
 https://github.com/inrae/GR3D,True
+https://github.com/inrae/Matrix_lib-v2.0,False
 https://github.com/inrae/ODAM,True
+https://github.com/inrae/ShellScripts,False
 https://github.com/inrae/dbexportmodel,True
 https://github.com/inrae/filo-docker,True
 https://github.com/inrae/filo-science,True
