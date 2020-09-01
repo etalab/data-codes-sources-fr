@@ -2204,6 +2204,7 @@ https://github.com/betagouv/itou-discourse,True
 https://github.com/betagouv/itou-entreprise,True
 https://github.com/betagouv/itou-fdi,True
 https://github.com/betagouv/itou-gitbook,False
+https://github.com/betagouv/itou_c4_python_api,False
 https://github.com/betagouv/itou_entreprise,False
 https://github.com/betagouv/kibana-scalingo,True
 https://github.com/betagouv/kong-delegateAuth,True
@@ -3856,6 +3857,7 @@ https://github.com/opendatateam/udata-ask,True
 https://github.com/opendatateam/udata-ckan,True
 https://github.com/opendatateam/udata-cli,True
 https://github.com/opendatateam/udata-croquemort,True
+https://github.com/opendatateam/udata-docker-dev-env,False
 https://github.com/opendatateam/udata-dockers,True
 https://github.com/opendatateam/udata-explorer,True
 https://github.com/opendatateam/udata-id,True
