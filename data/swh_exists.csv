@@ -1137,6 +1137,7 @@ https://github.com/Ifsttar/NoiseCapture,True
 https://github.com/Ifsttar/NoiseModelling,True
 https://github.com/Ifsttar/NoisePlanet,True
 https://github.com/Ifsttar/Open-SymuVia,True
+https://github.com/Ifsttar/PedSim,False
 https://github.com/Ifsttar/Pypixgrid,True
 https://github.com/Ifsttar/SymuRes,True
 https://github.com/Ifsttar/Tempus,True
@@ -3333,7 +3334,7 @@ https://github.com/indsante/schema-snds,True
 https://github.com/indsante/synthetic-snds,True
 https://github.com/inrae/BedloadR,True
 https://github.com/inrae/GR3D,True
-https://github.com/inrae/Matrix_lib-v2.0,False
+https://github.com/inrae/Matrix_lib-v2.0,True
 https://github.com/inrae/ODAM,True
 https://github.com/inrae/ShellScripts,False
 https://github.com/inrae/dbexportmodel,True
