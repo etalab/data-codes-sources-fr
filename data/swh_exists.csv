@@ -5,7 +5,7 @@ https://dci-gitlab.cines.fr/dad/fdp-pillar,True
 https://dci-gitlab.cines.fr/dad/federated-fair-data-space-documentation,True
 https://dci-gitlab.cines.fr/dad/ffds-register-api,True
 https://dci-gitlab.cines.fr/dad/ffds-register-front,True
-https://dci-gitlab.cines.fr/dad/ffds-smart-harvester,False
+https://dci-gitlab.cines.fr/dad/ffds-smart-harvester,True
 https://dci-gitlab.cines.fr/dad/openrefine-metadata,True
 https://dci-gitlab.cines.fr/dad/pastis-dad-externe,True
 https://dci-gitlab.cines.fr/dad/pastis-extern,True
@@ -1141,7 +1141,7 @@ https://github.com/Ifsttar/NoiseCapture,True
 https://github.com/Ifsttar/NoiseModelling,True
 https://github.com/Ifsttar/NoisePlanet,True
 https://github.com/Ifsttar/Open-SymuVia,True
-https://github.com/Ifsttar/PedSim,False
+https://github.com/Ifsttar/PedSim,True
 https://github.com/Ifsttar/Pypixgrid,True
 https://github.com/Ifsttar/SymuRes,True
 https://github.com/Ifsttar/Tempus,True
@@ -5190,14 +5190,14 @@ https://gitlab.irstea.fr/support/wiki,True
 https://gitlab.irstea.fr/vino/Vino,True
 https://gitlab.irstea.fr/watasitdev/j2k-coupling,True
 https://gitlab.math.unistra.fr/atelier-ci/synthese,False
-https://gitlab.math.unistra.fr/atlas/cluster-doc,False
+https://gitlab.math.unistra.fr/atlas/cluster-doc,True
 https://gitlab.math.unistra.fr/atlas/please-install,False
 https://gitlab.math.unistra.fr/bayol/tp-gitlab,False
 https://gitlab.math.unistra.fr/epidemio/epidemio,False
 https://gitlab.math.unistra.fr/feelpp/feelpp-singularity-images,False
 https://gitlab.math.unistra.fr/formation-info/expose-git,False
 https://gitlab.math.unistra.fr/formation-info/expose-git-example,False
-https://gitlab.math.unistra.fr/formation-info/gitlab-pages,False
+https://gitlab.math.unistra.fr/formation-info/gitlab-pages,True
 https://gitlab.math.unistra.fr/formation-python/formation-python.pages.math.unistra.fr,True
 https://gitlab.math.unistra.fr/gitlab-tools/gitlab-admin,False
 https://gitlab.math.unistra.fr/gitlab-tools/gitlab-users,False
