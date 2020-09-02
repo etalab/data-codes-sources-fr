@@ -591,7 +591,7 @@ https://github.com/CEA-LIST/sgntx,True
 https://github.com/CEA-Leti/wsnet,True
 https://github.com/CEREMA/com.cerema.infocentre_old,True
 https://github.com/CEREMA/dataroom,True
-https://github.com/CEREMA/django_unchained,False
+https://github.com/CEREMA/django_unchained,True
 https://github.com/CEREMA/dsi.adutils,True
 https://github.com/CEREMA/dterce.ressource_covadis,True
 https://github.com/CEREMA/dtermed-ceremao,True
@@ -2209,7 +2209,7 @@ https://github.com/betagouv/itou-discourse,True
 https://github.com/betagouv/itou-entreprise,True
 https://github.com/betagouv/itou-fdi,True
 https://github.com/betagouv/itou-gitbook,False
-https://github.com/betagouv/itou_c4_python_api,False
+https://github.com/betagouv/itou_c4_python_api,True
 https://github.com/betagouv/itou_entreprise,False
 https://github.com/betagouv/kibana-scalingo,True
 https://github.com/betagouv/kong-delegateAuth,True
@@ -5223,7 +5223,7 @@ https://gitlab.orfeo-toolbox.org/remote_modules/otb-slic,True
 https://gitlab.orfeo-toolbox.org/remote_modules/remote-module-template,True
 https://gitlab.orfeo-toolbox.org/remote_modules/wasp,True
 https://gitlab.orfeo-toolbox.org/s1-tiling/s1tiling,True
-https://gitlab.orfeo-toolbox.org/s1-tiling/s1tilingsupportapplications,False
+https://gitlab.orfeo-toolbox.org/s1-tiling/s1tilingsupportapplications,True
 https://gitlab.ow2.org/lemonldap-ng/lemonldap-ng,True
 https://gitlab.ow2.org/lemonldap-ng/vue-manager-for-llng,True
 https://gitlab.ow2.org/lemonldap-ng/website-landing-page,True
