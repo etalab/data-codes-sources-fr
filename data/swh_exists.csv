@@ -4388,6 +4388,7 @@ https://gitlab.com/cortext/pytheas-youtube,True
 https://gitlab.com/dreal-datalab/adresses-mairies-epci,True
 https://gitlab.com/dreal-datalab/autorite-environnementale,False
 https://gitlab.com/dreal-datalab/autorite_environnementale,True
+https://gitlab.com/dreal-datalab/carrieres,False
 https://gitlab.com/dreal-datalab/codes_postaux,True
 https://gitlab.com/dreal-datalab/cogiter,True
 https://gitlab.com/dreal-datalab/communications,True
@@ -5197,13 +5198,13 @@ https://gitlab.math.unistra.fr/feelpp/feelpp-singularity-images,False
 https://gitlab.math.unistra.fr/formation-info/expose-git,False
 https://gitlab.math.unistra.fr/formation-info/expose-git-example,False
 https://gitlab.math.unistra.fr/formation-info/gitlab-pages,False
-https://gitlab.math.unistra.fr/formation-python/formation-python.pages.math.unistra.fr,False
+https://gitlab.math.unistra.fr/formation-python/formation-python.pages.math.unistra.fr,True
 https://gitlab.math.unistra.fr/gitlab-tools/gitlab-admin,False
 https://gitlab.math.unistra.fr/gitlab-tools/gitlab-users,False
-https://gitlab.math.unistra.fr/groupe-calcul/spip2pelican,False
+https://gitlab.math.unistra.fr/groupe-calcul/spip2pelican,True
 https://gitlab.math.unistra.fr/groupe-calcul/website,False
 https://gitlab.math.unistra.fr/hyperkin/hyperkin,False
-https://gitlab.math.unistra.fr/patapon/patapon,False
+https://gitlab.math.unistra.fr/patapon/patapon,True
 https://gitlab.math.unistra.fr/proba-mc2020/proba-mc2020,False
 https://gitlab.math.unistra.fr/urfist/cours-python,False
 https://gitlab.math.unistra.fr/voiceover/voiceover-terminal,False
