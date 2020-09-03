@@ -82,6 +82,7 @@ https://forgemia.inra.fr/bios4biol/workflows,True
 https://forgemia.inra.fr/chemhousebas/parafac,True
 https://forgemia.inra.fr/chemhousebas/vsn,True
 https://forgemia.inra.fr/cirad--monde-apres/reunion_initiatives_urgences,True
+https://forgemia.inra.fr/cirad--monde-apres/teletravail,False
 https://forgemia.inra.fr/enseignement-mistea/reports-with-markdown,True
 https://forgemia.inra.fr/epgv/nlgenomesweeper,True
 https://forgemia.inra.fr/formation/formation-python-inrae,True
@@ -2447,6 +2448,7 @@ https://github.com/cget-carto/dataviz,True
 https://github.com/cget-carto/dgf,True
 https://github.com/cget-carto/dgf_2020,True
 https://github.com/cget-carto/dotation_investissement,True
+https://github.com/cget-carto/fs_temp,False
 https://github.com/cget-carto/le-grand-debat-national,True
 https://github.com/cget-carto/metropoles,True
 https://github.com/cget-carto/mission_coworking,True
@@ -2732,6 +2734,7 @@ https://github.com/diverse-project/gen-mobile-data-app,True
 https://github.com/diverse-project/k3,True
 https://github.com/diverse-project/kcvl,True
 https://github.com/diverse-project/kermeta,True
+https://github.com/diverse-project/kermeta2,False
 https://github.com/diverse-project/matisseTemplate,True
 https://github.com/diverse-project/maven-miner,True
 https://github.com/diverse-project/melange,True
@@ -5202,12 +5205,12 @@ https://gitlab.math.unistra.fr/formation-python/formation-python.pages.math.unis
 https://gitlab.math.unistra.fr/gitlab-tools/gitlab-admin,False
 https://gitlab.math.unistra.fr/gitlab-tools/gitlab-users,False
 https://gitlab.math.unistra.fr/groupe-calcul/spip2pelican,True
-https://gitlab.math.unistra.fr/groupe-calcul/website,False
+https://gitlab.math.unistra.fr/groupe-calcul/website,True
 https://gitlab.math.unistra.fr/hyperkin/hyperkin,False
 https://gitlab.math.unistra.fr/patapon/patapon,True
 https://gitlab.math.unistra.fr/proba-mc2020/proba-mc2020,False
 https://gitlab.math.unistra.fr/urfist/cours-python,True
-https://gitlab.math.unistra.fr/voiceover/voiceover-terminal,False
+https://gitlab.math.unistra.fr/voiceover/voiceover-terminal,True
 https://gitlab.orfeo-toolbox.org/orfeotoolbox/otb,True
 https://gitlab.orfeo-toolbox.org/orfeotoolbox/otb-build-env,True
 https://gitlab.orfeo-toolbox.org/orfeotoolbox/otb-data,True
