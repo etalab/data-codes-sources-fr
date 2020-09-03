@@ -3340,7 +3340,7 @@ https://github.com/inrae/BedloadR,True
 https://github.com/inrae/GR3D,True
 https://github.com/inrae/Matrix_lib-v2.0,True
 https://github.com/inrae/ODAM,True
-https://github.com/inrae/ShellScripts,False
+https://github.com/inrae/ShellScripts,True
 https://github.com/inrae/dbexportmodel,True
 https://github.com/inrae/filo-docker,True
 https://github.com/inrae/filo-science,True
@@ -5195,7 +5195,7 @@ https://gitlab.math.unistra.fr/atlas/please-install,True
 https://gitlab.math.unistra.fr/bayol/tp-gitlab,False
 https://gitlab.math.unistra.fr/epidemio/epidemio,True
 https://gitlab.math.unistra.fr/feelpp/feelpp-singularity-images,False
-https://gitlab.math.unistra.fr/formation-info/expose-git,False
+https://gitlab.math.unistra.fr/formation-info/expose-git,True
 https://gitlab.math.unistra.fr/formation-info/expose-git-example,False
 https://gitlab.math.unistra.fr/formation-info/gitlab-pages,True
 https://gitlab.math.unistra.fr/formation-python/formation-python.pages.math.unistra.fr,True
@@ -5206,7 +5206,7 @@ https://gitlab.math.unistra.fr/groupe-calcul/website,False
 https://gitlab.math.unistra.fr/hyperkin/hyperkin,False
 https://gitlab.math.unistra.fr/patapon/patapon,True
 https://gitlab.math.unistra.fr/proba-mc2020/proba-mc2020,False
-https://gitlab.math.unistra.fr/urfist/cours-python,False
+https://gitlab.math.unistra.fr/urfist/cours-python,True
 https://gitlab.math.unistra.fr/voiceover/voiceover-terminal,False
 https://gitlab.orfeo-toolbox.org/orfeotoolbox/otb,True
 https://gitlab.orfeo-toolbox.org/orfeotoolbox/otb-build-env,True
