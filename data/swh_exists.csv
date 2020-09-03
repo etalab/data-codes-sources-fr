@@ -5191,9 +5191,9 @@ https://gitlab.irstea.fr/vino/Vino,True
 https://gitlab.irstea.fr/watasitdev/j2k-coupling,True
 https://gitlab.math.unistra.fr/atelier-ci/synthese,False
 https://gitlab.math.unistra.fr/atlas/cluster-doc,True
-https://gitlab.math.unistra.fr/atlas/please-install,False
+https://gitlab.math.unistra.fr/atlas/please-install,True
 https://gitlab.math.unistra.fr/bayol/tp-gitlab,False
-https://gitlab.math.unistra.fr/epidemio/epidemio,False
+https://gitlab.math.unistra.fr/epidemio/epidemio,True
 https://gitlab.math.unistra.fr/feelpp/feelpp-singularity-images,False
 https://gitlab.math.unistra.fr/formation-info/expose-git,False
 https://gitlab.math.unistra.fr/formation-info/expose-git-example,False
