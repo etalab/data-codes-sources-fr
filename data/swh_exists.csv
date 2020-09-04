@@ -2448,7 +2448,7 @@ https://github.com/cget-carto/dataviz,True
 https://github.com/cget-carto/dgf,True
 https://github.com/cget-carto/dgf_2020,True
 https://github.com/cget-carto/dotation_investissement,True
-https://github.com/cget-carto/fs_temp,False
+https://github.com/cget-carto/fs_temp,True
 https://github.com/cget-carto/le-grand-debat-national,True
 https://github.com/cget-carto/metropoles,True
 https://github.com/cget-carto/mission_coworking,True
@@ -3375,7 +3375,7 @@ https://github.com/istex/istex-doc-gitbook,True
 https://github.com/istex/istex-doc-gitbook-config,True
 https://github.com/istex/istex-drupal,True
 https://github.com/istex/istex-ent-uportal,True
-https://github.com/istex/istex-exchange,False
+https://github.com/istex/istex-exchange,True
 https://github.com/istex/istex-google-scholar,True
 https://github.com/istex/istex-header,True
 https://github.com/istex/istex-installer,True
@@ -3389,7 +3389,7 @@ https://github.com/istex/istex-widgets-angular,True
 https://github.com/istex/istex-wordpress-blog,True
 https://github.com/istex/istex-wordpress-www,True
 https://github.com/istex/istex.github.io,True
-https://github.com/istex/node-archiver,False
+https://github.com/istex/node-archiver,True
 https://github.com/istex/node-compress-commons,False
 https://github.com/istex/node-ezs-teeftfr,True
 https://github.com/istex/node-libxml,True
@@ -5247,7 +5247,7 @@ https://gitlab.irstea.fr/watasitdev/j2k-coupling,True
 https://gitlab.math.unistra.fr/atelier-ci/synthese,False
 https://gitlab.math.unistra.fr/atlas/cluster-doc,True
 https://gitlab.math.unistra.fr/atlas/please-install,True
-https://gitlab.math.unistra.fr/bayol/tp-gitlab,False
+https://gitlab.math.unistra.fr/bayol/tp-gitlab,True
 https://gitlab.math.unistra.fr/epidemio/epidemio,True
 https://gitlab.math.unistra.fr/feelpp/feelpp-singularity-images,True
 https://gitlab.math.unistra.fr/formation-info/expose-git,True
