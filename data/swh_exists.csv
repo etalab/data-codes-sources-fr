@@ -82,7 +82,7 @@ https://forgemia.inra.fr/bios4biol/workflows,True
 https://forgemia.inra.fr/chemhousebas/parafac,True
 https://forgemia.inra.fr/chemhousebas/vsn,True
 https://forgemia.inra.fr/cirad--monde-apres/reunion_initiatives_urgences,True
-https://forgemia.inra.fr/cirad--monde-apres/teletravail,False
+https://forgemia.inra.fr/cirad--monde-apres/teletravail,True
 https://forgemia.inra.fr/enseignement-mistea/reports-with-markdown,True
 https://forgemia.inra.fr/epgv/nlgenomesweeper,True
 https://forgemia.inra.fr/formation/formation-python-inrae,True
@@ -2209,7 +2209,7 @@ https://github.com/betagouv/itou-cocorico,True
 https://github.com/betagouv/itou-discourse,True
 https://github.com/betagouv/itou-entreprise,True
 https://github.com/betagouv/itou-fdi,True
-https://github.com/betagouv/itou-gitbook,False
+https://github.com/betagouv/itou-gitbook,True
 https://github.com/betagouv/itou_c4_python_api,True
 https://github.com/betagouv/itou_entreprise,False
 https://github.com/betagouv/kibana-scalingo,True
