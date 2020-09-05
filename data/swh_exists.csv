@@ -3390,10 +3390,10 @@ https://github.com/istex/istex-wordpress-blog,True
 https://github.com/istex/istex-wordpress-www,True
 https://github.com/istex/istex.github.io,True
 https://github.com/istex/node-archiver,True
-https://github.com/istex/node-compress-commons,False
+https://github.com/istex/node-compress-commons,True
 https://github.com/istex/node-ezs-teeftfr,True
 https://github.com/istex/node-libxml,True
-https://github.com/istex/node-zip-stream,False
+https://github.com/istex/node-zip-stream,True
 https://github.com/istex/odd-istex,True
 https://github.com/istex/ontology,True
 https://github.com/istex/popplonode,True
@@ -4443,7 +4443,7 @@ https://gitlab.com/cortext/pytheas-youtube,True
 https://gitlab.com/dreal-datalab/adresses-mairies-epci,True
 https://gitlab.com/dreal-datalab/autorite-environnementale,False
 https://gitlab.com/dreal-datalab/autorite_environnementale,True
-https://gitlab.com/dreal-datalab/carrieres,False
+https://gitlab.com/dreal-datalab/carrieres,True
 https://gitlab.com/dreal-datalab/codes_postaux,True
 https://gitlab.com/dreal-datalab/cogiter,True
 https://gitlab.com/dreal-datalab/communications,True
