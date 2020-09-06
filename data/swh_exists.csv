@@ -2158,6 +2158,7 @@ https://github.com/betagouv/datapass-api-particulier-bridge,True
 https://github.com/betagouv/dds-cross-simulator,True
 https://github.com/betagouv/demarches-simplifiees.fr,True
 https://github.com/betagouv/diagoriente-admin,True
+https://github.com/betagouv/diagoriente-api-v5-,False
 https://github.com/betagouv/diagoriente-front,True
 https://github.com/betagouv/dialogue-de-gestion,True
 https://github.com/betagouv/discourse-oauth2-basic,True
@@ -5244,7 +5245,7 @@ https://gitlab.irstea.fr/reversaal/wetlands_xray_tomopgraphy,True
 https://gitlab.irstea.fr/support/wiki,True
 https://gitlab.irstea.fr/vino/Vino,True
 https://gitlab.irstea.fr/watasitdev/j2k-coupling,True
-https://gitlab.math.unistra.fr/atelier-ci/synthese,False
+https://gitlab.math.unistra.fr/atelier-ci/synthese,True
 https://gitlab.math.unistra.fr/atlas/cluster-doc,True
 https://gitlab.math.unistra.fr/atlas/please-install,True
 https://gitlab.math.unistra.fr/bayol/tp-gitlab,True
