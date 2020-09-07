@@ -2654,6 +2654,7 @@ https://github.com/cw-leia/cw-leia-standalone-hard,True
 https://github.com/cw-leia/cw-leia.github.io,True
 https://github.com/cw-leia/smartleia,True
 https://github.com/cw-leia/smartleia-doc,True
+https://github.com/cw-leia/smartleia-target-applet,False
 https://github.com/datalocale/BinFul,True
 https://github.com/datalocale/ECV-IJBA,True
 https://github.com/datalocale/G8_Metadata_Mapping,True
@@ -3304,7 +3305,7 @@ https://github.com/gemoc/arduinomodeling,True
 https://github.com/gemoc/ardurobotmodeling,True
 https://github.com/gemoc/concurrency,True
 https://github.com/gemoc/coordination,True
-https://github.com/gemoc/debug4science,False
+https://github.com/gemoc/debug4science,True
 https://github.com/gemoc/demos,True
 https://github.com/gemoc/exploration,True
 https://github.com/gemoc/farmingmodeling,True
@@ -5304,7 +5305,7 @@ https://gitlab.math.unistra.fr/gitlab-tools/gitlab-admin,True
 https://gitlab.math.unistra.fr/gitlab-tools/gitlab-users,True
 https://gitlab.math.unistra.fr/groupe-calcul/spip2pelican,True
 https://gitlab.math.unistra.fr/groupe-calcul/website,True
-https://gitlab.math.unistra.fr/hyperkin/hyperkin,False
+https://gitlab.math.unistra.fr/hyperkin/hyperkin,True
 https://gitlab.math.unistra.fr/patapon/patapon,True
 https://gitlab.math.unistra.fr/proba-mc2020/proba-mc2020,True
 https://gitlab.math.unistra.fr/urfist/cours-python,True
