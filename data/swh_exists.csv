@@ -257,6 +257,7 @@ https://git.unistra.fr/Florian-William/a31-claguerre,True
 https://git.unistra.fr/HAJ18-T4-C/MyPrezTige,True
 https://git.unistra.fr/HPC/singularity,True
 https://git.unistra.fr/IUTRS/android-sdkmanager-scripts,True
+https://git.unistra.fr/IUTRS/cas-authentication,False
 https://git.unistra.fr/IUTRS/partage-migration-osx,True
 https://git.unistra.fr/Ismael/P4a,True
 https://git.unistra.fr/LP-JBHH/LP,True
@@ -3385,7 +3386,7 @@ https://github.com/istex/istex-lodex-data,True
 https://github.com/istex/istex-nerd,True
 https://github.com/istex/istex-users-doc,True
 https://github.com/istex/istex-view,True
-https://github.com/istex/istex-web-addons,False
+https://github.com/istex/istex-web-addons,True
 https://github.com/istex/istex-web-styleguide,True
 https://github.com/istex/istex-widgets-angular,True
 https://github.com/istex/istex-wordpress-blog,True
