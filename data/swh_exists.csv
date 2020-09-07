@@ -2158,7 +2158,7 @@ https://github.com/betagouv/datapass-api-particulier-bridge,True
 https://github.com/betagouv/dds-cross-simulator,True
 https://github.com/betagouv/demarches-simplifiees.fr,True
 https://github.com/betagouv/diagoriente-admin,True
-https://github.com/betagouv/diagoriente-api-v5-,False
+https://github.com/betagouv/diagoriente-api-v5-,True
 https://github.com/betagouv/diagoriente-front,True
 https://github.com/betagouv/diagoriente-v5-front-app,False
 https://github.com/betagouv/dialogue-de-gestion,True
@@ -3351,7 +3351,7 @@ https://github.com/inrae/filo-docker,True
 https://github.com/inrae/filo-science,True
 https://github.com/istex/GitManager,True
 https://github.com/istex/Pub2TEI,True
-https://github.com/istex/co-dothejob,False
+https://github.com/istex/co-dothejob,True
 https://github.com/istex/doc2prod,True
 https://github.com/istex/etat-collection,True
 https://github.com/istex/ezmaster-elasticsearch,True
@@ -5262,7 +5262,7 @@ https://gitlab.math.unistra.fr/groupe-calcul/spip2pelican,True
 https://gitlab.math.unistra.fr/groupe-calcul/website,True
 https://gitlab.math.unistra.fr/hyperkin/hyperkin,False
 https://gitlab.math.unistra.fr/patapon/patapon,True
-https://gitlab.math.unistra.fr/proba-mc2020/proba-mc2020,False
+https://gitlab.math.unistra.fr/proba-mc2020/proba-mc2020,True
 https://gitlab.math.unistra.fr/urfist/cours-python,True
 https://gitlab.math.unistra.fr/voiceover/voiceover-terminal,True
 https://gitlab.orfeo-toolbox.org/orfeotoolbox/otb,True
