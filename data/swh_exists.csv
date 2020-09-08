@@ -2658,7 +2658,7 @@ https://github.com/cw-leia/cw-leia-standalone-hard,True
 https://github.com/cw-leia/cw-leia.github.io,True
 https://github.com/cw-leia/smartleia,True
 https://github.com/cw-leia/smartleia-doc,True
-https://github.com/cw-leia/smartleia-target-applet,False
+https://github.com/cw-leia/smartleia-target-applet,True
 https://github.com/datalocale/BinFul,True
 https://github.com/datalocale/ECV-IJBA,True
 https://github.com/datalocale/G8_Metadata_Mapping,True
@@ -3184,7 +3184,7 @@ https://github.com/etalab/retweet,True
 https://github.com/etalab/rna_as_api,True
 https://github.com/etalab/rncs_worker_api_entreprise,True
 https://github.com/etalab/rubocop_api_entreprise,True
-https://github.com/etalab/run-nb,False
+https://github.com/etalab/run-nb,True
 https://github.com/etalab/schema-bal,True
 https://github.com/etalab/schema-decp-dpa,True
 https://github.com/etalab/schema-generic-template,True
@@ -3320,12 +3320,12 @@ https://github.com/gemoc/gemoc-studio-compilation-script,False
 https://github.com/gemoc/gemoc-studio-eclipse-integration,True
 https://github.com/gemoc/gemoc-studio-eclipsefork,True
 https://github.com/gemoc/gemoc-studio-execution-ale-eclipsefork,True
-https://github.com/gemoc/gemoc-studio-execution-java,False
+https://github.com/gemoc/gemoc-studio-execution-java,True
 https://github.com/gemoc/gemoc-studio-execution-moccml,True
 https://github.com/gemoc/gemoc-studio-jenkins,True
 https://github.com/gemoc/gemoc-studio-moccml,True
 https://github.com/gemoc/gemoc-studio-modeldebugging-eclipsefork,True
-https://github.com/gemoc/gemoc-studio-old,False
+https://github.com/gemoc/gemoc-studio-old,True
 https://github.com/gemoc/gemoc-studio-userguide,True
 https://github.com/gemoc/gemoc.github.io,True
 https://github.com/gemoc/glose,True
