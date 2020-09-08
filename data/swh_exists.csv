@@ -105,6 +105,8 @@ https://forgemia.inra.fr/genotoul-bioinfo/use-nextflow-nfcore-course,True
 https://forgemia.inra.fr/get-it/nf-assemblshortread,True
 https://forgemia.inra.fr/get-it/nf-taxoaffiliation,True
 https://forgemia.inra.fr/gryc-data/candida_glabrata-cbs_138,True
+https://forgemia.inra.fr/gryc-data/candida_parapsilosis-cdc_317,False
+https://forgemia.inra.fr/gryc-data/cyberlindera_fabianii-yjs_4271,False
 https://forgemia.inra.fr/hackathon-portail-calcul/criteres,True
 https://forgemia.inra.fr/hackathon-portail-calcul/existant,True
 https://forgemia.inra.fr/hackathon-portail-calcul/hackathon_organisation,True
@@ -119,6 +121,7 @@ https://forgemia.inra.fr/olivier.bonnefon/mse,True
 https://forgemia.inra.fr/pappso/beads,True
 https://forgemia.inra.fr/pappso/custompwiz,True
 https://forgemia.inra.fr/pappso/groupingprotein,True
+https://forgemia.inra.fr/pappso/hipl,False
 https://forgemia.inra.fr/pappso/libodsstream,True
 https://forgemia.inra.fr/pappso/libpwizlite,True
 https://forgemia.inra.fr/pappso/masschroq,True
@@ -3181,6 +3184,7 @@ https://github.com/etalab/retweet,True
 https://github.com/etalab/rna_as_api,True
 https://github.com/etalab/rncs_worker_api_entreprise,True
 https://github.com/etalab/rubocop_api_entreprise,True
+https://github.com/etalab/run-nb,False
 https://github.com/etalab/schema-bal,True
 https://github.com/etalab/schema-decp-dpa,True
 https://github.com/etalab/schema-generic-template,True
