@@ -104,9 +104,15 @@ https://forgemia.inra.fr/genotoul-bioinfo/tSNPannot,True
 https://forgemia.inra.fr/genotoul-bioinfo/use-nextflow-nfcore-course,True
 https://forgemia.inra.fr/get-it/nf-assemblshortread,True
 https://forgemia.inra.fr/get-it/nf-taxoaffiliation,True
+https://forgemia.inra.fr/gryc-data/candida_albicans-sc_5314,False
 https://forgemia.inra.fr/gryc-data/candida_glabrata-cbs_138,True
 https://forgemia.inra.fr/gryc-data/candida_parapsilosis-cdc_317,False
 https://forgemia.inra.fr/gryc-data/cyberlindera_fabianii-yjs_4271,True
+https://forgemia.inra.fr/gryc-data/debaryomyces_hansenii-cbs_767,False
+https://forgemia.inra.fr/gryc-data/eremothecium_gossypii-atcc_10895,False
+https://forgemia.inra.fr/gryc-data/kazachstania_naganishii-cbs_8797,False
+https://forgemia.inra.fr/gryc-data/kluyveromyces_lactis-nrrl_y-1140,False
+https://forgemia.inra.fr/gryc-data/kuraishia_capsulata-cbs_1993,False
 https://forgemia.inra.fr/hackathon-portail-calcul/criteres,True
 https://forgemia.inra.fr/hackathon-portail-calcul/existant,True
 https://forgemia.inra.fr/hackathon-portail-calcul/hackathon_organisation,True
@@ -148,6 +154,7 @@ https://forgemia.inra.fr/rna-seq/rna-seq-compagnon,True
 https://forgemia.inra.fr/sciproject/managesciproject,True
 https://forgemia.inra.fr/singularity/bcftools_v1.10.2,True
 https://forgemia.inra.fr/singularity/test,True
+https://forgemia.inra.fr/sunrise/15ex05_data_correction,False
 https://forgemia.inra.fr/sunrise/network-inference,True
 https://forgemia.inra.fr/svdetection/cnvpipelines,True
 https://forgemia.inra.fr/svdetection/popsim,True
