@@ -106,13 +106,16 @@ https://forgemia.inra.fr/get-it/nf-assemblshortread,True
 https://forgemia.inra.fr/get-it/nf-taxoaffiliation,True
 https://forgemia.inra.fr/gryc-data/candida_albicans-sc_5314,False
 https://forgemia.inra.fr/gryc-data/candida_glabrata-cbs_138,True
-https://forgemia.inra.fr/gryc-data/candida_parapsilosis-cdc_317,False
+https://forgemia.inra.fr/gryc-data/candida_parapsilosis-cdc_317,True
 https://forgemia.inra.fr/gryc-data/cyberlindera_fabianii-yjs_4271,True
 https://forgemia.inra.fr/gryc-data/debaryomyces_hansenii-cbs_767,False
 https://forgemia.inra.fr/gryc-data/eremothecium_gossypii-atcc_10895,False
 https://forgemia.inra.fr/gryc-data/kazachstania_naganishii-cbs_8797,False
 https://forgemia.inra.fr/gryc-data/kluyveromyces_lactis-nrrl_y-1140,False
 https://forgemia.inra.fr/gryc-data/kuraishia_capsulata-cbs_1993,False
+https://forgemia.inra.fr/gryc-data/lachancea_dasiensis-cbs_10888,False
+https://forgemia.inra.fr/gryc-data/lachancea_fantastica-cbs_6924,False
+https://forgemia.inra.fr/gryc-data/lachancea_fermentati-cbs_6772,False
 https://forgemia.inra.fr/hackathon-portail-calcul/criteres,True
 https://forgemia.inra.fr/hackathon-portail-calcul/existant,True
 https://forgemia.inra.fr/hackathon-portail-calcul/hackathon_organisation,True
@@ -4494,6 +4497,9 @@ https://gitlab.com/CSTB/geocoding_tools,True
 https://gitlab.com/CSTB/ifc2x3-SDK,True
 https://gitlab.com/CSTB/mathis,True
 https://gitlab.com/DREES_code/formulaire_zonage_ars,True
+https://gitlab.com/api-meubles/backend,False
+https://gitlab.com/api-meubles/doc-api,False
+https://gitlab.com/api-meubles/frontend,False
 https://gitlab.com/cortext/ANSES,True
 https://gitlab.com/cortext/cib-database,True
 https://gitlab.com/cortext/cortext-pub,True
