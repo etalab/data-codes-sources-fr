@@ -126,6 +126,11 @@ https://forgemia.inra.fr/gryc-data/lachancea_thermotolerans-cbs_6340,False
 https://forgemia.inra.fr/gryc-data/millerozyma_farinosa-cbs_7064,False
 https://forgemia.inra.fr/gryc-data/nakazeomyces_bacillisporus-cbs_7720,False
 https://forgemia.inra.fr/gryc-data/naumovozyma_castellii-cbs_4309,False
+https://forgemia.inra.fr/gryc-data/saccharomyces_cerevisiae-s288c,False
+https://forgemia.inra.fr/gryc-data/tetrapisispora_blattae-cbs_6284,False
+https://forgemia.inra.fr/gryc-data/torulaspora_microellipsoides-clib_830,False
+https://forgemia.inra.fr/gryc-data/yarrowia_lipolytica-clib_122,False
+https://forgemia.inra.fr/gryc-data/yarrowia_lipolytica-h222,False
 https://forgemia.inra.fr/hackathon-portail-calcul/criteres,True
 https://forgemia.inra.fr/hackathon-portail-calcul/existant,True
 https://forgemia.inra.fr/hackathon-portail-calcul/hackathon_organisation,True
@@ -4512,7 +4517,7 @@ https://gitlab.com/CSTB/mathis,True
 https://gitlab.com/DREES_code/formulaire_zonage_ars,True
 https://gitlab.com/api-meubles/backend,True
 https://gitlab.com/api-meubles/doc-api,False
-https://gitlab.com/api-meubles/frontend,False
+https://gitlab.com/api-meubles/frontend,True
 https://gitlab.com/cortext/ANSES,True
 https://gitlab.com/cortext/cib-database,True
 https://gitlab.com/cortext/cortext-pub,True
@@ -5316,10 +5321,10 @@ https://gitlab.irstea.fr/pomosed/naiades,True
 https://gitlab.irstea.fr/pomosed/rfunctions,False
 https://gitlab.irstea.fr/raspberry-pi/multi-sense,True
 https://gitlab.irstea.fr/raspberry-pi/sense-hat,True
-https://gitlab.irstea.fr/remi.cresson/GRM,False
+https://gitlab.irstea.fr/remi.cresson/GRM,True
 https://gitlab.irstea.fr/remi.cresson/LSGRM,False
 https://gitlab.irstea.fr/remi.cresson/NDVITimeSeries,False
-https://gitlab.irstea.fr/remi.cresson/SimpleExtractionTools,False
+https://gitlab.irstea.fr/remi.cresson/SimpleExtractionTools,True
 https://gitlab.irstea.fr/remi.cresson/TemporalSmoothing,False
 https://gitlab.irstea.fr/remi.cresson/TimeSeriesUtils,False
 https://gitlab.irstea.fr/remi.cresson/mosaic,False
