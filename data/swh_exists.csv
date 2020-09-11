@@ -104,6 +104,7 @@ https://forgemia.inra.fr/genotoul-bioinfo/tSNPannot,True
 https://forgemia.inra.fr/genotoul-bioinfo/use-nextflow-nfcore-course,True
 https://forgemia.inra.fr/get-it/nf-assemblshortread,True
 https://forgemia.inra.fr/get-it/nf-taxoaffiliation,True
+https://forgemia.inra.fr/gryc-data/blastobotrys_adeninivorans-ls3,False
 https://forgemia.inra.fr/gryc-data/candida_albicans-sc_5314,False
 https://forgemia.inra.fr/gryc-data/candida_glabrata-cbs_138,True
 https://forgemia.inra.fr/gryc-data/candida_parapsilosis-cdc_317,True
@@ -123,14 +124,17 @@ https://forgemia.inra.fr/gryc-data/lachancea_mirantina-cbs_11717,True
 https://forgemia.inra.fr/gryc-data/lachancea_nothofagi-cbs_11611,False
 https://forgemia.inra.fr/gryc-data/lachancea_quebecensis-cbs_14088,False
 https://forgemia.inra.fr/gryc-data/lachancea_thermotolerans-cbs_6340,False
-https://forgemia.inra.fr/gryc-data/millerozyma_farinosa-cbs_7064,False
+https://forgemia.inra.fr/gryc-data/millerozyma_farinosa-cbs_7064,True
 https://forgemia.inra.fr/gryc-data/nakazeomyces_bacillisporus-cbs_7720,False
 https://forgemia.inra.fr/gryc-data/naumovozyma_castellii-cbs_4309,False
 https://forgemia.inra.fr/gryc-data/saccharomyces_cerevisiae-s288c,False
 https://forgemia.inra.fr/gryc-data/tetrapisispora_blattae-cbs_6284,False
 https://forgemia.inra.fr/gryc-data/torulaspora_microellipsoides-clib_830,False
+https://forgemia.inra.fr/gryc-data/yarrowia_lipolytica-a101,False
 https://forgemia.inra.fr/gryc-data/yarrowia_lipolytica-clib_122,False
 https://forgemia.inra.fr/gryc-data/yarrowia_lipolytica-h222,False
+https://forgemia.inra.fr/gryc-data/zygosaccharomyces_bailii-clib_213,False
+https://forgemia.inra.fr/gryc-data/zygosaccharomyces_rouxii-cbs_732,False
 https://forgemia.inra.fr/hackathon-portail-calcul/criteres,True
 https://forgemia.inra.fr/hackathon-portail-calcul/existant,True
 https://forgemia.inra.fr/hackathon-portail-calcul/hackathon_organisation,True
@@ -367,6 +371,7 @@ https://git.unistra.fr/m.a.t.h.s.-manieurs-de-l-avenir-technologique-des-humains
 https://git.unistra.fr/m32_63_dsrsa/m32_63_dsrsa,True
 https://git.unistra.fr/mac19-t4-c/arct4,True
 https://git.unistra.fr/maf19-t4-c/Asimo-BOT,True
+https://git.unistra.fr/master-erp/api,False
 https://git.unistra.fr/methal/methal-sources,True
 https://git.unistra.fr/mih18-t4-a/ELECTOR2K18,True
 https://git.unistra.fr/my-awesome-group-de-tekdaiv/essaiededepotcommun,False
@@ -2147,6 +2152,7 @@ https://github.com/betagouv/api-particulier-demo,True
 https://github.com/betagouv/api-particulier-demo-traces,True
 https://github.com/betagouv/api-particulier-deprecated,True
 https://github.com/betagouv/api-particulier-lib,True
+https://github.com/betagouv/api-particulier-pole-emploi-sandbox-connector,False
 https://github.com/betagouv/api-particulier-portail,True
 https://github.com/betagouv/api-particulier-token-sender,True
 https://github.com/betagouv/api-particulier-web,True
@@ -2982,7 +2988,7 @@ https://github.com/etalab-ia/data_gouv_text,True
 https://github.com/etalab-ia/data_science_template,True
 https://github.com/etalab-ia/demo-piaf,True
 https://github.com/etalab-ia/florian_opendatascience,True
-https://github.com/etalab-ia/opendatascience,False
+https://github.com/etalab-ia/opendatascience,True
 https://github.com/etalab-ia/piaf-code,True
 https://github.com/etalab-ia/piaf_agent,True
 https://github.com/etalab-ia/pseudo_api,True
@@ -3343,7 +3349,7 @@ https://github.com/gemoc/exploration,True
 https://github.com/gemoc/farmingmodeling,True
 https://github.com/gemoc/gemoc-rc-day18,True
 https://github.com/gemoc/gemoc-studio-ale-execution,True
-https://github.com/gemoc/gemoc-studio-compilation-script,False
+https://github.com/gemoc/gemoc-studio-compilation-script,True
 https://github.com/gemoc/gemoc-studio-eclipse-integration,True
 https://github.com/gemoc/gemoc-studio-eclipsefork,True
 https://github.com/gemoc/gemoc-studio-execution-ale-eclipsefork,True
@@ -5325,7 +5331,7 @@ https://gitlab.irstea.fr/remi.cresson/GRM,True
 https://gitlab.irstea.fr/remi.cresson/LSGRM,False
 https://gitlab.irstea.fr/remi.cresson/NDVITimeSeries,False
 https://gitlab.irstea.fr/remi.cresson/SimpleExtractionTools,True
-https://gitlab.irstea.fr/remi.cresson/TemporalSmoothing,False
+https://gitlab.irstea.fr/remi.cresson/TemporalSmoothing,True
 https://gitlab.irstea.fr/remi.cresson/TimeSeriesUtils,False
 https://gitlab.irstea.fr/remi.cresson/mosaic,False
 https://gitlab.irstea.fr/reversaal/OhmPi,True
