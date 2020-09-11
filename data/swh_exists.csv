@@ -119,7 +119,7 @@ https://forgemia.inra.fr/gryc-data/lachancea_fermentati-cbs_6772,False
 https://forgemia.inra.fr/gryc-data/lachancea_kluyveri-nrrl_y-1265,False
 https://forgemia.inra.fr/gryc-data/lachancea_lanzarotensis-cbs_12615,False
 https://forgemia.inra.fr/gryc-data/lachancea_meyersii-cbs_8951,False
-https://forgemia.inra.fr/gryc-data/lachancea_mirantina-cbs_11717,False
+https://forgemia.inra.fr/gryc-data/lachancea_mirantina-cbs_11717,True
 https://forgemia.inra.fr/gryc-data/lachancea_nothofagi-cbs_11611,False
 https://forgemia.inra.fr/gryc-data/lachancea_quebecensis-cbs_14088,False
 https://forgemia.inra.fr/gryc-data/lachancea_thermotolerans-cbs_6340,False
@@ -3356,7 +3356,7 @@ https://github.com/gemoc/idm4sco,True
 https://github.com/gemoc/kaulua,True
 https://github.com/gemoc/mbse-teaching,True
 https://github.com/gemoc/mini-expression-server,True
-https://github.com/gemoc/miniexpr,False
+https://github.com/gemoc/miniexpr,True
 https://github.com/gemoc/modelanimation,True
 https://github.com/gemoc/monilog,True
 https://github.com/gemoc/org.eclipse.sirius,True
