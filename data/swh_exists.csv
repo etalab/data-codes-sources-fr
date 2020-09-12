@@ -112,7 +112,7 @@ https://forgemia.inra.fr/gryc-data/cyberlindera_fabianii-yjs_4271,True
 https://forgemia.inra.fr/gryc-data/debaryomyces_hansenii-cbs_767,False
 https://forgemia.inra.fr/gryc-data/eremothecium_gossypii-atcc_10895,True
 https://forgemia.inra.fr/gryc-data/kazachstania_naganishii-cbs_8797,True
-https://forgemia.inra.fr/gryc-data/kluyveromyces_lactis-nrrl_y-1140,False
+https://forgemia.inra.fr/gryc-data/kluyveromyces_lactis-nrrl_y-1140,True
 https://forgemia.inra.fr/gryc-data/kuraishia_capsulata-cbs_1993,False
 https://forgemia.inra.fr/gryc-data/lachancea_dasiensis-cbs_10888,True
 https://forgemia.inra.fr/gryc-data/lachancea_fantastica-cbs_6924,False
@@ -126,7 +126,7 @@ https://forgemia.inra.fr/gryc-data/lachancea_quebecensis-cbs_14088,False
 https://forgemia.inra.fr/gryc-data/lachancea_thermotolerans-cbs_6340,False
 https://forgemia.inra.fr/gryc-data/millerozyma_farinosa-cbs_7064,True
 https://forgemia.inra.fr/gryc-data/nakazeomyces_bacillisporus-cbs_7720,False
-https://forgemia.inra.fr/gryc-data/naumovozyma_castellii-cbs_4309,False
+https://forgemia.inra.fr/gryc-data/naumovozyma_castellii-cbs_4309,True
 https://forgemia.inra.fr/gryc-data/saccharomyces_cerevisiae-s288c,False
 https://forgemia.inra.fr/gryc-data/tetrapisispora_blattae-cbs_6284,False
 https://forgemia.inra.fr/gryc-data/torulaspora_microellipsoides-clib_830,False
@@ -149,7 +149,7 @@ https://forgemia.inra.fr/olivier.bonnefon/mse,True
 https://forgemia.inra.fr/pappso/beads,True
 https://forgemia.inra.fr/pappso/custompwiz,True
 https://forgemia.inra.fr/pappso/groupingprotein,True
-https://forgemia.inra.fr/pappso/hipl,False
+https://forgemia.inra.fr/pappso/hipl,True
 https://forgemia.inra.fr/pappso/libodsstream,True
 https://forgemia.inra.fr/pappso/libpwizlite,True
 https://forgemia.inra.fr/pappso/masschroq,True
