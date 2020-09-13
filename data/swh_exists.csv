@@ -115,7 +115,7 @@ https://forgemia.inra.fr/gryc-data/kazachstania_naganishii-cbs_8797,True
 https://forgemia.inra.fr/gryc-data/kluyveromyces_lactis-nrrl_y-1140,True
 https://forgemia.inra.fr/gryc-data/kuraishia_capsulata-cbs_1993,False
 https://forgemia.inra.fr/gryc-data/lachancea_dasiensis-cbs_10888,True
-https://forgemia.inra.fr/gryc-data/lachancea_fantastica-cbs_6924,False
+https://forgemia.inra.fr/gryc-data/lachancea_fantastica-cbs_6924,True
 https://forgemia.inra.fr/gryc-data/lachancea_fermentati-cbs_6772,True
 https://forgemia.inra.fr/gryc-data/lachancea_kluyveri-nrrl_y-1265,False
 https://forgemia.inra.fr/gryc-data/lachancea_lanzarotensis-cbs_12615,False
@@ -127,7 +127,7 @@ https://forgemia.inra.fr/gryc-data/lachancea_thermotolerans-cbs_6340,False
 https://forgemia.inra.fr/gryc-data/millerozyma_farinosa-cbs_7064,True
 https://forgemia.inra.fr/gryc-data/nakazeomyces_bacillisporus-cbs_7720,False
 https://forgemia.inra.fr/gryc-data/naumovozyma_castellii-cbs_4309,True
-https://forgemia.inra.fr/gryc-data/saccharomyces_cerevisiae-s288c,False
+https://forgemia.inra.fr/gryc-data/saccharomyces_cerevisiae-s288c,True
 https://forgemia.inra.fr/gryc-data/tetrapisispora_blattae-cbs_6284,False
 https://forgemia.inra.fr/gryc-data/torulaspora_microellipsoides-clib_830,False
 https://forgemia.inra.fr/gryc-data/yarrowia_lipolytica-a101,False
@@ -5329,7 +5329,7 @@ https://gitlab.irstea.fr/pomosed/rfunctions,False
 https://gitlab.irstea.fr/raspberry-pi/multi-sense,True
 https://gitlab.irstea.fr/raspberry-pi/sense-hat,True
 https://gitlab.irstea.fr/remi.cresson/GRM,True
-https://gitlab.irstea.fr/remi.cresson/LSGRM,False
+https://gitlab.irstea.fr/remi.cresson/LSGRM,True
 https://gitlab.irstea.fr/remi.cresson/NDVITimeSeries,False
 https://gitlab.irstea.fr/remi.cresson/SimpleExtractionTools,True
 https://gitlab.irstea.fr/remi.cresson/TemporalSmoothing,True
