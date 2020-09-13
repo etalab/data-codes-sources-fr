@@ -131,8 +131,8 @@ https://forgemia.inra.fr/gryc-data/saccharomyces_cerevisiae-s288c,False
 https://forgemia.inra.fr/gryc-data/tetrapisispora_blattae-cbs_6284,False
 https://forgemia.inra.fr/gryc-data/torulaspora_microellipsoides-clib_830,False
 https://forgemia.inra.fr/gryc-data/yarrowia_lipolytica-a101,False
-https://forgemia.inra.fr/gryc-data/yarrowia_lipolytica-clib_122,False
-https://forgemia.inra.fr/gryc-data/yarrowia_lipolytica-h222,False
+https://forgemia.inra.fr/gryc-data/yarrowia_lipolytica-clib_122,True
+https://forgemia.inra.fr/gryc-data/yarrowia_lipolytica-h222,True
 https://forgemia.inra.fr/gryc-data/zygosaccharomyces_bailii-clib_213,False
 https://forgemia.inra.fr/gryc-data/zygosaccharomyces_rouxii-cbs_732,True
 https://forgemia.inra.fr/hackathon-portail-calcul/criteres,True
@@ -2143,7 +2143,7 @@ https://github.com/betagouv/api-auth,True
 https://github.com/betagouv/api-caf,True
 https://github.com/betagouv/api-cpa,True
 https://github.com/betagouv/api-drones,True
-https://github.com/betagouv/api-engagement,False
+https://github.com/betagouv/api-engagement,True
 https://github.com/betagouv/api-medicaments,True
 https://github.com/betagouv/api-particulier,True
 https://github.com/betagouv/api-particulier-ansible,True
