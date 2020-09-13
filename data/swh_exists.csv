@@ -121,7 +121,7 @@ https://forgemia.inra.fr/gryc-data/lachancea_kluyveri-nrrl_y-1265,False
 https://forgemia.inra.fr/gryc-data/lachancea_lanzarotensis-cbs_12615,False
 https://forgemia.inra.fr/gryc-data/lachancea_meyersii-cbs_8951,False
 https://forgemia.inra.fr/gryc-data/lachancea_mirantina-cbs_11717,True
-https://forgemia.inra.fr/gryc-data/lachancea_nothofagi-cbs_11611,False
+https://forgemia.inra.fr/gryc-data/lachancea_nothofagi-cbs_11611,True
 https://forgemia.inra.fr/gryc-data/lachancea_quebecensis-cbs_14088,False
 https://forgemia.inra.fr/gryc-data/lachancea_thermotolerans-cbs_6340,False
 https://forgemia.inra.fr/gryc-data/millerozyma_farinosa-cbs_7064,True
@@ -2143,6 +2143,7 @@ https://github.com/betagouv/api-auth,True
 https://github.com/betagouv/api-caf,True
 https://github.com/betagouv/api-cpa,True
 https://github.com/betagouv/api-drones,True
+https://github.com/betagouv/api-engagement,False
 https://github.com/betagouv/api-medicaments,True
 https://github.com/betagouv/api-particulier,True
 https://github.com/betagouv/api-particulier-ansible,True
