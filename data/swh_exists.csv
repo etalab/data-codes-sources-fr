@@ -117,7 +117,7 @@ https://forgemia.inra.fr/gryc-data/kuraishia_capsulata-cbs_1993,False
 https://forgemia.inra.fr/gryc-data/lachancea_dasiensis-cbs_10888,True
 https://forgemia.inra.fr/gryc-data/lachancea_fantastica-cbs_6924,True
 https://forgemia.inra.fr/gryc-data/lachancea_fermentati-cbs_6772,True
-https://forgemia.inra.fr/gryc-data/lachancea_kluyveri-nrrl_y-1265,False
+https://forgemia.inra.fr/gryc-data/lachancea_kluyveri-nrrl_y-1265,True
 https://forgemia.inra.fr/gryc-data/lachancea_lanzarotensis-cbs_12615,False
 https://forgemia.inra.fr/gryc-data/lachancea_meyersii-cbs_8951,True
 https://forgemia.inra.fr/gryc-data/lachancea_mirantina-cbs_11717,True
@@ -371,7 +371,7 @@ https://git.unistra.fr/m.a.t.h.s.-manieurs-de-l-avenir-technologique-des-humains
 https://git.unistra.fr/m32_63_dsrsa/m32_63_dsrsa,True
 https://git.unistra.fr/mac19-t4-c/arct4,True
 https://git.unistra.fr/maf19-t4-c/Asimo-BOT,True
-https://git.unistra.fr/master-erp/api,False
+https://git.unistra.fr/master-erp/api,True
 https://git.unistra.fr/methal/methal-sources,True
 https://git.unistra.fr/mih18-t4-a/ELECTOR2K18,True
 https://git.unistra.fr/my-awesome-group-de-tekdaiv/essaiededepotcommun,False
@@ -2785,7 +2785,7 @@ https://github.com/diverse-project/meta-kevoree,True
 https://github.com/diverse-project/meta-randconfig,True
 https://github.com/diverse-project/minijava,True
 https://github.com/diverse-project/models2016-program,True
-https://github.com/diverse-project/mtl,False
+https://github.com/diverse-project/mtl,True
 https://github.com/diverse-project/pdedependencies2dot,True
 https://github.com/diverse-project/projetWE,True
 https://github.com/diverse-project/researchtooling,True
