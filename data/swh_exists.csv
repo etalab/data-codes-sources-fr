@@ -5334,7 +5334,7 @@ https://gitlab.irstea.fr/remi.cresson/NDVITimeSeries,False
 https://gitlab.irstea.fr/remi.cresson/SimpleExtractionTools,True
 https://gitlab.irstea.fr/remi.cresson/TemporalSmoothing,True
 https://gitlab.irstea.fr/remi.cresson/TimeSeriesUtils,False
-https://gitlab.irstea.fr/remi.cresson/mosaic,False
+https://gitlab.irstea.fr/remi.cresson/mosaic,True
 https://gitlab.irstea.fr/reversaal/OhmPi,True
 https://gitlab.irstea.fr/reversaal/tw-modeling-toolkit,True
 https://gitlab.irstea.fr/reversaal/wetlands_xray_tomopgraphy,True
