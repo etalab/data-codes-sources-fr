@@ -2791,6 +2791,7 @@ https://github.com/diverse-project/projetWE,True
 https://github.com/diverse-project/researchtooling,True
 https://github.com/diverse-project/samplingfm,True
 https://github.com/diverse-project/single-usage,True
+https://github.com/diverse-project/sintaks,True
 https://github.com/diverse-project/sosies-visualizer,True
 https://github.com/diverse-project/sosies-ws-server,True
 https://github.com/diverse-project/summer,True
@@ -4286,9 +4287,9 @@ https://github.com/snosan-tools/outils.snosan.fr,True
 https://github.com/snosan-tools/quizz.snosan.fr,True
 https://github.com/snosan-tools/secmar-documentation,True
 https://github.com/snosan-tools/srr-mrcc-france,True
-https://github.com/spyrales/copyre-alpha,False
+https://github.com/spyrales/copyre-alpha,True
 https://github.com/spyrales/design.numerique.gouv.fr,False
-https://github.com/spyrales/gouvdown,False
+https://github.com/spyrales/gouvdown,True
 https://github.com/spyrales/la-piscine,False
 https://github.com/spyrales/organisation,False
 https://github.com/spyrales/presentation,False
@@ -4668,6 +4669,7 @@ https://gitlab.huma-num.fr/nakala-tools/nakanav,True
 https://gitlab.huma-num.fr/portic/gazetteer,True
 https://gitlab.huma-num.fr/portic/navigocorpus,True
 https://gitlab.huma-num.fr/portic/porticapi,True
+https://gitlab.huma-num.fr/profiterole/profiterole-tools,True
 https://gitlab.huma-num.fr/profiterole/srcmf-ud,False
 https://gitlab.huma-num.fr/rzine/Rzine_actu,True
 https://gitlab.huma-num.fr/rzine/add_author,True
