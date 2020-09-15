@@ -176,7 +176,7 @@ https://forgemia.inra.fr/rna-seq/rna-seq-compagnon,True
 https://forgemia.inra.fr/sciproject/managesciproject,True
 https://forgemia.inra.fr/singularity/bcftools_v1.10.2,True
 https://forgemia.inra.fr/singularity/test,True
-https://forgemia.inra.fr/sunrise/15ex05_data_correction,False
+https://forgemia.inra.fr/sunrise/15ex05_data_correction,True
 https://forgemia.inra.fr/sunrise/network-inference,True
 https://forgemia.inra.fr/svdetection/cnvpipelines,True
 https://forgemia.inra.fr/svdetection/popsim,True
