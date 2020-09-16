@@ -104,7 +104,7 @@ https://forgemia.inra.fr/genotoul-bioinfo/tSNPannot,True
 https://forgemia.inra.fr/genotoul-bioinfo/use-nextflow-nfcore-course,True
 https://forgemia.inra.fr/get-it/nf-assemblshortread,True
 https://forgemia.inra.fr/get-it/nf-taxoaffiliation,True
-https://forgemia.inra.fr/gryc-data/blastobotrys_adeninivorans-ls3,False
+https://forgemia.inra.fr/gryc-data/blastobotrys_adeninivorans-ls3,True
 https://forgemia.inra.fr/gryc-data/candida_albicans-sc_5314,False
 https://forgemia.inra.fr/gryc-data/candida_glabrata-cbs_138,True
 https://forgemia.inra.fr/gryc-data/candida_parapsilosis-cdc_317,True
@@ -2153,7 +2153,7 @@ https://github.com/betagouv/api-particulier-demo,True
 https://github.com/betagouv/api-particulier-demo-traces,True
 https://github.com/betagouv/api-particulier-deprecated,True
 https://github.com/betagouv/api-particulier-lib,True
-https://github.com/betagouv/api-particulier-pole-emploi-sandbox-connector,False
+https://github.com/betagouv/api-particulier-pole-emploi-sandbox-connector,True
 https://github.com/betagouv/api-particulier-portail,True
 https://github.com/betagouv/api-particulier-token-sender,True
 https://github.com/betagouv/api-particulier-web,True
@@ -4292,8 +4292,8 @@ https://github.com/spyrales/design.numerique.gouv.fr,False
 https://github.com/spyrales/gouvdown,True
 https://github.com/spyrales/la-piscine,False
 https://github.com/spyrales/organisation,False
-https://github.com/spyrales/presentation,False
-https://github.com/spyrales/web,False
+https://github.com/spyrales/presentation,True
+https://github.com/spyrales/web,True
 https://github.com/strasbourg/cts-api,True
 https://github.com/strasbourg/curieux,True
 https://github.com/strasbourg/documentation,True
