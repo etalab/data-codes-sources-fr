@@ -451,7 +451,7 @@ https://github.com/1024pix/poc-ovh-api,True
 https://github.com/1024pix/poc-qmail,True
 https://github.com/1024pix/poc-smtp,True
 https://github.com/1024pix/samlify,True
-https://github.com/1024pix/sandbox-matomo,False
+https://github.com/1024pix/sandbox-matomo,True
 https://github.com/1024pix/scalingo-app-manager,True
 https://github.com/1024pix/scalingo-app-switch,True
 https://github.com/1024pix/scalingo-review-app-manager,True
@@ -2153,6 +2153,7 @@ https://github.com/betagouv/api-particulier-demo,True
 https://github.com/betagouv/api-particulier-demo-traces,True
 https://github.com/betagouv/api-particulier-deprecated,True
 https://github.com/betagouv/api-particulier-lib,True
+https://github.com/betagouv/api-particulier-pole-emploi-connector,False
 https://github.com/betagouv/api-particulier-pole-emploi-sandbox-connector,True
 https://github.com/betagouv/api-particulier-portail,True
 https://github.com/betagouv/api-particulier-token-sender,True
@@ -4231,7 +4232,7 @@ https://github.com/signaux-faibles/gorncs-api,True
 https://github.com/signaux-faibles/goup,True
 https://github.com/signaux-faibles/gournal,True
 https://github.com/signaux-faibles/opensignauxfaibles,True
-https://github.com/signaux-faibles/prepare-import,False
+https://github.com/signaux-faibles/prepare-import,True
 https://github.com/signaux-faibles/rsignauxfaibles,True
 https://github.com/signaux-faibles/signauxfaibles-web,True
 https://github.com/signaux-faibles/site-eig,True
@@ -4670,7 +4671,7 @@ https://gitlab.huma-num.fr/portic/gazetteer,True
 https://gitlab.huma-num.fr/portic/navigocorpus,True
 https://gitlab.huma-num.fr/portic/porticapi,True
 https://gitlab.huma-num.fr/profiterole/profiterole-tools,True
-https://gitlab.huma-num.fr/profiterole/srcmf-ud,False
+https://gitlab.huma-num.fr/profiterole/srcmf-ud,True
 https://gitlab.huma-num.fr/rzine/Rzine_actu,True
 https://gitlab.huma-num.fr/rzine/add_author,True
 https://gitlab.huma-num.fr/rzine/add_news,True
