@@ -1421,6 +1421,7 @@ https://github.com/MTES-MCT/adock-api,True
 https://github.com/MTES-MCT/adock-ui,True
 https://github.com/MTES-MCT/aeris,True
 https://github.com/MTES-MCT/aides-territoires,True
+https://github.com/MTES-MCT/asgard-postgresql,False
 https://github.com/MTES-MCT/assec,True
 https://github.com/MTES-MCT/biocarburants,False
 https://github.com/MTES-MCT/bulk-geocoding-python-client,True
@@ -3231,6 +3232,7 @@ https://github.com/etalab/schema-plf,True
 https://github.com/etalab/schema-stationnement,True
 https://github.com/etalab/schema-template,True
 https://github.com/etalab/schema.data.gouv.fr,True
+https://github.com/etalab/schema_amenagements_cyclables,False
 https://github.com/etalab/scpc-as-api,True
 https://github.com/etalab/secateur,True
 https://github.com/etalab/sill-data,True
@@ -3342,7 +3344,7 @@ https://github.com/gemoc/SiriusAnimator,True
 https://github.com/gemoc/activitydiagram,True
 https://github.com/gemoc/ale,True
 https://github.com/gemoc/ale-lang,True
-https://github.com/gemoc/ale-lang-compiler,False
+https://github.com/gemoc/ale-lang-compiler,True
 https://github.com/gemoc/arduinomodeling,True
 https://github.com/gemoc/ardurobotmodeling,True
 https://github.com/gemoc/concurrency,True
@@ -4118,6 +4120,7 @@ https://github.com/openfun/edx-platform,True
 https://github.com/openfun/edx-proctoring,True
 https://github.com/openfun/edx-theme,True
 https://github.com/openfun/edx_data_scripts,True
+https://github.com/openfun/edx_xblock_scorm,False
 https://github.com/openfun/etherpad-docker,True
 https://github.com/openfun/flower-docker,True
 https://github.com/openfun/fonzie,True
@@ -4591,7 +4594,7 @@ https://gitlab.com/CSTB/ifc2x3-SDK,True
 https://gitlab.com/CSTB/mathis,True
 https://gitlab.com/DREES_code/formulaire_zonage_ars,True
 https://gitlab.com/api-meubles/backend,True
-https://gitlab.com/api-meubles/doc-api,False
+https://gitlab.com/api-meubles/doc-api,True
 https://gitlab.com/api-meubles/frontend,True
 https://gitlab.com/cortext/ANSES,True
 https://gitlab.com/cortext/cib-database,True
