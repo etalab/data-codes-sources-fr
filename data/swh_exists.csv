@@ -130,7 +130,7 @@ https://forgemia.inra.fr/gryc-data/naumovozyma_castellii-cbs_4309,True
 https://forgemia.inra.fr/gryc-data/saccharomyces_cerevisiae-s288c,True
 https://forgemia.inra.fr/gryc-data/tetrapisispora_blattae-cbs_6284,True
 https://forgemia.inra.fr/gryc-data/torulaspora_microellipsoides-clib_830,True
-https://forgemia.inra.fr/gryc-data/yarrowia_lipolytica-a101,False
+https://forgemia.inra.fr/gryc-data/yarrowia_lipolytica-a101,True
 https://forgemia.inra.fr/gryc-data/yarrowia_lipolytica-clib_122,True
 https://forgemia.inra.fr/gryc-data/yarrowia_lipolytica-h222,True
 https://forgemia.inra.fr/gryc-data/zygosaccharomyces_bailii-clib_213,True
@@ -2154,7 +2154,7 @@ https://github.com/betagouv/api-particulier-demo,True
 https://github.com/betagouv/api-particulier-demo-traces,True
 https://github.com/betagouv/api-particulier-deprecated,True
 https://github.com/betagouv/api-particulier-lib,True
-https://github.com/betagouv/api-particulier-pole-emploi-connector,False
+https://github.com/betagouv/api-particulier-pole-emploi-connector,True
 https://github.com/betagouv/api-particulier-pole-emploi-sandbox-connector,True
 https://github.com/betagouv/api-particulier-portail,True
 https://github.com/betagouv/api-particulier-token-sender,True
