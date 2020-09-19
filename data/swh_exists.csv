@@ -2377,6 +2377,7 @@ https://github.com/betagouv/redirections,True
 https://github.com/betagouv/redux-react-modals,True
 https://github.com/betagouv/redux-saga-data,True
 https://github.com/betagouv/redux-thunk-data,True
+https://github.com/betagouv/relance-transformation,False
 https://github.com/betagouv/reserve-civique-redirect,True
 https://github.com/betagouv/retraite,True
 https://github.com/betagouv/role-ansible,True
@@ -4209,7 +4210,7 @@ https://github.com/openmole/scala-js-plotlyjs-demo,False
 https://github.com/openmole/scalaWUI,True
 https://github.com/openmole/scalabc,True
 https://github.com/openmole/scaladget,True
-https://github.com/openmole/scalajs-execnpm,False
+https://github.com/openmole/scalajs-execnpm,True
 https://github.com/openmole/scalajs-marked,False
 https://github.com/openmole/scalatex,False
 https://github.com/openmole/slurm-kubernetes,True
@@ -5406,7 +5407,7 @@ https://gitlab.irstea.fr/remi.cresson/LSGRM,True
 https://gitlab.irstea.fr/remi.cresson/NDVITimeSeries,True
 https://gitlab.irstea.fr/remi.cresson/SimpleExtractionTools,True
 https://gitlab.irstea.fr/remi.cresson/TemporalSmoothing,True
-https://gitlab.irstea.fr/remi.cresson/TimeSeriesUtils,False
+https://gitlab.irstea.fr/remi.cresson/TimeSeriesUtils,True
 https://gitlab.irstea.fr/remi.cresson/mosaic,True
 https://gitlab.irstea.fr/reversaal/OhmPi,True
 https://gitlab.irstea.fr/reversaal/tw-modeling-toolkit,True
