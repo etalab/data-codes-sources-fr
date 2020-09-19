@@ -118,7 +118,7 @@ https://forgemia.inra.fr/gryc-data/lachancea_dasiensis-cbs_10888,True
 https://forgemia.inra.fr/gryc-data/lachancea_fantastica-cbs_6924,True
 https://forgemia.inra.fr/gryc-data/lachancea_fermentati-cbs_6772,True
 https://forgemia.inra.fr/gryc-data/lachancea_kluyveri-nrrl_y-1265,True
-https://forgemia.inra.fr/gryc-data/lachancea_lanzarotensis-cbs_12615,False
+https://forgemia.inra.fr/gryc-data/lachancea_lanzarotensis-cbs_12615,True
 https://forgemia.inra.fr/gryc-data/lachancea_meyersii-cbs_8951,True
 https://forgemia.inra.fr/gryc-data/lachancea_mirantina-cbs_11717,True
 https://forgemia.inra.fr/gryc-data/lachancea_nothofagi-cbs_11611,True
@@ -4180,7 +4180,7 @@ https://github.com/openmole/JGlobus,True
 https://github.com/openmole/NW-Extension,False
 https://github.com/openmole/PRoot,True
 https://github.com/openmole/build-openjdk,True
-https://github.com/openmole/container,False
+https://github.com/openmole/container,True
 https://github.com/openmole/cormas-plugin,True
 https://github.com/openmole/docker-build,True
 https://github.com/openmole/effectaside,True
