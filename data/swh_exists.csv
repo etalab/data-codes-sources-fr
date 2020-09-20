@@ -1421,7 +1421,7 @@ https://github.com/MTES-MCT/adock-api,True
 https://github.com/MTES-MCT/adock-ui,True
 https://github.com/MTES-MCT/aeris,True
 https://github.com/MTES-MCT/aides-territoires,True
-https://github.com/MTES-MCT/asgard-postgresql,False
+https://github.com/MTES-MCT/asgard-postgresql,True
 https://github.com/MTES-MCT/assec,True
 https://github.com/MTES-MCT/biocarburants,False
 https://github.com/MTES-MCT/bulk-geocoding-python-client,True
@@ -4189,7 +4189,7 @@ https://github.com/openmole/exmodelo-model,True
 https://github.com/openmole/family,True
 https://github.com/openmole/frontiers2016,True
 https://github.com/openmole/gama-plugin,True
-https://github.com/openmole/gama-plugin-old,False
+https://github.com/openmole/gama-plugin-old,True
 https://github.com/openmole/gama-zombies-rouen,True
 https://github.com/openmole/gridscale,True
 https://github.com/openmole/hybrid_environment,True
@@ -4214,7 +4214,7 @@ https://github.com/openmole/scalajs-execnpm,True
 https://github.com/openmole/scalajs-marked,True
 https://github.com/openmole/scalatex,False
 https://github.com/openmole/slurm-kubernetes,True
-https://github.com/openmole/sortable-js-facade,False
+https://github.com/openmole/sortable-js-facade,True
 https://github.com/openmole/spatialdata,True
 https://github.com/openmole/spatialsampling,False
 https://github.com/openmole/xz-scala,True
