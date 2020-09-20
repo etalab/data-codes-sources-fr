@@ -105,7 +105,7 @@ https://forgemia.inra.fr/genotoul-bioinfo/use-nextflow-nfcore-course,True
 https://forgemia.inra.fr/get-it/nf-assemblshortread,True
 https://forgemia.inra.fr/get-it/nf-taxoaffiliation,True
 https://forgemia.inra.fr/gryc-data/blastobotrys_adeninivorans-ls3,True
-https://forgemia.inra.fr/gryc-data/candida_albicans-sc_5314,False
+https://forgemia.inra.fr/gryc-data/candida_albicans-sc_5314,True
 https://forgemia.inra.fr/gryc-data/candida_glabrata-cbs_138,True
 https://forgemia.inra.fr/gryc-data/candida_parapsilosis-cdc_317,True
 https://forgemia.inra.fr/gryc-data/cyberlindera_fabianii-yjs_4271,True
@@ -4204,7 +4204,7 @@ https://github.com/openmole/openmole-com,True
 https://github.com/openmole/openmole-docker,True
 https://github.com/openmole/openmole-market,True
 https://github.com/openmole/openmole-site,True
-https://github.com/openmole/ppse,False
+https://github.com/openmole/ppse,True
 https://github.com/openmole/scala-js-plotlyjs,False
 https://github.com/openmole/scala-js-plotlyjs-demo,False
 https://github.com/openmole/scalaWUI,True
@@ -4338,7 +4338,7 @@ https://github.com/snosan-tools/srr-mrcc-france,True
 https://github.com/spyrales/copyre-alpha,True
 https://github.com/spyrales/design.numerique.gouv.fr,True
 https://github.com/spyrales/gouvdown,True
-https://github.com/spyrales/la-piscine,False
+https://github.com/spyrales/la-piscine,True
 https://github.com/spyrales/organisation,False
 https://github.com/spyrales/presentation,True
 https://github.com/spyrales/web,True
