@@ -434,6 +434,7 @@ https://github.com/1024pix/nginx-lb,True
 https://github.com/1024pix/nginx-lb-dev,True
 https://github.com/1024pix/open-lab,True
 https://github.com/1024pix/pix,True
+https://github.com/1024pix/pix-analytics,False
 https://github.com/1024pix/pix-bot,True
 https://github.com/1024pix/pix-db-stats,True
 https://github.com/1024pix/pix-editor,True
@@ -4122,7 +4123,7 @@ https://github.com/openfun/edx-platform,True
 https://github.com/openfun/edx-proctoring,True
 https://github.com/openfun/edx-theme,True
 https://github.com/openfun/edx_data_scripts,True
-https://github.com/openfun/edx_xblock_scorm,False
+https://github.com/openfun/edx_xblock_scorm,True
 https://github.com/openfun/etherpad-docker,True
 https://github.com/openfun/flower-docker,True
 https://github.com/openfun/fonzie,True
@@ -4200,6 +4201,7 @@ https://github.com/openmole/mgo-benchmark,True
 https://github.com/openmole/microsim,True
 https://github.com/openmole/multiuser-deployment,True
 https://github.com/openmole/myopenmoleplugin,True
+https://github.com/openmole/netlogoapp,False
 https://github.com/openmole/openmole,True
 https://github.com/openmole/openmole-com,True
 https://github.com/openmole/openmole-docker,True
