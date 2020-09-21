@@ -113,7 +113,7 @@ https://forgemia.inra.fr/gryc-data/debaryomyces_hansenii-cbs_767,True
 https://forgemia.inra.fr/gryc-data/eremothecium_gossypii-atcc_10895,True
 https://forgemia.inra.fr/gryc-data/kazachstania_naganishii-cbs_8797,True
 https://forgemia.inra.fr/gryc-data/kluyveromyces_lactis-nrrl_y-1140,True
-https://forgemia.inra.fr/gryc-data/kuraishia_capsulata-cbs_1993,False
+https://forgemia.inra.fr/gryc-data/kuraishia_capsulata-cbs_1993,True
 https://forgemia.inra.fr/gryc-data/lachancea_dasiensis-cbs_10888,True
 https://forgemia.inra.fr/gryc-data/lachancea_fantastica-cbs_6924,True
 https://forgemia.inra.fr/gryc-data/lachancea_fermentati-cbs_6772,True
@@ -125,7 +125,7 @@ https://forgemia.inra.fr/gryc-data/lachancea_nothofagi-cbs_11611,True
 https://forgemia.inra.fr/gryc-data/lachancea_quebecensis-cbs_14088,False
 https://forgemia.inra.fr/gryc-data/lachancea_thermotolerans-cbs_6340,True
 https://forgemia.inra.fr/gryc-data/millerozyma_farinosa-cbs_7064,True
-https://forgemia.inra.fr/gryc-data/nakazeomyces_bacillisporus-cbs_7720,False
+https://forgemia.inra.fr/gryc-data/nakazeomyces_bacillisporus-cbs_7720,True
 https://forgemia.inra.fr/gryc-data/naumovozyma_castellii-cbs_4309,True
 https://forgemia.inra.fr/gryc-data/saccharomyces_cerevisiae-s288c,True
 https://forgemia.inra.fr/gryc-data/tetrapisispora_blattae-cbs_6284,True
@@ -4339,7 +4339,7 @@ https://github.com/spyrales/copyre-alpha,True
 https://github.com/spyrales/design.numerique.gouv.fr,True
 https://github.com/spyrales/gouvdown,True
 https://github.com/spyrales/la-piscine,True
-https://github.com/spyrales/organisation,False
+https://github.com/spyrales/organisation,True
 https://github.com/spyrales/presentation,True
 https://github.com/spyrales/web,True
 https://github.com/strasbourg/cts-api,True
