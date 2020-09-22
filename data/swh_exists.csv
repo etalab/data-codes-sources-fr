@@ -4203,7 +4203,7 @@ https://github.com/openmole/mgo-benchmark,True
 https://github.com/openmole/microsim,True
 https://github.com/openmole/multiuser-deployment,True
 https://github.com/openmole/myopenmoleplugin,True
-https://github.com/openmole/netlogoapp,False
+https://github.com/openmole/netlogoapp,True
 https://github.com/openmole/openmole,True
 https://github.com/openmole/openmole-com,True
 https://github.com/openmole/openmole-docker,True
@@ -4211,7 +4211,7 @@ https://github.com/openmole/openmole-market,True
 https://github.com/openmole/openmole-site,True
 https://github.com/openmole/ppse,True
 https://github.com/openmole/scala-js-plotlyjs,False
-https://github.com/openmole/scala-js-plotlyjs-demo,False
+https://github.com/openmole/scala-js-plotlyjs-demo,True
 https://github.com/openmole/scalaWUI,True
 https://github.com/openmole/scalabc,True
 https://github.com/openmole/scaladget,True
