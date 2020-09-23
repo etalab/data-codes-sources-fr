@@ -2226,6 +2226,7 @@ https://github.com/betagouv/eac-scrapper,True
 https://github.com/betagouv/ecolab-batiment,False
 https://github.com/betagouv/ecolab-climat,True
 https://github.com/betagouv/ecolab-data,True
+https://github.com/betagouv/ecolab-recherche-agribalyse,False
 https://github.com/betagouv/ecolab-transport,True
 https://github.com/betagouv/ecosante,True
 https://github.com/betagouv/etudiant-entrepreneur,True
@@ -3205,6 +3206,9 @@ https://github.com/etalab/organismes-formation,True
 https://github.com/etalab/osem,True
 https://github.com/etalab/osm-wms,True
 https://github.com/etalab/ouverture-des-codes-sources-publics,True
+https://github.com/etalab/ovq-dashboard,False
+https://github.com/etalab/ovq-data,False
+https://github.com/etalab/ovq-textes,False
 https://github.com/etalab/ox-html-timeline,True
 https://github.com/etalab/pandoc-guides,True
 https://github.com/etalab/papillon,True
@@ -4221,7 +4225,7 @@ https://github.com/openmole/scalatex,False
 https://github.com/openmole/slurm-kubernetes,True
 https://github.com/openmole/sortable-js-facade,True
 https://github.com/openmole/spatialdata,True
-https://github.com/openmole/spatialsampling,False
+https://github.com/openmole/spatialsampling,True
 https://github.com/openmole/xz-scala,True
 https://github.com/openmole/yapa,True
 https://github.com/polewebmaedi/MAEDI-Capitales,True
