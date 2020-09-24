@@ -435,7 +435,7 @@ https://github.com/1024pix/nginx-lb,True
 https://github.com/1024pix/nginx-lb-dev,True
 https://github.com/1024pix/open-lab,True
 https://github.com/1024pix/pix,True
-https://github.com/1024pix/pix-analytics,False
+https://github.com/1024pix/pix-analytics,True
 https://github.com/1024pix/pix-bot,True
 https://github.com/1024pix/pix-db-stats,True
 https://github.com/1024pix/pix-editor,True
@@ -3241,7 +3241,7 @@ https://github.com/etalab/schema-plf,True
 https://github.com/etalab/schema-stationnement,True
 https://github.com/etalab/schema-template,True
 https://github.com/etalab/schema.data.gouv.fr,True
-https://github.com/etalab/schema_amenagements_cyclables,False
+https://github.com/etalab/schema_amenagements_cyclables,True
 https://github.com/etalab/scpc-as-api,True
 https://github.com/etalab/secateur,True
 https://github.com/etalab/sill-data,True
@@ -4221,7 +4221,7 @@ https://github.com/openmole/scalabc,True
 https://github.com/openmole/scaladget,True
 https://github.com/openmole/scalajs-execnpm,True
 https://github.com/openmole/scalajs-marked,True
-https://github.com/openmole/scalatex,False
+https://github.com/openmole/scalatex,True
 https://github.com/openmole/slurm-kubernetes,True
 https://github.com/openmole/sortable-js-facade,True
 https://github.com/openmole/spatialdata,True
