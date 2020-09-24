@@ -2699,6 +2699,7 @@ https://github.com/cw-leia/cw-leia-standalone-hard,True
 https://github.com/cw-leia/cw-leia.github.io,True
 https://github.com/cw-leia/smartleia,True
 https://github.com/cw-leia/smartleia-doc,True
+https://github.com/cw-leia/smartleia-target,False
 https://github.com/cw-leia/smartleia-target-applet,True
 https://github.com/datalocale/BinFul,True
 https://github.com/datalocale/ECV-IJBA,True
@@ -4679,7 +4680,7 @@ https://gitlab.huma-num.fr/eurhisfirm/documentation,True
 https://gitlab.huma-num.fr/eurhisfirm/eurhisfirm-sitelinks-server,True
 https://gitlab.huma-num.fr/eurhisfirm/eurhisfirm-wikibase,True
 https://gitlab.huma-num.fr/eurhisfirm/eurhisfirm-wikibase-docker,True
-https://gitlab.huma-num.fr/eurhisfirm/eurhisfirm-wikibase-openrefine,False
+https://gitlab.huma-num.fr/eurhisfirm/eurhisfirm-wikibase-openrefine,True
 https://gitlab.huma-num.fr/eurhisfirm/fibo-data,True
 https://gitlab.huma-num.fr/eurhisfirm/fibo-wikibase,True
 https://gitlab.huma-num.fr/eurhisfirm/gleif-wikibase,True
@@ -4756,7 +4757,7 @@ https://gitlab.inria.fr/AlgebraicGeometricModeling/AlgebraicSolvers.jl,True
 https://gitlab.inria.fr/AlgebraicGeometricModeling/Axl.jl,True
 https://gitlab.inria.fr/AlgebraicGeometricModeling/GSplines.jl,True
 https://gitlab.inria.fr/AlgebraicGeometricModeling/MomentJuMP.jl,True
-https://gitlab.inria.fr/AlgebraicGeometricModeling/MomentTools.jl,False
+https://gitlab.inria.fr/AlgebraicGeometricModeling/MomentTools.jl,True
 https://gitlab.inria.fr/AlgebraicGeometricModeling/MomentToolsDoc,False
 https://gitlab.inria.fr/AlgebraicGeometricModeling/SemiAlgebraicTypes.jl,True
 https://gitlab.inria.fr/AlgebraicGeometricModeling/TensorDec.jl,True
@@ -4902,7 +4903,7 @@ https://gitlab.inria.fr/belenios/belenios,True
 https://gitlab.inria.fr/belenios/belenios-prepared-database,True
 https://gitlab.inria.fr/bench/v0,False
 https://gitlab.inria.fr/bioimage-it/bioimageapp,False
-https://gitlab.inria.fr/bioimage-it/bioimagej,False
+https://gitlab.inria.fr/bioimage-it/bioimagej,True
 https://gitlab.inria.fr/bioimage-it/bioimagepy,False
 https://gitlab.inria.fr/bioimage-it/bioimagepy-tutorial,False
 https://gitlab.inria.fr/bioimage-it/fiji-tools,False
@@ -4975,7 +4976,7 @@ https://gitlab.inria.fr/comprise/comprise_speech_to_text,True
 https://gitlab.inria.fr/comprise/comprise_text_to_speech,True
 https://gitlab.inria.fr/comprise/deliverable_d21,True
 https://gitlab.inria.fr/comprise/sidp,False
-https://gitlab.inria.fr/comprise/speech-to-text-weakly-supervised-learning,False
+https://gitlab.inria.fr/comprise/speech-to-text-weakly-supervised-learning,True
 https://gitlab.inria.fr/comprise/spoken-language-understanding-weakly-supervised-learning,False
 https://gitlab.inria.fr/comprise/text_transformer,False
 https://gitlab.inria.fr/comprise/voice_transformation,False
