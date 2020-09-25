@@ -123,7 +123,7 @@ https://forgemia.inra.fr/gryc-data/lachancea_lanzarotensis-cbs_12615,True
 https://forgemia.inra.fr/gryc-data/lachancea_meyersii-cbs_8951,True
 https://forgemia.inra.fr/gryc-data/lachancea_mirantina-cbs_11717,True
 https://forgemia.inra.fr/gryc-data/lachancea_nothofagi-cbs_11611,True
-https://forgemia.inra.fr/gryc-data/lachancea_quebecensis-cbs_14088,False
+https://forgemia.inra.fr/gryc-data/lachancea_quebecensis-cbs_14088,True
 https://forgemia.inra.fr/gryc-data/lachancea_thermotolerans-cbs_6340,True
 https://forgemia.inra.fr/gryc-data/millerozyma_farinosa-cbs_7064,True
 https://forgemia.inra.fr/gryc-data/nakazeomyces_bacillisporus-cbs_7720,True
@@ -1543,6 +1543,7 @@ https://github.com/OpenCTI-Platform/opencti-maltego,False
 https://github.com/OpenEdition/NormAFE,True
 https://github.com/OpenEdition/OTX,True
 https://github.com/OpenEdition/bilbo,True
+https://github.com/OpenEdition/bilbo2,False
 https://github.com/OpenEdition/checklist,True
 https://github.com/OpenEdition/checklist-lodel,True
 https://github.com/OpenEdition/echo,True
@@ -2452,6 +2453,7 @@ https://github.com/cea-hpc/kpatch,True
 https://github.com/cea-hpc/krb5,True
 https://github.com/cea-hpc/kvsns,True
 https://github.com/cea-hpc/lcap,True
+https://github.com/cea-hpc/librobinhood,False
 https://github.com/cea-hpc/mercurio,True
 https://github.com/cea-hpc/milkcheck,True
 https://github.com/cea-hpc/miniyaml,True
@@ -3212,7 +3214,7 @@ https://github.com/etalab/osm-wms,True
 https://github.com/etalab/ouverture-des-codes-sources-publics,True
 https://github.com/etalab/ovq-dashboard,False
 https://github.com/etalab/ovq-data,True
-https://github.com/etalab/ovq-textes,False
+https://github.com/etalab/ovq-textes,True
 https://github.com/etalab/ox-html-timeline,True
 https://github.com/etalab/pandoc-guides,True
 https://github.com/etalab/papillon,True
@@ -4816,7 +4818,7 @@ https://gitlab.inria.fr/NGS/svagga,True
 https://gitlab.inria.fr/OAR/oar3-switch,True
 https://gitlab.inria.fr/OAR/oardocker,True
 https://gitlab.inria.fr/OCSR/OCSR,True
-https://gitlab.inria.fr/OCSR/UMANS,False
+https://gitlab.inria.fr/OCSR/UMANS,True
 https://gitlab.inria.fr/OCSR/chaos,True
 https://gitlab.inria.fr/OCSR/crowdscan,False
 https://gitlab.inria.fr/PSI/psi3,True
@@ -4911,7 +4913,7 @@ https://gitlab.inria.fr/bioimage-it/bioimagej,True
 https://gitlab.inria.fr/bioimage-it/bioimagepy,False
 https://gitlab.inria.fr/bioimage-it/bioimagepy-tutorial,True
 https://gitlab.inria.fr/bioimage-it/fiji-tools,False
-https://gitlab.inria.fr/bioimage-it/htesting-tools,False
+https://gitlab.inria.fr/bioimage-it/htesting-tools,True
 https://gitlab.inria.fr/bioimage-it/package,False
 https://gitlab.inria.fr/bioimage-it/sampletool,False
 https://gitlab.inria.fr/bioimage-it/toolbox-js-browser,False
@@ -5002,7 +5004,7 @@ https://gitlab.inria.fr/dalu/zephyr-redskin,False
 https://gitlab.inria.fr/damas/container-image-placement,True
 https://gitlab.inria.fr/damas/hadoop-ec-traces,False
 https://gitlab.inria.fr/damas/nitro,True
-https://gitlab.inria.fr/darc/darc_project,False
+https://gitlab.inria.fr/darc/darc_project,True
 https://gitlab.inria.fr/dash/talks,True
 https://gitlab.inria.fr/datafut/fut-on-flow,False
 https://gitlab.inria.fr/datapol/1508-heteropar15-protobatsim,False
@@ -5159,7 +5161,7 @@ https://gitlab.inria.fr/gerzaguet_public/digitalcomm.jl,True
 https://gitlab.inria.fr/gerzaguet_public/getspectrum.jl,False
 https://gitlab.inria.fr/gerzaguet_public/imr_wirelessnetwork_lab,False
 https://gitlab.inria.fr/gerzaguet_public/julia_seminar,True
-https://gitlab.inria.fr/gerzaguet_public/pluto_project,False
+https://gitlab.inria.fr/gerzaguet_public/pluto_project,True
 https://gitlab.inria.fr/gerzaguet_public/uhd.jl,True
 https://gitlab.inria.fr/gf2x/gf2x,True
 https://gitlab.inria.fr/grew/DSQtoAMR,True
@@ -5219,10 +5221,10 @@ https://gitlab.inria.fr/hwloc/xmls,True
 https://gitlab.inria.fr/i3inria/raspi-k8s,False
 https://gitlab.inria.fr/iccv_2019/pyvideoresearch_gunnar,True
 https://gitlab.inria.fr/igrida/gvirt,True
-https://gitlab.inria.fr/igrida/gvirt-factory,False
+https://gitlab.inria.fr/igrida/gvirt-factory,True
 https://gitlab.inria.fr/igrida/kubigrida-charts,True
 https://gitlab.inria.fr/igrida/kubigrida-docker,True
-https://gitlab.inria.fr/igrida/prometheus-oar-exporter,False
+https://gitlab.inria.fr/igrida/prometheus-oar-exporter,True
 https://gitlab.inria.fr/igrida/userdocs,False
 https://gitlab.inria.fr/ink-interaction/list-widgets,False
 https://gitlab.inria.fr/inria-ci/ctproxy,True
