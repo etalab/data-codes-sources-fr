@@ -1473,6 +1473,7 @@ https://github.com/MTES-MCT/kelrisks-datascience,True
 https://github.com/MTES-MCT/locatio,True
 https://github.com/MTES-MCT/mobilic,True
 https://github.com/MTES-MCT/mobilic-api,True
+https://github.com/MTES-MCT/monitorfish,False
 https://github.com/MTES-MCT/node-cerbere,True
 https://github.com/MTES-MCT/numerique,True
 https://github.com/MTES-MCT/parcours-r,True
@@ -2157,6 +2158,7 @@ https://github.com/betagouv/api-particulier-demo,True
 https://github.com/betagouv/api-particulier-demo-traces,True
 https://github.com/betagouv/api-particulier-deprecated,True
 https://github.com/betagouv/api-particulier-lib,True
+https://github.com/betagouv/api-particulier-mesri-connector,False
 https://github.com/betagouv/api-particulier-pole-emploi-connector,True
 https://github.com/betagouv/api-particulier-pole-emploi-sandbox-connector,True
 https://github.com/betagouv/api-particulier-portail,True
@@ -3329,6 +3331,7 @@ https://github.com/ezpaarse-project/ip-range-generator,True
 https://github.com/ezpaarse-project/irevue-logs-cleaner,True
 https://github.com/ezpaarse-project/node-ezmesure,True
 https://github.com/ezpaarse-project/node-ezpaarse,True
+https://github.com/ezpaarse-project/node-ezunpaywall,False
 https://github.com/ezpaarse-project/slides,True
 https://github.com/fabnumdef/GeoGate,True
 https://github.com/fabnumdef/chatbot-back,True
@@ -4789,7 +4792,7 @@ https://gitlab.inria.fr/Damaris/damaris,True
 https://gitlab.inria.fr/GATB/simka,True
 https://gitlab.inria.fr/GUDHI/data,True
 https://gitlab.inria.fr/GUDHI/gudhi-docker,True
-https://gitlab.inria.fr/GUDHI/test_docker_debug,False
+https://gitlab.inria.fr/GUDHI/test_docker_debug,True
 https://gitlab.inria.fr/GardiNet/dragonnet,True
 https://gitlab.inria.fr/GardiNet/liblc,True
 https://gitlab.inria.fr/IOTLanguage/IoTCompilertoBIP,True
@@ -4906,7 +4909,7 @@ https://gitlab.inria.fr/bench/v0,True
 https://gitlab.inria.fr/bioimage-it/bioimageapp,False
 https://gitlab.inria.fr/bioimage-it/bioimagej,True
 https://gitlab.inria.fr/bioimage-it/bioimagepy,False
-https://gitlab.inria.fr/bioimage-it/bioimagepy-tutorial,False
+https://gitlab.inria.fr/bioimage-it/bioimagepy-tutorial,True
 https://gitlab.inria.fr/bioimage-it/fiji-tools,False
 https://gitlab.inria.fr/bioimage-it/htesting-tools,False
 https://gitlab.inria.fr/bioimage-it/package,False
@@ -4991,7 +4994,7 @@ https://gitlab.inria.fr/croco-ocean/croco,True
 https://gitlab.inria.fr/croco-ocean/croco_tools,True
 https://gitlab.inria.fr/crv14/benchmarks,True
 https://gitlab.inria.fr/crv14/evaluation,True
-https://gitlab.inria.fr/ct/gallery,False
+https://gitlab.inria.fr/ct/gallery,True
 https://gitlab.inria.fr/dalu/decawave-drivers,False
 https://gitlab.inria.fr/dalu/spank-extio,False
 https://gitlab.inria.fr/dalu/spank-i2c-example,False
@@ -5030,7 +5033,7 @@ https://gitlab.inria.fr/dh-projects/choppy,False
 https://gitlab.inria.fr/dh-projects/kraken-models,False
 https://gitlab.inria.fr/dhai/SimpleAnnotationServer,True
 https://gitlab.inria.fr/dhai/filigrane,False
-https://gitlab.inria.fr/digiscope/spat,False
+https://gitlab.inria.fr/digiscope/spat,True
 https://gitlab.inria.fr/discovery/enoslib,True
 https://gitlab.inria.fr/discovery/keystoneauth,True
 https://gitlab.inria.fr/discovery/keystonemiddleware,True
@@ -5094,6 +5097,7 @@ https://gitlab.inria.fr/dtk/dtk-wm,True
 https://gitlab.inria.fr/dtk/dtk-www,True
 https://gitlab.inria.fr/eigen/eigen-mirror,True
 https://gitlab.inria.fr/enseignement/MIAGE_TP_XML_2017,True
+https://gitlab.inria.fr/epione/GP_progression_model_V2,False
 https://gitlab.inria.fr/epione/biblio,False
 https://gitlab.inria.fr/epione/hdcob,False
 https://gitlab.inria.fr/epione/promfusion,False
@@ -5157,7 +5161,7 @@ https://gitlab.inria.fr/gerzaguet_public/imr_wirelessnetwork_lab,False
 https://gitlab.inria.fr/gerzaguet_public/julia_seminar,True
 https://gitlab.inria.fr/gerzaguet_public/pluto_project,False
 https://gitlab.inria.fr/gerzaguet_public/uhd.jl,True
-https://gitlab.inria.fr/gf2x/gf2x,False
+https://gitlab.inria.fr/gf2x/gf2x,True
 https://gitlab.inria.fr/grew/DSQtoAMR,True
 https://gitlab.inria.fr/grew/DSQtoDMRS,True
 https://gitlab.inria.fr/grew/POStoSSQ,True
@@ -5223,7 +5227,7 @@ https://gitlab.inria.fr/igrida/userdocs,False
 https://gitlab.inria.fr/ink-interaction/list-widgets,False
 https://gitlab.inria.fr/inria-ci/ctproxy,True
 https://gitlab.inria.fr/inria-ci/doc,True
-https://gitlab.inria.fr/ipanema-public/ipanema-compiler,False
+https://gitlab.inria.fr/ipanema-public/ipanema-compiler,True
 https://gitlab.inria.fr/ipanema-public/ipanema-kernel,False
 https://gitlab.inria.fr/ipanema-public/ipanema-proofs,False
 https://gitlab.inria.fr/jgranier/Rendu-Style-Novat,True
@@ -5235,7 +5239,7 @@ https://gitlab.inria.fr/knem/knem,False
 https://gitlab.inria.fr/kstar/clang-omp,True
 https://gitlab.inria.fr/kstar/kastors,False
 https://gitlab.inria.fr/kstar/kstar,True
-https://gitlab.inria.fr/latex-utils/latex-make,False
+https://gitlab.inria.fr/latex-utils/latex-make,True
 https://gitlab.inria.fr/lcourtes-phd/chop-eval,True
 https://gitlab.inria.fr/lcourtes-phd/edcc-2006,True
 https://gitlab.inria.fr/lcourtes-phd/edcc-2006-redone,True
@@ -5252,7 +5256,7 @@ https://gitlab.inria.fr/line/wp_theme_cai,True
 https://gitlab.inria.fr/local-implicit-schemes/supplementary-material-numerische-mathematik,True
 https://gitlab.inria.fr/local-schemes/supplementary-sources,False
 https://gitlab.inria.fr/magnet/anonymization_metrics,False
-https://gitlab.inria.fr/magnet/gdn-lib,False
+https://gitlab.inria.fr/magnet/gdn-lib,True
 https://gitlab.inria.fr/magnet/mangoes,True
 https://gitlab.inria.fr/magnet/nada,True
 https://gitlab.inria.fr/mastertal/UE803,True
@@ -5368,7 +5372,7 @@ https://gitlab.inria.fr/piper/viva,True
 https://gitlab.inria.fr/piy/piy,True
 https://gitlab.inria.fr/plas20/sessionintegrity,False
 https://gitlab.inria.fr/popstar/SAT-Equiv,True
-https://gitlab.inria.fr/progressivesimsearch/sigmod2020,False
+https://gitlab.inria.fr/progressivesimsearch/sigmod2020,True
 https://gitlab.inria.fr/pvignet/cadbiom,True
 https://gitlab.inria.fr/pvignet/pycryptosat,True
 https://gitlab.inria.fr/pycomodo/pycomodo,True
@@ -5514,7 +5518,7 @@ https://gitlab.inria.fr/why3/why3,True
 https://gitlab.inria.fr/why3/whymp,True
 https://gitlab.inria.fr/xbie/dvae-speech,False
 https://gitlab.inria.fr/xfor/guix-xfor,False
-https://gitlab.inria.fr/xfor/xfor-clang,False
+https://gitlab.inria.fr/xfor/xfor-clang,True
 https://gitlab.inria.fr/xkblas/versions,True
 https://gitlab.inria.fr/xug/meetings,True
 https://gitlab.inria.fr/xug/nix-tutorial,True
