@@ -4289,6 +4289,7 @@ https://github.com/signaux-faibles/fte,True
 https://github.com/signaux-faibles/gorncs-api,True
 https://github.com/signaux-faibles/goup,True
 https://github.com/signaux-faibles/gournal,True
+https://github.com/signaux-faibles/keycloakUpdater,False
 https://github.com/signaux-faibles/opensignauxfaibles,True
 https://github.com/signaux-faibles/prepare-import,True
 https://github.com/signaux-faibles/rsignauxfaibles,True
@@ -4830,7 +4831,7 @@ https://gitlab.inria.fr/RMOD/Ghost,True
 https://gitlab.inria.fr/RMOD/Welcome,True
 https://gitlab.inria.fr/RMOD/archive,True
 https://gitlab.inria.fr/RMOD/libgit-build,False
-https://gitlab.inria.fr/SketchedLearning/spm-notebook,False
+https://gitlab.inria.fr/SketchedLearning/spm-notebook,True
 https://gitlab.inria.fr/Spirals/monsoon,True
 https://gitlab.inria.fr/TeamPlay_Public/TeamPlay_Public_Deliverables,True
 https://gitlab.inria.fr/VeRDi-project/concerto,True
@@ -4962,7 +4963,7 @@ https://gitlab.inria.fr/compass/meshtools,True
 https://gitlab.inria.fr/compcertssa/compcertssa,False
 https://gitlab.inria.fr/complexityparser/complexityparser,False
 https://gitlab.inria.fr/comprise/comprise-cloud-based-platform,False
-https://gitlab.inria.fr/comprise/comprise-personal-server,False
+https://gitlab.inria.fr/comprise/comprise-personal-server,True
 https://gitlab.inria.fr/comprise/comprise_app_wizard,False
 https://gitlab.inria.fr/comprise/comprise_client_library,False
 https://gitlab.inria.fr/comprise/comprise_dialog_management,True
