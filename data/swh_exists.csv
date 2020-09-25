@@ -1473,7 +1473,7 @@ https://github.com/MTES-MCT/kelrisks-datascience,True
 https://github.com/MTES-MCT/locatio,True
 https://github.com/MTES-MCT/mobilic,True
 https://github.com/MTES-MCT/mobilic-api,True
-https://github.com/MTES-MCT/monitorfish,False
+https://github.com/MTES-MCT/monitorfish,True
 https://github.com/MTES-MCT/node-cerbere,True
 https://github.com/MTES-MCT/numerique,True
 https://github.com/MTES-MCT/parcours-r,True
@@ -3212,7 +3212,7 @@ https://github.com/etalab/organismes-formation,True
 https://github.com/etalab/osem,True
 https://github.com/etalab/osm-wms,True
 https://github.com/etalab/ouverture-des-codes-sources-publics,True
-https://github.com/etalab/ovq-dashboard,False
+https://github.com/etalab/ovq-dashboard,True
 https://github.com/etalab/ovq-data,True
 https://github.com/etalab/ovq-textes,True
 https://github.com/etalab/ox-html-timeline,True
@@ -4294,7 +4294,7 @@ https://github.com/signaux-faibles/fte,True
 https://github.com/signaux-faibles/gorncs-api,True
 https://github.com/signaux-faibles/goup,True
 https://github.com/signaux-faibles/gournal,True
-https://github.com/signaux-faibles/keycloakUpdater,False
+https://github.com/signaux-faibles/keycloakUpdater,True
 https://github.com/signaux-faibles/opensignauxfaibles,True
 https://github.com/signaux-faibles/prepare-import,True
 https://github.com/signaux-faibles/rsignauxfaibles,True
@@ -4901,7 +4901,7 @@ https://gitlab.inria.fr/batsim/dintervalset,True
 https://gitlab.inria.fr/batsim/evalys,True
 https://gitlab.inria.fr/batsim/expe-batsim-jsspp16,False
 https://gitlab.inria.fr/batsim/oxidisched,False
-https://gitlab.inria.fr/batsim/proto-batsim,False
+https://gitlab.inria.fr/batsim/proto-batsim,True
 https://gitlab.inria.fr/batsim/ptask-eval,False
 https://gitlab.inria.fr/batsim/pybatsim,True
 https://gitlab.inria.fr/belenios-forks/belenios-swergas,True
@@ -4912,7 +4912,7 @@ https://gitlab.inria.fr/bioimage-it/bioimageapp,False
 https://gitlab.inria.fr/bioimage-it/bioimagej,True
 https://gitlab.inria.fr/bioimage-it/bioimagepy,False
 https://gitlab.inria.fr/bioimage-it/bioimagepy-tutorial,True
-https://gitlab.inria.fr/bioimage-it/fiji-tools,False
+https://gitlab.inria.fr/bioimage-it/fiji-tools,True
 https://gitlab.inria.fr/bioimage-it/htesting-tools,True
 https://gitlab.inria.fr/bioimage-it/package,False
 https://gitlab.inria.fr/bioimage-it/sampletool,False
@@ -4956,7 +4956,7 @@ https://gitlab.inria.fr/citi-lab/dycton,True
 https://gitlab.inria.fr/citi-lab/embench,True
 https://gitlab.inria.fr/citi-lab/sytare,True
 https://gitlab.inria.fr/citi-lab/sytare-public,True
-https://gitlab.inria.fr/cmh/cmh,False
+https://gitlab.inria.fr/cmh/cmh,True
 https://gitlab.inria.fr/coccinelle/coccinelle,True
 https://gitlab.inria.fr/coccinelle/reference_scores,True
 https://gitlab.inria.fr/coding-dojo-saclay/Blockchain,True
@@ -5043,7 +5043,7 @@ https://gitlab.inria.fr/discovery/kolla-ansible,True
 https://gitlab.inria.fr/discovery/openstackoid,True
 https://gitlab.inria.fr/discretewalks/comb_walks,False
 https://gitlab.inria.fr/disrpt/tony,True
-https://gitlab.inria.fr/distem/distem,False
+https://gitlab.inria.fr/distem/distem,True
 https://gitlab.inria.fr/distem/distem.gitlabpages.inria.fr,False
 https://gitlab.inria.fr/diu-algo/labyrinthe,True
 https://gitlab.inria.fr/dldb/discretelogdb,True
@@ -5092,7 +5092,7 @@ https://gitlab.inria.fr/dtk/dtk-tutorials,True
 https://gitlab.inria.fr/dtk/dtk-visual-programming,True
 https://gitlab.inria.fr/dtk/dtk-visualization,True
 https://gitlab.inria.fr/dtk/dtk-visualization-python,True
-https://gitlab.inria.fr/dtk/dtk-vr,False
+https://gitlab.inria.fr/dtk/dtk-vr,True
 https://gitlab.inria.fr/dtk/dtk-widgets,True
 https://gitlab.inria.fr/dtk/dtk-widgets-python,True
 https://gitlab.inria.fr/dtk/dtk-wm,True
@@ -5257,7 +5257,7 @@ https://gitlab.inria.fr/line/wp-plugin-cai,False
 https://gitlab.inria.fr/line/wp_theme_cai,True
 https://gitlab.inria.fr/local-implicit-schemes/supplementary-material-numerische-mathematik,True
 https://gitlab.inria.fr/local-schemes/supplementary-sources,False
-https://gitlab.inria.fr/magnet/anonymization_metrics,False
+https://gitlab.inria.fr/magnet/anonymization_metrics,True
 https://gitlab.inria.fr/magnet/gdn-lib,True
 https://gitlab.inria.fr/magnet/mangoes,True
 https://gitlab.inria.fr/magnet/nada,True
@@ -5314,7 +5314,7 @@ https://gitlab.inria.fr/mosaic/tissue_nukem_3d,True
 https://gitlab.inria.fr/mosaic/tissue_paredes,True
 https://gitlab.inria.fr/mpc/mpc,False
 https://gitlab.inria.fr/mpfq/mpfq,False
-https://gitlab.inria.fr/multicellular_modelling/libsbml,False
+https://gitlab.inria.fr/multicellular_modelling/libsbml,True
 https://gitlab.inria.fr/myriads-team/python-distem,True
 https://gitlab.inria.fr/necs-open/RainbowVis-JS,True
 https://gitlab.inria.fr/necs-open/braincrafted.bootstrap-bundle,True
