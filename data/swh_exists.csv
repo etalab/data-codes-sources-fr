@@ -2385,7 +2385,7 @@ https://github.com/betagouv/redirections,True
 https://github.com/betagouv/redux-react-modals,True
 https://github.com/betagouv/redux-saga-data,True
 https://github.com/betagouv/redux-thunk-data,True
-https://github.com/betagouv/relance-transformation,False
+https://github.com/betagouv/relance-transformation,True
 https://github.com/betagouv/reserve-civique-redirect,True
 https://github.com/betagouv/retraite,True
 https://github.com/betagouv/role-ansible,True
@@ -5120,7 +5120,7 @@ https://gitlab.inria.fr/fec/MIPP,True
 https://gitlab.inria.fr/fec/PyBER,True
 https://gitlab.inria.fr/fedbiomed/client-fedbiomed,False
 https://gitlab.inria.fr/fedbiomed/fed-requests,False
-https://gitlab.inria.fr/fedbiomed/fedbiomed-api,False
+https://gitlab.inria.fr/fedbiomed/fedbiomed-api,True
 https://gitlab.inria.fr/flocq/flocq,True
 https://gitlab.inria.fr/flowvr/flowvr-ex,True
 https://gitlab.inria.fr/formation-gitlab-ci/grossamb-tutorial,True
@@ -5211,7 +5211,7 @@ https://gitlab.inria.fr/gtpi/inria_skin,True
 https://gitlab.inria.fr/guix-hpc/guix-hpc,True
 https://gitlab.inria.fr/guix-hpc/guix-hpc-non-free,True
 https://gitlab.inria.fr/guix-hpc/guix-kernel,True
-https://gitlab.inria.fr/guix-hpc/guix-past,False
+https://gitlab.inria.fr/guix-hpc/guix-past,True
 https://gitlab.inria.fr/guix-hpc/website,True
 https://gitlab.inria.fr/gv-open/PyLR,True
 https://gitlab.inria.fr/gv-open/pygeobuf,True
@@ -5358,7 +5358,7 @@ https://gitlab.inria.fr/ordo-bdx/io-peak,True
 https://gitlab.inria.fr/ordo-bdx/nrrp-with-starpu,True
 https://gitlab.inria.fr/orpailleur/sofia-docker,True
 https://gitlab.inria.fr/panama-team/blaster,True
-https://gitlab.inria.fr/panama/blaster,False
+https://gitlab.inria.fr/panama/blaster,True
 https://gitlab.inria.fr/paradiseo/paradiseo,False
 https://gitlab.inria.fr/paradiseo/pyparadiseo,False
 https://gitlab.inria.fr/parallel-replica/gen.parRep,True
@@ -5538,7 +5538,7 @@ https://gitlab.inria.fr/zefxis/monitoring-tool,True
 https://gitlab.inria.fr/zefxis/playgrounds,True
 https://gitlab.inria.fr/zefxis/use-cases,True
 https://gitlab.inria.fr/zhozhang/zhongkai-zhang,True
-https://gitlab.inria.fr/zk-curves/bw6-761,False
+https://gitlab.inria.fr/zk-curves/bw6-761,True
 https://gitlab.irstea.fr/HYCAR-Hydro/ExcelGR,True
 https://gitlab.irstea.fr/HYCAR-Hydro/airGR-Website,True
 https://gitlab.irstea.fr/HYCAR-Hydro/airgr,True
