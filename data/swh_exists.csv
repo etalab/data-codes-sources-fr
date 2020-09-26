@@ -2703,7 +2703,7 @@ https://github.com/cw-leia/cw-leia-standalone-hard,True
 https://github.com/cw-leia/cw-leia.github.io,True
 https://github.com/cw-leia/smartleia,True
 https://github.com/cw-leia/smartleia-doc,True
-https://github.com/cw-leia/smartleia-target,False
+https://github.com/cw-leia/smartleia-target,True
 https://github.com/cw-leia/smartleia-target-applet,True
 https://github.com/datalocale/BinFul,True
 https://github.com/datalocale/ECV-IJBA,True
@@ -4779,7 +4779,7 @@ https://gitlab.inria.fr/ClassCode/pixees-theme,True
 https://gitlab.inria.fr/CompCert/ci,True
 https://gitlab.inria.fr/Conferences/ICT_2018_MUFF,True
 https://gitlab.inria.fr/D3/contour-detect,True
-https://gitlab.inria.fr/D3/grid-vectorization,False
+https://gitlab.inria.fr/D3/grid-vectorization,True
 https://gitlab.inria.fr/DLreasoners/stare,True
 https://gitlab.inria.fr/DYLISS/PathModel,True
 https://gitlab.inria.fr/DYLISS/aucome,True
@@ -4893,7 +4893,7 @@ https://gitlab.inria.fr/batsim/batexpe,True
 https://gitlab.inria.fr/batsim/batexpe-python,True
 https://gitlab.inria.fr/batsim/batsched,True
 https://gitlab.inria.fr/batsim/batsim,True
-https://gitlab.inria.fr/batsim/batsim-rust,False
+https://gitlab.inria.fr/batsim/batsim-rust,True
 https://gitlab.inria.fr/batsim/batsky,True
 https://gitlab.inria.fr/batsim/bebida-on-batsim,True
 https://gitlab.inria.fr/batsim/datsched,True
@@ -4908,7 +4908,7 @@ https://gitlab.inria.fr/belenios-forks/belenios-swergas,True
 https://gitlab.inria.fr/belenios/belenios,True
 https://gitlab.inria.fr/belenios/belenios-prepared-database,True
 https://gitlab.inria.fr/bench/v0,True
-https://gitlab.inria.fr/bioimage-it/bioimageapp,False
+https://gitlab.inria.fr/bioimage-it/bioimageapp,True
 https://gitlab.inria.fr/bioimage-it/bioimagej,True
 https://gitlab.inria.fr/bioimage-it/bioimagepy,False
 https://gitlab.inria.fr/bioimage-it/bioimagepy-tutorial,True
@@ -4917,7 +4917,7 @@ https://gitlab.inria.fr/bioimage-it/htesting-tools,True
 https://gitlab.inria.fr/bioimage-it/package,False
 https://gitlab.inria.fr/bioimage-it/sampletool,False
 https://gitlab.inria.fr/bioimage-it/toolbox-js-browser,False
-https://gitlab.inria.fr/bioimage-it/toolboxes,False
+https://gitlab.inria.fr/bioimage-it/toolboxes,True
 https://gitlab.inria.fr/blare/kblare,True
 https://gitlab.inria.fr/blare/kblare-tests,True
 https://gitlab.inria.fr/blare/kblare-tools,True
@@ -5006,7 +5006,7 @@ https://gitlab.inria.fr/damas/hadoop-ec-traces,True
 https://gitlab.inria.fr/damas/nitro,True
 https://gitlab.inria.fr/darc/darc_project,True
 https://gitlab.inria.fr/dash/talks,True
-https://gitlab.inria.fr/datafut/fut-on-flow,False
+https://gitlab.inria.fr/datafut/fut-on-flow,True
 https://gitlab.inria.fr/datapol/1508-heteropar15-protobatsim,True
 https://gitlab.inria.fr/datapol/1605-jsspp16-batsim,False
 https://gitlab.inria.fr/datapol/experiments-methodology,True
@@ -5030,7 +5030,7 @@ https://gitlab.inria.fr/dexms/dexapi,True
 https://gitlab.inria.fr/dexms/dexidl,True
 https://gitlab.inria.fr/dexms/service,True
 https://gitlab.inria.fr/dexms/website,True
-https://gitlab.inria.fr/dh-projects/aspyre-gt,False
+https://gitlab.inria.fr/dh-projects/aspyre-gt,True
 https://gitlab.inria.fr/dh-projects/choppy,False
 https://gitlab.inria.fr/dh-projects/kraken-models,False
 https://gitlab.inria.fr/dhai/SimpleAnnotationServer,True
@@ -5378,7 +5378,7 @@ https://gitlab.inria.fr/progressivesimsearch/sigmod2020,True
 https://gitlab.inria.fr/pvignet/cadbiom,True
 https://gitlab.inria.fr/pvignet/pycryptosat,True
 https://gitlab.inria.fr/pycomodo/pycomodo,True
-https://gitlab.inria.fr/qparse/qparselib,False
+https://gitlab.inria.fr/qparse/qparselib,True
 https://gitlab.inria.fr/rainbow-intervals/ros_interval,True
 https://gitlab.inria.fr/rmod-public/2019-sourcecodedata,False
 https://gitlab.inria.fr/runaway/mixup,True
