@@ -4764,7 +4764,7 @@ https://gitlab.inria.fr/AlgebraicGeometricModeling/Axl.jl,True
 https://gitlab.inria.fr/AlgebraicGeometricModeling/GSplines.jl,True
 https://gitlab.inria.fr/AlgebraicGeometricModeling/MomentJuMP.jl,True
 https://gitlab.inria.fr/AlgebraicGeometricModeling/MomentTools.jl,True
-https://gitlab.inria.fr/AlgebraicGeometricModeling/MomentToolsDoc,False
+https://gitlab.inria.fr/AlgebraicGeometricModeling/MomentToolsDoc,True
 https://gitlab.inria.fr/AlgebraicGeometricModeling/SemiAlgebraicTypes.jl,True
 https://gitlab.inria.fr/AlgebraicGeometricModeling/TensorDec.jl,True
 https://gitlab.inria.fr/AlgebraicGeometricModeling/multivariateseries.jl,True
@@ -4999,10 +4999,10 @@ https://gitlab.inria.fr/crv14/evaluation,True
 https://gitlab.inria.fr/ct/gallery,True
 https://gitlab.inria.fr/dalu/decawave-drivers,False
 https://gitlab.inria.fr/dalu/spank-extio,False
-https://gitlab.inria.fr/dalu/spank-i2c-example,False
+https://gitlab.inria.fr/dalu/spank-i2c-example,True
 https://gitlab.inria.fr/dalu/zephyr-redskin,False
 https://gitlab.inria.fr/damas/container-image-placement,True
-https://gitlab.inria.fr/damas/hadoop-ec-traces,False
+https://gitlab.inria.fr/damas/hadoop-ec-traces,True
 https://gitlab.inria.fr/damas/nitro,True
 https://gitlab.inria.fr/darc/darc_project,True
 https://gitlab.inria.fr/dash/talks,True
@@ -5010,7 +5010,7 @@ https://gitlab.inria.fr/datafut/fut-on-flow,False
 https://gitlab.inria.fr/datapol/1508-heteropar15-protobatsim,False
 https://gitlab.inria.fr/datapol/1605-jsspp16-batsim,False
 https://gitlab.inria.fr/datapol/experiments-methodology,True
-https://gitlab.inria.fr/datapol/manuscript-template,False
+https://gitlab.inria.fr/datapol/manuscript-template,True
 https://gitlab.inria.fr/datapol/vdanjean-backuppc-client,True
 https://gitlab.inria.fr/datapol/wiki-welcome,True
 https://gitlab.inria.fr/defrost/welcome-to-defrost,True
@@ -5153,7 +5153,7 @@ https://gitlab.inria.fr/gecos/gecos-scilab,True
 https://gitlab.inria.fr/gecos/gecos-scop,True
 https://gitlab.inria.fr/gecos/gecos-testframework,True
 https://gitlab.inria.fr/gem5-nop/gem5,False
-https://gitlab.inria.fr/genouest-public/genouest-about,False
+https://gitlab.inria.fr/genouest-public/genouest-about,True
 https://gitlab.inria.fr/gerzaguet_public/2a_imr_wirelessnetwork_lab,True
 https://gitlab.inria.fr/gerzaguet_public/3a_sysnum_wirelesscomm_tx,True
 https://gitlab.inria.fr/gerzaguet_public/abstractsdrsspectrum.jl,False
@@ -5234,10 +5234,10 @@ https://gitlab.inria.fr/ipanema-public/ipanema-kernel,False
 https://gitlab.inria.fr/ipanema-public/ipanema-proofs,False
 https://gitlab.inria.fr/jgranier/Rendu-Style-Novat,True
 https://gitlab.inria.fr/kaldi.web/clapack-wasm,False
-https://gitlab.inria.fr/kaldi.web/kaldi-wasm,False
+https://gitlab.inria.fr/kaldi.web/kaldi-wasm,True
 https://gitlab.inria.fr/kameleon/kameleon-recipes,True
 https://gitlab.inria.fr/kirikomics/hglib,True
-https://gitlab.inria.fr/knem/knem,False
+https://gitlab.inria.fr/knem/knem,True
 https://gitlab.inria.fr/kstar/clang-omp,True
 https://gitlab.inria.fr/kstar/kastors,False
 https://gitlab.inria.fr/kstar/kstar,True
