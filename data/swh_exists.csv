@@ -4965,9 +4965,9 @@ https://gitlab.inria.fr/coding-dojo-saclay/ChronalCoords2.jl,True
 https://gitlab.inria.fr/come4acloud/xaas,True
 https://gitlab.inria.fr/compass/compass,True
 https://gitlab.inria.fr/compass/meshtools,True
-https://gitlab.inria.fr/compcertssa/compcertssa,False
-https://gitlab.inria.fr/complexityparser/complexityparser,False
-https://gitlab.inria.fr/comprise/comprise-cloud-based-platform,False
+https://gitlab.inria.fr/compcertssa/compcertssa,True
+https://gitlab.inria.fr/complexityparser/complexityparser,True
+https://gitlab.inria.fr/comprise/comprise-cloud-based-platform,True
 https://gitlab.inria.fr/comprise/comprise-personal-server,True
 https://gitlab.inria.fr/comprise/comprise_app_wizard,False
 https://gitlab.inria.fr/comprise/comprise_client_library,False
@@ -4998,7 +4998,7 @@ https://gitlab.inria.fr/crv14/benchmarks,True
 https://gitlab.inria.fr/crv14/evaluation,True
 https://gitlab.inria.fr/ct/gallery,True
 https://gitlab.inria.fr/dalu/decawave-drivers,False
-https://gitlab.inria.fr/dalu/spank-extio,False
+https://gitlab.inria.fr/dalu/spank-extio,True
 https://gitlab.inria.fr/dalu/spank-i2c-example,True
 https://gitlab.inria.fr/dalu/zephyr-redskin,False
 https://gitlab.inria.fr/damas/container-image-placement,True
@@ -5007,7 +5007,7 @@ https://gitlab.inria.fr/damas/nitro,True
 https://gitlab.inria.fr/darc/darc_project,True
 https://gitlab.inria.fr/dash/talks,True
 https://gitlab.inria.fr/datafut/fut-on-flow,False
-https://gitlab.inria.fr/datapol/1508-heteropar15-protobatsim,False
+https://gitlab.inria.fr/datapol/1508-heteropar15-protobatsim,True
 https://gitlab.inria.fr/datapol/1605-jsspp16-batsim,False
 https://gitlab.inria.fr/datapol/experiments-methodology,True
 https://gitlab.inria.fr/datapol/manuscript-template,True
@@ -5225,7 +5225,7 @@ https://gitlab.inria.fr/igrida/gvirt-factory,True
 https://gitlab.inria.fr/igrida/kubigrida-charts,True
 https://gitlab.inria.fr/igrida/kubigrida-docker,True
 https://gitlab.inria.fr/igrida/prometheus-oar-exporter,True
-https://gitlab.inria.fr/igrida/userdocs,False
+https://gitlab.inria.fr/igrida/userdocs,True
 https://gitlab.inria.fr/ink-interaction/list-widgets,False
 https://gitlab.inria.fr/inria-ci/ctproxy,True
 https://gitlab.inria.fr/inria-ci/doc,True
