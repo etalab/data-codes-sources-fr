@@ -1337,6 +1337,8 @@ https://github.com/InseeFr/Quatro,True
 https://github.com/InseeFr/Queen,True
 https://github.com/InseeFr/Queen-Back-Office,True
 https://github.com/InseeFr/Sonor,True
+https://github.com/InseeFr/Stromae,False
+https://github.com/InseeFr/Stromae-DB,False
 https://github.com/InseeFr/Trevas,True
 https://github.com/InseeFr/VTL-Tools,True
 https://github.com/InseeFr/Wilco,True
@@ -4809,7 +4811,7 @@ https://gitlab.inria.fr/Madeus/mad,True
 https://gitlab.inria.fr/Madeus/mad-openstack,True
 https://gitlab.inria.fr/MarTo/marto,True
 https://gitlab.inria.fr/MoReFEM/ThirdPartyCompilationFactory,True
-https://gitlab.inria.fr/NFS_asymptotic_complexity/simulations,False
+https://gitlab.inria.fr/NFS_asymptotic_complexity/simulations,True
 https://gitlab.inria.fr/NGS/ALTree,True
 https://gitlab.inria.fr/NGS/decova,True
 https://gitlab.inria.fr/NGS/nfs-workaround,True
@@ -5159,7 +5161,7 @@ https://gitlab.inria.fr/gerzaguet_public/3a_sysnum_wirelesscomm_tx,True
 https://gitlab.inria.fr/gerzaguet_public/abstractsdrsspectrum.jl,False
 https://gitlab.inria.fr/gerzaguet_public/digitalcomm.jl,True
 https://gitlab.inria.fr/gerzaguet_public/getspectrum.jl,False
-https://gitlab.inria.fr/gerzaguet_public/imr_wirelessnetwork_lab,False
+https://gitlab.inria.fr/gerzaguet_public/imr_wirelessnetwork_lab,True
 https://gitlab.inria.fr/gerzaguet_public/julia_seminar,True
 https://gitlab.inria.fr/gerzaguet_public/pluto_project,True
 https://gitlab.inria.fr/gerzaguet_public/uhd.jl,True
@@ -5513,7 +5515,7 @@ https://gitlab.inria.fr/vidjil/should,True
 https://gitlab.inria.fr/vidjil/tl-index,True
 https://gitlab.inria.fr/vidjil/vidjil,True
 https://gitlab.inria.fr/vtaverni/libshadertoy,False
-https://gitlab.inria.fr/vtaverni/shadertoy-connector,False
+https://gitlab.inria.fr/vtaverni/shadertoy-connector,True
 https://gitlab.inria.fr/whisper-public/atc20,False
 https://gitlab.inria.fr/why3/verifythis2020,False
 https://gitlab.inria.fr/why3/why3,True
