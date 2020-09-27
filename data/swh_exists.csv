@@ -3335,7 +3335,7 @@ https://github.com/ezpaarse-project/ip-range-generator,True
 https://github.com/ezpaarse-project/irevue-logs-cleaner,True
 https://github.com/ezpaarse-project/node-ezmesure,True
 https://github.com/ezpaarse-project/node-ezpaarse,True
-https://github.com/ezpaarse-project/node-ezunpaywall,False
+https://github.com/ezpaarse-project/node-ezunpaywall,True
 https://github.com/ezpaarse-project/slides,True
 https://github.com/fabnumdef/GeoGate,True
 https://github.com/fabnumdef/chatbot-back,True
@@ -4983,7 +4983,7 @@ https://gitlab.inria.fr/comprise/comprise_sdk_developer_ui,True
 https://gitlab.inria.fr/comprise/comprise_speech_to_text,True
 https://gitlab.inria.fr/comprise/comprise_text_to_speech,True
 https://gitlab.inria.fr/comprise/deliverable_d21,True
-https://gitlab.inria.fr/comprise/sidp,False
+https://gitlab.inria.fr/comprise/sidp,True
 https://gitlab.inria.fr/comprise/speech-to-text-weakly-supervised-learning,True
 https://gitlab.inria.fr/comprise/spoken-language-understanding-weakly-supervised-learning,False
 https://gitlab.inria.fr/comprise/text_transformer,False
@@ -5046,7 +5046,7 @@ https://gitlab.inria.fr/discovery/openstackoid,True
 https://gitlab.inria.fr/discretewalks/comb_walks,False
 https://gitlab.inria.fr/disrpt/tony,True
 https://gitlab.inria.fr/distem/distem,True
-https://gitlab.inria.fr/distem/distem.gitlabpages.inria.fr,False
+https://gitlab.inria.fr/distem/distem.gitlabpages.inria.fr,True
 https://gitlab.inria.fr/diu-algo/labyrinthe,True
 https://gitlab.inria.fr/dldb/discretelogdb,True
 https://gitlab.inria.fr/dlp-sif/dlp-arduino,True
@@ -5382,11 +5382,11 @@ https://gitlab.inria.fr/pvignet/pycryptosat,True
 https://gitlab.inria.fr/pycomodo/pycomodo,True
 https://gitlab.inria.fr/qparse/qparselib,True
 https://gitlab.inria.fr/rainbow-intervals/ros_interval,True
-https://gitlab.inria.fr/rmod-public/2019-sourcecodedata,False
+https://gitlab.inria.fr/rmod-public/2019-sourcecodedata,True
 https://gitlab.inria.fr/runaway/mixup,True
 https://gitlab.inria.fr/runaway/runaway,True
-https://gitlab.inria.fr/runaway/runaway.gitlabpages.inria.fr,False
-https://gitlab.inria.fr/runtime/forestgomp,False
+https://gitlab.inria.fr/runaway/runaway.gitlabpages.inria.fr,True
+https://gitlab.inria.fr/runtime/forestgomp,True
 https://gitlab.inria.fr/sb/simbci,True
 https://gitlab.inria.fr/sca_platform/analysis,False
 https://gitlab.inria.fr/sca_platform/equipments,False
@@ -5403,7 +5403,7 @@ https://gitlab.inria.fr/sed-paris/c-project-template,False
 https://gitlab.inria.fr/sed-paris/codingdojo,False
 https://gitlab.inria.fr/sed-paris/developer-meetups,True
 https://gitlab.inria.fr/sed-paris/welcome,True
-https://gitlab.inria.fr/sed-ral/orccad,False
+https://gitlab.inria.fr/sed-ral/orccad,True
 https://gitlab.inria.fr/sed-rennes/VR-Three.js,True
 https://gitlab.inria.fr/sed-rennes/gforge-to-gitlab-scripts,True
 https://gitlab.inria.fr/sed-rennes/sharelatex-website,True
@@ -5433,7 +5433,7 @@ https://gitlab.inria.fr/skeletons/Coq,True
 https://gitlab.inria.fr/skeletons/jskel,True
 https://gitlab.inria.fr/skeletons/necro,True
 https://gitlab.inria.fr/skeletons/necro-coq,False
-https://gitlab.inria.fr/skeletons/necro-ml,False
+https://gitlab.inria.fr/skeletons/necro-ml,True
 https://gitlab.inria.fr/skeletons/necro-test,False
 https://gitlab.inria.fr/skeletons/necro-tex,False
 https://gitlab.inria.fr/skeletons/opam-repository,False
@@ -5457,8 +5457,8 @@ https://gitlab.inria.fr/solverstack/vite,True
 https://gitlab.inria.fr/source_code/aes-cryptanalysis-cp-xor-2019,True
 https://gitlab.inria.fr/source_code/ai_paper_code,True
 https://gitlab.inria.fr/spine/spine_model,False
-https://gitlab.inria.fr/spinfer/spinfer,False
-https://gitlab.inria.fr/spinfer/spinfer_evaluation,False
+https://gitlab.inria.fr/spinfer/spinfer,True
+https://gitlab.inria.fr/spinfer/spinfer_evaluation,True
 https://gitlab.inria.fr/star-explain/fjs_of_fml,True
 https://gitlab.inria.fr/star-explain/jsexplain,True
 https://gitlab.inria.fr/star-explain/opam-repository,True
