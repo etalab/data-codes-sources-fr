@@ -1337,8 +1337,8 @@ https://github.com/InseeFr/Quatro,True
 https://github.com/InseeFr/Queen,True
 https://github.com/InseeFr/Queen-Back-Office,True
 https://github.com/InseeFr/Sonor,True
-https://github.com/InseeFr/Stromae,False
-https://github.com/InseeFr/Stromae-DB,False
+https://github.com/InseeFr/Stromae,True
+https://github.com/InseeFr/Stromae-DB,True
 https://github.com/InseeFr/Trevas,True
 https://github.com/InseeFr/VTL-Tools,True
 https://github.com/InseeFr/Wilco,True
@@ -4884,8 +4884,8 @@ https://gitlab.inria.fr/alta/alta,True
 https://gitlab.inria.fr/andiamo/eusdisparser,True
 https://gitlab.inria.fr/andiamo/tony,True
 https://gitlab.inria.fr/android-tools/apk-ops,True
-https://gitlab.inria.fr/android-tools/emulator,False
-https://gitlab.inria.fr/android-tools/readme,False
+https://gitlab.inria.fr/android-tools/emulator,True
+https://gitlab.inria.fr/android-tools/readme,True
 https://gitlab.inria.fr/asbizard/Procedural_modeling_of_multi-scale_galactic_dust,True
 https://gitlab.inria.fr/asclepios/biblio,True
 https://gitlab.inria.fr/aviz/paohvis,True
@@ -5235,7 +5235,7 @@ https://gitlab.inria.fr/ipanema-public/ipanema-compiler,True
 https://gitlab.inria.fr/ipanema-public/ipanema-kernel,False
 https://gitlab.inria.fr/ipanema-public/ipanema-proofs,False
 https://gitlab.inria.fr/jgranier/Rendu-Style-Novat,True
-https://gitlab.inria.fr/kaldi.web/clapack-wasm,False
+https://gitlab.inria.fr/kaldi.web/clapack-wasm,True
 https://gitlab.inria.fr/kaldi.web/kaldi-wasm,True
 https://gitlab.inria.fr/kameleon/kameleon-recipes,True
 https://gitlab.inria.fr/kirikomics/hglib,True
@@ -5269,7 +5269,7 @@ https://gitlab.inria.fr/matherials/simol,True
 https://gitlab.inria.fr/mecsi-ext/genumsi,True
 https://gitlab.inria.fr/meetings/biomolecules-project,False
 https://gitlab.inria.fr/meetings/codes,False
-https://gitlab.inria.fr/meetings/first-attempts-with-biomolecular-experiments,False
+https://gitlab.inria.fr/meetings/first-attempts-with-biomolecular-experiments,True
 https://gitlab.inria.fr/memcad/clangml,True
 https://gitlab.inria.fr/memcad/clangml-transforms,True
 https://gitlab.inria.fr/memphis/nemo,True
@@ -5399,7 +5399,7 @@ https://gitlab.inria.fr/sed-bso/heat,True
 https://gitlab.inria.fr/sed-bso/mdb-javascript,True
 https://gitlab.inria.fr/sed-bso/sonarqube,True
 https://gitlab.inria.fr/sed-lille/game-of-codes-utils,True
-https://gitlab.inria.fr/sed-paris/c-project-template,False
+https://gitlab.inria.fr/sed-paris/c-project-template,True
 https://gitlab.inria.fr/sed-paris/codingdojo,False
 https://gitlab.inria.fr/sed-paris/developer-meetups,True
 https://gitlab.inria.fr/sed-paris/welcome,True
