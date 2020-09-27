@@ -2161,7 +2161,7 @@ https://github.com/betagouv/api-particulier-demo,True
 https://github.com/betagouv/api-particulier-demo-traces,True
 https://github.com/betagouv/api-particulier-deprecated,True
 https://github.com/betagouv/api-particulier-lib,True
-https://github.com/betagouv/api-particulier-mesri-connector,False
+https://github.com/betagouv/api-particulier-mesri-connector,True
 https://github.com/betagouv/api-particulier-pole-emploi-connector,True
 https://github.com/betagouv/api-particulier-pole-emploi-sandbox-connector,True
 https://github.com/betagouv/api-particulier-portail,True
@@ -4918,7 +4918,7 @@ https://gitlab.inria.fr/bioimage-it/fiji-tools,True
 https://gitlab.inria.fr/bioimage-it/htesting-tools,True
 https://gitlab.inria.fr/bioimage-it/package,False
 https://gitlab.inria.fr/bioimage-it/sampletool,False
-https://gitlab.inria.fr/bioimage-it/toolbox-js-browser,False
+https://gitlab.inria.fr/bioimage-it/toolbox-js-browser,True
 https://gitlab.inria.fr/bioimage-it/toolboxes,True
 https://gitlab.inria.fr/blare/kblare,True
 https://gitlab.inria.fr/blare/kblare-tests,True
@@ -4932,7 +4932,7 @@ https://gitlab.inria.fr/bora-ucar/libspmxv,True
 https://gitlab.inria.fr/bora-ucar/matchmaker,True
 https://gitlab.inria.fr/bptraffic/star-ips,True
 https://gitlab.inria.fr/cado-nfs/cado-nfs,True
-https://gitlab.inria.fr/cado-nfs/records,False
+https://gitlab.inria.fr/cado-nfs/records,True
 https://gitlab.inria.fr/capsid.crates/lib3dmol,False
 https://gitlab.inria.fr/cedar/RDFQuotient,True
 https://gitlab.inria.fr/cedar/connectionlens,False
@@ -5034,7 +5034,7 @@ https://gitlab.inria.fr/dexms/service,True
 https://gitlab.inria.fr/dexms/website,True
 https://gitlab.inria.fr/dh-projects/aspyre-gt,True
 https://gitlab.inria.fr/dh-projects/choppy,False
-https://gitlab.inria.fr/dh-projects/kraken-models,False
+https://gitlab.inria.fr/dh-projects/kraken-models,True
 https://gitlab.inria.fr/dhai/SimpleAnnotationServer,True
 https://gitlab.inria.fr/dhai/filigrane,False
 https://gitlab.inria.fr/digiscope/spat,True
@@ -5158,7 +5158,7 @@ https://gitlab.inria.fr/gem5-nop/gem5,False
 https://gitlab.inria.fr/genouest-public/genouest-about,True
 https://gitlab.inria.fr/gerzaguet_public/2a_imr_wirelessnetwork_lab,True
 https://gitlab.inria.fr/gerzaguet_public/3a_sysnum_wirelesscomm_tx,True
-https://gitlab.inria.fr/gerzaguet_public/abstractsdrsspectrum.jl,False
+https://gitlab.inria.fr/gerzaguet_public/abstractsdrsspectrum.jl,True
 https://gitlab.inria.fr/gerzaguet_public/digitalcomm.jl,True
 https://gitlab.inria.fr/gerzaguet_public/getspectrum.jl,False
 https://gitlab.inria.fr/gerzaguet_public/imr_wirelessnetwork_lab,True
@@ -5198,7 +5198,7 @@ https://gitlab.inria.fr/grid5000/i40e,True
 https://gitlab.inria.fr/grid5000/kadeploy,False
 https://gitlab.inria.fr/grid5000/kameleon_g5k_custom_recipes_examples,False
 https://gitlab.inria.fr/grid5000/kwapi-g5k,True
-https://gitlab.inria.fr/grid5000/kwollect,False
+https://gitlab.inria.fr/grid5000/kwollect,True
 https://gitlab.inria.fr/grid5000/megaraid_sas,True
 https://gitlab.inria.fr/grid5000/metrology-api,True
 https://gitlab.inria.fr/grid5000/omegawatt,True
@@ -5520,7 +5520,7 @@ https://gitlab.inria.fr/whisper-public/atc20,False
 https://gitlab.inria.fr/why3/verifythis2020,False
 https://gitlab.inria.fr/why3/why3,True
 https://gitlab.inria.fr/why3/whymp,True
-https://gitlab.inria.fr/xbie/dvae-speech,False
+https://gitlab.inria.fr/xbie/dvae-speech,True
 https://gitlab.inria.fr/xfor/guix-xfor,False
 https://gitlab.inria.fr/xfor/xfor-clang,True
 https://gitlab.inria.fr/xkblas/versions,True
