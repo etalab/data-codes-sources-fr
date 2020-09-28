@@ -3240,6 +3240,7 @@ https://github.com/etalab/rna_as_api,True
 https://github.com/etalab/rncs_worker_api_entreprise,True
 https://github.com/etalab/rubocop_api_entreprise,True
 https://github.com/etalab/run-nb,True
+https://github.com/etalab/schema-amenagements-cyclables,False
 https://github.com/etalab/schema-bal,True
 https://github.com/etalab/schema-decp-dpa,True
 https://github.com/etalab/schema-generic-template,True
@@ -4941,7 +4942,7 @@ https://gitlab.inria.fr/cedar/excel-extractor,True
 https://gitlab.inria.fr/cedar/excel-search,True
 https://gitlab.inria.fr/cedar/extraction-test,True
 https://gitlab.inria.fr/cedar/insee-crawler,True
-https://gitlab.inria.fr/cedar/obiwan-examples,False
+https://gitlab.inria.fr/cedar/obiwan-examples,True
 https://gitlab.inria.fr/cedar/spadedemo_vldb2019,True
 https://gitlab.inria.fr/cedar/statstical_mentions,True
 https://gitlab.inria.fr/cerisara/olkisite,True
@@ -4972,7 +4973,7 @@ https://gitlab.inria.fr/complexityparser/complexityparser,True
 https://gitlab.inria.fr/comprise/comprise-cloud-based-platform,True
 https://gitlab.inria.fr/comprise/comprise-personal-server,True
 https://gitlab.inria.fr/comprise/comprise_app_wizard,False
-https://gitlab.inria.fr/comprise/comprise_client_library,False
+https://gitlab.inria.fr/comprise/comprise_client_library,True
 https://gitlab.inria.fr/comprise/comprise_dialog_management,True
 https://gitlab.inria.fr/comprise/comprise_machine_translation,True
 https://gitlab.inria.fr/comprise/comprise_natural_language_generation,True
@@ -5241,7 +5242,7 @@ https://gitlab.inria.fr/kameleon/kameleon-recipes,True
 https://gitlab.inria.fr/kirikomics/hglib,True
 https://gitlab.inria.fr/knem/knem,True
 https://gitlab.inria.fr/kstar/clang-omp,True
-https://gitlab.inria.fr/kstar/kastors,False
+https://gitlab.inria.fr/kstar/kastors,True
 https://gitlab.inria.fr/kstar/kstar,True
 https://gitlab.inria.fr/latex-utils/latex-make,True
 https://gitlab.inria.fr/lcourtes-phd/chop-eval,True
@@ -5296,7 +5297,7 @@ https://gitlab.inria.fr/mnemosyne/vanilla_nn,True
 https://gitlab.inria.fr/moex/class,True
 https://gitlab.inria.fr/moex/linkex,True
 https://gitlab.inria.fr/moex/linkky,True
-https://gitlab.inria.fr/monitoring/bism,False
+https://gitlab.inria.fr/monitoring/bism,True
 https://gitlab.inria.fr/monitoring/bism-experiments,False
 https://gitlab.inria.fr/monitoring/opportunistic-rv-conf,True
 https://gitlab.inria.fr/monitoring/rv-dist-pub,True
@@ -5464,7 +5465,7 @@ https://gitlab.inria.fr/star-explain/jsexplain,True
 https://gitlab.inria.fr/star-explain/opam-repository,True
 https://gitlab.inria.fr/starpu/starpu,True
 https://gitlab.inria.fr/starpu/starpu-debian,False
-https://gitlab.inria.fr/starpu/starpu.gitlabpages.inria.fr,False
+https://gitlab.inria.fr/starpu/starpu.gitlabpages.inria.fr,True
 https://gitlab.inria.fr/stopcovid19/accueil,True
 https://gitlab.inria.fr/stopcovid19/robert-client-api-spec,True
 https://gitlab.inria.fr/stopcovid19/robert-server,True
