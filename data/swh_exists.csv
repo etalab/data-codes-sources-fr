@@ -2228,6 +2228,7 @@ https://github.com/betagouv/e-controle-load-test,True
 https://github.com/betagouv/eac,True
 https://github.com/betagouv/eac-api,True
 https://github.com/betagouv/eac-scrapper,True
+https://github.com/betagouv/ecolab-alimentation,False
 https://github.com/betagouv/ecolab-batiment,True
 https://github.com/betagouv/ecolab-climat,True
 https://github.com/betagouv/ecolab-data,True
@@ -2455,7 +2456,7 @@ https://github.com/cea-hpc/kpatch,True
 https://github.com/cea-hpc/krb5,True
 https://github.com/cea-hpc/kvsns,True
 https://github.com/cea-hpc/lcap,True
-https://github.com/cea-hpc/librobinhood,False
+https://github.com/cea-hpc/librobinhood,True
 https://github.com/cea-hpc/mercurio,True
 https://github.com/cea-hpc/milkcheck,True
 https://github.com/cea-hpc/miniyaml,True
@@ -5106,7 +5107,7 @@ https://gitlab.inria.fr/enseignement/MIAGE_TP_XML_2017,True
 https://gitlab.inria.fr/epione/GP_progression_model_V2,False
 https://gitlab.inria.fr/epione/biblio,False
 https://gitlab.inria.fr/epione/hdcob,False
-https://gitlab.inria.fr/epione/promfusion,False
+https://gitlab.inria.fr/epione/promfusion,True
 https://gitlab.inria.fr/epione_ML/bayesian-learning-uca,True
 https://gitlab.inria.fr/epione_ML/mcvae,True
 https://gitlab.inria.fr/erable/totoro,False
