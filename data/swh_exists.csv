@@ -2921,6 +2921,7 @@ https://github.com/entrepreneur-interet-general/verslecolepourtous,True
 https://github.com/entrepreneur-interet-general/vue-python-starter-kit,True
 https://github.com/entrepreneur-interet-general/word_convertor,True
 https://github.com/eole/addon-context-linux,True
+https://github.com/eole/clients-linux-scribe,False
 https://github.com/eole/dhcpd-formula,True
 https://github.com/eole/docs,True
 https://github.com/eole/documentation,True
@@ -4918,7 +4919,7 @@ https://gitlab.inria.fr/bioimage-it/bioimagepy-tutorial,True
 https://gitlab.inria.fr/bioimage-it/fiji-tools,True
 https://gitlab.inria.fr/bioimage-it/htesting-tools,True
 https://gitlab.inria.fr/bioimage-it/package,False
-https://gitlab.inria.fr/bioimage-it/sampletool,False
+https://gitlab.inria.fr/bioimage-it/sampletool,True
 https://gitlab.inria.fr/bioimage-it/toolbox-js-browser,True
 https://gitlab.inria.fr/bioimage-it/toolboxes,True
 https://gitlab.inria.fr/blare/kblare,True
@@ -5003,7 +5004,7 @@ https://gitlab.inria.fr/ct/gallery,True
 https://gitlab.inria.fr/dalu/decawave-drivers,False
 https://gitlab.inria.fr/dalu/spank-extio,True
 https://gitlab.inria.fr/dalu/spank-i2c-example,True
-https://gitlab.inria.fr/dalu/zephyr-redskin,False
+https://gitlab.inria.fr/dalu/zephyr-redskin,True
 https://gitlab.inria.fr/damas/container-image-placement,True
 https://gitlab.inria.fr/damas/hadoop-ec-traces,True
 https://gitlab.inria.fr/damas/nitro,True
@@ -5122,7 +5123,7 @@ https://gitlab.inria.fr/expression-externals/mitlm,True
 https://gitlab.inria.fr/fec/MIPP,True
 https://gitlab.inria.fr/fec/PyBER,True
 https://gitlab.inria.fr/fedbiomed/client-fedbiomed,False
-https://gitlab.inria.fr/fedbiomed/fed-requests,False
+https://gitlab.inria.fr/fedbiomed/fed-requests,True
 https://gitlab.inria.fr/fedbiomed/fedbiomed-api,True
 https://gitlab.inria.fr/flocq/flocq,True
 https://gitlab.inria.fr/flowvr/flowvr-ex,True
@@ -5229,11 +5230,11 @@ https://gitlab.inria.fr/igrida/kubigrida-charts,True
 https://gitlab.inria.fr/igrida/kubigrida-docker,True
 https://gitlab.inria.fr/igrida/prometheus-oar-exporter,True
 https://gitlab.inria.fr/igrida/userdocs,True
-https://gitlab.inria.fr/ink-interaction/list-widgets,False
+https://gitlab.inria.fr/ink-interaction/list-widgets,True
 https://gitlab.inria.fr/inria-ci/ctproxy,True
 https://gitlab.inria.fr/inria-ci/doc,True
 https://gitlab.inria.fr/ipanema-public/ipanema-compiler,True
-https://gitlab.inria.fr/ipanema-public/ipanema-kernel,False
+https://gitlab.inria.fr/ipanema-public/ipanema-kernel,True
 https://gitlab.inria.fr/ipanema-public/ipanema-proofs,False
 https://gitlab.inria.fr/jgranier/Rendu-Style-Novat,True
 https://gitlab.inria.fr/kaldi.web/clapack-wasm,True
@@ -5482,7 +5483,7 @@ https://gitlab.inria.fr/synalp/python4nlp-2019-public,True
 https://gitlab.inria.fr/synalp/website,True
 https://gitlab.inria.fr/synchrone/heptagon,True
 https://gitlab.inria.fr/the-missing-path/the-missing-path.gitlab.inria.fr,True
-https://gitlab.inria.fr/these-bxi/r-util,False
+https://gitlab.inria.fr/these-bxi/r-util,True
 https://gitlab.inria.fr/these-bxi/s4bxi-log-viewer,False
 https://gitlab.inria.fr/thoth/python-spams,False
 https://gitlab.inria.fr/thoth/spams-devel,True
