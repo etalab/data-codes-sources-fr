@@ -3242,7 +3242,7 @@ https://github.com/etalab/rna_as_api,True
 https://github.com/etalab/rncs_worker_api_entreprise,True
 https://github.com/etalab/rubocop_api_entreprise,True
 https://github.com/etalab/run-nb,True
-https://github.com/etalab/schema-amenagements-cyclables,False
+https://github.com/etalab/schema-amenagements-cyclables,True
 https://github.com/etalab/schema-bal,True
 https://github.com/etalab/schema-decp-dpa,True
 https://github.com/etalab/schema-generic-template,True
@@ -4904,7 +4904,7 @@ https://gitlab.inria.fr/batsim/bebida-on-batsim,True
 https://gitlab.inria.fr/batsim/datsched,True
 https://gitlab.inria.fr/batsim/dintervalset,True
 https://gitlab.inria.fr/batsim/evalys,True
-https://gitlab.inria.fr/batsim/expe-batsim-jsspp16,False
+https://gitlab.inria.fr/batsim/expe-batsim-jsspp16,True
 https://gitlab.inria.fr/batsim/oxidisched,False
 https://gitlab.inria.fr/batsim/proto-batsim,True
 https://gitlab.inria.fr/batsim/ptask-eval,False
