@@ -2905,6 +2905,7 @@ https://github.com/entrepreneur-interet-general/previsecours.github.io,True
 https://github.com/entrepreneur-interet-general/publib,True
 https://github.com/entrepreneur-interet-general/recrues,True
 https://github.com/entrepreneur-interet-general/ressources-design,True
+https://github.com/entrepreneur-interet-general/ressources-eig4,False
 https://github.com/entrepreneur-interet-general/sedatif,True
 https://github.com/entrepreneur-interet-general/sidenotes,True
 https://github.com/entrepreneur-interet-general/sill,True
@@ -4937,7 +4938,7 @@ https://gitlab.inria.fr/bora-ucar/matchmaker,True
 https://gitlab.inria.fr/bptraffic/star-ips,True
 https://gitlab.inria.fr/cado-nfs/cado-nfs,True
 https://gitlab.inria.fr/cado-nfs/records,True
-https://gitlab.inria.fr/capsid.crates/lib3dmol,False
+https://gitlab.inria.fr/capsid.crates/lib3dmol,True
 https://gitlab.inria.fr/cedar/RDFQuotient,True
 https://gitlab.inria.fr/cedar/connectionlens,False
 https://gitlab.inria.fr/cedar/daggerWithSampling,True
@@ -5199,7 +5200,7 @@ https://gitlab.inria.fr/grid5000/g5k-checks,True
 https://gitlab.inria.fr/grid5000/grid5000-code,True
 https://gitlab.inria.fr/grid5000/grub-efi-arm64-netdir,True
 https://gitlab.inria.fr/grid5000/i40e,True
-https://gitlab.inria.fr/grid5000/kadeploy,False
+https://gitlab.inria.fr/grid5000/kadeploy,True
 https://gitlab.inria.fr/grid5000/kameleon_g5k_custom_recipes_examples,False
 https://gitlab.inria.fr/grid5000/kwapi-g5k,True
 https://gitlab.inria.fr/grid5000/kwollect,True
@@ -5366,7 +5367,7 @@ https://gitlab.inria.fr/orpailleur/sofia-docker,True
 https://gitlab.inria.fr/panama-team/blaster,True
 https://gitlab.inria.fr/panama/blaster,True
 https://gitlab.inria.fr/paradiseo/paradiseo,False
-https://gitlab.inria.fr/paradiseo/pyparadiseo,False
+https://gitlab.inria.fr/paradiseo/pyparadiseo,True
 https://gitlab.inria.fr/parallel-replica/gen.parRep,True
 https://gitlab.inria.fr/parallel-replica/qsd.gen.samples,True
 https://gitlab.inria.fr/parseme-fr/mwe-mg,True
@@ -5436,7 +5437,7 @@ https://gitlab.inria.fr/siteadmin/publictest,True
 https://gitlab.inria.fr/skeletons/Coq,True
 https://gitlab.inria.fr/skeletons/jskel,True
 https://gitlab.inria.fr/skeletons/necro,True
-https://gitlab.inria.fr/skeletons/necro-coq,False
+https://gitlab.inria.fr/skeletons/necro-coq,True
 https://gitlab.inria.fr/skeletons/necro-ml,True
 https://gitlab.inria.fr/skeletons/necro-test,False
 https://gitlab.inria.fr/skeletons/necro-tex,False
@@ -5520,7 +5521,7 @@ https://gitlab.inria.fr/vidjil/tl-index,True
 https://gitlab.inria.fr/vidjil/vidjil,True
 https://gitlab.inria.fr/vtaverni/libshadertoy,False
 https://gitlab.inria.fr/vtaverni/shadertoy-connector,True
-https://gitlab.inria.fr/whisper-public/atc20,False
+https://gitlab.inria.fr/whisper-public/atc20,True
 https://gitlab.inria.fr/why3/verifythis2020,False
 https://gitlab.inria.fr/why3/why3,True
 https://gitlab.inria.fr/why3/whymp,True
