@@ -46,7 +46,7 @@ https://forge.grandlyon.com/gestion-des-assemblees/elections,True
 https://forge.grandlyon.com/laclasse/client,True
 https://forge.grandlyon.com/laclasse/etherpad,True
 https://forge.grandlyon.com/laclasse/mail,True
-https://forge.grandlyon.com/laclasse/minipaint,False
+https://forge.grandlyon.com/laclasse/minipaint,True
 https://forge.grandlyon.com/laclasse/onlyoffice,True
 https://forge.grandlyon.com/laclasse/publipostage,True
 https://forge.grandlyon.com/laclasse/roundcube,True
@@ -423,6 +423,7 @@ https://github.com/1024pix/ember-cli-chartjs,True
 https://github.com/1024pix/ember-cli-matomo-tag-manager,True
 https://github.com/1024pix/ember-sentry,True
 https://github.com/1024pix/formation-jeremie,True
+https://github.com/1024pix/heroku-buildpack-git-submodule,False
 https://github.com/1024pix/heroku-buildpack-telegraf,True
 https://github.com/1024pix/journee-recherche,True
 https://github.com/1024pix/json-api-crud-server,True
@@ -2903,7 +2904,7 @@ https://github.com/entrepreneur-interet-general/predisauvetage,True
 https://github.com/entrepreneur-interet-general/previsecours.github.io,True
 https://github.com/entrepreneur-interet-general/publib,True
 https://github.com/entrepreneur-interet-general/recrues,True
-https://github.com/entrepreneur-interet-general/ressources-design,False
+https://github.com/entrepreneur-interet-general/ressources-design,True
 https://github.com/entrepreneur-interet-general/sedatif,True
 https://github.com/entrepreneur-interet-general/sidenotes,True
 https://github.com/entrepreneur-interet-general/sill,True
@@ -4840,7 +4841,7 @@ https://gitlab.inria.fr/RMOD/2020-framework,False
 https://gitlab.inria.fr/RMOD/Ghost,True
 https://gitlab.inria.fr/RMOD/Welcome,True
 https://gitlab.inria.fr/RMOD/archive,True
-https://gitlab.inria.fr/RMOD/libgit-build,False
+https://gitlab.inria.fr/RMOD/libgit-build,True
 https://gitlab.inria.fr/SketchedLearning/spm-notebook,True
 https://gitlab.inria.fr/Spirals/monsoon,True
 https://gitlab.inria.fr/TeamPlay_Public/TeamPlay_Public_Deliverables,True
@@ -5039,14 +5040,14 @@ https://gitlab.inria.fr/dh-projects/aspyre-gt,True
 https://gitlab.inria.fr/dh-projects/choppy,False
 https://gitlab.inria.fr/dh-projects/kraken-models,True
 https://gitlab.inria.fr/dhai/SimpleAnnotationServer,True
-https://gitlab.inria.fr/dhai/filigrane,False
+https://gitlab.inria.fr/dhai/filigrane,True
 https://gitlab.inria.fr/digiscope/spat,True
 https://gitlab.inria.fr/discovery/enoslib,True
 https://gitlab.inria.fr/discovery/keystoneauth,True
 https://gitlab.inria.fr/discovery/keystonemiddleware,True
 https://gitlab.inria.fr/discovery/kolla-ansible,True
 https://gitlab.inria.fr/discovery/openstackoid,True
-https://gitlab.inria.fr/discretewalks/comb_walks,False
+https://gitlab.inria.fr/discretewalks/comb_walks,True
 https://gitlab.inria.fr/disrpt/tony,True
 https://gitlab.inria.fr/distem/distem,True
 https://gitlab.inria.fr/distem/distem.gitlabpages.inria.fr,True
@@ -5300,7 +5301,7 @@ https://gitlab.inria.fr/moex/class,True
 https://gitlab.inria.fr/moex/linkex,True
 https://gitlab.inria.fr/moex/linkky,True
 https://gitlab.inria.fr/monitoring/bism,True
-https://gitlab.inria.fr/monitoring/bism-experiments,False
+https://gitlab.inria.fr/monitoring/bism-experiments,True
 https://gitlab.inria.fr/monitoring/opportunistic-rv-conf,True
 https://gitlab.inria.fr/monitoring/rv-dist-pub,True
 https://gitlab.inria.fr/monitoring/rv-multi,True
