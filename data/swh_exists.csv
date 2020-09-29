@@ -3854,6 +3854,7 @@ https://github.com/medialab/toflit18_data,True
 https://github.com/medialab/tools,True
 https://github.com/medialab/tools-old,True
 https://github.com/medialab/trustlab,True
+https://github.com/medialab/tweet-bubbles,False
 https://github.com/medialab/txjsonrpc,True
 https://github.com/medialab/unfccc-scrap-snippet,True
 https://github.com/medialab/ural,True
@@ -5043,7 +5044,7 @@ https://gitlab.inria.fr/croco-ocean/croco_tools,True
 https://gitlab.inria.fr/crv14/benchmarks,True
 https://gitlab.inria.fr/crv14/evaluation,True
 https://gitlab.inria.fr/ct/gallery,True
-https://gitlab.inria.fr/dalu/decawave-drivers,False
+https://gitlab.inria.fr/dalu/decawave-drivers,True
 https://gitlab.inria.fr/dalu/spank-extio,True
 https://gitlab.inria.fr/dalu/spank-i2c-example,True
 https://gitlab.inria.fr/dalu/zephyr-redskin,True
@@ -5501,14 +5502,14 @@ https://gitlab.inria.fr/solverstack/tabakov,True
 https://gitlab.inria.fr/solverstack/vite,True
 https://gitlab.inria.fr/source_code/aes-cryptanalysis-cp-xor-2019,True
 https://gitlab.inria.fr/source_code/ai_paper_code,True
-https://gitlab.inria.fr/spine/spine_model,False
+https://gitlab.inria.fr/spine/spine_model,True
 https://gitlab.inria.fr/spinfer/spinfer,True
 https://gitlab.inria.fr/spinfer/spinfer_evaluation,True
 https://gitlab.inria.fr/star-explain/fjs_of_fml,True
 https://gitlab.inria.fr/star-explain/jsexplain,True
 https://gitlab.inria.fr/star-explain/opam-repository,True
 https://gitlab.inria.fr/starpu/starpu,True
-https://gitlab.inria.fr/starpu/starpu-debian,False
+https://gitlab.inria.fr/starpu/starpu-debian,True
 https://gitlab.inria.fr/starpu/starpu.gitlabpages.inria.fr,True
 https://gitlab.inria.fr/stopcovid19/accueil,True
 https://gitlab.inria.fr/stopcovid19/robert-client-api-spec,True
