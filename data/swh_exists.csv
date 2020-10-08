@@ -5066,7 +5066,7 @@ https://gitlab.inria.fr/cado-nfs/records,True
 https://gitlab.inria.fr/capsid.crates/lib3dmol,True
 https://gitlab.inria.fr/causality/causality-monad,False
 https://gitlab.inria.fr/cedar/RDFQuotient,True
-https://gitlab.inria.fr/cedar/connectionlens,False
+https://gitlab.inria.fr/cedar/connectionlens,True
 https://gitlab.inria.fr/cedar/daggerWithSampling,True
 https://gitlab.inria.fr/cedar/excel-extractor,True
 https://gitlab.inria.fr/cedar/excel-search,True
@@ -5294,7 +5294,7 @@ https://gitlab.inria.fr/gerzaguet_public/2a_imr_wirelessnetwork_lab,True
 https://gitlab.inria.fr/gerzaguet_public/3a_sysnum_wirelesscomm_tx,True
 https://gitlab.inria.fr/gerzaguet_public/abstractsdrsspectrum.jl,True
 https://gitlab.inria.fr/gerzaguet_public/digitalcomm.jl,True
-https://gitlab.inria.fr/gerzaguet_public/getspectrum.jl,False
+https://gitlab.inria.fr/gerzaguet_public/getspectrum.jl,True
 https://gitlab.inria.fr/gerzaguet_public/imr_wirelessnetwork_lab,True
 https://gitlab.inria.fr/gerzaguet_public/julia_seminar,True
 https://gitlab.inria.fr/gerzaguet_public/pluto_project,True
@@ -5509,7 +5509,7 @@ https://gitlab.inria.fr/piper/child_pedestrian,True
 https://gitlab.inria.fr/piper/misc_models,True
 https://gitlab.inria.fr/piper/viva,True
 https://gitlab.inria.fr/piy/piy,True
-https://gitlab.inria.fr/plas20/sessionintegrity,False
+https://gitlab.inria.fr/plas20/sessionintegrity,True
 https://gitlab.inria.fr/popstar/SAT-Equiv,True
 https://gitlab.inria.fr/progressivesimsearch/sigmod2020,True
 https://gitlab.inria.fr/pvignet/cadbiom,True
@@ -5653,7 +5653,7 @@ https://gitlab.inria.fr/vidjil/vidjil,True
 https://gitlab.inria.fr/vtaverni/libshadertoy,False
 https://gitlab.inria.fr/vtaverni/shadertoy-connector,True
 https://gitlab.inria.fr/whisper-public/atc20,True
-https://gitlab.inria.fr/why3/verifythis2020,False
+https://gitlab.inria.fr/why3/verifythis2020,True
 https://gitlab.inria.fr/why3/why3,True
 https://gitlab.inria.fr/why3/whymp,True
 https://gitlab.inria.fr/xbie/dvae-speech,True
