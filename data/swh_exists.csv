@@ -2202,6 +2202,7 @@ https://github.com/atlanmod/sexp2emf,True
 https://github.com/atlanmod/thingml-maven-repo,True
 https://github.com/atlanmod/ttc-2013-flowgraphs-ATL,True
 https://github.com/atlanmod/ttc2018liveContest,True
+https://github.com/atlanmod/unveil-emf,False
 https://github.com/atlanmod/updates,True
 https://github.com/atlanmod/zoo,True
 https://github.com/banquedefrance/go-ethereum,True
@@ -3539,7 +3540,7 @@ https://github.com/ina-foss/voxo-dashboard,True
 https://github.com/ina-foss/voxo-docker,True
 https://github.com/ina-foss/voxo-lib,True
 https://github.com/incubateur-territoires/incubateur.anct.gouv.fr,True
-https://github.com/incubateur-territoires/territoires.store,False
+https://github.com/incubateur-territoires/territoires.store,True
 https://github.com/indsante/Documentation-SNDS,True
 https://github.com/indsante/dico-snds,True
 https://github.com/indsante/dico-snds-creation-archive,True
@@ -3927,7 +3928,7 @@ https://github.com/medialab/toflit18_data,True
 https://github.com/medialab/tools,True
 https://github.com/medialab/tools-old,True
 https://github.com/medialab/trustlab,True
-https://github.com/medialab/tweet-bubbles,False
+https://github.com/medialab/tweet-bubbles,True
 https://github.com/medialab/txjsonrpc,True
 https://github.com/medialab/unfccc-scrap-snippet,True
 https://github.com/medialab/ural,True
@@ -5424,7 +5425,7 @@ https://gitlab.inria.fr/mgkit/sxpipe,True
 https://gitlab.inria.fr/mgkit/syntax_hightlighting_smg,True
 https://gitlab.inria.fr/miet/miet,True
 https://gitlab.inria.fr/mimoza/mimoza,True
-https://gitlab.inria.fr/misscausal/misscausal.gitlab.io,False
+https://gitlab.inria.fr/misscausal/misscausal.gitlab.io,True
 https://gitlab.inria.fr/mnemosyne/data_prototypes,True
 https://gitlab.inria.fr/mnemosyne/neurosmart,True
 https://gitlab.inria.fr/mnemosyne/vanilla_nn,True
