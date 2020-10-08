@@ -474,7 +474,7 @@ https://github.com/1024pix/ember-cli-chartjs,True
 https://github.com/1024pix/ember-cli-matomo-tag-manager,True
 https://github.com/1024pix/ember-sentry,True
 https://github.com/1024pix/formation-jeremie,True
-https://github.com/1024pix/heroku-buildpack-git-submodule,False
+https://github.com/1024pix/heroku-buildpack-git-submodule,True
 https://github.com/1024pix/heroku-buildpack-telegraf,True
 https://github.com/1024pix/journee-recherche,True
 https://github.com/1024pix/json-api-crud-server,True
@@ -753,7 +753,7 @@ https://github.com/CEREMA/territoire-ville.Covadis,True
 https://github.com/CEREMA/territoires-ville.DiagFeux,True
 https://github.com/CEREMA/territoires-ville.Girabase,False
 https://github.com/CEREMA/territoires-ville.Giration,True
-https://github.com/CEREMA/territoires-ville.Hydrouti,False
+https://github.com/CEREMA/territoires-ville.Hydrouti,True
 https://github.com/CEREMA/territoires-ville.MiTemps,True
 https://github.com/CEREMA/territoires-ville.OndeV,True
 https://github.com/CEREMA/territoires-ville.StructUrb,False
@@ -3762,7 +3762,7 @@ https://github.com/matchID-project/sifa_eval,True
 https://github.com/matchID-project/siv,True
 https://github.com/matchID-project/snpc,True
 https://github.com/matchID-project/swagger-ui-svelte,False
-https://github.com/matchID-project/tools,False
+https://github.com/matchID-project/tools,True
 https://github.com/matchID-project/validation,True
 https://github.com/medialab/AI-ecosystem-carto-data,True
 https://github.com/medialab/ANTA,True
@@ -5064,6 +5064,7 @@ https://gitlab.inria.fr/bptraffic/star-ips,True
 https://gitlab.inria.fr/cado-nfs/cado-nfs,True
 https://gitlab.inria.fr/cado-nfs/records,True
 https://gitlab.inria.fr/capsid.crates/lib3dmol,True
+https://gitlab.inria.fr/causality/causality-monad,False
 https://gitlab.inria.fr/cedar/RDFQuotient,True
 https://gitlab.inria.fr/cedar/connectionlens,False
 https://gitlab.inria.fr/cedar/daggerWithSampling,True
@@ -5115,7 +5116,7 @@ https://gitlab.inria.fr/comprise/comprise_text_to_speech,True
 https://gitlab.inria.fr/comprise/deliverable_d21,True
 https://gitlab.inria.fr/comprise/sidp,True
 https://gitlab.inria.fr/comprise/speech-to-text-weakly-supervised-learning,True
-https://gitlab.inria.fr/comprise/spoken-language-understanding-weakly-supervised-learning,False
+https://gitlab.inria.fr/comprise/spoken-language-understanding-weakly-supervised-learning,True
 https://gitlab.inria.fr/comprise/text_transformer,False
 https://gitlab.inria.fr/comprise/voice_transformation,True
 https://gitlab.inria.fr/computer_architecture/y86-environment,True
@@ -5163,7 +5164,7 @@ https://gitlab.inria.fr/dexms/dexidl,True
 https://gitlab.inria.fr/dexms/service,True
 https://gitlab.inria.fr/dexms/website,True
 https://gitlab.inria.fr/dh-projects/aspyre-gt,True
-https://gitlab.inria.fr/dh-projects/choppy,False
+https://gitlab.inria.fr/dh-projects/choppy,True
 https://gitlab.inria.fr/dh-projects/kraken-benchmark,False
 https://gitlab.inria.fr/dh-projects/kraken-models,True
 https://gitlab.inria.fr/dhai/SimpleAnnotationServer,True
