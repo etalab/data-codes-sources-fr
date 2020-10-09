@@ -2993,7 +2993,7 @@ https://github.com/entrepreneur-interet-general/previsecours.github.io,True
 https://github.com/entrepreneur-interet-general/publib,True
 https://github.com/entrepreneur-interet-general/recrues,True
 https://github.com/entrepreneur-interet-general/ressources-design,True
-https://github.com/entrepreneur-interet-general/ressources-eig4,False
+https://github.com/entrepreneur-interet-general/ressources-eig4,True
 https://github.com/entrepreneur-interet-general/sedatif,True
 https://github.com/entrepreneur-interet-general/sidenotes,True
 https://github.com/entrepreneur-interet-general/sill,True
@@ -5014,7 +5014,7 @@ https://gitlab.inria.fr/android-tools/readme,True
 https://gitlab.inria.fr/asbizard/Procedural_modeling_of_multi-scale_galactic_dust,True
 https://gitlab.inria.fr/asclepios/biblio,True
 https://gitlab.inria.fr/aviz/paohvis,True
-https://gitlab.inria.fr/bass-db/bss_eval,False
+https://gitlab.inria.fr/bass-db/bss_eval,True
 https://gitlab.inria.fr/bass-db/bss_locate,False
 https://gitlab.inria.fr/bass-db/bss_oracle,False
 https://gitlab.inria.fr/bass-db/fasst,False
@@ -5035,7 +5035,7 @@ https://gitlab.inria.fr/batsim/evalys,True
 https://gitlab.inria.fr/batsim/expe-batsim-jsspp16,True
 https://gitlab.inria.fr/batsim/oxidisched,False
 https://gitlab.inria.fr/batsim/proto-batsim,True
-https://gitlab.inria.fr/batsim/ptask-eval,False
+https://gitlab.inria.fr/batsim/ptask-eval,True
 https://gitlab.inria.fr/batsim/pybatsim,True
 https://gitlab.inria.fr/belenios-forks/belenios-swergas,True
 https://gitlab.inria.fr/belenios/belenios,True
@@ -5227,7 +5227,7 @@ https://gitlab.inria.fr/dtk/dtk-tutorials,True
 https://gitlab.inria.fr/dtk/dtk-visual-programming,True
 https://gitlab.inria.fr/dtk/dtk-visualization,True
 https://gitlab.inria.fr/dtk/dtk-visualization-python,True
-https://gitlab.inria.fr/dtk/dtk-voice,False
+https://gitlab.inria.fr/dtk/dtk-voice,True
 https://gitlab.inria.fr/dtk/dtk-vr,True
 https://gitlab.inria.fr/dtk/dtk-widgets,True
 https://gitlab.inria.fr/dtk/dtk-widgets-python,True
@@ -5571,7 +5571,7 @@ https://gitlab.inria.fr/skeletons/necro,True
 https://gitlab.inria.fr/skeletons/necro-coq,True
 https://gitlab.inria.fr/skeletons/necro-ml,True
 https://gitlab.inria.fr/skeletons/necro-test,False
-https://gitlab.inria.fr/skeletons/necro-tex,False
+https://gitlab.inria.fr/skeletons/necro-tex,True
 https://gitlab.inria.fr/skeletons/opam-repository,False
 https://gitlab.inria.fr/skelton/pyskelton,True
 https://gitlab.inria.fr/skelton/skelton2,True
