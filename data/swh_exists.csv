@@ -63,7 +63,7 @@ https://forge.grandlyon.com/systemes-dinformation/pasi-portail-d-acces-au-si,Tru
 https://forge.univ-lyon1.fr/LETU/LETU,False
 https://forge.univ-lyon1.fr/Matiere/WebProject,False
 https://forge.univ-lyon1.fr/Montecher/WebS1,False
-https://forge.univ-lyon1.fr/aml-lyon1/actionrobot,False
+https://forge.univ-lyon1.fr/aml-lyon1/actionrobot,True
 https://forge.univ-lyon1.fr/aml-lyon1/campusdulibre,False
 https://forge.univ-lyon1.fr/bd-pedago/bd-pedago,False
 https://forge.univ-lyon1.fr/cards-against-university/cau-flask,True
@@ -78,10 +78,10 @@ https://forge.univ-lyon1.fr/diu-eil/bloc4,False
 https://forge.univ-lyon1.fr/e-planets/bibtexdb,False
 https://forge.univ-lyon1.fr/e-planets/macports,False
 https://forge.univ-lyon1.fr/e-planets/morefilters,False
-https://forge.univ-lyon1.fr/e-planets/spat,False
+https://forge.univ-lyon1.fr/e-planets/spat,True
 https://forge.univ-lyon1.fr/faq-raspi/rpi-faq,False
 https://forge.univ-lyon1.fr/forge_public/ci-images,False
-https://forge.univ-lyon1.fr/forge_public/forge,False
+https://forge.univ-lyon1.fr/forge_public/forge,True
 https://forge.univ-lyon1.fr/groupe-projet-lifap4/projet-lifap4,False
 https://forge.univ-lyon1.fr/knowdyn-ens/knowdyn-contenus-2020,False
 https://forge.univ-lyon1.fr/lifap6/ccompil,False
@@ -91,7 +91,7 @@ https://forge.univ-lyon1.fr/lifap6/scrabble-etu,False
 https://forge.univ-lyon1.fr/lifap6/suzette,False
 https://forge.univ-lyon1.fr/lifap6/tp-arbretas-etu,False
 https://forge.univ-lyon1.fr/lifap6/tp-avl-etu,False
-https://forge.univ-lyon1.fr/lifap6/tp-listes-etu,False
+https://forge.univ-lyon1.fr/lifap6/tp-listes-etu,True
 https://forge.univ-lyon1.fr/lifap6/tp-union-find-etu,False
 https://forge.univ-lyon1.fr/lifprojet/lifprojet_am3,False
 https://forge.univ-lyon1.fr/loup-garouptut/loupandroid,False
@@ -4776,6 +4776,7 @@ https://gitlab.com/healthdatahub/schema-snds,True
 https://gitlab.com/healthdatahub/synthetic-snds,True
 https://gitlab.com/healthdatahub/tsfaker,True
 https://gitlab.com/musee-saint-raymond/villa-chiragan,True
+https://gitlab.com/op18-enki/sapeurs,False
 https://gitlab.com/pidila/checklist-app,True
 https://gitlab.com/pidila/checklist-pidila,True
 https://gitlab.com/pidila/checklist-pidila-old,True
@@ -5167,7 +5168,7 @@ https://gitlab.inria.fr/dexms/service,True
 https://gitlab.inria.fr/dexms/website,True
 https://gitlab.inria.fr/dh-projects/aspyre-gt,True
 https://gitlab.inria.fr/dh-projects/choppy,True
-https://gitlab.inria.fr/dh-projects/kraken-benchmark,False
+https://gitlab.inria.fr/dh-projects/kraken-benchmark,True
 https://gitlab.inria.fr/dh-projects/kraken-models,True
 https://gitlab.inria.fr/dhai/SimpleAnnotationServer,True
 https://gitlab.inria.fr/dhai/filigrane,True
@@ -5406,7 +5407,7 @@ https://gitlab.inria.fr/mastertal/UE803,True
 https://gitlab.inria.fr/mastertal/discourse-parsing,True
 https://gitlab.inria.fr/matherials/simol,True
 https://gitlab.inria.fr/mecsi-ext/genumsi,True
-https://gitlab.inria.fr/meetings/biomolecules-project,False
+https://gitlab.inria.fr/meetings/biomolecules-project,True
 https://gitlab.inria.fr/meetings/codes,False
 https://gitlab.inria.fr/meetings/first-attempts-with-biomolecular-experiments,True
 https://gitlab.inria.fr/memcad/clangml,True
@@ -5471,7 +5472,7 @@ https://gitlab.inria.fr/nix-tutorial/packages-repository,True
 https://gitlab.inria.fr/nix-tutorial/presentation-slides,True
 https://gitlab.inria.fr/obelix/broceliande,True
 https://gitlab.inria.fr/obelix/triskele,True
-https://gitlab.inria.fr/open-mx/open-mx,False
+https://gitlab.inria.fr/open-mx/open-mx,True
 https://gitlab.inria.fr/openmp/clang,True
 https://gitlab.inria.fr/openmp/energy,True
 https://gitlab.inria.fr/openmp/enertools,True
@@ -5515,6 +5516,7 @@ https://gitlab.inria.fr/piper/viva,True
 https://gitlab.inria.fr/piy/piy,True
 https://gitlab.inria.fr/plas20/sessionintegrity,True
 https://gitlab.inria.fr/popstar/SAT-Equiv,True
+https://gitlab.inria.fr/post-doc-inria/fairvision,False
 https://gitlab.inria.fr/progressivesimsearch/sigmod2020,True
 https://gitlab.inria.fr/pvignet/cadbiom,True
 https://gitlab.inria.fr/pvignet/pycryptosat,True
@@ -5623,7 +5625,7 @@ https://gitlab.inria.fr/the-missing-path/the-missing-path.gitlab.inria.fr,True
 https://gitlab.inria.fr/these-bxi/r-util,True
 https://gitlab.inria.fr/these-bxi/s4bxi-cmake-modules,False
 https://gitlab.inria.fr/these-bxi/s4bxi-log-viewer,False
-https://gitlab.inria.fr/thoth/python-spams,False
+https://gitlab.inria.fr/thoth/python-spams,True
 https://gitlab.inria.fr/thoth/spams-devel,True
 https://gitlab.inria.fr/tnfs-alpha/alpha,True
 https://gitlab.inria.fr/tranus/QGIS_Tranus_Reports,True
