@@ -66,7 +66,7 @@ https://forge.univ-lyon1.fr/Montecher/WebS1,False
 https://forge.univ-lyon1.fr/aml-lyon1/actionrobot,False
 https://forge.univ-lyon1.fr/aml-lyon1/campusdulibre,False
 https://forge.univ-lyon1.fr/bd-pedago/bd-pedago,False
-https://forge.univ-lyon1.fr/cards-against-university/cau-flask,False
+https://forge.univ-lyon1.fr/cards-against-university/cau-flask,True
 https://forge.univ-lyon1.fr/cards-against-university/cau-html,False
 https://forge.univ-lyon1.fr/cheat-sheet-shit/css-git,False
 https://forge.univ-lyon1.fr/cheat-sheet-shit/css-git-error,False
@@ -2058,7 +2058,7 @@ https://github.com/abes-esr/theses-batch-ongoingthesestodelete,True
 https://github.com/abes-esr/theses-dataaccesslayer,True
 https://github.com/abes-esr/theses-misc,True
 https://github.com/abes-esr/theses-oracletosolr-indexing,True
-https://github.com/abes-esr/theses-xml,False
+https://github.com/abes-esr/theses-xml,True
 https://github.com/abes-esr/winibw-scripts,True
 https://github.com/abes-esr/zotero-translators,True
 https://github.com/addok/addocker,True
@@ -3750,7 +3750,7 @@ https://github.com/matchID-project/agrippa,True
 https://github.com/matchID-project/backend,True
 https://github.com/matchID-project/deces-backend,False
 https://github.com/matchID-project/deces-dataprep,True
-https://github.com/matchID-project/deces-ui,False
+https://github.com/matchID-project/deces-ui,True
 https://github.com/matchID-project/eai,True
 https://github.com/matchID-project/examples,True
 https://github.com/matchID-project/frontend,True
@@ -5015,7 +5015,7 @@ https://gitlab.inria.fr/asbizard/Procedural_modeling_of_multi-scale_galactic_dus
 https://gitlab.inria.fr/asclepios/biblio,True
 https://gitlab.inria.fr/aviz/paohvis,True
 https://gitlab.inria.fr/bass-db/bss_eval,True
-https://gitlab.inria.fr/bass-db/bss_locate,False
+https://gitlab.inria.fr/bass-db/bss_locate,True
 https://gitlab.inria.fr/bass-db/bss_oracle,False
 https://gitlab.inria.fr/bass-db/fasst,False
 https://gitlab.inria.fr/bass-db/mbss_locate,False
@@ -5047,7 +5047,7 @@ https://gitlab.inria.fr/bioimage-it/bioimagepy,False
 https://gitlab.inria.fr/bioimage-it/bioimagepy-tutorial,True
 https://gitlab.inria.fr/bioimage-it/fiji-tools,True
 https://gitlab.inria.fr/bioimage-it/htesting-tools,True
-https://gitlab.inria.fr/bioimage-it/package,False
+https://gitlab.inria.fr/bioimage-it/package,True
 https://gitlab.inria.fr/bioimage-it/sampletool,True
 https://gitlab.inria.fr/bioimage-it/toolbox-js-browser,True
 https://gitlab.inria.fr/bioimage-it/toolboxes,True
@@ -5065,6 +5065,7 @@ https://gitlab.inria.fr/bptraffic/star-ips,True
 https://gitlab.inria.fr/cado-nfs/cado-nfs,True
 https://gitlab.inria.fr/cado-nfs/records,True
 https://gitlab.inria.fr/capsid.crates/lib3dmol,True
+https://gitlab.inria.fr/causality/causal-ocaml,False
 https://gitlab.inria.fr/causality/causality-monad,False
 https://gitlab.inria.fr/cedar/RDFQuotient,True
 https://gitlab.inria.fr/cedar/connectionlens,True
@@ -5103,7 +5104,7 @@ https://gitlab.inria.fr/compcertssa/compcertssa,True
 https://gitlab.inria.fr/complexityparser/complexityparser,True
 https://gitlab.inria.fr/comprise/comprise-cloud-based-platform,True
 https://gitlab.inria.fr/comprise/comprise-personal-server,True
-https://gitlab.inria.fr/comprise/comprise_app_wizard,False
+https://gitlab.inria.fr/comprise/comprise_app_wizard,True
 https://gitlab.inria.fr/comprise/comprise_client_library,True
 https://gitlab.inria.fr/comprise/comprise_dialog_management,True
 https://gitlab.inria.fr/comprise/comprise_machine_translation,True
@@ -5236,7 +5237,7 @@ https://gitlab.inria.fr/dtk/dtk-www,True
 https://gitlab.inria.fr/eigen/eigen-mirror,True
 https://gitlab.inria.fr/enseignement/MIAGE_TP_XML_2017,True
 https://gitlab.inria.fr/epione/GP_progression_model_V2,True
-https://gitlab.inria.fr/epione/biblio,False
+https://gitlab.inria.fr/epione/biblio,True
 https://gitlab.inria.fr/epione/hdcob,False
 https://gitlab.inria.fr/epione/promfusion,True
 https://gitlab.inria.fr/epione_ML/bayesian-learning-uca,True
@@ -5252,10 +5253,10 @@ https://gitlab.inria.fr/expression-externals/easyloggingpp,True
 https://gitlab.inria.fr/expression-externals/eigen,True
 https://gitlab.inria.fr/expression-externals/kenlm,True
 https://gitlab.inria.fr/expression-externals/mitlm,True
-https://gitlab.inria.fr/faustgrp/gforge_files,False
+https://gitlab.inria.fr/faustgrp/gforge_files,True
 https://gitlab.inria.fr/fec/MIPP,True
 https://gitlab.inria.fr/fec/PyBER,True
-https://gitlab.inria.fr/fedbiomed/client-fedbiomed,False
+https://gitlab.inria.fr/fedbiomed/client-fedbiomed,True
 https://gitlab.inria.fr/fedbiomed/fed-requests,True
 https://gitlab.inria.fr/fedbiomed/fedbiomed-api,True
 https://gitlab.inria.fr/flocq/flocq,True
@@ -5358,6 +5359,7 @@ https://gitlab.inria.fr/hsplit/hsplit,True
 https://gitlab.inria.fr/hwloc/xmls,True
 https://gitlab.inria.fr/i3inria/raspi-k8s,False
 https://gitlab.inria.fr/iccv_2019/pyvideoresearch_gunnar,True
+https://gitlab.inria.fr/igloo/igloo,False
 https://gitlab.inria.fr/igrida/gvirt,True
 https://gitlab.inria.fr/igrida/gvirt-factory,True
 https://gitlab.inria.fr/igrida/kubigrida-charts,True
@@ -5371,6 +5373,7 @@ https://gitlab.inria.fr/ipanema-public/ipanema-compiler,True
 https://gitlab.inria.fr/ipanema-public/ipanema-kernel,True
 https://gitlab.inria.fr/ipanema-public/ipanema-proofs,False
 https://gitlab.inria.fr/jgranier/Rendu-Style-Novat,True
+https://gitlab.inria.fr/kadeploy/kadeploy.gitlabpages.inria.fr,False
 https://gitlab.inria.fr/kaldi.web/clapack-wasm,True
 https://gitlab.inria.fr/kaldi.web/kaldi-wasm,True
 https://gitlab.inria.fr/kameleon/kameleon-recipes,True
