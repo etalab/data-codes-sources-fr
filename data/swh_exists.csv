@@ -60,7 +60,7 @@ https://forge.grandlyon.com/pocs/introduction-au-langage-python-1,True
 https://forge.grandlyon.com/pocs/introduction-au-langage-python-2,True
 https://forge.grandlyon.com/systemes-dinformation/gat_gatling,True
 https://forge.grandlyon.com/systemes-dinformation/pasi-portail-d-acces-au-si,True
-https://forge.univ-lyon1.fr/LETU/LETU,False
+https://forge.univ-lyon1.fr/LETU/LETU,True
 https://forge.univ-lyon1.fr/Matiere/WebProject,False
 https://forge.univ-lyon1.fr/Montecher/WebS1,False
 https://forge.univ-lyon1.fr/aml-lyon1/actionrobot,True
@@ -80,12 +80,12 @@ https://forge.univ-lyon1.fr/e-planets/macports,False
 https://forge.univ-lyon1.fr/e-planets/morefilters,False
 https://forge.univ-lyon1.fr/e-planets/spat,True
 https://forge.univ-lyon1.fr/faq-raspi/rpi-faq,False
-https://forge.univ-lyon1.fr/forge_public/ci-images,False
+https://forge.univ-lyon1.fr/forge_public/ci-images,True
 https://forge.univ-lyon1.fr/forge_public/forge,True
 https://forge.univ-lyon1.fr/groupe-projet-lifap4/projet-lifap4,False
 https://forge.univ-lyon1.fr/knowdyn-ens/knowdyn-contenus-2020,False
 https://forge.univ-lyon1.fr/lifap6/ccompil,False
-https://forge.univ-lyon1.fr/lifap6/magic-maze-etu,False
+https://forge.univ-lyon1.fr/lifap6/magic-maze-etu,True
 https://forge.univ-lyon1.fr/lifap6/rush-hour-etu,False
 https://forge.univ-lyon1.fr/lifap6/scrabble-etu,False
 https://forge.univ-lyon1.fr/lifap6/suzette,False
@@ -129,7 +129,7 @@ https://forgemia.inra.fr/bibliome/pesv-tm,True
 https://forgemia.inra.fr/bioger/django-custom-user,True
 https://forgemia.inra.fr/bios4biol/bioinfo-utils,True
 https://forgemia.inra.fr/bios4biol/workflows,True
-https://forgemia.inra.fr/cati-boom-public/site-officiel,False
+https://forgemia.inra.fr/cati-boom-public/site-officiel,True
 https://forgemia.inra.fr/chemhousebas/parafac,True
 https://forgemia.inra.fr/chemhousebas/vsn,True
 https://forgemia.inra.fr/cirad--monde-apres/reunion_initiatives_urgences,True
@@ -676,7 +676,7 @@ https://github.com/BibCnrs/BibEzProxy,True
 https://github.com/BibCnrs/BibRP,True
 https://github.com/BibCnrs/EBSCO-widget,True
 https://github.com/BibCnrs/UrlTransformerFirefox,True
-https://github.com/BibCnrs/UrlTransformerScript,False
+https://github.com/BibCnrs/UrlTransformerScript,True
 https://github.com/BibCnrs/appstack-wpcli,True
 https://github.com/BibCnrs/bibcnrs-widget,True
 https://github.com/BibCnrs/docker-compass,True
@@ -2312,7 +2312,7 @@ https://github.com/betagouv/e-controle-load-test,True
 https://github.com/betagouv/eac,True
 https://github.com/betagouv/eac-api,True
 https://github.com/betagouv/eac-scrapper,True
-https://github.com/betagouv/ecolab-agribalyse,False
+https://github.com/betagouv/ecolab-agribalyse,True
 https://github.com/betagouv/ecolab-agribalyse-recherche,False
 https://github.com/betagouv/ecolab-alimentation,False
 https://github.com/betagouv/ecolab-batiment,True
@@ -5067,7 +5067,7 @@ https://gitlab.inria.fr/cado-nfs/cado-nfs,True
 https://gitlab.inria.fr/cado-nfs/records,True
 https://gitlab.inria.fr/capsid.crates/lib3dmol,True
 https://gitlab.inria.fr/causality/causal-ocaml,False
-https://gitlab.inria.fr/causality/causality-monad,False
+https://gitlab.inria.fr/causality/causality-monad,True
 https://gitlab.inria.fr/cedar/RDFQuotient,True
 https://gitlab.inria.fr/cedar/connectionlens,True
 https://gitlab.inria.fr/cedar/daggerWithSampling,True
@@ -5224,7 +5224,7 @@ https://gitlab.inria.fr/dtk/dtk-plugins-math,True
 https://gitlab.inria.fr/dtk/dtk-script,True
 https://gitlab.inria.fr/dtk/dtk-symbolic,True
 https://gitlab.inria.fr/dtk/dtk-themes,True
-https://gitlab.inria.fr/dtk/dtk-themes-python,False
+https://gitlab.inria.fr/dtk/dtk-themes-python,True
 https://gitlab.inria.fr/dtk/dtk-tutorials,True
 https://gitlab.inria.fr/dtk/dtk-visual-programming,True
 https://gitlab.inria.fr/dtk/dtk-visualization,True
@@ -5577,7 +5577,7 @@ https://gitlab.inria.fr/skeletons/necro-coq,True
 https://gitlab.inria.fr/skeletons/necro-ml,True
 https://gitlab.inria.fr/skeletons/necro-test,False
 https://gitlab.inria.fr/skeletons/necro-tex,True
-https://gitlab.inria.fr/skeletons/opam-repository,False
+https://gitlab.inria.fr/skeletons/opam-repository,True
 https://gitlab.inria.fr/skelton/pyskelton,True
 https://gitlab.inria.fr/skelton/skelton2,True
 https://gitlab.inria.fr/solverstack/ScalFMM,True
