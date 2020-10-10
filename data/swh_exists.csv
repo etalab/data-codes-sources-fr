@@ -4737,7 +4737,7 @@ https://gitlab.com/DREES_code/formulaire_zonage_ars,True
 https://gitlab.com/api-meubles/backend,True
 https://gitlab.com/api-meubles/doc-api,True
 https://gitlab.com/api-meubles/frontend,True
-https://gitlab.com/api-meubles/website,False
+https://gitlab.com/api-meubles/website,True
 https://gitlab.com/cortext/ANSES,True
 https://gitlab.com/cortext/cib-database,True
 https://gitlab.com/cortext/cortext-pub,True
@@ -5080,7 +5080,7 @@ https://gitlab.inria.fr/cedar/spadedemo_vldb2019,True
 https://gitlab.inria.fr/cedar/statstical_mentions,True
 https://gitlab.inria.fr/cerisara/olkisite,True
 https://gitlab.inria.fr/cfrioux/MeneTools,True
-https://gitlab.inria.fr/chroma/drone-simulator,False
+https://gitlab.inria.fr/chroma/drone-simulator,True
 https://gitlab.inria.fr/chroma/intelaero-cao,True
 https://gitlab.inria.fr/cidre-public/malcon19,True
 https://gitlab.inria.fr/cidre-public/obfuscated-android-unit-examples,True
@@ -5344,7 +5344,7 @@ https://gitlab.inria.fr/grid5000/python-grid5000,True
 https://gitlab.inria.fr/grid5000/reference-repository,True
 https://gitlab.inria.fr/grid5000/tutorials,True
 https://gitlab.inria.fr/grid5000/xp5k-openstack,True
-https://gitlab.inria.fr/gt-lgbti/prenom-usage,False
+https://gitlab.inria.fr/gt-lgbti/prenom-usage,True
 https://gitlab.inria.fr/gt-sw-citation/artifact-archival-swh,True
 https://gitlab.inria.fr/gt-sw-citation/bibtex-sw-entry,True
 https://gitlab.inria.fr/gtpi/inria_skin,True
@@ -5656,7 +5656,7 @@ https://gitlab.inria.fr/vidjil/sdsl-lite,True
 https://gitlab.inria.fr/vidjil/should,True
 https://gitlab.inria.fr/vidjil/tl-index,True
 https://gitlab.inria.fr/vidjil/vidjil,True
-https://gitlab.inria.fr/vtaverni/libshadertoy,False
+https://gitlab.inria.fr/vtaverni/libshadertoy,True
 https://gitlab.inria.fr/vtaverni/shadertoy-connector,True
 https://gitlab.inria.fr/whisper-public/atc20,True
 https://gitlab.inria.fr/why3/verifythis2020,True
