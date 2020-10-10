@@ -96,7 +96,7 @@ https://forge.univ-lyon1.fr/lifap6/tp-union-find-etu,False
 https://forge.univ-lyon1.fr/lifprojet/lifprojet_am3,False
 https://forge.univ-lyon1.fr/loup-garouptut/loupandroid,False
 https://forge.univ-lyon1.fr/m1if27/box-intersection-etu,False
-https://forge.univ-lyon1.fr/m1if27/courbes-etu,False
+https://forge.univ-lyon1.fr/m1if27/courbes-etu,True
 https://forge.univ-lyon1.fr/my-awesome-group/billetterie,False
 https://forge.univ-lyon1.fr/my-awesome-group/database,False
 https://forge.univ-lyon1.fr/my-awesome-group/planning-matchs,False
@@ -751,7 +751,7 @@ https://github.com/CEREMA/dterso.pluginQgis3.CeremaCartEau3,True
 https://github.com/CEREMA/rivages-android,True
 https://github.com/CEREMA/territoire-ville.Covadis,True
 https://github.com/CEREMA/territoires-ville.DiagFeux,True
-https://github.com/CEREMA/territoires-ville.Girabase,False
+https://github.com/CEREMA/territoires-ville.Girabase,True
 https://github.com/CEREMA/territoires-ville.Giration,True
 https://github.com/CEREMA/territoires-ville.Hydrouti,True
 https://github.com/CEREMA/territoires-ville.MiTemps,True
@@ -1458,7 +1458,7 @@ https://github.com/LETG/redmine-pops,True
 https://github.com/LETG/redmine-pops-engine,True
 https://github.com/LETG/redmine_improved_searchbox,True
 https://github.com/LETG/ruby-ogc,True
-https://github.com/LINCnil/Ads.txt-et-Sellers.json,False
+https://github.com/LINCnil/Ads.txt-et-Sellers.json,True
 https://github.com/LINCnil/CNIL-Cookies-List,True
 https://github.com/LINCnil/Cabanon,True
 https://github.com/LINCnil/Cookie-consent_Google-Analytics,True
@@ -2513,7 +2513,7 @@ https://github.com/betagouv/template.beta.gouv.fr,True
 https://github.com/betagouv/trait-d-union,True
 https://github.com/betagouv/traitdunion-landing-pages,True
 https://github.com/betagouv/traitdunion-metabase,True
-https://github.com/betagouv/urbanvitaliz,False
+https://github.com/betagouv/urbanvitaliz,True
 https://github.com/betagouv/verif.site,True
 https://github.com/betagouv/visam,True
 https://github.com/betagouv/voir-et-localiser-samu-sign-on,True
@@ -4776,7 +4776,7 @@ https://gitlab.com/healthdatahub/schema-snds,True
 https://gitlab.com/healthdatahub/synthetic-snds,True
 https://gitlab.com/healthdatahub/tsfaker,True
 https://gitlab.com/musee-saint-raymond/villa-chiragan,True
-https://gitlab.com/op18-enki/sapeurs,False
+https://gitlab.com/op18-enki/sapeurs,True
 https://gitlab.com/pidila/checklist-app,True
 https://gitlab.com/pidila/checklist-pidila,True
 https://gitlab.com/pidila/checklist-pidila-old,True
@@ -4801,7 +4801,7 @@ https://gitlab.huma-num.fr/consortium3d/aLTAG3D,True
 https://gitlab.huma-num.fr/cosme/telma_chartes_exports,True
 https://gitlab.huma-num.fr/cosme/telma_chartes_imports,True
 https://gitlab.huma-num.fr/disco-lge/processinglge,False
-https://gitlab.huma-num.fr/disco-lge/soprano,False
+https://gitlab.huma-num.fr/disco-lge/soprano,True
 https://gitlab.huma-num.fr/eurhisfirm/annuaires-favre,True
 https://gitlab.huma-num.fr/eurhisfirm/biryani,True
 https://gitlab.huma-num.fr/eurhisfirm/dfih-open-data,True
@@ -5243,7 +5243,7 @@ https://gitlab.inria.fr/epione/hdcob,False
 https://gitlab.inria.fr/epione/promfusion,True
 https://gitlab.inria.fr/epione_ML/bayesian-learning-uca,True
 https://gitlab.inria.fr/epione_ML/mcvae,True
-https://gitlab.inria.fr/erable/totoro,False
+https://gitlab.inria.fr/erable/totoro,True
 https://gitlab.inria.fr/etac/notice-etac,False
 https://gitlab.inria.fr/evalanon/enoslib,True
 https://gitlab.inria.fr/evalanon/python-distem,True
@@ -5372,7 +5372,7 @@ https://gitlab.inria.fr/inria-ci/ctproxy,True
 https://gitlab.inria.fr/inria-ci/doc,True
 https://gitlab.inria.fr/ipanema-public/ipanema-compiler,True
 https://gitlab.inria.fr/ipanema-public/ipanema-kernel,True
-https://gitlab.inria.fr/ipanema-public/ipanema-proofs,False
+https://gitlab.inria.fr/ipanema-public/ipanema-proofs,True
 https://gitlab.inria.fr/jgranier/Rendu-Style-Novat,True
 https://gitlab.inria.fr/kadeploy/kadeploy.gitlabpages.inria.fr,False
 https://gitlab.inria.fr/kaldi.web/clapack-wasm,True
@@ -5454,8 +5454,8 @@ https://gitlab.inria.fr/mosaic/timagetk,True
 https://gitlab.inria.fr/mosaic/tissue_analysis,True
 https://gitlab.inria.fr/mosaic/tissue_nukem_3d,True
 https://gitlab.inria.fr/mosaic/tissue_paredes,True
-https://gitlab.inria.fr/mpc/mpc,False
-https://gitlab.inria.fr/mpfq/mpfq,False
+https://gitlab.inria.fr/mpc/mpc,True
+https://gitlab.inria.fr/mpfq/mpfq,True
 https://gitlab.inria.fr/multicellular_modelling/libsbml,True
 https://gitlab.inria.fr/myriads-team/python-distem,True
 https://gitlab.inria.fr/necs-open/RainbowVis-JS,True
@@ -5501,7 +5501,7 @@ https://gitlab.inria.fr/ordo-bdx/nrrp-with-starpu,True
 https://gitlab.inria.fr/orpailleur/sofia-docker,True
 https://gitlab.inria.fr/panama-team/blaster,True
 https://gitlab.inria.fr/panama/blaster,True
-https://gitlab.inria.fr/paradiseo/paradiseo,False
+https://gitlab.inria.fr/paradiseo/paradiseo,True
 https://gitlab.inria.fr/paradiseo/pyparadiseo,True
 https://gitlab.inria.fr/parallel-replica/gen.parRep,True
 https://gitlab.inria.fr/parallel-replica/qsd.gen.samples,True
@@ -5758,7 +5758,7 @@ https://gitlab.math.unistra.fr/proba-mc2020/proba-mc2020,True
 https://gitlab.math.unistra.fr/urfist/cours-python,True
 https://gitlab.math.unistra.fr/voiceover/voiceover-terminal,True
 https://gitlab.orfeo-toolbox.org/maja/maja,False
-https://gitlab.orfeo-toolbox.org/maja/maja-build-env,False
+https://gitlab.orfeo-toolbox.org/maja/maja-build-env,True
 https://gitlab.orfeo-toolbox.org/orfeotoolbox/otb,True
 https://gitlab.orfeo-toolbox.org/orfeotoolbox/otb-build-env,True
 https://gitlab.orfeo-toolbox.org/orfeotoolbox/otb-data,True
