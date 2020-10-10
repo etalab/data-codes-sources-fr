@@ -94,7 +94,7 @@ https://forge.univ-lyon1.fr/lifap6/tp-avl-etu,False
 https://forge.univ-lyon1.fr/lifap6/tp-listes-etu,True
 https://forge.univ-lyon1.fr/lifap6/tp-union-find-etu,False
 https://forge.univ-lyon1.fr/lifprojet/lifprojet_am3,False
-https://forge.univ-lyon1.fr/loup-garouptut/loupandroid,False
+https://forge.univ-lyon1.fr/loup-garouptut/loupandroid,True
 https://forge.univ-lyon1.fr/m1if27/box-intersection-etu,False
 https://forge.univ-lyon1.fr/m1if27/courbes-etu,True
 https://forge.univ-lyon1.fr/my-awesome-group/billetterie,False
@@ -2955,7 +2955,7 @@ https://github.com/entrepreneur-interet-general/controle-en-cours,True
 https://github.com/entrepreneur-interet-general/csv2html,True
 https://github.com/entrepreneur-interet-general/dataESR,True
 https://github.com/entrepreneur-interet-general/datamap,True
-https://github.com/entrepreneur-interet-general/datamed,False
+https://github.com/entrepreneur-interet-general/datamed,True
 https://github.com/entrepreneur-interet-general/dedupe,True
 https://github.com/entrepreneur-interet-general/demo_metabase_postgres,True
 https://github.com/entrepreneur-interet-general/design-system,True
@@ -5498,6 +5498,7 @@ https://gitlab.inria.fr/optimdbs/optimdbs-medinria,True
 https://gitlab.inria.fr/optimdbs/optimdbs-superproject,True
 https://gitlab.inria.fr/ordo-bdx/io-peak,True
 https://gitlab.inria.fr/ordo-bdx/nrrp-with-starpu,True
+https://gitlab.inria.fr/orpailleur/limeout,False
 https://gitlab.inria.fr/orpailleur/sofia-docker,True
 https://gitlab.inria.fr/panama-team/blaster,True
 https://gitlab.inria.fr/panama/blaster,True
