@@ -68,7 +68,7 @@ https://forge.univ-lyon1.fr/aml-lyon1/campusdulibre,False
 https://forge.univ-lyon1.fr/bd-pedago/bd-pedago,False
 https://forge.univ-lyon1.fr/cards-against-university/cau-flask,True
 https://forge.univ-lyon1.fr/cards-against-university/cau-html,False
-https://forge.univ-lyon1.fr/cheat-sheet-shit/css-git,False
+https://forge.univ-lyon1.fr/cheat-sheet-shit/css-git,True
 https://forge.univ-lyon1.fr/cheat-sheet-shit/css-git-error,False
 https://forge.univ-lyon1.fr/cheat-sheet-shit/css-hello-world,True
 https://forge.univ-lyon1.fr/cheat-sheet-shit/css-markdown,False
@@ -1583,7 +1583,7 @@ https://github.com/MTES-MCT/toolbox,True
 https://github.com/MTES-MCT/trackdechets,True
 https://github.com/MTES-MCT/trackdechets-bulk-account-creation,True
 https://github.com/MTES-MCT/trackdechets-datascience,True
-https://github.com/MTES-MCT/trackdechets-metabase,False
+https://github.com/MTES-MCT/trackdechets-metabase,True
 https://github.com/MTES-MCT/trackdechets-oauth2-demo-app,True
 https://github.com/MTES-MCT/trackdechets-website,True
 https://github.com/MTES-MCT/transport-routier,True
@@ -2314,7 +2314,7 @@ https://github.com/betagouv/eac-api,True
 https://github.com/betagouv/eac-scrapper,True
 https://github.com/betagouv/ecolab-agribalyse,True
 https://github.com/betagouv/ecolab-agribalyse-recherche,True
-https://github.com/betagouv/ecolab-alimentation,False
+https://github.com/betagouv/ecolab-alimentation,True
 https://github.com/betagouv/ecolab-batiment,True
 https://github.com/betagouv/ecolab-climat,True
 https://github.com/betagouv/ecolab-data,True
@@ -3012,7 +3012,7 @@ https://github.com/entrepreneur-interet-general/verslecolepourtous,True
 https://github.com/entrepreneur-interet-general/vue-python-starter-kit,True
 https://github.com/entrepreneur-interet-general/word_convertor,True
 https://github.com/eole/addon-context-linux,True
-https://github.com/eole/clients-linux-scribe,False
+https://github.com/eole/clients-linux-scribe,True
 https://github.com/eole/dhcpd-formula,True
 https://github.com/eole/docs,True
 https://github.com/eole/documentation,True
@@ -5358,7 +5358,7 @@ https://gitlab.inria.fr/gv-open/pygeobuf,True
 https://gitlab.inria.fr/hiepacs/rotor,True
 https://gitlab.inria.fr/hsplit/hsplit,True
 https://gitlab.inria.fr/hwloc/xmls,True
-https://gitlab.inria.fr/i3inria/raspi-k8s,False
+https://gitlab.inria.fr/i3inria/raspi-k8s,True
 https://gitlab.inria.fr/iccv_2019/pyvideoresearch_gunnar,True
 https://gitlab.inria.fr/igloo/igloo,False
 https://gitlab.inria.fr/igrida/gvirt,True
@@ -5440,7 +5440,7 @@ https://gitlab.inria.fr/moex/lazylav,False
 https://gitlab.inria.fr/moex/linkex,True
 https://gitlab.inria.fr/moex/linkky,True
 https://gitlab.inria.fr/moex/ontosim,False
-https://gitlab.inria.fr/moex/psparql,False
+https://gitlab.inria.fr/moex/psparql,True
 https://gitlab.inria.fr/moex/scarlet,False
 https://gitlab.inria.fr/moex/swip,False
 https://gitlab.inria.fr/moex/transmorpher,False
@@ -5747,6 +5747,7 @@ https://gitlab.irstea.fr/support/wiki,True
 https://gitlab.irstea.fr/umr-tetis/biotex_python,True
 https://gitlab.irstea.fr/vino/Vino,True
 https://gitlab.irstea.fr/watasitdev/j2k-coupling,True
+https://gitlab.irstea.fr/watasitdev/watasitrcoupler,False
 https://gitlab.math.unistra.fr/atelier-ci/synthese,True
 https://gitlab.math.unistra.fr/atlas/cluster-doc,True
 https://gitlab.math.unistra.fr/atlas/please-install,True
