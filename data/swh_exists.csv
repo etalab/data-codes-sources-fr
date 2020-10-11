@@ -84,7 +84,7 @@ https://forge.univ-lyon1.fr/forge_public/ci-images,True
 https://forge.univ-lyon1.fr/forge_public/forge,True
 https://forge.univ-lyon1.fr/groupe-projet-lifap4/projet-lifap4,False
 https://forge.univ-lyon1.fr/knowdyn-ens/knowdyn-contenus-2020,False
-https://forge.univ-lyon1.fr/lifap6/ccompil,False
+https://forge.univ-lyon1.fr/lifap6/ccompil,True
 https://forge.univ-lyon1.fr/lifap6/magic-maze-etu,True
 https://forge.univ-lyon1.fr/lifap6/rush-hour-etu,False
 https://forge.univ-lyon1.fr/lifap6/scrabble-etu,False
@@ -4947,7 +4947,7 @@ https://gitlab.inria.fr/OAR/oardocker,True
 https://gitlab.inria.fr/OCSR/OCSR,True
 https://gitlab.inria.fr/OCSR/UMANS,True
 https://gitlab.inria.fr/OCSR/chaos,True
-https://gitlab.inria.fr/OCSR/crowdscan,False
+https://gitlab.inria.fr/OCSR/crowdscan,True
 https://gitlab.inria.fr/PSI/psi3,True
 https://gitlab.inria.fr/PSI/psi4,True
 https://gitlab.inria.fr/PaMPA/PaMPA,True
