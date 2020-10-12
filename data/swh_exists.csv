@@ -107,7 +107,7 @@ https://forge.univ-lyon1.fr/shield/Corp,False
 https://forge.univ-lyon1.fr/sia/mr-red,False
 https://forge.univ-lyon1.fr/suta_idir/tp_lifap6,True
 https://forge.univ-lyon1.fr/tiw-is/tiw-is-2020-sources,False
-https://forge.univ-lyon1.fr/tiw-is/tiw1-is-2019,False
+https://forge.univ-lyon1.fr/tiw-is/tiw1-is-2019,True
 https://forge.univ-lyon1.fr/tiw-is/tiw1-is-2020,False
 https://forgemia.inra.fr/4p/maquettes-4p,True
 https://forgemia.inra.fr/4p/pheno-extraction,True
@@ -480,7 +480,7 @@ https://github.com/1024pix/journee-recherche,True
 https://github.com/1024pix/json-api-crud-server,True
 https://github.com/1024pix/mail-broker,True
 https://github.com/1024pix/matomo,True
-https://github.com/1024pix/matomo-buildpack,False
+https://github.com/1024pix/matomo-buildpack,True
 https://github.com/1024pix/matomo-scalingo-deploy,False
 https://github.com/1024pix/matomo-scalingo-docker,False
 https://github.com/1024pix/metabase-deploy,True
@@ -2285,6 +2285,7 @@ https://github.com/betagouv/compta,True
 https://github.com/betagouv/cout-embauche,True
 https://github.com/betagouv/covid19-algorithme-orientation-api,True
 https://github.com/betagouv/covid19-algorithme-orientation-elixir,True
+https://github.com/betagouv/covoiturage-attestation,False
 https://github.com/betagouv/dashboard_apientreprise,True
 https://github.com/betagouv/datapass,True
 https://github.com/betagouv/datapass-api-particulier-bridge,True
@@ -2322,6 +2323,7 @@ https://github.com/betagouv/ecolab-data,True
 https://github.com/betagouv/ecolab-recherche-agribalyse,True
 https://github.com/betagouv/ecolab-transport,True
 https://github.com/betagouv/ecosante,True
+https://github.com/betagouv/elasticsearch-gravitee-ingest-processor,False
 https://github.com/betagouv/etudiant-entrepreneur,True
 https://github.com/betagouv/eva,True
 https://github.com/betagouv/eva-orchestrateur,True
@@ -3887,6 +3889,7 @@ https://github.com/medialab/peristyle,True
 https://github.com/medialab/personal-air-timeline,True
 https://github.com/medialab/polarisation-espace-public,True
 https://github.com/medialab/poltergeist,True
+https://github.com/medialab/portic-explorations,False
 https://github.com/medialab/privacy,True
 https://github.com/medialab/pubpub,True
 https://github.com/medialab/python-boilerpipe,True
@@ -5020,7 +5023,7 @@ https://gitlab.inria.fr/bass-db/bss_eval,True
 https://gitlab.inria.fr/bass-db/bss_locate,True
 https://gitlab.inria.fr/bass-db/bss_oracle,False
 https://gitlab.inria.fr/bass-db/fasst,False
-https://gitlab.inria.fr/bass-db/mbss_locate,False
+https://gitlab.inria.fr/bass-db/mbss_locate,True
 https://gitlab.inria.fr/bass-db/peass,False
 https://gitlab.inria.fr/batsim/article-cluster17,True
 https://gitlab.inria.fr/batsim/batbroker,True
@@ -5399,7 +5402,7 @@ https://gitlab.inria.fr/lifeware/biocham,True
 https://gitlab.inria.fr/line/wp-plugin-cai,True
 https://gitlab.inria.fr/line/wp_theme_cai,True
 https://gitlab.inria.fr/local-implicit-schemes/supplementary-material-numerische-mathematik,True
-https://gitlab.inria.fr/local-schemes/supplementary-sources,False
+https://gitlab.inria.fr/local-schemes/supplementary-sources,True
 https://gitlab.inria.fr/magnet/anonymization_metrics,True
 https://gitlab.inria.fr/magnet/gdn-lib,True
 https://gitlab.inria.fr/magnet/mangoes,True
