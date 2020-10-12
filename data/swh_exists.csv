@@ -105,7 +105,7 @@ https://forge.univ-lyon1.fr/nuit-de-l-info-2019/projetnuitinfo,False
 https://forge.univ-lyon1.fr/projet_web_legeay/truc-de-vente-la,False
 https://forge.univ-lyon1.fr/shield/Corp,False
 https://forge.univ-lyon1.fr/sia/mr-red,False
-https://forge.univ-lyon1.fr/suta_idir/tp_lifap6,False
+https://forge.univ-lyon1.fr/suta_idir/tp_lifap6,True
 https://forge.univ-lyon1.fr/tiw-is/tiw-is-2020-sources,False
 https://forge.univ-lyon1.fr/tiw-is/tiw1-is-2019,False
 https://forge.univ-lyon1.fr/tiw-is/tiw1-is-2020,False
@@ -5066,7 +5066,7 @@ https://gitlab.inria.fr/bptraffic/star-ips,True
 https://gitlab.inria.fr/cado-nfs/cado-nfs,True
 https://gitlab.inria.fr/cado-nfs/records,True
 https://gitlab.inria.fr/capsid.crates/lib3dmol,True
-https://gitlab.inria.fr/causality/causal-ocaml,False
+https://gitlab.inria.fr/causality/causal-ocaml,True
 https://gitlab.inria.fr/causality/causality-monad,True
 https://gitlab.inria.fr/cedar/RDFQuotient,True
 https://gitlab.inria.fr/cedar/connectionlens,True
@@ -5408,7 +5408,7 @@ https://gitlab.inria.fr/mastertal/discourse-parsing,True
 https://gitlab.inria.fr/matherials/simol,True
 https://gitlab.inria.fr/mecsi-ext/genumsi,True
 https://gitlab.inria.fr/meetings/biomolecules-project,True
-https://gitlab.inria.fr/meetings/codes,False
+https://gitlab.inria.fr/meetings/codes,True
 https://gitlab.inria.fr/meetings/first-attempts-with-biomolecular-experiments,True
 https://gitlab.inria.fr/memcad/clangml,True
 https://gitlab.inria.fr/memcad/clangml-transforms,True
@@ -5436,7 +5436,7 @@ https://gitlab.inria.fr/mnemosyne/vanilla_nn,True
 https://gitlab.inria.fr/moex/alignapi,False
 https://gitlab.inria.fr/moex/class,True
 https://gitlab.inria.fr/moex/elster,False
-https://gitlab.inria.fr/moex/lazylav,False
+https://gitlab.inria.fr/moex/lazylav,True
 https://gitlab.inria.fr/moex/linkex,True
 https://gitlab.inria.fr/moex/linkky,True
 https://gitlab.inria.fr/moex/ontosim,False
