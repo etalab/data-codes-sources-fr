@@ -73,7 +73,7 @@ https://forge.univ-lyon1.fr/cheat-sheet-shit/css-git-error,False
 https://forge.univ-lyon1.fr/cheat-sheet-shit/css-hello-world,True
 https://forge.univ-lyon1.fr/cheat-sheet-shit/css-markdown,False
 https://forge.univ-lyon1.fr/cheat-sheet-shit/css-template,False
-https://forge.univ-lyon1.fr/cheat-sheet-shit/super-projet,False
+https://forge.univ-lyon1.fr/cheat-sheet-shit/super-projet,True
 https://forge.univ-lyon1.fr/diu-eil/bloc4,False
 https://forge.univ-lyon1.fr/e-planets/bibtexdb,False
 https://forge.univ-lyon1.fr/e-planets/macports,True
@@ -1624,7 +1624,7 @@ https://github.com/OpenCTI-Platform/opencti-maltego,False
 https://github.com/OpenEdition/NormAFE,True
 https://github.com/OpenEdition/OTX,True
 https://github.com/OpenEdition/bilbo,True
-https://github.com/OpenEdition/bilbo2,False
+https://github.com/OpenEdition/bilbo2,True
 https://github.com/OpenEdition/checklist,True
 https://github.com/OpenEdition/checklist-lodel,True
 https://github.com/OpenEdition/echo,True
@@ -2203,6 +2203,7 @@ https://github.com/atlanmod/thingml-maven-repo,True
 https://github.com/atlanmod/ttc-2013-flowgraphs-ATL,True
 https://github.com/atlanmod/ttc2018liveContest,True
 https://github.com/atlanmod/unveil-emf,False
+https://github.com/atlanmod/unveiling-emf,False
 https://github.com/atlanmod/updates,True
 https://github.com/atlanmod/zoo,True
 https://github.com/banquedefrance/go-ethereum,True
@@ -5239,7 +5240,7 @@ https://gitlab.inria.fr/eigen/eigen-mirror,True
 https://gitlab.inria.fr/enseignement/MIAGE_TP_XML_2017,True
 https://gitlab.inria.fr/epione/GP_progression_model_V2,True
 https://gitlab.inria.fr/epione/biblio,True
-https://gitlab.inria.fr/epione/hdcob,False
+https://gitlab.inria.fr/epione/hdcob,True
 https://gitlab.inria.fr/epione/promfusion,True
 https://gitlab.inria.fr/epione_ML/bayesian-learning-uca,True
 https://gitlab.inria.fr/epione_ML/mcvae,True
@@ -5525,7 +5526,7 @@ https://gitlab.inria.fr/piper/viva,True
 https://gitlab.inria.fr/piy/piy,True
 https://gitlab.inria.fr/plas20/sessionintegrity,True
 https://gitlab.inria.fr/popstar/SAT-Equiv,True
-https://gitlab.inria.fr/post-doc-inria/fairvision,False
+https://gitlab.inria.fr/post-doc-inria/fairvision,True
 https://gitlab.inria.fr/progressivesimsearch/sigmod2020,True
 https://gitlab.inria.fr/pvignet/cadbiom,True
 https://gitlab.inria.fr/pvignet/pycryptosat,True
@@ -5633,7 +5634,7 @@ https://gitlab.inria.fr/synchrone/heptagon,True
 https://gitlab.inria.fr/the-missing-path/the-missing-path.gitlab.inria.fr,True
 https://gitlab.inria.fr/these-bxi/r-util,True
 https://gitlab.inria.fr/these-bxi/s4bxi-cmake-modules,False
-https://gitlab.inria.fr/these-bxi/s4bxi-log-viewer,False
+https://gitlab.inria.fr/these-bxi/s4bxi-log-viewer,True
 https://gitlab.inria.fr/thoth/python-spams,True
 https://gitlab.inria.fr/thoth/spams-devel,True
 https://gitlab.inria.fr/tnfs-alpha/alpha,True
