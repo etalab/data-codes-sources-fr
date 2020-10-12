@@ -97,14 +97,14 @@ https://forge.univ-lyon1.fr/lifprojet/lifprojet_am3,True
 https://forge.univ-lyon1.fr/loup-garouptut/loupandroid,True
 https://forge.univ-lyon1.fr/m1if27/box-intersection-etu,False
 https://forge.univ-lyon1.fr/m1if27/courbes-etu,True
-https://forge.univ-lyon1.fr/my-awesome-group/billetterie,False
+https://forge.univ-lyon1.fr/my-awesome-group/billetterie,True
 https://forge.univ-lyon1.fr/my-awesome-group/database,False
 https://forge.univ-lyon1.fr/my-awesome-group/planning-matchs,False
 https://forge.univ-lyon1.fr/my-awesome-group/uml,False
 https://forge.univ-lyon1.fr/nuit-de-l-info-2019/projetnuitinfo,False
 https://forge.univ-lyon1.fr/projet_web_legeay/truc-de-vente-la,False
 https://forge.univ-lyon1.fr/shield/Corp,False
-https://forge.univ-lyon1.fr/sia/mr-red,False
+https://forge.univ-lyon1.fr/sia/mr-red,True
 https://forge.univ-lyon1.fr/suta_idir/tp_lifap6,True
 https://forge.univ-lyon1.fr/tiw-is/tiw-is-2020-sources,False
 https://forge.univ-lyon1.fr/tiw-is/tiw1-is-2019,True
@@ -563,6 +563,7 @@ https://github.com/ANSSI-FR/cornetto,True
 https://github.com/ANSSI-FR/ctf,True
 https://github.com/ANSSI-FR/libapn,True
 https://github.com/ANSSI-FR/libecc,True
+https://github.com/ANSSI-FR/lidi,False
 https://github.com/ANSSI-FR/mabo,True
 https://github.com/ANSSI-FR/mdbook-checklist,True
 https://github.com/ANSSI-FR/nogaxeh,True
@@ -5437,7 +5438,7 @@ https://gitlab.inria.fr/misscausal/misscausal.gitlab.io,True
 https://gitlab.inria.fr/mnemosyne/data_prototypes,True
 https://gitlab.inria.fr/mnemosyne/neurosmart,True
 https://gitlab.inria.fr/mnemosyne/vanilla_nn,True
-https://gitlab.inria.fr/moex/alignapi,False
+https://gitlab.inria.fr/moex/alignapi,True
 https://gitlab.inria.fr/moex/class,True
 https://gitlab.inria.fr/moex/elster,False
 https://gitlab.inria.fr/moex/lazylav,True
@@ -5447,7 +5448,7 @@ https://gitlab.inria.fr/moex/ontosim,False
 https://gitlab.inria.fr/moex/psparql,True
 https://gitlab.inria.fr/moex/scarlet,False
 https://gitlab.inria.fr/moex/swip,False
-https://gitlab.inria.fr/moex/transmorpher,False
+https://gitlab.inria.fr/moex/transmorpher,True
 https://gitlab.inria.fr/monitoring/bism,True
 https://gitlab.inria.fr/monitoring/bism-experiments,True
 https://gitlab.inria.fr/monitoring/opportunistic-rv-conf,True
