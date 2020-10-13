@@ -100,7 +100,7 @@ https://forge.univ-lyon1.fr/m1if27/courbes-etu,True
 https://forge.univ-lyon1.fr/my-awesome-group/billetterie,True
 https://forge.univ-lyon1.fr/my-awesome-group/database,False
 https://forge.univ-lyon1.fr/my-awesome-group/planning-matchs,False
-https://forge.univ-lyon1.fr/my-awesome-group/uml,False
+https://forge.univ-lyon1.fr/my-awesome-group/uml,True
 https://forge.univ-lyon1.fr/nuit-de-l-info-2019/projetnuitinfo,False
 https://forge.univ-lyon1.fr/projet_web_legeay/truc-de-vente-la,False
 https://forge.univ-lyon1.fr/shield/Corp,False
@@ -482,7 +482,7 @@ https://github.com/1024pix/json-api-crud-server,True
 https://github.com/1024pix/mail-broker,True
 https://github.com/1024pix/matomo,True
 https://github.com/1024pix/matomo-buildpack,True
-https://github.com/1024pix/matomo-scalingo-deploy,False
+https://github.com/1024pix/matomo-scalingo-deploy,True
 https://github.com/1024pix/matomo-scalingo-docker,False
 https://github.com/1024pix/metabase-deploy,True
 https://github.com/1024pix/metrics-grafana,True
@@ -2038,6 +2038,7 @@ https://github.com/X-DataInitiative/tick,True
 https://github.com/X-DataInitiative/tick-datasets,True
 https://github.com/X-DataInitiative/tick_appveyor,True
 https://github.com/X-DataInitiative/tick_archive,True
+https://github.com/abes-esr/abes-format-pivot,True
 https://github.com/abes-esr/abes-ontology,True
 https://github.com/abes-esr/abes-politique-developpement,True
 https://github.com/abes-esr/abes-sparql-examples,True
@@ -5042,7 +5043,7 @@ https://gitlab.inria.fr/batsim/datsched,True
 https://gitlab.inria.fr/batsim/dintervalset,True
 https://gitlab.inria.fr/batsim/evalys,True
 https://gitlab.inria.fr/batsim/expe-batsim-jsspp16,True
-https://gitlab.inria.fr/batsim/oxidisched,False
+https://gitlab.inria.fr/batsim/oxidisched,True
 https://gitlab.inria.fr/batsim/proto-batsim,True
 https://gitlab.inria.fr/batsim/ptask-eval,True
 https://gitlab.inria.fr/batsim/pybatsim,True
@@ -5638,6 +5639,7 @@ https://gitlab.inria.fr/structgraphics/code,False
 https://gitlab.inria.fr/synalp/python4nlp-2019-public,True
 https://gitlab.inria.fr/synalp/website,True
 https://gitlab.inria.fr/synchrone/heptagon,True
+https://gitlab.inria.fr/tapenade/tapenade,True
 https://gitlab.inria.fr/the-missing-path/the-missing-path.gitlab.inria.fr,True
 https://gitlab.inria.fr/these-bxi/r-util,True
 https://gitlab.inria.fr/these-bxi/s4bxi-cmake-modules,False
