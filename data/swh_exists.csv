@@ -88,7 +88,7 @@ https://forge.univ-lyon1.fr/lifap6/ccompil,True
 https://forge.univ-lyon1.fr/lifap6/magic-maze-etu,True
 https://forge.univ-lyon1.fr/lifap6/rush-hour-etu,True
 https://forge.univ-lyon1.fr/lifap6/scrabble-etu,False
-https://forge.univ-lyon1.fr/lifap6/suzette,False
+https://forge.univ-lyon1.fr/lifap6/suzette,True
 https://forge.univ-lyon1.fr/lifap6/tp-arbretas-etu,False
 https://forge.univ-lyon1.fr/lifap6/tp-avl-etu,False
 https://forge.univ-lyon1.fr/lifap6/tp-listes-etu,True
@@ -702,6 +702,7 @@ https://github.com/CEA-LIST/N2D2,True
 https://github.com/CEA-LIST/sgntx,True
 https://github.com/CEA-Leti/wsnet,True
 https://github.com/CEREMA/com.cerema.infocentre_old,True
+https://github.com/CEREMA/copro-occitanie,False
 https://github.com/CEREMA/dataroom,True
 https://github.com/CEREMA/django_unchained,True
 https://github.com/CEREMA/dsi.adutils,True
@@ -1620,7 +1621,7 @@ https://github.com/OpenCTI-Platform/datasets,True
 https://github.com/OpenCTI-Platform/docker,True
 https://github.com/OpenCTI-Platform/docs,True
 https://github.com/OpenCTI-Platform/maltego-stix2,False
-https://github.com/OpenCTI-Platform/migration_script_v4,False
+https://github.com/OpenCTI-Platform/migration_script_v4,True
 https://github.com/OpenCTI-Platform/opencti,True
 https://github.com/OpenCTI-Platform/opencti-maltego,False
 https://github.com/OpenEdition/NormAFE,True
@@ -1897,6 +1898,7 @@ https://github.com/SocialGouv/meditor,True
 https://github.com/SocialGouv/medle,True
 https://github.com/SocialGouv/monitor,True
 https://github.com/SocialGouv/monitorer,True
+https://github.com/SocialGouv/monsuivipsy,False
 https://github.com/SocialGouv/next-routes,True
 https://github.com/SocialGouv/onvs,True
 https://github.com/SocialGouv/ozensemble,True
@@ -4974,7 +4976,7 @@ https://gitlab.inria.fr/Spirals/monsoon,True
 https://gitlab.inria.fr/TeamPlay_Public/TeamPlay_Public_Deliverables,True
 https://gitlab.inria.fr/VeRDi-project/concerto,True
 https://gitlab.inria.fr/VeRDi-project/concerto-evaluation,True
-https://gitlab.inria.fr/VeRDi-project/galera-experiment,False
+https://gitlab.inria.fr/VeRDi-project/galera-experiment,True
 https://gitlab.inria.fr/VeRDi-project/madeus-journal,True
 https://gitlab.inria.fr/VeRDi-project/madeus-openstack,True
 https://gitlab.inria.fr/VeRDi-project/madeus-openstack-benchmarks,True
