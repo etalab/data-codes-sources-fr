@@ -75,7 +75,7 @@ https://forge.univ-lyon1.fr/cheat-sheet-shit/css-markdown,False
 https://forge.univ-lyon1.fr/cheat-sheet-shit/css-template,False
 https://forge.univ-lyon1.fr/cheat-sheet-shit/super-projet,True
 https://forge.univ-lyon1.fr/diu-eil/bloc4,False
-https://forge.univ-lyon1.fr/e-planets/bibtexdb,False
+https://forge.univ-lyon1.fr/e-planets/bibtexdb,True
 https://forge.univ-lyon1.fr/e-planets/macports,True
 https://forge.univ-lyon1.fr/e-planets/morefilters,False
 https://forge.univ-lyon1.fr/e-planets/spat,True
@@ -89,7 +89,7 @@ https://forge.univ-lyon1.fr/lifap6/magic-maze-etu,True
 https://forge.univ-lyon1.fr/lifap6/rush-hour-etu,True
 https://forge.univ-lyon1.fr/lifap6/scrabble-etu,True
 https://forge.univ-lyon1.fr/lifap6/suzette,True
-https://forge.univ-lyon1.fr/lifap6/tp-arbretas-etu,False
+https://forge.univ-lyon1.fr/lifap6/tp-arbretas-etu,True
 https://forge.univ-lyon1.fr/lifap6/tp-avl-etu,False
 https://forge.univ-lyon1.fr/lifap6/tp-listes-etu,True
 https://forge.univ-lyon1.fr/lifap6/tp-union-find-etu,True
@@ -190,7 +190,7 @@ https://forgemia.inra.fr/hackathon-portail-calcul/criteres,True
 https://forgemia.inra.fr/hackathon-portail-calcul/existant,True
 https://forgemia.inra.fr/hackathon-portail-calcul/hackathon_organisation,True
 https://forgemia.inra.fr/infosol/SolEil,True
-https://forgemia.inra.fr/infosol/sensor-map,False
+https://forgemia.inra.fr/infosol/sensor-map,True
 https://forgemia.inra.fr/metexplore/MetExploreViz,True
 https://forgemia.inra.fr/metexplore/met4j,True
 https://forgemia.inra.fr/metexplore/metabolomics2network,True
@@ -1898,7 +1898,7 @@ https://github.com/SocialGouv/meditor,True
 https://github.com/SocialGouv/medle,True
 https://github.com/SocialGouv/monitor,True
 https://github.com/SocialGouv/monitorer,True
-https://github.com/SocialGouv/monsuivipsy,False
+https://github.com/SocialGouv/monsuivipsy,True
 https://github.com/SocialGouv/next-routes,True
 https://github.com/SocialGouv/onvs,True
 https://github.com/SocialGouv/ozensemble,True
@@ -5424,7 +5424,7 @@ https://gitlab.inria.fr/memcad/clangml,True
 https://gitlab.inria.fr/memcad/clangml-transforms,True
 https://gitlab.inria.fr/memphis/nemo,True
 https://gitlab.inria.fr/metapart/copart,True
-https://gitlab.inria.fr/metapart/kgggp,False
+https://gitlab.inria.fr/metapart/kgggp,True
 https://gitlab.inria.fr/metapart/libgraph,True
 https://gitlab.inria.fr/metapart/mirror,True
 https://gitlab.inria.fr/metapart/scotch,True
@@ -5758,7 +5758,7 @@ https://gitlab.irstea.fr/support/wiki,True
 https://gitlab.irstea.fr/umr-tetis/biotex_python,True
 https://gitlab.irstea.fr/vino/Vino,True
 https://gitlab.irstea.fr/watasitdev/j2k-coupling,True
-https://gitlab.irstea.fr/watasitdev/watasitrcoupler,False
+https://gitlab.irstea.fr/watasitdev/watasitrcoupler,True
 https://gitlab.math.unistra.fr/atelier-ci/synthese,True
 https://gitlab.math.unistra.fr/atlas/cluster-doc,True
 https://gitlab.math.unistra.fr/atlas/please-install,True
