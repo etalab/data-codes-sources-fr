@@ -3201,7 +3201,7 @@ https://github.com/etalab/cowbots,True
 https://github.com/etalab/croquemort,True
 https://github.com/etalab/csv-detective,True
 https://github.com/etalab/csv-detective-ml,True
-https://github.com/etalab/csv-detective-perf,False
+https://github.com/etalab/csv-detective-perf,True
 https://github.com/etalab/csv-gg,True
 https://github.com/etalab/csv2html,True
 https://github.com/etalab/csv_detective,True
@@ -3756,7 +3756,7 @@ https://github.com/lutece-secteur-public/particip-site-participatorybudget,True
 https://github.com/lutece-secteur-public/urbanisme-plugin-plu,True
 https://github.com/matchID-project/agrippa,True
 https://github.com/matchID-project/backend,True
-https://github.com/matchID-project/deces-backend,False
+https://github.com/matchID-project/deces-backend,True
 https://github.com/matchID-project/deces-dataprep,True
 https://github.com/matchID-project/deces-ui,True
 https://github.com/matchID-project/eai,True
@@ -3894,7 +3894,7 @@ https://github.com/medialab/peristyle,True
 https://github.com/medialab/personal-air-timeline,True
 https://github.com/medialab/polarisation-espace-public,True
 https://github.com/medialab/poltergeist,True
-https://github.com/medialab/portic-explorations,False
+https://github.com/medialab/portic-explorations,True
 https://github.com/medialab/privacy,True
 https://github.com/medialab/pubpub,True
 https://github.com/medialab/python-boilerpipe,True
@@ -3978,6 +3978,7 @@ https://github.com/messagerie-melanie2/SabreDAVM2,True
 https://github.com/messagerie-melanie2/mel-electron,True
 https://github.com/messagerie-melanie2/mel_archivage,True
 https://github.com/meteofrance/formation-deep-learning,True
+https://github.com/meteofrance/formation-machine-learning,False
 https://github.com/meteofrance/formation-mlflow,True
 https://github.com/meteofrance/meteofrance.github.io,True
 https://github.com/meteofrance/meteonet,True
@@ -5029,7 +5030,7 @@ https://gitlab.inria.fr/bass-db/bss_locate,True
 https://gitlab.inria.fr/bass-db/bss_oracle,False
 https://gitlab.inria.fr/bass-db/fasst,False
 https://gitlab.inria.fr/bass-db/mbss_locate,True
-https://gitlab.inria.fr/bass-db/peass,False
+https://gitlab.inria.fr/bass-db/peass,True
 https://gitlab.inria.fr/batsim/article-cluster17,True
 https://gitlab.inria.fr/batsim/batbroker,True
 https://gitlab.inria.fr/batsim/batexpe,True
@@ -5448,7 +5449,7 @@ https://gitlab.inria.fr/moex/elster,False
 https://gitlab.inria.fr/moex/lazylav,True
 https://gitlab.inria.fr/moex/linkex,True
 https://gitlab.inria.fr/moex/linkky,True
-https://gitlab.inria.fr/moex/ontosim,False
+https://gitlab.inria.fr/moex/ontosim,True
 https://gitlab.inria.fr/moex/psparql,True
 https://gitlab.inria.fr/moex/scarlet,False
 https://gitlab.inria.fr/moex/swip,False
@@ -5559,7 +5560,7 @@ https://gitlab.inria.fr/sed-bso/mdb-javascript,True
 https://gitlab.inria.fr/sed-bso/sonarqube,True
 https://gitlab.inria.fr/sed-lille/game-of-codes-utils,True
 https://gitlab.inria.fr/sed-paris/c-project-template,True
-https://gitlab.inria.fr/sed-paris/codingdojo,False
+https://gitlab.inria.fr/sed-paris/codingdojo,True
 https://gitlab.inria.fr/sed-paris/developer-meetups,True
 https://gitlab.inria.fr/sed-paris/welcome,True
 https://gitlab.inria.fr/sed-ral/orccad,True
