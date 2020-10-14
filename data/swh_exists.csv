@@ -64,7 +64,7 @@ https://forge.univ-lyon1.fr/LETU/LETU,True
 https://forge.univ-lyon1.fr/Matiere/WebProject,False
 https://forge.univ-lyon1.fr/Montecher/WebS1,False
 https://forge.univ-lyon1.fr/aml-lyon1/actionrobot,True
-https://forge.univ-lyon1.fr/aml-lyon1/campusdulibre,False
+https://forge.univ-lyon1.fr/aml-lyon1/campusdulibre,True
 https://forge.univ-lyon1.fr/bd-pedago/bd-pedago,False
 https://forge.univ-lyon1.fr/cards-against-university/cau-flask,True
 https://forge.univ-lyon1.fr/cards-against-university/cau-html,False
@@ -87,12 +87,12 @@ https://forge.univ-lyon1.fr/knowdyn-ens/knowdyn-contenus-2020,False
 https://forge.univ-lyon1.fr/lifap6/ccompil,True
 https://forge.univ-lyon1.fr/lifap6/magic-maze-etu,True
 https://forge.univ-lyon1.fr/lifap6/rush-hour-etu,True
-https://forge.univ-lyon1.fr/lifap6/scrabble-etu,False
+https://forge.univ-lyon1.fr/lifap6/scrabble-etu,True
 https://forge.univ-lyon1.fr/lifap6/suzette,True
 https://forge.univ-lyon1.fr/lifap6/tp-arbretas-etu,False
 https://forge.univ-lyon1.fr/lifap6/tp-avl-etu,False
 https://forge.univ-lyon1.fr/lifap6/tp-listes-etu,True
-https://forge.univ-lyon1.fr/lifap6/tp-union-find-etu,False
+https://forge.univ-lyon1.fr/lifap6/tp-union-find-etu,True
 https://forge.univ-lyon1.fr/lifprojet/lifprojet_am3,True
 https://forge.univ-lyon1.fr/loup-garouptut/loupandroid,True
 https://forge.univ-lyon1.fr/m1if27/box-intersection-etu,False
@@ -101,7 +101,7 @@ https://forge.univ-lyon1.fr/my-awesome-group/billetterie,True
 https://forge.univ-lyon1.fr/my-awesome-group/database,False
 https://forge.univ-lyon1.fr/my-awesome-group/planning-matchs,False
 https://forge.univ-lyon1.fr/my-awesome-group/uml,True
-https://forge.univ-lyon1.fr/nuit-de-l-info-2019/projetnuitinfo,False
+https://forge.univ-lyon1.fr/nuit-de-l-info-2019/projetnuitinfo,True
 https://forge.univ-lyon1.fr/projet_web_legeay/truc-de-vente-la,False
 https://forge.univ-lyon1.fr/shield/Corp,False
 https://forge.univ-lyon1.fr/sia/mr-red,True
@@ -702,7 +702,7 @@ https://github.com/CEA-LIST/N2D2,True
 https://github.com/CEA-LIST/sgntx,True
 https://github.com/CEA-Leti/wsnet,True
 https://github.com/CEREMA/com.cerema.infocentre_old,True
-https://github.com/CEREMA/copro-occitanie,False
+https://github.com/CEREMA/copro-occitanie,True
 https://github.com/CEREMA/dataroom,True
 https://github.com/CEREMA/django_unchained,True
 https://github.com/CEREMA/dsi.adutils,True
@@ -4809,7 +4809,7 @@ https://gitlab.huma-num.fr/cbma/txm,True
 https://gitlab.huma-num.fr/consortium3d/aLTAG3D,True
 https://gitlab.huma-num.fr/cosme/telma_chartes_exports,True
 https://gitlab.huma-num.fr/cosme/telma_chartes_imports,True
-https://gitlab.huma-num.fr/disco-lge/processinglge,False
+https://gitlab.huma-num.fr/disco-lge/processinglge,True
 https://gitlab.huma-num.fr/disco-lge/soprano,True
 https://gitlab.huma-num.fr/eurhisfirm/annuaires-favre,True
 https://gitlab.huma-num.fr/eurhisfirm/biryani,True
@@ -5642,7 +5642,7 @@ https://gitlab.inria.fr/synchrone/heptagon,True
 https://gitlab.inria.fr/tapenade/tapenade,True
 https://gitlab.inria.fr/the-missing-path/the-missing-path.gitlab.inria.fr,True
 https://gitlab.inria.fr/these-bxi/r-util,True
-https://gitlab.inria.fr/these-bxi/s4bxi-cmake-modules,False
+https://gitlab.inria.fr/these-bxi/s4bxi-cmake-modules,True
 https://gitlab.inria.fr/these-bxi/s4bxi-log-viewer,True
 https://gitlab.inria.fr/thoth/python-spams,True
 https://gitlab.inria.fr/thoth/spams-devel,True
@@ -5682,7 +5682,7 @@ https://gitlab.inria.fr/why3/verifythis2020,True
 https://gitlab.inria.fr/why3/why3,True
 https://gitlab.inria.fr/why3/whymp,True
 https://gitlab.inria.fr/xbie/dvae-speech,True
-https://gitlab.inria.fr/xfor/guix-xfor,False
+https://gitlab.inria.fr/xfor/guix-xfor,True
 https://gitlab.inria.fr/xfor/xfor-clang,True
 https://gitlab.inria.fr/xkblas/versions,True
 https://gitlab.inria.fr/xug/meetings,True
