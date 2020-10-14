@@ -77,7 +77,7 @@ https://forge.univ-lyon1.fr/cheat-sheet-shit/super-projet,True
 https://forge.univ-lyon1.fr/diu-eil/bloc4,False
 https://forge.univ-lyon1.fr/e-planets/bibtexdb,True
 https://forge.univ-lyon1.fr/e-planets/macports,True
-https://forge.univ-lyon1.fr/e-planets/morefilters,False
+https://forge.univ-lyon1.fr/e-planets/morefilters,True
 https://forge.univ-lyon1.fr/e-planets/spat,True
 https://forge.univ-lyon1.fr/faq-raspi/rpi-faq,True
 https://forge.univ-lyon1.fr/forge_public/ci-images,True
@@ -99,7 +99,7 @@ https://forge.univ-lyon1.fr/m1if27/box-intersection-etu,False
 https://forge.univ-lyon1.fr/m1if27/courbes-etu,True
 https://forge.univ-lyon1.fr/my-awesome-group/billetterie,True
 https://forge.univ-lyon1.fr/my-awesome-group/database,False
-https://forge.univ-lyon1.fr/my-awesome-group/planning-matchs,False
+https://forge.univ-lyon1.fr/my-awesome-group/planning-matchs,True
 https://forge.univ-lyon1.fr/my-awesome-group/uml,True
 https://forge.univ-lyon1.fr/nuit-de-l-info-2019/projetnuitinfo,True
 https://forge.univ-lyon1.fr/projet_web_legeay/truc-de-vente-la,False
@@ -2177,7 +2177,7 @@ https://github.com/atlanmod/atlanmod-platform,True
 https://github.com/atlanmod/atlanmod.github.io,True
 https://github.com/atlanmod/busfactor_demo,True
 https://github.com/atlanmod/csy-traceability,True
-https://github.com/atlanmod/dynamic_modisco,False
+https://github.com/atlanmod/dynamic_modisco,True
 https://github.com/atlanmod/eel,True
 https://github.com/atlanmod/emf,True
 https://github.com/atlanmod/emf-maven,False
