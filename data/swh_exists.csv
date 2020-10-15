@@ -103,7 +103,7 @@ https://forge.univ-lyon1.fr/my-awesome-group/planning-matchs,True
 https://forge.univ-lyon1.fr/my-awesome-group/uml,True
 https://forge.univ-lyon1.fr/nuit-de-l-info-2019/projetnuitinfo,True
 https://forge.univ-lyon1.fr/projet_web_legeay/truc-de-vente-la,False
-https://forge.univ-lyon1.fr/shield/Corp,False
+https://forge.univ-lyon1.fr/shield/Corp,True
 https://forge.univ-lyon1.fr/sia/mr-red,True
 https://forge.univ-lyon1.fr/suta_idir/tp_lifap6,True
 https://forge.univ-lyon1.fr/tiw-is/tiw-is-2020-sources,False
@@ -3248,6 +3248,7 @@ https://github.com/etalab/edigeo-parser,True
 https://github.com/etalab/edigeo-reproject,True
 https://github.com/etalab/editeur-bal,True
 https://github.com/etalab/eig-charts,True
+https://github.com/etalab/entraide.etalab.studio,False
 https://github.com/etalab/entreprise.api.gouv.fr,True
 https://github.com/etalab/entreprise.data.gouv.fr,True
 https://github.com/etalab/epci,True
