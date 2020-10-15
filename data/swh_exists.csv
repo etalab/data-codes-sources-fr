@@ -62,7 +62,7 @@ https://forge.grandlyon.com/systemes-dinformation/gat_gatling,True
 https://forge.grandlyon.com/systemes-dinformation/pasi-portail-d-acces-au-si,True
 https://forge.univ-lyon1.fr/LETU/LETU,True
 https://forge.univ-lyon1.fr/Matiere/WebProject,False
-https://forge.univ-lyon1.fr/Montecher/WebS1,False
+https://forge.univ-lyon1.fr/Montecher/WebS1,True
 https://forge.univ-lyon1.fr/aml-lyon1/actionrobot,True
 https://forge.univ-lyon1.fr/aml-lyon1/campusdulibre,True
 https://forge.univ-lyon1.fr/bd-pedago/bd-pedago,False
@@ -667,6 +667,7 @@ https://github.com/BRGM/plouf,True
 https://github.com/BRGM/razorback,True
 https://github.com/BRGM/registry-core,True
 https://github.com/BaseAdresseNationale/api-gestion,True
+https://github.com/BaseAdresseNationale/api-gestion-poc,False
 https://github.com/BaseAdresseNationale/ban,True
 https://github.com/BaseAdresseNationale/charte-experimentation-2017,True
 https://github.com/BaseAdresseNationale/donnees-initiales-2018,True
@@ -5027,8 +5028,8 @@ https://gitlab.inria.fr/asclepios/biblio,True
 https://gitlab.inria.fr/aviz/paohvis,True
 https://gitlab.inria.fr/bass-db/bss_eval,True
 https://gitlab.inria.fr/bass-db/bss_locate,True
-https://gitlab.inria.fr/bass-db/bss_oracle,False
-https://gitlab.inria.fr/bass-db/fasst,False
+https://gitlab.inria.fr/bass-db/bss_oracle,True
+https://gitlab.inria.fr/bass-db/fasst,True
 https://gitlab.inria.fr/bass-db/mbss_locate,True
 https://gitlab.inria.fr/bass-db/peass,True
 https://gitlab.inria.fr/batsim/article-cluster17,True
@@ -5445,7 +5446,7 @@ https://gitlab.inria.fr/mnemosyne/neurosmart,True
 https://gitlab.inria.fr/mnemosyne/vanilla_nn,True
 https://gitlab.inria.fr/moex/alignapi,True
 https://gitlab.inria.fr/moex/class,True
-https://gitlab.inria.fr/moex/elster,False
+https://gitlab.inria.fr/moex/elster,True
 https://gitlab.inria.fr/moex/lazylav,True
 https://gitlab.inria.fr/moex/linkex,True
 https://gitlab.inria.fr/moex/linkky,True
