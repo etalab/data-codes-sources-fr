@@ -74,7 +74,7 @@ https://forge.univ-lyon1.fr/cheat-sheet-shit/css-hello-world,True
 https://forge.univ-lyon1.fr/cheat-sheet-shit/css-markdown,False
 https://forge.univ-lyon1.fr/cheat-sheet-shit/css-template,False
 https://forge.univ-lyon1.fr/cheat-sheet-shit/super-projet,True
-https://forge.univ-lyon1.fr/diu-eil/bloc4,False
+https://forge.univ-lyon1.fr/diu-eil/bloc4,True
 https://forge.univ-lyon1.fr/e-planets/bibtexdb,True
 https://forge.univ-lyon1.fr/e-planets/macports,True
 https://forge.univ-lyon1.fr/e-planets/morefilters,True
@@ -483,7 +483,7 @@ https://github.com/1024pix/mail-broker,True
 https://github.com/1024pix/matomo,True
 https://github.com/1024pix/matomo-buildpack,True
 https://github.com/1024pix/matomo-scalingo-deploy,True
-https://github.com/1024pix/matomo-scalingo-docker,False
+https://github.com/1024pix/matomo-scalingo-docker,True
 https://github.com/1024pix/metabase-deploy,True
 https://github.com/1024pix/metrics-grafana,True
 https://github.com/1024pix/metrics-router,True
@@ -1797,6 +1797,7 @@ https://github.com/SimPLU3D/plu-formel,True
 https://github.com/SimPLU3D/shapeRuler,True
 https://github.com/SimPLU3D/simplu3D,True
 https://github.com/SimPLU3D/simplu3D-experiments,True
+https://github.com/SimPLU3D/simplu3D-grenoble,False
 https://github.com/SimPLU3D/simplu3D-iauidf,True
 https://github.com/SimPLU3D/simplu3D-ocl,True
 https://github.com/SimPLU3D/simplu3D-openMole-runner,True
@@ -2288,6 +2289,7 @@ https://github.com/betagouv/competences-pro-orchestrateur,True
 https://github.com/betagouv/competences-pro-serveur,True
 https://github.com/betagouv/competences-pro-www,True
 https://github.com/betagouv/compta,True
+https://github.com/betagouv/conferences,False
 https://github.com/betagouv/cout-embauche,True
 https://github.com/betagouv/covid19-algorithme-orientation-api,True
 https://github.com/betagouv/covid19-algorithme-orientation-elixir,True
@@ -3020,6 +3022,7 @@ https://github.com/entrepreneur-interet-general/tutos-2018,True
 https://github.com/entrepreneur-interet-general/verslecolepourtous,True
 https://github.com/entrepreneur-interet-general/vue-python-starter-kit,True
 https://github.com/entrepreneur-interet-general/word_convertor,True
+https://github.com/eole/ad-formula,False
 https://github.com/eole/addon-context-linux,True
 https://github.com/eole/clients-linux-scribe,True
 https://github.com/eole/dhcpd-formula,True
@@ -3032,6 +3035,7 @@ https://github.com/eole/gitolite,False
 https://github.com/eole/libvirt-formula,True
 https://github.com/eole/mastodon,True
 https://github.com/eole/one,True
+https://github.com/eole/pam-mount-formula,False
 https://github.com/eole/ports,True
 https://github.com/eole/redmine_backlogs,True
 https://github.com/eole/redmine_git_hosting,True
@@ -3548,6 +3552,7 @@ https://github.com/ina-foss/voxo-daemon,True
 https://github.com/ina-foss/voxo-dashboard,True
 https://github.com/ina-foss/voxo-docker,True
 https://github.com/ina-foss/voxo-lib,True
+https://github.com/incubateur-territoires/incubateur-strapi,False
 https://github.com/incubateur-territoires/incubateur.anct.gouv.fr,True
 https://github.com/incubateur-territoires/territoires.store,True
 https://github.com/indsante/Documentation-SNDS,True
@@ -3933,6 +3938,7 @@ https://github.com/medialab/table2net,True
 https://github.com/medialab/tesselle,True
 https://github.com/medialab/tesselle-example,True
 https://github.com/medialab/testing_otree,True
+https://github.com/medialab/the-web-conference-2021,False
 https://github.com/medialab/toflit18,True
 https://github.com/medialab/toflit18_data,True
 https://github.com/medialab/tools,True
@@ -3999,15 +4005,19 @@ https://github.com/metwork-framework/docker-drone-downstream-specific-image,True
 https://github.com/metwork-framework/docker-envtpl-runimage,True
 https://github.com/metwork-framework/docker-mfcom-centos6-buildimage,True
 https://github.com/metwork-framework/docker-mfcom-centos7-buildimage,True
+https://github.com/metwork-framework/docker-mfdataplugins-centos8-buildimage,False
 https://github.com/metwork-framework/docker-mfext-centos6-buildimage,True
 https://github.com/metwork-framework/docker-mfext-centos7-buildimage,True
+https://github.com/metwork-framework/docker-mfext-centos8-buildimage,False
 https://github.com/metwork-framework/docker-mfextaddon_python3_ia-centos7-buildimage,True
 https://github.com/metwork-framework/docker-mfserv-centos7-runimage,True
 https://github.com/metwork-framework/docker-mfservplugins-centos7-buildimage,True
+https://github.com/metwork-framework/docker-mfservplugins-centos8-buildimage,False
 https://github.com/metwork-framework/docker-mfxxx-centos6-buildimage,True
 https://github.com/metwork-framework/docker-mfxxx-centos6-testimage,True
 https://github.com/metwork-framework/docker-mfxxx-centos7-buildimage,True
 https://github.com/metwork-framework/docker-mfxxx-centos7-testimage,True
+https://github.com/metwork-framework/docker-mfxxx-centos8-buildimage,False
 https://github.com/metwork-framework/docker-portable-envtpl-buildimage,True
 https://github.com/metwork-framework/enumerate-markdown,True
 https://github.com/metwork-framework/envtpl,True
@@ -4709,6 +4719,8 @@ https://gitlab.adullact.net/demarches-simplifiees/vagrant-demarches-simplifiees,
 https://gitlab.adullact.net/departements-notaires/departements-notaires,True
 https://gitlab.adullact.net/departements-notaires/departements-notaires-v2,True
 https://gitlab.adullact.net/departements-notaires/vagrant-departements-notaires,True
+https://gitlab.adullact.net/dgfip/calculette-impot-societes,False
+https://gitlab.adullact.net/dgfip/ir-calcul,False
 https://gitlab.adullact.net/directmairie/directmairie,True
 https://gitlab.adullact.net/directmairie/puppet-directmairie,True
 https://gitlab.adullact.net/e-carre/e-carre-particuliers,True
@@ -5055,7 +5067,7 @@ https://gitlab.inria.fr/belenios/belenios-prepared-database,True
 https://gitlab.inria.fr/bench/v0,True
 https://gitlab.inria.fr/bioimage-it/bioimageapp,True
 https://gitlab.inria.fr/bioimage-it/bioimagej,True
-https://gitlab.inria.fr/bioimage-it/bioimagepy,False
+https://gitlab.inria.fr/bioimage-it/bioimagepy,True
 https://gitlab.inria.fr/bioimage-it/bioimagepy-tutorial,True
 https://gitlab.inria.fr/bioimage-it/fiji-tools,True
 https://gitlab.inria.fr/bioimage-it/htesting-tools,True
