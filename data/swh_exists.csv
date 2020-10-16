@@ -65,7 +65,7 @@ https://forge.univ-lyon1.fr/Matiere/WebProject,False
 https://forge.univ-lyon1.fr/Montecher/WebS1,True
 https://forge.univ-lyon1.fr/aml-lyon1/actionrobot,True
 https://forge.univ-lyon1.fr/aml-lyon1/campusdulibre,True
-https://forge.univ-lyon1.fr/bd-pedago/bd-pedago,False
+https://forge.univ-lyon1.fr/bd-pedago/bd-pedago,True
 https://forge.univ-lyon1.fr/cards-against-university/cau-flask,True
 https://forge.univ-lyon1.fr/cards-against-university/cau-html,False
 https://forge.univ-lyon1.fr/cheat-sheet-shit/css-git,True
@@ -5510,7 +5510,7 @@ https://gitlab.inria.fr/moex/linkex,True
 https://gitlab.inria.fr/moex/linkky,True
 https://gitlab.inria.fr/moex/ontosim,True
 https://gitlab.inria.fr/moex/psparql,True
-https://gitlab.inria.fr/moex/scarlet,False
+https://gitlab.inria.fr/moex/scarlet,True
 https://gitlab.inria.fr/moex/swip,True
 https://gitlab.inria.fr/moex/transmorpher,True
 https://gitlab.inria.fr/monitoring/bism,True
@@ -5652,6 +5652,7 @@ https://gitlab.inria.fr/skeletons/Coq,True
 https://gitlab.inria.fr/skeletons/jskel,True
 https://gitlab.inria.fr/skeletons/necro,True
 https://gitlab.inria.fr/skeletons/necro-coq,True
+https://gitlab.inria.fr/skeletons/necro-debug,False
 https://gitlab.inria.fr/skeletons/necro-ml,True
 https://gitlab.inria.fr/skeletons/necro-test,True
 https://gitlab.inria.fr/skeletons/necro-tex,True
