@@ -72,7 +72,7 @@ https://forge.univ-lyon1.fr/cheat-sheet-shit/css-git,True
 https://forge.univ-lyon1.fr/cheat-sheet-shit/css-git-error,False
 https://forge.univ-lyon1.fr/cheat-sheet-shit/css-hello-world,True
 https://forge.univ-lyon1.fr/cheat-sheet-shit/css-markdown,False
-https://forge.univ-lyon1.fr/cheat-sheet-shit/css-template,False
+https://forge.univ-lyon1.fr/cheat-sheet-shit/css-template,True
 https://forge.univ-lyon1.fr/cheat-sheet-shit/super-projet,True
 https://forge.univ-lyon1.fr/diu-eil/bloc4,True
 https://forge.univ-lyon1.fr/e-planets/bibtexdb,True
@@ -83,7 +83,7 @@ https://forge.univ-lyon1.fr/faq-raspi/rpi-faq,True
 https://forge.univ-lyon1.fr/forge_public/ci-images,True
 https://forge.univ-lyon1.fr/forge_public/forge,True
 https://forge.univ-lyon1.fr/groupe-projet-lifap4/projet-lifap4,False
-https://forge.univ-lyon1.fr/knowdyn-ens/knowdyn-contenus-2020,False
+https://forge.univ-lyon1.fr/knowdyn-ens/knowdyn-contenus-2020,True
 https://forge.univ-lyon1.fr/lifap6/ccompil,True
 https://forge.univ-lyon1.fr/lifap6/magic-maze-etu,True
 https://forge.univ-lyon1.fr/lifap6/rush-hour-etu,True
@@ -564,7 +564,7 @@ https://github.com/ANSSI-FR/cornetto,True
 https://github.com/ANSSI-FR/ctf,True
 https://github.com/ANSSI-FR/libapn,True
 https://github.com/ANSSI-FR/libecc,True
-https://github.com/ANSSI-FR/lidi,False
+https://github.com/ANSSI-FR/lidi,True
 https://github.com/ANSSI-FR/mabo,True
 https://github.com/ANSSI-FR/mdbook-checklist,True
 https://github.com/ANSSI-FR/nogaxeh,True
@@ -4721,7 +4721,7 @@ https://gitlab.adullact.net/departements-notaires/departements-notaires,True
 https://gitlab.adullact.net/departements-notaires/departements-notaires-v2,True
 https://gitlab.adullact.net/departements-notaires/vagrant-departements-notaires,True
 https://gitlab.adullact.net/dgfip/calculette-impot-societes,False
-https://gitlab.adullact.net/dgfip/ir-calcul,False
+https://gitlab.adullact.net/dgfip/ir-calcul,True
 https://gitlab.adullact.net/directmairie/directmairie,True
 https://gitlab.adullact.net/directmairie/puppet-directmairie,True
 https://gitlab.adullact.net/e-carre/e-carre-particuliers,True
@@ -5398,7 +5398,7 @@ https://gitlab.inria.fr/ipanema-public/ipanema-compiler,True
 https://gitlab.inria.fr/ipanema-public/ipanema-kernel,True
 https://gitlab.inria.fr/ipanema-public/ipanema-proofs,True
 https://gitlab.inria.fr/jgranier/Rendu-Style-Novat,True
-https://gitlab.inria.fr/kadeploy/kadeploy.gitlabpages.inria.fr,False
+https://gitlab.inria.fr/kadeploy/kadeploy.gitlabpages.inria.fr,True
 https://gitlab.inria.fr/kaldi.web/clapack-wasm,True
 https://gitlab.inria.fr/kaldi.web/kaldi-wasm,True
 https://gitlab.inria.fr/kameleon/kameleon-recipes,True
