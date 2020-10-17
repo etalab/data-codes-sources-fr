@@ -95,7 +95,7 @@ https://forge.univ-lyon1.fr/lifap6/tp-listes-etu,True
 https://forge.univ-lyon1.fr/lifap6/tp-union-find-etu,True
 https://forge.univ-lyon1.fr/lifprojet/lifprojet_am3,True
 https://forge.univ-lyon1.fr/loup-garouptut/loupandroid,True
-https://forge.univ-lyon1.fr/m1if27/box-intersection-etu,False
+https://forge.univ-lyon1.fr/m1if27/box-intersection-etu,True
 https://forge.univ-lyon1.fr/m1if27/courbes-etu,True
 https://forge.univ-lyon1.fr/my-awesome-group/billetterie,True
 https://forge.univ-lyon1.fr/my-awesome-group/database,False
@@ -1438,14 +1438,14 @@ https://github.com/InseeFrLab/blazingsql,False
 https://github.com/InseeFrLab/cloud-scripts,False
 https://github.com/InseeFrLab/funcampR,True
 https://github.com/InseeFrLab/funcampR-base,True
-https://github.com/InseeFrLab/funcampR-landingpage,False
+https://github.com/InseeFrLab/funcampR-landingpage,True
 https://github.com/InseeFrLab/grandedim,False
 https://github.com/InseeFrLab/helm-charts,False
-https://github.com/InseeFrLab/helm-charts-datascience,False
+https://github.com/InseeFrLab/helm-charts-datascience,True
 https://github.com/InseeFrLab/java-vtl,False
 https://github.com/InseeFrLab/java-vtl-connectors,False
 https://github.com/InseeFrLab/java-vtl-tools,False
-https://github.com/InseeFrLab/json-stat.java,False
+https://github.com/InseeFrLab/json-stat.java,True
 https://github.com/InseeFrLab/jupyter-datascience,False
 https://github.com/InseeFrLab/keycloak-hashicorp-vault-ext,True
 https://github.com/InseeFrLab/marathon-to-kubernetes,False
@@ -3290,7 +3290,7 @@ https://github.com/etalab/edigeo-parser,True
 https://github.com/etalab/edigeo-reproject,True
 https://github.com/etalab/editeur-bal,True
 https://github.com/etalab/eig-charts,True
-https://github.com/etalab/entraide.etalab.studio,False
+https://github.com/etalab/entraide.etalab.studio,True
 https://github.com/etalab/entreprise.api.gouv.fr,True
 https://github.com/etalab/entreprise.data.gouv.fr,True
 https://github.com/etalab/epci,True
@@ -4049,8 +4049,8 @@ https://github.com/metwork-framework/docker-envtpl-runimage,True
 https://github.com/metwork-framework/docker-mfbaseplugins-centos8-buildimage,False
 https://github.com/metwork-framework/docker-mfcom-centos6-buildimage,True
 https://github.com/metwork-framework/docker-mfcom-centos7-buildimage,True
-https://github.com/metwork-framework/docker-mfdataplugins-centos7-buildimage,False
-https://github.com/metwork-framework/docker-mfdataplugins-centos8-buildimage,False
+https://github.com/metwork-framework/docker-mfdataplugins-centos7-buildimage,True
+https://github.com/metwork-framework/docker-mfdataplugins-centos8-buildimage,True
 https://github.com/metwork-framework/docker-mfext-centos6-buildimage,True
 https://github.com/metwork-framework/docker-mfext-centos7-buildimage,True
 https://github.com/metwork-framework/docker-mfext-centos8-buildimage,True
