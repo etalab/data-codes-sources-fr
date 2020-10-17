@@ -1458,7 +1458,7 @@ https://github.com/InseeFrLab/rapidsai,False
 https://github.com/InseeFrLab/rstudio,False
 https://github.com/InseeFrLab/rstudio-gpu,False
 https://github.com/InseeFrLab/tensorflow,False
-https://github.com/InseeFrLab/ubuntu-vnc-dind,False
+https://github.com/InseeFrLab/ubuntu-vnc-dind,True
 https://github.com/InseeFrLab/vscode-python,False
 https://github.com/Irstea/ALPFORPLOTS,True
 https://github.com/Irstea/Redmine-mod-perl-auth,True
@@ -1481,7 +1481,7 @@ https://github.com/Irstea/usact,True
 https://github.com/Irstea/w3id.org,True
 https://github.com/LAB-MI/LAB-MI.github.io,True
 https://github.com/LAB-MI/api.gouv.fr,True
-https://github.com/LAB-MI/attestation-couvre-feu-covid-19,False
+https://github.com/LAB-MI/attestation-couvre-feu-covid-19,True
 https://github.com/LAB-MI/candilib,True
 https://github.com/LAB-MI/candilibV2,True
 https://github.com/LAB-MI/covid-19-certificate,True
@@ -3063,7 +3063,7 @@ https://github.com/entrepreneur-interet-general/tutos-2018,True
 https://github.com/entrepreneur-interet-general/verslecolepourtous,True
 https://github.com/entrepreneur-interet-general/vue-python-starter-kit,True
 https://github.com/entrepreneur-interet-general/word_convertor,True
-https://github.com/eole/ad-formula,False
+https://github.com/eole/ad-formula,True
 https://github.com/eole/addon-context-linux,True
 https://github.com/eole/clients-linux-scribe,True
 https://github.com/eole/dhcpd-formula,True
