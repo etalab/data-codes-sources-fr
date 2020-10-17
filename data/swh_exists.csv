@@ -1481,6 +1481,7 @@ https://github.com/Irstea/usact,True
 https://github.com/Irstea/w3id.org,True
 https://github.com/LAB-MI/LAB-MI.github.io,True
 https://github.com/LAB-MI/api.gouv.fr,True
+https://github.com/LAB-MI/attestation-couvre-feu-covid-19,False
 https://github.com/LAB-MI/candilib,True
 https://github.com/LAB-MI/candilibV2,True
 https://github.com/LAB-MI/covid-19-certificate,True
@@ -2951,7 +2952,7 @@ https://github.com/diverse-project/sosies-ws-server,True
 https://github.com/diverse-project/summer,True
 https://github.com/diverse-project/tools,True
 https://github.com/diverse-project/tuxart,True
-https://github.com/diverse-project/uml-pictionnary,False
+https://github.com/diverse-project/uml-pictionnary,True
 https://github.com/diverse-project/varylatex,True
 https://github.com/diverse-project/website,True
 https://github.com/diverse-project/xcore-light,True
@@ -4052,7 +4053,7 @@ https://github.com/metwork-framework/docker-mfdataplugins-centos7-buildimage,Fal
 https://github.com/metwork-framework/docker-mfdataplugins-centos8-buildimage,False
 https://github.com/metwork-framework/docker-mfext-centos6-buildimage,True
 https://github.com/metwork-framework/docker-mfext-centos7-buildimage,True
-https://github.com/metwork-framework/docker-mfext-centos8-buildimage,False
+https://github.com/metwork-framework/docker-mfext-centos8-buildimage,True
 https://github.com/metwork-framework/docker-mfextaddon_python3_ia-centos7-buildimage,True
 https://github.com/metwork-framework/docker-mfserv-centos7-runimage,True
 https://github.com/metwork-framework/docker-mfservplugins-centos7-buildimage,True
@@ -4763,7 +4764,7 @@ https://gitlab.adullact.net/demarches-simplifiees/vagrant-demarches-simplifiees,
 https://gitlab.adullact.net/departements-notaires/departements-notaires,True
 https://gitlab.adullact.net/departements-notaires/departements-notaires-v2,True
 https://gitlab.adullact.net/departements-notaires/vagrant-departements-notaires,True
-https://gitlab.adullact.net/dgfip/calculette-impot-societes,False
+https://gitlab.adullact.net/dgfip/calculette-impot-societes,True
 https://gitlab.adullact.net/dgfip/ir-calcul,True
 https://gitlab.adullact.net/directmairie/directmairie,True
 https://gitlab.adullact.net/directmairie/puppet-directmairie,True
@@ -5696,7 +5697,7 @@ https://gitlab.inria.fr/stopcovid19/stopcovid-robertsdk-android,True
 https://gitlab.inria.fr/stopcovid19/stopcovid-robertsdk-ios,True
 https://gitlab.inria.fr/stopcovid19/submission-code-server,True
 https://gitlab.inria.fr/stopcovid19/submission-code-server-client-api-spec,True
-https://gitlab.inria.fr/structgraphics/code,False
+https://gitlab.inria.fr/structgraphics/code,True
 https://gitlab.inria.fr/synalp/python4nlp-2019-public,True
 https://gitlab.inria.fr/synalp/website,True
 https://gitlab.inria.fr/synchrone/heptagon,True
