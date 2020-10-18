@@ -4057,7 +4057,7 @@ https://github.com/metwork-framework/docker-mfext-centos8-buildimage,True
 https://github.com/metwork-framework/docker-mfextaddon_python3_ia-centos7-buildimage,True
 https://github.com/metwork-framework/docker-mfserv-centos7-runimage,True
 https://github.com/metwork-framework/docker-mfservplugins-centos7-buildimage,True
-https://github.com/metwork-framework/docker-mfservplugins-centos8-buildimage,False
+https://github.com/metwork-framework/docker-mfservplugins-centos8-buildimage,True
 https://github.com/metwork-framework/docker-mfxxx-centos6-buildimage,True
 https://github.com/metwork-framework/docker-mfxxx-centos6-testimage,True
 https://github.com/metwork-framework/docker-mfxxx-centos7-buildimage,True
