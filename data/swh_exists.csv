@@ -1443,7 +1443,7 @@ https://github.com/InseeFrLab/grandedim,False
 https://github.com/InseeFrLab/helm-charts,False
 https://github.com/InseeFrLab/helm-charts-datascience,True
 https://github.com/InseeFrLab/java-vtl,False
-https://github.com/InseeFrLab/java-vtl-connectors,False
+https://github.com/InseeFrLab/java-vtl-connectors,True
 https://github.com/InseeFrLab/java-vtl-tools,False
 https://github.com/InseeFrLab/json-stat.java,True
 https://github.com/InseeFrLab/jupyter-datascience,False
