@@ -1429,7 +1429,7 @@ https://github.com/InseeFrLab/DoReMIFaSol,True
 https://github.com/InseeFrLab/InspaCy,False
 https://github.com/InseeFrLab/InspaCy-UI,False
 https://github.com/InseeFrLab/Java-Helm-Wrapper,False
-https://github.com/InseeFrLab/Shelly,False
+https://github.com/InseeFrLab/Shelly,True
 https://github.com/InseeFrLab/Ubuntu-vnc-base,False
 https://github.com/InseeFrLab/Universe-Datascience,False
 https://github.com/InseeFrLab/Universe-Formations,False
@@ -1440,7 +1440,7 @@ https://github.com/InseeFrLab/funcampR,True
 https://github.com/InseeFrLab/funcampR-base,True
 https://github.com/InseeFrLab/funcampR-landingpage,True
 https://github.com/InseeFrLab/grandedim,False
-https://github.com/InseeFrLab/helm-charts,False
+https://github.com/InseeFrLab/helm-charts,True
 https://github.com/InseeFrLab/helm-charts-datascience,True
 https://github.com/InseeFrLab/java-vtl,False
 https://github.com/InseeFrLab/java-vtl-connectors,True
@@ -2334,7 +2334,7 @@ https://github.com/betagouv/cout-embauche,True
 https://github.com/betagouv/covid19-algorithme-orientation-api,True
 https://github.com/betagouv/covid19-algorithme-orientation-elixir,True
 https://github.com/betagouv/covoiturage-attestation,False
-https://github.com/betagouv/covoiturage-attestation-honneur,False
+https://github.com/betagouv/covoiturage-attestation-honneur,True
 https://github.com/betagouv/dashboard_apientreprise,True
 https://github.com/betagouv/datapass,True
 https://github.com/betagouv/datapass-api-particulier-bridge,True
@@ -5174,6 +5174,7 @@ https://gitlab.inria.fr/compass/meshtools,True
 https://gitlab.inria.fr/compcertssa/compcertssa,True
 https://gitlab.inria.fr/complexityparser/complexityparser,True
 https://gitlab.inria.fr/comprise/comprise-cloud-based-platform,True
+https://gitlab.inria.fr/comprise/comprise-example-library,False
 https://gitlab.inria.fr/comprise/comprise-personal-server,True
 https://gitlab.inria.fr/comprise/comprise_app_wizard,True
 https://gitlab.inria.fr/comprise/comprise_client_library,True
