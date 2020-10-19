@@ -1427,7 +1427,7 @@ https://github.com/InseeFrLab/BootcampJS-API,True
 https://github.com/InseeFrLab/BootcampJS-JS,True
 https://github.com/InseeFrLab/DoReMIFaSol,True
 https://github.com/InseeFrLab/InspaCy,False
-https://github.com/InseeFrLab/InspaCy-UI,False
+https://github.com/InseeFrLab/InspaCy-UI,True
 https://github.com/InseeFrLab/Java-Helm-Wrapper,False
 https://github.com/InseeFrLab/Shelly,True
 https://github.com/InseeFrLab/Ubuntu-vnc-base,False
@@ -1439,7 +1439,7 @@ https://github.com/InseeFrLab/cloud-scripts,False
 https://github.com/InseeFrLab/funcampR,True
 https://github.com/InseeFrLab/funcampR-base,True
 https://github.com/InseeFrLab/funcampR-landingpage,True
-https://github.com/InseeFrLab/grandedim,False
+https://github.com/InseeFrLab/grandedim,True
 https://github.com/InseeFrLab/helm-charts,True
 https://github.com/InseeFrLab/helm-charts-datascience,True
 https://github.com/InseeFrLab/java-vtl,False
@@ -1452,7 +1452,7 @@ https://github.com/InseeFrLab/marathon-to-kubernetes,False
 https://github.com/InseeFrLab/onyxia,False
 https://github.com/InseeFrLab/onyxia-api,False
 https://github.com/InseeFrLab/onyxia-cli,False
-https://github.com/InseeFrLab/onyxia-ui,False
+https://github.com/InseeFrLab/onyxia-ui,True
 https://github.com/InseeFrLab/product-labelling,False
 https://github.com/InseeFrLab/rapidsai,False
 https://github.com/InseeFrLab/rstudio,False
@@ -3982,7 +3982,7 @@ https://github.com/medialab/table2net,True
 https://github.com/medialab/tesselle,True
 https://github.com/medialab/tesselle-example,True
 https://github.com/medialab/testing_otree,True
-https://github.com/medialab/the-web-conference-2021,False
+https://github.com/medialab/the-web-conference-2021,True
 https://github.com/medialab/toflit18,True
 https://github.com/medialab/toflit18_data,True
 https://github.com/medialab/tools,True
@@ -4347,7 +4347,7 @@ https://github.com/openfun/marion,True
 https://github.com/openfun/marsha,True
 https://github.com/openfun/marsha-plugins,True
 https://github.com/openfun/matplotlib,True
-https://github.com/openfun/moodlenet-docker,False
+https://github.com/openfun/moodlenet-docker,True
 https://github.com/openfun/nantes-oer,True
 https://github.com/openfun/nextcloud-docker,True
 https://github.com/openfun/nextcloud-shibboleth-sync,True
@@ -5315,7 +5315,7 @@ https://gitlab.inria.fr/epione/promfusion,True
 https://gitlab.inria.fr/epione_ML/bayesian-learning-uca,True
 https://gitlab.inria.fr/epione_ML/mcvae,True
 https://gitlab.inria.fr/erable/totoro,True
-https://gitlab.inria.fr/etac/notice-etac,False
+https://gitlab.inria.fr/etac/notice-etac,True
 https://gitlab.inria.fr/evalanon/enoslib,True
 https://gitlab.inria.fr/evalanon/python-distem,True
 https://gitlab.inria.fr/evalys/big-data-hpc-g5k-expe-tools,True
