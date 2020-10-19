@@ -249,7 +249,7 @@ https://forgemia.inra.fr/umr-gdec/clari-te,True
 https://forgemia.inra.fr/umr-gdec/isbpfinder,True
 https://forgemia.inra.fr/umrf/anomaly,True
 https://forgemia.inra.fr/umrf/dairydb,True
-https://forgemia.inra.fr/umrf/exploremetabar,False
+https://forgemia.inra.fr/umrf/exploremetabar,True
 https://forgemia.inra.fr/umrf/ranomaly,True
 https://forgemia.inra.fr/umrf/utopia,True
 https://forgemia.inra.fr/urgi-is/data-discovery,True
@@ -1535,6 +1535,7 @@ https://github.com/LemonLDAPNG/node-fastcgi-authz-client,True
 https://github.com/LemonLDAPNG/node-lemonldap-ng-handler,True
 https://github.com/LemonLDAPNG/pts2019-llng-workshop,True
 https://github.com/LemonLDAPNG/puppet-lemonldap-ng,True
+https://github.com/MTES-MCT/Dossier-Facile-Frontend,False
 https://github.com/MTES-MCT/acceslibre,True
 https://github.com/MTES-MCT/access4all,True
 https://github.com/MTES-MCT/action-bidonvilles,True
@@ -3076,7 +3077,7 @@ https://github.com/eole/gitolite,False
 https://github.com/eole/libvirt-formula,True
 https://github.com/eole/mastodon,True
 https://github.com/eole/one,True
-https://github.com/eole/pam-mount-formula,False
+https://github.com/eole/pam-mount-formula,True
 https://github.com/eole/ports,True
 https://github.com/eole/redmine_backlogs,True
 https://github.com/eole/redmine_git_hosting,True
@@ -4062,7 +4063,7 @@ https://github.com/metwork-framework/docker-mfxxx-centos6-buildimage,True
 https://github.com/metwork-framework/docker-mfxxx-centos6-testimage,True
 https://github.com/metwork-framework/docker-mfxxx-centos7-buildimage,True
 https://github.com/metwork-framework/docker-mfxxx-centos7-testimage,True
-https://github.com/metwork-framework/docker-mfxxx-centos8-buildimage,False
+https://github.com/metwork-framework/docker-mfxxx-centos8-buildimage,True
 https://github.com/metwork-framework/docker-portable-envtpl-buildimage,True
 https://github.com/metwork-framework/enumerate-markdown,True
 https://github.com/metwork-framework/envtpl,True
@@ -4346,6 +4347,7 @@ https://github.com/openfun/marion,True
 https://github.com/openfun/marsha,True
 https://github.com/openfun/marsha-plugins,True
 https://github.com/openfun/matplotlib,True
+https://github.com/openfun/moodlenet-docker,False
 https://github.com/openfun/nantes-oer,True
 https://github.com/openfun/nextcloud-docker,True
 https://github.com/openfun/nextcloud-shibboleth-sync,True
@@ -5425,7 +5427,7 @@ https://gitlab.inria.fr/gv-open/PyLR,True
 https://gitlab.inria.fr/gv-open/pygeobuf,True
 https://gitlab.inria.fr/hiepacs/rotor,True
 https://gitlab.inria.fr/hpc_io/iofwd_perf_impact,False
-https://gitlab.inria.fr/hpc_io/summario,False
+https://gitlab.inria.fr/hpc_io/summario,True
 https://gitlab.inria.fr/hsplit/hsplit,True
 https://gitlab.inria.fr/hwloc/xmls,True
 https://gitlab.inria.fr/i3inria/raspi-k8s,True
@@ -5888,3 +5890,4 @@ https://gitub.u-bordeaux.fr/mapi/mdl-report-ubxstats,False
 https://gitub.u-bordeaux.fr/mapi/mdl-repository-pod,False
 https://gitub.u-bordeaux.fr/mapi/mdl-theme-ubx19,False
 https://gitub.u-bordeaux.fr/mapi/mdl-tool-ubxcourses,False
+https://gitub.u-bordeaux.fr/starpu/starpu2,False
