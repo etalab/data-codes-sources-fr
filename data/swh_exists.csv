@@ -67,7 +67,7 @@ https://forge.univ-lyon1.fr/aml-lyon1/actionrobot,True
 https://forge.univ-lyon1.fr/aml-lyon1/campusdulibre,True
 https://forge.univ-lyon1.fr/bd-pedago/bd-pedago,True
 https://forge.univ-lyon1.fr/cards-against-university/cau-flask,True
-https://forge.univ-lyon1.fr/cards-against-university/cau-html,False
+https://forge.univ-lyon1.fr/cards-against-university/cau-html,True
 https://forge.univ-lyon1.fr/cheat-sheet-shit/css-git,True
 https://forge.univ-lyon1.fr/cheat-sheet-shit/css-git-error,False
 https://forge.univ-lyon1.fr/cheat-sheet-shit/css-hello-world,True
@@ -153,6 +153,7 @@ https://forgemia.inra.fr/genotoul-bioinfo/pyrocleaner,True
 https://forgemia.inra.fr/genotoul-bioinfo/srna-tabac,True
 https://forgemia.inra.fr/genotoul-bioinfo/tSNPannot,True
 https://forgemia.inra.fr/genotoul-bioinfo/use-nextflow-nfcore-course,True
+https://forgemia.inra.fr/geoc/hackaton2020,False
 https://forgemia.inra.fr/get-it/nf-assemblshortread,True
 https://forgemia.inra.fr/get-it/nf-taxoaffiliation,True
 https://forgemia.inra.fr/gryc-data/blastobotrys_adeninivorans-ls3,True
@@ -1456,7 +1457,7 @@ https://github.com/InseeFrLab/onyxia-ui,True
 https://github.com/InseeFrLab/product-labelling,False
 https://github.com/InseeFrLab/rapidsai,False
 https://github.com/InseeFrLab/rstudio,False
-https://github.com/InseeFrLab/rstudio-gpu,False
+https://github.com/InseeFrLab/rstudio-gpu,True
 https://github.com/InseeFrLab/tensorflow,False
 https://github.com/InseeFrLab/ubuntu-vnc-dind,True
 https://github.com/InseeFrLab/vscode-python,False
