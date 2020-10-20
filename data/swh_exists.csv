@@ -98,7 +98,7 @@ https://forge.univ-lyon1.fr/loup-garouptut/loupandroid,True
 https://forge.univ-lyon1.fr/m1if27/box-intersection-etu,True
 https://forge.univ-lyon1.fr/m1if27/courbes-etu,True
 https://forge.univ-lyon1.fr/my-awesome-group/billetterie,True
-https://forge.univ-lyon1.fr/my-awesome-group/database,False
+https://forge.univ-lyon1.fr/my-awesome-group/database,True
 https://forge.univ-lyon1.fr/my-awesome-group/planning-matchs,True
 https://forge.univ-lyon1.fr/my-awesome-group/uml,True
 https://forge.univ-lyon1.fr/nuit-de-l-info-2019/projetnuitinfo,True
@@ -1431,7 +1431,7 @@ https://github.com/InseeFrLab/InspaCy-UI,True
 https://github.com/InseeFrLab/Java-Helm-Wrapper,False
 https://github.com/InseeFrLab/Shelly,True
 https://github.com/InseeFrLab/Ubuntu-vnc-base,False
-https://github.com/InseeFrLab/Universe-Datascience,False
+https://github.com/InseeFrLab/Universe-Datascience,True
 https://github.com/InseeFrLab/Universe-Formations,False
 https://github.com/InseeFrLab/aws.s3,False
 https://github.com/InseeFrLab/blazingsql,False
@@ -1837,7 +1837,7 @@ https://github.com/SimPLU3D/plu-formel,True
 https://github.com/SimPLU3D/shapeRuler,True
 https://github.com/SimPLU3D/simplu3D,True
 https://github.com/SimPLU3D/simplu3D-experiments,True
-https://github.com/SimPLU3D/simplu3D-grenoble,False
+https://github.com/SimPLU3D/simplu3D-grenoble,True
 https://github.com/SimPLU3D/simplu3D-iauidf,True
 https://github.com/SimPLU3D/simplu3D-ocl,True
 https://github.com/SimPLU3D/simplu3D-openMole-runner,True
