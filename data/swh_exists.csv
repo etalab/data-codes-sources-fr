@@ -667,7 +667,7 @@ https://github.com/BRGM/plouf,True
 https://github.com/BRGM/razorback,True
 https://github.com/BRGM/registry-core,True
 https://github.com/BaseAdresseNationale/api-gestion,True
-https://github.com/BaseAdresseNationale/api-gestion-poc,False
+https://github.com/BaseAdresseNationale/api-gestion-poc,True
 https://github.com/BaseAdresseNationale/ban,True
 https://github.com/BaseAdresseNationale/charte-experimentation-2017,True
 https://github.com/BaseAdresseNationale/donnees-initiales-2018,True
@@ -1428,9 +1428,9 @@ https://github.com/InseeFrLab/BootcampJS-JS,True
 https://github.com/InseeFrLab/DoReMIFaSol,True
 https://github.com/InseeFrLab/InspaCy,False
 https://github.com/InseeFrLab/InspaCy-UI,True
-https://github.com/InseeFrLab/Java-Helm-Wrapper,False
+https://github.com/InseeFrLab/Java-Helm-Wrapper,True
 https://github.com/InseeFrLab/Shelly,True
-https://github.com/InseeFrLab/Ubuntu-vnc-base,False
+https://github.com/InseeFrLab/Ubuntu-vnc-base,True
 https://github.com/InseeFrLab/Universe-Datascience,True
 https://github.com/InseeFrLab/Universe-Formations,False
 https://github.com/InseeFrLab/aws.s3,False
@@ -2350,6 +2350,7 @@ https://github.com/betagouv/discourse-oauth2-basic,True
 https://github.com/betagouv/django-magicauth,True
 https://github.com/betagouv/dns,True
 https://github.com/betagouv/doc.incubateur.net-communaute,True
+https://github.com/betagouv/doc.incubateur.net-insertion,False
 https://github.com/betagouv/doc.incubateur.net-startups,True
 https://github.com/betagouv/docs.dossiersco.fr,True
 https://github.com/betagouv/documentation,True
