@@ -2330,7 +2330,7 @@ https://github.com/betagouv/competences-pro-orchestrateur,True
 https://github.com/betagouv/competences-pro-serveur,True
 https://github.com/betagouv/competences-pro-www,True
 https://github.com/betagouv/compta,True
-https://github.com/betagouv/conferences,False
+https://github.com/betagouv/conferences,True
 https://github.com/betagouv/cout-embauche,True
 https://github.com/betagouv/covid19-algorithme-orientation-api,True
 https://github.com/betagouv/covid19-algorithme-orientation-elixir,True
@@ -5465,6 +5465,7 @@ https://gitlab.inria.fr/lcourtes-phd/edcc-2006-redone,True
 https://gitlab.inria.fr/lcourtes-phd/file-sets,True
 https://gitlab.inria.fr/learninglab/formation-ux,True
 https://gitlab.inria.fr/learninglab/guidelines,False
+https://gitlab.inria.fr/learninglab/guidelines-ill,False
 https://gitlab.inria.fr/learninglab/mooc-bioinfo,True
 https://gitlab.inria.fr/learninglab/mooc-forum-plugin,True
 https://gitlab.inria.fr/learninglab/mooc-forums-theme,True
