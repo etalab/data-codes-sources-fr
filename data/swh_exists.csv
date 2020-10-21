@@ -4050,7 +4050,7 @@ https://github.com/metwork-framework/docker-centos7-opinionated,True
 https://github.com/metwork-framework/docker-drone-docker-specific-image,True
 https://github.com/metwork-framework/docker-drone-downstream-specific-image,True
 https://github.com/metwork-framework/docker-envtpl-runimage,True
-https://github.com/metwork-framework/docker-mfbaseplugins-centos8-buildimage,False
+https://github.com/metwork-framework/docker-mfbaseplugins-centos8-buildimage,True
 https://github.com/metwork-framework/docker-mfcom-centos6-buildimage,True
 https://github.com/metwork-framework/docker-mfcom-centos7-buildimage,True
 https://github.com/metwork-framework/docker-mfdataplugins-centos7-buildimage,True
