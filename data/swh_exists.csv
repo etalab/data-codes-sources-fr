@@ -1451,7 +1451,7 @@ https://github.com/InseeFrLab/jupyter-datascience,False
 https://github.com/InseeFrLab/keycloak-hashicorp-vault-ext,True
 https://github.com/InseeFrLab/marathon-to-kubernetes,True
 https://github.com/InseeFrLab/onyxia,False
-https://github.com/InseeFrLab/onyxia-api,False
+https://github.com/InseeFrLab/onyxia-api,True
 https://github.com/InseeFrLab/onyxia-cli,False
 https://github.com/InseeFrLab/onyxia-ui,True
 https://github.com/InseeFrLab/product-labelling,False
@@ -3600,7 +3600,7 @@ https://github.com/ina-foss/voxo-daemon,True
 https://github.com/ina-foss/voxo-dashboard,True
 https://github.com/ina-foss/voxo-docker,True
 https://github.com/ina-foss/voxo-lib,True
-https://github.com/incubateur-territoires/incubateur-strapi,False
+https://github.com/incubateur-territoires/incubateur-strapi,True
 https://github.com/incubateur-territoires/incubateur.anct.gouv.fr,True
 https://github.com/incubateur-territoires/territoires.store,True
 https://github.com/indsante/Documentation-SNDS,True
@@ -5892,7 +5892,7 @@ https://gitub.u-bordeaux.fr/mapi/mdl-enrol-ubxsshib,False
 https://gitub.u-bordeaux.fr/mapi/mdl-local-ubxapogee,True
 https://gitub.u-bordeaux.fr/mapi/mdl-local-ubxws,True
 https://gitub.u-bordeaux.fr/mapi/mdl-module-ltpv,False
-https://gitub.u-bordeaux.fr/mapi/mdl-module-pedagotec,False
+https://gitub.u-bordeaux.fr/mapi/mdl-module-pedagotec,True
 https://gitub.u-bordeaux.fr/mapi/mdl-report-attendancesheet,True
 https://gitub.u-bordeaux.fr/mapi/mdl-report-ubxstats,False
 https://gitub.u-bordeaux.fr/mapi/mdl-repository-pod,False
