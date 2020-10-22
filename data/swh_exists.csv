@@ -90,7 +90,7 @@ https://forge.univ-lyon1.fr/lifap6/rush-hour-etu,True
 https://forge.univ-lyon1.fr/lifap6/scrabble-etu,True
 https://forge.univ-lyon1.fr/lifap6/suzette,True
 https://forge.univ-lyon1.fr/lifap6/tp-arbretas-etu,True
-https://forge.univ-lyon1.fr/lifap6/tp-avl-etu,False
+https://forge.univ-lyon1.fr/lifap6/tp-avl-etu,True
 https://forge.univ-lyon1.fr/lifap6/tp-listes-etu,True
 https://forge.univ-lyon1.fr/lifap6/tp-union-find-etu,True
 https://forge.univ-lyon1.fr/lifprojet/lifprojet_am3,True
@@ -1427,7 +1427,7 @@ https://github.com/InseeFrLab/AdventOfCodeLeaderboard,True
 https://github.com/InseeFrLab/BootcampJS-API,True
 https://github.com/InseeFrLab/BootcampJS-JS,True
 https://github.com/InseeFrLab/DoReMIFaSol,True
-https://github.com/InseeFrLab/InspaCy,False
+https://github.com/InseeFrLab/InspaCy,True
 https://github.com/InseeFrLab/InspaCy-UI,True
 https://github.com/InseeFrLab/Java-Helm-Wrapper,True
 https://github.com/InseeFrLab/Shelly,True
@@ -5882,14 +5882,14 @@ https://gitlabjf.ccomptes.fr/startupjf/e-controle-deploy,True
 https://gitlabjf.ccomptes.fr/wikijs/wikijs,True
 https://gitub.u-bordeaux.fr/erias/fideo,False
 https://gitub.u-bordeaux.fr/erias/patient-covid19,False
-https://gitub.u-bordeaux.fr/innovation/act,False
+https://gitub.u-bordeaux.fr/innovation/act,True
 https://gitub.u-bordeaux.fr/innovation/climackathon,False
 https://gitub.u-bordeaux.fr/mapi/mapi-module-mediapod,False
 https://gitub.u-bordeaux.fr/mapi/mdl-block-navigation-ltpv,False
 https://gitub.u-bordeaux.fr/mapi/mdl-block-progress,False
 https://gitub.u-bordeaux.fr/mapi/mdl-enrol-ubxsshib,False
 https://gitub.u-bordeaux.fr/mapi/mdl-local-ubxapogee,False
-https://gitub.u-bordeaux.fr/mapi/mdl-local-ubxws,False
+https://gitub.u-bordeaux.fr/mapi/mdl-local-ubxws,True
 https://gitub.u-bordeaux.fr/mapi/mdl-module-ltpv,False
 https://gitub.u-bordeaux.fr/mapi/mdl-module-pedagotec,False
 https://gitub.u-bordeaux.fr/mapi/mdl-report-attendancesheet,False
@@ -5897,4 +5897,4 @@ https://gitub.u-bordeaux.fr/mapi/mdl-report-ubxstats,False
 https://gitub.u-bordeaux.fr/mapi/mdl-repository-pod,False
 https://gitub.u-bordeaux.fr/mapi/mdl-theme-ubx19,False
 https://gitub.u-bordeaux.fr/mapi/mdl-tool-ubxcourses,False
-https://gitub.u-bordeaux.fr/starpu/starpu2,False
+https://gitub.u-bordeaux.fr/starpu/starpu2,True
