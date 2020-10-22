@@ -1449,7 +1449,7 @@ https://github.com/InseeFrLab/java-vtl-tools,False
 https://github.com/InseeFrLab/json-stat.java,True
 https://github.com/InseeFrLab/jupyter-datascience,False
 https://github.com/InseeFrLab/keycloak-hashicorp-vault-ext,True
-https://github.com/InseeFrLab/marathon-to-kubernetes,False
+https://github.com/InseeFrLab/marathon-to-kubernetes,True
 https://github.com/InseeFrLab/onyxia,False
 https://github.com/InseeFrLab/onyxia-api,False
 https://github.com/InseeFrLab/onyxia-cli,False
@@ -5534,6 +5534,7 @@ https://gitlab.inria.fr/monitoring/themis-artifact-outdated,True
 https://gitlab.inria.fr/monitoring/themis-demo,True
 https://gitlab.inria.fr/monitoring/themis-rv18smarthome,True
 https://gitlab.inria.fr/monitoring/verde,True
+https://gitlab.inria.fr/mosaic/bvpy,False
 https://gitlab.inria.fr/mosaic/cellcomplex,True
 https://gitlab.inria.fr/mosaic/draco_stem,True
 https://gitlab.inria.fr/mosaic/mosaic-commons,True
@@ -5888,11 +5889,11 @@ https://gitub.u-bordeaux.fr/mapi/mapi-module-mediapod,False
 https://gitub.u-bordeaux.fr/mapi/mdl-block-navigation-ltpv,False
 https://gitub.u-bordeaux.fr/mapi/mdl-block-progress,False
 https://gitub.u-bordeaux.fr/mapi/mdl-enrol-ubxsshib,False
-https://gitub.u-bordeaux.fr/mapi/mdl-local-ubxapogee,False
+https://gitub.u-bordeaux.fr/mapi/mdl-local-ubxapogee,True
 https://gitub.u-bordeaux.fr/mapi/mdl-local-ubxws,True
 https://gitub.u-bordeaux.fr/mapi/mdl-module-ltpv,False
 https://gitub.u-bordeaux.fr/mapi/mdl-module-pedagotec,False
-https://gitub.u-bordeaux.fr/mapi/mdl-report-attendancesheet,False
+https://gitub.u-bordeaux.fr/mapi/mdl-report-attendancesheet,True
 https://gitub.u-bordeaux.fr/mapi/mdl-report-ubxstats,False
 https://gitub.u-bordeaux.fr/mapi/mdl-repository-pod,False
 https://gitub.u-bordeaux.fr/mapi/mdl-theme-ubx19,False
