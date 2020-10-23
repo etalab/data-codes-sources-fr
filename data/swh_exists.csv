@@ -192,6 +192,7 @@ https://forgemia.inra.fr/hackathon-portail-calcul/existant,True
 https://forgemia.inra.fr/hackathon-portail-calcul/hackathon_organisation,True
 https://forgemia.inra.fr/infosol/SolEil,True
 https://forgemia.inra.fr/infosol/sensor-map,True
+https://forgemia.inra.fr/inter_cati_omics/reproductibility,False
 https://forgemia.inra.fr/metexplore/MetExploreViz,True
 https://forgemia.inra.fr/metexplore/met4j,True
 https://forgemia.inra.fr/metexplore/metabolomics2network,True
@@ -1904,6 +1905,7 @@ https://github.com/SocialGouv/eMJPM-doc,True
 https://github.com/SocialGouv/eMJPM-homepage,True
 https://github.com/SocialGouv/egapro,True
 https://github.com/SocialGouv/egapro-api,True
+https://github.com/SocialGouv/egapro-declaration,False
 https://github.com/SocialGouv/emjpm,True
 https://github.com/SocialGouv/emjpm-api-doc,True
 https://github.com/SocialGouv/emjpm-design,True
@@ -5336,6 +5338,7 @@ https://gitlab.inria.fr/fec/PyBER,True
 https://gitlab.inria.fr/fedbiomed/client-fedbiomed,True
 https://gitlab.inria.fr/fedbiomed/fed-requests,True
 https://gitlab.inria.fr/fedbiomed/fedbiomed-api,True
+https://gitlab.inria.fr/fedbiomed/fedbiomed.gitlabpages.inria.fr,False
 https://gitlab.inria.fr/flocq/flocq,True
 https://gitlab.inria.fr/flowvr/flowvr-ex,True
 https://gitlab.inria.fr/formation-gitlab-ci/grossamb-tutorial,True
@@ -5800,6 +5803,7 @@ https://gitlab.irstea.fr/copain/pdf2blocs,True
 https://gitlab.irstea.fr/copain/phenologicalstages,True
 https://gitlab.irstea.fr/copain/weather2017,True
 https://gitlab.irstea.fr/cormas-dev/r-cormas,True
+https://gitlab.irstea.fr/diades/test,False
 https://gitlab.irstea.fr/emax/bddfontblanche,True
 https://gitlab.irstea.fr/geopat/geopat,True
 https://gitlab.irstea.fr/hru-delin-dev/hru-delin,True
