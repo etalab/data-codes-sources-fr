@@ -192,6 +192,7 @@ https://forgemia.inra.fr/hackathon-portail-calcul/existant,True
 https://forgemia.inra.fr/hackathon-portail-calcul/hackathon_organisation,True
 https://forgemia.inra.fr/infosol/SolEil,True
 https://forgemia.inra.fr/infosol/sensor-map,True
+https://forgemia.inra.fr/inter_cati_omics/hackathon_shiny_2020,False
 https://forgemia.inra.fr/inter_cati_omics/reproductibility,False
 https://forgemia.inra.fr/metexplore/MetExploreViz,True
 https://forgemia.inra.fr/metexplore/met4j,True
@@ -1435,7 +1436,7 @@ https://github.com/InseeFrLab/Shelly,True
 https://github.com/InseeFrLab/Ubuntu-vnc-base,True
 https://github.com/InseeFrLab/Universe-Datascience,True
 https://github.com/InseeFrLab/Universe-Formations,False
-https://github.com/InseeFrLab/aws.s3,False
+https://github.com/InseeFrLab/aws.s3,True
 https://github.com/InseeFrLab/blazingsql,True
 https://github.com/InseeFrLab/cloud-scripts,True
 https://github.com/InseeFrLab/funcampR,True
@@ -1455,7 +1456,7 @@ https://github.com/InseeFrLab/onyxia,False
 https://github.com/InseeFrLab/onyxia-api,True
 https://github.com/InseeFrLab/onyxia-cli,False
 https://github.com/InseeFrLab/onyxia-ui,True
-https://github.com/InseeFrLab/product-labelling,False
+https://github.com/InseeFrLab/product-labelling,True
 https://github.com/InseeFrLab/rapidsai,False
 https://github.com/InseeFrLab/rstudio,False
 https://github.com/InseeFrLab/rstudio-gpu,True
@@ -5198,7 +5199,7 @@ https://gitlab.inria.fr/comprise/deliverable_d21,True
 https://gitlab.inria.fr/comprise/sidp,True
 https://gitlab.inria.fr/comprise/speech-to-text-weakly-supervised-learning,True
 https://gitlab.inria.fr/comprise/spoken-language-understanding-weakly-supervised-learning,True
-https://gitlab.inria.fr/comprise/text_transformer,False
+https://gitlab.inria.fr/comprise/text_transformer,True
 https://gitlab.inria.fr/comprise/voice_transformation,True
 https://gitlab.inria.fr/computer_architecture/y86-environment,True
 https://gitlab.inria.fr/coq/coq,True
@@ -5512,6 +5513,7 @@ https://gitlab.inria.fr/mgkit/sxpipe,True
 https://gitlab.inria.fr/mgkit/syntax_hightlighting_smg,True
 https://gitlab.inria.fr/miet/miet,True
 https://gitlab.inria.fr/mimoza/mimoza,True
+https://gitlab.inria.fr/misscausal/combine-rct-rwd-review,False
 https://gitlab.inria.fr/misscausal/misscausal.gitlab.io,True
 https://gitlab.inria.fr/mnemosyne/data_prototypes,True
 https://gitlab.inria.fr/mnemosyne/neurosmart,True
@@ -5803,7 +5805,7 @@ https://gitlab.irstea.fr/copain/pdf2blocs,True
 https://gitlab.irstea.fr/copain/phenologicalstages,True
 https://gitlab.irstea.fr/copain/weather2017,True
 https://gitlab.irstea.fr/cormas-dev/r-cormas,True
-https://gitlab.irstea.fr/diades/test,False
+https://gitlab.irstea.fr/diades/test,True
 https://gitlab.irstea.fr/emax/bddfontblanche,True
 https://gitlab.irstea.fr/geopat/geopat,True
 https://gitlab.irstea.fr/hru-delin-dev/hru-delin,True
@@ -5892,7 +5894,7 @@ https://gitub.u-bordeaux.fr/innovation/act,True
 https://gitub.u-bordeaux.fr/innovation/climackathon,True
 https://gitub.u-bordeaux.fr/mapi/mapi-module-mediapod,False
 https://gitub.u-bordeaux.fr/mapi/mdl-block-navigation-ltpv,False
-https://gitub.u-bordeaux.fr/mapi/mdl-block-progress,False
+https://gitub.u-bordeaux.fr/mapi/mdl-block-progress,True
 https://gitub.u-bordeaux.fr/mapi/mdl-enrol-ubxsshib,False
 https://gitub.u-bordeaux.fr/mapi/mdl-local-ubxapogee,True
 https://gitub.u-bordeaux.fr/mapi/mdl-local-ubxws,True
@@ -5900,7 +5902,7 @@ https://gitub.u-bordeaux.fr/mapi/mdl-module-ltpv,False
 https://gitub.u-bordeaux.fr/mapi/mdl-module-pedagotec,True
 https://gitub.u-bordeaux.fr/mapi/mdl-report-attendancesheet,True
 https://gitub.u-bordeaux.fr/mapi/mdl-report-ubxstats,False
-https://gitub.u-bordeaux.fr/mapi/mdl-repository-pod,False
+https://gitub.u-bordeaux.fr/mapi/mdl-repository-pod,True
 https://gitub.u-bordeaux.fr/mapi/mdl-theme-ubx19,False
 https://gitub.u-bordeaux.fr/mapi/mdl-tool-ubxcourses,False
 https://gitub.u-bordeaux.fr/starpu/starpu2,True
