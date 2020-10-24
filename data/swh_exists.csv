@@ -1429,6 +1429,7 @@ https://github.com/InseeFrLab/AdventOfCodeLeaderboard,True
 https://github.com/InseeFrLab/BootcampJS-API,True
 https://github.com/InseeFrLab/BootcampJS-JS,True
 https://github.com/InseeFrLab/DoReMIFaSol,True
+https://github.com/InseeFrLab/DoReMIFaSolData,False
 https://github.com/InseeFrLab/InspaCy,True
 https://github.com/InseeFrLab/InspaCy-UI,True
 https://github.com/InseeFrLab/Java-Helm-Wrapper,True
@@ -1454,7 +1455,7 @@ https://github.com/InseeFrLab/keycloak-hashicorp-vault-ext,True
 https://github.com/InseeFrLab/marathon-to-kubernetes,True
 https://github.com/InseeFrLab/onyxia,False
 https://github.com/InseeFrLab/onyxia-api,True
-https://github.com/InseeFrLab/onyxia-cli,False
+https://github.com/InseeFrLab/onyxia-cli,True
 https://github.com/InseeFrLab/onyxia-ui,True
 https://github.com/InseeFrLab/product-labelling,True
 https://github.com/InseeFrLab/rapidsai,False
@@ -5893,7 +5894,7 @@ https://gitub.u-bordeaux.fr/erias/patient-covid19,False
 https://gitub.u-bordeaux.fr/innovation/act,True
 https://gitub.u-bordeaux.fr/innovation/climackathon,True
 https://gitub.u-bordeaux.fr/mapi/mapi-module-mediapod,False
-https://gitub.u-bordeaux.fr/mapi/mdl-block-navigation-ltpv,False
+https://gitub.u-bordeaux.fr/mapi/mdl-block-navigation-ltpv,True
 https://gitub.u-bordeaux.fr/mapi/mdl-block-progress,True
 https://gitub.u-bordeaux.fr/mapi/mdl-enrol-ubxsshib,False
 https://gitub.u-bordeaux.fr/mapi/mdl-local-ubxapogee,True
