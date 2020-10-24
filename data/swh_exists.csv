@@ -153,7 +153,7 @@ https://forgemia.inra.fr/genotoul-bioinfo/pyrocleaner,True
 https://forgemia.inra.fr/genotoul-bioinfo/srna-tabac,True
 https://forgemia.inra.fr/genotoul-bioinfo/tSNPannot,True
 https://forgemia.inra.fr/genotoul-bioinfo/use-nextflow-nfcore-course,True
-https://forgemia.inra.fr/geoc/hackaton2020,False
+https://forgemia.inra.fr/geoc/hackaton2020,True
 https://forgemia.inra.fr/get-it/nf-assemblshortread,True
 https://forgemia.inra.fr/get-it/nf-taxoaffiliation,True
 https://forgemia.inra.fr/gryc-data/blastobotrys_adeninivorans-ls3,True
@@ -3193,7 +3193,7 @@ https://github.com/etalab/agd.data.gouv.fr,True
 https://github.com/etalab/agefiph_worker_api_entreprise,True
 https://github.com/etalab/agenda-tech-ext,True
 https://github.com/etalab/algorithmes-publics,True
-https://github.com/etalab/annuaire-entreprises.data.gouv.fr,False
+https://github.com/etalab/annuaire-entreprises.data.gouv.fr,True
 https://github.com/etalab/api-bal,True
 https://github.com/etalab/api-codes-sources-fr,True
 https://github.com/etalab/api-geo,True
@@ -5340,7 +5340,7 @@ https://gitlab.inria.fr/fec/PyBER,True
 https://gitlab.inria.fr/fedbiomed/client-fedbiomed,True
 https://gitlab.inria.fr/fedbiomed/fed-requests,True
 https://gitlab.inria.fr/fedbiomed/fedbiomed-api,True
-https://gitlab.inria.fr/fedbiomed/fedbiomed.gitlabpages.inria.fr,False
+https://gitlab.inria.fr/fedbiomed/fedbiomed.gitlabpages.inria.fr,True
 https://gitlab.inria.fr/flocq/flocq,True
 https://gitlab.inria.fr/flowvr/flowvr-ex,True
 https://gitlab.inria.fr/formation-gitlab-ci/grossamb-tutorial,True
@@ -5902,7 +5902,7 @@ https://gitub.u-bordeaux.fr/mapi/mdl-local-ubxws,True
 https://gitub.u-bordeaux.fr/mapi/mdl-module-ltpv,False
 https://gitub.u-bordeaux.fr/mapi/mdl-module-pedagotec,True
 https://gitub.u-bordeaux.fr/mapi/mdl-report-attendancesheet,True
-https://gitub.u-bordeaux.fr/mapi/mdl-report-ubxstats,False
+https://gitub.u-bordeaux.fr/mapi/mdl-report-ubxstats,True
 https://gitub.u-bordeaux.fr/mapi/mdl-repository-pod,True
 https://gitub.u-bordeaux.fr/mapi/mdl-theme-ubx19,False
 https://gitub.u-bordeaux.fr/mapi/mdl-tool-ubxcourses,False
