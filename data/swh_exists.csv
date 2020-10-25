@@ -69,7 +69,7 @@ https://forge.univ-lyon1.fr/bd-pedago/bd-pedago,True
 https://forge.univ-lyon1.fr/cards-against-university/cau-flask,True
 https://forge.univ-lyon1.fr/cards-against-university/cau-html,True
 https://forge.univ-lyon1.fr/cheat-sheet-shit/css-git,True
-https://forge.univ-lyon1.fr/cheat-sheet-shit/css-git-error,False
+https://forge.univ-lyon1.fr/cheat-sheet-shit/css-git-error,True
 https://forge.univ-lyon1.fr/cheat-sheet-shit/css-hello-world,True
 https://forge.univ-lyon1.fr/cheat-sheet-shit/css-markdown,True
 https://forge.univ-lyon1.fr/cheat-sheet-shit/css-template,True
@@ -193,7 +193,7 @@ https://forgemia.inra.fr/hackathon-portail-calcul/hackathon_organisation,True
 https://forgemia.inra.fr/infosol/SolEil,True
 https://forgemia.inra.fr/infosol/sensor-map,True
 https://forgemia.inra.fr/inter_cati_omics/hackathon_shiny_2020,False
-https://forgemia.inra.fr/inter_cati_omics/reproductibility,False
+https://forgemia.inra.fr/inter_cati_omics/reproductibility,True
 https://forgemia.inra.fr/metexplore/MetExploreViz,True
 https://forgemia.inra.fr/metexplore/met4j,True
 https://forgemia.inra.fr/metexplore/metabolomics2network,True
@@ -1459,7 +1459,7 @@ https://github.com/InseeFrLab/onyxia-api,True
 https://github.com/InseeFrLab/onyxia-cli,True
 https://github.com/InseeFrLab/onyxia-ui,True
 https://github.com/InseeFrLab/product-labelling,True
-https://github.com/InseeFrLab/rapidsai,False
+https://github.com/InseeFrLab/rapidsai,True
 https://github.com/InseeFrLab/rstudio,False
 https://github.com/InseeFrLab/rstudio-gpu,True
 https://github.com/InseeFrLab/tensorflow,False
