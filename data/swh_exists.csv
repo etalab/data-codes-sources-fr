@@ -1449,7 +1449,7 @@ https://github.com/InseeFrLab/helm-charts,True
 https://github.com/InseeFrLab/helm-charts-datascience,True
 https://github.com/InseeFrLab/java-vtl,False
 https://github.com/InseeFrLab/java-vtl-connectors,True
-https://github.com/InseeFrLab/java-vtl-tools,False
+https://github.com/InseeFrLab/java-vtl-tools,True
 https://github.com/InseeFrLab/json-stat.java,True
 https://github.com/InseeFrLab/jupyter-datascience,True
 https://github.com/InseeFrLab/keycloak-hashicorp-vault-ext,True
