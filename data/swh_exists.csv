@@ -5671,7 +5671,7 @@ https://gitlab.inria.fr/skeletons/Coq,True
 https://gitlab.inria.fr/skeletons/jskel,True
 https://gitlab.inria.fr/skeletons/necro,True
 https://gitlab.inria.fr/skeletons/necro-coq,True
-https://gitlab.inria.fr/skeletons/necro-debug,False
+https://gitlab.inria.fr/skeletons/necro-debug,True
 https://gitlab.inria.fr/skeletons/necro-ml,True
 https://gitlab.inria.fr/skeletons/necro-test,True
 https://gitlab.inria.fr/skeletons/necro-tex,True
