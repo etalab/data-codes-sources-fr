@@ -1447,7 +1447,7 @@ https://github.com/InseeFrLab/funcampR-landingpage,True
 https://github.com/InseeFrLab/grandedim,True
 https://github.com/InseeFrLab/helm-charts,True
 https://github.com/InseeFrLab/helm-charts-datascience,True
-https://github.com/InseeFrLab/java-vtl,False
+https://github.com/InseeFrLab/java-vtl,True
 https://github.com/InseeFrLab/java-vtl-connectors,True
 https://github.com/InseeFrLab/java-vtl-tools,True
 https://github.com/InseeFrLab/json-stat.java,True
@@ -1591,7 +1591,7 @@ https://github.com/MTES-MCT/filharmonic-ui,True
 https://github.com/MTES-MCT/fluctuat,True
 https://github.com/MTES-MCT/fluctuat-apidoc,True
 https://github.com/MTES-MCT/france-connect-python,True
-https://github.com/MTES-MCT/geo-api,False
+https://github.com/MTES-MCT/geo-api,True
 https://github.com/MTES-MCT/geo-communes-api,True
 https://github.com/MTES-MCT/geostatis,True
 https://github.com/MTES-MCT/invasivalerte,True
