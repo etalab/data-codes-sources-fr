@@ -192,6 +192,7 @@ https://forgemia.inra.fr/hackathon-portail-calcul/existant,True
 https://forgemia.inra.fr/hackathon-portail-calcul/hackathon_organisation,True
 https://forgemia.inra.fr/infosol/SolEil,True
 https://forgemia.inra.fr/infosol/sensor-map,True
+https://forgemia.inra.fr/infosol/talks,False
 https://forgemia.inra.fr/inter_cati_omics/hackathon_shiny_2020,False
 https://forgemia.inra.fr/inter_cati_omics/reproductibility,True
 https://forgemia.inra.fr/metexplore/MetExploreViz,True
@@ -1437,7 +1438,7 @@ https://github.com/InseeFrLab/Shelly,True
 https://github.com/InseeFrLab/Ubuntu-vnc-base,True
 https://github.com/InseeFrLab/Universe-Datascience,True
 https://github.com/InseeFrLab/Universe-Formations,False
-https://github.com/InseeFrLab/apinsee,False
+https://github.com/InseeFrLab/apinsee,True
 https://github.com/InseeFrLab/aws.s3,True
 https://github.com/InseeFrLab/blazingsql,True
 https://github.com/InseeFrLab/cloud-scripts,True
@@ -3204,6 +3205,7 @@ https://github.com/etalab/api-urbanisme,True
 https://github.com/etalab/apicarto,True
 https://github.com/etalab/askbot-etalab-skin,True
 https://github.com/etalab/autopsy,True
+https://github.com/etalab/backend-siren,False
 https://github.com/etalab/bal,True
 https://github.com/etalab/ban-data,True
 https://github.com/etalab/ban-geocode,True
