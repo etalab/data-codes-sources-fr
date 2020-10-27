@@ -1040,6 +1040,7 @@ https://github.com/EsupPortail/esup-mdw-pegase,True
 https://github.com/EsupPortail/esup-mod_rocketchat,True
 https://github.com/EsupPortail/esup-news,True
 https://github.com/EsupPortail/esup-nfc-tag-arduino,True
+https://github.com/EsupPortail/esup-nfc-tag-cas-mfa,False
 https://github.com/EsupPortail/esup-nfc-tag-desktop,True
 https://github.com/EsupPortail/esup-nfc-tag-droid,True
 https://github.com/EsupPortail/esup-nfc-tag-keyboard,True
@@ -1430,7 +1431,7 @@ https://github.com/InseeFrLab/AdventOfCodeLeaderboard,True
 https://github.com/InseeFrLab/BootcampJS-API,True
 https://github.com/InseeFrLab/BootcampJS-JS,True
 https://github.com/InseeFrLab/DoReMIFaSol,True
-https://github.com/InseeFrLab/DoReMIFaSolData,False
+https://github.com/InseeFrLab/DoReMIFaSolData,True
 https://github.com/InseeFrLab/InspaCy,True
 https://github.com/InseeFrLab/InspaCy-UI,True
 https://github.com/InseeFrLab/Java-Helm-Wrapper,True
@@ -2413,7 +2414,7 @@ https://github.com/betagouv/itou-fdi,True
 https://github.com/betagouv/itou-gitbook,True
 https://github.com/betagouv/itou_c4_python_api,True
 https://github.com/betagouv/itou_entreprise,False
-https://github.com/betagouv/juridiques,False
+https://github.com/betagouv/juridiques,True
 https://github.com/betagouv/kibana-scalingo,True
 https://github.com/betagouv/kong-delegateAuth,True
 https://github.com/betagouv/kong-delegateAuth-deprecated,True
