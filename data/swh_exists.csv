@@ -93,6 +93,7 @@ https://forge.univ-lyon1.fr/lifap6/tp-arbretas-etu,True
 https://forge.univ-lyon1.fr/lifap6/tp-avl-etu,True
 https://forge.univ-lyon1.fr/lifap6/tp-listes-etu,True
 https://forge.univ-lyon1.fr/lifap6/tp-union-find-etu,True
+https://forge.univ-lyon1.fr/lifprojet-lifprojet/raytracing,False
 https://forge.univ-lyon1.fr/lifprojet/lifprojet_am3,True
 https://forge.univ-lyon1.fr/loup-garouptut/loupandroid,True
 https://forge.univ-lyon1.fr/m1if27/box-intersection-etu,True
@@ -3613,7 +3614,7 @@ https://github.com/ina-foss/voxo-docker,True
 https://github.com/ina-foss/voxo-lib,True
 https://github.com/incubateur-territoires/incubateur-strapi,True
 https://github.com/incubateur-territoires/incubateur.anct.gouv.fr,True
-https://github.com/incubateur-territoires/ressources,False
+https://github.com/incubateur-territoires/ressources,True
 https://github.com/incubateur-territoires/territoires.store,True
 https://github.com/indsante/Documentation-SNDS,True
 https://github.com/indsante/dico-snds,True
@@ -4863,6 +4864,7 @@ https://gitlab.com/healthdatahub/schema-snds,True
 https://gitlab.com/healthdatahub/synthetic-snds,True
 https://gitlab.com/healthdatahub/tsfaker,True
 https://gitlab.com/musee-saint-raymond/villa-chiragan,True
+https://gitlab.com/op18-enki/cosmic-sapeurs,False
 https://gitlab.com/op18-enki/sapeurs,True
 https://gitlab.com/pidila/checklist-app,True
 https://gitlab.com/pidila/checklist-pidila,True
