@@ -126,6 +126,7 @@ https://forgemia.inra.fr/bibliome/alvisae-anaee,True
 https://forgemia.inra.fr/bibliome/bionlp-st-py,True
 https://forgemia.inra.fr/bibliome/formation-alvisnlp,True
 https://forgemia.inra.fr/bibliome/pesv-tm,True
+https://forgemia.inra.fr/biocom/biocom-pipe,False
 https://forgemia.inra.fr/bioger/django-custom-user,True
 https://forgemia.inra.fr/bios4biol/bioinfo-utils,True
 https://forgemia.inra.fr/bios4biol/workflows,True
@@ -1040,7 +1041,7 @@ https://github.com/EsupPortail/esup-mdw-pegase,True
 https://github.com/EsupPortail/esup-mod_rocketchat,True
 https://github.com/EsupPortail/esup-news,True
 https://github.com/EsupPortail/esup-nfc-tag-arduino,True
-https://github.com/EsupPortail/esup-nfc-tag-cas-mfa,False
+https://github.com/EsupPortail/esup-nfc-tag-cas-mfa,True
 https://github.com/EsupPortail/esup-nfc-tag-desktop,True
 https://github.com/EsupPortail/esup-nfc-tag-droid,True
 https://github.com/EsupPortail/esup-nfc-tag-keyboard,True
@@ -1497,6 +1498,7 @@ https://github.com/LAB-MI/deplacement-codiv-19,False
 https://github.com/LAB-MI/deplacement-covid-19,True
 https://github.com/LAB-MI/remise-masques-covid-19,True
 https://github.com/LETG/csw-harvester,True
+https://github.com/LETG/geoauth,False
 https://github.com/LETG/geocms,True
 https://github.com/LETG/letg-spip,True
 https://github.com/LETG/managechart,True
@@ -4820,6 +4822,7 @@ https://gitlab.com/CSTB/modele_donnee_dpe_2020,True
 https://gitlab.com/DREES_code/formulaire_zonage_ars,True
 https://gitlab.com/api-meubles/backend,True
 https://gitlab.com/api-meubles/doc-api,True
+https://gitlab.com/api-meubles/fraddress,False
 https://gitlab.com/api-meubles/frontend,True
 https://gitlab.com/api-meubles/website,True
 https://gitlab.com/cortext/ANSES,True
