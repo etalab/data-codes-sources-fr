@@ -127,7 +127,7 @@ https://forgemia.inra.fr/bibliome/alvisae-anaee,True
 https://forgemia.inra.fr/bibliome/bionlp-st-py,True
 https://forgemia.inra.fr/bibliome/formation-alvisnlp,True
 https://forgemia.inra.fr/bibliome/pesv-tm,True
-https://forgemia.inra.fr/biocom/biocom-pipe,False
+https://forgemia.inra.fr/biocom/biocom-pipe,True
 https://forgemia.inra.fr/bioger/django-custom-user,True
 https://forgemia.inra.fr/bios4biol/bioinfo-utils,True
 https://forgemia.inra.fr/bios4biol/workflows,True
@@ -1636,6 +1636,7 @@ https://github.com/MTES-MCT/secmar-documentation,True
 https://github.com/MTES-MCT/toolbox,True
 https://github.com/MTES-MCT/trackdechets,True
 https://github.com/MTES-MCT/trackdechets-bulk-account-creation,True
+https://github.com/MTES-MCT/trackdechets-dasri-proto,False
 https://github.com/MTES-MCT/trackdechets-datascience,True
 https://github.com/MTES-MCT/trackdechets-metabase,True
 https://github.com/MTES-MCT/trackdechets-oauth2-demo-app,True
@@ -4481,7 +4482,7 @@ https://github.com/riatelab/magrit,True
 https://github.com/riatelab/magrit-rouen,True
 https://github.com/riatelab/magrit-templates-carto,True
 https://github.com/riatelab/mapinsetr,True
-https://github.com/riatelab/maptiles,False
+https://github.com/riatelab/maptiles,True
 https://github.com/riatelab/mexusaborder,True
 https://github.com/riatelab/nuts,True
 https://github.com/riatelab/potential,True
@@ -5902,7 +5903,7 @@ https://gitlabjf.ccomptes.fr/startupjf/e-controle,True
 https://gitlabjf.ccomptes.fr/startupjf/e-controle-deploy,True
 https://gitlabjf.ccomptes.fr/wikijs/wikijs,True
 https://gitub.u-bordeaux.fr/erias/fideo,False
-https://gitub.u-bordeaux.fr/erias/patient-covid19,False
+https://gitub.u-bordeaux.fr/erias/patient-covid19,True
 https://gitub.u-bordeaux.fr/innovation/act,True
 https://gitub.u-bordeaux.fr/innovation/climackathon,True
 https://gitub.u-bordeaux.fr/mapi/mapi-module-mediapod,True
