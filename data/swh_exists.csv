@@ -93,7 +93,7 @@ https://forge.univ-lyon1.fr/lifap6/tp-arbretas-etu,True
 https://forge.univ-lyon1.fr/lifap6/tp-avl-etu,True
 https://forge.univ-lyon1.fr/lifap6/tp-listes-etu,True
 https://forge.univ-lyon1.fr/lifap6/tp-union-find-etu,True
-https://forge.univ-lyon1.fr/lifprojet-lifprojet/raytracing,False
+https://forge.univ-lyon1.fr/lifprojet-lifprojet/raytracing,True
 https://forge.univ-lyon1.fr/lifprojet/lifprojet_am3,True
 https://forge.univ-lyon1.fr/loup-garouptut/loupandroid,True
 https://forge.univ-lyon1.fr/m1if27/box-intersection-etu,True
@@ -4562,6 +4562,7 @@ https://github.com/snosan-tools/srr-mrcc-france,True
 https://github.com/spyrales/copyre-alpha,True
 https://github.com/spyrales/design.numerique.gouv.fr,True
 https://github.com/spyrales/gouvdown,True
+https://github.com/spyrales/gouvdown.fonts,False
 https://github.com/spyrales/la-piscine,True
 https://github.com/spyrales/organisation,True
 https://github.com/spyrales/presentation,True
