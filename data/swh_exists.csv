@@ -195,7 +195,7 @@ https://forgemia.inra.fr/hackathon-portail-calcul/hackathon_organisation,True
 https://forgemia.inra.fr/infosol/SolEil,True
 https://forgemia.inra.fr/infosol/sensor-map,True
 https://forgemia.inra.fr/infosol/talks,False
-https://forgemia.inra.fr/inter_cati_omics/hackathon_shiny_2020,False
+https://forgemia.inra.fr/inter_cati_omics/hackathon_shiny_2020,True
 https://forgemia.inra.fr/inter_cati_omics/reproductibility,True
 https://forgemia.inra.fr/metexplore/MetExploreViz,True
 https://forgemia.inra.fr/metexplore/met4j,True
@@ -1491,6 +1491,7 @@ https://github.com/Irstea/w3id.org,True
 https://github.com/LAB-MI/LAB-MI.github.io,True
 https://github.com/LAB-MI/api.gouv.fr,True
 https://github.com/LAB-MI/attestation-couvre-feu-covid-19,True
+https://github.com/LAB-MI/attestation-deplacement-derogatoire-q4-2020,False
 https://github.com/LAB-MI/candilib,True
 https://github.com/LAB-MI/candilibV2,True
 https://github.com/LAB-MI/covid-19-certificate,True
@@ -4867,7 +4868,7 @@ https://gitlab.com/healthdatahub/schema-snds,True
 https://gitlab.com/healthdatahub/synthetic-snds,True
 https://gitlab.com/healthdatahub/tsfaker,True
 https://gitlab.com/musee-saint-raymond/villa-chiragan,True
-https://gitlab.com/op18-enki/cosmic-sapeurs,False
+https://gitlab.com/op18-enki/cosmic-sapeurs,True
 https://gitlab.com/op18-enki/sapeurs,True
 https://gitlab.com/pidila/checklist-app,True
 https://gitlab.com/pidila/checklist-pidila,True
