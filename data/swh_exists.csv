@@ -1499,7 +1499,7 @@ https://github.com/LAB-MI/deplacement-codiv-19,False
 https://github.com/LAB-MI/deplacement-covid-19,True
 https://github.com/LAB-MI/remise-masques-covid-19,True
 https://github.com/LETG/csw-harvester,True
-https://github.com/LETG/geoauth,False
+https://github.com/LETG/geoauth,True
 https://github.com/LETG/geocms,True
 https://github.com/LETG/letg-spip,True
 https://github.com/LETG/managechart,True
@@ -4481,6 +4481,7 @@ https://github.com/riatelab/magrit,True
 https://github.com/riatelab/magrit-rouen,True
 https://github.com/riatelab/magrit-templates-carto,True
 https://github.com/riatelab/mapinsetr,True
+https://github.com/riatelab/maptiles,False
 https://github.com/riatelab/mexusaborder,True
 https://github.com/riatelab/nuts,True
 https://github.com/riatelab/potential,True
@@ -5916,5 +5917,5 @@ https://gitub.u-bordeaux.fr/mapi/mdl-report-attendancesheet,True
 https://gitub.u-bordeaux.fr/mapi/mdl-report-ubxstats,True
 https://gitub.u-bordeaux.fr/mapi/mdl-repository-pod,True
 https://gitub.u-bordeaux.fr/mapi/mdl-theme-ubx19,False
-https://gitub.u-bordeaux.fr/mapi/mdl-tool-ubxcourses,False
+https://gitub.u-bordeaux.fr/mapi/mdl-tool-ubxcourses,True
 https://gitub.u-bordeaux.fr/starpu/starpu2,True
