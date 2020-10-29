@@ -521,6 +521,7 @@ https://github.com/1024pix/scalingo-app-switch,True
 https://github.com/1024pix/scalingo-review-app-manager,True
 https://github.com/1024pix/subdir-buildpack,True
 https://github.com/1024pix/test-deploy-from-slack,True
+https://github.com/1024pix/third-services-quota-manager,False
 https://github.com/139bercy/cloud-appliance-ci-cd,True
 https://github.com/139bercy/cloud-appliance-composer-repo,True
 https://github.com/139bercy/cloud-appliance-management,True
@@ -1456,7 +1457,7 @@ https://github.com/InseeFrLab/java-vtl-connectors,True
 https://github.com/InseeFrLab/java-vtl-tools,True
 https://github.com/InseeFrLab/json-stat.java,True
 https://github.com/InseeFrLab/jupyter-datascience,True
-https://github.com/InseeFrLab/k8s-onboarding,False
+https://github.com/InseeFrLab/k8s-onboarding,True
 https://github.com/InseeFrLab/keycloak-hashicorp-vault-ext,True
 https://github.com/InseeFrLab/marathon-to-kubernetes,True
 https://github.com/InseeFrLab/onyxia,False
@@ -1468,6 +1469,7 @@ https://github.com/InseeFrLab/rapidsai,True
 https://github.com/InseeFrLab/rstudio,False
 https://github.com/InseeFrLab/rstudio-gpu,True
 https://github.com/InseeFrLab/tensorflow,False
+https://github.com/InseeFrLab/ubuntu-vnc,False
 https://github.com/InseeFrLab/ubuntu-vnc-dind,True
 https://github.com/InseeFrLab/vscode-python,True
 https://github.com/Irstea/ALPFORPLOTS,True
@@ -3206,7 +3208,7 @@ https://github.com/etalab/agefiph_worker_api_entreprise,True
 https://github.com/etalab/agenda-tech-ext,True
 https://github.com/etalab/algorithmes-publics,True
 https://github.com/etalab/annuaire-entreprises.data.gouv.fr,True
-https://github.com/etalab/api-annuaire-entreprises,False
+https://github.com/etalab/api-annuaire-entreprises,True
 https://github.com/etalab/api-bal,True
 https://github.com/etalab/api-codes-sources-fr,True
 https://github.com/etalab/api-geo,True
@@ -5063,6 +5065,8 @@ https://gitlab.inria.fr/RMOD/Welcome,True
 https://gitlab.inria.fr/RMOD/archive,True
 https://gitlab.inria.fr/RMOD/libgit-build,True
 https://gitlab.inria.fr/Seshat/internetprivacy,False
+https://gitlab.inria.fr/Seshat/simplewebpage,False
+https://gitlab.inria.fr/Seshat/webgl,False
 https://gitlab.inria.fr/SketchedLearning/spm-notebook,True
 https://gitlab.inria.fr/Spirals/monsoon,True
 https://gitlab.inria.fr/TeamPlay_Public/TeamPlay_Public_Deliverables,True
