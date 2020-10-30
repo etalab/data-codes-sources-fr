@@ -522,7 +522,7 @@ https://github.com/1024pix/scalingo-app-switch,True
 https://github.com/1024pix/scalingo-review-app-manager,True
 https://github.com/1024pix/subdir-buildpack,True
 https://github.com/1024pix/test-deploy-from-slack,True
-https://github.com/1024pix/third-services-quota-manager,False
+https://github.com/1024pix/third-services-quota-manager,True
 https://github.com/139bercy/cloud-appliance-ci-cd,True
 https://github.com/139bercy/cloud-appliance-composer-repo,True
 https://github.com/139bercy/cloud-appliance-management,True
@@ -3626,7 +3626,7 @@ https://github.com/incubateur-territoires/incubateur-strapi,True
 https://github.com/incubateur-territoires/incubateur.anct.gouv.fr,True
 https://github.com/incubateur-territoires/ressources,True
 https://github.com/incubateur-territoires/territoires.store,True
-https://github.com/incubateur-territoires/tutoriel-communs,False
+https://github.com/incubateur-territoires/tutoriel-communs,True
 https://github.com/indsante/Documentation-SNDS,True
 https://github.com/indsante/dico-snds,True
 https://github.com/indsante/dico-snds-creation-archive,True
