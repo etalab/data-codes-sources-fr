@@ -2371,7 +2371,7 @@ https://github.com/betagouv/discourse-oauth2-basic,True
 https://github.com/betagouv/django-magicauth,True
 https://github.com/betagouv/dns,True
 https://github.com/betagouv/doc.incubateur.net-communaute,True
-https://github.com/betagouv/doc.incubateur.net-insertion,False
+https://github.com/betagouv/doc.incubateur.net-insertion,True
 https://github.com/betagouv/doc.incubateur.net-startups,True
 https://github.com/betagouv/docs.dossiersco.fr,True
 https://github.com/betagouv/documentation,True
@@ -5069,12 +5069,12 @@ https://gitlab.inria.fr/RMOD/Ghost,True
 https://gitlab.inria.fr/RMOD/Welcome,True
 https://gitlab.inria.fr/RMOD/archive,True
 https://gitlab.inria.fr/RMOD/libgit-build,True
-https://gitlab.inria.fr/Seshat/deeplearning,False
+https://gitlab.inria.fr/Seshat/deeplearning,True
 https://gitlab.inria.fr/Seshat/html,False
 https://gitlab.inria.fr/Seshat/internetprivacy,False
 https://gitlab.inria.fr/Seshat/simplewebpage,True
 https://gitlab.inria.fr/Seshat/unity,False
-https://gitlab.inria.fr/Seshat/webgl,False
+https://gitlab.inria.fr/Seshat/webgl,True
 https://gitlab.inria.fr/SketchedLearning/spm-notebook,True
 https://gitlab.inria.fr/Spirals/monsoon,True
 https://gitlab.inria.fr/TeamPlay_Public/TeamPlay_Public_Deliverables,True
@@ -5839,7 +5839,7 @@ https://gitlab.irstea.fr/copain/pdf2blocs,True
 https://gitlab.irstea.fr/copain/phenologicalstages,True
 https://gitlab.irstea.fr/copain/weather2017,True
 https://gitlab.irstea.fr/cormas-dev/r-cormas,True
-https://gitlab.irstea.fr/diades/diades.atlas,False
+https://gitlab.irstea.fr/diades/diades.atlas,True
 https://gitlab.irstea.fr/diades/test,True
 https://gitlab.irstea.fr/emax/bddfontblanche,True
 https://gitlab.irstea.fr/geopat/geopat,True
