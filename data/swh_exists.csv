@@ -402,6 +402,7 @@ https://git.unistra.fr/gdt/back,True
 https://git.unistra.fr/gdt/front,True
 https://git.unistra.fr/glakata/serveur-central,False
 https://git.unistra.fr/goj19-t4-b/projet-tutore-tycoon,True
+https://git.unistra.fr/grossiste/bill-worker,False
 https://git.unistra.fr/ihm/ihm-projet,True
 https://git.unistra.fr/integratron/integrateur,True
 https://git.unistra.fr/integratron/integrateur-api,True
@@ -1494,7 +1495,7 @@ https://github.com/Irstea/w3id.org,True
 https://github.com/LAB-MI/LAB-MI.github.io,True
 https://github.com/LAB-MI/api.gouv.fr,True
 https://github.com/LAB-MI/attestation-couvre-feu-covid-19,True
-https://github.com/LAB-MI/attestation-deplacement-derogatoire-q4-2020,False
+https://github.com/LAB-MI/attestation-deplacement-derogatoire-q4-2020,True
 https://github.com/LAB-MI/candilib,True
 https://github.com/LAB-MI/candilibV2,True
 https://github.com/LAB-MI/covid-19-certificate,True
@@ -2342,6 +2343,7 @@ https://github.com/betagouv/co-constuisons-bot,True
 https://github.com/betagouv/codimd,True
 https://github.com/betagouv/codimd-server,True
 https://github.com/betagouv/coding-dojos,True
+https://github.com/betagouv/comobi_valberg,False
 https://github.com/betagouv/competences-pro,True
 https://github.com/betagouv/competences-pro-orchestrateur,True
 https://github.com/betagouv/competences-pro-serveur,True
@@ -3624,6 +3626,7 @@ https://github.com/incubateur-territoires/incubateur-strapi,True
 https://github.com/incubateur-territoires/incubateur.anct.gouv.fr,True
 https://github.com/incubateur-territoires/ressources,True
 https://github.com/incubateur-territoires/territoires.store,True
+https://github.com/incubateur-territoires/tutoriel-communs,False
 https://github.com/indsante/Documentation-SNDS,True
 https://github.com/indsante/dico-snds,True
 https://github.com/indsante/dico-snds-creation-archive,True
@@ -3635,7 +3638,7 @@ https://github.com/inrae/Matrix_lib-v2.0,True
 https://github.com/inrae/ODAM,True
 https://github.com/inrae/ShellScripts,True
 https://github.com/inrae/dbexportmodel,True
-https://github.com/inrae/diades.atlas,False
+https://github.com/inrae/diades.atlas,True
 https://github.com/inrae/filo-docker,True
 https://github.com/inrae/filo-science,True
 https://github.com/istex/GitManager,True
@@ -4455,6 +4458,8 @@ https://github.com/polewebmaedi/countries,True
 https://github.com/polewebmaedi/natural-earth-vector,True
 https://github.com/powerapi-ng/energy-scripts,True
 https://github.com/powerapi-ng/hwpc-sensor,True
+https://github.com/powerapi-ng/j-joules,False
+https://github.com/powerapi-ng/junit-jjoules,False
 https://github.com/powerapi-ng/powerapi,True
 https://github.com/powerapi-ng/powerapi-ng.github.io,True
 https://github.com/powerapi-ng/powerapi-scala,True
@@ -5064,8 +5069,11 @@ https://gitlab.inria.fr/RMOD/Ghost,True
 https://gitlab.inria.fr/RMOD/Welcome,True
 https://gitlab.inria.fr/RMOD/archive,True
 https://gitlab.inria.fr/RMOD/libgit-build,True
+https://gitlab.inria.fr/Seshat/deeplearning,False
+https://gitlab.inria.fr/Seshat/html,False
 https://gitlab.inria.fr/Seshat/internetprivacy,False
 https://gitlab.inria.fr/Seshat/simplewebpage,True
+https://gitlab.inria.fr/Seshat/unity,False
 https://gitlab.inria.fr/Seshat/webgl,False
 https://gitlab.inria.fr/SketchedLearning/spm-notebook,True
 https://gitlab.inria.fr/Spirals/monsoon,True
@@ -5922,7 +5930,7 @@ https://gitub.u-bordeaux.fr/innovation/climackathon,True
 https://gitub.u-bordeaux.fr/mapi/mapi-module-mediapod,True
 https://gitub.u-bordeaux.fr/mapi/mdl-block-navigation-ltpv,True
 https://gitub.u-bordeaux.fr/mapi/mdl-block-progress,True
-https://gitub.u-bordeaux.fr/mapi/mdl-enrol-ubxsshib,False
+https://gitub.u-bordeaux.fr/mapi/mdl-enrol-ubxsshib,True
 https://gitub.u-bordeaux.fr/mapi/mdl-local-ubxapogee,True
 https://gitub.u-bordeaux.fr/mapi/mdl-local-ubxws,True
 https://gitub.u-bordeaux.fr/mapi/mdl-module-ltpv,True
