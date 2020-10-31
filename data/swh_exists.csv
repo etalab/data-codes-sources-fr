@@ -1467,7 +1467,7 @@ https://github.com/InseeFrLab/onyxia-cli,True
 https://github.com/InseeFrLab/onyxia-ui,True
 https://github.com/InseeFrLab/product-labelling,True
 https://github.com/InseeFrLab/rapidsai,True
-https://github.com/InseeFrLab/rstudio,False
+https://github.com/InseeFrLab/rstudio,True
 https://github.com/InseeFrLab/rstudio-gpu,True
 https://github.com/InseeFrLab/tensorflow,True
 https://github.com/InseeFrLab/ubuntu-vnc,True
