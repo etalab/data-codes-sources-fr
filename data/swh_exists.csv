@@ -1461,7 +1461,7 @@ https://github.com/InseeFrLab/jupyter-datascience,True
 https://github.com/InseeFrLab/k8s-onboarding,True
 https://github.com/InseeFrLab/keycloak-hashicorp-vault-ext,True
 https://github.com/InseeFrLab/marathon-to-kubernetes,True
-https://github.com/InseeFrLab/onyxia,False
+https://github.com/InseeFrLab/onyxia,True
 https://github.com/InseeFrLab/onyxia-api,True
 https://github.com/InseeFrLab/onyxia-cli,True
 https://github.com/InseeFrLab/onyxia-ui,True
@@ -1469,8 +1469,8 @@ https://github.com/InseeFrLab/product-labelling,True
 https://github.com/InseeFrLab/rapidsai,True
 https://github.com/InseeFrLab/rstudio,False
 https://github.com/InseeFrLab/rstudio-gpu,True
-https://github.com/InseeFrLab/tensorflow,False
-https://github.com/InseeFrLab/ubuntu-vnc,False
+https://github.com/InseeFrLab/tensorflow,True
+https://github.com/InseeFrLab/ubuntu-vnc,True
 https://github.com/InseeFrLab/ubuntu-vnc-dind,True
 https://github.com/InseeFrLab/vscode-python,True
 https://github.com/Irstea/ALPFORPLOTS,True
@@ -2174,7 +2174,7 @@ https://github.com/ambanum/ParisCall,True
 https://github.com/ambanum/TOSBack-CGUs-bridge,True
 https://github.com/ambanum/TwitterAccountsHistory,True
 https://github.com/ambanum/beta.gouv.fr,True
-https://github.com/ambanum/cgus-snapshots-tosback,False
+https://github.com/ambanum/cgus-snapshots-tosback,True
 https://github.com/ambanum/desinfo-mattermost-integrations,True
 https://github.com/ambanum/desinfo.quaidorsay.fr-wiki,True
 https://github.com/ambanum/disencyclopedia,True
@@ -2343,7 +2343,7 @@ https://github.com/betagouv/co-constuisons-bot,True
 https://github.com/betagouv/codimd,True
 https://github.com/betagouv/codimd-server,True
 https://github.com/betagouv/coding-dojos,True
-https://github.com/betagouv/comobi_valberg,False
+https://github.com/betagouv/comobi_valberg,True
 https://github.com/betagouv/competences-pro,True
 https://github.com/betagouv/competences-pro-orchestrateur,True
 https://github.com/betagouv/competences-pro-serveur,True
@@ -4577,7 +4577,7 @@ https://github.com/snosan-tools/srr-mrcc-france,True
 https://github.com/spyrales/copyre-alpha,True
 https://github.com/spyrales/design.numerique.gouv.fr,True
 https://github.com/spyrales/gouvdown,True
-https://github.com/spyrales/gouvdown.fonts,False
+https://github.com/spyrales/gouvdown.fonts,True
 https://github.com/spyrales/la-piscine,True
 https://github.com/spyrales/organisation,True
 https://github.com/spyrales/presentation,True
