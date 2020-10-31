@@ -402,7 +402,7 @@ https://git.unistra.fr/gdt/back,True
 https://git.unistra.fr/gdt/front,True
 https://git.unistra.fr/glakata/serveur-central,False
 https://git.unistra.fr/goj19-t4-b/projet-tutore-tycoon,True
-https://git.unistra.fr/grossiste/bill-worker,False
+https://git.unistra.fr/grossiste/bill-worker,True
 https://git.unistra.fr/ihm/ihm-projet,True
 https://git.unistra.fr/integratron/integrateur,True
 https://git.unistra.fr/integratron/integrateur-api,True
@@ -1641,7 +1641,7 @@ https://github.com/MTES-MCT/secmar-documentation,True
 https://github.com/MTES-MCT/toolbox,True
 https://github.com/MTES-MCT/trackdechets,True
 https://github.com/MTES-MCT/trackdechets-bulk-account-creation,True
-https://github.com/MTES-MCT/trackdechets-dasri-proto,False
+https://github.com/MTES-MCT/trackdechets-dasri-proto,True
 https://github.com/MTES-MCT/trackdechets-datascience,True
 https://github.com/MTES-MCT/trackdechets-metabase,True
 https://github.com/MTES-MCT/trackdechets-oauth2-demo-app,True
@@ -5070,7 +5070,7 @@ https://gitlab.inria.fr/RMOD/Welcome,True
 https://gitlab.inria.fr/RMOD/archive,True
 https://gitlab.inria.fr/RMOD/libgit-build,True
 https://gitlab.inria.fr/Seshat/deeplearning,True
-https://gitlab.inria.fr/Seshat/html,False
+https://gitlab.inria.fr/Seshat/html,True
 https://gitlab.inria.fr/Seshat/internetprivacy,False
 https://gitlab.inria.fr/Seshat/simplewebpage,True
 https://gitlab.inria.fr/Seshat/unity,False
@@ -5506,7 +5506,7 @@ https://gitlab.inria.fr/lcourtes-phd/edcc-2006-redone,True
 https://gitlab.inria.fr/lcourtes-phd/file-sets,True
 https://gitlab.inria.fr/learninglab/formation-ux,True
 https://gitlab.inria.fr/learninglab/guidelines,False
-https://gitlab.inria.fr/learninglab/guidelines-ill,False
+https://gitlab.inria.fr/learninglab/guidelines-ill,True
 https://gitlab.inria.fr/learninglab/mooc-bioinfo,True
 https://gitlab.inria.fr/learninglab/mooc-forum-plugin,True
 https://gitlab.inria.fr/learninglab/mooc-forums-theme,True
