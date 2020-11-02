@@ -1644,6 +1644,7 @@ https://github.com/MTES-MCT/trackdechets,True
 https://github.com/MTES-MCT/trackdechets-bulk-account-creation,True
 https://github.com/MTES-MCT/trackdechets-dasri-proto,True
 https://github.com/MTES-MCT/trackdechets-datascience,True
+https://github.com/MTES-MCT/trackdechets-etl,False
 https://github.com/MTES-MCT/trackdechets-metabase,True
 https://github.com/MTES-MCT/trackdechets-oauth2-demo-app,True
 https://github.com/MTES-MCT/trackdechets-website,True
@@ -2100,6 +2101,7 @@ https://github.com/X-DataInitiative/tick-datasets,True
 https://github.com/X-DataInitiative/tick_appveyor,True
 https://github.com/X-DataInitiative/tick_archive,True
 https://github.com/abes-esr/abes-format-pivot,True
+https://github.com/abes-esr/abes-hello,False
 https://github.com/abes-esr/abes-ontology,True
 https://github.com/abes-esr/abes-politique-developpement,True
 https://github.com/abes-esr/abes-sparql-examples,True
@@ -2169,7 +2171,7 @@ https://github.com/ambanum/CGUs-data,True
 https://github.com/ambanum/CGUs-data-snapshots,True
 https://github.com/ambanum/CGUs-ops,False
 https://github.com/ambanum/CGUs-snapshots,True
-https://github.com/ambanum/CGUs-stats,False
+https://github.com/ambanum/CGUs-stats,True
 https://github.com/ambanum/CGUs-versions,True
 https://github.com/ambanum/DormantTwitterAccountsDetector,True
 https://github.com/ambanum/ParisCall,True
@@ -4460,7 +4462,7 @@ https://github.com/polewebmaedi/countries,True
 https://github.com/polewebmaedi/natural-earth-vector,True
 https://github.com/powerapi-ng/energy-scripts,True
 https://github.com/powerapi-ng/hwpc-sensor,True
-https://github.com/powerapi-ng/j-joules,False
+https://github.com/powerapi-ng/j-joules,True
 https://github.com/powerapi-ng/junit-jjoules,False
 https://github.com/powerapi-ng/powerapi,True
 https://github.com/powerapi-ng/powerapi-ng.github.io,True
