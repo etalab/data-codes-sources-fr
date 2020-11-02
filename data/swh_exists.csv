@@ -1447,6 +1447,7 @@ https://github.com/InseeFrLab/apinsee,True
 https://github.com/InseeFrLab/aws.s3,True
 https://github.com/InseeFrLab/blazingsql,True
 https://github.com/InseeFrLab/cloud-scripts,True
+https://github.com/InseeFrLab/funcamp.sspcloud.fr,False
 https://github.com/InseeFrLab/funcampR,True
 https://github.com/InseeFrLab/funcampR-base,True
 https://github.com/InseeFrLab/funcampR-landingpage,True
@@ -5128,6 +5129,7 @@ https://gitlab.inria.fr/android-tools/readme,True
 https://gitlab.inria.fr/asbizard/Procedural_modeling_of_multi-scale_galactic_dust,True
 https://gitlab.inria.fr/asclepios/biblio,True
 https://gitlab.inria.fr/aviz/paohvis,True
+https://gitlab.inria.fr/bar/website,False
 https://gitlab.inria.fr/bass-db/bss_eval,True
 https://gitlab.inria.fr/bass-db/bss_locate,True
 https://gitlab.inria.fr/bass-db/bss_oracle,True
