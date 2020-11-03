@@ -1443,7 +1443,7 @@ https://github.com/InseeFrLab/Java-Helm-Wrapper,True
 https://github.com/InseeFrLab/Shelly,True
 https://github.com/InseeFrLab/Ubuntu-vnc-base,True
 https://github.com/InseeFrLab/Universe-Datascience,True
-https://github.com/InseeFrLab/Universe-Formations,False
+https://github.com/InseeFrLab/Universe-Formations,True
 https://github.com/InseeFrLab/apinsee,True
 https://github.com/InseeFrLab/aws.s3,True
 https://github.com/InseeFrLab/blazingsql,True
@@ -5126,6 +5126,7 @@ https://gitlab.inria.fr/allgo/doc,True
 https://gitlab.inria.fr/almanach/alpi,True
 https://gitlab.inria.fr/alta/alta,True
 https://gitlab.inria.fr/amibio/Infrared,False
+https://gitlab.inria.fr/amibio/RNAPOND,False
 https://gitlab.inria.fr/andiamo/eusdisparser,True
 https://gitlab.inria.fr/andiamo/tony,True
 https://gitlab.inria.fr/android-tools/apk-ops,True
