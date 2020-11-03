@@ -1645,7 +1645,7 @@ https://github.com/MTES-MCT/trackdechets,True
 https://github.com/MTES-MCT/trackdechets-bulk-account-creation,True
 https://github.com/MTES-MCT/trackdechets-dasri-proto,True
 https://github.com/MTES-MCT/trackdechets-datascience,True
-https://github.com/MTES-MCT/trackdechets-etl,False
+https://github.com/MTES-MCT/trackdechets-etl,True
 https://github.com/MTES-MCT/trackdechets-metabase,True
 https://github.com/MTES-MCT/trackdechets-oauth2-demo-app,True
 https://github.com/MTES-MCT/trackdechets-website,True
@@ -5949,4 +5949,5 @@ https://gitub.u-bordeaux.fr/mapi/mdl-report-ubxstats,True
 https://gitub.u-bordeaux.fr/mapi/mdl-repository-pod,True
 https://gitub.u-bordeaux.fr/mapi/mdl-theme-ubx19,False
 https://gitub.u-bordeaux.fr/mapi/mdl-tool-ubxcourses,True
+https://gitub.u-bordeaux.fr/starpu/starpu,False
 https://gitub.u-bordeaux.fr/starpu/starpu2,True
