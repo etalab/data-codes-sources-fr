@@ -196,6 +196,8 @@ https://forgemia.inra.fr/infosol/SolEil,True
 https://forgemia.inra.fr/infosol/sensor-map,True
 https://forgemia.inra.fr/infosol/talks,True
 https://forgemia.inra.fr/inter_cati_omics/hackathon_shiny_2020,True
+https://forgemia.inra.fr/inter_cati_omics/hackathon_snakemake_2020,False
+https://forgemia.inra.fr/inter_cati_omics/hackathon_snakemake_singularity_mapping,False
 https://forgemia.inra.fr/inter_cati_omics/reproductibility,True
 https://forgemia.inra.fr/metexplore/MetExploreViz,True
 https://forgemia.inra.fr/metexplore/met4j,True
@@ -3425,6 +3427,7 @@ https://github.com/etalab/schema-amenagements-cyclables,True
 https://github.com/etalab/schema-bal,True
 https://github.com/etalab/schema-decp-dpa,True
 https://github.com/etalab/schema-generic-template,True
+https://github.com/etalab/schema-hautes-remunerations,False
 https://github.com/etalab/schema-irve,True
 https://github.com/etalab/schema-lieux-covoiturage,True
 https://github.com/etalab/schema-plf,True
@@ -3519,6 +3522,7 @@ https://github.com/ezpaarse-project/node-ezmesure,True
 https://github.com/ezpaarse-project/node-ezpaarse,True
 https://github.com/ezpaarse-project/node-ezunpaywall,True
 https://github.com/ezpaarse-project/readmetrics,True
+https://github.com/ezpaarse-project/readmetrics-scripts,False
 https://github.com/ezpaarse-project/slides,True
 https://github.com/fabnumdef/GeoGate,True
 https://github.com/fabnumdef/chatbot-back,True
@@ -5452,6 +5456,7 @@ https://gitlab.inria.fr/grid5000/exhibitv2,True
 https://gitlab.inria.fr/grid5000/g5k-api,True
 https://gitlab.inria.fr/grid5000/g5k-cheat-sheet,True
 https://gitlab.inria.fr/grid5000/g5k-checks,True
+https://gitlab.inria.fr/grid5000/g5k-postinstall,False
 https://gitlab.inria.fr/grid5000/grid5000-code,True
 https://gitlab.inria.fr/grid5000/grub-efi-arm64-netdir,True
 https://gitlab.inria.fr/grid5000/i40e,True
@@ -5761,6 +5766,7 @@ https://gitlab.inria.fr/synalp/python4nlp-2019-public,True
 https://gitlab.inria.fr/synalp/website,True
 https://gitlab.inria.fr/synchrone/heptagon,True
 https://gitlab.inria.fr/tapenade/tapenade,True
+https://gitlab.inria.fr/tapenade/userdoc,False
 https://gitlab.inria.fr/the-missing-path/the-missing-path.gitlab.inria.fr,True
 https://gitlab.inria.fr/these-bxi/r-util,True
 https://gitlab.inria.fr/these-bxi/s4bxi-cmake-modules,True
