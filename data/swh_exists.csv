@@ -4877,7 +4877,7 @@ https://gitlab.com/dreal-datalab/reseauchaleur,True
 https://gitlab.com/dreal-datalab/rrrpls,True
 https://gitlab.com/dreal-datalab/shinydreal,True
 https://gitlab.com/dreal-datalab/si_eau_pesticides,True
-https://gitlab.com/dreal-datalab/zonages-habitat,False
+https://gitlab.com/dreal-datalab/zonages-habitat,True
 https://gitlab.com/france-mobilites/documents-marches-publics,True
 https://gitlab.com/hatvp-open/agora,True
 https://gitlab.com/healthdatahub/dico-snds,True
@@ -5130,7 +5130,7 @@ https://gitlab.inria.fr/allgo/doc,True
 https://gitlab.inria.fr/almanach/alpi,True
 https://gitlab.inria.fr/alta/alta,True
 https://gitlab.inria.fr/amibio/Infrared,False
-https://gitlab.inria.fr/amibio/RNAPOND,False
+https://gitlab.inria.fr/amibio/RNAPOND,True
 https://gitlab.inria.fr/andiamo/eusdisparser,True
 https://gitlab.inria.fr/andiamo/tony,True
 https://gitlab.inria.fr/android-tools/apk-ops,True
@@ -5766,7 +5766,7 @@ https://gitlab.inria.fr/synalp/python4nlp-2019-public,True
 https://gitlab.inria.fr/synalp/website,True
 https://gitlab.inria.fr/synchrone/heptagon,True
 https://gitlab.inria.fr/tapenade/tapenade,True
-https://gitlab.inria.fr/tapenade/userdoc,False
+https://gitlab.inria.fr/tapenade/userdoc,True
 https://gitlab.inria.fr/the-missing-path/the-missing-path.gitlab.inria.fr,True
 https://gitlab.inria.fr/these-bxi/r-util,True
 https://gitlab.inria.fr/these-bxi/s4bxi-cmake-modules,True
