@@ -197,7 +197,7 @@ https://forgemia.inra.fr/infosol/sensor-map,True
 https://forgemia.inra.fr/infosol/talks,True
 https://forgemia.inra.fr/inter_cati_omics/hackathon_shiny_2020,True
 https://forgemia.inra.fr/inter_cati_omics/hackathon_snakemake_2020,False
-https://forgemia.inra.fr/inter_cati_omics/hackathon_snakemake_singularity_mapping,False
+https://forgemia.inra.fr/inter_cati_omics/hackathon_snakemake_singularity_mapping,True
 https://forgemia.inra.fr/inter_cati_omics/reproductibility,True
 https://forgemia.inra.fr/metexplore/MetExploreViz,True
 https://forgemia.inra.fr/metexplore/met4j,True
@@ -1434,6 +1434,7 @@ https://github.com/InseeFr/Trevas,True
 https://github.com/InseeFr/VTL-Tools,True
 https://github.com/InseeFr/Wilco,True
 https://github.com/InseeFr/diffman,True
+https://github.com/InseeFr/disaggR,False
 https://github.com/InseeFrLab/AdventOfCodeLeaderboard,True
 https://github.com/InseeFrLab/BootcampJS-API,True
 https://github.com/InseeFrLab/BootcampJS-JS,True
@@ -1473,6 +1474,8 @@ https://github.com/InseeFrLab/product-labelling,True
 https://github.com/InseeFrLab/rapidsai,True
 https://github.com/InseeFrLab/rstudio,True
 https://github.com/InseeFrLab/rstudio-gpu,True
+https://github.com/InseeFrLab/sugoi-api,False
+https://github.com/InseeFrLab/sugoi-ui,False
 https://github.com/InseeFrLab/tensorflow,True
 https://github.com/InseeFrLab/ubuntu-vnc,True
 https://github.com/InseeFrLab/ubuntu-vnc-dind,True
@@ -2105,6 +2108,8 @@ https://github.com/X-DataInitiative/tick_appveyor,True
 https://github.com/X-DataInitiative/tick_archive,True
 https://github.com/abes-esr/abes-format-pivot,True
 https://github.com/abes-esr/abes-hello,True
+https://github.com/abes-esr/abes-hello-back,False
+https://github.com/abes-esr/abes-hello-front,False
 https://github.com/abes-esr/abes-ontology,True
 https://github.com/abes-esr/abes-politique-developpement,True
 https://github.com/abes-esr/abes-sparql-examples,True
@@ -5129,7 +5134,7 @@ https://gitlab.inria.fr/allgo/allgo.inria.fr,True
 https://gitlab.inria.fr/allgo/doc,True
 https://gitlab.inria.fr/almanach/alpi,True
 https://gitlab.inria.fr/alta/alta,True
-https://gitlab.inria.fr/amibio/Infrared,False
+https://gitlab.inria.fr/amibio/Infrared,True
 https://gitlab.inria.fr/amibio/RNAPOND,True
 https://gitlab.inria.fr/andiamo/eusdisparser,True
 https://gitlab.inria.fr/andiamo/tony,True
@@ -5207,6 +5212,7 @@ https://gitlab.inria.fr/cerisara/olkisite,True
 https://gitlab.inria.fr/cfrioux/MeneTools,True
 https://gitlab.inria.fr/chroma/drone-simulator,True
 https://gitlab.inria.fr/chroma/intelaero-cao,True
+https://gitlab.inria.fr/ciao/pmns-for-sidh,False
 https://gitlab.inria.fr/cidre-public/malcon19,True
 https://gitlab.inria.fr/cidre-public/obfuscated-android-unit-examples,True
 https://gitlab.inria.fr/cidre-public/pymao,True
@@ -5526,6 +5532,7 @@ https://gitlab.inria.fr/learninglab/mooc-forum-plugin,True
 https://gitlab.inria.fr/learninglab/mooc-forums-theme,True
 https://gitlab.inria.fr/learninglab/mooc-mr-notebooks,True
 https://gitlab.inria.fr/learninglab/mooc-rr/mooc-rr-apps,True
+https://gitlab.inria.fr/learninglab/nsi-capes-info,False
 https://gitlab.inria.fr/lifeware/biocham,True
 https://gitlab.inria.fr/line/wp-plugin-cai,True
 https://gitlab.inria.fr/line/wp_theme_cai,True
