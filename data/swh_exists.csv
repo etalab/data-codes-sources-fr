@@ -1434,7 +1434,7 @@ https://github.com/InseeFr/Trevas,True
 https://github.com/InseeFr/VTL-Tools,True
 https://github.com/InseeFr/Wilco,True
 https://github.com/InseeFr/diffman,True
-https://github.com/InseeFr/disaggR,False
+https://github.com/InseeFr/disaggR,True
 https://github.com/InseeFrLab/AdventOfCodeLeaderboard,True
 https://github.com/InseeFrLab/BootcampJS-API,True
 https://github.com/InseeFrLab/BootcampJS-JS,True
@@ -1451,7 +1451,7 @@ https://github.com/InseeFrLab/apinsee,True
 https://github.com/InseeFrLab/aws.s3,True
 https://github.com/InseeFrLab/blazingsql,True
 https://github.com/InseeFrLab/cloud-scripts,True
-https://github.com/InseeFrLab/funcamp.sspcloud.fr,False
+https://github.com/InseeFrLab/funcamp.sspcloud.fr,True
 https://github.com/InseeFrLab/funcampR,True
 https://github.com/InseeFrLab/funcampR-base,True
 https://github.com/InseeFrLab/funcampR-landingpage,True
@@ -1927,7 +1927,7 @@ https://github.com/SocialGouv/eMJPM-doc,True
 https://github.com/SocialGouv/eMJPM-homepage,True
 https://github.com/SocialGouv/egapro,True
 https://github.com/SocialGouv/egapro-api,True
-https://github.com/SocialGouv/egapro-declaration,False
+https://github.com/SocialGouv/egapro-declaration,True
 https://github.com/SocialGouv/emjpm,True
 https://github.com/SocialGouv/emjpm-api-doc,True
 https://github.com/SocialGouv/emjpm-design,True
@@ -5084,10 +5084,12 @@ https://gitlab.inria.fr/RMOD/Ghost,True
 https://gitlab.inria.fr/RMOD/Welcome,True
 https://gitlab.inria.fr/RMOD/archive,True
 https://gitlab.inria.fr/RMOD/libgit-build,True
+https://gitlab.inria.fr/Seshat/ar_maintenance,False
 https://gitlab.inria.fr/Seshat/deeplearning,True
 https://gitlab.inria.fr/Seshat/html,True
 https://gitlab.inria.fr/Seshat/internetprivacy,True
 https://gitlab.inria.fr/Seshat/simplewebpage,True
+https://gitlab.inria.fr/Seshat/test,False
 https://gitlab.inria.fr/Seshat/unity,True
 https://gitlab.inria.fr/Seshat/webgl,True
 https://gitlab.inria.fr/SketchedLearning/spm-notebook,True
@@ -5212,7 +5214,7 @@ https://gitlab.inria.fr/cerisara/olkisite,True
 https://gitlab.inria.fr/cfrioux/MeneTools,True
 https://gitlab.inria.fr/chroma/drone-simulator,True
 https://gitlab.inria.fr/chroma/intelaero-cao,True
-https://gitlab.inria.fr/ciao/pmns-for-sidh,False
+https://gitlab.inria.fr/ciao/pmns-for-sidh,True
 https://gitlab.inria.fr/cidre-public/malcon19,True
 https://gitlab.inria.fr/cidre-public/obfuscated-android-unit-examples,True
 https://gitlab.inria.fr/cidre-public/pymao,True
@@ -5856,6 +5858,7 @@ https://gitlab.irstea.fr/SimAquaLife/SimAquaLife,True
 https://gitlab.irstea.fr/SimAquaLife/StockedDiad,True
 https://gitlab.irstea.fr/SimAquaLife/SturioSaintSeurin,True
 https://gitlab.irstea.fr/cassiopee/jalhyd,True
+https://gitlab.irstea.fr/cassiopee/nghyd,False
 https://gitlab.irstea.fr/cassiopee/rcassiopee,True
 https://gitlab.irstea.fr/copain/frenchcropusage,True
 https://gitlab.irstea.fr/copain/pdf2blocs,True
@@ -5924,6 +5927,7 @@ https://gitlab.orfeo-toolbox.org/orfeotoolbox/otb-documents,True
 https://gitlab.orfeo-toolbox.org/orfeotoolbox/qgis-otb-plugin,True
 https://gitlab.orfeo-toolbox.org/orfeotoolbox/staged-recipes,True
 https://gitlab.orfeo-toolbox.org/orfeotoolbox/superbuild-artifact,True
+https://gitlab.orfeo-toolbox.org/qgis-otb-plugin/qgis-otb-plugin,False
 https://gitlab.orfeo-toolbox.org/remote_modules/diapotb,True
 https://gitlab.orfeo-toolbox.org/remote_modules/functor-application-template,True
 https://gitlab.orfeo-toolbox.org/remote_modules/let-it-snow,True
@@ -5963,5 +5967,5 @@ https://gitub.u-bordeaux.fr/mapi/mdl-report-ubxstats,True
 https://gitub.u-bordeaux.fr/mapi/mdl-repository-pod,True
 https://gitub.u-bordeaux.fr/mapi/mdl-theme-ubx19,False
 https://gitub.u-bordeaux.fr/mapi/mdl-tool-ubxcourses,True
-https://gitub.u-bordeaux.fr/starpu/starpu,False
+https://gitub.u-bordeaux.fr/starpu/starpu,True
 https://gitub.u-bordeaux.fr/starpu/starpu2,True
