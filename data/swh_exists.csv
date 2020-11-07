@@ -2997,13 +2997,13 @@ https://github.com/dsi-ehess/VIVO,False
 https://github.com/dsi-ehess/VIVO-EHESS,False
 https://github.com/dsi-ehess/VIVO-Sample-Data,False
 https://github.com/dsi-ehess/VIVO-fr_FR,False
-https://github.com/dsi-ehess/VIVO-languages,False
+https://github.com/dsi-ehess/VIVO-languages,True
 https://github.com/dsi-ehess/VIVO-languages-EHESS,False
 https://github.com/dsi-ehess/Vitro,True
 https://github.com/dsi-ehess/Vitro-EHESS,False
 https://github.com/dsi-ehess/Vitro-fr_FR,False
 https://github.com/dsi-ehess/Vitro-languages,False
-https://github.com/dsi-ehess/Vitro-languages-EHESS,False
+https://github.com/dsi-ehess/Vitro-languages-EHESS,True
 https://github.com/dsi-ehess/Vivo-installer-i18n,False
 https://github.com/dsi-ehess/accessible-decision-tree,True
 https://github.com/dsi-ehess/edtf-datepicker,True
