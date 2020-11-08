@@ -3002,12 +3002,12 @@ https://github.com/dsi-ehess/VIVO-languages-EHESS,False
 https://github.com/dsi-ehess/Vitro,True
 https://github.com/dsi-ehess/Vitro-EHESS,False
 https://github.com/dsi-ehess/Vitro-fr_FR,False
-https://github.com/dsi-ehess/Vitro-languages,False
+https://github.com/dsi-ehess/Vitro-languages,True
 https://github.com/dsi-ehess/Vitro-languages-EHESS,True
 https://github.com/dsi-ehess/Vivo-installer-i18n,False
 https://github.com/dsi-ehess/accessible-decision-tree,True
 https://github.com/dsi-ehess/edtf-datepicker,True
-https://github.com/dsi-ehess/edtf-humanize,False
+https://github.com/dsi-ehess/edtf-humanize,True
 https://github.com/dsi-ehess/guest-users,True
 https://github.com/dsi-ehess/hyrax,True
 https://github.com/dsi-ehess/license-chooser,True
@@ -5109,7 +5109,7 @@ https://gitlab.inria.fr/Seshat/deeplearning,True
 https://gitlab.inria.fr/Seshat/html,True
 https://gitlab.inria.fr/Seshat/internetprivacy,True
 https://gitlab.inria.fr/Seshat/simplewebpage,True
-https://gitlab.inria.fr/Seshat/test,False
+https://gitlab.inria.fr/Seshat/test,True
 https://gitlab.inria.fr/Seshat/unity,True
 https://gitlab.inria.fr/Seshat/webgl,True
 https://gitlab.inria.fr/SketchedLearning/spm-notebook,True
