@@ -5195,6 +5195,7 @@ https://gitlab.inria.fr/belenios/belenios,True
 https://gitlab.inria.fr/belenios/belenios-prepared-database,True
 https://gitlab.inria.fr/bench/v0,True
 https://gitlab.inria.fr/bioimage-it/bioimageapp,True
+https://gitlab.inria.fr/bioimage-it/bioimageit-tools,False
 https://gitlab.inria.fr/bioimage-it/bioimagej,True
 https://gitlab.inria.fr/bioimage-it/bioimagepy,True
 https://gitlab.inria.fr/bioimage-it/bioimagepy-tutorial,True
@@ -5732,6 +5733,7 @@ https://gitlab.inria.fr/serpico/flowscope-wrapping,True
 https://gitlab.inria.fr/serpico/genloc3d_bin,True
 https://gitlab.inria.fr/serpico/hulkground_bin,True
 https://gitlab.inria.fr/serpico/mwr,True
+https://gitlab.inria.fr/serpico/ndsafir,False
 https://gitlab.inria.fr/serpico/ndsafir_bin,True
 https://gitlab.inria.fr/serpico/owf_bin,True
 https://gitlab.inria.fr/serpico/serpico-notebooks,True
