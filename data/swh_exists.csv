@@ -1959,6 +1959,7 @@ https://github.com/SocialGouv/letor-scores,True
 https://github.com/SocialGouv/linters,True
 https://github.com/SocialGouv/maintenance,True
 https://github.com/SocialGouv/mano,True
+https://github.com/SocialGouv/map,False
 https://github.com/SocialGouv/maraudes-app,True
 https://github.com/SocialGouv/maraudes-backend,True
 https://github.com/SocialGouv/matomo-next,True
@@ -5676,6 +5677,8 @@ https://gitlab.inria.fr/orpailleur/limeout,True
 https://gitlab.inria.fr/orpailleur/sofia-docker,True
 https://gitlab.inria.fr/panama-team/blaster,True
 https://gitlab.inria.fr/panama/blaster,True
+https://gitlab.inria.fr/panamasoft/mptk-gforge-docs,False
+https://gitlab.inria.fr/panamasoft/mptk-gforge-files,False
 https://gitlab.inria.fr/paradiseo/paradiseo,True
 https://gitlab.inria.fr/paradiseo/pyparadiseo,True
 https://gitlab.inria.fr/parallel-replica/gen.parRep,True
@@ -5734,7 +5737,7 @@ https://gitlab.inria.fr/serpico/flowscope-wrapping,True
 https://gitlab.inria.fr/serpico/genloc3d_bin,True
 https://gitlab.inria.fr/serpico/hulkground_bin,True
 https://gitlab.inria.fr/serpico/mwr,True
-https://gitlab.inria.fr/serpico/ndsafir,False
+https://gitlab.inria.fr/serpico/ndsafir,True
 https://gitlab.inria.fr/serpico/ndsafir_bin,True
 https://gitlab.inria.fr/serpico/owf_bin,True
 https://gitlab.inria.fr/serpico/serpico-notebooks,True
