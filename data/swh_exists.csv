@@ -2434,6 +2434,7 @@ https://github.com/betagouv/indice_pollution,True
 https://github.com/betagouv/itou,True
 https://github.com/betagouv/itou-bitoubi,True
 https://github.com/betagouv/itou-cocorico,True
+https://github.com/betagouv/itou-consultation,False
 https://github.com/betagouv/itou-discourse,True
 https://github.com/betagouv/itou-entreprise,True
 https://github.com/betagouv/itou-fdi,True
@@ -2603,6 +2604,7 @@ https://github.com/betagouv/template.beta.gouv.fr,True
 https://github.com/betagouv/trait-d-union,True
 https://github.com/betagouv/traitdunion-landing-pages,True
 https://github.com/betagouv/traitdunion-metabase,True
+https://github.com/betagouv/transport-base-nationale-covoiturage,False
 https://github.com/betagouv/urbanvitaliz,True
 https://github.com/betagouv/verif.site,True
 https://github.com/betagouv/visam,True
@@ -5497,6 +5499,7 @@ https://gitlab.inria.fr/grid5000/kadeploy3,False
 https://gitlab.inria.fr/grid5000/kameleon_g5k_custom_recipes_examples,True
 https://gitlab.inria.fr/grid5000/kwapi-g5k,True
 https://gitlab.inria.fr/grid5000/kwollect,True
+https://gitlab.inria.fr/grid5000/kwollect-dashboard,False
 https://gitlab.inria.fr/grid5000/megaraid_sas,True
 https://gitlab.inria.fr/grid5000/metrology-api,True
 https://gitlab.inria.fr/grid5000/omegawatt,True
@@ -5731,6 +5734,7 @@ https://gitlab.inria.fr/sed-saclay/formulairesdemandesingenieur,True
 https://gitlab.inria.fr/sequoia/deep-sequoia,True
 https://gitlab.inria.fr/serpico/3d-flow-assessment,True
 https://gitlab.inria.fr/serpico/airyscanj_bin,True
+https://gitlab.inria.fr/serpico/atlas,False
 https://gitlab.inria.fr/serpico/cpanalysis_bin,True
 https://gitlab.inria.fr/serpico/deep-finder,True
 https://gitlab.inria.fr/serpico/flowscope-wrapping,True
