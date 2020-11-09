@@ -2102,6 +2102,7 @@ https://github.com/X-DataInitiative/MultiVariatePointProcess,True
 https://github.com/X-DataInitiative/SCALPEL-Analysis,True
 https://github.com/X-DataInitiative/SCALPEL-Extraction,True
 https://github.com/X-DataInitiative/SCALPEL-Flattening,True
+https://github.com/X-DataInitiative/SCALPEL3,False
 https://github.com/X-DataInitiative/Spleen,True
 https://github.com/X-DataInitiative/clusterboot,True
 https://github.com/X-DataInitiative/tick,True
@@ -2111,7 +2112,7 @@ https://github.com/X-DataInitiative/tick_archive,True
 https://github.com/abes-esr/abes-format-pivot,True
 https://github.com/abes-esr/abes-hello,True
 https://github.com/abes-esr/abes-hello-back,False
-https://github.com/abes-esr/abes-hello-front,False
+https://github.com/abes-esr/abes-hello-front,True
 https://github.com/abes-esr/abes-ontology,True
 https://github.com/abes-esr/abes-politique-developpement,True
 https://github.com/abes-esr/abes-sparql-examples,True
@@ -2126,6 +2127,7 @@ https://github.com/abes-esr/fne-batch,True
 https://github.com/abes-esr/idref-api,True
 https://github.com/abes-esr/item-api,True
 https://github.com/abes-esr/item-client,True
+https://github.com/abes-esr/periscopePocVueJs,False
 https://github.com/abes-esr/poc-fne,True
 https://github.com/abes-esr/poc-fne-wikibase-docker,True
 https://github.com/abes-esr/poc-fne-wikidata-query-gui,True
@@ -2471,6 +2473,7 @@ https://github.com/betagouv/mes-aides-openfisca,True
 https://github.com/betagouv/mes-aides-ops,True
 https://github.com/betagouv/mes-aides-out,True
 https://github.com/betagouv/mes-aides-ui,True
+https://github.com/betagouv/metabase-scalingo,False
 https://github.com/betagouv/meteor-assemblee-nationale,True
 https://github.com/betagouv/mon-entreprise,True
 https://github.com/betagouv/monstage,True
@@ -5109,6 +5112,7 @@ https://gitlab.inria.fr/RMOD/Welcome,True
 https://gitlab.inria.fr/RMOD/archive,True
 https://gitlab.inria.fr/RMOD/libgit-build,True
 https://gitlab.inria.fr/Seshat/ar_maintenance,True
+https://gitlab.inria.fr/Seshat/cours,False
 https://gitlab.inria.fr/Seshat/deeplearning,True
 https://gitlab.inria.fr/Seshat/html,True
 https://gitlab.inria.fr/Seshat/internetprivacy,True
@@ -5680,7 +5684,7 @@ https://gitlab.inria.fr/orpailleur/limeout,True
 https://gitlab.inria.fr/orpailleur/sofia-docker,True
 https://gitlab.inria.fr/panama-team/blaster,True
 https://gitlab.inria.fr/panama/blaster,True
-https://gitlab.inria.fr/panamasoft/mptk-gforge-docs,False
+https://gitlab.inria.fr/panamasoft/mptk-gforge-docs,True
 https://gitlab.inria.fr/panamasoft/mptk-gforge-files,False
 https://gitlab.inria.fr/paradiseo/paradiseo,True
 https://gitlab.inria.fr/paradiseo/pyparadiseo,True
