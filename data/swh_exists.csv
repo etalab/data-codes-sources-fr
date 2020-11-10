@@ -2127,6 +2127,7 @@ https://github.com/abes-esr/fne-batch,True
 https://github.com/abes-esr/idref-api,True
 https://github.com/abes-esr/item-api,True
 https://github.com/abes-esr/item-client,True
+https://github.com/abes-esr/periscope-poc-vue-js-latest,False
 https://github.com/abes-esr/periscopePocVueJs,True
 https://github.com/abes-esr/poc-fne,True
 https://github.com/abes-esr/poc-fne-wikibase-docker,True
@@ -3000,7 +3001,7 @@ https://github.com/diverse-project/varylatex,True
 https://github.com/diverse-project/website,True
 https://github.com/diverse-project/xcore-light,True
 https://github.com/diverse-project/yajta-mirror,True
-https://github.com/dsi-ehess/VIVO,False
+https://github.com/dsi-ehess/VIVO,True
 https://github.com/dsi-ehess/VIVO-EHESS,True
 https://github.com/dsi-ehess/VIVO-Sample-Data,True
 https://github.com/dsi-ehess/VIVO-fr_FR,True
@@ -3011,7 +3012,7 @@ https://github.com/dsi-ehess/Vitro-EHESS,False
 https://github.com/dsi-ehess/Vitro-fr_FR,True
 https://github.com/dsi-ehess/Vitro-languages,True
 https://github.com/dsi-ehess/Vitro-languages-EHESS,True
-https://github.com/dsi-ehess/Vivo-installer-i18n,False
+https://github.com/dsi-ehess/Vivo-installer-i18n,True
 https://github.com/dsi-ehess/accessible-decision-tree,True
 https://github.com/dsi-ehess/edtf-datepicker,True
 https://github.com/dsi-ehess/edtf-humanize,True
@@ -5961,7 +5962,7 @@ https://gitlab.orfeo-toolbox.org/orfeotoolbox/otb-documents,True
 https://gitlab.orfeo-toolbox.org/orfeotoolbox/qgis-otb-plugin,True
 https://gitlab.orfeo-toolbox.org/orfeotoolbox/staged-recipes,True
 https://gitlab.orfeo-toolbox.org/orfeotoolbox/superbuild-artifact,True
-https://gitlab.orfeo-toolbox.org/qgis-otb-plugin/qgis-otb-plugin,False
+https://gitlab.orfeo-toolbox.org/qgis-otb-plugin/qgis-otb-plugin,True
 https://gitlab.orfeo-toolbox.org/remote_modules/diapotb,True
 https://gitlab.orfeo-toolbox.org/remote_modules/functor-application-template,True
 https://gitlab.orfeo-toolbox.org/remote_modules/let-it-snow,True
