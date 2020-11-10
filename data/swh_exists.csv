@@ -2111,7 +2111,7 @@ https://github.com/X-DataInitiative/tick_appveyor,True
 https://github.com/X-DataInitiative/tick_archive,True
 https://github.com/abes-esr/abes-format-pivot,True
 https://github.com/abes-esr/abes-hello,True
-https://github.com/abes-esr/abes-hello-back,False
+https://github.com/abes-esr/abes-hello-back,True
 https://github.com/abes-esr/abes-hello-front,True
 https://github.com/abes-esr/abes-ontology,True
 https://github.com/abes-esr/abes-politique-developpement,True
@@ -2127,7 +2127,7 @@ https://github.com/abes-esr/fne-batch,True
 https://github.com/abes-esr/idref-api,True
 https://github.com/abes-esr/item-api,True
 https://github.com/abes-esr/item-client,True
-https://github.com/abes-esr/periscopePocVueJs,False
+https://github.com/abes-esr/periscopePocVueJs,True
 https://github.com/abes-esr/poc-fne,True
 https://github.com/abes-esr/poc-fne-wikibase-docker,True
 https://github.com/abes-esr/poc-fne-wikidata-query-gui,True
@@ -3002,7 +3002,7 @@ https://github.com/diverse-project/xcore-light,True
 https://github.com/diverse-project/yajta-mirror,True
 https://github.com/dsi-ehess/VIVO,False
 https://github.com/dsi-ehess/VIVO-EHESS,True
-https://github.com/dsi-ehess/VIVO-Sample-Data,False
+https://github.com/dsi-ehess/VIVO-Sample-Data,True
 https://github.com/dsi-ehess/VIVO-fr_FR,True
 https://github.com/dsi-ehess/VIVO-languages,True
 https://github.com/dsi-ehess/VIVO-languages-EHESS,False
@@ -5738,7 +5738,7 @@ https://gitlab.inria.fr/sed-saclay/formulairesdemandesingenieur,True
 https://gitlab.inria.fr/sequoia/deep-sequoia,True
 https://gitlab.inria.fr/serpico/3d-flow-assessment,True
 https://gitlab.inria.fr/serpico/airyscanj_bin,True
-https://gitlab.inria.fr/serpico/atlas,False
+https://gitlab.inria.fr/serpico/atlas,True
 https://gitlab.inria.fr/serpico/cpanalysis_bin,True
 https://gitlab.inria.fr/serpico/deep-finder,True
 https://gitlab.inria.fr/serpico/flowscope-wrapping,True
