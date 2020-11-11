@@ -458,6 +458,7 @@ https://git.unistra.fr/s2/p21,True
 https://git.unistra.fr/s2/p21-mini-projet,True
 https://git.unistra.fr/s2/s21,True
 https://git.unistra.fr/s2/t22,True
+https://git.unistra.fr/s3/d31-projet,False
 https://git.unistra.fr/s3/m31-projet-sim,False
 https://git.unistra.fr/scl19-t4-a/t4-2019,True
 https://git.unistra.fr/scl19-t4-c/juthose,True
@@ -5703,7 +5704,7 @@ https://gitlab.inria.fr/piper/misc_models,True
 https://gitlab.inria.fr/piper/viva,True
 https://gitlab.inria.fr/piy/piy,True
 https://gitlab.inria.fr/plas20/sessionintegrity,True
-https://gitlab.inria.fr/polar/polar,False
+https://gitlab.inria.fr/polar/polar,True
 https://gitlab.inria.fr/popstar/SAT-Equiv,True
 https://gitlab.inria.fr/post-doc-inria/fairvision,True
 https://gitlab.inria.fr/progressivesimsearch/sigmod2020,True
