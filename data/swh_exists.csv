@@ -5206,7 +5206,7 @@ https://gitlab.inria.fr/belenios/belenios,True
 https://gitlab.inria.fr/belenios/belenios-prepared-database,True
 https://gitlab.inria.fr/bench/v0,True
 https://gitlab.inria.fr/bioimage-it/bioimageapp,True
-https://gitlab.inria.fr/bioimage-it/bioimageit-tools,False
+https://gitlab.inria.fr/bioimage-it/bioimageit-tools,True
 https://gitlab.inria.fr/bioimage-it/bioimagej,True
 https://gitlab.inria.fr/bioimage-it/bioimagepy,True
 https://gitlab.inria.fr/bioimage-it/bioimagepy-tutorial,True
@@ -5506,7 +5506,7 @@ https://gitlab.inria.fr/grid5000/kadeploy3,False
 https://gitlab.inria.fr/grid5000/kameleon_g5k_custom_recipes_examples,True
 https://gitlab.inria.fr/grid5000/kwapi-g5k,True
 https://gitlab.inria.fr/grid5000/kwollect,True
-https://gitlab.inria.fr/grid5000/kwollect-dashboard,False
+https://gitlab.inria.fr/grid5000/kwollect-dashboard,True
 https://gitlab.inria.fr/grid5000/megaraid_sas,True
 https://gitlab.inria.fr/grid5000/metrology-api,True
 https://gitlab.inria.fr/grid5000/omegawatt,True
@@ -5896,7 +5896,7 @@ https://gitlab.irstea.fr/SimAquaLife/SimAquaLife,True
 https://gitlab.irstea.fr/SimAquaLife/StockedDiad,True
 https://gitlab.irstea.fr/SimAquaLife/SturioSaintSeurin,True
 https://gitlab.irstea.fr/cassiopee/jalhyd,True
-https://gitlab.irstea.fr/cassiopee/nghyd,False
+https://gitlab.irstea.fr/cassiopee/nghyd,True
 https://gitlab.irstea.fr/cassiopee/rcassiopee,True
 https://gitlab.irstea.fr/copain/frenchcropusage,True
 https://gitlab.irstea.fr/copain/pdf2blocs,True
