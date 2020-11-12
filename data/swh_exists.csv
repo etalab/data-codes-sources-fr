@@ -197,6 +197,7 @@ https://forgemia.inra.fr/infosol/sensor-map,True
 https://forgemia.inra.fr/infosol/talks,True
 https://forgemia.inra.fr/inter_cati_omics/hackathon_shiny_2020,True
 https://forgemia.inra.fr/inter_cati_omics/hackathon_snakemake_2020,True
+https://forgemia.inra.fr/inter_cati_omics/hackathon_snakemake_singularity_calling,False
 https://forgemia.inra.fr/inter_cati_omics/hackathon_snakemake_singularity_mapping,True
 https://forgemia.inra.fr/inter_cati_omics/reproductibility,True
 https://forgemia.inra.fr/metexplore/MetExploreViz,True
@@ -458,7 +459,7 @@ https://git.unistra.fr/s2/p21,True
 https://git.unistra.fr/s2/p21-mini-projet,True
 https://git.unistra.fr/s2/s21,True
 https://git.unistra.fr/s2/t22,True
-https://git.unistra.fr/s3/d31-projet,False
+https://git.unistra.fr/s3/d31-projet,True
 https://git.unistra.fr/s3/m31-projet-sim,False
 https://git.unistra.fr/scl19-t4-a/t4-2019,True
 https://git.unistra.fr/scl19-t4-c/juthose,True
@@ -2104,7 +2105,7 @@ https://github.com/X-DataInitiative/MultiVariatePointProcess,True
 https://github.com/X-DataInitiative/SCALPEL-Analysis,True
 https://github.com/X-DataInitiative/SCALPEL-Extraction,True
 https://github.com/X-DataInitiative/SCALPEL-Flattening,True
-https://github.com/X-DataInitiative/SCALPEL3,False
+https://github.com/X-DataInitiative/SCALPEL3,True
 https://github.com/X-DataInitiative/Spleen,True
 https://github.com/X-DataInitiative/clusterboot,True
 https://github.com/X-DataInitiative/tick,True
@@ -3221,6 +3222,7 @@ https://github.com/etalab-ia/data_gouv_text,True
 https://github.com/etalab-ia/data_science_template,True
 https://github.com/etalab-ia/demo-piaf,True
 https://github.com/etalab-ia/florian_opendatascience,True
+https://github.com/etalab-ia/knowledge-base,False
 https://github.com/etalab-ia/opendatascience,True
 https://github.com/etalab-ia/piaf-code,True
 https://github.com/etalab-ia/piaf_agent,True
