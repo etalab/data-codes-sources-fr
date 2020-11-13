@@ -199,6 +199,7 @@ https://forgemia.inra.fr/inter_cati_omics/hackathon_shiny_2020,True
 https://forgemia.inra.fr/inter_cati_omics/hackathon_snakemake_2020,True
 https://forgemia.inra.fr/inter_cati_omics/hackathon_snakemake_singularity_calling,False
 https://forgemia.inra.fr/inter_cati_omics/hackathon_snakemake_singularity_mapping,True
+https://forgemia.inra.fr/inter_cati_omics/hackathon_snakemake_singularity_stats,False
 https://forgemia.inra.fr/inter_cati_omics/reproductibility,True
 https://forgemia.inra.fr/metexplore/MetExploreViz,True
 https://forgemia.inra.fr/metexplore/met4j,True
@@ -256,6 +257,7 @@ https://forgemia.inra.fr/umr-gdec/biotools,True
 https://forgemia.inra.fr/umr-gdec/bwgs,True
 https://forgemia.inra.fr/umr-gdec/clari-te,True
 https://forgemia.inra.fr/umr-gdec/isbpfinder,True
+https://forgemia.inra.fr/umr-gdec/magatt,False
 https://forgemia.inra.fr/umrf/anomaly,True
 https://forgemia.inra.fr/umrf/dairydb,True
 https://forgemia.inra.fr/umrf/exploremetabar,True
@@ -2434,6 +2436,7 @@ https://github.com/betagouv/glossary-bot,True
 https://github.com/betagouv/gps-usagers,True
 https://github.com/betagouv/grafana-scalingo,True
 https://github.com/betagouv/heroku-buildpack-ruby,True
+https://github.com/betagouv/histologe,False
 https://github.com/betagouv/i18nliner-js,True
 https://github.com/betagouv/ilos,True
 https://github.com/betagouv/impact-tests,True
