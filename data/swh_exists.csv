@@ -2133,6 +2133,7 @@ https://github.com/abes-esr/fne-batch,True
 https://github.com/abes-esr/idref-api,True
 https://github.com/abes-esr/item-api,True
 https://github.com/abes-esr/item-client,True
+https://github.com/abes-esr/periscope-poc-vue-js,False
 https://github.com/abes-esr/periscope-poc-vue-js-latest,False
 https://github.com/abes-esr/periscopePocVueJs,True
 https://github.com/abes-esr/poc-fne,True
@@ -3016,7 +3017,7 @@ https://github.com/dsi-ehess/VIVO-fr_FR,True
 https://github.com/dsi-ehess/VIVO-languages,True
 https://github.com/dsi-ehess/VIVO-languages-EHESS,False
 https://github.com/dsi-ehess/Vitro,True
-https://github.com/dsi-ehess/Vitro-EHESS,False
+https://github.com/dsi-ehess/Vitro-EHESS,True
 https://github.com/dsi-ehess/Vitro-fr_FR,True
 https://github.com/dsi-ehess/Vitro-languages,True
 https://github.com/dsi-ehess/Vitro-languages-EHESS,True
@@ -3747,6 +3748,11 @@ https://github.com/istex/sisyphe-monitor,True
 https://github.com/ivre/ivre,True
 https://github.com/ivre/ivre-test-samples,True
 https://github.com/ivre/masscan,True
+https://github.com/leximpact/dataFin,False
+https://github.com/leximpact/leximpact-client,False
+https://github.com/leximpact/leximpact-nouveau-sujet,False
+https://github.com/leximpact/leximpact-server,False
+https://github.com/leximpact/openfisca-france-dotations-locales,False
 https://github.com/linbox-team/fflas-ffpack,True
 https://github.com/linbox-team/givaro,True
 https://github.com/linbox-team/linbox,True
@@ -5695,7 +5701,7 @@ https://gitlab.inria.fr/orpailleur/sofia-docker,True
 https://gitlab.inria.fr/panama-team/blaster,True
 https://gitlab.inria.fr/panama/blaster,True
 https://gitlab.inria.fr/panamasoft/mptk-gforge-docs,True
-https://gitlab.inria.fr/panamasoft/mptk-gforge-files,False
+https://gitlab.inria.fr/panamasoft/mptk-gforge-files,True
 https://gitlab.inria.fr/paradiseo/paradiseo,True
 https://gitlab.inria.fr/paradiseo/pyparadiseo,True
 https://gitlab.inria.fr/parallel-replica/gen.parRep,True
