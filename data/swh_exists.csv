@@ -83,7 +83,7 @@ https://forge.univ-lyon1.fr/faq-raspi/rpi-faq,True
 https://forge.univ-lyon1.fr/forge_public/ci-images,True
 https://forge.univ-lyon1.fr/forge_public/forge,True
 https://forge.univ-lyon1.fr/groupe-projet-lifap4/projet-lifap4,True
-https://forge.univ-lyon1.fr/iut-lyon-s3-php/ansible,False
+https://forge.univ-lyon1.fr/iut-lyon-s3-php/ansible,True
 https://forge.univ-lyon1.fr/knowdyn-ens/knowdyn-contenus-2020,True
 https://forge.univ-lyon1.fr/lifap6/ccompil,True
 https://forge.univ-lyon1.fr/lifap6/magic-maze-etu,True
@@ -3753,7 +3753,7 @@ https://github.com/leximpact/dataFin,False
 https://github.com/leximpact/leximpact-client,False
 https://github.com/leximpact/leximpact-nouveau-sujet,False
 https://github.com/leximpact/leximpact-server,False
-https://github.com/leximpact/openfisca-france-dotations-locales,False
+https://github.com/leximpact/openfisca-france-dotations-locales,True
 https://github.com/linbox-team/fflas-ffpack,True
 https://github.com/linbox-team/givaro,True
 https://github.com/linbox-team/linbox,True
