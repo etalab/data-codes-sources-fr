@@ -2451,7 +2451,7 @@ https://github.com/betagouv/itou-discourse,True
 https://github.com/betagouv/itou-entreprise,True
 https://github.com/betagouv/itou-fdi,True
 https://github.com/betagouv/itou-gitbook,True
-https://github.com/betagouv/itou-theme-discourse,False
+https://github.com/betagouv/itou-theme-discourse,True
 https://github.com/betagouv/itou_c4_python_api,True
 https://github.com/betagouv/itou_entreprise,False
 https://github.com/betagouv/juridiques,True
@@ -3751,7 +3751,7 @@ https://github.com/ivre/ivre-test-samples,True
 https://github.com/ivre/masscan,True
 https://github.com/leximpact/dataFin,False
 https://github.com/leximpact/leximpact-client,False
-https://github.com/leximpact/leximpact-nouveau-sujet,False
+https://github.com/leximpact/leximpact-nouveau-sujet,True
 https://github.com/leximpact/leximpact-server,False
 https://github.com/leximpact/openfisca-france-dotations-locales,True
 https://github.com/linbox-team/fflas-ffpack,True
