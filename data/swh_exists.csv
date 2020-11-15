@@ -2438,7 +2438,7 @@ https://github.com/betagouv/glossary-bot,True
 https://github.com/betagouv/gps-usagers,True
 https://github.com/betagouv/grafana-scalingo,True
 https://github.com/betagouv/heroku-buildpack-ruby,True
-https://github.com/betagouv/histologe,False
+https://github.com/betagouv/histologe,True
 https://github.com/betagouv/i18nliner-js,True
 https://github.com/betagouv/ilos,True
 https://github.com/betagouv/impact-tests,True
@@ -4320,6 +4320,7 @@ https://github.com/openfisca/LawToCode,True
 https://github.com/openfisca/OpenFiscaCore.jl,True
 https://github.com/openfisca/OpenFiscaFrance.jl,True
 https://github.com/openfisca/OpenFiscaWebApi.jl,True
+https://github.com/openfisca/biryani,False
 https://github.com/openfisca/calculette-impots-m-language-parser,True
 https://github.com/openfisca/calculette-impots-m-source-code,True
 https://github.com/openfisca/calculette-impots-python,True
