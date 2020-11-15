@@ -3228,7 +3228,7 @@ https://github.com/etalab-ia/data_gouv_text,True
 https://github.com/etalab-ia/data_science_template,True
 https://github.com/etalab-ia/demo-piaf,True
 https://github.com/etalab-ia/florian_opendatascience,True
-https://github.com/etalab-ia/knowledge-base,False
+https://github.com/etalab-ia/knowledge-base,True
 https://github.com/etalab-ia/opendatascience,True
 https://github.com/etalab-ia/piaf-code,True
 https://github.com/etalab-ia/piaf_agent,True
@@ -3752,7 +3752,7 @@ https://github.com/ivre/masscan,True
 https://github.com/leximpact/dataFin,False
 https://github.com/leximpact/leximpact-client,False
 https://github.com/leximpact/leximpact-nouveau-sujet,True
-https://github.com/leximpact/leximpact-server,False
+https://github.com/leximpact/leximpact-server,True
 https://github.com/leximpact/openfisca-france-dotations-locales,True
 https://github.com/linbox-team/fflas-ffpack,True
 https://github.com/linbox-team/givaro,True
