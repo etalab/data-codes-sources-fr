@@ -798,6 +798,7 @@ https://github.com/CNRS-DSI-Dev/mycore_versions,True
 https://github.com/CNRS-DSI-Dev/mycore_wayf,True
 https://github.com/CNRS-DSI-Dev/password_policy,True
 https://github.com/CNRS-DSI-Dev/rename_groups,True
+https://github.com/CNRS-DSI-Dev/update-crl,False
 https://github.com/CNRS-DSI-Dev/user_account_actions,True
 https://github.com/CNRS-DSI-Dev/user_deletion_request,True
 https://github.com/CNRS-DSI-Dev/user_files_migrate,True
@@ -1467,6 +1468,7 @@ https://github.com/InseeFrLab/funcampR-landingpage,True
 https://github.com/InseeFrLab/grandedim,True
 https://github.com/InseeFrLab/helm-charts,True
 https://github.com/InseeFrLab/helm-charts-datascience,True
+https://github.com/InseeFrLab/helm-charts-trainings,False
 https://github.com/InseeFrLab/java-vtl,True
 https://github.com/InseeFrLab/java-vtl-connectors,True
 https://github.com/InseeFrLab/java-vtl-tools,True
@@ -3502,6 +3504,7 @@ https://github.com/etalab/template-jekyll,True
 https://github.com/etalab/template.data.gouv.fr,True
 https://github.com/etalab/tiles.data.gouv.fr,True
 https://github.com/etalab/transpo-rt,True
+https://github.com/etalab/transport-base-nationale-covoiturage,False
 https://github.com/etalab/transport-community-contributions,False
 https://github.com/etalab/transport-datatools-server,True
 https://github.com/etalab/transport-datatools-ui,True
@@ -3752,7 +3755,7 @@ https://github.com/istex/sisyphe-monitor,True
 https://github.com/ivre/ivre,True
 https://github.com/ivre/ivre-test-samples,True
 https://github.com/ivre/masscan,True
-https://github.com/leximpact/dataFin,False
+https://github.com/leximpact/dataFin,True
 https://github.com/leximpact/leximpact-client,False
 https://github.com/leximpact/leximpact-nouveau-sujet,True
 https://github.com/leximpact/leximpact-server,True
@@ -5184,6 +5187,7 @@ https://gitlab.inria.fr/allgo/allgo-blog,True
 https://gitlab.inria.fr/allgo/allgo.inria.fr,True
 https://gitlab.inria.fr/allgo/doc,True
 https://gitlab.inria.fr/almanach/alpi,True
+https://gitlab.inria.fr/almanach/ner4archives,False
 https://gitlab.inria.fr/alta/alta,True
 https://gitlab.inria.fr/amibio/Infrared,True
 https://gitlab.inria.fr/amibio/RNAPOND,True
