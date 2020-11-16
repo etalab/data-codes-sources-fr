@@ -200,7 +200,7 @@ https://forgemia.inra.fr/inter_cati_omics/hackathon_shiny_2020,True
 https://forgemia.inra.fr/inter_cati_omics/hackathon_snakemake_2020,True
 https://forgemia.inra.fr/inter_cati_omics/hackathon_snakemake_singularity_calling,True
 https://forgemia.inra.fr/inter_cati_omics/hackathon_snakemake_singularity_mapping,True
-https://forgemia.inra.fr/inter_cati_omics/hackathon_snakemake_singularity_stats,False
+https://forgemia.inra.fr/inter_cati_omics/hackathon_snakemake_singularity_stats,True
 https://forgemia.inra.fr/inter_cati_omics/reproductibility,True
 https://forgemia.inra.fr/metexplore/MetExploreViz,True
 https://forgemia.inra.fr/metexplore/met4j,True
@@ -683,6 +683,7 @@ https://github.com/BRGM/hubeau,True
 https://github.com/BRGM/plouf,True
 https://github.com/BRGM/razorback,True
 https://github.com/BRGM/registry-core,True
+https://github.com/BRGM/vtkwriters,False
 https://github.com/BaseAdresseNationale/api-gestion,True
 https://github.com/BaseAdresseNationale/api-gestion-poc,True
 https://github.com/BaseAdresseNationale/ban,True
@@ -3451,6 +3452,7 @@ https://github.com/etalab/piaf,True
 https://github.com/etalab/piaf-site,True
 https://github.com/etalab/piwik-covisits,True
 https://github.com/etalab/piwik_logs,True
+https://github.com/etalab/plan-de-relance,False
 https://github.com/etalab/plan-ogp-2015-2017,True
 https://github.com/etalab/playlists,True
 https://github.com/etalab/plf,True
@@ -3500,6 +3502,7 @@ https://github.com/etalab/template-jekyll,True
 https://github.com/etalab/template.data.gouv.fr,True
 https://github.com/etalab/tiles.data.gouv.fr,True
 https://github.com/etalab/transpo-rt,True
+https://github.com/etalab/transport-community-contributions,False
 https://github.com/etalab/transport-datatools-server,True
 https://github.com/etalab/transport-datatools-ui,True
 https://github.com/etalab/transport-gtfs-lib,True
@@ -5422,6 +5425,7 @@ https://gitlab.inria.fr/epione/GP_progression_model_V2,True
 https://gitlab.inria.fr/epione/biblio,True
 https://gitlab.inria.fr/epione/hdcob,True
 https://gitlab.inria.fr/epione/promfusion,True
+https://gitlab.inria.fr/epione/unsegqc,False
 https://gitlab.inria.fr/epione_ML/bayesian-learning-uca,True
 https://gitlab.inria.fr/epione_ML/mcvae,True
 https://gitlab.inria.fr/erable/totoro,True
