@@ -1461,6 +1461,14 @@ https://github.com/InseeFrLab/aws.s3,True
 https://github.com/InseeFrLab/blazingsql,True
 https://github.com/InseeFrLab/cloud-scripts,True
 https://github.com/InseeFrLab/demo-apps,True
+https://github.com/InseeFrLab/funcamp-r,False
+https://github.com/InseeFrLab/funcamp-r-dock,False
+https://github.com/InseeFrLab/funcamp-r-grimoire,False
+https://github.com/InseeFrLab/funcamp-r-icarius,False
+https://github.com/InseeFrLab/funcamp-r-neverending,False
+https://github.com/InseeFrLab/funcamp-r-ubuntu-solarus,False
+https://github.com/InseeFrLab/funcamp-r-windows-grimoire-launcher,False
+https://github.com/InseeFrLab/funcamp-r-windows-solarus,False
 https://github.com/InseeFrLab/funcamp.sspcloud.fr,True
 https://github.com/InseeFrLab/funcampR,True
 https://github.com/InseeFrLab/funcampR-base,True
@@ -5187,7 +5195,7 @@ https://gitlab.inria.fr/allgo/allgo-blog,True
 https://gitlab.inria.fr/allgo/allgo.inria.fr,True
 https://gitlab.inria.fr/allgo/doc,True
 https://gitlab.inria.fr/almanach/alpi,True
-https://gitlab.inria.fr/almanach/ner4archives,False
+https://gitlab.inria.fr/almanach/ner4archives,True
 https://gitlab.inria.fr/alta/alta,True
 https://gitlab.inria.fr/amibio/Infrared,True
 https://gitlab.inria.fr/amibio/RNAPOND,True
