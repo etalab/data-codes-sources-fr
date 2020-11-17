@@ -159,6 +159,7 @@ https://forgemia.inra.fr/genotoul-bioinfo/use-nextflow-nfcore-course,True
 https://forgemia.inra.fr/geoc/hackaton2020,True
 https://forgemia.inra.fr/get-it/nf-assemblshortread,True
 https://forgemia.inra.fr/get-it/nf-taxoaffiliation,True
+https://forgemia.inra.fr/get-nextflow-ngl-bi/template-nf,False
 https://forgemia.inra.fr/gryc-data/blastobotrys_adeninivorans-ls3,True
 https://forgemia.inra.fr/gryc-data/candida_albicans-sc_5314,True
 https://forgemia.inra.fr/gryc-data/candida_glabrata-cbs_138,True
@@ -3464,7 +3465,7 @@ https://github.com/etalab/piaf,True
 https://github.com/etalab/piaf-site,True
 https://github.com/etalab/piwik-covisits,True
 https://github.com/etalab/piwik_logs,True
-https://github.com/etalab/plan-de-relance,False
+https://github.com/etalab/plan-de-relance,True
 https://github.com/etalab/plan-ogp-2015-2017,True
 https://github.com/etalab/playlists,True
 https://github.com/etalab/plf,True
@@ -3514,7 +3515,7 @@ https://github.com/etalab/template-jekyll,True
 https://github.com/etalab/template.data.gouv.fr,True
 https://github.com/etalab/tiles.data.gouv.fr,True
 https://github.com/etalab/transpo-rt,True
-https://github.com/etalab/transport-base-nationale-covoiturage,False
+https://github.com/etalab/transport-base-nationale-covoiturage,True
 https://github.com/etalab/transport-community-contributions,False
 https://github.com/etalab/transport-datatools-server,True
 https://github.com/etalab/transport-datatools-ui,True
@@ -5203,6 +5204,7 @@ https://gitlab.inria.fr/almanach/ner4archives,True
 https://gitlab.inria.fr/alta/alta,True
 https://gitlab.inria.fr/amibio/Infrared,True
 https://gitlab.inria.fr/amibio/RNAPOND,True
+https://gitlab.inria.fr/amibio/RNARedPrint,False
 https://gitlab.inria.fr/andiamo/eusdisparser,True
 https://gitlab.inria.fr/andiamo/tony,True
 https://gitlab.inria.fr/android-tools/apk-ops,True
@@ -5807,6 +5809,7 @@ https://gitlab.inria.fr/skeletons/necro-tex,True
 https://gitlab.inria.fr/skeletons/opam-repository,True
 https://gitlab.inria.fr/skelton/pyskelton,True
 https://gitlab.inria.fr/skelton/skelton2,True
+https://gitlab.inria.fr/sollya/sollya,False
 https://gitlab.inria.fr/solverstack/ScalFMM,True
 https://gitlab.inria.fr/solverstack/chameleon,True
 https://gitlab.inria.fr/solverstack/fabulous,True
@@ -5887,6 +5890,7 @@ https://gitlab.inria.fr/vidjil/tl-index,True
 https://gitlab.inria.fr/vidjil/vidjil,True
 https://gitlab.inria.fr/vtaverni/libshadertoy,True
 https://gitlab.inria.fr/vtaverni/shadertoy-connector,True
+https://gitlab.inria.fr/webpages/apollo,False
 https://gitlab.inria.fr/whisper-public/atc20,True
 https://gitlab.inria.fr/why3/verifythis2020,True
 https://gitlab.inria.fr/why3/why3,True
