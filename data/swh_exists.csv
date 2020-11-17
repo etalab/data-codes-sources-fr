@@ -798,6 +798,7 @@ https://github.com/CNRS-DSI-Dev/mycore_versions,True
 https://github.com/CNRS-DSI-Dev/mycore_wayf,True
 https://github.com/CNRS-DSI-Dev/password_policy,True
 https://github.com/CNRS-DSI-Dev/rename_groups,True
+https://github.com/CNRS-DSI-Dev/simple-keepalived-ansible-role,False
 https://github.com/CNRS-DSI-Dev/update-crl,False
 https://github.com/CNRS-DSI-Dev/user_account_actions,True
 https://github.com/CNRS-DSI-Dev/user_deletion_request,True
@@ -833,6 +834,7 @@ https://github.com/DISIC/Test-Compta-Demat,True
 https://github.com/DISIC/XWiki-cerfa-numerique,True
 https://github.com/DISIC/assistant-rgaa,True
 https://github.com/DISIC/bmc-tools,True
+https://github.com/DISIC/checklist-pidila,False
 https://github.com/DISIC/circuits,True
 https://github.com/DISIC/design-numerique-admin,True
 https://github.com/DISIC/design.numerique.gouv.fr,True
@@ -1476,7 +1478,7 @@ https://github.com/InseeFrLab/funcampR-landingpage,True
 https://github.com/InseeFrLab/grandedim,True
 https://github.com/InseeFrLab/helm-charts,True
 https://github.com/InseeFrLab/helm-charts-datascience,True
-https://github.com/InseeFrLab/helm-charts-trainings,False
+https://github.com/InseeFrLab/helm-charts-trainings,True
 https://github.com/InseeFrLab/java-vtl,True
 https://github.com/InseeFrLab/java-vtl-connectors,True
 https://github.com/InseeFrLab/java-vtl-tools,True
@@ -4933,6 +4935,7 @@ https://gitlab.com/dreal-datalab/drealthemes,True
 https://gitlab.com/dreal-datalab/enr_reseaux_teo,True
 https://gitlab.com/dreal-datalab/essai,True
 https://gitlab.com/dreal-datalab/indicateurs_territoriaux,True
+https://gitlab.com/dreal-datalab/maps,False
 https://gitlab.com/dreal-datalab/nitrates,True
 https://gitlab.com/dreal-datalab/ort_effectifs_transport,True
 https://gitlab.com/dreal-datalab/pesticides,True
@@ -5148,6 +5151,7 @@ https://gitlab.inria.fr/Seshat/cours,True
 https://gitlab.inria.fr/Seshat/deeplearning,True
 https://gitlab.inria.fr/Seshat/html,True
 https://gitlab.inria.fr/Seshat/internetprivacy,True
+https://gitlab.inria.fr/Seshat/javascript,False
 https://gitlab.inria.fr/Seshat/simplewebpage,True
 https://gitlab.inria.fr/Seshat/test,True
 https://gitlab.inria.fr/Seshat/unity,True
