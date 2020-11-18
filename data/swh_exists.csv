@@ -159,7 +159,7 @@ https://forgemia.inra.fr/genotoul-bioinfo/use-nextflow-nfcore-course,True
 https://forgemia.inra.fr/geoc/hackaton2020,True
 https://forgemia.inra.fr/get-it/nf-assemblshortread,True
 https://forgemia.inra.fr/get-it/nf-taxoaffiliation,True
-https://forgemia.inra.fr/get-nextflow-ngl-bi/template-nf,False
+https://forgemia.inra.fr/get-nextflow-ngl-bi/template-nf,True
 https://forgemia.inra.fr/gryc-data/blastobotrys_adeninivorans-ls3,True
 https://forgemia.inra.fr/gryc-data/candida_albicans-sc_5314,True
 https://forgemia.inra.fr/gryc-data/candida_glabrata-cbs_138,True
@@ -1468,7 +1468,7 @@ https://github.com/InseeFrLab/funcamp-r,False
 https://github.com/InseeFrLab/funcamp-r-dock,False
 https://github.com/InseeFrLab/funcamp-r-grimoire,False
 https://github.com/InseeFrLab/funcamp-r-icarius,False
-https://github.com/InseeFrLab/funcamp-r-neverending,False
+https://github.com/InseeFrLab/funcamp-r-neverending,True
 https://github.com/InseeFrLab/funcamp-r-ubuntu-solarus,False
 https://github.com/InseeFrLab/funcamp-r-windows-grimoire-launcher,False
 https://github.com/InseeFrLab/funcamp-r-windows-solarus,False
@@ -2594,6 +2594,7 @@ https://github.com/betagouv/redux-react-modals,True
 https://github.com/betagouv/redux-saga-data,True
 https://github.com/betagouv/redux-thunk-data,True
 https://github.com/betagouv/relance-transformation,True
+https://github.com/betagouv/renforts,False
 https://github.com/betagouv/reserve-civique-redirect,True
 https://github.com/betagouv/retraite,True
 https://github.com/betagouv/role-ansible,True
@@ -2628,6 +2629,7 @@ https://github.com/betagouv/syso,True
 https://github.com/betagouv/syso-core,True
 https://github.com/betagouv/taux-collectifs-cotisation-atmp,True
 https://github.com/betagouv/taux-versement-transport,True
+https://github.com/betagouv/template-design-system-de-l-etat,False
 https://github.com/betagouv/template.beta.gouv.fr,True
 https://github.com/betagouv/trait-d-union,True
 https://github.com/betagouv/traitdunion-landing-pages,True
@@ -4035,6 +4037,7 @@ https://github.com/medialab/minet,True
 https://github.com/medialab/minivan,True
 https://github.com/medialab/miw-animation,True
 https://github.com/medialab/motel,True
+https://github.com/medialab/nansi,True
 https://github.com/medialab/navicrawler,True
 https://github.com/medialab/network-of-fragments,True
 https://github.com/medialab/news-circulation,True
@@ -5809,7 +5812,7 @@ https://gitlab.inria.fr/skeletons/necro-tex,True
 https://gitlab.inria.fr/skeletons/opam-repository,True
 https://gitlab.inria.fr/skelton/pyskelton,True
 https://gitlab.inria.fr/skelton/skelton2,True
-https://gitlab.inria.fr/sollya/sollya,False
+https://gitlab.inria.fr/sollya/sollya,True
 https://gitlab.inria.fr/solverstack/ScalFMM,True
 https://gitlab.inria.fr/solverstack/chameleon,True
 https://gitlab.inria.fr/solverstack/fabulous,True
