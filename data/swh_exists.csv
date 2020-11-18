@@ -1466,7 +1466,7 @@ https://github.com/InseeFrLab/cloud-scripts,True
 https://github.com/InseeFrLab/demo-apps,True
 https://github.com/InseeFrLab/funcamp-r,False
 https://github.com/InseeFrLab/funcamp-r-dock,False
-https://github.com/InseeFrLab/funcamp-r-grimoire,False
+https://github.com/InseeFrLab/funcamp-r-grimoire,True
 https://github.com/InseeFrLab/funcamp-r-icarius,False
 https://github.com/InseeFrLab/funcamp-r-neverending,True
 https://github.com/InseeFrLab/funcamp-r-ubuntu-solarus,False
@@ -1925,6 +1925,7 @@ https://github.com/SocialGouv/code-du-travail-numerique2,True
 https://github.com/SocialGouv/code-du-travail-scenarios,True
 https://github.com/SocialGouv/code-du-travail-slides,True
 https://github.com/SocialGouv/code-du-travail-ui,True
+https://github.com/SocialGouv/codeceptjs-config,False
 https://github.com/SocialGouv/contributions-data,True
 https://github.com/SocialGouv/conventions-collectives,True
 https://github.com/SocialGouv/cors-anywhere,True
@@ -5446,7 +5447,7 @@ https://gitlab.inria.fr/epione/GP_progression_model_V2,True
 https://gitlab.inria.fr/epione/biblio,True
 https://gitlab.inria.fr/epione/hdcob,True
 https://gitlab.inria.fr/epione/promfusion,True
-https://gitlab.inria.fr/epione/unsegqc,False
+https://gitlab.inria.fr/epione/unsegqc,True
 https://gitlab.inria.fr/epione_ML/bayesian-learning-uca,True
 https://gitlab.inria.fr/epione_ML/mcvae,True
 https://gitlab.inria.fr/erable/totoro,True
