@@ -115,6 +115,8 @@ https://forgemia.inra.fr/4p/maquettes-4p,True
 https://forgemia.inra.fr/4p/pheno-extraction,True
 https://forgemia.inra.fr/4p/user-guide,True
 https://forgemia.inra.fr/DecisionBleDur/DecisionBleDur,True
+https://forgemia.inra.fr/GET_TRiX/MATRIXapp,False
+https://forgemia.inra.fr/GET_TRiX/dockerize_MATRiX,False
 https://forgemia.inra.fr/GET_TRiX/matrix,True
 https://forgemia.inra.fr/GNet/appinetwork,True
 https://forgemia.inra.fr/GNet/cytopheno_omics,True
@@ -160,6 +162,7 @@ https://forgemia.inra.fr/geoc/hackaton2020,True
 https://forgemia.inra.fr/get-it/nf-assemblshortread,True
 https://forgemia.inra.fr/get-it/nf-taxoaffiliation,True
 https://forgemia.inra.fr/get-nextflow-ngl-bi/template-nf,True
+https://forgemia.inra.fr/get-nextflow-ngl-bi/test-data,False
 https://forgemia.inra.fr/gryc-data/blastobotrys_adeninivorans-ls3,True
 https://forgemia.inra.fr/gryc-data/candida_albicans-sc_5314,True
 https://forgemia.inra.fr/gryc-data/candida_glabrata-cbs_138,True
@@ -1466,7 +1469,7 @@ https://github.com/InseeFrLab/blazingsql,True
 https://github.com/InseeFrLab/cloud-scripts,True
 https://github.com/InseeFrLab/demo-apps,True
 https://github.com/InseeFrLab/funcamp-r,False
-https://github.com/InseeFrLab/funcamp-r-dock,False
+https://github.com/InseeFrLab/funcamp-r-dock,True
 https://github.com/InseeFrLab/funcamp-r-grimoire,True
 https://github.com/InseeFrLab/funcamp-r-icarius,False
 https://github.com/InseeFrLab/funcamp-r-neverending,True
@@ -2150,7 +2153,7 @@ https://github.com/abes-esr/fne-batch,True
 https://github.com/abes-esr/idref-api,True
 https://github.com/abes-esr/item-api,True
 https://github.com/abes-esr/item-client,True
-https://github.com/abes-esr/periscope-poc-vue-js,False
+https://github.com/abes-esr/periscope-poc-vue-js,True
 https://github.com/abes-esr/periscope-poc-vue-js-latest,False
 https://github.com/abes-esr/periscopePocVueJs,True
 https://github.com/abes-esr/poc-fne,True
@@ -5211,6 +5214,7 @@ https://gitlab.inria.fr/alta/alta,True
 https://gitlab.inria.fr/amibio/Infrared,True
 https://gitlab.inria.fr/amibio/RNAPOND,True
 https://gitlab.inria.fr/amibio/RNARedPrint,True
+https://gitlab.inria.fr/amibio/treedecomp,False
 https://gitlab.inria.fr/andiamo/eusdisparser,True
 https://gitlab.inria.fr/andiamo/tony,True
 https://gitlab.inria.fr/android-tools/apk-ops,True
