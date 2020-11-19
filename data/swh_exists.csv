@@ -416,6 +416,7 @@ https://git.unistra.fr/integratron/integrateur,True
 https://git.unistra.fr/integratron/integrateur-api,True
 https://git.unistra.fr/integratron/integrateur-cli,True
 https://git.unistra.fr/integratron/integratron.pages.unistra.fr,True
+https://git.unistra.fr/jeu-de-la-vie/projet-td,False
 https://git.unistra.fr/jupyter/animation,True
 https://git.unistra.fr/konflict/central-server,False
 https://git.unistra.fr/konflict/central-server-api,True
@@ -799,7 +800,7 @@ https://github.com/CNRS-DSI-Dev/mycore_versions,True
 https://github.com/CNRS-DSI-Dev/mycore_wayf,True
 https://github.com/CNRS-DSI-Dev/password_policy,True
 https://github.com/CNRS-DSI-Dev/rename_groups,True
-https://github.com/CNRS-DSI-Dev/simple-keepalived-ansible-role,False
+https://github.com/CNRS-DSI-Dev/simple-keepalived-ansible-role,True
 https://github.com/CNRS-DSI-Dev/update-crl,False
 https://github.com/CNRS-DSI-Dev/user_account_actions,True
 https://github.com/CNRS-DSI-Dev/user_deletion_request,True
@@ -1470,7 +1471,7 @@ https://github.com/InseeFrLab/funcamp-r-grimoire,True
 https://github.com/InseeFrLab/funcamp-r-icarius,False
 https://github.com/InseeFrLab/funcamp-r-neverending,True
 https://github.com/InseeFrLab/funcamp-r-ubuntu-solarus,False
-https://github.com/InseeFrLab/funcamp-r-windows-grimoire-launcher,False
+https://github.com/InseeFrLab/funcamp-r-windows-grimoire-launcher,True
 https://github.com/InseeFrLab/funcamp-r-windows-solarus,False
 https://github.com/InseeFrLab/funcamp.sspcloud.fr,True
 https://github.com/InseeFrLab/funcampR,True
@@ -3519,7 +3520,7 @@ https://github.com/etalab/template.data.gouv.fr,True
 https://github.com/etalab/tiles.data.gouv.fr,True
 https://github.com/etalab/transpo-rt,True
 https://github.com/etalab/transport-base-nationale-covoiturage,True
-https://github.com/etalab/transport-community-contributions,False
+https://github.com/etalab/transport-community-contributions,True
 https://github.com/etalab/transport-datatools-server,True
 https://github.com/etalab/transport-datatools-ui,True
 https://github.com/etalab/transport-gtfs-lib,True
@@ -4940,7 +4941,7 @@ https://gitlab.com/dreal-datalab/drealthemes,True
 https://gitlab.com/dreal-datalab/enr_reseaux_teo,True
 https://gitlab.com/dreal-datalab/essai,True
 https://gitlab.com/dreal-datalab/indicateurs_territoriaux,True
-https://gitlab.com/dreal-datalab/maps,False
+https://gitlab.com/dreal-datalab/maps,True
 https://gitlab.com/dreal-datalab/nitrates,True
 https://gitlab.com/dreal-datalab/ort_effectifs_transport,True
 https://gitlab.com/dreal-datalab/pesticides,True
