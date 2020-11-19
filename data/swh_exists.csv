@@ -1468,10 +1468,10 @@ https://github.com/InseeFrLab/aws.s3,True
 https://github.com/InseeFrLab/blazingsql,True
 https://github.com/InseeFrLab/cloud-scripts,True
 https://github.com/InseeFrLab/demo-apps,True
-https://github.com/InseeFrLab/funcamp-r,False
+https://github.com/InseeFrLab/funcamp-r,True
 https://github.com/InseeFrLab/funcamp-r-dock,True
 https://github.com/InseeFrLab/funcamp-r-grimoire,True
-https://github.com/InseeFrLab/funcamp-r-icarius,False
+https://github.com/InseeFrLab/funcamp-r-icarius,True
 https://github.com/InseeFrLab/funcamp-r-neverending,True
 https://github.com/InseeFrLab/funcamp-r-ubuntu-solarus,True
 https://github.com/InseeFrLab/funcamp-r-windows-grimoire-launcher,True
@@ -3037,7 +3037,7 @@ https://github.com/dsi-ehess/VIVO-EHESS,True
 https://github.com/dsi-ehess/VIVO-Sample-Data,True
 https://github.com/dsi-ehess/VIVO-fr_FR,True
 https://github.com/dsi-ehess/VIVO-languages,True
-https://github.com/dsi-ehess/VIVO-languages-EHESS,False
+https://github.com/dsi-ehess/VIVO-languages-EHESS,True
 https://github.com/dsi-ehess/Vitro,True
 https://github.com/dsi-ehess/Vitro-EHESS,True
 https://github.com/dsi-ehess/Vitro-fr_FR,True
@@ -5800,6 +5800,7 @@ https://gitlab.inria.fr/serpico/ndsafir,True
 https://gitlab.inria.fr/serpico/ndsafir_bin,True
 https://gitlab.inria.fr/serpico/owf_bin,True
 https://gitlab.inria.fr/serpico/serpico-notebooks,True
+https://gitlab.inria.fr/serpico/spitfire,False
 https://gitlab.inria.fr/serpico/thot_bin,True
 https://gitlab.inria.fr/sesame/platform,True
 https://gitlab.inria.fr/simgrid/platform-calibration,True
