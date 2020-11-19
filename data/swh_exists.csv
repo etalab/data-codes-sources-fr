@@ -1470,7 +1470,7 @@ https://github.com/InseeFrLab/funcamp-r-dock,False
 https://github.com/InseeFrLab/funcamp-r-grimoire,True
 https://github.com/InseeFrLab/funcamp-r-icarius,False
 https://github.com/InseeFrLab/funcamp-r-neverending,True
-https://github.com/InseeFrLab/funcamp-r-ubuntu-solarus,False
+https://github.com/InseeFrLab/funcamp-r-ubuntu-solarus,True
 https://github.com/InseeFrLab/funcamp-r-windows-grimoire-launcher,True
 https://github.com/InseeFrLab/funcamp-r-windows-solarus,False
 https://github.com/InseeFrLab/funcamp.sspcloud.fr,True
@@ -4925,6 +4925,7 @@ https://gitlab.com/api-meubles/fraddress,True
 https://gitlab.com/api-meubles/frontend,True
 https://gitlab.com/api-meubles/website,True
 https://gitlab.com/cortext/ANSES,True
+https://gitlab.com/cortext/PAM-System,False
 https://gitlab.com/cortext/cib-database,True
 https://gitlab.com/cortext/cortext-pub,True
 https://gitlab.com/cortext/patstat,True
