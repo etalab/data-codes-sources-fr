@@ -431,7 +431,9 @@ https://git.unistra.fr/konflict/konflict-local-tunnel,True
 https://git.unistra.fr/konflict/konflict-local-tunnel-server,True
 https://git.unistra.fr/konflict/mobile-app,True
 https://git.unistra.fr/konflict/serveur-central,True
+https://git.unistra.fr/l-ekip/t432_voc20_t3_a,False
 https://git.unistra.fr/la-table-ronde/ecr19-t4-b,True
+https://git.unistra.fr/les-biens-renseignes/module-polynomes,False
 https://git.unistra.fr/les-quatres-cavaliers-de-l-apocalypse-et-les-deux-stagiaires/ihm-projet,False
 https://git.unistra.fr/les-sans-noms/dossiers,True
 https://git.unistra.fr/les-sans-noms/mod-le-serveur,True
@@ -1503,6 +1505,7 @@ https://github.com/InseeFrLab/product-labelling,True
 https://github.com/InseeFrLab/rapidsai,True
 https://github.com/InseeFrLab/rstudio,True
 https://github.com/InseeFrLab/rstudio-gpu,True
+https://github.com/InseeFrLab/simple-default-backend,False
 https://github.com/InseeFrLab/sugoi-api,True
 https://github.com/InseeFrLab/sugoi-ui,True
 https://github.com/InseeFrLab/tensorflow,True
@@ -1999,6 +2002,7 @@ https://github.com/SocialGouv/medle,True
 https://github.com/SocialGouv/monitor,True
 https://github.com/SocialGouv/monitorer,True
 https://github.com/SocialGouv/monsuivipsy,True
+https://github.com/SocialGouv/monsuivipsy-landing,False
 https://github.com/SocialGouv/next-routes,True
 https://github.com/SocialGouv/onvs,True
 https://github.com/SocialGouv/ozensemble,True
@@ -3137,6 +3141,7 @@ https://github.com/entrepreneur-interet-general/open-agenda-eig2018,True
 https://github.com/entrepreneur-interet-general/open-moulinette,True
 https://github.com/entrepreneur-interet-general/open_api_schemas_to_markdown,True
 https://github.com/entrepreneur-interet-general/opencollectivites,True
+https://github.com/entrepreneur-interet-general/opencollectivites-front,False
 https://github.com/entrepreneur-interet-general/opensignauxfaibles,True
 https://github.com/entrepreneur-interet-general/ox-html-timeline,True
 https://github.com/entrepreneur-interet-general/pointk,True
@@ -5658,7 +5663,7 @@ https://gitlab.inria.fr/miet/miet,True
 https://gitlab.inria.fr/mimoza/mimoza,True
 https://gitlab.inria.fr/misscausal/combine-rct-rwd-review,True
 https://gitlab.inria.fr/misscausal/misscausal.gitlab.io,True
-https://gitlab.inria.fr/miticov/mitigating-covid19-outbreaks,False
+https://gitlab.inria.fr/miticov/mitigating-covid19-outbreaks,True
 https://gitlab.inria.fr/mnemosyne/data_prototypes,True
 https://gitlab.inria.fr/mnemosyne/neurosmart,True
 https://gitlab.inria.fr/mnemosyne/vanilla_nn,True
