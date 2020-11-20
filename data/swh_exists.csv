@@ -1459,6 +1459,8 @@ https://github.com/InseeFrLab/DoReMIFaSolData,True
 https://github.com/InseeFrLab/InspaCy,True
 https://github.com/InseeFrLab/InspaCy-UI,True
 https://github.com/InseeFrLab/Java-Helm-Wrapper,True
+https://github.com/InseeFrLab/Macronometrics,False
+https://github.com/InseeFrLab/Macronometrics-Notebook,False
 https://github.com/InseeFrLab/Shelly,True
 https://github.com/InseeFrLab/Ubuntu-vnc-base,True
 https://github.com/InseeFrLab/Universe-Datascience,True
@@ -1491,6 +1493,7 @@ https://github.com/InseeFrLab/json-stat.java,True
 https://github.com/InseeFrLab/jupyter-datascience,True
 https://github.com/InseeFrLab/k8s-onboarding,True
 https://github.com/InseeFrLab/keycloak-hashicorp-vault-ext,True
+https://github.com/InseeFrLab/keycloak-http-storage-provider,False
 https://github.com/InseeFrLab/marathon-to-kubernetes,True
 https://github.com/InseeFrLab/onyxia,True
 https://github.com/InseeFrLab/onyxia-api,True
@@ -4601,6 +4604,7 @@ https://github.com/signaux-faibles/gorncs-api,True
 https://github.com/signaux-faibles/goup,True
 https://github.com/signaux-faibles/gournal,True
 https://github.com/signaux-faibles/keycloakUpdater,True
+https://github.com/signaux-faibles/mlr3extralearners,False
 https://github.com/signaux-faibles/opensignauxfaibles,True
 https://github.com/signaux-faibles/prepare-import,True
 https://github.com/signaux-faibles/rsignauxfaibles,True
@@ -5653,6 +5657,7 @@ https://gitlab.inria.fr/miet/miet,True
 https://gitlab.inria.fr/mimoza/mimoza,True
 https://gitlab.inria.fr/misscausal/combine-rct-rwd-review,True
 https://gitlab.inria.fr/misscausal/misscausal.gitlab.io,True
+https://gitlab.inria.fr/miticov/mitigating-covid19-outbreaks,False
 https://gitlab.inria.fr/mnemosyne/data_prototypes,True
 https://gitlab.inria.fr/mnemosyne/neurosmart,True
 https://gitlab.inria.fr/mnemosyne/vanilla_nn,True
