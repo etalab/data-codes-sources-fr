@@ -116,7 +116,7 @@ https://forgemia.inra.fr/4p/pheno-extraction,True
 https://forgemia.inra.fr/4p/user-guide,True
 https://forgemia.inra.fr/DecisionBleDur/DecisionBleDur,True
 https://forgemia.inra.fr/GET_TRiX/MATRIXapp,False
-https://forgemia.inra.fr/GET_TRiX/dockerize_MATRiX,False
+https://forgemia.inra.fr/GET_TRiX/dockerize_MATRiX,True
 https://forgemia.inra.fr/GET_TRiX/matrix,True
 https://forgemia.inra.fr/GNet/appinetwork,True
 https://forgemia.inra.fr/GNet/cytopheno_omics,True
@@ -1683,7 +1683,7 @@ https://github.com/MTES-MCT/trackdechets-bulk-account-creation,True
 https://github.com/MTES-MCT/trackdechets-dasri-proto,True
 https://github.com/MTES-MCT/trackdechets-datascience,True
 https://github.com/MTES-MCT/trackdechets-etl,True
-https://github.com/MTES-MCT/trackdechets-map,False
+https://github.com/MTES-MCT/trackdechets-map,True
 https://github.com/MTES-MCT/trackdechets-metabase,True
 https://github.com/MTES-MCT/trackdechets-oauth2-demo-app,True
 https://github.com/MTES-MCT/trackdechets-website,True
@@ -2003,6 +2003,7 @@ https://github.com/SocialGouv/monitor,True
 https://github.com/SocialGouv/monitorer,True
 https://github.com/SocialGouv/monsuivipsy,True
 https://github.com/SocialGouv/monsuivipsy-landing,False
+https://github.com/SocialGouv/monsuivipsy-site,False
 https://github.com/SocialGouv/next-routes,True
 https://github.com/SocialGouv/onvs,True
 https://github.com/SocialGouv/ozensemble,True
