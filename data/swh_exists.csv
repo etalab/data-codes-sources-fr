@@ -806,7 +806,7 @@ https://github.com/CNRS-DSI-Dev/mycore_wayf,True
 https://github.com/CNRS-DSI-Dev/password_policy,True
 https://github.com/CNRS-DSI-Dev/rename_groups,True
 https://github.com/CNRS-DSI-Dev/simple-keepalived-ansible-role,True
-https://github.com/CNRS-DSI-Dev/update-crl,False
+https://github.com/CNRS-DSI-Dev/update-crl,True
 https://github.com/CNRS-DSI-Dev/user_account_actions,True
 https://github.com/CNRS-DSI-Dev/user_deletion_request,True
 https://github.com/CNRS-DSI-Dev/user_files_migrate,True
@@ -1479,7 +1479,7 @@ https://github.com/InseeFrLab/funcamp-r-icarius,True
 https://github.com/InseeFrLab/funcamp-r-neverending,True
 https://github.com/InseeFrLab/funcamp-r-ubuntu-solarus,True
 https://github.com/InseeFrLab/funcamp-r-windows-grimoire-launcher,True
-https://github.com/InseeFrLab/funcamp-r-windows-solarus,False
+https://github.com/InseeFrLab/funcamp-r-windows-solarus,True
 https://github.com/InseeFrLab/funcamp.sspcloud.fr,True
 https://github.com/InseeFrLab/funcampR,True
 https://github.com/InseeFrLab/funcampR-base,True
