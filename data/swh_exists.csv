@@ -162,7 +162,7 @@ https://forgemia.inra.fr/geoc/hackaton2020,True
 https://forgemia.inra.fr/get-it/nf-assemblshortread,True
 https://forgemia.inra.fr/get-it/nf-taxoaffiliation,True
 https://forgemia.inra.fr/get-nextflow-ngl-bi/template-nf,True
-https://forgemia.inra.fr/get-nextflow-ngl-bi/test-data,False
+https://forgemia.inra.fr/get-nextflow-ngl-bi/test-data,True
 https://forgemia.inra.fr/gryc-data/blastobotrys_adeninivorans-ls3,True
 https://forgemia.inra.fr/gryc-data/candida_albicans-sc_5314,True
 https://forgemia.inra.fr/gryc-data/candida_glabrata-cbs_138,True
@@ -433,7 +433,7 @@ https://git.unistra.fr/konflict/mobile-app,True
 https://git.unistra.fr/konflict/serveur-central,True
 https://git.unistra.fr/l-ekip/t432_voc20_t3_a,False
 https://git.unistra.fr/la-table-ronde/ecr19-t4-b,True
-https://git.unistra.fr/les-biens-renseignes/module-polynomes,False
+https://git.unistra.fr/les-biens-renseignes/module-polynomes,True
 https://git.unistra.fr/les-quatres-cavaliers-de-l-apocalypse-et-les-deux-stagiaires/ihm-projet,False
 https://git.unistra.fr/les-sans-noms/dossiers,True
 https://git.unistra.fr/les-sans-noms/mod-le-serveur,True
@@ -1495,7 +1495,7 @@ https://github.com/InseeFrLab/json-stat.java,True
 https://github.com/InseeFrLab/jupyter-datascience,True
 https://github.com/InseeFrLab/k8s-onboarding,True
 https://github.com/InseeFrLab/keycloak-hashicorp-vault-ext,True
-https://github.com/InseeFrLab/keycloak-http-storage-provider,False
+https://github.com/InseeFrLab/keycloak-http-storage-provider,True
 https://github.com/InseeFrLab/marathon-to-kubernetes,True
 https://github.com/InseeFrLab/onyxia,True
 https://github.com/InseeFrLab/onyxia-api,True
@@ -1505,7 +1505,7 @@ https://github.com/InseeFrLab/product-labelling,True
 https://github.com/InseeFrLab/rapidsai,True
 https://github.com/InseeFrLab/rstudio,True
 https://github.com/InseeFrLab/rstudio-gpu,True
-https://github.com/InseeFrLab/simple-default-backend,False
+https://github.com/InseeFrLab/simple-default-backend,True
 https://github.com/InseeFrLab/sugoi-api,True
 https://github.com/InseeFrLab/sugoi-ui,True
 https://github.com/InseeFrLab/tensorflow,True
@@ -2608,7 +2608,7 @@ https://github.com/betagouv/redux-react-modals,True
 https://github.com/betagouv/redux-saga-data,True
 https://github.com/betagouv/redux-thunk-data,True
 https://github.com/betagouv/relance-transformation,True
-https://github.com/betagouv/renforts,False
+https://github.com/betagouv/renforts,True
 https://github.com/betagouv/reserve-civique-redirect,True
 https://github.com/betagouv/retraite,True
 https://github.com/betagouv/role-ansible,True
@@ -4611,7 +4611,7 @@ https://github.com/signaux-faibles/gorncs-api,True
 https://github.com/signaux-faibles/goup,True
 https://github.com/signaux-faibles/gournal,True
 https://github.com/signaux-faibles/keycloakUpdater,True
-https://github.com/signaux-faibles/mlr3extralearners,False
+https://github.com/signaux-faibles/mlr3extralearners,True
 https://github.com/signaux-faibles/opensignauxfaibles,True
 https://github.com/signaux-faibles/prepare-import,True
 https://github.com/signaux-faibles/rsignauxfaibles,True
