@@ -1936,7 +1936,7 @@ https://github.com/SocialGouv/code-du-travail-numerique2,True
 https://github.com/SocialGouv/code-du-travail-scenarios,True
 https://github.com/SocialGouv/code-du-travail-slides,True
 https://github.com/SocialGouv/code-du-travail-ui,True
-https://github.com/SocialGouv/codeceptjs-config,False
+https://github.com/SocialGouv/codeceptjs-config,True
 https://github.com/SocialGouv/contributions-data,True
 https://github.com/SocialGouv/conventions-collectives,True
 https://github.com/SocialGouv/cors-anywhere,True
@@ -2003,7 +2003,7 @@ https://github.com/SocialGouv/monitor,True
 https://github.com/SocialGouv/monitorer,True
 https://github.com/SocialGouv/monsuivipsy,True
 https://github.com/SocialGouv/monsuivipsy-landing,False
-https://github.com/SocialGouv/monsuivipsy-site,False
+https://github.com/SocialGouv/monsuivipsy-site,True
 https://github.com/SocialGouv/next-routes,True
 https://github.com/SocialGouv/onvs,True
 https://github.com/SocialGouv/ozensemble,True
