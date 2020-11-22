@@ -419,7 +419,7 @@ https://git.unistra.fr/integratron/integrateur,True
 https://git.unistra.fr/integratron/integrateur-api,True
 https://git.unistra.fr/integratron/integrateur-cli,True
 https://git.unistra.fr/integratron/integratron.pages.unistra.fr,True
-https://git.unistra.fr/jeu-de-la-vie/projet-td,False
+https://git.unistra.fr/jeu-de-la-vie/projet-td,True
 https://git.unistra.fr/jupyter/animation,True
 https://git.unistra.fr/konflict/central-server,False
 https://git.unistra.fr/konflict/central-server-api,True
@@ -5225,7 +5225,7 @@ https://gitlab.inria.fr/alta/alta,True
 https://gitlab.inria.fr/amibio/Infrared,True
 https://gitlab.inria.fr/amibio/RNAPOND,True
 https://gitlab.inria.fr/amibio/RNARedPrint,True
-https://gitlab.inria.fr/amibio/treedecomp,False
+https://gitlab.inria.fr/amibio/treedecomp,True
 https://gitlab.inria.fr/andiamo/eusdisparser,True
 https://gitlab.inria.fr/andiamo/tony,True
 https://gitlab.inria.fr/android-tools/apk-ops,True
