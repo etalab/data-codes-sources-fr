@@ -470,7 +470,7 @@ https://git.unistra.fr/s2/p21-mini-projet,True
 https://git.unistra.fr/s2/s21,True
 https://git.unistra.fr/s2/t22,True
 https://git.unistra.fr/s3/d31-projet,True
-https://git.unistra.fr/s3/m31-projet-sim,False
+https://git.unistra.fr/s3/m31-projet-sim,True
 https://git.unistra.fr/scl19-t4-a/t4-2019,True
 https://git.unistra.fr/scl19-t4-c/juthose,True
 https://git.unistra.fr/scl19-t4-e/t4,True
@@ -1462,7 +1462,7 @@ https://github.com/InseeFrLab/InspaCy,True
 https://github.com/InseeFrLab/InspaCy-UI,True
 https://github.com/InseeFrLab/Java-Helm-Wrapper,True
 https://github.com/InseeFrLab/Macronometrics,False
-https://github.com/InseeFrLab/Macronometrics-Notebook,False
+https://github.com/InseeFrLab/Macronometrics-Notebook,True
 https://github.com/InseeFrLab/Shelly,True
 https://github.com/InseeFrLab/Ubuntu-vnc-base,True
 https://github.com/InseeFrLab/Universe-Datascience,True
@@ -5172,7 +5172,7 @@ https://gitlab.inria.fr/Seshat/cours,True
 https://gitlab.inria.fr/Seshat/deeplearning,True
 https://gitlab.inria.fr/Seshat/html,True
 https://gitlab.inria.fr/Seshat/internetprivacy,True
-https://gitlab.inria.fr/Seshat/javascript,False
+https://gitlab.inria.fr/Seshat/javascript,True
 https://gitlab.inria.fr/Seshat/simplewebpage,True
 https://gitlab.inria.fr/Seshat/test,True
 https://gitlab.inria.fr/Seshat/unity,True
