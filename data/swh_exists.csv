@@ -2695,6 +2695,7 @@ https://github.com/cea-hpc/phobos,True
 https://github.com/cea-hpc/puppet-gluster,True
 https://github.com/cea-hpc/rbh-find,True
 https://github.com/cea-hpc/rbh-fsevents,True
+https://github.com/cea-hpc/rbh-gc,False
 https://github.com/cea-hpc/rbh-sync,True
 https://github.com/cea-hpc/robinhood,True
 https://github.com/cea-hpc/selFIe,True
@@ -3142,7 +3143,7 @@ https://github.com/entrepreneur-interet-general/open-agenda-eig2018,True
 https://github.com/entrepreneur-interet-general/open-moulinette,True
 https://github.com/entrepreneur-interet-general/open_api_schemas_to_markdown,True
 https://github.com/entrepreneur-interet-general/opencollectivites,True
-https://github.com/entrepreneur-interet-general/opencollectivites-front,False
+https://github.com/entrepreneur-interet-general/opencollectivites-front,True
 https://github.com/entrepreneur-interet-general/opensignauxfaibles,True
 https://github.com/entrepreneur-interet-general/ox-html-timeline,True
 https://github.com/entrepreneur-interet-general/pointk,True
