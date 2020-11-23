@@ -2495,6 +2495,7 @@ https://github.com/betagouv/loomio,True
 https://github.com/betagouv/ludwig,True
 https://github.com/betagouv/ludwig-api,True
 https://github.com/betagouv/ludwig-ui,True
+https://github.com/betagouv/ma-cantine,False
 https://github.com/betagouv/mas,True
 https://github.com/betagouv/matomo,True
 https://github.com/betagouv/matomo-beta,True
@@ -5803,6 +5804,7 @@ https://gitlab.inria.fr/sequoia/deep-sequoia,True
 https://gitlab.inria.fr/serpico/3d-flow-assessment,True
 https://gitlab.inria.fr/serpico/airyscanj_bin,True
 https://gitlab.inria.fr/serpico/atlas,True
+https://gitlab.inria.fr/serpico/cimgdenoising,False
 https://gitlab.inria.fr/serpico/cpanalysis_bin,True
 https://gitlab.inria.fr/serpico/deep-finder,True
 https://gitlab.inria.fr/serpico/flowscope-wrapping,True
