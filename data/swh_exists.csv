@@ -841,7 +841,7 @@ https://github.com/DISIC/Test-Compta-Demat,True
 https://github.com/DISIC/XWiki-cerfa-numerique,True
 https://github.com/DISIC/assistant-rgaa,True
 https://github.com/DISIC/bmc-tools,True
-https://github.com/DISIC/checklist-pidila,False
+https://github.com/DISIC/checklist-pidila,True
 https://github.com/DISIC/circuits,True
 https://github.com/DISIC/design-numerique-admin,True
 https://github.com/DISIC/design.numerique.gouv.fr,True
@@ -2695,7 +2695,7 @@ https://github.com/cea-hpc/phobos,True
 https://github.com/cea-hpc/puppet-gluster,True
 https://github.com/cea-hpc/rbh-find,True
 https://github.com/cea-hpc/rbh-fsevents,True
-https://github.com/cea-hpc/rbh-gc,False
+https://github.com/cea-hpc/rbh-gc,True
 https://github.com/cea-hpc/rbh-sync,True
 https://github.com/cea-hpc/robinhood,True
 https://github.com/cea-hpc/selFIe,True
@@ -5813,7 +5813,7 @@ https://gitlab.inria.fr/serpico/ndsafir,True
 https://gitlab.inria.fr/serpico/ndsafir_bin,True
 https://gitlab.inria.fr/serpico/owf_bin,True
 https://gitlab.inria.fr/serpico/serpico-notebooks,True
-https://gitlab.inria.fr/serpico/spitfire,False
+https://gitlab.inria.fr/serpico/spitfire,True
 https://gitlab.inria.fr/serpico/thot_bin,True
 https://gitlab.inria.fr/sesame/platform,True
 https://gitlab.inria.fr/simgrid/platform-calibration,True
