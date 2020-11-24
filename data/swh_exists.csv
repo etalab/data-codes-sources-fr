@@ -3308,6 +3308,7 @@ https://github.com/etalab/backend-siren,False
 https://github.com/etalab/bal,True
 https://github.com/etalab/ban-data,True
 https://github.com/etalab/ban-geocode,True
+https://github.com/etalab/ban-plateforme,False
 https://github.com/etalab/banatic,True
 https://github.com/etalab/biryani,True
 https://github.com/etalab/blog-eig2,True
@@ -5197,6 +5198,7 @@ https://gitlab.inria.fr/Seshat/deeplearning,True
 https://gitlab.inria.fr/Seshat/html,True
 https://gitlab.inria.fr/Seshat/internetprivacy,True
 https://gitlab.inria.fr/Seshat/javascript,True
+https://gitlab.inria.fr/Seshat/pt1,False
 https://gitlab.inria.fr/Seshat/simplewebpage,True
 https://gitlab.inria.fr/Seshat/test,True
 https://gitlab.inria.fr/Seshat/unity,True
@@ -5834,7 +5836,7 @@ https://gitlab.inria.fr/serpico/flowscope-wrapping,True
 https://gitlab.inria.fr/serpico/genloc3d_bin,True
 https://gitlab.inria.fr/serpico/hotspotdetection,False
 https://gitlab.inria.fr/serpico/hulkground_bin,True
-https://gitlab.inria.fr/serpico/matirf,False
+https://gitlab.inria.fr/serpico/matirf,True
 https://gitlab.inria.fr/serpico/mwr,True
 https://gitlab.inria.fr/serpico/ndsafir,True
 https://gitlab.inria.fr/serpico/ndsafir_bin,True
