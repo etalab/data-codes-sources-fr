@@ -1445,6 +1445,7 @@ https://github.com/InseeFr/Pogues-Model,True
 https://github.com/InseeFr/Quatro,True
 https://github.com/InseeFr/Queen,True
 https://github.com/InseeFr/Queen-Back-Office,True
+https://github.com/InseeFr/R-Insee-Data,False
 https://github.com/InseeFr/Sonor,True
 https://github.com/InseeFr/Stromae,True
 https://github.com/InseeFr/Stromae-DB,True
@@ -2377,6 +2378,7 @@ https://github.com/betagouv/api-stats-elk-deprecated,True
 https://github.com/betagouv/api.gouv.fr,True
 https://github.com/betagouv/aplus,True
 https://github.com/betagouv/aplus-docs,True
+https://github.com/betagouv/audioconf,False
 https://github.com/betagouv/beta.gouv.fr,True
 https://github.com/betagouv/beta.gouv.fr.wiki-autoclone,True
 https://github.com/betagouv/beta.ssi,True
@@ -3308,7 +3310,7 @@ https://github.com/etalab/backend-siren,False
 https://github.com/etalab/bal,True
 https://github.com/etalab/ban-data,True
 https://github.com/etalab/ban-geocode,True
-https://github.com/etalab/ban-plateforme,False
+https://github.com/etalab/ban-plateforme,True
 https://github.com/etalab/banatic,True
 https://github.com/etalab/biryani,True
 https://github.com/etalab/blog-eig2,True
@@ -4116,6 +4118,7 @@ https://github.com/medialab/tools,True
 https://github.com/medialab/tools-old,True
 https://github.com/medialab/trustlab,True
 https://github.com/medialab/tweet-bubbles,True
+https://github.com/medialab/twitwi,False
 https://github.com/medialab/txjsonrpc,True
 https://github.com/medialab/unfccc-scrap-snippet,True
 https://github.com/medialab/ural,True
