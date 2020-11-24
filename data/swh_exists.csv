@@ -431,7 +431,7 @@ https://git.unistra.fr/konflict/konflict-local-tunnel,True
 https://git.unistra.fr/konflict/konflict-local-tunnel-server,True
 https://git.unistra.fr/konflict/mobile-app,True
 https://git.unistra.fr/konflict/serveur-central,True
-https://git.unistra.fr/l-ekip/t432_voc20_t3_a,False
+https://git.unistra.fr/l-ekip/t432_voc20_t3_a,True
 https://git.unistra.fr/la-table-ronde/ecr19-t4-b,True
 https://git.unistra.fr/les-biens-renseignes/module-polynomes,True
 https://git.unistra.fr/les-quatres-cavaliers-de-l-apocalypse-et-les-deux-stagiaires/ihm-projet,False
@@ -3786,7 +3786,7 @@ https://github.com/ivre/ivre,True
 https://github.com/ivre/ivre-test-samples,True
 https://github.com/ivre/masscan,True
 https://github.com/leximpact/dataFin,True
-https://github.com/leximpact/leximpact-client,False
+https://github.com/leximpact/leximpact-client,True
 https://github.com/leximpact/leximpact-nouveau-sujet,True
 https://github.com/leximpact/leximpact-server,True
 https://github.com/leximpact/openfisca-france-dotations-locales,True
@@ -5827,7 +5827,7 @@ https://gitlab.inria.fr/sequoia/deep-sequoia,True
 https://gitlab.inria.fr/serpico/3d-flow-assessment,True
 https://gitlab.inria.fr/serpico/airyscanj_bin,True
 https://gitlab.inria.fr/serpico/atlas,True
-https://gitlab.inria.fr/serpico/cimgdenoising,False
+https://gitlab.inria.fr/serpico/cimgdenoising,True
 https://gitlab.inria.fr/serpico/cpanalysis_bin,True
 https://gitlab.inria.fr/serpico/deep-finder,True
 https://gitlab.inria.fr/serpico/flowscope-wrapping,True
