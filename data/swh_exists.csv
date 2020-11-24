@@ -3767,6 +3767,7 @@ https://github.com/istex/istex-header,True
 https://github.com/istex/istex-installer,True
 https://github.com/istex/istex-lodex-data,True
 https://github.com/istex/istex-nerd,True
+https://github.com/istex/istex-qid-ttl,False
 https://github.com/istex/istex-users-doc,True
 https://github.com/istex/istex-view,True
 https://github.com/istex/istex-web-addons,True
@@ -4572,7 +4573,7 @@ https://github.com/pass-culture/pass-culture-web-analytics,False
 https://github.com/pass-culture/pc-maintenance,False
 https://github.com/pass-culture/pc-monitoring,False
 https://github.com/pass-culture/reverse-proxy,False
-https://github.com/pass-culture/telegraf-buildpack,False
+https://github.com/pass-culture/telegraf-buildpack,True
 https://github.com/pass-culture/telegraf-scalingo,False
 https://github.com/polewebmaedi/MAEDI-Capitales,True
 https://github.com/polewebmaedi/MAEDI-Pays,True
