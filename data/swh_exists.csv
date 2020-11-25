@@ -3496,6 +3496,7 @@ https://github.com/etalab/prevair-experiment,True
 https://github.com/etalab/project-legal,True
 https://github.com/etalab/pseudononymizer,True
 https://github.com/etalab/quartiers-prioritaires,True
+https://github.com/etalab/radar-tech,False
 https://github.com/etalab/recherche.etalab.studio,True
 https://github.com/etalab/recommendations-edito,True
 https://github.com/etalab/retos-civicos,True
@@ -3767,7 +3768,7 @@ https://github.com/istex/istex-header,True
 https://github.com/istex/istex-installer,True
 https://github.com/istex/istex-lodex-data,True
 https://github.com/istex/istex-nerd,True
-https://github.com/istex/istex-qid-ttl,False
+https://github.com/istex/istex-qid-ttl,True
 https://github.com/istex/istex-users-doc,True
 https://github.com/istex/istex-view,True
 https://github.com/istex/istex-web-addons,True
@@ -3996,6 +3997,7 @@ https://github.com/medialab/climaps-platform,True
 https://github.com/medialab/climateDebateExplorer,True
 https://github.com/medialab/cnap-fnac,True
 https://github.com/medialab/controversy-mapping,True
+https://github.com/medialab/corpora,False
 https://github.com/medialab/csv-rinse-repeat,True
 https://github.com/medialab/datapol,True
 https://github.com/medialab/datapol-eu,True
