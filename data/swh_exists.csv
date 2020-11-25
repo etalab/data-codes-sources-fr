@@ -2378,7 +2378,7 @@ https://github.com/betagouv/api-stats-elk-deprecated,True
 https://github.com/betagouv/api.gouv.fr,True
 https://github.com/betagouv/aplus,True
 https://github.com/betagouv/aplus-docs,True
-https://github.com/betagouv/audioconf,False
+https://github.com/betagouv/audioconf,True
 https://github.com/betagouv/beta.gouv.fr,True
 https://github.com/betagouv/beta.gouv.fr.wiki-autoclone,True
 https://github.com/betagouv/beta.ssi,True
@@ -5204,7 +5204,7 @@ https://gitlab.inria.fr/Seshat/deeplearning,True
 https://gitlab.inria.fr/Seshat/html,True
 https://gitlab.inria.fr/Seshat/internetprivacy,True
 https://gitlab.inria.fr/Seshat/javascript,True
-https://gitlab.inria.fr/Seshat/pt1,False
+https://gitlab.inria.fr/Seshat/pt1,True
 https://gitlab.inria.fr/Seshat/simplewebpage,True
 https://gitlab.inria.fr/Seshat/test,True
 https://gitlab.inria.fr/Seshat/unity,True
@@ -5787,6 +5787,7 @@ https://gitlab.inria.fr/parallel-replica/gen.parRep,True
 https://gitlab.inria.fr/parallel-replica/qsd.gen.samples,True
 https://gitlab.inria.fr/parseme-fr/mwe-mg,True
 https://gitlab.inria.fr/patate/patate,True
+https://gitlab.inria.fr/pepper/RIOT,False
 https://gitlab.inria.fr/piper/anatomydb,True
 https://gitlab.inria.fr/piper/application,True
 https://gitlab.inria.fr/piper/child,True
@@ -5804,6 +5805,7 @@ https://gitlab.inria.fr/pvignet/pycryptosat,True
 https://gitlab.inria.fr/pycomodo/pycomodo,True
 https://gitlab.inria.fr/qparse/qparselib,True
 https://gitlab.inria.fr/rainbow-intervals/ros_interval,True
+https://gitlab.inria.fr/reo/transport-in-1d-networks,False
 https://gitlab.inria.fr/rmod-public/2019-sourcecodedata,True
 https://gitlab.inria.fr/runaway/mixup,True
 https://gitlab.inria.fr/runaway/runaway,True
