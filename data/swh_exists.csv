@@ -4569,7 +4569,7 @@ https://github.com/pass-culture/pass-culture-api,True
 https://github.com/pass-culture/pass-culture-app-native,False
 https://github.com/pass-culture/pass-culture-beneficiary-android-app,False
 https://github.com/pass-culture/pass-culture-browser,False
-https://github.com/pass-culture/pass-culture-doc,False
+https://github.com/pass-culture/pass-culture-doc,True
 https://github.com/pass-culture/pass-culture-homepage,False
 https://github.com/pass-culture/pass-culture-main,True
 https://github.com/pass-culture/pass-culture-pro,False
@@ -5027,9 +5027,9 @@ https://gitlab.com/pidila/sp-simulateurs-data,True
 https://gitlab.com/rdes_dreal/propre,False
 https://gitlab.com/rdes_dreal/propre.brochure,True
 https://gitlab.com/rdes_dreal/propre.itdd,True
-https://gitlab.com/rdes_dreal/propre.presentation,False
+https://gitlab.com/rdes_dreal/propre.presentation,True
 https://gitlab.com/rdes_dreal/propre.rpls,False
-https://gitlab.com/rdes_dreal/sitadel_dataviz,False
+https://gitlab.com/rdes_dreal/sitadel_dataviz,True
 https://gitlab.huma-num.fr/atelier-donnees/depot,True
 https://gitlab.huma-num.fr/cbma/cbma-epigraphie-provence,True
 https://gitlab.huma-num.fr/cbma/cbma-philologic,True
@@ -5813,7 +5813,7 @@ https://gitlab.inria.fr/pvignet/pycryptosat,True
 https://gitlab.inria.fr/pycomodo/pycomodo,True
 https://gitlab.inria.fr/qparse/qparselib,True
 https://gitlab.inria.fr/rainbow-intervals/ros_interval,True
-https://gitlab.inria.fr/reo/transport-in-1d-networks,False
+https://gitlab.inria.fr/reo/transport-in-1d-networks,True
 https://gitlab.inria.fr/rmod-public/2019-sourcecodedata,True
 https://gitlab.inria.fr/runaway/mixup,True
 https://gitlab.inria.fr/runaway/runaway,True
