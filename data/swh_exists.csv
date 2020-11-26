@@ -4571,7 +4571,7 @@ https://github.com/pass-culture/pass-culture-beneficiary-android-app,False
 https://github.com/pass-culture/pass-culture-browser,False
 https://github.com/pass-culture/pass-culture-doc,False
 https://github.com/pass-culture/pass-culture-homepage,False
-https://github.com/pass-culture/pass-culture-main,False
+https://github.com/pass-culture/pass-culture-main,True
 https://github.com/pass-culture/pass-culture-pro,False
 https://github.com/pass-culture/pass-culture-web-analytics,False
 https://github.com/pass-culture/pc-maintenance,True
@@ -5025,8 +5025,8 @@ https://gitlab.com/pidila/scampi-twig,True
 https://gitlab.com/pidila/select-a11y,True
 https://gitlab.com/pidila/sp-simulateurs-data,True
 https://gitlab.com/rdes_dreal/propre,False
-https://gitlab.com/rdes_dreal/propre.brochure,False
-https://gitlab.com/rdes_dreal/propre.itdd,False
+https://gitlab.com/rdes_dreal/propre.brochure,True
+https://gitlab.com/rdes_dreal/propre.itdd,True
 https://gitlab.com/rdes_dreal/propre.presentation,False
 https://gitlab.com/rdes_dreal/propre.rpls,False
 https://gitlab.com/rdes_dreal/sitadel_dataviz,False
@@ -6111,7 +6111,7 @@ https://gitub.u-bordeaux.fr/mapi/mdl-module-pedagotec,True
 https://gitub.u-bordeaux.fr/mapi/mdl-report-attendancesheet,True
 https://gitub.u-bordeaux.fr/mapi/mdl-report-ubxstats,True
 https://gitub.u-bordeaux.fr/mapi/mdl-repository-pod,True
-https://gitub.u-bordeaux.fr/mapi/mdl-theme-ubx19,False
+https://gitub.u-bordeaux.fr/mapi/mdl-theme-ubx19,True
 https://gitub.u-bordeaux.fr/mapi/mdl-tool-ubxcourses,True
 https://gitub.u-bordeaux.fr/starpu/starpu,True
 https://gitub.u-bordeaux.fr/starpu/starpu2,True
