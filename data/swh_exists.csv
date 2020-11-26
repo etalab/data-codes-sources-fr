@@ -2218,6 +2218,7 @@ https://github.com/afimb/siri_api,True
 https://github.com/afimb/siri_lite,True
 https://github.com/afimb/webtopo_api,True
 https://github.com/ambanum/CGUs,True
+https://github.com/ambanum/CGUs-api,False
 https://github.com/ambanum/CGUs-data,True
 https://github.com/ambanum/CGUs-data-snapshots,True
 https://github.com/ambanum/CGUs-ops,False
@@ -4573,7 +4574,7 @@ https://github.com/pass-culture/pass-culture-homepage,False
 https://github.com/pass-culture/pass-culture-main,False
 https://github.com/pass-culture/pass-culture-pro,False
 https://github.com/pass-culture/pass-culture-web-analytics,False
-https://github.com/pass-culture/pc-maintenance,False
+https://github.com/pass-culture/pc-maintenance,True
 https://github.com/pass-culture/pc-monitoring,False
 https://github.com/pass-culture/reverse-proxy,False
 https://github.com/pass-culture/telegraf-buildpack,True
@@ -5023,6 +5024,12 @@ https://gitlab.com/pidila/scampi,True
 https://gitlab.com/pidila/scampi-twig,True
 https://gitlab.com/pidila/select-a11y,True
 https://gitlab.com/pidila/sp-simulateurs-data,True
+https://gitlab.com/rdes_dreal/propre,False
+https://gitlab.com/rdes_dreal/propre.brochure,False
+https://gitlab.com/rdes_dreal/propre.itdd,False
+https://gitlab.com/rdes_dreal/propre.presentation,False
+https://gitlab.com/rdes_dreal/propre.rpls,False
+https://gitlab.com/rdes_dreal/sitadel_dataviz,False
 https://gitlab.huma-num.fr/atelier-donnees/depot,True
 https://gitlab.huma-num.fr/cbma/cbma-epigraphie-provence,True
 https://gitlab.huma-num.fr/cbma/cbma-philologic,True
