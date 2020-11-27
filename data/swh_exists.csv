@@ -2218,7 +2218,7 @@ https://github.com/afimb/siri_api,True
 https://github.com/afimb/siri_lite,True
 https://github.com/afimb/webtopo_api,True
 https://github.com/ambanum/CGUs,True
-https://github.com/ambanum/CGUs-api,False
+https://github.com/ambanum/CGUs-api,True
 https://github.com/ambanum/CGUs-data,True
 https://github.com/ambanum/CGUs-data-snapshots,True
 https://github.com/ambanum/CGUs-ops,False
@@ -4123,7 +4123,7 @@ https://github.com/medialab/tools,True
 https://github.com/medialab/tools-old,True
 https://github.com/medialab/trustlab,True
 https://github.com/medialab/tweet-bubbles,True
-https://github.com/medialab/twitwi,False
+https://github.com/medialab/twitwi,True
 https://github.com/medialab/txjsonrpc,True
 https://github.com/medialab/unfccc-scrap-snippet,True
 https://github.com/medialab/ural,True
