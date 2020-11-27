@@ -4002,7 +4002,7 @@ https://github.com/medialab/climaps-platform,True
 https://github.com/medialab/climateDebateExplorer,True
 https://github.com/medialab/cnap-fnac,True
 https://github.com/medialab/controversy-mapping,True
-https://github.com/medialab/corpora,False
+https://github.com/medialab/corpora,True
 https://github.com/medialab/csv-rinse-repeat,True
 https://github.com/medialab/datapol,True
 https://github.com/medialab/datapol-eu,True
@@ -4571,7 +4571,7 @@ https://github.com/pass-culture/metabase-scalingo,True
 https://github.com/pass-culture/pass-culture-api,True
 https://github.com/pass-culture/pass-culture-app-native,False
 https://github.com/pass-culture/pass-culture-beneficiary-android-app,False
-https://github.com/pass-culture/pass-culture-browser,False
+https://github.com/pass-culture/pass-culture-browser,True
 https://github.com/pass-culture/pass-culture-doc,True
 https://github.com/pass-culture/pass-culture-homepage,False
 https://github.com/pass-culture/pass-culture-main,True
