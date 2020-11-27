@@ -816,6 +816,8 @@ https://github.com/CNRS-DSI-Dev/user_set_password,True
 https://github.com/CNRS-DSI-Dev/user_share_guest,True
 https://github.com/CatalaLang/catala,True
 https://github.com/CatalaLang/catala-website,True
+https://github.com/Cour-de-cassation/label,False
+https://github.com/Cour-de-cassation/moteurNER,False
 https://github.com/Cour-des-comptes/open-anafi-backend,True
 https://github.com/Cour-des-comptes/open-anafi-frontend,True
 https://github.com/DGA-MI-SSI/Afl-taenia-mt,True
@@ -2043,6 +2045,7 @@ https://github.com/SocialGouv/tumeplay-app,True
 https://github.com/SocialGouv/tumeplay-back,True
 https://github.com/SocialGouv/tutoriel-gitlab,True
 https://github.com/SocialGouv/ui,False
+https://github.com/SocialGouv/upptime,False
 https://github.com/SocialGouv/veille-git,True
 https://github.com/SocialGouv/work-in-france,True
 https://github.com/SocialGouv/work-in-france-backoffice,True
@@ -4573,7 +4576,7 @@ https://github.com/pass-culture/pass-culture-doc,True
 https://github.com/pass-culture/pass-culture-homepage,False
 https://github.com/pass-culture/pass-culture-main,True
 https://github.com/pass-culture/pass-culture-pro,False
-https://github.com/pass-culture/pass-culture-web-analytics,False
+https://github.com/pass-culture/pass-culture-web-analytics,True
 https://github.com/pass-culture/pc-maintenance,True
 https://github.com/pass-culture/pc-monitoring,False
 https://github.com/pass-culture/reverse-proxy,False
@@ -5850,7 +5853,7 @@ https://gitlab.inria.fr/serpico/cpanalysis_bin,True
 https://gitlab.inria.fr/serpico/deep-finder,True
 https://gitlab.inria.fr/serpico/flowscope-wrapping,True
 https://gitlab.inria.fr/serpico/genloc3d_bin,True
-https://gitlab.inria.fr/serpico/hotspotdetection,False
+https://gitlab.inria.fr/serpico/hotspotdetection,True
 https://gitlab.inria.fr/serpico/hulkground_bin,True
 https://gitlab.inria.fr/serpico/matirf,True
 https://gitlab.inria.fr/serpico/mwr,True
