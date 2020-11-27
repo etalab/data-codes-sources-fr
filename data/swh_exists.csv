@@ -4575,7 +4575,7 @@ https://github.com/pass-culture/pass-culture-browser,True
 https://github.com/pass-culture/pass-culture-doc,True
 https://github.com/pass-culture/pass-culture-homepage,False
 https://github.com/pass-culture/pass-culture-main,True
-https://github.com/pass-culture/pass-culture-pro,False
+https://github.com/pass-culture/pass-culture-pro,True
 https://github.com/pass-culture/pass-culture-web-analytics,True
 https://github.com/pass-culture/pc-maintenance,True
 https://github.com/pass-culture/pc-monitoring,False
@@ -5031,7 +5031,7 @@ https://gitlab.com/rdes_dreal/propre,False
 https://gitlab.com/rdes_dreal/propre.brochure,True
 https://gitlab.com/rdes_dreal/propre.itdd,True
 https://gitlab.com/rdes_dreal/propre.presentation,True
-https://gitlab.com/rdes_dreal/propre.rpls,False
+https://gitlab.com/rdes_dreal/propre.rpls,True
 https://gitlab.com/rdes_dreal/sitadel_dataviz,True
 https://gitlab.huma-num.fr/atelier-donnees/depot,True
 https://gitlab.huma-num.fr/cbma/cbma-epigraphie-provence,True
@@ -5798,7 +5798,7 @@ https://gitlab.inria.fr/parallel-replica/gen.parRep,True
 https://gitlab.inria.fr/parallel-replica/qsd.gen.samples,True
 https://gitlab.inria.fr/parseme-fr/mwe-mg,True
 https://gitlab.inria.fr/patate/patate,True
-https://gitlab.inria.fr/pepper/RIOT,False
+https://gitlab.inria.fr/pepper/RIOT,True
 https://gitlab.inria.fr/piper/anatomydb,True
 https://gitlab.inria.fr/piper/application,True
 https://gitlab.inria.fr/piper/child,True
