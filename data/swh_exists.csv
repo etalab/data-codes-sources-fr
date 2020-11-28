@@ -4573,13 +4573,13 @@ https://github.com/pass-culture/pass-culture-app-native,False
 https://github.com/pass-culture/pass-culture-beneficiary-android-app,True
 https://github.com/pass-culture/pass-culture-browser,True
 https://github.com/pass-culture/pass-culture-doc,True
-https://github.com/pass-culture/pass-culture-homepage,False
+https://github.com/pass-culture/pass-culture-homepage,True
 https://github.com/pass-culture/pass-culture-main,True
 https://github.com/pass-culture/pass-culture-pro,True
 https://github.com/pass-culture/pass-culture-web-analytics,True
 https://github.com/pass-culture/pc-maintenance,True
-https://github.com/pass-culture/pc-monitoring,False
-https://github.com/pass-culture/reverse-proxy,False
+https://github.com/pass-culture/pc-monitoring,True
+https://github.com/pass-culture/reverse-proxy,True
 https://github.com/pass-culture/telegraf-buildpack,True
 https://github.com/pass-culture/telegraf-scalingo,False
 https://github.com/polewebmaedi/MAEDI-Capitales,True
@@ -5619,7 +5619,7 @@ https://gitlab.inria.fr/gt-lgbti/prenom-usage,True
 https://gitlab.inria.fr/gt-sw-citation/artifact-archival-swh,True
 https://gitlab.inria.fr/gt-sw-citation/bibtex-sw-entry,True
 https://gitlab.inria.fr/gtpi/inria_skin,True
-https://gitlab.inria.fr/guix-hpc/function-multi-versioning,False
+https://gitlab.inria.fr/guix-hpc/function-multi-versioning,True
 https://gitlab.inria.fr/guix-hpc/guix-hpc,True
 https://gitlab.inria.fr/guix-hpc/guix-hpc-non-free,True
 https://gitlab.inria.fr/guix-hpc/guix-kernel,True
