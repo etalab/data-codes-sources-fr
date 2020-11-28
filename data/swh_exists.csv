@@ -1447,7 +1447,7 @@ https://github.com/InseeFr/Pogues-Model,True
 https://github.com/InseeFr/Quatro,True
 https://github.com/InseeFr/Queen,True
 https://github.com/InseeFr/Queen-Back-Office,True
-https://github.com/InseeFr/R-Insee-Data,False
+https://github.com/InseeFr/R-Insee-Data,True
 https://github.com/InseeFr/Sonor,True
 https://github.com/InseeFr/Stromae,True
 https://github.com/InseeFr/Stromae-DB,True
@@ -2045,7 +2045,7 @@ https://github.com/SocialGouv/tumeplay-app,True
 https://github.com/SocialGouv/tumeplay-back,True
 https://github.com/SocialGouv/tutoriel-gitlab,True
 https://github.com/SocialGouv/ui,False
-https://github.com/SocialGouv/upptime,False
+https://github.com/SocialGouv/upptime,True
 https://github.com/SocialGouv/veille-git,True
 https://github.com/SocialGouv/work-in-france,True
 https://github.com/SocialGouv/work-in-france-backoffice,True
@@ -4570,7 +4570,7 @@ https://github.com/pass-culture/logstash,False
 https://github.com/pass-culture/metabase-scalingo,True
 https://github.com/pass-culture/pass-culture-api,True
 https://github.com/pass-culture/pass-culture-app-native,False
-https://github.com/pass-culture/pass-culture-beneficiary-android-app,False
+https://github.com/pass-culture/pass-culture-beneficiary-android-app,True
 https://github.com/pass-culture/pass-culture-browser,True
 https://github.com/pass-culture/pass-culture-doc,True
 https://github.com/pass-culture/pass-culture-homepage,False
