@@ -2010,7 +2010,7 @@ https://github.com/SocialGouv/monsuivipsy-site,True
 https://github.com/SocialGouv/next-routes,True
 https://github.com/SocialGouv/onvs,True
 https://github.com/SocialGouv/ozensemble,True
-https://github.com/SocialGouv/ozensemble-site,False
+https://github.com/SocialGouv/ozensemble-site,True
 https://github.com/SocialGouv/pep,True
 https://github.com/SocialGouv/polyfill-service,True
 https://github.com/SocialGouv/polyfill-service2,True
@@ -5928,7 +5928,7 @@ https://gitlab.inria.fr/tapenade/userdoc,True
 https://gitlab.inria.fr/the-missing-path/the-missing-path.gitlab.inria.fr,True
 https://gitlab.inria.fr/these-bxi/r-util,True
 https://gitlab.inria.fr/these-bxi/s4bxi-cmake-modules,True
-https://gitlab.inria.fr/these-bxi/s4bxi-config-generator,False
+https://gitlab.inria.fr/these-bxi/s4bxi-config-generator,True
 https://gitlab.inria.fr/these-bxi/s4bxi-log-viewer,True
 https://gitlab.inria.fr/thoth/python-spams,True
 https://gitlab.inria.fr/thoth/spams-devel,True
