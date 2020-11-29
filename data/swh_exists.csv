@@ -3056,11 +3056,13 @@ https://github.com/dsi-ehess/VIVO-Sample-Data,True
 https://github.com/dsi-ehess/VIVO-fr_FR,True
 https://github.com/dsi-ehess/VIVO-languages,True
 https://github.com/dsi-ehess/VIVO-languages-EHESS,True
+https://github.com/dsi-ehess/VIVO-languages-fr_FR,False
 https://github.com/dsi-ehess/Vitro,True
 https://github.com/dsi-ehess/Vitro-EHESS,True
 https://github.com/dsi-ehess/Vitro-fr_FR,True
 https://github.com/dsi-ehess/Vitro-languages,True
 https://github.com/dsi-ehess/Vitro-languages-EHESS,True
+https://github.com/dsi-ehess/Vitro-languages_fr_FR,False
 https://github.com/dsi-ehess/Vivo-installer-i18n,True
 https://github.com/dsi-ehess/accessible-decision-tree,True
 https://github.com/dsi-ehess/edtf-datepicker,True
