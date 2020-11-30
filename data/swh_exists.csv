@@ -115,7 +115,7 @@ https://forgemia.inra.fr/4p/maquettes-4p,True
 https://forgemia.inra.fr/4p/pheno-extraction,True
 https://forgemia.inra.fr/4p/user-guide,True
 https://forgemia.inra.fr/DecisionBleDur/DecisionBleDur,True
-https://forgemia.inra.fr/GET_TRiX/MATRIXapp,False
+https://forgemia.inra.fr/GET_TRiX/MATRIXapp,True
 https://forgemia.inra.fr/GET_TRiX/dockerize_MATRiX,True
 https://forgemia.inra.fr/GET_TRiX/matrix,True
 https://forgemia.inra.fr/GNet/appinetwork,True
@@ -3257,11 +3257,13 @@ https://github.com/etalab-ia/ami-ia,True
 https://github.com/etalab-ia/ami-ia-anssi,True
 https://github.com/etalab-ia/ami-ia-ce,True
 https://github.com/etalab-ia/ami-ia-chub,True
+https://github.com/etalab-ia/ami-ia-chub-app,False
 https://github.com/etalab-ia/ami-ia-crmana,True
 https://github.com/etalab-ia/ami-ia-dgcl,True
 https://github.com/etalab-ia/ami-ia-dgddi,True
 https://github.com/etalab-ia/ami-ia-dggn,True
 https://github.com/etalab-ia/ami-ia-dgs,True
+https://github.com/etalab-ia/ami-ia-dgs-app,False
 https://github.com/etalab-ia/ami-ia-ineris,True
 https://github.com/etalab-ia/ami-ia-insee,True
 https://github.com/etalab-ia/ami-ia-irsn,True
@@ -3506,6 +3508,7 @@ https://github.com/etalab/quartiers-prioritaires,True
 https://github.com/etalab/radar-tech,True
 https://github.com/etalab/recherche.etalab.studio,True
 https://github.com/etalab/recommendations-edito,True
+https://github.com/etalab/reports-aides-entreprises,False
 https://github.com/etalab/retos-civicos,True
 https://github.com/etalab/retweet,True
 https://github.com/etalab/rna_as_api,True
@@ -5549,6 +5552,8 @@ https://gitlab.inria.fr/gagallium/stog-math,True
 https://gitlab.inria.fr/gappa/coq,True
 https://gitlab.inria.fr/gappa/gappa,True
 https://gitlab.inria.fr/gazelle/external-library,True
+https://gitlab.inria.fr/gbono/coop-ma-pg,False
+https://gitlab.inria.fr/gbono/sulfr,False
 https://gitlab.inria.fr/gecos/gecos-arith,True
 https://gitlab.inria.fr/gecos/gecos-buildtools,True
 https://gitlab.inria.fr/gecos/gecos-composite,True
