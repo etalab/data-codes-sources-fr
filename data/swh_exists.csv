@@ -3063,7 +3063,7 @@ https://github.com/dsi-ehess/Vitro-EHESS,True
 https://github.com/dsi-ehess/Vitro-fr_FR,True
 https://github.com/dsi-ehess/Vitro-languages,True
 https://github.com/dsi-ehess/Vitro-languages-EHESS,True
-https://github.com/dsi-ehess/Vitro-languages_fr_FR,False
+https://github.com/dsi-ehess/Vitro-languages_fr_FR,True
 https://github.com/dsi-ehess/Vivo-installer-i18n,True
 https://github.com/dsi-ehess/accessible-decision-tree,True
 https://github.com/dsi-ehess/edtf-datepicker,True
@@ -4587,7 +4587,7 @@ https://github.com/pass-culture/pc-maintenance,True
 https://github.com/pass-culture/pc-monitoring,True
 https://github.com/pass-culture/reverse-proxy,True
 https://github.com/pass-culture/telegraf-buildpack,True
-https://github.com/pass-culture/telegraf-scalingo,False
+https://github.com/pass-culture/telegraf-scalingo,True
 https://github.com/polewebmaedi/MAEDI-Capitales,True
 https://github.com/polewebmaedi/MAEDI-Pays,True
 https://github.com/polewebmaedi/countries,True
