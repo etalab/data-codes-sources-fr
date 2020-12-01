@@ -66,7 +66,7 @@ https://forge.univ-lyon1.fr/Montecher/WebS1,True
 https://forge.univ-lyon1.fr/aml-lyon1/actionrobot,True
 https://forge.univ-lyon1.fr/aml-lyon1/campusdulibre,True
 https://forge.univ-lyon1.fr/bd-pedago/bd-pedago,True
-https://forge.univ-lyon1.fr/cannes-cpoa/projection-planning,False
+https://forge.univ-lyon1.fr/cannes-cpoa/projection-planning,True
 https://forge.univ-lyon1.fr/cannes-cpoa/uml,True
 https://forge.univ-lyon1.fr/cards-against-university/cau-flask,True
 https://forge.univ-lyon1.fr/cards-against-university/cau-html,True
@@ -484,6 +484,7 @@ https://git.unistra.fr/seul/P4a,True
 https://git.unistra.fr/t4-boost/t4,True
 https://git.unistra.fr/t4-the-origin/arti4,True
 https://git.unistra.fr/t4_workisusels/projet_t4_workisuseless,True
+https://git.unistra.fr/tallandier_haquin/a31_puissance_puissance,False
 https://git.unistra.fr/uhuit/pgmaggpl,True
 https://git.unistra.fr/uquatre/mips-invader,True
 https://git.unistra.fr/usept/sexy-polyedra-baby,True
@@ -3062,7 +3063,7 @@ https://github.com/dsi-ehess/VIVO-Sample-Data,True
 https://github.com/dsi-ehess/VIVO-fr_FR,True
 https://github.com/dsi-ehess/VIVO-languages,True
 https://github.com/dsi-ehess/VIVO-languages-EHESS,True
-https://github.com/dsi-ehess/VIVO-languages-fr_FR,False
+https://github.com/dsi-ehess/VIVO-languages-fr_FR,True
 https://github.com/dsi-ehess/Vitro,True
 https://github.com/dsi-ehess/Vitro-EHESS,True
 https://github.com/dsi-ehess/Vitro-fr_FR,True
@@ -5232,7 +5233,7 @@ https://gitlab.inria.fr/Seshat/simplewebpage,True
 https://gitlab.inria.fr/Seshat/test,True
 https://gitlab.inria.fr/Seshat/unity,True
 https://gitlab.inria.fr/Seshat/webgl,True
-https://gitlab.inria.fr/SketchedLearning/fasttransformsc,False
+https://gitlab.inria.fr/SketchedLearning/fasttransformsc,True
 https://gitlab.inria.fr/SketchedLearning/spm-notebook,True
 https://gitlab.inria.fr/Spirals/monsoon,True
 https://gitlab.inria.fr/TeamPlay_Public/TeamPlay_Public_Deliverables,True
