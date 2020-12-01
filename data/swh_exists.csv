@@ -66,6 +66,8 @@ https://forge.univ-lyon1.fr/Montecher/WebS1,True
 https://forge.univ-lyon1.fr/aml-lyon1/actionrobot,True
 https://forge.univ-lyon1.fr/aml-lyon1/campusdulibre,True
 https://forge.univ-lyon1.fr/bd-pedago/bd-pedago,True
+https://forge.univ-lyon1.fr/cannes-cpoa/projection-planning,False
+https://forge.univ-lyon1.fr/cannes-cpoa/uml,False
 https://forge.univ-lyon1.fr/cards-against-university/cau-flask,True
 https://forge.univ-lyon1.fr/cards-against-university/cau-html,True
 https://forge.univ-lyon1.fr/cheat-sheet-shit/css-git,True
@@ -198,6 +200,7 @@ https://forgemia.inra.fr/hackathon-portail-calcul/criteres,True
 https://forgemia.inra.fr/hackathon-portail-calcul/existant,True
 https://forgemia.inra.fr/hackathon-portail-calcul/hackathon_organisation,True
 https://forgemia.inra.fr/infosol/SolEil,True
+https://forgemia.inra.fr/infosol/rmd_test,False
 https://forgemia.inra.fr/infosol/sensor-map,True
 https://forgemia.inra.fr/infosol/talks,True
 https://forgemia.inra.fr/inter_cati_omics/hackathon_shiny_2020,True
@@ -3258,7 +3261,7 @@ https://github.com/etalab-ia/ami-ia,True
 https://github.com/etalab-ia/ami-ia-anssi,True
 https://github.com/etalab-ia/ami-ia-ce,True
 https://github.com/etalab-ia/ami-ia-chub,True
-https://github.com/etalab-ia/ami-ia-chub-app,False
+https://github.com/etalab-ia/ami-ia-chub-app,True
 https://github.com/etalab-ia/ami-ia-crmana,True
 https://github.com/etalab-ia/ami-ia-dgcl,True
 https://github.com/etalab-ia/ami-ia-dgddi,True
@@ -3509,7 +3512,7 @@ https://github.com/etalab/quartiers-prioritaires,True
 https://github.com/etalab/radar-tech,True
 https://github.com/etalab/recherche.etalab.studio,True
 https://github.com/etalab/recommendations-edito,True
-https://github.com/etalab/reports-aides-entreprises,False
+https://github.com/etalab/reports-aides-entreprises,True
 https://github.com/etalab/retos-civicos,True
 https://github.com/etalab/retweet,True
 https://github.com/etalab/rna_as_api,True
@@ -5226,11 +5229,13 @@ https://gitlab.inria.fr/Seshat/simplewebpage,True
 https://gitlab.inria.fr/Seshat/test,True
 https://gitlab.inria.fr/Seshat/unity,True
 https://gitlab.inria.fr/Seshat/webgl,True
+https://gitlab.inria.fr/SketchedLearning/fasttransformsc,False
 https://gitlab.inria.fr/SketchedLearning/spm-notebook,True
 https://gitlab.inria.fr/Spirals/monsoon,True
 https://gitlab.inria.fr/TeamPlay_Public/TeamPlay_Public_Deliverables,True
 https://gitlab.inria.fr/VeRDi-project/concerto,True
 https://gitlab.inria.fr/VeRDi-project/concerto-evaluation,True
+https://gitlab.inria.fr/VeRDi-project/ecadorel,False
 https://gitlab.inria.fr/VeRDi-project/galera-experiment,True
 https://gitlab.inria.fr/VeRDi-project/madeus-journal,True
 https://gitlab.inria.fr/VeRDi-project/madeus-openstack,True
