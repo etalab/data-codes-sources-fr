@@ -408,7 +408,7 @@ https://git.unistra.fr/csrd/white_paper_form,True
 https://git.unistra.fr/datachallenge/openaccessweek2019,True
 https://git.unistra.fr/deepen/corpus-reference,False
 https://git.unistra.fr/dring/dring,True
-https://git.unistra.fr/duvernay-goffic/a31-projet-puissance-4,False
+https://git.unistra.fr/duvernay-goffic/a31-projet-puissance-4,True
 https://git.unistra.fr/ecr19-t4-e/hache-tag-greigns,True
 https://git.unistra.fr/enj/corpus-reference,True
 https://git.unistra.fr/filiere-d-excellence/ghc,True
@@ -1603,6 +1603,7 @@ https://github.com/MTES-MCT/acceslibre,True
 https://github.com/MTES-MCT/access4all,True
 https://github.com/MTES-MCT/action-bidonvilles,True
 https://github.com/MTES-MCT/action-bidonvilles-api,True
+https://github.com/MTES-MCT/action-bidonvilles-infra,False
 https://github.com/MTES-MCT/adock-ansible,True
 https://github.com/MTES-MCT/adock-api,True
 https://github.com/MTES-MCT/adock-ui,True
@@ -3531,6 +3532,7 @@ https://github.com/etalab/schema-irve,True
 https://github.com/etalab/schema-lieux-covoiturage,True
 https://github.com/etalab/schema-plf,True
 https://github.com/etalab/schema-stationnement,True
+https://github.com/etalab/schema-stationnement-cyclable,False
 https://github.com/etalab/schema-template,True
 https://github.com/etalab/schema.data.gouv.fr,True
 https://github.com/etalab/schema_amenagements_cyclables,True
@@ -3955,7 +3957,7 @@ https://github.com/matchID-project/backend,True
 https://github.com/matchID-project/deces-backend,True
 https://github.com/matchID-project/deces-dataprep,True
 https://github.com/matchID-project/deces-ui,True
-https://github.com/matchID-project/e-id,False
+https://github.com/matchID-project/e-id,True
 https://github.com/matchID-project/eai,True
 https://github.com/matchID-project/examples,True
 https://github.com/matchID-project/frontend,True
@@ -4193,6 +4195,7 @@ https://github.com/metwork-framework/cookiecutter_hooks,True
 https://github.com/metwork-framework/cronwrapper,True
 https://github.com/metwork-framework/deploycron,True
 https://github.com/metwork-framework/directory_observer,True
+https://github.com/metwork-framework/docker-centos6,False
 https://github.com/metwork-framework/docker-centos7-opinionated,True
 https://github.com/metwork-framework/docker-drone-docker-specific-image,True
 https://github.com/metwork-framework/docker-drone-downstream-specific-image,True
@@ -5143,6 +5146,7 @@ https://gitlab.huma-num.fr/txm/txm-javadoc,True
 https://gitlab.huma-num.fr/txm/txm-manual,True
 https://gitlab.huma-num.fr/txm/txm-ressources,True
 https://gitlab.huma-num.fr/txm/txm-software,True
+https://gitlab.huma-num.fr/txm/txm-vm,False
 https://gitlab.in2p3.fr/Enssib/abcdev,True
 https://gitlab.in2p3.fr/Enssib/bibliotouch,True
 https://gitlab.inria.fr/AlgebraicGeometricModeling/AlgebraicSolvers.jl,True
