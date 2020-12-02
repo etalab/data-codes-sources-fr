@@ -1471,7 +1471,7 @@ https://github.com/InseeFrLab/DoReMIFaSolData,True
 https://github.com/InseeFrLab/InspaCy,True
 https://github.com/InseeFrLab/InspaCy-UI,True
 https://github.com/InseeFrLab/Java-Helm-Wrapper,True
-https://github.com/InseeFrLab/Macronometrics,False
+https://github.com/InseeFrLab/Macronometrics,True
 https://github.com/InseeFrLab/Macronometrics-Notebook,True
 https://github.com/InseeFrLab/Shelly,True
 https://github.com/InseeFrLab/Ubuntu-vnc-base,True
@@ -5245,7 +5245,7 @@ https://gitlab.inria.fr/Spirals/monsoon,True
 https://gitlab.inria.fr/TeamPlay_Public/TeamPlay_Public_Deliverables,True
 https://gitlab.inria.fr/VeRDi-project/concerto,True
 https://gitlab.inria.fr/VeRDi-project/concerto-evaluation,True
-https://gitlab.inria.fr/VeRDi-project/ecadorel,False
+https://gitlab.inria.fr/VeRDi-project/ecadorel,True
 https://gitlab.inria.fr/VeRDi-project/galera-experiment,True
 https://gitlab.inria.fr/VeRDi-project/madeus-journal,True
 https://gitlab.inria.fr/VeRDi-project/madeus-openstack,True
@@ -5832,6 +5832,7 @@ https://gitlab.inria.fr/piper/misc_models,True
 https://gitlab.inria.fr/piper/viva,True
 https://gitlab.inria.fr/piy/piy,True
 https://gitlab.inria.fr/plas20/sessionintegrity,True
+https://gitlab.inria.fr/pm2/packaging,False
 https://gitlab.inria.fr/pm2/pm2,False
 https://gitlab.inria.fr/polar/polar,True
 https://gitlab.inria.fr/popstar/SAT-Equiv,True
@@ -6106,6 +6107,7 @@ https://gitlab.orfeo-toolbox.org/orfeotoolbox/superbuild-artifact,True
 https://gitlab.orfeo-toolbox.org/qgis-otb-plugin/qgis-otb-plugin,True
 https://gitlab.orfeo-toolbox.org/remote_modules/diapotb,True
 https://gitlab.orfeo-toolbox.org/remote_modules/functor-application-template,True
+https://gitlab.orfeo-toolbox.org/remote_modules/image-to-db-registration,False
 https://gitlab.orfeo-toolbox.org/remote_modules/let-it-snow,True
 https://gitlab.orfeo-toolbox.org/remote_modules/lsd-cmla,True
 https://gitlab.orfeo-toolbox.org/remote_modules/otb-slic,True
@@ -6119,7 +6121,7 @@ https://gitlab.ow2.org/lemonldap-ng/website-landing-page,True
 https://gitlab.u-psud.fr/Info111/ComputerLab,False
 https://gitlab.u-psud.fr/Info111/Info111,False
 https://gitlab.u-psud.fr/Info111/notebooks,False
-https://gitlab.u-psud.fr/Info111/outbound,False
+https://gitlab.u-psud.fr/Info111/outbound,True
 https://gitlab.u-psud.fr/Info111/travo,False
 https://gitlab.u-psud.fr/Info114/Data,False
 https://gitlab.u-psud.fr/Info114/sujets,False
@@ -6139,7 +6141,7 @@ https://gitlab.u-psud.fr/talend/tld_cidr,False
 https://gitlab.u-psud.fr/talend/tld_crd,False
 https://gitlab.u-psud.fr/talend/tld_crm,False
 https://gitlab.u-psud.fr/talend/tld_ec,False
-https://gitlab.u-psud.fr/talend/tld_helico,False
+https://gitlab.u-psud.fr/talend/tld_helico,True
 https://gitlab.u-psud.fr/talend/tld_izly,False
 https://gitlab.u-psud.fr/talend/tld_koha,False
 https://gitlab.u-psud.fr/talend/tld_rof,False
