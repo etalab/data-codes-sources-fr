@@ -63,6 +63,7 @@ https://forge.grandlyon.com/systemes-dinformation/pasi-portail-d-acces-au-si,Tru
 https://forge.univ-lyon1.fr/LETU/LETU,True
 https://forge.univ-lyon1.fr/Matiere/WebProject,True
 https://forge.univ-lyon1.fr/Montecher/WebS1,True
+https://forge.univ-lyon1.fr/albystructi/oop,False
 https://forge.univ-lyon1.fr/aml-lyon1/actionrobot,True
 https://forge.univ-lyon1.fr/aml-lyon1/campusdulibre,True
 https://forge.univ-lyon1.fr/bd-pedago/bd-pedago,True
@@ -1833,7 +1834,7 @@ https://github.com/PnX-SI/gn_mobile_core,True
 https://github.com/PnX-SI/gn_mobile_maps,True
 https://github.com/PnX-SI/gn_mobile_occtax,True
 https://github.com/PnX-SI/gn_mobile_sft,True
-https://github.com/PnX-SI/gn_module_ZH,False
+https://github.com/PnX-SI/gn_module_ZH,True
 https://github.com/PnX-SI/gn_module_cmr,True
 https://github.com/PnX-SI/gn_module_dashboard,True
 https://github.com/PnX-SI/gn_module_export,True
@@ -3271,7 +3272,7 @@ https://github.com/etalab-ia/ami-ia-dgcl,True
 https://github.com/etalab-ia/ami-ia-dgddi,True
 https://github.com/etalab-ia/ami-ia-dggn,True
 https://github.com/etalab-ia/ami-ia-dgs,True
-https://github.com/etalab-ia/ami-ia-dgs-app,False
+https://github.com/etalab-ia/ami-ia-dgs-app,True
 https://github.com/etalab-ia/ami-ia-ineris,True
 https://github.com/etalab-ia/ami-ia-insee,True
 https://github.com/etalab-ia/ami-ia-irsn,True
@@ -4679,6 +4680,7 @@ https://github.com/sigrennesmetropole/cadastrapp,True
 https://github.com/sigrennesmetropole/cartoHoraires,True
 https://github.com/sigrennesmetropole/dual_viewer,True
 https://github.com/sigrennesmetropole/geor_signalement,True
+https://github.com/sigrennesmetropole/geor_tabou2_backend,False
 https://github.com/sigrennesmetropole/geor_urbanisme,True
 https://github.com/sigrennesmetropole/geor_urbanisme_mapstore,True
 https://github.com/sigrennesmetropole/geoserver_sld,True
@@ -5042,7 +5044,7 @@ https://gitlab.com/pidila/scampi,True
 https://gitlab.com/pidila/scampi-twig,True
 https://gitlab.com/pidila/select-a11y,True
 https://gitlab.com/pidila/sp-simulateurs-data,True
-https://gitlab.com/rdes_dreal/propre,False
+https://gitlab.com/rdes_dreal/propre,True
 https://gitlab.com/rdes_dreal/propre.brochure,True
 https://gitlab.com/rdes_dreal/propre.itdd,True
 https://gitlab.com/rdes_dreal/propre.presentation,True
@@ -5288,6 +5290,7 @@ https://gitlab.inria.fr/amibio/Infrared,True
 https://gitlab.inria.fr/amibio/RNAPOND,True
 https://gitlab.inria.fr/amibio/RNARedPrint,True
 https://gitlab.inria.fr/amibio/treedecomp,True
+https://gitlab.inria.fr/amibio/varna-api,False
 https://gitlab.inria.fr/andiamo/eusdisparser,True
 https://gitlab.inria.fr/andiamo/tony,True
 https://gitlab.inria.fr/android-tools/apk-ops,True
@@ -5829,6 +5832,7 @@ https://gitlab.inria.fr/piper/misc_models,True
 https://gitlab.inria.fr/piper/viva,True
 https://gitlab.inria.fr/piy/piy,True
 https://gitlab.inria.fr/plas20/sessionintegrity,True
+https://gitlab.inria.fr/pm2/pm2,False
 https://gitlab.inria.fr/polar/polar,True
 https://gitlab.inria.fr/popstar/SAT-Equiv,True
 https://gitlab.inria.fr/post-doc-inria/fairvision,True
