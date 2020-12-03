@@ -67,6 +67,7 @@ https://forge.univ-lyon1.fr/albystructi/oop,False
 https://forge.univ-lyon1.fr/aml-lyon1/actionrobot,True
 https://forge.univ-lyon1.fr/aml-lyon1/campusdulibre,True
 https://forge.univ-lyon1.fr/bd-pedago/bd-pedago,True
+https://forge.univ-lyon1.fr/cannes-cpoa/accommodation-management,False
 https://forge.univ-lyon1.fr/cannes-cpoa/projection-planning,True
 https://forge.univ-lyon1.fr/cannes-cpoa/uml,True
 https://forge.univ-lyon1.fr/cards-against-university/cau-flask,True
@@ -201,6 +202,7 @@ https://forgemia.inra.fr/hackathon-portail-calcul/criteres,True
 https://forgemia.inra.fr/hackathon-portail-calcul/existant,True
 https://forgemia.inra.fr/hackathon-portail-calcul/hackathon_organisation,True
 https://forgemia.inra.fr/infosol/SolEil,True
+https://forgemia.inra.fr/infosol/rmd_nsa,False
 https://forgemia.inra.fr/infosol/rmd_test,False
 https://forgemia.inra.fr/infosol/sensor-map,True
 https://forgemia.inra.fr/infosol/talks,True
@@ -5571,7 +5573,7 @@ https://gitlab.inria.fr/gappa/coq,True
 https://gitlab.inria.fr/gappa/gappa,True
 https://gitlab.inria.fr/gazelle/external-library,True
 https://gitlab.inria.fr/gbono/coop-ma-pg,False
-https://gitlab.inria.fr/gbono/sulfr,False
+https://gitlab.inria.fr/gbono/sulfr,True
 https://gitlab.inria.fr/gecos/gecos-arith,True
 https://gitlab.inria.fr/gecos/gecos-buildtools,True
 https://gitlab.inria.fr/gecos/gecos-composite,True
@@ -6129,7 +6131,7 @@ https://gitlab.u-psud.fr/Info122/Info122,False
 https://gitlab.u-psud.fr/Info122/Info122-sujets,False
 https://gitlab.u-psud.fr/MethNum/nbgrader,False
 https://gitlab.u-psud.fr/MethNum/scripts,False
-https://gitlab.u-psud.fr/SIF/sif-tools,False
+https://gitlab.u-psud.fr/SIF/sif-tools,True
 https://gitlab.u-psud.fr/egp/ile-interdite,False
 https://gitlab.u-psud.fr/galac/hceres,False
 https://gitlab.u-psud.fr/talend/projectfortac,False
@@ -6144,7 +6146,7 @@ https://gitlab.u-psud.fr/talend/tld_ec,False
 https://gitlab.u-psud.fr/talend/tld_helico,True
 https://gitlab.u-psud.fr/talend/tld_izly,False
 https://gitlab.u-psud.fr/talend/tld_koha,False
-https://gitlab.u-psud.fr/talend/tld_rof,False
+https://gitlab.u-psud.fr/talend/tld_rof,True
 https://gitlab.u-psud.fr/talend/tld_snw,False
 https://gitlab.u-psud.fr/ter-graphupsud/algorithme_des_plus-courts_chemins_en_cpp,False
 https://gitlab.u-psud.fr/ter-graphupsud/bellman_ford_python,False
