@@ -1604,7 +1604,7 @@ https://github.com/MTES-MCT/acceslibre,True
 https://github.com/MTES-MCT/access4all,True
 https://github.com/MTES-MCT/action-bidonvilles,True
 https://github.com/MTES-MCT/action-bidonvilles-api,True
-https://github.com/MTES-MCT/action-bidonvilles-infra,False
+https://github.com/MTES-MCT/action-bidonvilles-infra,True
 https://github.com/MTES-MCT/adock-ansible,True
 https://github.com/MTES-MCT/adock-api,True
 https://github.com/MTES-MCT/adock-ui,True
@@ -4582,7 +4582,7 @@ https://github.com/pass-culture/data-analytics,True
 https://github.com/pass-culture/data-science,True
 https://github.com/pass-culture/enriched_data,True
 https://github.com/pass-culture/kibana-scalingo,False
-https://github.com/pass-culture/logstash,False
+https://github.com/pass-culture/logstash,True
 https://github.com/pass-culture/metabase-scalingo,True
 https://github.com/pass-culture/pass-culture-api,True
 https://github.com/pass-culture/pass-culture-app-native,False
@@ -5393,7 +5393,7 @@ https://gitlab.inria.fr/complexityparser/complexityparser,True
 https://gitlab.inria.fr/comprise/comprise-cloud-based-platform,True
 https://gitlab.inria.fr/comprise/comprise-example-library,True
 https://gitlab.inria.fr/comprise/comprise-personal-server,True
-https://gitlab.inria.fr/comprise/comprise-stt-training-recipe,False
+https://gitlab.inria.fr/comprise/comprise-stt-training-recipe,True
 https://gitlab.inria.fr/comprise/comprise_app_wizard,True
 https://gitlab.inria.fr/comprise/comprise_client_library,True
 https://gitlab.inria.fr/comprise/comprise_dialog_management,True
@@ -6123,7 +6123,7 @@ https://gitlab.u-psud.fr/Info111/Info111,False
 https://gitlab.u-psud.fr/Info111/notebooks,False
 https://gitlab.u-psud.fr/Info111/outbound,True
 https://gitlab.u-psud.fr/Info111/travo,False
-https://gitlab.u-psud.fr/Info114/Data,False
+https://gitlab.u-psud.fr/Info114/Data,True
 https://gitlab.u-psud.fr/Info114/sujets,False
 https://gitlab.u-psud.fr/Info122/Info122,False
 https://gitlab.u-psud.fr/Info122/Info122-sujets,False
