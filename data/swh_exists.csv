@@ -203,7 +203,7 @@ https://forgemia.inra.fr/hackathon-portail-calcul/existant,True
 https://forgemia.inra.fr/hackathon-portail-calcul/hackathon_organisation,True
 https://forgemia.inra.fr/infosol/SolEil,True
 https://forgemia.inra.fr/infosol/rmd_nsa,True
-https://forgemia.inra.fr/infosol/rmd_test,False
+https://forgemia.inra.fr/infosol/rmd_test,True
 https://forgemia.inra.fr/infosol/sensor-map,True
 https://forgemia.inra.fr/infosol/talks,True
 https://forgemia.inra.fr/infosol/txm-manual,False
@@ -2484,6 +2484,7 @@ https://github.com/betagouv/francaisaletranger,True
 https://github.com/betagouv/francaisaletranger-api,True
 https://github.com/betagouv/freescout,True
 https://github.com/betagouv/geoplus,True
+https://github.com/betagouv/glossaire,False
 https://github.com/betagouv/glossary-bot,True
 https://github.com/betagouv/gps-usagers,True
 https://github.com/betagouv/grafana-scalingo,True
@@ -6113,7 +6114,7 @@ https://gitlab.orfeo-toolbox.org/orfeotoolbox/superbuild-artifact,True
 https://gitlab.orfeo-toolbox.org/qgis-otb-plugin/qgis-otb-plugin,True
 https://gitlab.orfeo-toolbox.org/remote_modules/diapotb,True
 https://gitlab.orfeo-toolbox.org/remote_modules/functor-application-template,True
-https://gitlab.orfeo-toolbox.org/remote_modules/image-to-db-registration,False
+https://gitlab.orfeo-toolbox.org/remote_modules/image-to-db-registration,True
 https://gitlab.orfeo-toolbox.org/remote_modules/let-it-snow,True
 https://gitlab.orfeo-toolbox.org/remote_modules/lsd-cmla,True
 https://gitlab.orfeo-toolbox.org/remote_modules/otb-slic,True
@@ -6126,9 +6127,9 @@ https://gitlab.ow2.org/lemonldap-ng/vue-manager-for-llng,True
 https://gitlab.ow2.org/lemonldap-ng/website-landing-page,True
 https://gitlab.u-psud.fr/Info111/ComputerLab,True
 https://gitlab.u-psud.fr/Info111/Info111,False
-https://gitlab.u-psud.fr/Info111/notebooks,False
+https://gitlab.u-psud.fr/Info111/notebooks,True
 https://gitlab.u-psud.fr/Info111/outbound,True
-https://gitlab.u-psud.fr/Info111/travo,False
+https://gitlab.u-psud.fr/Info111/travo,True
 https://gitlab.u-psud.fr/Info114/Data,True
 https://gitlab.u-psud.fr/Info114/sujets,False
 https://gitlab.u-psud.fr/Info122/Info122,False
