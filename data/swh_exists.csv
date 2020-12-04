@@ -206,7 +206,7 @@ https://forgemia.inra.fr/infosol/rmd_nsa,True
 https://forgemia.inra.fr/infosol/rmd_test,True
 https://forgemia.inra.fr/infosol/sensor-map,True
 https://forgemia.inra.fr/infosol/talks,True
-https://forgemia.inra.fr/infosol/txm-manual,False
+https://forgemia.inra.fr/infosol/txm-manual,True
 https://forgemia.inra.fr/inter_cati_omics/hackathon_shiny_2020,True
 https://forgemia.inra.fr/inter_cati_omics/hackathon_snakemake_2020,True
 https://forgemia.inra.fr/inter_cati_omics/hackathon_snakemake_singularity_calling,True
@@ -4203,7 +4203,7 @@ https://github.com/metwork-framework/cookiecutter_hooks,True
 https://github.com/metwork-framework/cronwrapper,True
 https://github.com/metwork-framework/deploycron,True
 https://github.com/metwork-framework/directory_observer,True
-https://github.com/metwork-framework/docker-centos6,False
+https://github.com/metwork-framework/docker-centos6,True
 https://github.com/metwork-framework/docker-centos7-opinionated,True
 https://github.com/metwork-framework/docker-drone-docker-specific-image,True
 https://github.com/metwork-framework/docker-drone-downstream-specific-image,True
@@ -6139,7 +6139,7 @@ https://gitlab.u-psud.fr/MethNum/scripts,False
 https://gitlab.u-psud.fr/SIF/sif-tools,True
 https://gitlab.u-psud.fr/egp/ile-interdite,True
 https://gitlab.u-psud.fr/galac/hceres,False
-https://gitlab.u-psud.fr/talend/projectfortac,False
+https://gitlab.u-psud.fr/talend/projectfortac,True
 https://gitlab.u-psud.fr/talend/tld_adonis_sync_ldap,True
 https://gitlab.u-psud.fr/talend/tld_alma,False
 https://gitlab.u-psud.fr/talend/tld_candidatures_sc,False
