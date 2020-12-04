@@ -206,6 +206,7 @@ https://forgemia.inra.fr/infosol/rmd_nsa,True
 https://forgemia.inra.fr/infosol/rmd_test,False
 https://forgemia.inra.fr/infosol/sensor-map,True
 https://forgemia.inra.fr/infosol/talks,True
+https://forgemia.inra.fr/infosol/txm-manual,False
 https://forgemia.inra.fr/inter_cati_omics/hackathon_shiny_2020,True
 https://forgemia.inra.fr/inter_cati_omics/hackathon_snakemake_2020,True
 https://forgemia.inra.fr/inter_cati_omics/hackathon_snakemake_singularity_calling,True
@@ -507,7 +508,7 @@ https://github.com/1024pix/ember-cli-chartjs,True
 https://github.com/1024pix/ember-cli-matomo-tag-manager,True
 https://github.com/1024pix/ember-sentry,True
 https://github.com/1024pix/formation-jeremie,True
-https://github.com/1024pix/gateway,False
+https://github.com/1024pix/gateway,True
 https://github.com/1024pix/heroku-buildpack-git-submodule,True
 https://github.com/1024pix/heroku-buildpack-telegraf,True
 https://github.com/1024pix/journee-recherche,True
@@ -526,6 +527,7 @@ https://github.com/1024pix/open-lab,True
 https://github.com/1024pix/pix,True
 https://github.com/1024pix/pix-analytics,True
 https://github.com/1024pix/pix-bot,True
+https://github.com/1024pix/pix-db-replication,False
 https://github.com/1024pix/pix-db-stats,True
 https://github.com/1024pix/pix-editor,True
 https://github.com/1024pix/pix-engineering,True
@@ -1928,7 +1930,7 @@ https://github.com/SocialGouv/app-nextjs-node-ts,True
 https://github.com/SocialGouv/archifiltre,True
 https://github.com/SocialGouv/archifiltre-landing-page,True
 https://github.com/SocialGouv/archifiltre-site,True
-https://github.com/SocialGouv/archifiltre-statistics,False
+https://github.com/SocialGouv/archifiltre-statistics,True
 https://github.com/SocialGouv/autosuggest,True
 https://github.com/SocialGouv/bootstrap,True
 https://github.com/SocialGouv/bot,True
@@ -5574,7 +5576,7 @@ https://gitlab.inria.fr/gagallium/stog-math,True
 https://gitlab.inria.fr/gappa/coq,True
 https://gitlab.inria.fr/gappa/gappa,True
 https://gitlab.inria.fr/gazelle/external-library,True
-https://gitlab.inria.fr/gbono/coop-ma-pg,False
+https://gitlab.inria.fr/gbono/coop-ma-pg,True
 https://gitlab.inria.fr/gbono/sulfr,True
 https://gitlab.inria.fr/gecos/gecos-arith,True
 https://gitlab.inria.fr/gecos/gecos-buildtools,True
@@ -6122,7 +6124,7 @@ https://gitlab.orfeo-toolbox.org/s1-tiling/s1tilingsupportapplications,True
 https://gitlab.ow2.org/lemonldap-ng/lemonldap-ng,True
 https://gitlab.ow2.org/lemonldap-ng/vue-manager-for-llng,True
 https://gitlab.ow2.org/lemonldap-ng/website-landing-page,True
-https://gitlab.u-psud.fr/Info111/ComputerLab,False
+https://gitlab.u-psud.fr/Info111/ComputerLab,True
 https://gitlab.u-psud.fr/Info111/Info111,False
 https://gitlab.u-psud.fr/Info111/notebooks,False
 https://gitlab.u-psud.fr/Info111/outbound,True
@@ -6137,7 +6139,7 @@ https://gitlab.u-psud.fr/SIF/sif-tools,True
 https://gitlab.u-psud.fr/egp/ile-interdite,True
 https://gitlab.u-psud.fr/galac/hceres,False
 https://gitlab.u-psud.fr/talend/projectfortac,False
-https://gitlab.u-psud.fr/talend/tld_adonis_sync_ldap,False
+https://gitlab.u-psud.fr/talend/tld_adonis_sync_ldap,True
 https://gitlab.u-psud.fr/talend/tld_alma,False
 https://gitlab.u-psud.fr/talend/tld_candidatures_sc,False
 https://gitlab.u-psud.fr/talend/tld_cartes_sceaux,False
@@ -6152,7 +6154,7 @@ https://gitlab.u-psud.fr/talend/tld_rof,True
 https://gitlab.u-psud.fr/talend/tld_snw,False
 https://gitlab.u-psud.fr/ter-graphupsud/algorithme_des_plus-courts_chemins_en_cpp,False
 https://gitlab.u-psud.fr/ter-graphupsud/bellman_ford_python,False
-https://gitlab.u-psud.fr/ter-graphupsud/flot_maximum_ford_fulkerson_python,False
+https://gitlab.u-psud.fr/ter-graphupsud/flot_maximum_ford_fulkerson_python,True
 https://gitlab.u-psud.fr/ter-graphupsud/labycpp_python,False
 https://gitlab.u-psud.fr/ter-graphupsud/singleoutputwidget,False
 https://gitlabjf.ccomptes.fr/CommunautesJF/beta,True
@@ -6165,6 +6167,8 @@ https://gitlabjf.ccomptes.fr/fnicol/x86_64-6.1.0-release-posix-seh-rt_v5-rev0,Tr
 https://gitlabjf.ccomptes.fr/startupjf/e-controle,True
 https://gitlabjf.ccomptes.fr/startupjf/e-controle-deploy,True
 https://gitlabjf.ccomptes.fr/wikijs/wikijs,True
+https://gitub.u-bordeaux.fr/altarica/arc,False
+https://gitub.u-bordeaux.fr/altarica/ccl,False
 https://gitub.u-bordeaux.fr/erias/fideo,True
 https://gitub.u-bordeaux.fr/erias/patient-covid19,True
 https://gitub.u-bordeaux.fr/innovation/act,True
