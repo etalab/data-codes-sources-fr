@@ -828,7 +828,7 @@ https://github.com/CNRS-DSI-Dev/user_set_password,True
 https://github.com/CNRS-DSI-Dev/user_share_guest,True
 https://github.com/CatalaLang/catala,True
 https://github.com/CatalaLang/catala-website,True
-https://github.com/Cour-de-cassation/label,False
+https://github.com/Cour-de-cassation/label,True
 https://github.com/Cour-de-cassation/moteurNER,True
 https://github.com/Cour-des-comptes/open-anafi-backend,True
 https://github.com/Cour-des-comptes/open-anafi-frontend,True
@@ -5155,7 +5155,7 @@ https://gitlab.huma-num.fr/txm/txm-javadoc,True
 https://gitlab.huma-num.fr/txm/txm-manual,True
 https://gitlab.huma-num.fr/txm/txm-ressources,True
 https://gitlab.huma-num.fr/txm/txm-software,True
-https://gitlab.huma-num.fr/txm/txm-vm,False
+https://gitlab.huma-num.fr/txm/txm-vm,True
 https://gitlab.in2p3.fr/Enssib/abcdev,True
 https://gitlab.in2p3.fr/Enssib/bibliotouch,True
 https://gitlab.inria.fr/AlgebraicGeometricModeling/AlgebraicSolvers.jl,True
@@ -6131,11 +6131,11 @@ https://gitlab.u-psud.fr/Info111/notebooks,True
 https://gitlab.u-psud.fr/Info111/outbound,True
 https://gitlab.u-psud.fr/Info111/travo,True
 https://gitlab.u-psud.fr/Info114/Data,True
-https://gitlab.u-psud.fr/Info114/sujets,False
+https://gitlab.u-psud.fr/Info114/sujets,True
 https://gitlab.u-psud.fr/Info122/Info122,False
 https://gitlab.u-psud.fr/Info122/Info122-sujets,False
 https://gitlab.u-psud.fr/MethNum/nbgrader,False
-https://gitlab.u-psud.fr/MethNum/scripts,False
+https://gitlab.u-psud.fr/MethNum/scripts,True
 https://gitlab.u-psud.fr/SIF/sif-tools,True
 https://gitlab.u-psud.fr/egp/ile-interdite,True
 https://gitlab.u-psud.fr/galac/hceres,False
@@ -6152,7 +6152,7 @@ https://gitlab.u-psud.fr/talend/tld_helico,True
 https://gitlab.u-psud.fr/talend/tld_izly,False
 https://gitlab.u-psud.fr/talend/tld_koha,False
 https://gitlab.u-psud.fr/talend/tld_rof,True
-https://gitlab.u-psud.fr/talend/tld_snw,False
+https://gitlab.u-psud.fr/talend/tld_snw,True
 https://gitlab.u-psud.fr/ter-graphupsud/algorithme_des_plus-courts_chemins_en_cpp,False
 https://gitlab.u-psud.fr/ter-graphupsud/bellman_ford_python,False
 https://gitlab.u-psud.fr/ter-graphupsud/flot_maximum_ford_fulkerson_python,True
