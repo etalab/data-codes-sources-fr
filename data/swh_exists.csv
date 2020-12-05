@@ -6143,13 +6143,13 @@ https://gitlab.u-psud.fr/talend/projectfortac,True
 https://gitlab.u-psud.fr/talend/tld_adonis_sync_ldap,True
 https://gitlab.u-psud.fr/talend/tld_alma,False
 https://gitlab.u-psud.fr/talend/tld_candidatures_sc,False
-https://gitlab.u-psud.fr/talend/tld_cartes_sceaux,False
+https://gitlab.u-psud.fr/talend/tld_cartes_sceaux,True
 https://gitlab.u-psud.fr/talend/tld_cidr,False
 https://gitlab.u-psud.fr/talend/tld_crd,True
 https://gitlab.u-psud.fr/talend/tld_crm,False
 https://gitlab.u-psud.fr/talend/tld_ec,False
 https://gitlab.u-psud.fr/talend/tld_helico,True
-https://gitlab.u-psud.fr/talend/tld_izly,False
+https://gitlab.u-psud.fr/talend/tld_izly,True
 https://gitlab.u-psud.fr/talend/tld_koha,False
 https://gitlab.u-psud.fr/talend/tld_rof,True
 https://gitlab.u-psud.fr/talend/tld_snw,True
