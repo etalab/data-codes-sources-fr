@@ -1604,6 +1604,8 @@ https://github.com/LemonLDAPNG/node-fastcgi-authz-client,True
 https://github.com/LemonLDAPNG/node-lemonldap-ng-handler,True
 https://github.com/LemonLDAPNG/pts2019-llng-workshop,True
 https://github.com/LemonLDAPNG/puppet-lemonldap-ng,True
+https://github.com/MLanguage/language-m-dgfip,False
+https://github.com/MLanguage/mlang,False
 https://github.com/MTES-MCT/Dossier-Facile-Frontend,True
 https://github.com/MTES-MCT/acceslibre,True
 https://github.com/MTES-MCT/access4all,True
@@ -6126,7 +6128,7 @@ https://gitlab.ow2.org/lemonldap-ng/lemonldap-ng,True
 https://gitlab.ow2.org/lemonldap-ng/vue-manager-for-llng,True
 https://gitlab.ow2.org/lemonldap-ng/website-landing-page,True
 https://gitlab.u-psud.fr/Info111/ComputerLab,True
-https://gitlab.u-psud.fr/Info111/Info111,False
+https://gitlab.u-psud.fr/Info111/Info111,True
 https://gitlab.u-psud.fr/Info111/notebooks,True
 https://gitlab.u-psud.fr/Info111/outbound,True
 https://gitlab.u-psud.fr/Info111/travo,True
@@ -6141,12 +6143,12 @@ https://gitlab.u-psud.fr/egp/ile-interdite,True
 https://gitlab.u-psud.fr/galac/hceres,True
 https://gitlab.u-psud.fr/talend/projectfortac,True
 https://gitlab.u-psud.fr/talend/tld_adonis_sync_ldap,True
-https://gitlab.u-psud.fr/talend/tld_alma,False
+https://gitlab.u-psud.fr/talend/tld_alma,True
 https://gitlab.u-psud.fr/talend/tld_candidatures_sc,True
 https://gitlab.u-psud.fr/talend/tld_cartes_sceaux,True
 https://gitlab.u-psud.fr/talend/tld_cidr,False
 https://gitlab.u-psud.fr/talend/tld_crd,True
-https://gitlab.u-psud.fr/talend/tld_crm,False
+https://gitlab.u-psud.fr/talend/tld_crm,True
 https://gitlab.u-psud.fr/talend/tld_ec,False
 https://gitlab.u-psud.fr/talend/tld_helico,True
 https://gitlab.u-psud.fr/talend/tld_izly,True
