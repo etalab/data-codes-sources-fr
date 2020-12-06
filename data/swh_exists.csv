@@ -399,7 +399,7 @@ https://git.unistra.fr/T4_Trail_HHK/T4_Trail_Simulation,True
 https://git.unistra.fr/T4desMeilleurs/T4Botanique,True
 https://git.unistra.fr/W4b_Hartmann_Kieu/w4b,True
 https://git.unistra.fr/algdis/algdis_public,True
-https://git.unistra.fr/barreoblique/connectfour,False
+https://git.unistra.fr/barreoblique/connectfour,True
 https://git.unistra.fr/botanique23/T4_PID_A,True
 https://git.unistra.fr/c/st,True
 https://git.unistra.fr/cmi-production/projet-integrateur,True
@@ -527,7 +527,7 @@ https://github.com/1024pix/open-lab,True
 https://github.com/1024pix/pix,True
 https://github.com/1024pix/pix-analytics,True
 https://github.com/1024pix/pix-bot,True
-https://github.com/1024pix/pix-db-replication,False
+https://github.com/1024pix/pix-db-replication,True
 https://github.com/1024pix/pix-db-stats,True
 https://github.com/1024pix/pix-editor,True
 https://github.com/1024pix/pix-engineering,True
@@ -6168,7 +6168,7 @@ https://gitlabjf.ccomptes.fr/fnicol/x86_64-6.1.0-release-posix-seh-rt_v5-rev0,Tr
 https://gitlabjf.ccomptes.fr/startupjf/e-controle,True
 https://gitlabjf.ccomptes.fr/startupjf/e-controle-deploy,True
 https://gitlabjf.ccomptes.fr/wikijs/wikijs,True
-https://gitub.u-bordeaux.fr/altarica/arc,False
+https://gitub.u-bordeaux.fr/altarica/arc,True
 https://gitub.u-bordeaux.fr/altarica/ccl,False
 https://gitub.u-bordeaux.fr/erias/fideo,True
 https://gitub.u-bordeaux.fr/erias/patient-covid19,True
