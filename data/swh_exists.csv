@@ -702,7 +702,7 @@ https://github.com/BRGM/hubeau,True
 https://github.com/BRGM/plouf,True
 https://github.com/BRGM/razorback,True
 https://github.com/BRGM/registry-core,True
-https://github.com/BRGM/vtkwriters,False
+https://github.com/BRGM/vtkwriters,True
 https://github.com/BaseAdresseNationale/api-gestion,True
 https://github.com/BaseAdresseNationale/api-gestion-poc,True
 https://github.com/BaseAdresseNationale/ban,True
@@ -1605,7 +1605,7 @@ https://github.com/LemonLDAPNG/node-lemonldap-ng-handler,True
 https://github.com/LemonLDAPNG/pts2019-llng-workshop,True
 https://github.com/LemonLDAPNG/puppet-lemonldap-ng,True
 https://github.com/MLanguage/language-m-dgfip,True
-https://github.com/MLanguage/mlang,False
+https://github.com/MLanguage/mlang,True
 https://github.com/MTES-MCT/Dossier-Facile-Frontend,True
 https://github.com/MTES-MCT/acceslibre,True
 https://github.com/MTES-MCT/access4all,True
@@ -4643,6 +4643,7 @@ https://github.com/riatelab/cartographie-reproductible,True
 https://github.com/riatelab/cartography,True
 https://github.com/riatelab/cartostats,True
 https://github.com/riatelab/eurostat,True
+https://github.com/riatelab/fisheye,False
 https://github.com/riatelab/house-test,True
 https://github.com/riatelab/icc2019,True
 https://github.com/riatelab/intro_sf,True
@@ -5681,6 +5682,7 @@ https://gitlab.inria.fr/inria-ci/doc,True
 https://gitlab.inria.fr/ipanema-public/ipanema-compiler,True
 https://gitlab.inria.fr/ipanema-public/ipanema-kernel,True
 https://gitlab.inria.fr/ipanema-public/ipanema-proofs,True
+https://gitlab.inria.fr/isamdae/isamdae-documentation-and-bug-tracking,False
 https://gitlab.inria.fr/jgranier/Rendu-Style-Novat,True
 https://gitlab.inria.fr/kadeploy/kadeploy.gitlabpages.inria.fr,True
 https://gitlab.inria.fr/kaldi.web/clapack-wasm,True
@@ -5847,6 +5849,7 @@ https://gitlab.inria.fr/polar/polar,True
 https://gitlab.inria.fr/popstar/SAT-Equiv,True
 https://gitlab.inria.fr/post-doc-inria/fairvision,True
 https://gitlab.inria.fr/progressivesimsearch/sigmod2020,True
+https://gitlab.inria.fr/prosecco/vericrypt-cryptoverif,False
 https://gitlab.inria.fr/pvignet/cadbiom,True
 https://gitlab.inria.fr/pvignet/pycryptosat,True
 https://gitlab.inria.fr/pycomodo/pycomodo,True
@@ -6146,7 +6149,7 @@ https://gitlab.u-psud.fr/talend/tld_adonis_sync_ldap,True
 https://gitlab.u-psud.fr/talend/tld_alma,True
 https://gitlab.u-psud.fr/talend/tld_candidatures_sc,True
 https://gitlab.u-psud.fr/talend/tld_cartes_sceaux,True
-https://gitlab.u-psud.fr/talend/tld_cidr,False
+https://gitlab.u-psud.fr/talend/tld_cidr,True
 https://gitlab.u-psud.fr/talend/tld_crd,True
 https://gitlab.u-psud.fr/talend/tld_crm,True
 https://gitlab.u-psud.fr/talend/tld_ec,False
