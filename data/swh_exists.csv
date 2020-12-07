@@ -67,7 +67,7 @@ https://forge.univ-lyon1.fr/albystructi/oop,True
 https://forge.univ-lyon1.fr/aml-lyon1/actionrobot,True
 https://forge.univ-lyon1.fr/aml-lyon1/campusdulibre,True
 https://forge.univ-lyon1.fr/bd-pedago/bd-pedago,True
-https://forge.univ-lyon1.fr/cannes-cpoa/accommodation-management,False
+https://forge.univ-lyon1.fr/cannes-cpoa/accommodation-management,True
 https://forge.univ-lyon1.fr/cannes-cpoa/projection-planning,True
 https://forge.univ-lyon1.fr/cannes-cpoa/uml,True
 https://forge.univ-lyon1.fr/cards-against-university/cau-flask,True
@@ -205,6 +205,7 @@ https://forgemia.inra.fr/infosol/SolEil,True
 https://forgemia.inra.fr/infosol/rmd_nsa,True
 https://forgemia.inra.fr/infosol/rmd_test,True
 https://forgemia.inra.fr/infosol/sensor-map,True
+https://forgemia.inra.fr/infosol/si-debug,False
 https://forgemia.inra.fr/infosol/talks,True
 https://forgemia.inra.fr/infosol/txm-manual,True
 https://forgemia.inra.fr/inter_cati_omics/hackathon_shiny_2020,True
@@ -4991,6 +4992,7 @@ https://gitlab.cerema.fr/Stream/stream-python,True
 https://gitlab.cerema.fr/admin-donnees/admin_referentiels_postgresql,True
 https://gitlab.cerema.fr/admin-donnees/fr.cerema.admin_donnees_postgresql,True
 https://gitlab.cerema.fr/centre-est/admin_ceremabase,True
+https://gitlab.cerema.fr/geomatique_donnees/en_test,False
 https://gitlab.com/CSTB/geocoding_tools,True
 https://gitlab.com/CSTB/ifc2x3-SDK,True
 https://gitlab.com/CSTB/mathis,True
