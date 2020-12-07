@@ -1604,7 +1604,7 @@ https://github.com/LemonLDAPNG/node-fastcgi-authz-client,True
 https://github.com/LemonLDAPNG/node-lemonldap-ng-handler,True
 https://github.com/LemonLDAPNG/pts2019-llng-workshop,True
 https://github.com/LemonLDAPNG/puppet-lemonldap-ng,True
-https://github.com/MLanguage/language-m-dgfip,False
+https://github.com/MLanguage/language-m-dgfip,True
 https://github.com/MLanguage/mlang,False
 https://github.com/MTES-MCT/Dossier-Facile-Frontend,True
 https://github.com/MTES-MCT/acceslibre,True
@@ -4594,7 +4594,7 @@ https://github.com/pass-culture/kibana-scalingo,False
 https://github.com/pass-culture/logstash,True
 https://github.com/pass-culture/metabase-scalingo,True
 https://github.com/pass-culture/pass-culture-api,True
-https://github.com/pass-culture/pass-culture-app-native,False
+https://github.com/pass-culture/pass-culture-app-native,True
 https://github.com/pass-culture/pass-culture-beneficiary-android-app,True
 https://github.com/pass-culture/pass-culture-browser,True
 https://github.com/pass-culture/pass-culture-doc,True
