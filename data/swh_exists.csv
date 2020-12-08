@@ -2163,6 +2163,7 @@ https://github.com/X-DataInitiative/SCALPEL-Flattening,True
 https://github.com/X-DataInitiative/SCALPEL3,True
 https://github.com/X-DataInitiative/Spleen,True
 https://github.com/X-DataInitiative/clusterboot,True
+https://github.com/X-DataInitiative/population-flowchart,False
 https://github.com/X-DataInitiative/tick,True
 https://github.com/X-DataInitiative/tick-datasets,True
 https://github.com/X-DataInitiative/tick_appveyor,True
@@ -2491,7 +2492,7 @@ https://github.com/betagouv/glossaire,False
 https://github.com/betagouv/glossary-bot,True
 https://github.com/betagouv/gps-usagers,True
 https://github.com/betagouv/grafana-scalingo,True
-https://github.com/betagouv/helpy,False
+https://github.com/betagouv/helpy,True
 https://github.com/betagouv/heroku-buildpack-ruby,True
 https://github.com/betagouv/histologe,True
 https://github.com/betagouv/i18nliner-js,True
@@ -2523,6 +2524,7 @@ https://github.com/betagouv/ludwig,True
 https://github.com/betagouv/ludwig-api,True
 https://github.com/betagouv/ludwig-ui,True
 https://github.com/betagouv/ma-cantine,False
+https://github.com/betagouv/macantine,False
 https://github.com/betagouv/mas,True
 https://github.com/betagouv/matomo,True
 https://github.com/betagouv/matomo-beta,True
@@ -3797,6 +3799,7 @@ https://github.com/istex/istex-exchange,True
 https://github.com/istex/istex-google-scholar,True
 https://github.com/istex/istex-header,True
 https://github.com/istex/istex-installer,True
+https://github.com/istex/istex-jobs,False
 https://github.com/istex/istex-lodex-data,True
 https://github.com/istex/istex-nerd,True
 https://github.com/istex/istex-qid-ttl,True
@@ -4592,7 +4595,7 @@ https://github.com/openmole/yapa,True
 https://github.com/pass-culture/data-analytics,True
 https://github.com/pass-culture/data-science,True
 https://github.com/pass-culture/enriched_data,True
-https://github.com/pass-culture/kibana-scalingo,False
+https://github.com/pass-culture/kibana-scalingo,True
 https://github.com/pass-culture/logstash,True
 https://github.com/pass-culture/metabase-scalingo,True
 https://github.com/pass-culture/pass-culture-api,True
@@ -5847,7 +5850,7 @@ https://gitlab.inria.fr/piper/viva,True
 https://gitlab.inria.fr/piy/piy,True
 https://gitlab.inria.fr/plas20/sessionintegrity,True
 https://gitlab.inria.fr/pm2/packaging,False
-https://gitlab.inria.fr/pm2/pm2,False
+https://gitlab.inria.fr/pm2/pm2,True
 https://gitlab.inria.fr/polar/polar,True
 https://gitlab.inria.fr/popstar/SAT-Equiv,True
 https://gitlab.inria.fr/post-doc-inria/fairvision,True
