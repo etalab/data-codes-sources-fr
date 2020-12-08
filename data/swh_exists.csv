@@ -2491,6 +2491,7 @@ https://github.com/betagouv/glossaire,False
 https://github.com/betagouv/glossary-bot,True
 https://github.com/betagouv/gps-usagers,True
 https://github.com/betagouv/grafana-scalingo,True
+https://github.com/betagouv/helpy,False
 https://github.com/betagouv/heroku-buildpack-ruby,True
 https://github.com/betagouv/histologe,True
 https://github.com/betagouv/i18nliner-js,True
@@ -4992,7 +4993,7 @@ https://gitlab.cerema.fr/Stream/stream-python,True
 https://gitlab.cerema.fr/admin-donnees/admin_referentiels_postgresql,True
 https://gitlab.cerema.fr/admin-donnees/fr.cerema.admin_donnees_postgresql,True
 https://gitlab.cerema.fr/centre-est/admin_ceremabase,True
-https://gitlab.cerema.fr/geomatique_donnees/en_test,False
+https://gitlab.cerema.fr/geomatique_donnees/en_test,True
 https://gitlab.com/CSTB/geocoding_tools,True
 https://gitlab.com/CSTB/ifc2x3-SDK,True
 https://gitlab.com/CSTB/mathis,True
@@ -6161,7 +6162,7 @@ https://gitlab.u-psud.fr/talend/tld_koha,False
 https://gitlab.u-psud.fr/talend/tld_rof,True
 https://gitlab.u-psud.fr/talend/tld_snw,True
 https://gitlab.u-psud.fr/ter-graphupsud/algorithme_des_plus-courts_chemins_en_cpp,True
-https://gitlab.u-psud.fr/ter-graphupsud/bellman_ford_python,False
+https://gitlab.u-psud.fr/ter-graphupsud/bellman_ford_python,True
 https://gitlab.u-psud.fr/ter-graphupsud/flot_maximum_ford_fulkerson_python,True
 https://gitlab.u-psud.fr/ter-graphupsud/labycpp_python,False
 https://gitlab.u-psud.fr/ter-graphupsud/singleoutputwidget,True
