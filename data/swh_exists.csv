@@ -68,6 +68,7 @@ https://forge.univ-lyon1.fr/aml-lyon1/actionrobot,True
 https://forge.univ-lyon1.fr/aml-lyon1/campusdulibre,True
 https://forge.univ-lyon1.fr/bd-pedago/bd-pedago,True
 https://forge.univ-lyon1.fr/cannes-cpoa/accommodation-management,True
+https://forge.univ-lyon1.fr/cannes-cpoa/ihm-agenda,False
 https://forge.univ-lyon1.fr/cannes-cpoa/projection-planning,True
 https://forge.univ-lyon1.fr/cannes-cpoa/uml,True
 https://forge.univ-lyon1.fr/cards-against-university/cau-flask,True
@@ -399,6 +400,7 @@ https://git.unistra.fr/T4_SPC_Simulator/SPC_Simulator,True
 https://git.unistra.fr/T4_Trail_HHK/T4_Trail_Simulation,True
 https://git.unistra.fr/T4desMeilleurs/T4Botanique,True
 https://git.unistra.fr/W4b_Hartmann_Kieu/w4b,True
+https://git.unistra.fr/adefinir/t432_liy20_t3_h,False
 https://git.unistra.fr/algdis/algdis_public,True
 https://git.unistra.fr/barreoblique/connectfour,True
 https://git.unistra.fr/botanique23/T4_PID_A,True
@@ -2163,7 +2165,7 @@ https://github.com/X-DataInitiative/SCALPEL-Flattening,True
 https://github.com/X-DataInitiative/SCALPEL3,True
 https://github.com/X-DataInitiative/Spleen,True
 https://github.com/X-DataInitiative/clusterboot,True
-https://github.com/X-DataInitiative/population-flowchart,False
+https://github.com/X-DataInitiative/population-flowchart,True
 https://github.com/X-DataInitiative/tick,True
 https://github.com/X-DataInitiative/tick-datasets,True
 https://github.com/X-DataInitiative/tick_appveyor,True
@@ -3325,6 +3327,7 @@ https://github.com/etalab/adresses-util,True
 https://github.com/etalab/agd.data.gouv.fr,True
 https://github.com/etalab/agefiph_worker_api_entreprise,True
 https://github.com/etalab/agenda-tech-ext,True
+https://github.com/etalab/aio-proxy,False
 https://github.com/etalab/algorithmes-publics,True
 https://github.com/etalab/annuaire-entreprises.data.gouv.fr,True
 https://github.com/etalab/api-annuaire-entreprises,True
@@ -6158,7 +6161,7 @@ https://gitlab.u-psud.fr/talend/tld_cartes_sceaux,True
 https://gitlab.u-psud.fr/talend/tld_cidr,True
 https://gitlab.u-psud.fr/talend/tld_crd,True
 https://gitlab.u-psud.fr/talend/tld_crm,True
-https://gitlab.u-psud.fr/talend/tld_ec,False
+https://gitlab.u-psud.fr/talend/tld_ec,True
 https://gitlab.u-psud.fr/talend/tld_helico,True
 https://gitlab.u-psud.fr/talend/tld_izly,True
 https://gitlab.u-psud.fr/talend/tld_koha,False
