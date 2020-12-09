@@ -3762,6 +3762,7 @@ https://github.com/indsante/dico-snds-creation-archive,True
 https://github.com/indsante/schema-snds,True
 https://github.com/indsante/synthetic-snds,True
 https://github.com/inrae/BedloadR,True
+https://github.com/inrae/Formation_Python,False
 https://github.com/inrae/GR3D,True
 https://github.com/inrae/Matrix_lib-v2.0,True
 https://github.com/inrae/ODAM,True
@@ -5878,6 +5879,7 @@ https://gitlab.inria.fr/sca_platform/equipments,False
 https://gitlab.inria.fr/sca_platform/targets,False
 https://gitlab.inria.fr/scotch/scotch,True
 https://gitlab.inria.fr/scripta/escriptorium,True
+https://gitlab.inria.fr/securejs/sjs-compiler,False
 https://gitlab.inria.fr/sed-bso/cmake,True
 https://gitlab.inria.fr/sed-bso/gitlab-ci,True
 https://gitlab.inria.fr/sed-bso/heat,True
