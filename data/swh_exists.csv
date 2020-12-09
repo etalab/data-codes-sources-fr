@@ -402,6 +402,7 @@ https://git.unistra.fr/T4desMeilleurs/T4Botanique,True
 https://git.unistra.fr/W4b_Hartmann_Kieu/w4b,True
 https://git.unistra.fr/adefinir/t432_liy20_t3_h,False
 https://git.unistra.fr/algdis/algdis_public,True
+https://git.unistra.fr/arche/outils-et-services,False
 https://git.unistra.fr/barreoblique/connectfour,True
 https://git.unistra.fr/botanique23/T4_PID_A,True
 https://git.unistra.fr/c/st,True
@@ -495,6 +496,7 @@ https://git.unistra.fr/tallandier_haquin/a31_puissance_puissance,False
 https://git.unistra.fr/uhuit/pgmaggpl,True
 https://git.unistra.fr/uquatre/mips-invader,True
 https://git.unistra.fr/usept/sexy-polyedra-baby,True
+https://git.unistra.fr/vue-unistra/unistra-formbuilder,False
 https://git.unistra.fr/vue/cas-authentication,True
 https://git.unistra.fr/vue/cli-plugin-unistra,True
 https://git.unistra.fr/vue/unistra-box,True
@@ -1529,6 +1531,8 @@ https://github.com/InseeFrLab/sugoi-ui,True
 https://github.com/InseeFrLab/tensorflow,True
 https://github.com/InseeFrLab/ubuntu-vnc,True
 https://github.com/InseeFrLab/ubuntu-vnc-dind,True
+https://github.com/InseeFrLab/utilitR,False
+https://github.com/InseeFrLab/utilitR-website,False
 https://github.com/InseeFrLab/vscode-python,True
 https://github.com/Irstea/ALPFORPLOTS,True
 https://github.com/Irstea/Redmine-mod-perl-auth,True
@@ -5829,6 +5833,7 @@ https://gitlab.inria.fr/openvibe/extras,True
 https://gitlab.inria.fr/openvibe/games,True
 https://gitlab.inria.fr/openvibe/meta,True
 https://gitlab.inria.fr/openvibe/sdk,True
+https://gitlab.inria.fr/openwind/openwind,False
 https://gitlab.inria.fr/openwind/release,True
 https://gitlab.inria.fr/optimdbs/optimdbs-medinria,True
 https://gitlab.inria.fr/optimdbs/optimdbs-superproject,True
@@ -5861,7 +5866,7 @@ https://gitlab.inria.fr/polar/polar,True
 https://gitlab.inria.fr/popstar/SAT-Equiv,True
 https://gitlab.inria.fr/post-doc-inria/fairvision,True
 https://gitlab.inria.fr/progressivesimsearch/sigmod2020,True
-https://gitlab.inria.fr/prosecco/vericrypt-cryptoverif,False
+https://gitlab.inria.fr/prosecco/vericrypt-cryptoverif,True
 https://gitlab.inria.fr/pvignet/cadbiom,True
 https://gitlab.inria.fr/pvignet/pycryptosat,True
 https://gitlab.inria.fr/pycomodo/pycomodo,True
@@ -5879,7 +5884,7 @@ https://gitlab.inria.fr/sca_platform/equipments,False
 https://gitlab.inria.fr/sca_platform/targets,False
 https://gitlab.inria.fr/scotch/scotch,True
 https://gitlab.inria.fr/scripta/escriptorium,True
-https://gitlab.inria.fr/securejs/sjs-compiler,False
+https://gitlab.inria.fr/securejs/sjs-compiler,True
 https://gitlab.inria.fr/sed-bso/cmake,True
 https://gitlab.inria.fr/sed-bso/gitlab-ci,True
 https://gitlab.inria.fr/sed-bso/heat,True
