@@ -68,7 +68,7 @@ https://forge.univ-lyon1.fr/aml-lyon1/actionrobot,True
 https://forge.univ-lyon1.fr/aml-lyon1/campusdulibre,True
 https://forge.univ-lyon1.fr/bd-pedago/bd-pedago,True
 https://forge.univ-lyon1.fr/cannes-cpoa/accommodation-management,True
-https://forge.univ-lyon1.fr/cannes-cpoa/ihm-agenda,False
+https://forge.univ-lyon1.fr/cannes-cpoa/ihm-agenda,True
 https://forge.univ-lyon1.fr/cannes-cpoa/projection-planning,True
 https://forge.univ-lyon1.fr/cannes-cpoa/uml,True
 https://forge.univ-lyon1.fr/cards-against-university/cau-flask,True
@@ -4683,6 +4683,7 @@ https://github.com/signaux-faibles/gournal,True
 https://github.com/signaux-faibles/keycloakUpdater,True
 https://github.com/signaux-faibles/mlr3extralearners,True
 https://github.com/signaux-faibles/opensignauxfaibles,True
+https://github.com/signaux-faibles/predictsignauxfaibles,False
 https://github.com/signaux-faibles/prepare-import,True
 https://github.com/signaux-faibles/rsignauxfaibles,True
 https://github.com/signaux-faibles/signauxfaibles-web,True
@@ -4711,6 +4712,7 @@ https://github.com/sigrennesmetropole/qgis-3liz-tools,True
 https://github.com/sigrennesmetropole/rmtr,True
 https://github.com/sigrennesmetropole/storymap,True
 https://github.com/sigrennesmetropole/sviewer,True
+https://github.com/sigrennesmetropole/sviewer-com,False
 https://github.com/sigrennesmetropole/sviewer_generator,True
 https://github.com/sigrennesmetropole/visualiseur,True
 https://github.com/sigrennesmetropole/widget-rm,True
@@ -5852,7 +5854,7 @@ https://gitlab.inria.fr/piper/misc_models,True
 https://gitlab.inria.fr/piper/viva,True
 https://gitlab.inria.fr/piy/piy,True
 https://gitlab.inria.fr/plas20/sessionintegrity,True
-https://gitlab.inria.fr/pm2/packaging,False
+https://gitlab.inria.fr/pm2/packaging,True
 https://gitlab.inria.fr/pm2/pm2,True
 https://gitlab.inria.fr/polar/polar,True
 https://gitlab.inria.fr/popstar/SAT-Equiv,True
