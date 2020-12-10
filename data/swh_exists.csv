@@ -2530,7 +2530,7 @@ https://github.com/betagouv/ludwig,True
 https://github.com/betagouv/ludwig-api,True
 https://github.com/betagouv/ludwig-ui,True
 https://github.com/betagouv/ma-cantine,False
-https://github.com/betagouv/macantine,False
+https://github.com/betagouv/macantine,True
 https://github.com/betagouv/mas,True
 https://github.com/betagouv/matomo,True
 https://github.com/betagouv/matomo-beta,True
@@ -3331,7 +3331,7 @@ https://github.com/etalab/adresses-util,True
 https://github.com/etalab/agd.data.gouv.fr,True
 https://github.com/etalab/agefiph_worker_api_entreprise,True
 https://github.com/etalab/agenda-tech-ext,True
-https://github.com/etalab/aio-proxy,False
+https://github.com/etalab/aio-proxy,True
 https://github.com/etalab/algorithmes-publics,True
 https://github.com/etalab/annuaire-entreprises.data.gouv.fr,True
 https://github.com/etalab/api-annuaire-entreprises,True
@@ -4336,6 +4336,7 @@ https://github.com/neuroanatomy/StereotaxicRAMON,True
 https://github.com/neuroanatomy/SurfaceRAMON,True
 https://github.com/neuroanatomy/autism,True
 https://github.com/neuroanatomy/bruker2nifti,True
+https://github.com/neuroanatomy/cortex,False
 https://github.com/neuroanatomy/fiind,True
 https://github.com/neuroanatomy/flattener,True
 https://github.com/neuroanatomy/foldgraph,True
@@ -4703,6 +4704,7 @@ https://github.com/sigrennesmetropole/api_rva,True
 https://github.com/sigrennesmetropole/cadastrapp,True
 https://github.com/sigrennesmetropole/cartoHoraires,True
 https://github.com/sigrennesmetropole/dual_viewer,True
+https://github.com/sigrennesmetropole/geor_plui_evolution,False
 https://github.com/sigrennesmetropole/geor_signalement,True
 https://github.com/sigrennesmetropole/geor_tabou2_backend,True
 https://github.com/sigrennesmetropole/geor_urbanisme,True
