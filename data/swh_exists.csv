@@ -2494,7 +2494,7 @@ https://github.com/betagouv/francaisaletranger,True
 https://github.com/betagouv/francaisaletranger-api,True
 https://github.com/betagouv/freescout,True
 https://github.com/betagouv/geoplus,True
-https://github.com/betagouv/glossaire,False
+https://github.com/betagouv/glossaire,True
 https://github.com/betagouv/glossary-bot,True
 https://github.com/betagouv/gps-usagers,True
 https://github.com/betagouv/grafana-scalingo,True
@@ -4689,7 +4689,7 @@ https://github.com/signaux-faibles/gournal,True
 https://github.com/signaux-faibles/keycloakUpdater,True
 https://github.com/signaux-faibles/mlr3extralearners,True
 https://github.com/signaux-faibles/opensignauxfaibles,True
-https://github.com/signaux-faibles/predictsignauxfaibles,False
+https://github.com/signaux-faibles/predictsignauxfaibles,True
 https://github.com/signaux-faibles/prepare-import,True
 https://github.com/signaux-faibles/rsignauxfaibles,True
 https://github.com/signaux-faibles/signauxfaibles-web,True
@@ -6194,7 +6194,7 @@ https://gitlabjf.ccomptes.fr/startupjf/e-controle,True
 https://gitlabjf.ccomptes.fr/startupjf/e-controle-deploy,True
 https://gitlabjf.ccomptes.fr/wikijs/wikijs,True
 https://gitub.u-bordeaux.fr/altarica/arc,True
-https://gitub.u-bordeaux.fr/altarica/ccl,False
+https://gitub.u-bordeaux.fr/altarica/ccl,True
 https://gitub.u-bordeaux.fr/erias/fideo,True
 https://gitub.u-bordeaux.fr/erias/patient-covid19,True
 https://gitub.u-bordeaux.fr/innovation/act,True
