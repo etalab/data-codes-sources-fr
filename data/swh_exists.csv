@@ -139,6 +139,7 @@ https://forgemia.inra.fr/biocom/biocom-pipe,True
 https://forgemia.inra.fr/bioger/django-custom-user,True
 https://forgemia.inra.fr/bios4biol/bioinfo-utils,True
 https://forgemia.inra.fr/bios4biol/workflows,True
+https://forgemia.inra.fr/biosys-public/rba-inrae-fr,False
 https://forgemia.inra.fr/cati-boom-public/site-officiel,True
 https://forgemia.inra.fr/chemhousebas/parafac,True
 https://forgemia.inra.fr/chemhousebas/vsn,True
@@ -348,6 +349,7 @@ https://git.unicaen.fr/open-source/sygal-import-ws,True
 https://git.unicaen.fr/pdn-certic/MaX,True
 https://git.unicaen.fr/pdn-certic/zotero-java-client,True
 https://git.unistra.fr/2017-T4-6/Project,True
+https://git.unistra.fr/20school/20schoolt3,False
 https://git.unistra.fr/AOEINT/auth-api,True
 https://git.unistra.fr/AOEINT/client,True
 https://git.unistra.fr/AOEINT/doc,True
@@ -363,6 +365,7 @@ https://git.unistra.fr/BAS18-T4-D/StrasBuilder,True
 https://git.unistra.fr/BLL17_T3_D/SedationMaPassion,True
 https://git.unistra.fr/CAMMA-public/mvor,True
 https://git.unistra.fr/ECR19-T4-D/la-succession-au-moyen-age,True
+https://git.unistra.fr/Equilibre/T432_SAB20_T3_D,False
 https://git.unistra.fr/Florian-William/a31-claguerre,True
 https://git.unistra.fr/HAJ18-T4-C/MyPrezTige,True
 https://git.unistra.fr/HPC/singularity,True
@@ -403,6 +406,8 @@ https://git.unistra.fr/W4b_Hartmann_Kieu/w4b,True
 https://git.unistra.fr/adefinir/t432_liy20_t3_h,False
 https://git.unistra.fr/algdis/algdis_public,True
 https://git.unistra.fr/arche/outils-et-services,True
+https://git.unistra.fr/barre-oblique-v2/sab20-t3-a,False
+https://git.unistra.fr/barre-oblique-v3/t432_sab20_t3_b,False
 https://git.unistra.fr/barreoblique/connectfour,True
 https://git.unistra.fr/botanique23/T4_PID_A,True
 https://git.unistra.fr/c/st,True
@@ -412,6 +417,7 @@ https://git.unistra.fr/community/io-heurist,True
 https://git.unistra.fr/community/pount-api,True
 https://git.unistra.fr/community/pount-front,True
 https://git.unistra.fr/conseils/enquete-unistra-2019,True
+https://git.unistra.fr/corona-corp-v2/t432_liy20_t3_a,False
 https://git.unistra.fr/csrd/white_paper_form,True
 https://git.unistra.fr/datachallenge/openaccessweek2019,True
 https://git.unistra.fr/deepen/corpus-reference,False
@@ -446,13 +452,16 @@ https://git.unistra.fr/konflict/mobile-app,True
 https://git.unistra.fr/konflict/serveur-central,True
 https://git.unistra.fr/l-ekip/releases,False
 https://git.unistra.fr/l-ekip/t432_voc20_t3_a,True
+https://git.unistra.fr/la-sectember/t432_sab20_t3_c,False
 https://git.unistra.fr/la-table-ronde/ecr19-t4-b,True
 https://git.unistra.fr/les-biens-renseignes/module-polynomes,True
+https://git.unistra.fr/les-canards-boiteux/projet1,False
 https://git.unistra.fr/les-quatres-cavaliers-de-l-apocalypse-et-les-deux-stagiaires/ihm-projet,False
 https://git.unistra.fr/les-sans-noms/dossiers,True
 https://git.unistra.fr/les-sans-noms/mod-le-serveur,True
 https://git.unistra.fr/les-sans-noms/react_admin_jeux,True
 https://git.unistra.fr/les-sans-noms/serveur-de-jeux-websocket-t-lechargable,True
+https://git.unistra.fr/les-triples-a/t432_voc20-t3-d,False
 https://git.unistra.fr/lo5-antony-et-florian/thegame,True
 https://git.unistra.fr/lp-komi/naojimi,True
 https://git.unistra.fr/m.a.t.h.s.-manieurs-de-l-avenir-technologique-des-humains-stup-faits/psychorientation,True
@@ -467,6 +476,7 @@ https://git.unistra.fr/p4a_zj/P4a,True
 https://git.unistra.fr/p4b-ongagna-lehmann-at3/P4a,True
 https://git.unistra.fr/p4z_sarah_yoann/P4z,True
 https://git.unistra.fr/pastore.ritzenthaler.p4a/P4a,True
+https://git.unistra.fr/peven/Coffee3D,False
 https://git.unistra.fr/phun/phun.pages.unistra.fr,True
 https://git.unistra.fr/presUni/HAJ18-T4-D,True
 https://git.unistra.fr/projet-integrateur-grp-3/frontend,True
@@ -492,11 +502,15 @@ https://git.unistra.fr/seul/LeMeilleurPresident,True
 https://git.unistra.fr/seul/P4a,True
 https://git.unistra.fr/t4-boost/t4,True
 https://git.unistra.fr/t4-the-origin/arti4,True
+https://git.unistra.fr/t432_liy20-t3-c/projet-t3,False
+https://git.unistra.fr/t432_liy20_t3_f/t31_barre_oblique_v1,False
+https://git.unistra.fr/t432_voc20_t3_x/archeologie,False
 https://git.unistra.fr/t4_workisusels/projet_t4_workisuseless,True
 https://git.unistra.fr/tallandier_haquin/a31_puissance_puissance,False
 https://git.unistra.fr/uhuit/pgmaggpl,True
 https://git.unistra.fr/uquatre/mips-invader,True
 https://git.unistra.fr/usept/sexy-polyedra-baby,True
+https://git.unistra.fr/voc20-t3-c/t3_acheo,False
 https://git.unistra.fr/vue-unistra/unistra-formbuilder,True
 https://git.unistra.fr/vue/cas-authentication,True
 https://git.unistra.fr/vue/cli-plugin-unistra,True
@@ -1032,6 +1046,9 @@ https://github.com/EDS-APHP/spark-postgres,True
 https://github.com/EDS-APHP/tag_serve,True
 https://github.com/EDS-APHP/uima-aphp,True
 https://github.com/EDS-APHP/yarn-manager,True
+https://github.com/Envinorma/arretes_ministeriels,False
+https://github.com/Envinorma/envinorma-data,False
+https://github.com/Envinorma/envinorma.github.io,False
 https://github.com/EsupPortail/CMoodle-proxy-portlet,True
 https://github.com/EsupPortail/Esup-Pod,True
 https://github.com/EsupPortail/EsupUserApps,True
@@ -1532,7 +1549,7 @@ https://github.com/InseeFrLab/sugoi-ui,True
 https://github.com/InseeFrLab/tensorflow,True
 https://github.com/InseeFrLab/ubuntu-vnc,True
 https://github.com/InseeFrLab/ubuntu-vnc-dind,True
-https://github.com/InseeFrLab/utilitR,False
+https://github.com/InseeFrLab/utilitR,True
 https://github.com/InseeFrLab/utilitR-website,False
 https://github.com/InseeFrLab/vscode-python,True
 https://github.com/Irstea/ALPFORPLOTS,True
@@ -2195,6 +2212,7 @@ https://github.com/abes-esr/item-api,True
 https://github.com/abes-esr/item-client,True
 https://github.com/abes-esr/periscope-poc-vue-js,True
 https://github.com/abes-esr/periscope-poc-vue-js-latest,False
+https://github.com/abes-esr/periscope-vue-typescript,False
 https://github.com/abes-esr/periscopePocVueJs,True
 https://github.com/abes-esr/poc-fne,True
 https://github.com/abes-esr/poc-fne-wikibase-docker,True
@@ -5095,6 +5113,7 @@ https://gitlab.huma-num.fr/cosme/telma_chartes_exports,True
 https://gitlab.huma-num.fr/cosme/telma_chartes_imports,True
 https://gitlab.huma-num.fr/disco-lge/processinglge,True
 https://gitlab.huma-num.fr/disco-lge/soprano,True
+https://gitlab.huma-num.fr/disco-lge/vue-d-ensemble,False
 https://gitlab.huma-num.fr/eurhisfirm/annuaires-favre,True
 https://gitlab.huma-num.fr/eurhisfirm/biryani,True
 https://gitlab.huma-num.fr/eurhisfirm/dfih-open-data,True
@@ -6159,7 +6178,7 @@ https://gitlab.u-psud.fr/Info111/travo,True
 https://gitlab.u-psud.fr/Info114/Data,True
 https://gitlab.u-psud.fr/Info114/sujets,True
 https://gitlab.u-psud.fr/Info122/Info122,False
-https://gitlab.u-psud.fr/Info122/Info122-sujets,False
+https://gitlab.u-psud.fr/Info122/Info122-sujets,True
 https://gitlab.u-psud.fr/MethNum/nbgrader,False
 https://gitlab.u-psud.fr/MethNum/scripts,True
 https://gitlab.u-psud.fr/SIF/sif-tools,True
