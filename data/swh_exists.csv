@@ -406,7 +406,7 @@ https://git.unistra.fr/W4b_Hartmann_Kieu/w4b,True
 https://git.unistra.fr/adefinir/t432_liy20_t3_h,False
 https://git.unistra.fr/algdis/algdis_public,True
 https://git.unistra.fr/arche/outils-et-services,True
-https://git.unistra.fr/barre-oblique-v2/sab20-t3-a,False
+https://git.unistra.fr/barre-oblique-v2/sab20-t3-a,True
 https://git.unistra.fr/barre-oblique-v3/t432_sab20_t3_b,False
 https://git.unistra.fr/barreoblique/connectfour,True
 https://git.unistra.fr/botanique23/T4_PID_A,True
@@ -423,6 +423,7 @@ https://git.unistra.fr/datachallenge/openaccessweek2019,True
 https://git.unistra.fr/deepen/corpus-reference,False
 https://git.unistra.fr/dring/dring,True
 https://git.unistra.fr/duvernay-goffic/a31-projet-puissance-4,True
+https://git.unistra.fr/e-mmigres/voc20-t3-g,False
 https://git.unistra.fr/ecr19-t4-e/hache-tag-greigns,True
 https://git.unistra.fr/enj/corpus-reference,True
 https://git.unistra.fr/filiere-d-excellence/ghc,True
@@ -456,6 +457,7 @@ https://git.unistra.fr/la-sectember/t432_sab20_t3_c,False
 https://git.unistra.fr/la-table-ronde/ecr19-t4-b,True
 https://git.unistra.fr/les-biens-renseignes/module-polynomes,True
 https://git.unistra.fr/les-canards-boiteux/projet1,False
+https://git.unistra.fr/les-champions-projet-t3/t432_liy20_t3_b,False
 https://git.unistra.fr/les-quatres-cavaliers-de-l-apocalypse-et-les-deux-stagiaires/ihm-projet,False
 https://git.unistra.fr/les-sans-noms/dossiers,True
 https://git.unistra.fr/les-sans-noms/mod-le-serveur,True
@@ -500,6 +502,7 @@ https://git.unistra.fr/scl19-t4-c/juthose,True
 https://git.unistra.fr/scl19-t4-e/t4,True
 https://git.unistra.fr/seul/LeMeilleurPresident,True
 https://git.unistra.fr/seul/P4a,True
+https://git.unistra.fr/spice-girls-ft-jerry/school-game,False
 https://git.unistra.fr/t4-boost/t4,True
 https://git.unistra.fr/t4-the-origin/arti4,True
 https://git.unistra.fr/t432_liy20-t3-c/projet-t3,False
@@ -510,6 +513,7 @@ https://git.unistra.fr/tallandier_haquin/a31_puissance_puissance,False
 https://git.unistra.fr/uhuit/pgmaggpl,True
 https://git.unistra.fr/uquatre/mips-invader,True
 https://git.unistra.fr/usept/sexy-polyedra-baby,True
+https://git.unistra.fr/visual-immeuble-2020/t432_liy20-t3-g,False
 https://git.unistra.fr/voc20-t3-c/t3_acheo,False
 https://git.unistra.fr/vue-unistra/unistra-formbuilder,True
 https://git.unistra.fr/vue/cas-authentication,True
@@ -5132,6 +5136,7 @@ https://gitlab.huma-num.fr/eurhisfirm/gleif-wikibase,True
 https://gitlab.huma-num.fr/eurhisfirm/scob-wikibase,True
 https://gitlab.huma-num.fr/eurhisfirm/test-app-saisie,True
 https://gitlab.huma-num.fr/geographie-cites/autobiopedia,True
+https://gitlab.huma-num.fr/huma-num-public/next-auth-nakala,False
 https://gitlab.huma-num.fr/irihs/NakalaTools,True
 https://gitlab.huma-num.fr/irihs/flaubertexport,True
 https://gitlab.huma-num.fr/irihs/genetictables,True
