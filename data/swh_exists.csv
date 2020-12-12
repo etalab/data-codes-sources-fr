@@ -456,7 +456,7 @@ https://git.unistra.fr/l-ekip/t432_voc20_t3_a,True
 https://git.unistra.fr/la-sectember/t432_sab20_t3_c,False
 https://git.unistra.fr/la-table-ronde/ecr19-t4-b,True
 https://git.unistra.fr/les-biens-renseignes/module-polynomes,True
-https://git.unistra.fr/les-canards-boiteux/projet1,False
+https://git.unistra.fr/les-canards-boiteux/projet1,True
 https://git.unistra.fr/les-champions-projet-t3/t432_liy20_t3_b,False
 https://git.unistra.fr/les-quatres-cavaliers-de-l-apocalypse-et-les-deux-stagiaires/ihm-projet,False
 https://git.unistra.fr/les-sans-noms/dossiers,True
@@ -484,6 +484,7 @@ https://git.unistra.fr/presUni/HAJ18-T4-D,True
 https://git.unistra.fr/projet-integrateur-grp-3/frontend,True
 https://git.unistra.fr/pub/SupportPortal-aid,True
 https://git.unistra.fr/pub/revealjs-generator,True
+https://git.unistra.fr/rivelinelab/imagej-polyline-kymograph,True
 https://git.unistra.fr/ruizfabo/methal-sources,True
 https://git.unistra.fr/s2/a21,False
 https://git.unistra.fr/s2/a21-d21-mini-projet,True
@@ -1554,7 +1555,7 @@ https://github.com/InseeFrLab/tensorflow,True
 https://github.com/InseeFrLab/ubuntu-vnc,True
 https://github.com/InseeFrLab/ubuntu-vnc-dind,True
 https://github.com/InseeFrLab/utilitR,True
-https://github.com/InseeFrLab/utilitR-website,False
+https://github.com/InseeFrLab/utilitR-website,True
 https://github.com/InseeFrLab/vscode-python,True
 https://github.com/Irstea/ALPFORPLOTS,True
 https://github.com/Irstea/Redmine-mod-perl-auth,True
@@ -3830,7 +3831,7 @@ https://github.com/istex/istex-exchange,True
 https://github.com/istex/istex-google-scholar,True
 https://github.com/istex/istex-header,True
 https://github.com/istex/istex-installer,True
-https://github.com/istex/istex-jobs,False
+https://github.com/istex/istex-jobs,True
 https://github.com/istex/istex-lodex-data,True
 https://github.com/istex/istex-nerd,True
 https://github.com/istex/istex-qid-ttl,True
@@ -6200,7 +6201,7 @@ https://gitlab.u-psud.fr/talend/tld_crm,True
 https://gitlab.u-psud.fr/talend/tld_ec,True
 https://gitlab.u-psud.fr/talend/tld_helico,True
 https://gitlab.u-psud.fr/talend/tld_izly,True
-https://gitlab.u-psud.fr/talend/tld_koha,False
+https://gitlab.u-psud.fr/talend/tld_koha,True
 https://gitlab.u-psud.fr/talend/tld_rof,True
 https://gitlab.u-psud.fr/talend/tld_snw,True
 https://gitlab.u-psud.fr/ter-graphupsud/algorithme_des_plus-courts_chemins_en_cpp,True
