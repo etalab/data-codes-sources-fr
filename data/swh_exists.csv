@@ -139,7 +139,7 @@ https://forgemia.inra.fr/biocom/biocom-pipe,True
 https://forgemia.inra.fr/bioger/django-custom-user,True
 https://forgemia.inra.fr/bios4biol/bioinfo-utils,True
 https://forgemia.inra.fr/bios4biol/workflows,True
-https://forgemia.inra.fr/biosys-public/rba-inrae-fr,False
+https://forgemia.inra.fr/biosys-public/rba-inrae-fr,True
 https://forgemia.inra.fr/cati-boom-public/site-officiel,True
 https://forgemia.inra.fr/chemhousebas/parafac,True
 https://forgemia.inra.fr/chemhousebas/vsn,True
@@ -417,7 +417,7 @@ https://git.unistra.fr/community/io-heurist,True
 https://git.unistra.fr/community/pount-api,True
 https://git.unistra.fr/community/pount-front,True
 https://git.unistra.fr/conseils/enquete-unistra-2019,True
-https://git.unistra.fr/corona-corp-v2/t432_liy20_t3_a,False
+https://git.unistra.fr/corona-corp-v2/t432_liy20_t3_a,True
 https://git.unistra.fr/csrd/white_paper_form,True
 https://git.unistra.fr/datachallenge/openaccessweek2019,True
 https://git.unistra.fr/deepen/corpus-reference,False
@@ -510,7 +510,7 @@ https://git.unistra.fr/t432_liy20-t3-c/projet-t3,False
 https://git.unistra.fr/t432_liy20_t3_f/t31_barre_oblique_v1,False
 https://git.unistra.fr/t432_voc20_t3_x/archeologie,False
 https://git.unistra.fr/t4_workisusels/projet_t4_workisuseless,True
-https://git.unistra.fr/tallandier_haquin/a31_puissance_puissance,False
+https://git.unistra.fr/tallandier_haquin/a31_puissance_puissance,True
 https://git.unistra.fr/uhuit/pgmaggpl,True
 https://git.unistra.fr/uquatre/mips-invader,True
 https://git.unistra.fr/usept/sexy-polyedra-baby,True
@@ -3790,7 +3790,7 @@ https://github.com/indsante/dico-snds-creation-archive,True
 https://github.com/indsante/schema-snds,True
 https://github.com/indsante/synthetic-snds,True
 https://github.com/inrae/BedloadR,True
-https://github.com/inrae/Formation_Python,False
+https://github.com/inrae/Formation_Python,True
 https://github.com/inrae/GR3D,True
 https://github.com/inrae/Matrix_lib-v2.0,True
 https://github.com/inrae/ODAM,True
