@@ -3772,6 +3772,7 @@ https://github.com/ina-foss/amalia-model,True
 https://github.com/ina-foss/amalia-php,True
 https://github.com/ina-foss/amalia-tools,True
 https://github.com/ina-foss/amalia.js,True
+https://github.com/ina-foss/co-occurring_faces_in_tv,False
 https://github.com/ina-foss/inaFaceGender,True
 https://github.com/ina-foss/inaSpeechSegmenter,True
 https://github.com/ina-foss/louvain-news-clustering,True
@@ -4350,6 +4351,7 @@ https://github.com/nanterre/opendata,True
 https://github.com/nantesmetropole/LibreOfficeNow,True
 https://github.com/nantesmetropole/docker-debian,True
 https://github.com/nantesmetropole/docker-paas,True
+https://github.com/nantesmetropole/school_meal_forecast_xgboost,False
 https://github.com/neuroanatomy/34primates,True
 https://github.com/neuroanatomy/BrainBox,True
 https://github.com/neuroanatomy/Cerebellum,True
@@ -4737,6 +4739,7 @@ https://github.com/sigrennesmetropole/dual_viewer,True
 https://github.com/sigrennesmetropole/geor_plui_evolution,True
 https://github.com/sigrennesmetropole/geor_signalement,True
 https://github.com/sigrennesmetropole/geor_tabou2_backend,True
+https://github.com/sigrennesmetropole/geor_tabou2_front,False
 https://github.com/sigrennesmetropole/geor_urbanisme,True
 https://github.com/sigrennesmetropole/geor_urbanisme_mapstore,True
 https://github.com/sigrennesmetropole/geoserver_sld,True
@@ -5079,6 +5082,7 @@ https://gitlab.com/dreal-datalab/si_eau_pesticides,True
 https://gitlab.com/dreal-datalab/zonages-habitat,True
 https://gitlab.com/france-mobilites/documents-marches-publics,True
 https://gitlab.com/hatvp-open/agora,True
+https://gitlab.com/healthdatahub/dataviz_tableau-de-bord,False
 https://gitlab.com/healthdatahub/dico-snds,True
 https://gitlab.com/healthdatahub/dico-snds-creation-archive,True
 https://gitlab.com/healthdatahub/documentation-snds,True
@@ -6189,7 +6193,7 @@ https://gitlab.u-psud.fr/Info111/outbound,True
 https://gitlab.u-psud.fr/Info111/travo,True
 https://gitlab.u-psud.fr/Info114/Data,True
 https://gitlab.u-psud.fr/Info114/sujets,True
-https://gitlab.u-psud.fr/Info122/Info122,False
+https://gitlab.u-psud.fr/Info122/Info122,True
 https://gitlab.u-psud.fr/Info122/Info122-sujets,True
 https://gitlab.u-psud.fr/MethNum/nbgrader,True
 https://gitlab.u-psud.fr/MethNum/scripts,True
