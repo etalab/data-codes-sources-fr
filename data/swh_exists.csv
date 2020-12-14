@@ -68,6 +68,7 @@ https://forge.univ-lyon1.fr/aml-lyon1/actionrobot,True
 https://forge.univ-lyon1.fr/aml-lyon1/campusdulibre,True
 https://forge.univ-lyon1.fr/bd-pedago/bd-pedago,True
 https://forge.univ-lyon1.fr/cannes-cpoa/accommodation-management,True
+https://forge.univ-lyon1.fr/cannes-cpoa/ihm,True
 https://forge.univ-lyon1.fr/cannes-cpoa/ihm-agenda,True
 https://forge.univ-lyon1.fr/cannes-cpoa/projection-planning,True
 https://forge.univ-lyon1.fr/cannes-cpoa/uml,True
@@ -1531,6 +1532,7 @@ https://github.com/InseeFrLab/grandedim,True
 https://github.com/InseeFrLab/helm-charts,True
 https://github.com/InseeFrLab/helm-charts-datascience,True
 https://github.com/InseeFrLab/helm-charts-trainings,True
+https://github.com/InseeFrLab/inseeLocalData,False
 https://github.com/InseeFrLab/java-vtl,True
 https://github.com/InseeFrLab/java-vtl-connectors,True
 https://github.com/InseeFrLab/java-vtl-tools,True
@@ -1856,6 +1858,7 @@ https://github.com/PnX-SI/GeoNature,True
 https://github.com/PnX-SI/GeoNature-R-package,True
 https://github.com/PnX-SI/GeoNature-atlas,True
 https://github.com/PnX-SI/GeoNature-citizen,True
+https://github.com/PnX-SI/GeoNature-docker,True
 https://github.com/PnX-SI/GeoNature-packaging,True
 https://github.com/PnX-SI/GeoPaysages,True
 https://github.com/PnX-SI/Habref-api-module,True
@@ -2211,6 +2214,7 @@ https://github.com/abes-esr/algoliens-web,True
 https://github.com/abes-esr/archi-htmlreport-docker,True
 https://github.com/abes-esr/archi-model-example,True
 https://github.com/abes-esr/ezmaster-globs,True
+https://github.com/abes-esr/fne-back,False
 https://github.com/abes-esr/fne-batch,True
 https://github.com/abes-esr/idref-api,True
 https://github.com/abes-esr/item-api,True
@@ -4269,6 +4273,7 @@ https://github.com/metwork-framework/enumerate-markdown,True
 https://github.com/metwork-framework/envtpl,True
 https://github.com/metwork-framework/external_sources,True
 https://github.com/metwork-framework/generate_changelogs,True
+https://github.com/metwork-framework/git_history_to_changelog,False
 https://github.com/metwork-framework/github_copy_integration_branch,True
 https://github.com/metwork-framework/github_force_common_files,True
 https://github.com/metwork-framework/github_organization_dashboard,True
@@ -4517,6 +4522,7 @@ https://github.com/openfun/django-wiki,True
 https://github.com/openfun/dmcloud,True
 https://github.com/openfun/dmcloud-migrate,True
 https://github.com/openfun/dmotion-xblock,True
+https://github.com/openfun/dockerfiles,False
 https://github.com/openfun/ecommerce,True
 https://github.com/openfun/edx-analytics-dashboard,True
 https://github.com/openfun/edx-gea,True
