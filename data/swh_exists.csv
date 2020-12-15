@@ -16,6 +16,7 @@ https://dci-gitlab.cines.fr/dad/vitam-rest-api,True
 https://dci-gitlab.cines.fr/dad/vitam-ui-cea_app_referential_pr1,True
 https://dci-gitlab.cines.fr/dad/vitam-ui-develop,True
 https://dci-gitlab.cines.fr/dad/vitamui-cines-pastis-old,True
+https://dci-gitlab.cines.fr/dad/vitamui-pr-pastis,False
 https://dev.ch-poitiers.fr/PowerShell/OutilsServeurs,True
 https://dev.ch-poitiers.fr/PowerShell/PagesVertes,True
 https://dev.ch-poitiers.fr/debian/buster-sources,True
@@ -131,6 +132,8 @@ https://forgemia.inra.fr/GNet/einkorn_grain_transcriptome,True
 https://forgemia.inra.fr/GNet/pipelineoge,True
 https://forgemia.inra.fr/QTL/spell-qtl,True
 https://forgemia.inra.fr/adminforgemia/doc-public,True
+https://forgemia.inra.fr/agriterix/doc,False
+https://forgemia.inra.fr/agriterix/simulator,False
 https://forgemia.inra.fr/baric/family-companion,True
 https://forgemia.inra.fr/bibliome/alvisae-anaee,True
 https://forgemia.inra.fr/bibliome/bionlp-st-py,True
@@ -465,7 +468,7 @@ https://git.unistra.fr/les-sans-noms/dossiers,True
 https://git.unistra.fr/les-sans-noms/mod-le-serveur,True
 https://git.unistra.fr/les-sans-noms/react_admin_jeux,True
 https://git.unistra.fr/les-sans-noms/serveur-de-jeux-websocket-t-lechargable,True
-https://git.unistra.fr/les-triples-a/t432_voc20-t3-d,False
+https://git.unistra.fr/les-triples-a/t432_voc20-t3-d,True
 https://git.unistra.fr/lo5-antony-et-florian/thegame,True
 https://git.unistra.fr/lp-komi/naojimi,True
 https://git.unistra.fr/m.a.t.h.s.-manieurs-de-l-avenir-technologique-des-humains-stup-faits/psychorientation,True
@@ -483,6 +486,7 @@ https://git.unistra.fr/pastore.ritzenthaler.p4a/P4a,True
 https://git.unistra.fr/peven/Coffee3D,True
 https://git.unistra.fr/phun/phun.pages.unistra.fr,True
 https://git.unistra.fr/presUni/HAJ18-T4-D,True
+https://git.unistra.fr/projet-a31-connect4/connect4,False
 https://git.unistra.fr/projet-integrateur-grp-3/frontend,True
 https://git.unistra.fr/pub/SupportPortal-aid,True
 https://git.unistra.fr/pub/revealjs-generator,True
@@ -755,6 +759,7 @@ https://github.com/BibCnrs/docker-wordpress,True
 https://github.com/BibCnrs/wp-EBSCO-widget,True
 https://github.com/CCSDForge/CcsdCommon,True
 https://github.com/CCSDForge/Convert,True
+https://github.com/CCSDForge/Episciences,False
 https://github.com/CCSDForge/Episciences.org,True
 https://github.com/CCSDForge/FinHal,True
 https://github.com/CCSDForge/HAL,True
@@ -3737,6 +3742,7 @@ https://github.com/gemoc/monilog,True
 https://github.com/gemoc/org.eclipse.sirius,True
 https://github.com/gemoc/petrinet,True
 https://github.com/gemoc/plastic,True
+https://github.com/gemoc/xCapella,True
 https://github.com/genotoul-bioinfo/WorkflowFrameworkComparison,True
 https://github.com/genotoul-bioinfo/configs,True
 https://github.com/genotoul-bioinfo/dgenies,True
@@ -4352,7 +4358,7 @@ https://github.com/nanterre/opendata,True
 https://github.com/nantesmetropole/LibreOfficeNow,True
 https://github.com/nantesmetropole/docker-debian,True
 https://github.com/nantesmetropole/docker-paas,True
-https://github.com/nantesmetropole/school_meal_forecast_xgboost,False
+https://github.com/nantesmetropole/school_meal_forecast_xgboost,True
 https://github.com/neuroanatomy/34primates,True
 https://github.com/neuroanatomy/BrainBox,True
 https://github.com/neuroanatomy/Cerebellum,True
@@ -5129,7 +5135,7 @@ https://gitlab.huma-num.fr/cosme/telma_chartes_exports,True
 https://gitlab.huma-num.fr/cosme/telma_chartes_imports,True
 https://gitlab.huma-num.fr/disco-lge/processinglge,True
 https://gitlab.huma-num.fr/disco-lge/soprano,True
-https://gitlab.huma-num.fr/disco-lge/vue-d-ensemble,False
+https://gitlab.huma-num.fr/disco-lge/vue-d-ensemble,True
 https://gitlab.huma-num.fr/eurhisfirm/annuaires-favre,True
 https://gitlab.huma-num.fr/eurhisfirm/biryani,True
 https://gitlab.huma-num.fr/eurhisfirm/dfih-open-data,True
@@ -5671,6 +5677,7 @@ https://gitlab.inria.fr/grew/SUD,True
 https://gitlab.inria.fr/grew/UDtoAUD,True
 https://gitlab.inria.fr/grew/examples,True
 https://gitlab.inria.fr/grew/grew,True
+https://gitlab.inria.fr/grew/grew_back,False
 https://gitlab.inria.fr/grew/grew_daemon,True
 https://gitlab.inria.fr/grew/grew_demo,False
 https://gitlab.inria.fr/grew/grew_doc,True
@@ -5872,7 +5879,7 @@ https://gitlab.inria.fr/openvibe/extras,True
 https://gitlab.inria.fr/openvibe/games,True
 https://gitlab.inria.fr/openvibe/meta,True
 https://gitlab.inria.fr/openvibe/sdk,True
-https://gitlab.inria.fr/openwind/openwind,False
+https://gitlab.inria.fr/openwind/openwind,True
 https://gitlab.inria.fr/openwind/release,True
 https://gitlab.inria.fr/optimdbs/optimdbs-medinria,True
 https://gitlab.inria.fr/optimdbs/optimdbs-superproject,True
@@ -5899,6 +5906,7 @@ https://gitlab.inria.fr/piper/misc_models,True
 https://gitlab.inria.fr/piper/viva,True
 https://gitlab.inria.fr/piy/piy,True
 https://gitlab.inria.fr/plas20/sessionintegrity,True
+https://gitlab.inria.fr/pm2/benchmark,False
 https://gitlab.inria.fr/pm2/packaging,True
 https://gitlab.inria.fr/pm2/pm2,True
 https://gitlab.inria.fr/polar/polar,True
@@ -5911,6 +5919,7 @@ https://gitlab.inria.fr/pvignet/pycryptosat,True
 https://gitlab.inria.fr/pycomodo/pycomodo,True
 https://gitlab.inria.fr/qparse/qparselib,True
 https://gitlab.inria.fr/rainbow-intervals/ros_interval,True
+https://gitlab.inria.fr/realopt/TemporalKnapsack,False
 https://gitlab.inria.fr/reo/transport-in-1d-networks,True
 https://gitlab.inria.fr/rmod-public/2019-sourcecodedata,True
 https://gitlab.inria.fr/runaway/mixup,True
