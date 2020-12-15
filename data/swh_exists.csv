@@ -454,8 +454,9 @@ https://git.unistra.fr/konflict/mobile-app,True
 https://git.unistra.fr/konflict/serveur-central,True
 https://git.unistra.fr/l-ekip/releases,True
 https://git.unistra.fr/l-ekip/t432_voc20_t3_a,True
-https://git.unistra.fr/la-sectember/t432_sab20_t3_c,False
+https://git.unistra.fr/la-sectember/t432_sab20_t3_c,True
 https://git.unistra.fr/la-table-ronde/ecr19-t4-b,True
+https://git.unistra.fr/les-biens-renseignes/asm_sim,False
 https://git.unistra.fr/les-biens-renseignes/module-polynomes,True
 https://git.unistra.fr/les-canards-boiteux/projet1,True
 https://git.unistra.fr/les-champions-projet-t3/t432_liy20_t3_b,True
@@ -3772,7 +3773,7 @@ https://github.com/ina-foss/amalia-model,True
 https://github.com/ina-foss/amalia-php,True
 https://github.com/ina-foss/amalia-tools,True
 https://github.com/ina-foss/amalia.js,True
-https://github.com/ina-foss/co-occurring_faces_in_tv,False
+https://github.com/ina-foss/co-occurring_faces_in_tv,True
 https://github.com/ina-foss/inaFaceGender,True
 https://github.com/ina-foss/inaSpeechSegmenter,True
 https://github.com/ina-foss/louvain-news-clustering,True
@@ -4274,7 +4275,7 @@ https://github.com/metwork-framework/enumerate-markdown,True
 https://github.com/metwork-framework/envtpl,True
 https://github.com/metwork-framework/external_sources,True
 https://github.com/metwork-framework/generate_changelogs,True
-https://github.com/metwork-framework/git_history_to_changelog,False
+https://github.com/metwork-framework/git_history_to_changelog,True
 https://github.com/metwork-framework/github_copy_integration_branch,True
 https://github.com/metwork-framework/github_force_common_files,True
 https://github.com/metwork-framework/github_organization_dashboard,True
