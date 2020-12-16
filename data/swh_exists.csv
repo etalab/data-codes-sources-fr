@@ -512,7 +512,7 @@ https://git.unistra.fr/seul/P4a,True
 https://git.unistra.fr/spice-girls-ft-jerry/school-game,True
 https://git.unistra.fr/t4-boost/t4,True
 https://git.unistra.fr/t4-the-origin/arti4,True
-https://git.unistra.fr/t432_liy20-t3-c/projet-t3,False
+https://git.unistra.fr/t432_liy20-t3-c/projet-t3,True
 https://git.unistra.fr/t432_liy20_t3_f/t31_barre_oblique_v1,True
 https://git.unistra.fr/t432_voc20_t3_x/archeologie,False
 https://git.unistra.fr/t4_workisusels/projet_t4_workisuseless,True
@@ -759,7 +759,7 @@ https://github.com/BibCnrs/docker-wordpress,True
 https://github.com/BibCnrs/wp-EBSCO-widget,True
 https://github.com/CCSDForge/CcsdCommon,True
 https://github.com/CCSDForge/Convert,True
-https://github.com/CCSDForge/Episciences,False
+https://github.com/CCSDForge/Episciences,True
 https://github.com/CCSDForge/Episciences.org,True
 https://github.com/CCSDForge/FinHal,True
 https://github.com/CCSDForge/HAL,True
@@ -2220,7 +2220,7 @@ https://github.com/abes-esr/algoliens-web,True
 https://github.com/abes-esr/archi-htmlreport-docker,True
 https://github.com/abes-esr/archi-model-example,True
 https://github.com/abes-esr/ezmaster-globs,True
-https://github.com/abes-esr/fne-back,False
+https://github.com/abes-esr/fne-back,True
 https://github.com/abes-esr/fne-batch,True
 https://github.com/abes-esr/idref-api,True
 https://github.com/abes-esr/item-api,True
@@ -4122,6 +4122,7 @@ https://github.com/medialab/hyphe_openstack_client,True
 https://github.com/medialab/iat-data-exporter,True
 https://github.com/medialab/iat-exporter,True
 https://github.com/medialab/iat.js,True
+https://github.com/medialab/image_processing,False
 https://github.com/medialab/ipinion-rank,True
 https://github.com/medialab/iwanthue,True
 https://github.com/medialab/kaa,True
@@ -5685,6 +5686,7 @@ https://gitlab.inria.fr/grew/grew_gui,True
 https://gitlab.inria.fr/grew/grew_match,True
 https://gitlab.inria.fr/grew/grew_parse,True
 https://gitlab.inria.fr/grew/grew_server,True
+https://gitlab.inria.fr/grew/grew_web,False
 https://gitlab.inria.fr/grew/libcaml-grew,True
 https://gitlab.inria.fr/grew/python,True
 https://gitlab.inria.fr/grid5000/ai_tutorial,True
@@ -5778,6 +5780,7 @@ https://gitlab.inria.fr/magnet/anonymization_metrics,True
 https://gitlab.inria.fr/magnet/gdn-lib,True
 https://gitlab.inria.fr/magnet/mangoes,True
 https://gitlab.inria.fr/magnet/nada,True
+https://gitlab.inria.fr/magnet/wordnet-embeddings,False
 https://gitlab.inria.fr/mastertal/UE803,True
 https://gitlab.inria.fr/mastertal/discourse-parsing,True
 https://gitlab.inria.fr/matherials/simol,True
