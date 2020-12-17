@@ -132,7 +132,7 @@ https://forgemia.inra.fr/GNet/einkorn_grain_transcriptome,True
 https://forgemia.inra.fr/GNet/pipelineoge,True
 https://forgemia.inra.fr/QTL/spell-qtl,True
 https://forgemia.inra.fr/adminforgemia/doc-public,True
-https://forgemia.inra.fr/agriterix/doc,False
+https://forgemia.inra.fr/agriterix/doc,True
 https://forgemia.inra.fr/agriterix/simulator,False
 https://forgemia.inra.fr/baric/family-companion,True
 https://forgemia.inra.fr/bibliome/alvisae-anaee,True
@@ -579,6 +579,7 @@ https://github.com/1024pix/sandbox-matomo,True
 https://github.com/1024pix/scalingo-app-manager,True
 https://github.com/1024pix/scalingo-app-switch,True
 https://github.com/1024pix/scalingo-review-app-manager,True
+https://github.com/1024pix/shlink-buildpack,False
 https://github.com/1024pix/subdir-buildpack,True
 https://github.com/1024pix/test-deploy-from-slack,True
 https://github.com/1024pix/third-services-quota-manager,True
@@ -5923,7 +5924,7 @@ https://gitlab.inria.fr/pvignet/pycryptosat,True
 https://gitlab.inria.fr/pycomodo/pycomodo,True
 https://gitlab.inria.fr/qparse/qparselib,True
 https://gitlab.inria.fr/rainbow-intervals/ros_interval,True
-https://gitlab.inria.fr/realopt/TemporalKnapsack,False
+https://gitlab.inria.fr/realopt/TemporalKnapsack,True
 https://gitlab.inria.fr/reo/transport-in-1d-networks,True
 https://gitlab.inria.fr/rmod-public/2019-sourcecodedata,True
 https://gitlab.inria.fr/runaway/mixup,True
