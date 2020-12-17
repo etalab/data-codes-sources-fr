@@ -133,7 +133,7 @@ https://forgemia.inra.fr/GNet/pipelineoge,True
 https://forgemia.inra.fr/QTL/spell-qtl,True
 https://forgemia.inra.fr/adminforgemia/doc-public,True
 https://forgemia.inra.fr/agriterix/doc,True
-https://forgemia.inra.fr/agriterix/simulator,False
+https://forgemia.inra.fr/agriterix/simulator,True
 https://forgemia.inra.fr/baric/family-companion,True
 https://forgemia.inra.fr/bibliome/alvisae-anaee,True
 https://forgemia.inra.fr/bibliome/bionlp-st-py,True
@@ -1962,6 +1962,7 @@ https://github.com/SimPLU3D/simplu3D-rules,True
 https://github.com/SimPLU3D/simplu3D-tutorial,True
 https://github.com/SimPLU3D/simplu3D-workflow,True
 https://github.com/SimPLU3D/simplushp2pgsql,True
+https://github.com/SocialGouv/.github,False
 https://github.com/SocialGouv/SocialGouvUi,True
 https://github.com/SocialGouv/TextStyle,True
 https://github.com/SocialGouv/TextStyle-script,True
@@ -2228,7 +2229,7 @@ https://github.com/abes-esr/item-api,True
 https://github.com/abes-esr/item-client,True
 https://github.com/abes-esr/periscope-poc-vue-js,True
 https://github.com/abes-esr/periscope-poc-vue-js-latest,False
-https://github.com/abes-esr/periscope-vue-typescript,False
+https://github.com/abes-esr/periscope-vue-typescript,True
 https://github.com/abes-esr/periscopePocVueJs,True
 https://github.com/abes-esr/poc-fne,True
 https://github.com/abes-esr/poc-fne-wikibase-docker,True
@@ -5687,7 +5688,7 @@ https://gitlab.inria.fr/grew/grew_gui,True
 https://gitlab.inria.fr/grew/grew_match,True
 https://gitlab.inria.fr/grew/grew_parse,True
 https://gitlab.inria.fr/grew/grew_server,True
-https://gitlab.inria.fr/grew/grew_web,False
+https://gitlab.inria.fr/grew/grew_web,True
 https://gitlab.inria.fr/grew/libcaml-grew,True
 https://gitlab.inria.fr/grew/python,True
 https://gitlab.inria.fr/grid5000/ai_tutorial,True
@@ -6247,6 +6248,7 @@ https://gitlabjf.ccomptes.fr/startupjf/e-controle-deploy,True
 https://gitlabjf.ccomptes.fr/wikijs/wikijs,True
 https://gitub.u-bordeaux.fr/altarica/arc,True
 https://gitub.u-bordeaux.fr/altarica/ccl,True
+https://gitub.u-bordeaux.fr/dev-celia/tango-controls-notes,False
 https://gitub.u-bordeaux.fr/erias/fideo,True
 https://gitub.u-bordeaux.fr/erias/patient-covid19,True
 https://gitub.u-bordeaux.fr/innovation/act,True
