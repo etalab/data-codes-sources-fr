@@ -5292,7 +5292,7 @@ https://gitlab.com/fabnum-minarm/e-chauffeur/navette,False
 https://gitlab.com/fabnum-minarm/e-chauffeur/user,False
 https://gitlab.com/fabnum-minarm/igloo/docker-images,False
 https://gitlab.com/fabnum-minarm/igloo/docs,False
-https://gitlab.com/fabnum-minarm/igloo/gitlab-templates,False
+https://gitlab.com/fabnum-minarm/igloo/gitlab-templates,True
 https://gitlab.com/fabnum-minarm/igloo/helm-charts,False
 https://gitlab.com/fabnum-minarm/igloo/terraform/main,False
 https://gitlab.com/fabnum-minarm/igloo/terraform/modules/add-runner,False
@@ -6095,7 +6095,7 @@ https://gitlab.inria.fr/gazelle/library/fhir-util,False
 https://gitlab.inria.fr/gazelle/library/gazelle-assertion-coverage-provider,False
 https://gitlab.inria.fr/gazelle/library/gazelle-assets,False
 https://gitlab.inria.fr/gazelle/library/home,False
-https://gitlab.inria.fr/gazelle/library/hql,False
+https://gitlab.inria.fr/gazelle/library/hql,True
 https://gitlab.inria.fr/gazelle/library/preference,False
 https://gitlab.inria.fr/gazelle/library/tool,False
 https://gitlab.inria.fr/gazelle/library/ui-service,False
@@ -6106,7 +6106,7 @@ https://gitlab.inria.fr/gazelle/model-api/messaging-model,False
 https://gitlab.inria.fr/gazelle/model-api/search,False
 https://gitlab.inria.fr/gazelle/model-api/standard-block-api,False
 https://gitlab.inria.fr/gazelle/model-api/validation-model,False
-https://gitlab.inria.fr/gazelle/specific-tools/connectivity-test-scripts,False
+https://gitlab.inria.fr/gazelle/specific-tools/connectivity-test-scripts,True
 https://gitlab.inria.fr/gazelle/specific-tools/epr/adr-provider,False
 https://gitlab.inria.fr/gazelle/specific-tools/epr/assertion-provider,False
 https://gitlab.inria.fr/gazelle/specific-tools/epr/atc-repository,False
