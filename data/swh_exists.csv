@@ -61,8 +61,8 @@ https://forge.grandlyon.com/laclasse/wordpress-theme-laclasse,True
 https://forge.grandlyon.com/pocs/__trash__introduction-au-langage-python-2,False
 https://forge.grandlyon.com/pocs/cozy/cozy-oauth-proxy,False
 https://forge.grandlyon.com/pocs/cozy/easy-cozy,False
-https://forge.grandlyon.com/pocs/cozy/egl-api-connector,False
-https://forge.grandlyon.com/pocs/cozy/enedis-scraping-connector,False
+https://forge.grandlyon.com/pocs/cozy/egl-api-connector,True
+https://forge.grandlyon.com/pocs/cozy/enedis-scraping-connector,True
 https://forge.grandlyon.com/pocs/cozy/energy-dataviz,False
 https://forge.grandlyon.com/pocs/cozy/grdf-scraping-connector,False
 https://forge.grandlyon.com/pocs/dpetit/api-cartographie,False
@@ -179,7 +179,7 @@ https://forgemia.inra.fr/QTL/spell-qtl,True
 https://forgemia.inra.fr/adminforgemia/doc-public,True
 https://forgemia.inra.fr/agriterix/doc,True
 https://forgemia.inra.fr/agriterix/simulator,True
-https://forgemia.inra.fr/agroecoperenne/scripting/python-module,False
+https://forgemia.inra.fr/agroecoperenne/scripting/python-module,True
 https://forgemia.inra.fr/baric/family-companion,True
 https://forgemia.inra.fr/bibliome/alvisae-anaee,True
 https://forgemia.inra.fr/bibliome/bionlp-st-py,True
@@ -5195,7 +5195,7 @@ https://gitlab.adullact.net/directmairie/puppet-directmairie,True
 https://gitlab.adullact.net/e-carre/e-carre-particuliers,True
 https://gitlab.adullact.net/gip-recia-snc/public/autoit/pnm-audit-desktop,False
 https://gitlab.adullact.net/gip-recia-snc/public/autoit/pnm-teamviewer-installer,False
-https://gitlab.adullact.net/gip-recia-snc/public/docker/debian-systemd,False
+https://gitlab.adullact.net/gip-recia-snc/public/docker/debian-systemd,True
 https://gitlab.adullact.net/gip-recia-snc/public/docker/fedora-systemd,True
 https://gitlab.adullact.net/gip-recia-snc/public/docker/teampasswordmanager,False
 https://gitlab.adullact.net/gip-recia-snc/public/odoo/odoo-time-tracker,False
@@ -5302,7 +5302,7 @@ https://gitlab.com/fabnum-minarm/igloo/terraform/projects/_template,False
 https://gitlab.com/fabnum-minarm/igloo/terraform/projects/alpps,False
 https://gitlab.com/fabnum-minarm/igloo/terraform/projects/anais,False
 https://gitlab.com/fabnum-minarm/metiis/backend,False
-https://gitlab.com/fabnum-minarm/metiis/frontend,False
+https://gitlab.com/fabnum-minarm/metiis/frontend,True
 https://gitlab.com/fabnum-minarm/stargate/backend,False
 https://gitlab.com/fabnum-minarm/stargate/frontend,False
 https://gitlab.com/fabnum-minarm/stargate/stargate,False
@@ -5889,7 +5889,7 @@ https://gitlab.inria.fr/crowdguard-public/data/taxonomy-skillproject,False
 https://gitlab.inria.fr/crowdguard-public/data/workers-stackoverflow,True
 https://gitlab.inria.fr/crowdguard-public/deliverables/final,False
 https://gitlab.inria.fr/crowdguard-public/implems/pkd-demo,False
-https://gitlab.inria.fr/crowdguard-public/implems/pkd-simul,False
+https://gitlab.inria.fr/crowdguard-public/implems/pkd-simul,True
 https://gitlab.inria.fr/crv14/benchmarks,True
 https://gitlab.inria.fr/crv14/evaluation,True
 https://gitlab.inria.fr/ct/gallery,True
@@ -6027,7 +6027,7 @@ https://gitlab.inria.fr/expression/expression-externals/eigen,False
 https://gitlab.inria.fr/expression/expression-externals/kenlm,True
 https://gitlab.inria.fr/expression/expression-externals/libxml2,True
 https://gitlab.inria.fr/expression/expression-externals/mitlm,False
-https://gitlab.inria.fr/expression/expression-externals/old_icu,False
+https://gitlab.inria.fr/expression/expression-externals/old_icu,True
 https://gitlab.inria.fr/expression/tools/FlexEval,True
 https://gitlab.inria.fr/expression/tools/roots,True
 https://gitlab.inria.fr/faustgrp/gforge_files,True
@@ -6121,7 +6121,7 @@ https://gitlab.inria.fr/gazelle/specific-tools/epr/xdstools,False
 https://gitlab.inria.fr/gazelle/specific-tools/sequoia/acp,False
 https://gitlab.inria.fr/gazelle/standard-blocks/iua-standard-blocks,False
 https://gitlab.inria.fr/gazelle/test-content/fhir-conformance-resources,False
-https://gitlab.inria.fr/gazelle/test-content/gazelle-hl7v2-validator-resources,False
+https://gitlab.inria.fr/gazelle/test-content/gazelle-hl7v2-validator-resources,True
 https://gitlab.inria.fr/gazelle/test-content/hl7-conformance-profiles,False
 https://gitlab.inria.fr/gazelle/test-content/pdqm-samples,False
 https://gitlab.inria.fr/gazelle/validator/FhirValidator,False
@@ -6853,7 +6853,7 @@ https://gitlab.u-psud.fr/Info122/Info122,True
 https://gitlab.u-psud.fr/Info122/Info122-sujets,True
 https://gitlab.u-psud.fr/MethNum/nbgrader,True
 https://gitlab.u-psud.fr/MethNum/scripts,True
-https://gitlab.u-psud.fr/SIF/Seance1,False
+https://gitlab.u-psud.fr/SIF/Seance1,True
 https://gitlab.u-psud.fr/SIF/sif-tools,True
 https://gitlab.u-psud.fr/egp/ile-interdite,True
 https://gitlab.u-psud.fr/galac/hceres,True
@@ -6893,7 +6893,7 @@ https://gitlabjf.ccomptes.fr/startupjf/e-controle-deploy,True
 https://gitlabjf.ccomptes.fr/wikijs/wikijs,True
 https://gitub.u-bordeaux.fr/altarica/arc,True
 https://gitub.u-bordeaux.fr/altarica/ccl,True
-https://gitub.u-bordeaux.fr/dev-celia/tango-controls-notes,False
+https://gitub.u-bordeaux.fr/dev-celia/tango-controls-notes,True
 https://gitub.u-bordeaux.fr/erias/fideo,True
 https://gitub.u-bordeaux.fr/erias/knowledge-warehouse/wiki,False
 https://gitub.u-bordeaux.fr/erias/patient-covid19,True
