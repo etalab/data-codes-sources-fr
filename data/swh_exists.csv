@@ -5313,7 +5313,7 @@ https://gitlab.com/healthdatahub/dico-snds,True
 https://gitlab.com/healthdatahub/dico-snds-creation-archive,True
 https://gitlab.com/healthdatahub/documentation-snds,True
 https://gitlab.com/healthdatahub/formation/documentation-snds,True
-https://gitlab.com/healthdatahub/formation/exercices-snds,False
+https://gitlab.com/healthdatahub/formation/exercices-snds,True
 https://gitlab.com/healthdatahub/indexation-nomenclatures,True
 https://gitlab.com/healthdatahub/omop,True
 https://gitlab.com/healthdatahub/open-data/open-damir,True
@@ -5369,7 +5369,7 @@ https://gitlab.huma-num.fr/ecrinum/manuels/introduction-a-zotero,False
 https://gitlab.huma-num.fr/ecrinum/manuels/tutoriel-markdown-pandoc,False
 https://gitlab.huma-num.fr/ecrinum/sens-public/gestionedition,False
 https://gitlab.huma-num.fr/ecrinum/stylo/presentations/fosdem-2020,False
-https://gitlab.huma-num.fr/ecrinum/stylo/presentations/presentation-courte,False
+https://gitlab.huma-num.fr/ecrinum/stylo/presentations/presentation-courte,True
 https://gitlab.huma-num.fr/eurhisfirm/annuaires-favre,True
 https://gitlab.huma-num.fr/eurhisfirm/biryani,True
 https://gitlab.huma-num.fr/eurhisfirm/dfih-open-data,True
@@ -6107,7 +6107,7 @@ https://gitlab.inria.fr/gazelle/model-api/search,False
 https://gitlab.inria.fr/gazelle/model-api/standard-block-api,False
 https://gitlab.inria.fr/gazelle/model-api/validation-model,False
 https://gitlab.inria.fr/gazelle/specific-tools/connectivity-test-scripts,True
-https://gitlab.inria.fr/gazelle/specific-tools/epr/adr-provider,False
+https://gitlab.inria.fr/gazelle/specific-tools/epr/adr-provider,True
 https://gitlab.inria.fr/gazelle/specific-tools/epr/assertion-provider,False
 https://gitlab.inria.fr/gazelle/specific-tools/epr/atc-repository,False
 https://gitlab.inria.fr/gazelle/specific-tools/epr/idp,False
@@ -6287,7 +6287,7 @@ https://gitlab.inria.fr/local-schemes/supplementary-sources,True
 https://gitlab.inria.fr/locolearn/public/docker_inria_wbc,False
 https://gitlab.inria.fr/locolearn/public/talos_description_rf,False
 https://gitlab.inria.fr/magnet/anonymization_metrics,True
-https://gitlab.inria.fr/magnet/bias-in-nlp,False
+https://gitlab.inria.fr/magnet/bias-in-nlp,True
 https://gitlab.inria.fr/magnet/gdn-lib,True
 https://gitlab.inria.fr/magnet/mangoes,True
 https://gitlab.inria.fr/magnet/nada,True
@@ -6750,7 +6750,7 @@ https://gitlab.irstea.fr/pole-is/packages/ngx-rxtools,False
 https://gitlab.irstea.fr/pole-is/tools/composer-require-checker-shim,False
 https://gitlab.irstea.fr/pole-is/tools/deployer-worker-recipe,False
 https://gitlab.irstea.fr/pole-is/tools/make-shim,False
-https://gitlab.irstea.fr/pole-is/tools/pcov-clobber-plugin,False
+https://gitlab.irstea.fr/pole-is/tools/pcov-clobber-plugin,True
 https://gitlab.irstea.fr/pole-is/tools/php-cs-fixer-config,False
 https://gitlab.irstea.fr/pole-is/tools/php-cs-fixer-shim,False
 https://gitlab.irstea.fr/pole-is/tools/php-dev-pack,False
