@@ -259,7 +259,7 @@ https://forgemia.inra.fr/gafl/singularity/porechop,False
 https://forgemia.inra.fr/gafl/singularity/primer3,False
 https://forgemia.inra.fr/gafl/singularity/quickmerge,False
 https://forgemia.inra.fr/gafl/singularity/racon,False
-https://forgemia.inra.fr/gafl/singularity/root_imaging,False
+https://forgemia.inra.fr/gafl/singularity/root_imaging,True
 https://forgemia.inra.fr/gafl/singularity/rsem,False
 https://forgemia.inra.fr/gafl/singularity/sambamba,True
 https://forgemia.inra.fr/gafl/singularity/samtools,False
@@ -481,7 +481,7 @@ https://framagit.org/openfisca/french-income-taxes-test-cases,True
 https://framagit.org/openfisca/ines-libre,True
 https://framagit.org/synalp/olki/arxiv-recommender,False
 https://framagit.org/synalp/olki/arxivpy,False
-https://framagit.org/synalp/olki/arxivtoredis,False
+https://framagit.org/synalp/olki/arxivtoredis,True
 https://framagit.org/synalp/olki/dat-daemon-pyclient,False
 https://framagit.org/synalp/olki/django-dat-storage,False
 https://framagit.org/synalp/olki/documents/software-requirements-specification,True
@@ -5424,9 +5424,10 @@ https://gitlab.huma-num.fr/lamop/topama-eveches,True
 https://gitlab.huma-num.fr/lamop/topologie_aix-en-provence,False
 https://gitlab.huma-num.fr/lamop/wikidata2gramps,True
 https://gitlab.huma-num.fr/lamop/yersinia,True
+https://gitlab.huma-num.fr/le-livre-de-la-jeunesse-engag-e-en-nouvelle-aquitaine/le-livre-de-la-jeunesse-engagee,False
 https://gitlab.huma-num.fr/mappemonde/archives,True
 https://gitlab.huma-num.fr/mshs-poitiers/forellis/datagrowth,False
-https://gitlab.huma-num.fr/mshs-poitiers/forellis/dicodiachro,False
+https://gitlab.huma-num.fr/mshs-poitiers/forellis/dicodiachro,True
 https://gitlab.huma-num.fr/mshs-poitiers/forellis/erea,False
 https://gitlab.huma-num.fr/mshs-poitiers/forellis/gestion-de-version-et-recherche-reproductible,False
 https://gitlab.huma-num.fr/mshs-poitiers/forellis/grafe,False
@@ -5467,7 +5468,7 @@ https://gitlab.huma-num.fr/umr-idees/webscraping/agentscrapping,False
 https://gitlab.huma-num.fr/umr-idees/webscraping/geocache-scrapping,False
 https://gitlab.in2p3.fr/Enssib/abcdev,True
 https://gitlab.in2p3.fr/Enssib/bibliotouch,True
-https://gitlab.inria.fr/2020projects/instancesegmentation/weakly-supervised-instance-segmentation,False
+https://gitlab.inria.fr/2020projects/instancesegmentation/weakly-supervised-instance-segmentation,True
 https://gitlab.inria.fr/ACG/dev/ACGtk,False
 https://gitlab.inria.fr/AlgebraicGeometricModeling/AlgebraicSolvers.jl,True
 https://gitlab.inria.fr/AlgebraicGeometricModeling/Axl.jl,True
@@ -6564,6 +6565,17 @@ https://gitlab.inria.fr/sibr/libs/nanoflann,False
 https://gitlab.inria.fr/sibr/libs/picojson,False
 https://gitlab.inria.fr/sibr/libs/rapidxml,False
 https://gitlab.inria.fr/sibr/libs/xatlas,False
+https://gitlab.inria.fr/sibr/projects/facades-repetitions/facade_repetitions,False
+https://gitlab.inria.fr/sibr/projects/facades-repetitions/facade_repetitions_external,False
+https://gitlab.inria.fr/sibr/projects/fribr_framework,False
+https://gitlab.inria.fr/sibr/projects/glossy-probes/synthetic_ibr,False
+https://gitlab.inria.fr/sibr/projects/inside_out_deep_blending,False
+https://gitlab.inria.fr/sibr/projects/optix,False
+https://gitlab.inria.fr/sibr/projects/semantic-reflections/segmentation-network,False
+https://gitlab.inria.fr/sibr/projects/semantic-reflections/semantic_reflections,False
+https://gitlab.inria.fr/sibr/projects/soft3d,False
+https://gitlab.inria.fr/sibr/projects/spixelwarp,False
+https://gitlab.inria.fr/sibr/projects/tfgl_interop,False
 https://gitlab.inria.fr/sibr/sibr_core,False
 https://gitlab.inria.fr/simgrid/platform-calibration,True
 https://gitlab.inria.fr/simgrid/simgrid,True
@@ -6736,7 +6748,7 @@ https://gitlab.irstea.fr/pole-is/bundles/maybe,False
 https://gitlab.irstea.fr/pole-is/bundles/ng-model-generator-bundle,True
 https://gitlab.irstea.fr/pole-is/bundles/plantuml-bundle,False
 https://gitlab.irstea.fr/pole-is/docker/clamavd,False
-https://gitlab.irstea.fr/pole-is/docker/docker-ci,False
+https://gitlab.irstea.fr/pole-is/docker/docker-ci,True
 https://gitlab.irstea.fr/pole-is/docker/elasticsearch,False
 https://gitlab.irstea.fr/pole-is/docker/php,False
 https://gitlab.irstea.fr/pole-is/docker/postgis,False
@@ -6868,7 +6880,7 @@ https://gitlabjf.ccomptes.fr/CommunautesJF/beta,True
 https://gitlabjf.ccomptes.fr/EIG_2019/plume/documentation,False
 https://gitlabjf.ccomptes.fr/EIG_2019/plume/pagedjs-cli,False
 https://gitlabjf.ccomptes.fr/EIG_2019/plume/plume,False
-https://gitlabjf.ccomptes.fr/EIG_2019/plume/plume-editoria,False
+https://gitlabjf.ccomptes.fr/EIG_2019/plume/plume-editoria,True
 https://gitlabjf.ccomptes.fr/EIG_2019/plume/plume-prosemirror,False
 https://gitlabjf.ccomptes.fr/altair/master-jf,True
 https://gitlabjf.ccomptes.fr/eig/candidature_promo3,True
