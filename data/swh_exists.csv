@@ -91,7 +91,7 @@ https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.gran
 https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/web-portal/components/indexers/metadata-and-data,False
 https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/web-portal/components/middlewares/legacy-auth,True
 https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/web-portal/components/miscellaneous/maintenance-page,False
-https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/web-portal/components/proxies/authz-and-cache-for-es,False
+https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/web-portal/components/proxies/authz-and-cache-for-es,True
 https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/web-portal/components/proxies/query,False
 https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/web-portal/components/services/authentication,False
 https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/web-portal/components/services/changelog,False
@@ -5293,7 +5293,7 @@ https://gitlab.com/fabnum-minarm/e-chauffeur/user,False
 https://gitlab.com/fabnum-minarm/igloo/docker-images,False
 https://gitlab.com/fabnum-minarm/igloo/docs,False
 https://gitlab.com/fabnum-minarm/igloo/gitlab-templates,True
-https://gitlab.com/fabnum-minarm/igloo/helm-charts,False
+https://gitlab.com/fabnum-minarm/igloo/helm-charts,True
 https://gitlab.com/fabnum-minarm/igloo/terraform/main,False
 https://gitlab.com/fabnum-minarm/igloo/terraform/modules/add-runner,False
 https://gitlab.com/fabnum-minarm/igloo/terraform/modules/configure-repository-for-deployment,True
@@ -5945,7 +5945,7 @@ https://gitlab.inria.fr/distem/distem,True
 https://gitlab.inria.fr/distem/distem.gitlabpages.inria.fr,True
 https://gitlab.inria.fr/diu-algo/labyrinthe,True
 https://gitlab.inria.fr/diverse/gforge-migration/openembedd/openembedd,True
-https://gitlab.inria.fr/diverse/gforge-migration/openembedd/openembedd-rep,False
+https://gitlab.inria.fr/diverse/gforge-migration/openembedd/openembedd-rep,True
 https://gitlab.inria.fr/dldb/discretelogdb,True
 https://gitlab.inria.fr/dlp-sif/dlp-arduino,True
 https://gitlab.inria.fr/dlp-sif/sonarqube,True
@@ -6076,7 +6076,7 @@ https://gitlab.inria.fr/gazelle/applications/test-execution/simulator/audit-reco
 https://gitlab.inria.fr/gazelle/applications/test-execution/simulator/gazelle-webservice-tester,False
 https://gitlab.inria.fr/gazelle/applications/test-execution/simulator/patient-registry,False
 https://gitlab.inria.fr/gazelle/applications/test-execution/simulator/pdqm-connector,False
-https://gitlab.inria.fr/gazelle/applications/test-execution/validator/EVSClient,False
+https://gitlab.inria.fr/gazelle/applications/test-execution/validator/EVSClient,True
 https://gitlab.inria.fr/gazelle/applications/test-execution/validator/SchematronValidator,False
 https://gitlab.inria.fr/gazelle/applications/test-execution/validator/ch_iua-validator-service,False
 https://gitlab.inria.fr/gazelle/applications/test-execution/validator/gazellehl7v2validator,False
@@ -6733,7 +6733,7 @@ https://gitlab.irstea.fr/irstea-ros/navsat_to_odom,True
 https://gitlab.irstea.fr/pole-is/bundles/api-metadata,False
 https://gitlab.irstea.fr/pole-is/bundles/file-upload-bundle,False
 https://gitlab.irstea.fr/pole-is/bundles/maybe,False
-https://gitlab.irstea.fr/pole-is/bundles/ng-model-generator-bundle,False
+https://gitlab.irstea.fr/pole-is/bundles/ng-model-generator-bundle,True
 https://gitlab.irstea.fr/pole-is/bundles/plantuml-bundle,False
 https://gitlab.irstea.fr/pole-is/docker/clamavd,False
 https://gitlab.irstea.fr/pole-is/docker/docker-ci,False
