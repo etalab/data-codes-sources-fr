@@ -63,7 +63,7 @@ https://forge.grandlyon.com/pocs/cozy/cozy-oauth-proxy,False
 https://forge.grandlyon.com/pocs/cozy/easy-cozy,False
 https://forge.grandlyon.com/pocs/cozy/egl-api-connector,True
 https://forge.grandlyon.com/pocs/cozy/enedis-scraping-connector,True
-https://forge.grandlyon.com/pocs/cozy/energy-dataviz,False
+https://forge.grandlyon.com/pocs/cozy/energy-dataviz,True
 https://forge.grandlyon.com/pocs/cozy/grdf-scraping-connector,False
 https://forge.grandlyon.com/pocs/dpetit/api-cartographie,False
 https://forge.grandlyon.com/pocs/dpetit/cozy-konnector-750g,False
@@ -88,7 +88,7 @@ https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.gran
 https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/web-portal/components/custom-apps/admin-gui,False
 https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/web-portal/components/custom-apps/web-app,False
 https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/web-portal/components/indexers/editorial-content,False
-https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/web-portal/components/indexers/metadata-and-data,False
+https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/web-portal/components/indexers/metadata-and-data,True
 https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/web-portal/components/middlewares/legacy-auth,True
 https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/web-portal/components/miscellaneous/maintenance-page,False
 https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/web-portal/components/proxies/authz-and-cache-for-es,True
@@ -100,7 +100,7 @@ https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.gran
 https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/web-portal/components/services/mailer,False
 https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/web-portal/components/services/media-library,True
 https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/web-portal/components/services/organizations,False
-https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/web-portal/components/services/resources-helper,False
+https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/web-portal/components/services/resources-helper,True
 https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/web-portal/components/services/reuses,False
 https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/web-portal/components/services/social-media-share-helper,False
 https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/web-portal/components/tools/minio-master-slave-mirror,False
@@ -208,7 +208,7 @@ https://forgemia.inra.fr/gafl/pipelines_snakemake/ezqtlseq,False
 https://forgemia.inra.fr/gafl/pipelines_snakemake/rnaseq,False
 https://forgemia.inra.fr/gafl/pipelines_snakemake/wgs,False
 https://forgemia.inra.fr/gafl/singularity/10Xgenomics,False
-https://forgemia.inra.fr/gafl/singularity/Allmine,False
+https://forgemia.inra.fr/gafl/singularity/Allmine,True
 https://forgemia.inra.fr/gafl/singularity/BUSCO,False
 https://forgemia.inra.fr/gafl/singularity/Bionano_solve,False
 https://forgemia.inra.fr/gafl/singularity/QTLseqr,False
@@ -254,7 +254,7 @@ https://forgemia.inra.fr/gafl/singularity/noblast,False
 https://forgemia.inra.fr/gafl/singularity/nudup,False
 https://forgemia.inra.fr/gafl/singularity/pear,False
 https://forgemia.inra.fr/gafl/singularity/picard,False
-https://forgemia.inra.fr/gafl/singularity/pilon,False
+https://forgemia.inra.fr/gafl/singularity/pilon,True
 https://forgemia.inra.fr/gafl/singularity/porechop,False
 https://forgemia.inra.fr/gafl/singularity/primer3,False
 https://forgemia.inra.fr/gafl/singularity/quickmerge,False
@@ -479,7 +479,7 @@ https://framagit.org/openfisca/calculette-impots-web-api,True
 https://framagit.org/openfisca/calculette-impots-web-explorer,True
 https://framagit.org/openfisca/french-income-taxes-test-cases,True
 https://framagit.org/openfisca/ines-libre,True
-https://framagit.org/synalp/olki/arxiv-recommender,False
+https://framagit.org/synalp/olki/arxiv-recommender,True
 https://framagit.org/synalp/olki/arxivpy,False
 https://framagit.org/synalp/olki/arxivtoredis,True
 https://framagit.org/synalp/olki/dat-daemon-pyclient,False
@@ -6078,7 +6078,7 @@ https://gitlab.inria.fr/gazelle/applications/test-execution/simulator/gazelle-we
 https://gitlab.inria.fr/gazelle/applications/test-execution/simulator/patient-registry,False
 https://gitlab.inria.fr/gazelle/applications/test-execution/simulator/pdqm-connector,False
 https://gitlab.inria.fr/gazelle/applications/test-execution/validator/EVSClient,True
-https://gitlab.inria.fr/gazelle/applications/test-execution/validator/SchematronValidator,False
+https://gitlab.inria.fr/gazelle/applications/test-execution/validator/SchematronValidator,True
 https://gitlab.inria.fr/gazelle/applications/test-execution/validator/ch_iua-validator-service,False
 https://gitlab.inria.fr/gazelle/applications/test-execution/validator/gazellehl7v2validator,False
 https://gitlab.inria.fr/gazelle/documentation/gazelle-user-documentation,False
