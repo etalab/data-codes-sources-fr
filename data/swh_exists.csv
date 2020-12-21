@@ -64,7 +64,7 @@ https://forge.grandlyon.com/pocs/cozy/easy-cozy,False
 https://forge.grandlyon.com/pocs/cozy/egl-api-connector,True
 https://forge.grandlyon.com/pocs/cozy/enedis-scraping-connector,True
 https://forge.grandlyon.com/pocs/cozy/energy-dataviz,True
-https://forge.grandlyon.com/pocs/cozy/grdf-scraping-connector,False
+https://forge.grandlyon.com/pocs/cozy/grdf-scraping-connector,True
 https://forge.grandlyon.com/pocs/dpetit/api-cartographie,False
 https://forge.grandlyon.com/pocs/dpetit/cozy-konnector-750g,False
 https://forge.grandlyon.com/pocs/dpetit/konnector-ecolyo,True
@@ -262,7 +262,7 @@ https://forgemia.inra.fr/gafl/singularity/racon,False
 https://forgemia.inra.fr/gafl/singularity/root_imaging,True
 https://forgemia.inra.fr/gafl/singularity/rsem,False
 https://forgemia.inra.fr/gafl/singularity/sambamba,True
-https://forgemia.inra.fr/gafl/singularity/samtools,False
+https://forgemia.inra.fr/gafl/singularity/samtools,True
 https://forgemia.inra.fr/gafl/singularity/scaff10x,False
 https://forgemia.inra.fr/gafl/singularity/seqkit,False
 https://forgemia.inra.fr/gafl/singularity/seqtk,False
@@ -1708,7 +1708,7 @@ https://github.com/InseeFrLab/grandedim,True
 https://github.com/InseeFrLab/helm-charts,True
 https://github.com/InseeFrLab/helm-charts-datascience,True
 https://github.com/InseeFrLab/helm-charts-trainings,True
-https://github.com/InseeFrLab/inseeLocalData,False
+https://github.com/InseeFrLab/inseeLocalData,True
 https://github.com/InseeFrLab/java-vtl,True
 https://github.com/InseeFrLab/java-vtl-connectors,True
 https://github.com/InseeFrLab/java-vtl-tools,True
@@ -5234,7 +5234,7 @@ https://gitlab.com/CSTB/mathis,True
 https://gitlab.com/CSTB/modele_donnee_dpe_2020,True
 https://gitlab.com/DREES_code/formulaire_zonage_ars,True
 https://gitlab.com/DREES_code/public/charte_drees,True
-https://gitlab.com/DREES_code/public/indicateurs_de_sante,False
+https://gitlab.com/DREES_code/public/indicateurs_de_sante,True
 https://gitlab.com/DREES_code/public/indicateurs_qualite_snds,False
 https://gitlab.com/DREES_code/public/openghm,True
 https://gitlab.com/DREES_code/public/tutoriels,False
@@ -5285,9 +5285,9 @@ https://gitlab.com/dreal-datalab/si_eau_pesticides,True
 https://gitlab.com/dreal-datalab/zonages-habitat,True
 https://gitlab.com/fabnum-minarm/e-chauffeur/api,False
 https://gitlab.com/fabnum-minarm/e-chauffeur/dashboard,False
-https://gitlab.com/fabnum-minarm/e-chauffeur/driver,False
+https://gitlab.com/fabnum-minarm/e-chauffeur/driver,True
 https://gitlab.com/fabnum-minarm/e-chauffeur/e-chauffeur,False
-https://gitlab.com/fabnum-minarm/e-chauffeur/lib-vue,False
+https://gitlab.com/fabnum-minarm/e-chauffeur/lib-vue,True
 https://gitlab.com/fabnum-minarm/e-chauffeur/navette,False
 https://gitlab.com/fabnum-minarm/e-chauffeur/user,False
 https://gitlab.com/fabnum-minarm/igloo/docker-images,False
@@ -5328,7 +5328,7 @@ https://gitlab.com/op18-enki/sapeurs,True
 https://gitlab.com/peren/api-meubles/backend,False
 https://gitlab.com/peren/api-meubles/doc-api,False
 https://gitlab.com/peren/api-meubles/fraddress,False
-https://gitlab.com/peren/api-meubles/frontend,False
+https://gitlab.com/peren/api-meubles/frontend,True
 https://gitlab.com/peren/api-meubles/website,False
 https://gitlab.com/peren/datasets/contours-administratifs,False
 https://gitlab.com/pidila/checklist-app,True
