@@ -78,7 +78,7 @@ https://forge.grandlyon.com/solidarite/monparcourssocial/mps-usager,False
 https://forge.grandlyon.com/systemes-dinformation/gat_gatling,True
 https://forge.grandlyon.com/systemes-dinformation/pasi-portail-d-acces-au-si,True
 https://forge.grandlyon.com/systemes-dinformation/project-template/sdk-go,False
-https://forge.grandlyon.com/web-et-numerique/llle_project/ecolyo,False
+https://forge.grandlyon.com/web-et-numerique/llle_project/ecolyo,True
 https://forge.grandlyon.com/web-et-numerique/llle_project/egl-konnector,False
 https://forge.grandlyon.com/web-et-numerique/llle_project/enedis-konnector,True
 https://forge.grandlyon.com/web-et-numerique/llle_project/grdf-konnector,False
@@ -245,7 +245,7 @@ https://forgemia.inra.fr/gafl/singularity/htseq,False
 https://forgemia.inra.fr/gafl/singularity/interpro,False
 https://forgemia.inra.fr/gafl/singularity/minimap2,False
 https://forgemia.inra.fr/gafl/singularity/multiqc,False
-https://forgemia.inra.fr/gafl/singularity/mummer,False
+https://forgemia.inra.fr/gafl/singularity/mummer,True
 https://forgemia.inra.fr/gafl/singularity/nanocomp,False
 https://forgemia.inra.fr/gafl/singularity/nanofilt,False
 https://forgemia.inra.fr/gafl/singularity/nanopack,False
@@ -277,7 +277,7 @@ https://forgemia.inra.fr/gafl/singularity/transdecoder,False
 https://forgemia.inra.fr/gafl/singularity/trimmomatic,False
 https://forgemia.inra.fr/gafl/singularity/trinity,False
 https://forgemia.inra.fr/gafl/singularity/trinotate,False
-https://forgemia.inra.fr/gafl/singularity/varscan,False
+https://forgemia.inra.fr/gafl/singularity/varscan,True
 https://forgemia.inra.fr/gafl/singularity/vcftools,False
 https://forgemia.inra.fr/gafl/singularity/whatshap,False
 https://forgemia.inra.fr/gafl/snakemake_modules,True
@@ -5508,7 +5508,7 @@ https://gitlab.huma-num.fr/txm/txm-manual,True
 https://gitlab.huma-num.fr/txm/txm-ressources,True
 https://gitlab.huma-num.fr/txm/txm-software,True
 https://gitlab.huma-num.fr/txm/txm-vm,True
-https://gitlab.huma-num.fr/umr-idees/webscraping/Flight-Scrapping,False
+https://gitlab.huma-num.fr/umr-idees/webscraping/Flight-Scrapping,True
 https://gitlab.huma-num.fr/umr-idees/webscraping/agentscrapping,False
 https://gitlab.huma-num.fr/umr-idees/webscraping/geocache-scrapping,False
 https://gitlab.in2p3.fr/Enssib/abcdev,True
@@ -6113,7 +6113,7 @@ https://gitlab.inria.fr/gazelle/applications/mixed/gazelle-atna,False
 https://gitlab.inria.fr/gazelle/applications/mixed/gazelle-tm,False
 https://gitlab.inria.fr/gazelle/applications/test-design/AssertionManager,False
 https://gitlab.inria.fr/gazelle/applications/test-design/DemographicDataServer,False
-https://gitlab.inria.fr/gazelle/applications/test-execution/gazelle-proxy,False
+https://gitlab.inria.fr/gazelle/applications/test-execution/gazelle-proxy,True
 https://gitlab.inria.fr/gazelle/applications/test-execution/simulator/HPDSimulator,False
 https://gitlab.inria.fr/gazelle/applications/test-execution/simulator/Patient-Manager,False
 https://gitlab.inria.fr/gazelle/applications/test-execution/simulator/access-token-provider,False
@@ -6133,7 +6133,7 @@ https://gitlab.inria.fr/gazelle/framework/preferences,False
 https://gitlab.inria.fr/gazelle/library/HL7Common,False
 https://gitlab.inria.fr/gazelle/library/annotations,False
 https://gitlab.inria.fr/gazelle/library/archetypes/project-archetype,False
-https://gitlab.inria.fr/gazelle/library/assets,False
+https://gitlab.inria.fr/gazelle/library/assets,True
 https://gitlab.inria.fr/gazelle/library/auditMessage-validator-api,True
 https://gitlab.inria.fr/gazelle/library/cas-client,False
 https://gitlab.inria.fr/gazelle/library/datatable-component,False
@@ -6145,7 +6145,7 @@ https://gitlab.inria.fr/gazelle/library/hql,True
 https://gitlab.inria.fr/gazelle/library/preference,False
 https://gitlab.inria.fr/gazelle/library/tool,False
 https://gitlab.inria.fr/gazelle/library/ui-service,False
-https://gitlab.inria.fr/gazelle/library/unit-test,False
+https://gitlab.inria.fr/gazelle/library/unit-test,True
 https://gitlab.inria.fr/gazelle/library/version,False
 https://gitlab.inria.fr/gazelle/model-api/gitb,False
 https://gitlab.inria.fr/gazelle/model-api/messaging-model,False
@@ -6440,7 +6440,7 @@ https://gitlab.inria.fr/mosaic/draco_stem,True
 https://gitlab.inria.fr/mosaic/mosaic-commons,True
 https://gitlab.inria.fr/mosaic/publications/lpy2pc,False
 https://gitlab.inria.fr/mosaic/publications/protoplast,False
-https://gitlab.inria.fr/mosaic/publications/sam_spaghetti,False
+https://gitlab.inria.fr/mosaic/publications/sam_spaghetti,True
 https://gitlab.inria.fr/mosaic/publications/tissue2d,False
 https://gitlab.inria.fr/mosaic/timagetk,True
 https://gitlab.inria.fr/mosaic/tissue_analysis,True
