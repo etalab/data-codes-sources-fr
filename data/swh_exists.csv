@@ -66,7 +66,7 @@ https://forge.grandlyon.com/pocs/cozy/enedis-scraping-connector,True
 https://forge.grandlyon.com/pocs/cozy/energy-dataviz,True
 https://forge.grandlyon.com/pocs/cozy/grdf-scraping-connector,True
 https://forge.grandlyon.com/pocs/dpetit/api-cartographie,True
-https://forge.grandlyon.com/pocs/dpetit/cozy-konnector-750g,False
+https://forge.grandlyon.com/pocs/dpetit/cozy-konnector-750g,True
 https://forge.grandlyon.com/pocs/dpetit/konnector-ecolyo,True
 https://forge.grandlyon.com/pocs/dpetit/template-vanilla,True
 https://forge.grandlyon.com/pocs/dpetit/tuto-cozy,True
@@ -77,7 +77,7 @@ https://forge.grandlyon.com/pocs/introduction-au-langage-python-2,True
 https://forge.grandlyon.com/solidarite/monparcourssocial/mps-usager,False
 https://forge.grandlyon.com/systemes-dinformation/gat_gatling,True
 https://forge.grandlyon.com/systemes-dinformation/pasi-portail-d-acces-au-si,True
-https://forge.grandlyon.com/systemes-dinformation/project-template/sdk-go,False
+https://forge.grandlyon.com/systemes-dinformation/project-template/sdk-go,True
 https://forge.grandlyon.com/web-et-numerique/llle_project/ecolyo,True
 https://forge.grandlyon.com/web-et-numerique/llle_project/egl-konnector,False
 https://forge.grandlyon.com/web-et-numerique/llle_project/enedis-konnector,True
@@ -253,7 +253,7 @@ https://forgemia.inra.fr/gafl/singularity/nanoplotcompstat,False
 https://forgemia.inra.fr/gafl/singularity/noblast,False
 https://forgemia.inra.fr/gafl/singularity/nudup,False
 https://forgemia.inra.fr/gafl/singularity/pear,False
-https://forgemia.inra.fr/gafl/singularity/picard,False
+https://forgemia.inra.fr/gafl/singularity/picard,True
 https://forgemia.inra.fr/gafl/singularity/pilon,True
 https://forgemia.inra.fr/gafl/singularity/porechop,False
 https://forgemia.inra.fr/gafl/singularity/primer3,True
@@ -273,7 +273,7 @@ https://forgemia.inra.fr/gafl/singularity/sra-tools,False
 https://forgemia.inra.fr/gafl/singularity/star,False
 https://forgemia.inra.fr/gafl/singularity/stringtie,True
 https://forgemia.inra.fr/gafl/singularity/tabix,False
-https://forgemia.inra.fr/gafl/singularity/transdecoder,False
+https://forgemia.inra.fr/gafl/singularity/transdecoder,True
 https://forgemia.inra.fr/gafl/singularity/trimmomatic,False
 https://forgemia.inra.fr/gafl/singularity/trinity,False
 https://forgemia.inra.fr/gafl/singularity/trinotate,False
@@ -5324,12 +5324,13 @@ https://gitlab.com/dreal-datalab/nitrates,True
 https://gitlab.com/dreal-datalab/ort_effectifs_transport,True
 https://gitlab.com/dreal-datalab/pesticides,True
 https://gitlab.com/dreal-datalab/poc-enr-teo,True
+https://gitlab.com/dreal-datalab/propre.artificialisation,False
 https://gitlab.com/dreal-datalab/reseauchaleur,True
 https://gitlab.com/dreal-datalab/rrrpls,True
 https://gitlab.com/dreal-datalab/shinydreal,True
 https://gitlab.com/dreal-datalab/si_eau_pesticides,True
 https://gitlab.com/dreal-datalab/zonages-habitat,True
-https://gitlab.com/fabnum-minarm/e-chauffeur/api,False
+https://gitlab.com/fabnum-minarm/e-chauffeur/api,True
 https://gitlab.com/fabnum-minarm/e-chauffeur/dashboard,False
 https://gitlab.com/fabnum-minarm/e-chauffeur/driver,True
 https://gitlab.com/fabnum-minarm/e-chauffeur/e-chauffeur,False
@@ -5576,7 +5577,7 @@ https://gitlab.inria.fr/MoReFEM/CoreLibrary/generatedockerimages,False
 https://gitlab.inria.fr/MoReFEM/CoreLibrary/introductiontalks,False
 https://gitlab.inria.fr/MoReFEM/Models/AcousticWave,False
 https://gitlab.inria.fr/MoReFEM/Models/Bidomain,False
-https://gitlab.inria.fr/MoReFEM/Models/HyperelasticityIncompressible,False
+https://gitlab.inria.fr/MoReFEM/Models/HyperelasticityIncompressible,True
 https://gitlab.inria.fr/MoReFEM/Models/ReactionDiffusion,False
 https://gitlab.inria.fr/MoReFEM/ThirdPartyCompilationFactory,True
 https://gitlab.inria.fr/NFS_asymptotic_complexity/simulations,True
