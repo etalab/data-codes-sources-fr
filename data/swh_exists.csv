@@ -1,5 +1,5 @@
 origin_url,is_available
-https://dci-gitlab.cines.fr/dad/cines-vitam-plugins/ark-griffin,False
+https://dci-gitlab.cines.fr/dad/cines-vitam-plugins/ark-griffin,True
 https://dci-gitlab.cines.fr/dad/cines-vitam-plugins/bir-plugin,False
 https://dci-gitlab.cines.fr/dad/cines-vitam-plugins/format-validator-plugin,False
 https://dci-gitlab.cines.fr/dad/fdp-api,True
@@ -87,7 +87,7 @@ https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.gran
 https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/pocs/wiki-territorial-covid,False
 https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/web-portal/components/custom-apps/admin-gui,False
 https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/web-portal/components/custom-apps/web-app,True
-https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/web-portal/components/indexers/editorial-content,False
+https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/web-portal/components/indexers/editorial-content,True
 https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/web-portal/components/indexers/metadata-and-data,True
 https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/web-portal/components/middlewares/legacy-auth,True
 https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/web-portal/components/miscellaneous/maintenance-page,False
@@ -236,7 +236,7 @@ https://forgemia.inra.fr/gafl/singularity/dicoexpress,False
 https://forgemia.inra.fr/gafl/singularity/fastp,True
 https://forgemia.inra.fr/gafl/singularity/fastqc,False
 https://forgemia.inra.fr/gafl/singularity/filtlong,False
-https://forgemia.inra.fr/gafl/singularity/flye,False
+https://forgemia.inra.fr/gafl/singularity/flye,True
 https://forgemia.inra.fr/gafl/singularity/freebayes,False
 https://forgemia.inra.fr/gafl/singularity/gatk4,False
 https://forgemia.inra.fr/gafl/singularity/genometools,False
@@ -256,7 +256,7 @@ https://forgemia.inra.fr/gafl/singularity/pear,False
 https://forgemia.inra.fr/gafl/singularity/picard,False
 https://forgemia.inra.fr/gafl/singularity/pilon,True
 https://forgemia.inra.fr/gafl/singularity/porechop,False
-https://forgemia.inra.fr/gafl/singularity/primer3,False
+https://forgemia.inra.fr/gafl/singularity/primer3,True
 https://forgemia.inra.fr/gafl/singularity/quickmerge,False
 https://forgemia.inra.fr/gafl/singularity/racon,False
 https://forgemia.inra.fr/gafl/singularity/root_imaging,True
@@ -351,7 +351,7 @@ https://forgemia.inra.fr/inter_cati_omics/reproductibility,True
 https://forgemia.inra.fr/inter_cati_omics/singularity/Custom_containers/Bionano_solve,False
 https://forgemia.inra.fr/inter_cati_omics/singularity/Custom_containers/dicoexpress,False
 https://forgemia.inra.fr/inter_cati_omics/singularity/biocontainers/projet-biocontainers,False
-https://forgemia.inra.fr/inter_cati_omics/snakemake/snakemake_modules,False
+https://forgemia.inra.fr/inter_cati_omics/snakemake/snakemake_modules,True
 https://forgemia.inra.fr/lbe/opensilexlbe/ontologielbe,False
 https://forgemia.inra.fr/lbe/opensilexlbe/opensilex-dev,False
 https://forgemia.inra.fr/metexplore/MetExploreViz,True
@@ -363,7 +363,7 @@ https://forgemia.inra.fr/metexplore/metexplore2,True
 https://forgemia.inra.fr/metexplore/metx/metexplore_components,False
 https://forgemia.inra.fr/metexplore/metx/metx-basicline,False
 https://forgemia.inra.fr/metexplore/metx/metx-bubbleplot,False
-https://forgemia.inra.fr/metexplore/metx/metx-enrichement,False
+https://forgemia.inra.fr/metexplore/metx/metx-enrichement,True
 https://forgemia.inra.fr/metexplore/metx/metx-grid,False
 https://forgemia.inra.fr/metexplore/metx/metx-scatterplot,False
 https://forgemia.inra.fr/metexplore/tutorialmet4j,True
@@ -486,7 +486,7 @@ https://framagit.org/synalp/olki/dat-daemon-pyclient,False
 https://framagit.org/synalp/olki/django-dat-storage,False
 https://framagit.org/synalp/olki/documents/software-requirements-specification,True
 https://framagit.org/synalp/olki/drf-tus,False
-https://framagit.org/synalp/olki/landing,False
+https://framagit.org/synalp/olki/landing,True
 https://framagit.org/synalp/olki/olki,False
 https://framagit.org/synalp/olki/publicabot,True
 https://framagit.org/synalp/olki/scifed,False
@@ -3878,6 +3878,7 @@ https://github.com/fabnumdef/e-chauffeur_lib-vue,True
 https://github.com/fabnumdef/e-chauffeur_user,True
 https://github.com/fabnumdef/fabnumdef.d3,False
 https://github.com/fabnumdef/fabnumdef.github.io,True
+https://github.com/fabnumdef/fabrique-chatbot,False
 https://github.com/fabnumdef/fabrique-chatbot-back,True
 https://github.com/fabnumdef/fabrique-chatbot-front,True
 https://github.com/fabnumdef/resources,True
@@ -5336,7 +5337,7 @@ https://gitlab.com/fabnum-minarm/e-chauffeur/lib-vue,True
 https://gitlab.com/fabnum-minarm/e-chauffeur/navette,False
 https://gitlab.com/fabnum-minarm/e-chauffeur/user,True
 https://gitlab.com/fabnum-minarm/igloo/docker-images,False
-https://gitlab.com/fabnum-minarm/igloo/docs,False
+https://gitlab.com/fabnum-minarm/igloo/docs,True
 https://gitlab.com/fabnum-minarm/igloo/gitlab-templates,True
 https://gitlab.com/fabnum-minarm/igloo/helm-charts,True
 https://gitlab.com/fabnum-minarm/igloo/terraform/main,True
@@ -5350,7 +5351,7 @@ https://gitlab.com/fabnum-minarm/metiis/backend,False
 https://gitlab.com/fabnum-minarm/metiis/frontend,True
 https://gitlab.com/fabnum-minarm/stargate/backend,False
 https://gitlab.com/fabnum-minarm/stargate/frontend,False
-https://gitlab.com/fabnum-minarm/stargate/stargate,False
+https://gitlab.com/fabnum-minarm/stargate/stargate,True
 https://gitlab.com/france-mobilites/documents-marches-publics,True
 https://gitlab.com/hatvp-open/agora,True
 https://gitlab.com/healthdatahub/dataviz_tableau-de-bord,False
@@ -5374,7 +5375,7 @@ https://gitlab.com/peren/api-meubles/backend,False
 https://gitlab.com/peren/api-meubles/doc-api,False
 https://gitlab.com/peren/api-meubles/fraddress,False
 https://gitlab.com/peren/api-meubles/frontend,True
-https://gitlab.com/peren/api-meubles/website,False
+https://gitlab.com/peren/api-meubles/website,True
 https://gitlab.com/peren/datasets/contours-administratifs,False
 https://gitlab.com/pidila/checklist-app,True
 https://gitlab.com/pidila/checklist-pidila,True
@@ -6619,6 +6620,7 @@ https://gitlab.inria.fr/sibr/projects/inside_out_deep_blending,False
 https://gitlab.inria.fr/sibr/projects/optix,False
 https://gitlab.inria.fr/sibr/projects/semantic-reflections/segmentation-network,False
 https://gitlab.inria.fr/sibr/projects/semantic-reflections/semantic_reflections,False
+https://gitlab.inria.fr/sibr/projects/simple,False
 https://gitlab.inria.fr/sibr/projects/soft3d,False
 https://gitlab.inria.fr/sibr/projects/spixelwarp,False
 https://gitlab.inria.fr/sibr/projects/tfgl_interop,False
