@@ -97,7 +97,7 @@ https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.gran
 https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/web-portal/components/services/changelog,False
 https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/web-portal/components/services/credits,False
 https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/web-portal/components/services/csv-catalog-downloader,False
-https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/web-portal/components/services/mailer,False
+https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/web-portal/components/services/mailer,True
 https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/web-portal/components/services/media-library,True
 https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/web-portal/components/services/organizations,False
 https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/web-portal/components/services/resources-helper,True
@@ -498,7 +498,7 @@ https://git.ademe.fr/docker/ssh-sftp,False
 https://git.ademe.fr/docker/sshd-sftp,True
 https://git.ademe.fr/open-source/annuaire-de-la-reparation,True
 https://git.beta.pole-emploi.fr/claravue/simulateur-clara,True
-https://git.beta.pole-emploi.fr/open-source/experimentation-postal/postal,False
+https://git.beta.pole-emploi.fr/open-source/experimentation-postal/postal,True
 https://git.beta.pole-emploi.fr/open-source/exploration-web-components,True
 https://git.beta.pole-emploi.fr/open-source/immersion,True
 https://git.beta.pole-emploi.fr/open-source/jitsi,True
@@ -2913,7 +2913,7 @@ https://github.com/betagouv/with-react-redux-login,True
 https://github.com/betagouv/zam,True
 https://github.com/caml-pkcs11/caml-crush,False
 https://github.com/caml-pkcs11/opkcs11-tool,False
-https://github.com/caradoc-org/caradoc,False
+https://github.com/caradoc-org/caradoc,True
 https://github.com/cea-hpc/Hercule,True
 https://github.com/cea-hpc/Modane,True
 https://github.com/cea-hpc/NabLab,True
@@ -5239,7 +5239,7 @@ https://gitlab.adullact.net/dgfip/ir-calcul,True
 https://gitlab.adullact.net/directmairie/directmairie,True
 https://gitlab.adullact.net/directmairie/puppet-directmairie,True
 https://gitlab.adullact.net/e-carre/e-carre-particuliers,True
-https://gitlab.adullact.net/gip-recia-snc/public/autoit/pnm-audit-desktop,False
+https://gitlab.adullact.net/gip-recia-snc/public/autoit/pnm-audit-desktop,True
 https://gitlab.adullact.net/gip-recia-snc/public/autoit/pnm-teamviewer-installer,False
 https://gitlab.adullact.net/gip-recia-snc/public/docker/debian-systemd,True
 https://gitlab.adullact.net/gip-recia-snc/public/docker/fedora-systemd,True
@@ -5348,7 +5348,7 @@ https://gitlab.com/fabnum-minarm/igloo/terraform/modules/create-namespace,True
 https://gitlab.com/fabnum-minarm/igloo/terraform/projects/_template,False
 https://gitlab.com/fabnum-minarm/igloo/terraform/projects/alpps,False
 https://gitlab.com/fabnum-minarm/igloo/terraform/projects/anais,False
-https://gitlab.com/fabnum-minarm/metiis/backend,False
+https://gitlab.com/fabnum-minarm/metiis/backend,True
 https://gitlab.com/fabnum-minarm/metiis/frontend,True
 https://gitlab.com/fabnum-minarm/stargate/backend,False
 https://gitlab.com/fabnum-minarm/stargate/frontend,False
@@ -5935,7 +5935,7 @@ https://gitlab.inria.fr/croco-ocean/croco_tools,True
 https://gitlab.inria.fr/croco-ocean/devs/theetten/croco,False
 https://gitlab.inria.fr/crowdguard-public/data/taxonomy-skillproject,False
 https://gitlab.inria.fr/crowdguard-public/data/workers-stackoverflow,True
-https://gitlab.inria.fr/crowdguard-public/deliverables/final,False
+https://gitlab.inria.fr/crowdguard-public/deliverables/final,True
 https://gitlab.inria.fr/crowdguard-public/implems/pkd-demo,False
 https://gitlab.inria.fr/crowdguard-public/implems/pkd-simul,True
 https://gitlab.inria.fr/crv14/benchmarks,True
@@ -6326,7 +6326,7 @@ https://gitlab.inria.fr/line/aide-group/jsdoc2,False
 https://gitlab.inria.fr/line/aide-group/ozobot-api,False
 https://gitlab.inria.fr/line/aide-group/ozobot-lib,False
 https://gitlab.inria.fr/line/aide-group/persistentdata,False
-https://gitlab.inria.fr/line/aide-group/slugstring,False
+https://gitlab.inria.fr/line/aide-group/slugstring,True
 https://gitlab.inria.fr/line/aide-group/tabletop,False
 https://gitlab.inria.fr/line/aide-group/wjson,False
 https://gitlab.inria.fr/line/wp-plugin-cai,True
@@ -6522,7 +6522,7 @@ https://gitlab.inria.fr/piper/sofa/LinearSubspace,False
 https://gitlab.inria.fr/piper/viva,True
 https://gitlab.inria.fr/piy/piy,True
 https://gitlab.inria.fr/plas20/sessionintegrity,True
-https://gitlab.inria.fr/pm2/benchmark,False
+https://gitlab.inria.fr/pm2/benchmark,True
 https://gitlab.inria.fr/pm2/packaging,True
 https://gitlab.inria.fr/pm2/pm2,True
 https://gitlab.inria.fr/polar/polar,True
