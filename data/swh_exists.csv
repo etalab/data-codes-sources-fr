@@ -205,7 +205,7 @@ https://forgemia.inra.fr/formation/formation-python-inrae,True
 https://forgemia.inra.fr/formation/python-pour-les-biologistes,True
 https://forgemia.inra.fr/gafl/pipelines_snakemake/allmine,False
 https://forgemia.inra.fr/gafl/pipelines_snakemake/ezqtlseq,False
-https://forgemia.inra.fr/gafl/pipelines_snakemake/rnaseq,False
+https://forgemia.inra.fr/gafl/pipelines_snakemake/rnaseq,True
 https://forgemia.inra.fr/gafl/pipelines_snakemake/wgs,True
 https://forgemia.inra.fr/gafl/singularity/10Xgenomics,False
 https://forgemia.inra.fr/gafl/singularity/Allmine,True
@@ -252,7 +252,7 @@ https://forgemia.inra.fr/gafl/singularity/nanopack,False
 https://forgemia.inra.fr/gafl/singularity/nanoplotcompstat,False
 https://forgemia.inra.fr/gafl/singularity/noblast,False
 https://forgemia.inra.fr/gafl/singularity/nudup,False
-https://forgemia.inra.fr/gafl/singularity/pear,False
+https://forgemia.inra.fr/gafl/singularity/pear,True
 https://forgemia.inra.fr/gafl/singularity/picard,True
 https://forgemia.inra.fr/gafl/singularity/pilon,True
 https://forgemia.inra.fr/gafl/singularity/porechop,False
@@ -383,7 +383,7 @@ https://forgemia.inra.fr/pappso/pappsoms-tools,True
 https://forgemia.inra.fr/pappso/pappsomspp,True
 https://forgemia.inra.fr/pappso/xtpcpp,True
 https://forgemia.inra.fr/pegase/pegase-fair,True
-https://forgemia.inra.fr/phenotic/publique/ordinalclustering,False
+https://forgemia.inra.fr/phenotic/publique/ordinalclustering,True
 https://forgemia.inra.fr/record-open-archives/rec-crash,True
 https://forgemia.inra.fr/record-open-archives/recmoustics,True
 https://forgemia.inra.fr/record/AgFlow,True
@@ -489,7 +489,7 @@ https://framagit.org/synalp/olki/drf-tus,False
 https://framagit.org/synalp/olki/landing,True
 https://framagit.org/synalp/olki/olki,False
 https://framagit.org/synalp/olki/publicabot,True
-https://framagit.org/synalp/olki/scifed,False
+https://framagit.org/synalp/olki/scifed,True
 https://git.ademe.fr/docker/getpdf,True
 https://git.ademe.fr/docker/httpd,True
 https://git.ademe.fr/docker/httpd-php,True
@@ -935,6 +935,7 @@ https://github.com/CCSDForge/FinHal,True
 https://github.com/CCSDForge/HAL,True
 https://github.com/CCSDForge/Sciencesconf.org,True
 https://github.com/CCSDForge/StaticFiles,True
+https://github.com/CCSDForge/episciences,False
 https://github.com/CEA-LIST/CinguParam,True
 https://github.com/CEA-LIST/Cingulata,True
 https://github.com/CEA-LIST/DAHLIA-BodyIndex,True
@@ -6070,7 +6071,7 @@ https://gitlab.inria.fr/expression-externals/easyloggingpp,True
 https://gitlab.inria.fr/expression-externals/eigen,True
 https://gitlab.inria.fr/expression-externals/kenlm,True
 https://gitlab.inria.fr/expression-externals/mitlm,True
-https://gitlab.inria.fr/expression/expression-externals/easyloggingpp,False
+https://gitlab.inria.fr/expression/expression-externals/easyloggingpp,True
 https://gitlab.inria.fr/expression/expression-externals/eigen,False
 https://gitlab.inria.fr/expression/expression-externals/kenlm,True
 https://gitlab.inria.fr/expression/expression-externals/libxml2,True
@@ -6118,7 +6119,7 @@ https://gitlab.inria.fr/gazelle/applications/test-design/AssertionManager,False
 https://gitlab.inria.fr/gazelle/applications/test-design/DemographicDataServer,False
 https://gitlab.inria.fr/gazelle/applications/test-execution/gazelle-proxy,True
 https://gitlab.inria.fr/gazelle/applications/test-execution/simulator/HPDSimulator,False
-https://gitlab.inria.fr/gazelle/applications/test-execution/simulator/Patient-Manager,False
+https://gitlab.inria.fr/gazelle/applications/test-execution/simulator/Patient-Manager,True
 https://gitlab.inria.fr/gazelle/applications/test-execution/simulator/access-token-provider,True
 https://gitlab.inria.fr/gazelle/applications/test-execution/simulator/app.patient-registry,False
 https://gitlab.inria.fr/gazelle/applications/test-execution/simulator/audit-record-simulator,False
@@ -6133,7 +6134,7 @@ https://gitlab.inria.fr/gazelle/documentation/gazelle-user-documentation,False
 https://gitlab.inria.fr/gazelle/external-library,True
 https://gitlab.inria.fr/gazelle/framework/logger,False
 https://gitlab.inria.fr/gazelle/framework/preferences,False
-https://gitlab.inria.fr/gazelle/library/HL7Common,False
+https://gitlab.inria.fr/gazelle/library/HL7Common,True
 https://gitlab.inria.fr/gazelle/library/annotations,False
 https://gitlab.inria.fr/gazelle/library/archetypes/project-archetype,False
 https://gitlab.inria.fr/gazelle/library/assets,True
@@ -6166,7 +6167,7 @@ https://gitlab.inria.fr/gazelle/specific-tools/epr/ppq-repository,False
 https://gitlab.inria.fr/gazelle/specific-tools/epr/schematron,False
 https://gitlab.inria.fr/gazelle/specific-tools/epr/xds-xca-simulator,False
 https://gitlab.inria.fr/gazelle/specific-tools/epr/xdstools,False
-https://gitlab.inria.fr/gazelle/specific-tools/sequoia/acp,False
+https://gitlab.inria.fr/gazelle/specific-tools/sequoia/acp,True
 https://gitlab.inria.fr/gazelle/standard-blocks/iua-standard-blocks,False
 https://gitlab.inria.fr/gazelle/test-content/fhir-conformance-resources,False
 https://gitlab.inria.fr/gazelle/test-content/gazelle-hl7v2-validator-resources,True
@@ -6823,7 +6824,7 @@ https://gitlab.irstea.fr/pole-is/tools/phpmd-config,True
 https://gitlab.irstea.fr/pole-is/tools/phpmd-shim,True
 https://gitlab.irstea.fr/pole-is/tools/phpstan-config,False
 https://gitlab.irstea.fr/pole-is/tools/phpunit-shim,False
-https://gitlab.irstea.fr/pole-is/tools/prezbuilder,False
+https://gitlab.irstea.fr/pole-is/tools/prezbuilder,True
 https://gitlab.irstea.fr/pole-is/tools/reveal.js,False
 https://gitlab.irstea.fr/pomosed/clairelix,True
 https://gitlab.irstea.fr/pomosed/naiades,True
@@ -6945,7 +6946,7 @@ https://gitub.u-bordeaux.fr/altarica/arc,True
 https://gitub.u-bordeaux.fr/altarica/ccl,True
 https://gitub.u-bordeaux.fr/dev-celia/tango-controls-notes,True
 https://gitub.u-bordeaux.fr/erias/fideo,True
-https://gitub.u-bordeaux.fr/erias/knowledge-warehouse/wiki,False
+https://gitub.u-bordeaux.fr/erias/knowledge-warehouse/wiki,True
 https://gitub.u-bordeaux.fr/erias/patient-covid19,True
 https://gitub.u-bordeaux.fr/innovation/act,True
 https://gitub.u-bordeaux.fr/innovation/climackathon,True
