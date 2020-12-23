@@ -90,7 +90,7 @@ https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.gran
 https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/web-portal/components/indexers/editorial-content,True
 https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/web-portal/components/indexers/metadata-and-data,True
 https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/web-portal/components/middlewares/legacy-auth,True
-https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/web-portal/components/miscellaneous/maintenance-page,False
+https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/web-portal/components/miscellaneous/maintenance-page,True
 https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/web-portal/components/proxies/authz-and-cache-for-es,True
 https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/web-portal/components/proxies/query,False
 https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/web-portal/components/services/authentication,False
@@ -163,7 +163,7 @@ https://forge.univ-lyon1.fr/tiw-is/tiw-is-2020-sources,True
 https://forge.univ-lyon1.fr/tiw-is/tiw1-is-2019,True
 https://forge.univ-lyon1.fr/tiw-is/tiw1-is-2020,True
 https://forgemia.inra.fr/4p/maquettes-4p,True
-https://forgemia.inra.fr/4p/modules/pheno-extraction,False
+https://forgemia.inra.fr/4p/modules/pheno-extraction,True
 https://forgemia.inra.fr/4p/pheno-extraction,True
 https://forgemia.inra.fr/4p/user-guide,True
 https://forgemia.inra.fr/DecisionBleDur/DecisionBleDur,True
@@ -201,6 +201,8 @@ https://forgemia.inra.fr/cirad--monde-apres/reunion_initiatives_urgences,True
 https://forgemia.inra.fr/cirad--monde-apres/teletravail,True
 https://forgemia.inra.fr/enseignement-mistea/reports-with-markdown,True
 https://forgemia.inra.fr/epgv/nlgenomesweeper,True
+https://forgemia.inra.fr/fact/fact,False
+https://forgemia.inra.fr/fact/pfptools,False
 https://forgemia.inra.fr/formation/formation-python-inrae,True
 https://forgemia.inra.fr/formation/python-pour-les-biologistes,True
 https://forgemia.inra.fr/gafl/pipelines_snakemake/allmine,False
@@ -248,9 +250,9 @@ https://forgemia.inra.fr/gafl/singularity/multiqc,False
 https://forgemia.inra.fr/gafl/singularity/mummer,True
 https://forgemia.inra.fr/gafl/singularity/nanocomp,False
 https://forgemia.inra.fr/gafl/singularity/nanofilt,False
-https://forgemia.inra.fr/gafl/singularity/nanopack,False
+https://forgemia.inra.fr/gafl/singularity/nanopack,True
 https://forgemia.inra.fr/gafl/singularity/nanoplotcompstat,False
-https://forgemia.inra.fr/gafl/singularity/noblast,False
+https://forgemia.inra.fr/gafl/singularity/noblast,True
 https://forgemia.inra.fr/gafl/singularity/nudup,False
 https://forgemia.inra.fr/gafl/singularity/pear,True
 https://forgemia.inra.fr/gafl/singularity/picard,True
@@ -263,11 +265,11 @@ https://forgemia.inra.fr/gafl/singularity/root_imaging,True
 https://forgemia.inra.fr/gafl/singularity/rsem,False
 https://forgemia.inra.fr/gafl/singularity/sambamba,True
 https://forgemia.inra.fr/gafl/singularity/samtools,True
-https://forgemia.inra.fr/gafl/singularity/scaff10x,False
+https://forgemia.inra.fr/gafl/singularity/scaff10x,True
 https://forgemia.inra.fr/gafl/singularity/seqkit,False
-https://forgemia.inra.fr/gafl/singularity/seqtk,False
+https://forgemia.inra.fr/gafl/singularity/seqtk,True
 https://forgemia.inra.fr/gafl/singularity/sibelia,False
-https://forgemia.inra.fr/gafl/singularity/singularity_installation,False
+https://forgemia.inra.fr/gafl/singularity/singularity_installation,True
 https://forgemia.inra.fr/gafl/singularity/smartdenovo,False
 https://forgemia.inra.fr/gafl/singularity/sra-tools,True
 https://forgemia.inra.fr/gafl/singularity/star,True
@@ -5325,7 +5327,7 @@ https://gitlab.com/dreal-datalab/nitrates,True
 https://gitlab.com/dreal-datalab/ort_effectifs_transport,True
 https://gitlab.com/dreal-datalab/pesticides,True
 https://gitlab.com/dreal-datalab/poc-enr-teo,True
-https://gitlab.com/dreal-datalab/propre.artificialisation,False
+https://gitlab.com/dreal-datalab/propre.artificialisation,True
 https://gitlab.com/dreal-datalab/reseauchaleur,True
 https://gitlab.com/dreal-datalab/rrrpls,True
 https://gitlab.com/dreal-datalab/shinydreal,True
@@ -5472,7 +5474,7 @@ https://gitlab.huma-num.fr/lamop/topama-eveches,True
 https://gitlab.huma-num.fr/lamop/topologie_aix-en-provence,False
 https://gitlab.huma-num.fr/lamop/wikidata2gramps,True
 https://gitlab.huma-num.fr/lamop/yersinia,True
-https://gitlab.huma-num.fr/le-livre-de-la-jeunesse-engag-e-en-nouvelle-aquitaine/le-livre-de-la-jeunesse-engagee,False
+https://gitlab.huma-num.fr/le-livre-de-la-jeunesse-engag-e-en-nouvelle-aquitaine/le-livre-de-la-jeunesse-engagee,True
 https://gitlab.huma-num.fr/mappemonde/archives,True
 https://gitlab.huma-num.fr/mshs-poitiers/forellis/datagrowth,False
 https://gitlab.huma-num.fr/mshs-poitiers/forellis/dicodiachro,True
@@ -5517,7 +5519,7 @@ https://gitlab.huma-num.fr/umr-idees/webscraping/geocache-scrapping,False
 https://gitlab.in2p3.fr/Enssib/abcdev,True
 https://gitlab.in2p3.fr/Enssib/bibliotouch,True
 https://gitlab.inria.fr/2020projects/instancesegmentation/weakly-supervised-instance-segmentation,True
-https://gitlab.inria.fr/ACG/dev/ACGtk,False
+https://gitlab.inria.fr/ACG/dev/ACGtk,True
 https://gitlab.inria.fr/AlgebraicGeometricModeling/AlgebraicSolvers.jl,True
 https://gitlab.inria.fr/AlgebraicGeometricModeling/Axl.jl,True
 https://gitlab.inria.fr/AlgebraicGeometricModeling/GSplines.jl,True
@@ -5616,6 +5618,7 @@ https://gitlab.inria.fr/Seshat/deeplearning,True
 https://gitlab.inria.fr/Seshat/html,True
 https://gitlab.inria.fr/Seshat/internetprivacy,True
 https://gitlab.inria.fr/Seshat/javascript,True
+https://gitlab.inria.fr/Seshat/outils_pedagogiques_ra_rv,False
 https://gitlab.inria.fr/Seshat/pt1,True
 https://gitlab.inria.fr/Seshat/simplewebpage,True
 https://gitlab.inria.fr/Seshat/test,True
@@ -5937,7 +5940,7 @@ https://gitlab.inria.fr/croco-ocean/devs/theetten/croco,False
 https://gitlab.inria.fr/crowdguard-public/data/taxonomy-skillproject,False
 https://gitlab.inria.fr/crowdguard-public/data/workers-stackoverflow,True
 https://gitlab.inria.fr/crowdguard-public/deliverables/final,True
-https://gitlab.inria.fr/crowdguard-public/implems/pkd-demo,False
+https://gitlab.inria.fr/crowdguard-public/implems/pkd-demo,True
 https://gitlab.inria.fr/crowdguard-public/implems/pkd-simul,True
 https://gitlab.inria.fr/crv14/benchmarks,True
 https://gitlab.inria.fr/crv14/evaluation,True
@@ -6808,7 +6811,7 @@ https://gitlab.irstea.fr/pole-is/docker/vpn-proxy,True
 https://gitlab.irstea.fr/pole-is/hugo-test,True
 https://gitlab.irstea.fr/pole-is/packages/errors,False
 https://gitlab.irstea.fr/pole-is/packages/irstea-typescript-config,False
-https://gitlab.irstea.fr/pole-is/packages/ngx-debug,False
+https://gitlab.irstea.fr/pole-is/packages/ngx-debug,True
 https://gitlab.irstea.fr/pole-is/packages/ngx-rxtools,True
 https://gitlab.irstea.fr/pole-is/tools/composer-require-checker-shim,False
 https://gitlab.irstea.fr/pole-is/tools/deployer-worker-recipe,False
