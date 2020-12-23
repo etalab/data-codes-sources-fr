@@ -103,7 +103,7 @@ https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.gran
 https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/web-portal/components/services/resources-helper,True
 https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/web-portal/components/services/reuses,False
 https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/web-portal/components/services/social-media-share-helper,False
-https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/web-portal/components/tools/minio-master-slave-mirror,False
+https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/web-portal/components/tools/minio-master-slave-mirror,True
 https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/web-portal/documentation,False
 https://forge.univ-lyon1.fr/LETU/LETU,True
 https://forge.univ-lyon1.fr/Matiere/WebProject,True
@@ -269,8 +269,8 @@ https://forgemia.inra.fr/gafl/singularity/seqtk,False
 https://forgemia.inra.fr/gafl/singularity/sibelia,False
 https://forgemia.inra.fr/gafl/singularity/singularity_installation,False
 https://forgemia.inra.fr/gafl/singularity/smartdenovo,False
-https://forgemia.inra.fr/gafl/singularity/sra-tools,False
-https://forgemia.inra.fr/gafl/singularity/star,False
+https://forgemia.inra.fr/gafl/singularity/sra-tools,True
+https://forgemia.inra.fr/gafl/singularity/star,True
 https://forgemia.inra.fr/gafl/singularity/stringtie,True
 https://forgemia.inra.fr/gafl/singularity/tabix,False
 https://forgemia.inra.fr/gafl/singularity/transdecoder,True
@@ -350,7 +350,7 @@ https://forgemia.inra.fr/inter_cati_omics/hackathon_snakemake_singularity_stats,
 https://forgemia.inra.fr/inter_cati_omics/reproductibility,True
 https://forgemia.inra.fr/inter_cati_omics/singularity/Custom_containers/Bionano_solve,False
 https://forgemia.inra.fr/inter_cati_omics/singularity/Custom_containers/dicoexpress,False
-https://forgemia.inra.fr/inter_cati_omics/singularity/biocontainers/projet-biocontainers,False
+https://forgemia.inra.fr/inter_cati_omics/singularity/biocontainers/projet-biocontainers,True
 https://forgemia.inra.fr/inter_cati_omics/snakemake/snakemake_modules,True
 https://forgemia.inra.fr/lbe/opensilexlbe/ontologielbe,False
 https://forgemia.inra.fr/lbe/opensilexlbe/opensilex-dev,False
@@ -6123,7 +6123,7 @@ https://gitlab.inria.fr/gazelle/applications/test-execution/simulator/access-tok
 https://gitlab.inria.fr/gazelle/applications/test-execution/simulator/app.patient-registry,False
 https://gitlab.inria.fr/gazelle/applications/test-execution/simulator/audit-record-simulator,False
 https://gitlab.inria.fr/gazelle/applications/test-execution/simulator/gazelle-webservice-tester,False
-https://gitlab.inria.fr/gazelle/applications/test-execution/simulator/patient-registry,False
+https://gitlab.inria.fr/gazelle/applications/test-execution/simulator/patient-registry,True
 https://gitlab.inria.fr/gazelle/applications/test-execution/simulator/pdqm-connector,False
 https://gitlab.inria.fr/gazelle/applications/test-execution/validator/EVSClient,True
 https://gitlab.inria.fr/gazelle/applications/test-execution/validator/SchematronValidator,True
@@ -6320,7 +6320,8 @@ https://gitlab.inria.fr/learninglab/mooc-scikit-learn/mooc-scikit-learn-resource
 https://gitlab.inria.fr/learninglab/nsi-capes-info,True
 https://gitlab.inria.fr/lifeware/biocham,True
 https://gitlab.inria.fr/line/aide-group/aide,False
-https://gitlab.inria.fr/line/aide-group/aidesys,False
+https://gitlab.inria.fr/line/aide-group/aidebuild,False
+https://gitlab.inria.fr/line/aide-group/aidesys,True
 https://gitlab.inria.fr/line/aide-group/esp32-roomcontrol,False
 https://gitlab.inria.fr/line/aide-group/jsdoc2,False
 https://gitlab.inria.fr/line/aide-group/ozobot-api,False
@@ -6802,12 +6803,12 @@ https://gitlab.irstea.fr/pole-is/docker/elasticsearch,False
 https://gitlab.irstea.fr/pole-is/docker/php,False
 https://gitlab.irstea.fr/pole-is/docker/postgis,False
 https://gitlab.irstea.fr/pole-is/docker/postgres,False
-https://gitlab.irstea.fr/pole-is/docker/vpn-proxy,False
+https://gitlab.irstea.fr/pole-is/docker/vpn-proxy,True
 https://gitlab.irstea.fr/pole-is/hugo-test,True
 https://gitlab.irstea.fr/pole-is/packages/errors,False
 https://gitlab.irstea.fr/pole-is/packages/irstea-typescript-config,False
 https://gitlab.irstea.fr/pole-is/packages/ngx-debug,False
-https://gitlab.irstea.fr/pole-is/packages/ngx-rxtools,False
+https://gitlab.irstea.fr/pole-is/packages/ngx-rxtools,True
 https://gitlab.irstea.fr/pole-is/tools/composer-require-checker-shim,False
 https://gitlab.irstea.fr/pole-is/tools/deployer-worker-recipe,False
 https://gitlab.irstea.fr/pole-is/tools/make-shim,False
@@ -6818,7 +6819,7 @@ https://gitlab.irstea.fr/pole-is/tools/php-dev-pack,True
 https://gitlab.irstea.fr/pole-is/tools/php-skeleton,False
 https://gitlab.irstea.fr/pole-is/tools/phpcpd-shim,False
 https://gitlab.irstea.fr/pole-is/tools/phploc-shim,True
-https://gitlab.irstea.fr/pole-is/tools/phpmd-config,False
+https://gitlab.irstea.fr/pole-is/tools/phpmd-config,True
 https://gitlab.irstea.fr/pole-is/tools/phpmd-shim,True
 https://gitlab.irstea.fr/pole-is/tools/phpstan-config,False
 https://gitlab.irstea.fr/pole-is/tools/phpunit-shim,False
