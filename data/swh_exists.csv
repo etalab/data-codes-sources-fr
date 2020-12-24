@@ -191,7 +191,7 @@ https://forgemia.inra.fr/bios4biol/bioinfo-utils,True
 https://forgemia.inra.fr/bios4biol/workflows,True
 https://forgemia.inra.fr/biosys-public/rba-inrae-fr,True
 https://forgemia.inra.fr/cati-boom-public/site-officiel,True
-https://forgemia.inra.fr/chemhouse/octave/tbjmr/CovSel,False
+https://forgemia.inra.fr/chemhouse/octave/tbjmr/CovSel,True
 https://forgemia.inra.fr/chemhouse/octave/tbjmr/VSN,False
 https://forgemia.inra.fr/chemhouse/octave/tbjmr/ncovsel,False
 https://forgemia.inra.fr/chemhousebas/octave/covsel,False
@@ -246,7 +246,7 @@ https://forgemia.inra.fr/gafl/singularity/hisat,False
 https://forgemia.inra.fr/gafl/singularity/htseq,False
 https://forgemia.inra.fr/gafl/singularity/interpro,False
 https://forgemia.inra.fr/gafl/singularity/minimap2,False
-https://forgemia.inra.fr/gafl/singularity/multiqc,False
+https://forgemia.inra.fr/gafl/singularity/multiqc,True
 https://forgemia.inra.fr/gafl/singularity/mummer,True
 https://forgemia.inra.fr/gafl/singularity/nanocomp,False
 https://forgemia.inra.fr/gafl/singularity/nanofilt,False
@@ -274,7 +274,7 @@ https://forgemia.inra.fr/gafl/singularity/smartdenovo,False
 https://forgemia.inra.fr/gafl/singularity/sra-tools,True
 https://forgemia.inra.fr/gafl/singularity/star,True
 https://forgemia.inra.fr/gafl/singularity/stringtie,True
-https://forgemia.inra.fr/gafl/singularity/tabix,False
+https://forgemia.inra.fr/gafl/singularity/tabix,True
 https://forgemia.inra.fr/gafl/singularity/transdecoder,True
 https://forgemia.inra.fr/gafl/singularity/trimmomatic,False
 https://forgemia.inra.fr/gafl/singularity/trinity,False
@@ -351,7 +351,7 @@ https://forgemia.inra.fr/inter_cati_omics/hackathon_snakemake_singularity_mappin
 https://forgemia.inra.fr/inter_cati_omics/hackathon_snakemake_singularity_stats,True
 https://forgemia.inra.fr/inter_cati_omics/reproductibility,True
 https://forgemia.inra.fr/inter_cati_omics/singularity/Custom_containers/Bionano_solve,False
-https://forgemia.inra.fr/inter_cati_omics/singularity/Custom_containers/dicoexpress,False
+https://forgemia.inra.fr/inter_cati_omics/singularity/Custom_containers/dicoexpress,True
 https://forgemia.inra.fr/inter_cati_omics/singularity/biocontainers/projet-biocontainers,True
 https://forgemia.inra.fr/inter_cati_omics/snakemake/snakemake_modules,True
 https://forgemia.inra.fr/lbe/opensilexlbe/ontologielbe,False
@@ -489,7 +489,7 @@ https://framagit.org/synalp/olki/django-dat-storage,False
 https://framagit.org/synalp/olki/documents/software-requirements-specification,True
 https://framagit.org/synalp/olki/drf-tus,False
 https://framagit.org/synalp/olki/landing,True
-https://framagit.org/synalp/olki/olki,False
+https://framagit.org/synalp/olki/olki,True
 https://framagit.org/synalp/olki/publicabot,True
 https://framagit.org/synalp/olki/scifed,True
 https://git.ademe.fr/docker/getpdf,True
@@ -5243,7 +5243,7 @@ https://gitlab.adullact.net/directmairie/directmairie,True
 https://gitlab.adullact.net/directmairie/puppet-directmairie,True
 https://gitlab.adullact.net/e-carre/e-carre-particuliers,True
 https://gitlab.adullact.net/gip-recia-snc/public/autoit/pnm-audit-desktop,True
-https://gitlab.adullact.net/gip-recia-snc/public/autoit/pnm-teamviewer-installer,False
+https://gitlab.adullact.net/gip-recia-snc/public/autoit/pnm-teamviewer-installer,True
 https://gitlab.adullact.net/gip-recia-snc/public/docker/debian-systemd,True
 https://gitlab.adullact.net/gip-recia-snc/public/docker/fedora-systemd,True
 https://gitlab.adullact.net/gip-recia-snc/public/docker/teampasswordmanager,False
@@ -5353,7 +5353,7 @@ https://gitlab.com/fabnum-minarm/igloo/terraform/projects/alpps,False
 https://gitlab.com/fabnum-minarm/igloo/terraform/projects/anais,False
 https://gitlab.com/fabnum-minarm/metiis/backend,True
 https://gitlab.com/fabnum-minarm/metiis/frontend,True
-https://gitlab.com/fabnum-minarm/stargate/backend,False
+https://gitlab.com/fabnum-minarm/stargate/backend,True
 https://gitlab.com/fabnum-minarm/stargate/frontend,False
 https://gitlab.com/fabnum-minarm/stargate/stargate,True
 https://gitlab.com/france-mobilites/documents-marches-publics,True
@@ -5515,7 +5515,7 @@ https://gitlab.huma-num.fr/txm/txm-software,True
 https://gitlab.huma-num.fr/txm/txm-vm,True
 https://gitlab.huma-num.fr/umr-idees/webscraping/Flight-Scrapping,True
 https://gitlab.huma-num.fr/umr-idees/webscraping/agentscrapping,False
-https://gitlab.huma-num.fr/umr-idees/webscraping/geocache-scrapping,False
+https://gitlab.huma-num.fr/umr-idees/webscraping/geocache-scrapping,True
 https://gitlab.in2p3.fr/Enssib/abcdev,True
 https://gitlab.in2p3.fr/Enssib/bibliotouch,True
 https://gitlab.inria.fr/2020projects/instancesegmentation/weakly-supervised-instance-segmentation,True
@@ -5885,7 +5885,7 @@ https://gitlab.inria.fr/cidre-public/obfuscated-android-unit-examples,True
 https://gitlab.inria.fr/cidre-public/pymao,True
 https://gitlab.inria.fr/cidre-public/tata/tata-java,False
 https://gitlab.inria.fr/cidre-public/tata/tata-llvm,False
-https://gitlab.inria.fr/cidre-public/tata/tata-release,False
+https://gitlab.inria.fr/cidre-public/tata/tata-release,True
 https://gitlab.inria.fr/cigri-ctrl/cigri-expe,True
 https://gitlab.inria.fr/cigri-ctrl/stage-agustin-yabo,True
 https://gitlab.inria.fr/citi-lab/bbb-powerprobe,True
@@ -6075,7 +6075,7 @@ https://gitlab.inria.fr/expression-externals/eigen,True
 https://gitlab.inria.fr/expression-externals/kenlm,True
 https://gitlab.inria.fr/expression-externals/mitlm,True
 https://gitlab.inria.fr/expression/expression-externals/easyloggingpp,True
-https://gitlab.inria.fr/expression/expression-externals/eigen,False
+https://gitlab.inria.fr/expression/expression-externals/eigen,True
 https://gitlab.inria.fr/expression/expression-externals/kenlm,True
 https://gitlab.inria.fr/expression/expression-externals/libxml2,True
 https://gitlab.inria.fr/expression/expression-externals/mitlm,False
@@ -6142,7 +6142,7 @@ https://gitlab.inria.fr/gazelle/library/annotations,False
 https://gitlab.inria.fr/gazelle/library/archetypes/project-archetype,False
 https://gitlab.inria.fr/gazelle/library/assets,True
 https://gitlab.inria.fr/gazelle/library/auditMessage-validator-api,True
-https://gitlab.inria.fr/gazelle/library/cas-client,False
+https://gitlab.inria.fr/gazelle/library/cas-client,True
 https://gitlab.inria.fr/gazelle/library/datatable-component,False
 https://gitlab.inria.fr/gazelle/library/fhir-util,True
 https://gitlab.inria.fr/gazelle/library/gazelle-assertion-coverage-provider,False
@@ -6175,7 +6175,7 @@ https://gitlab.inria.fr/gazelle/standard-blocks/iua-standard-blocks,False
 https://gitlab.inria.fr/gazelle/test-content/fhir-conformance-resources,False
 https://gitlab.inria.fr/gazelle/test-content/gazelle-hl7v2-validator-resources,True
 https://gitlab.inria.fr/gazelle/test-content/hl7-conformance-profiles,False
-https://gitlab.inria.fr/gazelle/test-content/pdqm-samples,False
+https://gitlab.inria.fr/gazelle/test-content/pdqm-samples,True
 https://gitlab.inria.fr/gazelle/validator/FhirValidator,False
 https://gitlab.inria.fr/gazelle/validator/common/validation-ws,False
 https://gitlab.inria.fr/gbono/coop-ma-pg,True
@@ -6330,7 +6330,7 @@ https://gitlab.inria.fr/line/aide-group/esp32-roomcontrol,False
 https://gitlab.inria.fr/line/aide-group/jsdoc2,False
 https://gitlab.inria.fr/line/aide-group/ozobot-api,False
 https://gitlab.inria.fr/line/aide-group/ozobot-lib,False
-https://gitlab.inria.fr/line/aide-group/persistentdata,False
+https://gitlab.inria.fr/line/aide-group/persistentdata,True
 https://gitlab.inria.fr/line/aide-group/slugstring,True
 https://gitlab.inria.fr/line/aide-group/tabletop,False
 https://gitlab.inria.fr/line/aide-group/wjson,False
@@ -6809,7 +6809,7 @@ https://gitlab.irstea.fr/pole-is/docker/postgis,False
 https://gitlab.irstea.fr/pole-is/docker/postgres,False
 https://gitlab.irstea.fr/pole-is/docker/vpn-proxy,True
 https://gitlab.irstea.fr/pole-is/hugo-test,True
-https://gitlab.irstea.fr/pole-is/packages/errors,False
+https://gitlab.irstea.fr/pole-is/packages/errors,True
 https://gitlab.irstea.fr/pole-is/packages/irstea-typescript-config,False
 https://gitlab.irstea.fr/pole-is/packages/ngx-debug,True
 https://gitlab.irstea.fr/pole-is/packages/ngx-rxtools,True
