@@ -85,7 +85,7 @@ https://forge.grandlyon.com/web-et-numerique/llle_project/grdf-konnector,True
 https://forge.grandlyon.com/web-et-numerique/llle_project/grdf-scraping-konnector,False
 https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/articles/point-cloud,False
 https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/pocs/wiki-territorial-covid,False
-https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/web-portal/components/custom-apps/admin-gui,False
+https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/web-portal/components/custom-apps/admin-gui,True
 https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/web-portal/components/custom-apps/web-app,True
 https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/web-portal/components/indexers/editorial-content,True
 https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/web-portal/components/indexers/metadata-and-data,True
@@ -421,6 +421,7 @@ https://forgemia.inra.fr/umr-astre/geonetwork,True
 https://forgemia.inra.fr/umr-astre/mapMCDA,True
 https://forgemia.inra.fr/umr-astre/spreadrate,True
 https://forgemia.inra.fr/umr-astre/topomatch,True
+https://forgemia.inra.fr/umr-astre/training/notions_stats,False
 https://forgemia.inra.fr/umr-boa/viseago,True
 https://forgemia.inra.fr/umr-gdec/biotools,True
 https://forgemia.inra.fr/umr-gdec/bwgs,True
@@ -485,7 +486,7 @@ https://framagit.org/synalp/olki/arxiv-recommender,True
 https://framagit.org/synalp/olki/arxivpy,False
 https://framagit.org/synalp/olki/arxivtoredis,True
 https://framagit.org/synalp/olki/dat-daemon-pyclient,False
-https://framagit.org/synalp/olki/django-dat-storage,False
+https://framagit.org/synalp/olki/django-dat-storage,True
 https://framagit.org/synalp/olki/documents/software-requirements-specification,True
 https://framagit.org/synalp/olki/drf-tus,False
 https://framagit.org/synalp/olki/landing,True
@@ -632,7 +633,7 @@ https://git.unistra.fr/les-sans-noms/dossiers,True
 https://git.unistra.fr/les-sans-noms/mod-le-serveur,True
 https://git.unistra.fr/les-sans-noms/react_admin_jeux,True
 https://git.unistra.fr/les-sans-noms/serveur-central/client_serveur_central,False
-https://git.unistra.fr/les-sans-noms/serveur-central/cultwars.website,False
+https://git.unistra.fr/les-sans-noms/serveur-central/cultwars.website,True
 https://git.unistra.fr/les-sans-noms/serveur-de-jeux-websocket-t-lechargable,True
 https://git.unistra.fr/les-sans-noms/serveur-jeu/client-web-admin,False
 https://git.unistra.fr/les-sans-noms/serveur-jeu/installateur-serveur-de-jeu,False
@@ -937,7 +938,7 @@ https://github.com/CCSDForge/FinHal,True
 https://github.com/CCSDForge/HAL,True
 https://github.com/CCSDForge/Sciencesconf.org,True
 https://github.com/CCSDForge/StaticFiles,True
-https://github.com/CCSDForge/episciences,False
+https://github.com/CCSDForge/episciences,True
 https://github.com/CEA-LIST/CinguParam,True
 https://github.com/CEA-LIST/Cingulata,True
 https://github.com/CEA-LIST/DAHLIA-BodyIndex,True
@@ -5286,7 +5287,7 @@ https://gitlab.com/DREES_code/public/charte_drees,True
 https://gitlab.com/DREES_code/public/indicateurs_de_sante,True
 https://gitlab.com/DREES_code/public/indicateurs_qualite_snds,True
 https://gitlab.com/DREES_code/public/openghm,True
-https://gitlab.com/DREES_code/public/tutoriels,False
+https://gitlab.com/DREES_code/public/tutoriels,True
 https://gitlab.com/DREES_code/public/validation_datapackage,True
 https://gitlab.com/api-meubles/backend,True
 https://gitlab.com/api-meubles/doc-api,True
@@ -6412,7 +6413,7 @@ https://gitlab.inria.fr/ml_genetics/private/robustness_pipeline,False
 https://gitlab.inria.fr/ml_genetics/private/temporal_PCA,False
 https://gitlab.inria.fr/ml_genetics/public/DNA_DNA,False
 https://gitlab.inria.fr/ml_genetics/public/Pop_gen_simulators,False
-https://gitlab.inria.fr/ml_genetics/public/artificial_genomes,False
+https://gitlab.inria.fr/ml_genetics/public/artificial_genomes,True
 https://gitlab.inria.fr/ml_genetics/public/demoseq,False
 https://gitlab.inria.fr/ml_genetics/public/dlpopsize,False
 https://gitlab.inria.fr/ml_genetics/public/dlpopsize_paper,False
@@ -6797,7 +6798,7 @@ https://gitlab.irstea.fr/irstea-ros/ads1115_driver,True
 https://gitlab.irstea.fr/irstea-ros/labjack_driver,True
 https://gitlab.irstea.fr/irstea-ros/navsat_to_odom,True
 https://gitlab.irstea.fr/pole-is/bundles/api-metadata,False
-https://gitlab.irstea.fr/pole-is/bundles/file-upload-bundle,False
+https://gitlab.irstea.fr/pole-is/bundles/file-upload-bundle,True
 https://gitlab.irstea.fr/pole-is/bundles/maybe,True
 https://gitlab.irstea.fr/pole-is/bundles/ng-model-generator-bundle,True
 https://gitlab.irstea.fr/pole-is/bundles/plantuml-bundle,True
