@@ -1,6 +1,6 @@
 origin_url,is_available
 https://dci-gitlab.cines.fr/dad/cines-vitam-plugins/ark-griffin,True
-https://dci-gitlab.cines.fr/dad/cines-vitam-plugins/bir-plugin,False
+https://dci-gitlab.cines.fr/dad/cines-vitam-plugins/bir-plugin,True
 https://dci-gitlab.cines.fr/dad/cines-vitam-plugins/format-validator-plugin,True
 https://dci-gitlab.cines.fr/dad/fdp-api,True
 https://dci-gitlab.cines.fr/dad/fdp-client,True
@@ -83,7 +83,7 @@ https://forge.grandlyon.com/web-et-numerique/llle_project/egl-konnector,False
 https://forge.grandlyon.com/web-et-numerique/llle_project/enedis-konnector,True
 https://forge.grandlyon.com/web-et-numerique/llle_project/grdf-konnector,True
 https://forge.grandlyon.com/web-et-numerique/llle_project/grdf-scraping-konnector,False
-https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/articles/point-cloud,False
+https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/articles/point-cloud,True
 https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/pocs/wiki-territorial-covid,False
 https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/web-portal/components/custom-apps/admin-gui,True
 https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/web-portal/components/custom-apps/web-app,True
@@ -224,7 +224,7 @@ https://forgemia.inra.fr/gafl/singularity/bcftools,False
 https://forgemia.inra.fr/gafl/singularity/bedtools,False
 https://forgemia.inra.fr/gafl/singularity/bioawk,False
 https://forgemia.inra.fr/gafl/singularity/biopython,False
-https://forgemia.inra.fr/gafl/singularity/blast,False
+https://forgemia.inra.fr/gafl/singularity/blast,True
 https://forgemia.inra.fr/gafl/singularity/blastpp,False
 https://forgemia.inra.fr/gafl/singularity/bowtie2,False
 https://forgemia.inra.fr/gafl/singularity/bwa,False
@@ -248,7 +248,7 @@ https://forgemia.inra.fr/gafl/singularity/interpro,False
 https://forgemia.inra.fr/gafl/singularity/minimap2,False
 https://forgemia.inra.fr/gafl/singularity/multiqc,True
 https://forgemia.inra.fr/gafl/singularity/mummer,True
-https://forgemia.inra.fr/gafl/singularity/nanocomp,False
+https://forgemia.inra.fr/gafl/singularity/nanocomp,True
 https://forgemia.inra.fr/gafl/singularity/nanofilt,False
 https://forgemia.inra.fr/gafl/singularity/nanopack,True
 https://forgemia.inra.fr/gafl/singularity/nanoplotcompstat,False
@@ -259,7 +259,7 @@ https://forgemia.inra.fr/gafl/singularity/picard,True
 https://forgemia.inra.fr/gafl/singularity/pilon,True
 https://forgemia.inra.fr/gafl/singularity/porechop,False
 https://forgemia.inra.fr/gafl/singularity/primer3,True
-https://forgemia.inra.fr/gafl/singularity/quickmerge,False
+https://forgemia.inra.fr/gafl/singularity/quickmerge,True
 https://forgemia.inra.fr/gafl/singularity/racon,False
 https://forgemia.inra.fr/gafl/singularity/root_imaging,True
 https://forgemia.inra.fr/gafl/singularity/rsem,False
@@ -637,7 +637,7 @@ https://git.unistra.fr/les-sans-noms/serveur-central/cultwars.website,True
 https://git.unistra.fr/les-sans-noms/serveur-de-jeux-websocket-t-lechargable,True
 https://git.unistra.fr/les-sans-noms/serveur-jeu/client-web-admin,False
 https://git.unistra.fr/les-sans-noms/serveur-jeu/installateur-serveur-de-jeu,False
-https://git.unistra.fr/les-sans-noms/serveur-jeu/serveur,False
+https://git.unistra.fr/les-sans-noms/serveur-jeu/serveur,True
 https://git.unistra.fr/les-triples-a/t432_voc20-t3-d,True
 https://git.unistra.fr/lo5-antony-et-florian/thegame,True
 https://git.unistra.fr/lp-komi/naojimi,True
@@ -2407,7 +2407,7 @@ https://github.com/abes-esr/fne-batch,True
 https://github.com/abes-esr/idref-api,True
 https://github.com/abes-esr/item-api,True
 https://github.com/abes-esr/item-client,True
-https://github.com/abes-esr/periscope-front,False
+https://github.com/abes-esr/periscope-front,True
 https://github.com/abes-esr/periscope-poc-vue-js,True
 https://github.com/abes-esr/periscope-poc-vue-js-latest,False
 https://github.com/abes-esr/periscope-vue-typescript,True
@@ -5350,7 +5350,7 @@ https://gitlab.com/fabnum-minarm/igloo/terraform/modules/add-runner,False
 https://gitlab.com/fabnum-minarm/igloo/terraform/modules/configure-repository-for-deployment,True
 https://gitlab.com/fabnum-minarm/igloo/terraform/modules/create-namespace,True
 https://gitlab.com/fabnum-minarm/igloo/terraform/projects/_template,False
-https://gitlab.com/fabnum-minarm/igloo/terraform/projects/alpps,False
+https://gitlab.com/fabnum-minarm/igloo/terraform/projects/alpps,True
 https://gitlab.com/fabnum-minarm/igloo/terraform/projects/anais,False
 https://gitlab.com/fabnum-minarm/metiis/backend,True
 https://gitlab.com/fabnum-minarm/metiis/frontend,True
@@ -5552,7 +5552,7 @@ https://gitlab.inria.fr/DYLISS/samifier-docker,True
 https://gitlab.inria.fr/DYLISS/samifier-matching-kernel,True
 https://gitlab.inria.fr/DYLISS/samifier-web,True
 https://gitlab.inria.fr/Dae-Ng/Dae-Ng,True
-https://gitlab.inria.fr/Damaris/Simulations/croco,False
+https://gitlab.inria.fr/Damaris/Simulations/croco,True
 https://gitlab.inria.fr/Damaris/Simulations/noise,True
 https://gitlab.inria.fr/Damaris/damaris,True
 https://gitlab.inria.fr/GATB/simka,True
@@ -6147,7 +6147,7 @@ https://gitlab.inria.fr/gazelle/library/cas-client,True
 https://gitlab.inria.fr/gazelle/library/datatable-component,False
 https://gitlab.inria.fr/gazelle/library/fhir-util,True
 https://gitlab.inria.fr/gazelle/library/gazelle-assertion-coverage-provider,False
-https://gitlab.inria.fr/gazelle/library/gazelle-assets,False
+https://gitlab.inria.fr/gazelle/library/gazelle-assets,True
 https://gitlab.inria.fr/gazelle/library/home,False
 https://gitlab.inria.fr/gazelle/library/hql,True
 https://gitlab.inria.fr/gazelle/library/preference,False
@@ -6199,7 +6199,7 @@ https://gitlab.inria.fr/gecos/gecos-tools/gecos-tools-emf,False
 https://gitlab.inria.fr/gecos/gecos-tools/gecos-tools-graph,False
 https://gitlab.inria.fr/gecos/gecos-tools/gecos-tools-isl,False
 https://gitlab.inria.fr/gecos/gecos-tools/gecos-tools-jnimapper,False
-https://gitlab.inria.fr/gecos/gecos-tools/gecos-tools-tommapping,False
+https://gitlab.inria.fr/gecos/gecos-tools/gecos-tools-tommapping,True
 https://gitlab.inria.fr/gecos/gecos-tools/gecos-tools-tomsdk,False
 https://gitlab.inria.fr/gem5-nop/gem5,True
 https://gitlab.inria.fr/genouest-public/genouest-about,True
