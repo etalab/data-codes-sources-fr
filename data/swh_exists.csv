@@ -280,7 +280,7 @@ https://forgemia.inra.fr/gafl/singularity/trimmomatic,False
 https://forgemia.inra.fr/gafl/singularity/trinity,False
 https://forgemia.inra.fr/gafl/singularity/trinotate,True
 https://forgemia.inra.fr/gafl/singularity/varscan,True
-https://forgemia.inra.fr/gafl/singularity/vcftools,False
+https://forgemia.inra.fr/gafl/singularity/vcftools,True
 https://forgemia.inra.fr/gafl/singularity/whatshap,False
 https://forgemia.inra.fr/gafl/snakemake_modules,True
 https://forgemia.inra.fr/gafl/thaliadb/ThaliaDB_singularity,False
@@ -483,12 +483,12 @@ https://framagit.org/openfisca/calculette-impots-web-explorer,True
 https://framagit.org/openfisca/french-income-taxes-test-cases,True
 https://framagit.org/openfisca/ines-libre,True
 https://framagit.org/synalp/olki/arxiv-recommender,True
-https://framagit.org/synalp/olki/arxivpy,False
+https://framagit.org/synalp/olki/arxivpy,True
 https://framagit.org/synalp/olki/arxivtoredis,True
 https://framagit.org/synalp/olki/dat-daemon-pyclient,False
 https://framagit.org/synalp/olki/django-dat-storage,True
 https://framagit.org/synalp/olki/documents/software-requirements-specification,True
-https://framagit.org/synalp/olki/drf-tus,False
+https://framagit.org/synalp/olki/drf-tus,True
 https://framagit.org/synalp/olki/landing,True
 https://framagit.org/synalp/olki/olki,True
 https://framagit.org/synalp/olki/publicabot,True
@@ -2915,7 +2915,7 @@ https://github.com/betagouv/with-react-login,True
 https://github.com/betagouv/with-react-query,True
 https://github.com/betagouv/with-react-redux-login,True
 https://github.com/betagouv/zam,True
-https://github.com/caml-pkcs11/caml-crush,False
+https://github.com/caml-pkcs11/caml-crush,True
 https://github.com/caml-pkcs11/opkcs11-tool,False
 https://github.com/caradoc-org/caradoc,True
 https://github.com/cea-hpc/Hercule,True
@@ -3882,7 +3882,7 @@ https://github.com/fabnumdef/e-chauffeur_lib-vue,True
 https://github.com/fabnumdef/e-chauffeur_user,True
 https://github.com/fabnumdef/fabnumdef.d3,False
 https://github.com/fabnumdef/fabnumdef.github.io,True
-https://github.com/fabnumdef/fabrique-chatbot,False
+https://github.com/fabnumdef/fabrique-chatbot,True
 https://github.com/fabnumdef/fabrique-chatbot-back,True
 https://github.com/fabnumdef/fabrique-chatbot-front,True
 https://github.com/fabnumdef/resources,True
@@ -5564,7 +5564,7 @@ https://gitlab.inria.fr/GardiNet/liblc,True
 https://gitlab.inria.fr/IOTLanguage/IoTCompilertoBIP,True
 https://gitlab.inria.fr/InBio/Public/efaecalis-ratio,False
 https://gitlab.inria.fr/InBio/Public/fwd_ad,True
-https://gitlab.inria.fr/InBio/Public/hydriver,False
+https://gitlab.inria.fr/InBio/Public/hydriver,True
 https://gitlab.inria.fr/LightFieldCodingLibrary/HEVC,True
 https://gitlab.inria.fr/LightFieldCodingLibrary/LF,True
 https://gitlab.inria.fr/LightFieldCodingLibrary/SR,True
@@ -5578,7 +5578,7 @@ https://gitlab.inria.fr/Madeus/mad-openstack,True
 https://gitlab.inria.fr/MarTo/marto,True
 https://gitlab.inria.fr/MoReFEM/CoreLibrary/MoReFEM,False
 https://gitlab.inria.fr/MoReFEM/CoreLibrary/generatedockerimages,False
-https://gitlab.inria.fr/MoReFEM/CoreLibrary/introductiontalks,False
+https://gitlab.inria.fr/MoReFEM/CoreLibrary/introductiontalks,True
 https://gitlab.inria.fr/MoReFEM/Models/AcousticWave,False
 https://gitlab.inria.fr/MoReFEM/Models/Bidomain,False
 https://gitlab.inria.fr/MoReFEM/Models/HyperelasticityIncompressible,True
@@ -5648,7 +5648,7 @@ https://gitlab.inria.fr/WIDE/HyFN,True
 https://gitlab.inria.fr/WIDE/chepin/flexnet,False
 https://gitlab.inria.fr/WIDE/chepin/libflexcode,False
 https://gitlab.inria.fr/WIDE/chepin/paper,False
-https://gitlab.inria.fr/WIDE/dietcoin/dietcoin-exp,False
+https://gitlab.inria.fr/WIDE/dietcoin/dietcoin-exp,True
 https://gitlab.inria.fr/WIDE/dietcoin/dietcoin-lib,False
 https://gitlab.inria.fr/WIDE/f3c-evaluation,True
 https://gitlab.inria.fr/WIDE/gps-exp,True
@@ -6079,7 +6079,7 @@ https://gitlab.inria.fr/expression/expression-externals/easyloggingpp,True
 https://gitlab.inria.fr/expression/expression-externals/eigen,True
 https://gitlab.inria.fr/expression/expression-externals/kenlm,True
 https://gitlab.inria.fr/expression/expression-externals/libxml2,True
-https://gitlab.inria.fr/expression/expression-externals/mitlm,False
+https://gitlab.inria.fr/expression/expression-externals/mitlm,True
 https://gitlab.inria.fr/expression/expression-externals/old_icu,True
 https://gitlab.inria.fr/expression/tools/FlexEval,True
 https://gitlab.inria.fr/expression/tools/roots,True
@@ -6119,7 +6119,7 @@ https://gitlab.inria.fr/gappa/gappa,True
 https://gitlab.inria.fr/gazelle/applications/mixed/CDAGenerator,False
 https://gitlab.inria.fr/gazelle/applications/mixed/gazelle-atna,False
 https://gitlab.inria.fr/gazelle/applications/mixed/gazelle-tm,False
-https://gitlab.inria.fr/gazelle/applications/test-design/AssertionManager,False
+https://gitlab.inria.fr/gazelle/applications/test-design/AssertionManager,True
 https://gitlab.inria.fr/gazelle/applications/test-design/DemographicDataServer,False
 https://gitlab.inria.fr/gazelle/applications/test-execution/gazelle-proxy,True
 https://gitlab.inria.fr/gazelle/applications/test-execution/simulator/HPDSimulator,False
@@ -6140,11 +6140,11 @@ https://gitlab.inria.fr/gazelle/framework/logger,False
 https://gitlab.inria.fr/gazelle/framework/preferences,False
 https://gitlab.inria.fr/gazelle/library/HL7Common,True
 https://gitlab.inria.fr/gazelle/library/annotations,False
-https://gitlab.inria.fr/gazelle/library/archetypes/project-archetype,False
+https://gitlab.inria.fr/gazelle/library/archetypes/project-archetype,True
 https://gitlab.inria.fr/gazelle/library/assets,True
 https://gitlab.inria.fr/gazelle/library/auditMessage-validator-api,True
 https://gitlab.inria.fr/gazelle/library/cas-client,True
-https://gitlab.inria.fr/gazelle/library/datatable-component,False
+https://gitlab.inria.fr/gazelle/library/datatable-component,True
 https://gitlab.inria.fr/gazelle/library/fhir-util,True
 https://gitlab.inria.fr/gazelle/library/gazelle-assertion-coverage-provider,False
 https://gitlab.inria.fr/gazelle/library/gazelle-assets,True
@@ -6200,7 +6200,7 @@ https://gitlab.inria.fr/gecos/gecos-tools/gecos-tools-graph,False
 https://gitlab.inria.fr/gecos/gecos-tools/gecos-tools-isl,False
 https://gitlab.inria.fr/gecos/gecos-tools/gecos-tools-jnimapper,False
 https://gitlab.inria.fr/gecos/gecos-tools/gecos-tools-tommapping,True
-https://gitlab.inria.fr/gecos/gecos-tools/gecos-tools-tomsdk,False
+https://gitlab.inria.fr/gecos/gecos-tools/gecos-tools-tomsdk,True
 https://gitlab.inria.fr/gem5-nop/gem5,True
 https://gitlab.inria.fr/genouest-public/genouest-about,True
 https://gitlab.inria.fr/gerzaguet_public/2a_imr_wirelessnetwork_lab,True
@@ -6381,7 +6381,7 @@ https://gitlab.inria.fr/mecsci/grains/voronoi-diagramme,False
 https://gitlab.inria.fr/mecsci/grains/voronoi-jeu,False
 https://gitlab.inria.fr/mecsci/grains/zero,False
 https://gitlab.inria.fr/mecsi-ext/genumsi,True
-https://gitlab.inria.fr/mediation-sif/Labyrinthe/laby,False
+https://gitlab.inria.fr/mediation-sif/Labyrinthe/laby,True
 https://gitlab.inria.fr/mediation-sif/Labyrinthe/tutoriellaby,False
 https://gitlab.inria.fr/meetings/biomolecules-project,True
 https://gitlab.inria.fr/meetings/codes,True
@@ -6934,7 +6934,7 @@ https://gitlab.u-psud.fr/ter-graphupsud/singleoutputwidget,True
 https://gitlabjf.ccomptes.fr/CommunautesJF/beta,True
 https://gitlabjf.ccomptes.fr/EIG_2019/plume/documentation,False
 https://gitlabjf.ccomptes.fr/EIG_2019/plume/pagedjs-cli,False
-https://gitlabjf.ccomptes.fr/EIG_2019/plume/plume,False
+https://gitlabjf.ccomptes.fr/EIG_2019/plume/plume,True
 https://gitlabjf.ccomptes.fr/EIG_2019/plume/plume-editoria,True
 https://gitlabjf.ccomptes.fr/EIG_2019/plume/plume-prosemirror,False
 https://gitlabjf.ccomptes.fr/altair/master-jf,True
