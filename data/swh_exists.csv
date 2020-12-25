@@ -95,7 +95,7 @@ https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.gran
 https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/web-portal/components/proxies/query,False
 https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/web-portal/components/services/authentication,False
 https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/web-portal/components/services/changelog,False
-https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/web-portal/components/services/credits,False
+https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/web-portal/components/services/credits,True
 https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/web-portal/components/services/csv-catalog-downloader,True
 https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/web-portal/components/services/mailer,True
 https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/web-portal/components/services/media-library,True
@@ -234,7 +234,7 @@ https://forgemia.inra.fr/gafl/singularity/circos,False
 https://forgemia.inra.fr/gafl/singularity/crossmap,False
 https://forgemia.inra.fr/gafl/singularity/cutadapt,True
 https://forgemia.inra.fr/gafl/singularity/deeptools,False
-https://forgemia.inra.fr/gafl/singularity/dicoexpress,False
+https://forgemia.inra.fr/gafl/singularity/dicoexpress,True
 https://forgemia.inra.fr/gafl/singularity/fastp,True
 https://forgemia.inra.fr/gafl/singularity/fastqc,False
 https://forgemia.inra.fr/gafl/singularity/filtlong,True
@@ -270,7 +270,7 @@ https://forgemia.inra.fr/gafl/singularity/seqkit,False
 https://forgemia.inra.fr/gafl/singularity/seqtk,True
 https://forgemia.inra.fr/gafl/singularity/sibelia,False
 https://forgemia.inra.fr/gafl/singularity/singularity_installation,True
-https://forgemia.inra.fr/gafl/singularity/smartdenovo,False
+https://forgemia.inra.fr/gafl/singularity/smartdenovo,True
 https://forgemia.inra.fr/gafl/singularity/sra-tools,True
 https://forgemia.inra.fr/gafl/singularity/star,True
 https://forgemia.inra.fr/gafl/singularity/stringtie,True
@@ -355,7 +355,7 @@ https://forgemia.inra.fr/inter_cati_omics/singularity/Custom_containers/dicoexpr
 https://forgemia.inra.fr/inter_cati_omics/singularity/biocontainers/projet-biocontainers,True
 https://forgemia.inra.fr/inter_cati_omics/snakemake/snakemake_modules,True
 https://forgemia.inra.fr/lbe/opensilexlbe/ontologielbe,False
-https://forgemia.inra.fr/lbe/opensilexlbe/opensilex-dev,False
+https://forgemia.inra.fr/lbe/opensilexlbe/opensilex-dev,True
 https://forgemia.inra.fr/metexplore/MetExploreViz,True
 https://forgemia.inra.fr/metexplore/cbm/dexom,False
 https://forgemia.inra.fr/metexplore/cbm/fvabiomarkers,False
@@ -402,7 +402,7 @@ https://forgemia.inra.fr/rna-seq/rna-seq-compagnon,True
 https://forgemia.inra.fr/sciproject/managesciproject,True
 https://forgemia.inra.fr/singularity/bcftools_v1.10.2,True
 https://forgemia.inra.fr/singularity/test,True
-https://forgemia.inra.fr/siriusquality/sqcode/Release,False
+https://forgemia.inra.fr/siriusquality/sqcode/Release,True
 https://forgemia.inra.fr/siriusquality/sqcode/SiriusQuality-BioMa-Phenology-Component,False
 https://forgemia.inra.fr/siriusquality/sqcode/siriusquality-bioma-irradiance-component,False
 https://forgemia.inra.fr/siriusquality/sqcode/siriusquality-bioma-maizelai-component,False
@@ -421,7 +421,7 @@ https://forgemia.inra.fr/umr-astre/geonetwork,True
 https://forgemia.inra.fr/umr-astre/mapMCDA,True
 https://forgemia.inra.fr/umr-astre/spreadrate,True
 https://forgemia.inra.fr/umr-astre/topomatch,True
-https://forgemia.inra.fr/umr-astre/training/notions_stats,False
+https://forgemia.inra.fr/umr-astre/training/notions_stats,True
 https://forgemia.inra.fr/umr-boa/viseago,True
 https://forgemia.inra.fr/umr-gdec/biotools,True
 https://forgemia.inra.fr/umr-gdec/bwgs,True
@@ -672,7 +672,7 @@ https://git.unistra.fr/s2/p21,True
 https://git.unistra.fr/s2/p21-mini-projet,True
 https://git.unistra.fr/s2/s21,True
 https://git.unistra.fr/s2/t22,True
-https://git.unistra.fr/s3/barre-oblique-v3/t432_sab20_t3_b,False
+https://git.unistra.fr/s3/barre-oblique-v3/t432_sab20_t3_b,True
 https://git.unistra.fr/s3/d31-projet,True
 https://git.unistra.fr/s3/m31-projet-sim,True
 https://git.unistra.fr/scl19-t4-a/t4-2019,True
@@ -5359,7 +5359,7 @@ https://gitlab.com/fabnum-minarm/stargate/frontend,False
 https://gitlab.com/fabnum-minarm/stargate/stargate,True
 https://gitlab.com/france-mobilites/documents-marches-publics,True
 https://gitlab.com/hatvp-open/agora,True
-https://gitlab.com/healthdatahub/dataviz_tableau-de-bord,False
+https://gitlab.com/healthdatahub/dataviz_tableau-de-bord,True
 https://gitlab.com/healthdatahub/dico-snds,True
 https://gitlab.com/healthdatahub/dico-snds-creation-archive,True
 https://gitlab.com/healthdatahub/documentation-snds,True
@@ -6168,7 +6168,7 @@ https://gitlab.inria.fr/gazelle/specific-tools/epr/idp,False
 https://gitlab.inria.fr/gazelle/specific-tools/epr/metadata-update-responders,True
 https://gitlab.inria.fr/gazelle/specific-tools/epr/no-peer-testing,True
 https://gitlab.inria.fr/gazelle/specific-tools/epr/ppq-repository,False
-https://gitlab.inria.fr/gazelle/specific-tools/epr/schematron,False
+https://gitlab.inria.fr/gazelle/specific-tools/epr/schematron,True
 https://gitlab.inria.fr/gazelle/specific-tools/epr/xds-xca-simulator,False
 https://gitlab.inria.fr/gazelle/specific-tools/epr/xdstools,False
 https://gitlab.inria.fr/gazelle/specific-tools/sequoia/acp,True
@@ -6806,7 +6806,7 @@ https://gitlab.irstea.fr/pole-is/docker/clamavd,False
 https://gitlab.irstea.fr/pole-is/docker/docker-ci,True
 https://gitlab.irstea.fr/pole-is/docker/elasticsearch,False
 https://gitlab.irstea.fr/pole-is/docker/php,False
-https://gitlab.irstea.fr/pole-is/docker/postgis,False
+https://gitlab.irstea.fr/pole-is/docker/postgis,True
 https://gitlab.irstea.fr/pole-is/docker/postgres,False
 https://gitlab.irstea.fr/pole-is/docker/vpn-proxy,True
 https://gitlab.irstea.fr/pole-is/hugo-test,True
