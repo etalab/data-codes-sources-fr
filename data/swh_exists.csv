@@ -205,7 +205,7 @@ https://forgemia.inra.fr/fact/fact,False
 https://forgemia.inra.fr/fact/pfptools,False
 https://forgemia.inra.fr/formation/formation-python-inrae,True
 https://forgemia.inra.fr/formation/python-pour-les-biologistes,True
-https://forgemia.inra.fr/gafl/pipelines_snakemake/allmine,False
+https://forgemia.inra.fr/gafl/pipelines_snakemake/allmine,True
 https://forgemia.inra.fr/gafl/pipelines_snakemake/ezqtlseq,False
 https://forgemia.inra.fr/gafl/pipelines_snakemake/rnaseq,True
 https://forgemia.inra.fr/gafl/pipelines_snakemake/wgs,True
@@ -220,7 +220,7 @@ https://forgemia.inra.fr/gafl/singularity/Rsamtools_graph,False
 https://forgemia.inra.fr/gafl/singularity/arcs,False
 https://forgemia.inra.fr/gafl/singularity/bamtools,False
 https://forgemia.inra.fr/gafl/singularity/bamutil,True
-https://forgemia.inra.fr/gafl/singularity/bcftools,False
+https://forgemia.inra.fr/gafl/singularity/bcftools,True
 https://forgemia.inra.fr/gafl/singularity/bedtools,True
 https://forgemia.inra.fr/gafl/singularity/bioawk,False
 https://forgemia.inra.fr/gafl/singularity/biopython,False
@@ -278,7 +278,7 @@ https://forgemia.inra.fr/gafl/singularity/tabix,True
 https://forgemia.inra.fr/gafl/singularity/transdecoder,True
 https://forgemia.inra.fr/gafl/singularity/trimmomatic,False
 https://forgemia.inra.fr/gafl/singularity/trinity,False
-https://forgemia.inra.fr/gafl/singularity/trinotate,False
+https://forgemia.inra.fr/gafl/singularity/trinotate,True
 https://forgemia.inra.fr/gafl/singularity/varscan,True
 https://forgemia.inra.fr/gafl/singularity/vcftools,False
 https://forgemia.inra.fr/gafl/singularity/whatshap,False
@@ -680,7 +680,7 @@ https://git.unistra.fr/scl19-t4-c/juthose,True
 https://git.unistra.fr/scl19-t4-e/t4,True
 https://git.unistra.fr/seul/LeMeilleurPresident,True
 https://git.unistra.fr/seul/P4a,True
-https://git.unistra.fr/sidereal/ptweb3,False
+https://git.unistra.fr/sidereal/ptweb3,True
 https://git.unistra.fr/spice-girls-ft-jerry/school-game,True
 https://git.unistra.fr/t4-boost/t4,True
 https://git.unistra.fr/t4-the-origin/arti4,True
@@ -5418,7 +5418,7 @@ https://gitlab.huma-num.fr/disco-lge/vue-d-ensemble,True
 https://gitlab.huma-num.fr/ecrinum/anthologia/pythonap,False
 https://gitlab.huma-num.fr/ecrinum/manuels/introduction-a-zotero,False
 https://gitlab.huma-num.fr/ecrinum/manuels/tutoriel-markdown-pandoc,True
-https://gitlab.huma-num.fr/ecrinum/sens-public/gestionedition,False
+https://gitlab.huma-num.fr/ecrinum/sens-public/gestionedition,True
 https://gitlab.huma-num.fr/ecrinum/stylo/presentations/fosdem-2020,False
 https://gitlab.huma-num.fr/ecrinum/stylo/presentations/presentation-courte,True
 https://gitlab.huma-num.fr/eurhisfirm/annuaires-favre,True
@@ -5479,8 +5479,8 @@ https://gitlab.huma-num.fr/le-livre-de-la-jeunesse-engag-e-en-nouvelle-aquitaine
 https://gitlab.huma-num.fr/mappemonde/archives,True
 https://gitlab.huma-num.fr/mshs-poitiers/forellis/datagrowth,False
 https://gitlab.huma-num.fr/mshs-poitiers/forellis/dicodiachro,True
-https://gitlab.huma-num.fr/mshs-poitiers/forellis/erea,False
-https://gitlab.huma-num.fr/mshs-poitiers/forellis/gestion-de-version-et-recherche-reproductible,False
+https://gitlab.huma-num.fr/mshs-poitiers/forellis/erea,True
+https://gitlab.huma-num.fr/mshs-poitiers/forellis/gestion-de-version-et-recherche-reproductible,True
 https://gitlab.huma-num.fr/mshs-poitiers/forellis/grafe,False
 https://gitlab.huma-num.fr/mshs-poitiers/forellis/marmython,False
 https://gitlab.huma-num.fr/mshs-poitiers/forellis/sudocmeta2csv,True
@@ -5563,7 +5563,7 @@ https://gitlab.inria.fr/GardiNet/dragonnet,True
 https://gitlab.inria.fr/GardiNet/liblc,True
 https://gitlab.inria.fr/IOTLanguage/IoTCompilertoBIP,True
 https://gitlab.inria.fr/InBio/Public/efaecalis-ratio,False
-https://gitlab.inria.fr/InBio/Public/fwd_ad,False
+https://gitlab.inria.fr/InBio/Public/fwd_ad,True
 https://gitlab.inria.fr/InBio/Public/hydriver,False
 https://gitlab.inria.fr/LightFieldCodingLibrary/HEVC,True
 https://gitlab.inria.fr/LightFieldCodingLibrary/LF,True
@@ -5759,7 +5759,7 @@ https://gitlab.inria.fr/almanach/lectaurep/pipeline,False
 https://gitlab.inria.fr/almanach/mgkit/biomg,False
 https://gitlab.inria.fr/almanach/mgkit/depgraph,False
 https://gitlab.inria.fr/almanach/mgkit/dyalog-expander,False
-https://gitlab.inria.fr/almanach/mgkit/emg,False
+https://gitlab.inria.fr/almanach/mgkit/emg,True
 https://gitlab.inria.fr/almanach/mgkit/forest_utils,True
 https://gitlab.inria.fr/almanach/mgkit/french-toy-tag,False
 https://gitlab.inria.fr/almanach/mgkit/frmg,False
@@ -6126,13 +6126,13 @@ https://gitlab.inria.fr/gazelle/applications/test-execution/simulator/HPDSimulat
 https://gitlab.inria.fr/gazelle/applications/test-execution/simulator/Patient-Manager,True
 https://gitlab.inria.fr/gazelle/applications/test-execution/simulator/access-token-provider,True
 https://gitlab.inria.fr/gazelle/applications/test-execution/simulator/app.patient-registry,False
-https://gitlab.inria.fr/gazelle/applications/test-execution/simulator/audit-record-simulator,False
+https://gitlab.inria.fr/gazelle/applications/test-execution/simulator/audit-record-simulator,True
 https://gitlab.inria.fr/gazelle/applications/test-execution/simulator/gazelle-webservice-tester,True
 https://gitlab.inria.fr/gazelle/applications/test-execution/simulator/patient-registry,True
 https://gitlab.inria.fr/gazelle/applications/test-execution/simulator/pdqm-connector,False
 https://gitlab.inria.fr/gazelle/applications/test-execution/validator/EVSClient,True
 https://gitlab.inria.fr/gazelle/applications/test-execution/validator/SchematronValidator,True
-https://gitlab.inria.fr/gazelle/applications/test-execution/validator/ch_iua-validator-service,False
+https://gitlab.inria.fr/gazelle/applications/test-execution/validator/ch_iua-validator-service,True
 https://gitlab.inria.fr/gazelle/applications/test-execution/validator/gazellehl7v2validator,True
 https://gitlab.inria.fr/gazelle/documentation/gazelle-user-documentation,False
 https://gitlab.inria.fr/gazelle/external-library,True
@@ -6156,7 +6156,7 @@ https://gitlab.inria.fr/gazelle/library/ui-service,False
 https://gitlab.inria.fr/gazelle/library/unit-test,True
 https://gitlab.inria.fr/gazelle/library/version,False
 https://gitlab.inria.fr/gazelle/model-api/gitb,False
-https://gitlab.inria.fr/gazelle/model-api/messaging-model,False
+https://gitlab.inria.fr/gazelle/model-api/messaging-model,True
 https://gitlab.inria.fr/gazelle/model-api/search,False
 https://gitlab.inria.fr/gazelle/model-api/standard-block-api,False
 https://gitlab.inria.fr/gazelle/model-api/validation-model,False
@@ -6829,7 +6829,7 @@ https://gitlab.irstea.fr/pole-is/tools/phpmd-shim,True
 https://gitlab.irstea.fr/pole-is/tools/phpstan-config,False
 https://gitlab.irstea.fr/pole-is/tools/phpunit-shim,False
 https://gitlab.irstea.fr/pole-is/tools/prezbuilder,True
-https://gitlab.irstea.fr/pole-is/tools/reveal.js,False
+https://gitlab.irstea.fr/pole-is/tools/reveal.js,True
 https://gitlab.irstea.fr/pomosed/clairelix,True
 https://gitlab.irstea.fr/pomosed/naiades,True
 https://gitlab.irstea.fr/pomosed/rfunctions,False
@@ -6846,7 +6846,7 @@ https://gitlab.irstea.fr/reversaal/OhmPi,True
 https://gitlab.irstea.fr/reversaal/tw-modeling-toolkit,True
 https://gitlab.irstea.fr/reversaal/wetlands_xray_tomopgraphy,True
 https://gitlab.irstea.fr/support/wiki,True
-https://gitlab.irstea.fr/umr-tetis/aidmoit/collect,False
+https://gitlab.irstea.fr/umr-tetis/aidmoit/collect,True
 https://gitlab.irstea.fr/umr-tetis/aidmoit/datalake-deployment,True
 https://gitlab.irstea.fr/umr-tetis/biotex_python,True
 https://gitlab.irstea.fr/umr-tetis/mood/geonetwork-insertion,False
