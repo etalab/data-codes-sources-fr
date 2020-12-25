@@ -79,7 +79,7 @@ https://forge.grandlyon.com/systemes-dinformation/gat_gatling,True
 https://forge.grandlyon.com/systemes-dinformation/pasi-portail-d-acces-au-si,True
 https://forge.grandlyon.com/systemes-dinformation/project-template/sdk-go,True
 https://forge.grandlyon.com/web-et-numerique/llle_project/ecolyo,True
-https://forge.grandlyon.com/web-et-numerique/llle_project/egl-konnector,False
+https://forge.grandlyon.com/web-et-numerique/llle_project/egl-konnector,True
 https://forge.grandlyon.com/web-et-numerique/llle_project/enedis-konnector,True
 https://forge.grandlyon.com/web-et-numerique/llle_project/grdf-konnector,True
 https://forge.grandlyon.com/web-et-numerique/llle_project/grdf-scraping-konnector,False
@@ -201,7 +201,7 @@ https://forgemia.inra.fr/cirad--monde-apres/reunion_initiatives_urgences,True
 https://forgemia.inra.fr/cirad--monde-apres/teletravail,True
 https://forgemia.inra.fr/enseignement-mistea/reports-with-markdown,True
 https://forgemia.inra.fr/epgv/nlgenomesweeper,True
-https://forgemia.inra.fr/fact/fact,False
+https://forgemia.inra.fr/fact/fact,True
 https://forgemia.inra.fr/fact/pfptools,False
 https://forgemia.inra.fr/formation/formation-python-inrae,True
 https://forgemia.inra.fr/formation/python-pour-les-biologistes,True
@@ -218,7 +218,7 @@ https://forgemia.inra.fr/gafl/singularity/R_QTLseqr,False
 https://forgemia.inra.fr/gafl/singularity/R_base,False
 https://forgemia.inra.fr/gafl/singularity/Rsamtools_graph,False
 https://forgemia.inra.fr/gafl/singularity/arcs,False
-https://forgemia.inra.fr/gafl/singularity/bamtools,False
+https://forgemia.inra.fr/gafl/singularity/bamtools,True
 https://forgemia.inra.fr/gafl/singularity/bamutil,True
 https://forgemia.inra.fr/gafl/singularity/bcftools,True
 https://forgemia.inra.fr/gafl/singularity/bedtools,True
@@ -237,7 +237,7 @@ https://forgemia.inra.fr/gafl/singularity/deeptools,False
 https://forgemia.inra.fr/gafl/singularity/dicoexpress,False
 https://forgemia.inra.fr/gafl/singularity/fastp,True
 https://forgemia.inra.fr/gafl/singularity/fastqc,False
-https://forgemia.inra.fr/gafl/singularity/filtlong,False
+https://forgemia.inra.fr/gafl/singularity/filtlong,True
 https://forgemia.inra.fr/gafl/singularity/flye,True
 https://forgemia.inra.fr/gafl/singularity/freebayes,False
 https://forgemia.inra.fr/gafl/singularity/gatk4,False
@@ -5337,7 +5337,7 @@ https://gitlab.com/dreal-datalab/zonages-habitat,True
 https://gitlab.com/fabnum-minarm/e-chauffeur/api,True
 https://gitlab.com/fabnum-minarm/e-chauffeur/dashboard,True
 https://gitlab.com/fabnum-minarm/e-chauffeur/driver,True
-https://gitlab.com/fabnum-minarm/e-chauffeur/e-chauffeur,False
+https://gitlab.com/fabnum-minarm/e-chauffeur/e-chauffeur,True
 https://gitlab.com/fabnum-minarm/e-chauffeur/lib-vue,True
 https://gitlab.com/fabnum-minarm/e-chauffeur/navette,False
 https://gitlab.com/fabnum-minarm/e-chauffeur/user,True
@@ -5381,7 +5381,7 @@ https://gitlab.com/peren/api-meubles/doc-api,False
 https://gitlab.com/peren/api-meubles/fraddress,False
 https://gitlab.com/peren/api-meubles/frontend,True
 https://gitlab.com/peren/api-meubles/website,True
-https://gitlab.com/peren/datasets/contours-administratifs,False
+https://gitlab.com/peren/datasets/contours-administratifs,True
 https://gitlab.com/pidila/checklist-app,True
 https://gitlab.com/pidila/checklist-pidila,True
 https://gitlab.com/pidila/checklist-pidila-old,True
@@ -5415,11 +5415,11 @@ https://gitlab.huma-num.fr/cosme/telma_chartes_imports,True
 https://gitlab.huma-num.fr/disco-lge/processinglge,True
 https://gitlab.huma-num.fr/disco-lge/soprano,True
 https://gitlab.huma-num.fr/disco-lge/vue-d-ensemble,True
-https://gitlab.huma-num.fr/ecrinum/anthologia/pythonap,False
+https://gitlab.huma-num.fr/ecrinum/anthologia/pythonap,True
 https://gitlab.huma-num.fr/ecrinum/manuels/introduction-a-zotero,False
 https://gitlab.huma-num.fr/ecrinum/manuels/tutoriel-markdown-pandoc,True
 https://gitlab.huma-num.fr/ecrinum/sens-public/gestionedition,True
-https://gitlab.huma-num.fr/ecrinum/stylo/presentations/fosdem-2020,False
+https://gitlab.huma-num.fr/ecrinum/stylo/presentations/fosdem-2020,True
 https://gitlab.huma-num.fr/ecrinum/stylo/presentations/presentation-courte,True
 https://gitlab.huma-num.fr/eurhisfirm/annuaires-favre,True
 https://gitlab.huma-num.fr/eurhisfirm/biryani,True
@@ -6158,14 +6158,14 @@ https://gitlab.inria.fr/gazelle/library/version,False
 https://gitlab.inria.fr/gazelle/model-api/gitb,False
 https://gitlab.inria.fr/gazelle/model-api/messaging-model,True
 https://gitlab.inria.fr/gazelle/model-api/search,False
-https://gitlab.inria.fr/gazelle/model-api/standard-block-api,False
+https://gitlab.inria.fr/gazelle/model-api/standard-block-api,True
 https://gitlab.inria.fr/gazelle/model-api/validation-model,False
 https://gitlab.inria.fr/gazelle/specific-tools/connectivity-test-scripts,True
 https://gitlab.inria.fr/gazelle/specific-tools/epr/adr-provider,True
 https://gitlab.inria.fr/gazelle/specific-tools/epr/assertion-provider,True
 https://gitlab.inria.fr/gazelle/specific-tools/epr/atc-repository,False
 https://gitlab.inria.fr/gazelle/specific-tools/epr/idp,False
-https://gitlab.inria.fr/gazelle/specific-tools/epr/metadata-update-responders,False
+https://gitlab.inria.fr/gazelle/specific-tools/epr/metadata-update-responders,True
 https://gitlab.inria.fr/gazelle/specific-tools/epr/no-peer-testing,True
 https://gitlab.inria.fr/gazelle/specific-tools/epr/ppq-repository,False
 https://gitlab.inria.fr/gazelle/specific-tools/epr/schematron,False
@@ -6193,7 +6193,7 @@ https://gitlab.inria.fr/gecos/gecos-rtl,True
 https://gitlab.inria.fr/gecos/gecos-scilab,True
 https://gitlab.inria.fr/gecos/gecos-scop,True
 https://gitlab.inria.fr/gecos/gecos-testframework,True
-https://gitlab.inria.fr/gecos/gecos-tools/gecos-graphviz,False
+https://gitlab.inria.fr/gecos/gecos-tools/gecos-graphviz,True
 https://gitlab.inria.fr/gecos/gecos-tools/gecos-rtl,False
 https://gitlab.inria.fr/gecos/gecos-tools/gecos-tools-emf,False
 https://gitlab.inria.fr/gecos/gecos-tools/gecos-tools-graph,False
@@ -6414,7 +6414,7 @@ https://gitlab.inria.fr/ml_genetics/private/temporal_PCA,False
 https://gitlab.inria.fr/ml_genetics/public/DNA_DNA,False
 https://gitlab.inria.fr/ml_genetics/public/Pop_gen_simulators,False
 https://gitlab.inria.fr/ml_genetics/public/artificial_genomes,True
-https://gitlab.inria.fr/ml_genetics/public/demoseq,False
+https://gitlab.inria.fr/ml_genetics/public/demoseq,True
 https://gitlab.inria.fr/ml_genetics/public/dlpopsize,False
 https://gitlab.inria.fr/ml_genetics/public/dlpopsize_paper,False
 https://gitlab.inria.fr/ml_genetics/public/flagel_cnn,False
