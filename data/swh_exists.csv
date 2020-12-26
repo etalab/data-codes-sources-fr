@@ -193,7 +193,7 @@ https://forgemia.inra.fr/biosys-public/rba-inrae-fr,True
 https://forgemia.inra.fr/cati-boom-public/site-officiel,True
 https://forgemia.inra.fr/chemhouse/octave/tbjmr/CovSel,True
 https://forgemia.inra.fr/chemhouse/octave/tbjmr/VSN,False
-https://forgemia.inra.fr/chemhouse/octave/tbjmr/ncovsel,False
+https://forgemia.inra.fr/chemhouse/octave/tbjmr/ncovsel,True
 https://forgemia.inra.fr/chemhousebas/octave/covsel,False
 https://forgemia.inra.fr/chemhousebas/parafac,True
 https://forgemia.inra.fr/chemhousebas/vsn,True
@@ -216,7 +216,7 @@ https://forgemia.inra.fr/gafl/singularity/Bionano_solve,False
 https://forgemia.inra.fr/gafl/singularity/QTLseqr,False
 https://forgemia.inra.fr/gafl/singularity/R_QTLseqr,False
 https://forgemia.inra.fr/gafl/singularity/R_base,False
-https://forgemia.inra.fr/gafl/singularity/Rsamtools_graph,False
+https://forgemia.inra.fr/gafl/singularity/Rsamtools_graph,True
 https://forgemia.inra.fr/gafl/singularity/arcs,False
 https://forgemia.inra.fr/gafl/singularity/bamtools,True
 https://forgemia.inra.fr/gafl/singularity/bamutil,True
@@ -5346,7 +5346,7 @@ https://gitlab.com/fabnum-minarm/igloo/docs,True
 https://gitlab.com/fabnum-minarm/igloo/gitlab-templates,True
 https://gitlab.com/fabnum-minarm/igloo/helm-charts,True
 https://gitlab.com/fabnum-minarm/igloo/terraform/main,True
-https://gitlab.com/fabnum-minarm/igloo/terraform/modules/add-runner,False
+https://gitlab.com/fabnum-minarm/igloo/terraform/modules/add-runner,True
 https://gitlab.com/fabnum-minarm/igloo/terraform/modules/configure-repository-for-deployment,True
 https://gitlab.com/fabnum-minarm/igloo/terraform/modules/create-namespace,True
 https://gitlab.com/fabnum-minarm/igloo/terraform/projects/_template,True
@@ -5565,6 +5565,7 @@ https://gitlab.inria.fr/IOTLanguage/IoTCompilertoBIP,True
 https://gitlab.inria.fr/InBio/Public/efaecalis-ratio,False
 https://gitlab.inria.fr/InBio/Public/fwd_ad,True
 https://gitlab.inria.fr/InBio/Public/hydriver,True
+https://gitlab.inria.fr/InBio/Public/reacsight,False
 https://gitlab.inria.fr/LightFieldCodingLibrary/HEVC,True
 https://gitlab.inria.fr/LightFieldCodingLibrary/LF,True
 https://gitlab.inria.fr/LightFieldCodingLibrary/SR,True
@@ -6159,7 +6160,7 @@ https://gitlab.inria.fr/gazelle/model-api/gitb,False
 https://gitlab.inria.fr/gazelle/model-api/messaging-model,True
 https://gitlab.inria.fr/gazelle/model-api/search,False
 https://gitlab.inria.fr/gazelle/model-api/standard-block-api,True
-https://gitlab.inria.fr/gazelle/model-api/validation-model,False
+https://gitlab.inria.fr/gazelle/model-api/validation-model,True
 https://gitlab.inria.fr/gazelle/specific-tools/connectivity-test-scripts,True
 https://gitlab.inria.fr/gazelle/specific-tools/epr/adr-provider,True
 https://gitlab.inria.fr/gazelle/specific-tools/epr/assertion-provider,True
@@ -6167,7 +6168,7 @@ https://gitlab.inria.fr/gazelle/specific-tools/epr/atc-repository,False
 https://gitlab.inria.fr/gazelle/specific-tools/epr/idp,False
 https://gitlab.inria.fr/gazelle/specific-tools/epr/metadata-update-responders,True
 https://gitlab.inria.fr/gazelle/specific-tools/epr/no-peer-testing,True
-https://gitlab.inria.fr/gazelle/specific-tools/epr/ppq-repository,False
+https://gitlab.inria.fr/gazelle/specific-tools/epr/ppq-repository,True
 https://gitlab.inria.fr/gazelle/specific-tools/epr/schematron,True
 https://gitlab.inria.fr/gazelle/specific-tools/epr/xds-xca-simulator,True
 https://gitlab.inria.fr/gazelle/specific-tools/epr/xdstools,False
@@ -6197,7 +6198,7 @@ https://gitlab.inria.fr/gecos/gecos-tools/gecos-graphviz,True
 https://gitlab.inria.fr/gecos/gecos-tools/gecos-rtl,False
 https://gitlab.inria.fr/gecos/gecos-tools/gecos-tools-emf,False
 https://gitlab.inria.fr/gecos/gecos-tools/gecos-tools-graph,False
-https://gitlab.inria.fr/gecos/gecos-tools/gecos-tools-isl,False
+https://gitlab.inria.fr/gecos/gecos-tools/gecos-tools-isl,True
 https://gitlab.inria.fr/gecos/gecos-tools/gecos-tools-jnimapper,False
 https://gitlab.inria.fr/gecos/gecos-tools/gecos-tools-tommapping,True
 https://gitlab.inria.fr/gecos/gecos-tools/gecos-tools-tomsdk,True
@@ -6629,7 +6630,7 @@ https://gitlab.inria.fr/sibr/projects/semantic-reflections/segmentation-network,
 https://gitlab.inria.fr/sibr/projects/semantic-reflections/semantic_reflections,False
 https://gitlab.inria.fr/sibr/projects/simple,False
 https://gitlab.inria.fr/sibr/projects/soft3d,False
-https://gitlab.inria.fr/sibr/projects/spixelwarp,False
+https://gitlab.inria.fr/sibr/projects/spixelwarp,True
 https://gitlab.inria.fr/sibr/projects/tfgl_interop,False
 https://gitlab.inria.fr/sibr/sibr_core,False
 https://gitlab.inria.fr/simgrid/platform-calibration,True
@@ -6811,7 +6812,7 @@ https://gitlab.irstea.fr/pole-is/docker/postgres,False
 https://gitlab.irstea.fr/pole-is/docker/vpn-proxy,True
 https://gitlab.irstea.fr/pole-is/hugo-test,True
 https://gitlab.irstea.fr/pole-is/packages/errors,True
-https://gitlab.irstea.fr/pole-is/packages/irstea-typescript-config,False
+https://gitlab.irstea.fr/pole-is/packages/irstea-typescript-config,True
 https://gitlab.irstea.fr/pole-is/packages/ngx-debug,True
 https://gitlab.irstea.fr/pole-is/packages/ngx-rxtools,True
 https://gitlab.irstea.fr/pole-is/tools/composer-require-checker-shim,False
