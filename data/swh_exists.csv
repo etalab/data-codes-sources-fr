@@ -405,7 +405,7 @@ https://forgemia.inra.fr/singularity/test,True
 https://forgemia.inra.fr/siriusquality/sqcode/Release,True
 https://forgemia.inra.fr/siriusquality/sqcode/SiriusQuality-BioMa-Phenology-Component,False
 https://forgemia.inra.fr/siriusquality/sqcode/siriusquality-bioma-irradiance-component,False
-https://forgemia.inra.fr/siriusquality/sqcode/siriusquality-bioma-maizelai-component,False
+https://forgemia.inra.fr/siriusquality/sqcode/siriusquality-bioma-maizelai-component,True
 https://forgemia.inra.fr/siriusquality/sqcode/siriusquality-bioma-wheatpotentiallai-component,False
 https://forgemia.inra.fr/sunrise/15ex05_data_correction,True
 https://forgemia.inra.fr/sunrise/network-inference,True
@@ -632,7 +632,7 @@ https://git.unistra.fr/les-sans-noms/client-mobile/client-mobile-test,False
 https://git.unistra.fr/les-sans-noms/dossiers,True
 https://git.unistra.fr/les-sans-noms/mod-le-serveur,True
 https://git.unistra.fr/les-sans-noms/react_admin_jeux,True
-https://git.unistra.fr/les-sans-noms/serveur-central/client_serveur_central,False
+https://git.unistra.fr/les-sans-noms/serveur-central/client_serveur_central,True
 https://git.unistra.fr/les-sans-noms/serveur-central/cultwars.website,True
 https://git.unistra.fr/les-sans-noms/serveur-de-jeux-websocket-t-lechargable,True
 https://git.unistra.fr/les-sans-noms/serveur-jeu/client-web-admin,False
@@ -4852,7 +4852,7 @@ https://github.com/pass-culture/reverse-proxy,True
 https://github.com/pass-culture/telegraf-buildpack,True
 https://github.com/pass-culture/telegraf-scalingo,True
 https://github.com/picty/concerto,False
-https://github.com/picty/parsifal,False
+https://github.com/picty/parsifal,True
 https://github.com/polewebmaedi/MAEDI-Capitales,True
 https://github.com/polewebmaedi/MAEDI-Pays,True
 https://github.com/polewebmaedi/countries,True
@@ -5686,7 +5686,7 @@ https://gitlab.inria.fr/allgo/api-clients/client_spec,False
 https://gitlab.inria.fr/allgo/api-clients/python_client,False
 https://gitlab.inria.fr/allgo/doc,True
 https://gitlab.inria.fr/allgo/notebooks/demo_bw,False
-https://gitlab.inria.fr/allgo/notebooks/ndsafir,False
+https://gitlab.inria.fr/allgo/notebooks/ndsafir,True
 https://gitlab.inria.fr/allgo/notebooks/speads,False
 https://gitlab.inria.fr/almanach/SYNTAX,False
 https://gitlab.inria.fr/almanach/alCorpusManagement/corpus_proc,True
@@ -5885,7 +5885,7 @@ https://gitlab.inria.fr/ciao/pmns-for-sidh,True
 https://gitlab.inria.fr/cidre-public/malcon19,True
 https://gitlab.inria.fr/cidre-public/obfuscated-android-unit-examples,True
 https://gitlab.inria.fr/cidre-public/pymao,True
-https://gitlab.inria.fr/cidre-public/tata/tata-java,False
+https://gitlab.inria.fr/cidre-public/tata/tata-java,True
 https://gitlab.inria.fr/cidre-public/tata/tata-llvm,False
 https://gitlab.inria.fr/cidre-public/tata/tata-release,True
 https://gitlab.inria.fr/cigri-ctrl/cigri-expe,True
@@ -5924,7 +5924,7 @@ https://gitlab.inria.fr/comprise/comprise_text_to_speech,True
 https://gitlab.inria.fr/comprise/deliverable_d21,True
 https://gitlab.inria.fr/comprise/deliverables/deliverable_d21,False
 https://gitlab.inria.fr/comprise/deliverables/deliverable_d22,False
-https://gitlab.inria.fr/comprise/deliverables/deliverable_d32,False
+https://gitlab.inria.fr/comprise/deliverables/deliverable_d32,True
 https://gitlab.inria.fr/comprise/sidp,True
 https://gitlab.inria.fr/comprise/speech-to-text-weakly-supervised-learning,True
 https://gitlab.inria.fr/comprise/spoken-language-understanding-weakly-supervised-learning,True
@@ -6620,7 +6620,7 @@ https://gitlab.inria.fr/sibr/libs/nanoflann,False
 https://gitlab.inria.fr/sibr/libs/picojson,False
 https://gitlab.inria.fr/sibr/libs/rapidxml,False
 https://gitlab.inria.fr/sibr/libs/xatlas,False
-https://gitlab.inria.fr/sibr/projects/facades-repetitions/facade_repetitions,False
+https://gitlab.inria.fr/sibr/projects/facades-repetitions/facade_repetitions,True
 https://gitlab.inria.fr/sibr/projects/facades-repetitions/facade_repetitions_external,False
 https://gitlab.inria.fr/sibr/projects/fribr_framework,False
 https://gitlab.inria.fr/sibr/projects/glossy-probes/synthetic_ibr,False
