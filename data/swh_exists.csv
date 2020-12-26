@@ -202,7 +202,7 @@ https://forgemia.inra.fr/cirad--monde-apres/teletravail,True
 https://forgemia.inra.fr/enseignement-mistea/reports-with-markdown,True
 https://forgemia.inra.fr/epgv/nlgenomesweeper,True
 https://forgemia.inra.fr/fact/fact,True
-https://forgemia.inra.fr/fact/pfptools,False
+https://forgemia.inra.fr/fact/pfptools,True
 https://forgemia.inra.fr/formation/formation-python-inrae,True
 https://forgemia.inra.fr/formation/python-pour-les-biologistes,True
 https://forgemia.inra.fr/gafl/pipelines_snakemake/allmine,True
@@ -283,7 +283,7 @@ https://forgemia.inra.fr/gafl/singularity/varscan,True
 https://forgemia.inra.fr/gafl/singularity/vcftools,True
 https://forgemia.inra.fr/gafl/singularity/whatshap,False
 https://forgemia.inra.fr/gafl/snakemake_modules,True
-https://forgemia.inra.fr/gafl/thaliadb/ThaliaDB_singularity,False
+https://forgemia.inra.fr/gafl/thaliadb/ThaliaDB_singularity,True
 https://forgemia.inra.fr/genotoul-bioinfo/dgenies,True
 https://forgemia.inra.fr/genotoul-bioinfo/dgenies-viewer,True
 https://forgemia.inra.fr/genotoul-bioinfo/jflow,True
@@ -1043,7 +1043,7 @@ https://github.com/DFIR-ORC/dfir-orc-config,True
 https://github.com/DFIR-ORC/dfir-orc-doc-src,True
 https://github.com/DFIR-ORC/dfir-orc.github.io,True
 https://github.com/DFIR-ORC/llvm-project,False
-https://github.com/DFIR-ORC/orc-decrypt,False
+https://github.com/DFIR-ORC/orc-decrypt,True
 https://github.com/DFIR-ORC/vcpkg,True
 https://github.com/DGA-MI-SSI/Afl-taenia-mt,True
 https://github.com/DGA-MI-SSI/T-Brop,True
@@ -5351,7 +5351,7 @@ https://gitlab.com/fabnum-minarm/igloo/terraform/modules/configure-repository-fo
 https://gitlab.com/fabnum-minarm/igloo/terraform/modules/create-namespace,True
 https://gitlab.com/fabnum-minarm/igloo/terraform/projects/_template,True
 https://gitlab.com/fabnum-minarm/igloo/terraform/projects/alpps,True
-https://gitlab.com/fabnum-minarm/igloo/terraform/projects/anais,False
+https://gitlab.com/fabnum-minarm/igloo/terraform/projects/anais,True
 https://gitlab.com/fabnum-minarm/metiis/backend,True
 https://gitlab.com/fabnum-minarm/metiis/frontend,True
 https://gitlab.com/fabnum-minarm/stargate/backend,True
@@ -5579,7 +5579,7 @@ https://gitlab.inria.fr/MarTo/marto,True
 https://gitlab.inria.fr/MoReFEM/CoreLibrary/MoReFEM,False
 https://gitlab.inria.fr/MoReFEM/CoreLibrary/generatedockerimages,False
 https://gitlab.inria.fr/MoReFEM/CoreLibrary/introductiontalks,True
-https://gitlab.inria.fr/MoReFEM/Models/AcousticWave,False
+https://gitlab.inria.fr/MoReFEM/Models/AcousticWave,True
 https://gitlab.inria.fr/MoReFEM/Models/Bidomain,False
 https://gitlab.inria.fr/MoReFEM/Models/HyperelasticityIncompressible,True
 https://gitlab.inria.fr/MoReFEM/Models/ReactionDiffusion,False
@@ -6105,7 +6105,7 @@ https://gitlab.inria.fr/formation-gitlab-ci/navarop-tutorial,True
 https://gitlab.inria.fr/formation-gitlab-ci/tutio-ci-andrade,True
 https://gitlab.inria.fr/formation-gitlab-ci/tuto-ci-edib,True
 https://gitlab.inria.fr/formations/cmake,True
-https://gitlab.inria.fr/formations/cpp/gettingstartedwithmoderncpp,False
+https://gitlab.inria.fr/formations/cpp/gettingstartedwithmoderncpp,True
 https://gitlab.inria.fr/formations/integrationcontinue/TutorielGpuPlafrim,True
 https://gitlab.inria.fr/foscadiff/demoRameau,True
 https://gitlab.inria.fr/gagallium/gagallium,True
@@ -6169,7 +6169,7 @@ https://gitlab.inria.fr/gazelle/specific-tools/epr/metadata-update-responders,Tr
 https://gitlab.inria.fr/gazelle/specific-tools/epr/no-peer-testing,True
 https://gitlab.inria.fr/gazelle/specific-tools/epr/ppq-repository,False
 https://gitlab.inria.fr/gazelle/specific-tools/epr/schematron,True
-https://gitlab.inria.fr/gazelle/specific-tools/epr/xds-xca-simulator,False
+https://gitlab.inria.fr/gazelle/specific-tools/epr/xds-xca-simulator,True
 https://gitlab.inria.fr/gazelle/specific-tools/epr/xdstools,False
 https://gitlab.inria.fr/gazelle/specific-tools/sequoia/acp,True
 https://gitlab.inria.fr/gazelle/standard-blocks/iua-standard-blocks,False
@@ -6327,7 +6327,7 @@ https://gitlab.inria.fr/lifeware/biocham,True
 https://gitlab.inria.fr/line/aide-group/aide,True
 https://gitlab.inria.fr/line/aide-group/aidebuild,False
 https://gitlab.inria.fr/line/aide-group/aidesys,True
-https://gitlab.inria.fr/line/aide-group/esp32-roomcontrol,False
+https://gitlab.inria.fr/line/aide-group/esp32-roomcontrol,True
 https://gitlab.inria.fr/line/aide-group/jsdoc2,False
 https://gitlab.inria.fr/line/aide-group/ozobot-api,False
 https://gitlab.inria.fr/line/aide-group/ozobot-lib,False
@@ -6826,7 +6826,7 @@ https://gitlab.irstea.fr/pole-is/tools/phpcpd-shim,False
 https://gitlab.irstea.fr/pole-is/tools/phploc-shim,True
 https://gitlab.irstea.fr/pole-is/tools/phpmd-config,True
 https://gitlab.irstea.fr/pole-is/tools/phpmd-shim,True
-https://gitlab.irstea.fr/pole-is/tools/phpstan-config,False
+https://gitlab.irstea.fr/pole-is/tools/phpstan-config,True
 https://gitlab.irstea.fr/pole-is/tools/phpunit-shim,False
 https://gitlab.irstea.fr/pole-is/tools/prezbuilder,True
 https://gitlab.irstea.fr/pole-is/tools/reveal.js,True
