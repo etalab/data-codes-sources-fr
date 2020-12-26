@@ -242,7 +242,7 @@ https://forgemia.inra.fr/gafl/singularity/flye,True
 https://forgemia.inra.fr/gafl/singularity/freebayes,False
 https://forgemia.inra.fr/gafl/singularity/gatk4,False
 https://forgemia.inra.fr/gafl/singularity/genometools,True
-https://forgemia.inra.fr/gafl/singularity/hisat,False
+https://forgemia.inra.fr/gafl/singularity/hisat,True
 https://forgemia.inra.fr/gafl/singularity/htseq,False
 https://forgemia.inra.fr/gafl/singularity/interpro,False
 https://forgemia.inra.fr/gafl/singularity/minimap2,False
@@ -485,7 +485,7 @@ https://framagit.org/openfisca/ines-libre,True
 https://framagit.org/synalp/olki/arxiv-recommender,True
 https://framagit.org/synalp/olki/arxivpy,True
 https://framagit.org/synalp/olki/arxivtoredis,True
-https://framagit.org/synalp/olki/dat-daemon-pyclient,False
+https://framagit.org/synalp/olki/dat-daemon-pyclient,True
 https://framagit.org/synalp/olki/django-dat-storage,True
 https://framagit.org/synalp/olki/documents/software-requirements-specification,True
 https://framagit.org/synalp/olki/drf-tus,True
@@ -5349,7 +5349,7 @@ https://gitlab.com/fabnum-minarm/igloo/terraform/main,True
 https://gitlab.com/fabnum-minarm/igloo/terraform/modules/add-runner,False
 https://gitlab.com/fabnum-minarm/igloo/terraform/modules/configure-repository-for-deployment,True
 https://gitlab.com/fabnum-minarm/igloo/terraform/modules/create-namespace,True
-https://gitlab.com/fabnum-minarm/igloo/terraform/projects/_template,False
+https://gitlab.com/fabnum-minarm/igloo/terraform/projects/_template,True
 https://gitlab.com/fabnum-minarm/igloo/terraform/projects/alpps,True
 https://gitlab.com/fabnum-minarm/igloo/terraform/projects/anais,False
 https://gitlab.com/fabnum-minarm/metiis/backend,True
@@ -5785,7 +5785,7 @@ https://gitlab.inria.fr/almanach/time-us/docs,False
 https://gitlab.inria.fr/almanach/time-us/kraken-models,False
 https://gitlab.inria.fr/almanach/time-us/page2tei_TimeUS,False
 https://gitlab.inria.fr/almanach/time-us/schema-tei,False
-https://gitlab.inria.fr/almanach/time-us/statistiques,False
+https://gitlab.inria.fr/almanach/time-us/statistiques,True
 https://gitlab.inria.fr/almanach/time-us/transkribus-configuration,False
 https://gitlab.inria.fr/alta/alta,True
 https://gitlab.inria.fr/amibio/Infrared,True
@@ -6136,7 +6136,7 @@ https://gitlab.inria.fr/gazelle/applications/test-execution/validator/ch_iua-val
 https://gitlab.inria.fr/gazelle/applications/test-execution/validator/gazellehl7v2validator,True
 https://gitlab.inria.fr/gazelle/documentation/gazelle-user-documentation,False
 https://gitlab.inria.fr/gazelle/external-library,True
-https://gitlab.inria.fr/gazelle/framework/logger,False
+https://gitlab.inria.fr/gazelle/framework/logger,True
 https://gitlab.inria.fr/gazelle/framework/preferences,False
 https://gitlab.inria.fr/gazelle/library/HL7Common,True
 https://gitlab.inria.fr/gazelle/library/annotations,False
