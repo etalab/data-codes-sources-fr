@@ -209,7 +209,7 @@ https://forgemia.inra.fr/gafl/pipelines_snakemake/allmine,True
 https://forgemia.inra.fr/gafl/pipelines_snakemake/ezqtlseq,False
 https://forgemia.inra.fr/gafl/pipelines_snakemake/rnaseq,True
 https://forgemia.inra.fr/gafl/pipelines_snakemake/wgs,True
-https://forgemia.inra.fr/gafl/singularity/10Xgenomics,False
+https://forgemia.inra.fr/gafl/singularity/10Xgenomics,True
 https://forgemia.inra.fr/gafl/singularity/Allmine,True
 https://forgemia.inra.fr/gafl/singularity/BUSCO,False
 https://forgemia.inra.fr/gafl/singularity/Bionano_solve,False
@@ -245,7 +245,7 @@ https://forgemia.inra.fr/gafl/singularity/genometools,True
 https://forgemia.inra.fr/gafl/singularity/hisat,True
 https://forgemia.inra.fr/gafl/singularity/htseq,False
 https://forgemia.inra.fr/gafl/singularity/interpro,False
-https://forgemia.inra.fr/gafl/singularity/minimap2,False
+https://forgemia.inra.fr/gafl/singularity/minimap2,True
 https://forgemia.inra.fr/gafl/singularity/multiqc,True
 https://forgemia.inra.fr/gafl/singularity/mummer,True
 https://forgemia.inra.fr/gafl/singularity/nanocomp,True
@@ -588,7 +588,7 @@ https://git.unistra.fr/corona-corp-v2/t432_liy20_t3_a,True
 https://git.unistra.fr/csrd/white_paper_form,True
 https://git.unistra.fr/datachallenge/openaccessweek2019,True
 https://git.unistra.fr/deepen/corpus-reference,False
-https://git.unistra.fr/diploma/master-iriv/2019,False
+https://git.unistra.fr/diploma/master-iriv/2019,True
 https://git.unistra.fr/dring/dring,True
 https://git.unistra.fr/duvernay-goffic/a31-projet-puissance-4,True
 https://git.unistra.fr/e-mmigres/voc20-t3-g,True
@@ -4917,7 +4917,7 @@ https://github.com/rusticata/ldap-parser,False
 https://github.com/rusticata/ntp-parser,True
 https://github.com/rusticata/oid-registry,False
 https://github.com/rusticata/openvpn-parser,True
-https://github.com/rusticata/ospf-parser,False
+https://github.com/rusticata/ospf-parser,True
 https://github.com/rusticata/pcap-analyzer,True
 https://github.com/rusticata/pcap-parse,True
 https://github.com/rusticata/pcap-parser,True
@@ -5355,7 +5355,7 @@ https://gitlab.com/fabnum-minarm/igloo/terraform/projects/anais,True
 https://gitlab.com/fabnum-minarm/metiis/backend,True
 https://gitlab.com/fabnum-minarm/metiis/frontend,True
 https://gitlab.com/fabnum-minarm/stargate/backend,True
-https://gitlab.com/fabnum-minarm/stargate/frontend,False
+https://gitlab.com/fabnum-minarm/stargate/frontend,True
 https://gitlab.com/fabnum-minarm/stargate/stargate,True
 https://gitlab.com/france-mobilites/documents-marches-publics,True
 https://gitlab.com/hatvp-open/agora,True
@@ -5779,7 +5779,7 @@ https://gitlab.inria.fr/almanach/time-us/ExportFromTranskribus,False
 https://gitlab.inria.fr/almanach/time-us/LSE-OD2M,False
 https://gitlab.inria.fr/almanach/time-us/TEI-Boilerplate,False
 https://gitlab.inria.fr/almanach/time-us/TEITransformations,False
-https://gitlab.inria.fr/almanach/time-us/Transkribus-MassOCR,False
+https://gitlab.inria.fr/almanach/time-us/Transkribus-MassOCR,True
 https://gitlab.inria.fr/almanach/time-us/corpora-prep,False
 https://gitlab.inria.fr/almanach/time-us/corpus_texte,False
 https://gitlab.inria.fr/almanach/time-us/docs,False
@@ -6152,7 +6152,7 @@ https://gitlab.inria.fr/gazelle/library/gazelle-assets,True
 https://gitlab.inria.fr/gazelle/library/home,False
 https://gitlab.inria.fr/gazelle/library/hql,True
 https://gitlab.inria.fr/gazelle/library/preference,False
-https://gitlab.inria.fr/gazelle/library/tool,False
+https://gitlab.inria.fr/gazelle/library/tool,True
 https://gitlab.inria.fr/gazelle/library/ui-service,False
 https://gitlab.inria.fr/gazelle/library/unit-test,True
 https://gitlab.inria.fr/gazelle/library/version,False
@@ -6410,7 +6410,7 @@ https://gitlab.inria.fr/misscausal/combine-rct-rwd-review,True
 https://gitlab.inria.fr/misscausal/misscausal.gitlab.io,True
 https://gitlab.inria.fr/miticov/mitigating-covid19-outbreaks,True
 https://gitlab.inria.fr/ml_genetics/private/Beast,False
-https://gitlab.inria.fr/ml_genetics/private/robustness_pipeline,False
+https://gitlab.inria.fr/ml_genetics/private/robustness_pipeline,True
 https://gitlab.inria.fr/ml_genetics/private/temporal_PCA,False
 https://gitlab.inria.fr/ml_genetics/public/DNA_DNA,False
 https://gitlab.inria.fr/ml_genetics/public/Pop_gen_simulators,False
@@ -6449,7 +6449,7 @@ https://gitlab.inria.fr/mosaic/cellcomplex,True
 https://gitlab.inria.fr/mosaic/draco_stem,True
 https://gitlab.inria.fr/mosaic/mosaic-commons,True
 https://gitlab.inria.fr/mosaic/publications/lpy2pc,False
-https://gitlab.inria.fr/mosaic/publications/protoplast,False
+https://gitlab.inria.fr/mosaic/publications/protoplast,True
 https://gitlab.inria.fr/mosaic/publications/sam_spaghetti,True
 https://gitlab.inria.fr/mosaic/publications/tissue2d,False
 https://gitlab.inria.fr/mosaic/timagetk,True
@@ -6621,9 +6621,9 @@ https://gitlab.inria.fr/sibr/libs/picojson,False
 https://gitlab.inria.fr/sibr/libs/rapidxml,False
 https://gitlab.inria.fr/sibr/libs/xatlas,False
 https://gitlab.inria.fr/sibr/projects/facades-repetitions/facade_repetitions,True
-https://gitlab.inria.fr/sibr/projects/facades-repetitions/facade_repetitions_external,False
+https://gitlab.inria.fr/sibr/projects/facades-repetitions/facade_repetitions_external,True
 https://gitlab.inria.fr/sibr/projects/fribr_framework,False
-https://gitlab.inria.fr/sibr/projects/glossy-probes/synthetic_ibr,False
+https://gitlab.inria.fr/sibr/projects/glossy-probes/synthetic_ibr,True
 https://gitlab.inria.fr/sibr/projects/inside_out_deep_blending,False
 https://gitlab.inria.fr/sibr/projects/optix,False
 https://gitlab.inria.fr/sibr/projects/semantic-reflections/segmentation-network,False
