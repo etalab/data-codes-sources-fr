@@ -363,7 +363,7 @@ https://forgemia.inra.fr/metexplore/met4j,True
 https://forgemia.inra.fr/metexplore/metabolomics2network,True
 https://forgemia.inra.fr/metexplore/metexplore2,True
 https://forgemia.inra.fr/metexplore/metx/metexplore_components,False
-https://forgemia.inra.fr/metexplore/metx/metx-basicline,False
+https://forgemia.inra.fr/metexplore/metx/metx-basicline,True
 https://forgemia.inra.fr/metexplore/metx/metx-bubbleplot,False
 https://forgemia.inra.fr/metexplore/metx/metx-enrichement,True
 https://forgemia.inra.fr/metexplore/metx/metx-grid,False
@@ -5780,7 +5780,7 @@ https://gitlab.inria.fr/almanach/time-us/LSE-OD2M,False
 https://gitlab.inria.fr/almanach/time-us/TEI-Boilerplate,False
 https://gitlab.inria.fr/almanach/time-us/TEITransformations,False
 https://gitlab.inria.fr/almanach/time-us/Transkribus-MassOCR,True
-https://gitlab.inria.fr/almanach/time-us/corpora-prep,False
+https://gitlab.inria.fr/almanach/time-us/corpora-prep,True
 https://gitlab.inria.fr/almanach/time-us/corpus_texte,False
 https://gitlab.inria.fr/almanach/time-us/docs,False
 https://gitlab.inria.fr/almanach/time-us/kraken-models,False
@@ -5923,7 +5923,7 @@ https://gitlab.inria.fr/comprise/comprise_speech_to_text,True
 https://gitlab.inria.fr/comprise/comprise_text_to_speech,True
 https://gitlab.inria.fr/comprise/deliverable_d21,True
 https://gitlab.inria.fr/comprise/deliverables/deliverable_d21,False
-https://gitlab.inria.fr/comprise/deliverables/deliverable_d22,False
+https://gitlab.inria.fr/comprise/deliverables/deliverable_d22,True
 https://gitlab.inria.fr/comprise/deliverables/deliverable_d32,True
 https://gitlab.inria.fr/comprise/sidp,True
 https://gitlab.inria.fr/comprise/speech-to-text-weakly-supervised-learning,True
@@ -6123,7 +6123,7 @@ https://gitlab.inria.fr/gazelle/applications/mixed/gazelle-tm,False
 https://gitlab.inria.fr/gazelle/applications/test-design/AssertionManager,True
 https://gitlab.inria.fr/gazelle/applications/test-design/DemographicDataServer,True
 https://gitlab.inria.fr/gazelle/applications/test-execution/gazelle-proxy,True
-https://gitlab.inria.fr/gazelle/applications/test-execution/simulator/HPDSimulator,False
+https://gitlab.inria.fr/gazelle/applications/test-execution/simulator/HPDSimulator,True
 https://gitlab.inria.fr/gazelle/applications/test-execution/simulator/Patient-Manager,True
 https://gitlab.inria.fr/gazelle/applications/test-execution/simulator/access-token-provider,True
 https://gitlab.inria.fr/gazelle/applications/test-execution/simulator/app.patient-registry,False
@@ -6448,7 +6448,7 @@ https://gitlab.inria.fr/mosaic/bvpy,True
 https://gitlab.inria.fr/mosaic/cellcomplex,True
 https://gitlab.inria.fr/mosaic/draco_stem,True
 https://gitlab.inria.fr/mosaic/mosaic-commons,True
-https://gitlab.inria.fr/mosaic/publications/lpy2pc,False
+https://gitlab.inria.fr/mosaic/publications/lpy2pc,True
 https://gitlab.inria.fr/mosaic/publications/protoplast,True
 https://gitlab.inria.fr/mosaic/publications/sam_spaghetti,True
 https://gitlab.inria.fr/mosaic/publications/tissue2d,False
@@ -6625,10 +6625,10 @@ https://gitlab.inria.fr/sibr/projects/facades-repetitions/facade_repetitions_ext
 https://gitlab.inria.fr/sibr/projects/fribr_framework,False
 https://gitlab.inria.fr/sibr/projects/glossy-probes/synthetic_ibr,True
 https://gitlab.inria.fr/sibr/projects/inside_out_deep_blending,False
-https://gitlab.inria.fr/sibr/projects/optix,False
+https://gitlab.inria.fr/sibr/projects/optix,True
 https://gitlab.inria.fr/sibr/projects/semantic-reflections/segmentation-network,False
 https://gitlab.inria.fr/sibr/projects/semantic-reflections/semantic_reflections,False
-https://gitlab.inria.fr/sibr/projects/simple,False
+https://gitlab.inria.fr/sibr/projects/simple,True
 https://gitlab.inria.fr/sibr/projects/soft3d,False
 https://gitlab.inria.fr/sibr/projects/spixelwarp,True
 https://gitlab.inria.fr/sibr/projects/tfgl_interop,False
