@@ -354,7 +354,7 @@ https://forgemia.inra.fr/inter_cati_omics/singularity/Custom_containers/Bionano_
 https://forgemia.inra.fr/inter_cati_omics/singularity/Custom_containers/dicoexpress,True
 https://forgemia.inra.fr/inter_cati_omics/singularity/biocontainers/projet-biocontainers,True
 https://forgemia.inra.fr/inter_cati_omics/snakemake/snakemake_modules,True
-https://forgemia.inra.fr/lbe/opensilexlbe/ontologielbe,False
+https://forgemia.inra.fr/lbe/opensilexlbe/ontologielbe,True
 https://forgemia.inra.fr/lbe/opensilexlbe/opensilex-dev,True
 https://forgemia.inra.fr/metexplore/MetExploreViz,True
 https://forgemia.inra.fr/metexplore/cbm/dexom,False
@@ -364,7 +364,7 @@ https://forgemia.inra.fr/metexplore/metabolomics2network,True
 https://forgemia.inra.fr/metexplore/metexplore2,True
 https://forgemia.inra.fr/metexplore/metx/metexplore_components,False
 https://forgemia.inra.fr/metexplore/metx/metx-basicline,True
-https://forgemia.inra.fr/metexplore/metx/metx-bubbleplot,False
+https://forgemia.inra.fr/metexplore/metx/metx-bubbleplot,True
 https://forgemia.inra.fr/metexplore/metx/metx-enrichement,True
 https://forgemia.inra.fr/metexplore/metx/metx-grid,False
 https://forgemia.inra.fr/metexplore/metx/metx-scatterplot,False
@@ -1042,7 +1042,7 @@ https://github.com/DFIR-ORC/dfir-orc,True
 https://github.com/DFIR-ORC/dfir-orc-config,True
 https://github.com/DFIR-ORC/dfir-orc-doc-src,True
 https://github.com/DFIR-ORC/dfir-orc.github.io,True
-https://github.com/DFIR-ORC/llvm-project,False
+https://github.com/DFIR-ORC/llvm-project,True
 https://github.com/DFIR-ORC/orc-decrypt,True
 https://github.com/DFIR-ORC/vcpkg,True
 https://github.com/DGA-MI-SSI/Afl-taenia-mt,True
@@ -5294,7 +5294,7 @@ https://gitlab.com/api-meubles/doc-api,True
 https://gitlab.com/api-meubles/fraddress,True
 https://gitlab.com/api-meubles/frontend,True
 https://gitlab.com/api-meubles/website,True
-https://gitlab.com/arsante/atlasante/schema-dae,False
+https://gitlab.com/arsante/atlasante/schema-dae,True
 https://gitlab.com/cortext/ANSES,True
 https://gitlab.com/cortext/PAM-System,False
 https://gitlab.com/cortext/agroecology-exploration/intershipproject,True
@@ -5341,7 +5341,7 @@ https://gitlab.com/fabnum-minarm/e-chauffeur/e-chauffeur,True
 https://gitlab.com/fabnum-minarm/e-chauffeur/lib-vue,True
 https://gitlab.com/fabnum-minarm/e-chauffeur/navette,False
 https://gitlab.com/fabnum-minarm/e-chauffeur/user,True
-https://gitlab.com/fabnum-minarm/igloo/docker-images,False
+https://gitlab.com/fabnum-minarm/igloo/docker-images,True
 https://gitlab.com/fabnum-minarm/igloo/docs,True
 https://gitlab.com/fabnum-minarm/igloo/gitlab-templates,True
 https://gitlab.com/fabnum-minarm/igloo/helm-charts,True
@@ -5620,7 +5620,7 @@ https://gitlab.inria.fr/Seshat/deeplearning,True
 https://gitlab.inria.fr/Seshat/html,True
 https://gitlab.inria.fr/Seshat/internetprivacy,True
 https://gitlab.inria.fr/Seshat/javascript,True
-https://gitlab.inria.fr/Seshat/outils_pedagogiques_ra_rv,False
+https://gitlab.inria.fr/Seshat/outils_pedagogiques_ra_rv,True
 https://gitlab.inria.fr/Seshat/pt1,True
 https://gitlab.inria.fr/Seshat/simplewebpage,True
 https://gitlab.inria.fr/Seshat/test,True
@@ -5631,7 +5631,7 @@ https://gitlab.inria.fr/Simbiot/common/public/utilities/openvr_ros_docker,True
 https://gitlab.inria.fr/Simbiot/common/public/utilities/ros-optitrack-basics,False
 https://gitlab.inria.fr/Simbiot/common/public/utilities/ros-remote,True
 https://gitlab.inria.fr/Simbiot/mecsyco/mecsycocpp,False
-https://gitlab.inria.fr/Simbiot/mecsyco/mecsycodsl,False
+https://gitlab.inria.fr/Simbiot/mecsyco/mecsycodsl,True
 https://gitlab.inria.fr/Simbiot/mecsyco/mecsycojava,False
 https://gitlab.inria.fr/Simbiot/mecsyco/mecsycoscholar,False
 https://gitlab.inria.fr/SketchedLearning/fasttransformsc,True
@@ -5708,7 +5708,7 @@ https://gitlab.inria.fr/almanach/alOldies/perlmod/lingua-tagset,False
 https://gitlab.inria.fr/almanach/alOldies/scribo,False
 https://gitlab.inria.fr/almanach/alOldies/sxlfg,False
 https://gitlab.inria.fr/almanach/alOldies/sxpipe-data,False
-https://gitlab.inria.fr/almanach/alTextProcessing/alAnalyser,False
+https://gitlab.inria.fr/almanach/alTextProcessing/alAnalyser,True
 https://gitlab.inria.fr/almanach/alTextProcessing/melt,False
 https://gitlab.inria.fr/almanach/alTextProcessing/sxpipe,False
 https://gitlab.inria.fr/almanach/alexina/aaa,False
@@ -5732,7 +5732,7 @@ https://gitlab.inria.fr/almanach/alexina/lefff,False
 https://gitlab.inria.fr/almanach/alexina/lefff-frmg,False
 https://gitlab.inria.fr/almanach/alexina/leffga,False
 https://gitlab.inria.fr/almanach/alexina/leffp,False
-https://gitlab.inria.fr/almanach/alexina/lexconn,False
+https://gitlab.inria.fr/almanach/alexina/lexconn,True
 https://gitlab.inria.fr/almanach/alexina/morph_it,False
 https://gitlab.inria.fr/almanach/alexina/morphalou_alexina,False
 https://gitlab.inria.fr/almanach/alexina/ofrlex,False
