@@ -101,7 +101,7 @@ https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.gran
 https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/web-portal/components/services/media-library,True
 https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/web-portal/components/services/organizations,False
 https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/web-portal/components/services/resources-helper,True
-https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/web-portal/components/services/reuses,False
+https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/web-portal/components/services/reuses,True
 https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/web-portal/components/services/social-media-share-helper,False
 https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/web-portal/components/tools/minio-master-slave-mirror,True
 https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/web-portal/documentation,False
@@ -3566,7 +3566,7 @@ https://github.com/etalab/askbot-etalab-skin,True
 https://github.com/etalab/autopsy,True
 https://github.com/etalab/backend-siren,False
 https://github.com/etalab/bal,True
-https://github.com/etalab/ban-api-push-bal,False
+https://github.com/etalab/ban-api-push-bal,True
 https://github.com/etalab/ban-data,True
 https://github.com/etalab/ban-geocode,True
 https://github.com/etalab/ban-plateforme,True
@@ -5627,9 +5627,9 @@ https://gitlab.inria.fr/Seshat/test,True
 https://gitlab.inria.fr/Seshat/unity,True
 https://gitlab.inria.fr/Seshat/webgl,True
 https://gitlab.inria.fr/Simbiot/common/public/utilities/drone-autonome,False
-https://gitlab.inria.fr/Simbiot/common/public/utilities/openvr_ros_docker,False
+https://gitlab.inria.fr/Simbiot/common/public/utilities/openvr_ros_docker,True
 https://gitlab.inria.fr/Simbiot/common/public/utilities/ros-optitrack-basics,False
-https://gitlab.inria.fr/Simbiot/common/public/utilities/ros-remote,False
+https://gitlab.inria.fr/Simbiot/common/public/utilities/ros-remote,True
 https://gitlab.inria.fr/Simbiot/mecsyco/mecsycocpp,False
 https://gitlab.inria.fr/Simbiot/mecsyco/mecsycodsl,False
 https://gitlab.inria.fr/Simbiot/mecsyco/mecsycojava,False
@@ -6121,7 +6121,7 @@ https://gitlab.inria.fr/gazelle/applications/mixed/CDAGenerator,False
 https://gitlab.inria.fr/gazelle/applications/mixed/gazelle-atna,False
 https://gitlab.inria.fr/gazelle/applications/mixed/gazelle-tm,False
 https://gitlab.inria.fr/gazelle/applications/test-design/AssertionManager,True
-https://gitlab.inria.fr/gazelle/applications/test-design/DemographicDataServer,False
+https://gitlab.inria.fr/gazelle/applications/test-design/DemographicDataServer,True
 https://gitlab.inria.fr/gazelle/applications/test-execution/gazelle-proxy,True
 https://gitlab.inria.fr/gazelle/applications/test-execution/simulator/HPDSimulator,False
 https://gitlab.inria.fr/gazelle/applications/test-execution/simulator/Patient-Manager,True
@@ -6331,7 +6331,7 @@ https://gitlab.inria.fr/line/aide-group/aidesys,True
 https://gitlab.inria.fr/line/aide-group/esp32-roomcontrol,True
 https://gitlab.inria.fr/line/aide-group/jsdoc2,False
 https://gitlab.inria.fr/line/aide-group/ozobot-api,False
-https://gitlab.inria.fr/line/aide-group/ozobot-lib,False
+https://gitlab.inria.fr/line/aide-group/ozobot-lib,True
 https://gitlab.inria.fr/line/aide-group/persistentdata,True
 https://gitlab.inria.fr/line/aide-group/slugstring,True
 https://gitlab.inria.fr/line/aide-group/tabletop,False
