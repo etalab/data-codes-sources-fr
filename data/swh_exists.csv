@@ -5380,7 +5380,7 @@ https://gitlab.com/op18-enki/cosmic-sapeurs,True
 https://gitlab.com/op18-enki/sapeurs,True
 https://gitlab.com/peren/api-meubles/backend,False
 https://gitlab.com/peren/api-meubles/doc-api,False
-https://gitlab.com/peren/api-meubles/fraddress,False
+https://gitlab.com/peren/api-meubles/fraddress,True
 https://gitlab.com/peren/api-meubles/frontend,True
 https://gitlab.com/peren/api-meubles/website,True
 https://gitlab.com/peren/datasets/contours-administratifs,True
@@ -5689,7 +5689,7 @@ https://gitlab.inria.fr/allgo/api-clients/python_client,False
 https://gitlab.inria.fr/allgo/doc,True
 https://gitlab.inria.fr/allgo/notebooks/demo_bw,False
 https://gitlab.inria.fr/allgo/notebooks/ndsafir,True
-https://gitlab.inria.fr/allgo/notebooks/speads,False
+https://gitlab.inria.fr/allgo/notebooks/speads,True
 https://gitlab.inria.fr/almanach/SYNTAX,False
 https://gitlab.inria.fr/almanach/alCorpusManagement/corpus_proc,True
 https://gitlab.inria.fr/almanach/alCorpusManagement/error_mining,False
@@ -5708,7 +5708,7 @@ https://gitlab.inria.fr/almanach/alOldies/perlmod/lingua-maf,False
 https://gitlab.inria.fr/almanach/alOldies/perlmod/lingua-matcher,False
 https://gitlab.inria.fr/almanach/alOldies/perlmod/lingua-tagset,False
 https://gitlab.inria.fr/almanach/alOldies/scribo,False
-https://gitlab.inria.fr/almanach/alOldies/sxlfg,False
+https://gitlab.inria.fr/almanach/alOldies/sxlfg,True
 https://gitlab.inria.fr/almanach/alOldies/sxpipe-data,False
 https://gitlab.inria.fr/almanach/alTextProcessing/alAnalyser,True
 https://gitlab.inria.fr/almanach/alTextProcessing/melt,False
@@ -6419,7 +6419,7 @@ https://gitlab.inria.fr/ml_genetics/public/Pop_gen_simulators,False
 https://gitlab.inria.fr/ml_genetics/public/artificial_genomes,True
 https://gitlab.inria.fr/ml_genetics/public/demoseq,True
 https://gitlab.inria.fr/ml_genetics/public/dlpopsize,False
-https://gitlab.inria.fr/ml_genetics/public/dlpopsize_paper,False
+https://gitlab.inria.fr/ml_genetics/public/dlpopsize_paper,True
 https://gitlab.inria.fr/ml_genetics/public/flagel_cnn,True
 https://gitlab.inria.fr/mnemosyne/data_prototypes,True
 https://gitlab.inria.fr/mnemosyne/neurosmart,True
@@ -6818,7 +6818,7 @@ https://gitlab.irstea.fr/pole-is/packages/errors,True
 https://gitlab.irstea.fr/pole-is/packages/irstea-typescript-config,True
 https://gitlab.irstea.fr/pole-is/packages/ngx-debug,True
 https://gitlab.irstea.fr/pole-is/packages/ngx-rxtools,True
-https://gitlab.irstea.fr/pole-is/tools/composer-require-checker-shim,False
+https://gitlab.irstea.fr/pole-is/tools/composer-require-checker-shim,True
 https://gitlab.irstea.fr/pole-is/tools/deployer-worker-recipe,False
 https://gitlab.irstea.fr/pole-is/tools/make-shim,False
 https://gitlab.irstea.fr/pole-is/tools/pcov-clobber-plugin,True
