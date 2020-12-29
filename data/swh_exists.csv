@@ -403,7 +403,7 @@ https://forgemia.inra.fr/sciproject/managesciproject,True
 https://forgemia.inra.fr/singularity/bcftools_v1.10.2,True
 https://forgemia.inra.fr/singularity/test,True
 https://forgemia.inra.fr/siriusquality/sqcode/Release,True
-https://forgemia.inra.fr/siriusquality/sqcode/SiriusQuality-BioMa-Phenology-Component,False
+https://forgemia.inra.fr/siriusquality/sqcode/SiriusQuality-BioMa-Phenology-Component,True
 https://forgemia.inra.fr/siriusquality/sqcode/siriusquality-bioma-irradiance-component,True
 https://forgemia.inra.fr/siriusquality/sqcode/siriusquality-bioma-maizelai-component,True
 https://forgemia.inra.fr/siriusquality/sqcode/siriusquality-bioma-wheatpotentiallai-component,False
@@ -2846,7 +2846,7 @@ https://github.com/betagouv/postgresql-openshift-docker,True
 https://github.com/betagouv/poubellesbattle,True
 https://github.com/betagouv/preuve-covoiturage,True
 https://github.com/betagouv/preuve-covoiturage-doc,True
-https://github.com/betagouv/preuve-covoiturage-vitrine,False
+https://github.com/betagouv/preuve-covoiturage-vitrine,True
 https://github.com/betagouv/publicodes,True
 https://github.com/betagouv/qrcode-svg,True
 https://github.com/betagouv/quotient-familial,True
@@ -5586,7 +5586,7 @@ https://gitlab.inria.fr/MoReFEM/CoreLibrary/introductiontalks,True
 https://gitlab.inria.fr/MoReFEM/Models/AcousticWave,True
 https://gitlab.inria.fr/MoReFEM/Models/Bidomain,True
 https://gitlab.inria.fr/MoReFEM/Models/HyperelasticityIncompressible,True
-https://gitlab.inria.fr/MoReFEM/Models/ReactionDiffusion,False
+https://gitlab.inria.fr/MoReFEM/Models/ReactionDiffusion,True
 https://gitlab.inria.fr/MoReFEM/ThirdPartyCompilationFactory,True
 https://gitlab.inria.fr/NFS_asymptotic_complexity/simulations,True
 https://gitlab.inria.fr/NGS/ALTree,True
@@ -5691,7 +5691,7 @@ https://gitlab.inria.fr/allgo/doc,True
 https://gitlab.inria.fr/allgo/notebooks/demo_bw,False
 https://gitlab.inria.fr/allgo/notebooks/ndsafir,True
 https://gitlab.inria.fr/allgo/notebooks/speads,True
-https://gitlab.inria.fr/almanach/SYNTAX,False
+https://gitlab.inria.fr/almanach/SYNTAX,True
 https://gitlab.inria.fr/almanach/alCorpusManagement/corpus_proc,True
 https://gitlab.inria.fr/almanach/alCorpusManagement/error_mining,False
 https://gitlab.inria.fr/almanach/alCorpusManagement/newsprocess,False
@@ -5708,7 +5708,7 @@ https://gitlab.inria.fr/almanach/alOldies/perlmod/lingua-features,False
 https://gitlab.inria.fr/almanach/alOldies/perlmod/lingua-maf,False
 https://gitlab.inria.fr/almanach/alOldies/perlmod/lingua-matcher,False
 https://gitlab.inria.fr/almanach/alOldies/perlmod/lingua-tagset,False
-https://gitlab.inria.fr/almanach/alOldies/scribo,False
+https://gitlab.inria.fr/almanach/alOldies/scribo,True
 https://gitlab.inria.fr/almanach/alOldies/sxlfg,True
 https://gitlab.inria.fr/almanach/alOldies/sxpipe-data,False
 https://gitlab.inria.fr/almanach/alTextProcessing/alAnalyser,True
@@ -5736,10 +5736,10 @@ https://gitlab.inria.fr/almanach/alexina/lefff-frmg,True
 https://gitlab.inria.fr/almanach/alexina/leffga,False
 https://gitlab.inria.fr/almanach/alexina/leffp,False
 https://gitlab.inria.fr/almanach/alexina/lexconn,True
-https://gitlab.inria.fr/almanach/alexina/morph_it,False
+https://gitlab.inria.fr/almanach/alexina/morph_it,True
 https://gitlab.inria.fr/almanach/alexina/morphalou_alexina,False
 https://gitlab.inria.fr/almanach/alexina/ofrlex,False
-https://gitlab.inria.fr/almanach/alexina/ofrlex-modifier,False
+https://gitlab.inria.fr/almanach/alexina/ofrlex-modifier,True
 https://gitlab.inria.fr/almanach/alexina/perlex,True
 https://gitlab.inria.fr/almanach/alexina/pollex,False
 https://gitlab.inria.fr/almanach/alexina/prolex_alexina,False
@@ -5758,7 +5758,7 @@ https://gitlab.inria.fr/almanach/dyalog/dyalog-sr,False
 https://gitlab.inria.fr/almanach/dyalog/dyalog-xml,False
 https://gitlab.inria.fr/almanach/lectaurep/documentation,True
 https://gitlab.inria.fr/almanach/lectaurep/escriptorium,False
-https://gitlab.inria.fr/almanach/lectaurep/models,False
+https://gitlab.inria.fr/almanach/lectaurep/models,True
 https://gitlab.inria.fr/almanach/lectaurep/pipeline,True
 https://gitlab.inria.fr/almanach/mgkit/biomg,False
 https://gitlab.inria.fr/almanach/mgkit/depgraph,False
@@ -6141,7 +6141,7 @@ https://gitlab.inria.fr/gazelle/applications/test-execution/validator/gazellehl7
 https://gitlab.inria.fr/gazelle/documentation/gazelle-user-documentation,True
 https://gitlab.inria.fr/gazelle/external-library,True
 https://gitlab.inria.fr/gazelle/framework/logger,True
-https://gitlab.inria.fr/gazelle/framework/preferences,False
+https://gitlab.inria.fr/gazelle/framework/preferences,True
 https://gitlab.inria.fr/gazelle/library/HL7Common,True
 https://gitlab.inria.fr/gazelle/library/annotations,False
 https://gitlab.inria.fr/gazelle/library/archetypes/project-archetype,True
@@ -6337,7 +6337,7 @@ https://gitlab.inria.fr/line/aide-group/ozobot-api,True
 https://gitlab.inria.fr/line/aide-group/ozobot-lib,True
 https://gitlab.inria.fr/line/aide-group/persistentdata,True
 https://gitlab.inria.fr/line/aide-group/slugstring,True
-https://gitlab.inria.fr/line/aide-group/tabletop,False
+https://gitlab.inria.fr/line/aide-group/tabletop,True
 https://gitlab.inria.fr/line/aide-group/wjson,True
 https://gitlab.inria.fr/line/wp-plugin-cai,True
 https://gitlab.inria.fr/line/wp_theme_cai,True
