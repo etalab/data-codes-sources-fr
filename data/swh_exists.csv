@@ -2846,6 +2846,7 @@ https://github.com/betagouv/postgresql-openshift-docker,True
 https://github.com/betagouv/poubellesbattle,True
 https://github.com/betagouv/preuve-covoiturage,True
 https://github.com/betagouv/preuve-covoiturage-doc,True
+https://github.com/betagouv/preuve-covoiturage-vitrine,False
 https://github.com/betagouv/publicodes,True
 https://github.com/betagouv/qrcode-svg,True
 https://github.com/betagouv/quotient-familial,True
@@ -5564,7 +5565,7 @@ https://gitlab.inria.fr/GUDHI/test_docker_debug,True
 https://gitlab.inria.fr/GardiNet/dragonnet,True
 https://gitlab.inria.fr/GardiNet/liblc,True
 https://gitlab.inria.fr/IOTLanguage/IoTCompilertoBIP,True
-https://gitlab.inria.fr/InBio/Public/efaecalis-ratio,False
+https://gitlab.inria.fr/InBio/Public/efaecalis-ratio,True
 https://gitlab.inria.fr/InBio/Public/fwd_ad,True
 https://gitlab.inria.fr/InBio/Public/hydriver,True
 https://gitlab.inria.fr/InBio/Public/reacsight,True
@@ -5731,7 +5732,7 @@ https://gitlab.inria.fr/almanach/alexina/kurlex,False
 https://gitlab.inria.fr/almanach/alexina/leffe,False
 https://gitlab.inria.fr/almanach/alexina/leffe-spmg,False
 https://gitlab.inria.fr/almanach/alexina/lefff,False
-https://gitlab.inria.fr/almanach/alexina/lefff-frmg,False
+https://gitlab.inria.fr/almanach/alexina/lefff-frmg,True
 https://gitlab.inria.fr/almanach/alexina/leffga,False
 https://gitlab.inria.fr/almanach/alexina/leffp,False
 https://gitlab.inria.fr/almanach/alexina/lexconn,True
@@ -5766,7 +5767,7 @@ https://gitlab.inria.fr/almanach/mgkit/emg,True
 https://gitlab.inria.fr/almanach/mgkit/forest_utils,True
 https://gitlab.inria.fr/almanach/mgkit/french-toy-tag,False
 https://gitlab.inria.fr/almanach/mgkit/frmg,False
-https://gitlab.inria.fr/almanach/mgkit/frmgcm,False
+https://gitlab.inria.fr/almanach/mgkit/frmgcm,True
 https://gitlab.inria.fr/almanach/mgkit/hmg,False
 https://gitlab.inria.fr/almanach/mgkit/mgcomp,False
 https://gitlab.inria.fr/almanach/mgkit/mgtools,False
@@ -5806,7 +5807,7 @@ https://gitlab.inria.fr/asclepios/biblio,True
 https://gitlab.inria.fr/auctus/panda/franka_control,False
 https://gitlab.inria.fr/auctus/panda/franka_description,False
 https://gitlab.inria.fr/auctus/panda/panda_traj,False
-https://gitlab.inria.fr/auctus/panda/rtt_panda/rtt_ros_kdl_tools,False
+https://gitlab.inria.fr/auctus/panda/rtt_panda/rtt_ros_kdl_tools,True
 https://gitlab.inria.fr/auctus/panda/torque_qp,False
 https://gitlab.inria.fr/auctus/panda/velocity_qp,False
 https://gitlab.inria.fr/auctus/papers/setbasedrobotcapabilitiesestimation2020/code_public,False
@@ -6411,7 +6412,7 @@ https://gitlab.inria.fr/mimoza/mimoza,True
 https://gitlab.inria.fr/misscausal/combine-rct-rwd-review,True
 https://gitlab.inria.fr/misscausal/misscausal.gitlab.io,True
 https://gitlab.inria.fr/miticov/mitigating-covid19-outbreaks,True
-https://gitlab.inria.fr/ml_genetics/private/Beast,False
+https://gitlab.inria.fr/ml_genetics/private/Beast,True
 https://gitlab.inria.fr/ml_genetics/private/robustness_pipeline,True
 https://gitlab.inria.fr/ml_genetics/private/temporal_PCA,True
 https://gitlab.inria.fr/ml_genetics/public/DNA_DNA,False
@@ -6614,7 +6615,7 @@ https://gitlab.inria.fr/serpico/serpico-notebooks,True
 https://gitlab.inria.fr/serpico/spitfire,True
 https://gitlab.inria.fr/serpico/thot_bin,True
 https://gitlab.inria.fr/sesame/platform,True
-https://gitlab.inria.fr/sibr/libs/densecrf,False
+https://gitlab.inria.fr/sibr/libs/densecrf,True
 https://gitlab.inria.fr/sibr/libs/imgui,True
 https://gitlab.inria.fr/sibr/libs/mixkit,False
 https://gitlab.inria.fr/sibr/libs/mrf,True
@@ -6624,7 +6625,7 @@ https://gitlab.inria.fr/sibr/libs/rapidxml,False
 https://gitlab.inria.fr/sibr/libs/xatlas,False
 https://gitlab.inria.fr/sibr/projects/facades-repetitions/facade_repetitions,True
 https://gitlab.inria.fr/sibr/projects/facades-repetitions/facade_repetitions_external,True
-https://gitlab.inria.fr/sibr/projects/fribr_framework,False
+https://gitlab.inria.fr/sibr/projects/fribr_framework,True
 https://gitlab.inria.fr/sibr/projects/glossy-probes/synthetic_ibr,True
 https://gitlab.inria.fr/sibr/projects/inside_out_deep_blending,False
 https://gitlab.inria.fr/sibr/projects/optix,True
