@@ -59,7 +59,7 @@ https://forge.grandlyon.com/laclasse/roundcube_laclasse_addressbook,True
 https://forge.grandlyon.com/laclasse/roundcube_laclasse_cas,True
 https://forge.grandlyon.com/laclasse/wordpress-theme-laclasse,True
 https://forge.grandlyon.com/pocs/__trash__introduction-au-langage-python-2,False
-https://forge.grandlyon.com/pocs/cozy/cozy-oauth-proxy,False
+https://forge.grandlyon.com/pocs/cozy/cozy-oauth-proxy,True
 https://forge.grandlyon.com/pocs/cozy/easy-cozy,True
 https://forge.grandlyon.com/pocs/cozy/egl-api-connector,True
 https://forge.grandlyon.com/pocs/cozy/enedis-scraping-connector,True
@@ -217,7 +217,7 @@ https://forgemia.inra.fr/gafl/singularity/QTLseqr,False
 https://forgemia.inra.fr/gafl/singularity/R_QTLseqr,False
 https://forgemia.inra.fr/gafl/singularity/R_base,True
 https://forgemia.inra.fr/gafl/singularity/Rsamtools_graph,True
-https://forgemia.inra.fr/gafl/singularity/arcs,False
+https://forgemia.inra.fr/gafl/singularity/arcs,True
 https://forgemia.inra.fr/gafl/singularity/bamtools,True
 https://forgemia.inra.fr/gafl/singularity/bamutil,True
 https://forgemia.inra.fr/gafl/singularity/bcftools,True
@@ -225,7 +225,7 @@ https://forgemia.inra.fr/gafl/singularity/bedtools,True
 https://forgemia.inra.fr/gafl/singularity/bioawk,False
 https://forgemia.inra.fr/gafl/singularity/biopython,True
 https://forgemia.inra.fr/gafl/singularity/blast,True
-https://forgemia.inra.fr/gafl/singularity/blastpp,False
+https://forgemia.inra.fr/gafl/singularity/blastpp,True
 https://forgemia.inra.fr/gafl/singularity/bowtie2,False
 https://forgemia.inra.fr/gafl/singularity/bwa,False
 https://forgemia.inra.fr/gafl/singularity/canu,True
@@ -249,7 +249,7 @@ https://forgemia.inra.fr/gafl/singularity/minimap2,True
 https://forgemia.inra.fr/gafl/singularity/multiqc,True
 https://forgemia.inra.fr/gafl/singularity/mummer,True
 https://forgemia.inra.fr/gafl/singularity/nanocomp,True
-https://forgemia.inra.fr/gafl/singularity/nanofilt,False
+https://forgemia.inra.fr/gafl/singularity/nanofilt,True
 https://forgemia.inra.fr/gafl/singularity/nanopack,True
 https://forgemia.inra.fr/gafl/singularity/nanoplotcompstat,False
 https://forgemia.inra.fr/gafl/singularity/noblast,True
@@ -350,7 +350,7 @@ https://forgemia.inra.fr/inter_cati_omics/hackathon_snakemake_singularity_callin
 https://forgemia.inra.fr/inter_cati_omics/hackathon_snakemake_singularity_mapping,True
 https://forgemia.inra.fr/inter_cati_omics/hackathon_snakemake_singularity_stats,True
 https://forgemia.inra.fr/inter_cati_omics/reproductibility,True
-https://forgemia.inra.fr/inter_cati_omics/singularity/Custom_containers/Bionano_solve,False
+https://forgemia.inra.fr/inter_cati_omics/singularity/Custom_containers/Bionano_solve,True
 https://forgemia.inra.fr/inter_cati_omics/singularity/Custom_containers/dicoexpress,True
 https://forgemia.inra.fr/inter_cati_omics/singularity/biocontainers/projet-biocontainers,True
 https://forgemia.inra.fr/inter_cati_omics/snakemake/snakemake_modules,True
@@ -404,7 +404,7 @@ https://forgemia.inra.fr/singularity/bcftools_v1.10.2,True
 https://forgemia.inra.fr/singularity/test,True
 https://forgemia.inra.fr/siriusquality/sqcode/Release,True
 https://forgemia.inra.fr/siriusquality/sqcode/SiriusQuality-BioMa-Phenology-Component,False
-https://forgemia.inra.fr/siriusquality/sqcode/siriusquality-bioma-irradiance-component,False
+https://forgemia.inra.fr/siriusquality/sqcode/siriusquality-bioma-irradiance-component,True
 https://forgemia.inra.fr/siriusquality/sqcode/siriusquality-bioma-maizelai-component,True
 https://forgemia.inra.fr/siriusquality/sqcode/siriusquality-bioma-wheatpotentiallai-component,False
 https://forgemia.inra.fr/sunrise/15ex05_data_correction,True
@@ -4915,7 +4915,7 @@ https://github.com/rusticata/der-parser,True
 https://github.com/rusticata/dhcp-parser,True
 https://github.com/rusticata/ipsec-parser,True
 https://github.com/rusticata/kerberos-parser,True
-https://github.com/rusticata/ldap-parser,False
+https://github.com/rusticata/ldap-parser,True
 https://github.com/rusticata/ntp-parser,True
 https://github.com/rusticata/oid-registry,False
 https://github.com/rusticata/openvpn-parser,True
@@ -5380,7 +5380,7 @@ https://gitlab.com/musee-saint-raymond/villa-chiragan,True
 https://gitlab.com/op18-enki/cosmic-sapeurs,True
 https://gitlab.com/op18-enki/sapeurs,True
 https://gitlab.com/peren/api-meubles/backend,False
-https://gitlab.com/peren/api-meubles/doc-api,False
+https://gitlab.com/peren/api-meubles/doc-api,True
 https://gitlab.com/peren/api-meubles/fraddress,True
 https://gitlab.com/peren/api-meubles/frontend,True
 https://gitlab.com/peren/api-meubles/website,True
@@ -5650,7 +5650,7 @@ https://gitlab.inria.fr/VeRDi-project/madeus-openstack,True
 https://gitlab.inria.fr/VeRDi-project/madeus-openstack-benchmarks,True
 https://gitlab.inria.fr/WIDE/HyFN,True
 https://gitlab.inria.fr/WIDE/chepin/flexnet,False
-https://gitlab.inria.fr/WIDE/chepin/libflexcode,False
+https://gitlab.inria.fr/WIDE/chepin/libflexcode,True
 https://gitlab.inria.fr/WIDE/chepin/paper,False
 https://gitlab.inria.fr/WIDE/dietcoin/dietcoin-exp,True
 https://gitlab.inria.fr/WIDE/dietcoin/dietcoin-lib,False
@@ -5740,7 +5740,7 @@ https://gitlab.inria.fr/almanach/alexina/morph_it,False
 https://gitlab.inria.fr/almanach/alexina/morphalou_alexina,False
 https://gitlab.inria.fr/almanach/alexina/ofrlex,False
 https://gitlab.inria.fr/almanach/alexina/ofrlex-modifier,False
-https://gitlab.inria.fr/almanach/alexina/perlex,False
+https://gitlab.inria.fr/almanach/alexina/perlex,True
 https://gitlab.inria.fr/almanach/alexina/pollex,False
 https://gitlab.inria.fr/almanach/alexina/prolex_alexina,False
 https://gitlab.inria.fr/almanach/alexina/rulex,False
@@ -6122,7 +6122,7 @@ https://gitlab.inria.fr/gappa/coq,True
 https://gitlab.inria.fr/gappa/gappa,True
 https://gitlab.inria.fr/gazelle/applications/mixed/CDAGenerator,True
 https://gitlab.inria.fr/gazelle/applications/mixed/gazelle-atna,False
-https://gitlab.inria.fr/gazelle/applications/mixed/gazelle-tm,False
+https://gitlab.inria.fr/gazelle/applications/mixed/gazelle-tm,True
 https://gitlab.inria.fr/gazelle/applications/test-design/AssertionManager,True
 https://gitlab.inria.fr/gazelle/applications/test-design/DemographicDataServer,True
 https://gitlab.inria.fr/gazelle/applications/test-execution/gazelle-proxy,True
@@ -6167,7 +6167,7 @@ https://gitlab.inria.fr/gazelle/model-api/validation-model,True
 https://gitlab.inria.fr/gazelle/specific-tools/connectivity-test-scripts,True
 https://gitlab.inria.fr/gazelle/specific-tools/epr/adr-provider,True
 https://gitlab.inria.fr/gazelle/specific-tools/epr/assertion-provider,True
-https://gitlab.inria.fr/gazelle/specific-tools/epr/atc-repository,False
+https://gitlab.inria.fr/gazelle/specific-tools/epr/atc-repository,True
 https://gitlab.inria.fr/gazelle/specific-tools/epr/idp,False
 https://gitlab.inria.fr/gazelle/specific-tools/epr/metadata-update-responders,True
 https://gitlab.inria.fr/gazelle/specific-tools/epr/no-peer-testing,True
@@ -6182,7 +6182,7 @@ https://gitlab.inria.fr/gazelle/test-content/gazelle-hl7v2-validator-resources,T
 https://gitlab.inria.fr/gazelle/test-content/hl7-conformance-profiles,False
 https://gitlab.inria.fr/gazelle/test-content/pdqm-samples,True
 https://gitlab.inria.fr/gazelle/validator/FhirValidator,False
-https://gitlab.inria.fr/gazelle/validator/common/validation-ws,False
+https://gitlab.inria.fr/gazelle/validator/common/validation-ws,True
 https://gitlab.inria.fr/gbono/coop-ma-pg,True
 https://gitlab.inria.fr/gbono/sulfr,True
 https://gitlab.inria.fr/gecos/gecos-arith,True
@@ -6200,7 +6200,7 @@ https://gitlab.inria.fr/gecos/gecos-testframework,True
 https://gitlab.inria.fr/gecos/gecos-tools/gecos-graphviz,True
 https://gitlab.inria.fr/gecos/gecos-tools/gecos-rtl,False
 https://gitlab.inria.fr/gecos/gecos-tools/gecos-tools-emf,False
-https://gitlab.inria.fr/gecos/gecos-tools/gecos-tools-graph,False
+https://gitlab.inria.fr/gecos/gecos-tools/gecos-tools-graph,True
 https://gitlab.inria.fr/gecos/gecos-tools/gecos-tools-isl,True
 https://gitlab.inria.fr/gecos/gecos-tools/gecos-tools-jnimapper,False
 https://gitlab.inria.fr/gecos/gecos-tools/gecos-tools-tommapping,True
@@ -6594,7 +6594,7 @@ https://gitlab.inria.fr/sed-rennes/sharelatex/sharelatex,False
 https://gitlab.inria.fr/sed-rennes/sharelatex/web-sharelatex,False
 https://gitlab.inria.fr/sed-saclay/TutorielGitlabPages,True
 https://gitlab.inria.fr/sed-saclay/formulairesdemandesingenieur,True
-https://gitlab.inria.fr/semagramme-public-projects/resources/french-fracas,False
+https://gitlab.inria.fr/semagramme-public-projects/resources/french-fracas,True
 https://gitlab.inria.fr/sequoia/deep-sequoia,True
 https://gitlab.inria.fr/serpico/3d-flow-assessment,True
 https://gitlab.inria.fr/serpico/airyscanj_bin,True
@@ -6617,10 +6617,10 @@ https://gitlab.inria.fr/serpico/thot_bin,True
 https://gitlab.inria.fr/sesame/platform,True
 https://gitlab.inria.fr/sibr/libs/densecrf,True
 https://gitlab.inria.fr/sibr/libs/imgui,True
-https://gitlab.inria.fr/sibr/libs/mixkit,False
+https://gitlab.inria.fr/sibr/libs/mixkit,True
 https://gitlab.inria.fr/sibr/libs/mrf,True
 https://gitlab.inria.fr/sibr/libs/nanoflann,False
-https://gitlab.inria.fr/sibr/libs/picojson,False
+https://gitlab.inria.fr/sibr/libs/picojson,True
 https://gitlab.inria.fr/sibr/libs/rapidxml,False
 https://gitlab.inria.fr/sibr/libs/xatlas,False
 https://gitlab.inria.fr/sibr/projects/facades-repetitions/facade_repetitions,True
