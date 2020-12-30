@@ -5250,7 +5250,7 @@ https://gitlab.adullact.net/gip-recia-snc/public/autoit/pnm-teamviewer-installer
 https://gitlab.adullact.net/gip-recia-snc/public/docker/debian-systemd,True
 https://gitlab.adullact.net/gip-recia-snc/public/docker/fedora-systemd,True
 https://gitlab.adullact.net/gip-recia-snc/public/docker/teampasswordmanager,False
-https://gitlab.adullact.net/gip-recia-snc/public/odoo/odoo-time-tracker,False
+https://gitlab.adullact.net/gip-recia-snc/public/odoo/odoo-time-tracker,True
 https://gitlab.adullact.net/pixelhumain/Rocket-Chat,True
 https://gitlab.adullact.net/pixelhumain/co-meta,True
 https://gitlab.adullact.net/pixelhumain/costum,True
@@ -5715,7 +5715,7 @@ https://gitlab.inria.fr/almanach/alTextProcessing/alAnalyser,True
 https://gitlab.inria.fr/almanach/alTextProcessing/melt,False
 https://gitlab.inria.fr/almanach/alTextProcessing/sxpipe,False
 https://gitlab.inria.fr/almanach/alexina/aaa,False
-https://gitlab.inria.fr/almanach/alexina/aaa-sk,False
+https://gitlab.inria.fr/almanach/alexina/aaa-sk,True
 https://gitlab.inria.fr/almanach/alexina/aleda,False
 https://gitlab.inria.fr/almanach/alexina/alexina-interface,True
 https://gitlab.inria.fr/almanach/alexina/alexina-morphedit,False
@@ -5731,7 +5731,7 @@ https://gitlab.inria.fr/almanach/alexina/khalex,False
 https://gitlab.inria.fr/almanach/alexina/kurlex,False
 https://gitlab.inria.fr/almanach/alexina/leffe,False
 https://gitlab.inria.fr/almanach/alexina/leffe-spmg,False
-https://gitlab.inria.fr/almanach/alexina/lefff,False
+https://gitlab.inria.fr/almanach/alexina/lefff,True
 https://gitlab.inria.fr/almanach/alexina/lefff-frmg,True
 https://gitlab.inria.fr/almanach/alexina/leffga,False
 https://gitlab.inria.fr/almanach/alexina/leffp,False
@@ -5745,13 +5745,13 @@ https://gitlab.inria.fr/almanach/alexina/pollex,False
 https://gitlab.inria.fr/almanach/alexina/prolex_alexina,False
 https://gitlab.inria.fr/almanach/alexina/rulex,False
 https://gitlab.inria.fr/almanach/alexina/saldo,False
-https://gitlab.inria.fr/almanach/alexina/sklex,False
+https://gitlab.inria.fr/almanach/alexina/sklex,True
 https://gitlab.inria.fr/almanach/alexina/sloleks,False
 https://gitlab.inria.fr/almanach/alexina/soralex,False
 https://gitlab.inria.fr/almanach/alexina/sursilex,False
 https://gitlab.inria.fr/almanach/alexina/tuatlex,False
 https://gitlab.inria.fr/almanach/alpi,True
-https://gitlab.inria.fr/almanach/dyalog/dyalog,False
+https://gitlab.inria.fr/almanach/dyalog/dyalog,True
 https://gitlab.inria.fr/almanach/dyalog/dyalog-mst,False
 https://gitlab.inria.fr/almanach/dyalog/dyalog-sqlite,True
 https://gitlab.inria.fr/almanach/dyalog/dyalog-sr,False
@@ -5762,7 +5762,7 @@ https://gitlab.inria.fr/almanach/lectaurep/models,True
 https://gitlab.inria.fr/almanach/lectaurep/pipeline,True
 https://gitlab.inria.fr/almanach/mgkit/biomg,False
 https://gitlab.inria.fr/almanach/mgkit/depgraph,False
-https://gitlab.inria.fr/almanach/mgkit/dyalog-expander,False
+https://gitlab.inria.fr/almanach/mgkit/dyalog-expander,True
 https://gitlab.inria.fr/almanach/mgkit/emg,True
 https://gitlab.inria.fr/almanach/mgkit/forest_utils,True
 https://gitlab.inria.fr/almanach/mgkit/french-toy-tag,False
@@ -5780,7 +5780,7 @@ https://gitlab.inria.fr/almanach/oscar/goclassy,False
 https://gitlab.inria.fr/almanach/oscar/oscar-website,False
 https://gitlab.inria.fr/almanach/time-us/ExportFromTranskribus,False
 https://gitlab.inria.fr/almanach/time-us/LSE-OD2M,True
-https://gitlab.inria.fr/almanach/time-us/TEI-Boilerplate,False
+https://gitlab.inria.fr/almanach/time-us/TEI-Boilerplate,True
 https://gitlab.inria.fr/almanach/time-us/TEITransformations,True
 https://gitlab.inria.fr/almanach/time-us/Transkribus-MassOCR,True
 https://gitlab.inria.fr/almanach/time-us/corpora-prep,True
@@ -5804,7 +5804,7 @@ https://gitlab.inria.fr/android-tools/emulator,True
 https://gitlab.inria.fr/android-tools/readme,True
 https://gitlab.inria.fr/asbizard/Procedural_modeling_of_multi-scale_galactic_dust,True
 https://gitlab.inria.fr/asclepios/biblio,True
-https://gitlab.inria.fr/auctus/panda/franka_control,False
+https://gitlab.inria.fr/auctus/panda/franka_control,True
 https://gitlab.inria.fr/auctus/panda/franka_description,False
 https://gitlab.inria.fr/auctus/panda/panda_traj,False
 https://gitlab.inria.fr/auctus/panda/rtt_panda/rtt_ros_kdl_tools,True
@@ -5882,7 +5882,7 @@ https://gitlab.inria.fr/cedar/statstical_mentions,True
 https://gitlab.inria.fr/cerisara/olkisite,True
 https://gitlab.inria.fr/cfrioux/MeneTools,True
 https://gitlab.inria.fr/chroma/drone-simulator,True
-https://gitlab.inria.fr/chroma/drones/drone-simulator,False
+https://gitlab.inria.fr/chroma/drones/drone-simulator,True
 https://gitlab.inria.fr/chroma/intelaero-cao,True
 https://gitlab.inria.fr/ciao/pmns-for-sidh,True
 https://gitlab.inria.fr/cidre-public/malcon19,True
@@ -6177,7 +6177,7 @@ https://gitlab.inria.fr/gazelle/specific-tools/epr/xds-xca-simulator,True
 https://gitlab.inria.fr/gazelle/specific-tools/epr/xdstools,False
 https://gitlab.inria.fr/gazelle/specific-tools/sequoia/acp,True
 https://gitlab.inria.fr/gazelle/standard-blocks/iua-standard-blocks,False
-https://gitlab.inria.fr/gazelle/test-content/fhir-conformance-resources,False
+https://gitlab.inria.fr/gazelle/test-content/fhir-conformance-resources,True
 https://gitlab.inria.fr/gazelle/test-content/gazelle-hl7v2-validator-resources,True
 https://gitlab.inria.fr/gazelle/test-content/hl7-conformance-profiles,False
 https://gitlab.inria.fr/gazelle/test-content/pdqm-samples,True
@@ -6202,7 +6202,7 @@ https://gitlab.inria.fr/gecos/gecos-tools/gecos-rtl,False
 https://gitlab.inria.fr/gecos/gecos-tools/gecos-tools-emf,False
 https://gitlab.inria.fr/gecos/gecos-tools/gecos-tools-graph,True
 https://gitlab.inria.fr/gecos/gecos-tools/gecos-tools-isl,True
-https://gitlab.inria.fr/gecos/gecos-tools/gecos-tools-jnimapper,False
+https://gitlab.inria.fr/gecos/gecos-tools/gecos-tools-jnimapper,True
 https://gitlab.inria.fr/gecos/gecos-tools/gecos-tools-tommapping,True
 https://gitlab.inria.fr/gecos/gecos-tools/gecos-tools-tomsdk,True
 https://gitlab.inria.fr/gem5-nop/gem5,True
@@ -6622,7 +6622,7 @@ https://gitlab.inria.fr/sibr/libs/mrf,True
 https://gitlab.inria.fr/sibr/libs/nanoflann,False
 https://gitlab.inria.fr/sibr/libs/picojson,True
 https://gitlab.inria.fr/sibr/libs/rapidxml,False
-https://gitlab.inria.fr/sibr/libs/xatlas,False
+https://gitlab.inria.fr/sibr/libs/xatlas,True
 https://gitlab.inria.fr/sibr/projects/facades-repetitions/facade_repetitions,True
 https://gitlab.inria.fr/sibr/projects/facades-repetitions/facade_repetitions_external,True
 https://gitlab.inria.fr/sibr/projects/fribr_framework,True
@@ -6854,7 +6854,7 @@ https://gitlab.irstea.fr/support/wiki,True
 https://gitlab.irstea.fr/umr-tetis/aidmoit/collect,True
 https://gitlab.irstea.fr/umr-tetis/aidmoit/datalake-deployment,True
 https://gitlab.irstea.fr/umr-tetis/biotex_python,True
-https://gitlab.irstea.fr/umr-tetis/mood/geonetwork-insertion,False
+https://gitlab.irstea.fr/umr-tetis/mood/geonetwork-insertion,True
 https://gitlab.irstea.fr/umr-tetis/mood/mood-tetis-tweets-collect,False
 https://gitlab.irstea.fr/vino/Vino,True
 https://gitlab.irstea.fr/watasitdev/j2k-coupling,True
