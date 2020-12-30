@@ -357,7 +357,7 @@ https://forgemia.inra.fr/inter_cati_omics/snakemake/snakemake_modules,True
 https://forgemia.inra.fr/lbe/opensilexlbe/ontologielbe,True
 https://forgemia.inra.fr/lbe/opensilexlbe/opensilex-dev,True
 https://forgemia.inra.fr/metexplore/MetExploreViz,True
-https://forgemia.inra.fr/metexplore/cbm/dexom,False
+https://forgemia.inra.fr/metexplore/cbm/dexom,True
 https://forgemia.inra.fr/metexplore/cbm/fvabiomarkers,False
 https://forgemia.inra.fr/metexplore/met4j,True
 https://forgemia.inra.fr/metexplore/metabolomics2network,True
@@ -5762,7 +5762,7 @@ https://gitlab.inria.fr/almanach/alexina/saldo,False
 https://gitlab.inria.fr/almanach/alexina/sklex,True
 https://gitlab.inria.fr/almanach/alexina/sloleks,False
 https://gitlab.inria.fr/almanach/alexina/soralex,False
-https://gitlab.inria.fr/almanach/alexina/sursilex,False
+https://gitlab.inria.fr/almanach/alexina/sursilex,True
 https://gitlab.inria.fr/almanach/alexina/tuatlex,False
 https://gitlab.inria.fr/almanach/alpi,True
 https://gitlab.inria.fr/almanach/dyalog/dyalog,True
@@ -5955,7 +5955,7 @@ https://gitlab.inria.fr/coquelicot/coquelicot,True
 https://gitlab.inria.fr/corese/corese-lab,True
 https://gitlab.inria.fr/croco-ocean/croco,True
 https://gitlab.inria.fr/croco-ocean/croco_tools,True
-https://gitlab.inria.fr/croco-ocean/devs/theetten/croco,False
+https://gitlab.inria.fr/croco-ocean/devs/theetten/croco,True
 https://gitlab.inria.fr/crowdguard-public/data/taxonomy-skillproject,False
 https://gitlab.inria.fr/crowdguard-public/data/workers-stackoverflow,True
 https://gitlab.inria.fr/crowdguard-public/deliverables/final,True
@@ -6105,7 +6105,7 @@ https://gitlab.inria.fr/faustgrp/gforge_files,True
 https://gitlab.inria.fr/fec/MIPP,True
 https://gitlab.inria.fr/fec/PyBER,True
 https://gitlab.inria.fr/fec/publications/aff3ct_un_environnement_de_simulation_pour_le_codage_de_canal,False
-https://gitlab.inria.fr/fec/publications/an_efficient_portable_and_generic_library_for_successive_cancellation_decoding_of_polar_codes,False
+https://gitlab.inria.fr/fec/publications/an_efficient_portable_and_generic_library_for_successive_cancellation_decoding_of_polar_codes,True
 https://gitlab.inria.fr/fec/publications/beyond_gbps_turbo_decoder_on_multi-core_cpus,False
 https://gitlab.inria.fr/fec/publications/energy_consumption_analysis_of_software_polar_decoders_on_low_power_processors,False
 https://gitlab.inria.fr/fec/publications/fast_simulation_and_prototyping_with_aff3ct,False
@@ -6190,7 +6190,7 @@ https://gitlab.inria.fr/gazelle/specific-tools/epr/schematron,True
 https://gitlab.inria.fr/gazelle/specific-tools/epr/xds-xca-simulator,True
 https://gitlab.inria.fr/gazelle/specific-tools/epr/xdstools,False
 https://gitlab.inria.fr/gazelle/specific-tools/sequoia/acp,True
-https://gitlab.inria.fr/gazelle/standard-blocks/iua-standard-blocks,False
+https://gitlab.inria.fr/gazelle/standard-blocks/iua-standard-blocks,True
 https://gitlab.inria.fr/gazelle/test-content/fhir-conformance-resources,True
 https://gitlab.inria.fr/gazelle/test-content/gazelle-hl7v2-validator-resources,True
 https://gitlab.inria.fr/gazelle/test-content/hl7-conformance-profiles,False
@@ -6542,7 +6542,7 @@ https://gitlab.inria.fr/piper/child_pedestrian,True
 https://gitlab.inria.fr/piper/misc_models,True
 https://gitlab.inria.fr/piper/sofa/Anatomy,False
 https://gitlab.inria.fr/piper/sofa/BranchingImage,False
-https://gitlab.inria.fr/piper/sofa/LinearSubspace,False
+https://gitlab.inria.fr/piper/sofa/LinearSubspace,True
 https://gitlab.inria.fr/piper/viva,True
 https://gitlab.inria.fr/piy/piy,True
 https://gitlab.inria.fr/plas20/sessionintegrity,True
@@ -6633,7 +6633,7 @@ https://gitlab.inria.fr/sibr/libs/densecrf,True
 https://gitlab.inria.fr/sibr/libs/imgui,True
 https://gitlab.inria.fr/sibr/libs/mixkit,True
 https://gitlab.inria.fr/sibr/libs/mrf,True
-https://gitlab.inria.fr/sibr/libs/nanoflann,False
+https://gitlab.inria.fr/sibr/libs/nanoflann,True
 https://gitlab.inria.fr/sibr/libs/picojson,True
 https://gitlab.inria.fr/sibr/libs/rapidxml,False
 https://gitlab.inria.fr/sibr/libs/xatlas,True
@@ -6835,7 +6835,7 @@ https://gitlab.irstea.fr/pole-is/packages/ngx-debug,True
 https://gitlab.irstea.fr/pole-is/packages/ngx-rxtools,True
 https://gitlab.irstea.fr/pole-is/tools/composer-require-checker-shim,True
 https://gitlab.irstea.fr/pole-is/tools/deployer-worker-recipe,False
-https://gitlab.irstea.fr/pole-is/tools/make-shim,False
+https://gitlab.irstea.fr/pole-is/tools/make-shim,True
 https://gitlab.irstea.fr/pole-is/tools/pcov-clobber-plugin,True
 https://gitlab.irstea.fr/pole-is/tools/php-cs-fixer-config,True
 https://gitlab.irstea.fr/pole-is/tools/php-cs-fixer-shim,False
