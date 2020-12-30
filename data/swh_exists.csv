@@ -213,7 +213,7 @@ https://forgemia.inra.fr/gafl/singularity/10Xgenomics,True
 https://forgemia.inra.fr/gafl/singularity/Allmine,True
 https://forgemia.inra.fr/gafl/singularity/BUSCO,False
 https://forgemia.inra.fr/gafl/singularity/Bionano_solve,True
-https://forgemia.inra.fr/gafl/singularity/QTLseqr,False
+https://forgemia.inra.fr/gafl/singularity/QTLseqr,True
 https://forgemia.inra.fr/gafl/singularity/R_QTLseqr,False
 https://forgemia.inra.fr/gafl/singularity/R_base,True
 https://forgemia.inra.fr/gafl/singularity/Rsamtools_graph,True
@@ -262,7 +262,7 @@ https://forgemia.inra.fr/gafl/singularity/primer3,True
 https://forgemia.inra.fr/gafl/singularity/quickmerge,True
 https://forgemia.inra.fr/gafl/singularity/racon,False
 https://forgemia.inra.fr/gafl/singularity/root_imaging,True
-https://forgemia.inra.fr/gafl/singularity/rsem,False
+https://forgemia.inra.fr/gafl/singularity/rsem,True
 https://forgemia.inra.fr/gafl/singularity/sambamba,True
 https://forgemia.inra.fr/gafl/singularity/samtools,True
 https://forgemia.inra.fr/gafl/singularity/scaff10x,True
@@ -628,7 +628,7 @@ https://git.unistra.fr/les-biens-renseignes/module-polynomes,True
 https://git.unistra.fr/les-canards-boiteux/projet1,True
 https://git.unistra.fr/les-champions-projet-t3/t432_liy20_t3_b,True
 https://git.unistra.fr/les-quatres-cavaliers-de-l-apocalypse-et-les-deux-stagiaires/ihm-projet,False
-https://git.unistra.fr/les-sans-noms/client-mobile/client-mobile-test,False
+https://git.unistra.fr/les-sans-noms/client-mobile/client-mobile-test,True
 https://git.unistra.fr/les-sans-noms/dossiers,True
 https://git.unistra.fr/les-sans-noms/mod-le-serveur,True
 https://git.unistra.fr/les-sans-noms/react_admin_jeux,True
@@ -755,6 +755,20 @@ https://github.com/1024pix/shlink-buildpack,True
 https://github.com/1024pix/subdir-buildpack,True
 https://github.com/1024pix/test-deploy-from-slack,True
 https://github.com/1024pix/third-services-quota-manager,True
+https://github.com/139bercy/ansible_install_apache,False
+https://github.com/139bercy/ansible_install_gitlab,False
+https://github.com/139bercy/ansible_install_jenkins,False
+https://github.com/139bercy/ansible_install_keycloak,False
+https://github.com/139bercy/ansible_install_nexus3-oss,False
+https://github.com/139bercy/ansible_install_php,False
+https://github.com/139bercy/ansible_install_postgresql,False
+https://github.com/139bercy/ansible_install_selenium,False
+https://github.com/139bercy/ansible_install_sonarqube,False
+https://github.com/139bercy/ansible_install_zap,False
+https://github.com/139bercy/ansible_pic_postconfiguration,False
+https://github.com/139bercy/ansible_pic_prerequisites,False
+https://github.com/139bercy/ansible_setup_backup,False
+https://github.com/139bercy/cloud-appliance-ci,False
 https://github.com/139bercy/cloud-appliance-ci-cd,True
 https://github.com/139bercy/cloud-appliance-composer-repo,True
 https://github.com/139bercy/cloud-appliance-management,True
@@ -5718,7 +5732,7 @@ https://gitlab.inria.fr/almanach/alexina/aaa,False
 https://gitlab.inria.fr/almanach/alexina/aaa-sk,True
 https://gitlab.inria.fr/almanach/alexina/aleda,False
 https://gitlab.inria.fr/almanach/alexina/alexina-interface,True
-https://gitlab.inria.fr/almanach/alexina/alexina-morphedit,False
+https://gitlab.inria.fr/almanach/alexina/alexina-morphedit,True
 https://gitlab.inria.fr/almanach/alexina/alexina-output,False
 https://gitlab.inria.fr/almanach/alexina/alexina-tools,False
 https://gitlab.inria.fr/almanach/alexina/alpino,False
@@ -5925,7 +5939,7 @@ https://gitlab.inria.fr/comprise/comprise_sdk_developer_ui,True
 https://gitlab.inria.fr/comprise/comprise_speech_to_text,True
 https://gitlab.inria.fr/comprise/comprise_text_to_speech,True
 https://gitlab.inria.fr/comprise/deliverable_d21,True
-https://gitlab.inria.fr/comprise/deliverables/deliverable_d21,False
+https://gitlab.inria.fr/comprise/deliverables/deliverable_d21,True
 https://gitlab.inria.fr/comprise/deliverables/deliverable_d22,True
 https://gitlab.inria.fr/comprise/deliverables/deliverable_d32,True
 https://gitlab.inria.fr/comprise/sidp,True
@@ -5963,7 +5977,7 @@ https://gitlab.inria.fr/datafut/fut-on-flow,True
 https://gitlab.inria.fr/datapol/1508-heteropar15-protobatsim,True
 https://gitlab.inria.fr/datapol/1605-jsspp16-batsim,True
 https://gitlab.inria.fr/datapol/experiments-methodology,True
-https://gitlab.inria.fr/datapol/gsl/gsl-omp,False
+https://gitlab.inria.fr/datapol/gsl/gsl-omp,True
 https://gitlab.inria.fr/datapol/gsl/gsl-omp-example,False
 https://gitlab.inria.fr/datapol/manuscript-template,True
 https://gitlab.inria.fr/datapol/vdanjean-backuppc-client,True
@@ -6152,9 +6166,9 @@ https://gitlab.inria.fr/gazelle/library/datatable-component,True
 https://gitlab.inria.fr/gazelle/library/fhir-util,True
 https://gitlab.inria.fr/gazelle/library/gazelle-assertion-coverage-provider,False
 https://gitlab.inria.fr/gazelle/library/gazelle-assets,True
-https://gitlab.inria.fr/gazelle/library/home,False
+https://gitlab.inria.fr/gazelle/library/home,True
 https://gitlab.inria.fr/gazelle/library/hql,True
-https://gitlab.inria.fr/gazelle/library/preference,False
+https://gitlab.inria.fr/gazelle/library/preference,True
 https://gitlab.inria.fr/gazelle/library/tool,True
 https://gitlab.inria.fr/gazelle/library/ui-service,False
 https://gitlab.inria.fr/gazelle/library/unit-test,True
