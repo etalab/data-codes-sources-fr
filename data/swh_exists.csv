@@ -4931,7 +4931,7 @@ https://github.com/rusticata/ipsec-parser,True
 https://github.com/rusticata/kerberos-parser,True
 https://github.com/rusticata/ldap-parser,True
 https://github.com/rusticata/ntp-parser,True
-https://github.com/rusticata/oid-registry,False
+https://github.com/rusticata/oid-registry,True
 https://github.com/rusticata/openvpn-parser,True
 https://github.com/rusticata/ospf-parser,True
 https://github.com/rusticata/pcap-analyzer,True
@@ -5595,7 +5595,7 @@ https://gitlab.inria.fr/Madeus/mad,True
 https://gitlab.inria.fr/Madeus/mad-openstack,True
 https://gitlab.inria.fr/MarTo/marto,True
 https://gitlab.inria.fr/MoReFEM/CoreLibrary/MoReFEM,False
-https://gitlab.inria.fr/MoReFEM/CoreLibrary/generatedockerimages,False
+https://gitlab.inria.fr/MoReFEM/CoreLibrary/generatedockerimages,True
 https://gitlab.inria.fr/MoReFEM/CoreLibrary/introductiontalks,True
 https://gitlab.inria.fr/MoReFEM/Models/AcousticWave,True
 https://gitlab.inria.fr/MoReFEM/Models/Bidomain,True
@@ -5734,7 +5734,7 @@ https://gitlab.inria.fr/almanach/alexina/aleda,False
 https://gitlab.inria.fr/almanach/alexina/alexina-interface,True
 https://gitlab.inria.fr/almanach/alexina/alexina-morphedit,True
 https://gitlab.inria.fr/almanach/alexina/alexina-output,False
-https://gitlab.inria.fr/almanach/alexina/alexina-tools,False
+https://gitlab.inria.fr/almanach/alexina/alexina-tools,True
 https://gitlab.inria.fr/almanach/alexina/alpino,False
 https://gitlab.inria.fr/almanach/alexina/dela_gr,False
 https://gitlab.inria.fr/almanach/alexina/delex,False
@@ -5758,7 +5758,7 @@ https://gitlab.inria.fr/almanach/alexina/perlex,True
 https://gitlab.inria.fr/almanach/alexina/pollex,False
 https://gitlab.inria.fr/almanach/alexina/prolex_alexina,False
 https://gitlab.inria.fr/almanach/alexina/rulex,False
-https://gitlab.inria.fr/almanach/alexina/saldo,False
+https://gitlab.inria.fr/almanach/alexina/saldo,True
 https://gitlab.inria.fr/almanach/alexina/sklex,True
 https://gitlab.inria.fr/almanach/alexina/sloleks,False
 https://gitlab.inria.fr/almanach/alexina/soralex,False
@@ -5824,7 +5824,7 @@ https://gitlab.inria.fr/auctus/panda/panda_traj,False
 https://gitlab.inria.fr/auctus/panda/rtt_panda/rtt_ros_kdl_tools,True
 https://gitlab.inria.fr/auctus/panda/torque_qp,False
 https://gitlab.inria.fr/auctus/panda/velocity_qp,False
-https://gitlab.inria.fr/auctus/papers/setbasedrobotcapabilitiesestimation2020/code_public,False
+https://gitlab.inria.fr/auctus/papers/setbasedrobotcapabilitiesestimation2020/code_public,True
 https://gitlab.inria.fr/aviz/paohvis,True
 https://gitlab.inria.fr/bar/website,True
 https://gitlab.inria.fr/bass-db/bss_eval,True
@@ -5903,7 +5903,7 @@ https://gitlab.inria.fr/cidre-public/malcon19,True
 https://gitlab.inria.fr/cidre-public/obfuscated-android-unit-examples,True
 https://gitlab.inria.fr/cidre-public/pymao,True
 https://gitlab.inria.fr/cidre-public/tata/tata-java,True
-https://gitlab.inria.fr/cidre-public/tata/tata-llvm,False
+https://gitlab.inria.fr/cidre-public/tata/tata-llvm,True
 https://gitlab.inria.fr/cidre-public/tata/tata-release,True
 https://gitlab.inria.fr/cigri-ctrl/cigri-expe,True
 https://gitlab.inria.fr/cigri-ctrl/stage-agustin-yabo,True
@@ -5956,7 +5956,7 @@ https://gitlab.inria.fr/corese/corese-lab,True
 https://gitlab.inria.fr/croco-ocean/croco,True
 https://gitlab.inria.fr/croco-ocean/croco_tools,True
 https://gitlab.inria.fr/croco-ocean/devs/theetten/croco,True
-https://gitlab.inria.fr/crowdguard-public/data/taxonomy-skillproject,False
+https://gitlab.inria.fr/crowdguard-public/data/taxonomy-skillproject,True
 https://gitlab.inria.fr/crowdguard-public/data/workers-stackoverflow,True
 https://gitlab.inria.fr/crowdguard-public/deliverables/final,True
 https://gitlab.inria.fr/crowdguard-public/implems/pkd-demo,True
@@ -5978,7 +5978,7 @@ https://gitlab.inria.fr/datapol/1508-heteropar15-protobatsim,True
 https://gitlab.inria.fr/datapol/1605-jsspp16-batsim,True
 https://gitlab.inria.fr/datapol/experiments-methodology,True
 https://gitlab.inria.fr/datapol/gsl/gsl-omp,True
-https://gitlab.inria.fr/datapol/gsl/gsl-omp-example,False
+https://gitlab.inria.fr/datapol/gsl/gsl-omp-example,True
 https://gitlab.inria.fr/datapol/manuscript-template,True
 https://gitlab.inria.fr/datapol/vdanjean-backuppc-client,True
 https://gitlab.inria.fr/datapol/wiki-welcome,True
@@ -6104,7 +6104,7 @@ https://gitlab.inria.fr/expression/tools/roots,True
 https://gitlab.inria.fr/faustgrp/gforge_files,True
 https://gitlab.inria.fr/fec/MIPP,True
 https://gitlab.inria.fr/fec/PyBER,True
-https://gitlab.inria.fr/fec/publications/aff3ct_un_environnement_de_simulation_pour_le_codage_de_canal,False
+https://gitlab.inria.fr/fec/publications/aff3ct_un_environnement_de_simulation_pour_le_codage_de_canal,True
 https://gitlab.inria.fr/fec/publications/an_efficient_portable_and_generic_library_for_successive_cancellation_decoding_of_polar_codes,True
 https://gitlab.inria.fr/fec/publications/beyond_gbps_turbo_decoder_on_multi-core_cpus,False
 https://gitlab.inria.fr/fec/publications/energy_consumption_analysis_of_software_polar_decoders_on_low_power_processors,False
@@ -6135,7 +6135,7 @@ https://gitlab.inria.fr/gagallium/stog-math,True
 https://gitlab.inria.fr/gappa/coq,True
 https://gitlab.inria.fr/gappa/gappa,True
 https://gitlab.inria.fr/gazelle/applications/mixed/CDAGenerator,True
-https://gitlab.inria.fr/gazelle/applications/mixed/gazelle-atna,False
+https://gitlab.inria.fr/gazelle/applications/mixed/gazelle-atna,True
 https://gitlab.inria.fr/gazelle/applications/mixed/gazelle-tm,True
 https://gitlab.inria.fr/gazelle/applications/test-design/AssertionManager,True
 https://gitlab.inria.fr/gazelle/applications/test-design/DemographicDataServer,True
@@ -6338,7 +6338,7 @@ https://gitlab.inria.fr/learninglab/mooc-rr/mooc-rr-apps,True
 https://gitlab.inria.fr/learninglab/mooc-rr/mooc-rr-modele,False
 https://gitlab.inria.fr/learninglab/mooc-rr/mooc-rr-ressources,False
 https://gitlab.inria.fr/learninglab/mooc-rr/moocrr-reproducibility-study,False
-https://gitlab.inria.fr/learninglab/mooc-scikit-learn/mooc-scikit-learn-model,False
+https://gitlab.inria.fr/learninglab/mooc-scikit-learn/mooc-scikit-learn-model,True
 https://gitlab.inria.fr/learninglab/mooc-scikit-learn/mooc-scikit-learn-resources,False
 https://gitlab.inria.fr/learninglab/nsi-capes-info,True
 https://gitlab.inria.fr/lifeware/biocham,True
@@ -6374,7 +6374,7 @@ https://gitlab.inria.fr/mecsci/grains/alignement-sequences,False
 https://gitlab.inria.fr/mecsci/grains/alignement-sequences-adn,False
 https://gitlab.inria.fr/mecsci/grains/alignement-sequences-adn-english,False
 https://gitlab.inria.fr/mecsci/grains/automate-etats-finis-multiple-3,False
-https://gitlab.inria.fr/mecsci/grains/carpasinivores,False
+https://gitlab.inria.fr/mecsci/grains/carpasinivores,True
 https://gitlab.inria.fr/mecsci/grains/carpasinivores-limejs,False
 https://gitlab.inria.fr/mecsci/grains/codes-secrets,False
 https://gitlab.inria.fr/mecsci/grains/creation-arn,False
@@ -6430,7 +6430,7 @@ https://gitlab.inria.fr/ml_genetics/private/Beast,True
 https://gitlab.inria.fr/ml_genetics/private/robustness_pipeline,True
 https://gitlab.inria.fr/ml_genetics/private/temporal_PCA,True
 https://gitlab.inria.fr/ml_genetics/public/DNA_DNA,False
-https://gitlab.inria.fr/ml_genetics/public/Pop_gen_simulators,False
+https://gitlab.inria.fr/ml_genetics/public/Pop_gen_simulators,True
 https://gitlab.inria.fr/ml_genetics/public/artificial_genomes,True
 https://gitlab.inria.fr/ml_genetics/public/demoseq,True
 https://gitlab.inria.fr/ml_genetics/public/dlpopsize,False
@@ -6560,7 +6560,7 @@ https://gitlab.inria.fr/pycomodo/pycomodo,True
 https://gitlab.inria.fr/qparse/qparselib,True
 https://gitlab.inria.fr/rainbow-intervals/ros_interval,True
 https://gitlab.inria.fr/realopt/TemporalKnapsack,True
-https://gitlab.inria.fr/regular-pv/timbuk/ocaml,False
+https://gitlab.inria.fr/regular-pv/timbuk/ocaml,True
 https://gitlab.inria.fr/regular-pv/timbuk/timbuk,False
 https://gitlab.inria.fr/reo/transport-in-1d-networks,True
 https://gitlab.inria.fr/resibots/public/py_map_elites,False
