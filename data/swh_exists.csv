@@ -2677,7 +2677,7 @@ https://github.com/betagouv/datapass-api-particulier-bridge,True
 https://github.com/betagouv/dds-cross-simulator,True
 https://github.com/betagouv/demarches-simplifiees.fr,True
 https://github.com/betagouv/demarches.api.gouv.fr,True
-https://github.com/betagouv/desk-agent-polyvalent,False
+https://github.com/betagouv/desk-agent-polyvalent,True
 https://github.com/betagouv/diagoriente-admin,True
 https://github.com/betagouv/diagoriente-api-v5-,True
 https://github.com/betagouv/diagoriente-front,True
@@ -5716,7 +5716,7 @@ https://gitlab.inria.fr/almanach/alOldies/lexed,True
 https://gitlab.inria.fr/almanach/alOldies/mafd,False
 https://gitlab.inria.fr/almanach/alOldies/nomos,False
 https://gitlab.inria.fr/almanach/alOldies/perlmod/bundle-atoll,False
-https://gitlab.inria.fr/almanach/alOldies/perlmod/dict-fsa,False
+https://gitlab.inria.fr/almanach/alOldies/perlmod/dict-fsa,True
 https://gitlab.inria.fr/almanach/alOldies/perlmod/dict-lexed,False
 https://gitlab.inria.fr/almanach/alOldies/perlmod/lingua-features,False
 https://gitlab.inria.fr/almanach/alOldies/perlmod/lingua-maf,False
@@ -5733,7 +5733,7 @@ https://gitlab.inria.fr/almanach/alexina/aaa-sk,True
 https://gitlab.inria.fr/almanach/alexina/aleda,False
 https://gitlab.inria.fr/almanach/alexina/alexina-interface,True
 https://gitlab.inria.fr/almanach/alexina/alexina-morphedit,True
-https://gitlab.inria.fr/almanach/alexina/alexina-output,False
+https://gitlab.inria.fr/almanach/alexina/alexina-output,True
 https://gitlab.inria.fr/almanach/alexina/alexina-tools,True
 https://gitlab.inria.fr/almanach/alexina/alpino,False
 https://gitlab.inria.fr/almanach/alexina/dela_gr,False
@@ -5751,7 +5751,7 @@ https://gitlab.inria.fr/almanach/alexina/leffga,False
 https://gitlab.inria.fr/almanach/alexina/leffp,False
 https://gitlab.inria.fr/almanach/alexina/lexconn,True
 https://gitlab.inria.fr/almanach/alexina/morph_it,True
-https://gitlab.inria.fr/almanach/alexina/morphalou_alexina,False
+https://gitlab.inria.fr/almanach/alexina/morphalou_alexina,True
 https://gitlab.inria.fr/almanach/alexina/ofrlex,True
 https://gitlab.inria.fr/almanach/alexina/ofrlex-modifier,True
 https://gitlab.inria.fr/almanach/alexina/perlex,True
@@ -5763,7 +5763,7 @@ https://gitlab.inria.fr/almanach/alexina/sklex,True
 https://gitlab.inria.fr/almanach/alexina/sloleks,False
 https://gitlab.inria.fr/almanach/alexina/soralex,False
 https://gitlab.inria.fr/almanach/alexina/sursilex,True
-https://gitlab.inria.fr/almanach/alexina/tuatlex,False
+https://gitlab.inria.fr/almanach/alexina/tuatlex,True
 https://gitlab.inria.fr/almanach/alpi,True
 https://gitlab.inria.fr/almanach/dyalog/dyalog,True
 https://gitlab.inria.fr/almanach/dyalog/dyalog-mst,False
@@ -5780,7 +5780,7 @@ https://gitlab.inria.fr/almanach/mgkit/dyalog-expander,True
 https://gitlab.inria.fr/almanach/mgkit/emg,True
 https://gitlab.inria.fr/almanach/mgkit/forest_utils,True
 https://gitlab.inria.fr/almanach/mgkit/french-toy-tag,False
-https://gitlab.inria.fr/almanach/mgkit/frmg,False
+https://gitlab.inria.fr/almanach/mgkit/frmg,True
 https://gitlab.inria.fr/almanach/mgkit/frmgcm,True
 https://gitlab.inria.fr/almanach/mgkit/hmg,False
 https://gitlab.inria.fr/almanach/mgkit/mgcomp,False
@@ -5823,7 +5823,7 @@ https://gitlab.inria.fr/auctus/panda/franka_description,False
 https://gitlab.inria.fr/auctus/panda/panda_traj,False
 https://gitlab.inria.fr/auctus/panda/rtt_panda/rtt_ros_kdl_tools,True
 https://gitlab.inria.fr/auctus/panda/torque_qp,False
-https://gitlab.inria.fr/auctus/panda/velocity_qp,False
+https://gitlab.inria.fr/auctus/panda/velocity_qp,True
 https://gitlab.inria.fr/auctus/papers/setbasedrobotcapabilitiesestimation2020/code_public,True
 https://gitlab.inria.fr/aviz/paohvis,True
 https://gitlab.inria.fr/bar/website,True
@@ -6590,7 +6590,7 @@ https://gitlab.inria.fr/sed-paris/welcome,True
 https://gitlab.inria.fr/sed-ral/orccad,True
 https://gitlab.inria.fr/sed-rennes/VR-Three.js,True
 https://gitlab.inria.fr/sed-rennes/formations/allgo,True
-https://gitlab.inria.fr/sed-rennes/formations/deep-learning-intro,False
+https://gitlab.inria.fr/sed-rennes/formations/deep-learning-intro,True
 https://gitlab.inria.fr/sed-rennes/formations/diu-robotique,False
 https://gitlab.inria.fr/sed-rennes/formations/enoslib-tutorials,False
 https://gitlab.inria.fr/sed-rennes/formations/formation-gitlab-ci,False
@@ -6646,7 +6646,7 @@ https://gitlab.inria.fr/sibr/projects/optix,True
 https://gitlab.inria.fr/sibr/projects/semantic-reflections/segmentation-network,True
 https://gitlab.inria.fr/sibr/projects/semantic-reflections/semantic_reflections,False
 https://gitlab.inria.fr/sibr/projects/simple,True
-https://gitlab.inria.fr/sibr/projects/soft3d,False
+https://gitlab.inria.fr/sibr/projects/soft3d,True
 https://gitlab.inria.fr/sibr/projects/spixelwarp,True
 https://gitlab.inria.fr/sibr/projects/tfgl_interop,True
 https://gitlab.inria.fr/sibr/sibr_core,True
@@ -6816,7 +6816,7 @@ https://gitlab.irstea.fr/irrig/public,True
 https://gitlab.irstea.fr/irstea-ros/ads1115_driver,True
 https://gitlab.irstea.fr/irstea-ros/labjack_driver,True
 https://gitlab.irstea.fr/irstea-ros/navsat_to_odom,True
-https://gitlab.irstea.fr/pole-is/bundles/api-metadata,False
+https://gitlab.irstea.fr/pole-is/bundles/api-metadata,True
 https://gitlab.irstea.fr/pole-is/bundles/file-upload-bundle,True
 https://gitlab.irstea.fr/pole-is/bundles/maybe,True
 https://gitlab.irstea.fr/pole-is/bundles/ng-model-generator-bundle,True
