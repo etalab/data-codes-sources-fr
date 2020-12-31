@@ -362,7 +362,7 @@ https://forgemia.inra.fr/metexplore/cbm/fvabiomarkers,False
 https://forgemia.inra.fr/metexplore/met4j,True
 https://forgemia.inra.fr/metexplore/metabolomics2network,True
 https://forgemia.inra.fr/metexplore/metexplore2,True
-https://forgemia.inra.fr/metexplore/metx/metexplore_components,False
+https://forgemia.inra.fr/metexplore/metx/metexplore_components,True
 https://forgemia.inra.fr/metexplore/metx/metx-basicline,True
 https://forgemia.inra.fr/metexplore/metx/metx-bubbleplot,True
 https://forgemia.inra.fr/metexplore/metx/metx-enrichement,True
@@ -5393,7 +5393,7 @@ https://gitlab.com/healthdatahub/tsfaker,True
 https://gitlab.com/musee-saint-raymond/villa-chiragan,True
 https://gitlab.com/op18-enki/cosmic-sapeurs,True
 https://gitlab.com/op18-enki/sapeurs,True
-https://gitlab.com/peren/api-meubles/backend,False
+https://gitlab.com/peren/api-meubles/backend,True
 https://gitlab.com/peren/api-meubles/doc-api,True
 https://gitlab.com/peren/api-meubles/fraddress,True
 https://gitlab.com/peren/api-meubles/frontend,True
@@ -5594,7 +5594,7 @@ https://gitlab.inria.fr/MUSIC/dtk,True
 https://gitlab.inria.fr/Madeus/mad,True
 https://gitlab.inria.fr/Madeus/mad-openstack,True
 https://gitlab.inria.fr/MarTo/marto,True
-https://gitlab.inria.fr/MoReFEM/CoreLibrary/MoReFEM,False
+https://gitlab.inria.fr/MoReFEM/CoreLibrary/MoReFEM,True
 https://gitlab.inria.fr/MoReFEM/CoreLibrary/generatedockerimages,True
 https://gitlab.inria.fr/MoReFEM/CoreLibrary/introductiontalks,True
 https://gitlab.inria.fr/MoReFEM/Models/AcousticWave,True
@@ -6106,7 +6106,7 @@ https://gitlab.inria.fr/fec/MIPP,True
 https://gitlab.inria.fr/fec/PyBER,True
 https://gitlab.inria.fr/fec/publications/aff3ct_un_environnement_de_simulation_pour_le_codage_de_canal,True
 https://gitlab.inria.fr/fec/publications/an_efficient_portable_and_generic_library_for_successive_cancellation_decoding_of_polar_codes,True
-https://gitlab.inria.fr/fec/publications/beyond_gbps_turbo_decoder_on_multi-core_cpus,False
+https://gitlab.inria.fr/fec/publications/beyond_gbps_turbo_decoder_on_multi-core_cpus,True
 https://gitlab.inria.fr/fec/publications/energy_consumption_analysis_of_software_polar_decoders_on_low_power_processors,False
 https://gitlab.inria.fr/fec/publications/fast_simulation_and_prototyping_with_aff3ct,False
 https://gitlab.inria.fr/fec/publications/mipp_a_portable_cpp_simd_wrapper_and_its_use_for_error_correction_coding_in_5g_standard,False
@@ -6372,7 +6372,7 @@ https://gitlab.inria.fr/mecsci/grains/algo-ford-fulkerson,False
 https://gitlab.inria.fr/mecsci/grains/algo-predateurs,False
 https://gitlab.inria.fr/mecsci/grains/alignement-sequences,False
 https://gitlab.inria.fr/mecsci/grains/alignement-sequences-adn,False
-https://gitlab.inria.fr/mecsci/grains/alignement-sequences-adn-english,False
+https://gitlab.inria.fr/mecsci/grains/alignement-sequences-adn-english,True
 https://gitlab.inria.fr/mecsci/grains/automate-etats-finis-multiple-3,False
 https://gitlab.inria.fr/mecsci/grains/carpasinivores,True
 https://gitlab.inria.fr/mecsci/grains/carpasinivores-limejs,False
@@ -6383,7 +6383,7 @@ https://gitlab.inria.fr/mecsci/grains/cryptris,False
 https://gitlab.inria.fr/mecsci/grains/des-mots-dans-le-cerveau,False
 https://gitlab.inria.fr/mecsci/grains/edel,True
 https://gitlab.inria.fr/mecsci/grains/javaschoolweb,False
-https://gitlab.inria.fr/mecsci/grains/jeu-de-hamming,False
+https://gitlab.inria.fr/mecsci/grains/jeu-de-hamming,True
 https://gitlab.inria.fr/mecsci/grains/machine-turing,False
 https://gitlab.inria.fr/mecsci/grains/methodes-tri,False
 https://gitlab.inria.fr/mecsci/grains/modele-sir,False
@@ -6396,7 +6396,7 @@ https://gitlab.inria.fr/mecsci/grains/tetris-botte,False
 https://gitlab.inria.fr/mecsci/grains/tetris-botte-serv,False
 https://gitlab.inria.fr/mecsci/grains/turing-2d,False
 https://gitlab.inria.fr/mecsci/grains/voronoi-diagramme,False
-https://gitlab.inria.fr/mecsci/grains/voronoi-jeu,False
+https://gitlab.inria.fr/mecsci/grains/voronoi-jeu,True
 https://gitlab.inria.fr/mecsci/grains/zero,False
 https://gitlab.inria.fr/mecsi-ext/genumsi,True
 https://gitlab.inria.fr/mediation-sif/Labyrinthe/laby,True
