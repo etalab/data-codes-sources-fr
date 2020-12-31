@@ -231,7 +231,7 @@ https://forgemia.inra.fr/gafl/singularity/bwa,False
 https://forgemia.inra.fr/gafl/singularity/canu,True
 https://forgemia.inra.fr/gafl/singularity/cdna_cupcake,False
 https://forgemia.inra.fr/gafl/singularity/circos,True
-https://forgemia.inra.fr/gafl/singularity/crossmap,False
+https://forgemia.inra.fr/gafl/singularity/crossmap,True
 https://forgemia.inra.fr/gafl/singularity/cutadapt,True
 https://forgemia.inra.fr/gafl/singularity/deeptools,False
 https://forgemia.inra.fr/gafl/singularity/dicoexpress,True
@@ -281,7 +281,7 @@ https://forgemia.inra.fr/gafl/singularity/trinity,False
 https://forgemia.inra.fr/gafl/singularity/trinotate,True
 https://forgemia.inra.fr/gafl/singularity/varscan,True
 https://forgemia.inra.fr/gafl/singularity/vcftools,True
-https://forgemia.inra.fr/gafl/singularity/whatshap,False
+https://forgemia.inra.fr/gafl/singularity/whatshap,True
 https://forgemia.inra.fr/gafl/snakemake_modules,True
 https://forgemia.inra.fr/gafl/thaliadb/ThaliaDB_singularity,True
 https://forgemia.inra.fr/genotoul-bioinfo/dgenies,True
@@ -5726,7 +5726,7 @@ https://gitlab.inria.fr/almanach/alOldies/scribo,True
 https://gitlab.inria.fr/almanach/alOldies/sxlfg,True
 https://gitlab.inria.fr/almanach/alOldies/sxpipe-data,False
 https://gitlab.inria.fr/almanach/alTextProcessing/alAnalyser,True
-https://gitlab.inria.fr/almanach/alTextProcessing/melt,False
+https://gitlab.inria.fr/almanach/alTextProcessing/melt,True
 https://gitlab.inria.fr/almanach/alTextProcessing/sxpipe,False
 https://gitlab.inria.fr/almanach/alexina/aaa,False
 https://gitlab.inria.fr/almanach/alexina/aaa-sk,True
@@ -5752,7 +5752,7 @@ https://gitlab.inria.fr/almanach/alexina/leffp,False
 https://gitlab.inria.fr/almanach/alexina/lexconn,True
 https://gitlab.inria.fr/almanach/alexina/morph_it,True
 https://gitlab.inria.fr/almanach/alexina/morphalou_alexina,False
-https://gitlab.inria.fr/almanach/alexina/ofrlex,False
+https://gitlab.inria.fr/almanach/alexina/ofrlex,True
 https://gitlab.inria.fr/almanach/alexina/ofrlex-modifier,True
 https://gitlab.inria.fr/almanach/alexina/perlex,True
 https://gitlab.inria.fr/almanach/alexina/pollex,False
@@ -6175,7 +6175,7 @@ https://gitlab.inria.fr/gazelle/library/unit-test,True
 https://gitlab.inria.fr/gazelle/library/version,False
 https://gitlab.inria.fr/gazelle/model-api/gitb,False
 https://gitlab.inria.fr/gazelle/model-api/messaging-model,True
-https://gitlab.inria.fr/gazelle/model-api/search,False
+https://gitlab.inria.fr/gazelle/model-api/search,True
 https://gitlab.inria.fr/gazelle/model-api/standard-block-api,True
 https://gitlab.inria.fr/gazelle/model-api/validation-model,True
 https://gitlab.inria.fr/gazelle/specific-tools/connectivity-test-scripts,True
@@ -6381,7 +6381,7 @@ https://gitlab.inria.fr/mecsci/grains/creation-arn,False
 https://gitlab.inria.fr/mecsci/grains/crepes,False
 https://gitlab.inria.fr/mecsci/grains/cryptris,False
 https://gitlab.inria.fr/mecsci/grains/des-mots-dans-le-cerveau,False
-https://gitlab.inria.fr/mecsci/grains/edel,False
+https://gitlab.inria.fr/mecsci/grains/edel,True
 https://gitlab.inria.fr/mecsci/grains/javaschoolweb,False
 https://gitlab.inria.fr/mecsci/grains/jeu-de-hamming,False
 https://gitlab.inria.fr/mecsci/grains/machine-turing,False
@@ -6589,7 +6589,7 @@ https://gitlab.inria.fr/sed-paris/developer-meetups,True
 https://gitlab.inria.fr/sed-paris/welcome,True
 https://gitlab.inria.fr/sed-ral/orccad,True
 https://gitlab.inria.fr/sed-rennes/VR-Three.js,True
-https://gitlab.inria.fr/sed-rennes/formations/allgo,False
+https://gitlab.inria.fr/sed-rennes/formations/allgo,True
 https://gitlab.inria.fr/sed-rennes/formations/deep-learning-intro,False
 https://gitlab.inria.fr/sed-rennes/formations/diu-robotique,False
 https://gitlab.inria.fr/sed-rennes/formations/enoslib-tutorials,False
@@ -6838,7 +6838,7 @@ https://gitlab.irstea.fr/pole-is/tools/deployer-worker-recipe,False
 https://gitlab.irstea.fr/pole-is/tools/make-shim,True
 https://gitlab.irstea.fr/pole-is/tools/pcov-clobber-plugin,True
 https://gitlab.irstea.fr/pole-is/tools/php-cs-fixer-config,True
-https://gitlab.irstea.fr/pole-is/tools/php-cs-fixer-shim,False
+https://gitlab.irstea.fr/pole-is/tools/php-cs-fixer-shim,True
 https://gitlab.irstea.fr/pole-is/tools/php-dev-pack,True
 https://gitlab.irstea.fr/pole-is/tools/php-skeleton,True
 https://gitlab.irstea.fr/pole-is/tools/phpcpd-shim,False
