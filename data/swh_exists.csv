@@ -92,7 +92,7 @@ https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.gran
 https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/web-portal/components/middlewares/legacy-auth,True
 https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/web-portal/components/miscellaneous/maintenance-page,True
 https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/web-portal/components/proxies/authz-and-cache-for-es,True
-https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/web-portal/components/proxies/query,False
+https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/web-portal/components/proxies/query,True
 https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/web-portal/components/services/authentication,False
 https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/web-portal/components/services/changelog,False
 https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/web-portal/components/services/credits,True
@@ -239,7 +239,7 @@ https://forgemia.inra.fr/gafl/singularity/fastp,True
 https://forgemia.inra.fr/gafl/singularity/fastqc,False
 https://forgemia.inra.fr/gafl/singularity/filtlong,True
 https://forgemia.inra.fr/gafl/singularity/flye,True
-https://forgemia.inra.fr/gafl/singularity/freebayes,False
+https://forgemia.inra.fr/gafl/singularity/freebayes,True
 https://forgemia.inra.fr/gafl/singularity/gatk4,True
 https://forgemia.inra.fr/gafl/singularity/genometools,True
 https://forgemia.inra.fr/gafl/singularity/hisat,True
@@ -406,7 +406,7 @@ https://forgemia.inra.fr/siriusquality/sqcode/Release,True
 https://forgemia.inra.fr/siriusquality/sqcode/SiriusQuality-BioMa-Phenology-Component,True
 https://forgemia.inra.fr/siriusquality/sqcode/siriusquality-bioma-irradiance-component,True
 https://forgemia.inra.fr/siriusquality/sqcode/siriusquality-bioma-maizelai-component,True
-https://forgemia.inra.fr/siriusquality/sqcode/siriusquality-bioma-wheatpotentiallai-component,False
+https://forgemia.inra.fr/siriusquality/sqcode/siriusquality-bioma-wheatpotentiallai-component,True
 https://forgemia.inra.fr/sunrise/15ex05_data_correction,True
 https://forgemia.inra.fr/sunrise/network-inference,True
 https://forgemia.inra.fr/svdetection/cnvpipelines,True
@@ -5433,7 +5433,7 @@ https://gitlab.huma-num.fr/disco-lge/processinglge,True
 https://gitlab.huma-num.fr/disco-lge/soprano,True
 https://gitlab.huma-num.fr/disco-lge/vue-d-ensemble,True
 https://gitlab.huma-num.fr/ecrinum/anthologia/pythonap,True
-https://gitlab.huma-num.fr/ecrinum/manuels/introduction-a-zotero,False
+https://gitlab.huma-num.fr/ecrinum/manuels/introduction-a-zotero,True
 https://gitlab.huma-num.fr/ecrinum/manuels/tutoriel-markdown-pandoc,True
 https://gitlab.huma-num.fr/ecrinum/sens-public/gestionedition,True
 https://gitlab.huma-num.fr/ecrinum/stylo/presentations/fosdem-2020,True
@@ -5727,7 +5727,7 @@ https://gitlab.inria.fr/almanach/alOldies/sxlfg,True
 https://gitlab.inria.fr/almanach/alOldies/sxpipe-data,False
 https://gitlab.inria.fr/almanach/alTextProcessing/alAnalyser,True
 https://gitlab.inria.fr/almanach/alTextProcessing/melt,True
-https://gitlab.inria.fr/almanach/alTextProcessing/sxpipe,False
+https://gitlab.inria.fr/almanach/alTextProcessing/sxpipe,True
 https://gitlab.inria.fr/almanach/alexina/aaa,False
 https://gitlab.inria.fr/almanach/alexina/aaa-sk,True
 https://gitlab.inria.fr/almanach/alexina/aleda,False
@@ -6173,7 +6173,7 @@ https://gitlab.inria.fr/gazelle/library/tool,True
 https://gitlab.inria.fr/gazelle/library/ui-service,False
 https://gitlab.inria.fr/gazelle/library/unit-test,True
 https://gitlab.inria.fr/gazelle/library/version,False
-https://gitlab.inria.fr/gazelle/model-api/gitb,False
+https://gitlab.inria.fr/gazelle/model-api/gitb,True
 https://gitlab.inria.fr/gazelle/model-api/messaging-model,True
 https://gitlab.inria.fr/gazelle/model-api/search,True
 https://gitlab.inria.fr/gazelle/model-api/standard-block-api,True
@@ -6841,7 +6841,7 @@ https://gitlab.irstea.fr/pole-is/tools/php-cs-fixer-config,True
 https://gitlab.irstea.fr/pole-is/tools/php-cs-fixer-shim,True
 https://gitlab.irstea.fr/pole-is/tools/php-dev-pack,True
 https://gitlab.irstea.fr/pole-is/tools/php-skeleton,True
-https://gitlab.irstea.fr/pole-is/tools/phpcpd-shim,False
+https://gitlab.irstea.fr/pole-is/tools/phpcpd-shim,True
 https://gitlab.irstea.fr/pole-is/tools/phploc-shim,True
 https://gitlab.irstea.fr/pole-is/tools/phpmd-config,True
 https://gitlab.irstea.fr/pole-is/tools/phpmd-shim,True
@@ -6952,7 +6952,7 @@ https://gitlab.u-psud.fr/ter-graphupsud/labycpp_python,True
 https://gitlab.u-psud.fr/ter-graphupsud/singleoutputwidget,True
 https://gitlabjf.ccomptes.fr/CommunautesJF/beta,True
 https://gitlabjf.ccomptes.fr/EIG_2019/plume/documentation,True
-https://gitlabjf.ccomptes.fr/EIG_2019/plume/pagedjs-cli,False
+https://gitlabjf.ccomptes.fr/EIG_2019/plume/pagedjs-cli,True
 https://gitlabjf.ccomptes.fr/EIG_2019/plume/plume,True
 https://gitlabjf.ccomptes.fr/EIG_2019/plume/plume-editoria,True
 https://gitlabjf.ccomptes.fr/EIG_2019/plume/plume-prosemirror,False
