@@ -82,7 +82,7 @@ https://forge.grandlyon.com/web-et-numerique/llle_project/ecolyo,True
 https://forge.grandlyon.com/web-et-numerique/llle_project/egl-konnector,True
 https://forge.grandlyon.com/web-et-numerique/llle_project/enedis-konnector,True
 https://forge.grandlyon.com/web-et-numerique/llle_project/grdf-konnector,True
-https://forge.grandlyon.com/web-et-numerique/llle_project/grdf-scraping-konnector,False
+https://forge.grandlyon.com/web-et-numerique/llle_project/grdf-scraping-konnector,True
 https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/articles/point-cloud,True
 https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/pocs/wiki-territorial-covid,False
 https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/web-portal/components/custom-apps/admin-gui,True
@@ -194,7 +194,7 @@ https://forgemia.inra.fr/cati-boom-public/site-officiel,True
 https://forgemia.inra.fr/chemhouse/octave/tbjmr/CovSel,True
 https://forgemia.inra.fr/chemhouse/octave/tbjmr/VSN,True
 https://forgemia.inra.fr/chemhouse/octave/tbjmr/ncovsel,True
-https://forgemia.inra.fr/chemhousebas/octave/covsel,False
+https://forgemia.inra.fr/chemhousebas/octave/covsel,True
 https://forgemia.inra.fr/chemhousebas/parafac,True
 https://forgemia.inra.fr/chemhousebas/vsn,True
 https://forgemia.inra.fr/cirad--monde-apres/reunion_initiatives_urgences,True
@@ -5263,7 +5263,7 @@ https://gitlab.adullact.net/gip-recia-snc/public/autoit/pnm-audit-desktop,True
 https://gitlab.adullact.net/gip-recia-snc/public/autoit/pnm-teamviewer-installer,True
 https://gitlab.adullact.net/gip-recia-snc/public/docker/debian-systemd,True
 https://gitlab.adullact.net/gip-recia-snc/public/docker/fedora-systemd,True
-https://gitlab.adullact.net/gip-recia-snc/public/docker/teampasswordmanager,False
+https://gitlab.adullact.net/gip-recia-snc/public/docker/teampasswordmanager,True
 https://gitlab.adullact.net/gip-recia-snc/public/odoo/odoo-time-tracker,True
 https://gitlab.adullact.net/pixelhumain/Rocket-Chat,True
 https://gitlab.adullact.net/pixelhumain/co-meta,True
@@ -5589,7 +5589,7 @@ https://gitlab.inria.fr/LightFieldCodingLibrary/SR,True
 https://gitlab.inria.fr/LightFieldCodingLibrary/utils,True
 https://gitlab.inria.fr/LightFieldCodingLibrary/yuv,True
 https://gitlab.inria.fr/Loki/PolyphonyECS,True
-https://gitlab.inria.fr/Loki/happiness/libhappiness,False
+https://gitlab.inria.fr/Loki/happiness/libhappiness,True
 https://gitlab.inria.fr/MUSIC/dtk,True
 https://gitlab.inria.fr/Madeus/mad,True
 https://gitlab.inria.fr/Madeus/mad-openstack,True
@@ -5738,7 +5738,7 @@ https://gitlab.inria.fr/almanach/alexina/alexina-tools,True
 https://gitlab.inria.fr/almanach/alexina/alpino,False
 https://gitlab.inria.fr/almanach/alexina/dela_gr,False
 https://gitlab.inria.fr/almanach/alexina/delex,False
-https://gitlab.inria.fr/almanach/alexina/enlex,False
+https://gitlab.inria.fr/almanach/alexina/enlex,True
 https://gitlab.inria.fr/almanach/alexina/enlex-emg,False
 https://gitlab.inria.fr/almanach/alexina/frwiktionary_alexina,False
 https://gitlab.inria.fr/almanach/alexina/khalex,False
@@ -5779,7 +5779,7 @@ https://gitlab.inria.fr/almanach/mgkit/depgraph,False
 https://gitlab.inria.fr/almanach/mgkit/dyalog-expander,True
 https://gitlab.inria.fr/almanach/mgkit/emg,True
 https://gitlab.inria.fr/almanach/mgkit/forest_utils,True
-https://gitlab.inria.fr/almanach/mgkit/french-toy-tag,False
+https://gitlab.inria.fr/almanach/mgkit/french-toy-tag,True
 https://gitlab.inria.fr/almanach/mgkit/frmg,True
 https://gitlab.inria.fr/almanach/mgkit/frmgcm,True
 https://gitlab.inria.fr/almanach/mgkit/hmg,False
@@ -6109,7 +6109,7 @@ https://gitlab.inria.fr/fec/publications/an_efficient_portable_and_generic_libra
 https://gitlab.inria.fr/fec/publications/beyond_gbps_turbo_decoder_on_multi-core_cpus,True
 https://gitlab.inria.fr/fec/publications/energy_consumption_analysis_of_software_polar_decoders_on_low_power_processors,False
 https://gitlab.inria.fr/fec/publications/fast_simulation_and_prototyping_with_aff3ct,False
-https://gitlab.inria.fr/fec/publications/mipp_a_portable_cpp_simd_wrapper_and_its_use_for_error_correction_coding_in_5g_standard,False
+https://gitlab.inria.fr/fec/publications/mipp_a_portable_cpp_simd_wrapper_and_its_use_for_error_correction_coding_in_5g_standard,True
 https://gitlab.inria.fr/fedbiomed/client-fedbiomed,True
 https://gitlab.inria.fr/fedbiomed/fed-requests,True
 https://gitlab.inria.fr/fedbiomed/fedbiomed-api,True
@@ -6188,7 +6188,7 @@ https://gitlab.inria.fr/gazelle/specific-tools/epr/no-peer-testing,True
 https://gitlab.inria.fr/gazelle/specific-tools/epr/ppq-repository,True
 https://gitlab.inria.fr/gazelle/specific-tools/epr/schematron,True
 https://gitlab.inria.fr/gazelle/specific-tools/epr/xds-xca-simulator,True
-https://gitlab.inria.fr/gazelle/specific-tools/epr/xdstools,False
+https://gitlab.inria.fr/gazelle/specific-tools/epr/xdstools,True
 https://gitlab.inria.fr/gazelle/specific-tools/sequoia/acp,True
 https://gitlab.inria.fr/gazelle/standard-blocks/iua-standard-blocks,True
 https://gitlab.inria.fr/gazelle/test-content/fhir-conformance-resources,True
@@ -6335,7 +6335,7 @@ https://gitlab.inria.fr/learninglab/mooc-forums-theme,True
 https://gitlab.inria.fr/learninglab/mooc-iot/mooc-iot-ressources,False
 https://gitlab.inria.fr/learninglab/mooc-mr-notebooks,True
 https://gitlab.inria.fr/learninglab/mooc-rr/mooc-rr-apps,True
-https://gitlab.inria.fr/learninglab/mooc-rr/mooc-rr-modele,False
+https://gitlab.inria.fr/learninglab/mooc-rr/mooc-rr-modele,True
 https://gitlab.inria.fr/learninglab/mooc-rr/mooc-rr-ressources,False
 https://gitlab.inria.fr/learninglab/mooc-rr/moocrr-reproducibility-study,False
 https://gitlab.inria.fr/learninglab/mooc-scikit-learn/mooc-scikit-learn-model,True
@@ -6380,7 +6380,7 @@ https://gitlab.inria.fr/mecsci/grains/codes-secrets,False
 https://gitlab.inria.fr/mecsci/grains/creation-arn,False
 https://gitlab.inria.fr/mecsci/grains/crepes,False
 https://gitlab.inria.fr/mecsci/grains/cryptris,False
-https://gitlab.inria.fr/mecsci/grains/des-mots-dans-le-cerveau,False
+https://gitlab.inria.fr/mecsci/grains/des-mots-dans-le-cerveau,True
 https://gitlab.inria.fr/mecsci/grains/edel,True
 https://gitlab.inria.fr/mecsci/grains/javaschoolweb,False
 https://gitlab.inria.fr/mecsci/grains/jeu-de-hamming,True
@@ -6561,7 +6561,7 @@ https://gitlab.inria.fr/qparse/qparselib,True
 https://gitlab.inria.fr/rainbow-intervals/ros_interval,True
 https://gitlab.inria.fr/realopt/TemporalKnapsack,True
 https://gitlab.inria.fr/regular-pv/timbuk/ocaml,True
-https://gitlab.inria.fr/regular-pv/timbuk/timbuk,False
+https://gitlab.inria.fr/regular-pv/timbuk/timbuk,True
 https://gitlab.inria.fr/reo/transport-in-1d-networks,True
 https://gitlab.inria.fr/resibots/public/py_map_elites,False
 https://gitlab.inria.fr/rmod-public/2019-sourcecodedata,True
@@ -6603,7 +6603,7 @@ https://gitlab.inria.fr/sed-rennes/overleaf/web,False
 https://gitlab.inria.fr/sed-rennes/sharelatex-website,True
 https://gitlab.inria.fr/sed-rennes/sharelatex/clsi-sharelatex,False
 https://gitlab.inria.fr/sed-rennes/sharelatex/inria-docker-sharelatex,False
-https://gitlab.inria.fr/sed-rennes/sharelatex/python-sharelatex,False
+https://gitlab.inria.fr/sed-rennes/sharelatex/python-sharelatex,True
 https://gitlab.inria.fr/sed-rennes/sharelatex/sharelatex,False
 https://gitlab.inria.fr/sed-rennes/sharelatex/web-sharelatex,False
 https://gitlab.inria.fr/sed-saclay/TutorielGitlabPages,True
