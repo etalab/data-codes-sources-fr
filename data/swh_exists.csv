@@ -211,7 +211,7 @@ https://forgemia.inra.fr/gafl/pipelines_snakemake/rnaseq,True
 https://forgemia.inra.fr/gafl/pipelines_snakemake/wgs,True
 https://forgemia.inra.fr/gafl/singularity/10Xgenomics,True
 https://forgemia.inra.fr/gafl/singularity/Allmine,True
-https://forgemia.inra.fr/gafl/singularity/BUSCO,False
+https://forgemia.inra.fr/gafl/singularity/BUSCO,True
 https://forgemia.inra.fr/gafl/singularity/Bionano_solve,True
 https://forgemia.inra.fr/gafl/singularity/QTLseqr,True
 https://forgemia.inra.fr/gafl/singularity/R_QTLseqr,False
@@ -5623,8 +5623,8 @@ https://gitlab.inria.fr/Phylophile/seaview,True
 https://gitlab.inria.fr/Puffertools/Pufferbench,True
 https://gitlab.inria.fr/Puffertools/Pufferscale,True
 https://gitlab.inria.fr/Puffertools/Pufferspack,True
-https://gitlab.inria.fr/Puffertools/pufferscaletest/pufferscale-exp,False
-https://gitlab.inria.fr/Puffertools/pufferscaletest/pufferscale-hepnos,False
+https://gitlab.inria.fr/Puffertools/pufferscaletest/pufferscale-exp,True
+https://gitlab.inria.fr/Puffertools/pufferscaletest/pufferscale-hepnos,True
 https://gitlab.inria.fr/Quickspan/quickspan,True
 https://gitlab.inria.fr/RMOD/2020-framework,True
 https://gitlab.inria.fr/RMOD/Ghost,True
@@ -5718,7 +5718,7 @@ https://gitlab.inria.fr/almanach/alOldies/nomos,False
 https://gitlab.inria.fr/almanach/alOldies/perlmod/bundle-atoll,False
 https://gitlab.inria.fr/almanach/alOldies/perlmod/dict-fsa,True
 https://gitlab.inria.fr/almanach/alOldies/perlmod/dict-lexed,False
-https://gitlab.inria.fr/almanach/alOldies/perlmod/lingua-features,False
+https://gitlab.inria.fr/almanach/alOldies/perlmod/lingua-features,True
 https://gitlab.inria.fr/almanach/alOldies/perlmod/lingua-maf,False
 https://gitlab.inria.fr/almanach/alOldies/perlmod/lingua-matcher,False
 https://gitlab.inria.fr/almanach/alOldies/perlmod/lingua-tagset,False
@@ -5728,7 +5728,7 @@ https://gitlab.inria.fr/almanach/alOldies/sxpipe-data,False
 https://gitlab.inria.fr/almanach/alTextProcessing/alAnalyser,True
 https://gitlab.inria.fr/almanach/alTextProcessing/melt,True
 https://gitlab.inria.fr/almanach/alTextProcessing/sxpipe,True
-https://gitlab.inria.fr/almanach/alexina/aaa,False
+https://gitlab.inria.fr/almanach/alexina/aaa,True
 https://gitlab.inria.fr/almanach/alexina/aaa-sk,True
 https://gitlab.inria.fr/almanach/alexina/aleda,False
 https://gitlab.inria.fr/almanach/alexina/alexina-interface,True
@@ -6339,7 +6339,7 @@ https://gitlab.inria.fr/learninglab/mooc-rr/mooc-rr-modele,True
 https://gitlab.inria.fr/learninglab/mooc-rr/mooc-rr-ressources,False
 https://gitlab.inria.fr/learninglab/mooc-rr/moocrr-reproducibility-study,False
 https://gitlab.inria.fr/learninglab/mooc-scikit-learn/mooc-scikit-learn-model,True
-https://gitlab.inria.fr/learninglab/mooc-scikit-learn/mooc-scikit-learn-resources,False
+https://gitlab.inria.fr/learninglab/mooc-scikit-learn/mooc-scikit-learn-resources,True
 https://gitlab.inria.fr/learninglab/nsi-capes-info,True
 https://gitlab.inria.fr/lifeware/biocham,True
 https://gitlab.inria.fr/line/aide-group/aide,True
@@ -6376,9 +6376,9 @@ https://gitlab.inria.fr/mecsci/grains/alignement-sequences-adn-english,True
 https://gitlab.inria.fr/mecsci/grains/automate-etats-finis-multiple-3,False
 https://gitlab.inria.fr/mecsci/grains/carpasinivores,True
 https://gitlab.inria.fr/mecsci/grains/carpasinivores-limejs,False
-https://gitlab.inria.fr/mecsci/grains/codes-secrets,False
+https://gitlab.inria.fr/mecsci/grains/codes-secrets,True
 https://gitlab.inria.fr/mecsci/grains/creation-arn,False
-https://gitlab.inria.fr/mecsci/grains/crepes,False
+https://gitlab.inria.fr/mecsci/grains/crepes,True
 https://gitlab.inria.fr/mecsci/grains/cryptris,False
 https://gitlab.inria.fr/mecsci/grains/des-mots-dans-le-cerveau,True
 https://gitlab.inria.fr/mecsci/grains/edel,True
@@ -6563,7 +6563,7 @@ https://gitlab.inria.fr/realopt/TemporalKnapsack,True
 https://gitlab.inria.fr/regular-pv/timbuk/ocaml,True
 https://gitlab.inria.fr/regular-pv/timbuk/timbuk,True
 https://gitlab.inria.fr/reo/transport-in-1d-networks,True
-https://gitlab.inria.fr/resibots/public/py_map_elites,False
+https://gitlab.inria.fr/resibots/public/py_map_elites,True
 https://gitlab.inria.fr/rmod-public/2019-sourcecodedata,True
 https://gitlab.inria.fr/runaway/mixup,True
 https://gitlab.inria.fr/runaway/runaway,True
@@ -6695,7 +6695,7 @@ https://gitlab.inria.fr/star-explain/opam-repository,True
 https://gitlab.inria.fr/starpu/starpu,True
 https://gitlab.inria.fr/starpu/starpu-debian,True
 https://gitlab.inria.fr/starpu/starpu.gitlabpages.inria.fr,True
-https://gitlab.inria.fr/steep/urbansprawl/urbansprawl-lib,False
+https://gitlab.inria.fr/steep/urbansprawl/urbansprawl-lib,True
 https://gitlab.inria.fr/stopcovid19/accueil,True
 https://gitlab.inria.fr/stopcovid19/robert-client-api-spec,True
 https://gitlab.inria.fr/stopcovid19/robert-server,True
@@ -6757,7 +6757,7 @@ https://gitlab.inria.fr/why3/verifythis2020,True
 https://gitlab.inria.fr/why3/why3,True
 https://gitlab.inria.fr/why3/whymp,True
 https://gitlab.inria.fr/xbie/dvae-speech,True
-https://gitlab.inria.fr/xfor/docs,False
+https://gitlab.inria.fr/xfor/docs,True
 https://gitlab.inria.fr/xfor/guix-xfor,True
 https://gitlab.inria.fr/xfor/xfor-clang,True
 https://gitlab.inria.fr/xkblas/versions,True
@@ -6955,7 +6955,7 @@ https://gitlabjf.ccomptes.fr/EIG_2019/plume/documentation,True
 https://gitlabjf.ccomptes.fr/EIG_2019/plume/pagedjs-cli,True
 https://gitlabjf.ccomptes.fr/EIG_2019/plume/plume,True
 https://gitlabjf.ccomptes.fr/EIG_2019/plume/plume-editoria,True
-https://gitlabjf.ccomptes.fr/EIG_2019/plume/plume-prosemirror,False
+https://gitlabjf.ccomptes.fr/EIG_2019/plume/plume-prosemirror,True
 https://gitlabjf.ccomptes.fr/altair/master-jf,True
 https://gitlabjf.ccomptes.fr/eig/candidature_promo3,True
 https://gitlabjf.ccomptes.fr/fnicol/NSIS3,True
