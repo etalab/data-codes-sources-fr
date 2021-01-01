@@ -227,16 +227,16 @@ https://forgemia.inra.fr/gafl/singularity/biopython,True
 https://forgemia.inra.fr/gafl/singularity/blast,True
 https://forgemia.inra.fr/gafl/singularity/blastpp,True
 https://forgemia.inra.fr/gafl/singularity/bowtie2,True
-https://forgemia.inra.fr/gafl/singularity/bwa,False
+https://forgemia.inra.fr/gafl/singularity/bwa,True
 https://forgemia.inra.fr/gafl/singularity/canu,True
-https://forgemia.inra.fr/gafl/singularity/cdna_cupcake,False
+https://forgemia.inra.fr/gafl/singularity/cdna_cupcake,True
 https://forgemia.inra.fr/gafl/singularity/circos,True
 https://forgemia.inra.fr/gafl/singularity/crossmap,True
 https://forgemia.inra.fr/gafl/singularity/cutadapt,True
 https://forgemia.inra.fr/gafl/singularity/deeptools,False
 https://forgemia.inra.fr/gafl/singularity/dicoexpress,True
 https://forgemia.inra.fr/gafl/singularity/fastp,True
-https://forgemia.inra.fr/gafl/singularity/fastqc,False
+https://forgemia.inra.fr/gafl/singularity/fastqc,True
 https://forgemia.inra.fr/gafl/singularity/filtlong,True
 https://forgemia.inra.fr/gafl/singularity/flye,True
 https://forgemia.inra.fr/gafl/singularity/freebayes,True
@@ -5649,7 +5649,7 @@ https://gitlab.inria.fr/Simbiot/common/public/utilities/ros-optitrack-basics,Fal
 https://gitlab.inria.fr/Simbiot/common/public/utilities/ros-remote,True
 https://gitlab.inria.fr/Simbiot/mecsyco/mecsycocpp,False
 https://gitlab.inria.fr/Simbiot/mecsyco/mecsycodsl,True
-https://gitlab.inria.fr/Simbiot/mecsyco/mecsycojava,False
+https://gitlab.inria.fr/Simbiot/mecsyco/mecsycojava,True
 https://gitlab.inria.fr/Simbiot/mecsyco/mecsycoscholar,False
 https://gitlab.inria.fr/SketchedLearning/fasttransformsc,True
 https://gitlab.inria.fr/SketchedLearning/spm-notebook,True
@@ -5744,7 +5744,7 @@ https://gitlab.inria.fr/almanach/alexina/frwiktionary_alexina,False
 https://gitlab.inria.fr/almanach/alexina/khalex,False
 https://gitlab.inria.fr/almanach/alexina/kurlex,False
 https://gitlab.inria.fr/almanach/alexina/leffe,False
-https://gitlab.inria.fr/almanach/alexina/leffe-spmg,False
+https://gitlab.inria.fr/almanach/alexina/leffe-spmg,True
 https://gitlab.inria.fr/almanach/alexina/lefff,True
 https://gitlab.inria.fr/almanach/alexina/lefff-frmg,True
 https://gitlab.inria.fr/almanach/alexina/leffga,False
@@ -5792,7 +5792,7 @@ https://gitlab.inria.fr/almanach/mgkit/tag-utils,False
 https://gitlab.inria.fr/almanach/ner4archives,True
 https://gitlab.inria.fr/almanach/oscar/goclassy,False
 https://gitlab.inria.fr/almanach/oscar/oscar-website,False
-https://gitlab.inria.fr/almanach/time-us/ExportFromTranskribus,False
+https://gitlab.inria.fr/almanach/time-us/ExportFromTranskribus,True
 https://gitlab.inria.fr/almanach/time-us/LSE-OD2M,True
 https://gitlab.inria.fr/almanach/time-us/TEI-Boilerplate,True
 https://gitlab.inria.fr/almanach/time-us/TEITransformations,True
@@ -5819,7 +5819,7 @@ https://gitlab.inria.fr/android-tools/readme,True
 https://gitlab.inria.fr/asbizard/Procedural_modeling_of_multi-scale_galactic_dust,True
 https://gitlab.inria.fr/asclepios/biblio,True
 https://gitlab.inria.fr/auctus/panda/franka_control,True
-https://gitlab.inria.fr/auctus/panda/franka_description,False
+https://gitlab.inria.fr/auctus/panda/franka_description,True
 https://gitlab.inria.fr/auctus/panda/panda_traj,False
 https://gitlab.inria.fr/auctus/panda/rtt_panda/rtt_ros_kdl_tools,True
 https://gitlab.inria.fr/auctus/panda/torque_qp,False
@@ -6143,7 +6143,7 @@ https://gitlab.inria.fr/gazelle/applications/test-execution/gazelle-proxy,True
 https://gitlab.inria.fr/gazelle/applications/test-execution/simulator/HPDSimulator,True
 https://gitlab.inria.fr/gazelle/applications/test-execution/simulator/Patient-Manager,True
 https://gitlab.inria.fr/gazelle/applications/test-execution/simulator/access-token-provider,True
-https://gitlab.inria.fr/gazelle/applications/test-execution/simulator/app.patient-registry,False
+https://gitlab.inria.fr/gazelle/applications/test-execution/simulator/app.patient-registry,True
 https://gitlab.inria.fr/gazelle/applications/test-execution/simulator/audit-record-simulator,True
 https://gitlab.inria.fr/gazelle/applications/test-execution/simulator/gazelle-webservice-tester,True
 https://gitlab.inria.fr/gazelle/applications/test-execution/simulator/patient-registry,True
@@ -6182,7 +6182,7 @@ https://gitlab.inria.fr/gazelle/specific-tools/connectivity-test-scripts,True
 https://gitlab.inria.fr/gazelle/specific-tools/epr/adr-provider,True
 https://gitlab.inria.fr/gazelle/specific-tools/epr/assertion-provider,True
 https://gitlab.inria.fr/gazelle/specific-tools/epr/atc-repository,True
-https://gitlab.inria.fr/gazelle/specific-tools/epr/idp,False
+https://gitlab.inria.fr/gazelle/specific-tools/epr/idp,True
 https://gitlab.inria.fr/gazelle/specific-tools/epr/metadata-update-responders,True
 https://gitlab.inria.fr/gazelle/specific-tools/epr/no-peer-testing,True
 https://gitlab.inria.fr/gazelle/specific-tools/epr/ppq-repository,True
@@ -6368,7 +6368,7 @@ https://gitlab.inria.fr/magnet/wordnet-embeddings,True
 https://gitlab.inria.fr/mastertal/UE803,True
 https://gitlab.inria.fr/mastertal/discourse-parsing,True
 https://gitlab.inria.fr/matherials/simol,True
-https://gitlab.inria.fr/mecsci/grains/algo-ford-fulkerson,False
+https://gitlab.inria.fr/mecsci/grains/algo-ford-fulkerson,True
 https://gitlab.inria.fr/mecsci/grains/algo-predateurs,False
 https://gitlab.inria.fr/mecsci/grains/alignement-sequences,False
 https://gitlab.inria.fr/mecsci/grains/alignement-sequences-adn,False
@@ -6389,11 +6389,11 @@ https://gitlab.inria.fr/mecsci/grains/methodes-tri,False
 https://gitlab.inria.fr/mecsci/grains/modele-sir,False
 https://gitlab.inria.fr/mecsci/grains/regions-codantes,False
 https://gitlab.inria.fr/mecsci/grains/regions-codantes-english,False
-https://gitlab.inria.fr/mecsci/grains/rubiks-cube,False
+https://gitlab.inria.fr/mecsci/grains/rubiks-cube,True
 https://gitlab.inria.fr/mecsci/grains/snappy,False
 https://gitlab.inria.fr/mecsci/grains/tables-hachage,False
 https://gitlab.inria.fr/mecsci/grains/tetris-botte,False
-https://gitlab.inria.fr/mecsci/grains/tetris-botte-serv,False
+https://gitlab.inria.fr/mecsci/grains/tetris-botte-serv,True
 https://gitlab.inria.fr/mecsci/grains/turing-2d,False
 https://gitlab.inria.fr/mecsci/grains/voronoi-diagramme,False
 https://gitlab.inria.fr/mecsci/grains/voronoi-jeu,True
