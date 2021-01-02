@@ -5799,7 +5799,7 @@ https://gitlab.inria.fr/almanach/time-us/TEITransformations,True
 https://gitlab.inria.fr/almanach/time-us/Transkribus-MassOCR,True
 https://gitlab.inria.fr/almanach/time-us/corpora-prep,True
 https://gitlab.inria.fr/almanach/time-us/corpus_texte,True
-https://gitlab.inria.fr/almanach/time-us/docs,False
+https://gitlab.inria.fr/almanach/time-us/docs,True
 https://gitlab.inria.fr/almanach/time-us/kraken-models,True
 https://gitlab.inria.fr/almanach/time-us/page2tei_TimeUS,False
 https://gitlab.inria.fr/almanach/time-us/schema-tei,True
@@ -5878,7 +5878,7 @@ https://gitlab.inria.fr/bora-ucar/matchmaker,True
 https://gitlab.inria.fr/bptraffic/star-ips,True
 https://gitlab.inria.fr/cado-nfs/cado-nfs,True
 https://gitlab.inria.fr/cado-nfs/records,True
-https://gitlab.inria.fr/capsid-public/conda/runner-build,False
+https://gitlab.inria.fr/capsid-public/conda/runner-build,True
 https://gitlab.inria.fr/capsid-public/conda/runner-deploy,False
 https://gitlab.inria.fr/capsid.crates/lib3dmol,True
 https://gitlab.inria.fr/causality/causal-ocaml,True
@@ -6336,7 +6336,7 @@ https://gitlab.inria.fr/learninglab/mooc-iot/mooc-iot-ressources,False
 https://gitlab.inria.fr/learninglab/mooc-mr-notebooks,True
 https://gitlab.inria.fr/learninglab/mooc-rr/mooc-rr-apps,True
 https://gitlab.inria.fr/learninglab/mooc-rr/mooc-rr-modele,True
-https://gitlab.inria.fr/learninglab/mooc-rr/mooc-rr-ressources,False
+https://gitlab.inria.fr/learninglab/mooc-rr/mooc-rr-ressources,True
 https://gitlab.inria.fr/learninglab/mooc-rr/moocrr-reproducibility-study,True
 https://gitlab.inria.fr/learninglab/mooc-scikit-learn/mooc-scikit-learn-model,True
 https://gitlab.inria.fr/learninglab/mooc-scikit-learn/mooc-scikit-learn-resources,True
@@ -6374,7 +6374,7 @@ https://gitlab.inria.fr/mecsci/grains/algo-predateurs,False
 https://gitlab.inria.fr/mecsci/grains/alignement-sequences,True
 https://gitlab.inria.fr/mecsci/grains/alignement-sequences-adn,False
 https://gitlab.inria.fr/mecsci/grains/alignement-sequences-adn-english,True
-https://gitlab.inria.fr/mecsci/grains/automate-etats-finis-multiple-3,False
+https://gitlab.inria.fr/mecsci/grains/automate-etats-finis-multiple-3,True
 https://gitlab.inria.fr/mecsci/grains/carpasinivores,True
 https://gitlab.inria.fr/mecsci/grains/carpasinivores-limejs,False
 https://gitlab.inria.fr/mecsci/grains/codes-secrets,True
@@ -6447,6 +6447,7 @@ https://gitlab.inria.fr/moex/lazylav,True
 https://gitlab.inria.fr/moex/linkex,True
 https://gitlab.inria.fr/moex/linkky,True
 https://gitlab.inria.fr/moex/ontosim,True
+https://gitlab.inria.fr/moex/pagetest,False
 https://gitlab.inria.fr/moex/psparql,True
 https://gitlab.inria.fr/moex/scarlet,True
 https://gitlab.inria.fr/moex/swip,True
