@@ -233,7 +233,7 @@ https://forgemia.inra.fr/gafl/singularity/cdna_cupcake,True
 https://forgemia.inra.fr/gafl/singularity/circos,True
 https://forgemia.inra.fr/gafl/singularity/crossmap,True
 https://forgemia.inra.fr/gafl/singularity/cutadapt,True
-https://forgemia.inra.fr/gafl/singularity/deeptools,False
+https://forgemia.inra.fr/gafl/singularity/deeptools,True
 https://forgemia.inra.fr/gafl/singularity/dicoexpress,True
 https://forgemia.inra.fr/gafl/singularity/fastp,True
 https://forgemia.inra.fr/gafl/singularity/fastqc,True
@@ -244,7 +244,7 @@ https://forgemia.inra.fr/gafl/singularity/gatk4,True
 https://forgemia.inra.fr/gafl/singularity/genometools,True
 https://forgemia.inra.fr/gafl/singularity/hisat,True
 https://forgemia.inra.fr/gafl/singularity/htseq,False
-https://forgemia.inra.fr/gafl/singularity/interpro,False
+https://forgemia.inra.fr/gafl/singularity/interpro,True
 https://forgemia.inra.fr/gafl/singularity/minimap2,True
 https://forgemia.inra.fr/gafl/singularity/multiqc,True
 https://forgemia.inra.fr/gafl/singularity/mummer,True
@@ -277,7 +277,7 @@ https://forgemia.inra.fr/gafl/singularity/stringtie,True
 https://forgemia.inra.fr/gafl/singularity/tabix,True
 https://forgemia.inra.fr/gafl/singularity/transdecoder,True
 https://forgemia.inra.fr/gafl/singularity/trimmomatic,False
-https://forgemia.inra.fr/gafl/singularity/trinity,False
+https://forgemia.inra.fr/gafl/singularity/trinity,True
 https://forgemia.inra.fr/gafl/singularity/trinotate,True
 https://forgemia.inra.fr/gafl/singularity/varscan,True
 https://forgemia.inra.fr/gafl/singularity/vcftools,True
@@ -366,7 +366,7 @@ https://forgemia.inra.fr/metexplore/metx/metexplore_components,True
 https://forgemia.inra.fr/metexplore/metx/metx-basicline,True
 https://forgemia.inra.fr/metexplore/metx/metx-bubbleplot,True
 https://forgemia.inra.fr/metexplore/metx/metx-enrichement,True
-https://forgemia.inra.fr/metexplore/metx/metx-grid,False
+https://forgemia.inra.fr/metexplore/metx/metx-grid,True
 https://forgemia.inra.fr/metexplore/metx/metx-scatterplot,False
 https://forgemia.inra.fr/metexplore/tutorialmet4j,True
 https://forgemia.inra.fr/migale/formations,True
@@ -5667,7 +5667,7 @@ https://gitlab.inria.fr/WIDE/chepin/flexnet,True
 https://gitlab.inria.fr/WIDE/chepin/libflexcode,True
 https://gitlab.inria.fr/WIDE/chepin/paper,True
 https://gitlab.inria.fr/WIDE/dietcoin/dietcoin-exp,True
-https://gitlab.inria.fr/WIDE/dietcoin/dietcoin-lib,False
+https://gitlab.inria.fr/WIDE/dietcoin/dietcoin-lib,True
 https://gitlab.inria.fr/WIDE/f3c-evaluation,True
 https://gitlab.inria.fr/WIDE/gps-exp,True
 https://gitlab.inria.fr/WIDE/similitude-exp,True
@@ -5699,7 +5699,7 @@ https://gitlab.inria.fr/aljanon-experiment-framework/teardown_experiment,True
 https://gitlab.inria.fr/allgo/allgo,True
 https://gitlab.inria.fr/allgo/allgo-blog,True
 https://gitlab.inria.fr/allgo/allgo.inria.fr,True
-https://gitlab.inria.fr/allgo/api-clients/client_spec,False
+https://gitlab.inria.fr/allgo/api-clients/client_spec,True
 https://gitlab.inria.fr/allgo/api-clients/python_client,False
 https://gitlab.inria.fr/allgo/doc,True
 https://gitlab.inria.fr/allgo/notebooks/demo_bw,True
@@ -5761,7 +5761,7 @@ https://gitlab.inria.fr/almanach/alexina/rulex,False
 https://gitlab.inria.fr/almanach/alexina/saldo,True
 https://gitlab.inria.fr/almanach/alexina/sklex,True
 https://gitlab.inria.fr/almanach/alexina/sloleks,True
-https://gitlab.inria.fr/almanach/alexina/soralex,False
+https://gitlab.inria.fr/almanach/alexina/soralex,True
 https://gitlab.inria.fr/almanach/alexina/sursilex,True
 https://gitlab.inria.fr/almanach/alexina/tuatlex,True
 https://gitlab.inria.fr/almanach/alpi,True
@@ -5769,7 +5769,7 @@ https://gitlab.inria.fr/almanach/dyalog/dyalog,True
 https://gitlab.inria.fr/almanach/dyalog/dyalog-mst,True
 https://gitlab.inria.fr/almanach/dyalog/dyalog-sqlite,True
 https://gitlab.inria.fr/almanach/dyalog/dyalog-sr,False
-https://gitlab.inria.fr/almanach/dyalog/dyalog-xml,False
+https://gitlab.inria.fr/almanach/dyalog/dyalog-xml,True
 https://gitlab.inria.fr/almanach/lectaurep/documentation,True
 https://gitlab.inria.fr/almanach/lectaurep/escriptorium,False
 https://gitlab.inria.fr/almanach/lectaurep/models,True
@@ -5784,7 +5784,7 @@ https://gitlab.inria.fr/almanach/mgkit/frmg,True
 https://gitlab.inria.fr/almanach/mgkit/frmgcm,True
 https://gitlab.inria.fr/almanach/mgkit/hmg,False
 https://gitlab.inria.fr/almanach/mgkit/mgcomp,False
-https://gitlab.inria.fr/almanach/mgkit/mgtools,False
+https://gitlab.inria.fr/almanach/mgkit/mgtools,True
 https://gitlab.inria.fr/almanach/mgkit/mgwiki,False
 https://gitlab.inria.fr/almanach/mgkit/parserd,False
 https://gitlab.inria.fr/almanach/mgkit/spmg,False
@@ -6081,7 +6081,7 @@ https://gitlab.inria.fr/epione_ML/bayesian-learning-uca,True
 https://gitlab.inria.fr/epione_ML/mcvae,True
 https://gitlab.inria.fr/erable/kirikomics/hglib,False
 https://gitlab.inria.fr/erable/kirikomics/metnetlib,False
-https://gitlab.inria.fr/erable/kirikomics/metnetlib-minproject,False
+https://gitlab.inria.fr/erable/kirikomics/metnetlib-minproject,True
 https://gitlab.inria.fr/erable/totoro,True
 https://gitlab.inria.fr/etac/notice-etac,True
 https://gitlab.inria.fr/evalanon/enoslib,True
@@ -6346,7 +6346,7 @@ https://gitlab.inria.fr/line/aide-group/aide,True
 https://gitlab.inria.fr/line/aide-group/aidebuild,True
 https://gitlab.inria.fr/line/aide-group/aidesys,True
 https://gitlab.inria.fr/line/aide-group/esp32-roomcontrol,True
-https://gitlab.inria.fr/line/aide-group/esp32gpiocontrol,False
+https://gitlab.inria.fr/line/aide-group/esp32gpiocontrol,True
 https://gitlab.inria.fr/line/aide-group/jsdoc2,False
 https://gitlab.inria.fr/line/aide-group/ozobot-api,True
 https://gitlab.inria.fr/line/aide-group/ozobot-lib,True
