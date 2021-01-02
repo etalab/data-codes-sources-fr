@@ -5663,7 +5663,7 @@ https://gitlab.inria.fr/VeRDi-project/madeus-journal,True
 https://gitlab.inria.fr/VeRDi-project/madeus-openstack,True
 https://gitlab.inria.fr/VeRDi-project/madeus-openstack-benchmarks,True
 https://gitlab.inria.fr/WIDE/HyFN,True
-https://gitlab.inria.fr/WIDE/chepin/flexnet,False
+https://gitlab.inria.fr/WIDE/chepin/flexnet,True
 https://gitlab.inria.fr/WIDE/chepin/libflexcode,True
 https://gitlab.inria.fr/WIDE/chepin/paper,True
 https://gitlab.inria.fr/WIDE/dietcoin/dietcoin-exp,True
@@ -5724,7 +5724,7 @@ https://gitlab.inria.fr/almanach/alOldies/perlmod/lingua-matcher,False
 https://gitlab.inria.fr/almanach/alOldies/perlmod/lingua-tagset,False
 https://gitlab.inria.fr/almanach/alOldies/scribo,True
 https://gitlab.inria.fr/almanach/alOldies/sxlfg,True
-https://gitlab.inria.fr/almanach/alOldies/sxpipe-data,False
+https://gitlab.inria.fr/almanach/alOldies/sxpipe-data,True
 https://gitlab.inria.fr/almanach/alTextProcessing/alAnalyser,True
 https://gitlab.inria.fr/almanach/alTextProcessing/melt,True
 https://gitlab.inria.fr/almanach/alTextProcessing/sxpipe,True
@@ -5741,7 +5741,7 @@ https://gitlab.inria.fr/almanach/alexina/delex,False
 https://gitlab.inria.fr/almanach/alexina/enlex,True
 https://gitlab.inria.fr/almanach/alexina/enlex-emg,False
 https://gitlab.inria.fr/almanach/alexina/frwiktionary_alexina,False
-https://gitlab.inria.fr/almanach/alexina/khalex,False
+https://gitlab.inria.fr/almanach/alexina/khalex,True
 https://gitlab.inria.fr/almanach/alexina/kurlex,False
 https://gitlab.inria.fr/almanach/alexina/leffe,False
 https://gitlab.inria.fr/almanach/alexina/leffe-spmg,True
@@ -5766,7 +5766,7 @@ https://gitlab.inria.fr/almanach/alexina/sursilex,True
 https://gitlab.inria.fr/almanach/alexina/tuatlex,True
 https://gitlab.inria.fr/almanach/alpi,True
 https://gitlab.inria.fr/almanach/dyalog/dyalog,True
-https://gitlab.inria.fr/almanach/dyalog/dyalog-mst,False
+https://gitlab.inria.fr/almanach/dyalog/dyalog-mst,True
 https://gitlab.inria.fr/almanach/dyalog/dyalog-sqlite,True
 https://gitlab.inria.fr/almanach/dyalog/dyalog-sr,False
 https://gitlab.inria.fr/almanach/dyalog/dyalog-xml,False
@@ -6107,7 +6107,7 @@ https://gitlab.inria.fr/fec/PyBER,True
 https://gitlab.inria.fr/fec/publications/aff3ct_un_environnement_de_simulation_pour_le_codage_de_canal,True
 https://gitlab.inria.fr/fec/publications/an_efficient_portable_and_generic_library_for_successive_cancellation_decoding_of_polar_codes,True
 https://gitlab.inria.fr/fec/publications/beyond_gbps_turbo_decoder_on_multi-core_cpus,True
-https://gitlab.inria.fr/fec/publications/energy_consumption_analysis_of_software_polar_decoders_on_low_power_processors,False
+https://gitlab.inria.fr/fec/publications/energy_consumption_analysis_of_software_polar_decoders_on_low_power_processors,True
 https://gitlab.inria.fr/fec/publications/fast_simulation_and_prototyping_with_aff3ct,False
 https://gitlab.inria.fr/fec/publications/mipp_a_portable_cpp_simd_wrapper_and_its_use_for_error_correction_coding_in_5g_standard,True
 https://gitlab.inria.fr/fedbiomed/client-fedbiomed,True
@@ -6337,7 +6337,7 @@ https://gitlab.inria.fr/learninglab/mooc-mr-notebooks,True
 https://gitlab.inria.fr/learninglab/mooc-rr/mooc-rr-apps,True
 https://gitlab.inria.fr/learninglab/mooc-rr/mooc-rr-modele,True
 https://gitlab.inria.fr/learninglab/mooc-rr/mooc-rr-ressources,False
-https://gitlab.inria.fr/learninglab/mooc-rr/moocrr-reproducibility-study,False
+https://gitlab.inria.fr/learninglab/mooc-rr/moocrr-reproducibility-study,True
 https://gitlab.inria.fr/learninglab/mooc-scikit-learn/mooc-scikit-learn-model,True
 https://gitlab.inria.fr/learninglab/mooc-scikit-learn/mooc-scikit-learn-resources,True
 https://gitlab.inria.fr/learninglab/nsi-capes-info,True
@@ -6346,6 +6346,7 @@ https://gitlab.inria.fr/line/aide-group/aide,True
 https://gitlab.inria.fr/line/aide-group/aidebuild,True
 https://gitlab.inria.fr/line/aide-group/aidesys,True
 https://gitlab.inria.fr/line/aide-group/esp32-roomcontrol,True
+https://gitlab.inria.fr/line/aide-group/esp32gpiocontrol,False
 https://gitlab.inria.fr/line/aide-group/jsdoc2,False
 https://gitlab.inria.fr/line/aide-group/ozobot-api,True
 https://gitlab.inria.fr/line/aide-group/ozobot-lib,True
@@ -6593,7 +6594,7 @@ https://gitlab.inria.fr/sed-rennes/formations/allgo,True
 https://gitlab.inria.fr/sed-rennes/formations/deep-learning-intro,True
 https://gitlab.inria.fr/sed-rennes/formations/diu-robotique,False
 https://gitlab.inria.fr/sed-rennes/formations/enoslib-tutorials,False
-https://gitlab.inria.fr/sed-rennes/formations/formation-gitlab-ci,False
+https://gitlab.inria.fr/sed-rennes/formations/formation-gitlab-ci,True
 https://gitlab.inria.fr/sed-rennes/formations/introduction-to-python,True
 https://gitlab.inria.fr/sed-rennes/formations/tutorials_parallel_computing,False
 https://gitlab.inria.fr/sed-rennes/gforge-to-gitlab-scripts,True
@@ -6641,7 +6642,7 @@ https://gitlab.inria.fr/sibr/projects/facades-repetitions/facade_repetitions,Tru
 https://gitlab.inria.fr/sibr/projects/facades-repetitions/facade_repetitions_external,True
 https://gitlab.inria.fr/sibr/projects/fribr_framework,True
 https://gitlab.inria.fr/sibr/projects/glossy-probes/synthetic_ibr,True
-https://gitlab.inria.fr/sibr/projects/inside_out_deep_blending,False
+https://gitlab.inria.fr/sibr/projects/inside_out_deep_blending,True
 https://gitlab.inria.fr/sibr/projects/optix,True
 https://gitlab.inria.fr/sibr/projects/semantic-reflections/segmentation-network,True
 https://gitlab.inria.fr/sibr/projects/semantic-reflections/semantic_reflections,False
