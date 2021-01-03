@@ -358,7 +358,7 @@ https://forgemia.inra.fr/lbe/opensilexlbe/ontologielbe,True
 https://forgemia.inra.fr/lbe/opensilexlbe/opensilex-dev,True
 https://forgemia.inra.fr/metexplore/MetExploreViz,True
 https://forgemia.inra.fr/metexplore/cbm/dexom,True
-https://forgemia.inra.fr/metexplore/cbm/fvabiomarkers,False
+https://forgemia.inra.fr/metexplore/cbm/fvabiomarkers,True
 https://forgemia.inra.fr/metexplore/met4j,True
 https://forgemia.inra.fr/metexplore/metabolomics2network,True
 https://forgemia.inra.fr/metexplore/metexplore2,True
@@ -5782,7 +5782,7 @@ https://gitlab.inria.fr/almanach/mgkit/forest_utils,True
 https://gitlab.inria.fr/almanach/mgkit/french-toy-tag,True
 https://gitlab.inria.fr/almanach/mgkit/frmg,True
 https://gitlab.inria.fr/almanach/mgkit/frmgcm,True
-https://gitlab.inria.fr/almanach/mgkit/hmg,False
+https://gitlab.inria.fr/almanach/mgkit/hmg,True
 https://gitlab.inria.fr/almanach/mgkit/mgcomp,False
 https://gitlab.inria.fr/almanach/mgkit/mgtools,True
 https://gitlab.inria.fr/almanach/mgkit/mgwiki,True
@@ -5791,7 +5791,7 @@ https://gitlab.inria.fr/almanach/mgkit/spmg,False
 https://gitlab.inria.fr/almanach/mgkit/tag-utils,False
 https://gitlab.inria.fr/almanach/ner4archives,True
 https://gitlab.inria.fr/almanach/oscar/goclassy,False
-https://gitlab.inria.fr/almanach/oscar/oscar-website,False
+https://gitlab.inria.fr/almanach/oscar/oscar-website,True
 https://gitlab.inria.fr/almanach/time-us/ExportFromTranskribus,True
 https://gitlab.inria.fr/almanach/time-us/LSE-OD2M,True
 https://gitlab.inria.fr/almanach/time-us/TEI-Boilerplate,True
@@ -6172,7 +6172,7 @@ https://gitlab.inria.fr/gazelle/library/preference,True
 https://gitlab.inria.fr/gazelle/library/tool,True
 https://gitlab.inria.fr/gazelle/library/ui-service,True
 https://gitlab.inria.fr/gazelle/library/unit-test,True
-https://gitlab.inria.fr/gazelle/library/version,False
+https://gitlab.inria.fr/gazelle/library/version,True
 https://gitlab.inria.fr/gazelle/model-api/gitb,True
 https://gitlab.inria.fr/gazelle/model-api/messaging-model,True
 https://gitlab.inria.fr/gazelle/model-api/search,True
@@ -6193,7 +6193,7 @@ https://gitlab.inria.fr/gazelle/specific-tools/sequoia/acp,True
 https://gitlab.inria.fr/gazelle/standard-blocks/iua-standard-blocks,True
 https://gitlab.inria.fr/gazelle/test-content/fhir-conformance-resources,True
 https://gitlab.inria.fr/gazelle/test-content/gazelle-hl7v2-validator-resources,True
-https://gitlab.inria.fr/gazelle/test-content/hl7-conformance-profiles,False
+https://gitlab.inria.fr/gazelle/test-content/hl7-conformance-profiles,True
 https://gitlab.inria.fr/gazelle/test-content/pdqm-samples,True
 https://gitlab.inria.fr/gazelle/validator/FhirValidator,True
 https://gitlab.inria.fr/gazelle/validator/common/validation-ws,True
@@ -6396,7 +6396,7 @@ https://gitlab.inria.fr/mecsci/grains/tables-hachage,True
 https://gitlab.inria.fr/mecsci/grains/tetris-botte,False
 https://gitlab.inria.fr/mecsci/grains/tetris-botte-serv,True
 https://gitlab.inria.fr/mecsci/grains/turing-2d,False
-https://gitlab.inria.fr/mecsci/grains/voronoi-diagramme,False
+https://gitlab.inria.fr/mecsci/grains/voronoi-diagramme,True
 https://gitlab.inria.fr/mecsci/grains/voronoi-jeu,True
 https://gitlab.inria.fr/mecsci/grains/zero,False
 https://gitlab.inria.fr/mecsi-ext/genumsi,True
