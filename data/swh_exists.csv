@@ -5739,7 +5739,7 @@ https://gitlab.inria.fr/almanach/alexina/alpino,True
 https://gitlab.inria.fr/almanach/alexina/dela_gr,False
 https://gitlab.inria.fr/almanach/alexina/delex,False
 https://gitlab.inria.fr/almanach/alexina/enlex,True
-https://gitlab.inria.fr/almanach/alexina/enlex-emg,False
+https://gitlab.inria.fr/almanach/alexina/enlex-emg,True
 https://gitlab.inria.fr/almanach/alexina/frwiktionary_alexina,False
 https://gitlab.inria.fr/almanach/alexina/khalex,True
 https://gitlab.inria.fr/almanach/alexina/kurlex,False
@@ -6170,7 +6170,7 @@ https://gitlab.inria.fr/gazelle/library/home,True
 https://gitlab.inria.fr/gazelle/library/hql,True
 https://gitlab.inria.fr/gazelle/library/preference,True
 https://gitlab.inria.fr/gazelle/library/tool,True
-https://gitlab.inria.fr/gazelle/library/ui-service,False
+https://gitlab.inria.fr/gazelle/library/ui-service,True
 https://gitlab.inria.fr/gazelle/library/unit-test,True
 https://gitlab.inria.fr/gazelle/library/version,False
 https://gitlab.inria.fr/gazelle/model-api/gitb,True
@@ -6385,13 +6385,13 @@ https://gitlab.inria.fr/mecsci/grains/des-mots-dans-le-cerveau,True
 https://gitlab.inria.fr/mecsci/grains/edel,True
 https://gitlab.inria.fr/mecsci/grains/javaschoolweb,True
 https://gitlab.inria.fr/mecsci/grains/jeu-de-hamming,True
-https://gitlab.inria.fr/mecsci/grains/machine-turing,False
+https://gitlab.inria.fr/mecsci/grains/machine-turing,True
 https://gitlab.inria.fr/mecsci/grains/methodes-tri,False
-https://gitlab.inria.fr/mecsci/grains/modele-sir,False
+https://gitlab.inria.fr/mecsci/grains/modele-sir,True
 https://gitlab.inria.fr/mecsci/grains/regions-codantes,False
 https://gitlab.inria.fr/mecsci/grains/regions-codantes-english,False
 https://gitlab.inria.fr/mecsci/grains/rubiks-cube,True
-https://gitlab.inria.fr/mecsci/grains/snappy,False
+https://gitlab.inria.fr/mecsci/grains/snappy,True
 https://gitlab.inria.fr/mecsci/grains/tables-hachage,False
 https://gitlab.inria.fr/mecsci/grains/tetris-botte,False
 https://gitlab.inria.fr/mecsci/grains/tetris-botte-serv,True
@@ -6434,7 +6434,7 @@ https://gitlab.inria.fr/ml_genetics/public/DNA_DNA,False
 https://gitlab.inria.fr/ml_genetics/public/Pop_gen_simulators,True
 https://gitlab.inria.fr/ml_genetics/public/artificial_genomes,True
 https://gitlab.inria.fr/ml_genetics/public/demoseq,True
-https://gitlab.inria.fr/ml_genetics/public/dlpopsize,False
+https://gitlab.inria.fr/ml_genetics/public/dlpopsize,True
 https://gitlab.inria.fr/ml_genetics/public/dlpopsize_paper,True
 https://gitlab.inria.fr/ml_genetics/public/flagel_cnn,True
 https://gitlab.inria.fr/mnemosyne/data_prototypes,True
@@ -6599,11 +6599,11 @@ https://gitlab.inria.fr/sed-rennes/formations/formation-gitlab-ci,True
 https://gitlab.inria.fr/sed-rennes/formations/introduction-to-python,True
 https://gitlab.inria.fr/sed-rennes/formations/tutorials_parallel_computing,False
 https://gitlab.inria.fr/sed-rennes/gforge-to-gitlab-scripts,True
-https://gitlab.inria.fr/sed-rennes/overleaf/compile_worker,False
+https://gitlab.inria.fr/sed-rennes/overleaf/compile_worker,True
 https://gitlab.inria.fr/sed-rennes/overleaf/overleaf,False
 https://gitlab.inria.fr/sed-rennes/overleaf/web,False
 https://gitlab.inria.fr/sed-rennes/sharelatex-website,True
-https://gitlab.inria.fr/sed-rennes/sharelatex/clsi-sharelatex,False
+https://gitlab.inria.fr/sed-rennes/sharelatex/clsi-sharelatex,True
 https://gitlab.inria.fr/sed-rennes/sharelatex/inria-docker-sharelatex,False
 https://gitlab.inria.fr/sed-rennes/sharelatex/python-sharelatex,True
 https://gitlab.inria.fr/sed-rennes/sharelatex/sharelatex,False
