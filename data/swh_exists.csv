@@ -253,7 +253,7 @@ https://forgemia.inra.fr/gafl/singularity/nanofilt,True
 https://forgemia.inra.fr/gafl/singularity/nanopack,True
 https://forgemia.inra.fr/gafl/singularity/nanoplotcompstat,False
 https://forgemia.inra.fr/gafl/singularity/noblast,True
-https://forgemia.inra.fr/gafl/singularity/nudup,False
+https://forgemia.inra.fr/gafl/singularity/nudup,True
 https://forgemia.inra.fr/gafl/singularity/pear,True
 https://forgemia.inra.fr/gafl/singularity/picard,True
 https://forgemia.inra.fr/gafl/singularity/pilon,True
@@ -636,7 +636,7 @@ https://git.unistra.fr/les-sans-noms/serveur-central/client_serveur_central,True
 https://git.unistra.fr/les-sans-noms/serveur-central/cultwars.website,True
 https://git.unistra.fr/les-sans-noms/serveur-de-jeux-websocket-t-lechargable,True
 https://git.unistra.fr/les-sans-noms/serveur-jeu/client-web-admin,True
-https://git.unistra.fr/les-sans-noms/serveur-jeu/installateur-serveur-de-jeu,False
+https://git.unistra.fr/les-sans-noms/serveur-jeu/installateur-serveur-de-jeu,True
 https://git.unistra.fr/les-sans-noms/serveur-jeu/serveur,True
 https://git.unistra.fr/les-triples-a/t432_voc20-t3-d,True
 https://git.unistra.fr/lo5-antony-et-florian/thegame,True
@@ -5717,7 +5717,7 @@ https://gitlab.inria.fr/almanach/alOldies/mafd,False
 https://gitlab.inria.fr/almanach/alOldies/nomos,False
 https://gitlab.inria.fr/almanach/alOldies/perlmod/bundle-atoll,True
 https://gitlab.inria.fr/almanach/alOldies/perlmod/dict-fsa,True
-https://gitlab.inria.fr/almanach/alOldies/perlmod/dict-lexed,False
+https://gitlab.inria.fr/almanach/alOldies/perlmod/dict-lexed,True
 https://gitlab.inria.fr/almanach/alOldies/perlmod/lingua-features,True
 https://gitlab.inria.fr/almanach/alOldies/perlmod/lingua-maf,False
 https://gitlab.inria.fr/almanach/alOldies/perlmod/lingua-matcher,False
@@ -6372,7 +6372,7 @@ https://gitlab.inria.fr/matherials/simol,True
 https://gitlab.inria.fr/mecsci/grains/algo-ford-fulkerson,True
 https://gitlab.inria.fr/mecsci/grains/algo-predateurs,False
 https://gitlab.inria.fr/mecsci/grains/alignement-sequences,True
-https://gitlab.inria.fr/mecsci/grains/alignement-sequences-adn,False
+https://gitlab.inria.fr/mecsci/grains/alignement-sequences-adn,True
 https://gitlab.inria.fr/mecsci/grains/alignement-sequences-adn-english,True
 https://gitlab.inria.fr/mecsci/grains/automate-etats-finis-multiple-3,True
 https://gitlab.inria.fr/mecsci/grains/carpasinivores,True
@@ -6398,7 +6398,7 @@ https://gitlab.inria.fr/mecsci/grains/tetris-botte-serv,True
 https://gitlab.inria.fr/mecsci/grains/turing-2d,False
 https://gitlab.inria.fr/mecsci/grains/voronoi-diagramme,True
 https://gitlab.inria.fr/mecsci/grains/voronoi-jeu,True
-https://gitlab.inria.fr/mecsci/grains/zero,False
+https://gitlab.inria.fr/mecsci/grains/zero,True
 https://gitlab.inria.fr/mecsi-ext/genumsi,True
 https://gitlab.inria.fr/mediation-sif/Labyrinthe/laby,True
 https://gitlab.inria.fr/mediation-sif/Labyrinthe/tutoriellaby,True
