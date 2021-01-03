@@ -5715,7 +5715,7 @@ https://gitlab.inria.fr/almanach/alOldies/installatoll,False
 https://gitlab.inria.fr/almanach/alOldies/lexed,True
 https://gitlab.inria.fr/almanach/alOldies/mafd,False
 https://gitlab.inria.fr/almanach/alOldies/nomos,False
-https://gitlab.inria.fr/almanach/alOldies/perlmod/bundle-atoll,False
+https://gitlab.inria.fr/almanach/alOldies/perlmod/bundle-atoll,True
 https://gitlab.inria.fr/almanach/alOldies/perlmod/dict-fsa,True
 https://gitlab.inria.fr/almanach/alOldies/perlmod/dict-lexed,False
 https://gitlab.inria.fr/almanach/alOldies/perlmod/lingua-features,True
@@ -5740,9 +5740,9 @@ https://gitlab.inria.fr/almanach/alexina/dela_gr,False
 https://gitlab.inria.fr/almanach/alexina/delex,False
 https://gitlab.inria.fr/almanach/alexina/enlex,True
 https://gitlab.inria.fr/almanach/alexina/enlex-emg,True
-https://gitlab.inria.fr/almanach/alexina/frwiktionary_alexina,False
+https://gitlab.inria.fr/almanach/alexina/frwiktionary_alexina,True
 https://gitlab.inria.fr/almanach/alexina/khalex,True
-https://gitlab.inria.fr/almanach/alexina/kurlex,False
+https://gitlab.inria.fr/almanach/alexina/kurlex,True
 https://gitlab.inria.fr/almanach/alexina/leffe,False
 https://gitlab.inria.fr/almanach/alexina/leffe-spmg,True
 https://gitlab.inria.fr/almanach/alexina/lefff,True
@@ -5771,7 +5771,7 @@ https://gitlab.inria.fr/almanach/dyalog/dyalog-sqlite,True
 https://gitlab.inria.fr/almanach/dyalog/dyalog-sr,False
 https://gitlab.inria.fr/almanach/dyalog/dyalog-xml,True
 https://gitlab.inria.fr/almanach/lectaurep/documentation,True
-https://gitlab.inria.fr/almanach/lectaurep/escriptorium,False
+https://gitlab.inria.fr/almanach/lectaurep/escriptorium,True
 https://gitlab.inria.fr/almanach/lectaurep/models,True
 https://gitlab.inria.fr/almanach/lectaurep/pipeline,True
 https://gitlab.inria.fr/almanach/mgkit/biomg,False
@@ -5785,7 +5785,7 @@ https://gitlab.inria.fr/almanach/mgkit/frmgcm,True
 https://gitlab.inria.fr/almanach/mgkit/hmg,False
 https://gitlab.inria.fr/almanach/mgkit/mgcomp,False
 https://gitlab.inria.fr/almanach/mgkit/mgtools,True
-https://gitlab.inria.fr/almanach/mgkit/mgwiki,False
+https://gitlab.inria.fr/almanach/mgkit/mgwiki,True
 https://gitlab.inria.fr/almanach/mgkit/parserd,False
 https://gitlab.inria.fr/almanach/mgkit/spmg,False
 https://gitlab.inria.fr/almanach/mgkit/tag-utils,False
@@ -6388,11 +6388,11 @@ https://gitlab.inria.fr/mecsci/grains/jeu-de-hamming,True
 https://gitlab.inria.fr/mecsci/grains/machine-turing,True
 https://gitlab.inria.fr/mecsci/grains/methodes-tri,False
 https://gitlab.inria.fr/mecsci/grains/modele-sir,True
-https://gitlab.inria.fr/mecsci/grains/regions-codantes,False
+https://gitlab.inria.fr/mecsci/grains/regions-codantes,True
 https://gitlab.inria.fr/mecsci/grains/regions-codantes-english,False
 https://gitlab.inria.fr/mecsci/grains/rubiks-cube,True
 https://gitlab.inria.fr/mecsci/grains/snappy,True
-https://gitlab.inria.fr/mecsci/grains/tables-hachage,False
+https://gitlab.inria.fr/mecsci/grains/tables-hachage,True
 https://gitlab.inria.fr/mecsci/grains/tetris-botte,False
 https://gitlab.inria.fr/mecsci/grains/tetris-botte-serv,True
 https://gitlab.inria.fr/mecsci/grains/turing-2d,False
@@ -6607,7 +6607,7 @@ https://gitlab.inria.fr/sed-rennes/sharelatex/clsi-sharelatex,True
 https://gitlab.inria.fr/sed-rennes/sharelatex/inria-docker-sharelatex,False
 https://gitlab.inria.fr/sed-rennes/sharelatex/python-sharelatex,True
 https://gitlab.inria.fr/sed-rennes/sharelatex/sharelatex,False
-https://gitlab.inria.fr/sed-rennes/sharelatex/web-sharelatex,False
+https://gitlab.inria.fr/sed-rennes/sharelatex/web-sharelatex,True
 https://gitlab.inria.fr/sed-saclay/TutorielGitlabPages,True
 https://gitlab.inria.fr/sed-saclay/formulairesdemandesingenieur,True
 https://gitlab.inria.fr/semagramme-public-projects/resources/french-fracas,True
@@ -6646,7 +6646,7 @@ https://gitlab.inria.fr/sibr/projects/glossy-probes/synthetic_ibr,True
 https://gitlab.inria.fr/sibr/projects/inside_out_deep_blending,True
 https://gitlab.inria.fr/sibr/projects/optix,True
 https://gitlab.inria.fr/sibr/projects/semantic-reflections/segmentation-network,True
-https://gitlab.inria.fr/sibr/projects/semantic-reflections/semantic_reflections,False
+https://gitlab.inria.fr/sibr/projects/semantic-reflections/semantic_reflections,True
 https://gitlab.inria.fr/sibr/projects/simple,True
 https://gitlab.inria.fr/sibr/projects/soft3d,True
 https://gitlab.inria.fr/sibr/projects/spixelwarp,True
