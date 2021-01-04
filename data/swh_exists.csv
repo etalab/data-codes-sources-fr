@@ -380,6 +380,7 @@ https://forgemia.inra.fr/pappso/libpwizlite,True
 https://forgemia.inra.fr/pappso/masschroq,True
 https://forgemia.inra.fr/pappso/massxpert,True
 https://forgemia.inra.fr/pappso/mcqr,True
+https://forgemia.inra.fr/pappso/metaprotr,False
 https://forgemia.inra.fr/pappso/minexpert2,True
 https://forgemia.inra.fr/pappso/pappsoms-tools,True
 https://forgemia.inra.fr/pappso/pappsomspp,True
@@ -640,6 +641,7 @@ https://git.unistra.fr/les-sans-noms/serveur-de-jeux-websocket-t-lechargable,Tru
 https://git.unistra.fr/les-sans-noms/serveur-jeu/client-web-admin,True
 https://git.unistra.fr/les-sans-noms/serveur-jeu/installateur-serveur-de-jeu,True
 https://git.unistra.fr/les-sans-noms/serveur-jeu/serveur,True
+https://git.unistra.fr/les-spice-guys/puissance-4,False
 https://git.unistra.fr/les-triples-a/t432_voc20-t3-d,True
 https://git.unistra.fr/lo5-antony-et-florian/thegame,True
 https://git.unistra.fr/lp-komi/naojimi,True
@@ -5580,6 +5582,7 @@ https://gitlab.inria.fr/GUDHI/gudhi-docker,True
 https://gitlab.inria.fr/GUDHI/test_docker_debug,True
 https://gitlab.inria.fr/GardiNet/dragonnet,True
 https://gitlab.inria.fr/GardiNet/liblc,True
+https://gitlab.inria.fr/GruLab/s-cgn,False
 https://gitlab.inria.fr/IOTLanguage/IoTCompilertoBIP,True
 https://gitlab.inria.fr/InBio/Public/efaecalis-ratio,True
 https://gitlab.inria.fr/InBio/Public/fwd_ad,True
@@ -5652,7 +5655,7 @@ https://gitlab.inria.fr/Simbiot/common/public/utilities/ros-remote,True
 https://gitlab.inria.fr/Simbiot/mecsyco/mecsycocpp,False
 https://gitlab.inria.fr/Simbiot/mecsyco/mecsycodsl,True
 https://gitlab.inria.fr/Simbiot/mecsyco/mecsycojava,True
-https://gitlab.inria.fr/Simbiot/mecsyco/mecsycoscholar,False
+https://gitlab.inria.fr/Simbiot/mecsyco/mecsycoscholar,True
 https://gitlab.inria.fr/SketchedLearning/fasttransformsc,True
 https://gitlab.inria.fr/SketchedLearning/spm-notebook,True
 https://gitlab.inria.fr/Spirals/monsoon,True
@@ -5721,7 +5724,7 @@ https://gitlab.inria.fr/almanach/alOldies/perlmod/bundle-atoll,True
 https://gitlab.inria.fr/almanach/alOldies/perlmod/dict-fsa,True
 https://gitlab.inria.fr/almanach/alOldies/perlmod/dict-lexed,True
 https://gitlab.inria.fr/almanach/alOldies/perlmod/lingua-features,True
-https://gitlab.inria.fr/almanach/alOldies/perlmod/lingua-maf,False
+https://gitlab.inria.fr/almanach/alOldies/perlmod/lingua-maf,True
 https://gitlab.inria.fr/almanach/alOldies/perlmod/lingua-matcher,False
 https://gitlab.inria.fr/almanach/alOldies/perlmod/lingua-tagset,False
 https://gitlab.inria.fr/almanach/alOldies/scribo,True
@@ -5806,7 +5809,7 @@ https://gitlab.inria.fr/almanach/time-us/kraken-models,True
 https://gitlab.inria.fr/almanach/time-us/page2tei_TimeUS,False
 https://gitlab.inria.fr/almanach/time-us/schema-tei,True
 https://gitlab.inria.fr/almanach/time-us/statistiques,True
-https://gitlab.inria.fr/almanach/time-us/transkribus-configuration,False
+https://gitlab.inria.fr/almanach/time-us/transkribus-configuration,True
 https://gitlab.inria.fr/alta/alta,True
 https://gitlab.inria.fr/amibio/Infrared,True
 https://gitlab.inria.fr/amibio/RNAPOND,True
@@ -5901,7 +5904,7 @@ https://gitlab.inria.fr/chroma/drone-simulator,True
 https://gitlab.inria.fr/chroma/drones/drone-simulator,True
 https://gitlab.inria.fr/chroma/intelaero-cao,True
 https://gitlab.inria.fr/ciao/pmns-for-sidh,True
-https://gitlab.inria.fr/cidre-public/from-ttp-to-ioc-dataset,False
+https://gitlab.inria.fr/cidre-public/from-ttp-to-ioc-dataset,True
 https://gitlab.inria.fr/cidre-public/malcon19,True
 https://gitlab.inria.fr/cidre-public/obfuscated-android-unit-examples,True
 https://gitlab.inria.fr/cidre-public/pymao,True
@@ -6151,7 +6154,7 @@ https://gitlab.inria.fr/gazelle/applications/test-execution/simulator/app.patien
 https://gitlab.inria.fr/gazelle/applications/test-execution/simulator/audit-record-simulator,True
 https://gitlab.inria.fr/gazelle/applications/test-execution/simulator/gazelle-webservice-tester,True
 https://gitlab.inria.fr/gazelle/applications/test-execution/simulator/patient-registry,True
-https://gitlab.inria.fr/gazelle/applications/test-execution/simulator/pdqm-connector,False
+https://gitlab.inria.fr/gazelle/applications/test-execution/simulator/pdqm-connector,True
 https://gitlab.inria.fr/gazelle/applications/test-execution/validator/EVSClient,True
 https://gitlab.inria.fr/gazelle/applications/test-execution/validator/SchematronValidator,True
 https://gitlab.inria.fr/gazelle/applications/test-execution/validator/ch_iua-validator-service,True
@@ -6397,7 +6400,7 @@ https://gitlab.inria.fr/mecsci/grains/regions-codantes-english,False
 https://gitlab.inria.fr/mecsci/grains/rubiks-cube,True
 https://gitlab.inria.fr/mecsci/grains/snappy,True
 https://gitlab.inria.fr/mecsci/grains/tables-hachage,True
-https://gitlab.inria.fr/mecsci/grains/tetris-botte,False
+https://gitlab.inria.fr/mecsci/grains/tetris-botte,True
 https://gitlab.inria.fr/mecsci/grains/tetris-botte-serv,True
 https://gitlab.inria.fr/mecsci/grains/turing-2d,False
 https://gitlab.inria.fr/mecsci/grains/voronoi-diagramme,True
