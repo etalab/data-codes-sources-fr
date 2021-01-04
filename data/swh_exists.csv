@@ -5736,7 +5736,7 @@ https://gitlab.inria.fr/almanach/alexina/alexina-morphedit,True
 https://gitlab.inria.fr/almanach/alexina/alexina-output,True
 https://gitlab.inria.fr/almanach/alexina/alexina-tools,True
 https://gitlab.inria.fr/almanach/alexina/alpino,True
-https://gitlab.inria.fr/almanach/alexina/dela_gr,False
+https://gitlab.inria.fr/almanach/alexina/dela_gr,True
 https://gitlab.inria.fr/almanach/alexina/delex,False
 https://gitlab.inria.fr/almanach/alexina/enlex,True
 https://gitlab.inria.fr/almanach/alexina/enlex-emg,True
@@ -6597,7 +6597,7 @@ https://gitlab.inria.fr/sed-rennes/formations/diu-robotique,False
 https://gitlab.inria.fr/sed-rennes/formations/enoslib-tutorials,False
 https://gitlab.inria.fr/sed-rennes/formations/formation-gitlab-ci,True
 https://gitlab.inria.fr/sed-rennes/formations/introduction-to-python,True
-https://gitlab.inria.fr/sed-rennes/formations/tutorials_parallel_computing,False
+https://gitlab.inria.fr/sed-rennes/formations/tutorials_parallel_computing,True
 https://gitlab.inria.fr/sed-rennes/gforge-to-gitlab-scripts,True
 https://gitlab.inria.fr/sed-rennes/overleaf/compile_worker,True
 https://gitlab.inria.fr/sed-rennes/overleaf/overleaf,False
