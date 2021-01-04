@@ -276,7 +276,7 @@ https://forgemia.inra.fr/gafl/singularity/star,True
 https://forgemia.inra.fr/gafl/singularity/stringtie,True
 https://forgemia.inra.fr/gafl/singularity/tabix,True
 https://forgemia.inra.fr/gafl/singularity/transdecoder,True
-https://forgemia.inra.fr/gafl/singularity/trimmomatic,False
+https://forgemia.inra.fr/gafl/singularity/trimmomatic,True
 https://forgemia.inra.fr/gafl/singularity/trinity,True
 https://forgemia.inra.fr/gafl/singularity/trinotate,True
 https://forgemia.inra.fr/gafl/singularity/varscan,True
@@ -383,6 +383,7 @@ https://forgemia.inra.fr/pappso/mcqr,True
 https://forgemia.inra.fr/pappso/minexpert2,True
 https://forgemia.inra.fr/pappso/pappsoms-tools,True
 https://forgemia.inra.fr/pappso/pappsomspp,True
+https://forgemia.inra.fr/pappso/repository-minexpert2,False
 https://forgemia.inra.fr/pappso/xtpcpp,True
 https://forgemia.inra.fr/pegase/pegase-fair,True
 https://forgemia.inra.fr/phenotic/publique/ordinalclustering,True
@@ -5730,7 +5731,7 @@ https://gitlab.inria.fr/almanach/alTextProcessing/melt,True
 https://gitlab.inria.fr/almanach/alTextProcessing/sxpipe,True
 https://gitlab.inria.fr/almanach/alexina/aaa,True
 https://gitlab.inria.fr/almanach/alexina/aaa-sk,True
-https://gitlab.inria.fr/almanach/alexina/aleda,False
+https://gitlab.inria.fr/almanach/alexina/aleda,True
 https://gitlab.inria.fr/almanach/alexina/alexina-interface,True
 https://gitlab.inria.fr/almanach/alexina/alexina-morphedit,True
 https://gitlab.inria.fr/almanach/alexina/alexina-output,True
@@ -5790,7 +5791,7 @@ https://gitlab.inria.fr/almanach/mgkit/parserd,False
 https://gitlab.inria.fr/almanach/mgkit/spmg,False
 https://gitlab.inria.fr/almanach/mgkit/tag-utils,False
 https://gitlab.inria.fr/almanach/ner4archives,True
-https://gitlab.inria.fr/almanach/oscar/goclassy,False
+https://gitlab.inria.fr/almanach/oscar/goclassy,True
 https://gitlab.inria.fr/almanach/oscar/oscar-website,True
 https://gitlab.inria.fr/almanach/time-us/ExportFromTranskribus,True
 https://gitlab.inria.fr/almanach/time-us/LSE-OD2M,True
@@ -6074,12 +6075,13 @@ https://gitlab.inria.fr/eigen/eigen-mirror,True
 https://gitlab.inria.fr/enseignement/MIAGE_TP_XML_2017,True
 https://gitlab.inria.fr/epione/GP_progression_model_V2,True
 https://gitlab.inria.fr/epione/biblio,True
+https://gitlab.inria.fr/epione/flhd,False
 https://gitlab.inria.fr/epione/hdcob,True
 https://gitlab.inria.fr/epione/promfusion,True
 https://gitlab.inria.fr/epione/unsegqc,True
 https://gitlab.inria.fr/epione_ML/bayesian-learning-uca,True
 https://gitlab.inria.fr/epione_ML/mcvae,True
-https://gitlab.inria.fr/erable/kirikomics/hglib,False
+https://gitlab.inria.fr/erable/kirikomics/hglib,True
 https://gitlab.inria.fr/erable/kirikomics/metnetlib,False
 https://gitlab.inria.fr/erable/kirikomics/metnetlib-minproject,True
 https://gitlab.inria.fr/erable/totoro,True
@@ -6637,7 +6639,7 @@ https://gitlab.inria.fr/sibr/libs/mixkit,True
 https://gitlab.inria.fr/sibr/libs/mrf,True
 https://gitlab.inria.fr/sibr/libs/nanoflann,True
 https://gitlab.inria.fr/sibr/libs/picojson,True
-https://gitlab.inria.fr/sibr/libs/rapidxml,False
+https://gitlab.inria.fr/sibr/libs/rapidxml,True
 https://gitlab.inria.fr/sibr/libs/xatlas,True
 https://gitlab.inria.fr/sibr/projects/facades-repetitions/facade_repetitions,True
 https://gitlab.inria.fr/sibr/projects/facades-repetitions/facade_repetitions_external,True
