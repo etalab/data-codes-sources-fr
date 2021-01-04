@@ -383,6 +383,7 @@ https://forgemia.inra.fr/pappso/mcqr,True
 https://forgemia.inra.fr/pappso/minexpert2,True
 https://forgemia.inra.fr/pappso/pappsoms-tools,True
 https://forgemia.inra.fr/pappso/pappsomspp,True
+https://forgemia.inra.fr/pappso/repository-massxpert,False
 https://forgemia.inra.fr/pappso/repository-minexpert2,False
 https://forgemia.inra.fr/pappso/xtpcpp,True
 https://forgemia.inra.fr/pegase/pegase-fair,True
@@ -5366,7 +5367,7 @@ https://gitlab.com/fabnum-minarm/igloo/terraform/main,True
 https://gitlab.com/fabnum-minarm/igloo/terraform/modules/add-runner,True
 https://gitlab.com/fabnum-minarm/igloo/terraform/modules/configure-repository-for-deployment,True
 https://gitlab.com/fabnum-minarm/igloo/terraform/modules/create-namespace,True
-https://gitlab.com/fabnum-minarm/igloo/terraform/modules/timescaledb,False
+https://gitlab.com/fabnum-minarm/igloo/terraform/modules/timescaledb,True
 https://gitlab.com/fabnum-minarm/igloo/terraform/projects/_template,True
 https://gitlab.com/fabnum-minarm/igloo/terraform/projects/alpps,True
 https://gitlab.com/fabnum-minarm/igloo/terraform/projects/anais,True
@@ -5784,7 +5785,7 @@ https://gitlab.inria.fr/almanach/mgkit/french-toy-tag,True
 https://gitlab.inria.fr/almanach/mgkit/frmg,True
 https://gitlab.inria.fr/almanach/mgkit/frmgcm,True
 https://gitlab.inria.fr/almanach/mgkit/hmg,True
-https://gitlab.inria.fr/almanach/mgkit/mgcomp,False
+https://gitlab.inria.fr/almanach/mgkit/mgcomp,True
 https://gitlab.inria.fr/almanach/mgkit/mgtools,True
 https://gitlab.inria.fr/almanach/mgkit/mgwiki,True
 https://gitlab.inria.fr/almanach/mgkit/parserd,False
@@ -5900,6 +5901,7 @@ https://gitlab.inria.fr/chroma/drone-simulator,True
 https://gitlab.inria.fr/chroma/drones/drone-simulator,True
 https://gitlab.inria.fr/chroma/intelaero-cao,True
 https://gitlab.inria.fr/ciao/pmns-for-sidh,True
+https://gitlab.inria.fr/cidre-public/from-ttp-to-ioc-dataset,False
 https://gitlab.inria.fr/cidre-public/malcon19,True
 https://gitlab.inria.fr/cidre-public/obfuscated-android-unit-examples,True
 https://gitlab.inria.fr/cidre-public/pymao,True
@@ -6166,7 +6168,7 @@ https://gitlab.inria.fr/gazelle/library/auditMessage-validator-api,True
 https://gitlab.inria.fr/gazelle/library/cas-client,True
 https://gitlab.inria.fr/gazelle/library/datatable-component,True
 https://gitlab.inria.fr/gazelle/library/fhir-util,True
-https://gitlab.inria.fr/gazelle/library/gazelle-assertion-coverage-provider,False
+https://gitlab.inria.fr/gazelle/library/gazelle-assertion-coverage-provider,True
 https://gitlab.inria.fr/gazelle/library/gazelle-assets,True
 https://gitlab.inria.fr/gazelle/library/home,True
 https://gitlab.inria.fr/gazelle/library/hql,True
@@ -6215,7 +6217,7 @@ https://gitlab.inria.fr/gecos/gecos-scop,True
 https://gitlab.inria.fr/gecos/gecos-testframework,True
 https://gitlab.inria.fr/gecos/gecos-tools/gecos-graphviz,True
 https://gitlab.inria.fr/gecos/gecos-tools/gecos-rtl,False
-https://gitlab.inria.fr/gecos/gecos-tools/gecos-tools-emf,False
+https://gitlab.inria.fr/gecos/gecos-tools/gecos-tools-emf,True
 https://gitlab.inria.fr/gecos/gecos-tools/gecos-tools-graph,True
 https://gitlab.inria.fr/gecos/gecos-tools/gecos-tools-isl,True
 https://gitlab.inria.fr/gecos/gecos-tools/gecos-tools-jnimapper,True
