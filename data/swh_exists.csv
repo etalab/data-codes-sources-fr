@@ -84,7 +84,7 @@ https://forge.grandlyon.com/web-et-numerique/llle_project/enedis-konnector,True
 https://forge.grandlyon.com/web-et-numerique/llle_project/grdf-konnector,True
 https://forge.grandlyon.com/web-et-numerique/llle_project/grdf-scraping-konnector,True
 https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/articles/point-cloud,True
-https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/pocs/wiki-territorial-covid,False
+https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/pocs/wiki-territorial-covid,True
 https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/web-portal/components/custom-apps/admin-gui,True
 https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/web-portal/components/custom-apps/web-app,True
 https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/web-portal/components/indexers/editorial-content,True
@@ -93,13 +93,13 @@ https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.gran
 https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/web-portal/components/miscellaneous/maintenance-page,True
 https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/web-portal/components/proxies/authz-and-cache-for-es,True
 https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/web-portal/components/proxies/query,True
-https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/web-portal/components/services/authentication,False
-https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/web-portal/components/services/changelog,False
+https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/web-portal/components/services/authentication,True
+https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/web-portal/components/services/changelog,True
 https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/web-portal/components/services/credits,True
 https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/web-portal/components/services/csv-catalog-downloader,True
 https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/web-portal/components/services/mailer,True
 https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/web-portal/components/services/media-library,True
-https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/web-portal/components/services/organizations,False
+https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/web-portal/components/services/organizations,True
 https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/web-portal/components/services/resources-helper,True
 https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/web-portal/components/services/reuses,True
 https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/web-portal/components/services/social-media-share-helper,False
@@ -5753,7 +5753,7 @@ https://gitlab.inria.fr/almanach/alexina/enlex-emg,True
 https://gitlab.inria.fr/almanach/alexina/frwiktionary_alexina,True
 https://gitlab.inria.fr/almanach/alexina/khalex,True
 https://gitlab.inria.fr/almanach/alexina/kurlex,True
-https://gitlab.inria.fr/almanach/alexina/leffe,False
+https://gitlab.inria.fr/almanach/alexina/leffe,True
 https://gitlab.inria.fr/almanach/alexina/leffe-spmg,True
 https://gitlab.inria.fr/almanach/alexina/lefff,True
 https://gitlab.inria.fr/almanach/alexina/lefff-frmg,True
@@ -6092,7 +6092,7 @@ https://gitlab.inria.fr/epione/unsegqc,True
 https://gitlab.inria.fr/epione_ML/bayesian-learning-uca,True
 https://gitlab.inria.fr/epione_ML/mcvae,True
 https://gitlab.inria.fr/erable/kirikomics/hglib,True
-https://gitlab.inria.fr/erable/kirikomics/metnetlib,False
+https://gitlab.inria.fr/erable/kirikomics/metnetlib,True
 https://gitlab.inria.fr/erable/kirikomics/metnetlib-minproject,True
 https://gitlab.inria.fr/erable/totoro,True
 https://gitlab.inria.fr/etac/notice-etac,True
@@ -6261,7 +6261,7 @@ https://gitlab.inria.fr/grew/grew_gui,True
 https://gitlab.inria.fr/grew/grew_match,True
 https://gitlab.inria.fr/grew/grew_parse,True
 https://gitlab.inria.fr/grew/grew_server,True
-https://gitlab.inria.fr/grew/grew_stat,False
+https://gitlab.inria.fr/grew/grew_stat,True
 https://gitlab.inria.fr/grew/grew_web,True
 https://gitlab.inria.fr/grew/libcaml-grew,True
 https://gitlab.inria.fr/grew/python,True
@@ -6371,7 +6371,7 @@ https://gitlab.inria.fr/line/wp-plugin-cai,True
 https://gitlab.inria.fr/line/wp_theme_cai,True
 https://gitlab.inria.fr/local-implicit-schemes/supplementary-material-numerische-mathematik,True
 https://gitlab.inria.fr/local-schemes/supplementary-sources,True
-https://gitlab.inria.fr/locolearn/public/docker_inria_wbc,False
+https://gitlab.inria.fr/locolearn/public/docker_inria_wbc,True
 https://gitlab.inria.fr/locolearn/public/talos_description_rf,False
 https://gitlab.inria.fr/magnet/anonymization_metrics,True
 https://gitlab.inria.fr/magnet/bias-in-nlp,True
@@ -6849,7 +6849,7 @@ https://gitlab.irstea.fr/pole-is/packages/irstea-typescript-config,True
 https://gitlab.irstea.fr/pole-is/packages/ngx-debug,True
 https://gitlab.irstea.fr/pole-is/packages/ngx-rxtools,True
 https://gitlab.irstea.fr/pole-is/tools/composer-require-checker-shim,True
-https://gitlab.irstea.fr/pole-is/tools/deployer-worker-recipe,False
+https://gitlab.irstea.fr/pole-is/tools/deployer-worker-recipe,True
 https://gitlab.irstea.fr/pole-is/tools/make-shim,True
 https://gitlab.irstea.fr/pole-is/tools/pcov-clobber-plugin,True
 https://gitlab.irstea.fr/pole-is/tools/php-cs-fixer-config,True
@@ -6884,7 +6884,7 @@ https://gitlab.irstea.fr/umr-tetis/aidmoit/collect,True
 https://gitlab.irstea.fr/umr-tetis/aidmoit/datalake-deployment,True
 https://gitlab.irstea.fr/umr-tetis/biotex_python,True
 https://gitlab.irstea.fr/umr-tetis/mood/geonetwork-insertion,True
-https://gitlab.irstea.fr/umr-tetis/mood/mood-tetis-tweets-collect,False
+https://gitlab.irstea.fr/umr-tetis/mood/mood-tetis-tweets-collect,True
 https://gitlab.irstea.fr/vino/Vino,True
 https://gitlab.irstea.fr/watasitdev/j2k-coupling,True
 https://gitlab.irstea.fr/watasitdev/watasitrcoupler,True
