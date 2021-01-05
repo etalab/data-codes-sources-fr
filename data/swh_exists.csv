@@ -214,7 +214,7 @@ https://forgemia.inra.fr/gafl/singularity/Allmine,True
 https://forgemia.inra.fr/gafl/singularity/BUSCO,True
 https://forgemia.inra.fr/gafl/singularity/Bionano_solve,True
 https://forgemia.inra.fr/gafl/singularity/QTLseqr,True
-https://forgemia.inra.fr/gafl/singularity/R_QTLseqr,False
+https://forgemia.inra.fr/gafl/singularity/R_QTLseqr,True
 https://forgemia.inra.fr/gafl/singularity/R_base,True
 https://forgemia.inra.fr/gafl/singularity/Rsamtools_graph,True
 https://forgemia.inra.fr/gafl/singularity/arcs,True
@@ -1230,6 +1230,7 @@ https://github.com/Delegation-numerique-en-sante/covid19-algorithme-orientation-
 https://github.com/Delegation-numerique-en-sante/covid19-questionnaire-telesurveillance,True
 https://github.com/Delegation-numerique-en-sante/mesconseilscovid,True
 https://github.com/Delegation-numerique-en-sante/mesconseilscovid-kit,True
+https://github.com/Delegation-numerique-en-sante/mesconseilscovid-upptime,False
 https://github.com/EDS-APHP/EdsFhirIG,True
 https://github.com/EDS-APHP/HiveQLKernel,True
 https://github.com/EDS-APHP/LightICE,True
@@ -5583,6 +5584,7 @@ https://gitlab.inria.fr/GUDHI/test_docker_debug,True
 https://gitlab.inria.fr/GardiNet/dragonnet,True
 https://gitlab.inria.fr/GardiNet/liblc,True
 https://gitlab.inria.fr/GruLab/s-cgn,False
+https://gitlab.inria.fr/GruLab/s-gcn,False
 https://gitlab.inria.fr/IOTLanguage/IoTCompilertoBIP,True
 https://gitlab.inria.fr/InBio/Public/efaecalis-ratio,True
 https://gitlab.inria.fr/InBio/Public/fwd_ad,True
@@ -5648,7 +5650,7 @@ https://gitlab.inria.fr/Seshat/simplewebpage,True
 https://gitlab.inria.fr/Seshat/test,True
 https://gitlab.inria.fr/Seshat/unity,True
 https://gitlab.inria.fr/Seshat/webgl,True
-https://gitlab.inria.fr/Simbiot/common/public/utilities/drone-autonome,False
+https://gitlab.inria.fr/Simbiot/common/public/utilities/drone-autonome,True
 https://gitlab.inria.fr/Simbiot/common/public/utilities/openvr_ros_docker,True
 https://gitlab.inria.fr/Simbiot/common/public/utilities/ros-optitrack-basics,False
 https://gitlab.inria.fr/Simbiot/common/public/utilities/ros-remote,True
@@ -6164,7 +6166,7 @@ https://gitlab.inria.fr/gazelle/external-library,True
 https://gitlab.inria.fr/gazelle/framework/logger,True
 https://gitlab.inria.fr/gazelle/framework/preferences,True
 https://gitlab.inria.fr/gazelle/library/HL7Common,True
-https://gitlab.inria.fr/gazelle/library/annotations,False
+https://gitlab.inria.fr/gazelle/library/annotations,True
 https://gitlab.inria.fr/gazelle/library/archetypes/project-archetype,True
 https://gitlab.inria.fr/gazelle/library/assets,True
 https://gitlab.inria.fr/gazelle/library/auditMessage-validator-api,True
@@ -6454,7 +6456,7 @@ https://gitlab.inria.fr/moex/lazylav,True
 https://gitlab.inria.fr/moex/linkex,True
 https://gitlab.inria.fr/moex/linkky,True
 https://gitlab.inria.fr/moex/ontosim,True
-https://gitlab.inria.fr/moex/pagetest,False
+https://gitlab.inria.fr/moex/pagetest,True
 https://gitlab.inria.fr/moex/psparql,True
 https://gitlab.inria.fr/moex/scarlet,True
 https://gitlab.inria.fr/moex/swip,True
@@ -6611,7 +6613,7 @@ https://gitlab.inria.fr/sed-rennes/overleaf/overleaf,False
 https://gitlab.inria.fr/sed-rennes/overleaf/web,False
 https://gitlab.inria.fr/sed-rennes/sharelatex-website,True
 https://gitlab.inria.fr/sed-rennes/sharelatex/clsi-sharelatex,True
-https://gitlab.inria.fr/sed-rennes/sharelatex/inria-docker-sharelatex,False
+https://gitlab.inria.fr/sed-rennes/sharelatex/inria-docker-sharelatex,True
 https://gitlab.inria.fr/sed-rennes/sharelatex/python-sharelatex,True
 https://gitlab.inria.fr/sed-rennes/sharelatex/sharelatex,False
 https://gitlab.inria.fr/sed-rennes/sharelatex/web-sharelatex,True
