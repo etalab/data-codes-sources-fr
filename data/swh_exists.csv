@@ -251,7 +251,7 @@ https://forgemia.inra.fr/gafl/singularity/mummer,True
 https://forgemia.inra.fr/gafl/singularity/nanocomp,True
 https://forgemia.inra.fr/gafl/singularity/nanofilt,True
 https://forgemia.inra.fr/gafl/singularity/nanopack,True
-https://forgemia.inra.fr/gafl/singularity/nanoplotcompstat,False
+https://forgemia.inra.fr/gafl/singularity/nanoplotcompstat,True
 https://forgemia.inra.fr/gafl/singularity/noblast,True
 https://forgemia.inra.fr/gafl/singularity/nudup,True
 https://forgemia.inra.fr/gafl/singularity/pear,True
@@ -384,7 +384,7 @@ https://forgemia.inra.fr/pappso/metaprotr,False
 https://forgemia.inra.fr/pappso/minexpert2,True
 https://forgemia.inra.fr/pappso/pappsoms-tools,True
 https://forgemia.inra.fr/pappso/pappsomspp,True
-https://forgemia.inra.fr/pappso/repository-massxpert,False
+https://forgemia.inra.fr/pappso/repository-massxpert,True
 https://forgemia.inra.fr/pappso/repository-minexpert2,False
 https://forgemia.inra.fr/pappso/xtpcpp,True
 https://forgemia.inra.fr/pegase/pegase-fair,True
@@ -513,6 +513,8 @@ https://git.beta.pole-emploi.fr/open-source/toolkit,True
 https://git.beta.pole-emploi.fr/open-source/trefle,True
 https://git.beta.pole-emploi.fr/open-source/tuiles,True
 https://git.unicaen.fr/open-source/OSE,True
+https://git.unicaen.fr/open-source/docker/sygal-image,False
+https://git.unicaen.fr/open-source/docker/sygal-import-ws-image,False
 https://git.unicaen.fr/open-source/sygal,True
 https://git.unicaen.fr/open-source/sygal-doc,True
 https://git.unicaen.fr/open-source/sygal-import-ws,True
@@ -1984,6 +1986,7 @@ https://github.com/OpenEdition/bilbo,True
 https://github.com/OpenEdition/bilbo2,True
 https://github.com/OpenEdition/checklist,True
 https://github.com/OpenEdition/checklist-lodel,True
+https://github.com/OpenEdition/counter5-openedition,False
 https://github.com/OpenEdition/echo,True
 https://github.com/OpenEdition/kbart-openedition,True
 https://github.com/OpenEdition/lodel,True
@@ -5715,7 +5718,7 @@ https://gitlab.inria.fr/allgo/notebooks/speads,True
 https://gitlab.inria.fr/almanach/SYNTAX,True
 https://gitlab.inria.fr/almanach/alCorpusManagement/corpus_proc,True
 https://gitlab.inria.fr/almanach/alCorpusManagement/error_mining,False
-https://gitlab.inria.fr/almanach/alCorpusManagement/newsprocess,False
+https://gitlab.inria.fr/almanach/alCorpusManagement/newsprocess,True
 https://gitlab.inria.fr/almanach/alCorpusManagement/ogre,False
 https://gitlab.inria.fr/almanach/alOldies/alpage_en,True
 https://gitlab.inria.fr/almanach/alOldies/installatoll,False
@@ -5744,7 +5747,7 @@ https://gitlab.inria.fr/almanach/alexina/alexina-output,True
 https://gitlab.inria.fr/almanach/alexina/alexina-tools,True
 https://gitlab.inria.fr/almanach/alexina/alpino,True
 https://gitlab.inria.fr/almanach/alexina/dela_gr,True
-https://gitlab.inria.fr/almanach/alexina/delex,False
+https://gitlab.inria.fr/almanach/alexina/delex,True
 https://gitlab.inria.fr/almanach/alexina/enlex,True
 https://gitlab.inria.fr/almanach/alexina/enlex-emg,True
 https://gitlab.inria.fr/almanach/alexina/frwiktionary_alexina,True
@@ -6262,6 +6265,7 @@ https://gitlab.inria.fr/grew/grew_stat,False
 https://gitlab.inria.fr/grew/grew_web,True
 https://gitlab.inria.fr/grew/libcaml-grew,True
 https://gitlab.inria.fr/grew/python,True
+https://gitlab.inria.fr/grew/udtoeud,False
 https://gitlab.inria.fr/grid5000/ai_tutorial,True
 https://gitlab.inria.fr/grid5000/bigdata-tutorial,True
 https://gitlab.inria.fr/grid5000/ceph5k,True
@@ -6551,7 +6555,7 @@ https://gitlab.inria.fr/piper/application,True
 https://gitlab.inria.fr/piper/child,True
 https://gitlab.inria.fr/piper/child_pedestrian,True
 https://gitlab.inria.fr/piper/misc_models,True
-https://gitlab.inria.fr/piper/sofa/Anatomy,False
+https://gitlab.inria.fr/piper/sofa/Anatomy,True
 https://gitlab.inria.fr/piper/sofa/BranchingImage,False
 https://gitlab.inria.fr/piper/sofa/LinearSubspace,True
 https://gitlab.inria.fr/piper/viva,True
