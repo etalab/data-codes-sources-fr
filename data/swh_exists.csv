@@ -643,7 +643,7 @@ https://git.unistra.fr/les-sans-noms/serveur-de-jeux-websocket-t-lechargable,Tru
 https://git.unistra.fr/les-sans-noms/serveur-jeu/client-web-admin,True
 https://git.unistra.fr/les-sans-noms/serveur-jeu/installateur-serveur-de-jeu,True
 https://git.unistra.fr/les-sans-noms/serveur-jeu/serveur,True
-https://git.unistra.fr/les-spice-guys/puissance-4,False
+https://git.unistra.fr/les-spice-guys/puissance-4,True
 https://git.unistra.fr/les-triples-a/t432_voc20-t3-d,True
 https://git.unistra.fr/lo5-antony-et-florian/thegame,True
 https://git.unistra.fr/lp-komi/naojimi,True
@@ -4082,6 +4082,7 @@ https://github.com/ivre/ivre-test-samples,True
 https://github.com/ivre/masscan,True
 https://github.com/landlock-lsm/landlock-lsm.github.io,True
 https://github.com/landlock-lsm/linux,True
+https://github.com/landlock-lsm/syzkaller,False
 https://github.com/leximpact/dataFin,True
 https://github.com/leximpact/leximpact-client,True
 https://github.com/leximpact/leximpact-nouveau-sujet,True
@@ -5509,7 +5510,7 @@ https://gitlab.huma-num.fr/mshs-poitiers/forellis/gestion-de-version-et-recherch
 https://gitlab.huma-num.fr/mshs-poitiers/forellis/grafe,True
 https://gitlab.huma-num.fr/mshs-poitiers/forellis/marmython,True
 https://gitlab.huma-num.fr/mshs-poitiers/forellis/sudocmeta2csv,True
-https://gitlab.huma-num.fr/mshs-poitiers/plateforme/xmlify,False
+https://gitlab.huma-num.fr/mshs-poitiers/plateforme/xmlify,True
 https://gitlab.huma-num.fr/mshs-poitiers/xmlify,True
 https://gitlab.huma-num.fr/nakala-tools/nakalot,True
 https://gitlab.huma-num.fr/nakala-tools/nakanav,True
@@ -6383,7 +6384,7 @@ https://gitlab.inria.fr/mastertal/UE803,True
 https://gitlab.inria.fr/mastertal/discourse-parsing,True
 https://gitlab.inria.fr/matherials/simol,True
 https://gitlab.inria.fr/mecsci/grains/algo-ford-fulkerson,True
-https://gitlab.inria.fr/mecsci/grains/algo-predateurs,False
+https://gitlab.inria.fr/mecsci/grains/algo-predateurs,True
 https://gitlab.inria.fr/mecsci/grains/alignement-sequences,True
 https://gitlab.inria.fr/mecsci/grains/alignement-sequences-adn,True
 https://gitlab.inria.fr/mecsci/grains/alignement-sequences-adn-english,True
@@ -6399,7 +6400,7 @@ https://gitlab.inria.fr/mecsci/grains/edel,True
 https://gitlab.inria.fr/mecsci/grains/javaschoolweb,True
 https://gitlab.inria.fr/mecsci/grains/jeu-de-hamming,True
 https://gitlab.inria.fr/mecsci/grains/machine-turing,True
-https://gitlab.inria.fr/mecsci/grains/methodes-tri,False
+https://gitlab.inria.fr/mecsci/grains/methodes-tri,True
 https://gitlab.inria.fr/mecsci/grains/modele-sir,True
 https://gitlab.inria.fr/mecsci/grains/regions-codantes,True
 https://gitlab.inria.fr/mecsci/grains/regions-codantes-english,False
@@ -6614,7 +6615,7 @@ https://gitlab.inria.fr/sed-rennes/formations/tutorials_parallel_computing,True
 https://gitlab.inria.fr/sed-rennes/gforge-to-gitlab-scripts,True
 https://gitlab.inria.fr/sed-rennes/overleaf/compile_worker,True
 https://gitlab.inria.fr/sed-rennes/overleaf/overleaf,False
-https://gitlab.inria.fr/sed-rennes/overleaf/web,False
+https://gitlab.inria.fr/sed-rennes/overleaf/web,True
 https://gitlab.inria.fr/sed-rennes/sharelatex-website,True
 https://gitlab.inria.fr/sed-rennes/sharelatex/clsi-sharelatex,True
 https://gitlab.inria.fr/sed-rennes/sharelatex/inria-docker-sharelatex,True
