@@ -385,7 +385,7 @@ https://forgemia.inra.fr/pappso/minexpert2,True
 https://forgemia.inra.fr/pappso/pappsoms-tools,True
 https://forgemia.inra.fr/pappso/pappsomspp,True
 https://forgemia.inra.fr/pappso/repository-massxpert,True
-https://forgemia.inra.fr/pappso/repository-minexpert2,False
+https://forgemia.inra.fr/pappso/repository-minexpert2,True
 https://forgemia.inra.fr/pappso/xtpcpp,True
 https://forgemia.inra.fr/pegase/pegase-fair,True
 https://forgemia.inra.fr/phenotic/publique/ordinalclustering,True
@@ -514,7 +514,7 @@ https://git.beta.pole-emploi.fr/open-source/trefle,True
 https://git.beta.pole-emploi.fr/open-source/tuiles,True
 https://git.unicaen.fr/open-source/OSE,True
 https://git.unicaen.fr/open-source/docker/sygal-image,False
-https://git.unicaen.fr/open-source/docker/sygal-import-ws-image,False
+https://git.unicaen.fr/open-source/docker/sygal-import-ws-image,True
 https://git.unicaen.fr/open-source/sygal,True
 https://git.unicaen.fr/open-source/sygal-doc,True
 https://git.unicaen.fr/open-source/sygal-import-ws,True
@@ -2429,6 +2429,7 @@ https://github.com/abes-esr/fne-batch,True
 https://github.com/abes-esr/idref-api,True
 https://github.com/abes-esr/item-api,True
 https://github.com/abes-esr/item-client,True
+https://github.com/abes-esr/periscope-back,False
 https://github.com/abes-esr/periscope-front,True
 https://github.com/abes-esr/periscope-poc-vue-js,True
 https://github.com/abes-esr/periscope-poc-vue-js-latest,False
@@ -5798,7 +5799,7 @@ https://gitlab.inria.fr/almanach/mgkit/mgcomp,True
 https://gitlab.inria.fr/almanach/mgkit/mgtools,True
 https://gitlab.inria.fr/almanach/mgkit/mgwiki,True
 https://gitlab.inria.fr/almanach/mgkit/parserd,False
-https://gitlab.inria.fr/almanach/mgkit/spmg,False
+https://gitlab.inria.fr/almanach/mgkit/spmg,True
 https://gitlab.inria.fr/almanach/mgkit/tag-utils,False
 https://gitlab.inria.fr/almanach/ner4archives,True
 https://gitlab.inria.fr/almanach/oscar/goclassy,True
@@ -6082,6 +6083,7 @@ https://gitlab.inria.fr/dtk/dtk-widgets,True
 https://gitlab.inria.fr/dtk/dtk-widgets-python,True
 https://gitlab.inria.fr/dtk/dtk-wm,True
 https://gitlab.inria.fr/dtk/dtk-www,True
+https://gitlab.inria.fr/ed-mathstic/latex-template,True
 https://gitlab.inria.fr/eigen/eigen-mirror,True
 https://gitlab.inria.fr/enseignement/MIAGE_TP_XML_2017,True
 https://gitlab.inria.fr/epione/GP_progression_model_V2,True
@@ -6394,7 +6396,7 @@ https://gitlab.inria.fr/mecsci/grains/carpasinivores-limejs,False
 https://gitlab.inria.fr/mecsci/grains/codes-secrets,True
 https://gitlab.inria.fr/mecsci/grains/creation-arn,True
 https://gitlab.inria.fr/mecsci/grains/crepes,True
-https://gitlab.inria.fr/mecsci/grains/cryptris,False
+https://gitlab.inria.fr/mecsci/grains/cryptris,True
 https://gitlab.inria.fr/mecsci/grains/des-mots-dans-le-cerveau,True
 https://gitlab.inria.fr/mecsci/grains/edel,True
 https://gitlab.inria.fr/mecsci/grains/javaschoolweb,True
@@ -6614,7 +6616,7 @@ https://gitlab.inria.fr/sed-rennes/formations/introduction-to-python,True
 https://gitlab.inria.fr/sed-rennes/formations/tutorials_parallel_computing,True
 https://gitlab.inria.fr/sed-rennes/gforge-to-gitlab-scripts,True
 https://gitlab.inria.fr/sed-rennes/overleaf/compile_worker,True
-https://gitlab.inria.fr/sed-rennes/overleaf/overleaf,False
+https://gitlab.inria.fr/sed-rennes/overleaf/overleaf,True
 https://gitlab.inria.fr/sed-rennes/overleaf/web,True
 https://gitlab.inria.fr/sed-rennes/sharelatex-website,True
 https://gitlab.inria.fr/sed-rennes/sharelatex/clsi-sharelatex,True
@@ -6839,7 +6841,7 @@ https://gitlab.irstea.fr/pole-is/bundles/ng-model-generator-bundle,True
 https://gitlab.irstea.fr/pole-is/bundles/plantuml-bundle,True
 https://gitlab.irstea.fr/pole-is/docker/clamavd,True
 https://gitlab.irstea.fr/pole-is/docker/docker-ci,True
-https://gitlab.irstea.fr/pole-is/docker/elasticsearch,False
+https://gitlab.irstea.fr/pole-is/docker/elasticsearch,True
 https://gitlab.irstea.fr/pole-is/docker/php,False
 https://gitlab.irstea.fr/pole-is/docker/postgis,True
 https://gitlab.irstea.fr/pole-is/docker/postgres,False
