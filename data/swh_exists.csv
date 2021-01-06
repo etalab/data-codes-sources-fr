@@ -766,7 +766,7 @@ https://github.com/139bercy/ansible_install_gitlab,False
 https://github.com/139bercy/ansible_install_jenkins,False
 https://github.com/139bercy/ansible_install_keycloak,False
 https://github.com/139bercy/ansible_install_nexus3-oss,False
-https://github.com/139bercy/ansible_install_php,False
+https://github.com/139bercy/ansible_install_php,True
 https://github.com/139bercy/ansible_install_postgresql,False
 https://github.com/139bercy/ansible_install_selenium,False
 https://github.com/139bercy/ansible_install_sonarqube,False
@@ -2121,6 +2121,7 @@ https://github.com/ProgrammeVitam/mailextract,True
 https://github.com/ProgrammeVitam/odftoolkit,True
 https://github.com/ProgrammeVitam/sedatools,True
 https://github.com/ProgrammeVitam/vitam,True
+https://github.com/ProgrammeVitam/vitam-grafana-dashboards,False
 https://github.com/ProgrammeVitam/vitam-griffins,True
 https://github.com/ProgrammeVitam/vitam-itests,True
 https://github.com/ProgrammeVitam/vitam-ui,True
@@ -4083,7 +4084,7 @@ https://github.com/ivre/ivre-test-samples,True
 https://github.com/ivre/masscan,True
 https://github.com/landlock-lsm/landlock-lsm.github.io,True
 https://github.com/landlock-lsm/linux,True
-https://github.com/landlock-lsm/syzkaller,False
+https://github.com/landlock-lsm/syzkaller,True
 https://github.com/leximpact/dataFin,True
 https://github.com/leximpact/leximpact-client,True
 https://github.com/leximpact/leximpact-nouveau-sujet,True
@@ -5588,7 +5589,7 @@ https://gitlab.inria.fr/GUDHI/gudhi-docker,True
 https://gitlab.inria.fr/GUDHI/test_docker_debug,True
 https://gitlab.inria.fr/GardiNet/dragonnet,True
 https://gitlab.inria.fr/GardiNet/liblc,True
-https://gitlab.inria.fr/GruLab/s-cgn,False
+https://gitlab.inria.fr/GruLab/s-cgn,True
 https://gitlab.inria.fr/GruLab/s-gcn,False
 https://gitlab.inria.fr/IOTLanguage/IoTCompilertoBIP,True
 https://gitlab.inria.fr/InBio/Public/efaecalis-ratio,True
@@ -5719,7 +5720,7 @@ https://gitlab.inria.fr/allgo/notebooks/ndsafir,True
 https://gitlab.inria.fr/allgo/notebooks/speads,True
 https://gitlab.inria.fr/almanach/SYNTAX,True
 https://gitlab.inria.fr/almanach/alCorpusManagement/corpus_proc,True
-https://gitlab.inria.fr/almanach/alCorpusManagement/error_mining,False
+https://gitlab.inria.fr/almanach/alCorpusManagement/error_mining,True
 https://gitlab.inria.fr/almanach/alCorpusManagement/newsprocess,True
 https://gitlab.inria.fr/almanach/alCorpusManagement/ogre,False
 https://gitlab.inria.fr/almanach/alOldies/alpage_en,True
@@ -5832,7 +5833,7 @@ https://gitlab.inria.fr/asbizard/Procedural_modeling_of_multi-scale_galactic_dus
 https://gitlab.inria.fr/asclepios/biblio,True
 https://gitlab.inria.fr/auctus/panda/franka_control,True
 https://gitlab.inria.fr/auctus/panda/franka_description,True
-https://gitlab.inria.fr/auctus/panda/panda_traj,False
+https://gitlab.inria.fr/auctus/panda/panda_traj,True
 https://gitlab.inria.fr/auctus/panda/rtt_panda/rtt_ros_kdl_tools,True
 https://gitlab.inria.fr/auctus/panda/torque_qp,False
 https://gitlab.inria.fr/auctus/panda/velocity_qp,True
@@ -6375,7 +6376,7 @@ https://gitlab.inria.fr/line/wp_theme_cai,True
 https://gitlab.inria.fr/local-implicit-schemes/supplementary-material-numerische-mathematik,True
 https://gitlab.inria.fr/local-schemes/supplementary-sources,True
 https://gitlab.inria.fr/locolearn/public/docker_inria_wbc,True
-https://gitlab.inria.fr/locolearn/public/talos_description_rf,False
+https://gitlab.inria.fr/locolearn/public/talos_description_rf,True
 https://gitlab.inria.fr/magnet/anonymization_metrics,True
 https://gitlab.inria.fr/magnet/bias-in-nlp,True
 https://gitlab.inria.fr/magnet/gdn-lib,True
@@ -6842,7 +6843,7 @@ https://gitlab.irstea.fr/pole-is/bundles/plantuml-bundle,True
 https://gitlab.irstea.fr/pole-is/docker/clamavd,True
 https://gitlab.irstea.fr/pole-is/docker/docker-ci,True
 https://gitlab.irstea.fr/pole-is/docker/elasticsearch,True
-https://gitlab.irstea.fr/pole-is/docker/php,False
+https://gitlab.irstea.fr/pole-is/docker/php,True
 https://gitlab.irstea.fr/pole-is/docker/postgis,True
 https://gitlab.irstea.fr/pole-is/docker/postgres,False
 https://gitlab.irstea.fr/pole-is/docker/vpn-proxy,True
@@ -6864,7 +6865,7 @@ https://gitlab.irstea.fr/pole-is/tools/phploc-shim,True
 https://gitlab.irstea.fr/pole-is/tools/phpmd-config,True
 https://gitlab.irstea.fr/pole-is/tools/phpmd-shim,True
 https://gitlab.irstea.fr/pole-is/tools/phpstan-config,True
-https://gitlab.irstea.fr/pole-is/tools/phpunit-shim,False
+https://gitlab.irstea.fr/pole-is/tools/phpunit-shim,True
 https://gitlab.irstea.fr/pole-is/tools/prezbuilder,True
 https://gitlab.irstea.fr/pole-is/tools/reveal.js,True
 https://gitlab.irstea.fr/pomosed/clairelix,True
