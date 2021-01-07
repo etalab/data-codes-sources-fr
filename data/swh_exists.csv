@@ -514,7 +514,7 @@ https://git.beta.pole-emploi.fr/open-source/toolkit,True
 https://git.beta.pole-emploi.fr/open-source/trefle,True
 https://git.beta.pole-emploi.fr/open-source/tuiles,True
 https://git.unicaen.fr/open-source/OSE,True
-https://git.unicaen.fr/open-source/docker/sygal-image,False
+https://git.unicaen.fr/open-source/docker/sygal-image,True
 https://git.unicaen.fr/open-source/docker/sygal-import-ws-image,True
 https://git.unicaen.fr/open-source/sygal,True
 https://git.unicaen.fr/open-source/sygal-doc,True
@@ -3799,7 +3799,7 @@ https://github.com/etalab/schema-bal,True
 https://github.com/etalab/schema-decp-dpa,True
 https://github.com/etalab/schema-generic-template,True
 https://github.com/etalab/schema-hautes-remunerations,True
-https://github.com/etalab/schema-inclusion-numerique,False
+https://github.com/etalab/schema-inclusion-numerique,True
 https://github.com/etalab/schema-irve,True
 https://github.com/etalab/schema-lieux-covoiturage,True
 https://github.com/etalab/schema-plf,True
@@ -5774,7 +5774,7 @@ https://gitlab.inria.fr/almanach/alexina/ofrlex-modifier,True
 https://gitlab.inria.fr/almanach/alexina/perlex,True
 https://gitlab.inria.fr/almanach/alexina/pollex,False
 https://gitlab.inria.fr/almanach/alexina/prolex_alexina,False
-https://gitlab.inria.fr/almanach/alexina/rulex,False
+https://gitlab.inria.fr/almanach/alexina/rulex,True
 https://gitlab.inria.fr/almanach/alexina/saldo,True
 https://gitlab.inria.fr/almanach/alexina/sklex,True
 https://gitlab.inria.fr/almanach/alexina/sloleks,True
@@ -6452,7 +6452,7 @@ https://gitlab.inria.fr/miticov/mitigating-covid19-outbreaks,True
 https://gitlab.inria.fr/ml_genetics/private/Beast,True
 https://gitlab.inria.fr/ml_genetics/private/robustness_pipeline,True
 https://gitlab.inria.fr/ml_genetics/private/temporal_PCA,True
-https://gitlab.inria.fr/ml_genetics/public/DNA_DNA,False
+https://gitlab.inria.fr/ml_genetics/public/DNA_DNA,True
 https://gitlab.inria.fr/ml_genetics/public/Pop_gen_simulators,True
 https://gitlab.inria.fr/ml_genetics/public/artificial_genomes,True
 https://gitlab.inria.fr/ml_genetics/public/demoseq,True
@@ -6851,7 +6851,7 @@ https://gitlab.irstea.fr/pole-is/docker/docker-ci,True
 https://gitlab.irstea.fr/pole-is/docker/elasticsearch,True
 https://gitlab.irstea.fr/pole-is/docker/php,True
 https://gitlab.irstea.fr/pole-is/docker/postgis,True
-https://gitlab.irstea.fr/pole-is/docker/postgres,False
+https://gitlab.irstea.fr/pole-is/docker/postgres,True
 https://gitlab.irstea.fr/pole-is/docker/vpn-proxy,True
 https://gitlab.irstea.fr/pole-is/hugo-test,True
 https://gitlab.irstea.fr/pole-is/packages/errors,True
