@@ -177,6 +177,7 @@ https://forgemia.inra.fr/GNet/einkorn_grain_transcriptome,True
 https://forgemia.inra.fr/GNet/pipelineoge,True
 https://forgemia.inra.fr/QTL/spell-qtl,True
 https://forgemia.inra.fr/adminforgemia/doc-public,True
+https://forgemia.inra.fr/agriterix/agriterix,True
 https://forgemia.inra.fr/agriterix/doc,True
 https://forgemia.inra.fr/agriterix/simulator,True
 https://forgemia.inra.fr/agroecoperenne/scripting/python-module,True
@@ -842,6 +843,7 @@ https://github.com/ANSSI-FR/tabi,True
 https://github.com/ANSSI-FR/transdep,True
 https://github.com/ANSSI-FR/x509-parser,True
 https://github.com/ANSSI-FR/xsvgen,True
+https://github.com/ARCEP-dev/ARCEP-dev.github.io,False
 https://github.com/ARCEP-dev/BLOM,True
 https://github.com/ARCEP-dev/adresse,True
 https://github.com/ARCEP-dev/algo_maconnexioninternet,True
@@ -2717,6 +2719,7 @@ https://github.com/betagouv/ecolab-agribalyse,True
 https://github.com/betagouv/ecolab-agribalyse-recherche,True
 https://github.com/betagouv/ecolab-alimentation,True
 https://github.com/betagouv/ecolab-batiment,True
+https://github.com/betagouv/ecolab-calculateurco2inverse,True
 https://github.com/betagouv/ecolab-climat,True
 https://github.com/betagouv/ecolab-data,True
 https://github.com/betagouv/ecolab-recherche-agribalyse,True
@@ -3796,6 +3799,7 @@ https://github.com/etalab/schema-bal,True
 https://github.com/etalab/schema-decp-dpa,True
 https://github.com/etalab/schema-generic-template,True
 https://github.com/etalab/schema-hautes-remunerations,True
+https://github.com/etalab/schema-inclusion-numerique,False
 https://github.com/etalab/schema-irve,True
 https://github.com/etalab/schema-lieux-covoiturage,True
 https://github.com/etalab/schema-plf,True
@@ -5733,7 +5737,7 @@ https://gitlab.inria.fr/almanach/alOldies/perlmod/dict-fsa,True
 https://gitlab.inria.fr/almanach/alOldies/perlmod/dict-lexed,True
 https://gitlab.inria.fr/almanach/alOldies/perlmod/lingua-features,True
 https://gitlab.inria.fr/almanach/alOldies/perlmod/lingua-maf,True
-https://gitlab.inria.fr/almanach/alOldies/perlmod/lingua-matcher,False
+https://gitlab.inria.fr/almanach/alOldies/perlmod/lingua-matcher,True
 https://gitlab.inria.fr/almanach/alOldies/perlmod/lingua-tagset,False
 https://gitlab.inria.fr/almanach/alOldies/scribo,True
 https://gitlab.inria.fr/almanach/alOldies/sxlfg,True
@@ -5787,7 +5791,7 @@ https://gitlab.inria.fr/almanach/lectaurep/documentation,True
 https://gitlab.inria.fr/almanach/lectaurep/escriptorium,True
 https://gitlab.inria.fr/almanach/lectaurep/models,True
 https://gitlab.inria.fr/almanach/lectaurep/pipeline,True
-https://gitlab.inria.fr/almanach/mgkit/biomg,False
+https://gitlab.inria.fr/almanach/mgkit/biomg,True
 https://gitlab.inria.fr/almanach/mgkit/depgraph,False
 https://gitlab.inria.fr/almanach/mgkit/dyalog-expander,True
 https://gitlab.inria.fr/almanach/mgkit/emg,True
@@ -6555,6 +6559,7 @@ https://gitlab.inria.fr/parallel-replica/qsd.gen.samples,True
 https://gitlab.inria.fr/parseme-fr/mwe-mg,True
 https://gitlab.inria.fr/patate/patate,True
 https://gitlab.inria.fr/pepper/RIOT,True
+https://gitlab.inria.fr/pepper/riot-demo-apps,True
 https://gitlab.inria.fr/piper/anatomydb,True
 https://gitlab.inria.fr/piper/application,True
 https://gitlab.inria.fr/piper/child,True
@@ -6624,7 +6629,7 @@ https://gitlab.inria.fr/sed-rennes/sharelatex-website,True
 https://gitlab.inria.fr/sed-rennes/sharelatex/clsi-sharelatex,True
 https://gitlab.inria.fr/sed-rennes/sharelatex/inria-docker-sharelatex,True
 https://gitlab.inria.fr/sed-rennes/sharelatex/python-sharelatex,True
-https://gitlab.inria.fr/sed-rennes/sharelatex/sharelatex,False
+https://gitlab.inria.fr/sed-rennes/sharelatex/sharelatex,True
 https://gitlab.inria.fr/sed-rennes/sharelatex/web-sharelatex,True
 https://gitlab.inria.fr/sed-saclay/TutorielGitlabPages,True
 https://gitlab.inria.fr/sed-saclay/formulairesdemandesingenieur,True
