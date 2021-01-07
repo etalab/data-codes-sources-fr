@@ -1232,7 +1232,7 @@ https://github.com/Delegation-numerique-en-sante/covid19-algorithme-orientation-
 https://github.com/Delegation-numerique-en-sante/covid19-questionnaire-telesurveillance,True
 https://github.com/Delegation-numerique-en-sante/mesconseilscovid,True
 https://github.com/Delegation-numerique-en-sante/mesconseilscovid-kit,True
-https://github.com/Delegation-numerique-en-sante/mesconseilscovid-upptime,False
+https://github.com/Delegation-numerique-en-sante/mesconseilscovid-upptime,True
 https://github.com/EDS-APHP/EdsFhirIG,True
 https://github.com/EDS-APHP/HiveQLKernel,True
 https://github.com/EDS-APHP/LightICE,True
@@ -1986,7 +1986,7 @@ https://github.com/OpenEdition/bilbo,True
 https://github.com/OpenEdition/bilbo2,True
 https://github.com/OpenEdition/checklist,True
 https://github.com/OpenEdition/checklist-lodel,True
-https://github.com/OpenEdition/counter5-openedition,False
+https://github.com/OpenEdition/counter5-openedition,True
 https://github.com/OpenEdition/echo,True
 https://github.com/OpenEdition/kbart-openedition,True
 https://github.com/OpenEdition/lodel,True
@@ -2121,7 +2121,7 @@ https://github.com/ProgrammeVitam/mailextract,True
 https://github.com/ProgrammeVitam/odftoolkit,True
 https://github.com/ProgrammeVitam/sedatools,True
 https://github.com/ProgrammeVitam/vitam,True
-https://github.com/ProgrammeVitam/vitam-grafana-dashboards,False
+https://github.com/ProgrammeVitam/vitam-grafana-dashboards,True
 https://github.com/ProgrammeVitam/vitam-griffins,True
 https://github.com/ProgrammeVitam/vitam-itests,True
 https://github.com/ProgrammeVitam/vitam-ui,True
@@ -5660,7 +5660,7 @@ https://gitlab.inria.fr/Simbiot/common/public/utilities/drone-autonome,True
 https://gitlab.inria.fr/Simbiot/common/public/utilities/openvr_ros_docker,True
 https://gitlab.inria.fr/Simbiot/common/public/utilities/ros-optitrack-basics,False
 https://gitlab.inria.fr/Simbiot/common/public/utilities/ros-remote,True
-https://gitlab.inria.fr/Simbiot/mecsyco/mecsycocpp,False
+https://gitlab.inria.fr/Simbiot/mecsyco/mecsycocpp,True
 https://gitlab.inria.fr/Simbiot/mecsyco/mecsycodsl,True
 https://gitlab.inria.fr/Simbiot/mecsyco/mecsycojava,True
 https://gitlab.inria.fr/Simbiot/mecsyco/mecsycoscholar,True
@@ -5760,7 +5760,7 @@ https://gitlab.inria.fr/almanach/alexina/leffe,True
 https://gitlab.inria.fr/almanach/alexina/leffe-spmg,True
 https://gitlab.inria.fr/almanach/alexina/lefff,True
 https://gitlab.inria.fr/almanach/alexina/lefff-frmg,True
-https://gitlab.inria.fr/almanach/alexina/leffga,False
+https://gitlab.inria.fr/almanach/alexina/leffga,True
 https://gitlab.inria.fr/almanach/alexina/leffp,False
 https://gitlab.inria.fr/almanach/alexina/lexconn,True
 https://gitlab.inria.fr/almanach/alexina/morph_it,True
@@ -5801,7 +5801,7 @@ https://gitlab.inria.fr/almanach/mgkit/mgtools,True
 https://gitlab.inria.fr/almanach/mgkit/mgwiki,True
 https://gitlab.inria.fr/almanach/mgkit/parserd,False
 https://gitlab.inria.fr/almanach/mgkit/spmg,True
-https://gitlab.inria.fr/almanach/mgkit/tag-utils,False
+https://gitlab.inria.fr/almanach/mgkit/tag-utils,True
 https://gitlab.inria.fr/almanach/ner4archives,True
 https://gitlab.inria.fr/almanach/oscar/goclassy,True
 https://gitlab.inria.fr/almanach/oscar/oscar-website,True
@@ -6014,6 +6014,7 @@ https://gitlab.inria.fr/dexms/dexidl,True
 https://gitlab.inria.fr/dexms/service,True
 https://gitlab.inria.fr/dexms/website,True
 https://gitlab.inria.fr/dh-projects/aspyre-gt,True
+https://gitlab.inria.fr/dh-projects/aspyre-gui,False
 https://gitlab.inria.fr/dh-projects/choppy,True
 https://gitlab.inria.fr/dh-projects/kraken-benchmark,True
 https://gitlab.inria.fr/dh-projects/kraken-models,True
@@ -6228,7 +6229,7 @@ https://gitlab.inria.fr/gecos/gecos-scilab,True
 https://gitlab.inria.fr/gecos/gecos-scop,True
 https://gitlab.inria.fr/gecos/gecos-testframework,True
 https://gitlab.inria.fr/gecos/gecos-tools/gecos-graphviz,True
-https://gitlab.inria.fr/gecos/gecos-tools/gecos-rtl,False
+https://gitlab.inria.fr/gecos/gecos-tools/gecos-rtl,True
 https://gitlab.inria.fr/gecos/gecos-tools/gecos-tools-emf,True
 https://gitlab.inria.fr/gecos/gecos-tools/gecos-tools-graph,True
 https://gitlab.inria.fr/gecos/gecos-tools/gecos-tools-isl,True
@@ -6611,7 +6612,7 @@ https://gitlab.inria.fr/sed-rennes/VR-Three.js,True
 https://gitlab.inria.fr/sed-rennes/formations/allgo,True
 https://gitlab.inria.fr/sed-rennes/formations/deep-learning-intro,True
 https://gitlab.inria.fr/sed-rennes/formations/diu-robotique,False
-https://gitlab.inria.fr/sed-rennes/formations/enoslib-tutorials,False
+https://gitlab.inria.fr/sed-rennes/formations/enoslib-tutorials,True
 https://gitlab.inria.fr/sed-rennes/formations/formation-gitlab-ci,True
 https://gitlab.inria.fr/sed-rennes/formations/introduction-to-python,True
 https://gitlab.inria.fr/sed-rennes/formations/tutorials_parallel_computing,True
