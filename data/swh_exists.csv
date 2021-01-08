@@ -855,6 +855,7 @@ https://github.com/ARCEP-dev/basePopDom,True
 https://github.com/ARCEP-dev/dataTools,True
 https://github.com/ARCEP-dev/disPorts,True
 https://github.com/ARCEP-dev/geocodage_ban,True
+https://github.com/ARCEP-dev/historiquePannes,False
 https://github.com/ARCEP-dev/monReseauMobile,True
 https://github.com/ARCEP-dev/regex,True
 https://github.com/ARCEP-dev/route500_improved,True
@@ -1995,6 +1996,7 @@ https://github.com/OpenEdition/bilbo2,True
 https://github.com/OpenEdition/checklist,True
 https://github.com/OpenEdition/checklist-lodel,True
 https://github.com/OpenEdition/counter5-openedition,True
+https://github.com/OpenEdition/counter5-openedition.localized,False
 https://github.com/OpenEdition/echo,True
 https://github.com/OpenEdition/kbart-openedition,True
 https://github.com/OpenEdition/lodel,True
@@ -3203,6 +3205,7 @@ https://github.com/cortext/wostext,True
 https://github.com/cortext/wp-theme,True
 https://github.com/cstb/citygml-energy,True
 https://github.com/cstb/conan-package-tools,True
+https://github.com/cstb/geocodage_ban,False
 https://github.com/cstb/ifc-sdk,True
 https://github.com/cstb/jupyterhub-docker,True
 https://github.com/cstb/pomegranate,True
@@ -4560,6 +4563,8 @@ https://github.com/metwork-framework/public-website,True
 https://github.com/metwork-framework/quickstart,True
 https://github.com/metwork-framework/resources,True
 https://github.com/metwork-framework/telegraf-unixsocket-python-client,True
+https://github.com/metwork-framework/test_triggered_with_githubactions,False
+https://github.com/metwork-framework/test_triggers_with_githubactions,False
 https://github.com/metwork-framework/testrepo,True
 https://github.com/metwork-framework/testrepo2,True
 https://github.com/metwork-framework/xattrfile,True
@@ -5322,7 +5327,7 @@ https://gitlab.com/CSTB/modele_donnee_dpe_2020,True
 https://gitlab.com/DREES_code/formulaire_zonage_ars,True
 https://gitlab.com/DREES_code/public/charte_drees,True
 https://gitlab.com/DREES_code/public/etudes/er1094,False
-https://gitlab.com/DREES_code/public/etudes/er1143,False
+https://gitlab.com/DREES_code/public/etudes/er1143,True
 https://gitlab.com/DREES_code/public/indicateurs_de_sante,True
 https://gitlab.com/DREES_code/public/indicateurs_qualite_snds,True
 https://gitlab.com/DREES_code/public/openghm,True
