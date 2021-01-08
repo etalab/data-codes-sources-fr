@@ -381,7 +381,7 @@ https://forgemia.inra.fr/pappso/libpwizlite,True
 https://forgemia.inra.fr/pappso/masschroq,True
 https://forgemia.inra.fr/pappso/massxpert,True
 https://forgemia.inra.fr/pappso/mcqr,True
-https://forgemia.inra.fr/pappso/metaprotr,False
+https://forgemia.inra.fr/pappso/metaprotr,True
 https://forgemia.inra.fr/pappso/minexpert2,True
 https://forgemia.inra.fr/pappso/pappsoms-tools,True
 https://forgemia.inra.fr/pappso/pappsomspp,True
@@ -843,7 +843,7 @@ https://github.com/ANSSI-FR/tabi,True
 https://github.com/ANSSI-FR/transdep,True
 https://github.com/ANSSI-FR/x509-parser,True
 https://github.com/ANSSI-FR/xsvgen,True
-https://github.com/ARCEP-dev/ARCEP-dev.github.io,False
+https://github.com/ARCEP-dev/ARCEP-dev.github.io,True
 https://github.com/ARCEP-dev/BLOM,True
 https://github.com/ARCEP-dev/adresse,True
 https://github.com/ARCEP-dev/algo_maconnexioninternet,True
@@ -4882,7 +4882,7 @@ https://github.com/pass-culture/pc-monitoring,True
 https://github.com/pass-culture/reverse-proxy,True
 https://github.com/pass-culture/telegraf-buildpack,True
 https://github.com/pass-culture/telegraf-scalingo,True
-https://github.com/picty/concerto,False
+https://github.com/picty/concerto,True
 https://github.com/picty/parsifal,True
 https://github.com/polewebmaedi/MAEDI-Capitales,True
 https://github.com/polewebmaedi/MAEDI-Pays,True
@@ -5315,6 +5315,8 @@ https://gitlab.com/CSTB/mathis,True
 https://gitlab.com/CSTB/modele_donnee_dpe_2020,True
 https://gitlab.com/DREES_code/formulaire_zonage_ars,True
 https://gitlab.com/DREES_code/public/charte_drees,True
+https://gitlab.com/DREES_code/public/etudes/er1094,False
+https://gitlab.com/DREES_code/public/etudes/er1143,False
 https://gitlab.com/DREES_code/public/indicateurs_de_sante,True
 https://gitlab.com/DREES_code/public/indicateurs_qualite_snds,True
 https://gitlab.com/DREES_code/public/openghm,True
@@ -5818,7 +5820,7 @@ https://gitlab.inria.fr/almanach/time-us/corpora-prep,True
 https://gitlab.inria.fr/almanach/time-us/corpus_texte,True
 https://gitlab.inria.fr/almanach/time-us/docs,True
 https://gitlab.inria.fr/almanach/time-us/kraken-models,True
-https://gitlab.inria.fr/almanach/time-us/page2tei_TimeUS,False
+https://gitlab.inria.fr/almanach/time-us/page2tei_TimeUS,True
 https://gitlab.inria.fr/almanach/time-us/schema-tei,True
 https://gitlab.inria.fr/almanach/time-us/statistiques,True
 https://gitlab.inria.fr/almanach/time-us/transkribus-configuration,True
@@ -6129,7 +6131,7 @@ https://gitlab.inria.fr/fec/publications/aff3ct_un_environnement_de_simulation_p
 https://gitlab.inria.fr/fec/publications/an_efficient_portable_and_generic_library_for_successive_cancellation_decoding_of_polar_codes,True
 https://gitlab.inria.fr/fec/publications/beyond_gbps_turbo_decoder_on_multi-core_cpus,True
 https://gitlab.inria.fr/fec/publications/energy_consumption_analysis_of_software_polar_decoders_on_low_power_processors,True
-https://gitlab.inria.fr/fec/publications/fast_simulation_and_prototyping_with_aff3ct,False
+https://gitlab.inria.fr/fec/publications/fast_simulation_and_prototyping_with_aff3ct,True
 https://gitlab.inria.fr/fec/publications/mipp_a_portable_cpp_simd_wrapper_and_its_use_for_error_correction_coding_in_5g_standard,True
 https://gitlab.inria.fr/fedbiomed/client-fedbiomed,True
 https://gitlab.inria.fr/fedbiomed/fed-requests,True
