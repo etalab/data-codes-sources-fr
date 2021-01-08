@@ -15,6 +15,7 @@ https://dci-gitlab.cines.fr/dad/pastis-extern,True
 https://dci-gitlab.cines.fr/dad/sip-builder-parent,True
 https://dci-gitlab.cines.fr/dad/smartapi,True
 https://dci-gitlab.cines.fr/dad/test-sphinx,True
+https://dci-gitlab.cines.fr/dad/vitam-data-test,False
 https://dci-gitlab.cines.fr/dad/vitam-rest-api,True
 https://dci-gitlab.cines.fr/dad/vitam-ui-cea_app_referential_pr1,True
 https://dci-gitlab.cines.fr/dad/vitam-ui-develop,True
@@ -201,6 +202,8 @@ https://forgemia.inra.fr/chemhousebas/parafac,True
 https://forgemia.inra.fr/chemhousebas/vsn,True
 https://forgemia.inra.fr/cirad--monde-apres/reunion_initiatives_urgences,True
 https://forgemia.inra.fr/cirad--monde-apres/teletravail,True
+https://forgemia.inra.fr/couplimspec/couplimspec_20150113,False
+https://forgemia.inra.fr/couplimspec/hyiam,False
 https://forgemia.inra.fr/enseignement-mistea/reports-with-markdown,True
 https://forgemia.inra.fr/epgv/nlgenomesweeper,True
 https://forgemia.inra.fr/fact/fact,True
@@ -262,13 +265,13 @@ https://forgemia.inra.fr/gafl/singularity/pilon,True
 https://forgemia.inra.fr/gafl/singularity/porechop,False
 https://forgemia.inra.fr/gafl/singularity/primer3,True
 https://forgemia.inra.fr/gafl/singularity/quickmerge,True
-https://forgemia.inra.fr/gafl/singularity/racon,False
+https://forgemia.inra.fr/gafl/singularity/racon,True
 https://forgemia.inra.fr/gafl/singularity/root_imaging,True
 https://forgemia.inra.fr/gafl/singularity/rsem,True
 https://forgemia.inra.fr/gafl/singularity/sambamba,True
 https://forgemia.inra.fr/gafl/singularity/samtools,True
 https://forgemia.inra.fr/gafl/singularity/scaff10x,True
-https://forgemia.inra.fr/gafl/singularity/seqkit,False
+https://forgemia.inra.fr/gafl/singularity/seqkit,True
 https://forgemia.inra.fr/gafl/singularity/seqtk,True
 https://forgemia.inra.fr/gafl/singularity/sibelia,True
 https://forgemia.inra.fr/gafl/singularity/singularity_installation,True
@@ -1594,6 +1597,7 @@ https://github.com/Inist-CNRS/lodex-themes,True
 https://github.com/Inist-CNRS/lodex-use-cases,True
 https://github.com/Inist-CNRS/lodex-users-doc,True
 https://github.com/Inist-CNRS/lodex-v1,True
+https://github.com/Inist-CNRS/lodex-webservice,False
 https://github.com/Inist-CNRS/lodex-widget,True
 https://github.com/Inist-CNRS/lodex-widgets,True
 https://github.com/Inist-CNRS/lodex-workers,True
@@ -2776,7 +2780,7 @@ https://github.com/betagouv/loomio,True
 https://github.com/betagouv/ludwig,True
 https://github.com/betagouv/ludwig-api,True
 https://github.com/betagouv/ludwig-ui,True
-https://github.com/betagouv/ma-cantine,False
+https://github.com/betagouv/ma-cantine,True
 https://github.com/betagouv/macantine,True
 https://github.com/betagouv/mas,True
 https://github.com/betagouv/matomo,True
@@ -5807,7 +5811,7 @@ https://gitlab.inria.fr/almanach/mgkit/hmg,True
 https://gitlab.inria.fr/almanach/mgkit/mgcomp,True
 https://gitlab.inria.fr/almanach/mgkit/mgtools,True
 https://gitlab.inria.fr/almanach/mgkit/mgwiki,True
-https://gitlab.inria.fr/almanach/mgkit/parserd,False
+https://gitlab.inria.fr/almanach/mgkit/parserd,True
 https://gitlab.inria.fr/almanach/mgkit/spmg,True
 https://gitlab.inria.fr/almanach/mgkit/tag-utils,True
 https://gitlab.inria.fr/almanach/ner4archives,True
@@ -6563,6 +6567,7 @@ https://gitlab.inria.fr/parallel-replica/qsd.gen.samples,True
 https://gitlab.inria.fr/parseme-fr/mwe-mg,True
 https://gitlab.inria.fr/patate/patate,True
 https://gitlab.inria.fr/pepper/RIOT,True
+https://gitlab.inria.fr/pepper/cnert-2021,False
 https://gitlab.inria.fr/pepper/riot-demo-apps,True
 https://gitlab.inria.fr/piper/anatomydb,True
 https://gitlab.inria.fr/piper/application,True
