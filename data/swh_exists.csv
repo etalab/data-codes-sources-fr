@@ -77,6 +77,7 @@ https://forge.grandlyon.com/pocs/introduction-au-langage-python-2,True
 https://forge.grandlyon.com/solidarite/monparcourssocial/mps-usager,True
 https://forge.grandlyon.com/systemes-dinformation/gat_gatling,True
 https://forge.grandlyon.com/systemes-dinformation/pasi-portail-d-acces-au-si,True
+https://forge.grandlyon.com/systemes-dinformation/project-template/gitlabci-docker,False
 https://forge.grandlyon.com/systemes-dinformation/project-template/sdk-go,True
 https://forge.grandlyon.com/web-et-numerique/llle_project/ecolyo,True
 https://forge.grandlyon.com/web-et-numerique/llle_project/egl-konnector,True
@@ -1264,6 +1265,7 @@ https://github.com/EDS-APHP/uima-aphp,True
 https://github.com/EDS-APHP/yarn-manager,True
 https://github.com/Envinorma/arretes_ministeriels,True
 https://github.com/Envinorma/envinorma-data,True
+https://github.com/Envinorma/envinorma-web,False
 https://github.com/Envinorma/envinorma.github.io,True
 https://github.com/EsupPortail/CMoodle-proxy-portlet,True
 https://github.com/EsupPortail/Esup-Pod,True
@@ -5372,7 +5374,7 @@ https://gitlab.com/fabnum-minarm/e-chauffeur/dashboard,True
 https://gitlab.com/fabnum-minarm/e-chauffeur/driver,True
 https://gitlab.com/fabnum-minarm/e-chauffeur/e-chauffeur,True
 https://gitlab.com/fabnum-minarm/e-chauffeur/lib-vue,True
-https://gitlab.com/fabnum-minarm/e-chauffeur/navette,False
+https://gitlab.com/fabnum-minarm/e-chauffeur/navette,True
 https://gitlab.com/fabnum-minarm/e-chauffeur/user,True
 https://gitlab.com/fabnum-minarm/igloo/docker-images,True
 https://gitlab.com/fabnum-minarm/igloo/docs,True
@@ -5728,7 +5730,7 @@ https://gitlab.inria.fr/almanach/SYNTAX,True
 https://gitlab.inria.fr/almanach/alCorpusManagement/corpus_proc,True
 https://gitlab.inria.fr/almanach/alCorpusManagement/error_mining,True
 https://gitlab.inria.fr/almanach/alCorpusManagement/newsprocess,True
-https://gitlab.inria.fr/almanach/alCorpusManagement/ogre,False
+https://gitlab.inria.fr/almanach/alCorpusManagement/ogre,True
 https://gitlab.inria.fr/almanach/alOldies/alpage_en,True
 https://gitlab.inria.fr/almanach/alOldies/installatoll,False
 https://gitlab.inria.fr/almanach/alOldies/lexed,True
@@ -5841,7 +5843,7 @@ https://gitlab.inria.fr/auctus/panda/franka_control,True
 https://gitlab.inria.fr/auctus/panda/franka_description,True
 https://gitlab.inria.fr/auctus/panda/panda_traj,True
 https://gitlab.inria.fr/auctus/panda/rtt_panda/rtt_ros_kdl_tools,True
-https://gitlab.inria.fr/auctus/panda/torque_qp,False
+https://gitlab.inria.fr/auctus/panda/torque_qp,True
 https://gitlab.inria.fr/auctus/panda/velocity_qp,True
 https://gitlab.inria.fr/auctus/papers/setbasedrobotcapabilitiesestimation2020/code_public,True
 https://gitlab.inria.fr/aviz/paohvis,True
