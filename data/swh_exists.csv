@@ -683,6 +683,7 @@ https://git.unistra.fr/s2/p21,True
 https://git.unistra.fr/s2/p21-mini-projet,True
 https://git.unistra.fr/s2/s21,True
 https://git.unistra.fr/s2/t22,True
+https://git.unistra.fr/s3/a31-projet,False
 https://git.unistra.fr/s3/barre-oblique-v3/t432_sab20_t3_b,True
 https://git.unistra.fr/s3/d31-projet,True
 https://git.unistra.fr/s3/m31-projet-sim,True
@@ -2440,7 +2441,7 @@ https://github.com/abes-esr/fne-batch,True
 https://github.com/abes-esr/idref-api,True
 https://github.com/abes-esr/item-api,True
 https://github.com/abes-esr/item-client,True
-https://github.com/abes-esr/periscope-back,False
+https://github.com/abes-esr/periscope-back,True
 https://github.com/abes-esr/periscope-front,True
 https://github.com/abes-esr/periscope-poc-vue-js,True
 https://github.com/abes-esr/periscope-poc-vue-js-latest,False
@@ -5751,7 +5752,7 @@ https://gitlab.inria.fr/almanach/alOldies/perlmod/dict-lexed,True
 https://gitlab.inria.fr/almanach/alOldies/perlmod/lingua-features,True
 https://gitlab.inria.fr/almanach/alOldies/perlmod/lingua-maf,True
 https://gitlab.inria.fr/almanach/alOldies/perlmod/lingua-matcher,True
-https://gitlab.inria.fr/almanach/alOldies/perlmod/lingua-tagset,False
+https://gitlab.inria.fr/almanach/alOldies/perlmod/lingua-tagset,True
 https://gitlab.inria.fr/almanach/alOldies/scribo,True
 https://gitlab.inria.fr/almanach/alOldies/sxlfg,True
 https://gitlab.inria.fr/almanach/alOldies/sxpipe-data,True
@@ -5785,7 +5786,7 @@ https://gitlab.inria.fr/almanach/alexina/morphalou_alexina,True
 https://gitlab.inria.fr/almanach/alexina/ofrlex,True
 https://gitlab.inria.fr/almanach/alexina/ofrlex-modifier,True
 https://gitlab.inria.fr/almanach/alexina/perlex,True
-https://gitlab.inria.fr/almanach/alexina/pollex,False
+https://gitlab.inria.fr/almanach/alexina/pollex,True
 https://gitlab.inria.fr/almanach/alexina/prolex_alexina,False
 https://gitlab.inria.fr/almanach/alexina/rulex,True
 https://gitlab.inria.fr/almanach/alexina/saldo,True
@@ -6572,7 +6573,7 @@ https://gitlab.inria.fr/parallel-replica/qsd.gen.samples,True
 https://gitlab.inria.fr/parseme-fr/mwe-mg,True
 https://gitlab.inria.fr/patate/patate,True
 https://gitlab.inria.fr/pepper/RIOT,True
-https://gitlab.inria.fr/pepper/cnert-2021,False
+https://gitlab.inria.fr/pepper/cnert-2021,True
 https://gitlab.inria.fr/pepper/riot-demo-apps,True
 https://gitlab.inria.fr/piper/anatomydb,True
 https://gitlab.inria.fr/piper/application,True
