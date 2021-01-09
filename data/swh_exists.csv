@@ -856,7 +856,7 @@ https://github.com/ARCEP-dev/basePopDom,True
 https://github.com/ARCEP-dev/dataTools,True
 https://github.com/ARCEP-dev/disPorts,True
 https://github.com/ARCEP-dev/geocodage_ban,True
-https://github.com/ARCEP-dev/historiquePannes,False
+https://github.com/ARCEP-dev/historiquePannes,True
 https://github.com/ARCEP-dev/monReseauMobile,True
 https://github.com/ARCEP-dev/regex,True
 https://github.com/ARCEP-dev/route500_improved,True
@@ -6288,7 +6288,7 @@ https://gitlab.inria.fr/grew/grew_stat,True
 https://gitlab.inria.fr/grew/grew_web,True
 https://gitlab.inria.fr/grew/libcaml-grew,True
 https://gitlab.inria.fr/grew/python,True
-https://gitlab.inria.fr/grew/udtoeud,False
+https://gitlab.inria.fr/grew/udtoeud,True
 https://gitlab.inria.fr/grid5000/ai_tutorial,True
 https://gitlab.inria.fr/grid5000/bigdata-tutorial,True
 https://gitlab.inria.fr/grid5000/ceph5k,True
