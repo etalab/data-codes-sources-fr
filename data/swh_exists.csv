@@ -202,7 +202,7 @@ https://forgemia.inra.fr/chemhousebas/parafac,True
 https://forgemia.inra.fr/chemhousebas/vsn,True
 https://forgemia.inra.fr/cirad--monde-apres/reunion_initiatives_urgences,True
 https://forgemia.inra.fr/cirad--monde-apres/teletravail,True
-https://forgemia.inra.fr/couplimspec/couplimspec_20150113,False
+https://forgemia.inra.fr/couplimspec/couplimspec_20150113,True
 https://forgemia.inra.fr/couplimspec/hyiam,False
 https://forgemia.inra.fr/enseignement-mistea/reports-with-markdown,True
 https://forgemia.inra.fr/epgv/nlgenomesweeper,True
@@ -5676,7 +5676,7 @@ https://gitlab.inria.fr/Seshat/unity,True
 https://gitlab.inria.fr/Seshat/webgl,True
 https://gitlab.inria.fr/Simbiot/common/public/utilities/drone-autonome,True
 https://gitlab.inria.fr/Simbiot/common/public/utilities/openvr_ros_docker,True
-https://gitlab.inria.fr/Simbiot/common/public/utilities/ros-optitrack-basics,False
+https://gitlab.inria.fr/Simbiot/common/public/utilities/ros-optitrack-basics,True
 https://gitlab.inria.fr/Simbiot/common/public/utilities/ros-remote,True
 https://gitlab.inria.fr/Simbiot/mecsyco/mecsycocpp,True
 https://gitlab.inria.fr/Simbiot/mecsyco/mecsycodsl,True
@@ -5779,7 +5779,7 @@ https://gitlab.inria.fr/almanach/alexina/leffe-spmg,True
 https://gitlab.inria.fr/almanach/alexina/lefff,True
 https://gitlab.inria.fr/almanach/alexina/lefff-frmg,True
 https://gitlab.inria.fr/almanach/alexina/leffga,True
-https://gitlab.inria.fr/almanach/alexina/leffp,False
+https://gitlab.inria.fr/almanach/alexina/leffp,True
 https://gitlab.inria.fr/almanach/alexina/lexconn,True
 https://gitlab.inria.fr/almanach/alexina/morph_it,True
 https://gitlab.inria.fr/almanach/alexina/morphalou_alexina,True
@@ -5799,7 +5799,7 @@ https://gitlab.inria.fr/almanach/alpi,True
 https://gitlab.inria.fr/almanach/dyalog/dyalog,True
 https://gitlab.inria.fr/almanach/dyalog/dyalog-mst,True
 https://gitlab.inria.fr/almanach/dyalog/dyalog-sqlite,True
-https://gitlab.inria.fr/almanach/dyalog/dyalog-sr,False
+https://gitlab.inria.fr/almanach/dyalog/dyalog-sr,True
 https://gitlab.inria.fr/almanach/dyalog/dyalog-xml,True
 https://gitlab.inria.fr/almanach/lectaurep/documentation,True
 https://gitlab.inria.fr/almanach/lectaurep/escriptorium,True
@@ -6412,7 +6412,7 @@ https://gitlab.inria.fr/mecsci/grains/alignement-sequences-adn,True
 https://gitlab.inria.fr/mecsci/grains/alignement-sequences-adn-english,True
 https://gitlab.inria.fr/mecsci/grains/automate-etats-finis-multiple-3,True
 https://gitlab.inria.fr/mecsci/grains/carpasinivores,True
-https://gitlab.inria.fr/mecsci/grains/carpasinivores-limejs,False
+https://gitlab.inria.fr/mecsci/grains/carpasinivores-limejs,True
 https://gitlab.inria.fr/mecsci/grains/codes-secrets,True
 https://gitlab.inria.fr/mecsci/grains/creation-arn,True
 https://gitlab.inria.fr/mecsci/grains/crepes,True
