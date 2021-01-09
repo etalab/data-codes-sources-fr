@@ -15,7 +15,7 @@ https://dci-gitlab.cines.fr/dad/pastis-extern,True
 https://dci-gitlab.cines.fr/dad/sip-builder-parent,True
 https://dci-gitlab.cines.fr/dad/smartapi,True
 https://dci-gitlab.cines.fr/dad/test-sphinx,True
-https://dci-gitlab.cines.fr/dad/vitam-data-test,False
+https://dci-gitlab.cines.fr/dad/vitam-data-test,True
 https://dci-gitlab.cines.fr/dad/vitam-rest-api,True
 https://dci-gitlab.cines.fr/dad/vitam-ui-cea_app_referential_pr1,True
 https://dci-gitlab.cines.fr/dad/vitam-ui-develop,True
@@ -4565,7 +4565,7 @@ https://github.com/metwork-framework/quickstart,True
 https://github.com/metwork-framework/resources,True
 https://github.com/metwork-framework/telegraf-unixsocket-python-client,True
 https://github.com/metwork-framework/test_triggered_with_githubactions,False
-https://github.com/metwork-framework/test_triggers_with_githubactions,False
+https://github.com/metwork-framework/test_triggers_with_githubactions,True
 https://github.com/metwork-framework/testrepo,True
 https://github.com/metwork-framework/testrepo2,True
 https://github.com/metwork-framework/xattrfile,True
@@ -5608,7 +5608,7 @@ https://gitlab.inria.fr/GUDHI/test_docker_debug,True
 https://gitlab.inria.fr/GardiNet/dragonnet,True
 https://gitlab.inria.fr/GardiNet/liblc,True
 https://gitlab.inria.fr/GruLab/s-cgn,True
-https://gitlab.inria.fr/GruLab/s-gcn,False
+https://gitlab.inria.fr/GruLab/s-gcn,True
 https://gitlab.inria.fr/IOTLanguage/IoTCompilertoBIP,True
 https://gitlab.inria.fr/InBio/Public/efaecalis-ratio,True
 https://gitlab.inria.fr/InBio/Public/fwd_ad,True
