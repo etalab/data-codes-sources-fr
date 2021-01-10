@@ -1270,7 +1270,7 @@ https://github.com/EDS-APHP/uima-aphp,True
 https://github.com/EDS-APHP/yarn-manager,True
 https://github.com/Envinorma/arretes_ministeriels,True
 https://github.com/Envinorma/envinorma-data,True
-https://github.com/Envinorma/envinorma-web,False
+https://github.com/Envinorma/envinorma-web,True
 https://github.com/Envinorma/envinorma.github.io,True
 https://github.com/EsupPortail/CMoodle-proxy-portlet,True
 https://github.com/EsupPortail/Esup-Pod,True
@@ -3206,7 +3206,7 @@ https://github.com/cortext/wostext,True
 https://github.com/cortext/wp-theme,True
 https://github.com/cstb/citygml-energy,True
 https://github.com/cstb/conan-package-tools,True
-https://github.com/cstb/geocodage_ban,False
+https://github.com/cstb/geocodage_ban,True
 https://github.com/cstb/ifc-sdk,True
 https://github.com/cstb/jupyterhub-docker,True
 https://github.com/cstb/pomegranate,True
@@ -6032,7 +6032,7 @@ https://gitlab.inria.fr/dexms/dexidl,True
 https://gitlab.inria.fr/dexms/service,True
 https://gitlab.inria.fr/dexms/website,True
 https://gitlab.inria.fr/dh-projects/aspyre-gt,True
-https://gitlab.inria.fr/dh-projects/aspyre-gui,False
+https://gitlab.inria.fr/dh-projects/aspyre-gui,True
 https://gitlab.inria.fr/dh-projects/choppy,True
 https://gitlab.inria.fr/dh-projects/kraken-benchmark,True
 https://gitlab.inria.fr/dh-projects/kraken-models,True
