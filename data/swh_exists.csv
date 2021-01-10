@@ -104,7 +104,7 @@ https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.gran
 https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/web-portal/components/services/organizations,True
 https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/web-portal/components/services/resources-helper,True
 https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/web-portal/components/services/reuses,True
-https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/web-portal/components/services/social-media-share-helper,False
+https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/web-portal/components/services/social-media-share-helper,True
 https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/web-portal/components/tools/minio-master-slave-mirror,True
 https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/web-portal/documentation,True
 https://forge.univ-lyon1.fr/LETU/LETU,True
@@ -6368,7 +6368,7 @@ https://gitlab.inria.fr/learninglab/guidelines-ill,True
 https://gitlab.inria.fr/learninglab/mooc-bioinfo,True
 https://gitlab.inria.fr/learninglab/mooc-forum-plugin,True
 https://gitlab.inria.fr/learninglab/mooc-forums-theme,True
-https://gitlab.inria.fr/learninglab/mooc-iot/mooc-iot-ressources,False
+https://gitlab.inria.fr/learninglab/mooc-iot/mooc-iot-ressources,True
 https://gitlab.inria.fr/learninglab/mooc-mr-notebooks,True
 https://gitlab.inria.fr/learninglab/mooc-rr/mooc-rr-apps,True
 https://gitlab.inria.fr/learninglab/mooc-rr/mooc-rr-modele,True
@@ -6581,7 +6581,7 @@ https://gitlab.inria.fr/piper/child,True
 https://gitlab.inria.fr/piper/child_pedestrian,True
 https://gitlab.inria.fr/piper/misc_models,True
 https://gitlab.inria.fr/piper/sofa/Anatomy,True
-https://gitlab.inria.fr/piper/sofa/BranchingImage,False
+https://gitlab.inria.fr/piper/sofa/BranchingImage,True
 https://gitlab.inria.fr/piper/sofa/LinearSubspace,True
 https://gitlab.inria.fr/piper/viva,True
 https://gitlab.inria.fr/piy/piy,True
