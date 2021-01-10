@@ -372,7 +372,7 @@ https://forgemia.inra.fr/metexplore/metx/metx-basicline,True
 https://forgemia.inra.fr/metexplore/metx/metx-bubbleplot,True
 https://forgemia.inra.fr/metexplore/metx/metx-enrichement,True
 https://forgemia.inra.fr/metexplore/metx/metx-grid,True
-https://forgemia.inra.fr/metexplore/metx/metx-scatterplot,False
+https://forgemia.inra.fr/metexplore/metx/metx-scatterplot,True
 https://forgemia.inra.fr/metexplore/tutorialmet4j,True
 https://forgemia.inra.fr/migale/formations,True
 https://forgemia.inra.fr/olivier.bonnefon/mse,True
@@ -667,6 +667,7 @@ https://git.unistra.fr/pastore.ritzenthaler.p4a/P4a,True
 https://git.unistra.fr/peven/Coffee3D,True
 https://git.unistra.fr/phun/phun.pages.unistra.fr,True
 https://git.unistra.fr/presUni/HAJ18-T4-D,True
+https://git.unistra.fr/project-master/pro-master,False
 https://git.unistra.fr/projet-a31-connect4/connect4,True
 https://git.unistra.fr/projet-integrateur-grp-3/frontend,True
 https://git.unistra.fr/pub/SupportPortal-aid,True
@@ -2954,7 +2955,7 @@ https://github.com/betagouv/with-react-query,True
 https://github.com/betagouv/with-react-redux-login,True
 https://github.com/betagouv/zam,True
 https://github.com/caml-pkcs11/caml-crush,True
-https://github.com/caml-pkcs11/opkcs11-tool,False
+https://github.com/caml-pkcs11/opkcs11-tool,True
 https://github.com/caradoc-org/caradoc,True
 https://github.com/cea-hpc/Hercule,True
 https://github.com/cea-hpc/Modane,True
@@ -5806,7 +5807,7 @@ https://gitlab.inria.fr/almanach/lectaurep/escriptorium,True
 https://gitlab.inria.fr/almanach/lectaurep/models,True
 https://gitlab.inria.fr/almanach/lectaurep/pipeline,True
 https://gitlab.inria.fr/almanach/mgkit/biomg,True
-https://gitlab.inria.fr/almanach/mgkit/depgraph,False
+https://gitlab.inria.fr/almanach/mgkit/depgraph,True
 https://gitlab.inria.fr/almanach/mgkit/dyalog-expander,True
 https://gitlab.inria.fr/almanach/mgkit/emg,True
 https://gitlab.inria.fr/almanach/mgkit/forest_utils,True
@@ -5910,7 +5911,7 @@ https://gitlab.inria.fr/bptraffic/star-ips,True
 https://gitlab.inria.fr/cado-nfs/cado-nfs,True
 https://gitlab.inria.fr/cado-nfs/records,True
 https://gitlab.inria.fr/capsid-public/conda/runner-build,True
-https://gitlab.inria.fr/capsid-public/conda/runner-deploy,False
+https://gitlab.inria.fr/capsid-public/conda/runner-deploy,True
 https://gitlab.inria.fr/capsid.crates/lib3dmol,True
 https://gitlab.inria.fr/causality/causal-ocaml,True
 https://gitlab.inria.fr/causality/causality-monad,True
@@ -6431,7 +6432,7 @@ https://gitlab.inria.fr/mecsci/grains/snappy,True
 https://gitlab.inria.fr/mecsci/grains/tables-hachage,True
 https://gitlab.inria.fr/mecsci/grains/tetris-botte,True
 https://gitlab.inria.fr/mecsci/grains/tetris-botte-serv,True
-https://gitlab.inria.fr/mecsci/grains/turing-2d,False
+https://gitlab.inria.fr/mecsci/grains/turing-2d,True
 https://gitlab.inria.fr/mecsci/grains/voronoi-diagramme,True
 https://gitlab.inria.fr/mecsci/grains/voronoi-jeu,True
 https://gitlab.inria.fr/mecsci/grains/zero,True
