@@ -2908,6 +2908,7 @@ https://github.com/betagouv/role-ansible,True
 https://github.com/betagouv/secretariat,True
 https://github.com/betagouv/securite-numerique-agile,True
 https://github.com/betagouv/sejour,True
+https://github.com/betagouv/service-national-universel,False
 https://github.com/betagouv/siecle-api,True
 https://github.com/betagouv/siecle-xml_mapper,True
 https://github.com/betagouv/signalconso-loadtest,True
@@ -6303,6 +6304,7 @@ https://gitlab.inria.fr/grid5000/g5k-postinstall,True
 https://gitlab.inria.fr/grid5000/grid5000-code,True
 https://gitlab.inria.fr/grid5000/grub-efi-arm64-netdir,True
 https://gitlab.inria.fr/grid5000/i40e,True
+https://gitlab.inria.fr/grid5000/isc-dhcp,False
 https://gitlab.inria.fr/grid5000/kadeploy,True
 https://gitlab.inria.fr/grid5000/kadeploy3,False
 https://gitlab.inria.fr/grid5000/kameleon_g5k_custom_recipes_examples,True
