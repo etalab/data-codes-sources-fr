@@ -1604,6 +1604,7 @@ https://github.com/Inist-CNRS/lodex-webservice,False
 https://github.com/Inist-CNRS/lodex-widget,True
 https://github.com/Inist-CNRS/lodex-widgets,True
 https://github.com/Inist-CNRS/lodex-workers,True
+https://github.com/Inist-CNRS/lodex-workers-python,False
 https://github.com/Inist-CNRS/log.io-server-parser,True
 https://github.com/Inist-CNRS/meta-doi,True
 https://github.com/Inist-CNRS/node-atom-writer,True
@@ -5745,7 +5746,7 @@ https://gitlab.inria.fr/almanach/alCorpusManagement/ogre,True
 https://gitlab.inria.fr/almanach/alOldies/alpage_en,True
 https://gitlab.inria.fr/almanach/alOldies/installatoll,False
 https://gitlab.inria.fr/almanach/alOldies/lexed,True
-https://gitlab.inria.fr/almanach/alOldies/mafd,False
+https://gitlab.inria.fr/almanach/alOldies/mafd,True
 https://gitlab.inria.fr/almanach/alOldies/nomos,False
 https://gitlab.inria.fr/almanach/alOldies/perlmod/bundle-atoll,True
 https://gitlab.inria.fr/almanach/alOldies/perlmod/dict-fsa,True
