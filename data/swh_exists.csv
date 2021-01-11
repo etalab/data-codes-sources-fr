@@ -262,7 +262,7 @@ https://forgemia.inra.fr/gafl/singularity/nudup,True
 https://forgemia.inra.fr/gafl/singularity/pear,True
 https://forgemia.inra.fr/gafl/singularity/picard,True
 https://forgemia.inra.fr/gafl/singularity/pilon,True
-https://forgemia.inra.fr/gafl/singularity/porechop,False
+https://forgemia.inra.fr/gafl/singularity/porechop,True
 https://forgemia.inra.fr/gafl/singularity/primer3,True
 https://forgemia.inra.fr/gafl/singularity/quickmerge,True
 https://forgemia.inra.fr/gafl/singularity/racon,True
@@ -4754,6 +4754,7 @@ https://github.com/openfisca/tracker,True
 https://github.com/openfisca/tutorial,True
 https://github.com/openfun/ansible-role-bigbluebutton,True
 https://github.com/openfun/arnold,True
+https://github.com/openfun/arnold-apps,False
 https://github.com/openfun/ashley,True
 https://github.com/openfun/bbb-stress-test,True
 https://github.com/openfun/celery-redis-sentinel,True
@@ -5734,7 +5735,7 @@ https://gitlab.inria.fr/allgo/allgo,True
 https://gitlab.inria.fr/allgo/allgo-blog,True
 https://gitlab.inria.fr/allgo/allgo.inria.fr,True
 https://gitlab.inria.fr/allgo/api-clients/client_spec,True
-https://gitlab.inria.fr/allgo/api-clients/python_client,False
+https://gitlab.inria.fr/allgo/api-clients/python_client,True
 https://gitlab.inria.fr/allgo/doc,True
 https://gitlab.inria.fr/allgo/notebooks/demo_bw,True
 https://gitlab.inria.fr/allgo/notebooks/ndsafir,True
@@ -5745,7 +5746,7 @@ https://gitlab.inria.fr/almanach/alCorpusManagement/error_mining,True
 https://gitlab.inria.fr/almanach/alCorpusManagement/newsprocess,True
 https://gitlab.inria.fr/almanach/alCorpusManagement/ogre,True
 https://gitlab.inria.fr/almanach/alOldies/alpage_en,True
-https://gitlab.inria.fr/almanach/alOldies/installatoll,False
+https://gitlab.inria.fr/almanach/alOldies/installatoll,True
 https://gitlab.inria.fr/almanach/alOldies/lexed,True
 https://gitlab.inria.fr/almanach/alOldies/mafd,True
 https://gitlab.inria.fr/almanach/alOldies/nomos,False
@@ -6762,6 +6763,7 @@ https://gitlab.inria.fr/these-bxi/r-util,True
 https://gitlab.inria.fr/these-bxi/s4bxi-cmake-modules,True
 https://gitlab.inria.fr/these-bxi/s4bxi-config-generator,True
 https://gitlab.inria.fr/these-bxi/s4bxi-log-viewer,True
+https://gitlab.inria.fr/these-bxi/s4bxi-runner,False
 https://gitlab.inria.fr/thoth/python-spams,True
 https://gitlab.inria.fr/thoth/spams-devel,True
 https://gitlab.inria.fr/tnfs-alpha/alpha,True
