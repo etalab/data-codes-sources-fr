@@ -2446,6 +2446,7 @@ https://github.com/abes-esr/fne-batch,True
 https://github.com/abes-esr/idref-api,True
 https://github.com/abes-esr/item-api,True
 https://github.com/abes-esr/item-client,True
+https://github.com/abes-esr/licencesnationales-front,False
 https://github.com/abes-esr/ln-front,False
 https://github.com/abes-esr/periscope-back,True
 https://github.com/abes-esr/periscope-front,True
@@ -3607,7 +3608,7 @@ https://github.com/etalab/api-codes-sources-fr,True
 https://github.com/etalab/api-geo,True
 https://github.com/etalab/api-geocode,True
 https://github.com/etalab/api-rpg,True
-https://github.com/etalab/api-scpc,False
+https://github.com/etalab/api-scpc,True
 https://github.com/etalab/api-urbanisme,True
 https://github.com/etalab/apicarto,True
 https://github.com/etalab/askbot-etalab-skin,True
@@ -4048,6 +4049,7 @@ https://github.com/inrae/dbexportmodel,True
 https://github.com/inrae/diades.atlas,True
 https://github.com/inrae/filo-docker,True
 https://github.com/inrae/filo-science,True
+https://github.com/inrae/jupyterhub-vm,False
 https://github.com/istex/GitManager,True
 https://github.com/istex/Pub2TEI,True
 https://github.com/istex/co-dothejob,True
@@ -5571,7 +5573,7 @@ https://gitlab.huma-num.fr/txm/txm-ressources,True
 https://gitlab.huma-num.fr/txm/txm-software,True
 https://gitlab.huma-num.fr/txm/txm-vm,True
 https://gitlab.huma-num.fr/umr-idees/webscraping/Flight-Scrapping,True
-https://gitlab.huma-num.fr/umr-idees/webscraping/agentscrapping,False
+https://gitlab.huma-num.fr/umr-idees/webscraping/agentscrapping,True
 https://gitlab.huma-num.fr/umr-idees/webscraping/geocache-scrapping,True
 https://gitlab.in2p3.fr/Enssib/abcdev,True
 https://gitlab.in2p3.fr/Enssib/bibliotouch,True
@@ -6747,6 +6749,7 @@ https://gitlab.inria.fr/star-explain/opam-repository,True
 https://gitlab.inria.fr/starpu/starpu,True
 https://gitlab.inria.fr/starpu/starpu-debian,True
 https://gitlab.inria.fr/starpu/starpu.gitlabpages.inria.fr,True
+https://gitlab.inria.fr/statify_public/anzj-crash,False
 https://gitlab.inria.fr/steep/urbansprawl/urbansprawl-lib,True
 https://gitlab.inria.fr/stopcovid19/accueil,True
 https://gitlab.inria.fr/stopcovid19/robert-client-api-spec,True
