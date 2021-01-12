@@ -1733,6 +1733,8 @@ https://github.com/InseeFrLab/Shelly,True
 https://github.com/InseeFrLab/Ubuntu-vnc-base,True
 https://github.com/InseeFrLab/Universe-Datascience,True
 https://github.com/InseeFrLab/Universe-Formations,True
+https://github.com/InseeFrLab/VTL-Lab,False
+https://github.com/InseeFrLab/VTL-Lab-Resources,False
 https://github.com/InseeFrLab/apinsee,True
 https://github.com/InseeFrLab/aws.s3,True
 https://github.com/InseeFrLab/blazingsql,True
@@ -2446,7 +2448,7 @@ https://github.com/abes-esr/fne-batch,True
 https://github.com/abes-esr/idref-api,True
 https://github.com/abes-esr/item-api,True
 https://github.com/abes-esr/item-client,True
-https://github.com/abes-esr/licencesnationales-front,False
+https://github.com/abes-esr/licencesnationales-front,True
 https://github.com/abes-esr/ln-front,False
 https://github.com/abes-esr/periscope-back,True
 https://github.com/abes-esr/periscope-front,True
@@ -5379,6 +5381,7 @@ https://gitlab.com/dreal-datalab/drealdown,True
 https://gitlab.com/dreal-datalab/drealthemes,True
 https://gitlab.com/dreal-datalab/enr_reseaux_teo,True
 https://gitlab.com/dreal-datalab/essai,True
+https://gitlab.com/dreal-datalab/indicateurs.territoriaux.datamart,False
 https://gitlab.com/dreal-datalab/indicateurs_territoriaux,True
 https://gitlab.com/dreal-datalab/maps,True
 https://gitlab.com/dreal-datalab/nitrates,True
@@ -6967,6 +6970,7 @@ https://gitlab.orfeo-toolbox.org/remote_modules/lsd-cmla,True
 https://gitlab.orfeo-toolbox.org/remote_modules/otb-slic,True
 https://gitlab.orfeo-toolbox.org/remote_modules/remote-module-template,True
 https://gitlab.orfeo-toolbox.org/remote_modules/wasp,True
+https://gitlab.orfeo-toolbox.org/s1-tiling/normlim_sigma0,False
 https://gitlab.orfeo-toolbox.org/s1-tiling/s1tiling,True
 https://gitlab.orfeo-toolbox.org/s1-tiling/s1tilingsupportapplications,True
 https://gitlab.ow2.org/lemonldap-ng/lemonldap-ng,True
