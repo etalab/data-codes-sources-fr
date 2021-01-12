@@ -203,7 +203,7 @@ https://forgemia.inra.fr/chemhousebas/vsn,True
 https://forgemia.inra.fr/cirad--monde-apres/reunion_initiatives_urgences,True
 https://forgemia.inra.fr/cirad--monde-apres/teletravail,True
 https://forgemia.inra.fr/couplimspec/couplimspec_20150113,True
-https://forgemia.inra.fr/couplimspec/hyiam,False
+https://forgemia.inra.fr/couplimspec/hyiam,True
 https://forgemia.inra.fr/enseignement-mistea/reports-with-markdown,True
 https://forgemia.inra.fr/epgv/nlgenomesweeper,True
 https://forgemia.inra.fr/fact/fact,True
@@ -667,7 +667,7 @@ https://git.unistra.fr/pastore.ritzenthaler.p4a/P4a,True
 https://git.unistra.fr/peven/Coffee3D,True
 https://git.unistra.fr/phun/phun.pages.unistra.fr,True
 https://git.unistra.fr/presUni/HAJ18-T4-D,True
-https://git.unistra.fr/project-master/pro-master,False
+https://git.unistra.fr/project-master/pro-master,True
 https://git.unistra.fr/projet-a31-connect4/connect4,True
 https://git.unistra.fr/projet-integrateur-grp-3/frontend,True
 https://git.unistra.fr/pub/SupportPortal-aid,True
@@ -3602,6 +3602,7 @@ https://github.com/etalab/api-codes-sources-fr,True
 https://github.com/etalab/api-geo,True
 https://github.com/etalab/api-geocode,True
 https://github.com/etalab/api-rpg,True
+https://github.com/etalab/api-scpc,False
 https://github.com/etalab/api-urbanisme,True
 https://github.com/etalab/apicarto,True
 https://github.com/etalab/askbot-etalab-skin,True
@@ -5791,7 +5792,7 @@ https://gitlab.inria.fr/almanach/alexina/ofrlex,True
 https://gitlab.inria.fr/almanach/alexina/ofrlex-modifier,True
 https://gitlab.inria.fr/almanach/alexina/perlex,True
 https://gitlab.inria.fr/almanach/alexina/pollex,True
-https://gitlab.inria.fr/almanach/alexina/prolex_alexina,False
+https://gitlab.inria.fr/almanach/alexina/prolex_alexina,True
 https://gitlab.inria.fr/almanach/alexina/rulex,True
 https://gitlab.inria.fr/almanach/alexina/saldo,True
 https://gitlab.inria.fr/almanach/alexina/sklex,True
