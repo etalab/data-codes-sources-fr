@@ -1,4 +1,5 @@
 origin_url,is_available
+https://dci-gitlab.cines.fr/dad/archive-api,False
 https://dci-gitlab.cines.fr/dad/cines-vitam-plugins/ark-griffin,True
 https://dci-gitlab.cines.fr/dad/cines-vitam-plugins/bir-plugin,True
 https://dci-gitlab.cines.fr/dad/cines-vitam-plugins/format-validator-plugin,True
@@ -189,6 +190,7 @@ https://forgemia.inra.fr/bibliome/bionlp-st-py,True
 https://forgemia.inra.fr/bibliome/formation-alvisnlp,True
 https://forgemia.inra.fr/bibliome/pesv-tm,True
 https://forgemia.inra.fr/biocom/biocom-pipe,True
+https://forgemia.inra.fr/biocom/biocom-pipe_manual,False
 https://forgemia.inra.fr/bioger/django-custom-user,True
 https://forgemia.inra.fr/bios4biol/bioinfo-utils,True
 https://forgemia.inra.fr/bios4biol/workflows,True
@@ -248,7 +250,7 @@ https://forgemia.inra.fr/gafl/singularity/freebayes,True
 https://forgemia.inra.fr/gafl/singularity/gatk4,True
 https://forgemia.inra.fr/gafl/singularity/genometools,True
 https://forgemia.inra.fr/gafl/singularity/hisat,True
-https://forgemia.inra.fr/gafl/singularity/htseq,False
+https://forgemia.inra.fr/gafl/singularity/htseq,True
 https://forgemia.inra.fr/gafl/singularity/interpro,True
 https://forgemia.inra.fr/gafl/singularity/minimap2,True
 https://forgemia.inra.fr/gafl/singularity/multiqc,True
@@ -1999,7 +2001,7 @@ https://github.com/OpenEdition/bilbo2,True
 https://github.com/OpenEdition/checklist,True
 https://github.com/OpenEdition/checklist-lodel,True
 https://github.com/OpenEdition/counter5-openedition,True
-https://github.com/OpenEdition/counter5-openedition.localized,False
+https://github.com/OpenEdition/counter5-openedition.localized,True
 https://github.com/OpenEdition/echo,True
 https://github.com/OpenEdition/kbart-openedition,True
 https://github.com/OpenEdition/lodel,True
@@ -2424,6 +2426,7 @@ https://github.com/X-DataInitiative/tick,True
 https://github.com/X-DataInitiative/tick-datasets,True
 https://github.com/X-DataInitiative/tick_appveyor,True
 https://github.com/X-DataInitiative/tick_archive,True
+https://github.com/abes-esr/LnEvent,False
 https://github.com/abes-esr/abes-format-pivot,True
 https://github.com/abes-esr/abes-hello,True
 https://github.com/abes-esr/abes-hello-back,True
@@ -2443,6 +2446,7 @@ https://github.com/abes-esr/fne-batch,True
 https://github.com/abes-esr/idref-api,True
 https://github.com/abes-esr/item-api,True
 https://github.com/abes-esr/item-client,True
+https://github.com/abes-esr/ln-front,False
 https://github.com/abes-esr/periscope-back,True
 https://github.com/abes-esr/periscope-front,True
 https://github.com/abes-esr/periscope-poc-vue-js,True
@@ -2682,6 +2686,7 @@ https://github.com/betagouv/co-constuisons-bot,True
 https://github.com/betagouv/codimd,True
 https://github.com/betagouv/codimd-server,True
 https://github.com/betagouv/coding-dojos,True
+https://github.com/betagouv/comobi,False
 https://github.com/betagouv/comobi_valberg,True
 https://github.com/betagouv/competences-pro,True
 https://github.com/betagouv/competences-pro-orchestrateur,True
@@ -2908,7 +2913,7 @@ https://github.com/betagouv/role-ansible,True
 https://github.com/betagouv/secretariat,True
 https://github.com/betagouv/securite-numerique-agile,True
 https://github.com/betagouv/sejour,True
-https://github.com/betagouv/service-national-universel,False
+https://github.com/betagouv/service-national-universel,True
 https://github.com/betagouv/siecle-api,True
 https://github.com/betagouv/siecle-xml_mapper,True
 https://github.com/betagouv/signalconso-loadtest,True
@@ -5750,7 +5755,7 @@ https://gitlab.inria.fr/almanach/alOldies/alpage_en,True
 https://gitlab.inria.fr/almanach/alOldies/installatoll,True
 https://gitlab.inria.fr/almanach/alOldies/lexed,True
 https://gitlab.inria.fr/almanach/alOldies/mafd,True
-https://gitlab.inria.fr/almanach/alOldies/nomos,False
+https://gitlab.inria.fr/almanach/alOldies/nomos,True
 https://gitlab.inria.fr/almanach/alOldies/perlmod/bundle-atoll,True
 https://gitlab.inria.fr/almanach/alOldies/perlmod/dict-fsa,True
 https://gitlab.inria.fr/almanach/alOldies/perlmod/dict-lexed,True
@@ -5950,6 +5955,7 @@ https://gitlab.inria.fr/citi-lab/embench,True
 https://gitlab.inria.fr/citi-lab/sytare,True
 https://gitlab.inria.fr/citi-lab/sytare-public,True
 https://gitlab.inria.fr/cmh/cmh,True
+https://gitlab.inria.fr/cobcom/talon,False
 https://gitlab.inria.fr/coccinelle/coccinelle,True
 https://gitlab.inria.fr/coccinelle/reference_scores,True
 https://gitlab.inria.fr/coding-dojo-saclay/Blockchain,True
@@ -6306,7 +6312,7 @@ https://gitlab.inria.fr/grid5000/g5k-postinstall,True
 https://gitlab.inria.fr/grid5000/grid5000-code,True
 https://gitlab.inria.fr/grid5000/grub-efi-arm64-netdir,True
 https://gitlab.inria.fr/grid5000/i40e,True
-https://gitlab.inria.fr/grid5000/isc-dhcp,False
+https://gitlab.inria.fr/grid5000/isc-dhcp,True
 https://gitlab.inria.fr/grid5000/kadeploy,True
 https://gitlab.inria.fr/grid5000/kadeploy3,False
 https://gitlab.inria.fr/grid5000/kameleon_g5k_custom_recipes_examples,True
