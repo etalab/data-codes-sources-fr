@@ -1737,7 +1737,7 @@ https://github.com/InseeFrLab/Ubuntu-vnc-base,True
 https://github.com/InseeFrLab/Universe-Datascience,True
 https://github.com/InseeFrLab/Universe-Formations,True
 https://github.com/InseeFrLab/VTL-Lab,False
-https://github.com/InseeFrLab/VTL-Lab-Resources,False
+https://github.com/InseeFrLab/VTL-Lab-Resources,True
 https://github.com/InseeFrLab/apinsee,True
 https://github.com/InseeFrLab/aws.s3,True
 https://github.com/InseeFrLab/blazingsql,True
@@ -1775,6 +1775,7 @@ https://github.com/InseeFrLab/onyxia-cli,True
 https://github.com/InseeFrLab/onyxia-ui,True
 https://github.com/InseeFrLab/product-labelling,True
 https://github.com/InseeFrLab/rapidsai,True
+https://github.com/InseeFrLab/rjdworkspace,False
 https://github.com/InseeFrLab/rstudio,True
 https://github.com/InseeFrLab/rstudio-gpu,True
 https://github.com/InseeFrLab/simple-default-backend,True
@@ -2452,6 +2453,7 @@ https://github.com/abes-esr/idref-api,True
 https://github.com/abes-esr/item-api,True
 https://github.com/abes-esr/item-client,True
 https://github.com/abes-esr/licencesnationales-front,True
+https://github.com/abes-esr/ln-back-event,False
 https://github.com/abes-esr/ln-front,False
 https://github.com/abes-esr/periscope-back,True
 https://github.com/abes-esr/periscope-front,True
@@ -3643,6 +3645,9 @@ https://github.com/etalab/ban-data,True
 https://github.com/etalab/ban-geocode,True
 https://github.com/etalab/ban-plateforme,True
 https://github.com/etalab/banatic,True
+https://github.com/etalab/barometre-resultats,False
+https://github.com/etalab/barometre-resultats-documentation,False
+https://github.com/etalab/barometre-resultats-donnees,False
 https://github.com/etalab/biryani,True
 https://github.com/etalab/blog-eig2,True
 https://github.com/etalab/blog.data.gouv.fr,True
@@ -4722,7 +4727,7 @@ https://github.com/ocaml/platform-dev,True
 https://github.com/ocaml/stdlib-shims,True
 https://github.com/ocaml/tuareg,True
 https://github.com/ocaml/uchar,True
-https://github.com/ocaml/vim-ocaml,False
+https://github.com/ocaml/vim-ocaml,True
 https://github.com/opendatateam/ansible-udata,True
 https://github.com/opendatateam/cookiecutter-udata-harvester,True
 https://github.com/opendatateam/cookiecutter-udata-plugin,True
