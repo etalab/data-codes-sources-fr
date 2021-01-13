@@ -1697,6 +1697,7 @@ https://github.com/InseeFr/Eno,True
 https://github.com/InseeFr/Eno-CLI,True
 https://github.com/InseeFr/Eno-WS,True
 https://github.com/InseeFr/IAM,True
+https://github.com/InseeFr/JDCruncheR,False
 https://github.com/InseeFr/Keycloak-FranceConnect,True
 https://github.com/InseeFr/Lunatic,True
 https://github.com/InseeFr/Lunatic-Model,True
@@ -1736,7 +1737,7 @@ https://github.com/InseeFrLab/Shelly,True
 https://github.com/InseeFrLab/Ubuntu-vnc-base,True
 https://github.com/InseeFrLab/Universe-Datascience,True
 https://github.com/InseeFrLab/Universe-Formations,True
-https://github.com/InseeFrLab/VTL-Lab,False
+https://github.com/InseeFrLab/VTL-Lab,True
 https://github.com/InseeFrLab/VTL-Lab-Resources,True
 https://github.com/InseeFrLab/apinsee,True
 https://github.com/InseeFrLab/aws.s3,True
@@ -1775,7 +1776,7 @@ https://github.com/InseeFrLab/onyxia-cli,True
 https://github.com/InseeFrLab/onyxia-ui,True
 https://github.com/InseeFrLab/product-labelling,True
 https://github.com/InseeFrLab/rapidsai,True
-https://github.com/InseeFrLab/rjdworkspace,False
+https://github.com/InseeFrLab/rjdworkspace,True
 https://github.com/InseeFrLab/rstudio,True
 https://github.com/InseeFrLab/rstudio-gpu,True
 https://github.com/InseeFrLab/simple-default-backend,True
@@ -2743,6 +2744,7 @@ https://github.com/betagouv/ecolab-agribalyse,True
 https://github.com/betagouv/ecolab-agribalyse-recherche,True
 https://github.com/betagouv/ecolab-alimentation,True
 https://github.com/betagouv/ecolab-batiment,True
+https://github.com/betagouv/ecolab-calculateur-fruits-et-legumes-de-saison,False
 https://github.com/betagouv/ecolab-calculateurco2inverse,True
 https://github.com/betagouv/ecolab-climat,True
 https://github.com/betagouv/ecolab-data,True
@@ -4078,7 +4080,7 @@ https://github.com/inrae/dbexportmodel,True
 https://github.com/inrae/diades.atlas,True
 https://github.com/inrae/filo-docker,True
 https://github.com/inrae/filo-science,True
-https://github.com/inrae/jupyterhub-vm,False
+https://github.com/inrae/jupyterhub-vm,True
 https://github.com/istex/GitManager,True
 https://github.com/istex/Pub2TEI,True
 https://github.com/istex/co-dothejob,True
@@ -6254,7 +6256,7 @@ https://gitlab.inria.fr/formation-gitlab-ci/tuto-ci-edib,True
 https://gitlab.inria.fr/formations/cmake,True
 https://gitlab.inria.fr/formations/cpp/gettingstartedwithmoderncpp,True
 https://gitlab.inria.fr/formations/integrationcontinue/TutorielGpuPlafrim,True
-https://gitlab.inria.fr/formations/integrationcontinue/gitlabciintroduction,False
+https://gitlab.inria.fr/formations/integrationcontinue/gitlabciintroduction,True
 https://gitlab.inria.fr/foscadiff/demoRameau,True
 https://gitlab.inria.fr/gagallium/gagallium,True
 https://gitlab.inria.fr/gagallium/gagallium-save,True
