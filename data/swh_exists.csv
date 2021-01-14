@@ -3647,7 +3647,7 @@ https://github.com/etalab/ban-data,True
 https://github.com/etalab/ban-geocode,True
 https://github.com/etalab/ban-plateforme,True
 https://github.com/etalab/banatic,True
-https://github.com/etalab/barometre-resultats,False
+https://github.com/etalab/barometre-resultats,True
 https://github.com/etalab/barometre-resultats-documentation,False
 https://github.com/etalab/barometre-resultats-donnees,False
 https://github.com/etalab/biryani,True
@@ -6204,7 +6204,7 @@ https://gitlab.inria.fr/eigen/eigen-mirror,True
 https://gitlab.inria.fr/enseignement/MIAGE_TP_XML_2017,True
 https://gitlab.inria.fr/epione/GP_progression_model_V2,True
 https://gitlab.inria.fr/epione/biblio,True
-https://gitlab.inria.fr/epione/flhd,False
+https://gitlab.inria.fr/epione/flhd,True
 https://gitlab.inria.fr/epione/hdcob,True
 https://gitlab.inria.fr/epione/promfusion,True
 https://gitlab.inria.fr/epione/unsegqc,True
@@ -6479,6 +6479,7 @@ https://gitlab.inria.fr/lifeware/biocham,True
 https://gitlab.inria.fr/line/aide-group/aide,True
 https://gitlab.inria.fr/line/aide-group/aidebuild,True
 https://gitlab.inria.fr/line/aide-group/aidesys,True
+https://gitlab.inria.fr/line/aide-group/aideweb,False
 https://gitlab.inria.fr/line/aide-group/esp32-roomcontrol,True
 https://gitlab.inria.fr/line/aide-group/esp32gpiocontrol,True
 https://gitlab.inria.fr/line/aide-group/jsdoc2,False
