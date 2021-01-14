@@ -1,5 +1,6 @@
 origin_url,is_available
 https://dci-gitlab.cines.fr/dad/archive-api,False
+https://dci-gitlab.cines.fr/dad/archive-format-converter,False
 https://dci-gitlab.cines.fr/dad/cines-vitam-plugins/ark-griffin,True
 https://dci-gitlab.cines.fr/dad/cines-vitam-plugins/bir-plugin,True
 https://dci-gitlab.cines.fr/dad/cines-vitam-plugins/format-validator-plugin,True
@@ -2453,6 +2454,7 @@ https://github.com/abes-esr/fne-batch,True
 https://github.com/abes-esr/idref-api,True
 https://github.com/abes-esr/item-api,True
 https://github.com/abes-esr/item-client,True
+https://github.com/abes-esr/licencesnationales-back,False
 https://github.com/abes-esr/licencesnationales-front,True
 https://github.com/abes-esr/ln-back-event,False
 https://github.com/abes-esr/ln-front,False
@@ -2715,6 +2717,7 @@ https://github.com/betagouv/dds-cross-simulator,True
 https://github.com/betagouv/demarches-simplifiees.fr,True
 https://github.com/betagouv/demarches.api.gouv.fr,True
 https://github.com/betagouv/desk-agent-polyvalent,True
+https://github.com/betagouv/dev-transverse-doc,False
 https://github.com/betagouv/diagoriente-admin,True
 https://github.com/betagouv/diagoriente-api-v5-,True
 https://github.com/betagouv/diagoriente-front,True
@@ -2744,7 +2747,7 @@ https://github.com/betagouv/ecolab-agribalyse,True
 https://github.com/betagouv/ecolab-agribalyse-recherche,True
 https://github.com/betagouv/ecolab-alimentation,True
 https://github.com/betagouv/ecolab-batiment,True
-https://github.com/betagouv/ecolab-calculateur-fruits-et-legumes-de-saison,False
+https://github.com/betagouv/ecolab-calculateur-fruits-et-legumes-de-saison,True
 https://github.com/betagouv/ecolab-calculateurco2inverse,True
 https://github.com/betagouv/ecolab-climat,True
 https://github.com/betagouv/ecolab-data,True
@@ -3040,7 +3043,7 @@ https://github.com/cget-carto/dgf,True
 https://github.com/cget-carto/dgf_2020,True
 https://github.com/cget-carto/dotation_investissement,True
 https://github.com/cget-carto/fs_temp,True
-https://github.com/cget-carto/fs_temp_v2,False
+https://github.com/cget-carto/fs_temp_v2,True
 https://github.com/cget-carto/le-grand-debat-national,True
 https://github.com/cget-carto/metropoles,True
 https://github.com/cget-carto/mission_coworking,True
@@ -3649,7 +3652,7 @@ https://github.com/etalab/ban-geocode,True
 https://github.com/etalab/ban-plateforme,True
 https://github.com/etalab/banatic,True
 https://github.com/etalab/barometre-resultats,True
-https://github.com/etalab/barometre-resultats-documentation,False
+https://github.com/etalab/barometre-resultats-documentation,True
 https://github.com/etalab/barometre-resultats-donnees,False
 https://github.com/etalab/biryani,True
 https://github.com/etalab/blog-eig2,True
@@ -4845,7 +4848,7 @@ https://github.com/openfisca/tracker,True
 https://github.com/openfisca/tutorial,True
 https://github.com/openfun/ansible-role-bigbluebutton,True
 https://github.com/openfun/arnold,True
-https://github.com/openfun/arnold-apps,False
+https://github.com/openfun/arnold-apps,True
 https://github.com/openfun/ashley,True
 https://github.com/openfun/bbb-stress-test,True
 https://github.com/openfun/celery-redis-sentinel,True
