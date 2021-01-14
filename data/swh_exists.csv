@@ -190,7 +190,7 @@ https://forgemia.inra.fr/bibliome/bionlp-st-py,True
 https://forgemia.inra.fr/bibliome/formation-alvisnlp,True
 https://forgemia.inra.fr/bibliome/pesv-tm,True
 https://forgemia.inra.fr/biocom/biocom-pipe,True
-https://forgemia.inra.fr/biocom/biocom-pipe_manual,False
+https://forgemia.inra.fr/biocom/biocom-pipe_manual,True
 https://forgemia.inra.fr/bioger/django-custom-user,True
 https://forgemia.inra.fr/bios4biol/bioinfo-utils,True
 https://forgemia.inra.fr/bios4biol/workflows,True
@@ -3040,6 +3040,7 @@ https://github.com/cget-carto/dgf,True
 https://github.com/cget-carto/dgf_2020,True
 https://github.com/cget-carto/dotation_investissement,True
 https://github.com/cget-carto/fs_temp,True
+https://github.com/cget-carto/fs_temp_v2,False
 https://github.com/cget-carto/le-grand-debat-national,True
 https://github.com/cget-carto/metropoles,True
 https://github.com/cget-carto/mission_coworking,True
@@ -6009,6 +6010,7 @@ https://gitlab.inria.fr/capsid-public/conda/runner-deploy,True
 https://gitlab.inria.fr/capsid.crates/lib3dmol,True
 https://gitlab.inria.fr/causality/causal-ocaml,True
 https://gitlab.inria.fr/causality/causality-monad,True
+https://gitlab.inria.fr/causality/weakmem,False
 https://gitlab.inria.fr/cedar/RDFQuotient,True
 https://gitlab.inria.fr/cedar/connectionlens,True
 https://gitlab.inria.fr/cedar/daggerWithSampling,True
@@ -6298,6 +6300,7 @@ https://gitlab.inria.fr/gazelle/library/datatable-component,True
 https://gitlab.inria.fr/gazelle/library/fhir-util,True
 https://gitlab.inria.fr/gazelle/library/gazelle-assertion-coverage-provider,True
 https://gitlab.inria.fr/gazelle/library/gazelle-assets,True
+https://gitlab.inria.fr/gazelle/library/gazelle-preferences,False
 https://gitlab.inria.fr/gazelle/library/home,True
 https://gitlab.inria.fr/gazelle/library/hql,True
 https://gitlab.inria.fr/gazelle/library/preference,True
@@ -6835,6 +6838,7 @@ https://gitlab.inria.fr/starpu/starpu,True
 https://gitlab.inria.fr/starpu/starpu-debian,True
 https://gitlab.inria.fr/starpu/starpu.gitlabpages.inria.fr,True
 https://gitlab.inria.fr/statify_public/anzj-crash,False
+https://gitlab.inria.fr/statify_public/interstices_neuro,False
 https://gitlab.inria.fr/steep/urbansprawl/urbansprawl-lib,True
 https://gitlab.inria.fr/stopcovid19/accueil,True
 https://gitlab.inria.fr/stopcovid19/robert-client-api-spec,True
