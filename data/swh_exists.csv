@@ -1,6 +1,6 @@
 origin_url,is_available
 https://dci-gitlab.cines.fr/dad/archive-api,True
-https://dci-gitlab.cines.fr/dad/archive-format-converter,False
+https://dci-gitlab.cines.fr/dad/archive-format-converter,True
 https://dci-gitlab.cines.fr/dad/cines-vitam-plugins/ark-griffin,True
 https://dci-gitlab.cines.fr/dad/cines-vitam-plugins/bir-plugin,True
 https://dci-gitlab.cines.fr/dad/cines-vitam-plugins/format-validator-plugin,True
@@ -5761,6 +5761,7 @@ https://gitlab.inria.fr/RMOD/Ghost,True
 https://gitlab.inria.fr/RMOD/Welcome,True
 https://gitlab.inria.fr/RMOD/archive,True
 https://gitlab.inria.fr/RMOD/libgit-build,True
+https://gitlab.inria.fr/STACK-RESEARCH-GROUP/k8s-wan-evaluations,False
 https://gitlab.inria.fr/Seshat/ar_maintenance,True
 https://gitlab.inria.fr/Seshat/cours,True
 https://gitlab.inria.fr/Seshat/deeplearning,True
@@ -6256,6 +6257,7 @@ https://gitlab.inria.fr/formation-gitlab-ci/grossamb-tutorial,True
 https://gitlab.inria.fr/formation-gitlab-ci/my-project-dvojtise,True
 https://gitlab.inria.fr/formation-gitlab-ci/navarop-formation-gitlab-ci,True
 https://gitlab.inria.fr/formation-gitlab-ci/navarop-tutorial,True
+https://gitlab.inria.fr/formation-gitlab-ci/test-jane-doe,False
 https://gitlab.inria.fr/formation-gitlab-ci/tutio-ci-andrade,True
 https://gitlab.inria.fr/formation-gitlab-ci/tuto-ci-edib,True
 https://gitlab.inria.fr/formations/cmake,True
