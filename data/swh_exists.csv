@@ -1,5 +1,5 @@
 origin_url,is_available
-https://dci-gitlab.cines.fr/dad/archive-api,False
+https://dci-gitlab.cines.fr/dad/archive-api,True
 https://dci-gitlab.cines.fr/dad/archive-format-converter,False
 https://dci-gitlab.cines.fr/dad/cines-vitam-plugins/ark-griffin,True
 https://dci-gitlab.cines.fr/dad/cines-vitam-plugins/bir-plugin,True
@@ -3214,7 +3214,7 @@ https://github.com/coq/doc,True
 https://github.com/coq/ltac2,False
 https://github.com/coq/opam-coq-archive,True
 https://github.com/coq/opam-coq-shell,True
-https://github.com/coq/platform,False
+https://github.com/coq/platform,True
 https://github.com/coq/repo-8.5,True
 https://github.com/coq/repo-coqs-disabled,True
 https://github.com/coq/repo-stable-disabled,True
@@ -6045,7 +6045,7 @@ https://gitlab.inria.fr/citi-lab/embench,True
 https://gitlab.inria.fr/citi-lab/sytare,True
 https://gitlab.inria.fr/citi-lab/sytare-public,True
 https://gitlab.inria.fr/cmh/cmh,True
-https://gitlab.inria.fr/cobcom/talon,False
+https://gitlab.inria.fr/cobcom/talon,True
 https://gitlab.inria.fr/coccinelle/coccinelle,True
 https://gitlab.inria.fr/coccinelle/reference_scores,True
 https://gitlab.inria.fr/coding-dojo-saclay/Blockchain,True
