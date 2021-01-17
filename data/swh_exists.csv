@@ -2718,7 +2718,7 @@ https://github.com/betagouv/dds-cross-simulator,True
 https://github.com/betagouv/demarches-simplifiees.fr,True
 https://github.com/betagouv/demarches.api.gouv.fr,True
 https://github.com/betagouv/desk-agent-polyvalent,True
-https://github.com/betagouv/dev-transverse-doc,False
+https://github.com/betagouv/dev-transverse-doc,True
 https://github.com/betagouv/diagoriente-admin,True
 https://github.com/betagouv/diagoriente-api-v5-,True
 https://github.com/betagouv/diagoriente-front,True
@@ -5428,6 +5428,8 @@ https://gitlab.com/DREES_code/formulaire_zonage_ars,True
 https://gitlab.com/DREES_code/public/charte_drees,True
 https://gitlab.com/DREES_code/public/etudes/er1094,False
 https://gitlab.com/DREES_code/public/etudes/er1143,True
+https://gitlab.com/DREES_code/public/etudes/er745,False
+https://gitlab.com/DREES_code/public/etudes/er838,False
 https://gitlab.com/DREES_code/public/etudes/openghm,False
 https://gitlab.com/DREES_code/public/indicateurs_de_sante,True
 https://gitlab.com/DREES_code/public/indicateurs_qualite_snds,True
