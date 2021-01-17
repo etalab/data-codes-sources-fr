@@ -2265,7 +2265,7 @@ https://github.com/SocialGouv/gitlab-ci-yml,True
 https://github.com/SocialGouv/hasura,True
 https://github.com/SocialGouv/hasura-permissions-viewer,True
 https://github.com/SocialGouv/helm-charts,True
-https://github.com/SocialGouv/importXLSLabos,False
+https://github.com/SocialGouv/importXLSLabos,True
 https://github.com/SocialGouv/jest-environment-knex,True
 https://github.com/SocialGouv/jmeter-kibana,True
 https://github.com/SocialGouv/jours-feries,True
@@ -3212,7 +3212,7 @@ https://github.com/coq/coq,True
 https://github.com/coq/coq-bench,True
 https://github.com/coq/coq-on-cachix,True
 https://github.com/coq/doc,True
-https://github.com/coq/ltac2,False
+https://github.com/coq/ltac2,True
 https://github.com/coq/opam-coq-archive,True
 https://github.com/coq/opam-coq-shell,True
 https://github.com/coq/platform,True
@@ -6016,7 +6016,7 @@ https://gitlab.inria.fr/capsid-public/conda/runner-deploy,True
 https://gitlab.inria.fr/capsid.crates/lib3dmol,True
 https://gitlab.inria.fr/causality/causal-ocaml,True
 https://gitlab.inria.fr/causality/causality-monad,True
-https://gitlab.inria.fr/causality/weakmem,False
+https://gitlab.inria.fr/causality/weakmem,True
 https://gitlab.inria.fr/cedar/RDFQuotient,True
 https://gitlab.inria.fr/cedar/connectionlens,True
 https://gitlab.inria.fr/cedar/daggerWithSampling,True
@@ -6844,7 +6844,7 @@ https://gitlab.inria.fr/star-explain/opam-repository,True
 https://gitlab.inria.fr/starpu/starpu,True
 https://gitlab.inria.fr/starpu/starpu-debian,True
 https://gitlab.inria.fr/starpu/starpu.gitlabpages.inria.fr,True
-https://gitlab.inria.fr/statify_public/anzj-crash,False
+https://gitlab.inria.fr/statify_public/anzj-crash,True
 https://gitlab.inria.fr/statify_public/interstices_neuro,True
 https://gitlab.inria.fr/steep/urbansprawl/urbansprawl-lib,True
 https://gitlab.inria.fr/stopcovid19/accueil,True
