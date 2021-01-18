@@ -80,7 +80,7 @@ https://forge.grandlyon.com/pocs/introduction-au-langage-python-2,True
 https://forge.grandlyon.com/solidarite/monparcourssocial/mps-usager,True
 https://forge.grandlyon.com/systemes-dinformation/gat_gatling,True
 https://forge.grandlyon.com/systemes-dinformation/pasi-portail-d-acces-au-si,True
-https://forge.grandlyon.com/systemes-dinformation/project-template/gitlabci-docker,False
+https://forge.grandlyon.com/systemes-dinformation/project-template/gitlabci-docker,True
 https://forge.grandlyon.com/systemes-dinformation/project-template/sdk-go,True
 https://forge.grandlyon.com/web-et-numerique/llle_project/ecolyo,True
 https://forge.grandlyon.com/web-et-numerique/llle_project/egl-konnector,True
@@ -802,6 +802,7 @@ https://github.com/139bercy/graylog-recovery,True
 https://github.com/139bercy/hub,True
 https://github.com/139bercy/influxdb-recovery,True
 https://github.com/139bercy/opendata-quality,True
+https://github.com/139bercy/secret_stat,False
 https://github.com/ANSSI-FR/AD-control-paths,True
 https://github.com/ANSSI-FR/AD-permissions,True
 https://github.com/ANSSI-FR/ADCP-DirectoryCrawler,True
@@ -2773,6 +2774,7 @@ https://github.com/betagouv/glossaire,True
 https://github.com/betagouv/glossary-bot,True
 https://github.com/betagouv/gps-usagers,True
 https://github.com/betagouv/grafana-scalingo,True
+https://github.com/betagouv/gravitee-api-extension,False
 https://github.com/betagouv/helpy,True
 https://github.com/betagouv/heroku-buildpack-ruby,True
 https://github.com/betagouv/histologe,True
@@ -5023,6 +5025,7 @@ https://github.com/riatelab/MDM,True
 https://github.com/riatelab/MTA,True
 https://github.com/riatelab/R_initiation,True
 https://github.com/riatelab/ReproducibleCartography,True
+https://github.com/riatelab/SpatialPosition,False
 https://github.com/riatelab/anfdataviz,True
 https://github.com/riatelab/anticartogram,True
 https://github.com/riatelab/basemaps,True
@@ -5042,6 +5045,7 @@ https://github.com/riatelab/mapinsetr,True
 https://github.com/riatelab/maptiles,True
 https://github.com/riatelab/mexusaborder,True
 https://github.com/riatelab/nuts,True
+https://github.com/riatelab/osrm,False
 https://github.com/riatelab/potential,True
 https://github.com/riatelab/rcarto3d,True
 https://github.com/riatelab/regioviz,True
@@ -5426,7 +5430,7 @@ https://gitlab.com/CSTB/mathis,True
 https://gitlab.com/CSTB/modele_donnee_dpe_2020,True
 https://gitlab.com/DREES_code/formulaire_zonage_ars,True
 https://gitlab.com/DREES_code/public/charte_drees,True
-https://gitlab.com/DREES_code/public/etudes/er1094,False
+https://gitlab.com/DREES_code/public/etudes/er1094,True
 https://gitlab.com/DREES_code/public/etudes/er1143,True
 https://gitlab.com/DREES_code/public/etudes/er745,False
 https://gitlab.com/DREES_code/public/etudes/er838,False
