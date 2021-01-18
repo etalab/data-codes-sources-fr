@@ -759,6 +759,7 @@ https://github.com/1024pix/pix-site,True
 https://github.com/1024pix/pix-site-pro,True
 https://github.com/1024pix/pix-ui,True
 https://github.com/1024pix/pix-ui.github.io,False
+https://github.com/1024pix/plugin-EnvironmentVariables,False
 https://github.com/1024pix/poc-ovh-api,True
 https://github.com/1024pix/poc-qmail,True
 https://github.com/1024pix/poc-smtp,True
@@ -1699,7 +1700,7 @@ https://github.com/InseeFr/Eno,True
 https://github.com/InseeFr/Eno-CLI,True
 https://github.com/InseeFr/Eno-WS,True
 https://github.com/InseeFr/IAM,True
-https://github.com/InseeFr/JDCruncheR,False
+https://github.com/InseeFr/JDCruncheR,True
 https://github.com/InseeFr/Keycloak-FranceConnect,True
 https://github.com/InseeFr/Lunatic,True
 https://github.com/InseeFr/Lunatic-Model,True
@@ -2148,6 +2149,7 @@ https://github.com/ProgrammeVitam/vitam,True
 https://github.com/ProgrammeVitam/vitam-grafana-dashboards,True
 https://github.com/ProgrammeVitam/vitam-griffins,True
 https://github.com/ProgrammeVitam/vitam-itests,True
+https://github.com/ProgrammeVitam/vitam-itests-OLD,False
 https://github.com/ProgrammeVitam/vitam-ui,True
 https://github.com/SGMAP-AGD/CompareDF,True
 https://github.com/SGMAP-AGD/DAMIR,True
@@ -4069,6 +4071,7 @@ https://github.com/ina-foss/voxo-docker,True
 https://github.com/ina-foss/voxo-lib,True
 https://github.com/incubateur-territoires/incubateur-strapi,True
 https://github.com/incubateur-territoires/incubateur.anct.gouv.fr,True
+https://github.com/incubateur-territoires/osp-app,False
 https://github.com/incubateur-territoires/ressources,True
 https://github.com/incubateur-territoires/territoires.store,True
 https://github.com/incubateur-territoires/tutoriel-communs,True
@@ -6141,6 +6144,7 @@ https://gitlab.inria.fr/dexms/dexapi,True
 https://gitlab.inria.fr/dexms/dexidl,True
 https://gitlab.inria.fr/dexms/service,True
 https://gitlab.inria.fr/dexms/website,True
+https://gitlab.inria.fr/dgd-s/testandalert,False
 https://gitlab.inria.fr/dh-projects/aspyre-gt,True
 https://gitlab.inria.fr/dh-projects/aspyre-gui,True
 https://gitlab.inria.fr/dh-projects/choppy,True
