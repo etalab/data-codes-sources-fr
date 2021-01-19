@@ -205,6 +205,7 @@ https://forgemia.inra.fr/chemhousebas/parafac,True
 https://forgemia.inra.fr/chemhousebas/vsn,True
 https://forgemia.inra.fr/cirad--monde-apres/reunion_initiatives_urgences,True
 https://forgemia.inra.fr/cirad--monde-apres/teletravail,True
+https://forgemia.inra.fr/couplimspec/couplimspec,False
 https://forgemia.inra.fr/couplimspec/couplimspec_20150113,True
 https://forgemia.inra.fr/couplimspec/hyiam,True
 https://forgemia.inra.fr/enseignement-mistea/reports-with-markdown,True
@@ -614,7 +615,7 @@ https://git.unistra.fr/gdt/back,True
 https://git.unistra.fr/gdt/front,True
 https://git.unistra.fr/glakata/serveur-central,False
 https://git.unistra.fr/goj19-t4-b/projet-tutore-tycoon,True
-https://git.unistra.fr/grossiste/bill-client,False
+https://git.unistra.fr/grossiste/bill-client,True
 https://git.unistra.fr/grossiste/bill-worker,True
 https://git.unistra.fr/grossiste/grossiste,False
 https://git.unistra.fr/grossiste/pdf-worker,False
@@ -1780,6 +1781,7 @@ https://github.com/InseeFrLab/onyxia,True
 https://github.com/InseeFrLab/onyxia-api,True
 https://github.com/InseeFrLab/onyxia-cli,True
 https://github.com/InseeFrLab/onyxia-ui,True
+https://github.com/InseeFrLab/predicat,False
 https://github.com/InseeFrLab/product-labelling,True
 https://github.com/InseeFrLab/rapidsai,True
 https://github.com/InseeFrLab/rjdworkspace,True
@@ -5031,7 +5033,7 @@ https://github.com/riatelab/MDM,True
 https://github.com/riatelab/MTA,True
 https://github.com/riatelab/R_initiation,True
 https://github.com/riatelab/ReproducibleCartography,True
-https://github.com/riatelab/SpatialPosition,False
+https://github.com/riatelab/SpatialPosition,True
 https://github.com/riatelab/anfdataviz,True
 https://github.com/riatelab/anticartogram,True
 https://github.com/riatelab/basemaps,True
