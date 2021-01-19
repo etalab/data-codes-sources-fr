@@ -4203,6 +4203,7 @@ https://github.com/lutece-secteur-public/gru-module-appointment-alert,True
 https://github.com/lutece-secteur-public/gru-module-appointment-desk,True
 https://github.com/lutece-secteur-public/gru-module-appointment-filling,True
 https://github.com/lutece-secteur-public/gru-module-appointment-leaflet,True
+https://github.com/lutece-secteur-public/gru-module-appointment-management,False
 https://github.com/lutece-secteur-public/gru-module-appointment-mydashboard,True
 https://github.com/lutece-secteur-public/gru-module-appointment-resource,True
 https://github.com/lutece-secteur-public/gru-module-appointment-solr,True
@@ -5046,7 +5047,7 @@ https://github.com/riatelab/fisheye,True
 https://github.com/riatelab/house-test,True
 https://github.com/riatelab/icc2019,True
 https://github.com/riatelab/intro_sf,True
-https://github.com/riatelab/linemap,False
+https://github.com/riatelab/linemap,True
 https://github.com/riatelab/magrit,True
 https://github.com/riatelab/magrit-rouen,True
 https://github.com/riatelab/magrit-templates-carto,True
@@ -5442,7 +5443,7 @@ https://gitlab.com/DREES_code/public/charte_drees,True
 https://gitlab.com/DREES_code/public/etudes/er1094,True
 https://gitlab.com/DREES_code/public/etudes/er1143,True
 https://gitlab.com/DREES_code/public/etudes/er745,True
-https://gitlab.com/DREES_code/public/etudes/er838,False
+https://gitlab.com/DREES_code/public/etudes/er838,True
 https://gitlab.com/DREES_code/public/etudes/openghm,False
 https://gitlab.com/DREES_code/public/indicateurs_de_sante,True
 https://gitlab.com/DREES_code/public/indicateurs_qualite_snds,True
@@ -6150,7 +6151,7 @@ https://gitlab.inria.fr/dexms/dexapi,True
 https://gitlab.inria.fr/dexms/dexidl,True
 https://gitlab.inria.fr/dexms/service,True
 https://gitlab.inria.fr/dexms/website,True
-https://gitlab.inria.fr/dgd-s/testandalert,False
+https://gitlab.inria.fr/dgd-s/testandalert,True
 https://gitlab.inria.fr/dh-projects/aspyre-gt,True
 https://gitlab.inria.fr/dh-projects/aspyre-gui,True
 https://gitlab.inria.fr/dh-projects/choppy,True
