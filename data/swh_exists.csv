@@ -614,7 +614,10 @@ https://git.unistra.fr/gdt/back,True
 https://git.unistra.fr/gdt/front,True
 https://git.unistra.fr/glakata/serveur-central,False
 https://git.unistra.fr/goj19-t4-b/projet-tutore-tycoon,True
+https://git.unistra.fr/grossiste/bill-client,False
 https://git.unistra.fr/grossiste/bill-worker,True
+https://git.unistra.fr/grossiste/grossiste,False
+https://git.unistra.fr/grossiste/pdf-worker,False
 https://git.unistra.fr/ihm/ihm-projet,True
 https://git.unistra.fr/integratron/integrateur,True
 https://git.unistra.fr/integratron/integrateur-api,True
@@ -2776,7 +2779,7 @@ https://github.com/betagouv/glossaire,True
 https://github.com/betagouv/glossary-bot,True
 https://github.com/betagouv/gps-usagers,True
 https://github.com/betagouv/grafana-scalingo,True
-https://github.com/betagouv/gravitee-api-extension,False
+https://github.com/betagouv/gravitee-api-extension,True
 https://github.com/betagouv/helpy,True
 https://github.com/betagouv/heroku-buildpack-ruby,True
 https://github.com/betagouv/histologe,True
@@ -5435,7 +5438,7 @@ https://gitlab.com/DREES_code/formulaire_zonage_ars,True
 https://gitlab.com/DREES_code/public/charte_drees,True
 https://gitlab.com/DREES_code/public/etudes/er1094,True
 https://gitlab.com/DREES_code/public/etudes/er1143,True
-https://gitlab.com/DREES_code/public/etudes/er745,False
+https://gitlab.com/DREES_code/public/etudes/er745,True
 https://gitlab.com/DREES_code/public/etudes/er838,False
 https://gitlab.com/DREES_code/public/etudes/openghm,False
 https://gitlab.com/DREES_code/public/indicateurs_de_sante,True
@@ -6269,7 +6272,7 @@ https://gitlab.inria.fr/formation-gitlab-ci/grossamb-tutorial,True
 https://gitlab.inria.fr/formation-gitlab-ci/my-project-dvojtise,True
 https://gitlab.inria.fr/formation-gitlab-ci/navarop-formation-gitlab-ci,True
 https://gitlab.inria.fr/formation-gitlab-ci/navarop-tutorial,True
-https://gitlab.inria.fr/formation-gitlab-ci/test-jane-doe,False
+https://gitlab.inria.fr/formation-gitlab-ci/test-jane-doe,True
 https://gitlab.inria.fr/formation-gitlab-ci/tutio-ci-andrade,True
 https://gitlab.inria.fr/formation-gitlab-ci/tuto-ci-edib,True
 https://gitlab.inria.fr/formations/cmake,True
