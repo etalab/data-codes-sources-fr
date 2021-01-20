@@ -2154,7 +2154,7 @@ https://github.com/ProgrammeVitam/vitam,True
 https://github.com/ProgrammeVitam/vitam-grafana-dashboards,True
 https://github.com/ProgrammeVitam/vitam-griffins,True
 https://github.com/ProgrammeVitam/vitam-itests,True
-https://github.com/ProgrammeVitam/vitam-itests-OLD,False
+https://github.com/ProgrammeVitam/vitam-itests-OLD,True
 https://github.com/ProgrammeVitam/vitam-ui,True
 https://github.com/SGMAP-AGD/CompareDF,True
 https://github.com/SGMAP-AGD/DAMIR,True
@@ -5442,6 +5442,7 @@ https://gitlab.com/DREES_code/formulaire_zonage_ars,True
 https://gitlab.com/DREES_code/public/charte_drees,True
 https://gitlab.com/DREES_code/public/etudes/er1094,True
 https://gitlab.com/DREES_code/public/etudes/er1143,True
+https://gitlab.com/DREES_code/public/etudes/er1179,False
 https://gitlab.com/DREES_code/public/etudes/er745,True
 https://gitlab.com/DREES_code/public/etudes/er838,True
 https://gitlab.com/DREES_code/public/etudes/openghm,False
@@ -6740,6 +6741,7 @@ https://gitlab.inria.fr/sca_platform/analysis,False
 https://gitlab.inria.fr/sca_platform/equipments,False
 https://gitlab.inria.fr/sca_platform/targets,False
 https://gitlab.inria.fr/scafia/benches,True
+https://gitlab.inria.fr/science-environnement-societe/info,False
 https://gitlab.inria.fr/scotch/scotch,True
 https://gitlab.inria.fr/scripta/escriptorium,True
 https://gitlab.inria.fr/securejs/sjs-compiler,True
