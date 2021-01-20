@@ -617,8 +617,8 @@ https://git.unistra.fr/glakata/serveur-central,False
 https://git.unistra.fr/goj19-t4-b/projet-tutore-tycoon,True
 https://git.unistra.fr/grossiste/bill-client,True
 https://git.unistra.fr/grossiste/bill-worker,True
-https://git.unistra.fr/grossiste/grossiste,False
-https://git.unistra.fr/grossiste/pdf-worker,False
+https://git.unistra.fr/grossiste/grossiste,True
+https://git.unistra.fr/grossiste/pdf-worker,True
 https://git.unistra.fr/ihm/ihm-projet,True
 https://git.unistra.fr/integratron/integrateur,True
 https://git.unistra.fr/integratron/integrateur-api,True
@@ -5779,7 +5779,7 @@ https://gitlab.inria.fr/RMOD/Ghost,True
 https://gitlab.inria.fr/RMOD/Welcome,True
 https://gitlab.inria.fr/RMOD/archive,True
 https://gitlab.inria.fr/RMOD/libgit-build,True
-https://gitlab.inria.fr/STACK-RESEARCH-GROUP/k8s-wan-evaluations,False
+https://gitlab.inria.fr/STACK-RESEARCH-GROUP/k8s-wan-evaluations,True
 https://gitlab.inria.fr/Seshat/ar_maintenance,True
 https://gitlab.inria.fr/Seshat/cours,True
 https://gitlab.inria.fr/Seshat/deeplearning,True
