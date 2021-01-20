@@ -764,7 +764,7 @@ https://github.com/1024pix/pix-site,True
 https://github.com/1024pix/pix-site-pro,True
 https://github.com/1024pix/pix-ui,True
 https://github.com/1024pix/pix-ui.github.io,False
-https://github.com/1024pix/plugin-EnvironmentVariables,False
+https://github.com/1024pix/plugin-EnvironmentVariables,True
 https://github.com/1024pix/poc-ovh-api,True
 https://github.com/1024pix/poc-qmail,True
 https://github.com/1024pix/poc-smtp,True
@@ -2723,6 +2723,7 @@ https://github.com/betagouv/covid19-algorithme-orientation-elixir,True
 https://github.com/betagouv/covoiturage-attestation,False
 https://github.com/betagouv/covoiturage-attestation-honneur,True
 https://github.com/betagouv/dashboard_apientreprise,True
+https://github.com/betagouv/datagir-iframe,False
 https://github.com/betagouv/datapass,True
 https://github.com/betagouv/datapass-api-particulier-bridge,True
 https://github.com/betagouv/dds-cross-simulator,True
@@ -4077,6 +4078,7 @@ https://github.com/ina-foss/voxo-daemon,True
 https://github.com/ina-foss/voxo-dashboard,True
 https://github.com/ina-foss/voxo-docker,True
 https://github.com/ina-foss/voxo-lib,True
+https://github.com/incubateur-territoires/demo-mesaides28,False
 https://github.com/incubateur-territoires/incubateur-strapi,True
 https://github.com/incubateur-territoires/incubateur.anct.gouv.fr,True
 https://github.com/incubateur-territoires/osp-app,False
@@ -6162,6 +6164,9 @@ https://gitlab.inria.fr/dh-projects/aspyre-gui,True
 https://gitlab.inria.fr/dh-projects/choppy,True
 https://gitlab.inria.fr/dh-projects/kraken-benchmark,True
 https://gitlab.inria.fr/dh-projects/kraken-models,True
+https://gitlab.inria.fr/dh-projects/kramin/kramin-app,False
+https://gitlab.inria.fr/dh-projects/kramin/kramin-cli,False
+https://gitlab.inria.fr/dh-projects/kramin/kramin-lib,False
 https://gitlab.inria.fr/dhai/SimpleAnnotationServer,True
 https://gitlab.inria.fr/dhai/filigrane,True
 https://gitlab.inria.fr/digiscope/spat,True
@@ -7133,6 +7138,7 @@ https://gitlabjf.ccomptes.fr/EIG_2019/plume/pagedjs-cli,True
 https://gitlabjf.ccomptes.fr/EIG_2019/plume/plume,True
 https://gitlabjf.ccomptes.fr/EIG_2019/plume/plume-editoria,True
 https://gitlabjf.ccomptes.fr/EIG_2019/plume/plume-prosemirror,True
+https://gitlabjf.ccomptes.fr/EIG_2019/plume/plume-redaction,False
 https://gitlabjf.ccomptes.fr/altair/master-jf,True
 https://gitlabjf.ccomptes.fr/eig/candidature_promo3,True
 https://gitlabjf.ccomptes.fr/fnicol/NSIS3,True
