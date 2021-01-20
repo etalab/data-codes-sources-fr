@@ -746,6 +746,7 @@ https://github.com/1024pix/metrics-grafana,True
 https://github.com/1024pix/metrics-router,True
 https://github.com/1024pix/nginx-lb,True
 https://github.com/1024pix/nginx-lb-dev,True
+https://github.com/1024pix/nuxt-image-extractor,False
 https://github.com/1024pix/open-lab,True
 https://github.com/1024pix/pix,True
 https://github.com/1024pix/pix-analytics,True
@@ -1795,6 +1796,7 @@ https://github.com/InseeFrLab/ubuntu-vnc,True
 https://github.com/InseeFrLab/ubuntu-vnc-dind,True
 https://github.com/InseeFrLab/utilitR,True
 https://github.com/InseeFrLab/utilitR-website,True
+https://github.com/InseeFrLab/utilitr-bonnes-pratiques,False
 https://github.com/InseeFrLab/vscode-python,True
 https://github.com/Irstea/ALPFORPLOTS,True
 https://github.com/Irstea/Redmine-mod-perl-auth,True
@@ -2215,6 +2217,7 @@ https://github.com/SocialGouv/carnets,True
 https://github.com/SocialGouv/cdtn-admin,True
 https://github.com/SocialGouv/cdtn-api,True
 https://github.com/SocialGouv/cdtn-elk,True
+https://github.com/SocialGouv/cdtn-entreprises,False
 https://github.com/SocialGouv/cdtn-monolog,True
 https://github.com/SocialGouv/cdtn-run,True
 https://github.com/SocialGouv/cdtn-veille-git,True
@@ -4203,7 +4206,7 @@ https://github.com/lutece-secteur-public/gru-module-appointment-alert,True
 https://github.com/lutece-secteur-public/gru-module-appointment-desk,True
 https://github.com/lutece-secteur-public/gru-module-appointment-filling,True
 https://github.com/lutece-secteur-public/gru-module-appointment-leaflet,True
-https://github.com/lutece-secteur-public/gru-module-appointment-management,False
+https://github.com/lutece-secteur-public/gru-module-appointment-management,True
 https://github.com/lutece-secteur-public/gru-module-appointment-mydashboard,True
 https://github.com/lutece-secteur-public/gru-module-appointment-resource,True
 https://github.com/lutece-secteur-public/gru-module-appointment-solr,True
@@ -5063,6 +5066,7 @@ https://github.com/riatelab/regioviz-landingpage,True
 https://github.com/riatelab/regiovizlab,True
 https://github.com/riatelab/rgvzall,True
 https://github.com/riatelab/spatpos,False
+https://github.com/riatelab/tanaka,False
 https://github.com/riatelab/tunisie,True
 https://github.com/riatelab/world,True
 https://github.com/rusticata/der-parser,True
@@ -6171,6 +6175,7 @@ https://gitlab.inria.fr/disrpt/tony,True
 https://gitlab.inria.fr/distem/distem,True
 https://gitlab.inria.fr/distem/distem.gitlabpages.inria.fr,True
 https://gitlab.inria.fr/diu-algo/labyrinthe,True
+https://gitlab.inria.fr/diverse-public/shared-docker,False
 https://gitlab.inria.fr/diverse/gforge-migration/openembedd/openembedd,True
 https://gitlab.inria.fr/diverse/gforge-migration/openembedd/openembedd-rep,True
 https://gitlab.inria.fr/dldb/discretelogdb,True
