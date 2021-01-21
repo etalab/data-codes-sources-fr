@@ -378,6 +378,7 @@ https://forgemia.inra.fr/metexplore/metx/metx-enrichement,True
 https://forgemia.inra.fr/metexplore/metx/metx-grid,True
 https://forgemia.inra.fr/metexplore/metx/metx-scatterplot,True
 https://forgemia.inra.fr/metexplore/tutorialmet4j,True
+https://forgemia.inra.fr/migale/affiliationexplorer,True
 https://forgemia.inra.fr/migale/formations,True
 https://forgemia.inra.fr/olivier.bonnefon/mse,True
 https://forgemia.inra.fr/pappso/beads,True
@@ -691,7 +692,7 @@ https://git.unistra.fr/s2/p21,True
 https://git.unistra.fr/s2/p21-mini-projet,True
 https://git.unistra.fr/s2/s21,True
 https://git.unistra.fr/s2/t22,True
-https://git.unistra.fr/s3/a31-projet,False
+https://git.unistra.fr/s3/a31-projet,True
 https://git.unistra.fr/s3/barre-oblique-v3/t432_sab20_t3_b,True
 https://git.unistra.fr/s3/d31-projet,True
 https://git.unistra.fr/s3/m31-projet-sim,True
@@ -1796,7 +1797,7 @@ https://github.com/InseeFrLab/ubuntu-vnc,True
 https://github.com/InseeFrLab/ubuntu-vnc-dind,True
 https://github.com/InseeFrLab/utilitR,True
 https://github.com/InseeFrLab/utilitR-website,True
-https://github.com/InseeFrLab/utilitr-bonnes-pratiques,False
+https://github.com/InseeFrLab/utilitr-bonnes-pratiques,True
 https://github.com/InseeFrLab/vscode-python,True
 https://github.com/Irstea/ALPFORPLOTS,True
 https://github.com/Irstea/Redmine-mod-perl-auth,True
@@ -2314,6 +2315,7 @@ https://github.com/SocialGouv/postgrest,True
 https://github.com/SocialGouv/postgrester,True
 https://github.com/SocialGouv/presentation-textstyle,True
 https://github.com/SocialGouv/react-departements,True
+https://github.com/SocialGouv/react-k8s-viewer,True
 https://github.com/SocialGouv/react-medixtor,True
 https://github.com/SocialGouv/renovate-config,True
 https://github.com/SocialGouv/sample-next-app,True
@@ -4078,7 +4080,7 @@ https://github.com/ina-foss/voxo-daemon,True
 https://github.com/ina-foss/voxo-dashboard,True
 https://github.com/ina-foss/voxo-docker,True
 https://github.com/ina-foss/voxo-lib,True
-https://github.com/incubateur-territoires/demo-mesaides28,False
+https://github.com/incubateur-territoires/demo-mesaides28,True
 https://github.com/incubateur-territoires/incubateur-strapi,True
 https://github.com/incubateur-territoires/incubateur.anct.gouv.fr,True
 https://github.com/incubateur-territoires/osp-app,False
@@ -6162,6 +6164,9 @@ https://gitlab.inria.fr/dgd-s/testandalert,True
 https://gitlab.inria.fr/dh-projects/aspyre-gt,True
 https://gitlab.inria.fr/dh-projects/aspyre-gui,True
 https://gitlab.inria.fr/dh-projects/choppy,True
+https://gitlab.inria.fr/dh-projects/kami/kami-app,True
+https://gitlab.inria.fr/dh-projects/kami/kami-cli,True
+https://gitlab.inria.fr/dh-projects/kami/kami-lib,True
 https://gitlab.inria.fr/dh-projects/kraken-benchmark,True
 https://gitlab.inria.fr/dh-projects/kraken-models,True
 https://gitlab.inria.fr/dh-projects/kramin/kramin-app,False
@@ -6283,6 +6288,7 @@ https://gitlab.inria.fr/fedbiomed/fedbiomed-api,True
 https://gitlab.inria.fr/fedbiomed/fedbiomed.gitlabpages.inria.fr,True
 https://gitlab.inria.fr/flocq/flocq,True
 https://gitlab.inria.fr/flowvr/flowvr-ex,True
+https://gitlab.inria.fr/formation-gitlab-ci/aroumy-tutorial,False
 https://gitlab.inria.fr/formation-gitlab-ci/grossamb-tutorial,True
 https://gitlab.inria.fr/formation-gitlab-ci/my-project-dvojtise,True
 https://gitlab.inria.fr/formation-gitlab-ci/navarop-formation-gitlab-ci,True
