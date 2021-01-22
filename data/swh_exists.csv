@@ -2731,6 +2731,7 @@ https://github.com/betagouv/datapass-api-particulier-bridge,True
 https://github.com/betagouv/dds-cross-simulator,True
 https://github.com/betagouv/demarches-simplifiees.fr,True
 https://github.com/betagouv/demarches.api.gouv.fr,True
+https://github.com/betagouv/demo-flux-cnaf,False
 https://github.com/betagouv/desk-agent-polyvalent,True
 https://github.com/betagouv/dev-transverse-doc,True
 https://github.com/betagouv/diagoriente-admin,True
@@ -5070,7 +5071,7 @@ https://github.com/riatelab/regioviz-landingpage,True
 https://github.com/riatelab/regiovizlab,True
 https://github.com/riatelab/rgvzall,True
 https://github.com/riatelab/spatpos,False
-https://github.com/riatelab/tanaka,False
+https://github.com/riatelab/tanaka,True
 https://github.com/riatelab/tunisie,True
 https://github.com/riatelab/world,True
 https://github.com/rusticata/der-parser,True
@@ -6288,7 +6289,7 @@ https://gitlab.inria.fr/fedbiomed/fedbiomed-api,True
 https://gitlab.inria.fr/fedbiomed/fedbiomed.gitlabpages.inria.fr,True
 https://gitlab.inria.fr/flocq/flocq,True
 https://gitlab.inria.fr/flowvr/flowvr-ex,True
-https://gitlab.inria.fr/formation-gitlab-ci/aroumy-tutorial,False
+https://gitlab.inria.fr/formation-gitlab-ci/aroumy-tutorial,True
 https://gitlab.inria.fr/formation-gitlab-ci/grossamb-tutorial,True
 https://gitlab.inria.fr/formation-gitlab-ci/my-project-dvojtise,True
 https://gitlab.inria.fr/formation-gitlab-ci/navarop-formation-gitlab-ci,True
@@ -7175,6 +7176,6 @@ https://gitub.u-bordeaux.fr/mapi/mdl-report-ubxstats,True
 https://gitub.u-bordeaux.fr/mapi/mdl-repository-pod,True
 https://gitub.u-bordeaux.fr/mapi/mdl-theme-ubx19,True
 https://gitub.u-bordeaux.fr/mapi/mdl-tool-ubxcourses,True
-https://gitub.u-bordeaux.fr/public-softwares/rescannedrcm-labview-exe-software,False
+https://gitub.u-bordeaux.fr/public-softwares/rescannedrcm-labview-exe-software,True
 https://gitub.u-bordeaux.fr/starpu/starpu,True
 https://gitub.u-bordeaux.fr/starpu/starpu2,True
