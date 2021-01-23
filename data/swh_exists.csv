@@ -809,7 +809,7 @@ https://github.com/139bercy/graylog-recovery,True
 https://github.com/139bercy/hub,True
 https://github.com/139bercy/influxdb-recovery,True
 https://github.com/139bercy/opendata-quality,True
-https://github.com/139bercy/secret_stat,False
+https://github.com/139bercy/secret_stat,True
 https://github.com/ANSSI-FR/AD-control-paths,True
 https://github.com/ANSSI-FR/AD-permissions,True
 https://github.com/ANSSI-FR/ADCP-DirectoryCrawler,True
