@@ -4084,7 +4084,7 @@ https://github.com/ina-foss/voxo-lib,True
 https://github.com/incubateur-territoires/demo-mesaides28,True
 https://github.com/incubateur-territoires/incubateur-strapi,True
 https://github.com/incubateur-territoires/incubateur.anct.gouv.fr,True
-https://github.com/incubateur-territoires/osp-app,False
+https://github.com/incubateur-territoires/osp-app,True
 https://github.com/incubateur-territoires/ressources,True
 https://github.com/incubateur-territoires/territoires.store,True
 https://github.com/incubateur-territoires/tutoriel-communs,True
@@ -6659,7 +6659,7 @@ https://gitlab.inria.fr/mosaic/tissue_paredes,True
 https://gitlab.inria.fr/mpc/mpc,True
 https://gitlab.inria.fr/mpfq/mpfq,True
 https://gitlab.inria.fr/multicellular_modelling/libsbml,True
-https://gitlab.inria.fr/multicellular_modelling/public/cellsegmquant,False
+https://gitlab.inria.fr/multicellular_modelling/public/cellsegmquant,True
 https://gitlab.inria.fr/myriads-team/python-distem,True
 https://gitlab.inria.fr/necs-open/RainbowVis-JS,True
 https://gitlab.inria.fr/necs-open/braincrafted.bootstrap-bundle,True
