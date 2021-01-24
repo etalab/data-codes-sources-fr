@@ -205,7 +205,7 @@ https://forgemia.inra.fr/chemhousebas/parafac,True
 https://forgemia.inra.fr/chemhousebas/vsn,True
 https://forgemia.inra.fr/cirad--monde-apres/reunion_initiatives_urgences,True
 https://forgemia.inra.fr/cirad--monde-apres/teletravail,True
-https://forgemia.inra.fr/couplimspec/couplimspec,False
+https://forgemia.inra.fr/couplimspec/couplimspec,True
 https://forgemia.inra.fr/couplimspec/couplimspec_20150113,True
 https://forgemia.inra.fr/couplimspec/hyiam,True
 https://forgemia.inra.fr/enseignement-mistea/reports-with-markdown,True
@@ -2731,7 +2731,7 @@ https://github.com/betagouv/datapass-api-particulier-bridge,True
 https://github.com/betagouv/dds-cross-simulator,True
 https://github.com/betagouv/demarches-simplifiees.fr,True
 https://github.com/betagouv/demarches.api.gouv.fr,True
-https://github.com/betagouv/demo-flux-cnaf,False
+https://github.com/betagouv/demo-flux-cnaf,True
 https://github.com/betagouv/desk-agent-polyvalent,True
 https://github.com/betagouv/dev-transverse-doc,True
 https://github.com/betagouv/diagoriente-admin,True
@@ -6760,7 +6760,7 @@ https://gitlab.inria.fr/sca_platform/analysis,False
 https://gitlab.inria.fr/sca_platform/equipments,False
 https://gitlab.inria.fr/sca_platform/targets,False
 https://gitlab.inria.fr/scafia/benches,True
-https://gitlab.inria.fr/science-environnement-societe/info,False
+https://gitlab.inria.fr/science-environnement-societe/info,True
 https://gitlab.inria.fr/scotch/scotch,True
 https://gitlab.inria.fr/scripta/escriptorium,True
 https://gitlab.inria.fr/securejs/sjs-compiler,True
