@@ -1783,7 +1783,7 @@ https://github.com/InseeFrLab/onyxia,True
 https://github.com/InseeFrLab/onyxia-api,True
 https://github.com/InseeFrLab/onyxia-cli,True
 https://github.com/InseeFrLab/onyxia-ui,True
-https://github.com/InseeFrLab/predicat,False
+https://github.com/InseeFrLab/predicat,True
 https://github.com/InseeFrLab/product-labelling,True
 https://github.com/InseeFrLab/rapidsai,True
 https://github.com/InseeFrLab/rjdworkspace,True
@@ -6050,6 +6050,7 @@ https://gitlab.inria.fr/cedar/excel-extractor,True
 https://gitlab.inria.fr/cedar/excel-search,True
 https://gitlab.inria.fr/cedar/extraction-test,True
 https://gitlab.inria.fr/cedar/insee-crawler,True
+https://gitlab.inria.fr/cedar/obi-wan,False
 https://gitlab.inria.fr/cedar/obiwan-examples,True
 https://gitlab.inria.fr/cedar/spadedemo_vldb2019,True
 https://gitlab.inria.fr/cedar/statstical_mentions,True
