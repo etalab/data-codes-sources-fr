@@ -14,6 +14,7 @@ https://dci-gitlab.cines.fr/dad/ffds-smart-harvester,True
 https://dci-gitlab.cines.fr/dad/openrefine-metadata,True
 https://dci-gitlab.cines.fr/dad/pastis-dad-externe,True
 https://dci-gitlab.cines.fr/dad/pastis-extern,True
+https://dci-gitlab.cines.fr/dad/pastis-vitamui,False
 https://dci-gitlab.cines.fr/dad/sip-builder-parent,True
 https://dci-gitlab.cines.fr/dad/smartapi,True
 https://dci-gitlab.cines.fr/dad/test-sphinx,True
@@ -133,6 +134,7 @@ https://forge.univ-lyon1.fr/diu-eil/bloc4,True
 https://forge.univ-lyon1.fr/e-planets/bibtexdb,True
 https://forge.univ-lyon1.fr/e-planets/macports,True
 https://forge.univ-lyon1.fr/e-planets/morefilters,True
+https://forge.univ-lyon1.fr/e-planets/roma,False
 https://forge.univ-lyon1.fr/e-planets/spat,True
 https://forge.univ-lyon1.fr/faq-raspi/rpi-faq,True
 https://forge.univ-lyon1.fr/forge_public/ci-images,True
@@ -4908,6 +4910,7 @@ https://github.com/openfun/fun-translations,True
 https://github.com/openfun/fun-videofront-xblock,True
 https://github.com/openfun/hackathon,True
 https://github.com/openfun/handbook,True
+https://github.com/openfun/joanie,False
 https://github.com/openfun/learninglocker-docker,True
 https://github.com/openfun/libcast-xblock,True
 https://github.com/openfun/mail-fun-edx,True
