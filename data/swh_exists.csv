@@ -2468,6 +2468,8 @@ https://github.com/abes-esr/ezmaster-globs,True
 https://github.com/abes-esr/fne-back,True
 https://github.com/abes-esr/fne-batch,True
 https://github.com/abes-esr/idref-api,True
+https://github.com/abes-esr/idref-queries,False
+https://github.com/abes-esr/idrefplus-queries,False
 https://github.com/abes-esr/item-api,True
 https://github.com/abes-esr/item-client,True
 https://github.com/abes-esr/licencesnationales-back,True
@@ -4336,6 +4338,7 @@ https://github.com/medialab/ANTA2,True
 https://github.com/medialab/EAT_datascape,True
 https://github.com/medialab/Facettage,True
 https://github.com/medialab/FlaskTools,True
+https://github.com/medialab/Gazou_twint_sns_comp,False
 https://github.com/medialab/GeoPolHist,True
 https://github.com/medialab/Ghost,True
 https://github.com/medialab/LDA_testing,True
@@ -6699,6 +6702,7 @@ https://gitlab.inria.fr/openvibe/extras,True
 https://gitlab.inria.fr/openvibe/games,True
 https://gitlab.inria.fr/openvibe/meta,True
 https://gitlab.inria.fr/openvibe/sdk,True
+https://gitlab.inria.fr/openvibe/unity-games/LSL4Unity,False
 https://gitlab.inria.fr/openvibe/unity-games/basketball,True
 https://gitlab.inria.fr/openvibe/unity-games/games,True
 https://gitlab.inria.fr/openvibe/unity-games/hello-sender,True
@@ -7110,6 +7114,7 @@ https://gitlab.orfeo-toolbox.org/s1-tiling/s1tilingsupportapplications,True
 https://gitlab.ow2.org/lemonldap-ng/lemonldap-ng,True
 https://gitlab.ow2.org/lemonldap-ng/vue-manager-for-llng,True
 https://gitlab.ow2.org/lemonldap-ng/website-landing-page,True
+https://gitlab.u-psud.fr/Coucou/Test,False
 https://gitlab.u-psud.fr/Info111/ComputerLab,True
 https://gitlab.u-psud.fr/Info111/Info111,True
 https://gitlab.u-psud.fr/Info111/notebooks,True
