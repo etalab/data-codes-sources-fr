@@ -401,6 +401,7 @@ https://forgemia.inra.fr/pappso/repository-minexpert2,True
 https://forgemia.inra.fr/pappso/xtpcpp,True
 https://forgemia.inra.fr/pegase/pegase-fair,True
 https://forgemia.inra.fr/phenotic/publique/ordinalclustering,True
+https://forgemia.inra.fr/public-pgba/is900-rflp-in-silico,False
 https://forgemia.inra.fr/record-open-archives/rec-crash,True
 https://forgemia.inra.fr/record-open-archives/recmoustics,True
 https://forgemia.inra.fr/record/AgFlow,True
@@ -1932,6 +1933,7 @@ https://github.com/MTES-MCT/filharmonic-ui,True
 https://github.com/MTES-MCT/fluctuat,True
 https://github.com/MTES-MCT/fluctuat-apidoc,True
 https://github.com/MTES-MCT/france-connect-python,True
+https://github.com/MTES-MCT/franceconnect-python,False
 https://github.com/MTES-MCT/geo-api,True
 https://github.com/MTES-MCT/geo-communes-api,True
 https://github.com/MTES-MCT/geostatis,True
@@ -2469,7 +2471,7 @@ https://github.com/abes-esr/fne-back,True
 https://github.com/abes-esr/fne-batch,True
 https://github.com/abes-esr/idref-api,True
 https://github.com/abes-esr/idref-queries,False
-https://github.com/abes-esr/idrefplus-queries,False
+https://github.com/abes-esr/idrefplus-queries,True
 https://github.com/abes-esr/item-api,True
 https://github.com/abes-esr/item-client,True
 https://github.com/abes-esr/licencesnationales-back,True
@@ -4508,6 +4510,7 @@ https://github.com/medialab/unfccc-scrap-snippet,True
 https://github.com/medialab/ural,True
 https://github.com/medialab/webclim_analyses,True
 https://github.com/medialab/webclim_analyses_covid19,True
+https://github.com/medialab/webclim_buzzsumo,False
 https://github.com/medialab/webclim_facebook,True
 https://github.com/medialab/webclim_propagation_graphs_facebook,True
 https://github.com/medialab/webclim_temporal_evolution_facebook,True
@@ -6056,7 +6059,7 @@ https://gitlab.inria.fr/cedar/excel-extractor,True
 https://gitlab.inria.fr/cedar/excel-search,True
 https://gitlab.inria.fr/cedar/extraction-test,True
 https://gitlab.inria.fr/cedar/insee-crawler,True
-https://gitlab.inria.fr/cedar/obi-wan,False
+https://gitlab.inria.fr/cedar/obi-wan,True
 https://gitlab.inria.fr/cedar/obiwan-examples,True
 https://gitlab.inria.fr/cedar/spadedemo_vldb2019,True
 https://gitlab.inria.fr/cedar/statstical_mentions,True
@@ -7126,6 +7129,7 @@ https://gitlab.u-psud.fr/Info114/Data,True
 https://gitlab.u-psud.fr/Info114/sujets,True
 https://gitlab.u-psud.fr/Info122/Info122,True
 https://gitlab.u-psud.fr/Info122/Info122-sujets,True
+https://gitlab.u-psud.fr/MethNum/ComputerLab,False
 https://gitlab.u-psud.fr/MethNum/nbgrader,True
 https://gitlab.u-psud.fr/MethNum/scripts,True
 https://gitlab.u-psud.fr/SIF/Seance1,True
