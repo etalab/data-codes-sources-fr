@@ -437,6 +437,7 @@ https://forgemia.inra.fr/umr-astre/covid19-mortality,True
 https://forgemia.inra.fr/umr-astre/epidmap,True
 https://forgemia.inra.fr/umr-astre/geonetwork,True
 https://forgemia.inra.fr/umr-astre/mapMCDA,True
+https://forgemia.inra.fr/umr-astre/ppp-oie,False
 https://forgemia.inra.fr/umr-astre/spreadrate,True
 https://forgemia.inra.fr/umr-astre/topomatch,True
 https://forgemia.inra.fr/umr-astre/training/notions_stats,True
@@ -1935,7 +1936,7 @@ https://github.com/MTES-MCT/filharmonic-ui,True
 https://github.com/MTES-MCT/fluctuat,True
 https://github.com/MTES-MCT/fluctuat-apidoc,True
 https://github.com/MTES-MCT/france-connect-python,True
-https://github.com/MTES-MCT/franceconnect-python,False
+https://github.com/MTES-MCT/franceconnect-python,True
 https://github.com/MTES-MCT/geo-api,True
 https://github.com/MTES-MCT/geo-communes-api,True
 https://github.com/MTES-MCT/geostatis,True
@@ -4343,7 +4344,7 @@ https://github.com/medialab/ANTA2,True
 https://github.com/medialab/EAT_datascape,True
 https://github.com/medialab/Facettage,True
 https://github.com/medialab/FlaskTools,True
-https://github.com/medialab/Gazou_twint_sns_comp,False
+https://github.com/medialab/Gazou_twint_sns_comp,True
 https://github.com/medialab/GeoPolHist,True
 https://github.com/medialab/Ghost,True
 https://github.com/medialab/LDA_testing,True
@@ -6201,7 +6202,7 @@ https://gitlab.inria.fr/disrpt/tony,True
 https://gitlab.inria.fr/distem/distem,True
 https://gitlab.inria.fr/distem/distem.gitlabpages.inria.fr,True
 https://gitlab.inria.fr/diu-algo/labyrinthe,True
-https://gitlab.inria.fr/diverse-public/shared-docker,False
+https://gitlab.inria.fr/diverse-public/shared-docker,True
 https://gitlab.inria.fr/diverse/gforge-migration/openembedd/openembedd,True
 https://gitlab.inria.fr/diverse/gforge-migration/openembedd/openembedd-rep,True
 https://gitlab.inria.fr/dldb/discretelogdb,True
