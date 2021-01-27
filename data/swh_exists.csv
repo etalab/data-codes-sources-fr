@@ -104,7 +104,9 @@ https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.gran
 https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/web-portal/components/services/csv-catalog-downloader,True
 https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/web-portal/components/services/mailer,True
 https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/web-portal/components/services/media-library,True
+https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/web-portal/components/services/mongo-service,False
 https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/web-portal/components/services/organizations,True
+https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/web-portal/components/services/postgres-services,False
 https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/web-portal/components/services/resources-helper,True
 https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/web-portal/components/services/reuses,True
 https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/web-portal/components/services/social-media-share-helper,True
@@ -2285,6 +2287,7 @@ https://github.com/SocialGouv/importXLSLabos,True
 https://github.com/SocialGouv/jest-environment-knex,True
 https://github.com/SocialGouv/jmeter-kibana,True
 https://github.com/SocialGouv/jours-feries,True
+https://github.com/SocialGouv/k8s-ci,False
 https://github.com/SocialGouv/kali-data,True
 https://github.com/SocialGouv/kaligator,True
 https://github.com/SocialGouv/kosko-charts,True
@@ -2470,7 +2473,7 @@ https://github.com/abes-esr/ezmaster-globs,True
 https://github.com/abes-esr/fne-back,True
 https://github.com/abes-esr/fne-batch,True
 https://github.com/abes-esr/idref-api,True
-https://github.com/abes-esr/idref-queries,False
+https://github.com/abes-esr/idref-queries,True
 https://github.com/abes-esr/idrefplus-queries,True
 https://github.com/abes-esr/item-api,True
 https://github.com/abes-esr/item-client,True
@@ -4510,7 +4513,7 @@ https://github.com/medialab/unfccc-scrap-snippet,True
 https://github.com/medialab/ural,True
 https://github.com/medialab/webclim_analyses,True
 https://github.com/medialab/webclim_analyses_covid19,True
-https://github.com/medialab/webclim_buzzsumo,False
+https://github.com/medialab/webclim_buzzsumo,True
 https://github.com/medialab/webclim_facebook,True
 https://github.com/medialab/webclim_propagation_graphs_facebook,True
 https://github.com/medialab/webclim_temporal_evolution_facebook,True
