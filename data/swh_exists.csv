@@ -4570,7 +4570,7 @@ https://github.com/metwork-framework/docker-centos6,True
 https://github.com/metwork-framework/docker-centos7-opinionated,True
 https://github.com/metwork-framework/docker-drone-docker-specific-image,True
 https://github.com/metwork-framework/docker-drone-downstream-specific-image,True
-https://github.com/metwork-framework/docker-drone-repository-dispatch-specific-image,False
+https://github.com/metwork-framework/docker-drone-repository-dispatch-specific-image,True
 https://github.com/metwork-framework/docker-envtpl-runimage,True
 https://github.com/metwork-framework/docker-mfbaseplugins-centos8-buildimage,True
 https://github.com/metwork-framework/docker-mfcom-centos6-buildimage,True
@@ -5627,7 +5627,7 @@ https://gitlab.huma-num.fr/eurhisfirm/fibo-wikibase,True
 https://gitlab.huma-num.fr/eurhisfirm/gleif-wikibase,True
 https://gitlab.huma-num.fr/eurhisfirm/scob-wikibase,True
 https://gitlab.huma-num.fr/eurhisfirm/test-app-saisie,True
-https://gitlab.huma-num.fr/fp-lab/fplabsite,False
+https://gitlab.huma-num.fr/fp-lab/fplabsite,True
 https://gitlab.huma-num.fr/geographie-cites/autobiopedia,True
 https://gitlab.huma-num.fr/huma-num-public/next-auth-nakala,True
 https://gitlab.huma-num.fr/irihs/NakalaTools,True
@@ -7144,6 +7144,7 @@ https://gitlab.u-psud.fr/MethNum/nbgrader,True
 https://gitlab.u-psud.fr/MethNum/scripts,True
 https://gitlab.u-psud.fr/SIF/Seance1,True
 https://gitlab.u-psud.fr/SIF/sif-tools,True
+https://gitlab.u-psud.fr/castanea/documentation,False
 https://gitlab.u-psud.fr/egp/ile-interdite,True
 https://gitlab.u-psud.fr/galac/hceres,True
 https://gitlab.u-psud.fr/talend/projectfortac,True
