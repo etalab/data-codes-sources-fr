@@ -6000,6 +6000,7 @@ https://gitlab.inria.fr/auctus/panda/torque_qp,True
 https://gitlab.inria.fr/auctus/panda/velocity_qp,True
 https://gitlab.inria.fr/auctus/papers/setbasedrobotcapabilitiesestimation2020/code_public,True
 https://gitlab.inria.fr/aviz/paohvis,True
+https://gitlab.inria.fr/aviz/parcoursvis,False
 https://gitlab.inria.fr/bar/website,True
 https://gitlab.inria.fr/bass-db/bss_eval,True
 https://gitlab.inria.fr/bass-db/bss_locate,True
@@ -6550,7 +6551,7 @@ https://gitlab.inria.fr/line/aide-group/persistentdata,True
 https://gitlab.inria.fr/line/aide-group/slugstring,True
 https://gitlab.inria.fr/line/aide-group/tabletop,True
 https://gitlab.inria.fr/line/aide-group/wjson,True
-https://gitlab.inria.fr/line/creacubeanalysis,False
+https://gitlab.inria.fr/line/creacubeanalysis,True
 https://gitlab.inria.fr/line/wp-plugin-cai,True
 https://gitlab.inria.fr/line/wp_theme_cai,True
 https://gitlab.inria.fr/local-implicit-schemes/supplementary-material-numerische-mathematik,True
@@ -6712,7 +6713,7 @@ https://gitlab.inria.fr/openvibe/extras,True
 https://gitlab.inria.fr/openvibe/games,True
 https://gitlab.inria.fr/openvibe/meta,True
 https://gitlab.inria.fr/openvibe/sdk,True
-https://gitlab.inria.fr/openvibe/unity-games/LSL4Unity,False
+https://gitlab.inria.fr/openvibe/unity-games/LSL4Unity,True
 https://gitlab.inria.fr/openvibe/unity-games/basketball,True
 https://gitlab.inria.fr/openvibe/unity-games/games,True
 https://gitlab.inria.fr/openvibe/unity-games/hello-sender,True
