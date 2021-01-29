@@ -432,6 +432,7 @@ https://forgemia.inra.fr/svdetection/popsim,True
 https://forgemia.inra.fr/svdetection/svlib,True
 https://forgemia.inra.fr/umr-1202-biogeco/snakemake_singularity_hpc,True
 https://forgemia.inra.fr/umr-astre/amr-laos,True
+https://forgemia.inra.fr/umr-astre/asf-challenge,False
 https://forgemia.inra.fr/umr-astre/cirad,True
 https://forgemia.inra.fr/umr-astre/covid19-mortality,True
 https://forgemia.inra.fr/umr-astre/epidmap,True
@@ -6552,6 +6553,7 @@ https://gitlab.inria.fr/line/aide-group/ozobot-api,True
 https://gitlab.inria.fr/line/aide-group/ozobot-lib,True
 https://gitlab.inria.fr/line/aide-group/persistentdata,True
 https://gitlab.inria.fr/line/aide-group/slugstring,True
+https://gitlab.inria.fr/line/aide-group/stepsolver,False
 https://gitlab.inria.fr/line/aide-group/tabletop,True
 https://gitlab.inria.fr/line/aide-group/wjson,True
 https://gitlab.inria.fr/line/creacubeanalysis,True
@@ -7099,6 +7101,7 @@ https://gitlab.math.unistra.fr/gitlab-tools/gitlab-users,True
 https://gitlab.math.unistra.fr/groupe-calcul/spip2pelican,True
 https://gitlab.math.unistra.fr/groupe-calcul/website,True
 https://gitlab.math.unistra.fr/hyperkin/hyperkin,True
+https://gitlab.math.unistra.fr/ml/slides_exposes,False
 https://gitlab.math.unistra.fr/patapon/patapon,True
 https://gitlab.math.unistra.fr/proba-mc2020/proba-mc2020,True
 https://gitlab.math.unistra.fr/urfist/cours-python,True
