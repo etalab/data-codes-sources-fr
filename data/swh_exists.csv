@@ -4925,7 +4925,7 @@ https://github.com/openfun/fun-translations,True
 https://github.com/openfun/fun-videofront-xblock,True
 https://github.com/openfun/hackathon,True
 https://github.com/openfun/handbook,True
-https://github.com/openfun/joanie,False
+https://github.com/openfun/joanie,True
 https://github.com/openfun/learninglocker-docker,True
 https://github.com/openfun/libcast-xblock,True
 https://github.com/openfun/mail-fun-edx,True
@@ -6123,6 +6123,7 @@ https://gitlab.inria.fr/comprise/comprise_sdk_developer_ui,True
 https://gitlab.inria.fr/comprise/comprise_speech_to_text,True
 https://gitlab.inria.fr/comprise/comprise_text_to_speech,True
 https://gitlab.inria.fr/comprise/deliverable_d21,True
+https://gitlab.inria.fr/comprise/deliverables/deliverable-d33,False
 https://gitlab.inria.fr/comprise/deliverables/deliverable_d21,True
 https://gitlab.inria.fr/comprise/deliverables/deliverable_d22,True
 https://gitlab.inria.fr/comprise/deliverables/deliverable_d32,True
