@@ -14,7 +14,7 @@ https://dci-gitlab.cines.fr/dad/ffds-smart-harvester,True
 https://dci-gitlab.cines.fr/dad/openrefine-metadata,True
 https://dci-gitlab.cines.fr/dad/pastis-dad-externe,True
 https://dci-gitlab.cines.fr/dad/pastis-extern,True
-https://dci-gitlab.cines.fr/dad/pastis-vitamui,False
+https://dci-gitlab.cines.fr/dad/pastis-vitamui,True
 https://dci-gitlab.cines.fr/dad/sip-builder-parent,True
 https://dci-gitlab.cines.fr/dad/smartapi,True
 https://dci-gitlab.cines.fr/dad/test-sphinx,True
@@ -936,7 +936,7 @@ https://github.com/ApieFrance/ApieFrance.github.io,True
 https://github.com/ApieFrance/choosealicense.com,True
 https://github.com/AssuranceMaladieSec/CertStreamMonitor,True
 https://github.com/AssuranceMaladieSec/abuse,True
-https://github.com/AssuranceMaladieSec/ressources-faq-assures,False
+https://github.com/AssuranceMaladieSec/ressources-faq-assures,True
 https://github.com/BRGM/ANZSoilML,True
 https://github.com/BRGM/BLiv,True
 https://github.com/BRGM/ComPASS,True
@@ -6556,7 +6556,7 @@ https://gitlab.inria.fr/line/aide-group/ozobot-api,True
 https://gitlab.inria.fr/line/aide-group/ozobot-lib,True
 https://gitlab.inria.fr/line/aide-group/persistentdata,True
 https://gitlab.inria.fr/line/aide-group/slugstring,True
-https://gitlab.inria.fr/line/aide-group/stepsolver,False
+https://gitlab.inria.fr/line/aide-group/stepsolver,True
 https://gitlab.inria.fr/line/aide-group/tabletop,True
 https://gitlab.inria.fr/line/aide-group/wjson,True
 https://gitlab.inria.fr/line/creacubeanalysis,True
