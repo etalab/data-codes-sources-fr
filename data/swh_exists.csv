@@ -3868,6 +3868,7 @@ https://github.com/etalab/prevair-demo,True
 https://github.com/etalab/prevair-experiment,True
 https://github.com/etalab/project-legal,True
 https://github.com/etalab/pseudononymizer,True
+https://github.com/etalab/q2a-theme-etalab,False
 https://github.com/etalab/quartiers-prioritaires,True
 https://github.com/etalab/radar-tech,True
 https://github.com/etalab/recherche.etalab.studio,True
@@ -5691,6 +5692,7 @@ https://gitlab.huma-num.fr/rzine/add_author,True
 https://gitlab.huma-num.fr/rzine/add_news,True
 https://gitlab.huma-num.fr/rzine/add_publication,True
 https://gitlab.huma-num.fr/rzine/documentation,True
+https://gitlab.huma-num.fr/rzine/site,False
 https://gitlab.huma-num.fr/tip/flatdb4geonames,True
 https://gitlab.huma-num.fr/tip/geneaquilt,True
 https://gitlab.huma-num.fr/tip/graphic-kit,True
