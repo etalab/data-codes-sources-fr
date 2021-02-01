@@ -433,7 +433,7 @@ https://forgemia.inra.fr/svdetection/popsim,True
 https://forgemia.inra.fr/svdetection/svlib,True
 https://forgemia.inra.fr/umr-1202-biogeco/snakemake_singularity_hpc,True
 https://forgemia.inra.fr/umr-astre/amr-laos,True
-https://forgemia.inra.fr/umr-astre/asf-challenge,False
+https://forgemia.inra.fr/umr-astre/asf-challenge,True
 https://forgemia.inra.fr/umr-astre/cirad,True
 https://forgemia.inra.fr/umr-astre/covid19-mortality,True
 https://forgemia.inra.fr/umr-astre/epidmap,True
@@ -2696,6 +2696,7 @@ https://github.com/betagouv/api-particulier-auth-deprecated,True
 https://github.com/betagouv/api-particulier-demo,True
 https://github.com/betagouv/api-particulier-demo-traces,True
 https://github.com/betagouv/api-particulier-deprecated,True
+https://github.com/betagouv/api-particulier-legacy-token-feeder,False
 https://github.com/betagouv/api-particulier-lib,True
 https://github.com/betagouv/api-particulier-mesri-connector,True
 https://github.com/betagouv/api-particulier-pole-emploi-connector,True
@@ -5605,7 +5606,7 @@ https://gitlab.huma-num.fr/cbma/hagiographie,True
 https://gitlab.huma-num.fr/cbma/nosketch_engine-dockerfile,True
 https://gitlab.huma-num.fr/cbma/outil-epigraphie,True
 https://gitlab.huma-num.fr/cbma/txm,True
-https://gitlab.huma-num.fr/chi-know-po/shijing-net,False
+https://gitlab.huma-num.fr/chi-know-po/shijing-net,True
 https://gitlab.huma-num.fr/code-performance/code-performance,True
 https://gitlab.huma-num.fr/consortium3d/aLTAG3D,True
 https://gitlab.huma-num.fr/cosme/telma_chartes_exports,True
@@ -6665,6 +6666,7 @@ https://gitlab.inria.fr/moex/linkky,True
 https://gitlab.inria.fr/moex/ontosim,True
 https://gitlab.inria.fr/moex/pagetest,True
 https://gitlab.inria.fr/moex/psparql,True
+https://gitlab.inria.fr/moex/pysake,False
 https://gitlab.inria.fr/moex/scarlet,True
 https://gitlab.inria.fr/moex/swip,True
 https://gitlab.inria.fr/moex/transmorpher,True
