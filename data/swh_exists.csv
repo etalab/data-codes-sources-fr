@@ -439,7 +439,7 @@ https://forgemia.inra.fr/umr-astre/covid19-mortality,True
 https://forgemia.inra.fr/umr-astre/epidmap,True
 https://forgemia.inra.fr/umr-astre/geonetwork,True
 https://forgemia.inra.fr/umr-astre/mapMCDA,True
-https://forgemia.inra.fr/umr-astre/ppp-oie,False
+https://forgemia.inra.fr/umr-astre/ppp-oie,True
 https://forgemia.inra.fr/umr-astre/spreadrate,True
 https://forgemia.inra.fr/umr-astre/topomatch,True
 https://forgemia.inra.fr/umr-astre/training/notions_stats,True
@@ -1810,6 +1810,7 @@ https://github.com/InseeFrLab/ubuntu-vnc-dind,True
 https://github.com/InseeFrLab/utilitR,True
 https://github.com/InseeFrLab/utilitR-website,True
 https://github.com/InseeFrLab/utilitr-bonnes-pratiques,True
+https://github.com/InseeFrLab/utilitr-template,False
 https://github.com/InseeFrLab/vscode-python,True
 https://github.com/Irstea/ALPFORPLOTS,True
 https://github.com/Irstea/Redmine-mod-perl-auth,True
@@ -2479,6 +2480,7 @@ https://github.com/abes-esr/archi-model-example,True
 https://github.com/abes-esr/ezmaster-globs,True
 https://github.com/abes-esr/fne-back,True
 https://github.com/abes-esr/fne-batch,True
+https://github.com/abes-esr/fne-front,False
 https://github.com/abes-esr/idref-api,True
 https://github.com/abes-esr/idref-queries,True
 https://github.com/abes-esr/idrefplus-queries,True
@@ -3687,6 +3689,7 @@ https://github.com/etalab/banatic,True
 https://github.com/etalab/barometre-resultats,True
 https://github.com/etalab/barometre-resultats-documentation,True
 https://github.com/etalab/barometre-resultats-donnees,True
+https://github.com/etalab/barometre-resultats-widgets,False
 https://github.com/etalab/biryani,True
 https://github.com/etalab/blog-eig2,True
 https://github.com/etalab/blog.data.gouv.fr,True
@@ -6049,6 +6052,8 @@ https://gitlab.inria.fr/bioimage-it/package,True
 https://gitlab.inria.fr/bioimage-it/sampletool,True
 https://gitlab.inria.fr/bioimage-it/toolbox-js-browser,True
 https://gitlab.inria.fr/bioimage-it/toolboxes,True
+https://gitlab.inria.fr/bism/bism-experiments,False
+https://gitlab.inria.fr/bism/bism-public,False
 https://gitlab.inria.fr/blare/kblare,True
 https://gitlab.inria.fr/blare/kblare-tests,True
 https://gitlab.inria.fr/blare/kblare-tools,True
@@ -6371,6 +6376,7 @@ https://gitlab.inria.fr/gazelle/library/fhir-util,True
 https://gitlab.inria.fr/gazelle/library/gazelle-assertion-coverage-provider,True
 https://gitlab.inria.fr/gazelle/library/gazelle-assets,True
 https://gitlab.inria.fr/gazelle/library/gazelle-preferences,True
+https://gitlab.inria.fr/gazelle/library/gazelle-tools,False
 https://gitlab.inria.fr/gazelle/library/home,True
 https://gitlab.inria.fr/gazelle/library/hql,True
 https://gitlab.inria.fr/gazelle/library/preference,True
