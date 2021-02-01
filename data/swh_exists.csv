@@ -411,6 +411,7 @@ https://forgemia.inra.fr/record/RECORD,True
 https://forgemia.inra.fr/record/RecordingTools,True
 https://forgemia.inra.fr/record/agrodynaland,True
 https://forgemia.inra.fr/record/azodyn,True
+https://forgemia.inra.fr/record/docker-planemo,False
 https://forgemia.inra.fr/record/pydynamics,True
 https://forgemia.inra.fr/record/recordregistry,True
 https://forgemia.inra.fr/record/recordweb,True
@@ -6008,7 +6009,7 @@ https://gitlab.inria.fr/auctus/panda/torque_qp,True
 https://gitlab.inria.fr/auctus/panda/velocity_qp,True
 https://gitlab.inria.fr/auctus/papers/setbasedrobotcapabilitiesestimation2020/code_public,True
 https://gitlab.inria.fr/aviz/paohvis,True
-https://gitlab.inria.fr/aviz/parcoursvis,False
+https://gitlab.inria.fr/aviz/parcoursvis,True
 https://gitlab.inria.fr/bar/website,True
 https://gitlab.inria.fr/bass-db/bss_eval,True
 https://gitlab.inria.fr/bass-db/bss_locate,True
@@ -7137,7 +7138,7 @@ https://gitlab.orfeo-toolbox.org/s1-tiling/s1tilingsupportapplications,True
 https://gitlab.ow2.org/lemonldap-ng/lemonldap-ng,True
 https://gitlab.ow2.org/lemonldap-ng/vue-manager-for-llng,True
 https://gitlab.ow2.org/lemonldap-ng/website-landing-page,True
-https://gitlab.u-psud.fr/AgregOptionC/AlgebreLineaireFormesEchelon,False
+https://gitlab.u-psud.fr/AgregOptionC/AlgebreLineaireFormesEchelon,True
 https://gitlab.u-psud.fr/Coucou/Test,False
 https://gitlab.u-psud.fr/Coucou/Truc,True
 https://gitlab.u-psud.fr/Info111/ComputerLab,True
