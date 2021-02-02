@@ -136,7 +136,7 @@ https://forge.univ-lyon1.fr/diu-eil/bloc4,True
 https://forge.univ-lyon1.fr/e-planets/bibtexdb,True
 https://forge.univ-lyon1.fr/e-planets/macports,True
 https://forge.univ-lyon1.fr/e-planets/morefilters,True
-https://forge.univ-lyon1.fr/e-planets/roma,False
+https://forge.univ-lyon1.fr/e-planets/roma,True
 https://forge.univ-lyon1.fr/e-planets/spat,True
 https://forge.univ-lyon1.fr/faq-raspi/rpi-faq,True
 https://forge.univ-lyon1.fr/forge_public/ci-images,True
@@ -958,7 +958,7 @@ https://github.com/BRGM/gmlib,True
 https://github.com/BRGM/hubeau,True
 https://github.com/BRGM/plouf,True
 https://github.com/BRGM/razorback,True
-https://github.com/BRGM/razorback-tutorial-data,False
+https://github.com/BRGM/razorback-tutorial-data,True
 https://github.com/BRGM/registry-core,True
 https://github.com/BRGM/vtkwriters,True
 https://github.com/BaseAdresseNationale/api-gestion,True
@@ -1802,6 +1802,7 @@ https://github.com/InseeFrLab/rjdworkspace,True
 https://github.com/InseeFrLab/rstudio,True
 https://github.com/InseeFrLab/rstudio-gpu,True
 https://github.com/InseeFrLab/simple-default-backend,True
+https://github.com/InseeFrLab/spark,False
 https://github.com/InseeFrLab/spark-hadoop,False
 https://github.com/InseeFrLab/sugoi-api,True
 https://github.com/InseeFrLab/sugoi-ui,True
@@ -2482,6 +2483,7 @@ https://github.com/abes-esr/ezmaster-globs,True
 https://github.com/abes-esr/fne-back,True
 https://github.com/abes-esr/fne-batch,True
 https://github.com/abes-esr/fne-front,False
+https://github.com/abes-esr/fne-import,False
 https://github.com/abes-esr/idref-api,True
 https://github.com/abes-esr/idref-queries,True
 https://github.com/abes-esr/idrefplus-queries,True
