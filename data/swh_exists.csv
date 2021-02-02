@@ -1802,6 +1802,7 @@ https://github.com/InseeFrLab/rjdworkspace,True
 https://github.com/InseeFrLab/rstudio,True
 https://github.com/InseeFrLab/rstudio-gpu,True
 https://github.com/InseeFrLab/simple-default-backend,True
+https://github.com/InseeFrLab/spark-hadoop,False
 https://github.com/InseeFrLab/sugoi-api,True
 https://github.com/InseeFrLab/sugoi-ui,True
 https://github.com/InseeFrLab/tensorflow,True
@@ -4560,6 +4561,7 @@ https://github.com/messagerie-melanie2/Roundcube-plugins-Mel,True
 https://github.com/messagerie-melanie2/SabreDAVM2,True
 https://github.com/messagerie-melanie2/mel-electron,True
 https://github.com/messagerie-melanie2/mel_archivage,True
+https://github.com/messagerie-melanie2/wekan,False
 https://github.com/meteofrance/formation-deep-learning,True
 https://github.com/meteofrance/formation-machine-learning,True
 https://github.com/meteofrance/formation-mlflow,True
@@ -5017,6 +5019,7 @@ https://github.com/openmole/spatialdata,True
 https://github.com/openmole/spatialsampling,True
 https://github.com/openmole/xz-scala,True
 https://github.com/openmole/yapa,True
+https://github.com/pass-culture/FreezeMerge,False
 https://github.com/pass-culture/data-analytics,True
 https://github.com/pass-culture/data-science,True
 https://github.com/pass-culture/enriched_data,True
