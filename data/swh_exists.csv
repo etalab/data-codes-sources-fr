@@ -1090,6 +1090,7 @@ https://github.com/CatalaLang/catala,True
 https://github.com/CatalaLang/catala-website,True
 https://github.com/Cour-de-cassation/label,True
 https://github.com/Cour-de-cassation/moteurNER,True
+https://github.com/Cour-de-cassation/openjustice-sder,False
 https://github.com/Cour-des-comptes/open-anafi-backend,True
 https://github.com/Cour-des-comptes/open-anafi-frontend,True
 https://github.com/DFIR-ORC/dfir-orc,True
@@ -5167,6 +5168,9 @@ https://github.com/sigrennesmetropole/mviewerstudio,True
 https://github.com/sigrennesmetropole/photos_obliques,True
 https://github.com/sigrennesmetropole/qgis-3liz-tools,True
 https://github.com/sigrennesmetropole/rmtr,True
+https://github.com/sigrennesmetropole/rudi_documentation,False
+https://github.com/sigrennesmetropole/rudi_portal,False
+https://github.com/sigrennesmetropole/rudi_producer_node,False
 https://github.com/sigrennesmetropole/storymap,True
 https://github.com/sigrennesmetropole/sviewer,True
 https://github.com/sigrennesmetropole/sviewer-com,True
@@ -6837,6 +6841,7 @@ https://gitlab.inria.fr/sed-rennes/sharelatex/inria-docker-sharelatex,True
 https://gitlab.inria.fr/sed-rennes/sharelatex/python-sharelatex,True
 https://gitlab.inria.fr/sed-rennes/sharelatex/sharelatex,True
 https://gitlab.inria.fr/sed-rennes/sharelatex/web-sharelatex,True
+https://gitlab.inria.fr/sed-rennes/test-droits,False
 https://gitlab.inria.fr/sed-saclay/TutorielGitlabPages,True
 https://gitlab.inria.fr/sed-saclay/formulairesdemandesingenieur,True
 https://gitlab.inria.fr/semagramme-public-projects/resources/french-fracas,True
@@ -7122,6 +7127,7 @@ https://gitlab.math.unistra.fr/gitlab-tools/gitlab-users,True
 https://gitlab.math.unistra.fr/groupe-calcul/spip2pelican,True
 https://gitlab.math.unistra.fr/groupe-calcul/website,True
 https://gitlab.math.unistra.fr/hyperkin/hyperkin,True
+https://gitlab.math.unistra.fr/ml/references,False
 https://gitlab.math.unistra.fr/ml/slides_exposes,True
 https://gitlab.math.unistra.fr/patapon/patapon,True
 https://gitlab.math.unistra.fr/proba-mc2020/proba-mc2020,True
