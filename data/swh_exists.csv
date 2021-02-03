@@ -2217,6 +2217,7 @@ https://github.com/SimPLU3D/simplu3D-tutorial,True
 https://github.com/SimPLU3D/simplu3D-workflow,True
 https://github.com/SimPLU3D/simplushp2pgsql,True
 https://github.com/SocialGouv/.github,True
+https://github.com/SocialGouv/.k8s,False
 https://github.com/SocialGouv/SocialGouvUi,True
 https://github.com/SocialGouv/TextStyle,True
 https://github.com/SocialGouv/TextStyle-script,True
@@ -6060,6 +6061,7 @@ https://gitlab.inria.fr/bioimage-it/bioimagepy-tutorial,True
 https://gitlab.inria.fr/bioimage-it/fiji-tools,True
 https://gitlab.inria.fr/bioimage-it/htesting-tools,True
 https://gitlab.inria.fr/bioimage-it/package,True
+https://gitlab.inria.fr/bioimage-it/pycudadecon,False
 https://gitlab.inria.fr/bioimage-it/sampletool,True
 https://gitlab.inria.fr/bioimage-it/toolbox-js-browser,True
 https://gitlab.inria.fr/bioimage-it/toolboxes,True
