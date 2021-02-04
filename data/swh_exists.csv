@@ -432,6 +432,7 @@ https://forgemia.inra.fr/sunrise/network-inference,True
 https://forgemia.inra.fr/svdetection/cnvpipelines,True
 https://forgemia.inra.fr/svdetection/popsim,True
 https://forgemia.inra.fr/svdetection/svlib,True
+https://forgemia.inra.fr/umr-1202-biogeco/how-to-reproductibility,False
 https://forgemia.inra.fr/umr-1202-biogeco/snakemake_singularity_hpc,True
 https://forgemia.inra.fr/umr-astre/amr-laos,True
 https://forgemia.inra.fr/umr-astre/asf-challenge,True
@@ -1091,7 +1092,8 @@ https://github.com/CatalaLang/catala,True
 https://github.com/CatalaLang/catala-website,True
 https://github.com/Cour-de-cassation/label,True
 https://github.com/Cour-de-cassation/moteurNER,True
-https://github.com/Cour-de-cassation/openjustice-sder,False
+https://github.com/Cour-de-cassation/openjustice-sder,True
+https://github.com/Cour-de-cassation/sder,False
 https://github.com/Cour-des-comptes/open-anafi-backend,True
 https://github.com/Cour-des-comptes/open-anafi-frontend,True
 https://github.com/DFIR-ORC/dfir-orc,True
@@ -6847,7 +6849,7 @@ https://gitlab.inria.fr/sed-rennes/sharelatex/inria-docker-sharelatex,True
 https://gitlab.inria.fr/sed-rennes/sharelatex/python-sharelatex,True
 https://gitlab.inria.fr/sed-rennes/sharelatex/sharelatex,True
 https://gitlab.inria.fr/sed-rennes/sharelatex/web-sharelatex,True
-https://gitlab.inria.fr/sed-rennes/test-droits,False
+https://gitlab.inria.fr/sed-rennes/test-droits,True
 https://gitlab.inria.fr/sed-saclay/TutorielGitlabPages,True
 https://gitlab.inria.fr/sed-saclay/formulairesdemandesingenieur,True
 https://gitlab.inria.fr/semagramme-public-projects/resources/french-fracas,True
@@ -6962,6 +6964,7 @@ https://gitlab.inria.fr/these-bxi/r-util,True
 https://gitlab.inria.fr/these-bxi/s4bxi-cmake-modules,True
 https://gitlab.inria.fr/these-bxi/s4bxi-config-generator,True
 https://gitlab.inria.fr/these-bxi/s4bxi-log-viewer,True
+https://gitlab.inria.fr/these-bxi/s4bxi-platforms,False
 https://gitlab.inria.fr/these-bxi/s4bxi-runner,False
 https://gitlab.inria.fr/thoth/python-spams,True
 https://gitlab.inria.fr/thoth/spams-devel,True
@@ -7133,7 +7136,7 @@ https://gitlab.math.unistra.fr/gitlab-tools/gitlab-users,True
 https://gitlab.math.unistra.fr/groupe-calcul/spip2pelican,True
 https://gitlab.math.unistra.fr/groupe-calcul/website,True
 https://gitlab.math.unistra.fr/hyperkin/hyperkin,True
-https://gitlab.math.unistra.fr/ml/references,False
+https://gitlab.math.unistra.fr/ml/references,True
 https://gitlab.math.unistra.fr/ml/slides_exposes,True
 https://gitlab.math.unistra.fr/patapon/patapon,True
 https://gitlab.math.unistra.fr/proba-mc2020/proba-mc2020,True
