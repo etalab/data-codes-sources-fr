@@ -610,7 +610,7 @@ https://git.unistra.fr/community/pount-api,True
 https://git.unistra.fr/community/pount-front,True
 https://git.unistra.fr/conseils/enquete-unistra-2019,True
 https://git.unistra.fr/corona-corp-v2/t432_liy20_t3_a,True
-https://git.unistra.fr/coursr/cours_intror,False
+https://git.unistra.fr/coursr/cours_intror,True
 https://git.unistra.fr/csrd/white_paper_form,True
 https://git.unistra.fr/datachallenge/openaccessweek2019,True
 https://git.unistra.fr/deepen/corpus-reference,False
@@ -4719,6 +4719,7 @@ https://github.com/neuroanatomy/growth,True
 https://github.com/neuroanatomy/marching_cubes,True
 https://github.com/neuroanatomy/meshgeometry,True
 https://github.com/neuroanatomy/microdraw,True
+https://github.com/neuroanatomy/microdraw-tutorials,False
 https://github.com/neuroanatomy/microdraw.py,True
 https://github.com/neuroanatomy/mrijs,True
 https://github.com/neuroanatomy/neuroanatomy.github.com,True
@@ -5860,6 +5861,7 @@ https://gitlab.inria.fr/Spirals/monsoon,True
 https://gitlab.inria.fr/TeamPlay_Public/TeamPlay_Public_Deliverables,True
 https://gitlab.inria.fr/VeRDi-project/concerto,True
 https://gitlab.inria.fr/VeRDi-project/concerto-evaluation,True
+https://gitlab.inria.fr/VeRDi-project/concerto-plan-synthesis,False
 https://gitlab.inria.fr/VeRDi-project/ecadorel,True
 https://gitlab.inria.fr/VeRDi-project/galera-experiment,True
 https://gitlab.inria.fr/VeRDi-project/madeus-journal,True
