@@ -1873,6 +1873,7 @@ https://github.com/LINCnil/Recommandations-pour-le-teletravail,True
 https://github.com/LINCnil/cookieCuttr,True
 https://github.com/LINCnil/dereferencement,True
 https://github.com/LINCnil/encryption_infographics,True
+https://github.com/LINCnil/obs-cookies,False
 https://github.com/LINCnil/pia,True
 https://github.com/LINCnil/pia-app,True
 https://github.com/LINCnil/pia-back,True
@@ -2300,6 +2301,7 @@ https://github.com/SocialGouv/importXLSLabos,True
 https://github.com/SocialGouv/jest-environment-knex,True
 https://github.com/SocialGouv/jmeter-kibana,True
 https://github.com/SocialGouv/jours-feries,True
+https://github.com/SocialGouv/k8s,False
 https://github.com/SocialGouv/k8s-ci,True
 https://github.com/SocialGouv/kali-data,True
 https://github.com/SocialGouv/kaligator,True
@@ -6066,7 +6068,7 @@ https://gitlab.inria.fr/bioimage-it/pycudadecon,False
 https://gitlab.inria.fr/bioimage-it/sampletool,True
 https://gitlab.inria.fr/bioimage-it/toolbox-js-browser,True
 https://gitlab.inria.fr/bioimage-it/toolboxes,True
-https://gitlab.inria.fr/bism/bism-experiments,False
+https://gitlab.inria.fr/bism/bism-experiments,True
 https://gitlab.inria.fr/bism/bism-public,False
 https://gitlab.inria.fr/blare/kblare,True
 https://gitlab.inria.fr/blare/kblare-tests,True
@@ -6391,7 +6393,7 @@ https://gitlab.inria.fr/gazelle/library/fhir-util,True
 https://gitlab.inria.fr/gazelle/library/gazelle-assertion-coverage-provider,True
 https://gitlab.inria.fr/gazelle/library/gazelle-assets,True
 https://gitlab.inria.fr/gazelle/library/gazelle-preferences,True
-https://gitlab.inria.fr/gazelle/library/gazelle-tools,False
+https://gitlab.inria.fr/gazelle/library/gazelle-tools,True
 https://gitlab.inria.fr/gazelle/library/home,True
 https://gitlab.inria.fr/gazelle/library/hql,True
 https://gitlab.inria.fr/gazelle/library/preference,True
