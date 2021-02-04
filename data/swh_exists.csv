@@ -119,6 +119,7 @@ https://forge.univ-lyon1.fr/albystructi/oop,True
 https://forge.univ-lyon1.fr/aml-lyon1/actionrobot,True
 https://forge.univ-lyon1.fr/aml-lyon1/campusdulibre,True
 https://forge.univ-lyon1.fr/bd-pedago/bd-pedago,True
+https://forge.univ-lyon1.fr/bpn/moduleimage,False
 https://forge.univ-lyon1.fr/cannes-cpoa/accommodation-management,True
 https://forge.univ-lyon1.fr/cannes-cpoa/ihm,True
 https://forge.univ-lyon1.fr/cannes-cpoa/ihm-agenda,True
@@ -1456,7 +1457,7 @@ https://github.com/IGNF/evidence4j,True
 https://github.com/IGNF/evolution-apigeoportail,True
 https://github.com/IGNF/geoportail-urbanisme-dev,True
 https://github.com/IGNF/geoportal-access-lib,True
-https://github.com/IGNF/geoportal-access-lib-samples,False
+https://github.com/IGNF/geoportal-access-lib-samples,True
 https://github.com/IGNF/geoportal-extensions,True
 https://github.com/IGNF/geoportal-extensions-itowns,True
 https://github.com/IGNF/geoportal-extensions-leaflet,True
