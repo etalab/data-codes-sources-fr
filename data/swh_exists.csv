@@ -432,7 +432,7 @@ https://forgemia.inra.fr/sunrise/network-inference,True
 https://forgemia.inra.fr/svdetection/cnvpipelines,True
 https://forgemia.inra.fr/svdetection/popsim,True
 https://forgemia.inra.fr/svdetection/svlib,True
-https://forgemia.inra.fr/umr-1202-biogeco/how-to-reproductibility,False
+https://forgemia.inra.fr/umr-1202-biogeco/how-to-reproductibility,True
 https://forgemia.inra.fr/umr-1202-biogeco/snakemake_singularity_hpc,True
 https://forgemia.inra.fr/umr-astre/amr-laos,True
 https://forgemia.inra.fr/umr-astre/asf-challenge,True
@@ -1093,7 +1093,7 @@ https://github.com/CatalaLang/catala-website,True
 https://github.com/Cour-de-cassation/label,True
 https://github.com/Cour-de-cassation/moteurNER,True
 https://github.com/Cour-de-cassation/openjustice-sder,True
-https://github.com/Cour-de-cassation/sder,False
+https://github.com/Cour-de-cassation/sder,True
 https://github.com/Cour-des-comptes/open-anafi-backend,True
 https://github.com/Cour-des-comptes/open-anafi-frontend,True
 https://github.com/DFIR-ORC/dfir-orc,True
@@ -3701,7 +3701,7 @@ https://github.com/etalab/banatic,True
 https://github.com/etalab/barometre-resultats,True
 https://github.com/etalab/barometre-resultats-documentation,True
 https://github.com/etalab/barometre-resultats-donnees,True
-https://github.com/etalab/barometre-resultats-widgets,False
+https://github.com/etalab/barometre-resultats-widgets,True
 https://github.com/etalab/biryani,True
 https://github.com/etalab/blog-eig2,True
 https://github.com/etalab/blog.data.gouv.fr,True
@@ -3885,7 +3885,7 @@ https://github.com/etalab/prevair-demo,True
 https://github.com/etalab/prevair-experiment,True
 https://github.com/etalab/project-legal,True
 https://github.com/etalab/pseudononymizer,True
-https://github.com/etalab/q2a-theme-etalab,False
+https://github.com/etalab/q2a-theme-etalab,True
 https://github.com/etalab/quartiers-prioritaires,True
 https://github.com/etalab/radar-tech,True
 https://github.com/etalab/recherche.etalab.studio,True
