@@ -678,6 +678,7 @@ https://git.unistra.fr/maf19-t4-c/Asimo-BOT,True
 https://git.unistra.fr/master-erp/api,True
 https://git.unistra.fr/methal/methal-sources,True
 https://git.unistra.fr/mih18-t4-a/ELECTOR2K18,True
+https://git.unistra.fr/monti-duvernay/P4a,False
 https://git.unistra.fr/my-awesome-group-de-tekdaiv/essaiededepotcommun,False
 https://git.unistra.fr/p4a_zj/P4a,True
 https://git.unistra.fr/p4b-ongagna-lehmann-at3/P4a,True
@@ -689,6 +690,7 @@ https://git.unistra.fr/presUni/HAJ18-T4-D,True
 https://git.unistra.fr/project-master/pro-master,True
 https://git.unistra.fr/projet-a31-connect4/connect4,True
 https://git.unistra.fr/projet-integrateur-grp-3/frontend,True
+https://git.unistra.fr/promesse/P4a,False
 https://git.unistra.fr/pub/SupportPortal-aid,True
 https://git.unistra.fr/pub/revealjs-generator,True
 https://git.unistra.fr/rivelinelab/imagej-polyline-kymograph,True
@@ -2755,7 +2757,7 @@ https://github.com/betagouv/covoiturage-attestation,False
 https://github.com/betagouv/covoiturage-attestation-honneur,True
 https://github.com/betagouv/dashboard_apientreprise,True
 https://github.com/betagouv/datagir-iframe,True
-https://github.com/betagouv/datagir-site,False
+https://github.com/betagouv/datagir-site,True
 https://github.com/betagouv/datapass,True
 https://github.com/betagouv/datapass-api-particulier-bridge,True
 https://github.com/betagouv/dds-cross-simulator,True
@@ -5177,7 +5179,7 @@ https://github.com/sigrennesmetropole/qgis-3liz-tools,True
 https://github.com/sigrennesmetropole/rmtr,True
 https://github.com/sigrennesmetropole/rudi_documentation,False
 https://github.com/sigrennesmetropole/rudi_portal,False
-https://github.com/sigrennesmetropole/rudi_producer_node,False
+https://github.com/sigrennesmetropole/rudi_producer_node,True
 https://github.com/sigrennesmetropole/storymap,True
 https://github.com/sigrennesmetropole/sviewer,True
 https://github.com/sigrennesmetropole/sviewer-com,True
