@@ -173,6 +173,7 @@ https://forge.univ-lyon1.fr/tiw-is/tiw1-is-2019,True
 https://forge.univ-lyon1.fr/tiw-is/tiw1-is-2020,True
 https://forgemia.inra.fr/4p/maquettes-4p,True
 https://forgemia.inra.fr/4p/modules/pheno-extraction,True
+https://forgemia.inra.fr/4p/modules/phis-import,False
 https://forgemia.inra.fr/4p/pheno-extraction,True
 https://forgemia.inra.fr/4p/user-guide,True
 https://forgemia.inra.fr/DecisionBleDur/DecisionBleDur,True
@@ -603,6 +604,7 @@ https://git.unistra.fr/barre-oblique-v3/t432_sab20_t3_b,False
 https://git.unistra.fr/barreoblique/connectfour,True
 https://git.unistra.fr/botanique23/T4_PID_A,True
 https://git.unistra.fr/c/st,True
+https://git.unistra.fr/clauss-goffic/P4z,False
 https://git.unistra.fr/cmi-production/projet-integrateur,True
 https://git.unistra.fr/community/ina-import,True
 https://git.unistra.fr/community/io-heurist,True
@@ -746,6 +748,7 @@ https://github.com/1024pix/ember-cli-matomo-tag-manager,True
 https://github.com/1024pix/ember-sentry,True
 https://github.com/1024pix/formation-jeremie,True
 https://github.com/1024pix/gateway,True
+https://github.com/1024pix/gravitee-buildpack,False
 https://github.com/1024pix/heroku-buildpack-git-submodule,True
 https://github.com/1024pix/heroku-buildpack-telegraf,True
 https://github.com/1024pix/journee-recherche,True
@@ -2284,6 +2287,7 @@ https://github.com/SocialGouv/eMJPM-doc,True
 https://github.com/SocialGouv/eMJPM-homepage,True
 https://github.com/SocialGouv/egapro,True
 https://github.com/SocialGouv/egapro-api,True
+https://github.com/SocialGouv/egapro-consultation,False
 https://github.com/SocialGouv/egapro-declaration,True
 https://github.com/SocialGouv/emjpm,True
 https://github.com/SocialGouv/emjpm-api-doc,True
@@ -5178,7 +5182,7 @@ https://github.com/sigrennesmetropole/photos_obliques,True
 https://github.com/sigrennesmetropole/qgis-3liz-tools,True
 https://github.com/sigrennesmetropole/rmtr,True
 https://github.com/sigrennesmetropole/rudi_documentation,False
-https://github.com/sigrennesmetropole/rudi_portal,False
+https://github.com/sigrennesmetropole/rudi_portal,True
 https://github.com/sigrennesmetropole/rudi_producer_node,True
 https://github.com/sigrennesmetropole/storymap,True
 https://github.com/sigrennesmetropole/sviewer,True
@@ -6241,7 +6245,7 @@ https://gitlab.inria.fr/distem/distem,True
 https://gitlab.inria.fr/distem/distem.gitlabpages.inria.fr,True
 https://gitlab.inria.fr/diu-algo/labyrinthe,True
 https://gitlab.inria.fr/diverse-public/shared-docker,True
-https://gitlab.inria.fr/diverse/docker,False
+https://gitlab.inria.fr/diverse/docker,True
 https://gitlab.inria.fr/diverse/gforge-migration/openembedd/openembedd,True
 https://gitlab.inria.fr/diverse/gforge-migration/openembedd/openembedd-rep,True
 https://gitlab.inria.fr/diverse/readinggroup,False
