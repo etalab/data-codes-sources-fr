@@ -693,7 +693,7 @@ https://git.unistra.fr/presUni/HAJ18-T4-D,True
 https://git.unistra.fr/project-master/pro-master,True
 https://git.unistra.fr/projet-a31-connect4/connect4,True
 https://git.unistra.fr/projet-integrateur-grp-3/frontend,True
-https://git.unistra.fr/promesse/P4a,False
+https://git.unistra.fr/promesse/P4a,True
 https://git.unistra.fr/pub/SupportPortal-aid,True
 https://git.unistra.fr/pub/revealjs-generator,True
 https://git.unistra.fr/rivelinelab/imagej-polyline-kymograph,True
@@ -7281,7 +7281,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/DC/osug-doi,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/DC/shiny-base,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/DC/shiny.osug.fr,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/DC/si-osug,False
-https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/JMMC/jmmc-bibdb-kubernetes,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/JMMC/jmmc-bibdb-kubernetes,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/JMMC/jmmc-brainswarming,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/JMMC/jmmc-ees17-school-tutorials,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/JMMC/jmmc-jmdcui-docker,True
@@ -7304,7 +7304,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/fdsnextender,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/fdsnwsstat,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/formations/hdf5,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/monitoring,False
-https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/monitoring-summer-snapshot,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/monitoring-summer-snapshot,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/perfreporter,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/pz_resif,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/qpidd-k8s,False
@@ -7443,7 +7443,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/ds-courses/materials-optimal-filter
 https://gricad-gitlab.univ-grenoble-alpes.fr/ds-courses/optimal-filtering-sicom,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/eCOM-RICM5-MyTransport/MyTransport,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/ecopol/attacking-the-weak-or-the-strong,False
-https://gricad-gitlab.univ-grenoble-alpes.fr/ecopol/ipdradical,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/ecopol/ipdradical,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/edcampus/edcampus-back-node,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/edcampus/edcampus-backphp,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/edcampus/edcampus-doc,False
