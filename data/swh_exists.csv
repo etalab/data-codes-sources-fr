@@ -2311,7 +2311,7 @@ https://github.com/SocialGouv/importXLSLabos,True
 https://github.com/SocialGouv/jest-environment-knex,True
 https://github.com/SocialGouv/jmeter-kibana,True
 https://github.com/SocialGouv/jours-feries,True
-https://github.com/SocialGouv/k8s,False
+https://github.com/SocialGouv/k8s,True
 https://github.com/SocialGouv/k8s-ci,True
 https://github.com/SocialGouv/kali-data,True
 https://github.com/SocialGouv/kaligator,True
@@ -4205,6 +4205,7 @@ https://github.com/landlock-lsm/landlock-lsm.github.io,True
 https://github.com/landlock-lsm/linux,True
 https://github.com/landlock-lsm/syzkaller,True
 https://github.com/leximpact/dataFin,True
+https://github.com/leximpact/donnees-extraites-assemblee,False
 https://github.com/leximpact/etudes-amendements,False
 https://github.com/leximpact/leximpact-client,True
 https://github.com/leximpact/leximpact-nouveau-sujet,True
@@ -7200,7 +7201,7 @@ https://gitlab.u-psud.fr/castanea/documentation,True
 https://gitlab.u-psud.fr/egp/ile-interdite,True
 https://gitlab.u-psud.fr/galac/hceres,True
 https://gitlab.u-psud.fr/talend/projectfortac,True
-https://gitlab.u-psud.fr/talend/tld_adonis_externe,False
+https://gitlab.u-psud.fr/talend/tld_adonis_externe,True
 https://gitlab.u-psud.fr/talend/tld_adonis_sync_ldap,True
 https://gitlab.u-psud.fr/talend/tld_alma,True
 https://gitlab.u-psud.fr/talend/tld_candidatures_sc,True
@@ -7261,13 +7262,13 @@ https://gitub.u-bordeaux.fr/starpu/starpu,True
 https://gitub.u-bordeaux.fr/starpu/starpu2,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/ASAC/serre-polytech/Aquaponie,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/ASAC/serres-jdc/Code,False
-https://gricad-gitlab.univ-grenoble-alpes.fr/CamiTK/CamiTK,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/CamiTK/CamiTK,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/CamiTK/CamiTK-Incubator/CamiTKStateMachine,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/CamiTK/CamiTK-Incubator/albert,False
-https://gricad-gitlab.univ-grenoble-alpes.fr/CamiTK/CamiTK-Incubator/cepcoreschemacreator,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/CamiTK/CamiTK-Incubator/cepcoreschemacreator,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/CamiTK/CamiTK-Incubator/segmentor,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/CamiTK/CamiTK-Incubator/updateced,False
-https://gricad-gitlab.univ-grenoble-alpes.fr/CamiTK/Docs,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/CamiTK/Docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Drakkar-LIG/WalT,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/Drakkar-LIG/WiSHFUL,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/Drakkar-LIG/WiSHFUL-LoRa-connector,False
@@ -7283,17 +7284,17 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/NSBAS/wiki_roipac,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/DC/osug-doi,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/DC/shiny-base,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/DC/shiny.osug.fr,False
-https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/DC/si-osug,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/DC/si-osug,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/JMMC/jmmc-bibdb-kubernetes,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/JMMC/jmmc-brainswarming,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/JMMC/jmmc-ees17-school-tutorials,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/JMMC/jmmc-jmdcui-docker,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/JMMC/jmmc-jmdcui-kubernetes,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/JMMC/jmmc-jmdcui-kubernetes,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/JMMC/jmmc-obsportal,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/JMMC/jmmc-obsportal-analysis,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/JMMC/jmmc-obsportal-kubernetes,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/JMMC/jmmc-oidb-docker,False
-https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/JMMC/jmmc-oidb-kubernetes,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/JMMC/jmmc-oidb-kubernetes,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/JMMC/jmmc-oival-docker,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/JMMC/jmmc-oival-kubernetes,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/JMMC/jmmc-srv-infra,True
@@ -7303,7 +7304,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/ResifYAMLfiles,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/budindexer,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/datadump,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/es2pg-aggregators,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/fdsnextender,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/fdsnextender,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/fdsnwsstat,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/formations/hdf5,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/monitoring,False
@@ -7335,7 +7336,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/ws-timeseries,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/yasmine-k8s,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/ige/erosion_model,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/isterre-sig/pyevent,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/leca/metabase/metabase,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/leca/metabase/metabase,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/leca/shinyapps/hobo,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projet-RICM4/17-18/2/Dashboard,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/18-19/11/docs,False
@@ -7415,7 +7416,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/SIMPA/SIMPA,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/ai-courses/autonomous_systems_ml,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/aspen/aspen2014,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/batsim/batsim,False
-https://gricad-gitlab.univ-grenoble-alpes.fr/biomove/fate,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/biomove/fate,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/caseine/dxf-filter,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/caseine/kekule.js,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/caseine/moodle-mod_vpl,False
@@ -7443,7 +7444,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/design_optimization/noload_benchmar
 https://gricad-gitlab.univ-grenoble-alpes.fr/diu-eil/diu-eil-grenoble,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/diu/test,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/ds-courses/materials-optimal-filtering,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/ds-courses/optimal-filtering-sicom,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/ds-courses/optimal-filtering-sicom,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/eCOM-RICM5-MyTransport/MyTransport,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/ecopol/attacking-the-weak-or-the-strong,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/ecopol/ipdradical,True
@@ -7452,7 +7453,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/edcampus/edcampus-backphp,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/edcampus/edcampus-doc,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/edcampus/edcampus-front,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/edcampus/edcampus-platform,False
-https://gricad-gitlab.univ-grenoble-alpes.fr/enseignement1/m2cci/java/chenilles,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/enseignement1/m2cci/java/chenilles,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/enseignement1/m2cci/java/comptes,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/enseignement1/m2cci/java/correctiontp2,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/enseignement1/m2cci/java/couronne,False
@@ -7468,7 +7469,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/formations-statistiques-R/CED-Bases
 https://gricad-gitlab.univ-grenoble-alpes.fr/formations-statistiques-R/CED-IntroR,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/formations_R/ATMO_IntroR,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/formations_R/ced_intror,False
-https://gricad-gitlab.univ-grenoble-alpes.fr/g2elab/blackboxdatalogger,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/g2elab/blackboxdatalogger,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/gaia/team,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/geopsy/qgpcoretools,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/getalp/amorph,False
