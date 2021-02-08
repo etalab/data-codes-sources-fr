@@ -157,7 +157,7 @@ https://forge.univ-lyon1.fr/lifap6/tp-union-find-etu,True
 https://forge.univ-lyon1.fr/lifprojet-lifprojet/raytracing,True
 https://forge.univ-lyon1.fr/lifprojet/lifprojet_am3,True
 https://forge.univ-lyon1.fr/loup-garouptut/loupandroid,True
-https://forge.univ-lyon1.fr/m1if13/m1if13-2021,False
+https://forge.univ-lyon1.fr/m1if13/m1if13-2021,True
 https://forge.univ-lyon1.fr/m1if27/box-intersection-etu,True
 https://forge.univ-lyon1.fr/m1if27/courbes-etu,True
 https://forge.univ-lyon1.fr/my-awesome-group/billetterie,True
@@ -458,6 +458,7 @@ https://forgemia.inra.fr/umrf/dairydb,True
 https://forgemia.inra.fr/umrf/exploremetabar,True
 https://forgemia.inra.fr/umrf/ranomaly,True
 https://forgemia.inra.fr/umrf/utopia,True
+https://forgemia.inra.fr/urep/docs/demorpackage,False
 https://forgemia.inra.fr/urgi-is/data-discovery,True
 https://forgemia.inra.fr/urgi-is/docker-rare,True
 https://forgemia.inra.fr/urgi-is/faidare,True
@@ -4204,6 +4205,7 @@ https://github.com/landlock-lsm/landlock-lsm.github.io,True
 https://github.com/landlock-lsm/linux,True
 https://github.com/landlock-lsm/syzkaller,True
 https://github.com/leximpact/dataFin,True
+https://github.com/leximpact/etudes-amendements,False
 https://github.com/leximpact/leximpact-client,True
 https://github.com/leximpact/leximpact-nouveau-sujet,True
 https://github.com/leximpact/leximpact-server,True
@@ -6075,7 +6077,7 @@ https://gitlab.inria.fr/bioimage-it/bioimagepy-tutorial,True
 https://gitlab.inria.fr/bioimage-it/fiji-tools,True
 https://gitlab.inria.fr/bioimage-it/htesting-tools,True
 https://gitlab.inria.fr/bioimage-it/package,True
-https://gitlab.inria.fr/bioimage-it/pycudadecon,False
+https://gitlab.inria.fr/bioimage-it/pycudadecon,True
 https://gitlab.inria.fr/bioimage-it/sampletool,True
 https://gitlab.inria.fr/bioimage-it/toolbox-js-browser,True
 https://gitlab.inria.fr/bioimage-it/toolboxes,True
@@ -6585,6 +6587,7 @@ https://gitlab.inria.fr/learninglab/nsi-capes-info,True
 https://gitlab.inria.fr/lifeware/biocham,True
 https://gitlab.inria.fr/line/aide-group/aide,True
 https://gitlab.inria.fr/line/aide-group/aidebuild,True
+https://gitlab.inria.fr/line/aide-group/aidecv,True
 https://gitlab.inria.fr/line/aide-group/aidesys,True
 https://gitlab.inria.fr/line/aide-group/aideweb,True
 https://gitlab.inria.fr/line/aide-group/esp32-roomcontrol,True
@@ -7283,7 +7286,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/DC/shiny.osug.fr,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/DC/si-osug,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/JMMC/jmmc-bibdb-kubernetes,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/JMMC/jmmc-brainswarming,False
-https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/JMMC/jmmc-ees17-school-tutorials,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/JMMC/jmmc-ees17-school-tutorials,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/JMMC/jmmc-jmdcui-docker,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/JMMC/jmmc-jmdcui-kubernetes,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/JMMC/jmmc-obsportal,True
@@ -7308,9 +7311,9 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/monitoring-summer-snapsh
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/perfreporter,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/pz_resif,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/qpidd-k8s,False
-https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/resif-routing,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/resif-routing,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/resif-routing-k8s,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/resif_docker,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/resif_docker,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/rsync-resif-k8s,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/rtconfig,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/site-characterization,False
@@ -7319,7 +7322,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/ws-dataselect,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/ws-eidaauth,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/ws-evalresp,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/ws-logstodb,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/ws-logstodb-k8s,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/ws-logstodb-k8s,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/ws-ph5-availability,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/ws-ph5-dataselect,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/ws-ppsd,True
@@ -7439,14 +7442,14 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/design_optimization/noload,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/design_optimization/noload_benchmarks_open,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/diu-eil/diu-eil-grenoble,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/diu/test,False
-https://gricad-gitlab.univ-grenoble-alpes.fr/ds-courses/materials-optimal-filtering,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/ds-courses/materials-optimal-filtering,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/ds-courses/optimal-filtering-sicom,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/eCOM-RICM5-MyTransport/MyTransport,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/ecopol/attacking-the-weak-or-the-strong,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/ecopol/ipdradical,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/edcampus/edcampus-back-node,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/edcampus/edcampus-backphp,False
-https://gricad-gitlab.univ-grenoble-alpes.fr/edcampus/edcampus-doc,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/edcampus/edcampus-doc,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/edcampus/edcampus-front,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/edcampus/edcampus-platform,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/enseignement1/m2cci/java/chenilles,False
