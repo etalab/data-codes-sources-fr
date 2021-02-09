@@ -2487,6 +2487,7 @@ https://github.com/abes-esr/abes-format-pivot,True
 https://github.com/abes-esr/abes-hello,True
 https://github.com/abes-esr/abes-hello-back,True
 https://github.com/abes-esr/abes-hello-front,True
+https://github.com/abes-esr/abes-labo-movies,False
 https://github.com/abes-esr/abes-ontology,True
 https://github.com/abes-esr/abes-politique-developpement,True
 https://github.com/abes-esr/abes-sparql-examples,True
@@ -2882,6 +2883,7 @@ https://github.com/betagouv/mes-aides-ui,True
 https://github.com/betagouv/metabase-scalingo,True
 https://github.com/betagouv/meteor-assemblee-nationale,True
 https://github.com/betagouv/mon-entreprise,True
+https://github.com/betagouv/monitoring.api.gouv.fr,False
 https://github.com/betagouv/monstage,True
 https://github.com/betagouv/movie-app,True
 https://github.com/betagouv/mpal,True
@@ -4931,6 +4933,7 @@ https://github.com/openfun/crowdin-docker,True
 https://github.com/openfun/cs_comments_service,True
 https://github.com/openfun/django-cong-2018,True
 https://github.com/openfun/django-lti-toolbox,True
+https://github.com/openfun/django-machina,False
 https://github.com/openfun/django-wiki,True
 https://github.com/openfun/dmcloud,True
 https://github.com/openfun/dmcloud-migrate,True
@@ -5686,6 +5689,7 @@ https://gitlab.huma-num.fr/lamop/cbma-epigraphie,True
 https://gitlab.huma-num.fr/lamop/corpus-spacy,True
 https://gitlab.huma-num.fr/lamop/dalek,True
 https://gitlab.huma-num.fr/lamop/duranti,True
+https://gitlab.huma-num.fr/lamop/e-ndp-ll_108a-folios_1_recto-27_recto,True
 https://gitlab.huma-num.fr/lamop/epat,True
 https://gitlab.huma-num.fr/lamop/fonds-marc-bloch,True
 https://gitlab.huma-num.fr/lamop/heraut-transcript,True
@@ -5730,7 +5734,7 @@ https://gitlab.huma-num.fr/rzine/add_author,True
 https://gitlab.huma-num.fr/rzine/add_news,True
 https://gitlab.huma-num.fr/rzine/add_publication,True
 https://gitlab.huma-num.fr/rzine/documentation,True
-https://gitlab.huma-num.fr/rzine/site,False
+https://gitlab.huma-num.fr/rzine/site,True
 https://gitlab.huma-num.fr/tip/flatdb4geonames,True
 https://gitlab.huma-num.fr/tip/geneaquilt,True
 https://gitlab.huma-num.fr/tip/graphic-kit,True
@@ -6702,7 +6706,7 @@ https://gitlab.inria.fr/moex/linkky,True
 https://gitlab.inria.fr/moex/ontosim,True
 https://gitlab.inria.fr/moex/pagetest,True
 https://gitlab.inria.fr/moex/psparql,True
-https://gitlab.inria.fr/moex/pysake,False
+https://gitlab.inria.fr/moex/pysake,True
 https://gitlab.inria.fr/moex/scarlet,True
 https://gitlab.inria.fr/moex/swip,True
 https://gitlab.inria.fr/moex/transmorpher,True
@@ -7186,6 +7190,7 @@ https://gitlab.ow2.org/lemonldap-ng/lemonldap-ng,True
 https://gitlab.ow2.org/lemonldap-ng/vue-manager-for-llng,True
 https://gitlab.ow2.org/lemonldap-ng/website-landing-page,True
 https://gitlab.u-psud.fr/AgregOptionC/AlgebreLineaireFormesEchelon,True
+https://gitlab.u-psud.fr/AgregOptionC/CodesCorrecteurs,True
 https://gitlab.u-psud.fr/Coucou/Test,False
 https://gitlab.u-psud.fr/Coucou/Truc,True
 https://gitlab.u-psud.fr/Info111/ComputerLab,True
@@ -7307,7 +7312,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/JMMC/jmmc-vlti2018-school-tuto
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/JMMC/jmmc-vollt-server,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/ResifYAMLfiles,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/budindexer,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/datadump,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/datadump,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/es2pg-aggregators,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/fdsnextender,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/fdsnwsstat,True
@@ -7325,7 +7330,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/rtconfig,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/site-characterization,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/storage-summer-k8s,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/ws-dataselect,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/ws-eidaauth,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/ws-eidaauth,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/ws-evalresp,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/ws-logstodb,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/ws-logstodb-k8s,True
@@ -7337,7 +7342,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/ws-sacpz-resp,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/ws-station,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/ws-station-k8s,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/ws-statistics,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/ws-timeseries,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/ws-timeseries,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/yasmine-k8s,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/ige/erosion_model,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/isterre-sig/pyevent,True
@@ -7370,7 +7375,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/11/docs,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/12/docs,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/12/grafana-trackmap-panel,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/12/qrcode-panel,False
-https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/13/docs,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/13/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/13/siconia,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/14/docs,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/15/docs,False
@@ -7404,7 +7409,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/05/docs,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/06/docs,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/07/docs,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/08/code,False
-https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/08/docs,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/08/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/09/docs,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/10/docs,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/11/docs,False
@@ -7413,7 +7418,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/13/docs,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/13/polytech-helper-service,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/14/docs,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/15/docs,False
-https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/16/docs,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/16/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/17/code,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/17/docs,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/18/docs,False
@@ -7445,7 +7450,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/continuous-everything/ci,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/coriofoam/coriofoam,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/deformvis/insarviz,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/design_optimization/noload,False
-https://gricad-gitlab.univ-grenoble-alpes.fr/design_optimization/noload_benchmarks_open,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/design_optimization/noload_benchmarks_open,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/diu-eil/diu-eil-grenoble,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/diu/test,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/ds-courses/materials-optimal-filtering,True
@@ -7456,7 +7461,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/ecopol/ipdradical,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/edcampus/edcampus-back-node,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/edcampus/edcampus-backphp,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/edcampus/edcampus-doc,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/edcampus/edcampus-front,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/edcampus/edcampus-front,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/edcampus/edcampus-platform,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/enseignement1/m2cci/java/chenilles,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/enseignement1/m2cci/java/comptes,False
@@ -7542,13 +7547,13 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/michael_perin/pwc,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/michael_perin/tutoriel-qcm-avec-amc,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/modmed/modmedLog,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/modmed/partrap,False
-https://gricad-gitlab.univ-grenoble-alpes.fr/modmed/partrap-ide,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/modmed/partrap-ide,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/modmed/partrap-install-web-site,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/nonsmooth/siconos-tutorials,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/omegalpes/lpfics,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/omegalpes/omegalpes,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/omegalpes/omegalpes-web-back-end,False
-https://gricad-gitlab.univ-grenoble-alpes.fr/omegalpes/omegalpes-web-front-end,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/omegalpes/omegalpes-web-front-end,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/omegalpes/omegalpes_examples,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/omegalpes/omegalpes_notebooks,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/pacific/codes/design_and_run_sem46_simulations_in_synthetic_models,False
