@@ -176,7 +176,7 @@ https://forge.univ-lyon1.fr/tiw-is/tiw1-is-2019,True
 https://forge.univ-lyon1.fr/tiw-is/tiw1-is-2020,True
 https://forgemia.inra.fr/4p/maquettes-4p,True
 https://forgemia.inra.fr/4p/modules/pheno-extraction,True
-https://forgemia.inra.fr/4p/modules/phis-import,False
+https://forgemia.inra.fr/4p/modules/phis-import,True
 https://forgemia.inra.fr/4p/pheno-extraction,True
 https://forgemia.inra.fr/4p/user-guide,True
 https://forgemia.inra.fr/DecisionBleDur/DecisionBleDur,True
@@ -1815,7 +1815,7 @@ https://github.com/InseeFrLab/rjdworkspace,True
 https://github.com/InseeFrLab/rstudio,True
 https://github.com/InseeFrLab/rstudio-gpu,True
 https://github.com/InseeFrLab/simple-default-backend,True
-https://github.com/InseeFrLab/spark,False
+https://github.com/InseeFrLab/spark,True
 https://github.com/InseeFrLab/spark-hadoop,False
 https://github.com/InseeFrLab/sugoi-api,True
 https://github.com/InseeFrLab/sugoi-ui,True
@@ -2883,7 +2883,7 @@ https://github.com/betagouv/mes-aides-ui,True
 https://github.com/betagouv/metabase-scalingo,True
 https://github.com/betagouv/meteor-assemblee-nationale,True
 https://github.com/betagouv/mon-entreprise,True
-https://github.com/betagouv/monitoring.api.gouv.fr,False
+https://github.com/betagouv/monitoring.api.gouv.fr,True
 https://github.com/betagouv/monstage,True
 https://github.com/betagouv/movie-app,True
 https://github.com/betagouv/mpal,True
@@ -4610,6 +4610,7 @@ https://github.com/metwork-framework/docker-drone-docker-specific-image,True
 https://github.com/metwork-framework/docker-drone-downstream-specific-image,True
 https://github.com/metwork-framework/docker-drone-repository-dispatch-specific-image,True
 https://github.com/metwork-framework/docker-envtpl-runimage,True
+https://github.com/metwork-framework/docker-mfbaseplugins-centos7-buildimage,False
 https://github.com/metwork-framework/docker-mfbaseplugins-centos8-buildimage,True
 https://github.com/metwork-framework/docker-mfcom-centos6-buildimage,True
 https://github.com/metwork-framework/docker-mfcom-centos7-buildimage,True
@@ -5193,7 +5194,7 @@ https://github.com/sigrennesmetropole/mviewerstudio,True
 https://github.com/sigrennesmetropole/photos_obliques,True
 https://github.com/sigrennesmetropole/qgis-3liz-tools,True
 https://github.com/sigrennesmetropole/rmtr,True
-https://github.com/sigrennesmetropole/rudi_documentation,False
+https://github.com/sigrennesmetropole/rudi_documentation,True
 https://github.com/sigrennesmetropole/rudi_portal,True
 https://github.com/sigrennesmetropole/rudi_producer_node,True
 https://github.com/sigrennesmetropole/storymap,True
@@ -6982,6 +6983,7 @@ https://gitlab.inria.fr/synchrone/heptagon,True
 https://gitlab.inria.fr/tapenade/tapenade,True
 https://gitlab.inria.fr/tapenade/userdoc,True
 https://gitlab.inria.fr/the-missing-path/the-missing-path.gitlab.inria.fr,True
+https://gitlab.inria.fr/these-bxi/lulesh,False
 https://gitlab.inria.fr/these-bxi/r-util,True
 https://gitlab.inria.fr/these-bxi/s4bxi-cmake-modules,True
 https://gitlab.inria.fr/these-bxi/s4bxi-config-generator,True
@@ -7343,7 +7345,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/ws-station,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/ws-station-k8s,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/ws-statistics,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/ws-timeseries,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/yasmine-k8s,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/yasmine-k8s,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/ige/erosion_model,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/isterre-sig/pyevent,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/leca/metabase/metabase,True
@@ -7353,7 +7355,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/18-19/11/docs,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/18-19/11/soft,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/18-19/12/code,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/18-19/12/docs,False
-https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/18-19/13/nurapisample,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/18-19/13/nurapisample,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/18-19/13/projet,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/18-19/18/docs,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/18-19/18/prototypes,False
@@ -7440,7 +7442,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/caseine/stl-moodle-filter,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/caseine/vpl_design_plugin,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/casys/givaro,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/ced-sandbox/linux,False
-https://gricad-gitlab.univ-grenoble-alpes.fr/certicompil/compcert-kvx,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/certicompil/compcert-kvx,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/chamilotools/chamilotools,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/codalab/bundle_generation,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/codalab/docker-recipes,False
@@ -7471,7 +7473,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/enseignement1/m2cci/java/ensemblesd
 https://gricad-gitlab.univ-grenoble-alpes.fr/enseignement1/m2cci/java/formesanimees,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/enseignement1/m2cci/java/rationals,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/enseignement1/m2cci/java/segmentsdedroite,False
-https://gricad-gitlab.univ-grenoble-alpes.fr/enseignement1/m2cci/java/tp09-exceptions,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/enseignement1/m2cci/java/tp09-exceptions,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/enseignement1/m2cci/javascript/visagesanimes_correction,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/ensimag/poly-intro-unix,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/foceta/requirements-management,False
@@ -7558,7 +7560,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/omegalpes/omegalpes_examples,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/omegalpes/omegalpes_notebooks,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/pacific/codes/design_and_run_sem46_simulations_in_synthetic_models,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/pacific/publications/2020_Lavoue-et-al_SRL_supplemental-material,False
-https://gricad-gitlab.univ-grenoble-alpes.fr/pagai/apron-clone,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/pagai/apron-clone,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/pagai/pagai,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/pedagogies-multimodales/aligneur-phonographemique,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/pedagogies-multimodales/clavier-phono,False
