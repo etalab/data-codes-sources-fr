@@ -158,7 +158,7 @@ https://forge.univ-lyon1.fr/lifprojet-lifprojet/raytracing,True
 https://forge.univ-lyon1.fr/lifprojet/lifprojet_am3,True
 https://forge.univ-lyon1.fr/loup-garouptut/loupandroid,True
 https://forge.univ-lyon1.fr/m1if13/m1if13-2019,False
-https://forge.univ-lyon1.fr/m1if13/m1if13-2020,False
+https://forge.univ-lyon1.fr/m1if13/m1if13-2020,True
 https://forge.univ-lyon1.fr/m1if13/m1if13-2021,True
 https://forge.univ-lyon1.fr/m1if27/box-intersection-etu,True
 https://forge.univ-lyon1.fr/m1if27/courbes-etu,True
@@ -4807,6 +4807,7 @@ https://github.com/nanterre/opendata,True
 https://github.com/nantesmetropole/LibreOfficeNow,True
 https://github.com/nantesmetropole/docker-debian,True
 https://github.com/nantesmetropole/docker-paas,True
+https://github.com/nantesmetropole/school_meal_forecast_regressions,False
 https://github.com/nantesmetropole/school_meal_forecast_xgboost,True
 https://github.com/neuroanatomy/34primates,True
 https://github.com/neuroanatomy/BrainBox,True
@@ -5263,7 +5264,7 @@ https://github.com/signaux-faibles/opensignauxfaibles,True
 https://github.com/signaux-faibles/predictsignauxfaibles,True
 https://github.com/signaux-faibles/prepare-import,True
 https://github.com/signaux-faibles/rsignauxfaibles,True
-https://github.com/signaux-faibles/signaux-faibles.github.io,False
+https://github.com/signaux-faibles/signaux-faibles.github.io,True
 https://github.com/signaux-faibles/signauxfaibles-web,True
 https://github.com/signaux-faibles/site-eig,True
 https://github.com/signaux-faibles/users,True
@@ -7394,7 +7395,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/DC/shiny-base,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/DC/shiny.osug.fr,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/DC/si-osug,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/JMMC/jmmc-bibdb-kubernetes,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/JMMC/jmmc-brainswarming,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/JMMC/jmmc-brainswarming,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/JMMC/jmmc-ees17-school-tutorials,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/JMMC/jmmc-jmdcui-docker,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/JMMC/jmmc-jmdcui-kubernetes,True
@@ -7475,7 +7476,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/12/docs,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/12/grafana-trackmap-panel,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/12/qrcode-panel,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/13/docs,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/13/siconia,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/13/siconia,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/14/docs,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/15/docs,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/15/moonshotlabs_door_v1,False
@@ -7515,7 +7516,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/10/docs,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/11/docs,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/12/docs,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/13/docs,False
-https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/13/polytech-helper-service,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/13/polytech-helper-service,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/14/docs,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/15/docs,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/16/docs,True
@@ -7595,7 +7596,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/hasdi/mspl-2018-2019,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/hasdi/td2,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/hceres2019/beamertheme-lig,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/iab-env-epi/ciment-user-guide,False
-https://gricad-gitlab.univ-grenoble-alpes.fr/iab-env-epi/jedynak_prenatal_2020,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/iab-env-epi/jedynak_prenatal_2020,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/iab-env-epi/philippat_comparison_2020,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/iab-env-epi/rolland_exposure_2020,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/icall/MagicWord,False
