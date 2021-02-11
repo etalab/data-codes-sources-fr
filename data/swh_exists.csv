@@ -1458,7 +1458,7 @@ https://github.com/GIP-RECIA/docker-mariadb,True
 https://github.com/GIP-RECIA/docker-openldap-test,True
 https://github.com/GIP-RECIA/docker-redis-sentinel,True
 https://github.com/GIP-RECIA/email-preview,True
-https://github.com/GIP-RECIA/ep_mypads,False
+https://github.com/GIP-RECIA/ep_mypads,True
 https://github.com/GIP-RECIA/esco-ChangeEtablissement,True
 https://github.com/GIP-RECIA/esco-accueil,True
 https://github.com/GIP-RECIA/esco-csv2xml,True
@@ -7466,7 +7466,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/18-19/21/frontend,Fal
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/18-19/43/doc0,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/18-19/43/doc1,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/18-19/6/docs,False
-https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/18-19/8/cages-a-marmotte-connectees,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/18-19/8/cages-a-marmotte-connectees,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/18-19/8/docs,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/18-19/8/serveur-node-red-cage-marmotte,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/10/docs,False
@@ -7487,7 +7487,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/19/code,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/19/docs,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/20/docs,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/20/draft,False
-https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/20/nixpkgs_swh,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/20/nixpkgs_swh,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/21/docs,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/21/preuveconcept,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/22/docs,False
@@ -7557,13 +7557,13 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/diu/test,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/ds-courses/materials-optimal-filtering,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/ds-courses/optimal-filtering-sicom,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/eCOM-RICM5-MyTransport/MyTransport,False
-https://gricad-gitlab.univ-grenoble-alpes.fr/ecopol/attacking-the-weak-or-the-strong,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/ecopol/attacking-the-weak-or-the-strong,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/ecopol/ipdradical,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/edcampus/edcampus-back-node,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/edcampus/edcampus-backphp,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/edcampus/edcampus-doc,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/edcampus/edcampus-front,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/edcampus/edcampus-platform,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/edcampus/edcampus-platform,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/enseignement1/m2cci/java/chenilles,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/enseignement1/m2cci/java/comptes,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/enseignement1/m2cci/java/correctiontp2,False
@@ -7574,7 +7574,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/enseignement1/m2cci/java/rationals,
 https://gricad-gitlab.univ-grenoble-alpes.fr/enseignement1/m2cci/java/segmentsdedroite,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/enseignement1/m2cci/java/tp09-exceptions,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/enseignement1/m2cci/javascript/visagesanimes_correction,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/ensimag/poly-intro-unix,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/ensimag/poly-intro-unix,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/foceta/requirements-management,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/formations-statistiques-R/CED-Bases-Stat-R,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/formations-statistiques-R/CED-IntroR,False
