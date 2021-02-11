@@ -3076,6 +3076,7 @@ https://github.com/betagouv/renforts,True
 https://github.com/betagouv/reserve-civique-redirect,True
 https://github.com/betagouv/retraite,True
 https://github.com/betagouv/role-ansible,True
+https://github.com/betagouv/sante-psy,False
 https://github.com/betagouv/secretariat,True
 https://github.com/betagouv/securite-numerique-agile,True
 https://github.com/betagouv/sejour,True
@@ -3749,6 +3750,7 @@ https://github.com/etalab-ia/ami-ia-ineris,True
 https://github.com/etalab-ia/ami-ia-insee,True
 https://github.com/etalab-ia/ami-ia-irsn,True
 https://github.com/etalab-ia/ami-ia-sisse,True
+https://github.com/etalab-ia/chatbot-template,False
 https://github.com/etalab-ia/data_gouv_text,True
 https://github.com/etalab-ia/data_science_template,True
 https://github.com/etalab-ia/demo-piaf,True
@@ -4696,6 +4698,7 @@ https://github.com/metwork-framework/auto-changelog,True
 https://github.com/metwork-framework/circus_autorestart_plugin,True
 https://github.com/metwork-framework/cookiecutter,True
 https://github.com/metwork-framework/cookiecutter_hooks,True
+https://github.com/metwork-framework/cron-wrapper,False
 https://github.com/metwork-framework/cronwrapper,True
 https://github.com/metwork-framework/deploycron,True
 https://github.com/metwork-framework/directory_observer,True
@@ -5030,7 +5033,7 @@ https://github.com/openfun/crowdin-docker,True
 https://github.com/openfun/cs_comments_service,True
 https://github.com/openfun/django-cong-2018,True
 https://github.com/openfun/django-lti-toolbox,True
-https://github.com/openfun/django-machina,False
+https://github.com/openfun/django-machina,True
 https://github.com/openfun/django-wiki,True
 https://github.com/openfun/dmcloud,True
 https://github.com/openfun/dmcloud-migrate,True
@@ -7369,7 +7372,7 @@ https://gitub.u-bordeaux.fr/mapi/mdl-tool-ubxcourses,True
 https://gitub.u-bordeaux.fr/public-softwares/rescannedrcm-labview-exe-software,True
 https://gitub.u-bordeaux.fr/starpu/starpu,True
 https://gitub.u-bordeaux.fr/starpu/starpu2,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/ASAC/serre-polytech/Aquaponie,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/ASAC/serre-polytech/Aquaponie,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/ASAC/serres-jdc/Code,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/CamiTK/CamiTK,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/CamiTK/CamiTK-Incubator/CamiTKStateMachine,False
@@ -7411,7 +7414,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/JMMC/jmmc-vlti2018-school-tuto
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/JMMC/jmmc-vollt-server,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/ResifYAMLfiles,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/budindexer,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/cronjobs-k8s,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/cronjobs-k8s,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/datadump,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/es2pg-aggregators,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/fdsnextender,True
@@ -7477,7 +7480,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/12/grafana-trac
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/12/qrcode-panel,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/13/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/13/siconia,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/14/docs,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/14/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/15/docs,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/15/moonshotlabs_door_v1,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/16/docs,False
@@ -7569,7 +7572,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/enseignement1/m2cci/java/comptes,Tr
 https://gricad-gitlab.univ-grenoble-alpes.fr/enseignement1/m2cci/java/correctiontp2,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/enseignement1/m2cci/java/couronne,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/enseignement1/m2cci/java/ensemblesdelettres,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/enseignement1/m2cci/java/formesanimees,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/enseignement1/m2cci/java/formesanimees,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/enseignement1/m2cci/java/rationals,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/enseignement1/m2cci/java/segmentsdedroite,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/enseignement1/m2cci/java/tp09-exceptions,True
