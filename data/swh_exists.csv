@@ -608,7 +608,7 @@ https://git.unistra.fr/barre-oblique-v3/t432_sab20_t3_b,False
 https://git.unistra.fr/barreoblique/connectfour,True
 https://git.unistra.fr/botanique23/T4_PID_A,True
 https://git.unistra.fr/c/st,True
-https://git.unistra.fr/clauss-goffic/P4z,False
+https://git.unistra.fr/clauss-goffic/P4z,True
 https://git.unistra.fr/cmi-production/projet-integrateur,True
 https://git.unistra.fr/community/ina-import,True
 https://git.unistra.fr/community/io-heurist,True
@@ -1483,7 +1483,7 @@ https://github.com/GIP-RECIA/esup-publisher,True
 https://github.com/GIP-RECIA/flash-info-portlet,True
 https://github.com/GIP-RECIA/gip-recia.github.io,True
 https://github.com/GIP-RECIA/greenlight,False
-https://github.com/GIP-RECIA/grr-eleves,False
+https://github.com/GIP-RECIA/grr-eleves,True
 https://github.com/GIP-RECIA/h5p-moodle-plugin,True
 https://github.com/GIP-RECIA/help-info-portlet,True
 https://github.com/GIP-RECIA/icons-pack,True
@@ -2578,7 +2578,7 @@ https://github.com/abes-esr/abes-format-pivot,True
 https://github.com/abes-esr/abes-hello,True
 https://github.com/abes-esr/abes-hello-back,True
 https://github.com/abes-esr/abes-hello-front,True
-https://github.com/abes-esr/abes-labo-movies,False
+https://github.com/abes-esr/abes-labo-movies,True
 https://github.com/abes-esr/abes-ontology,True
 https://github.com/abes-esr/abes-politique-developpement,True
 https://github.com/abes-esr/abes-sparql-examples,True
@@ -2588,6 +2588,7 @@ https://github.com/abes-esr/abes-xslt,True
 https://github.com/abes-esr/algoliens-web,True
 https://github.com/abes-esr/archi-htmlreport-docker,True
 https://github.com/abes-esr/archi-model-example,True
+https://github.com/abes-esr/eplouribousse,False
 https://github.com/abes-esr/ezmaster-globs,True
 https://github.com/abes-esr/fne-back,True
 https://github.com/abes-esr/fne-batch,True
@@ -7373,7 +7374,7 @@ https://gitub.u-bordeaux.fr/public-softwares/rescannedrcm-labview-exe-software,T
 https://gitub.u-bordeaux.fr/starpu/starpu,True
 https://gitub.u-bordeaux.fr/starpu/starpu2,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/ASAC/serre-polytech/Aquaponie,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/ASAC/serres-jdc/Code,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/ASAC/serres-jdc/Code,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/CamiTK/CamiTK,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/CamiTK/CamiTK-Incubator/CamiTKStateMachine,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/CamiTK/CamiTK-Incubator/albert,True
@@ -7389,7 +7390,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/Geodynamo/pygeodyn,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/Geodynamo/pygeodyn_data,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Geodynamo/webgeodyn,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/MSPL/MSPL,False
-https://gricad-gitlab.univ-grenoble-alpes.fr/MSPL/mspl-2018-2019,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/MSPL/mspl-2018-2019,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/MSPL/mspl-2019-2020,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/NSBAS/fftw,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/NSBAS/wiki_roipac,False
@@ -7453,7 +7454,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/leca/metabase/metabase,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/leca/shinyapps/hobo,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projet-RICM4/17-18/2/Dashboard,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/18-19/11/docs,False
-https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/18-19/11/soft,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/18-19/11/soft,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/18-19/12/code,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/18-19/12/docs,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/18-19/13/nurapisample,True
@@ -7467,7 +7468,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/18-19/21/backend,Fals
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/18-19/21/docs,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/18-19/21/frontend,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/18-19/43/doc0,False
-https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/18-19/43/doc1,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/18-19/43/doc1,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/18-19/6/docs,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/18-19/8/cages-a-marmotte-connectees,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/18-19/8/docs,False
@@ -7487,7 +7488,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/16/docs,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/16/ecoscore-parser,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/17/docs,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/19/code,False
-https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/19/docs,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/19/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/20/docs,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/20/draft,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/20/nixpkgs_swh,True
