@@ -431,6 +431,7 @@ https://forgemia.inra.fr/siriusquality/sqcode/SiriusQuality-BioMa-Phenology-Comp
 https://forgemia.inra.fr/siriusquality/sqcode/siriusquality-bioma-irradiance-component,True
 https://forgemia.inra.fr/siriusquality/sqcode/siriusquality-bioma-maizelai-component,True
 https://forgemia.inra.fr/siriusquality/sqcode/siriusquality-bioma-wheatpotentiallai-component,True
+https://forgemia.inra.fr/sunflo/envirotyping_sunrise,False
 https://forgemia.inra.fr/sunrise/15ex05_data_correction,True
 https://forgemia.inra.fr/sunrise/network-inference,True
 https://forgemia.inra.fr/svdetection/cnvpipelines,True
@@ -1482,7 +1483,7 @@ https://github.com/GIP-RECIA/esup-portlet-sympa,True
 https://github.com/GIP-RECIA/esup-publisher,True
 https://github.com/GIP-RECIA/flash-info-portlet,True
 https://github.com/GIP-RECIA/gip-recia.github.io,True
-https://github.com/GIP-RECIA/greenlight,False
+https://github.com/GIP-RECIA/greenlight,True
 https://github.com/GIP-RECIA/grr-eleves,True
 https://github.com/GIP-RECIA/h5p-moodle-plugin,True
 https://github.com/GIP-RECIA/help-info-portlet,True
@@ -1978,6 +1979,7 @@ https://github.com/LINCnil/obs-cookies,False
 https://github.com/LINCnil/pia,True
 https://github.com/LINCnil/pia-app,True
 https://github.com/LINCnil/pia-back,True
+https://github.com/LINCnil/scripts-vm-cel,False
 https://github.com/LINCnil/tosback2,True
 https://github.com/LemonLDAPNG/Apache-Session-Browseable,True
 https://github.com/LemonLDAPNG/Apache-Session-LDAP,True
@@ -2321,10 +2323,12 @@ https://github.com/SimPLU3D/simplu3D-workflow,True
 https://github.com/SimPLU3D/simplushp2pgsql,True
 https://github.com/SocialGouv/.github,True
 https://github.com/SocialGouv/.k8s,False
+https://github.com/SocialGouv/1000jours,False
 https://github.com/SocialGouv/SocialGouvUi,True
 https://github.com/SocialGouv/TextStyle,True
 https://github.com/SocialGouv/TextStyle-script,True
 https://github.com/SocialGouv/UDD,True
+https://github.com/SocialGouv/aes-gcm-rsa-oaep,False
 https://github.com/SocialGouv/annuaire-mjpm,True
 https://github.com/SocialGouv/ansible-kubeadm-cluster,True
 https://github.com/SocialGouv/app-nextjs-node-ts,True
@@ -3077,7 +3081,7 @@ https://github.com/betagouv/renforts,True
 https://github.com/betagouv/reserve-civique-redirect,True
 https://github.com/betagouv/retraite,True
 https://github.com/betagouv/role-ansible,True
-https://github.com/betagouv/sante-psy,False
+https://github.com/betagouv/sante-psy,True
 https://github.com/betagouv/secretariat,True
 https://github.com/betagouv/securite-numerique-agile,True
 https://github.com/betagouv/sejour,True
@@ -7483,8 +7487,8 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/13/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/13/siconia,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/14/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/15/docs,False
-https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/15/moonshotlabs_door_v1,False
-https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/16/docs,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/15/moonshotlabs_door_v1,True
+https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/16/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/16/ecoscore-parser,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/17/docs,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/19/code,False
@@ -7570,7 +7574,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/edcampus/edcampus-front,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/edcampus/edcampus-platform,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/enseignement1/m2cci/java/chenilles,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/enseignement1/m2cci/java/comptes,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/enseignement1/m2cci/java/correctiontp2,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/enseignement1/m2cci/java/correctiontp2,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/enseignement1/m2cci/java/couronne,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/enseignement1/m2cci/java/ensemblesdelettres,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/enseignement1/m2cci/java/formesanimees,True
@@ -7679,7 +7683,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/pedagogies-multimodales/wikicolor,F
 https://gricad-gitlab.univ-grenoble-alpes.fr/pedagogies-multimodales/wikiphon,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/phd-xavier/pre_analyses_ecrins,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/phelma/a-propos,False
-https://gricad-gitlab.univ-grenoble-alpes.fr/phelma/fablab/marlin_blackprusa,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/phelma/fablab/marlin_blackprusa,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/pmall/apli_pmall,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/pmall/pm-source,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/pmall/pyopestimator,False
@@ -7705,7 +7709,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/rheolef/rheolef,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/rheolef/shalava,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/scalde-contrib/ljk-guix-channel,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/skitzml/compiler,False
-https://gricad-gitlab.univ-grenoble-alpes.fr/steamer/thesis/lifeline,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/steamer/thesis/lifeline,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/systeme/nachos,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/systemes/asynchronisme_algorithmique_et_programmation,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/tal_for_distant_languages/wiki,False
