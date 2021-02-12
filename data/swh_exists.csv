@@ -2592,7 +2592,7 @@ https://github.com/abes-esr/abes-xslt,True
 https://github.com/abes-esr/algoliens-web,True
 https://github.com/abes-esr/archi-htmlreport-docker,True
 https://github.com/abes-esr/archi-model-example,True
-https://github.com/abes-esr/eplouribousse,False
+https://github.com/abes-esr/eplouribousse,True
 https://github.com/abes-esr/ezmaster-globs,True
 https://github.com/abes-esr/fne-back,True
 https://github.com/abes-esr/fne-batch,True
@@ -3121,7 +3121,7 @@ https://github.com/betagouv/traitdunion-landing-pages,True
 https://github.com/betagouv/traitdunion-metabase,True
 https://github.com/betagouv/transport-base-nationale-covoiturage,True
 https://github.com/betagouv/urbanvitaliz,True
-https://github.com/betagouv/valberg.comobi.fr,False
+https://github.com/betagouv/valberg.comobi.fr,True
 https://github.com/betagouv/verif.site,True
 https://github.com/betagouv/visam,True
 https://github.com/betagouv/voir-et-localiser-samu-sign-on,True
@@ -6277,7 +6277,7 @@ https://gitlab.inria.fr/comprise/comprise_sdk_developer_ui,True
 https://gitlab.inria.fr/comprise/comprise_speech_to_text,True
 https://gitlab.inria.fr/comprise/comprise_text_to_speech,True
 https://gitlab.inria.fr/comprise/deliverable_d21,True
-https://gitlab.inria.fr/comprise/deliverables/deliverable-d33,False
+https://gitlab.inria.fr/comprise/deliverables/deliverable-d33,True
 https://gitlab.inria.fr/comprise/deliverables/deliverable_d21,True
 https://gitlab.inria.fr/comprise/deliverables/deliverable_d22,True
 https://gitlab.inria.fr/comprise/deliverables/deliverable_d32,True
@@ -7088,7 +7088,7 @@ https://gitlab.inria.fr/synchrone/heptagon,True
 https://gitlab.inria.fr/tapenade/tapenade,True
 https://gitlab.inria.fr/tapenade/userdoc,True
 https://gitlab.inria.fr/the-missing-path/the-missing-path.gitlab.inria.fr,True
-https://gitlab.inria.fr/these-bxi/lulesh,False
+https://gitlab.inria.fr/these-bxi/lulesh,True
 https://gitlab.inria.fr/these-bxi/r-util,True
 https://gitlab.inria.fr/these-bxi/s4bxi-cmake-modules,True
 https://gitlab.inria.fr/these-bxi/s4bxi-config-generator,True
@@ -7383,7 +7383,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/CamiTK/CamiTK,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/CamiTK/CamiTK-Incubator/CamiTKStateMachine,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/CamiTK/CamiTK-Incubator/albert,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/CamiTK/CamiTK-Incubator/cepcoreschemacreator,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/CamiTK/CamiTK-Incubator/segmentor,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/CamiTK/CamiTK-Incubator/segmentor,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/CamiTK/CamiTK-Incubator/updateced,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/CamiTK/Docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Drakkar-LIG/WalT,False
@@ -7489,7 +7489,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/14/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/15/docs,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/15/moonshotlabs_door_v1,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/16/docs,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/16/ecoscore-parser,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/16/ecoscore-parser,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/17/docs,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/19/code,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/19/docs,True
@@ -7510,7 +7510,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/7/docs,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/8/app-pghm,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/8/docs,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/8/draft,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/9/docs,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/9/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/01/docs,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/02/docs,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/05/docs,False
@@ -7523,7 +7523,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/09/docs,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/10/docs,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/11/docs,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/12/docs,False
-https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/13/docs,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/13/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/13/polytech-helper-service,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/14/docs,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/15/docs,False
@@ -7567,7 +7567,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/ds-courses/optimal-filtering-sicom,
 https://gricad-gitlab.univ-grenoble-alpes.fr/eCOM-RICM5-MyTransport/MyTransport,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/ecopol/attacking-the-weak-or-the-strong,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/ecopol/ipdradical,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/edcampus/edcampus-back-node,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/edcampus/edcampus-back-node,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/edcampus/edcampus-backphp,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/edcampus/edcampus-doc,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/edcampus/edcampus-front,True
@@ -7575,11 +7575,14 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/edcampus/edcampus-platform,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/enseignement1/m2cci/java/chenilles,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/enseignement1/m2cci/java/comptes,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/enseignement1/m2cci/java/correctiontp2,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/enseignement1/m2cci/java/couronne,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/enseignement1/m2cci/java/couronne,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/enseignement1/m2cci/java/ensemblesdelettres,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/enseignement1/m2cci/java/formesanimees,True
+https://gricad-gitlab.univ-grenoble-alpes.fr/enseignement1/m2cci/java/ligne-polygonale,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/enseignement1/m2cci/java/panierelectronique,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/enseignement1/m2cci/java/rationals,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/enseignement1/m2cci/java/segmentsdedroite,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/enseignement1/m2cci/java/text-indexation,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/enseignement1/m2cci/java/tp09-exceptions,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/enseignement1/m2cci/javascript/visagesanimes_correction,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/ensimag/poly-intro-unix,True
@@ -7630,7 +7633,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/kubernetes-alpes/terraform-vsphere-
 https://gricad-gitlab.univ-grenoble-alpes.fr/labnbook/documentation-dev-public,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/labnbook/labnbook,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/labnbook/moodle-labnbook,False
-https://gricad-gitlab.univ-grenoble-alpes.fr/leca/publications/thuiller_2019_natcomm,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/leca/publications/thuiller_2019_natcomm,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/legi/soft/gestex,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/legi/soft/trokata/backuppc-silzigan,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/legi/soft/trokata/biblehal,False
