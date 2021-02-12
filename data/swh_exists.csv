@@ -19,6 +19,7 @@ https://dci-gitlab.cines.fr/dad/sip-builder-parent,True
 https://dci-gitlab.cines.fr/dad/smartapi,True
 https://dci-gitlab.cines.fr/dad/test-sphinx,True
 https://dci-gitlab.cines.fr/dad/vitam-data-test,True
+https://dci-gitlab.cines.fr/dad/vitam-dwatcher,False
 https://dci-gitlab.cines.fr/dad/vitam-rest-api,True
 https://dci-gitlab.cines.fr/dad/vitam-ui-cea_app_referential_pr1,True
 https://dci-gitlab.cines.fr/dad/vitam-ui-develop,True
@@ -1859,6 +1860,7 @@ https://github.com/InseeFrLab/InspaCy-UI,True
 https://github.com/InseeFrLab/Java-Helm-Wrapper,True
 https://github.com/InseeFrLab/Macronometrics,True
 https://github.com/InseeFrLab/Macronometrics-Notebook,True
+https://github.com/InseeFrLab/SASTauArgus,False
 https://github.com/InseeFrLab/Shelly,True
 https://github.com/InseeFrLab/Ubuntu-vnc-base,True
 https://github.com/InseeFrLab/Universe-Datascience,True
@@ -2883,7 +2885,7 @@ https://github.com/betagouv/discourse-oauth2-basic,True
 https://github.com/betagouv/django-magicauth,True
 https://github.com/betagouv/dns,True
 https://github.com/betagouv/doc.incubateur.net-communaute,True
-https://github.com/betagouv/doc.incubateur.net-design,False
+https://github.com/betagouv/doc.incubateur.net-design,True
 https://github.com/betagouv/doc.incubateur.net-insertion,True
 https://github.com/betagouv/doc.incubateur.net-startups,True
 https://github.com/betagouv/docs.dossiersco.fr,True
@@ -4316,7 +4318,7 @@ https://github.com/landlock-lsm/linux,True
 https://github.com/landlock-lsm/syzkaller,True
 https://github.com/leximpact/dataFin,True
 https://github.com/leximpact/donnees-extraites-assemblee,False
-https://github.com/leximpact/etudes-amendements,False
+https://github.com/leximpact/etudes-amendements,True
 https://github.com/leximpact/leximpact-client,True
 https://github.com/leximpact/leximpact-nouveau-sujet,True
 https://github.com/leximpact/leximpact-server,True
@@ -5987,7 +5989,7 @@ https://gitlab.inria.fr/Spirals/monsoon,True
 https://gitlab.inria.fr/TeamPlay_Public/TeamPlay_Public_Deliverables,True
 https://gitlab.inria.fr/VeRDi-project/concerto,True
 https://gitlab.inria.fr/VeRDi-project/concerto-evaluation,True
-https://gitlab.inria.fr/VeRDi-project/concerto-plan-synthesis,False
+https://gitlab.inria.fr/VeRDi-project/concerto-plan-synthesis,True
 https://gitlab.inria.fr/VeRDi-project/ecadorel,True
 https://gitlab.inria.fr/VeRDi-project/galera-experiment,True
 https://gitlab.inria.fr/VeRDi-project/madeus-journal,True
@@ -7487,7 +7489,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/12/qrcode-panel
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/13/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/13/siconia,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/14/docs,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/15/docs,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/15/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/15/moonshotlabs_door_v1,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/16/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/16/ecoscore-parser,True
@@ -7506,7 +7508,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/3/project-v2,Fa
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/4/docs,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/6/docs,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/6/projet,False
-https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/6/tests,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/6/tests,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/7/docs,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/8/app-pghm,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/8/docs,False
@@ -7523,7 +7525,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/08/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/09/docs,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/10/docs,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/11/docs,False
-https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/12/docs,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/12/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/13/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/13/polytech-helper-service,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/14/docs,False
@@ -7618,7 +7620,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/ikats/vt-tdt,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/ikats/vt-tsplorer,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/innovalangues/plannings-self,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/instrum/tp1,False
-https://gricad-gitlab.univ-grenoble-alpes.fr/ir-info4/tp-conteneur,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/ir-info4/tp-conteneur,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/jlparser/parser,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/kubernetes-alpes/buildah,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/kubernetes-alpes/docker-fidle,False
@@ -7676,7 +7678,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/pagai/pagai,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/pedagogies-multimodales/aligneur-phonographemique,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/pedagogies-multimodales/clavier-phono,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/pedagogies-multimodales/correcteur-phonograph,False
-https://gricad-gitlab.univ-grenoble-alpes.fr/pedagogies-multimodales/grammacolor,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/pedagogies-multimodales/grammacolor,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/pedagogies-multimodales/lexiques-phonetises,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/pedagogies-multimodales/panneaux-de-couleurs,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/pedagogies-multimodales/phon2graph,False
