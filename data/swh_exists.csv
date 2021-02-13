@@ -7474,7 +7474,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/18-19/19/workinprogre
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/18-19/21/backend,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/18-19/21/docs,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/18-19/21/frontend,False
-https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/18-19/43/doc0,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/18-19/43/doc0,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/18-19/43/doc1,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/18-19/6/docs,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/18-19/8/cages-a-marmotte-connectees,True
@@ -7484,7 +7484,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/10/docs,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/10/site,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/11/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/12/docs,False
-https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/12/grafana-trackmap-panel,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/12/grafana-trackmap-panel,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/12/qrcode-panel,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/13/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/13/siconia,True
@@ -7517,7 +7517,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/9/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/01/docs,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/02/docs,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/05/docs,False
-https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/05/raspberry,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/05/raspberry,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/06/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/07/docs,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/08/code,True
@@ -7543,11 +7543,11 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/caseine/dxf-filter,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/caseine/kekule.js,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/caseine/moodle-mod_vpl,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/caseine/moodle_blocks_completion_levels,False
-https://gricad-gitlab.univ-grenoble-alpes.fr/caseine/sharedspace_plugins/metadata,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/caseine/sharedspace_plugins/metadata,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/caseine/sharedspace_plugins/mod_sharedspaceh,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/caseine/sharedspace_plugins/sharedspace,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/caseine/sharedspace_plugins/sharedspaceh,False
-https://gricad-gitlab.univ-grenoble-alpes.fr/caseine/sharedspace_plugins/sharing_cart,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/caseine/sharedspace_plugins/sharing_cart,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/caseine/stl-moodle-filter,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/caseine/vpl_design_plugin,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/casys/givaro,True
@@ -7606,7 +7606,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/getalp/wikipediacompanycorpus,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/gricad-contrib/basics,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/gricad-contrib/mnist,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/gricad/etherpad/etherpadbundle,False
-https://gricad-gitlab.univ-grenoble-alpes.fr/hasdi/mspl-2018-2019,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/hasdi/mspl-2018-2019,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/hasdi/td2,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/hceres2019/beamertheme-lig,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/iab-env-epi/ciment-user-guide,False
@@ -7653,7 +7653,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/legi/soft/trokata/project-meta,Fals
 https://gricad-gitlab.univ-grenoble-alpes.fr/legi/soft/trokata/secdapt,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/legi/soft/trokata/signal-checkpoint,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/legi/soft/trokata/softsync,False
-https://gricad-gitlab.univ-grenoble-alpes.fr/legi/soft/trokata/tssh,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/legi/soft/trokata/tssh,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/lucah/hadaca_scoring,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/marinesj/ls_translator,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/meige-legi/intro-python,False
@@ -7663,7 +7663,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/michael_perin/tutoriel-qcm-avec-amc
 https://gricad-gitlab.univ-grenoble-alpes.fr/modmed/modmedLog,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/modmed/partrap,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/modmed/partrap-ide,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/modmed/partrap-install-web-site,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/modmed/partrap-install-web-site,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/nonsmooth/siconos-tutorials,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/omegalpes/lpfics,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/omegalpes/omegalpes,False
