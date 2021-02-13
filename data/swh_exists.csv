@@ -433,7 +433,7 @@ https://forgemia.inra.fr/siriusquality/sqcode/SiriusQuality-BioMa-Phenology-Comp
 https://forgemia.inra.fr/siriusquality/sqcode/siriusquality-bioma-irradiance-component,True
 https://forgemia.inra.fr/siriusquality/sqcode/siriusquality-bioma-maizelai-component,True
 https://forgemia.inra.fr/siriusquality/sqcode/siriusquality-bioma-wheatpotentiallai-component,True
-https://forgemia.inra.fr/sunflo/envirotyping_sunrise,False
+https://forgemia.inra.fr/sunflo/envirotyping_sunrise,True
 https://forgemia.inra.fr/sunrise/15ex05_data_correction,True
 https://forgemia.inra.fr/sunrise/network-inference,True
 https://forgemia.inra.fr/svdetection/cnvpipelines,True
@@ -1443,7 +1443,7 @@ https://github.com/GIP-RECIA/MediaCentre-WS,True
 https://github.com/GIP-RECIA/Notification-POC,True
 https://github.com/GIP-RECIA/NotificationPortlet,True
 https://github.com/GIP-RECIA/Pronote-WS,False
-https://github.com/GIP-RECIA/Rocket.Chat,False
+https://github.com/GIP-RECIA/Rocket.Chat,True
 https://github.com/GIP-RECIA/Rouncube-esco_user_identity,True
 https://github.com/GIP-RECIA/Roundcube-CAS-Authn,True
 https://github.com/GIP-RECIA/Roundcube-esco_addressbook,True
@@ -2449,7 +2449,7 @@ https://github.com/SocialGouv/react-departements,True
 https://github.com/SocialGouv/react-k8s-viewer,True
 https://github.com/SocialGouv/react-medixtor,True
 https://github.com/SocialGouv/renovate-config,True
-https://github.com/SocialGouv/runners-bench,False
+https://github.com/SocialGouv/runners-bench,True
 https://github.com/SocialGouv/sample-next-app,True
 https://github.com/SocialGouv/schema-pjm,True
 https://github.com/SocialGouv/seminaire,True
@@ -7398,7 +7398,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/Geodynamo/pygeodyn_data,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Geodynamo/webgeodyn,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/MSPL/MSPL,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/MSPL/mspl-2018-2019,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/MSPL/mspl-2019-2020,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/MSPL/mspl-2019-2020,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/NSBAS/fftw,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/NSBAS/wiki_roipac,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/DC/osug-doi,True
@@ -7460,12 +7460,12 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/isterre-sig/pyevent,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/leca/metabase/metabase,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/leca/shinyapps/hobo,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projet-RICM4/17-18/2/Dashboard,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/18-19/11/docs,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/18-19/11/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/18-19/11/soft,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/18-19/12/code,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/18-19/12/docs,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/18-19/13/nurapisample,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/18-19/13/projet,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/18-19/13/projet,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/18-19/18/docs,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/18-19/18/prototypes,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/18-19/19/code,False
@@ -7505,7 +7505,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/22/docs,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/23/docs,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/3/docs,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/3/project-v2,False
-https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/4/docs,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/4/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/6/docs,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/6/projet,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/6/tests,True
@@ -7593,7 +7593,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/foceta/requirements-management,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/formations-statistiques-R/CED-Bases-Stat-R,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/formations-statistiques-R/CED-IntroR,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/formations_R/ATMO_IntroR,False
-https://gricad-gitlab.univ-grenoble-alpes.fr/formations_R/ced_intror,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/formations_R/ced_intror,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/g2elab/blackboxdatalogger,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/gaia/team,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/geopsy/qgpcoretools,False
@@ -7639,14 +7639,14 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/labnbook/moodle-labnbook,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/leca/publications/thuiller_2019_natcomm,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/legi/soft/gestex,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/legi/soft/trokata/backuppc-silzigan,False
-https://gricad-gitlab.univ-grenoble-alpes.fr/legi/soft/trokata/biblehal,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/legi/soft/trokata/biblehal,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/legi/soft/trokata/bidiez,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/legi/soft/trokata/bundle,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/legi/soft/trokata/ddt,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/legi/soft/trokata/freskein,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/legi/soft/trokata/klask,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/legi/soft/trokata/klask-webphp,False
-https://gricad-gitlab.univ-grenoble-alpes.fr/legi/soft/trokata/latex-review,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/legi/soft/trokata/latex-review,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/legi/soft/trokata/nagios-velvice,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/legi/soft/trokata/oarutils,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/legi/soft/trokata/project-meta,False
@@ -7728,7 +7728,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/tima/public/tcad,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/tima/sls/projects/augh,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/tima/sls/projects/systemc-ct,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/ttk/spam,False
-https://gricad-gitlab.univ-grenoble-alpes.fr/ust4hpc/docker,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/ust4hpc/docker,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/ust4hpc/gpu-hub,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/ust4hpc/talk,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/Members,False
