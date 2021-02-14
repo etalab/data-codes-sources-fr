@@ -221,7 +221,7 @@ https://forgemia.inra.fr/couplimspec/couplimspec_20150113,True
 https://forgemia.inra.fr/couplimspec/hyiam,True
 https://forgemia.inra.fr/enseignement-mistea/reports-with-markdown,True
 https://forgemia.inra.fr/epgv/nlgenomesweeper,True
-https://forgemia.inra.fr/eq-record/record-team,False
+https://forgemia.inra.fr/eq-record/record-team,True
 https://forgemia.inra.fr/fact/fact,True
 https://forgemia.inra.fr/fact/pfptools,True
 https://forgemia.inra.fr/formation/formation-python-inrae,True
@@ -7392,7 +7392,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/CamiTK/CamiTK-Incubator/updateced,T
 https://gricad-gitlab.univ-grenoble-alpes.fr/CamiTK/Docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Drakkar-LIG/WalT,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Drakkar-LIG/WiSHFUL,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/Drakkar-LIG/WiSHFUL-LoRa-connector,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/Drakkar-LIG/WiSHFUL-LoRa-connector,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Drakkar-LIG/ipmt,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Geodynamo/pygeodyn,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/Geodynamo/pygeodyn_data,True
@@ -7515,7 +7515,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/8/app-pghm,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/8/docs,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/8/draft,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/9/docs,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/01/docs,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/01/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/02/docs,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/05/docs,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/05/raspberry,True
@@ -7529,7 +7529,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/11/docs,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/12/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/13/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/13/polytech-helper-service,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/14/docs,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/14/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/15/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/16/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/17/code,False
@@ -7541,7 +7541,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/aspen/aspen2014,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/batsim/batsim,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/biomove/fate,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/caseine/dxf-filter,False
-https://gricad-gitlab.univ-grenoble-alpes.fr/caseine/kekule.js,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/caseine/kekule.js,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/caseine/moodle-mod_vpl,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/caseine/moodle_blocks_completion_levels,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/caseine/sharedspace_plugins/metadata,True
@@ -7711,7 +7711,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/python-uga/py-training-2017,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/python-uga/py-training-intro,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/python-uga/training-hpc,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/python-uga/website-pyscidatagre,False
-https://gricad-gitlab.univ-grenoble-alpes.fr/python-uga/working-sessions,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/python-uga/working-sessions,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/rheolef/rheolef,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/rheolef/shalava,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/scalde-contrib/ljk-guix-channel,False
@@ -7726,7 +7726,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/tima-amfors/learnv,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/tima/public/ct_de-systemc,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/tima/public/newcas2019,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/tima/public/tcad,False
-https://gricad-gitlab.univ-grenoble-alpes.fr/tima/sls/projects/augh,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/tima/sls/projects/augh,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/tima/sls/projects/systemc-ct,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/ttk/spam,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/ust4hpc/docker,True
