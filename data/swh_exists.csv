@@ -1443,7 +1443,7 @@ https://github.com/GIP-RECIA/MediaCentre,True
 https://github.com/GIP-RECIA/MediaCentre-WS,True
 https://github.com/GIP-RECIA/Notification-POC,True
 https://github.com/GIP-RECIA/NotificationPortlet,True
-https://github.com/GIP-RECIA/Pronote-WS,False
+https://github.com/GIP-RECIA/Pronote-WS,True
 https://github.com/GIP-RECIA/Rocket.Chat,True
 https://github.com/GIP-RECIA/Rouncube-esco_user_identity,True
 https://github.com/GIP-RECIA/Roundcube-CAS-Authn,True
@@ -1861,7 +1861,7 @@ https://github.com/InseeFrLab/InspaCy-UI,True
 https://github.com/InseeFrLab/Java-Helm-Wrapper,True
 https://github.com/InseeFrLab/Macronometrics,True
 https://github.com/InseeFrLab/Macronometrics-Notebook,True
-https://github.com/InseeFrLab/SASTauArgus,False
+https://github.com/InseeFrLab/SASTauArgus,True
 https://github.com/InseeFrLab/Shelly,True
 https://github.com/InseeFrLab/Ubuntu-vnc-base,True
 https://github.com/InseeFrLab/Universe-Datascience,True
@@ -2873,7 +2873,7 @@ https://github.com/betagouv/dds-cross-simulator,True
 https://github.com/betagouv/demarches-simplifiees.fr,True
 https://github.com/betagouv/demarches.api.gouv.fr,True
 https://github.com/betagouv/demo-flux-cnaf,True
-https://github.com/betagouv/designers-transverses,False
+https://github.com/betagouv/designers-transverses,True
 https://github.com/betagouv/desk-agent-polyvalent,True
 https://github.com/betagouv/dev-transverse-doc,True
 https://github.com/betagouv/diagoriente-admin,True
@@ -7497,7 +7497,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/16/ecoscore-par
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/17/docs,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/19/code,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/19/docs,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/20/docs,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/20/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/20/draft,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/20/nixpkgs_swh,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/21/docs,True
@@ -7545,7 +7545,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/caseine/kekule.js,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/caseine/moodle-mod_vpl,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/caseine/moodle_blocks_completion_levels,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/caseine/sharedspace_plugins/metadata,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/caseine/sharedspace_plugins/mod_sharedspaceh,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/caseine/sharedspace_plugins/mod_sharedspaceh,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/caseine/sharedspace_plugins/sharedspace,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/caseine/sharedspace_plugins/sharedspaceh,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/caseine/sharedspace_plugins/sharing_cart,True
@@ -7556,7 +7556,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/ced-sandbox/linux,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/certicompil/compcert-kvx,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/chamilotools/chamilotools,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/codalab/bundle_generation,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/codalab/docker-recipes,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/codalab/docker-recipes,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/collaboration-entreprises/pollen-gpu,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/college-EDTUE-doctorants/PhD_FAQ,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/continuous-everything/ci,True
@@ -7652,7 +7652,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/legi/soft/trokata/nagios-velvice,Fa
 https://gricad-gitlab.univ-grenoble-alpes.fr/legi/soft/trokata/oarutils,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/legi/soft/trokata/project-meta,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/legi/soft/trokata/secdapt,False
-https://gricad-gitlab.univ-grenoble-alpes.fr/legi/soft/trokata/signal-checkpoint,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/legi/soft/trokata/signal-checkpoint,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/legi/soft/trokata/softsync,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/legi/soft/trokata/tssh,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/lucah/hadaca_scoring,False
@@ -7668,7 +7668,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/modmed/partrap-install-web-site,Tru
 https://gricad-gitlab.univ-grenoble-alpes.fr/nonsmooth/siconos-tutorials,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/omegalpes/lpfics,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/omegalpes/omegalpes,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/omegalpes/omegalpes-web-back-end,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/omegalpes/omegalpes-web-back-end,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/omegalpes/omegalpes-web-front-end,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/omegalpes/omegalpes_examples,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/omegalpes/omegalpes_notebooks,False
