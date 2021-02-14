@@ -158,6 +158,7 @@ https://forge.univ-lyon1.fr/lifap6/tp-union-find-etu,True
 https://forge.univ-lyon1.fr/lifprojet-lifprojet/raytracing,True
 https://forge.univ-lyon1.fr/lifprojet/lifprojet_am3,True
 https://forge.univ-lyon1.fr/loup-garouptut/loupandroid,True
+https://forge.univ-lyon1.fr/lpt-soft/lifprojet-lpto,False
 https://forge.univ-lyon1.fr/m1if13/m1if13-2019,True
 https://forge.univ-lyon1.fr/m1if13/m1if13-2020,True
 https://forge.univ-lyon1.fr/m1if13/m1if13-2021,True
@@ -1450,7 +1451,7 @@ https://github.com/GIP-RECIA/Roundcube-esco_addressbook,True
 https://github.com/GIP-RECIA/Roundcube-esco_theme,True
 https://github.com/GIP-RECIA/WebproxyPortlet,True
 https://github.com/GIP-RECIA/apps-deployer,False
-https://github.com/GIP-RECIA/apps-redirector,False
+https://github.com/GIP-RECIA/apps-redirector,True
 https://github.com/GIP-RECIA/cahier-de-texte,True
 https://github.com/GIP-RECIA/cas,True
 https://github.com/GIP-RECIA/cas-esco-overlay,True
@@ -1505,7 +1506,7 @@ https://github.com/GIP-RECIA/moodle_local_additionalhtmlfooter,True
 https://github.com/GIP-RECIA/moodle_local_myplugin,True
 https://github.com/GIP-RECIA/moodle_local_theme_esco,True
 https://github.com/GIP-RECIA/nameshield-livedns,False
-https://github.com/GIP-RECIA/nextcloud-plugins,False
+https://github.com/GIP-RECIA/nextcloud-plugins,True
 https://github.com/GIP-RECIA/nextcloud-recia-custom,True
 https://github.com/GIP-RECIA/pac4j,True
 https://github.com/GIP-RECIA/podv2,True
@@ -7387,7 +7388,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/CamiTK/CamiTK-Incubator/CamiTKState
 https://gricad-gitlab.univ-grenoble-alpes.fr/CamiTK/CamiTK-Incubator/albert,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/CamiTK/CamiTK-Incubator/cepcoreschemacreator,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/CamiTK/CamiTK-Incubator/segmentor,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/CamiTK/CamiTK-Incubator/updateced,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/CamiTK/CamiTK-Incubator/updateced,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/CamiTK/Docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Drakkar-LIG/WalT,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Drakkar-LIG/WiSHFUL,True
@@ -7504,7 +7505,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/21/preuveconcep
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/22/docs,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/23/docs,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/3/docs,False
-https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/3/project-v2,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/3/project-v2,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/4/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/6/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/6/projet,False
@@ -7666,13 +7667,13 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/modmed/partrap-ide,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/modmed/partrap-install-web-site,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/nonsmooth/siconos-tutorials,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/omegalpes/lpfics,False
-https://gricad-gitlab.univ-grenoble-alpes.fr/omegalpes/omegalpes,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/omegalpes/omegalpes,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/omegalpes/omegalpes-web-back-end,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/omegalpes/omegalpes-web-front-end,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/omegalpes/omegalpes_examples,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/omegalpes/omegalpes_notebooks,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/pacific/codes/design_and_run_sem46_simulations_in_synthetic_models,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/pacific/publications/2020_Lavoue-et-al_SRL_supplemental-material,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/pacific/publications/2020_Lavoue-et-al_SRL_supplemental-material,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/pagai/apron-clone,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/pagai/pagai,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/pedagogies-multimodales/aligneur-phonographemique,False
@@ -7688,7 +7689,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/pedagogies-multimodales/transfo-pho
 https://gricad-gitlab.univ-grenoble-alpes.fr/pedagogies-multimodales/wikicolor,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/pedagogies-multimodales/wikiphon,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/phd-xavier/pre_analyses_ecrins,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/phelma/a-propos,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/phelma/a-propos,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/phelma/fablab/marlin_blackprusa,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/pmall/apli_pmall,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/pmall/pm-source,False
@@ -7720,7 +7721,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/systeme/nachos,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/systemes/asynchronisme_algorithmique_et_programmation,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/tal_for_distant_languages/wiki,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/talks/deeplearning,False
-https://gricad-gitlab.univ-grenoble-alpes.fr/talks/fidle,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/talks/fidle,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/tima-amfors/learnv,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/tima/public/ct_de-systemc,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/tima/public/newcas2019,False
