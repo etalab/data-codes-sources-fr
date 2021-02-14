@@ -7393,7 +7393,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/CamiTK/Docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Drakkar-LIG/WalT,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Drakkar-LIG/WiSHFUL,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Drakkar-LIG/WiSHFUL-LoRa-connector,False
-https://gricad-gitlab.univ-grenoble-alpes.fr/Drakkar-LIG/ipmt,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/Drakkar-LIG/ipmt,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Geodynamo/pygeodyn,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/Geodynamo/pygeodyn_data,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Geodynamo/webgeodyn,False
@@ -7469,7 +7469,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/18-19/13/nurapisample
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/18-19/13/projet,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/18-19/18/docs,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/18-19/18/prototypes,False
-https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/18-19/19/code,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/18-19/19/code,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/18-19/19/docs,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/18-19/19/workinprogress,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/18-19/21/backend,True
@@ -7599,7 +7599,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/g2elab/blackboxdatalogger,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/gaia/team,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/geopsy/qgpcoretools,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/getalp/amorph,False
-https://gricad-gitlab.univ-grenoble-alpes.fr/getalp/ariane-lingware,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/getalp/ariane-lingware,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/getalp/dbnary-dashboard,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/getalp/seq2seqpytorch,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/getalp/vocadoma4h,False
@@ -7608,7 +7608,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/gricad-contrib/basics,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/gricad-contrib/mnist,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/gricad/etherpad/etherpadbundle,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/hasdi/mspl-2018-2019,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/hasdi/td2,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/hasdi/td2,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/hceres2019/beamertheme-lig,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/iab-env-epi/ciment-user-guide,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/iab-env-epi/jedynak_prenatal_2020,True
@@ -7633,7 +7633,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/kubernetes-alpes/nova-k8s,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/kubernetes-alpes/nova-k8s-tf,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/kubernetes-alpes/nova-packer,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/kubernetes-alpes/reunions,False
-https://gricad-gitlab.univ-grenoble-alpes.fr/kubernetes-alpes/terraform-vsphere-rke,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/kubernetes-alpes/terraform-vsphere-rke,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/labnbook/documentation-dev-public,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/labnbook/labnbook,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/labnbook/moodle-labnbook,False
@@ -7681,7 +7681,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/pedagogies-multimodales/clavier-pho
 https://gricad-gitlab.univ-grenoble-alpes.fr/pedagogies-multimodales/correcteur-phonograph,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/pedagogies-multimodales/grammacolor,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/pedagogies-multimodales/lexiques-phonetises,False
-https://gricad-gitlab.univ-grenoble-alpes.fr/pedagogies-multimodales/panneaux-de-couleurs,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/pedagogies-multimodales/panneaux-de-couleurs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/pedagogies-multimodales/phon2graph,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/pedagogies-multimodales/phonodrop,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/pedagogies-multimodales/phonographe,False
