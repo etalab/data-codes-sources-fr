@@ -419,7 +419,7 @@ https://forgemia.inra.fr/record/RECORD,True
 https://forgemia.inra.fr/record/RecordingTools,True
 https://forgemia.inra.fr/record/agrodynaland,True
 https://forgemia.inra.fr/record/azodyn,True
-https://forgemia.inra.fr/record/docker-planemo,False
+https://forgemia.inra.fr/record/docker-planemo,True
 https://forgemia.inra.fr/record/pydynamics,True
 https://forgemia.inra.fr/record/recordregistry,True
 https://forgemia.inra.fr/record/recordweb,True
@@ -7503,7 +7503,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/20/nixpkgs_swh,
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/21/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/21/preuveconcept,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/22/docs,False
-https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/23/docs,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/23/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/3/docs,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/3/project-v2,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/4/docs,True
@@ -7525,7 +7525,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/08/code,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/08/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/09/docs,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/10/docs,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/11/docs,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/11/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/12/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/13/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/13/polytech-helper-service,True
@@ -7585,7 +7585,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/enseignement1/m2cci/java/formesanim
 https://gricad-gitlab.univ-grenoble-alpes.fr/enseignement1/m2cci/java/ligne-polygonale,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/enseignement1/m2cci/java/panierelectronique,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/enseignement1/m2cci/java/rationals,False
-https://gricad-gitlab.univ-grenoble-alpes.fr/enseignement1/m2cci/java/segmentsdedroite,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/enseignement1/m2cci/java/segmentsdedroite,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/enseignement1/m2cci/java/text-indexation,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/enseignement1/m2cci/java/tp09-exceptions,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/enseignement1/m2cci/javascript/visagesanimes_correction,True
@@ -7619,7 +7619,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/ikats/op-rhm,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/ikats/op-tdt,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/ikats/vt-tdt,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/ikats/vt-tsplorer,False
-https://gricad-gitlab.univ-grenoble-alpes.fr/innovalangues/plannings-self,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/innovalangues/plannings-self,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/instrum/tp1,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/ir-info4/tp-conteneur,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/jlparser/parser,False
@@ -7642,10 +7642,10 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/legi/soft/gestex,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/legi/soft/trokata/backuppc-silzigan,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/legi/soft/trokata/biblehal,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/legi/soft/trokata/bidiez,False
-https://gricad-gitlab.univ-grenoble-alpes.fr/legi/soft/trokata/bundle,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/legi/soft/trokata/bundle,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/legi/soft/trokata/ddt,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/legi/soft/trokata/freskein,False
-https://gricad-gitlab.univ-grenoble-alpes.fr/legi/soft/trokata/klask,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/legi/soft/trokata/klask,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/legi/soft/trokata/klask-webphp,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/legi/soft/trokata/latex-review,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/legi/soft/trokata/nagios-velvice,False
@@ -7662,7 +7662,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/meige-legi/scientific-computing-m2-
 https://gricad-gitlab.univ-grenoble-alpes.fr/michael_perin/pwc,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/michael_perin/tutoriel-qcm-avec-amc,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/modmed/modmedLog,False
-https://gricad-gitlab.univ-grenoble-alpes.fr/modmed/partrap,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/modmed/partrap,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/modmed/partrap-ide,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/modmed/partrap-install-web-site,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/nonsmooth/siconos-tutorials,False
@@ -7670,7 +7670,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/omegalpes/lpfics,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/omegalpes/omegalpes,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/omegalpes/omegalpes-web-back-end,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/omegalpes/omegalpes-web-front-end,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/omegalpes/omegalpes_examples,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/omegalpes/omegalpes_examples,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/omegalpes/omegalpes_notebooks,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/pacific/codes/design_and_run_sem46_simulations_in_synthetic_models,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/pacific/publications/2020_Lavoue-et-al_SRL_supplemental-material,True
@@ -7682,9 +7682,9 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/pedagogies-multimodales/correcteur-
 https://gricad-gitlab.univ-grenoble-alpes.fr/pedagogies-multimodales/grammacolor,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/pedagogies-multimodales/lexiques-phonetises,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/pedagogies-multimodales/panneaux-de-couleurs,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/pedagogies-multimodales/phon2graph,False
-https://gricad-gitlab.univ-grenoble-alpes.fr/pedagogies-multimodales/phonodrop,False
-https://gricad-gitlab.univ-grenoble-alpes.fr/pedagogies-multimodales/phonographe,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/pedagogies-multimodales/phon2graph,True
+https://gricad-gitlab.univ-grenoble-alpes.fr/pedagogies-multimodales/phonodrop,True
+https://gricad-gitlab.univ-grenoble-alpes.fr/pedagogies-multimodales/phonographe,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/pedagogies-multimodales/transfo-phono,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/pedagogies-multimodales/wikicolor,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/pedagogies-multimodales/wikiphon,True
@@ -7692,7 +7692,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/phd-xavier/pre_analyses_ecrins,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/phelma/a-propos,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/phelma/fablab/marlin_blackprusa,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/pmall/apli_pmall,False
-https://gricad-gitlab.univ-grenoble-alpes.fr/pmall/pm-source,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/pmall/pm-source,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/pmall/pyopestimator,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/pmall/pyopestimator-data,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/polytech/info3-unix,False
@@ -7710,7 +7710,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/publickanboarddev/mmimporter,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/python-uga/py-training-2017,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/python-uga/py-training-intro,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/python-uga/training-hpc,False
-https://gricad-gitlab.univ-grenoble-alpes.fr/python-uga/website-pyscidatagre,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/python-uga/website-pyscidatagre,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/python-uga/working-sessions,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/rheolef/rheolef,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/rheolef/shalava,False
