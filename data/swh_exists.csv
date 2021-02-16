@@ -7316,6 +7316,7 @@ https://gitlab.ow2.org/lemonldap-ng/vue-manager-for-llng,True
 https://gitlab.ow2.org/lemonldap-ng/website-landing-page,True
 https://gitlab.u-psud.fr/AgregOptionC/AlgebreLineaireFormesEchelon,True
 https://gitlab.u-psud.fr/AgregOptionC/CodesCorrecteurs,True
+https://gitlab.u-psud.fr/AgregOptionC/MultiplicationsRapides,False
 https://gitlab.u-psud.fr/Coucou/Test,False
 https://gitlab.u-psud.fr/Coucou/Truc,True
 https://gitlab.u-psud.fr/Info111/ComputerLab,True
@@ -7488,7 +7489,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/18-19/19/docs,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/18-19/19/workinprogress,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/18-19/21/backend,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/18-19/21/docs,False
-https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/18-19/21/frontend,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/18-19/21/frontend,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/18-19/43/doc0,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/18-19/43/doc1,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/18-19/6/docs,False
@@ -7498,7 +7499,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/18-19/8/serveur-node-
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/10/docs,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/10/site,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/11/docs,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/12/docs,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/12/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/12/grafana-trackmap-panel,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/12/qrcode-panel,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/13/docs,True
@@ -7531,7 +7532,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/8/draft,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/9/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/01/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/02/docs,False
-https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/05/docs,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/05/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/05/raspberry,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/06/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/07/docs,True
@@ -7628,7 +7629,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/iab-env-epi/ciment-user-guide,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/iab-env-epi/jedynak_prenatal_2020,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/iab-env-epi/philippat_comparison_2020,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/iab-env-epi/rolland_exposure_2020,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/icall/MagicWord,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/icall/MagicWord,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/ikats/op-rhm,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/ikats/op-tdt,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/ikats/vt-tdt,True
@@ -7662,8 +7663,8 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/legi/soft/trokata/freskein,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/legi/soft/trokata/klask,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/legi/soft/trokata/klask-webphp,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/legi/soft/trokata/latex-review,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/legi/soft/trokata/nagios-velvice,False
-https://gricad-gitlab.univ-grenoble-alpes.fr/legi/soft/trokata/oarutils,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/legi/soft/trokata/nagios-velvice,True
+https://gricad-gitlab.univ-grenoble-alpes.fr/legi/soft/trokata/oarutils,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/legi/soft/trokata/project-meta,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/legi/soft/trokata/secdapt,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/legi/soft/trokata/signal-checkpoint,True
@@ -7756,9 +7757,9 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/if/if-toolset,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/old-reproducible-research,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/reproducible-research/lra4w7,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/reproducible-research/osim-lutin,False
-https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/reproducible-research/sasartifact,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/reproducible-research/sasartifact,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/reproducible-research/simple-dflow-rtss-2020,False
-https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/synchrone/lustre-v6,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/synchrone/lustre-v6,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/synchrone/lutils,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/synchrone/lutin,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/synchrone/mia,True
