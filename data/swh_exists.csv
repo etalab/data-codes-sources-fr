@@ -1543,6 +1543,7 @@ https://github.com/Geographie-cites/h24,True
 https://github.com/Geographie-cites/lucie,True
 https://github.com/Geographie-cites/micmac-scala,True
 https://github.com/Geographie-cites/mobiliscope,True
+https://github.com/Geographie-cites/mobiliscope2,False
 https://github.com/Geographie-cites/semogeo,True
 https://github.com/Geographie-cites/springer-simpoplocal,True
 https://github.com/Geographie-cites/thesaR,True
@@ -2828,6 +2829,7 @@ https://github.com/betagouv/api-particulier-mesri-connector,True
 https://github.com/betagouv/api-particulier-pole-emploi-connector,True
 https://github.com/betagouv/api-particulier-pole-emploi-sandbox-connector,True
 https://github.com/betagouv/api-particulier-portail,True
+https://github.com/betagouv/api-particulier-status,False
 https://github.com/betagouv/api-particulier-token-sender,True
 https://github.com/betagouv/api-particulier-web,True
 https://github.com/betagouv/api-scopes,True
@@ -4123,6 +4125,7 @@ https://github.com/ezpaarse-project/ezpaarse-web-home,True
 https://github.com/ezpaarse-project/getting-started-with-ezvis,True
 https://github.com/ezpaarse-project/ip-range-generator,True
 https://github.com/ezpaarse-project/irevue-logs-cleaner,True
+https://github.com/ezpaarse-project/node-etatcollhlm,False
 https://github.com/ezpaarse-project/node-ezmesure,True
 https://github.com/ezpaarse-project/node-ezpaarse,True
 https://github.com/ezpaarse-project/node-ezunpaywall,True
@@ -4324,7 +4327,7 @@ https://github.com/landlock-lsm/landlock-lsm.github.io,True
 https://github.com/landlock-lsm/linux,True
 https://github.com/landlock-lsm/syzkaller,True
 https://github.com/leximpact/dataFin,True
-https://github.com/leximpact/donnees-extraites-assemblee,False
+https://github.com/leximpact/donnees-extraites-assemblee,True
 https://github.com/leximpact/etudes-amendements,True
 https://github.com/leximpact/leximpact-client,True
 https://github.com/leximpact/leximpact-nouveau-sujet,True
@@ -7403,7 +7406,7 @@ https://gitub.u-bordeaux.fr/starpu/starpu2,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/ASAC/serre-polytech/Aquaponie,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/ASAC/serres-jdc/Code,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/CamiTK/CamiTK,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/CamiTK/CamiTK-Incubator/CamiTKStateMachine,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/CamiTK/CamiTK-Incubator/CamiTKStateMachine,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/CamiTK/CamiTK-Incubator/albert,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/CamiTK/CamiTK-Incubator/cepcoreschemacreator,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/CamiTK/CamiTK-Incubator/segmentor,True
@@ -7482,7 +7485,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/leca/shinyapps/hobo,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projet-RICM4/17-18/2/Dashboard,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/18-19/11/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/18-19/11/soft,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/18-19/12/code,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/18-19/12/code,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/18-19/12/docs,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/18-19/13/nurapisample,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/18-19/13/projet,True
@@ -7556,7 +7559,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/17/docs,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/18/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/SIMPA/SIMPA,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/ai-courses/autonomous_systems_ml,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/aspen/aspen2014,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/aspen/aspen2014,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/batsim/batsim,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/biomove/fate,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/caseine/dxf-filter,False
@@ -7577,7 +7580,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/chamilotools/chamilotools,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/codalab/bundle_generation,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/codalab/docker-recipes,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/collaboration-entreprises/pollen-gpu,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/college-EDTUE-doctorants/PhD_FAQ,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/college-EDTUE-doctorants/PhD_FAQ,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/continuous-everything/ci,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/coriofoam/coriofoam,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/deformvis/insarviz,False
@@ -7699,7 +7702,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/pedagogies-multimodales/aligneur-ph
 https://gricad-gitlab.univ-grenoble-alpes.fr/pedagogies-multimodales/clavier-phono,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/pedagogies-multimodales/correcteur-phonograph,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/pedagogies-multimodales/grammacolor,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/pedagogies-multimodales/lexiques-phonetises,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/pedagogies-multimodales/lexiques-phonetises,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/pedagogies-multimodales/panneaux-de-couleurs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/pedagogies-multimodales/phon2graph,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/pedagogies-multimodales/phonodrop,True
@@ -7769,7 +7772,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/synchrone/lutin,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/synchrone/mia,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/synchrone/rdbg,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/synchrone/sasa,False
-https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/synchrone/tools-distrib,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/synchrone/tools-distrib,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/tempo/StlEval,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/tempo/boolean,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/tempo/multidimensional_search,False
