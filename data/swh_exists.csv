@@ -19,7 +19,7 @@ https://dci-gitlab.cines.fr/dad/sip-builder-parent,True
 https://dci-gitlab.cines.fr/dad/smartapi,True
 https://dci-gitlab.cines.fr/dad/test-sphinx,True
 https://dci-gitlab.cines.fr/dad/vitam-data-test,True
-https://dci-gitlab.cines.fr/dad/vitam-dwatcher,False
+https://dci-gitlab.cines.fr/dad/vitam-dwatcher,True
 https://dci-gitlab.cines.fr/dad/vitam-rest-api,True
 https://dci-gitlab.cines.fr/dad/vitam-ui-cea_app_referential_pr1,True
 https://dci-gitlab.cines.fr/dad/vitam-ui-develop,True
@@ -158,7 +158,7 @@ https://forge.univ-lyon1.fr/lifap6/tp-union-find-etu,True
 https://forge.univ-lyon1.fr/lifprojet-lifprojet/raytracing,True
 https://forge.univ-lyon1.fr/lifprojet/lifprojet_am3,True
 https://forge.univ-lyon1.fr/loup-garouptut/loupandroid,True
-https://forge.univ-lyon1.fr/lpt-soft/lifprojet-lpto,False
+https://forge.univ-lyon1.fr/lpt-soft/lifprojet-lpto,True
 https://forge.univ-lyon1.fr/m1if13/m1if13-2019,True
 https://forge.univ-lyon1.fr/m1if13/m1if13-2020,True
 https://forge.univ-lyon1.fr/m1if13/m1if13-2021,True
@@ -3118,6 +3118,7 @@ https://github.com/betagouv/sqlalchemy-api-handler,True
 https://github.com/betagouv/sqlalchemy-handler,True
 https://github.com/betagouv/standup,True
 https://github.com/betagouv/stats_metabase_demo,True
+https://github.com/betagouv/status.api.gouv.fr,False
 https://github.com/betagouv/svair-api,True
 https://github.com/betagouv/svair-mock,True
 https://github.com/betagouv/svair-mock-data,True
@@ -4762,7 +4763,7 @@ https://github.com/metwork-framework/index,True
 https://github.com/metwork-framework/jinja2_fnmatch_extension,True
 https://github.com/metwork-framework/jinja2_from_json_extension,True
 https://github.com/metwork-framework/jinja2_getenv_extension,True
-https://github.com/metwork-framework/jinja2_humanize_extension,False
+https://github.com/metwork-framework/jinja2_humanize_extension,True
 https://github.com/metwork-framework/jinja2_shell_extension,True
 https://github.com/metwork-framework/jsonlog2elasticsearch,True
 https://github.com/metwork-framework/jsonsyslog2elasticsearch,True
@@ -7208,7 +7209,7 @@ https://gitlab.irstea.fr/cormas-dev/r-cormas,True
 https://gitlab.irstea.fr/diades/diades.atlas,True
 https://gitlab.irstea.fr/diades/test,True
 https://gitlab.irstea.fr/emax/bddfontblanche,True
-https://gitlab.irstea.fr/ext/insitu/trios,False
+https://gitlab.irstea.fr/ext/insitu/trios,True
 https://gitlab.irstea.fr/geopat/geopat,True
 https://gitlab.irstea.fr/hru-delin-dev/hru-delin,True
 https://gitlab.irstea.fr/hru-delin-dev/hru-delin-qgis,True
@@ -7418,12 +7419,12 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/Drakkar-LIG/WiSHFUL-LoRa-connector,
 https://gricad-gitlab.univ-grenoble-alpes.fr/Drakkar-LIG/ipmt,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Geodynamo/pygeodyn,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Geodynamo/pygeodyn_data,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/Geodynamo/webgeodyn,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/Geodynamo/webgeodyn,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/MSPL/MSPL,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/MSPL/mspl-2018-2019,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/MSPL/mspl-2019-2020,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/NSBAS/fftw,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/NSBAS/wiki_roipac,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/NSBAS/wiki_roipac,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/DC/osug-doi,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/DC/shiny-base,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/DC/shiny.osug.fr,True
@@ -7606,7 +7607,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/enseignement1/m2cci/java/ensemblesd
 https://gricad-gitlab.univ-grenoble-alpes.fr/enseignement1/m2cci/java/formesanimees,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/enseignement1/m2cci/java/ligne-polygonale,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/enseignement1/m2cci/java/panierelectronique,False
-https://gricad-gitlab.univ-grenoble-alpes.fr/enseignement1/m2cci/java/rationals,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/enseignement1/m2cci/java/rationals,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/enseignement1/m2cci/java/segmentsdedroite,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/enseignement1/m2cci/java/text-indexation,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/enseignement1/m2cci/java/tp09-exceptions,True
@@ -7619,7 +7620,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/formations_R/ATMO_IntroR,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/formations_R/ced_intror,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/g2elab/blackboxdatalogger,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/gaia/team,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/geopsy/qgpcoretools,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/geopsy/qgpcoretools,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/getalp/amorph,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/getalp/ariane-lingware,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/getalp/dbnary-dashboard,True
@@ -7661,7 +7662,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/labnbook/labnbook,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/labnbook/moodle-labnbook,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/leca/publications/thuiller_2019_natcomm,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/legi/soft/gestex,False
-https://gricad-gitlab.univ-grenoble-alpes.fr/legi/soft/trokata/backuppc-silzigan,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/legi/soft/trokata/backuppc-silzigan,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/legi/soft/trokata/biblehal,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/legi/soft/trokata/bidiez,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/legi/soft/trokata/bundle,True
@@ -7726,7 +7727,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/projet/machinetrace,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/projet/sokoban-demo-live,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/projet/trigraphique,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/projet/vpl-for-vscode,False
-https://gricad-gitlab.univ-grenoble-alpes.fr/projet/vpl-for-vscode-documentation,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/projet/vpl-for-vscode-documentation,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/projet/vplpp,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/publickanboarddev/mmimporter,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/python-uga/py-training-2017,False
