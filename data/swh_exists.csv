@@ -735,6 +735,7 @@ https://git.unistra.fr/t432_liy20_t3_f/t31_barre_oblique_v1,True
 https://git.unistra.fr/t432_voc20_t3_x/archeologie,True
 https://git.unistra.fr/t4_workisusels/projet_t4_workisuseless,True
 https://git.unistra.fr/tallandier_haquin/a31_puissance_puissance,True
+https://git.unistra.fr/tsp-ics/yaspanalyzers,False
 https://git.unistra.fr/uhuit/pgmaggpl,True
 https://git.unistra.fr/uquatre/mips-invader,True
 https://git.unistra.fr/usept/sexy-polyedra-baby,True
@@ -759,8 +760,10 @@ https://github.com/1024pix/ember-sentry,True
 https://github.com/1024pix/formation-jeremie,True
 https://github.com/1024pix/gateway,True
 https://github.com/1024pix/gravitee-buildpack,True
+https://github.com/1024pix/gravitee-gateway,False
+https://github.com/1024pix/graviteeio-management-ui,False
 https://github.com/1024pix/graviteeio-portal-ui,False
-https://github.com/1024pix/graviteeio-rest-api,False
+https://github.com/1024pix/graviteeio-rest-api,True
 https://github.com/1024pix/heroku-buildpack-git-submodule,True
 https://github.com/1024pix/heroku-buildpack-telegraf,True
 https://github.com/1024pix/journee-recherche,True
@@ -784,6 +787,7 @@ https://github.com/1024pix/pix-db-replication,True
 https://github.com/1024pix/pix-db-stats,True
 https://github.com/1024pix/pix-editor,True
 https://github.com/1024pix/pix-engineering,True
+https://github.com/1024pix/pix-graviteeio,False
 https://github.com/1024pix/pix-help-center-theme,True
 https://github.com/1024pix/pix-lifestyle,True
 https://github.com/1024pix/pix-maintenance,True
@@ -1499,7 +1503,7 @@ https://github.com/GIP-RECIA/iframe-resizer,False
 https://github.com/GIP-RECIA/menu-cantine-ui,True
 https://github.com/GIP-RECIA/moodle,True
 https://github.com/GIP-RECIA/moodle-blocks-course_overview_esco,True
-https://github.com/GIP-RECIA/moodle-dev-stack,False
+https://github.com/GIP-RECIA/moodle-dev-stack,True
 https://github.com/GIP-RECIA/moodle-filter_jmol,True
 https://github.com/GIP-RECIA/moodle-filter_poodll,True
 https://github.com/GIP-RECIA/moodle-mod_etherpadlite,True
@@ -2620,6 +2624,7 @@ https://github.com/abes-esr/ln-back-event,False
 https://github.com/abes-esr/ln-front,False
 https://github.com/abes-esr/periscope-back,True
 https://github.com/abes-esr/periscope-front,True
+https://github.com/abes-esr/periscope-indexing-ws,False
 https://github.com/abes-esr/periscope-poc-vue-js,True
 https://github.com/abes-esr/periscope-poc-vue-js-latest,False
 https://github.com/abes-esr/periscope-vue-typescript,True
@@ -3122,6 +3127,7 @@ https://github.com/betagouv/sqlalchemy-handler,True
 https://github.com/betagouv/standup,True
 https://github.com/betagouv/stats_metabase_demo,True
 https://github.com/betagouv/status.api.gouv.fr,True
+https://github.com/betagouv/statut.api.gouv.fr,False
 https://github.com/betagouv/svair-api,True
 https://github.com/betagouv/svair-mock,True
 https://github.com/betagouv/svair-mock-data,True
@@ -3420,6 +3426,7 @@ https://github.com/cortext/risis-linkage,False
 https://github.com/cortext/silex-simpleuser,True
 https://github.com/cortext/wostext,True
 https://github.com/cortext/wp-theme,True
+https://github.com/cre-dev/pub-data-visualization,False
 https://github.com/cstb/citygml-energy,True
 https://github.com/cstb/conan-package-tools,True
 https://github.com/cstb/geocodage_ban,True
@@ -6359,6 +6366,7 @@ https://gitlab.inria.fr/dep2pict/libcaml_dep2pict,True
 https://gitlab.inria.fr/dexms/deploy,True
 https://gitlab.inria.fr/dexms/dexapi,True
 https://gitlab.inria.fr/dexms/dexidl,True
+https://gitlab.inria.fr/dexms/end-to-end-examples,False
 https://gitlab.inria.fr/dexms/service,True
 https://gitlab.inria.fr/dexms/website,True
 https://gitlab.inria.fr/dgd-s/testandalert,True
@@ -7036,6 +7044,7 @@ https://gitlab.inria.fr/sibr/libs/imgui,True
 https://gitlab.inria.fr/sibr/libs/mixkit,True
 https://gitlab.inria.fr/sibr/libs/mrf,True
 https://gitlab.inria.fr/sibr/libs/nanoflann,True
+https://gitlab.inria.fr/sibr/libs/nativefiledialog,False
 https://gitlab.inria.fr/sibr/libs/picojson,True
 https://gitlab.inria.fr/sibr/libs/rapidxml,True
 https://gitlab.inria.fr/sibr/libs/xatlas,True
@@ -7526,7 +7535,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/17/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/19/code,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/19/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/20/docs,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/20/draft,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/20/draft,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/20/nixpkgs_swh,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/21/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/21/preuveconcept,True
@@ -7538,13 +7547,13 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/4/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/6/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/6/projet,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/6/tests,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/7/docs,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/7/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/8/app-pghm,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/8/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/8/draft,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/9/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/01/docs,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/02/docs,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/02/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/05/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/05/raspberry,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/06/docs,True
@@ -7589,7 +7598,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/collaboration-entreprises/pollen-gp
 https://gricad-gitlab.univ-grenoble-alpes.fr/college-EDTUE-doctorants/PhD_FAQ,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/continuous-everything/ci,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/coriofoam/coriofoam,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/deformvis/insarviz,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/deformvis/insarviz,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/design_optimization/noload,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/design_optimization/noload_benchmarks_open,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/diu-eil/diu-eil-grenoble,True
@@ -7631,7 +7640,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/getalp/ariane-lingware,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/getalp/dbnary-dashboard,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/getalp/seq2seqpytorch,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/getalp/vocadoma4h,False
-https://gricad-gitlab.univ-grenoble-alpes.fr/getalp/wikipediacompanycorpus,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/getalp/wikipediacompanycorpus,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/gricad-contrib/basics,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/gricad-contrib/mnist,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/gricad/etherpad/etherpadbundle,False
@@ -7644,7 +7653,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/iab-env-epi/philippat_comparison_20
 https://gricad-gitlab.univ-grenoble-alpes.fr/iab-env-epi/rolland_exposure_2020,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/icall/MagicWord,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/ikats/op-rhm,False
-https://gricad-gitlab.univ-grenoble-alpes.fr/ikats/op-tdt,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/ikats/op-tdt,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/ikats/vt-tdt,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/ikats/vt-tsplorer,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/innovalangues/plannings-self,True
@@ -7655,10 +7664,10 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/kubernetes-alpes/buildah,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/kubernetes-alpes/docker-fidle,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/kubernetes-alpes/docker-registry,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/kubernetes-alpes/dockerfile-for-prod,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/kubernetes-alpes/formations/docker,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/kubernetes-alpes/formations/docker,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/kubernetes-alpes/formations/kubernetes,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/kubernetes-alpes/nova-k8s,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/kubernetes-alpes/nova-k8s-tf,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/kubernetes-alpes/nova-k8s-tf,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/kubernetes-alpes/nova-packer,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/kubernetes-alpes/reunions,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/kubernetes-alpes/terraform-vsphere-rke,True
@@ -7734,7 +7743,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/projet/trigraphique,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/projet/vpl-for-vscode,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/projet/vpl-for-vscode-documentation,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/projet/vplpp,False
-https://gricad-gitlab.univ-grenoble-alpes.fr/publickanboarddev/mmimporter,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/publickanboarddev/mmimporter,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/python-uga/py-training-2017,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/python-uga/py-training-intro,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/python-uga/training-hpc,True
@@ -7766,7 +7775,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/bip/TASTE2BIP,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/bip/artifacts/drbip-feb2020,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/bip/compiler,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/bip/sbip2,False
-https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/if/if-toolset,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/if/if-toolset,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/old-reproducible-research,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/reproducible-research/lra4w7,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/reproducible-research/osim-lutin,False
@@ -7784,7 +7793,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/tempo/boolean,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/tempo/multidimensional_search,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/vote22/simulation,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/vqgroup/KaZoSCa-stack,False
-https://gricad-gitlab.univ-grenoble-alpes.fr/vqgroup/docker-spy,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/vqgroup/docker-spy,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/vqgroup/flow-matrix,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/vqgroup/kameleon-salt-receipe,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/vqgroup/mcc,False
