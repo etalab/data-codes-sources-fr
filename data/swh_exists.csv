@@ -762,7 +762,7 @@ https://github.com/1024pix/gateway,True
 https://github.com/1024pix/gravitee-buildpack,True
 https://github.com/1024pix/gravitee-gateway,True
 https://github.com/1024pix/graviteeio-management-ui,False
-https://github.com/1024pix/graviteeio-portal-ui,False
+https://github.com/1024pix/graviteeio-portal-ui,True
 https://github.com/1024pix/graviteeio-rest-api,True
 https://github.com/1024pix/heroku-buildpack-git-submodule,True
 https://github.com/1024pix/heroku-buildpack-telegraf,True
@@ -3010,7 +3010,7 @@ https://github.com/betagouv/mpal,True
 https://github.com/betagouv/mpal-deploy,True
 https://github.com/betagouv/mpal-rod,True
 https://github.com/betagouv/mrs,True
-https://github.com/betagouv/neutre.comobi.fr,False
+https://github.com/betagouv/neutre.comobi.fr,True
 https://github.com/betagouv/nir_validate,True
 https://github.com/betagouv/normalized-data-state,True
 https://github.com/betagouv/open-academie,True
@@ -3629,6 +3629,7 @@ https://github.com/entrepreneur-interet-general/archypoint,True
 https://github.com/entrepreneur-interet-general/brigade-numerique,True
 https://github.com/entrepreneur-interet-general/bulletins,True
 https://github.com/entrepreneur-interet-general/bulletins-docs,True
+https://github.com/entrepreneur-interet-general/bulloterie,False
 https://github.com/entrepreneur-interet-general/cartav,True
 https://github.com/entrepreneur-interet-general/cheapExp,True
 https://github.com/entrepreneur-interet-general/clj-rgf93-wgs84,True
@@ -3644,7 +3645,7 @@ https://github.com/entrepreneur-interet-general/dicoCodes,True
 https://github.com/entrepreneur-interet-general/dig,True
 https://github.com/entrepreneur-interet-general/domen,True
 https://github.com/entrepreneur-interet-general/eig-link,True
-https://github.com/entrepreneur-interet-general/enki,False
+https://github.com/entrepreneur-interet-general/enki,True
 https://github.com/entrepreneur-interet-general/entity-resolution-evaluation,True
 https://github.com/entrepreneur-interet-general/exo_ref,True
 https://github.com/entrepreneur-interet-general/gobelins,True
@@ -7528,7 +7529,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/18-19/8/cages-a-marmo
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/18-19/8/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/18-19/8/serveur-node-red-cage-marmotte,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/10/docs,False
-https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/10/site,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/10/site,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/11/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/12/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/12/grafana-trackmap-panel,True
@@ -7586,7 +7587,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/ai-courses/autonomous_systems_ml,Tr
 https://gricad-gitlab.univ-grenoble-alpes.fr/aspen/aspen2014,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/batsim/batsim,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/biomove/fate,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/caseine/dxf-filter,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/caseine/dxf-filter,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/caseine/kekule.js,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/caseine/moodle-mod_vpl,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/caseine/moodle_blocks_completion_levels,False
@@ -7629,7 +7630,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/enseignement1/m2cci/java/couronne,T
 https://gricad-gitlab.univ-grenoble-alpes.fr/enseignement1/m2cci/java/ensemblesdelettres,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/enseignement1/m2cci/java/formesanimees,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/enseignement1/m2cci/java/ligne-polygonale,False
-https://gricad-gitlab.univ-grenoble-alpes.fr/enseignement1/m2cci/java/panierelectronique,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/enseignement1/m2cci/java/panierelectronique,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/enseignement1/m2cci/java/rationals,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/enseignement1/m2cci/java/segmentsdedroite,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/enseignement1/m2cci/java/text-indexation,True
@@ -7723,7 +7724,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/pacific/publications/2020_Lavoue-et
 https://gricad-gitlab.univ-grenoble-alpes.fr/pagai/apron-clone,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/pagai/pagai,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/pedagogies-multimodales/aligneur-phonographemique,False
-https://gricad-gitlab.univ-grenoble-alpes.fr/pedagogies-multimodales/clavier-phono,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/pedagogies-multimodales/clavier-phono,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/pedagogies-multimodales/correcteur-phonograph,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/pedagogies-multimodales/grammacolor,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/pedagogies-multimodales/lexiques-phonetises,True
@@ -7745,9 +7746,9 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/polytech/info3-unix,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/projet-irradiance/project-irradiance,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/projet-ter-m1-wic-openwrt/documentation,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/projet-ter-m1-wic-openwrt/luci,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/projet/Sokoban,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/projet/Sokoban,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/projet/machinetrace,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/projet/sokoban-demo-live,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/projet/sokoban-demo-live,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/projet/trigraphique,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/projet/vpl-for-vscode,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/projet/vpl-for-vscode-documentation,True
