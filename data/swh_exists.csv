@@ -1883,6 +1883,7 @@ https://github.com/InseeFrLab/aws.s3,True
 https://github.com/InseeFrLab/blazingsql,True
 https://github.com/InseeFrLab/cloud-scripts,True
 https://github.com/InseeFrLab/demo-apps,True
+https://github.com/InseeFrLab/docs.sspcloud.fr,False
 https://github.com/InseeFrLab/funcamp-r,True
 https://github.com/InseeFrLab/funcamp-r-dock,True
 https://github.com/InseeFrLab/funcamp-r-grimoire,True
@@ -1994,7 +1995,7 @@ https://github.com/LINCnil/obs-cookies,True
 https://github.com/LINCnil/pia,True
 https://github.com/LINCnil/pia-app,True
 https://github.com/LINCnil/pia-back,True
-https://github.com/LINCnil/scripts-vm-cel,False
+https://github.com/LINCnil/scripts-vm-cel,True
 https://github.com/LINCnil/tosback2,True
 https://github.com/LemonLDAPNG/Apache-Session-Browseable,True
 https://github.com/LemonLDAPNG/Apache-Session-LDAP,True
@@ -2847,6 +2848,7 @@ https://github.com/betagouv/api.gouv.fr,True
 https://github.com/betagouv/aplus,True
 https://github.com/betagouv/aplus-docs,True
 https://github.com/betagouv/audioconf,True
+https://github.com/betagouv/azur.comobi.fr,False
 https://github.com/betagouv/beta.gouv.fr,True
 https://github.com/betagouv/beta.gouv.fr.wiki-autoclone,True
 https://github.com/betagouv/beta.ssi,True
@@ -3489,9 +3491,11 @@ https://github.com/datalocale/salt-datalocale,True
 https://github.com/datalocale/sirtaqui,True
 https://github.com/dinsic-pim/Tchap-artwork,True
 https://github.com/dinsic-pim/matrix-react-sdk,True
+https://github.com/dinsic-pim/matrix-react-sdk-v3,False
 https://github.com/dinsic-pim/tchap-android,True
 https://github.com/dinsic-pim/tchap-ios,True
 https://github.com/dinsic-pim/tchap-web,True
+https://github.com/dinsic-pim/tchap-web-v3,False
 https://github.com/diplomatiegouvfr/applitutoriel-js,True
 https://github.com/diplomatiegouvfr/applitutoriel-modules,True
 https://github.com/diplomatiegouvfr/applitutoriel-online,True
@@ -4205,6 +4209,7 @@ https://github.com/gemoc/monilog,True
 https://github.com/gemoc/org.eclipse.sirius,True
 https://github.com/gemoc/petrinet,True
 https://github.com/gemoc/plastic,True
+https://github.com/gemoc/resist,False
 https://github.com/gemoc/xCapella,True
 https://github.com/genotoul-bioinfo/WorkflowFrameworkComparison,True
 https://github.com/genotoul-bioinfo/configs,True
@@ -5700,6 +5705,7 @@ https://gitlab.com/dreal-datalab/reseauchaleur,True
 https://gitlab.com/dreal-datalab/rrrpls,True
 https://gitlab.com/dreal-datalab/shinydreal,True
 https://gitlab.com/dreal-datalab/si_eau_pesticides,True
+https://gitlab.com/dreal-datalab/utilitaires.ju,False
 https://gitlab.com/dreal-datalab/zonages-habitat,True
 https://gitlab.com/fabnum-minarm/e-chauffeur/api,True
 https://gitlab.com/fabnum-minarm/e-chauffeur/dashboard,True
@@ -6493,9 +6499,11 @@ https://gitlab.inria.fr/fec/publications/beyond_gbps_turbo_decoder_on_multi-core
 https://gitlab.inria.fr/fec/publications/energy_consumption_analysis_of_software_polar_decoders_on_low_power_processors,True
 https://gitlab.inria.fr/fec/publications/fast_simulation_and_prototyping_with_aff3ct,True
 https://gitlab.inria.fr/fec/publications/mipp_a_portable_cpp_simd_wrapper_and_its_use_for_error_correction_coding_in_5g_standard,True
+https://gitlab.inria.fr/fedbiomed/PyGrid,False
 https://gitlab.inria.fr/fedbiomed/client-fedbiomed,True
 https://gitlab.inria.fr/fedbiomed/fed-requests,True
 https://gitlab.inria.fr/fedbiomed/fedbiomed-api,True
+https://gitlab.inria.fr/fedbiomed/fedbiomed-node,False
 https://gitlab.inria.fr/fedbiomed/fedbiomed.gitlabpages.inria.fr,True
 https://gitlab.inria.fr/flocq/flocq,True
 https://gitlab.inria.fr/flowvr/flowvr-ex,True
@@ -7570,7 +7578,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/14/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/15/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/16/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/17/code,False
-https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/17/docs,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/17/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/18/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/SIMPA/SIMPA,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/ai-courses/autonomous_systems_ml,True
@@ -7643,7 +7651,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/getalp/vocadoma4h,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/getalp/wikipediacompanycorpus,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/gricad-contrib/basics,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/gricad-contrib/mnist,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/gricad/etherpad/etherpadbundle,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/gricad/etherpad/etherpadbundle,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/hasdi/mspl-2018-2019,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/hasdi/td2,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/hceres2019/beamertheme-lig,True
@@ -7675,7 +7683,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/labnbook/documentation-dev-public,T
 https://gricad-gitlab.univ-grenoble-alpes.fr/labnbook/labnbook,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/labnbook/moodle-labnbook,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/leca/publications/thuiller_2019_natcomm,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/legi/soft/gestex,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/legi/soft/gestex,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/legi/soft/trokata/backuppc-silzigan,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/legi/soft/trokata/biblehal,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/legi/soft/trokata/bidiez,False
@@ -7739,7 +7747,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/projet-ter-m1-wic-openwrt/luci,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/projet/Sokoban,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/projet/machinetrace,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/projet/sokoban-demo-live,False
-https://gricad-gitlab.univ-grenoble-alpes.fr/projet/trigraphique,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/projet/trigraphique,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/projet/vpl-for-vscode,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/projet/vpl-for-vscode-documentation,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/projet/vplpp,False
@@ -7762,7 +7770,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/talks/fidle,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/tima-amfors/learnv,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/tima/public/ct_de-systemc,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/tima/public/newcas2019,False
-https://gricad-gitlab.univ-grenoble-alpes.fr/tima/public/tcad,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/tima/public/tcad,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/tima/sls/projects/augh,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/tima/sls/projects/systemc-ct,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/ttk/spam,False
@@ -7790,7 +7798,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/synchrone/sasa,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/synchrone/tools-distrib,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/tempo/StlEval,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/tempo/boolean,False
-https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/tempo/multidimensional_search,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/tempo/multidimensional_search,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/vote22/simulation,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/vqgroup/KaZoSCa-stack,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/vqgroup/docker-spy,True
