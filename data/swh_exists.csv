@@ -4490,6 +4490,7 @@ https://github.com/lutece-secteur-public/particip-plugin-participatoryideation,T
 https://github.com/lutece-secteur-public/particip-site-participatorybudget,True
 https://github.com/lutece-secteur-public/urbanisme-plugin-plu,True
 https://github.com/matchID-project/agrippa,True
+https://github.com/matchID-project/api.gouv.fr,False
 https://github.com/matchID-project/backend,True
 https://github.com/matchID-project/deces-backend,True
 https://github.com/matchID-project/deces-dataprep,True
@@ -6630,7 +6631,7 @@ https://gitlab.inria.fr/gerzaguet_public/uhd.jl,True
 https://gitlab.inria.fr/gf2x/gf2x,True
 https://gitlab.inria.fr/glose/cosim20-java,False
 https://gitlab.inria.fr/glose/cosim20-python,True
-https://gitlab.inria.fr/glose/model-coordination-language,False
+https://gitlab.inria.fr/glose/model-coordination-language,True
 https://gitlab.inria.fr/grew/DSQtoAMR,True
 https://gitlab.inria.fr/grew/DSQtoDMRS,True
 https://gitlab.inria.fr/grew/POStoSSQ,True
@@ -6750,7 +6751,7 @@ https://gitlab.inria.fr/line/aide-group/aidecv,True
 https://gitlab.inria.fr/line/aide-group/aidesys,True
 https://gitlab.inria.fr/line/aide-group/aideweb,True
 https://gitlab.inria.fr/line/aide-group/esp32-roomcontrol,True
-https://gitlab.inria.fr/line/aide-group/esp32brachistochrone,False
+https://gitlab.inria.fr/line/aide-group/esp32brachistochrone,True
 https://gitlab.inria.fr/line/aide-group/esp32galileo,False
 https://gitlab.inria.fr/line/aide-group/esp32gpiocontrol,True
 https://gitlab.inria.fr/line/aide-group/jsdoc2,False
@@ -7738,14 +7739,14 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/phelma/a-propos,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/phelma/fablab/marlin_blackprusa,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/pmall/apli_pmall,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/pmall/pm-source,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/pmall/pyopestimator,False
-https://gricad-gitlab.univ-grenoble-alpes.fr/pmall/pyopestimator-data,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/pmall/pyopestimator,True
+https://gricad-gitlab.univ-grenoble-alpes.fr/pmall/pyopestimator-data,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/polytech/info3-unix,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/projet-irradiance/project-irradiance,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/projet-ter-m1-wic-openwrt/documentation,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/projet-ter-m1-wic-openwrt/luci,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/projet/Sokoban,False
-https://gricad-gitlab.univ-grenoble-alpes.fr/projet/machinetrace,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/projet/machinetrace,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/projet/sokoban-demo-live,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/projet/trigraphique,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/projet/vpl-for-vscode,False
@@ -7775,7 +7776,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/tima/sls/projects/augh,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/tima/sls/projects/systemc-ct,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/ttk/spam,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/ust4hpc/docker,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/ust4hpc/gpu-hub,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/ust4hpc/gpu-hub,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/ust4hpc/talk,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/Members,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/bip/IFinder,False
