@@ -760,7 +760,7 @@ https://github.com/1024pix/ember-sentry,True
 https://github.com/1024pix/formation-jeremie,True
 https://github.com/1024pix/gateway,True
 https://github.com/1024pix/gravitee-buildpack,True
-https://github.com/1024pix/gravitee-gateway,False
+https://github.com/1024pix/gravitee-gateway,True
 https://github.com/1024pix/graviteeio-management-ui,False
 https://github.com/1024pix/graviteeio-portal-ui,False
 https://github.com/1024pix/graviteeio-rest-api,True
@@ -7583,7 +7583,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/caseine/moodle-mod_vpl,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/caseine/moodle_blocks_completion_levels,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/caseine/sharedspace_plugins/metadata,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/caseine/sharedspace_plugins/mod_sharedspaceh,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/caseine/sharedspace_plugins/sharedspace,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/caseine/sharedspace_plugins/sharedspace,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/caseine/sharedspace_plugins/sharedspaceh,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/caseine/sharedspace_plugins/sharing_cart,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/caseine/stl-moodle-filter,True
@@ -7687,7 +7687,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/legi/soft/trokata/klask-webphp,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/legi/soft/trokata/latex-review,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/legi/soft/trokata/nagios-velvice,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/legi/soft/trokata/oarutils,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/legi/soft/trokata/project-meta,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/legi/soft/trokata/project-meta,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/legi/soft/trokata/secdapt,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/legi/soft/trokata/signal-checkpoint,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/legi/soft/trokata/softsync,False
@@ -7757,7 +7757,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/steamer/thesis/lifeline,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/systeme/nachos,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/systemes/asynchronisme_algorithmique_et_programmation,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/tal_for_distant_languages/wiki,False
-https://gricad-gitlab.univ-grenoble-alpes.fr/talks/deeplearning,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/talks/deeplearning,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/talks/fidle,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/tima-amfors/learnv,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/tima/public/ct_de-systemc,False
