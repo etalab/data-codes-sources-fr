@@ -359,6 +359,7 @@ https://forgemia.inra.fr/hackathon-portail-calcul/criteres,True
 https://forgemia.inra.fr/hackathon-portail-calcul/existant,True
 https://forgemia.inra.fr/hackathon-portail-calcul/hackathon_organisation,True
 https://forgemia.inra.fr/infosol/SolEil,True
+https://forgemia.inra.fr/infosol/ejp-cookbook,False
 https://forgemia.inra.fr/infosol/rmd_nsa,True
 https://forgemia.inra.fr/infosol/rmd_test,True
 https://forgemia.inra.fr/infosol/sensor-map,True
@@ -787,7 +788,7 @@ https://github.com/1024pix/pix-db-replication,True
 https://github.com/1024pix/pix-db-stats,True
 https://github.com/1024pix/pix-editor,True
 https://github.com/1024pix/pix-engineering,True
-https://github.com/1024pix/pix-graviteeio,False
+https://github.com/1024pix/pix-graviteeio,True
 https://github.com/1024pix/pix-help-center-theme,True
 https://github.com/1024pix/pix-lifestyle,True
 https://github.com/1024pix/pix-maintenance,True
@@ -1930,6 +1931,7 @@ https://github.com/InseeFrLab/ubuntu-vnc,True
 https://github.com/InseeFrLab/ubuntu-vnc-dind,True
 https://github.com/InseeFrLab/utilitR,True
 https://github.com/InseeFrLab/utilitR-website,True
+https://github.com/InseeFrLab/utilitr-actions,False
 https://github.com/InseeFrLab/utilitr-bonnes-pratiques,True
 https://github.com/InseeFrLab/utilitr-template,True
 https://github.com/InseeFrLab/vscode-python,True
@@ -5226,6 +5228,7 @@ https://github.com/powerapi-ng/powerapi-scala,True
 https://github.com/powerapi-ng/pyJoules,True
 https://github.com/powerapi-ng/pyRAPL,True
 https://github.com/powerapi-ng/rapl-formula,True
+https://github.com/powerapi-ng/selfwatts-controller,False
 https://github.com/powerapi-ng/smartwatts-formula,True
 https://github.com/region-bretagne/cit,True
 https://github.com/region-bretagne/dd-portal,True
@@ -5615,9 +5618,9 @@ https://gitlab.adullact.net/e-carre/e-carre-particuliers,True
 https://gitlab.adullact.net/gip-recia-snc/autoit/pnm-audit-desktop,False
 https://gitlab.adullact.net/gip-recia-snc/autoit/pnm-teamviewer-installer,False
 https://gitlab.adullact.net/gip-recia-snc/docker/debian-systemd,False
-https://gitlab.adullact.net/gip-recia-snc/docker/fedora-systemd,False
+https://gitlab.adullact.net/gip-recia-snc/docker/fedora-systemd,True
 https://gitlab.adullact.net/gip-recia-snc/docker/teampasswordmanager,False
-https://gitlab.adullact.net/gip-recia-snc/odoo/odoo-time-tracker,False
+https://gitlab.adullact.net/gip-recia-snc/odoo/odoo-time-tracker,True
 https://gitlab.adullact.net/gip-recia-snc/public/autoit/pnm-audit-desktop,True
 https://gitlab.adullact.net/gip-recia-snc/public/autoit/pnm-teamviewer-installer,True
 https://gitlab.adullact.net/gip-recia-snc/public/docker/debian-systemd,True
@@ -6324,6 +6327,7 @@ https://gitlab.inria.fr/comprise/comprise_sdk_developer_ui,True
 https://gitlab.inria.fr/comprise/comprise_speech_to_text,True
 https://gitlab.inria.fr/comprise/comprise_text_to_speech,True
 https://gitlab.inria.fr/comprise/deliverable_d21,True
+https://gitlab.inria.fr/comprise/deliverables/deliverable-d3.4,False
 https://gitlab.inria.fr/comprise/deliverables/deliverable-d33,True
 https://gitlab.inria.fr/comprise/deliverables/deliverable_d21,True
 https://gitlab.inria.fr/comprise/deliverables/deliverable_d22,True
@@ -6739,6 +6743,7 @@ https://gitlab.inria.fr/lcourtes-phd/chop-eval,True
 https://gitlab.inria.fr/lcourtes-phd/edcc-2006,True
 https://gitlab.inria.fr/lcourtes-phd/edcc-2006-redone,True
 https://gitlab.inria.fr/lcourtes-phd/file-sets,True
+https://gitlab.inria.fr/learning-bluetooth/ble_simulator,False
 https://gitlab.inria.fr/learninglab/formation-ux,True
 https://gitlab.inria.fr/learninglab/guidelines,False
 https://gitlab.inria.fr/learninglab/guidelines-ill,True
@@ -7306,6 +7311,7 @@ https://gitlab.irstea.fr/support/wiki,True
 https://gitlab.irstea.fr/umr-tetis/aidmoit/collect,True
 https://gitlab.irstea.fr/umr-tetis/aidmoit/datalake-deployment,True
 https://gitlab.irstea.fr/umr-tetis/biotex_python,True
+https://gitlab.irstea.fr/umr-tetis/idg-tetis/formation/publication_automatique_metadonnees/automatisation_publication_metadonnees,False
 https://gitlab.irstea.fr/umr-tetis/mood/geonetwork-insertion,True
 https://gitlab.irstea.fr/umr-tetis/mood/mood-tetis-tweets-collect,True
 https://gitlab.irstea.fr/vino/Vino,True
@@ -7806,7 +7812,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/synchrone/lustre-v6,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/synchrone/lutils,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/synchrone/lutin,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/synchrone/mia,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/synchrone/rdbg,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/synchrone/rdbg,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/synchrone/sasa,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/synchrone/tools-distrib,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/tempo/StlEval,False
