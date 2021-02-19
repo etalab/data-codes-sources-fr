@@ -1459,7 +1459,7 @@ https://github.com/GIP-RECIA/Roundcube-CAS-Authn,True
 https://github.com/GIP-RECIA/Roundcube-esco_addressbook,True
 https://github.com/GIP-RECIA/Roundcube-esco_theme,True
 https://github.com/GIP-RECIA/WebproxyPortlet,True
-https://github.com/GIP-RECIA/apps-deployer,False
+https://github.com/GIP-RECIA/apps-deployer,True
 https://github.com/GIP-RECIA/apps-redirector,True
 https://github.com/GIP-RECIA/cahier-de-texte,True
 https://github.com/GIP-RECIA/cas,True
@@ -1500,7 +1500,7 @@ https://github.com/GIP-RECIA/grr-eleves,True
 https://github.com/GIP-RECIA/h5p-moodle-plugin,True
 https://github.com/GIP-RECIA/help-info-portlet,True
 https://github.com/GIP-RECIA/icons-pack,True
-https://github.com/GIP-RECIA/iframe-resizer,False
+https://github.com/GIP-RECIA/iframe-resizer,True
 https://github.com/GIP-RECIA/menu-cantine-ui,True
 https://github.com/GIP-RECIA/moodle,True
 https://github.com/GIP-RECIA/moodle-blocks-course_overview_esco,True
@@ -3071,6 +3071,7 @@ https://github.com/betagouv/pia-docker,True
 https://github.com/betagouv/pia-paas,True
 https://github.com/betagouv/pix,True
 https://github.com/betagouv/place-des-entreprises,True
+https://github.com/betagouv/place-emploi-public-api,False
 https://github.com/betagouv/plante-et-moi,True
 https://github.com/betagouv/plante-et-moi-backend,True
 https://github.com/betagouv/pop,True
@@ -3493,7 +3494,7 @@ https://github.com/datalocale/salt-datalocale,True
 https://github.com/datalocale/sirtaqui,True
 https://github.com/dinsic-pim/Tchap-artwork,True
 https://github.com/dinsic-pim/matrix-react-sdk,True
-https://github.com/dinsic-pim/matrix-react-sdk-v3,False
+https://github.com/dinsic-pim/matrix-react-sdk-v3,True
 https://github.com/dinsic-pim/tchap-android,True
 https://github.com/dinsic-pim/tchap-android-v2,False
 https://github.com/dinsic-pim/tchap-ios,True
@@ -5196,7 +5197,7 @@ https://github.com/pass-culture/data-science,True
 https://github.com/pass-culture/enriched_data,True
 https://github.com/pass-culture/kibana-scalingo,True
 https://github.com/pass-culture/logstash,True
-https://github.com/pass-culture/mailjet-apiv3-python,False
+https://github.com/pass-culture/mailjet-apiv3-python,True
 https://github.com/pass-culture/metabase-scalingo,True
 https://github.com/pass-culture/pass-culture-api,True
 https://github.com/pass-culture/pass-culture-app-native,True
@@ -7128,6 +7129,7 @@ https://gitlab.inria.fr/spinfer/spinfer_evaluation,True
 https://gitlab.inria.fr/star-explain/fjs_of_fml,True
 https://gitlab.inria.fr/star-explain/jsexplain,True
 https://gitlab.inria.fr/star-explain/opam-repository,True
+https://gitlab.inria.fr/starpu/locality-aware-scheduling,False
 https://gitlab.inria.fr/starpu/starpu,True
 https://gitlab.inria.fr/starpu/starpu-debian,True
 https://gitlab.inria.fr/starpu/starpu.gitlabpages.inria.fr,True
@@ -7723,7 +7725,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/lucah/hadaca_scoring,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/marinesj/ls_translator,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/meige-legi/intro-python,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/meige-legi/scientific-computing-m2-efm,False
-https://gricad-gitlab.univ-grenoble-alpes.fr/michael_perin/pwc,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/michael_perin/pwc,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/michael_perin/tutoriel-qcm-avec-amc,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/modmed/modmedLog,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/modmed/partrap,True
@@ -7781,7 +7783,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/rheolef/shalava,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/scalde-contrib/ljk-guix-channel,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/skitzml/compiler,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/steamer/thesis/lifeline,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/systeme/nachos,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/systeme/nachos,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/systemes/asynchronisme_algorithmique_et_programmation,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/tal_for_distant_languages/wiki,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/talks/deeplearning,True
@@ -7792,13 +7794,13 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/tima/public/newcas2019,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/tima/public/tcad,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/tima/sls/projects/augh,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/tima/sls/projects/systemc-ct,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/ttk/spam,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/ttk/spam,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/ust4hpc/docker,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/ust4hpc/gpu-hub,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/ust4hpc/talk,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/Members,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/bip/IFinder,False
-https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/bip/TASTE2BIP,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/bip/TASTE2BIP,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/bip/artifacts/drbip-feb2020,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/bip/compiler,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/bip/sbip2,False
@@ -7823,5 +7825,5 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/vqgroup/KaZoSCa-stack,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/vqgroup/docker-spy,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/vqgroup/flow-matrix,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/vqgroup/kameleon-salt-receipe,False
-https://gricad-gitlab.univ-grenoble-alpes.fr/vqgroup/mcc,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/vqgroup/mcc,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/vqgroup/telegraf-nftables,True
