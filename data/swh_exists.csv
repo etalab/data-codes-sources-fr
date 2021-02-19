@@ -1883,7 +1883,7 @@ https://github.com/InseeFrLab/aws.s3,True
 https://github.com/InseeFrLab/blazingsql,True
 https://github.com/InseeFrLab/cloud-scripts,True
 https://github.com/InseeFrLab/demo-apps,True
-https://github.com/InseeFrLab/docs.sspcloud.fr,False
+https://github.com/InseeFrLab/docs.sspcloud.fr,True
 https://github.com/InseeFrLab/funcamp-r,True
 https://github.com/InseeFrLab/funcamp-r-dock,True
 https://github.com/InseeFrLab/funcamp-r-grimoire,True
@@ -3493,6 +3493,7 @@ https://github.com/dinsic-pim/Tchap-artwork,True
 https://github.com/dinsic-pim/matrix-react-sdk,True
 https://github.com/dinsic-pim/matrix-react-sdk-v3,False
 https://github.com/dinsic-pim/tchap-android,True
+https://github.com/dinsic-pim/tchap-android-v2,False
 https://github.com/dinsic-pim/tchap-ios,True
 https://github.com/dinsic-pim/tchap-web,True
 https://github.com/dinsic-pim/tchap-web-v3,True
@@ -6027,6 +6028,7 @@ https://gitlab.inria.fr/Simbiot/mecsyco/mecsycojava,True
 https://gitlab.inria.fr/Simbiot/mecsyco/mecsycoscholar,True
 https://gitlab.inria.fr/SketchedLearning/fasttransformsc,True
 https://gitlab.inria.fr/SketchedLearning/spm-notebook,True
+https://gitlab.inria.fr/Spirals/k8sapimodeller,False
 https://gitlab.inria.fr/Spirals/monsoon,True
 https://gitlab.inria.fr/TeamPlay_Public/TeamPlay_Public_Deliverables,True
 https://gitlab.inria.fr/VeRDi-project/concerto,True
@@ -6785,6 +6787,7 @@ https://gitlab.inria.fr/magnet/nada,True
 https://gitlab.inria.fr/magnet/wordnet-embeddings,True
 https://gitlab.inria.fr/mastertal/UE803,True
 https://gitlab.inria.fr/mastertal/discourse-parsing,True
+https://gitlab.inria.fr/mastertal/m2r_tal_ups_students,False
 https://gitlab.inria.fr/matherials/simol,True
 https://gitlab.inria.fr/mecsci/grains/algo-ford-fulkerson,True
 https://gitlab.inria.fr/mecsci/grains/algo-predateurs,True
@@ -7145,6 +7148,7 @@ https://gitlab.inria.fr/tapenade/tapenade,True
 https://gitlab.inria.fr/tapenade/userdoc,True
 https://gitlab.inria.fr/the-missing-path/the-missing-path.gitlab.inria.fr,True
 https://gitlab.inria.fr/these-bxi/lulesh,True
+https://gitlab.inria.fr/these-bxi/pennant,False
 https://gitlab.inria.fr/these-bxi/r-util,True
 https://gitlab.inria.fr/these-bxi/s4bxi-cmake-modules,True
 https://gitlab.inria.fr/these-bxi/s4bxi-config-generator,True
@@ -7577,7 +7581,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/06/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/07/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/08/code,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/08/docs,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/09/docs,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/09/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/10/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/11/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/12/docs,True
@@ -7725,11 +7729,11 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/omegalpes/omegalpes,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/omegalpes/omegalpes-web-back-end,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/omegalpes/omegalpes-web-front-end,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/omegalpes/omegalpes_examples,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/omegalpes/omegalpes_notebooks,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/omegalpes/omegalpes_notebooks,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/pacific/codes/design_and_run_sem46_simulations_in_synthetic_models,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/pacific/publications/2020_Lavoue-et-al_SRL_supplemental-material,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/pagai/apron-clone,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/pagai/pagai,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/pagai/pagai,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/pedagogies-multimodales/aligneur-phonographemique,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/pedagogies-multimodales/clavier-phono,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/pedagogies-multimodales/correcteur-phonograph,True
@@ -7759,7 +7763,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/projet/sokoban-demo-live,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/projet/trigraphique,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/projet/vpl-for-vscode,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/projet/vpl-for-vscode-documentation,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/projet/vplpp,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/projet/vplpp,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/publickanboarddev/mmimporter,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/python-uga/py-training-2017,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/python-uga/py-training-intro,False
@@ -7790,7 +7794,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/Members,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/bip/IFinder,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/bip/TASTE2BIP,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/bip/artifacts/drbip-feb2020,False
-https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/bip/compiler,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/bip/compiler,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/bip/sbip2,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/if/if-toolset,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/old-reproducible-research,False
@@ -7800,7 +7804,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/reproducible-research/sasar
 https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/reproducible-research/simple-dflow-rtss-2020,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/synchrone/lustre-v6,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/synchrone/lutils,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/synchrone/lutin,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/synchrone/lutin,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/synchrone/mia,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/synchrone/rdbg,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/synchrone/sasa,False
