@@ -2808,7 +2808,7 @@ https://github.com/betagouv/StopCovid,True
 https://github.com/betagouv/a11y-generateur-declaration,True
 https://github.com/betagouv/admin-traitdunion,True
 https://github.com/betagouv/allegement-fillon,True
-https://github.com/betagouv/analyse-flux-insertion,False
+https://github.com/betagouv/analyse-flux-insertion,True
 https://github.com/betagouv/andi,True
 https://github.com/betagouv/andi-data,True
 https://github.com/betagouv/andi-docker,True
@@ -4495,7 +4495,7 @@ https://github.com/lutece-secteur-public/particip-plugin-participatoryideation,T
 https://github.com/lutece-secteur-public/particip-site-participatorybudget,True
 https://github.com/lutece-secteur-public/urbanisme-plugin-plu,True
 https://github.com/matchID-project/agrippa,True
-https://github.com/matchID-project/api.gouv.fr,False
+https://github.com/matchID-project/api.gouv.fr,True
 https://github.com/matchID-project/backend,True
 https://github.com/matchID-project/deces-backend,True
 https://github.com/matchID-project/deces-dataprep,True
@@ -4561,7 +4561,7 @@ https://github.com/medialab/climateDebateExplorer,True
 https://github.com/medialab/cnap-fnac,True
 https://github.com/medialab/controversy-mapping,True
 https://github.com/medialab/corpora,True
-https://github.com/medialab/cours-facebook,False
+https://github.com/medialab/cours-facebook,True
 https://github.com/medialab/csv-rinse-repeat,True
 https://github.com/medialab/datapol,True
 https://github.com/medialab/datapol-eu,True
@@ -5719,7 +5719,7 @@ https://gitlab.com/dreal-datalab/reseauchaleur,True
 https://gitlab.com/dreal-datalab/rrrpls,True
 https://gitlab.com/dreal-datalab/shinydreal,True
 https://gitlab.com/dreal-datalab/si_eau_pesticides,True
-https://gitlab.com/dreal-datalab/utilitaires.ju,False
+https://gitlab.com/dreal-datalab/utilitaires.ju,True
 https://gitlab.com/dreal-datalab/zonages-habitat,True
 https://gitlab.com/fabnum-minarm/e-chauffeur/api,True
 https://gitlab.com/fabnum-minarm/e-chauffeur/dashboard,True
@@ -7719,7 +7719,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/legi/soft/trokata/oarutils,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/legi/soft/trokata/project-meta,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/legi/soft/trokata/secdapt,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/legi/soft/trokata/signal-checkpoint,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/legi/soft/trokata/softsync,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/legi/soft/trokata/softsync,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/legi/soft/trokata/tssh,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/lucah/hadaca_scoring,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/marinesj/ls_translator,True
