@@ -2850,7 +2850,7 @@ https://github.com/betagouv/api.gouv.fr,True
 https://github.com/betagouv/aplus,True
 https://github.com/betagouv/aplus-docs,True
 https://github.com/betagouv/audioconf,True
-https://github.com/betagouv/azur.comobi.fr,False
+https://github.com/betagouv/azur.comobi.fr,True
 https://github.com/betagouv/beta.gouv.fr,True
 https://github.com/betagouv/beta.gouv.fr.wiki-autoclone,True
 https://github.com/betagouv/beta.ssi,True
@@ -3496,7 +3496,7 @@ https://github.com/dinsic-pim/Tchap-artwork,True
 https://github.com/dinsic-pim/matrix-react-sdk,True
 https://github.com/dinsic-pim/matrix-react-sdk-v3,True
 https://github.com/dinsic-pim/tchap-android,True
-https://github.com/dinsic-pim/tchap-android-v2,False
+https://github.com/dinsic-pim/tchap-android-v2,True
 https://github.com/dinsic-pim/tchap-ios,True
 https://github.com/dinsic-pim/tchap-web,True
 https://github.com/dinsic-pim/tchap-web-v3,True
@@ -6032,7 +6032,7 @@ https://gitlab.inria.fr/Simbiot/mecsyco/mecsycojava,True
 https://gitlab.inria.fr/Simbiot/mecsyco/mecsycoscholar,True
 https://gitlab.inria.fr/SketchedLearning/fasttransformsc,True
 https://gitlab.inria.fr/SketchedLearning/spm-notebook,True
-https://gitlab.inria.fr/Spirals/k8sapimodeller,False
+https://gitlab.inria.fr/Spirals/k8sapimodeller,True
 https://gitlab.inria.fr/Spirals/monsoon,True
 https://gitlab.inria.fr/TeamPlay_Public/TeamPlay_Public_Deliverables,True
 https://gitlab.inria.fr/VeRDi-project/concerto,True
@@ -6644,7 +6644,7 @@ https://gitlab.inria.fr/gerzaguet_public/julia_seminar,True
 https://gitlab.inria.fr/gerzaguet_public/pluto_project,True
 https://gitlab.inria.fr/gerzaguet_public/uhd.jl,True
 https://gitlab.inria.fr/gf2x/gf2x,True
-https://gitlab.inria.fr/glose/cosim20-java,False
+https://gitlab.inria.fr/glose/cosim20-java,True
 https://gitlab.inria.fr/glose/cosim20-python,True
 https://gitlab.inria.fr/glose/model-coordination-language,True
 https://gitlab.inria.fr/grew/DSQtoAMR,True
@@ -7657,7 +7657,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/enseignement1/m2cci/java/tp09-excep
 https://gricad-gitlab.univ-grenoble-alpes.fr/enseignement1/m2cci/javascript/visagesanimes_correction,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/ensimag/poly-intro-unix,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/foceta/requirements-management,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/formations-statistiques-R/CED-Bases-Stat-R,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/formations-statistiques-R/CED-Bases-Stat-R,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/formations-statistiques-R/CED-IntroR,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/formations_R/ATMO_IntroR,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/formations_R/ced_intror,True
@@ -7799,7 +7799,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/ust4hpc/docker,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/ust4hpc/gpu-hub,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/ust4hpc/talk,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/Members,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/bip/IFinder,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/bip/IFinder,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/bip/TASTE2BIP,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/bip/artifacts/drbip-feb2020,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/bip/compiler,True
