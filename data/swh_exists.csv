@@ -2627,7 +2627,7 @@ https://github.com/abes-esr/ln-back-event,False
 https://github.com/abes-esr/ln-front,False
 https://github.com/abes-esr/periscope-back,True
 https://github.com/abes-esr/periscope-front,True
-https://github.com/abes-esr/periscope-indexing-ws,False
+https://github.com/abes-esr/periscope-indexing-ws,True
 https://github.com/abes-esr/periscope-poc-vue-js,True
 https://github.com/abes-esr/periscope-poc-vue-js-latest,False
 https://github.com/abes-esr/periscope-vue-typescript,True
@@ -5616,9 +5616,9 @@ https://gitlab.adullact.net/dgfip/ir-calcul,True
 https://gitlab.adullact.net/directmairie/directmairie,True
 https://gitlab.adullact.net/directmairie/puppet-directmairie,True
 https://gitlab.adullact.net/e-carre/e-carre-particuliers,True
-https://gitlab.adullact.net/gip-recia-snc/autoit/pnm-audit-desktop,False
+https://gitlab.adullact.net/gip-recia-snc/autoit/pnm-audit-desktop,True
 https://gitlab.adullact.net/gip-recia-snc/autoit/pnm-teamviewer-installer,False
-https://gitlab.adullact.net/gip-recia-snc/docker/debian-systemd,False
+https://gitlab.adullact.net/gip-recia-snc/docker/debian-systemd,True
 https://gitlab.adullact.net/gip-recia-snc/docker/fedora-systemd,True
 https://gitlab.adullact.net/gip-recia-snc/docker/teampasswordmanager,True
 https://gitlab.adullact.net/gip-recia-snc/odoo/odoo-time-tracker,True
@@ -6768,7 +6768,7 @@ https://gitlab.inria.fr/line/aide-group/aidesys,True
 https://gitlab.inria.fr/line/aide-group/aideweb,True
 https://gitlab.inria.fr/line/aide-group/esp32-roomcontrol,True
 https://gitlab.inria.fr/line/aide-group/esp32brachistochrone,True
-https://gitlab.inria.fr/line/aide-group/esp32galileo,False
+https://gitlab.inria.fr/line/aide-group/esp32galileo,True
 https://gitlab.inria.fr/line/aide-group/esp32gpiocontrol,True
 https://gitlab.inria.fr/line/aide-group/jsdoc2,False
 https://gitlab.inria.fr/line/aide-group/ozobot-api,True
@@ -7543,7 +7543,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/18-19/21/docs,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/18-19/21/frontend,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/18-19/43/doc0,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/18-19/43/doc1,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/18-19/6/docs,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/18-19/6/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/18-19/8/cages-a-marmotte-connectees,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/18-19/8/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/18-19/8/serveur-node-red-cage-marmotte,False
@@ -7604,7 +7604,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/18/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/SIMPA/SIMPA,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/ai-courses/autonomous_systems_ml,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/aspen/aspen2014,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/batsim/batsim,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/batsim/batsim,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/biomove/fate,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/caseine/dxf-filter,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/caseine/kekule.js,True
@@ -7701,7 +7701,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/kubernetes-alpes/nova-packer,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/kubernetes-alpes/reunions,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/kubernetes-alpes/terraform-vsphere-rke,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/labnbook/documentation-dev-public,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/labnbook/labnbook,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/labnbook/labnbook,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/labnbook/moodle-labnbook,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/leca/publications/thuiller_2019_natcomm,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/legi/soft/gestex,True
@@ -7724,7 +7724,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/legi/soft/trokata/tssh,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/lucah/hadaca_scoring,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/marinesj/ls_translator,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/meige-legi/intro-python,False
-https://gricad-gitlab.univ-grenoble-alpes.fr/meige-legi/scientific-computing-m2-efm,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/meige-legi/scientific-computing-m2-efm,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/michael_perin/pwc,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/michael_perin/tutoriel-qcm-avec-amc,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/modmed/modmedLog,True
@@ -7763,7 +7763,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/pmall/pyopestimator,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/pmall/pyopestimator-data,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/polytech/info3-unix,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/projet-irradiance/project-irradiance,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/projet-ter-m1-wic-openwrt/documentation,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/projet-ter-m1-wic-openwrt/documentation,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/projet-ter-m1-wic-openwrt/luci,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/projet/Sokoban,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/projet/machinetrace,True
@@ -7790,7 +7790,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/talks/deeplearning,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/talks/fidle,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/tima-amfors/learnv,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/tima/public/ct_de-systemc,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/tima/public/newcas2019,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/tima/public/newcas2019,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/tima/public/tcad,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/tima/sls/projects/augh,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/tima/sls/projects/systemc-ct,True
@@ -7821,7 +7821,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/tempo/StlEval,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/tempo/boolean,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/tempo/multidimensional_search,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/vote22/simulation,False
-https://gricad-gitlab.univ-grenoble-alpes.fr/vqgroup/KaZoSCa-stack,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/vqgroup/KaZoSCa-stack,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/vqgroup/docker-spy,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/vqgroup/flow-matrix,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/vqgroup/kameleon-salt-receipe,True
