@@ -736,7 +736,7 @@ https://git.unistra.fr/t432_liy20_t3_f/t31_barre_oblique_v1,True
 https://git.unistra.fr/t432_voc20_t3_x/archeologie,True
 https://git.unistra.fr/t4_workisusels/projet_t4_workisuseless,True
 https://git.unistra.fr/tallandier_haquin/a31_puissance_puissance,True
-https://git.unistra.fr/tsp-ics/yaspanalyzers,False
+https://git.unistra.fr/tsp-ics/yaspanalyzers,True
 https://git.unistra.fr/uhuit/pgmaggpl,True
 https://git.unistra.fr/uquatre/mips-invader,True
 https://git.unistra.fr/usept/sexy-polyedra-baby,True
@@ -3132,7 +3132,7 @@ https://github.com/betagouv/sqlalchemy-handler,True
 https://github.com/betagouv/standup,True
 https://github.com/betagouv/stats_metabase_demo,True
 https://github.com/betagouv/status.api.gouv.fr,True
-https://github.com/betagouv/statut.api.gouv.fr,False
+https://github.com/betagouv/statut.api.gouv.fr,True
 https://github.com/betagouv/svair-api,True
 https://github.com/betagouv/svair-mock,True
 https://github.com/betagouv/svair-mock-data,True
@@ -7785,7 +7785,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/skitzml/compiler,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/steamer/thesis/lifeline,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/systeme/nachos,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/systemes/asynchronisme_algorithmique_et_programmation,False
-https://gricad-gitlab.univ-grenoble-alpes.fr/tal_for_distant_languages/wiki,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/tal_for_distant_languages/wiki,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/talks/deeplearning,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/talks/fidle,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/tima-amfors/learnv,False
@@ -7803,7 +7803,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/bip/IFinder,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/bip/TASTE2BIP,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/bip/artifacts/drbip-feb2020,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/bip/compiler,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/bip/sbip2,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/bip/sbip2,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/if/if-toolset,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/old-reproducible-research,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/reproducible-research/lra4w7,True
