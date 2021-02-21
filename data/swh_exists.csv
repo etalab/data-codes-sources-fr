@@ -762,7 +762,7 @@ https://github.com/1024pix/formation-jeremie,True
 https://github.com/1024pix/gateway,True
 https://github.com/1024pix/gravitee-buildpack,True
 https://github.com/1024pix/gravitee-gateway,True
-https://github.com/1024pix/graviteeio-management-ui,False
+https://github.com/1024pix/graviteeio-management-ui,True
 https://github.com/1024pix/graviteeio-portal-ui,True
 https://github.com/1024pix/graviteeio-rest-api,True
 https://github.com/1024pix/heroku-buildpack-git-submodule,True
@@ -6515,7 +6515,7 @@ https://gitlab.inria.fr/fec/publications/beyond_gbps_turbo_decoder_on_multi-core
 https://gitlab.inria.fr/fec/publications/energy_consumption_analysis_of_software_polar_decoders_on_low_power_processors,True
 https://gitlab.inria.fr/fec/publications/fast_simulation_and_prototyping_with_aff3ct,True
 https://gitlab.inria.fr/fec/publications/mipp_a_portable_cpp_simd_wrapper_and_its_use_for_error_correction_coding_in_5g_standard,True
-https://gitlab.inria.fr/fedbiomed/PyGrid,False
+https://gitlab.inria.fr/fedbiomed/PyGrid,True
 https://gitlab.inria.fr/fedbiomed/client-fedbiomed,True
 https://gitlab.inria.fr/fedbiomed/fed-requests,True
 https://gitlab.inria.fr/fedbiomed/fedbiomed-api,True
@@ -7155,7 +7155,7 @@ https://gitlab.inria.fr/tapenade/tapenade,True
 https://gitlab.inria.fr/tapenade/userdoc,True
 https://gitlab.inria.fr/the-missing-path/the-missing-path.gitlab.inria.fr,True
 https://gitlab.inria.fr/these-bxi/lulesh,True
-https://gitlab.inria.fr/these-bxi/pennant,False
+https://gitlab.inria.fr/these-bxi/pennant,True
 https://gitlab.inria.fr/these-bxi/r-util,True
 https://gitlab.inria.fr/these-bxi/s4bxi-cmake-modules,True
 https://gitlab.inria.fr/these-bxi/s4bxi-config-generator,True
@@ -7681,7 +7681,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/iab-env-epi/jedynak_prenatal_2020,T
 https://gricad-gitlab.univ-grenoble-alpes.fr/iab-env-epi/philippat_comparison_2020,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/iab-env-epi/rolland_exposure_2020,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/icall/MagicWord,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/ikats/op-rhm,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/ikats/op-rhm,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/ikats/op-tdt,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/ikats/vt-tdt,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/ikats/vt-tsplorer,False
@@ -7691,7 +7691,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/ir-info4/tp-conteneur,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/jlparser/parser,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/kubernetes-alpes/buildah,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/kubernetes-alpes/docker-fidle,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/kubernetes-alpes/docker-registry,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/kubernetes-alpes/docker-registry,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/kubernetes-alpes/dockerfile-for-prod,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/kubernetes-alpes/formations/docker,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/kubernetes-alpes/formations/kubernetes,True
@@ -7723,7 +7723,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/legi/soft/trokata/softsync,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/legi/soft/trokata/tssh,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/lucah/hadaca_scoring,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/marinesj/ls_translator,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/meige-legi/intro-python,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/meige-legi/intro-python,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/meige-legi/scientific-computing-m2-efm,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/michael_perin/pwc,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/michael_perin/tutoriel-qcm-avec-amc,True
