@@ -3431,7 +3431,7 @@ https://github.com/cortext/risis-linkage,False
 https://github.com/cortext/silex-simpleuser,True
 https://github.com/cortext/wostext,True
 https://github.com/cortext/wp-theme,True
-https://github.com/cre-dev/pub-data-visualization,False
+https://github.com/cre-dev/pub-data-visualization,True
 https://github.com/cstb/citygml-energy,True
 https://github.com/cstb/conan-package-tools,True
 https://github.com/cstb/geocodage_ban,True
@@ -6945,7 +6945,7 @@ https://gitlab.inria.fr/openvibe/sdk,True
 https://gitlab.inria.fr/openvibe/unity-games/LSL4Unity,True
 https://gitlab.inria.fr/openvibe/unity-games/basketball,True
 https://gitlab.inria.fr/openvibe/unity-games/games,True
-https://gitlab.inria.fr/openvibe/unity-games/hello-bidirectionnal,False
+https://gitlab.inria.fr/openvibe/unity-games/hello-bidirectionnal,True
 https://gitlab.inria.fr/openvibe/unity-games/hello-sender,True
 https://gitlab.inria.fr/openvibe/unity-games/hello-world,True
 https://gitlab.inria.fr/openwind/openwind,True
@@ -7613,7 +7613,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/caseine/moodle_blocks_completion_le
 https://gricad-gitlab.univ-grenoble-alpes.fr/caseine/sharedspace_plugins/metadata,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/caseine/sharedspace_plugins/mod_sharedspaceh,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/caseine/sharedspace_plugins/sharedspace,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/caseine/sharedspace_plugins/sharedspaceh,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/caseine/sharedspace_plugins/sharedspaceh,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/caseine/sharedspace_plugins/sharing_cart,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/caseine/stl-moodle-filter,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/caseine/vpl_design_plugin,False
@@ -7781,10 +7781,10 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/python-uga/working-sessions,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/rheolef/rheolef,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/rheolef/shalava,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/scalde-contrib/ljk-guix-channel,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/skitzml/compiler,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/skitzml/compiler,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/steamer/thesis/lifeline,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/systeme/nachos,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/systemes/asynchronisme_algorithmique_et_programmation,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/systemes/asynchronisme_algorithmique_et_programmation,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/tal_for_distant_languages/wiki,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/talks/deeplearning,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/talks/fidle,True
