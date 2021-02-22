@@ -359,7 +359,7 @@ https://forgemia.inra.fr/hackathon-portail-calcul/criteres,True
 https://forgemia.inra.fr/hackathon-portail-calcul/existant,True
 https://forgemia.inra.fr/hackathon-portail-calcul/hackathon_organisation,True
 https://forgemia.inra.fr/infosol/SolEil,True
-https://forgemia.inra.fr/infosol/ejp-cookbook,False
+https://forgemia.inra.fr/infosol/ejp-cookbook,True
 https://forgemia.inra.fr/infosol/rmd_nsa,True
 https://forgemia.inra.fr/infosol/rmd_test,True
 https://forgemia.inra.fr/infosol/sensor-map,True
@@ -1700,6 +1700,7 @@ https://github.com/Ifsttar/SymuRes,True
 https://github.com/Ifsttar/Tempus,True
 https://github.com/Ifsttar/YATS,True
 https://github.com/Ifsttar/bil,True
+https://github.com/Ifsttar/cense.noise-planet.org,False
 https://github.com/Ifsttar/openwarble,True
 https://github.com/Ifsttar/qrtone,True
 https://github.com/Ifsttar/qrtone-android,True
@@ -3073,7 +3074,7 @@ https://github.com/betagouv/pia-docker,True
 https://github.com/betagouv/pia-paas,True
 https://github.com/betagouv/pix,True
 https://github.com/betagouv/place-des-entreprises,True
-https://github.com/betagouv/place-emploi-public-api,False
+https://github.com/betagouv/place-emploi-public-api,True
 https://github.com/betagouv/plante-et-moi,True
 https://github.com/betagouv/plante-et-moi-backend,True
 https://github.com/betagouv/pop,True
@@ -6741,12 +6742,13 @@ https://gitlab.inria.fr/knem/knem,True
 https://gitlab.inria.fr/kstar/clang-omp,True
 https://gitlab.inria.fr/kstar/kastors,True
 https://gitlab.inria.fr/kstar/kstar,True
+https://gitlab.inria.fr/kstar/kstar.gitlabpages.inria.fr,False
 https://gitlab.inria.fr/latex-utils/latex-make,True
 https://gitlab.inria.fr/lcourtes-phd/chop-eval,True
 https://gitlab.inria.fr/lcourtes-phd/edcc-2006,True
 https://gitlab.inria.fr/lcourtes-phd/edcc-2006-redone,True
 https://gitlab.inria.fr/lcourtes-phd/file-sets,True
-https://gitlab.inria.fr/learning-bluetooth/ble_simulator,False
+https://gitlab.inria.fr/learning-bluetooth/ble_simulator,True
 https://gitlab.inria.fr/learninglab/formation-ux,True
 https://gitlab.inria.fr/learninglab/guidelines,False
 https://gitlab.inria.fr/learninglab/guidelines-ill,True
@@ -7585,6 +7587,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/8/draft,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/9/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/01/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/02/docs,True
+https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/05/cansniffer,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/05/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/05/raspberry,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/06/docs,True
@@ -7781,7 +7784,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/python-uga/training-hpc,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/python-uga/website-pyscidatagre,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/python-uga/working-sessions,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/rheolef/rheolef,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/rheolef/shalava,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/rheolef/shalava,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/scalde-contrib/ljk-guix-channel,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/skitzml/compiler,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/steamer/thesis/lifeline,True
