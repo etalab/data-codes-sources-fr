@@ -702,7 +702,7 @@ https://git.unistra.fr/presUni/HAJ18-T4-D,True
 https://git.unistra.fr/project-master/pro-master,True
 https://git.unistra.fr/projet-a31-connect4/connect4,True
 https://git.unistra.fr/projet-integrateur-grp-3/frontend,True
-https://git.unistra.fr/projet_g4b/app_informatique_decisionnelle,False
+https://git.unistra.fr/projet_g4b/app_informatique_decisionnelle,True
 https://git.unistra.fr/promesse/P4a,True
 https://git.unistra.fr/pub/SupportPortal-aid,True
 https://git.unistra.fr/pub/revealjs-generator,True
@@ -2413,6 +2413,7 @@ https://github.com/SocialGouv/emjpm-editor-app,True
 https://github.com/SocialGouv/emjpm-migration-k8s,True
 https://github.com/SocialGouv/emjpm-portail,True
 https://github.com/SocialGouv/emjpm-ui,True
+https://github.com/SocialGouv/eslint-plugin-autoimport,False
 https://github.com/SocialGouv/faq-code-du-travail,True
 https://github.com/SocialGouv/fce,True
 https://github.com/SocialGouv/fiches-travail-data,True
@@ -5617,7 +5618,7 @@ https://gitlab.adullact.net/directmairie/directmairie,True
 https://gitlab.adullact.net/directmairie/puppet-directmairie,True
 https://gitlab.adullact.net/e-carre/e-carre-particuliers,True
 https://gitlab.adullact.net/gip-recia-snc/autoit/pnm-audit-desktop,True
-https://gitlab.adullact.net/gip-recia-snc/autoit/pnm-teamviewer-installer,False
+https://gitlab.adullact.net/gip-recia-snc/autoit/pnm-teamviewer-installer,True
 https://gitlab.adullact.net/gip-recia-snc/docker/debian-systemd,True
 https://gitlab.adullact.net/gip-recia-snc/docker/fedora-systemd,True
 https://gitlab.adullact.net/gip-recia-snc/docker/teampasswordmanager,True
@@ -7609,14 +7610,14 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/biomove/fate,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/caseine/dxf-filter,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/caseine/kekule.js,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/caseine/moodle-mod_vpl,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/caseine/moodle_blocks_completion_levels,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/caseine/moodle_blocks_completion_levels,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/caseine/sharedspace_plugins/metadata,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/caseine/sharedspace_plugins/mod_sharedspaceh,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/caseine/sharedspace_plugins/sharedspace,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/caseine/sharedspace_plugins/sharedspaceh,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/caseine/sharedspace_plugins/sharing_cart,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/caseine/stl-moodle-filter,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/caseine/vpl_design_plugin,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/caseine/vpl_design_plugin,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/casys/givaro,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/ced-sandbox/linux,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/certicompil/compcert-kvx,True
@@ -7659,7 +7660,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/ensimag/poly-intro-unix,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/foceta/requirements-management,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/formations-statistiques-R/CED-Bases-Stat-R,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/formations-statistiques-R/CED-IntroR,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/formations_R/ATMO_IntroR,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/formations_R/ATMO_IntroR,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/formations_R/ced_intror,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/g2elab/blackboxdatalogger,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/gaia/team,True
@@ -7676,7 +7677,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/gricad/etherpad/etherpadbundle,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/hasdi/mspl-2018-2019,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/hasdi/td2,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/hceres2019/beamertheme-lig,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/iab-env-epi/ciment-user-guide,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/iab-env-epi/ciment-user-guide,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/iab-env-epi/jedynak_prenatal_2020,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/iab-env-epi/philippat_comparison_2020,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/iab-env-epi/rolland_exposure_2020,True
@@ -7707,10 +7708,10 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/leca/publications/thuiller_2019_nat
 https://gricad-gitlab.univ-grenoble-alpes.fr/legi/soft/gestex,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/legi/soft/trokata/backuppc-silzigan,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/legi/soft/trokata/biblehal,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/legi/soft/trokata/bidiez,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/legi/soft/trokata/bidiez,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/legi/soft/trokata/bundle,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/legi/soft/trokata/ddt,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/legi/soft/trokata/freskein,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/legi/soft/trokata/freskein,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/legi/soft/trokata/klask,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/legi/soft/trokata/klask-webphp,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/legi/soft/trokata/latex-review,True
@@ -7769,7 +7770,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/projet/Sokoban,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/projet/machinetrace,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/projet/sokoban-demo-live,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/projet/trigraphique,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/projet/vpl-for-vscode,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/projet/vpl-for-vscode,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/projet/vpl-for-vscode-documentation,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/projet/vplpp,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/publickanboarddev/mmimporter,True
