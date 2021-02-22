@@ -196,6 +196,7 @@ https://forgemia.inra.fr/agriterix/agriterix,True
 https://forgemia.inra.fr/agriterix/doc,True
 https://forgemia.inra.fr/agriterix/simulator,True
 https://forgemia.inra.fr/agroecoperenne/scripting/python-module,True
+https://forgemia.inra.fr/anaee-dev/coby,False
 https://forgemia.inra.fr/baric/family-companion,True
 https://forgemia.inra.fr/bibliome/alvisae-anaee,True
 https://forgemia.inra.fr/bibliome/bionlp-st-py,True
@@ -2348,7 +2349,7 @@ https://github.com/SocialGouv/SocialGouvUi,True
 https://github.com/SocialGouv/TextStyle,True
 https://github.com/SocialGouv/TextStyle-script,True
 https://github.com/SocialGouv/UDD,True
-https://github.com/SocialGouv/aes-gcm-rsa-oaep,False
+https://github.com/SocialGouv/aes-gcm-rsa-oaep,True
 https://github.com/SocialGouv/annuaire-mjpm,True
 https://github.com/SocialGouv/ansible-kubeadm-cluster,True
 https://github.com/SocialGouv/app-nextjs-node-ts,True
@@ -2902,7 +2903,7 @@ https://github.com/betagouv/diagoriente-admin,True
 https://github.com/betagouv/diagoriente-api-v5-,True
 https://github.com/betagouv/diagoriente-front,True
 https://github.com/betagouv/diagoriente-v5-front-app,True
-https://github.com/betagouv/diagoriente-v5-mobile,False
+https://github.com/betagouv/diagoriente-v5-mobile,True
 https://github.com/betagouv/dialogue-de-gestion,True
 https://github.com/betagouv/discourse-component-hotjar,True
 https://github.com/betagouv/discourse-oauth2-basic,True
@@ -7601,6 +7602,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/12/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/13/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/13/polytech-helper-service,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/14/docs,True
+https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/14/rust-parallel,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/15/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/16/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/17/code,True
