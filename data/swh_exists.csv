@@ -4218,7 +4218,7 @@ https://github.com/gemoc/monilog,True
 https://github.com/gemoc/org.eclipse.sirius,True
 https://github.com/gemoc/petrinet,True
 https://github.com/gemoc/plastic,True
-https://github.com/gemoc/resist,False
+https://github.com/gemoc/resist,True
 https://github.com/gemoc/xCapella,True
 https://github.com/genotoul-bioinfo/WorkflowFrameworkComparison,True
 https://github.com/genotoul-bioinfo/configs,True
@@ -5808,7 +5808,7 @@ https://gitlab.huma-num.fr/cosme/telma_chartes_imports,True
 https://gitlab.huma-num.fr/disco-lge/processinglge,True
 https://gitlab.huma-num.fr/disco-lge/soprano,True
 https://gitlab.huma-num.fr/disco-lge/vue-d-ensemble,True
-https://gitlab.huma-num.fr/ecrinum/anthologia/dataap,False
+https://gitlab.huma-num.fr/ecrinum/anthologia/dataap,True
 https://gitlab.huma-num.fr/ecrinum/anthologia/pythonap,True
 https://gitlab.huma-num.fr/ecrinum/manuels/introduction-a-zotero,True
 https://gitlab.huma-num.fr/ecrinum/manuels/tutoriel-markdown-pandoc,True
@@ -6393,7 +6393,7 @@ https://gitlab.inria.fr/dep2pict/libcaml_dep2pict,True
 https://gitlab.inria.fr/dexms/deploy,True
 https://gitlab.inria.fr/dexms/dexapi,True
 https://gitlab.inria.fr/dexms/dexidl,True
-https://gitlab.inria.fr/dexms/end-to-end-examples,False
+https://gitlab.inria.fr/dexms/end-to-end-examples,True
 https://gitlab.inria.fr/dexms/service,True
 https://gitlab.inria.fr/dexms/website,True
 https://gitlab.inria.fr/dgd-s/testandalert,True
@@ -7086,6 +7086,7 @@ https://gitlab.inria.fr/sibr/projects/fribr_framework,True
 https://gitlab.inria.fr/sibr/projects/glossy-probes/synthetic_ibr,True
 https://gitlab.inria.fr/sibr/projects/inside_out_deep_blending,True
 https://gitlab.inria.fr/sibr/projects/optix,True
+https://gitlab.inria.fr/sibr/projects/outdoor_relighting,False
 https://gitlab.inria.fr/sibr/projects/semantic-reflections/segmentation-network,True
 https://gitlab.inria.fr/sibr/projects/semantic-reflections/semantic_reflections,True
 https://gitlab.inria.fr/sibr/projects/simple,True
@@ -7540,7 +7541,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/18-19/12/docs,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/18-19/13/nurapisample,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/18-19/13/projet,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/18-19/18/docs,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/18-19/18/prototypes,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/18-19/18/prototypes,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/18-19/19/code,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/18-19/19/docs,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/18-19/19/workinprogress,True
@@ -7592,6 +7593,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/02/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/05/cansniffer,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/05/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/05/raspberry,True
+https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/05/stm32,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/06/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/07/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/08/code,True
@@ -7675,7 +7677,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/geopsy/qgpcoretools,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/getalp/amorph,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/getalp/ariane-lingware,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/getalp/dbnary-dashboard,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/getalp/seq2seqpytorch,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/getalp/seq2seqpytorch,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/getalp/vocadoma4h,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/getalp/wikipediacompanycorpus,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/gricad-contrib/basics,True
@@ -7817,7 +7819,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/old-reproducible-research,T
 https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/reproducible-research/lra4w7,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/reproducible-research/osim-lutin,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/reproducible-research/sasartifact,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/reproducible-research/simple-dflow-rtss-2020,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/reproducible-research/simple-dflow-rtss-2020,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/synchrone/lustre-v6,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/synchrone/lutils,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/synchrone/lutin,True
