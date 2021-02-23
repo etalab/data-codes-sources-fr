@@ -377,7 +377,7 @@ https://forgemia.inra.fr/inter_cati_omics/singularity/Custom_containers/Bionano_
 https://forgemia.inra.fr/inter_cati_omics/singularity/Custom_containers/dicoexpress,True
 https://forgemia.inra.fr/inter_cati_omics/singularity/biocontainers/projet-biocontainers,True
 https://forgemia.inra.fr/inter_cati_omics/snakemake/snakemake_modules,True
-https://forgemia.inra.fr/irhs-bioinfo/i-fungi,False
+https://forgemia.inra.fr/irhs-bioinfo/i-fungi,True
 https://forgemia.inra.fr/lbe/opensilexlbe/ontologielbe,True
 https://forgemia.inra.fr/lbe/opensilexlbe/opensilex-dev,True
 https://forgemia.inra.fr/metexplore/MetExploreViz,True
@@ -6063,6 +6063,7 @@ https://gitlab.inria.fr/WellInverter/WellInverter_Standalone_Nuvla,True
 https://gitlab.inria.fr/WellInverter/WellInverter_Standalone_Windows,True
 https://gitlab.inria.fr/adjoint-computation/H-Revolve,True
 https://gitlab.inria.fr/adjoint-computation/disk-revolve-public,True
+https://gitlab.inria.fr/adt-mochy/mochy,False
 https://gitlab.inria.fr/aevol/aevol,True
 https://gitlab.inria.fr/agm/axl,True
 https://gitlab.inria.fr/agm/geoalgebrix,True
@@ -7724,7 +7725,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/legi/soft/trokata/latex-review,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/legi/soft/trokata/nagios-velvice,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/legi/soft/trokata/oarutils,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/legi/soft/trokata/project-meta,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/legi/soft/trokata/secdapt,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/legi/soft/trokata/secdapt,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/legi/soft/trokata/signal-checkpoint,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/legi/soft/trokata/softsync,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/legi/soft/trokata/tssh,True
@@ -7812,7 +7813,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/bip/artifacts/drbip-feb2020
 https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/bip/compiler,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/bip/sbip2,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/if/if-toolset,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/old-reproducible-research,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/old-reproducible-research,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/reproducible-research/lra4w7,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/reproducible-research/osim-lutin,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/reproducible-research/sasartifact,True
