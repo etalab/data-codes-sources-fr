@@ -148,6 +148,7 @@ https://forge.univ-lyon1.fr/iut-lyon-s3-php/ansible,True
 https://forge.univ-lyon1.fr/knowdyn-ens/knowdyn-contenus-2020,True
 https://forge.univ-lyon1.fr/lifap6/ccompil,True
 https://forge.univ-lyon1.fr/lifap6/magic-maze-etu,True
+https://forge.univ-lyon1.fr/lifap6/roborally-etu,False
 https://forge.univ-lyon1.fr/lifap6/rush-hour-etu,True
 https://forge.univ-lyon1.fr/lifap6/scrabble-etu,True
 https://forge.univ-lyon1.fr/lifap6/suzette,True
@@ -359,6 +360,7 @@ https://forgemia.inra.fr/gryc-data/zygosaccharomyces_rouxii-cbs_732,True
 https://forgemia.inra.fr/hackathon-portail-calcul/criteres,True
 https://forgemia.inra.fr/hackathon-portail-calcul/existant,True
 https://forgemia.inra.fr/hackathon-portail-calcul/hackathon_organisation,True
+https://forgemia.inra.fr/in-sylva-development/in-sylva.infrastructure,False
 https://forgemia.inra.fr/infosol/SolEil,True
 https://forgemia.inra.fr/infosol/ejp-cookbook,True
 https://forgemia.inra.fr/infosol/rmd_nsa,True
@@ -633,7 +635,7 @@ https://git.unistra.fr/duvernay-goffic/a31-projet-puissance-4,True
 https://git.unistra.fr/e-mmigres/voc20-t3-g,True
 https://git.unistra.fr/ecr19-t4-e/hache-tag-greigns,True
 https://git.unistra.fr/enj/corpus-reference,True
-https://git.unistra.fr/ex2-daribako-perus-2021-psa/ex2_daribako_perus_2021_psa,False
+https://git.unistra.fr/ex2-daribako-perus-2021-psa/ex2_daribako_perus_2021_psa,True
 https://git.unistra.fr/filiere-d-excellence/ghc,True
 https://git.unistra.fr/g4b-le-futur/g4b,True
 https://git.unistra.fr/g4b-michel/michel-app,True
@@ -1934,7 +1936,7 @@ https://github.com/InseeFrLab/ubuntu-vnc,True
 https://github.com/InseeFrLab/ubuntu-vnc-dind,True
 https://github.com/InseeFrLab/utilitR,True
 https://github.com/InseeFrLab/utilitR-website,True
-https://github.com/InseeFrLab/utilitr-actions,False
+https://github.com/InseeFrLab/utilitr-actions,True
 https://github.com/InseeFrLab/utilitr-bonnes-pratiques,True
 https://github.com/InseeFrLab/utilitr-template,True
 https://github.com/InseeFrLab/vscode-python,True
@@ -2695,6 +2697,12 @@ https://github.com/ambanum/CGUs-snapshots,True
 https://github.com/ambanum/CGUs-stats,True
 https://github.com/ambanum/CGUs-versions,True
 https://github.com/ambanum/DormantTwitterAccountsDetector,True
+https://github.com/ambanum/OpenTermsArchive,False
+https://github.com/ambanum/OpenTermsArchive-api,False
+https://github.com/ambanum/OpenTermsArchive-snapshots,False
+https://github.com/ambanum/OpenTermsArchive-snapshots-tosback,False
+https://github.com/ambanum/OpenTermsArchive-stats,False
+https://github.com/ambanum/OpenTermsArchive-versions,False
 https://github.com/ambanum/ParisCall,True
 https://github.com/ambanum/TOSBack-CGUs-bridge,True
 https://github.com/ambanum/TwitterAccountsHistory,True
@@ -6063,7 +6071,7 @@ https://gitlab.inria.fr/WellInverter/WellInverter_Standalone_Nuvla,True
 https://gitlab.inria.fr/WellInverter/WellInverter_Standalone_Windows,True
 https://gitlab.inria.fr/adjoint-computation/H-Revolve,True
 https://gitlab.inria.fr/adjoint-computation/disk-revolve-public,True
-https://gitlab.inria.fr/adt-mochy/mochy,False
+https://gitlab.inria.fr/adt-mochy/mochy,True
 https://gitlab.inria.fr/aevol/aevol,True
 https://gitlab.inria.fr/agm/axl,True
 https://gitlab.inria.fr/agm/geoalgebrix,True
@@ -6728,6 +6736,7 @@ https://gitlab.inria.fr/igrida/kubigrida-docker,True
 https://gitlab.inria.fr/igrida/prometheus-oar-exporter,True
 https://gitlab.inria.fr/igrida/userdocs,True
 https://gitlab.inria.fr/ink-interaction/list-widgets,True
+https://gitlab.inria.fr/inria-ci/ci-scripts,False
 https://gitlab.inria.fr/inria-ci/ctproxy,True
 https://gitlab.inria.fr/inria-ci/doc,True
 https://gitlab.inria.fr/ipanema-public/ipanema-compiler,True
@@ -7543,7 +7552,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/18-19/13/projet,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/18-19/18/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/18-19/18/prototypes,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/18-19/19/code,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/18-19/19/docs,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/18-19/19/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/18-19/19/workinprogress,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/18-19/21/backend,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/18-19/21/docs,False
@@ -7807,7 +7816,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/tima/sls/projects/systemc-ct,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/ttk/spam,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/ust4hpc/docker,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/ust4hpc/gpu-hub,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/ust4hpc/talk,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/ust4hpc/talk,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/Members,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/bip/IFinder,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/bip/TASTE2BIP,True
