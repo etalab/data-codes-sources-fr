@@ -470,6 +470,7 @@ https://forgemia.inra.fr/umrf/exploremetabar,True
 https://forgemia.inra.fr/umrf/ranomaly,True
 https://forgemia.inra.fr/umrf/utopia,True
 https://forgemia.inra.fr/urep/docs/demorpackage,True
+https://forgemia.inra.fr/urep/soere-acbb-pp/documentation,False
 https://forgemia.inra.fr/urgi-is/data-discovery,True
 https://forgemia.inra.fr/urgi-is/docker-rare,True
 https://forgemia.inra.fr/urgi-is/faidare,True
@@ -1919,6 +1920,7 @@ https://github.com/InseeFrLab/marathon-to-kubernetes,True
 https://github.com/InseeFrLab/onyxia,True
 https://github.com/InseeFrLab/onyxia-api,True
 https://github.com/InseeFrLab/onyxia-cli,True
+https://github.com/InseeFrLab/onyxia-design-system,False
 https://github.com/InseeFrLab/onyxia-ui,True
 https://github.com/InseeFrLab/predicat,True
 https://github.com/InseeFrLab/product-labelling,True
@@ -2441,6 +2443,7 @@ https://github.com/SocialGouv/legi-detect,True
 https://github.com/SocialGouv/legi-postgres,True
 https://github.com/SocialGouv/legixplore,True
 https://github.com/SocialGouv/letor-scores,True
+https://github.com/SocialGouv/lighthouse-dashboard,False
 https://github.com/SocialGouv/linters,True
 https://github.com/SocialGouv/maintenance,True
 https://github.com/SocialGouv/mano,True
@@ -4753,7 +4756,7 @@ https://github.com/metwork-framework/auto-changelog,True
 https://github.com/metwork-framework/circus_autorestart_plugin,True
 https://github.com/metwork-framework/cookiecutter,True
 https://github.com/metwork-framework/cookiecutter_hooks,True
-https://github.com/metwork-framework/cron-wrapper,False
+https://github.com/metwork-framework/cron-wrapper,True
 https://github.com/metwork-framework/cronwrapper,True
 https://github.com/metwork-framework/deploycron,True
 https://github.com/metwork-framework/directory_observer,True
@@ -7788,6 +7791,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/projet-ter-m1-wic-openwrt/documenta
 https://gricad-gitlab.univ-grenoble-alpes.fr/projet-ter-m1-wic-openwrt/luci,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/projet/Sokoban,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/projet/machinetrace,True
+https://gricad-gitlab.univ-grenoble-alpes.fr/projet/make-lldb-config-for-vscode,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/projet/sokoban-demo-live,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/projet/trigraphique,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/projet/vpl-for-vscode,True
@@ -7841,7 +7845,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/synchrone/tools-distrib,Tru
 https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/tempo/StlEval,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/tempo/boolean,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/tempo/multidimensional_search,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/vote22/simulation,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/vote22/simulation,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/vqgroup/KaZoSCa-stack,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/vqgroup/docker-spy,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/vqgroup/flow-matrix,False
