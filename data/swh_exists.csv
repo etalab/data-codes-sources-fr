@@ -2964,6 +2964,7 @@ https://github.com/betagouv/glossary-bot,True
 https://github.com/betagouv/gps-usagers,True
 https://github.com/betagouv/grafana-scalingo,True
 https://github.com/betagouv/gravitee-api-extension,True
+https://github.com/betagouv/hedgedoc,False
 https://github.com/betagouv/helpy,True
 https://github.com/betagouv/heroku-buildpack-ruby,True
 https://github.com/betagouv/histologe,True
@@ -5347,6 +5348,7 @@ https://github.com/sigrennesmetropole/geor_urbanisme_mapstore,True
 https://github.com/sigrennesmetropole/geoserver_sld,True
 https://github.com/sigrennesmetropole/images,True
 https://github.com/sigrennesmetropole/invest_rennes,True
+https://github.com/sigrennesmetropole/mapstore2-cadastrapp,False
 https://github.com/sigrennesmetropole/mviewer,True
 https://github.com/sigrennesmetropole/mviewerstudio,True
 https://github.com/sigrennesmetropole/photos_obliques,True
@@ -5394,7 +5396,7 @@ https://github.com/spyrales/gouvdown.fonts,True
 https://github.com/spyrales/la-piscine,True
 https://github.com/spyrales/organisation,True
 https://github.com/spyrales/presentation,True
-https://github.com/spyrales/propre.brochure,False
+https://github.com/spyrales/propre.brochure,True
 https://github.com/spyrales/web,True
 https://github.com/stemjail/fd-rs,True
 https://github.com/stemjail/fdpass-rs,True
@@ -7602,7 +7604,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/02/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/05/cansniffer,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/05/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/05/raspberry,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/05/stm32,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/05/stm32,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/06/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/07/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/08/code,True
