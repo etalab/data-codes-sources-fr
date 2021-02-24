@@ -360,7 +360,13 @@ https://forgemia.inra.fr/gryc-data/zygosaccharomyces_rouxii-cbs_732,True
 https://forgemia.inra.fr/hackathon-portail-calcul/criteres,True
 https://forgemia.inra.fr/hackathon-portail-calcul/existant,True
 https://forgemia.inra.fr/hackathon-portail-calcul/hackathon_organisation,True
+https://forgemia.inra.fr/in-sylva-development/in-sylva.gatekeeper,False
+https://forgemia.inra.fr/in-sylva-development/in-sylva.information-system,False
 https://forgemia.inra.fr/in-sylva-development/in-sylva.infrastructure,False
+https://forgemia.inra.fr/in-sylva-development/in-sylva.portal,False
+https://forgemia.inra.fr/in-sylva-development/in-sylva.search,False
+https://forgemia.inra.fr/in-sylva-development/in-sylva.search.app,False
+https://forgemia.inra.fr/in-sylva-development/in-sylva.source.manager,False
 https://forgemia.inra.fr/infosol/SolEil,True
 https://forgemia.inra.fr/infosol/ejp-cookbook,True
 https://forgemia.inra.fr/infosol/rmd_nsa,True
@@ -471,6 +477,7 @@ https://forgemia.inra.fr/umrf/ranomaly,True
 https://forgemia.inra.fr/umrf/utopia,True
 https://forgemia.inra.fr/urep/docs/demorpackage,True
 https://forgemia.inra.fr/urep/soere-acbb-pp/documentation,False
+https://forgemia.inra.fr/urep/soere-pp/doc_soere-pp,False
 https://forgemia.inra.fr/urgi-is/data-discovery,True
 https://forgemia.inra.fr/urgi-is/docker-rare,True
 https://forgemia.inra.fr/urgi-is/faidare,True
@@ -4511,6 +4518,7 @@ https://github.com/lutece-secteur-public/particip-plugin-participatoryideation,T
 https://github.com/lutece-secteur-public/particip-site-participatorybudget,True
 https://github.com/lutece-secteur-public/urbanisme-plugin-plu,True
 https://github.com/matchID-project/agrippa,True
+https://github.com/matchID-project/api-geo,False
 https://github.com/matchID-project/api.gouv.fr,True
 https://github.com/matchID-project/backend,True
 https://github.com/matchID-project/deces-backend,True
@@ -6709,6 +6717,7 @@ https://gitlab.inria.fr/grid5000/kwollect,True
 https://gitlab.inria.fr/grid5000/kwollect-dashboard,True
 https://gitlab.inria.fr/grid5000/megaraid_sas,True
 https://gitlab.inria.fr/grid5000/metrology-api,True
+https://gitlab.inria.fr/grid5000/notebook-tutorial,False
 https://gitlab.inria.fr/grid5000/omegawatt,True
 https://gitlab.inria.fr/grid5000/python-grid5000,True
 https://gitlab.inria.fr/grid5000/reference-repository,True
@@ -6758,7 +6767,7 @@ https://gitlab.inria.fr/knem/knem,True
 https://gitlab.inria.fr/kstar/clang-omp,True
 https://gitlab.inria.fr/kstar/kastors,True
 https://gitlab.inria.fr/kstar/kstar,True
-https://gitlab.inria.fr/kstar/kstar.gitlabpages.inria.fr,False
+https://gitlab.inria.fr/kstar/kstar.gitlabpages.inria.fr,True
 https://gitlab.inria.fr/latex-utils/latex-make,True
 https://gitlab.inria.fr/lcourtes-phd/chop-eval,True
 https://gitlab.inria.fr/lcourtes-phd/edcc-2006,True
@@ -7567,7 +7576,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/18-19/43/doc1,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/18-19/6/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/18-19/8/cages-a-marmotte-connectees,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/18-19/8/docs,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/18-19/8/serveur-node-red-cage-marmotte,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/18-19/8/serveur-node-red-cage-marmotte,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/10/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/10/site,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/11/docs,True
@@ -7604,7 +7613,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/8/draft,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/9/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/01/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/02/docs,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/05/cansniffer,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/05/cansniffer,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/05/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/05/raspberry,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/05/stm32,True
