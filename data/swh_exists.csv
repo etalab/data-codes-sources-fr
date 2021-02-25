@@ -5253,7 +5253,7 @@ https://github.com/powerapi-ng/powerapi-scala,True
 https://github.com/powerapi-ng/pyJoules,True
 https://github.com/powerapi-ng/pyRAPL,True
 https://github.com/powerapi-ng/rapl-formula,True
-https://github.com/powerapi-ng/selfwatts-controller,False
+https://github.com/powerapi-ng/selfwatts-controller,True
 https://github.com/powerapi-ng/smartwatts-formula,True
 https://github.com/region-bretagne/cit,True
 https://github.com/region-bretagne/dd-portal,True
@@ -7822,7 +7822,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/systemes/asynchronisme_algorithmiqu
 https://gricad-gitlab.univ-grenoble-alpes.fr/tal_for_distant_languages/wiki,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/talks/deeplearning,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/talks/fidle,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/tima-amfors/learnv,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/tima-amfors/learnv,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/tima/public/ct_de-systemc,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/tima/public/newcas2019,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/tima/public/tcad,True
