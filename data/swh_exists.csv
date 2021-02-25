@@ -232,6 +232,7 @@ https://forgemia.inra.fr/gafl/pipelines_snakemake/allmine,True
 https://forgemia.inra.fr/gafl/pipelines_snakemake/ezqtlseq,True
 https://forgemia.inra.fr/gafl/pipelines_snakemake/rnaseq,True
 https://forgemia.inra.fr/gafl/pipelines_snakemake/wgs,True
+https://forgemia.inra.fr/gafl/scripts/genome_feature_distribution,False
 https://forgemia.inra.fr/gafl/singularity/10Xgenomics,True
 https://forgemia.inra.fr/gafl/singularity/Allmine,True
 https://forgemia.inra.fr/gafl/singularity/BUSCO,True
@@ -360,8 +361,8 @@ https://forgemia.inra.fr/gryc-data/zygosaccharomyces_rouxii-cbs_732,True
 https://forgemia.inra.fr/hackathon-portail-calcul/criteres,True
 https://forgemia.inra.fr/hackathon-portail-calcul/existant,True
 https://forgemia.inra.fr/hackathon-portail-calcul/hackathon_organisation,True
-https://forgemia.inra.fr/in-sylva-development/in-sylva.gatekeeper,False
-https://forgemia.inra.fr/in-sylva-development/in-sylva.information-system,False
+https://forgemia.inra.fr/in-sylva-development/in-sylva.gatekeeper,True
+https://forgemia.inra.fr/in-sylva-development/in-sylva.information-system,True
 https://forgemia.inra.fr/in-sylva-development/in-sylva.infrastructure,False
 https://forgemia.inra.fr/in-sylva-development/in-sylva.portal,False
 https://forgemia.inra.fr/in-sylva-development/in-sylva.search,False
@@ -1712,7 +1713,7 @@ https://github.com/Ifsttar/SymuRes,True
 https://github.com/Ifsttar/Tempus,True
 https://github.com/Ifsttar/YATS,True
 https://github.com/Ifsttar/bil,True
-https://github.com/Ifsttar/cense.noise-planet.org,False
+https://github.com/Ifsttar/cense.noise-planet.org,True
 https://github.com/Ifsttar/openwarble,True
 https://github.com/Ifsttar/qrtone,True
 https://github.com/Ifsttar/qrtone-android,True
@@ -2709,11 +2710,11 @@ https://github.com/ambanum/CGUs-stats,True
 https://github.com/ambanum/CGUs-versions,True
 https://github.com/ambanum/DormantTwitterAccountsDetector,True
 https://github.com/ambanum/OpenTermsArchive,False
-https://github.com/ambanum/OpenTermsArchive-api,False
+https://github.com/ambanum/OpenTermsArchive-api,True
 https://github.com/ambanum/OpenTermsArchive-snapshots,True
 https://github.com/ambanum/OpenTermsArchive-snapshots-tosback,True
 https://github.com/ambanum/OpenTermsArchive-stats,False
-https://github.com/ambanum/OpenTermsArchive-versions,False
+https://github.com/ambanum/OpenTermsArchive-versions,True
 https://github.com/ambanum/ParisCall,True
 https://github.com/ambanum/TOSBack-CGUs-bridge,True
 https://github.com/ambanum/TwitterAccountsHistory,True
@@ -4573,6 +4574,7 @@ https://github.com/medialab/bibliotools3.0,True
 https://github.com/medialab/bothan,True
 https://github.com/medialab/bottom-up-color-space-experiment,True
 https://github.com/medialab/bulgur,True
+https://github.com/medialab/carnet-algopresse,False
 https://github.com/medialab/carto2016-ecoquartiers,True
 https://github.com/medialab/carto2016-jeuxvideos,True
 https://github.com/medialab/carto2016-mecenat,True
@@ -7132,6 +7134,7 @@ https://gitlab.inria.fr/skeletons/jskel,True
 https://gitlab.inria.fr/skeletons/necro,True
 https://gitlab.inria.fr/skeletons/necro-coq,True
 https://gitlab.inria.fr/skeletons/necro-debug,True
+https://gitlab.inria.fr/skeletons/necro-dep,False
 https://gitlab.inria.fr/skeletons/necro-ml,True
 https://gitlab.inria.fr/skeletons/necro-test,True
 https://gitlab.inria.fr/skeletons/necro-tex,True
@@ -7319,6 +7322,7 @@ https://gitlab.irstea.fr/pole-is/tools/pcov-clobber-plugin,True
 https://gitlab.irstea.fr/pole-is/tools/php-cs-fixer-config,True
 https://gitlab.irstea.fr/pole-is/tools/php-cs-fixer-shim,True
 https://gitlab.irstea.fr/pole-is/tools/php-dev-pack,True
+https://gitlab.irstea.fr/pole-is/tools/php-ext-mapping,False
 https://gitlab.irstea.fr/pole-is/tools/php-skeleton,True
 https://gitlab.irstea.fr/pole-is/tools/phpcpd-shim,True
 https://gitlab.irstea.fr/pole-is/tools/phploc-shim,True
@@ -7534,6 +7538,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/monitoring-summer-snapsh
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/perfreporter,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/pz_resif,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/qpidd-k8s,True
+https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/resif-madmp,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/resif-routing,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/resif-routing-k8s,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/resif_docker,True
@@ -7812,7 +7817,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/projet/vpl-for-vscode-documentation
 https://gricad-gitlab.univ-grenoble-alpes.fr/projet/vplpp,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/publickanboarddev/mmimporter,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/python-uga/py-training-2017,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/python-uga/py-training-intro,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/python-uga/py-training-intro,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/python-uga/training-hpc,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/python-uga/website-pyscidatagre,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/python-uga/working-sessions,True
