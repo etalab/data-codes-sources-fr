@@ -1288,6 +1288,7 @@ https://github.com/Deducteam/dkpsuler,True
 https://github.com/Deducteam/ekstrakto,True
 https://github.com/Deducteam/isabelle_dedukti,True
 https://github.com/Deducteam/lambdapi,True
+https://github.com/Deducteam/nubo,False
 https://github.com/Deducteam/personoj,True
 https://github.com/Deducteam/pvs-with-proofs,True
 https://github.com/Deducteam/resystance,True
@@ -2709,8 +2710,8 @@ https://github.com/ambanum/CGUs-versions,True
 https://github.com/ambanum/DormantTwitterAccountsDetector,True
 https://github.com/ambanum/OpenTermsArchive,False
 https://github.com/ambanum/OpenTermsArchive-api,False
-https://github.com/ambanum/OpenTermsArchive-snapshots,False
-https://github.com/ambanum/OpenTermsArchive-snapshots-tosback,False
+https://github.com/ambanum/OpenTermsArchive-snapshots,True
+https://github.com/ambanum/OpenTermsArchive-snapshots-tosback,True
 https://github.com/ambanum/OpenTermsArchive-stats,False
 https://github.com/ambanum/OpenTermsArchive-versions,False
 https://github.com/ambanum/ParisCall,True
@@ -5341,6 +5342,7 @@ https://github.com/signaux-faibles/signaux-faibles.github.io,True
 https://github.com/signaux-faibles/signauxfaibles-web,True
 https://github.com/signaux-faibles/site-eig,True
 https://github.com/signaux-faibles/users,True
+https://github.com/sigrennesmetropole/GeoNature-atlas,False
 https://github.com/sigrennesmetropole/MViewer-SIGRM,True
 https://github.com/sigrennesmetropole/MapStore2,True
 https://github.com/sigrennesmetropole/QgisCadastrePlugin,True
@@ -5952,6 +5954,7 @@ https://gitlab.inria.fr/Alpha/alpha-language,True
 https://gitlab.inria.fr/Alpha/alphaz,True
 https://gitlab.inria.fr/CAPES-Math/clef-CAPES,True
 https://gitlab.inria.fr/CAPES-Math/live-build,True
+https://gitlab.inria.fr/CORSE/wasmpoly,False
 https://gitlab.inria.fr/ClassCode/class_code,True
 https://gitlab.inria.fr/ClassCode/class_code_v2,True
 https://gitlab.inria.fr/ClassCode/classcodeadmin,True
@@ -6750,7 +6753,7 @@ https://gitlab.inria.fr/igrida/kubigrida-docker,True
 https://gitlab.inria.fr/igrida/prometheus-oar-exporter,True
 https://gitlab.inria.fr/igrida/userdocs,True
 https://gitlab.inria.fr/ink-interaction/list-widgets,True
-https://gitlab.inria.fr/inria-ci/ci-scripts,False
+https://gitlab.inria.fr/inria-ci/ci-scripts,True
 https://gitlab.inria.fr/inria-ci/ctproxy,True
 https://gitlab.inria.fr/inria-ci/doc,True
 https://gitlab.inria.fr/ipanema-public/ipanema-compiler,True
@@ -7028,6 +7031,7 @@ https://gitlab.inria.fr/regular-pv/timbuk/timbuk,True
 https://gitlab.inria.fr/reo/transport-in-1d-networks,True
 https://gitlab.inria.fr/resibots/public/py_map_elites,True
 https://gitlab.inria.fr/rmod-public/2019-sourcecodedata,True
+https://gitlab.inria.fr/rmod-public/steven-tests/steven-tests.gitlab.inria.fr,False
 https://gitlab.inria.fr/runaway/mixup,True
 https://gitlab.inria.fr/runaway/runaway,True
 https://gitlab.inria.fr/runaway/runaway.gitlabpages.inria.fr,True
@@ -7681,7 +7685,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/enseignement1/m2cci/java/correction
 https://gricad-gitlab.univ-grenoble-alpes.fr/enseignement1/m2cci/java/couronne,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/enseignement1/m2cci/java/ensemblesdelettres,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/enseignement1/m2cci/java/formesanimees,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/enseignement1/m2cci/java/ligne-polygonale,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/enseignement1/m2cci/java/ligne-polygonale,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/enseignement1/m2cci/java/panierelectronique,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/enseignement1/m2cci/java/rationals,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/enseignement1/m2cci/java/segmentsdedroite,True
@@ -7841,7 +7845,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/bip/sbip2,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/if/if-toolset,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/old-reproducible-research,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/reproducible-research/lra4w7,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/reproducible-research/osim-lutin,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/reproducible-research/osim-lutin,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/reproducible-research/sasartifact,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/reproducible-research/simple-dflow-rtss-2020,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/synchrone/lustre-v6,True
