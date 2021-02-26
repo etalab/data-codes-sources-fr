@@ -197,7 +197,7 @@ https://forgemia.inra.fr/agriterix/agriterix,True
 https://forgemia.inra.fr/agriterix/doc,True
 https://forgemia.inra.fr/agriterix/simulator,True
 https://forgemia.inra.fr/agroecoperenne/scripting/python-module,True
-https://forgemia.inra.fr/anaee-dev/coby,False
+https://forgemia.inra.fr/anaee-dev/coby,True
 https://forgemia.inra.fr/baric/family-companion,True
 https://forgemia.inra.fr/bibliome/alvisae-anaee,True
 https://forgemia.inra.fr/bibliome/bionlp-st-py,True
@@ -1864,6 +1864,7 @@ https://github.com/InseeFr/Pearl-Jam-Back-Office,True
 https://github.com/InseeFr/Pogues,True
 https://github.com/InseeFr/Pogues-Back-Office,True
 https://github.com/InseeFr/Pogues-Model,True
+https://github.com/InseeFr/Public-Enemy,False
 https://github.com/InseeFr/Public-Enemy-Back-Office,False
 https://github.com/InseeFr/Quatro,True
 https://github.com/InseeFr/Queen,True
@@ -2511,6 +2512,7 @@ https://github.com/SocialGouv/tutoriel-gitlab,True
 https://github.com/SocialGouv/ui,False
 https://github.com/SocialGouv/upptime,True
 https://github.com/SocialGouv/veille-git,True
+https://github.com/SocialGouv/webseal,False
 https://github.com/SocialGouv/work-in-france,True
 https://github.com/SocialGouv/work-in-france-backoffice,True
 https://github.com/SocialGouv/work-in-france-bo,True
@@ -5452,6 +5454,7 @@ https://github.com/sympa-community/sympa-service-rest,True
 https://github.com/sympa-community/sympa-spec-openapi,True
 https://github.com/sympa-community/sympa-vue,True
 https://github.com/unistra/aboutIFrame-portlet,True
+https://github.com/unistra/ansible-collection-glpi,False
 https://github.com/unistra/ansible-inventory-glpi,True
 https://github.com/unistra/ansible-modules-opennebula,True
 https://github.com/unistra/aria,True
@@ -7543,6 +7546,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/perfreporter,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/pz_resif,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/qpidd-k8s,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/resif-madmp,True
+https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/resif-robotframework-tests,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/resif-routing,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/resif-routing-k8s,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/resif_docker,True
@@ -7748,7 +7752,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/kubernetes-alpes/reunions,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/kubernetes-alpes/terraform-vsphere-rke,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/labnbook/documentation-dev-public,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/labnbook/labnbook,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/labnbook/moodle-labnbook,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/labnbook/moodle-labnbook,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/leca/publications/thuiller_2019_natcomm,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/legi/soft/gestex,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/legi/soft/trokata/backuppc-silzigan,True
