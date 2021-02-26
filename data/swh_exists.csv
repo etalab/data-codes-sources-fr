@@ -1929,7 +1929,7 @@ https://github.com/InseeFrLab/marathon-to-kubernetes,True
 https://github.com/InseeFrLab/onyxia,True
 https://github.com/InseeFrLab/onyxia-api,True
 https://github.com/InseeFrLab/onyxia-cli,True
-https://github.com/InseeFrLab/onyxia-design-system,False
+https://github.com/InseeFrLab/onyxia-design-system,True
 https://github.com/InseeFrLab/onyxia-ui,True
 https://github.com/InseeFrLab/predicat,True
 https://github.com/InseeFrLab/product-labelling,True
@@ -2976,7 +2976,7 @@ https://github.com/betagouv/glossary-bot,True
 https://github.com/betagouv/gps-usagers,True
 https://github.com/betagouv/grafana-scalingo,True
 https://github.com/betagouv/gravitee-api-extension,True
-https://github.com/betagouv/hedgedoc,False
+https://github.com/betagouv/hedgedoc,True
 https://github.com/betagouv/helpy,True
 https://github.com/betagouv/heroku-buildpack-ruby,True
 https://github.com/betagouv/histologe,True
@@ -5344,7 +5344,7 @@ https://github.com/signaux-faibles/signaux-faibles.github.io,True
 https://github.com/signaux-faibles/signauxfaibles-web,True
 https://github.com/signaux-faibles/site-eig,True
 https://github.com/signaux-faibles/users,True
-https://github.com/sigrennesmetropole/GeoNature-atlas,False
+https://github.com/sigrennesmetropole/GeoNature-atlas,True
 https://github.com/sigrennesmetropole/MViewer-SIGRM,True
 https://github.com/sigrennesmetropole/MapStore2,True
 https://github.com/sigrennesmetropole/QgisCadastrePlugin,True
@@ -7134,7 +7134,7 @@ https://gitlab.inria.fr/skeletons/jskel,True
 https://gitlab.inria.fr/skeletons/necro,True
 https://gitlab.inria.fr/skeletons/necro-coq,True
 https://gitlab.inria.fr/skeletons/necro-debug,True
-https://gitlab.inria.fr/skeletons/necro-dep,False
+https://gitlab.inria.fr/skeletons/necro-dep,True
 https://gitlab.inria.fr/skeletons/necro-ml,True
 https://gitlab.inria.fr/skeletons/necro-test,True
 https://gitlab.inria.fr/skeletons/necro-tex,True
@@ -7578,7 +7578,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/18-19/19/code,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/18-19/19/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/18-19/19/workinprogress,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/18-19/21/backend,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/18-19/21/docs,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/18-19/21/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/18-19/21/frontend,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/18-19/43/doc0,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/18-19/43/doc1,True
@@ -7637,7 +7637,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/12/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/13/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/13/polytech-helper-service,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/14/docs,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/14/rust-parallel,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/14/rust-parallel,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/15/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/16/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/17/code,True
@@ -7710,7 +7710,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/getalp/amorph,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/getalp/ariane-lingware,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/getalp/dbnary-dashboard,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/getalp/seq2seqpytorch,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/getalp/vocadoma4h,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/getalp/vocadoma4h,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/getalp/wikipediacompanycorpus,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/gricad-contrib/basics,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/gricad-contrib/mnist,True
@@ -7726,7 +7726,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/icall/MagicWord,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/ikats/op-rhm,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/ikats/op-tdt,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/ikats/vt-tdt,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/ikats/vt-tsplorer,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/ikats/vt-tsplorer,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/innovalangues/plannings-self,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/instrum/tp1,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/ir-info4/tp-conteneur,True
