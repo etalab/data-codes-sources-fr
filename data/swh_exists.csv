@@ -1864,6 +1864,7 @@ https://github.com/InseeFr/Pearl-Jam-Back-Office,True
 https://github.com/InseeFr/Pogues,True
 https://github.com/InseeFr/Pogues-Back-Office,True
 https://github.com/InseeFr/Pogues-Model,True
+https://github.com/InseeFr/Public-Enemy-Back-Office,False
 https://github.com/InseeFr/Quatro,True
 https://github.com/InseeFr/Queen,True
 https://github.com/InseeFr/Queen-Back-Office,True
@@ -6332,6 +6333,9 @@ https://gitlab.inria.fr/citi-lab/embench,True
 https://gitlab.inria.fr/citi-lab/sytare,True
 https://gitlab.inria.fr/citi-lab/sytare-public,True
 https://gitlab.inria.fr/cmh/cmh,True
+https://gitlab.inria.fr/cobcom/cimem/bayesnet,False
+https://gitlab.inria.fr/cobcom/cimem/cimem,False
+https://gitlab.inria.fr/cobcom/cimem/recur,False
 https://gitlab.inria.fr/cobcom/talon,True
 https://gitlab.inria.fr/coccinelle/coccinelle,True
 https://gitlab.inria.fr/coccinelle/reference_scores,True
@@ -7322,7 +7326,7 @@ https://gitlab.irstea.fr/pole-is/tools/pcov-clobber-plugin,True
 https://gitlab.irstea.fr/pole-is/tools/php-cs-fixer-config,True
 https://gitlab.irstea.fr/pole-is/tools/php-cs-fixer-shim,True
 https://gitlab.irstea.fr/pole-is/tools/php-dev-pack,True
-https://gitlab.irstea.fr/pole-is/tools/php-ext-mapping,False
+https://gitlab.irstea.fr/pole-is/tools/php-ext-mapping,True
 https://gitlab.irstea.fr/pole-is/tools/php-skeleton,True
 https://gitlab.irstea.fr/pole-is/tools/phpcpd-shim,True
 https://gitlab.irstea.fr/pole-is/tools/phploc-shim,True
@@ -7538,7 +7542,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/monitoring-summer-snapsh
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/perfreporter,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/pz_resif,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/qpidd-k8s,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/resif-madmp,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/resif-madmp,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/resif-routing,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/resif-routing-k8s,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/resif_docker,True
