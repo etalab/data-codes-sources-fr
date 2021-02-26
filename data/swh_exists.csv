@@ -148,7 +148,7 @@ https://forge.univ-lyon1.fr/iut-lyon-s3-php/ansible,True
 https://forge.univ-lyon1.fr/knowdyn-ens/knowdyn-contenus-2020,True
 https://forge.univ-lyon1.fr/lifap6/ccompil,True
 https://forge.univ-lyon1.fr/lifap6/magic-maze-etu,True
-https://forge.univ-lyon1.fr/lifap6/roborally-etu,False
+https://forge.univ-lyon1.fr/lifap6/roborally-etu,True
 https://forge.univ-lyon1.fr/lifap6/rush-hour-etu,True
 https://forge.univ-lyon1.fr/lifap6/scrabble-etu,True
 https://forge.univ-lyon1.fr/lifap6/suzette,True
@@ -479,6 +479,7 @@ https://forgemia.inra.fr/umrf/utopia,True
 https://forgemia.inra.fr/urep/docs/demorpackage,True
 https://forgemia.inra.fr/urep/soere-acbb-pp/documentation,False
 https://forgemia.inra.fr/urep/soere-pp/doc_soere-pp,False
+https://forgemia.inra.fr/urep/soere-pp/meteosolApp,False
 https://forgemia.inra.fr/urgi-is/data-discovery,True
 https://forgemia.inra.fr/urgi-is/docker-rare,True
 https://forgemia.inra.fr/urgi-is/faidare,True
@@ -2431,7 +2432,7 @@ https://github.com/SocialGouv/emjpm-editor-app,True
 https://github.com/SocialGouv/emjpm-migration-k8s,True
 https://github.com/SocialGouv/emjpm-portail,True
 https://github.com/SocialGouv/emjpm-ui,True
-https://github.com/SocialGouv/eslint-plugin-autoimport,False
+https://github.com/SocialGouv/eslint-plugin-autoimport,True
 https://github.com/SocialGouv/faq-code-du-travail,True
 https://github.com/SocialGouv/fce,True
 https://github.com/SocialGouv/fiches-travail-data,True
@@ -2716,7 +2717,7 @@ https://github.com/ambanum/OpenTermsArchive,False
 https://github.com/ambanum/OpenTermsArchive-api,True
 https://github.com/ambanum/OpenTermsArchive-snapshots,True
 https://github.com/ambanum/OpenTermsArchive-snapshots-tosback,True
-https://github.com/ambanum/OpenTermsArchive-stats,False
+https://github.com/ambanum/OpenTermsArchive-stats,True
 https://github.com/ambanum/OpenTermsArchive-versions,True
 https://github.com/ambanum/ParisCall,True
 https://github.com/ambanum/TOSBack-CGUs-bridge,True
@@ -4577,7 +4578,7 @@ https://github.com/medialab/bibliotools3.0,True
 https://github.com/medialab/bothan,True
 https://github.com/medialab/bottom-up-color-space-experiment,True
 https://github.com/medialab/bulgur,True
-https://github.com/medialab/carnet-algopresse,False
+https://github.com/medialab/carnet-algopresse,True
 https://github.com/medialab/carto2016-ecoquartiers,True
 https://github.com/medialab/carto2016-jeuxvideos,True
 https://github.com/medialab/carto2016-mecenat,True
@@ -5366,7 +5367,7 @@ https://github.com/sigrennesmetropole/geor_urbanisme_mapstore,True
 https://github.com/sigrennesmetropole/geoserver_sld,True
 https://github.com/sigrennesmetropole/images,True
 https://github.com/sigrennesmetropole/invest_rennes,True
-https://github.com/sigrennesmetropole/mapstore2-cadastrapp,False
+https://github.com/sigrennesmetropole/mapstore2-cadastrapp,True
 https://github.com/sigrennesmetropole/mviewer,True
 https://github.com/sigrennesmetropole/mviewerstudio,True
 https://github.com/sigrennesmetropole/photos_obliques,True
@@ -7122,7 +7123,7 @@ https://gitlab.inria.fr/sibr/projects/fribr_framework,True
 https://gitlab.inria.fr/sibr/projects/glossy-probes/synthetic_ibr,True
 https://gitlab.inria.fr/sibr/projects/inside_out_deep_blending,True
 https://gitlab.inria.fr/sibr/projects/optix,True
-https://gitlab.inria.fr/sibr/projects/outdoor_relighting,False
+https://gitlab.inria.fr/sibr/projects/outdoor_relighting,True
 https://gitlab.inria.fr/sibr/projects/semantic-reflections/segmentation-network,True
 https://gitlab.inria.fr/sibr/projects/semantic-reflections/semantic_reflections,True
 https://gitlab.inria.fr/sibr/projects/simple,True
