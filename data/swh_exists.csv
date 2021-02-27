@@ -1536,7 +1536,7 @@ https://github.com/GIP-RECIA/pac4j,True
 https://github.com/GIP-RECIA/podv2,True
 https://github.com/GIP-RECIA/recia-poc-cloud,True
 https://github.com/GIP-RECIA/recia-uPortal-adds,True
-https://github.com/GIP-RECIA/scalelite_greenlight,False
+https://github.com/GIP-RECIA/scalelite_greenlight,True
 https://github.com/GIP-RECIA/seafile-docker,True
 https://github.com/GIP-RECIA/server_session_manager,True
 https://github.com/GIP-RECIA/sympa-remote,True
@@ -1866,7 +1866,7 @@ https://github.com/InseeFr/Pogues,True
 https://github.com/InseeFr/Pogues-Back-Office,True
 https://github.com/InseeFr/Pogues-Model,True
 https://github.com/InseeFr/Public-Enemy,False
-https://github.com/InseeFr/Public-Enemy-Back-Office,False
+https://github.com/InseeFr/Public-Enemy-Back-Office,True
 https://github.com/InseeFr/Quatro,True
 https://github.com/InseeFr/Queen,True
 https://github.com/InseeFr/Queen-Back-Office,True
@@ -1976,6 +1976,7 @@ https://github.com/Irstea/w3id.org,True
 https://github.com/LAB-MI/LAB-MI.github.io,True
 https://github.com/LAB-MI/api.gouv.fr,True
 https://github.com/LAB-MI/attestation-couvre-feu-covid-19,True
+https://github.com/LAB-MI/attestation-deplacement-derogatoire-covid-19,False
 https://github.com/LAB-MI/attestation-deplacement-derogatoire-q4-2020,True
 https://github.com/LAB-MI/candilib,True
 https://github.com/LAB-MI/candilibV2,True
@@ -3662,7 +3663,7 @@ https://github.com/entrepreneur-interet-general/archypoint,True
 https://github.com/entrepreneur-interet-general/brigade-numerique,True
 https://github.com/entrepreneur-interet-general/bulletins,True
 https://github.com/entrepreneur-interet-general/bulletins-docs,True
-https://github.com/entrepreneur-interet-general/bulloterie,False
+https://github.com/entrepreneur-interet-general/bulloterie,True
 https://github.com/entrepreneur-interet-general/cartav,True
 https://github.com/entrepreneur-interet-general/cheapExp,True
 https://github.com/entrepreneur-interet-general/clj-rgf93-wgs84,True
