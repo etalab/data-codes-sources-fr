@@ -5962,7 +5962,7 @@ https://gitlab.inria.fr/Alpha/alpha-language,True
 https://gitlab.inria.fr/Alpha/alphaz,True
 https://gitlab.inria.fr/CAPES-Math/clef-CAPES,True
 https://gitlab.inria.fr/CAPES-Math/live-build,True
-https://gitlab.inria.fr/CORSE/wasmpoly,False
+https://gitlab.inria.fr/CORSE/wasmpoly,True
 https://gitlab.inria.fr/ClassCode/class_code,True
 https://gitlab.inria.fr/ClassCode/class_code_v2,True
 https://gitlab.inria.fr/ClassCode/classcodeadmin,True
@@ -7360,7 +7360,7 @@ https://gitlab.irstea.fr/support/wiki,True
 https://gitlab.irstea.fr/umr-tetis/aidmoit/collect,True
 https://gitlab.irstea.fr/umr-tetis/aidmoit/datalake-deployment,True
 https://gitlab.irstea.fr/umr-tetis/biotex_python,True
-https://gitlab.irstea.fr/umr-tetis/idg-tetis/formation/publication_automatique_metadonnees/automatisation_publication_metadonnees,False
+https://gitlab.irstea.fr/umr-tetis/idg-tetis/formation/publication_automatique_metadonnees/automatisation_publication_metadonnees,True
 https://gitlab.irstea.fr/umr-tetis/mood/geonetwork-insertion,True
 https://gitlab.irstea.fr/umr-tetis/mood/mood-tetis-tweets-collect,True
 https://gitlab.irstea.fr/vino/Vino,True
@@ -7548,7 +7548,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/perfreporter,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/pz_resif,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/qpidd-k8s,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/resif-madmp,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/resif-robotframework-tests,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/resif-robotframework-tests,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/resif-routing,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/resif-routing-k8s,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/resif_docker,True
@@ -7868,7 +7868,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/synchrone/lutils,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/synchrone/lutin,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/synchrone/mia,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/synchrone/rdbg,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/synchrone/sasa,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/synchrone/sasa,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/synchrone/tools-distrib,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/tempo/StlEval,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/tempo/boolean,False
