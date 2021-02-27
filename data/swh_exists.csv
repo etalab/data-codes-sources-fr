@@ -232,7 +232,7 @@ https://forgemia.inra.fr/gafl/pipelines_snakemake/allmine,True
 https://forgemia.inra.fr/gafl/pipelines_snakemake/ezqtlseq,True
 https://forgemia.inra.fr/gafl/pipelines_snakemake/rnaseq,True
 https://forgemia.inra.fr/gafl/pipelines_snakemake/wgs,True
-https://forgemia.inra.fr/gafl/scripts/genome_feature_distribution,False
+https://forgemia.inra.fr/gafl/scripts/genome_feature_distribution,True
 https://forgemia.inra.fr/gafl/singularity/10Xgenomics,True
 https://forgemia.inra.fr/gafl/singularity/Allmine,True
 https://forgemia.inra.fr/gafl/singularity/BUSCO,True
@@ -479,7 +479,7 @@ https://forgemia.inra.fr/umrf/utopia,True
 https://forgemia.inra.fr/urep/docs/demorpackage,True
 https://forgemia.inra.fr/urep/soere-acbb-pp/documentation,False
 https://forgemia.inra.fr/urep/soere-pp/doc_soere-pp,False
-https://forgemia.inra.fr/urep/soere-pp/meteosolApp,False
+https://forgemia.inra.fr/urep/soere-pp/meteosolApp,True
 https://forgemia.inra.fr/urgi-is/data-discovery,True
 https://forgemia.inra.fr/urgi-is/docker-rare,True
 https://forgemia.inra.fr/urgi-is/faidare,True
@@ -2456,7 +2456,7 @@ https://github.com/SocialGouv/legi-detect,True
 https://github.com/SocialGouv/legi-postgres,True
 https://github.com/SocialGouv/legixplore,True
 https://github.com/SocialGouv/letor-scores,True
-https://github.com/SocialGouv/lighthouse-dashboard,False
+https://github.com/SocialGouv/lighthouse-dashboard,True
 https://github.com/SocialGouv/linters,True
 https://github.com/SocialGouv/maintenance,True
 https://github.com/SocialGouv/mano,True
@@ -4176,7 +4176,7 @@ https://github.com/ezpaarse-project/ezpaarse-web-home,True
 https://github.com/ezpaarse-project/getting-started-with-ezvis,True
 https://github.com/ezpaarse-project/ip-range-generator,True
 https://github.com/ezpaarse-project/irevue-logs-cleaner,True
-https://github.com/ezpaarse-project/node-etatcollhlm,False
+https://github.com/ezpaarse-project/node-etatcollhlm,True
 https://github.com/ezpaarse-project/node-ezmesure,True
 https://github.com/ezpaarse-project/node-ezpaarse,True
 https://github.com/ezpaarse-project/node-ezunpaywall,True
@@ -4525,7 +4525,7 @@ https://github.com/lutece-secteur-public/particip-plugin-participatoryideation,T
 https://github.com/lutece-secteur-public/particip-site-participatorybudget,True
 https://github.com/lutece-secteur-public/urbanisme-plugin-plu,True
 https://github.com/matchID-project/agrippa,True
-https://github.com/matchID-project/api-geo,False
+https://github.com/matchID-project/api-geo,True
 https://github.com/matchID-project/api.gouv.fr,True
 https://github.com/matchID-project/backend,True
 https://github.com/matchID-project/deces-backend,True
@@ -7175,7 +7175,7 @@ https://gitlab.inria.fr/spinfer/spinfer_evaluation,True
 https://gitlab.inria.fr/star-explain/fjs_of_fml,True
 https://gitlab.inria.fr/star-explain/jsexplain,True
 https://gitlab.inria.fr/star-explain/opam-repository,True
-https://gitlab.inria.fr/starpu/locality-aware-scheduling,False
+https://gitlab.inria.fr/starpu/locality-aware-scheduling,True
 https://gitlab.inria.fr/starpu/starpu,True
 https://gitlab.inria.fr/starpu/starpu-debian,True
 https://gitlab.inria.fr/starpu/starpu.gitlabpages.inria.fr,True
