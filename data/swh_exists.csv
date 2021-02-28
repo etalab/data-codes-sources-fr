@@ -367,7 +367,7 @@ https://forgemia.inra.fr/in-sylva-development/in-sylva.infrastructure,False
 https://forgemia.inra.fr/in-sylva-development/in-sylva.portal,False
 https://forgemia.inra.fr/in-sylva-development/in-sylva.search,False
 https://forgemia.inra.fr/in-sylva-development/in-sylva.search.app,False
-https://forgemia.inra.fr/in-sylva-development/in-sylva.source.manager,False
+https://forgemia.inra.fr/in-sylva-development/in-sylva.source.manager,True
 https://forgemia.inra.fr/infosol/SolEil,True
 https://forgemia.inra.fr/infosol/ejp-cookbook,True
 https://forgemia.inra.fr/infosol/rmd_nsa,True
@@ -478,7 +478,7 @@ https://forgemia.inra.fr/umrf/ranomaly,True
 https://forgemia.inra.fr/umrf/utopia,True
 https://forgemia.inra.fr/urep/docs/demorpackage,True
 https://forgemia.inra.fr/urep/soere-acbb-pp/documentation,False
-https://forgemia.inra.fr/urep/soere-pp/doc_soere-pp,False
+https://forgemia.inra.fr/urep/soere-pp/doc_soere-pp,True
 https://forgemia.inra.fr/urep/soere-pp/meteosolApp,True
 https://forgemia.inra.fr/urgi-is/data-discovery,True
 https://forgemia.inra.fr/urgi-is/docker-rare,True
