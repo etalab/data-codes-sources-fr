@@ -2716,7 +2716,7 @@ https://github.com/ambanum/CGUs-snapshots,True
 https://github.com/ambanum/CGUs-stats,True
 https://github.com/ambanum/CGUs-versions,True
 https://github.com/ambanum/DormantTwitterAccountsDetector,True
-https://github.com/ambanum/OpenTermsArchive,False
+https://github.com/ambanum/OpenTermsArchive,True
 https://github.com/ambanum/OpenTermsArchive-api,True
 https://github.com/ambanum/OpenTermsArchive-snapshots,True
 https://github.com/ambanum/OpenTermsArchive-snapshots-tosback,True
@@ -3021,6 +3021,7 @@ https://github.com/betagouv/macantine,True
 https://github.com/betagouv/mas,True
 https://github.com/betagouv/matomo,True
 https://github.com/betagouv/matomo-beta,True
+https://github.com/betagouv/matomo-scalingo-deploy,False
 https://github.com/betagouv/mdph,True
 https://github.com/betagouv/mdph-evaluation,True
 https://github.com/betagouv/mdph-geva-etl,True
@@ -4069,7 +4070,7 @@ https://github.com/etalab/pseudononymizer,True
 https://github.com/etalab/q2a-theme-etalab,True
 https://github.com/etalab/quartiers-prioritaires,True
 https://github.com/etalab/radar-tech,True
-https://github.com/etalab/radar-tech-backend,False
+https://github.com/etalab/radar-tech-backend,True
 https://github.com/etalab/radar-tech-form,True
 https://github.com/etalab/recherche.etalab.studio,True
 https://github.com/etalab/recommendations-edito,True
@@ -7865,7 +7866,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/ust4hpc/talk,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/Members,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/bip/IFinder,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/bip/TASTE2BIP,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/bip/artifacts/drbip-feb2020,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/bip/artifacts/drbip-feb2020,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/bip/compiler,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/bip/sbip2,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/if/if-toolset,True
@@ -7887,7 +7888,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/tempo/multidimensional_sear
 https://gricad-gitlab.univ-grenoble-alpes.fr/vote22/simulation,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/vqgroup/KaZoSCa-stack,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/vqgroup/docker-spy,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/vqgroup/flow-matrix,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/vqgroup/flow-matrix,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/vqgroup/kameleon-salt-receipe,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/vqgroup/mcc,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/vqgroup/telegraf-nftables,True
