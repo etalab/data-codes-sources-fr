@@ -480,6 +480,7 @@ https://forgemia.inra.fr/urep/docs/demorpackage,True
 https://forgemia.inra.fr/urep/soere-acbb-pp/documentation,False
 https://forgemia.inra.fr/urep/soere-pp/doc_soere-pp,True
 https://forgemia.inra.fr/urep/soere-pp/meteosolApp,True
+https://forgemia.inra.fr/urep/soere-pp/meteosolToolbox,False
 https://forgemia.inra.fr/urgi-is/data-discovery,True
 https://forgemia.inra.fr/urgi-is/docker-rare,True
 https://forgemia.inra.fr/urgi-is/faidare,True
@@ -1290,7 +1291,7 @@ https://github.com/Deducteam/dkpsuler,True
 https://github.com/Deducteam/ekstrakto,True
 https://github.com/Deducteam/isabelle_dedukti,True
 https://github.com/Deducteam/lambdapi,True
-https://github.com/Deducteam/nubo,False
+https://github.com/Deducteam/nubo,True
 https://github.com/Deducteam/personoj,True
 https://github.com/Deducteam/pvs-with-proofs,True
 https://github.com/Deducteam/resystance,True
@@ -2473,6 +2474,7 @@ https://github.com/SocialGouv/monsuivipsy,True
 https://github.com/SocialGouv/monsuivipsy-landing,False
 https://github.com/SocialGouv/monsuivipsy-site,True
 https://github.com/SocialGouv/next-routes,True
+https://github.com/SocialGouv/nuclei-dashboard,False
 https://github.com/SocialGouv/onvs,True
 https://github.com/SocialGouv/ozensemble,True
 https://github.com/SocialGouv/ozensemble-site,True
@@ -2731,6 +2733,7 @@ https://github.com/ambanum/disencyclopedia,True
 https://github.com/ambanum/disinfo.quaidorsay.fr,True
 https://github.com/ambanum/disinfo.quaidorsay.fr-ops,True
 https://github.com/ambanum/disinformation-chatbots,True
+https://github.com/ambanum/information-manipulation-analyzer,False
 https://github.com/ambanum/just-the-docs,True
 https://github.com/ambanum/media-scale,True
 https://github.com/ambanum/node-botometer,True
@@ -6734,7 +6737,7 @@ https://gitlab.inria.fr/grid5000/kwollect,True
 https://gitlab.inria.fr/grid5000/kwollect-dashboard,True
 https://gitlab.inria.fr/grid5000/megaraid_sas,True
 https://gitlab.inria.fr/grid5000/metrology-api,True
-https://gitlab.inria.fr/grid5000/notebook-tutorial,False
+https://gitlab.inria.fr/grid5000/notebook-tutorial,True
 https://gitlab.inria.fr/grid5000/omegawatt,True
 https://gitlab.inria.fr/grid5000/python-grid5000,True
 https://gitlab.inria.fr/grid5000/reference-repository,True
@@ -6744,6 +6747,7 @@ https://gitlab.inria.fr/gt-lgbti/prenom-usage,True
 https://gitlab.inria.fr/gt-sw-citation/artifact-archival-swh,True
 https://gitlab.inria.fr/gt-sw-citation/bibtex-sw-entry,True
 https://gitlab.inria.fr/gtpi/inria_skin,True
+https://gitlab.inria.fr/guix-hpc/cuirass-configuration,False
 https://gitlab.inria.fr/guix-hpc/function-multi-versioning,True
 https://gitlab.inria.fr/guix-hpc/guix-hpc,True
 https://gitlab.inria.fr/guix-hpc/guix-hpc-non-free,True
