@@ -364,7 +364,7 @@ https://forgemia.inra.fr/hackathon-portail-calcul/hackathon_organisation,True
 https://forgemia.inra.fr/in-sylva-development/in-sylva.gatekeeper,True
 https://forgemia.inra.fr/in-sylva-development/in-sylva.information-system,True
 https://forgemia.inra.fr/in-sylva-development/in-sylva.infrastructure,False
-https://forgemia.inra.fr/in-sylva-development/in-sylva.portal,False
+https://forgemia.inra.fr/in-sylva-development/in-sylva.portal,True
 https://forgemia.inra.fr/in-sylva-development/in-sylva.search,False
 https://forgemia.inra.fr/in-sylva-development/in-sylva.search.app,False
 https://forgemia.inra.fr/in-sylva-development/in-sylva.source.manager,True
@@ -1985,7 +1985,7 @@ https://github.com/LAB-MI/demande-masques-covid-19,True
 https://github.com/LAB-MI/deplacement-codiv-19,False
 https://github.com/LAB-MI/deplacement-covid-19,True
 https://github.com/LAB-MI/remise-masques-covid-19,True
-https://github.com/LETG/coastlinetracking,False
+https://github.com/LETG/coastlinetracking,True
 https://github.com/LETG/csw-harvester,True
 https://github.com/LETG/geoauth,True
 https://github.com/LETG/geocms,True
@@ -4066,6 +4066,7 @@ https://github.com/etalab/pseudononymizer,True
 https://github.com/etalab/q2a-theme-etalab,True
 https://github.com/etalab/quartiers-prioritaires,True
 https://github.com/etalab/radar-tech,True
+https://github.com/etalab/radar-tech-backend,False
 https://github.com/etalab/radar-tech-form,True
 https://github.com/etalab/recherche.etalab.studio,True
 https://github.com/etalab/recommendations-edito,True
@@ -5374,6 +5375,7 @@ https://github.com/sigrennesmetropole/mviewerstudio,True
 https://github.com/sigrennesmetropole/photos_obliques,True
 https://github.com/sigrennesmetropole/qgis-3liz-tools,True
 https://github.com/sigrennesmetropole/rmtr,True
+https://github.com/sigrennesmetropole/rudi_anonymization,False
 https://github.com/sigrennesmetropole/rudi_documentation,True
 https://github.com/sigrennesmetropole/rudi_portal,True
 https://github.com/sigrennesmetropole/rudi_producer_node,True
@@ -5775,6 +5777,7 @@ https://gitlab.com/fabnum-minarm/igloo/terraform/modules/timescaledb,True
 https://gitlab.com/fabnum-minarm/igloo/terraform/projects/_template,True
 https://gitlab.com/fabnum-minarm/igloo/terraform/projects/alpps,True
 https://gitlab.com/fabnum-minarm/igloo/terraform/projects/anais,True
+https://gitlab.com/fabnum-minarm/igloo/terraform/projects/sepia,False
 https://gitlab.com/fabnum-minarm/metiis/backend,True
 https://gitlab.com/fabnum-minarm/metiis/frontend,True
 https://gitlab.com/fabnum-minarm/stargate/backend,True
@@ -6753,6 +6756,8 @@ https://gitlab.inria.fr/hiepacs/rotor,True
 https://gitlab.inria.fr/hpc_io/iofwd_perf_impact,True
 https://gitlab.inria.fr/hpc_io/summario,True
 https://gitlab.inria.fr/hsplit/hsplit,True
+https://gitlab.inria.fr/hussein/gnn_pathplanning,False
+https://gitlab.inria.fr/hussein/multiagent_gnn_policies,False
 https://gitlab.inria.fr/hwloc/xmls,True
 https://gitlab.inria.fr/i3inria/raspi-k8s,True
 https://gitlab.inria.fr/iccv_2019/pyvideoresearch_gunnar,True
@@ -7522,6 +7527,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/DC/si-osug,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/JMMC/jmmc-bibdb-kubernetes,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/JMMC/jmmc-brainswarming,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/JMMC/jmmc-ees17-school-tutorials,True
+https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/JMMC/jmmc-exist-kubernetes,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/JMMC/jmmc-jmdcui-docker,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/JMMC/jmmc-jmdcui-kubernetes,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/JMMC/jmmc-obsportal,True
