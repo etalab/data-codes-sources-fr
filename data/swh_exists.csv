@@ -810,6 +810,7 @@ https://github.com/1024pix/pix-graviteeio,True
 https://github.com/1024pix/pix-help-center-theme,True
 https://github.com/1024pix/pix-lifestyle,True
 https://github.com/1024pix/pix-maintenance,True
+https://github.com/1024pix/pix-proxy-bucket-ovh,False
 https://github.com/1024pix/pix-review-router,True
 https://github.com/1024pix/pix-saml-idp,True
 https://github.com/1024pix/pix-site,True
@@ -1466,7 +1467,7 @@ https://github.com/GIP-RECIA/ESCOSynchroGRR,True
 https://github.com/GIP-RECIA/ESCOSynchroMoodle,True
 https://github.com/GIP-RECIA/GRR-MuE,True
 https://github.com/GIP-RECIA/JasigWidgetPortlets,True
-https://github.com/GIP-RECIA/Markdown_Server_Documentation_Generator,False
+https://github.com/GIP-RECIA/Markdown_Server_Documentation_Generator,True
 https://github.com/GIP-RECIA/MediaCentre,True
 https://github.com/GIP-RECIA/MediaCentre-WS,True
 https://github.com/GIP-RECIA/Notification-POC,True
@@ -6351,7 +6352,7 @@ https://gitlab.inria.fr/citi-lab/sytare-public,True
 https://gitlab.inria.fr/cmh/cmh,True
 https://gitlab.inria.fr/cobcom/cimem/bayesnet,True
 https://gitlab.inria.fr/cobcom/cimem/cimem,False
-https://gitlab.inria.fr/cobcom/cimem/recur,False
+https://gitlab.inria.fr/cobcom/cimem/recur,True
 https://gitlab.inria.fr/cobcom/talon,True
 https://gitlab.inria.fr/coccinelle/coccinelle,True
 https://gitlab.inria.fr/coccinelle/reference_scores,True
@@ -7521,6 +7522,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/Drakkar-LIG/WalT,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Drakkar-LIG/WiSHFUL,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Drakkar-LIG/WiSHFUL-LoRa-connector,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Drakkar-LIG/ipmt,True
+https://gricad-gitlab.univ-grenoble-alpes.fr/Geodynamo/Singe,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/Geodynamo/pygeodyn,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Geodynamo/pygeodyn_data,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Geodynamo/webgeodyn,True
