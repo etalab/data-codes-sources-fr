@@ -147,6 +147,7 @@ https://forge.univ-lyon1.fr/groupe-projet-lifap4/projet-lifap4,True
 https://forge.univ-lyon1.fr/iut-lyon-s3-php/ansible,True
 https://forge.univ-lyon1.fr/knowdyn-ens/knowdyn-contenus-2020,True
 https://forge.univ-lyon1.fr/les-cracks/chaisse-lifap4,False
+https://forge.univ-lyon1.fr/les-cracks/pacman-royale,False
 https://forge.univ-lyon1.fr/lifap6/ccompil,True
 https://forge.univ-lyon1.fr/lifap6/magic-maze-etu,True
 https://forge.univ-lyon1.fr/lifap6/roborally-etu,True
@@ -477,6 +478,7 @@ https://forgemia.inra.fr/umrf/dairydb,True
 https://forgemia.inra.fr/umrf/exploremetabar,True
 https://forgemia.inra.fr/umrf/ranomaly,True
 https://forgemia.inra.fr/umrf/utopia,True
+https://forgemia.inra.fr/urep/docs/bonpland,False
 https://forgemia.inra.fr/urep/docs/demorpackage,True
 https://forgemia.inra.fr/urep/soere-acbb-pp/documentation,False
 https://forgemia.inra.fr/urep/soere-pp/doc_soere-pp,True
@@ -2477,6 +2479,7 @@ https://github.com/SocialGouv/monsuivipsy-site,True
 https://github.com/SocialGouv/next-routes,True
 https://github.com/SocialGouv/nuclei-dashboard,False
 https://github.com/SocialGouv/onvs,True
+https://github.com/SocialGouv/owasp-dashboard,False
 https://github.com/SocialGouv/ozensemble,True
 https://github.com/SocialGouv/ozensemble-site,True
 https://github.com/SocialGouv/pep,True
@@ -3022,7 +3025,7 @@ https://github.com/betagouv/macantine,True
 https://github.com/betagouv/mas,True
 https://github.com/betagouv/matomo,True
 https://github.com/betagouv/matomo-beta,True
-https://github.com/betagouv/matomo-scalingo-deploy,False
+https://github.com/betagouv/matomo-scalingo-deploy,True
 https://github.com/betagouv/mdph,True
 https://github.com/betagouv/mdph-evaluation,True
 https://github.com/betagouv/mdph-geva-etl,True
@@ -5782,7 +5785,7 @@ https://gitlab.com/fabnum-minarm/igloo/terraform/modules/timescaledb,True
 https://gitlab.com/fabnum-minarm/igloo/terraform/projects/_template,True
 https://gitlab.com/fabnum-minarm/igloo/terraform/projects/alpps,True
 https://gitlab.com/fabnum-minarm/igloo/terraform/projects/anais,True
-https://gitlab.com/fabnum-minarm/igloo/terraform/projects/sepia,False
+https://gitlab.com/fabnum-minarm/igloo/terraform/projects/sepia,True
 https://gitlab.com/fabnum-minarm/metiis/backend,True
 https://gitlab.com/fabnum-minarm/metiis/frontend,True
 https://gitlab.com/fabnum-minarm/stargate/backend,True
@@ -7533,7 +7536,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/DC/si-osug,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/JMMC/jmmc-bibdb-kubernetes,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/JMMC/jmmc-brainswarming,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/JMMC/jmmc-ees17-school-tutorials,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/JMMC/jmmc-exist-kubernetes,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/JMMC/jmmc-exist-kubernetes,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/JMMC/jmmc-jmdcui-docker,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/JMMC/jmmc-jmdcui-kubernetes,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/JMMC/jmmc-obsportal,True
@@ -7656,7 +7659,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/09/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/10/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/11/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/12/docs,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/12/src,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/12/src,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/13/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/13/polytech-helper-service,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/14/docs,True
