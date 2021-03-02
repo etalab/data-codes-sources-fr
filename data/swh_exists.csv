@@ -1981,7 +1981,7 @@ https://github.com/Irstea/w3id.org,True
 https://github.com/LAB-MI/LAB-MI.github.io,True
 https://github.com/LAB-MI/api.gouv.fr,True
 https://github.com/LAB-MI/attestation-couvre-feu-covid-19,True
-https://github.com/LAB-MI/attestation-deplacement-derogatoire-covid-19,False
+https://github.com/LAB-MI/attestation-deplacement-derogatoire-covid-19,True
 https://github.com/LAB-MI/attestation-deplacement-derogatoire-q4-2020,True
 https://github.com/LAB-MI/candilib,True
 https://github.com/LAB-MI/candilibV2,True
@@ -6351,7 +6351,7 @@ https://gitlab.inria.fr/citi-lab/sytare,True
 https://gitlab.inria.fr/citi-lab/sytare-public,True
 https://gitlab.inria.fr/cmh/cmh,True
 https://gitlab.inria.fr/cobcom/cimem/bayesnet,True
-https://gitlab.inria.fr/cobcom/cimem/cimem,False
+https://gitlab.inria.fr/cobcom/cimem/cimem,True
 https://gitlab.inria.fr/cobcom/cimem/recur,True
 https://gitlab.inria.fr/cobcom/talon,True
 https://gitlab.inria.fr/coccinelle/coccinelle,True
