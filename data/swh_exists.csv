@@ -147,7 +147,7 @@ https://forge.univ-lyon1.fr/groupe-projet-lifap4/projet-lifap4,True
 https://forge.univ-lyon1.fr/iut-lyon-s3-php/ansible,True
 https://forge.univ-lyon1.fr/knowdyn-ens/knowdyn-contenus-2020,True
 https://forge.univ-lyon1.fr/les-cracks/chaisse-lifap4,False
-https://forge.univ-lyon1.fr/les-cracks/pacman-royale,False
+https://forge.univ-lyon1.fr/les-cracks/pacman-royale,True
 https://forge.univ-lyon1.fr/lifap6/ccompil,True
 https://forge.univ-lyon1.fr/lifap6/magic-maze-etu,True
 https://forge.univ-lyon1.fr/lifap6/roborally-etu,True
@@ -873,6 +873,7 @@ https://github.com/ANSSI-FR/FreeSpec,True
 https://github.com/ANSSI-FR/MLA,True
 https://github.com/ANSSI-FR/ORADAD,True
 https://github.com/ANSSI-FR/OVALI,True
+https://github.com/ANSSI-FR/Open-ISO7816-Stack,False
 https://github.com/ANSSI-FR/ProTIP,True
 https://github.com/ANSSI-FR/SecAESSTM32,True
 https://github.com/ANSSI-FR/SecuML,True
@@ -885,6 +886,7 @@ https://github.com/ANSSI-FR/bmc-tools,True
 https://github.com/ANSSI-FR/bootcode_parser,True
 https://github.com/ANSSI-FR/caml-crush,True
 https://github.com/ANSSI-FR/caradoc,True
+https://github.com/ANSSI-FR/cardstalker,False
 https://github.com/ANSSI-FR/chipsec-check,True
 https://github.com/ANSSI-FR/concerto,True
 https://github.com/ANSSI-FR/coq-MiniHTTPServer,True
@@ -7668,6 +7670,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/13/polytech-hel
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/14/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/14/rust-parallel,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/15/docs,True
+https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/15/retrocomputing,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/16/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/17/code,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/17/docs,True
