@@ -478,7 +478,7 @@ https://forgemia.inra.fr/umrf/dairydb,True
 https://forgemia.inra.fr/umrf/exploremetabar,True
 https://forgemia.inra.fr/umrf/ranomaly,True
 https://forgemia.inra.fr/umrf/utopia,True
-https://forgemia.inra.fr/urep/docs/bonpland,False
+https://forgemia.inra.fr/urep/docs/bonpland,True
 https://forgemia.inra.fr/urep/docs/demorpackage,True
 https://forgemia.inra.fr/urep/soere-acbb-pp/documentation,False
 https://forgemia.inra.fr/urep/soere-pp/doc_soere-pp,True
@@ -810,7 +810,7 @@ https://github.com/1024pix/pix-graviteeio,True
 https://github.com/1024pix/pix-help-center-theme,True
 https://github.com/1024pix/pix-lifestyle,True
 https://github.com/1024pix/pix-maintenance,True
-https://github.com/1024pix/pix-proxy-bucket-ovh,False
+https://github.com/1024pix/pix-proxy-bucket-ovh,True
 https://github.com/1024pix/pix-review-router,True
 https://github.com/1024pix/pix-saml-idp,True
 https://github.com/1024pix/pix-site,True
@@ -5469,7 +5469,7 @@ https://github.com/sympa-community/sympa-service-rest,True
 https://github.com/sympa-community/sympa-spec-openapi,True
 https://github.com/sympa-community/sympa-vue,True
 https://github.com/unistra/aboutIFrame-portlet,True
-https://github.com/unistra/ansible-collection-glpi,False
+https://github.com/unistra/ansible-collection-glpi,True
 https://github.com/unistra/ansible-inventory-glpi,True
 https://github.com/unistra/ansible-modules-opennebula,True
 https://github.com/unistra/aria,True
@@ -7525,7 +7525,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/Drakkar-LIG/WalT,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Drakkar-LIG/WiSHFUL,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Drakkar-LIG/WiSHFUL-LoRa-connector,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Drakkar-LIG/ipmt,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/Geodynamo/Singe,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/Geodynamo/Singe,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Geodynamo/pygeodyn,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Geodynamo/pygeodyn_data,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Geodynamo/webgeodyn,True
@@ -7894,7 +7894,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/synchrone/rdbg,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/synchrone/sasa,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/synchrone/tools-distrib,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/tempo/StlEval,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/tempo/boolean,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/tempo/boolean,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/tempo/multidimensional_search,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/vote22/simulation,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/vqgroup/KaZoSCa-stack,True
