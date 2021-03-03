@@ -5997,6 +5997,7 @@ https://gitlab.inria.fr/Damaris/Simulations/croco,True
 https://gitlab.inria.fr/Damaris/Simulations/noise,True
 https://gitlab.inria.fr/Damaris/damaris,True
 https://gitlab.inria.fr/GATB/simka,True
+https://gitlab.inria.fr/GUDHI/coxeter_for_ouragan,False
 https://gitlab.inria.fr/GUDHI/data,True
 https://gitlab.inria.fr/GUDHI/gudhi-docker,True
 https://gitlab.inria.fr/GUDHI/test_docker_debug,True
@@ -6767,7 +6768,7 @@ https://gitlab.inria.fr/hpc_io/iofwd_perf_impact,True
 https://gitlab.inria.fr/hpc_io/summario,True
 https://gitlab.inria.fr/hsplit/hsplit,True
 https://gitlab.inria.fr/hussein/gnn_pathplanning,False
-https://gitlab.inria.fr/hussein/multiagent_gnn_policies,False
+https://gitlab.inria.fr/hussein/multiagent_gnn_policies,True
 https://gitlab.inria.fr/hwloc/xmls,True
 https://gitlab.inria.fr/i3inria/raspi-k8s,True
 https://gitlab.inria.fr/iccv_2019/pyvideoresearch_gunnar,True
