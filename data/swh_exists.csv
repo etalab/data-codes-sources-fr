@@ -2603,6 +2603,7 @@ https://github.com/StartupsPoleEmploi/avril-shared,True
 https://github.com/StartupsPoleEmploi/baggy,True
 https://github.com/StartupsPoleEmploi/clara,True
 https://github.com/StartupsPoleEmploi/elk-cluster,True
+https://github.com/StartupsPoleEmploi/estime-backend,False
 https://github.com/StartupsPoleEmploi/estime-frontend,False
 https://github.com/StartupsPoleEmploi/geomancie,True
 https://github.com/StartupsPoleEmploi/gerboise,True
@@ -2613,6 +2614,7 @@ https://github.com/StartupsPoleEmploi/labonneboite,True
 https://github.com/StartupsPoleEmploi/labonneformation,True
 https://github.com/StartupsPoleEmploi/memo,True
 https://github.com/StartupsPoleEmploi/mjl-avril,True
+https://github.com/StartupsPoleEmploi/openfisca-france,False
 https://github.com/StartupsPoleEmploi/perspectives,True
 https://github.com/StartupsPoleEmploi/profil-avril,True
 https://github.com/StartupsPoleEmploi/qpvzrr,True
@@ -7110,6 +7112,7 @@ https://gitlab.inria.fr/sed-bso/heat,True
 https://gitlab.inria.fr/sed-bso/mdb-javascript,True
 https://gitlab.inria.fr/sed-bso/sonarqube,True
 https://gitlab.inria.fr/sed-lille/game-of-codes-utils,True
+https://gitlab.inria.fr/sed-paris/ai-community,False
 https://gitlab.inria.fr/sed-paris/c-project-template,True
 https://gitlab.inria.fr/sed-paris/codingdojo,True
 https://gitlab.inria.fr/sed-paris/developer-meetups,True
