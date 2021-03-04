@@ -226,6 +226,7 @@ https://forgemia.inra.fr/couplimspec/hyiam,True
 https://forgemia.inra.fr/enseignement-mistea/reports-with-markdown,True
 https://forgemia.inra.fr/epgv/nlgenomesweeper,True
 https://forgemia.inra.fr/eq-record/record-team,True
+https://forgemia.inra.fr/exploratory-penalized-regression/paper-script-and-data,False
 https://forgemia.inra.fr/fact/fact,True
 https://forgemia.inra.fr/fact/pfptools,True
 https://forgemia.inra.fr/formation/formation-python-inrae,True
@@ -2760,6 +2761,7 @@ https://github.com/ambanum/political-ads-crowdsourcing-server,True
 https://github.com/ambanum/political-ads-legality,True
 https://github.com/ambanum/political-ads-legality-server,True
 https://github.com/ambanum/political-ads-scraper,True
+https://github.com/ambanum/prettier-config,False
 https://github.com/ambanum/server-config,True
 https://github.com/assurance-maladie-digital/XF-Material-Library,True
 https://github.com/assurance-maladie-digital/api-droits-fs-doc,True
@@ -3766,11 +3768,16 @@ https://github.com/eole/opnsense-changelog,False
 https://github.com/eole/opnsense-core,False
 https://github.com/eole/opnsense-dhcp6c,False
 https://github.com/eole/opnsense-docs,False
+https://github.com/eole/opnsense-installer,False
+https://github.com/eole/opnsense-jquery-bootgrid,False
 https://github.com/eole/opnsense-lang,False
+https://github.com/eole/opnsense-pam_opnsense,False
 https://github.com/eole/opnsense-plugins,False
 https://github.com/eole/opnsense-ports,False
+https://github.com/eole/opnsense-rules,False
 https://github.com/eole/opnsense-src,False
 https://github.com/eole/opnsense-tools,False
+https://github.com/eole/opnsense-update-tools,False
 https://github.com/eole/pam-mount-formula,True
 https://github.com/eole/pam_opnsense,False
 https://github.com/eole/ports,True
@@ -6407,6 +6414,8 @@ https://gitlab.inria.fr/comprise/deliverables/deliverable-d3.4,True
 https://gitlab.inria.fr/comprise/deliverables/deliverable-d33,True
 https://gitlab.inria.fr/comprise/deliverables/deliverable_d21,True
 https://gitlab.inria.fr/comprise/deliverables/deliverable_d22,True
+https://gitlab.inria.fr/comprise/deliverables/deliverable_d23,False
+https://gitlab.inria.fr/comprise/deliverables/deliverable_d31,False
 https://gitlab.inria.fr/comprise/deliverables/deliverable_d32,True
 https://gitlab.inria.fr/comprise/sidp,True
 https://gitlab.inria.fr/comprise/speech-to-text-weakly-supervised-learning,True
@@ -6930,6 +6939,7 @@ https://gitlab.inria.fr/mgkit/ofrlex-metamof-new,True
 https://gitlab.inria.fr/mgkit/sxpipe,True
 https://gitlab.inria.fr/mgkit/syntax_hightlighting_smg,True
 https://gitlab.inria.fr/miet/miet,True
+https://gitlab.inria.fr/miet/mrshow,False
 https://gitlab.inria.fr/mimoza/mimoza,True
 https://gitlab.inria.fr/misscausal/combine-rct-rwd-review,True
 https://gitlab.inria.fr/misscausal/misscausal.gitlab.io,True
