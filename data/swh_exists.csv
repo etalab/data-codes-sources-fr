@@ -1045,6 +1045,7 @@ https://github.com/CEA-LIST/CinguParam,True
 https://github.com/CEA-LIST/Cingulata,True
 https://github.com/CEA-LIST/DAHLIA-BodyIndex,True
 https://github.com/CEA-LIST/N2D2,True
+https://github.com/CEA-LIST/adv-reid,False
 https://github.com/CEA-LIST/sgntx,True
 https://github.com/CEA-Leti/wsnet,True
 https://github.com/CEREMA/com.cerema.infocentre_old,True
@@ -2515,6 +2516,7 @@ https://github.com/SocialGouv/support,True
 https://github.com/SocialGouv/template.data.gouv.fr.react,True
 https://github.com/SocialGouv/test-renovate,True
 https://github.com/SocialGouv/test-renovate-cdtn,True
+https://github.com/SocialGouv/thirdparties-dashboard,False
 https://github.com/SocialGouv/tocbot,True
 https://github.com/SocialGouv/tools,True
 https://github.com/SocialGouv/tps,True
@@ -2763,7 +2765,7 @@ https://github.com/ambanum/political-ads-crowdsourcing-server,True
 https://github.com/ambanum/political-ads-legality,True
 https://github.com/ambanum/political-ads-legality-server,True
 https://github.com/ambanum/political-ads-scraper,True
-https://github.com/ambanum/prettier-config,False
+https://github.com/ambanum/prettier-config,True
 https://github.com/ambanum/server-config,True
 https://github.com/assurance-maladie-digital/XF-Material-Library,True
 https://github.com/assurance-maladie-digital/api-droits-fs-doc,True
@@ -3778,7 +3780,7 @@ https://github.com/eole/opnsense-plugins,False
 https://github.com/eole/opnsense-ports,False
 https://github.com/eole/opnsense-rules,False
 https://github.com/eole/opnsense-src,False
-https://github.com/eole/opnsense-tools,False
+https://github.com/eole/opnsense-tools,True
 https://github.com/eole/opnsense-update-tools,False
 https://github.com/eole/pam-mount-formula,True
 https://github.com/eole/pam_opnsense,False
@@ -6028,7 +6030,7 @@ https://gitlab.inria.fr/Damaris/Simulations/croco,True
 https://gitlab.inria.fr/Damaris/Simulations/noise,True
 https://gitlab.inria.fr/Damaris/damaris,True
 https://gitlab.inria.fr/GATB/simka,True
-https://gitlab.inria.fr/GUDHI/coxeter_for_ouragan,False
+https://gitlab.inria.fr/GUDHI/coxeter_for_ouragan,True
 https://gitlab.inria.fr/GUDHI/data,True
 https://gitlab.inria.fr/GUDHI/gudhi-docker,True
 https://gitlab.inria.fr/GUDHI/test_docker_debug,True
