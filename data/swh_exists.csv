@@ -759,6 +759,7 @@ https://git.unistra.fr/tsp-ics/yaspanalyzers,True
 https://git.unistra.fr/uhuit/pgmaggpl,True
 https://git.unistra.fr/uquatre/mips-invader,True
 https://git.unistra.fr/usept/sexy-polyedra-baby,True
+https://git.unistra.fr/visu2/tp1_visu2_modules,False
 https://git.unistra.fr/visual-immeuble-2020/t432_liy20-t3-g,True
 https://git.unistra.fr/voc20-t3-c/t3_acheo,True
 https://git.unistra.fr/vue-unistra/unistra-formbuilder,True
@@ -1140,7 +1141,7 @@ https://github.com/CatalaLang/catala-website,True
 https://github.com/Cour-de-cassation/label,True
 https://github.com/Cour-de-cassation/moteurNER,True
 https://github.com/Cour-de-cassation/openjustice-sder,True
-https://github.com/Cour-de-cassation/openjustice-specs,False
+https://github.com/Cour-de-cassation/openjustice-specs,True
 https://github.com/Cour-de-cassation/sder,True
 https://github.com/Cour-des-comptes/open-anafi-backend,True
 https://github.com/Cour-des-comptes/open-anafi-frontend,True
@@ -3866,6 +3867,7 @@ https://github.com/etalab-ia/data_science_template,True
 https://github.com/etalab-ia/demo-piaf,True
 https://github.com/etalab-ia/florian_opendatascience,True
 https://github.com/etalab-ia/knowledge-base,True
+https://github.com/etalab-ia/open_ML,False
 https://github.com/etalab-ia/opendatascience,True
 https://github.com/etalab-ia/piaf-code,True
 https://github.com/etalab-ia/piaf_agent,True
@@ -4226,6 +4228,7 @@ https://github.com/ezpaarse-project/node-ezunpaywall,True
 https://github.com/ezpaarse-project/readmetrics,True
 https://github.com/ezpaarse-project/readmetrics-scripts,True
 https://github.com/ezpaarse-project/slides,True
+https://github.com/ezpaarse-project/workadventure-inist-map,False
 https://github.com/fabnumdef/GeoGate,True
 https://github.com/fabnumdef/chatbot-back,True
 https://github.com/fabnumdef/chatbot-front,True
