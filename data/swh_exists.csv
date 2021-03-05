@@ -2490,7 +2490,7 @@ https://github.com/SocialGouv/monsuivipsy-site,True
 https://github.com/SocialGouv/next-routes,True
 https://github.com/SocialGouv/nuclei-dashboard,False
 https://github.com/SocialGouv/onvs,True
-https://github.com/SocialGouv/owasp-dashboard,False
+https://github.com/SocialGouv/owasp-dashboard,True
 https://github.com/SocialGouv/ozensemble,True
 https://github.com/SocialGouv/ozensemble-site,True
 https://github.com/SocialGouv/pep,True
@@ -7780,7 +7780,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/formations_R/ced_intror,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/g2elab/blackboxdatalogger,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/gaia/team,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/geopsy/qgpcoretools,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/getalp/amorph,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/getalp/amorph,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/getalp/ariane-lingware,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/getalp/dbnary-dashboard,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/getalp/seq2seqpytorch,True
