@@ -760,6 +760,7 @@ https://git.unistra.fr/uhuit/pgmaggpl,True
 https://git.unistra.fr/uquatre/mips-invader,True
 https://git.unistra.fr/usept/sexy-polyedra-baby,True
 https://git.unistra.fr/visu2/tp1_visu2_modules,False
+https://git.unistra.fr/visu2/tp2_visu2_modules,False
 https://git.unistra.fr/visual-immeuble-2020/t432_liy20-t3-g,True
 https://git.unistra.fr/voc20-t3-c/t3_acheo,True
 https://git.unistra.fr/vue-unistra/unistra-formbuilder,True
@@ -1913,6 +1914,7 @@ https://github.com/InseeFrLab/VTL-Lab-Resources,True
 https://github.com/InseeFrLab/apinsee,True
 https://github.com/InseeFrLab/aws.s3,True
 https://github.com/InseeFrLab/blazingsql,True
+https://github.com/InseeFrLab/btbpy,False
 https://github.com/InseeFrLab/cloud-scripts,True
 https://github.com/InseeFrLab/demo-apps,True
 https://github.com/InseeFrLab/docs.sspcloud.fr,True
@@ -3777,7 +3779,7 @@ https://github.com/eole/opnsense-installer,False
 https://github.com/eole/opnsense-jquery-bootgrid,False
 https://github.com/eole/opnsense-lang,False
 https://github.com/eole/opnsense-pam_opnsense,False
-https://github.com/eole/opnsense-plugins,False
+https://github.com/eole/opnsense-plugins,True
 https://github.com/eole/opnsense-ports,False
 https://github.com/eole/opnsense-rules,False
 https://github.com/eole/opnsense-src,False
@@ -6094,6 +6096,7 @@ https://gitlab.inria.fr/RMOD/Ghost,True
 https://gitlab.inria.fr/RMOD/Welcome,True
 https://gitlab.inria.fr/RMOD/archive,True
 https://gitlab.inria.fr/RMOD/libgit-build,True
+https://gitlab.inria.fr/RMOD/testexecutionanalysis,False
 https://gitlab.inria.fr/STACK-RESEARCH-GROUP/k8s-wan-evaluations,True
 https://gitlab.inria.fr/Seshat/ar_maintenance,True
 https://gitlab.inria.fr/Seshat/cours,True
@@ -7708,7 +7711,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/13/polytech-hel
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/14/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/14/rust-parallel,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/15/docs,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/15/retrocomputing,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/15/retrocomputing,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/16/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/17/code,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/17/docs,True
