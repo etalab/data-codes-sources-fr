@@ -1914,7 +1914,7 @@ https://github.com/InseeFrLab/VTL-Lab-Resources,True
 https://github.com/InseeFrLab/apinsee,True
 https://github.com/InseeFrLab/aws.s3,True
 https://github.com/InseeFrLab/blazingsql,True
-https://github.com/InseeFrLab/btbpy,False
+https://github.com/InseeFrLab/btbpy,True
 https://github.com/InseeFrLab/cloud-scripts,True
 https://github.com/InseeFrLab/demo-apps,True
 https://github.com/InseeFrLab/docs.sspcloud.fr,True
@@ -2488,7 +2488,7 @@ https://github.com/SocialGouv/monsuivipsy,True
 https://github.com/SocialGouv/monsuivipsy-landing,False
 https://github.com/SocialGouv/monsuivipsy-site,True
 https://github.com/SocialGouv/next-routes,True
-https://github.com/SocialGouv/nuclei-dashboard,False
+https://github.com/SocialGouv/nuclei-dashboard,True
 https://github.com/SocialGouv/onvs,True
 https://github.com/SocialGouv/owasp-dashboard,True
 https://github.com/SocialGouv/ozensemble,True
@@ -2519,7 +2519,7 @@ https://github.com/SocialGouv/support,True
 https://github.com/SocialGouv/template.data.gouv.fr.react,True
 https://github.com/SocialGouv/test-renovate,True
 https://github.com/SocialGouv/test-renovate-cdtn,True
-https://github.com/SocialGouv/thirdparties-dashboard,False
+https://github.com/SocialGouv/thirdparties-dashboard,True
 https://github.com/SocialGouv/tocbot,True
 https://github.com/SocialGouv/tools,True
 https://github.com/SocialGouv/tps,True
@@ -2619,7 +2619,7 @@ https://github.com/StartupsPoleEmploi/labonneboite,True
 https://github.com/StartupsPoleEmploi/labonneformation,True
 https://github.com/StartupsPoleEmploi/memo,True
 https://github.com/StartupsPoleEmploi/mjl-avril,True
-https://github.com/StartupsPoleEmploi/openfisca-france,False
+https://github.com/StartupsPoleEmploi/openfisca-france,True
 https://github.com/StartupsPoleEmploi/perspectives,True
 https://github.com/StartupsPoleEmploi/profil-avril,True
 https://github.com/StartupsPoleEmploi/qpvzrr,True
@@ -3774,7 +3774,7 @@ https://github.com/eole/opnsense-bsdinstaller,False
 https://github.com/eole/opnsense-changelog,False
 https://github.com/eole/opnsense-core,False
 https://github.com/eole/opnsense-dhcp6c,False
-https://github.com/eole/opnsense-docs,False
+https://github.com/eole/opnsense-docs,True
 https://github.com/eole/opnsense-installer,False
 https://github.com/eole/opnsense-jquery-bootgrid,False
 https://github.com/eole/opnsense-lang,False
@@ -7120,7 +7120,7 @@ https://gitlab.inria.fr/sed-bso/heat,True
 https://gitlab.inria.fr/sed-bso/mdb-javascript,True
 https://gitlab.inria.fr/sed-bso/sonarqube,True
 https://gitlab.inria.fr/sed-lille/game-of-codes-utils,True
-https://gitlab.inria.fr/sed-paris/ai-community,False
+https://gitlab.inria.fr/sed-paris/ai-community,True
 https://gitlab.inria.fr/sed-paris/c-project-template,True
 https://gitlab.inria.fr/sed-paris/codingdojo,True
 https://gitlab.inria.fr/sed-paris/developer-meetups,True
