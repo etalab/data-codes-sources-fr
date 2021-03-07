@@ -891,7 +891,7 @@ https://github.com/ANSSI-FR/bmc-tools,True
 https://github.com/ANSSI-FR/bootcode_parser,True
 https://github.com/ANSSI-FR/caml-crush,True
 https://github.com/ANSSI-FR/caradoc,True
-https://github.com/ANSSI-FR/cardstalker,False
+https://github.com/ANSSI-FR/cardstalker,True
 https://github.com/ANSSI-FR/chipsec-check,True
 https://github.com/ANSSI-FR/concerto,True
 https://github.com/ANSSI-FR/coq-MiniHTTPServer,True
@@ -1047,7 +1047,7 @@ https://github.com/CEA-LIST/CinguParam,True
 https://github.com/CEA-LIST/Cingulata,True
 https://github.com/CEA-LIST/DAHLIA-BodyIndex,True
 https://github.com/CEA-LIST/N2D2,True
-https://github.com/CEA-LIST/adv-reid,False
+https://github.com/CEA-LIST/adv-reid,True
 https://github.com/CEA-LIST/sgntx,True
 https://github.com/CEA-Leti/wsnet,True
 https://github.com/CEREMA/com.cerema.infocentre_old,True
@@ -2532,7 +2532,7 @@ https://github.com/SocialGouv/tutoriel-gitlab,True
 https://github.com/SocialGouv/ui,False
 https://github.com/SocialGouv/upptime,True
 https://github.com/SocialGouv/veille-git,True
-https://github.com/SocialGouv/webseal,False
+https://github.com/SocialGouv/webseal,True
 https://github.com/SocialGouv/work-in-france,True
 https://github.com/SocialGouv/work-in-france-backoffice,True
 https://github.com/SocialGouv/work-in-france-bo,True
