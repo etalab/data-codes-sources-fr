@@ -814,7 +814,7 @@ https://github.com/1024pix/pix-help-center-theme,True
 https://github.com/1024pix/pix-lifestyle,True
 https://github.com/1024pix/pix-maintenance,True
 https://github.com/1024pix/pix-proxy-bucket-ovh,True
-https://github.com/1024pix/pix-report-csp,False
+https://github.com/1024pix/pix-report-csp,True
 https://github.com/1024pix/pix-review-router,True
 https://github.com/1024pix/pix-saml-idp,True
 https://github.com/1024pix/pix-site,True
@@ -3776,7 +3776,7 @@ https://github.com/eole/opnsense-core,False
 https://github.com/eole/opnsense-dhcp6c,False
 https://github.com/eole/opnsense-docs,True
 https://github.com/eole/opnsense-installer,False
-https://github.com/eole/opnsense-jquery-bootgrid,False
+https://github.com/eole/opnsense-jquery-bootgrid,True
 https://github.com/eole/opnsense-lang,False
 https://github.com/eole/opnsense-pam_opnsense,False
 https://github.com/eole/opnsense-plugins,True
