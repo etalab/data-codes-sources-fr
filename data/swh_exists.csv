@@ -484,7 +484,7 @@ https://forgemia.inra.fr/urep/docs/demorpackage,True
 https://forgemia.inra.fr/urep/soere-acbb-pp/documentation,False
 https://forgemia.inra.fr/urep/soere-pp/doc_soere-pp,True
 https://forgemia.inra.fr/urep/soere-pp/meteosolApp,True
-https://forgemia.inra.fr/urep/soere-pp/meteosolToolbox,False
+https://forgemia.inra.fr/urep/soere-pp/meteosolToolbox,True
 https://forgemia.inra.fr/urgi-is/data-discovery,True
 https://forgemia.inra.fr/urgi-is/docker-rare,True
 https://forgemia.inra.fr/urgi-is/faidare,True
@@ -6096,7 +6096,7 @@ https://gitlab.inria.fr/RMOD/Ghost,True
 https://gitlab.inria.fr/RMOD/Welcome,True
 https://gitlab.inria.fr/RMOD/archive,True
 https://gitlab.inria.fr/RMOD/libgit-build,True
-https://gitlab.inria.fr/RMOD/testexecutionanalysis,False
+https://gitlab.inria.fr/RMOD/testexecutionanalysis,True
 https://gitlab.inria.fr/STACK-RESEARCH-GROUP/k8s-wan-evaluations,True
 https://gitlab.inria.fr/Seshat/ar_maintenance,True
 https://gitlab.inria.fr/Seshat/cours,True
@@ -6424,7 +6424,7 @@ https://gitlab.inria.fr/comprise/deliverables/deliverable-d3.4,True
 https://gitlab.inria.fr/comprise/deliverables/deliverable-d33,True
 https://gitlab.inria.fr/comprise/deliverables/deliverable_d21,True
 https://gitlab.inria.fr/comprise/deliverables/deliverable_d22,True
-https://gitlab.inria.fr/comprise/deliverables/deliverable_d23,False
+https://gitlab.inria.fr/comprise/deliverables/deliverable_d23,True
 https://gitlab.inria.fr/comprise/deliverables/deliverable_d31,True
 https://gitlab.inria.fr/comprise/deliverables/deliverable_d32,True
 https://gitlab.inria.fr/comprise/sidp,True
@@ -6808,7 +6808,7 @@ https://gitlab.inria.fr/hiepacs/rotor,True
 https://gitlab.inria.fr/hpc_io/iofwd_perf_impact,True
 https://gitlab.inria.fr/hpc_io/summario,True
 https://gitlab.inria.fr/hsplit/hsplit,True
-https://gitlab.inria.fr/hussein/gnn_pathplanning,False
+https://gitlab.inria.fr/hussein/gnn_pathplanning,True
 https://gitlab.inria.fr/hussein/multiagent_gnn_policies,True
 https://gitlab.inria.fr/hwloc/xmls,True
 https://gitlab.inria.fr/i3inria/raspi-k8s,True
