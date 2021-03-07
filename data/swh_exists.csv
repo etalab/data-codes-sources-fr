@@ -368,7 +368,7 @@ https://forgemia.inra.fr/in-sylva-development/in-sylva.gatekeeper,True
 https://forgemia.inra.fr/in-sylva-development/in-sylva.information-system,True
 https://forgemia.inra.fr/in-sylva-development/in-sylva.infrastructure,False
 https://forgemia.inra.fr/in-sylva-development/in-sylva.portal,True
-https://forgemia.inra.fr/in-sylva-development/in-sylva.search,False
+https://forgemia.inra.fr/in-sylva-development/in-sylva.search,True
 https://forgemia.inra.fr/in-sylva-development/in-sylva.search.app,True
 https://forgemia.inra.fr/in-sylva-development/in-sylva.source.manager,True
 https://forgemia.inra.fr/infosol/SolEil,True
@@ -1879,7 +1879,7 @@ https://github.com/InseeFr/Pearl-Jam-Back-Office,True
 https://github.com/InseeFr/Pogues,True
 https://github.com/InseeFr/Pogues-Back-Office,True
 https://github.com/InseeFr/Pogues-Model,True
-https://github.com/InseeFr/Public-Enemy,False
+https://github.com/InseeFr/Public-Enemy,True
 https://github.com/InseeFr/Public-Enemy-Back-Office,True
 https://github.com/InseeFr/Quatro,True
 https://github.com/InseeFr/Queen,True
@@ -3782,7 +3782,7 @@ https://github.com/eole/opnsense-pam_opnsense,False
 https://github.com/eole/opnsense-plugins,True
 https://github.com/eole/opnsense-ports,False
 https://github.com/eole/opnsense-rules,False
-https://github.com/eole/opnsense-src,False
+https://github.com/eole/opnsense-src,True
 https://github.com/eole/opnsense-tools,True
 https://github.com/eole/opnsense-update-tools,False
 https://github.com/eole/pam-mount-formula,True
