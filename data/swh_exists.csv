@@ -3772,7 +3772,7 @@ https://github.com/eole/libvirt-formula,True
 https://github.com/eole/mastodon,True
 https://github.com/eole/one,True
 https://github.com/eole/opnsense-bsdinstaller,False
-https://github.com/eole/opnsense-changelog,False
+https://github.com/eole/opnsense-changelog,True
 https://github.com/eole/opnsense-core,False
 https://github.com/eole/opnsense-dhcp6c,False
 https://github.com/eole/opnsense-docs,True
@@ -7150,6 +7150,7 @@ https://gitlab.inria.fr/sed-rennes/sharelatex/web-sharelatex,True
 https://gitlab.inria.fr/sed-rennes/test-droits,True
 https://gitlab.inria.fr/sed-saclay/TutorielGitlabPages,True
 https://gitlab.inria.fr/sed-saclay/formulairesdemandesingenieur,True
+https://gitlab.inria.fr/selalib/selalib.gitlabpages.inria.fr,False
 https://gitlab.inria.fr/semagramme-public-projects/resources/french-fracas,True
 https://gitlab.inria.fr/sequoia/deep-sequoia,True
 https://gitlab.inria.fr/serpico/3d-flow-assessment,True
@@ -7257,7 +7258,7 @@ https://gitlab.inria.fr/stopcovid19/submission-code-server,True
 https://gitlab.inria.fr/stopcovid19/submission-code-server-client-api-spec,True
 https://gitlab.inria.fr/structgraphics/code,True
 https://gitlab.inria.fr/swloc/swloc,False
-https://gitlab.inria.fr/swloc/swloc.gitlabpages.inria.fr,False
+https://gitlab.inria.fr/swloc/swloc.gitlabpages.inria.fr,True
 https://gitlab.inria.fr/synalp/python4nlp-2019-public,True
 https://gitlab.inria.fr/synalp/website,True
 https://gitlab.inria.fr/synchrone/heptagon,True
@@ -7720,6 +7721,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/15/retrocomputi
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/16/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/17/code,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/17/docs,True
+https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/18/Project_Chirpstack-monitoring,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/18/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/SIMPA/SIMPA,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/ai-courses/autonomous_systems_ml,True
@@ -7916,7 +7918,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/tima/public/newcas2019,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/tima/public/tcad,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/tima/sls/projects/augh,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/tima/sls/projects/systemc-ct,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/ttk/radioSphere,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/ttk/radioSphere,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/ttk/spam,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/ust4hpc/docker,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/ust4hpc/gpu-hub,True
