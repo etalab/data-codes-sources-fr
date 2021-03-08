@@ -226,7 +226,7 @@ https://forgemia.inra.fr/couplimspec/hyiam,True
 https://forgemia.inra.fr/enseignement-mistea/reports-with-markdown,True
 https://forgemia.inra.fr/epgv/nlgenomesweeper,True
 https://forgemia.inra.fr/eq-record/record-team,True
-https://forgemia.inra.fr/exploratory-penalized-regression/paper-script-and-data,False
+https://forgemia.inra.fr/exploratory-penalized-regression/paper-script-and-data,True
 https://forgemia.inra.fr/fact/fact,True
 https://forgemia.inra.fr/fact/pfptools,True
 https://forgemia.inra.fr/formation/formation-python-inrae,True
@@ -759,7 +759,7 @@ https://git.unistra.fr/tsp-ics/yaspanalyzers,True
 https://git.unistra.fr/uhuit/pgmaggpl,True
 https://git.unistra.fr/uquatre/mips-invader,True
 https://git.unistra.fr/usept/sexy-polyedra-baby,True
-https://git.unistra.fr/visu2/tp1_visu2_modules,False
+https://git.unistra.fr/visu2/tp1_visu2_modules,True
 https://git.unistra.fr/visu2/tp2_visu2_modules,True
 https://git.unistra.fr/visual-immeuble-2020/t432_liy20-t3-g,True
 https://git.unistra.fr/voc20-t3-c/t3_acheo,True
@@ -6383,6 +6383,7 @@ https://gitlab.inria.fr/cidre-public/pymao,True
 https://gitlab.inria.fr/cidre-public/tata/tata-java,True
 https://gitlab.inria.fr/cidre-public/tata/tata-llvm,True
 https://gitlab.inria.fr/cidre-public/tata/tata-release,True
+https://gitlab.inria.fr/cigri-ctrl/big-data-hpc-g5k-expe-tools,False
 https://gitlab.inria.fr/cigri-ctrl/cigri-expe,True
 https://gitlab.inria.fr/cigri-ctrl/stage-agustin-yabo,True
 https://gitlab.inria.fr/citi-lab/bbb-powerprobe,True
