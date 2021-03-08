@@ -3779,7 +3779,7 @@ https://github.com/eole/opnsense-docs,True
 https://github.com/eole/opnsense-installer,False
 https://github.com/eole/opnsense-jquery-bootgrid,True
 https://github.com/eole/opnsense-lang,False
-https://github.com/eole/opnsense-pam_opnsense,False
+https://github.com/eole/opnsense-pam_opnsense,True
 https://github.com/eole/opnsense-plugins,True
 https://github.com/eole/opnsense-ports,True
 https://github.com/eole/opnsense-rules,False
@@ -6796,7 +6796,7 @@ https://gitlab.inria.fr/gt-lgbti/prenom-usage,True
 https://gitlab.inria.fr/gt-sw-citation/artifact-archival-swh,True
 https://gitlab.inria.fr/gt-sw-citation/bibtex-sw-entry,True
 https://gitlab.inria.fr/gtpi/inria_skin,True
-https://gitlab.inria.fr/guix-hpc/cuirass-configuration,False
+https://gitlab.inria.fr/guix-hpc/cuirass-configuration,True
 https://gitlab.inria.fr/guix-hpc/function-multi-versioning,True
 https://gitlab.inria.fr/guix-hpc/guix-hpc,True
 https://gitlab.inria.fr/guix-hpc/guix-hpc-non-free,True
@@ -7046,6 +7046,7 @@ https://gitlab.inria.fr/openvibe/meta,True
 https://gitlab.inria.fr/openvibe/sdk,True
 https://gitlab.inria.fr/openvibe/unity-games/LSL4Unity,True
 https://gitlab.inria.fr/openvibe/unity-games/basketball,True
+https://gitlab.inria.fr/openvibe/unity-games/brain-hero,False
 https://gitlab.inria.fr/openvibe/unity-games/games,True
 https://gitlab.inria.fr/openvibe/unity-games/hello-bidirectionnal,True
 https://gitlab.inria.fr/openvibe/unity-games/hello-sender,True
@@ -7254,6 +7255,8 @@ https://gitlab.inria.fr/stopcovid19/stopcovid-robertsdk-ios,True
 https://gitlab.inria.fr/stopcovid19/submission-code-server,True
 https://gitlab.inria.fr/stopcovid19/submission-code-server-client-api-spec,True
 https://gitlab.inria.fr/structgraphics/code,True
+https://gitlab.inria.fr/swloc/swloc,False
+https://gitlab.inria.fr/swloc/swloc.gitlabpages.inria.fr,False
 https://gitlab.inria.fr/synalp/python4nlp-2019-public,True
 https://gitlab.inria.fr/synalp/website,True
 https://gitlab.inria.fr/synchrone/heptagon,True
@@ -7912,6 +7915,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/tima/public/newcas2019,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/tima/public/tcad,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/tima/sls/projects/augh,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/tima/sls/projects/systemc-ct,True
+https://gricad-gitlab.univ-grenoble-alpes.fr/ttk/radioSphere,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/ttk/spam,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/ust4hpc/docker,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/ust4hpc/gpu-hub,True
