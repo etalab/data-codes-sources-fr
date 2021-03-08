@@ -1943,6 +1943,7 @@ https://github.com/InseeFrLab/jupyter-datascience,True
 https://github.com/InseeFrLab/k8s-onboarding,True
 https://github.com/InseeFrLab/keycloak-hashicorp-vault-ext,True
 https://github.com/InseeFrLab/keycloak-http-storage-provider,True
+https://github.com/InseeFrLab/keycloakify,False
 https://github.com/InseeFrLab/marathon-to-kubernetes,True
 https://github.com/InseeFrLab/onyxia,True
 https://github.com/InseeFrLab/onyxia-api,True
@@ -2609,7 +2610,7 @@ https://github.com/StartupsPoleEmploi/baggy,True
 https://github.com/StartupsPoleEmploi/clara,True
 https://github.com/StartupsPoleEmploi/elk-cluster,True
 https://github.com/StartupsPoleEmploi/estime-backend,False
-https://github.com/StartupsPoleEmploi/estime-frontend,False
+https://github.com/StartupsPoleEmploi/estime-frontend,True
 https://github.com/StartupsPoleEmploi/geomancie,True
 https://github.com/StartupsPoleEmploi/gerboise,True
 https://github.com/StartupsPoleEmploi/jepostule,True
@@ -3780,7 +3781,7 @@ https://github.com/eole/opnsense-jquery-bootgrid,True
 https://github.com/eole/opnsense-lang,False
 https://github.com/eole/opnsense-pam_opnsense,False
 https://github.com/eole/opnsense-plugins,True
-https://github.com/eole/opnsense-ports,False
+https://github.com/eole/opnsense-ports,True
 https://github.com/eole/opnsense-rules,False
 https://github.com/eole/opnsense-src,True
 https://github.com/eole/opnsense-tools,True
@@ -7757,7 +7758,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/edcampus/edcampus-backphp,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/edcampus/edcampus-doc,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/edcampus/edcampus-front,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/edcampus/edcampus-platform,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/enseignement1/m2cci/java/AppliWebCafe,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/enseignement1/m2cci/java/AppliWebCafe,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/enseignement1/m2cci/java/chenilles,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/enseignement1/m2cci/java/comptes,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/enseignement1/m2cci/java/correctiontp2,True
