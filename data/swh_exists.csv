@@ -654,6 +654,7 @@ https://git.unistra.fr/ex2-daribako-perus-2021-psa/ex2_daribako_perus_2021_psa,T
 https://git.unistra.fr/filiere-d-excellence/ghc,True
 https://git.unistra.fr/g4b-le-futur/g4b,True
 https://git.unistra.fr/g4b-michel/michel-app,True
+https://git.unistra.fr/game4/tp4_piles_tours_de_hanoi,False
 https://git.unistra.fr/gdt/back,True
 https://git.unistra.fr/gdt/front,True
 https://git.unistra.fr/glakata/serveur-central,False
@@ -865,7 +866,7 @@ https://github.com/139bercy/graylog-recovery,True
 https://github.com/139bercy/hub,True
 https://github.com/139bercy/influxdb-recovery,True
 https://github.com/139bercy/opendata-quality,True
-https://github.com/139bercy/propilot2pdf,False
+https://github.com/139bercy/propilot2pdf,True
 https://github.com/139bercy/secret_stat,True
 https://github.com/ANSSI-FR/AD-control-paths,True
 https://github.com/ANSSI-FR/AD-permissions,True
@@ -2682,6 +2683,8 @@ https://github.com/abes-esr/poc-fne,True
 https://github.com/abes-esr/poc-fne-wikibase-docker,True
 https://github.com/abes-esr/poc-fne-wikidata-query-gui,True
 https://github.com/abes-esr/pydref,True
+https://github.com/abes-esr/scienceplus-content,False
+https://github.com/abes-esr/scienceplus-queries,False
 https://github.com/abes-esr/sudoc-toolkit,True
 https://github.com/abes-esr/theses-batch,True
 https://github.com/abes-esr/theses-batch-ongoingthesestodelete,True
@@ -2938,6 +2941,7 @@ https://github.com/betagouv/covid19-algorithme-orientation-elixir,True
 https://github.com/betagouv/covoiturage-attestation,False
 https://github.com/betagouv/covoiturage-attestation-honneur,True
 https://github.com/betagouv/dashboard_apientreprise,True
+https://github.com/betagouv/datagir,False
 https://github.com/betagouv/datagir-iframe,True
 https://github.com/betagouv/datagir-site,True
 https://github.com/betagouv/datapass,True
@@ -3093,6 +3097,7 @@ https://github.com/betagouv/openfisca-tracer,True
 https://github.com/betagouv/openfisca-web-api,True
 https://github.com/betagouv/opensimplif,True
 https://github.com/betagouv/osticket-docker,True
+https://github.com/betagouv/pad,False
 https://github.com/betagouv/paie-api,True
 https://github.com/betagouv/paie-carto,True
 https://github.com/betagouv/paie-editor,True
@@ -3512,6 +3517,9 @@ https://github.com/cw-leia/smartleia,True
 https://github.com/cw-leia/smartleia-doc,True
 https://github.com/cw-leia/smartleia-target,True
 https://github.com/cw-leia/smartleia-target-applet,True
+https://github.com/datagir/mon-impact-transport,False
+https://github.com/datagir/nosgestesclimat,False
+https://github.com/datagir/nosgestesclimat-site,False
 https://github.com/datalocale/BinFul,True
 https://github.com/datalocale/ECV-IJBA,True
 https://github.com/datalocale/G8_Metadata_Mapping,True
@@ -3774,7 +3782,7 @@ https://github.com/eole/mastodon,True
 https://github.com/eole/one,True
 https://github.com/eole/opnsense-bsdinstaller,False
 https://github.com/eole/opnsense-changelog,True
-https://github.com/eole/opnsense-core,False
+https://github.com/eole/opnsense-core,True
 https://github.com/eole/opnsense-dhcp6c,False
 https://github.com/eole/opnsense-docs,True
 https://github.com/eole/opnsense-installer,False
@@ -5151,6 +5159,7 @@ https://github.com/openfun/arnold-apps,True
 https://github.com/openfun/ashley,True
 https://github.com/openfun/bbb-stress-test,True
 https://github.com/openfun/celery-redis-sentinel,True
+https://github.com/openfun/chatmosphere-deployment,False
 https://github.com/openfun/cloudkey-py,True
 https://github.com/openfun/configuration,True
 https://github.com/openfun/cookiecutter-docker,True
@@ -6014,6 +6023,7 @@ https://gitlab.inria.fr/Alpha/alpha-language,True
 https://gitlab.inria.fr/Alpha/alphaz,True
 https://gitlab.inria.fr/CAPES-Math/clef-CAPES,True
 https://gitlab.inria.fr/CAPES-Math/live-build,True
+https://gitlab.inria.fr/CORSE/palmed-webdemo,False
 https://gitlab.inria.fr/CORSE/wasmpoly,True
 https://gitlab.inria.fr/ClassCode/class_code,True
 https://gitlab.inria.fr/ClassCode/class_code_v2,True
@@ -7258,7 +7268,7 @@ https://gitlab.inria.fr/stopcovid19/stopcovid-robertsdk-ios,True
 https://gitlab.inria.fr/stopcovid19/submission-code-server,True
 https://gitlab.inria.fr/stopcovid19/submission-code-server-client-api-spec,True
 https://gitlab.inria.fr/structgraphics/code,True
-https://gitlab.inria.fr/swloc/swloc,False
+https://gitlab.inria.fr/swloc/swloc,True
 https://gitlab.inria.fr/swloc/swloc.gitlabpages.inria.fr,True
 https://gitlab.inria.fr/synalp/python4nlp-2019-public,True
 https://gitlab.inria.fr/synalp/website,True
@@ -7492,6 +7502,8 @@ https://gitlab.u-psud.fr/Info114/Data,True
 https://gitlab.u-psud.fr/Info114/sujets,True
 https://gitlab.u-psud.fr/Info122/Info122,True
 https://gitlab.u-psud.fr/Info122/Info122-sujets,True
+https://gitlab.u-psud.fr/L1InfoIntroScienceDonnees/ComputerLab,False
+https://gitlab.u-psud.fr/L1InfoIntroScienceDonnees/Instructors,False
 https://gitlab.u-psud.fr/MethNum/ComputerLab,True
 https://gitlab.u-psud.fr/MethNum/nbgrader,True
 https://gitlab.u-psud.fr/MethNum/scripts,True
@@ -7700,6 +7712,9 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/8/draft,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/9/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/01/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/02/docs,True
+https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/05/STM32_BerkeleySocketsServer,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/05/STM32_MinnowServer,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/05/STM32_MongooseServer,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/05/cansniffer,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/05/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/05/raspberry,True
@@ -7722,7 +7737,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/15/retrocomputi
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/16/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/17/code,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/17/docs,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/18/Project_Chirpstack-monitoring,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/18/Project_Chirpstack-monitoring,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/18/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/SIMPA/SIMPA,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/ai-courses/autonomous_systems_ml,True
