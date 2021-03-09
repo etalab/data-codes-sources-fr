@@ -1943,7 +1943,8 @@ https://github.com/InseeFrLab/jupyter-datascience,True
 https://github.com/InseeFrLab/k8s-onboarding,True
 https://github.com/InseeFrLab/keycloak-hashicorp-vault-ext,True
 https://github.com/InseeFrLab/keycloak-http-storage-provider,True
-https://github.com/InseeFrLab/keycloakify,False
+https://github.com/InseeFrLab/keycloakify,True
+https://github.com/InseeFrLab/keycloakify-demo-app,False
 https://github.com/InseeFrLab/marathon-to-kubernetes,True
 https://github.com/InseeFrLab/onyxia,True
 https://github.com/InseeFrLab/onyxia-api,True
@@ -2609,7 +2610,7 @@ https://github.com/StartupsPoleEmploi/avril-shared,True
 https://github.com/StartupsPoleEmploi/baggy,True
 https://github.com/StartupsPoleEmploi/clara,True
 https://github.com/StartupsPoleEmploi/elk-cluster,True
-https://github.com/StartupsPoleEmploi/estime-backend,False
+https://github.com/StartupsPoleEmploi/estime-backend,True
 https://github.com/StartupsPoleEmploi/estime-frontend,True
 https://github.com/StartupsPoleEmploi/geomancie,True
 https://github.com/StartupsPoleEmploi/gerboise,True
@@ -7150,7 +7151,7 @@ https://gitlab.inria.fr/sed-rennes/sharelatex/web-sharelatex,True
 https://gitlab.inria.fr/sed-rennes/test-droits,True
 https://gitlab.inria.fr/sed-saclay/TutorielGitlabPages,True
 https://gitlab.inria.fr/sed-saclay/formulairesdemandesingenieur,True
-https://gitlab.inria.fr/selalib/selalib.gitlabpages.inria.fr,False
+https://gitlab.inria.fr/selalib/selalib.gitlabpages.inria.fr,True
 https://gitlab.inria.fr/semagramme-public-projects/resources/french-fracas,True
 https://gitlab.inria.fr/sequoia/deep-sequoia,True
 https://gitlab.inria.fr/serpico/3d-flow-assessment,True
