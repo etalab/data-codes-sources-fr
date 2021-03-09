@@ -1205,6 +1205,7 @@ https://github.com/DISIC/guide-troubles_DYS,True
 https://github.com/DISIC/guides-documents_bureautiques_accessibles,True
 https://github.com/DISIC/inventaire,True
 https://github.com/DISIC/label-ressources,True
+https://github.com/DISIC/numerique-responsable,False
 https://github.com/DISIC/panda,True
 https://github.com/DISIC/panorama,True
 https://github.com/DISIC/politique-de-contribution-open-source,True
@@ -3013,6 +3014,7 @@ https://github.com/betagouv/gps-usagers,True
 https://github.com/betagouv/grafana-scalingo,True
 https://github.com/betagouv/gravitee-api-extension,True
 https://github.com/betagouv/hedgedoc,True
+https://github.com/betagouv/hedgedoc-api-lib-js,False
 https://github.com/betagouv/helpy,True
 https://github.com/betagouv/heroku-buildpack-ruby,True
 https://github.com/betagouv/histologe,True
@@ -7060,7 +7062,7 @@ https://gitlab.inria.fr/openvibe/meta,True
 https://gitlab.inria.fr/openvibe/sdk,True
 https://gitlab.inria.fr/openvibe/unity-games/LSL4Unity,True
 https://gitlab.inria.fr/openvibe/unity-games/basketball,True
-https://gitlab.inria.fr/openvibe/unity-games/brain-hero,False
+https://gitlab.inria.fr/openvibe/unity-games/brain-hero,True
 https://gitlab.inria.fr/openvibe/unity-games/games,True
 https://gitlab.inria.fr/openvibe/unity-games/hello-bidirectionnal,True
 https://gitlab.inria.fr/openvibe/unity-games/hello-sender,True
