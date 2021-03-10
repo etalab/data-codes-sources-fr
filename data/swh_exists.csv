@@ -2762,7 +2762,7 @@ https://github.com/ambanum/disinfo.quaidorsay.fr,True
 https://github.com/ambanum/disinfo.quaidorsay.fr-ops,True
 https://github.com/ambanum/disinformation-chatbots,True
 https://github.com/ambanum/information-manipulation-analyzer,True
-https://github.com/ambanum/information-manipulation-analyzer-processor,False
+https://github.com/ambanum/information-manipulation-analyzer-processor,True
 https://github.com/ambanum/just-the-docs,True
 https://github.com/ambanum/media-scale,True
 https://github.com/ambanum/node-botometer,True
@@ -5930,6 +5930,7 @@ https://gitlab.huma-num.fr/eurhisfirm/fibo-wikibase,True
 https://gitlab.huma-num.fr/eurhisfirm/gleif-wikibase,True
 https://gitlab.huma-num.fr/eurhisfirm/scob-wikibase,True
 https://gitlab.huma-num.fr/eurhisfirm/test-app-saisie,True
+https://gitlab.huma-num.fr/eurhisfirm/test-import-bot,False
 https://gitlab.huma-num.fr/fp-lab/fplabsite,True
 https://gitlab.huma-num.fr/geographie-cites/autobiopedia,True
 https://gitlab.huma-num.fr/huma-num-public/next-auth-nakala,True
@@ -6968,7 +6969,7 @@ https://gitlab.inria.fr/mgkit/ofrlex-metamof-new,True
 https://gitlab.inria.fr/mgkit/sxpipe,True
 https://gitlab.inria.fr/mgkit/syntax_hightlighting_smg,True
 https://gitlab.inria.fr/miet/miet,True
-https://gitlab.inria.fr/miet/mrshow,False
+https://gitlab.inria.fr/miet/mrshow,True
 https://gitlab.inria.fr/mimoza/mimoza,True
 https://gitlab.inria.fr/misscausal/combine-rct-rwd-review,True
 https://gitlab.inria.fr/misscausal/misscausal.gitlab.io,True
