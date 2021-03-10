@@ -441,6 +441,7 @@ https://forgemia.inra.fr/record/recordweb,True
 https://forgemia.inra.fr/record/sunflo,True
 https://forgemia.inra.fr/record/workbench4record,True
 https://forgemia.inra.fr/rna-seq/rna-seq-compagnon,True
+https://forgemia.inra.fr/scales/differential-analysis-of-trees,False
 https://forgemia.inra.fr/sciproject/managesciproject,True
 https://forgemia.inra.fr/singularity/bcftools_v1.10.2,True
 https://forgemia.inra.fr/singularity/test,True
@@ -569,7 +570,7 @@ https://git.unicaen.fr/open-source/sygal-doc,True
 https://git.unicaen.fr/open-source/sygal-import-ws,True
 https://git.unicaen.fr/pdn-certic/MaX,True
 https://git.unicaen.fr/pdn-certic/zotero-java-client,True
-https://git.unistra.fr/1A_mecatro/ev3simulator,False
+https://git.unistra.fr/1A_mecatro/ev3simulator,True
 https://git.unistra.fr/2017-T4-6/Project,True
 https://git.unistra.fr/20school/20schoolt3,True
 https://git.unistra.fr/AOEINT/auth-api,True
@@ -1899,6 +1900,7 @@ https://github.com/InseeFr/disaggR,True
 https://github.com/InseeFrLab/AdventOfCodeLeaderboard,True
 https://github.com/InseeFrLab/BootcampJS-API,True
 https://github.com/InseeFrLab/BootcampJS-JS,True
+https://github.com/InseeFrLab/DCAT-COG,False
 https://github.com/InseeFrLab/DoReMIFaSol,True
 https://github.com/InseeFrLab/DoReMIFaSolData,True
 https://github.com/InseeFrLab/Formations,True
@@ -1947,7 +1949,7 @@ https://github.com/InseeFrLab/k8s-onboarding,True
 https://github.com/InseeFrLab/keycloak-hashicorp-vault-ext,True
 https://github.com/InseeFrLab/keycloak-http-storage-provider,True
 https://github.com/InseeFrLab/keycloakify,True
-https://github.com/InseeFrLab/keycloakify-demo-app,False
+https://github.com/InseeFrLab/keycloakify-demo-app,True
 https://github.com/InseeFrLab/marathon-to-kubernetes,True
 https://github.com/InseeFrLab/onyxia,True
 https://github.com/InseeFrLab/onyxia-api,True
@@ -3165,6 +3167,8 @@ https://github.com/betagouv/react-hook-data,True
 https://github.com/betagouv/react-i18nliner,True
 https://github.com/betagouv/react-loading-infinite-scroller,True
 https://github.com/betagouv/react-reducer-effect-context-data,True
+https://github.com/betagouv/recosante,False
+https://github.com/betagouv/recosante-mail,False
 https://github.com/betagouv/redirections,True
 https://github.com/betagouv/redux-react-modals,True
 https://github.com/betagouv/redux-saga-data,True
@@ -4105,6 +4109,7 @@ https://github.com/etalab/openlabs_apientreprise,True
 https://github.com/etalab/optimouv,True
 https://github.com/etalab/organismes-formation,True
 https://github.com/etalab/osem,True
+https://github.com/etalab/osm-bright-gl-style,False
 https://github.com/etalab/osm-wms,True
 https://github.com/etalab/ouverture-des-codes-sources-publics,True
 https://github.com/etalab/ovq-dashboard,True
@@ -4239,6 +4244,7 @@ https://github.com/ezpaarse-project/ezpaarse-web-home,True
 https://github.com/ezpaarse-project/getting-started-with-ezvis,True
 https://github.com/ezpaarse-project/ip-range-generator,True
 https://github.com/ezpaarse-project/irevue-logs-cleaner,True
+https://github.com/ezpaarse-project/meilisearch,False
 https://github.com/ezpaarse-project/node-etatcollhlm,True
 https://github.com/ezpaarse-project/node-ezmesure,True
 https://github.com/ezpaarse-project/node-ezpaarse,True
@@ -5861,6 +5867,7 @@ https://gitlab.com/healthdatahub/open-data/open-damir,True
 https://gitlab.com/healthdatahub/programmes-sdns,True
 https://gitlab.com/healthdatahub/programmes-snds,True
 https://gitlab.com/healthdatahub/schema-snds,True
+https://gitlab.com/healthdatahub/synthetic-generator,False
 https://gitlab.com/healthdatahub/synthetic-snds,True
 https://gitlab.com/healthdatahub/tsfaker,True
 https://gitlab.com/musee-saint-raymond/villa-chiragan,True
@@ -7645,7 +7652,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/site-characterization,Tr
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/storage-summer-k8s,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/ws-dataselect,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/ws-eidaauth,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/ws-eidastats-k8s,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/ws-eidastats-k8s,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/ws-evalresp,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/ws-logstodb,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/ws-logstodb-k8s,True
@@ -7720,7 +7727,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/8/draft,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/9/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/01/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/02/docs,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/05/STM32_BerkeleySocketsServer,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/05/STM32_BerkeleySocketsServer,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/05/STM32_MinnowServer,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/05/STM32_MongooseServer,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/05/cansniffer,True
