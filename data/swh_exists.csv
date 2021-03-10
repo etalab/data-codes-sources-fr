@@ -569,6 +569,7 @@ https://git.unicaen.fr/open-source/sygal-doc,True
 https://git.unicaen.fr/open-source/sygal-import-ws,True
 https://git.unicaen.fr/pdn-certic/MaX,True
 https://git.unicaen.fr/pdn-certic/zotero-java-client,True
+https://git.unistra.fr/1A_mecatro/ev3simulator,False
 https://git.unistra.fr/2017-T4-6/Project,True
 https://git.unistra.fr/20school/20schoolt3,True
 https://git.unistra.fr/AOEINT/auth-api,True
@@ -2687,6 +2688,7 @@ https://github.com/abes-esr/poc-fne-wikidata-query-gui,True
 https://github.com/abes-esr/pydref,True
 https://github.com/abes-esr/scienceplus-content,True
 https://github.com/abes-esr/scienceplus-queries,False
+https://github.com/abes-esr/scienceplus-queries-grlc,False
 https://github.com/abes-esr/sudoc-toolkit,True
 https://github.com/abes-esr/theses-batch,True
 https://github.com/abes-esr/theses-batch-ongoingthesestodelete,True
@@ -2944,7 +2946,7 @@ https://github.com/betagouv/covid19-algorithme-orientation-elixir,True
 https://github.com/betagouv/covoiturage-attestation,False
 https://github.com/betagouv/covoiturage-attestation-honneur,True
 https://github.com/betagouv/dashboard_apientreprise,True
-https://github.com/betagouv/datagir,False
+https://github.com/betagouv/datagir,True
 https://github.com/betagouv/datagir-iframe,True
 https://github.com/betagouv/datagir-site,True
 https://github.com/betagouv/datapass,True
@@ -3784,7 +3786,7 @@ https://github.com/eole/jquery-bootgrid,False
 https://github.com/eole/libvirt-formula,True
 https://github.com/eole/mastodon,True
 https://github.com/eole/one,True
-https://github.com/eole/opnsense-bsdinstaller,False
+https://github.com/eole/opnsense-bsdinstaller,True
 https://github.com/eole/opnsense-changelog,True
 https://github.com/eole/opnsense-core,True
 https://github.com/eole/opnsense-dhcp6c,False
@@ -7642,6 +7644,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/site-characterization,Tr
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/storage-summer-k8s,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/ws-dataselect,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/ws-eidaauth,True
+https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/ws-eidastats-k8s,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/ws-evalresp,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/ws-logstodb,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/ws-logstodb-k8s,True
