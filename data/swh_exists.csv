@@ -2522,6 +2522,7 @@ https://github.com/SocialGouv/siret2idcc,True
 https://github.com/SocialGouv/social-ui,True
 https://github.com/SocialGouv/socialgouv.github.io,True
 https://github.com/SocialGouv/sre-tools,True
+https://github.com/SocialGouv/ssl-dashboard,False
 https://github.com/SocialGouv/standup,True
 https://github.com/SocialGouv/standup2,True
 https://github.com/SocialGouv/suggest,True
@@ -3530,7 +3531,7 @@ https://github.com/cw-leia/smartleia-doc,True
 https://github.com/cw-leia/smartleia-target,True
 https://github.com/cw-leia/smartleia-target-applet,True
 https://github.com/datagir/mon-impact-transport,False
-https://github.com/datagir/nosgestesclimat,False
+https://github.com/datagir/nosgestesclimat,True
 https://github.com/datagir/nosgestesclimat-site,False
 https://github.com/datalocale/BinFul,True
 https://github.com/datalocale/ECV-IJBA,True
@@ -3799,7 +3800,7 @@ https://github.com/eole/opnsense-dhcp6c,False
 https://github.com/eole/opnsense-docs,True
 https://github.com/eole/opnsense-installer,False
 https://github.com/eole/opnsense-jquery-bootgrid,True
-https://github.com/eole/opnsense-lang,False
+https://github.com/eole/opnsense-lang,True
 https://github.com/eole/opnsense-pam_opnsense,True
 https://github.com/eole/opnsense-plugins,True
 https://github.com/eole/opnsense-ports,True
@@ -4132,6 +4133,7 @@ https://github.com/etalab/prevair-demo,True
 https://github.com/etalab/prevair-experiment,True
 https://github.com/etalab/project-legal,True
 https://github.com/etalab/pseudononymizer,True
+https://github.com/etalab/publicali,False
 https://github.com/etalab/q2a-theme-etalab,True
 https://github.com/etalab/quartiers-prioritaires,True
 https://github.com/etalab/radar-tech,True
@@ -6708,6 +6710,7 @@ https://gitlab.inria.fr/gazelle/library/tool,True
 https://gitlab.inria.fr/gazelle/library/ui-service,True
 https://gitlab.inria.fr/gazelle/library/unit-test,True
 https://gitlab.inria.fr/gazelle/library/version,True
+https://gitlab.inria.fr/gazelle/model-api/gazelle-model,False
 https://gitlab.inria.fr/gazelle/model-api/gitb,True
 https://gitlab.inria.fr/gazelle/model-api/messaging-model,True
 https://gitlab.inria.fr/gazelle/model-api/search,True
@@ -6895,7 +6898,7 @@ https://gitlab.inria.fr/line/aide-group/aidebuild,True
 https://gitlab.inria.fr/line/aide-group/aidecv,True
 https://gitlab.inria.fr/line/aide-group/aidesys,True
 https://gitlab.inria.fr/line/aide-group/aideweb,True
-https://gitlab.inria.fr/line/aide-group/creaspot,False
+https://gitlab.inria.fr/line/aide-group/creaspot,True
 https://gitlab.inria.fr/line/aide-group/esp32-roomcontrol,True
 https://gitlab.inria.fr/line/aide-group/esp32brachistochrone,True
 https://gitlab.inria.fr/line/aide-group/esp32galileo,True
@@ -7812,7 +7815,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/enseignement1/m2cci/java/panierelec
 https://gricad-gitlab.univ-grenoble-alpes.fr/enseignement1/m2cci/java/rationals,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/enseignement1/m2cci/java/segmentsdedroite,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/enseignement1/m2cci/java/text-indexation,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/enseignement1/m2cci/java/theatredemo,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/enseignement1/m2cci/java/theatredemo,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/enseignement1/m2cci/java/tp09-exceptions,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/enseignement1/m2cci/javascript/visagesanimes_correction,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/ensimag/poly-intro-unix,True
