@@ -144,6 +144,7 @@ https://forge.univ-lyon1.fr/faq-raspi/rpi-faq,True
 https://forge.univ-lyon1.fr/forge_public/ci-images,True
 https://forge.univ-lyon1.fr/forge_public/forge,True
 https://forge.univ-lyon1.fr/groupe-projet-lifap4/projet-lifap4,True
+https://forge.univ-lyon1.fr/info-7/Projet-Peip2,False
 https://forge.univ-lyon1.fr/iut-lyon-s3-php/ansible,True
 https://forge.univ-lyon1.fr/knowdyn-ens/knowdyn-contenus-2020,True
 https://forge.univ-lyon1.fr/les-cracks/chaisse-lifap4,True
@@ -1902,7 +1903,7 @@ https://github.com/InseeFr/disaggR,True
 https://github.com/InseeFrLab/AdventOfCodeLeaderboard,True
 https://github.com/InseeFrLab/BootcampJS-API,True
 https://github.com/InseeFrLab/BootcampJS-JS,True
-https://github.com/InseeFrLab/DCAT-COG,False
+https://github.com/InseeFrLab/DCAT-COG,True
 https://github.com/InseeFrLab/DoReMIFaSol,True
 https://github.com/InseeFrLab/DoReMIFaSolData,True
 https://github.com/InseeFrLab/ESS-Multimode-PP,False
@@ -6082,6 +6083,7 @@ https://gitlab.inria.fr/IOTLanguage/IoTCompilertoBIP,True
 https://gitlab.inria.fr/InBio/Public/efaecalis-ratio,True
 https://gitlab.inria.fr/InBio/Public/fwd_ad,True
 https://gitlab.inria.fr/InBio/Public/hydriver,True
+https://gitlab.inria.fr/InBio/Public/micromator,False
 https://gitlab.inria.fr/InBio/Public/reacsight,True
 https://gitlab.inria.fr/LightFieldCodingLibrary/HEVC,True
 https://gitlab.inria.fr/LightFieldCodingLibrary/LF,True
@@ -7201,6 +7203,7 @@ https://gitlab.inria.fr/serpico/genloc3d_bin,True
 https://gitlab.inria.fr/serpico/hotspotdetection,True
 https://gitlab.inria.fr/serpico/hulkground_bin,True
 https://gitlab.inria.fr/serpico/matirf,True
+https://gitlab.inria.fr/serpico/motion2d,False
 https://gitlab.inria.fr/serpico/mwr,True
 https://gitlab.inria.fr/serpico/ndsafir,True
 https://gitlab.inria.fr/serpico/ndsafir_bin,True
