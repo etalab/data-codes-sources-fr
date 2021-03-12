@@ -3170,7 +3170,7 @@ https://github.com/betagouv/react-hook-data,True
 https://github.com/betagouv/react-i18nliner,True
 https://github.com/betagouv/react-loading-infinite-scroller,True
 https://github.com/betagouv/react-reducer-effect-context-data,True
-https://github.com/betagouv/recosante,False
+https://github.com/betagouv/recosante,True
 https://github.com/betagouv/recosante-mail,False
 https://github.com/betagouv/redirections,True
 https://github.com/betagouv/redux-react-modals,True
@@ -5431,7 +5431,7 @@ https://github.com/sigrennesmetropole/QgisCadastrePlugin,True
 https://github.com/sigrennesmetropole/addon_rva,True
 https://github.com/sigrennesmetropole/addon_urbanisme,True
 https://github.com/sigrennesmetropole/api_rva,True
-https://github.com/sigrennesmetropole/app_mviewer,False
+https://github.com/sigrennesmetropole/app_mviewer,True
 https://github.com/sigrennesmetropole/cadastrapp,True
 https://github.com/sigrennesmetropole/cartoHoraires,True
 https://github.com/sigrennesmetropole/dual_viewer,True
@@ -6043,6 +6043,7 @@ https://gitlab.inria.fr/Alpha/alphaz,True
 https://gitlab.inria.fr/CAPES-Math/clef-CAPES,True
 https://gitlab.inria.fr/CAPES-Math/live-build,True
 https://gitlab.inria.fr/CORSE/palmed-webdemo,False
+https://gitlab.inria.fr/CORSE/python-folding,False
 https://gitlab.inria.fr/CORSE/wasmpoly,True
 https://gitlab.inria.fr/ClassCode/class_code,True
 https://gitlab.inria.fr/ClassCode/class_code_v2,True
