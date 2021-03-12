@@ -1905,6 +1905,7 @@ https://github.com/InseeFrLab/BootcampJS-JS,True
 https://github.com/InseeFrLab/DCAT-COG,False
 https://github.com/InseeFrLab/DoReMIFaSol,True
 https://github.com/InseeFrLab/DoReMIFaSolData,True
+https://github.com/InseeFrLab/ESS-Multimode-PP,False
 https://github.com/InseeFrLab/Formations,True
 https://github.com/InseeFrLab/InspaCy,True
 https://github.com/InseeFrLab/InspaCy-UI,True
@@ -5177,7 +5178,7 @@ https://github.com/openfun/arnold-apps,True
 https://github.com/openfun/ashley,True
 https://github.com/openfun/bbb-stress-test,True
 https://github.com/openfun/celery-redis-sentinel,True
-https://github.com/openfun/chatmosphere-deployment,False
+https://github.com/openfun/chatmosphere-deployment,True
 https://github.com/openfun/cloudkey-py,True
 https://github.com/openfun/configuration,True
 https://github.com/openfun/cookiecutter-docker,True
@@ -6714,7 +6715,7 @@ https://gitlab.inria.fr/gazelle/library/tool,True
 https://gitlab.inria.fr/gazelle/library/ui-service,True
 https://gitlab.inria.fr/gazelle/library/unit-test,True
 https://gitlab.inria.fr/gazelle/library/version,True
-https://gitlab.inria.fr/gazelle/model-api/gazelle-model,False
+https://gitlab.inria.fr/gazelle/model-api/gazelle-model,True
 https://gitlab.inria.fr/gazelle/model-api/gitb,True
 https://gitlab.inria.fr/gazelle/model-api/messaging-model,True
 https://gitlab.inria.fr/gazelle/model-api/search,True
