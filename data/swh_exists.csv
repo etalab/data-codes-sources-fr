@@ -684,6 +684,7 @@ https://git.unistra.fr/konflict/mobile-app,True
 https://git.unistra.fr/konflict/serveur-central,True
 https://git.unistra.fr/l-ekip/releases,True
 https://git.unistra.fr/l-ekip/t432_voc20_t3_a,True
+https://git.unistra.fr/la-barre-oblique/g4b-but-les-meilleurs,False
 https://git.unistra.fr/la-sectember/t432_sab20_t3_c,True
 https://git.unistra.fr/la-table-ronde/ecr19-t4-b,True
 https://git.unistra.fr/les-biens-renseignes/asm_sim,True
@@ -1912,6 +1913,7 @@ https://github.com/InseeFrLab/Macronometrics,True
 https://github.com/InseeFrLab/Macronometrics-Notebook,True
 https://github.com/InseeFrLab/SASTauArgus,True
 https://github.com/InseeFrLab/Shelly,True
+https://github.com/InseeFrLab/Spark-hive,False
 https://github.com/InseeFrLab/Ubuntu-vnc-base,True
 https://github.com/InseeFrLab/Universe-Datascience,True
 https://github.com/InseeFrLab/Universe-Formations,True
@@ -2692,7 +2694,7 @@ https://github.com/abes-esr/poc-fne-wikibase-docker,True
 https://github.com/abes-esr/poc-fne-wikidata-query-gui,True
 https://github.com/abes-esr/pydref,True
 https://github.com/abes-esr/scienceplus-content,True
-https://github.com/abes-esr/scienceplus-queries,False
+https://github.com/abes-esr/scienceplus-queries,True
 https://github.com/abes-esr/scienceplus-queries-grlc,False
 https://github.com/abes-esr/sudoc-toolkit,True
 https://github.com/abes-esr/theses-batch,True
@@ -3804,7 +3806,7 @@ https://github.com/eole/opnsense-lang,True
 https://github.com/eole/opnsense-pam_opnsense,True
 https://github.com/eole/opnsense-plugins,True
 https://github.com/eole/opnsense-ports,True
-https://github.com/eole/opnsense-rules,False
+https://github.com/eole/opnsense-rules,True
 https://github.com/eole/opnsense-src,True
 https://github.com/eole/opnsense-tools,True
 https://github.com/eole/opnsense-update-tools,False
@@ -7737,7 +7739,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/9/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/01/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/02/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/05/STM32_BerkeleySocketsServer,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/05/STM32_MinnowServer,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/05/STM32_MinnowServer,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/05/STM32_MongooseServer,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/05/cansniffer,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/05/docs,True
