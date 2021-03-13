@@ -685,7 +685,7 @@ https://git.unistra.fr/konflict/mobile-app,True
 https://git.unistra.fr/konflict/serveur-central,True
 https://git.unistra.fr/l-ekip/releases,True
 https://git.unistra.fr/l-ekip/t432_voc20_t3_a,True
-https://git.unistra.fr/la-barre-oblique/g4b-but-les-meilleurs,False
+https://git.unistra.fr/la-barre-oblique/g4b-but-les-meilleurs,True
 https://git.unistra.fr/la-sectember/t432_sab20_t3_c,True
 https://git.unistra.fr/la-table-ronde/ecr19-t4-b,True
 https://git.unistra.fr/les-biens-renseignes/asm_sim,True
@@ -1915,7 +1915,7 @@ https://github.com/InseeFrLab/Macronometrics,True
 https://github.com/InseeFrLab/Macronometrics-Notebook,True
 https://github.com/InseeFrLab/SASTauArgus,True
 https://github.com/InseeFrLab/Shelly,True
-https://github.com/InseeFrLab/Spark-hive,False
+https://github.com/InseeFrLab/Spark-hive,True
 https://github.com/InseeFrLab/Ubuntu-vnc-base,True
 https://github.com/InseeFrLab/Universe-Datascience,True
 https://github.com/InseeFrLab/Universe-Formations,True
@@ -6047,7 +6047,7 @@ https://gitlab.inria.fr/Alpha/alphaz,True
 https://gitlab.inria.fr/CAPES-Math/clef-CAPES,True
 https://gitlab.inria.fr/CAPES-Math/live-build,True
 https://gitlab.inria.fr/CORSE/palmed-webdemo,False
-https://gitlab.inria.fr/CORSE/python-folding,False
+https://gitlab.inria.fr/CORSE/python-folding,True
 https://gitlab.inria.fr/CORSE/wasmpoly,True
 https://gitlab.inria.fr/ClassCode/class_code,True
 https://gitlab.inria.fr/ClassCode/class_code_v2,True
