@@ -3812,7 +3812,7 @@ https://github.com/eole/opnsense-ports,True
 https://github.com/eole/opnsense-rules,True
 https://github.com/eole/opnsense-src,True
 https://github.com/eole/opnsense-tools,True
-https://github.com/eole/opnsense-update-tools,False
+https://github.com/eole/opnsense-update-tools,True
 https://github.com/eole/pam-mount-formula,True
 https://github.com/eole/pam_opnsense,False
 https://github.com/eole/ports,True
@@ -4253,7 +4253,7 @@ https://github.com/ezpaarse-project/ezpaarse-web-home,True
 https://github.com/ezpaarse-project/getting-started-with-ezvis,True
 https://github.com/ezpaarse-project/ip-range-generator,True
 https://github.com/ezpaarse-project/irevue-logs-cleaner,True
-https://github.com/ezpaarse-project/meilisearch,False
+https://github.com/ezpaarse-project/meilisearch,True
 https://github.com/ezpaarse-project/node-etatcollhlm,True
 https://github.com/ezpaarse-project/node-ezmesure,True
 https://github.com/ezpaarse-project/node-ezpaarse,True
@@ -7533,7 +7533,7 @@ https://gitlab.u-psud.fr/Info114/Data,True
 https://gitlab.u-psud.fr/Info114/sujets,True
 https://gitlab.u-psud.fr/Info122/Info122,True
 https://gitlab.u-psud.fr/Info122/Info122-sujets,True
-https://gitlab.u-psud.fr/L1InfoIntroScienceDonnees/ComputerLab,False
+https://gitlab.u-psud.fr/L1InfoIntroScienceDonnees/ComputerLab,True
 https://gitlab.u-psud.fr/L1InfoIntroScienceDonnees/Instructors,False
 https://gitlab.u-psud.fr/MethNum/ComputerLab,True
 https://gitlab.u-psud.fr/MethNum/nbgrader,True
