@@ -2698,7 +2698,7 @@ https://github.com/abes-esr/poc-fne-wikidata-query-gui,True
 https://github.com/abes-esr/pydref,True
 https://github.com/abes-esr/scienceplus-content,True
 https://github.com/abes-esr/scienceplus-queries,True
-https://github.com/abes-esr/scienceplus-queries-grlc,False
+https://github.com/abes-esr/scienceplus-queries-grlc,True
 https://github.com/abes-esr/sudoc-toolkit,True
 https://github.com/abes-esr/theses-batch,True
 https://github.com/abes-esr/theses-batch-ongoingthesestodelete,True
@@ -3176,7 +3176,7 @@ https://github.com/betagouv/react-i18nliner,True
 https://github.com/betagouv/react-loading-infinite-scroller,True
 https://github.com/betagouv/react-reducer-effect-context-data,True
 https://github.com/betagouv/recosante,True
-https://github.com/betagouv/recosante-mail,False
+https://github.com/betagouv/recosante-mail,True
 https://github.com/betagouv/redirections,True
 https://github.com/betagouv/redux-react-modals,True
 https://github.com/betagouv/redux-saga-data,True
@@ -3801,7 +3801,7 @@ https://github.com/eole/one,True
 https://github.com/eole/opnsense-bsdinstaller,True
 https://github.com/eole/opnsense-changelog,True
 https://github.com/eole/opnsense-core,True
-https://github.com/eole/opnsense-dhcp6c,False
+https://github.com/eole/opnsense-dhcp6c,True
 https://github.com/eole/opnsense-docs,True
 https://github.com/eole/opnsense-installer,False
 https://github.com/eole/opnsense-jquery-bootgrid,True
