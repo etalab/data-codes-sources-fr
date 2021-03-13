@@ -114,6 +114,7 @@ https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.gran
 https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/web-portal/components/tools/minio-master-slave-mirror,True
 https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/web-portal/documentation,True
 https://forge.univ-lyon1.fr/LETU/LETU,True
+https://forge.univ-lyon1.fr/LeBroupeG/puissances_n,False
 https://forge.univ-lyon1.fr/Matiere/WebProject,True
 https://forge.univ-lyon1.fr/Montecher/WebS1,True
 https://forge.univ-lyon1.fr/albystructi/oop,True
@@ -4752,6 +4753,7 @@ https://github.com/medialab/personal-air-timeline,True
 https://github.com/medialab/polarisation-espace-public,True
 https://github.com/medialab/poltergeist,True
 https://github.com/medialab/portic-explorations,True
+https://github.com/medialab/portic-poitousprint-datasets-modalities,False
 https://github.com/medialab/privacy,True
 https://github.com/medialab/pubpub,True
 https://github.com/medialab/python-boilerpipe,True
