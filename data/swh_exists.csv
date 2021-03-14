@@ -2068,7 +2068,7 @@ https://github.com/MLanguage/language-m-dgfip,True
 https://github.com/MLanguage/mlang,True
 https://github.com/MTES-MCT/Dossier-Facile-Frontend,True
 https://github.com/MTES-MCT/acceslibre,True
-https://github.com/MTES-MCT/acceslibre-schema,False
+https://github.com/MTES-MCT/acceslibre-schema,True
 https://github.com/MTES-MCT/access4all,True
 https://github.com/MTES-MCT/action-bidonvilles,True
 https://github.com/MTES-MCT/action-bidonvilles-api,True
@@ -4117,7 +4117,7 @@ https://github.com/etalab/openlabs_apientreprise,True
 https://github.com/etalab/optimouv,True
 https://github.com/etalab/organismes-formation,True
 https://github.com/etalab/osem,True
-https://github.com/etalab/osm-bright-gl-style,False
+https://github.com/etalab/osm-bright-gl-style,True
 https://github.com/etalab/osm-wms,True
 https://github.com/etalab/ouverture-des-codes-sources-publics,True
 https://github.com/etalab/ovq-dashboard,True
@@ -4753,7 +4753,7 @@ https://github.com/medialab/personal-air-timeline,True
 https://github.com/medialab/polarisation-espace-public,True
 https://github.com/medialab/poltergeist,True
 https://github.com/medialab/portic-explorations,True
-https://github.com/medialab/portic-poitousprint-datasets-modalities,False
+https://github.com/medialab/portic-poitousprint-datasets-modalities,True
 https://github.com/medialab/privacy,True
 https://github.com/medialab/pubpub,True
 https://github.com/medialab/python-boilerpipe,True
@@ -6085,7 +6085,7 @@ https://gitlab.inria.fr/IOTLanguage/IoTCompilertoBIP,True
 https://gitlab.inria.fr/InBio/Public/efaecalis-ratio,True
 https://gitlab.inria.fr/InBio/Public/fwd_ad,True
 https://gitlab.inria.fr/InBio/Public/hydriver,True
-https://gitlab.inria.fr/InBio/Public/micromator,False
+https://gitlab.inria.fr/InBio/Public/micromator,True
 https://gitlab.inria.fr/InBio/Public/reacsight,True
 https://gitlab.inria.fr/LightFieldCodingLibrary/HEVC,True
 https://gitlab.inria.fr/LightFieldCodingLibrary/LF,True
@@ -7812,7 +7812,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/edcampus/edcampus-backphp,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/edcampus/edcampus-doc,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/edcampus/edcampus-front,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/edcampus/edcampus-platform,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/enseignement1/m2cci/java/AjaxDemo,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/enseignement1/m2cci/java/AjaxDemo,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/enseignement1/m2cci/java/AppliWebCafe,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/enseignement1/m2cci/java/chenilles,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/enseignement1/m2cci/java/comptes,True
