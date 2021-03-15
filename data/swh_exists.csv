@@ -468,6 +468,7 @@ https://forgemia.inra.fr/umr-astre/epidmap,True
 https://forgemia.inra.fr/umr-astre/geonetwork,True
 https://forgemia.inra.fr/umr-astre/mapMCDA,True
 https://forgemia.inra.fr/umr-astre/ppp-oie,True
+https://forgemia.inra.fr/umr-astre/rvf_mrt,False
 https://forgemia.inra.fr/umr-astre/spreadrate,True
 https://forgemia.inra.fr/umr-astre/topomatch,True
 https://forgemia.inra.fr/umr-astre/training/notions_stats,True
@@ -1358,10 +1359,12 @@ https://github.com/EDS-APHP/spark-postgres,True
 https://github.com/EDS-APHP/tag_serve,True
 https://github.com/EDS-APHP/uima-aphp,True
 https://github.com/EDS-APHP/yarn-manager,True
+https://github.com/Envinorma/alto,False
 https://github.com/Envinorma/arretes_ministeriels,True
 https://github.com/Envinorma/envinorma-data,True
 https://github.com/Envinorma/envinorma-web,True
 https://github.com/Envinorma/envinorma.github.io,True
+https://github.com/Envinorma/pdf_ocr_app,False
 https://github.com/EsupPortail/CMoodle-proxy-portlet,True
 https://github.com/EsupPortail/Esup-Pod,True
 https://github.com/EsupPortail/EsupUserApps,True
@@ -2095,6 +2098,7 @@ https://github.com/MTES-MCT/camino-landingpage,True
 https://github.com/MTES-MCT/camino-matomo,True
 https://github.com/MTES-MCT/camino-portainer,True
 https://github.com/MTES-MCT/camino-scripting,True
+https://github.com/MTES-MCT/camino-spreadsheets,False
 https://github.com/MTES-MCT/camino-ui,True
 https://github.com/MTES-MCT/carbure,True
 https://github.com/MTES-MCT/cerbere-nodejs,True
@@ -2528,7 +2532,7 @@ https://github.com/SocialGouv/siret2idcc,True
 https://github.com/SocialGouv/social-ui,True
 https://github.com/SocialGouv/socialgouv.github.io,True
 https://github.com/SocialGouv/sre-tools,True
-https://github.com/SocialGouv/ssl-dashboard,False
+https://github.com/SocialGouv/ssl-dashboard,True
 https://github.com/SocialGouv/standup,True
 https://github.com/SocialGouv/standup2,True
 https://github.com/SocialGouv/suggest,True
@@ -3029,7 +3033,7 @@ https://github.com/betagouv/gps-usagers,True
 https://github.com/betagouv/grafana-scalingo,True
 https://github.com/betagouv/gravitee-api-extension,True
 https://github.com/betagouv/hedgedoc,True
-https://github.com/betagouv/hedgedoc-api-lib-js,False
+https://github.com/betagouv/hedgedoc-api-lib-js,True
 https://github.com/betagouv/helpy,True
 https://github.com/betagouv/heroku-buildpack-ruby,True
 https://github.com/betagouv/histologe,True
@@ -3539,7 +3543,7 @@ https://github.com/cw-leia/smartleia-doc,True
 https://github.com/cw-leia/smartleia-target,True
 https://github.com/cw-leia/smartleia-target-applet,True
 https://github.com/datagir/Ecolab,False
-https://github.com/datagir/agribalyse,False
+https://github.com/datagir/agribalyse,True
 https://github.com/datagir/datagir-site,False
 https://github.com/datagir/ecolab-agribalyse-recherche,False
 https://github.com/datagir/ecolab-alimentation,False
@@ -4335,6 +4339,7 @@ https://github.com/gemoc/org.eclipse.sirius,True
 https://github.com/gemoc/petrinet,True
 https://github.com/gemoc/plastic,True
 https://github.com/gemoc/resist,True
+https://github.com/gemoc/studio-execution-truffle,False
 https://github.com/gemoc/xCapella,True
 https://github.com/genotoul-bioinfo/WorkflowFrameworkComparison,True
 https://github.com/genotoul-bioinfo/configs,True
@@ -4698,6 +4703,7 @@ https://github.com/medialab/drive-in,True
 https://github.com/medialab/drive-out,True
 https://github.com/medialab/ds-engine-poc,True
 https://github.com/medialab/edx_helpers,True
+https://github.com/medialab/exp-ai,False
 https://github.com/medialab/fabrique-fragmentation,True
 https://github.com/medialab/fabrique-typo-amendements,True
 https://github.com/medialab/factiva-search-urls,True
@@ -5354,7 +5360,7 @@ https://github.com/powerapi-ng/pyJoules,True
 https://github.com/powerapi-ng/pyRAPL,True
 https://github.com/powerapi-ng/rapl-formula,True
 https://github.com/powerapi-ng/selfwatts-controller,True
-https://github.com/powerapi-ng/selfwatts-formula,False
+https://github.com/powerapi-ng/selfwatts-formula,True
 https://github.com/powerapi-ng/smartwatts-formula,True
 https://github.com/region-bretagne/cit,True
 https://github.com/region-bretagne/dd-portal,True
@@ -7058,6 +7064,7 @@ https://gitlab.inria.fr/mosaic/tissue_analysis,True
 https://gitlab.inria.fr/mosaic/tissue_nukem_3d,True
 https://gitlab.inria.fr/mosaic/tissue_paredes,True
 https://gitlab.inria.fr/mpc/mpc,True
+https://gitlab.inria.fr/mpfi/mpfi,False
 https://gitlab.inria.fr/mpfq/mpfq,True
 https://gitlab.inria.fr/multicellular_modelling/libsbml,True
 https://gitlab.inria.fr/multicellular_modelling/public/cellsegmquant,True
@@ -7154,6 +7161,7 @@ https://gitlab.inria.fr/regular-pv/timbuk/ocaml,True
 https://gitlab.inria.fr/regular-pv/timbuk/timbuk,True
 https://gitlab.inria.fr/reo/transport-in-1d-networks,True
 https://gitlab.inria.fr/resibots/public/py_map_elites,True
+https://gitlab.inria.fr/revol/mpfi,False
 https://gitlab.inria.fr/rmod-public/2019-sourcecodedata,True
 https://gitlab.inria.fr/rmod-public/steven-tests/steven-tests.gitlab.inria.fr,False
 https://gitlab.inria.fr/rsed1/documentation,False
