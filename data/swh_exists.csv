@@ -880,6 +880,7 @@ https://github.com/ANSSI-FR/ADCP-libdev,True
 https://github.com/ANSSI-FR/ADTimeline,True
 https://github.com/ANSSI-FR/ASCAD,True
 https://github.com/ANSSI-FR/Binacle,True
+https://github.com/ANSSI-FR/DFIR-O365RC,False
 https://github.com/ANSSI-FR/FreeSpec,True
 https://github.com/ANSSI-FR/MLA,True
 https://github.com/ANSSI-FR/ORADAD,True
@@ -2685,6 +2686,7 @@ https://github.com/abes-esr/licencesnationales-back,True
 https://github.com/abes-esr/licencesnationales-front,True
 https://github.com/abes-esr/ln-back-event,False
 https://github.com/abes-esr/ln-front,False
+https://github.com/abes-esr/marcxml2tei,False
 https://github.com/abes-esr/periscope-back,True
 https://github.com/abes-esr/periscope-front,True
 https://github.com/abes-esr/periscope-indexing-ws,True
@@ -2879,6 +2881,7 @@ https://github.com/betagouv/PeerTube,True
 https://github.com/betagouv/StopCovid,True
 https://github.com/betagouv/a11y-generateur-declaration,True
 https://github.com/betagouv/admin-traitdunion,True
+https://github.com/betagouv/aides-jeunes,False
 https://github.com/betagouv/allegement-fillon,True
 https://github.com/betagouv/analyse-flux-insertion,True
 https://github.com/betagouv/andi,True
@@ -3535,7 +3538,15 @@ https://github.com/cw-leia/smartleia,True
 https://github.com/cw-leia/smartleia-doc,True
 https://github.com/cw-leia/smartleia-target,True
 https://github.com/cw-leia/smartleia-target-applet,True
+https://github.com/datagir/Ecolab,False
+https://github.com/datagir/agribalyse,False
+https://github.com/datagir/datagir-site,False
+https://github.com/datagir/ecolab-agribalyse-recherche,False
+https://github.com/datagir/ecolab-alimentation,False
+https://github.com/datagir/ecolab-recherche-agribalyse,False
+https://github.com/datagir/mesfruitsetlegumesdesaison,False
 https://github.com/datagir/mon-impact-transport,False
+https://github.com/datagir/monconvertisseurco2,False
 https://github.com/datagir/nosgestesclimat,True
 https://github.com/datagir/nosgestesclimat-site,False
 https://github.com/datalocale/BinFul,True
@@ -3803,7 +3814,7 @@ https://github.com/eole/opnsense-changelog,True
 https://github.com/eole/opnsense-core,True
 https://github.com/eole/opnsense-dhcp6c,True
 https://github.com/eole/opnsense-docs,True
-https://github.com/eole/opnsense-installer,False
+https://github.com/eole/opnsense-installer,True
 https://github.com/eole/opnsense-jquery-bootgrid,True
 https://github.com/eole/opnsense-lang,True
 https://github.com/eole/opnsense-pam_opnsense,True
@@ -7177,6 +7188,7 @@ https://gitlab.inria.fr/sed-rennes/formations/deep-learning-intro,True
 https://gitlab.inria.fr/sed-rennes/formations/diu-robotique,True
 https://gitlab.inria.fr/sed-rennes/formations/enoslib-tutorials,True
 https://gitlab.inria.fr/sed-rennes/formations/formation-gitlab-ci,True
+https://gitlab.inria.fr/sed-rennes/formations/freecad_and_3dprint,False
 https://gitlab.inria.fr/sed-rennes/formations/introduction-to-python,True
 https://gitlab.inria.fr/sed-rennes/formations/tutorials_parallel_computing,True
 https://gitlab.inria.fr/sed-rennes/gforge-to-gitlab-scripts,True
