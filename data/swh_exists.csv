@@ -114,7 +114,7 @@ https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.gran
 https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/web-portal/components/tools/minio-master-slave-mirror,True
 https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/web-portal/documentation,True
 https://forge.univ-lyon1.fr/LETU/LETU,True
-https://forge.univ-lyon1.fr/LeBroupeG/puissances_n,False
+https://forge.univ-lyon1.fr/LeBroupeG/puissances_n,True
 https://forge.univ-lyon1.fr/Matiere/WebProject,True
 https://forge.univ-lyon1.fr/Montecher/WebS1,True
 https://forge.univ-lyon1.fr/albystructi/oop,True
@@ -3051,7 +3051,7 @@ https://github.com/betagouv/itou-discourse,True
 https://github.com/betagouv/itou-entreprise,True
 https://github.com/betagouv/itou-fdi,True
 https://github.com/betagouv/itou-gitbook,True
-https://github.com/betagouv/itou-landing,False
+https://github.com/betagouv/itou-landing,True
 https://github.com/betagouv/itou-theme-discourse,True
 https://github.com/betagouv/itou_c4_python_api,True
 https://github.com/betagouv/itou_entreprise,False
@@ -3802,6 +3802,7 @@ https://github.com/entrepreneur-interet-general/vue-python-starter-kit,True
 https://github.com/entrepreneur-interet-general/word_convertor,True
 https://github.com/eole/ad-formula,True
 https://github.com/eole/addon-context-linux,True
+https://github.com/eole/cert-formula,False
 https://github.com/eole/clients-linux-scribe,True
 https://github.com/eole/dhcpd-formula,True
 https://github.com/eole/docs,True
@@ -7673,6 +7674,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/ResifYAMLfiles,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/budindexer,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/cronjobs-k8s,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/datadump,True
+https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/deploy-k8s,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/es2pg-aggregators,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/fdsnextender,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/fdsnwsstat,True
