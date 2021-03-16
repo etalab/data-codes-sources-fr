@@ -2209,6 +2209,7 @@ https://github.com/OpenCTI-Platform/maltego-stix2,False
 https://github.com/OpenCTI-Platform/migration_script_v4,True
 https://github.com/OpenCTI-Platform/opencti,True
 https://github.com/OpenCTI-Platform/opencti-maltego,False
+https://github.com/OpenCTI-Platform/opencti-terraform,False
 https://github.com/OpenEdition/NormAFE,True
 https://github.com/OpenEdition/OTX,True
 https://github.com/OpenEdition/bilbo,True
@@ -3547,11 +3548,11 @@ https://github.com/cw-leia/smartleia-target-applet,True
 https://github.com/datagir/Ecolab,False
 https://github.com/datagir/agribalyse,True
 https://github.com/datagir/datagir-site,False
-https://github.com/datagir/ecolab-agribalyse-recherche,False
+https://github.com/datagir/ecolab-agribalyse-recherche,True
 https://github.com/datagir/ecolab-alimentation,True
 https://github.com/datagir/ecolab-recherche-agribalyse,False
 https://github.com/datagir/mesfruitsetlegumesdesaison,False
-https://github.com/datagir/mon-impact-transport,False
+https://github.com/datagir/mon-impact-transport,True
 https://github.com/datagir/monconvertisseurco2,False
 https://github.com/datagir/nosgestesclimat,True
 https://github.com/datagir/nosgestesclimat-site,True
@@ -3915,6 +3916,7 @@ https://github.com/etalab-ia/data_science_template,True
 https://github.com/etalab-ia/demo-piaf,True
 https://github.com/etalab-ia/florian_opendatascience,True
 https://github.com/etalab-ia/knowledge-base,True
+https://github.com/etalab-ia/mlflow-docker,False
 https://github.com/etalab-ia/open_ML,True
 https://github.com/etalab-ia/opendatascience,True
 https://github.com/etalab-ia/piaf-code,True
@@ -4120,6 +4122,7 @@ https://github.com/etalab/lois-non-codifiees-et-reglements-francais,True
 https://github.com/etalab/majic,True
 https://github.com/etalab/mastodon-stats,True
 https://github.com/etalab/mediawiki-etalab-skin,True
+https://github.com/etalab/moissonneur-bal,False
 https://github.com/etalab/monReseauMobile,True
 https://github.com/etalab/monitor-consolidation,True
 https://github.com/etalab/monuments-historiques,True
@@ -4279,7 +4282,7 @@ https://github.com/ezpaarse-project/node-ezunpaywall,True
 https://github.com/ezpaarse-project/readmetrics,True
 https://github.com/ezpaarse-project/readmetrics-scripts,True
 https://github.com/ezpaarse-project/slides,True
-https://github.com/ezpaarse-project/workadventure-inist-map,False
+https://github.com/ezpaarse-project/workadventure-inist-map,True
 https://github.com/fabnumdef/GeoGate,True
 https://github.com/fabnumdef/chatbot-back,True
 https://github.com/fabnumdef/chatbot-front,True
@@ -4994,6 +4997,7 @@ https://github.com/neuroanatomy/CoactivationMap.app,True
 https://github.com/neuroanatomy/FerretDiffusionTractTracingComparison,True
 https://github.com/neuroanatomy/GWPC,True
 https://github.com/neuroanatomy/GuerrillaPLI,True
+https://github.com/neuroanatomy/NeuroWebLab,False
 https://github.com/neuroanatomy/QCApp,True
 https://github.com/neuroanatomy/QCApp-Cb,True
 https://github.com/neuroanatomy/QCApp-vsub,True
@@ -6032,7 +6036,7 @@ https://gitlab.huma-num.fr/rzine/add_author,True
 https://gitlab.huma-num.fr/rzine/add_news,True
 https://gitlab.huma-num.fr/rzine/add_publication,True
 https://gitlab.huma-num.fr/rzine/documentation,True
-https://gitlab.huma-num.fr/rzine/package,False
+https://gitlab.huma-num.fr/rzine/package,True
 https://gitlab.huma-num.fr/rzine/site,True
 https://gitlab.huma-num.fr/tip/flatdb4geonames,True
 https://gitlab.huma-num.fr/tip/geneaquilt,True
@@ -7771,8 +7775,9 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/9/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/01/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/02/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/05/STM32_BerkeleySocketsServer,True
+https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/05/STM32_CycloneServer,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/05/STM32_MinnowServer,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/05/STM32_MongooseServer,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/05/STM32_MongooseServer,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/05/cansniffer,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/05/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/05/raspberry,True
