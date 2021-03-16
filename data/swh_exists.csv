@@ -122,6 +122,7 @@ https://forge.univ-lyon1.fr/aml-lyon1/actionrobot,True
 https://forge.univ-lyon1.fr/aml-lyon1/campusdulibre,True
 https://forge.univ-lyon1.fr/bd-pedago/bd-pedago,True
 https://forge.univ-lyon1.fr/bpn/moduleimage,True
+https://forge.univ-lyon1.fr/bpn/projet,False
 https://forge.univ-lyon1.fr/cannes-cpoa/accommodation-management,True
 https://forge.univ-lyon1.fr/cannes-cpoa/ihm,True
 https://forge.univ-lyon1.fr/cannes-cpoa/ihm-agenda,True
@@ -462,6 +463,7 @@ https://forgemia.inra.fr/umr-1202-biogeco/how-to-reproductibility,True
 https://forgemia.inra.fr/umr-1202-biogeco/snakemake_singularity_hpc,True
 https://forgemia.inra.fr/umr-astre/amr-laos,True
 https://forgemia.inra.fr/umr-astre/asf-challenge,True
+https://forgemia.inra.fr/umr-astre/asf-speed,False
 https://forgemia.inra.fr/umr-astre/cirad,True
 https://forgemia.inra.fr/umr-astre/covid19-mortality,True
 https://forgemia.inra.fr/umr-astre/epidmap,True
@@ -881,7 +883,7 @@ https://github.com/ANSSI-FR/ADCP-libdev,True
 https://github.com/ANSSI-FR/ADTimeline,True
 https://github.com/ANSSI-FR/ASCAD,True
 https://github.com/ANSSI-FR/Binacle,True
-https://github.com/ANSSI-FR/DFIR-O365RC,False
+https://github.com/ANSSI-FR/DFIR-O365RC,True
 https://github.com/ANSSI-FR/FreeSpec,True
 https://github.com/ANSSI-FR/MLA,True
 https://github.com/ANSSI-FR/ORADAD,True
