@@ -1364,7 +1364,7 @@ https://github.com/Envinorma/arretes_ministeriels,True
 https://github.com/Envinorma/envinorma-data,True
 https://github.com/Envinorma/envinorma-web,True
 https://github.com/Envinorma/envinorma.github.io,True
-https://github.com/Envinorma/pdf_ocr_app,False
+https://github.com/Envinorma/pdf_ocr_app,True
 https://github.com/EsupPortail/CMoodle-proxy-portlet,True
 https://github.com/EsupPortail/Esup-Pod,True
 https://github.com/EsupPortail/EsupUserApps,True
@@ -3546,13 +3546,13 @@ https://github.com/datagir/Ecolab,False
 https://github.com/datagir/agribalyse,True
 https://github.com/datagir/datagir-site,False
 https://github.com/datagir/ecolab-agribalyse-recherche,False
-https://github.com/datagir/ecolab-alimentation,False
+https://github.com/datagir/ecolab-alimentation,True
 https://github.com/datagir/ecolab-recherche-agribalyse,False
 https://github.com/datagir/mesfruitsetlegumesdesaison,False
 https://github.com/datagir/mon-impact-transport,False
 https://github.com/datagir/monconvertisseurco2,False
 https://github.com/datagir/nosgestesclimat,True
-https://github.com/datagir/nosgestesclimat-site,False
+https://github.com/datagir/nosgestesclimat-site,True
 https://github.com/datalocale/BinFul,True
 https://github.com/datalocale/ECV-IJBA,True
 https://github.com/datalocale/G8_Metadata_Mapping,True
@@ -6029,6 +6029,7 @@ https://gitlab.huma-num.fr/rzine/add_author,True
 https://gitlab.huma-num.fr/rzine/add_news,True
 https://gitlab.huma-num.fr/rzine/add_publication,True
 https://gitlab.huma-num.fr/rzine/documentation,True
+https://gitlab.huma-num.fr/rzine/package,False
 https://gitlab.huma-num.fr/rzine/site,True
 https://gitlab.huma-num.fr/tip/flatdb4geonames,True
 https://gitlab.huma-num.fr/tip/geneaquilt,True
