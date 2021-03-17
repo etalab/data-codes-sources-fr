@@ -4997,7 +4997,7 @@ https://github.com/neuroanatomy/CoactivationMap.app,True
 https://github.com/neuroanatomy/FerretDiffusionTractTracingComparison,True
 https://github.com/neuroanatomy/GWPC,True
 https://github.com/neuroanatomy/GuerrillaPLI,True
-https://github.com/neuroanatomy/NeuroWebLab,False
+https://github.com/neuroanatomy/NeuroWebLab,True
 https://github.com/neuroanatomy/QCApp,True
 https://github.com/neuroanatomy/QCApp-Cb,True
 https://github.com/neuroanatomy/QCApp-vsub,True
@@ -7678,7 +7678,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/ResifYAMLfiles,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/budindexer,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/cronjobs-k8s,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/datadump,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/deploy-k8s,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/deploy-k8s,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/es2pg-aggregators,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/fdsnextender,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/fdsnwsstat,True
