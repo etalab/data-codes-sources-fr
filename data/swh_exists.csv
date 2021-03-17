@@ -3551,7 +3551,7 @@ https://github.com/datagir/datagir-site,False
 https://github.com/datagir/ecolab-agribalyse-recherche,True
 https://github.com/datagir/ecolab-alimentation,True
 https://github.com/datagir/ecolab-recherche-agribalyse,False
-https://github.com/datagir/mesfruitsetlegumesdesaison,False
+https://github.com/datagir/mesfruitsetlegumesdesaison,True
 https://github.com/datagir/mon-impact-transport,True
 https://github.com/datagir/monconvertisseurco2,False
 https://github.com/datagir/nosgestesclimat,True
@@ -4486,6 +4486,7 @@ https://github.com/leximpact/leximpact-client,True
 https://github.com/leximpact/leximpact-nouveau-sujet,True
 https://github.com/leximpact/leximpact-server,True
 https://github.com/leximpact/openfisca-france-dotations-locales,True
+https://github.com/leximpact/openfisca-waterfall,False
 https://github.com/linbox-team/fflas-ffpack,True
 https://github.com/linbox-team/givaro,True
 https://github.com/linbox-team/linbox,True
@@ -7092,6 +7093,7 @@ https://gitlab.inria.fr/nix-tutorial/presentation-slides,True
 https://gitlab.inria.fr/obelix/broceliande,True
 https://gitlab.inria.fr/obelix/triskele,True
 https://gitlab.inria.fr/open-mx/open-mx,True
+https://gitlab.inria.fr/openbiscuit/rescience_egbert14,False
 https://gitlab.inria.fr/openmp/clang,True
 https://gitlab.inria.fr/openmp/energy,True
 https://gitlab.inria.fr/openmp/enertools,True
@@ -7169,7 +7171,7 @@ https://gitlab.inria.fr/regular-pv/timbuk/ocaml,True
 https://gitlab.inria.fr/regular-pv/timbuk/timbuk,True
 https://gitlab.inria.fr/reo/transport-in-1d-networks,True
 https://gitlab.inria.fr/resibots/public/py_map_elites,True
-https://gitlab.inria.fr/revol/mpfi,False
+https://gitlab.inria.fr/revol/mpfi,True
 https://gitlab.inria.fr/rmod-public/2019-sourcecodedata,True
 https://gitlab.inria.fr/rmod-public/steven-tests/steven-tests.gitlab.inria.fr,False
 https://gitlab.inria.fr/rsed1/documentation,False
