@@ -485,6 +485,7 @@ https://forgemia.inra.fr/umrf/dairydb,True
 https://forgemia.inra.fr/umrf/exploremetabar,True
 https://forgemia.inra.fr/umrf/ranomaly,True
 https://forgemia.inra.fr/umrf/utopia,True
+https://forgemia.inra.fr/urep/appToolbox,False
 https://forgemia.inra.fr/urep/docs/bonpland,True
 https://forgemia.inra.fr/urep/docs/demorpackage,True
 https://forgemia.inra.fr/urep/soere-acbb-pp/documentation,False
@@ -2157,6 +2158,7 @@ https://github.com/MTES-MCT/permis-construire,True
 https://github.com/MTES-MCT/portail,True
 https://github.com/MTES-MCT/potentiel,True
 https://github.com/MTES-MCT/rapportNav,True
+https://github.com/MTES-MCT/resorption-bidonvilles-deploy,False
 https://github.com/MTES-MCT/rieau,True
 https://github.com/MTES-MCT/rieau-api,True
 https://github.com/MTES-MCT/rieau-infra,True
@@ -2556,6 +2558,7 @@ https://github.com/SocialGouv/tutoriel-gitlab,True
 https://github.com/SocialGouv/ui,False
 https://github.com/SocialGouv/upptime,True
 https://github.com/SocialGouv/veille-git,True
+https://github.com/SocialGouv/web-dashboard,False
 https://github.com/SocialGouv/webseal,True
 https://github.com/SocialGouv/work-in-france,True
 https://github.com/SocialGouv/work-in-france-backoffice,True
@@ -3803,7 +3806,7 @@ https://github.com/entrepreneur-interet-general/vue-python-starter-kit,True
 https://github.com/entrepreneur-interet-general/word_convertor,True
 https://github.com/eole/ad-formula,True
 https://github.com/eole/addon-context-linux,True
-https://github.com/eole/cert-formula,False
+https://github.com/eole/cert-formula,True
 https://github.com/eole/clients-linux-scribe,True
 https://github.com/eole/dhcpd-formula,True
 https://github.com/eole/docs,True
@@ -4345,7 +4348,7 @@ https://github.com/gemoc/org.eclipse.sirius,True
 https://github.com/gemoc/petrinet,True
 https://github.com/gemoc/plastic,True
 https://github.com/gemoc/resist,True
-https://github.com/gemoc/studio-execution-truffle,False
+https://github.com/gemoc/studio-execution-truffle,True
 https://github.com/gemoc/xCapella,True
 https://github.com/genotoul-bioinfo/WorkflowFrameworkComparison,True
 https://github.com/genotoul-bioinfo/configs,True
@@ -7067,6 +7070,7 @@ https://gitlab.inria.fr/mosaic/mosaic-commons,True
 https://gitlab.inria.fr/mosaic/publications/lpy2pc,True
 https://gitlab.inria.fr/mosaic/publications/protoplast,True
 https://gitlab.inria.fr/mosaic/publications/sam_spaghetti,True
+https://gitlab.inria.fr/mosaic/publications/seed_sup_mat,False
 https://gitlab.inria.fr/mosaic/publications/tissue2d,True
 https://gitlab.inria.fr/mosaic/timagetk,True
 https://gitlab.inria.fr/mosaic/tissue_analysis,True
