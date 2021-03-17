@@ -470,7 +470,7 @@ https://forgemia.inra.fr/umr-astre/epidmap,True
 https://forgemia.inra.fr/umr-astre/geonetwork,True
 https://forgemia.inra.fr/umr-astre/mapMCDA,True
 https://forgemia.inra.fr/umr-astre/ppp-oie,True
-https://forgemia.inra.fr/umr-astre/rvf_mrt,False
+https://forgemia.inra.fr/umr-astre/rvf_mrt,True
 https://forgemia.inra.fr/umr-astre/spreadrate,True
 https://forgemia.inra.fr/umr-astre/topomatch,True
 https://forgemia.inra.fr/umr-astre/training/notions_stats,True
@@ -1880,6 +1880,7 @@ https://github.com/InseeFr/Eno,True
 https://github.com/InseeFr/Eno-CLI,True
 https://github.com/InseeFr/Eno-WS,True
 https://github.com/InseeFr/IAM,True
+https://github.com/InseeFr/Impala,False
 https://github.com/InseeFr/JDCruncheR,True
 https://github.com/InseeFr/Keycloak-FranceConnect,True
 https://github.com/InseeFr/Lunatic,True
@@ -2211,7 +2212,7 @@ https://github.com/OpenCTI-Platform/maltego-stix2,False
 https://github.com/OpenCTI-Platform/migration_script_v4,True
 https://github.com/OpenCTI-Platform/opencti,True
 https://github.com/OpenCTI-Platform/opencti-maltego,False
-https://github.com/OpenCTI-Platform/opencti-terraform,False
+https://github.com/OpenCTI-Platform/opencti-terraform,True
 https://github.com/OpenEdition/NormAFE,True
 https://github.com/OpenEdition/OTX,True
 https://github.com/OpenEdition/bilbo,True
@@ -2949,6 +2950,7 @@ https://github.com/betagouv/budget,True
 https://github.com/betagouv/calcul-co2-inverse,True
 https://github.com/betagouv/ccas,True
 https://github.com/betagouv/cerfa-form-filler,True
+https://github.com/betagouv/chatwoot,False
 https://github.com/betagouv/civilsdeladefense,True
 https://github.com/betagouv/co-constuisons-api,True
 https://github.com/betagouv/co-constuisons-bot,True
@@ -3626,6 +3628,9 @@ https://github.com/diplomatiegouvfr/hornet-themes-intranet,True
 https://github.com/diplomatiegouvfr/tomcat8-instance,True
 https://github.com/diverse-project/CapellaRover,True
 https://github.com/diverse-project/ContreMaitre,True
+https://github.com/diverse-project/FOReverSE-AFMSynthesis,False
+https://github.com/diverse-project/FOReverSE-AFMSynthesis-Evaluation,False
+https://github.com/diverse-project/FOReverSE-KSynthesis,False
 https://github.com/diverse-project/ICPE-2021,True
 https://github.com/diverse-project/ICPE2020,True
 https://github.com/diverse-project/InspectorGuidget,True
@@ -3633,6 +3638,7 @@ https://github.com/diverse-project/MML-classification,True
 https://github.com/diverse-project/MML-regression,True
 https://github.com/diverse-project/RA2018,True
 https://github.com/diverse-project/SAT-DSLmorphic,True
+https://github.com/diverse-project/SPLC-16,False
 https://github.com/diverse-project/alex,True
 https://github.com/diverse-project/dev-dashboard,True
 https://github.com/diverse-project/diverse-project.github.io,True
