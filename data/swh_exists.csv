@@ -1484,6 +1484,7 @@ https://github.com/GHFC/genevo,True
 https://github.com/GHFC/neanderthal-synapse,True
 https://github.com/GHFC/sinagot,True
 https://github.com/GIP-RECIA/Bourse-WS,True
+https://github.com/GIP-RECIA/Cachet,False
 https://github.com/GIP-RECIA/CalendarPortlet,True
 https://github.com/GIP-RECIA/ContactsPortlet,True
 https://github.com/GIP-RECIA/DocENT,True
@@ -2452,6 +2453,7 @@ https://github.com/SocialGouv/datafiller-data,True
 https://github.com/SocialGouv/dila-api-client,True
 https://github.com/SocialGouv/dila-tests-api,True
 https://github.com/SocialGouv/dila2sql,True
+https://github.com/SocialGouv/dnum-dashboard,False
 https://github.com/SocialGouv/docker,True
 https://github.com/SocialGouv/documentation-api,True
 https://github.com/SocialGouv/domifa,True
@@ -2559,7 +2561,7 @@ https://github.com/SocialGouv/tutoriel-gitlab,True
 https://github.com/SocialGouv/ui,False
 https://github.com/SocialGouv/upptime,True
 https://github.com/SocialGouv/veille-git,True
-https://github.com/SocialGouv/web-dashboard,False
+https://github.com/SocialGouv/web-dashboard,True
 https://github.com/SocialGouv/webseal,True
 https://github.com/SocialGouv/work-in-france,True
 https://github.com/SocialGouv/work-in-france-backoffice,True
@@ -2803,6 +2805,7 @@ https://github.com/ambanum/political-ads-legality-server,True
 https://github.com/ambanum/political-ads-scraper,True
 https://github.com/ambanum/prettier-config,True
 https://github.com/ambanum/server-config,True
+https://github.com/ambanum/twint,False
 https://github.com/assurance-maladie-digital/XF-Material-Library,True
 https://github.com/assurance-maladie-digital/api-droits-fs-doc,True
 https://github.com/assurance-maladie-digital/api-droits-fs-exemple-php,True
@@ -3099,6 +3102,7 @@ https://github.com/betagouv/meteor-assemblee-nationale,True
 https://github.com/betagouv/mon-entreprise,True
 https://github.com/betagouv/monitoring.api.gouv.fr,True
 https://github.com/betagouv/monstage,True
+https://github.com/betagouv/monstage-backup-manager,False
 https://github.com/betagouv/movie-app,True
 https://github.com/betagouv/mpal,True
 https://github.com/betagouv/mpal-deploy,True
@@ -7252,6 +7256,7 @@ https://gitlab.inria.fr/serpico/motion2d,False
 https://gitlab.inria.fr/serpico/mwr,True
 https://gitlab.inria.fr/serpico/ndsafir,True
 https://gitlab.inria.fr/serpico/ndsafir_bin,True
+https://gitlab.inria.fr/serpico/opticalflow,False
 https://gitlab.inria.fr/serpico/owf_bin,True
 https://gitlab.inria.fr/serpico/serpico-notebooks,True
 https://gitlab.inria.fr/serpico/spitfire,True
