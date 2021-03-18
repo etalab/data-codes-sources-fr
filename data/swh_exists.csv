@@ -463,7 +463,7 @@ https://forgemia.inra.fr/umr-1202-biogeco/how-to-reproductibility,True
 https://forgemia.inra.fr/umr-1202-biogeco/snakemake_singularity_hpc,True
 https://forgemia.inra.fr/umr-astre/amr-laos,True
 https://forgemia.inra.fr/umr-astre/asf-challenge,True
-https://forgemia.inra.fr/umr-astre/asf-speed,False
+https://forgemia.inra.fr/umr-astre/asf-speed,True
 https://forgemia.inra.fr/umr-astre/cirad,True
 https://forgemia.inra.fr/umr-astre/covid19-mortality,True
 https://forgemia.inra.fr/umr-astre/epidmap,True
@@ -3743,6 +3743,7 @@ https://github.com/entrepreneur-interet-general/addocker,True
 https://github.com/entrepreneur-interet-general/addok-fr,True
 https://github.com/entrepreneur-interet-general/agenda-eig2018,True
 https://github.com/entrepreneur-interet-general/api-ccomptes,True
+https://github.com/entrepreneur-interet-general/applications-review,False
 https://github.com/entrepreneur-interet-general/archapp,True
 https://github.com/entrepreneur-interet-general/archypoint,True
 https://github.com/entrepreneur-interet-general/brigade-numerique,True
@@ -4197,6 +4198,7 @@ https://github.com/etalab/schema-inclusion-numerique,True
 https://github.com/etalab/schema-irve,True
 https://github.com/etalab/schema-lieux-covoiturage,True
 https://github.com/etalab/schema-plf,True
+https://github.com/etalab/schema-sdirve,False
 https://github.com/etalab/schema-stationnement,True
 https://github.com/etalab/schema-stationnement-cyclable,True
 https://github.com/etalab/schema-template,True
@@ -4501,7 +4503,7 @@ https://github.com/leximpact/leximpact-client,True
 https://github.com/leximpact/leximpact-nouveau-sujet,True
 https://github.com/leximpact/leximpact-server,True
 https://github.com/leximpact/openfisca-france-dotations-locales,True
-https://github.com/leximpact/openfisca-waterfall,False
+https://github.com/leximpact/openfisca-waterfall,True
 https://github.com/linbox-team/fflas-ffpack,True
 https://github.com/linbox-team/givaro,True
 https://github.com/linbox-team/linbox,True
@@ -5992,6 +5994,7 @@ https://gitlab.huma-num.fr/eurhisfirm/test-app-saisie,True
 https://gitlab.huma-num.fr/eurhisfirm/test-import-bot,True
 https://gitlab.huma-num.fr/fp-lab/fplabsite,True
 https://gitlab.huma-num.fr/geographie-cites/autobiopedia,True
+https://gitlab.huma-num.fr/huma-num-public/documentation,False
 https://gitlab.huma-num.fr/huma-num-public/next-auth-nakala,True
 https://gitlab.huma-num.fr/irihs/NakalaTools,True
 https://gitlab.huma-num.fr/irihs/flaubertexport,True
@@ -7335,6 +7338,7 @@ https://gitlab.inria.fr/starpu/starpu.gitlabpages.inria.fr,True
 https://gitlab.inria.fr/statify_public/anzj-crash,True
 https://gitlab.inria.fr/statify_public/interstices_neuro,True
 https://gitlab.inria.fr/steep/urbansprawl/urbansprawl-lib,True
+https://gitlab.inria.fr/stopcovid19/CLEA-exposure-verification,False
 https://gitlab.inria.fr/stopcovid19/accueil,True
 https://gitlab.inria.fr/stopcovid19/robert-client-api-spec,True
 https://gitlab.inria.fr/stopcovid19/robert-server,True
