@@ -122,7 +122,7 @@ https://forge.univ-lyon1.fr/aml-lyon1/actionrobot,True
 https://forge.univ-lyon1.fr/aml-lyon1/campusdulibre,True
 https://forge.univ-lyon1.fr/bd-pedago/bd-pedago,True
 https://forge.univ-lyon1.fr/bpn/moduleimage,True
-https://forge.univ-lyon1.fr/bpn/projet,False
+https://forge.univ-lyon1.fr/bpn/projet,True
 https://forge.univ-lyon1.fr/cannes-cpoa/accommodation-management,True
 https://forge.univ-lyon1.fr/cannes-cpoa/ihm,True
 https://forge.univ-lyon1.fr/cannes-cpoa/ihm-agenda,True
@@ -3653,6 +3653,7 @@ https://github.com/diverse-project/kcvl,True
 https://github.com/diverse-project/kermeta,True
 https://github.com/diverse-project/kermeta2,True
 https://github.com/diverse-project/matisseTemplate,True
+https://github.com/diverse-project/matrix-miner-engine,False
 https://github.com/diverse-project/maven-miner,True
 https://github.com/diverse-project/melange,True
 https://github.com/diverse-project/melange-examples,True
@@ -4131,7 +4132,7 @@ https://github.com/etalab/lois-non-codifiees-et-reglements-francais,True
 https://github.com/etalab/majic,True
 https://github.com/etalab/mastodon-stats,True
 https://github.com/etalab/mediawiki-etalab-skin,True
-https://github.com/etalab/moissonneur-bal,False
+https://github.com/etalab/moissonneur-bal,True
 https://github.com/etalab/monReseauMobile,True
 https://github.com/etalab/monitor-consolidation,True
 https://github.com/etalab/monuments-historiques,True
@@ -4406,6 +4407,7 @@ https://github.com/ina-foss/voxo-dashboard,True
 https://github.com/ina-foss/voxo-docker,True
 https://github.com/ina-foss/voxo-lib,True
 https://github.com/incubateur-territoires/demo-mesaides28,True
+https://github.com/incubateur-territoires/incubateur-directus,False
 https://github.com/incubateur-territoires/incubateur-strapi,True
 https://github.com/incubateur-territoires/incubateur.anct.gouv.fr,True
 https://github.com/incubateur-territoires/osp-app,True
