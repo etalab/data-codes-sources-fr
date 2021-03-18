@@ -3657,7 +3657,7 @@ https://github.com/diverse-project/kcvl,True
 https://github.com/diverse-project/kermeta,True
 https://github.com/diverse-project/kermeta2,True
 https://github.com/diverse-project/matisseTemplate,True
-https://github.com/diverse-project/matrix-miner-engine,False
+https://github.com/diverse-project/matrix-miner-engine,True
 https://github.com/diverse-project/maven-miner,True
 https://github.com/diverse-project/melange,True
 https://github.com/diverse-project/melange-examples,True
@@ -4727,7 +4727,7 @@ https://github.com/medialab/drive-in,True
 https://github.com/medialab/drive-out,True
 https://github.com/medialab/ds-engine-poc,True
 https://github.com/medialab/edx_helpers,True
-https://github.com/medialab/exp-ai,False
+https://github.com/medialab/exp-ai,True
 https://github.com/medialab/fabrique-fragmentation,True
 https://github.com/medialab/fabrique-typo-amendements,True
 https://github.com/medialab/factiva-search-urls,True
@@ -7882,6 +7882,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/enseignement1/m2cci/java/text-index
 https://gricad-gitlab.univ-grenoble-alpes.fr/enseignement1/m2cci/java/theatredemo,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/enseignement1/m2cci/java/tp09-exceptions,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/enseignement1/m2cci/javascript/visagesanimes_correction,True
+https://gricad-gitlab.univ-grenoble-alpes.fr/enseignement1/m2cci/projetintegration,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/ensimag/poly-intro-unix,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/foceta/requirements-management,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/formations-statistiques-R/CED-Bases-Stat-R,True
