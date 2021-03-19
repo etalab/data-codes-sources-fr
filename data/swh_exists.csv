@@ -3555,7 +3555,7 @@ https://github.com/cw-leia/smartleia,True
 https://github.com/cw-leia/smartleia-doc,True
 https://github.com/cw-leia/smartleia-target,True
 https://github.com/cw-leia/smartleia-target-applet,True
-https://github.com/datagir/Ecolab,False
+https://github.com/datagir/Ecolab,True
 https://github.com/datagir/agribalyse,True
 https://github.com/datagir/datagir-site,False
 https://github.com/datagir/ecolab-agribalyse-recherche,True
@@ -4506,6 +4506,7 @@ https://github.com/leximpact/leximpact-nouveau-sujet,True
 https://github.com/leximpact/leximpact-server,True
 https://github.com/leximpact/openfisca-france-dotations-locales,True
 https://github.com/leximpact/openfisca-waterfall,True
+https://github.com/leximpact/tweet-archiveur,False
 https://github.com/linbox-team/fflas-ffpack,True
 https://github.com/linbox-team/givaro,True
 https://github.com/linbox-team/linbox,True
@@ -7094,7 +7095,7 @@ https://gitlab.inria.fr/mosaic/tissue_analysis,True
 https://gitlab.inria.fr/mosaic/tissue_nukem_3d,True
 https://gitlab.inria.fr/mosaic/tissue_paredes,True
 https://gitlab.inria.fr/mpc/mpc,True
-https://gitlab.inria.fr/mpfi/mpfi,False
+https://gitlab.inria.fr/mpfi/mpfi,True
 https://gitlab.inria.fr/mpfq/mpfq,True
 https://gitlab.inria.fr/multicellular_modelling/libsbml,True
 https://gitlab.inria.fr/multicellular_modelling/public/cellsegmquant,True
@@ -7257,7 +7258,7 @@ https://gitlab.inria.fr/serpico/genloc3d_bin,True
 https://gitlab.inria.fr/serpico/hotspotdetection,True
 https://gitlab.inria.fr/serpico/hulkground_bin,True
 https://gitlab.inria.fr/serpico/matirf,True
-https://gitlab.inria.fr/serpico/motion2d,False
+https://gitlab.inria.fr/serpico/motion2d,True
 https://gitlab.inria.fr/serpico/mwr,True
 https://gitlab.inria.fr/serpico/ndsafir,True
 https://gitlab.inria.fr/serpico/ndsafir_bin,True
