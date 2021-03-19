@@ -1882,7 +1882,7 @@ https://github.com/InseeFr/Eno,True
 https://github.com/InseeFr/Eno-CLI,True
 https://github.com/InseeFr/Eno-WS,True
 https://github.com/InseeFr/IAM,True
-https://github.com/InseeFr/Impala,False
+https://github.com/InseeFr/Impala,True
 https://github.com/InseeFr/JDCruncheR,True
 https://github.com/InseeFr/Keycloak-FranceConnect,True
 https://github.com/InseeFr/Lunatic,True
@@ -2104,7 +2104,7 @@ https://github.com/MTES-MCT/camino-landingpage,True
 https://github.com/MTES-MCT/camino-matomo,True
 https://github.com/MTES-MCT/camino-portainer,True
 https://github.com/MTES-MCT/camino-scripting,True
-https://github.com/MTES-MCT/camino-spreadsheets,False
+https://github.com/MTES-MCT/camino-spreadsheets,True
 https://github.com/MTES-MCT/camino-ui,True
 https://github.com/MTES-MCT/carbure,True
 https://github.com/MTES-MCT/cerbere-nodejs,True
@@ -3563,7 +3563,7 @@ https://github.com/datagir/ecolab-alimentation,True
 https://github.com/datagir/ecolab-recherche-agribalyse,False
 https://github.com/datagir/mesfruitsetlegumesdesaison,True
 https://github.com/datagir/mon-impact-transport,True
-https://github.com/datagir/monconvertisseurco2,False
+https://github.com/datagir/monconvertisseurco2,True
 https://github.com/datagir/nosgestesclimat,True
 https://github.com/datagir/nosgestesclimat-site,True
 https://github.com/datalocale/BinFul,True
@@ -5291,6 +5291,7 @@ https://github.com/openfun/politique-de-contribution-open-source,True
 https://github.com/openfun/poss-2018,True
 https://github.com/openfun/potsie,True
 https://github.com/openfun/proctoru-xblock,True
+https://github.com/openfun/prosody-test,False
 https://github.com/openfun/ralph,True
 https://github.com/openfun/richie,True
 https://github.com/openfun/richie-cnfpt,True
@@ -5924,7 +5925,7 @@ https://gitlab.com/healthdatahub/open-data/open-damir,True
 https://gitlab.com/healthdatahub/programmes-sdns,True
 https://gitlab.com/healthdatahub/programmes-snds,True
 https://gitlab.com/healthdatahub/schema-snds,True
-https://gitlab.com/healthdatahub/synthetic-generator,False
+https://gitlab.com/healthdatahub/synthetic-generator,True
 https://gitlab.com/healthdatahub/synthetic-snds,True
 https://gitlab.com/healthdatahub/tsfaker,True
 https://gitlab.com/musee-saint-raymond/villa-chiragan,True
@@ -6762,6 +6763,7 @@ https://gitlab.inria.fr/gazelle/library/gazelle-preferences,True
 https://gitlab.inria.fr/gazelle/library/gazelle-tools,True
 https://gitlab.inria.fr/gazelle/library/home,True
 https://gitlab.inria.fr/gazelle/library/hql,True
+https://gitlab.inria.fr/gazelle/library/message-content-analyzer,False
 https://gitlab.inria.fr/gazelle/library/preference,True
 https://gitlab.inria.fr/gazelle/library/tool,True
 https://gitlab.inria.fr/gazelle/library/ui-service,True
@@ -7341,7 +7343,7 @@ https://gitlab.inria.fr/starpu/starpu.gitlabpages.inria.fr,True
 https://gitlab.inria.fr/statify_public/anzj-crash,True
 https://gitlab.inria.fr/statify_public/interstices_neuro,True
 https://gitlab.inria.fr/steep/urbansprawl/urbansprawl-lib,True
-https://gitlab.inria.fr/stopcovid19/CLEA-exposure-verification,False
+https://gitlab.inria.fr/stopcovid19/CLEA-exposure-verification,True
 https://gitlab.inria.fr/stopcovid19/accueil,True
 https://gitlab.inria.fr/stopcovid19/robert-client-api-spec,True
 https://gitlab.inria.fr/stopcovid19/robert-server,True
@@ -7589,7 +7591,7 @@ https://gitlab.u-psud.fr/Info114/sujets,True
 https://gitlab.u-psud.fr/Info122/Info122,True
 https://gitlab.u-psud.fr/Info122/Info122-sujets,True
 https://gitlab.u-psud.fr/L1InfoIntroScienceDonnees/ComputerLab,True
-https://gitlab.u-psud.fr/L1InfoIntroScienceDonnees/Instructors,False
+https://gitlab.u-psud.fr/L1InfoIntroScienceDonnees/Instructors,True
 https://gitlab.u-psud.fr/MethNum/ComputerLab,True
 https://gitlab.u-psud.fr/MethNum/nbgrader,True
 https://gitlab.u-psud.fr/MethNum/scripts,True
@@ -7718,6 +7720,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/resif-madmp,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/resif-robotframework-tests,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/resif-routing,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/resif-routing-k8s,True
+https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/resif2eidastats,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/resif_docker,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/rsync-resif-k8s,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/rtconfig,True
@@ -7801,7 +7804,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/9/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/01/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/02/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/05/STM32_BerkeleySocketsServer,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/05/STM32_CycloneServer,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/05/STM32_CycloneServer,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/05/STM32_MinnowServer,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/05/STM32_MongooseServer,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/05/cansniffer,True
@@ -7926,6 +7929,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/kubernetes-alpes/docker-registry,Tr
 https://gricad-gitlab.univ-grenoble-alpes.fr/kubernetes-alpes/dockerfile-for-prod,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/kubernetes-alpes/formations/docker,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/kubernetes-alpes/formations/kubernetes,True
+https://gricad-gitlab.univ-grenoble-alpes.fr/kubernetes-alpes/formations/vapormap,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/kubernetes-alpes/nova-k8s,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/kubernetes-alpes/nova-k8s-tf,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/kubernetes-alpes/nova-packer,True
