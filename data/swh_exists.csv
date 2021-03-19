@@ -1971,6 +1971,7 @@ https://github.com/InseeFrLab/onyxia,True
 https://github.com/InseeFrLab/onyxia-api,True
 https://github.com/InseeFrLab/onyxia-cli,True
 https://github.com/InseeFrLab/onyxia-design-system,True
+https://github.com/InseeFrLab/onyxia-onboarding,False
 https://github.com/InseeFrLab/onyxia-ui,True
 https://github.com/InseeFrLab/predicat,True
 https://github.com/InseeFrLab/product-labelling,True
@@ -2700,7 +2701,7 @@ https://github.com/abes-esr/licencesnationales-back,True
 https://github.com/abes-esr/licencesnationales-front,True
 https://github.com/abes-esr/ln-back-event,False
 https://github.com/abes-esr/ln-front,False
-https://github.com/abes-esr/marcxml2tei,False
+https://github.com/abes-esr/marcxml2tei,True
 https://github.com/abes-esr/periscope-back,True
 https://github.com/abes-esr/periscope-front,True
 https://github.com/abes-esr/periscope-indexing-ws,True
@@ -3634,7 +3635,7 @@ https://github.com/diplomatiegouvfr/tomcat8-instance,True
 https://github.com/diverse-project/CapellaRover,True
 https://github.com/diverse-project/ContreMaitre,True
 https://github.com/diverse-project/FOReverSE-AFMSynthesis,True
-https://github.com/diverse-project/FOReverSE-AFMSynthesis-Evaluation,False
+https://github.com/diverse-project/FOReverSE-AFMSynthesis-Evaluation,True
 https://github.com/diverse-project/FOReverSE-KSynthesis,False
 https://github.com/diverse-project/ICPE-2021,True
 https://github.com/diverse-project/ICPE2020,True
@@ -5905,6 +5906,7 @@ https://gitlab.com/fabnum-minarm/igloo/terraform/modules/timescaledb,True
 https://gitlab.com/fabnum-minarm/igloo/terraform/projects/_template,True
 https://gitlab.com/fabnum-minarm/igloo/terraform/projects/alpps,True
 https://gitlab.com/fabnum-minarm/igloo/terraform/projects/anais,True
+https://gitlab.com/fabnum-minarm/igloo/terraform/projects/cassiopee,False
 https://gitlab.com/fabnum-minarm/igloo/terraform/projects/sepia,True
 https://gitlab.com/fabnum-minarm/metiis/backend,True
 https://gitlab.com/fabnum-minarm/metiis/frontend,True
@@ -6966,6 +6968,7 @@ https://gitlab.inria.fr/line/aide-group/jsdoc2,False
 https://gitlab.inria.fr/line/aide-group/ozobot-api,True
 https://gitlab.inria.fr/line/aide-group/ozobot-lib,True
 https://gitlab.inria.fr/line/aide-group/persistentdata,True
+https://gitlab.inria.fr/line/aide-group/robotination,False
 https://gitlab.inria.fr/line/aide-group/slugstring,True
 https://gitlab.inria.fr/line/aide-group/stepsolver,True
 https://gitlab.inria.fr/line/aide-group/tabletop,True
@@ -7720,7 +7723,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/resif-madmp,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/resif-robotframework-tests,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/resif-routing,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/resif-routing-k8s,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/resif2eidastats,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/resif2eidastats,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/resif_docker,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/rsync-resif-k8s,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/rtconfig,True
