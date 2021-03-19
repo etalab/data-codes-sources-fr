@@ -1157,6 +1157,7 @@ https://github.com/Cour-de-cassation/openjustice-specs,True
 https://github.com/Cour-de-cassation/sder,True
 https://github.com/Cour-des-comptes/open-anafi-backend,True
 https://github.com/Cour-des-comptes/open-anafi-frontend,True
+https://github.com/DFIR-ORC/deployment-scripts,False
 https://github.com/DFIR-ORC/dfir-orc,True
 https://github.com/DFIR-ORC/dfir-orc-config,True
 https://github.com/DFIR-ORC/dfir-orc-doc-src,True
@@ -2805,7 +2806,7 @@ https://github.com/ambanum/political-ads-legality-server,True
 https://github.com/ambanum/political-ads-scraper,True
 https://github.com/ambanum/prettier-config,True
 https://github.com/ambanum/server-config,True
-https://github.com/ambanum/twint,False
+https://github.com/ambanum/twint,True
 https://github.com/assurance-maladie-digital/XF-Material-Library,True
 https://github.com/assurance-maladie-digital/api-droits-fs-doc,True
 https://github.com/assurance-maladie-digital/api-droits-fs-exemple-php,True
@@ -3632,7 +3633,7 @@ https://github.com/diplomatiegouvfr/hornet-themes-intranet,True
 https://github.com/diplomatiegouvfr/tomcat8-instance,True
 https://github.com/diverse-project/CapellaRover,True
 https://github.com/diverse-project/ContreMaitre,True
-https://github.com/diverse-project/FOReverSE-AFMSynthesis,False
+https://github.com/diverse-project/FOReverSE-AFMSynthesis,True
 https://github.com/diverse-project/FOReverSE-AFMSynthesis-Evaluation,False
 https://github.com/diverse-project/FOReverSE-KSynthesis,False
 https://github.com/diverse-project/ICPE-2021,True
@@ -3969,6 +3970,7 @@ https://github.com/etalab/algorithmes-publics,True
 https://github.com/etalab/annuaire-entreprises.data.gouv.fr,True
 https://github.com/etalab/api-annuaire-entreprises,True
 https://github.com/etalab/api-bal,True
+https://github.com/etalab/api-cadastre-bbox-feuilles,False
 https://github.com/etalab/api-codes-sources-fr,True
 https://github.com/etalab/api-geo,True
 https://github.com/etalab/api-geocode,True
