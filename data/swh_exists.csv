@@ -1795,6 +1795,7 @@ https://github.com/Inist-CNRS/lodex-widget,True
 https://github.com/Inist-CNRS/lodex-widgets,True
 https://github.com/Inist-CNRS/lodex-workers,True
 https://github.com/Inist-CNRS/lodex-workers-python,True
+https://github.com/Inist-CNRS/lodex-workers-saxon,False
 https://github.com/Inist-CNRS/log.io-server-parser,True
 https://github.com/Inist-CNRS/meta-doi,True
 https://github.com/Inist-CNRS/node-atom-writer,True
@@ -3933,7 +3934,7 @@ https://github.com/etalab-ia/data_science_template,True
 https://github.com/etalab-ia/demo-piaf,True
 https://github.com/etalab-ia/florian_opendatascience,True
 https://github.com/etalab-ia/knowledge-base,True
-https://github.com/etalab-ia/mlflow-docker,False
+https://github.com/etalab-ia/mlflow-docker,True
 https://github.com/etalab-ia/open_ML,True
 https://github.com/etalab-ia/opendatascience,True
 https://github.com/etalab-ia/piaf-code,True
@@ -7120,7 +7121,7 @@ https://gitlab.inria.fr/nix-tutorial/presentation-slides,True
 https://gitlab.inria.fr/obelix/broceliande,True
 https://gitlab.inria.fr/obelix/triskele,True
 https://gitlab.inria.fr/open-mx/open-mx,True
-https://gitlab.inria.fr/openbiscuit/rescience_egbert14,False
+https://gitlab.inria.fr/openbiscuit/rescience_egbert14,True
 https://gitlab.inria.fr/openmp/clang,True
 https://gitlab.inria.fr/openmp/energy,True
 https://gitlab.inria.fr/openmp/enertools,True
