@@ -2163,7 +2163,7 @@ https://github.com/MTES-MCT/permis-construire,True
 https://github.com/MTES-MCT/portail,True
 https://github.com/MTES-MCT/potentiel,True
 https://github.com/MTES-MCT/rapportNav,True
-https://github.com/MTES-MCT/resorption-bidonvilles-deploy,False
+https://github.com/MTES-MCT/resorption-bidonvilles-deploy,True
 https://github.com/MTES-MCT/rieau,True
 https://github.com/MTES-MCT/rieau-api,True
 https://github.com/MTES-MCT/rieau-infra,True
@@ -5028,6 +5028,7 @@ https://github.com/neuroanatomy/SnipPeep,True
 https://github.com/neuroanatomy/StereotaxicRAMON,True
 https://github.com/neuroanatomy/SurfaceRAMON,True
 https://github.com/neuroanatomy/autism,True
+https://github.com/neuroanatomy/braincov,False
 https://github.com/neuroanatomy/bruker2nifti,True
 https://github.com/neuroanatomy/cortex,True
 https://github.com/neuroanatomy/fiind,True
@@ -6766,7 +6767,7 @@ https://gitlab.inria.fr/gazelle/library/gazelle-preferences,True
 https://gitlab.inria.fr/gazelle/library/gazelle-tools,True
 https://gitlab.inria.fr/gazelle/library/home,True
 https://gitlab.inria.fr/gazelle/library/hql,True
-https://gitlab.inria.fr/gazelle/library/message-content-analyzer,False
+https://gitlab.inria.fr/gazelle/library/message-content-analyzer,True
 https://gitlab.inria.fr/gazelle/library/preference,True
 https://gitlab.inria.fr/gazelle/library/tool,True
 https://gitlab.inria.fr/gazelle/library/ui-service,True
