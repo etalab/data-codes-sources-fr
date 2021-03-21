@@ -1363,7 +1363,7 @@ https://github.com/EDS-APHP/spark-postgres,True
 https://github.com/EDS-APHP/tag_serve,True
 https://github.com/EDS-APHP/uima-aphp,True
 https://github.com/EDS-APHP/yarn-manager,True
-https://github.com/Envinorma/alto,False
+https://github.com/Envinorma/alto,True
 https://github.com/Envinorma/arretes_ministeriels,True
 https://github.com/Envinorma/envinorma-data,True
 https://github.com/Envinorma/envinorma-web,True
@@ -2456,7 +2456,7 @@ https://github.com/SocialGouv/datafiller-data,True
 https://github.com/SocialGouv/dila-api-client,True
 https://github.com/SocialGouv/dila-tests-api,True
 https://github.com/SocialGouv/dila2sql,True
-https://github.com/SocialGouv/dnum-dashboard,False
+https://github.com/SocialGouv/dnum-dashboard,True
 https://github.com/SocialGouv/docker,True
 https://github.com/SocialGouv/documentation-api,True
 https://github.com/SocialGouv/domifa,True
@@ -3562,7 +3562,7 @@ https://github.com/datagir/agribalyse,True
 https://github.com/datagir/datagir-site,False
 https://github.com/datagir/ecolab-agribalyse-recherche,True
 https://github.com/datagir/ecolab-alimentation,True
-https://github.com/datagir/ecolab-recherche-agribalyse,False
+https://github.com/datagir/ecolab-recherche-agribalyse,True
 https://github.com/datagir/mesfruitsetlegumesdesaison,True
 https://github.com/datagir/mon-impact-transport,True
 https://github.com/datagir/monconvertisseurco2,True
@@ -3972,7 +3972,7 @@ https://github.com/etalab/algorithmes-publics,True
 https://github.com/etalab/annuaire-entreprises.data.gouv.fr,True
 https://github.com/etalab/api-annuaire-entreprises,True
 https://github.com/etalab/api-bal,True
-https://github.com/etalab/api-cadastre-bbox-feuilles,False
+https://github.com/etalab/api-cadastre-bbox-feuilles,True
 https://github.com/etalab/api-codes-sources-fr,True
 https://github.com/etalab/api-geo,True
 https://github.com/etalab/api-geocode,True
@@ -6057,6 +6057,7 @@ https://gitlab.huma-num.fr/portic/gazetteer,True
 https://gitlab.huma-num.fr/portic/navigocorpus,True
 https://gitlab.huma-num.fr/portic/porticapi,True
 https://gitlab.huma-num.fr/profiterole/profiterole-tools,True
+https://gitlab.huma-num.fr/profiterole/sentseg,False
 https://gitlab.huma-num.fr/profiterole/srcmf-ud,True
 https://gitlab.huma-num.fr/rzine/Rzine_actu,True
 https://gitlab.huma-num.fr/rzine/add_author,True
