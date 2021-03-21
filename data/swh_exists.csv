@@ -2956,7 +2956,7 @@ https://github.com/betagouv/budget,True
 https://github.com/betagouv/calcul-co2-inverse,True
 https://github.com/betagouv/ccas,True
 https://github.com/betagouv/cerfa-form-filler,True
-https://github.com/betagouv/chatwoot,False
+https://github.com/betagouv/chatwoot,True
 https://github.com/betagouv/civilsdeladefense,True
 https://github.com/betagouv/co-constuisons-api,True
 https://github.com/betagouv/co-constuisons-bot,True
@@ -7095,7 +7095,7 @@ https://gitlab.inria.fr/mosaic/mosaic-commons,True
 https://gitlab.inria.fr/mosaic/publications/lpy2pc,True
 https://gitlab.inria.fr/mosaic/publications/protoplast,True
 https://gitlab.inria.fr/mosaic/publications/sam_spaghetti,True
-https://gitlab.inria.fr/mosaic/publications/seed_sup_mat,False
+https://gitlab.inria.fr/mosaic/publications/seed_sup_mat,True
 https://gitlab.inria.fr/mosaic/publications/tissue2d,True
 https://gitlab.inria.fr/mosaic/timagetk,True
 https://gitlab.inria.fr/mosaic/tissue_analysis,True
