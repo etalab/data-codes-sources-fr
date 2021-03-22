@@ -1157,7 +1157,7 @@ https://github.com/Cour-de-cassation/openjustice-specs,True
 https://github.com/Cour-de-cassation/sder,True
 https://github.com/Cour-des-comptes/open-anafi-backend,True
 https://github.com/Cour-des-comptes/open-anafi-frontend,True
-https://github.com/DFIR-ORC/deployment-scripts,False
+https://github.com/DFIR-ORC/deployment-scripts,True
 https://github.com/DFIR-ORC/dfir-orc,True
 https://github.com/DFIR-ORC/dfir-orc-config,True
 https://github.com/DFIR-ORC/dfir-orc-doc-src,True
@@ -1368,6 +1368,7 @@ https://github.com/Envinorma/arretes_ministeriels,True
 https://github.com/Envinorma/envinorma-data,True
 https://github.com/Envinorma/envinorma-web,True
 https://github.com/Envinorma/envinorma.github.io,True
+https://github.com/Envinorma/ocr_utils,False
 https://github.com/Envinorma/pdf_ocr_app,True
 https://github.com/EsupPortail/CMoodle-proxy-portlet,True
 https://github.com/EsupPortail/Esup-Pod,True
@@ -1485,7 +1486,7 @@ https://github.com/GHFC/genevo,True
 https://github.com/GHFC/neanderthal-synapse,True
 https://github.com/GHFC/sinagot,True
 https://github.com/GIP-RECIA/Bourse-WS,True
-https://github.com/GIP-RECIA/Cachet,False
+https://github.com/GIP-RECIA/Cachet,True
 https://github.com/GIP-RECIA/CalendarPortlet,True
 https://github.com/GIP-RECIA/ContactsPortlet,True
 https://github.com/GIP-RECIA/DocENT,True
@@ -3746,7 +3747,7 @@ https://github.com/entrepreneur-interet-general/addocker,True
 https://github.com/entrepreneur-interet-general/addok-fr,True
 https://github.com/entrepreneur-interet-general/agenda-eig2018,True
 https://github.com/entrepreneur-interet-general/api-ccomptes,True
-https://github.com/entrepreneur-interet-general/applications-review,False
+https://github.com/entrepreneur-interet-general/applications-review,True
 https://github.com/entrepreneur-interet-general/archapp,True
 https://github.com/entrepreneur-interet-general/archypoint,True
 https://github.com/entrepreneur-interet-general/brigade-numerique,True
