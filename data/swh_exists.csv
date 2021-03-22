@@ -4418,7 +4418,7 @@ https://github.com/ina-foss/voxo-dashboard,True
 https://github.com/ina-foss/voxo-docker,True
 https://github.com/ina-foss/voxo-lib,True
 https://github.com/incubateur-territoires/demo-mesaides28,True
-https://github.com/incubateur-territoires/incubateur-directus,False
+https://github.com/incubateur-territoires/incubateur-directus,True
 https://github.com/incubateur-territoires/incubateur-strapi,True
 https://github.com/incubateur-territoires/incubateur.anct.gouv.fr,True
 https://github.com/incubateur-territoires/osp-app,True
@@ -5029,7 +5029,7 @@ https://github.com/neuroanatomy/SnipPeep,True
 https://github.com/neuroanatomy/StereotaxicRAMON,True
 https://github.com/neuroanatomy/SurfaceRAMON,True
 https://github.com/neuroanatomy/autism,True
-https://github.com/neuroanatomy/braincov,False
+https://github.com/neuroanatomy/braincov,True
 https://github.com/neuroanatomy/bruker2nifti,True
 https://github.com/neuroanatomy/cortex,True
 https://github.com/neuroanatomy/fiind,True
