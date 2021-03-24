@@ -395,7 +395,7 @@ https://forgemia.inra.fr/inter_cati_omics/snakemake/snakemake_modules,True
 https://forgemia.inra.fr/irhs-bioinfo/i-fungi,True
 https://forgemia.inra.fr/lbe/opensilexlbe/ontologielbe,True
 https://forgemia.inra.fr/lbe/opensilexlbe/opensilex-dev,True
-https://forgemia.inra.fr/metagenopolis/eskrim,False
+https://forgemia.inra.fr/metagenopolis/eskrim,True
 https://forgemia.inra.fr/metexplore/MetExploreViz,True
 https://forgemia.inra.fr/metexplore/cbm/dexom,True
 https://forgemia.inra.fr/metexplore/cbm/fvabiomarkers,True
@@ -3571,6 +3571,7 @@ https://github.com/datagir/ecolab-recherche-agribalyse,True
 https://github.com/datagir/mesfruitsetlegumesdesaison,True
 https://github.com/datagir/mon-impact-transport,True
 https://github.com/datagir/monconvertisseurco2,True
+https://github.com/datagir/monimpacttransport,False
 https://github.com/datagir/nosgestesclimat,True
 https://github.com/datagir/nosgestesclimat-site,True
 https://github.com/datalocale/BinFul,True
@@ -5895,6 +5896,7 @@ https://gitlab.com/dreal-datalab/poc-enr-teo,True
 https://gitlab.com/dreal-datalab/propre.artificialisation,True
 https://gitlab.com/dreal-datalab/reseauchaleur,True
 https://gitlab.com/dreal-datalab/rrrpls,True
+https://gitlab.com/dreal-datalab/sgbd_datamart,False
 https://gitlab.com/dreal-datalab/shinydreal,True
 https://gitlab.com/dreal-datalab/si_eau_pesticides,True
 https://gitlab.com/dreal-datalab/utilitaires.ju,True
@@ -6014,6 +6016,7 @@ https://gitlab.huma-num.fr/eurhisfirm/test-import-bot,True
 https://gitlab.huma-num.fr/fp-lab/fplabsite,True
 https://gitlab.huma-num.fr/geographie-cites/autobiopedia,True
 https://gitlab.huma-num.fr/huma-num-public/documentation,True
+https://gitlab.huma-num.fr/huma-num-public/hn-site,False
 https://gitlab.huma-num.fr/huma-num-public/next-auth-nakala,True
 https://gitlab.huma-num.fr/irihs/NakalaTools,True
 https://gitlab.huma-num.fr/irihs/flaubertexport,True
@@ -6756,6 +6759,7 @@ https://gitlab.inria.fr/gazelle/applications/test-execution/simulator/access-tok
 https://gitlab.inria.fr/gazelle/applications/test-execution/simulator/app.patient-registry,True
 https://gitlab.inria.fr/gazelle/applications/test-execution/simulator/audit-record-simulator,True
 https://gitlab.inria.fr/gazelle/applications/test-execution/simulator/gazelle-webservice-tester,True
+https://gitlab.inria.fr/gazelle/applications/test-execution/simulator/order-manager,False
 https://gitlab.inria.fr/gazelle/applications/test-execution/simulator/patient-registry,True
 https://gitlab.inria.fr/gazelle/applications/test-execution/simulator/pdqm-connector,True
 https://gitlab.inria.fr/gazelle/applications/test-execution/validator/EVSClient,True
@@ -7841,7 +7845,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/12/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/12/src,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/13/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/13/polytech-helper-service,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/13/polytech_helper_service,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/13/polytech_helper_service,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/14/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/14/rust-parallel,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/15/docs,True
