@@ -3118,7 +3118,7 @@ https://github.com/betagouv/mrs,True
 https://github.com/betagouv/neutre.comobi.fr,True
 https://github.com/betagouv/nir_validate,True
 https://github.com/betagouv/normalized-data-state,True
-https://github.com/betagouv/observatoire-covoiturage,False
+https://github.com/betagouv/observatoire-covoiturage,True
 https://github.com/betagouv/open-academie,True
 https://github.com/betagouv/open-academie-old,True
 https://github.com/betagouv/openfisca-brestmetropole,True
@@ -3664,6 +3664,7 @@ https://github.com/diverse-project/k3,True
 https://github.com/diverse-project/kcvl,True
 https://github.com/diverse-project/kermeta,True
 https://github.com/diverse-project/kermeta2,True
+https://github.com/diverse-project/kpredict,False
 https://github.com/diverse-project/matisseTemplate,True
 https://github.com/diverse-project/matrix-miner-engine,True
 https://github.com/diverse-project/maven-miner,True
@@ -3747,6 +3748,7 @@ https://github.com/entrepreneur-interet-general/Ressources-DIG,True
 https://github.com/entrepreneur-interet-general/Sequoia-CGDD,True
 https://github.com/entrepreneur-interet-general/Shom.H3,True
 https://github.com/entrepreneur-interet-general/Shom.S57,True
+https://github.com/entrepreneur-interet-general/aac_dashboard,False
 https://github.com/entrepreneur-interet-general/addocker,True
 https://github.com/entrepreneur-interet-general/addok-fr,True
 https://github.com/entrepreneur-interet-general/agenda-eig2018,True
@@ -4512,6 +4514,7 @@ https://github.com/leximpact/etudes-amendements,True
 https://github.com/leximpact/leximpact-client,True
 https://github.com/leximpact/leximpact-nouveau-sujet,True
 https://github.com/leximpact/leximpact-server,True
+https://github.com/leximpact/leximpact-socio-fiscal-ui,False
 https://github.com/leximpact/openfisca-france-dotations-locales,True
 https://github.com/leximpact/openfisca-waterfall,True
 https://github.com/leximpact/tweet-archiveur,False
