@@ -559,7 +559,7 @@ https://git.ademe.fr/docker/httpd-php,True
 https://git.ademe.fr/docker/phpfpm,True
 https://git.ademe.fr/docker/ssh-sftp,False
 https://git.ademe.fr/docker/sshd-sftp,True
-https://git.ademe.fr/dpe-v2/testpublic,False
+https://git.ademe.fr/dpe-v2/testpublic,True
 https://git.ademe.fr/open-source/annuaire-de-la-reparation,True
 https://git.beta.pole-emploi.fr/claravue/simulateur-clara,True
 https://git.beta.pole-emploi.fr/open-source/experimentation-postal/postal,True
@@ -778,6 +778,7 @@ https://git.unistra.fr/voc20-t3-c/t3_acheo,True
 https://git.unistra.fr/vue-unistra/unistra-formbuilder,True
 https://git.unistra.fr/vue/cas-authentication,True
 https://git.unistra.fr/vue/cli-plugin-unistra,True
+https://git.unistra.fr/vue/crousmeal,False
 https://git.unistra.fr/vue/unistra-box,True
 https://git.unistra.fr/web_project/gigleux_web_project_1,True
 https://git.unistra.fr/xstra-dev/atelier-jenkins-2017,True
@@ -1371,7 +1372,7 @@ https://github.com/Envinorma/arretes_ministeriels,True
 https://github.com/Envinorma/envinorma-data,True
 https://github.com/Envinorma/envinorma-web,True
 https://github.com/Envinorma/envinorma.github.io,True
-https://github.com/Envinorma/ocr_utils,False
+https://github.com/Envinorma/ocr_utils,True
 https://github.com/Envinorma/pdf_ocr_app,True
 https://github.com/EsupPortail/CMoodle-proxy-portlet,True
 https://github.com/EsupPortail/Esup-Pod,True
@@ -1929,6 +1930,7 @@ https://github.com/InseeFrLab/InspaCy-UI,True
 https://github.com/InseeFrLab/Java-Helm-Wrapper,True
 https://github.com/InseeFrLab/Macronometrics,True
 https://github.com/InseeFrLab/Macronometrics-Notebook,True
+https://github.com/InseeFrLab/NRC-Heck-model,False
 https://github.com/InseeFrLab/SASTauArgus,True
 https://github.com/InseeFrLab/Shelly,True
 https://github.com/InseeFrLab/Spark-hive,True
@@ -4443,6 +4445,7 @@ https://github.com/inrae/Formation_Python,True
 https://github.com/inrae/GR3D,True
 https://github.com/inrae/Matrix_lib-v2.0,True
 https://github.com/inrae/ODAM,True
+https://github.com/inrae/SISPPEO,False
 https://github.com/inrae/ShellScripts,True
 https://github.com/inrae/dbexportmodel,True
 https://github.com/inrae/diades.atlas,True
@@ -5965,7 +5968,7 @@ https://gitlab.com/pidila/select-a11y,True
 https://gitlab.com/pidila/sp-simulateurs-data,True
 https://gitlab.com/rdes_dreal/propre,True
 https://gitlab.com/rdes_dreal/propre.brochure,True
-https://gitlab.com/rdes_dreal/propre.energie.enquete,False
+https://gitlab.com/rdes_dreal/propre.energie.enquete,True
 https://gitlab.com/rdes_dreal/propre.itdd,True
 https://gitlab.com/rdes_dreal/propre.presentation,True
 https://gitlab.com/rdes_dreal/propre.rpls,True
@@ -6762,6 +6765,7 @@ https://gitlab.inria.fr/gazelle/applications/test-execution/simulator/gazelle-we
 https://gitlab.inria.fr/gazelle/applications/test-execution/simulator/order-manager,False
 https://gitlab.inria.fr/gazelle/applications/test-execution/simulator/patient-registry,True
 https://gitlab.inria.fr/gazelle/applications/test-execution/simulator/pdqm-connector,True
+https://gitlab.inria.fr/gazelle/applications/test-execution/simulator/svs-simulator,False
 https://gitlab.inria.fr/gazelle/applications/test-execution/validator/EVSClient,True
 https://gitlab.inria.fr/gazelle/applications/test-execution/validator/SchematronValidator,True
 https://gitlab.inria.fr/gazelle/applications/test-execution/validator/ch_iua-validator-service,True
@@ -7662,8 +7666,10 @@ https://gitlabjf.ccomptes.fr/wikijs/wikijs,True
 https://gitub.u-bordeaux.fr/altarica/arc,True
 https://gitub.u-bordeaux.fr/altarica/ccl,True
 https://gitub.u-bordeaux.fr/dev-celia/tango-controls-notes,True
+https://gitub.u-bordeaux.fr/erias/amalgam,False
 https://gitub.u-bordeaux.fr/erias/fideo,True
 https://gitub.u-bordeaux.fr/erias/knowledge-warehouse/wiki,True
+https://gitub.u-bordeaux.fr/erias/oregano,False
 https://gitub.u-bordeaux.fr/erias/patient-covid19,True
 https://gitub.u-bordeaux.fr/innovation/act,True
 https://gitub.u-bordeaux.fr/innovation/climackathon,True
