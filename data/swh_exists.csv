@@ -203,6 +203,7 @@ https://forgemia.inra.fr/agriterix/doc,True
 https://forgemia.inra.fr/agriterix/simulator,True
 https://forgemia.inra.fr/agroecoperenne/scripting/python-module,True
 https://forgemia.inra.fr/anaee-dev/coby,True
+https://forgemia.inra.fr/anaee-dev/oboe,False
 https://forgemia.inra.fr/baric/family-companion,True
 https://forgemia.inra.fr/bibliome/alvisae-anaee,True
 https://forgemia.inra.fr/bibliome/bionlp-st-py,True
@@ -4212,7 +4213,7 @@ https://github.com/etalab/schema-inclusion-numerique,True
 https://github.com/etalab/schema-irve,True
 https://github.com/etalab/schema-lieux-covoiturage,True
 https://github.com/etalab/schema-plf,True
-https://github.com/etalab/schema-sdirve,False
+https://github.com/etalab/schema-sdirve,True
 https://github.com/etalab/schema-stationnement,True
 https://github.com/etalab/schema-stationnement-cyclable,True
 https://github.com/etalab/schema-template,True
@@ -4445,7 +4446,7 @@ https://github.com/inrae/Formation_Python,True
 https://github.com/inrae/GR3D,True
 https://github.com/inrae/Matrix_lib-v2.0,True
 https://github.com/inrae/ODAM,True
-https://github.com/inrae/SISPPEO,False
+https://github.com/inrae/SISPPEO,True
 https://github.com/inrae/ShellScripts,True
 https://github.com/inrae/dbexportmodel,True
 https://github.com/inrae/diades.atlas,True
@@ -4518,7 +4519,7 @@ https://github.com/leximpact/etudes-amendements,True
 https://github.com/leximpact/leximpact-client,True
 https://github.com/leximpact/leximpact-nouveau-sujet,True
 https://github.com/leximpact/leximpact-server,True
-https://github.com/leximpact/leximpact-socio-fiscal-ui,False
+https://github.com/leximpact/leximpact-socio-fiscal-ui,True
 https://github.com/leximpact/openfisca-france-dotations-locales,True
 https://github.com/leximpact/openfisca-waterfall,True
 https://github.com/leximpact/tweet-archiveur,False
@@ -7189,6 +7190,7 @@ https://gitlab.inria.fr/paradiseo/pyparadiseo,True
 https://gitlab.inria.fr/parallel-replica/gen.parRep,True
 https://gitlab.inria.fr/parallel-replica/qsd.gen.samples,True
 https://gitlab.inria.fr/parseme-fr/mwe-mg,True
+https://gitlab.inria.fr/partout/web,False
 https://gitlab.inria.fr/patate/patate,True
 https://gitlab.inria.fr/pepper/RIOT,True
 https://gitlab.inria.fr/pepper/cnert-2021,True
@@ -7667,7 +7669,7 @@ https://gitlabjf.ccomptes.fr/wikijs/wikijs,True
 https://gitub.u-bordeaux.fr/altarica/arc,True
 https://gitub.u-bordeaux.fr/altarica/ccl,True
 https://gitub.u-bordeaux.fr/dev-celia/tango-controls-notes,True
-https://gitub.u-bordeaux.fr/erias/amalgam,False
+https://gitub.u-bordeaux.fr/erias/amalgam,True
 https://gitub.u-bordeaux.fr/erias/fideo,True
 https://gitub.u-bordeaux.fr/erias/knowledge-warehouse/wiki,True
 https://gitub.u-bordeaux.fr/erias/oregano,False
