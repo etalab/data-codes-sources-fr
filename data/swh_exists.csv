@@ -779,7 +779,7 @@ https://git.unistra.fr/voc20-t3-c/t3_acheo,True
 https://git.unistra.fr/vue-unistra/unistra-formbuilder,True
 https://git.unistra.fr/vue/cas-authentication,True
 https://git.unistra.fr/vue/cli-plugin-unistra,True
-https://git.unistra.fr/vue/crousmeal,False
+https://git.unistra.fr/vue/crousmeal,True
 https://git.unistra.fr/vue/unistra-box,True
 https://git.unistra.fr/web_project/gigleux_web_project_1,True
 https://git.unistra.fr/xstra-dev/atelier-jenkins-2017,True
@@ -3206,6 +3206,7 @@ https://github.com/betagouv/react-i18nliner,True
 https://github.com/betagouv/react-loading-infinite-scroller,True
 https://github.com/betagouv/react-reducer-effect-context-data,True
 https://github.com/betagouv/recosante,True
+https://github.com/betagouv/recosante-api,False
 https://github.com/betagouv/recosante-mail,True
 https://github.com/betagouv/redirections,True
 https://github.com/betagouv/redux-react-modals,True
@@ -3752,7 +3753,7 @@ https://github.com/entrepreneur-interet-general/Ressources-DIG,True
 https://github.com/entrepreneur-interet-general/Sequoia-CGDD,True
 https://github.com/entrepreneur-interet-general/Shom.H3,True
 https://github.com/entrepreneur-interet-general/Shom.S57,True
-https://github.com/entrepreneur-interet-general/aac_dashboard,False
+https://github.com/entrepreneur-interet-general/aac_dashboard,True
 https://github.com/entrepreneur-interet-general/addocker,True
 https://github.com/entrepreneur-interet-general/addok-fr,True
 https://github.com/entrepreneur-interet-general/agenda-eig2018,True
@@ -5898,7 +5899,7 @@ https://gitlab.com/dreal-datalab/ort_effectifs_transport,True
 https://gitlab.com/dreal-datalab/pesticides,True
 https://gitlab.com/dreal-datalab/poc-enr-teo,True
 https://gitlab.com/dreal-datalab/propre.artificialisation,True
-https://gitlab.com/dreal-datalab/rapport.irve,False
+https://gitlab.com/dreal-datalab/rapport.irve,True
 https://gitlab.com/dreal-datalab/reseauchaleur,True
 https://gitlab.com/dreal-datalab/rrrpls,True
 https://gitlab.com/dreal-datalab/sgbd_datamart,False
@@ -6993,7 +6994,7 @@ https://gitlab.inria.fr/line/aide-group/jsdoc2,False
 https://gitlab.inria.fr/line/aide-group/ozobot-api,True
 https://gitlab.inria.fr/line/aide-group/ozobot-lib,True
 https://gitlab.inria.fr/line/aide-group/persistentdata,True
-https://gitlab.inria.fr/line/aide-group/robotination,False
+https://gitlab.inria.fr/line/aide-group/robotination,True
 https://gitlab.inria.fr/line/aide-group/slugstring,True
 https://gitlab.inria.fr/line/aide-group/stepsolver,True
 https://gitlab.inria.fr/line/aide-group/tabletop,True
@@ -7259,7 +7260,7 @@ https://gitlab.inria.fr/sed-rennes/formations/deep-learning-intro,True
 https://gitlab.inria.fr/sed-rennes/formations/diu-robotique,True
 https://gitlab.inria.fr/sed-rennes/formations/enoslib-tutorials,True
 https://gitlab.inria.fr/sed-rennes/formations/formation-gitlab-ci,True
-https://gitlab.inria.fr/sed-rennes/formations/freecad_and_3dprint,False
+https://gitlab.inria.fr/sed-rennes/formations/freecad_and_3dprint,True
 https://gitlab.inria.fr/sed-rennes/formations/introduction-to-python,True
 https://gitlab.inria.fr/sed-rennes/formations/tutorials_parallel_computing,True
 https://gitlab.inria.fr/sed-rennes/gforge-to-gitlab-scripts,True
@@ -7293,7 +7294,7 @@ https://gitlab.inria.fr/serpico/motion2d,True
 https://gitlab.inria.fr/serpico/mwr,True
 https://gitlab.inria.fr/serpico/ndsafir,True
 https://gitlab.inria.fr/serpico/ndsafir_bin,True
-https://gitlab.inria.fr/serpico/opticalflow,False
+https://gitlab.inria.fr/serpico/opticalflow,True
 https://gitlab.inria.fr/serpico/owf_bin,True
 https://gitlab.inria.fr/serpico/serpico-notebooks,True
 https://gitlab.inria.fr/serpico/spitfire,True
