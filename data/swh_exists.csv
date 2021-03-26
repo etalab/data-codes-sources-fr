@@ -487,7 +487,7 @@ https://forgemia.inra.fr/umrf/dairydb,True
 https://forgemia.inra.fr/umrf/exploremetabar,True
 https://forgemia.inra.fr/umrf/ranomaly,True
 https://forgemia.inra.fr/umrf/utopia,True
-https://forgemia.inra.fr/urep/appToolbox,False
+https://forgemia.inra.fr/urep/appToolbox,True
 https://forgemia.inra.fr/urep/docs/bonpland,True
 https://forgemia.inra.fr/urep/docs/demorpackage,True
 https://forgemia.inra.fr/urep/soere-acbb-pp/documentation,False
@@ -641,6 +641,7 @@ https://git.unistra.fr/arche/outils-et-services,True
 https://git.unistra.fr/barre-oblique-v2/sab20-t3-a,True
 https://git.unistra.fr/barre-oblique-v3/t432_sab20_t3_b,False
 https://git.unistra.fr/barreoblique/connectfour,True
+https://git.unistra.fr/berlingue-en-y/mic21,False
 https://git.unistra.fr/botanique23/T4_PID_A,True
 https://git.unistra.fr/c/st,True
 https://git.unistra.fr/clauss-goffic/P4z,True
@@ -1024,7 +1025,7 @@ https://github.com/BRGM/hubeau,True
 https://github.com/BRGM/plouf,True
 https://github.com/BRGM/razorback,True
 https://github.com/BRGM/razorback-tutorial-data,True
-https://github.com/BRGM/registry-config-base,False
+https://github.com/BRGM/registry-config-base,True
 https://github.com/BRGM/registry-core,True
 https://github.com/BRGM/vtkwriters,True
 https://github.com/BaseAdresseNationale/api-gestion,True
@@ -5902,7 +5903,7 @@ https://gitlab.com/dreal-datalab/propre.artificialisation,True
 https://gitlab.com/dreal-datalab/rapport.irve,True
 https://gitlab.com/dreal-datalab/reseauchaleur,True
 https://gitlab.com/dreal-datalab/rrrpls,True
-https://gitlab.com/dreal-datalab/sgbd_datamart,False
+https://gitlab.com/dreal-datalab/sgbd_datamart,True
 https://gitlab.com/dreal-datalab/shinydreal,True
 https://gitlab.com/dreal-datalab/si_eau_pesticides,True
 https://gitlab.com/dreal-datalab/utilitaires.ju,True
@@ -6765,7 +6766,7 @@ https://gitlab.inria.fr/gazelle/applications/test-execution/simulator/access-tok
 https://gitlab.inria.fr/gazelle/applications/test-execution/simulator/app.patient-registry,True
 https://gitlab.inria.fr/gazelle/applications/test-execution/simulator/audit-record-simulator,True
 https://gitlab.inria.fr/gazelle/applications/test-execution/simulator/gazelle-webservice-tester,True
-https://gitlab.inria.fr/gazelle/applications/test-execution/simulator/order-manager,False
+https://gitlab.inria.fr/gazelle/applications/test-execution/simulator/order-manager,True
 https://gitlab.inria.fr/gazelle/applications/test-execution/simulator/patient-registry,True
 https://gitlab.inria.fr/gazelle/applications/test-execution/simulator/pdqm-connector,True
 https://gitlab.inria.fr/gazelle/applications/test-execution/simulator/svs-simulator,True
@@ -7393,6 +7394,7 @@ https://gitlab.inria.fr/synalp/website,True
 https://gitlab.inria.fr/synchrone/heptagon,True
 https://gitlab.inria.fr/tapenade/tapenade,True
 https://gitlab.inria.fr/tapenade/userdoc,True
+https://gitlab.inria.fr/testing-security-features/bidonbidon,False
 https://gitlab.inria.fr/the-missing-path/the-missing-path.gitlab.inria.fr,True
 https://gitlab.inria.fr/these-bxi/lulesh,True
 https://gitlab.inria.fr/these-bxi/pennant,True
