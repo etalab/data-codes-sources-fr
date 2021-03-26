@@ -203,7 +203,7 @@ https://forgemia.inra.fr/agriterix/doc,True
 https://forgemia.inra.fr/agriterix/simulator,True
 https://forgemia.inra.fr/agroecoperenne/scripting/python-module,True
 https://forgemia.inra.fr/anaee-dev/coby,True
-https://forgemia.inra.fr/anaee-dev/oboe,False
+https://forgemia.inra.fr/anaee-dev/oboe,True
 https://forgemia.inra.fr/baric/family-companion,True
 https://forgemia.inra.fr/bibliome/alvisae-anaee,True
 https://forgemia.inra.fr/bibliome/bionlp-st-py,True
@@ -6768,7 +6768,7 @@ https://gitlab.inria.fr/gazelle/applications/test-execution/simulator/gazelle-we
 https://gitlab.inria.fr/gazelle/applications/test-execution/simulator/order-manager,False
 https://gitlab.inria.fr/gazelle/applications/test-execution/simulator/patient-registry,True
 https://gitlab.inria.fr/gazelle/applications/test-execution/simulator/pdqm-connector,True
-https://gitlab.inria.fr/gazelle/applications/test-execution/simulator/svs-simulator,False
+https://gitlab.inria.fr/gazelle/applications/test-execution/simulator/svs-simulator,True
 https://gitlab.inria.fr/gazelle/applications/test-execution/validator/EVSClient,True
 https://gitlab.inria.fr/gazelle/applications/test-execution/validator/SchematronValidator,True
 https://gitlab.inria.fr/gazelle/applications/test-execution/validator/ch_iua-validator-service,True
@@ -7673,7 +7673,7 @@ https://gitub.u-bordeaux.fr/dev-celia/tango-controls-notes,True
 https://gitub.u-bordeaux.fr/erias/amalgam,True
 https://gitub.u-bordeaux.fr/erias/fideo,True
 https://gitub.u-bordeaux.fr/erias/knowledge-warehouse/wiki,True
-https://gitub.u-bordeaux.fr/erias/oregano,False
+https://gitub.u-bordeaux.fr/erias/oregano,True
 https://gitub.u-bordeaux.fr/erias/patient-covid19,True
 https://gitub.u-bordeaux.fr/innovation/act,True
 https://gitub.u-bordeaux.fr/innovation/climackathon,True
