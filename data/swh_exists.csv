@@ -657,7 +657,9 @@ https://git.unistra.fr/coursr/cours_intror,True
 https://git.unistra.fr/csrd/white_paper_form,True
 https://git.unistra.fr/datachallenge/openaccessweek2019,True
 https://git.unistra.fr/deepen/corpus-reference,False
+https://git.unistra.fr/deleted_user_177013/t4-foc21,False
 https://git.unistra.fr/diploma/master-iriv/2019,True
+https://git.unistra.fr/division/t432,False
 https://git.unistra.fr/dring/dring,True
 https://git.unistra.fr/duvernay-goffic/a31-projet-puissance-4,True
 https://git.unistra.fr/e-mmigres/voc20-t3-g,True
@@ -767,10 +769,12 @@ https://git.unistra.fr/sidereal/ptweb3,True
 https://git.unistra.fr/spice-girls-ft-jerry/school-game,True
 https://git.unistra.fr/t4-boost/t4,True
 https://git.unistra.fr/t4-the-origin/arti4,True
+https://git.unistra.fr/t41/poopy,False
 https://git.unistra.fr/t432_liy20-t3-c/projet-t3,True
 https://git.unistra.fr/t432_liy20_t3_f/t31_barre_oblique_v1,True
 https://git.unistra.fr/t432_voc20_t3_x/archeologie,True
 https://git.unistra.fr/t4_REN21/T4_REN21,False
+https://git.unistra.fr/t4_ren21_get_gossed/t4_ren21_get_gossed,False
 https://git.unistra.fr/t4_workisusels/projet_t4_workisuseless,True
 https://git.unistra.fr/tallandier_haquin/a31_puissance_puissance,True
 https://git.unistra.fr/tsp-ics/yaspanalyzers,True
@@ -3115,6 +3119,7 @@ https://github.com/betagouv/mes-aides-ui,True
 https://github.com/betagouv/metabase-scalingo,True
 https://github.com/betagouv/meteor-assemblee-nationale,True
 https://github.com/betagouv/mon-entreprise,True
+https://github.com/betagouv/mon-service-securise,False
 https://github.com/betagouv/monitoring.api.gouv.fr,True
 https://github.com/betagouv/monstage,True
 https://github.com/betagouv/monstage-backup-manager,False
@@ -4238,7 +4243,7 @@ https://github.com/etalab/sorry.data.gouv.fr,True
 https://github.com/etalab/speedtracker,True
 https://github.com/etalab/sprint-open-source,True
 https://github.com/etalab/stars_detective,True
-https://github.com/etalab/statut.annuaire-entreprises.data.gouv.fr,False
+https://github.com/etalab/statut.annuaire-entreprises.data.gouv.fr,True
 https://github.com/etalab/suivi-ouverture-citp-2021,False
 https://github.com/etalab/tableschema-template,True
 https://github.com/etalab/taxe-fonciere,True
@@ -6027,7 +6032,7 @@ https://gitlab.huma-num.fr/eurhisfirm/test-import-bot,True
 https://gitlab.huma-num.fr/fp-lab/fplabsite,True
 https://gitlab.huma-num.fr/geographie-cites/autobiopedia,True
 https://gitlab.huma-num.fr/huma-num-public/documentation,True
-https://gitlab.huma-num.fr/huma-num-public/hn-site,False
+https://gitlab.huma-num.fr/huma-num-public/hn-site,True
 https://gitlab.huma-num.fr/huma-num-public/next-auth-nakala,True
 https://gitlab.huma-num.fr/irihs/NakalaTools,True
 https://gitlab.huma-num.fr/irihs/flaubertexport,True
