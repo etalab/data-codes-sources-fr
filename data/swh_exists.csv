@@ -3122,7 +3122,7 @@ https://github.com/betagouv/mon-entreprise,True
 https://github.com/betagouv/mon-service-securise,False
 https://github.com/betagouv/monitoring.api.gouv.fr,True
 https://github.com/betagouv/monstage,True
-https://github.com/betagouv/monstage-backup-manager,False
+https://github.com/betagouv/monstage-backup-manager,True
 https://github.com/betagouv/movie-app,True
 https://github.com/betagouv/mpal,True
 https://github.com/betagouv/mpal-deploy,True
@@ -3585,7 +3585,7 @@ https://github.com/datagir/ecolab-recherche-agribalyse,True
 https://github.com/datagir/mesfruitsetlegumesdesaison,True
 https://github.com/datagir/mon-impact-transport,True
 https://github.com/datagir/monconvertisseurco2,True
-https://github.com/datagir/monimpacttransport,False
+https://github.com/datagir/monimpacttransport,True
 https://github.com/datagir/nosgestesclimat,True
 https://github.com/datagir/nosgestesclimat-site,True
 https://github.com/datalocale/BinFul,True
