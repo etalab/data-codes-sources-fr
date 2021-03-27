@@ -7974,7 +7974,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/kubernetes-alpes/docker-registry,Tr
 https://gricad-gitlab.univ-grenoble-alpes.fr/kubernetes-alpes/dockerfile-for-prod,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/kubernetes-alpes/formations/docker,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/kubernetes-alpes/formations/kubernetes,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/kubernetes-alpes/formations/vapormap,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/kubernetes-alpes/formations/vapormap,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/kubernetes-alpes/nova-k8s,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/kubernetes-alpes/nova-k8s-tf,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/kubernetes-alpes/nova-packer,True
