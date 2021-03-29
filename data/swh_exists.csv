@@ -900,6 +900,8 @@ https://github.com/ANSSI-FR/ADTimeline,True
 https://github.com/ANSSI-FR/ASCAD,True
 https://github.com/ANSSI-FR/Binacle,True
 https://github.com/ANSSI-FR/DFIR-O365RC,True
+https://github.com/ANSSI-FR/Faults_analyzer,False
+https://github.com/ANSSI-FR/Faults_experiments,False
 https://github.com/ANSSI-FR/FreeSpec,True
 https://github.com/ANSSI-FR/MLA,True
 https://github.com/ANSSI-FR/ORADAD,True
@@ -1075,6 +1077,7 @@ https://github.com/CEA-LIST/Cingulata,True
 https://github.com/CEA-LIST/DAHLIA-BodyIndex,True
 https://github.com/CEA-LIST/N2D2,True
 https://github.com/CEA-LIST/adv-reid,True
+https://github.com/CEA-LIST/adv-sat,False
 https://github.com/CEA-LIST/sgntx,True
 https://github.com/CEA-Leti/wsnet,True
 https://github.com/CEREMA/com.cerema.infocentre_old,True
@@ -2134,7 +2137,7 @@ https://github.com/MTES-MCT/cobot-admin,True
 https://github.com/MTES-MCT/cobot-api,True
 https://github.com/MTES-MCT/cobot-bot,True
 https://github.com/MTES-MCT/cours-java-debutant,True
-https://github.com/MTES-MCT/dashboard,False
+https://github.com/MTES-MCT/dashboard,True
 https://github.com/MTES-MCT/data-preparation-plugin,True
 https://github.com/MTES-MCT/dataqual,True
 https://github.com/MTES-MCT/dataroom,True
@@ -3071,6 +3074,7 @@ https://github.com/betagouv/hedgedoc-api-lib-js,True
 https://github.com/betagouv/helpy,True
 https://github.com/betagouv/heroku-buildpack-ruby,True
 https://github.com/betagouv/histologe,True
+https://github.com/betagouv/holodeck-dashboard,False
 https://github.com/betagouv/i18nliner-js,True
 https://github.com/betagouv/ilos,True
 https://github.com/betagouv/impact-tests,True
