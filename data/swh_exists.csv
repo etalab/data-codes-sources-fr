@@ -642,7 +642,7 @@ https://git.unistra.fr/arche/outils-et-services,True
 https://git.unistra.fr/barre-oblique-v2/sab20-t3-a,True
 https://git.unistra.fr/barre-oblique-v3/t432_sab20_t3_b,False
 https://git.unistra.fr/barreoblique/connectfour,True
-https://git.unistra.fr/berlingue-en-y/mic21,False
+https://git.unistra.fr/berlingue-en-y/mic21,True
 https://git.unistra.fr/botanique23/T4_PID_A,True
 https://git.unistra.fr/c/st,True
 https://git.unistra.fr/chirz/cityescape,True
@@ -2134,6 +2134,7 @@ https://github.com/MTES-MCT/cobot-admin,True
 https://github.com/MTES-MCT/cobot-api,True
 https://github.com/MTES-MCT/cobot-bot,True
 https://github.com/MTES-MCT/cours-java-debutant,True
+https://github.com/MTES-MCT/dashboard,False
 https://github.com/MTES-MCT/data-preparation-plugin,True
 https://github.com/MTES-MCT/dataqual,True
 https://github.com/MTES-MCT/dataroom,True
@@ -2569,6 +2570,7 @@ https://github.com/SocialGouv/support,True
 https://github.com/SocialGouv/template.data.gouv.fr.react,True
 https://github.com/SocialGouv/test-renovate,True
 https://github.com/SocialGouv/test-renovate-cdtn,True
+https://github.com/SocialGouv/thirdparties,False
 https://github.com/SocialGouv/thirdparties-dashboard,True
 https://github.com/SocialGouv/tocbot,True
 https://github.com/SocialGouv/tools,True
@@ -6205,6 +6207,8 @@ https://gitlab.inria.fr/OAR/oardocker,True
 https://gitlab.inria.fr/OCSR/OCSR,True
 https://gitlab.inria.fr/OCSR/UMANS,True
 https://gitlab.inria.fr/OCSR/chaos,True
+https://gitlab.inria.fr/OCSR/crowdmp/addons/microsoft-rocketbox,False
+https://gitlab.inria.fr/OCSR/crowdmp/crowdmp,False
 https://gitlab.inria.fr/OCSR/crowdscan,True
 https://gitlab.inria.fr/PSI/psi3,True
 https://gitlab.inria.fr/PSI/psi4,True
@@ -7337,6 +7341,7 @@ https://gitlab.inria.fr/sibr/projects/soft3d,True
 https://gitlab.inria.fr/sibr/projects/spixelwarp,True
 https://gitlab.inria.fr/sibr/projects/tfgl_interop,True
 https://gitlab.inria.fr/sibr/sibr_core,True
+https://gitlab.inria.fr/silm-seminar/test_streaming,False
 https://gitlab.inria.fr/simgrid/platform-calibration,True
 https://gitlab.inria.fr/simgrid/simgrid,True
 https://gitlab.inria.fr/siteadmin/doc,True
