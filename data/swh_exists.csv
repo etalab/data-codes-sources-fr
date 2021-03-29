@@ -146,6 +146,7 @@ https://forge.univ-lyon1.fr/faq-raspi/rpi-faq,True
 https://forge.univ-lyon1.fr/forge_public/ci-images,True
 https://forge.univ-lyon1.fr/forge_public/forge,True
 https://forge.univ-lyon1.fr/groupe-projet-lifap4/projet-lifap4,True
+https://forge.univ-lyon1.fr/inf2026l-lifap5/lifap5-backend-2021p,False
 https://forge.univ-lyon1.fr/info-7/Projet-Peip2,True
 https://forge.univ-lyon1.fr/iut-lyon-s3-php/ansible,True
 https://forge.univ-lyon1.fr/knowdyn-ens/knowdyn-contenus-2020,True
@@ -3217,7 +3218,7 @@ https://github.com/betagouv/react-i18nliner,True
 https://github.com/betagouv/react-loading-infinite-scroller,True
 https://github.com/betagouv/react-reducer-effect-context-data,True
 https://github.com/betagouv/recosante,True
-https://github.com/betagouv/recosante-api,False
+https://github.com/betagouv/recosante-api,True
 https://github.com/betagouv/recosante-mail,True
 https://github.com/betagouv/redirections,True
 https://github.com/betagouv/redux-react-modals,True
@@ -3589,6 +3590,7 @@ https://github.com/datagir/monconvertisseurco2,True
 https://github.com/datagir/monimpacttransport,True
 https://github.com/datagir/nosgestesclimat,True
 https://github.com/datagir/nosgestesclimat-site,True
+https://github.com/datagir/teletravail,False
 https://github.com/datalocale/BinFul,True
 https://github.com/datalocale/ECV-IJBA,True
 https://github.com/datalocale/G8_Metadata_Mapping,True
@@ -4531,6 +4533,7 @@ https://github.com/leximpact/etudes-amendements,True
 https://github.com/leximpact/leximpact-client,True
 https://github.com/leximpact/leximpact-nouveau-sujet,True
 https://github.com/leximpact/leximpact-server,True
+https://github.com/leximpact/leximpact-socio-fiscal-api,False
 https://github.com/leximpact/leximpact-socio-fiscal-ui,True
 https://github.com/leximpact/openfisca-france-dotations-locales,True
 https://github.com/leximpact/openfisca-waterfall,True
