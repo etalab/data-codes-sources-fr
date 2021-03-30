@@ -449,6 +449,7 @@ https://forgemia.inra.fr/record/workbench4record,True
 https://forgemia.inra.fr/rna-seq/rna-seq-compagnon,True
 https://forgemia.inra.fr/scales/differential-analysis-of-trees,True
 https://forgemia.inra.fr/sciproject/managesciproject,True
+https://forgemia.inra.fr/seqoccin/axis3-metagenomics-amplicon,False
 https://forgemia.inra.fr/singularity/bcftools_v1.10.2,True
 https://forgemia.inra.fr/singularity/test,True
 https://forgemia.inra.fr/siriusquality/sqcode/Release,True
@@ -833,6 +834,7 @@ https://github.com/1024pix/pix-bot,True
 https://github.com/1024pix/pix-db-replication,True
 https://github.com/1024pix/pix-db-stats,True
 https://github.com/1024pix/pix-editor,True
+https://github.com/1024pix/pix-editor-ext,False
 https://github.com/1024pix/pix-engineering,True
 https://github.com/1024pix/pix-graviteeio,True
 https://github.com/1024pix/pix-help-center-theme,True
@@ -6181,6 +6183,7 @@ https://gitlab.inria.fr/InBio/Public/fwd_ad,True
 https://gitlab.inria.fr/InBio/Public/hydriver,True
 https://gitlab.inria.fr/InBio/Public/micromator,True
 https://gitlab.inria.fr/InBio/Public/reacsight,True
+https://gitlab.inria.fr/KerA/kera,False
 https://gitlab.inria.fr/LightFieldCodingLibrary/HEVC,True
 https://gitlab.inria.fr/LightFieldCodingLibrary/LF,True
 https://gitlab.inria.fr/LightFieldCodingLibrary/SR,True
@@ -6616,7 +6619,7 @@ https://gitlab.inria.fr/dep2pict/dep2pict_doc,True
 https://gitlab.inria.fr/dep2pict/dep2pict_gui,True
 https://gitlab.inria.fr/dep2pict/libcaml_dep2pict,True
 https://gitlab.inria.fr/dexms/deploy,True
-https://gitlab.inria.fr/dexms/dex-automata,False
+https://gitlab.inria.fr/dexms/dex-automata,True
 https://gitlab.inria.fr/dexms/dexapi,True
 https://gitlab.inria.fr/dexms/dexidl,True
 https://gitlab.inria.fr/dexms/end-to-end-examples,True
@@ -7345,7 +7348,7 @@ https://gitlab.inria.fr/sibr/projects/soft3d,True
 https://gitlab.inria.fr/sibr/projects/spixelwarp,True
 https://gitlab.inria.fr/sibr/projects/tfgl_interop,True
 https://gitlab.inria.fr/sibr/sibr_core,True
-https://gitlab.inria.fr/silm-seminar/test_streaming,False
+https://gitlab.inria.fr/silm-seminar/test_streaming,True
 https://gitlab.inria.fr/simgrid/platform-calibration,True
 https://gitlab.inria.fr/simgrid/simgrid,True
 https://gitlab.inria.fr/siteadmin/doc,True
