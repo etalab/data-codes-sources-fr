@@ -762,7 +762,7 @@ https://git.unistra.fr/s3/a31-projet,True
 https://git.unistra.fr/s3/barre-oblique-v3/t432_sab20_t3_b,True
 https://git.unistra.fr/s3/d31-projet,True
 https://git.unistra.fr/s3/m31-projet-sim,True
-https://git.unistra.fr/s4/les-spice-girls/t432,False
+https://git.unistra.fr/s4/les-spice-girls/t432,True
 https://git.unistra.fr/scl19-t4-a/t4-2019,True
 https://git.unistra.fr/scl19-t4-c/juthose,True
 https://git.unistra.fr/scl19-t4-e/t4,True
@@ -2560,6 +2560,7 @@ https://github.com/SocialGouv/react-medixtor,True
 https://github.com/SocialGouv/renovate-config,True
 https://github.com/SocialGouv/runners-bench,True
 https://github.com/SocialGouv/sample-next-app,True
+https://github.com/SocialGouv/scanners-action,False
 https://github.com/SocialGouv/schema-pjm,True
 https://github.com/SocialGouv/seminaire,True
 https://github.com/SocialGouv/serving-ml,True
@@ -3968,6 +3969,7 @@ https://github.com/etalab-ia/demo-piaf,True
 https://github.com/etalab-ia/florian_opendatascience,True
 https://github.com/etalab-ia/knowledge-base,True
 https://github.com/etalab-ia/mlflow-docker,True
+https://github.com/etalab-ia/ocr-xtract,False
 https://github.com/etalab-ia/open_ML,True
 https://github.com/etalab-ia/opendatascience,True
 https://github.com/etalab-ia/piaf-code,True
@@ -4545,7 +4547,7 @@ https://github.com/leximpact/leximpact-socio-fiscal-api,False
 https://github.com/leximpact/leximpact-socio-fiscal-ui,True
 https://github.com/leximpact/openfisca-france-dotations-locales,True
 https://github.com/leximpact/openfisca-waterfall,True
-https://github.com/leximpact/tweet-archiveur,False
+https://github.com/leximpact/tweet-archiveur,True
 https://github.com/linbox-team/fflas-ffpack,True
 https://github.com/linbox-team/givaro,True
 https://github.com/linbox-team/linbox,True
@@ -6183,7 +6185,12 @@ https://gitlab.inria.fr/InBio/Public/fwd_ad,True
 https://gitlab.inria.fr/InBio/Public/hydriver,True
 https://gitlab.inria.fr/InBio/Public/micromator,True
 https://gitlab.inria.fr/InBio/Public/reacsight,True
+https://gitlab.inria.fr/KerA/examples/kera-flink-examples,False
+https://gitlab.inria.fr/KerA/gtest,False
+https://gitlab.inria.fr/KerA/integrations/kera-flink-connector,False
 https://gitlab.inria.fr/KerA/kera,False
+https://gitlab.inria.fr/KerA/kerarrow,False
+https://gitlab.inria.fr/KerA/logcabin,False
 https://gitlab.inria.fr/LightFieldCodingLibrary/HEVC,True
 https://gitlab.inria.fr/LightFieldCodingLibrary/LF,True
 https://gitlab.inria.fr/LightFieldCodingLibrary/SR,True
@@ -6214,8 +6221,8 @@ https://gitlab.inria.fr/OAR/oardocker,True
 https://gitlab.inria.fr/OCSR/OCSR,True
 https://gitlab.inria.fr/OCSR/UMANS,True
 https://gitlab.inria.fr/OCSR/chaos,True
-https://gitlab.inria.fr/OCSR/crowdmp/addons/microsoft-rocketbox,False
-https://gitlab.inria.fr/OCSR/crowdmp/crowdmp,False
+https://gitlab.inria.fr/OCSR/crowdmp/addons/microsoft-rocketbox,True
+https://gitlab.inria.fr/OCSR/crowdmp/crowdmp,True
 https://gitlab.inria.fr/OCSR/crowdscan,True
 https://gitlab.inria.fr/PSI/psi3,True
 https://gitlab.inria.fr/PSI/psi4,True
