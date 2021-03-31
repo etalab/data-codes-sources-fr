@@ -701,7 +701,7 @@ https://git.unistra.fr/konflict/serveur-central,True
 https://git.unistra.fr/l-ekip/releases,True
 https://git.unistra.fr/l-ekip/t432_voc20_t3_a,True
 https://git.unistra.fr/la-barre-oblique/g4b-but-les-meilleurs,True
-https://git.unistra.fr/la-barre-oblique/randonneeadut,False
+https://git.unistra.fr/la-barre-oblique/randonneeadut,True
 https://git.unistra.fr/la-sectember/t432_sab20_t3_c,True
 https://git.unistra.fr/la-table-ronde/ecr19-t4-b,True
 https://git.unistra.fr/lateam/la_team_mel21,False
@@ -749,6 +749,7 @@ https://git.unistra.fr/promesse/P4a,True
 https://git.unistra.fr/pub/SupportPortal-aid,True
 https://git.unistra.fr/pub/revealjs-generator,True
 https://git.unistra.fr/rivelinelab/imagej-polyline-kymograph,True
+https://git.unistra.fr/robertt4/RobertV2,False
 https://git.unistra.fr/ruizfabo/methal-sources,True
 https://git.unistra.fr/s2/a21,False
 https://git.unistra.fr/s2/a21-d21-mini-projet,True
@@ -773,8 +774,10 @@ https://git.unistra.fr/seul/P4a,True
 https://git.unistra.fr/sidereal/ptweb3,True
 https://git.unistra.fr/spice-girls-ft-jerry/school-game,True
 https://git.unistra.fr/t4-boost/t4,True
+https://git.unistra.fr/t4-foc21-prh/projet-t4,False
 https://git.unistra.fr/t4-the-origin/arti4,True
 https://git.unistra.fr/t41/poopy,True
+https://git.unistra.fr/t42/trail_extreme,False
 https://git.unistra.fr/t432_liy20-t3-c/projet-t3,True
 https://git.unistra.fr/t432_liy20_t3_f/t31_barre_oblique_v1,True
 https://git.unistra.fr/t432_voc20_t3_x/archeologie,True
@@ -3603,7 +3606,7 @@ https://github.com/datagir/monconvertisseurco2,True
 https://github.com/datagir/monimpacttransport,True
 https://github.com/datagir/nosgestesclimat,True
 https://github.com/datagir/nosgestesclimat-site,True
-https://github.com/datagir/teletravail,False
+https://github.com/datagir/teletravail,True
 https://github.com/datalocale/BinFul,True
 https://github.com/datalocale/ECV-IJBA,True
 https://github.com/datalocale/G8_Metadata_Mapping,True
@@ -6192,7 +6195,7 @@ https://gitlab.inria.fr/InBio/Public/hydriver,True
 https://gitlab.inria.fr/InBio/Public/micromator,True
 https://gitlab.inria.fr/InBio/Public/reacsight,True
 https://gitlab.inria.fr/KerA/examples/kera-flink-examples,True
-https://gitlab.inria.fr/KerA/gtest,False
+https://gitlab.inria.fr/KerA/gtest,True
 https://gitlab.inria.fr/KerA/integrations/kera-flink-connector,False
 https://gitlab.inria.fr/KerA/kera,True
 https://gitlab.inria.fr/KerA/kerarrow,False
@@ -7433,6 +7436,8 @@ https://gitlab.inria.fr/synalp/website,True
 https://gitlab.inria.fr/synchrone/heptagon,True
 https://gitlab.inria.fr/tapenade/tapenade,True
 https://gitlab.inria.fr/tapenade/userdoc,True
+https://gitlab.inria.fr/testing-security-features/Software/c-client,False
+https://gitlab.inria.fr/testing-security-features/Software/c-crdtlib,False
 https://gitlab.inria.fr/testing-security-features/bidonbidon,True
 https://gitlab.inria.fr/the-missing-path/the-missing-path.gitlab.inria.fr,True
 https://gitlab.inria.fr/these-bxi/lulesh,True
