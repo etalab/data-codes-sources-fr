@@ -750,7 +750,7 @@ https://git.unistra.fr/promesse/P4a,True
 https://git.unistra.fr/pub/SupportPortal-aid,True
 https://git.unistra.fr/pub/revealjs-generator,True
 https://git.unistra.fr/rivelinelab/imagej-polyline-kymograph,True
-https://git.unistra.fr/robertt4/RobertV2,False
+https://git.unistra.fr/robertt4/RobertV2,True
 https://git.unistra.fr/ruizfabo/methal-sources,True
 https://git.unistra.fr/s2/a21,False
 https://git.unistra.fr/s2/a21-d21-mini-projet,True
@@ -2006,7 +2006,7 @@ https://github.com/InseeFrLab/onyxia,True
 https://github.com/InseeFrLab/onyxia-api,True
 https://github.com/InseeFrLab/onyxia-cli,True
 https://github.com/InseeFrLab/onyxia-design-system,True
-https://github.com/InseeFrLab/onyxia-onboarding,False
+https://github.com/InseeFrLab/onyxia-onboarding,True
 https://github.com/InseeFrLab/onyxia-ui,True
 https://github.com/InseeFrLab/predicat,True
 https://github.com/InseeFrLab/product-labelling,True
@@ -2569,6 +2569,7 @@ https://github.com/SocialGouv/presentation-textstyle,True
 https://github.com/SocialGouv/react-departements,True
 https://github.com/SocialGouv/react-k8s-viewer,True
 https://github.com/SocialGouv/react-medixtor,True
+https://github.com/SocialGouv/recherche-entreprises,False
 https://github.com/SocialGouv/renovate-config,True
 https://github.com/SocialGouv/runners-bench,True
 https://github.com/SocialGouv/sample-next-app,True
@@ -3089,7 +3090,7 @@ https://github.com/betagouv/hedgedoc-api-lib-js,True
 https://github.com/betagouv/helpy,True
 https://github.com/betagouv/heroku-buildpack-ruby,True
 https://github.com/betagouv/histologe,True
-https://github.com/betagouv/holodeck-dashboard,False
+https://github.com/betagouv/holodeck-dashboard,True
 https://github.com/betagouv/i18nliner-js,True
 https://github.com/betagouv/ilos,True
 https://github.com/betagouv/impact-tests,True
