@@ -906,7 +906,7 @@ https://github.com/ANSSI-FR/ASCAD,True
 https://github.com/ANSSI-FR/Binacle,True
 https://github.com/ANSSI-FR/DFIR-O365RC,True
 https://github.com/ANSSI-FR/Faults_analyzer,False
-https://github.com/ANSSI-FR/Faults_experiments,False
+https://github.com/ANSSI-FR/Faults_experiments,True
 https://github.com/ANSSI-FR/FreeSpec,True
 https://github.com/ANSSI-FR/MLA,True
 https://github.com/ANSSI-FR/ORADAD,True
@@ -1993,6 +1993,7 @@ https://github.com/InseeFrLab/keycloak-hashicorp-vault-ext,True
 https://github.com/InseeFrLab/keycloak-http-storage-provider,True
 https://github.com/InseeFrLab/keycloakify,True
 https://github.com/InseeFrLab/keycloakify-demo-app,True
+https://github.com/InseeFrLab/manipulation-donnees-carroyees,False
 https://github.com/InseeFrLab/marathon-to-kubernetes,True
 https://github.com/InseeFrLab/onyxia,True
 https://github.com/InseeFrLab/onyxia-api,True
@@ -3133,7 +3134,7 @@ https://github.com/betagouv/mes-aides-ui,True
 https://github.com/betagouv/metabase-scalingo,True
 https://github.com/betagouv/meteor-assemblee-nationale,True
 https://github.com/betagouv/mon-entreprise,True
-https://github.com/betagouv/mon-service-securise,False
+https://github.com/betagouv/mon-service-securise,True
 https://github.com/betagouv/monitoring.api.gouv.fr,True
 https://github.com/betagouv/monstage,True
 https://github.com/betagouv/monstage-backup-manager,True
