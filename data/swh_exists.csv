@@ -784,7 +784,7 @@ https://git.unistra.fr/t432_liy20-t3-c/projet-t3,True
 https://git.unistra.fr/t432_liy20_t3_f/t31_barre_oblique_v1,True
 https://git.unistra.fr/t432_voc20_t3_x/archeologie,True
 https://git.unistra.fr/t4_REN21/T4_REN21,False
-https://git.unistra.fr/t4_las21-s4_vie/terminorum,False
+https://git.unistra.fr/t4_las21-s4_vie/terminorum,True
 https://git.unistra.fr/t4_ren21_get_gossed/t4_ren21_get_gossed,True
 https://git.unistra.fr/t4_workisusels/projet_t4_workisuseless,True
 https://git.unistra.fr/tallandier_haquin/a31_puissance_puissance,True
@@ -2486,7 +2486,7 @@ https://github.com/SocialGouv/covid,True
 https://github.com/SocialGouv/covid19-orientation,True
 https://github.com/SocialGouv/covid19-tests-schemas,True
 https://github.com/SocialGouv/ctdn-api,False
-https://github.com/SocialGouv/dashlord-report-action,False
+https://github.com/SocialGouv/dashlord-report-action,True
 https://github.com/SocialGouv/datafiller,True
 https://github.com/SocialGouv/datafiller-data,True
 https://github.com/SocialGouv/dila-api-client,True
@@ -2937,7 +2937,7 @@ https://github.com/betagouv/PeerTube,True
 https://github.com/betagouv/StopCovid,True
 https://github.com/betagouv/a11y-generateur-declaration,True
 https://github.com/betagouv/admin-traitdunion,True
-https://github.com/betagouv/aides-jeunes,False
+https://github.com/betagouv/aides-jeunes,True
 https://github.com/betagouv/allegement-fillon,True
 https://github.com/betagouv/analyse-flux-insertion,True
 https://github.com/betagouv/andi,True
@@ -6600,7 +6600,7 @@ https://gitlab.inria.fr/concordant/software/c-client,False
 https://gitlab.inria.fr/concordant/software/c-crdtlib,False
 https://gitlab.inria.fr/concordant/software/c-markdown-editor,False
 https://gitlab.inria.fr/concordant/software/c-service,False
-https://gitlab.inria.fr/concordant/software/c-sudoku,False
+https://gitlab.inria.fr/concordant/software/c-sudoku,True
 https://gitlab.inria.fr/concordant/software/mini-app,False
 https://gitlab.inria.fr/coq/coq,True
 https://gitlab.inria.fr/coq/wiki-backup,True
