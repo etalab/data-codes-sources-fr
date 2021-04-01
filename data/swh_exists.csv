@@ -842,7 +842,7 @@ https://github.com/1024pix/pix-bot,True
 https://github.com/1024pix/pix-db-replication,True
 https://github.com/1024pix/pix-db-stats,True
 https://github.com/1024pix/pix-editor,True
-https://github.com/1024pix/pix-editor-ext,False
+https://github.com/1024pix/pix-editor-ext,True
 https://github.com/1024pix/pix-engineering,True
 https://github.com/1024pix/pix-graviteeio,True
 https://github.com/1024pix/pix-help-center-theme,True
@@ -2883,6 +2883,7 @@ https://github.com/atlanmod/Parallel-ATL,True
 https://github.com/atlanmod/Prefetching_Caching_DSL,True
 https://github.com/atlanmod/ThingML,True
 https://github.com/atlanmod/UML2NoSQL,True
+https://github.com/atlanmod/algae,False
 https://github.com/atlanmod/arduinomodeling,True
 https://github.com/atlanmod/atl,True
 https://github.com/atlanmod/atlanmod-platform,True
@@ -4949,6 +4950,7 @@ https://github.com/meteofrance/meteonet,True
 https://github.com/metwork-framework/acquisition,True
 https://github.com/metwork-framework/aiohttp_github_helpers,True
 https://github.com/metwork-framework/aiohttp_metwork_middlewares,True
+https://github.com/metwork-framework/alwaysup,False
 https://github.com/metwork-framework/auto-changelog,True
 https://github.com/metwork-framework/circus_autorestart_plugin,True
 https://github.com/metwork-framework/cookiecutter,True
@@ -6118,7 +6120,7 @@ https://gitlab.huma-num.fr/portic/gazetteer,True
 https://gitlab.huma-num.fr/portic/navigocorpus,True
 https://gitlab.huma-num.fr/portic/porticapi,True
 https://gitlab.huma-num.fr/profiterole/profiterole-tools,True
-https://gitlab.huma-num.fr/profiterole/sentseg,False
+https://gitlab.huma-num.fr/profiterole/sentseg,True
 https://gitlab.huma-num.fr/profiterole/srcmf-ud,True
 https://gitlab.huma-num.fr/rzine/Rzine_actu,True
 https://gitlab.huma-num.fr/rzine/add_author,True
@@ -7795,7 +7797,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/JMMC/jmmc-oival-docker,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/JMMC/jmmc-oival-kubernetes,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/JMMC/jmmc-srv-infra,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/JMMC/jmmc-vlti2018-school-tutorials,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/JMMC/jmmc-vollt-kubernetes,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/JMMC/jmmc-vollt-kubernetes,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/JMMC/jmmc-vollt-server,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/ResifYAMLfiles,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/budindexer,True
