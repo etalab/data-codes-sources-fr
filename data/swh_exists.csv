@@ -705,7 +705,7 @@ https://git.unistra.fr/la-barre-oblique/g4b-but-les-meilleurs,True
 https://git.unistra.fr/la-barre-oblique/randonneeadut,True
 https://git.unistra.fr/la-sectember/t432_sab20_t3_c,True
 https://git.unistra.fr/la-table-ronde/ecr19-t4-b,True
-https://git.unistra.fr/lateam/la_team_mel21,False
+https://git.unistra.fr/lateam/la_team_mel21,True
 https://git.unistra.fr/les-biens-renseignes/asm_sim,True
 https://git.unistra.fr/les-biens-renseignes/module-polynomes,True
 https://git.unistra.fr/les-canards-boiteux/projet1,True
@@ -1087,7 +1087,7 @@ https://github.com/CEA-LIST/Cingulata,True
 https://github.com/CEA-LIST/DAHLIA-BodyIndex,True
 https://github.com/CEA-LIST/N2D2,True
 https://github.com/CEA-LIST/adv-reid,True
-https://github.com/CEA-LIST/adv-sat,False
+https://github.com/CEA-LIST/adv-sat,True
 https://github.com/CEA-LIST/sgntx,True
 https://github.com/CEA-Leti/wsnet,True
 https://github.com/CEREMA/com.cerema.infocentre_old,True
@@ -2486,7 +2486,10 @@ https://github.com/SocialGouv/covid,True
 https://github.com/SocialGouv/covid19-orientation,True
 https://github.com/SocialGouv/covid19-tests-schemas,True
 https://github.com/SocialGouv/ctdn-api,False
+https://github.com/SocialGouv/dashlord-init-action,False
+https://github.com/SocialGouv/dashlord-nuclei-action,False
 https://github.com/SocialGouv/dashlord-report-action,True
+https://github.com/SocialGouv/dashlord-save-action,False
 https://github.com/SocialGouv/datafiller,True
 https://github.com/SocialGouv/datafiller-data,True
 https://github.com/SocialGouv/dila-api-client,True
@@ -6601,7 +6604,7 @@ https://gitlab.inria.fr/computer_architecture/y86-environment,True
 https://gitlab.inria.fr/concordant/software/c-client,False
 https://gitlab.inria.fr/concordant/software/c-crdtlib,False
 https://gitlab.inria.fr/concordant/software/c-markdown-editor,False
-https://gitlab.inria.fr/concordant/software/c-service,False
+https://gitlab.inria.fr/concordant/software/c-service,True
 https://gitlab.inria.fr/concordant/software/c-sudoku,True
 https://gitlab.inria.fr/concordant/software/mini-app,False
 https://gitlab.inria.fr/coq/coq,True
