@@ -3987,7 +3987,7 @@ https://github.com/etalab-ia/demo-piaf,True
 https://github.com/etalab-ia/florian_opendatascience,True
 https://github.com/etalab-ia/knowledge-base,True
 https://github.com/etalab-ia/mlflow-docker,True
-https://github.com/etalab-ia/ocr-xtract,False
+https://github.com/etalab-ia/ocr-xtract,True
 https://github.com/etalab-ia/open_ML,True
 https://github.com/etalab-ia/opendatascience,True
 https://github.com/etalab-ia/piaf-code,True
@@ -6210,7 +6210,7 @@ https://gitlab.inria.fr/InBio/Public/micromator,True
 https://gitlab.inria.fr/InBio/Public/reacsight,True
 https://gitlab.inria.fr/KerA/examples/kera-flink-examples,True
 https://gitlab.inria.fr/KerA/gtest,True
-https://gitlab.inria.fr/KerA/integrations/kera-flink-connector,False
+https://gitlab.inria.fr/KerA/integrations/kera-flink-connector,True
 https://gitlab.inria.fr/KerA/kera,True
 https://gitlab.inria.fr/KerA/kerarrow,False
 https://gitlab.inria.fr/KerA/logcabin,False
