@@ -1956,7 +1956,7 @@ https://github.com/InseeFrLab/Java-Helm-Wrapper,True
 https://github.com/InseeFrLab/Macronometrics,True
 https://github.com/InseeFrLab/Macronometrics-Notebook,True
 https://github.com/InseeFrLab/Mapex,True
-https://github.com/InseeFrLab/NRC-Heck-model,False
+https://github.com/InseeFrLab/NRC-Heck-model,True
 https://github.com/InseeFrLab/SASTauArgus,True
 https://github.com/InseeFrLab/Shelly,True
 https://github.com/InseeFrLab/Spark-hive,True
@@ -2592,6 +2592,7 @@ https://github.com/SocialGouv/support,True
 https://github.com/SocialGouv/template.data.gouv.fr.react,True
 https://github.com/SocialGouv/test-renovate,True
 https://github.com/SocialGouv/test-renovate-cdtn,True
+https://github.com/SocialGouv/test-ssl-action,False
 https://github.com/SocialGouv/thirdparties,True
 https://github.com/SocialGouv/thirdparties-dashboard,True
 https://github.com/SocialGouv/tocbot,True
@@ -7046,6 +7047,7 @@ https://gitlab.inria.fr/line/aide-group/aidebuild,True
 https://gitlab.inria.fr/line/aide-group/aidecv,True
 https://gitlab.inria.fr/line/aide-group/aidesys,True
 https://gitlab.inria.fr/line/aide-group/aideweb,True
+https://gitlab.inria.fr/line/aide-group/creacog,False
 https://gitlab.inria.fr/line/aide-group/creaspot,True
 https://gitlab.inria.fr/line/aide-group/esp32-roomcontrol,True
 https://gitlab.inria.fr/line/aide-group/esp32brachistochrone,True
@@ -7470,6 +7472,7 @@ https://gitlab.inria.fr/these-bxi/s4bxi-runner,False
 https://gitlab.inria.fr/thoth/python-spams,True
 https://gitlab.inria.fr/thoth/spams-devel,True
 https://gitlab.inria.fr/tnfs-alpha/alpha,True
+https://gitlab.inria.fr/traitor/traitor,False
 https://gitlab.inria.fr/tranus/QGIS_Tranus_Reports,True
 https://gitlab.inria.fr/tranus/TRANUS_Interfaces,True
 https://gitlab.inria.fr/tranus/Tranus_Python,True
