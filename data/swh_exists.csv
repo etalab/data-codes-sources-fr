@@ -783,7 +783,7 @@ https://git.unistra.fr/t42/trail_extreme,False
 https://git.unistra.fr/t432_liy20-t3-c/projet-t3,True
 https://git.unistra.fr/t432_liy20_t3_f/t31_barre_oblique_v1,True
 https://git.unistra.fr/t432_voc20_t3_x/archeologie,True
-https://git.unistra.fr/t4_REN21/T4_REN21,False
+https://git.unistra.fr/t4_REN21/T4_REN21,True
 https://git.unistra.fr/t4_las21-s4_vie/terminorum,True
 https://git.unistra.fr/t4_ren21_get_gossed/t4_ren21_get_gossed,True
 https://git.unistra.fr/t4_workisusels/projet_t4_workisuseless,True
@@ -6607,7 +6607,7 @@ https://gitlab.inria.fr/concordant/software/c-crdtlib,False
 https://gitlab.inria.fr/concordant/software/c-markdown-editor,False
 https://gitlab.inria.fr/concordant/software/c-service,True
 https://gitlab.inria.fr/concordant/software/c-sudoku,True
-https://gitlab.inria.fr/concordant/software/mini-app,False
+https://gitlab.inria.fr/concordant/software/mini-app,True
 https://gitlab.inria.fr/coq/coq,True
 https://gitlab.inria.fr/coq/wiki-backup,True
 https://gitlab.inria.fr/coqinterval/interval,True
@@ -7032,6 +7032,7 @@ https://gitlab.inria.fr/learninglab/guidelines-ill,True
 https://gitlab.inria.fr/learninglab/mooc-bioinfo,True
 https://gitlab.inria.fr/learninglab/mooc-forum-plugin,True
 https://gitlab.inria.fr/learninglab/mooc-forums-theme,True
+https://gitlab.inria.fr/learninglab/mooc-impacts-num/mooc-impacts-num-ressources,False
 https://gitlab.inria.fr/learninglab/mooc-iot/mooc-iot-ressources,True
 https://gitlab.inria.fr/learninglab/mooc-mr-notebooks,True
 https://gitlab.inria.fr/learninglab/mooc-rr/mooc-rr-apps,True
