@@ -740,7 +740,7 @@ https://git.unistra.fr/p4z_sarah_yoann/P4z,True
 https://git.unistra.fr/pastore.ritzenthaler.p4a/P4a,True
 https://git.unistra.fr/peven/Coffee3D,True
 https://git.unistra.fr/phun/phun.pages.unistra.fr,True
-https://git.unistra.fr/power-rangers/t4-power-rangers,False
+https://git.unistra.fr/power-rangers/t4-power-rangers,True
 https://git.unistra.fr/presUni/HAJ18-T4-D,True
 https://git.unistra.fr/project-master/pro-master,True
 https://git.unistra.fr/projet-a31-connect4/connect4,True
@@ -2486,10 +2486,12 @@ https://github.com/SocialGouv/covid,True
 https://github.com/SocialGouv/covid19-orientation,True
 https://github.com/SocialGouv/covid19-tests-schemas,True
 https://github.com/SocialGouv/ctdn-api,False
+https://github.com/SocialGouv/dashlord-httpobs-action,False
 https://github.com/SocialGouv/dashlord-init-action,False
 https://github.com/SocialGouv/dashlord-nuclei-action,False
 https://github.com/SocialGouv/dashlord-report-action,True
 https://github.com/SocialGouv/dashlord-save-action,False
+https://github.com/SocialGouv/dashlord-thirdparties-action,False
 https://github.com/SocialGouv/datafiller,True
 https://github.com/SocialGouv/datafiller-data,True
 https://github.com/SocialGouv/dila-api-client,True
@@ -2607,6 +2609,7 @@ https://github.com/SocialGouv/tutoriel-gitlab,True
 https://github.com/SocialGouv/ui,False
 https://github.com/SocialGouv/upptime,True
 https://github.com/SocialGouv/veille-git,True
+https://github.com/SocialGouv/wappalyser-action,False
 https://github.com/SocialGouv/web-dashboard,True
 https://github.com/SocialGouv/webseal,True
 https://github.com/SocialGouv/work-in-france,True
@@ -3709,7 +3712,7 @@ https://github.com/diverse-project/k3,True
 https://github.com/diverse-project/kcvl,True
 https://github.com/diverse-project/kermeta,True
 https://github.com/diverse-project/kermeta2,True
-https://github.com/diverse-project/kpredict,False
+https://github.com/diverse-project/kpredict,True
 https://github.com/diverse-project/matisseTemplate,True
 https://github.com/diverse-project/matrix-miner-engine,True
 https://github.com/diverse-project/maven-miner,True
@@ -5973,6 +5976,7 @@ https://gitlab.com/fabnum-minarm/igloo/terraform/projects/_template,True
 https://gitlab.com/fabnum-minarm/igloo/terraform/projects/alpps,True
 https://gitlab.com/fabnum-minarm/igloo/terraform/projects/anais,True
 https://gitlab.com/fabnum-minarm/igloo/terraform/projects/cassiopee,True
+https://gitlab.com/fabnum-minarm/igloo/terraform/projects/e-chauffeur,False
 https://gitlab.com/fabnum-minarm/igloo/terraform/projects/sepia,True
 https://gitlab.com/fabnum-minarm/metiis/backend,True
 https://gitlab.com/fabnum-minarm/metiis/frontend,True
@@ -6212,7 +6216,7 @@ https://gitlab.inria.fr/KerA/examples/kera-flink-examples,True
 https://gitlab.inria.fr/KerA/gtest,True
 https://gitlab.inria.fr/KerA/integrations/kera-flink-connector,True
 https://gitlab.inria.fr/KerA/kera,True
-https://gitlab.inria.fr/KerA/kerarrow,False
+https://gitlab.inria.fr/KerA/kerarrow,True
 https://gitlab.inria.fr/KerA/logcabin,False
 https://gitlab.inria.fr/LightFieldCodingLibrary/HEVC,True
 https://gitlab.inria.fr/LightFieldCodingLibrary/LF,True
