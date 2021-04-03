@@ -2491,7 +2491,7 @@ https://github.com/SocialGouv/dashlord-init-action,False
 https://github.com/SocialGouv/dashlord-nuclei-action,False
 https://github.com/SocialGouv/dashlord-report-action,True
 https://github.com/SocialGouv/dashlord-save-action,False
-https://github.com/SocialGouv/dashlord-thirdparties-action,False
+https://github.com/SocialGouv/dashlord-thirdparties-action,True
 https://github.com/SocialGouv/datafiller,True
 https://github.com/SocialGouv/datafiller-data,True
 https://github.com/SocialGouv/dila-api-client,True
@@ -4279,7 +4279,7 @@ https://github.com/etalab/sprint-open-source,True
 https://github.com/etalab/stars_detective,True
 https://github.com/etalab/statut.annuaire-entreprises.data.gouv.fr,True
 https://github.com/etalab/suivi-ouverture-citp-2021,False
-https://github.com/etalab/support.data.gouv.fr,False
+https://github.com/etalab/support.data.gouv.fr,True
 https://github.com/etalab/tableschema-template,True
 https://github.com/etalab/taxe-fonciere,True
 https://github.com/etalab/taxe-habitation,True
