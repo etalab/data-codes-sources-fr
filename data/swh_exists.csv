@@ -1999,7 +1999,7 @@ https://github.com/InseeFrLab/keycloak-hashicorp-vault-ext,True
 https://github.com/InseeFrLab/keycloak-http-storage-provider,True
 https://github.com/InseeFrLab/keycloakify,True
 https://github.com/InseeFrLab/keycloakify-demo-app,True
-https://github.com/InseeFrLab/lockdown-maps-R,False
+https://github.com/InseeFrLab/lockdown-maps-R,True
 https://github.com/InseeFrLab/manipulation-donnees-carroyees,False
 https://github.com/InseeFrLab/marathon-to-kubernetes,True
 https://github.com/InseeFrLab/onyxia,True
@@ -4957,7 +4957,7 @@ https://github.com/meteofrance/meteonet,True
 https://github.com/metwork-framework/acquisition,True
 https://github.com/metwork-framework/aiohttp_github_helpers,True
 https://github.com/metwork-framework/aiohttp_metwork_middlewares,True
-https://github.com/metwork-framework/alwaysup,False
+https://github.com/metwork-framework/alwaysup,True
 https://github.com/metwork-framework/auto-changelog,True
 https://github.com/metwork-framework/circus_autorestart_plugin,True
 https://github.com/metwork-framework/cookiecutter,True
@@ -5106,6 +5106,7 @@ https://github.com/neuroanatomy/microdraw,True
 https://github.com/neuroanatomy/microdraw-tutorials,True
 https://github.com/neuroanatomy/microdraw.py,True
 https://github.com/neuroanatomy/mrijs,True
+https://github.com/neuroanatomy/naat-eslintrc,False
 https://github.com/neuroanatomy/neuroanatomy.github.com,True
 https://github.com/neuroanatomy/neuroimaging-sharing-tools,True
 https://github.com/neuroanatomy/open-data-day,True
@@ -6608,7 +6609,7 @@ https://gitlab.inria.fr/comprise/voice_transformation,True
 https://gitlab.inria.fr/computer_architecture/y86-environment,True
 https://gitlab.inria.fr/concordant/software/c-client,False
 https://gitlab.inria.fr/concordant/software/c-crdtlib,False
-https://gitlab.inria.fr/concordant/software/c-markdown-editor,False
+https://gitlab.inria.fr/concordant/software/c-markdown-editor,True
 https://gitlab.inria.fr/concordant/software/c-service,True
 https://gitlab.inria.fr/concordant/software/c-sudoku,True
 https://gitlab.inria.fr/concordant/software/mini-app,True
