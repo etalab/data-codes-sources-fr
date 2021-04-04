@@ -2486,6 +2486,7 @@ https://github.com/SocialGouv/covid,True
 https://github.com/SocialGouv/covid19-orientation,True
 https://github.com/SocialGouv/covid19-tests-schemas,True
 https://github.com/SocialGouv/ctdn-api,False
+https://github.com/SocialGouv/dashlord,False
 https://github.com/SocialGouv/dashlord-httpobs-action,False
 https://github.com/SocialGouv/dashlord-init-action,False
 https://github.com/SocialGouv/dashlord-nuclei-action,True
@@ -4567,7 +4568,7 @@ https://github.com/leximpact/etudes-amendements,True
 https://github.com/leximpact/leximpact-client,True
 https://github.com/leximpact/leximpact-nouveau-sujet,True
 https://github.com/leximpact/leximpact-server,True
-https://github.com/leximpact/leximpact-socio-fiscal-api,False
+https://github.com/leximpact/leximpact-socio-fiscal-api,True
 https://github.com/leximpact/leximpact-socio-fiscal-ui,True
 https://github.com/leximpact/openfisca-france-dotations-locales,True
 https://github.com/leximpact/openfisca-waterfall,True
