@@ -2488,9 +2488,9 @@ https://github.com/SocialGouv/covid19-tests-schemas,True
 https://github.com/SocialGouv/ctdn-api,False
 https://github.com/SocialGouv/dashlord-httpobs-action,False
 https://github.com/SocialGouv/dashlord-init-action,False
-https://github.com/SocialGouv/dashlord-nuclei-action,False
+https://github.com/SocialGouv/dashlord-nuclei-action,True
 https://github.com/SocialGouv/dashlord-report-action,True
-https://github.com/SocialGouv/dashlord-save-action,False
+https://github.com/SocialGouv/dashlord-save-action,True
 https://github.com/SocialGouv/dashlord-thirdparties-action,True
 https://github.com/SocialGouv/datafiller,True
 https://github.com/SocialGouv/datafiller-data,True
@@ -2529,6 +2529,7 @@ https://github.com/SocialGouv/gitlab-ci-yml,True
 https://github.com/SocialGouv/hasura,True
 https://github.com/SocialGouv/hasura-permissions-viewer,True
 https://github.com/SocialGouv/helm-charts,True
+https://github.com/SocialGouv/httpobs-action,False
 https://github.com/SocialGouv/importXLSLabos,True
 https://github.com/SocialGouv/jest-environment-knex,True
 https://github.com/SocialGouv/jmeter-kibana,True
@@ -2574,7 +2575,7 @@ https://github.com/SocialGouv/presentation-textstyle,True
 https://github.com/SocialGouv/react-departements,True
 https://github.com/SocialGouv/react-k8s-viewer,True
 https://github.com/SocialGouv/react-medixtor,True
-https://github.com/SocialGouv/recherche-entreprises,False
+https://github.com/SocialGouv/recherche-entreprises,True
 https://github.com/SocialGouv/renovate-config,True
 https://github.com/SocialGouv/runners-bench,True
 https://github.com/SocialGouv/sample-next-app,True
@@ -2596,6 +2597,7 @@ https://github.com/SocialGouv/test-renovate,True
 https://github.com/SocialGouv/test-renovate-cdtn,True
 https://github.com/SocialGouv/test-ssl-action,False
 https://github.com/SocialGouv/thirdparties,True
+https://github.com/SocialGouv/thirdparties-action,False
 https://github.com/SocialGouv/thirdparties-dashboard,True
 https://github.com/SocialGouv/tocbot,True
 https://github.com/SocialGouv/tools,True
@@ -2890,7 +2892,7 @@ https://github.com/atlanmod/Parallel-ATL,True
 https://github.com/atlanmod/Prefetching_Caching_DSL,True
 https://github.com/atlanmod/ThingML,True
 https://github.com/atlanmod/UML2NoSQL,True
-https://github.com/atlanmod/algae,False
+https://github.com/atlanmod/algae,True
 https://github.com/atlanmod/arduinomodeling,True
 https://github.com/atlanmod/atl,True
 https://github.com/atlanmod/atlanmod-platform,True
@@ -5977,7 +5979,7 @@ https://gitlab.com/fabnum-minarm/igloo/terraform/projects/_template,True
 https://gitlab.com/fabnum-minarm/igloo/terraform/projects/alpps,True
 https://gitlab.com/fabnum-minarm/igloo/terraform/projects/anais,True
 https://gitlab.com/fabnum-minarm/igloo/terraform/projects/cassiopee,True
-https://gitlab.com/fabnum-minarm/igloo/terraform/projects/e-chauffeur,False
+https://gitlab.com/fabnum-minarm/igloo/terraform/projects/e-chauffeur,True
 https://gitlab.com/fabnum-minarm/igloo/terraform/projects/sepia,True
 https://gitlab.com/fabnum-minarm/metiis/backend,True
 https://gitlab.com/fabnum-minarm/metiis/frontend,True
@@ -6608,7 +6610,7 @@ https://gitlab.inria.fr/comprise/text_transformer,True
 https://gitlab.inria.fr/comprise/voice_transformation,True
 https://gitlab.inria.fr/computer_architecture/y86-environment,True
 https://gitlab.inria.fr/concordant/software/c-client,False
-https://gitlab.inria.fr/concordant/software/c-crdtlib,False
+https://gitlab.inria.fr/concordant/software/c-crdtlib,True
 https://gitlab.inria.fr/concordant/software/c-markdown-editor,True
 https://gitlab.inria.fr/concordant/software/c-service,True
 https://gitlab.inria.fr/concordant/software/c-sudoku,True
