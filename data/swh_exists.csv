@@ -2151,6 +2151,7 @@ https://github.com/MTES-MCT/cobot-api,True
 https://github.com/MTES-MCT/cobot-bot,True
 https://github.com/MTES-MCT/cours-java-debutant,True
 https://github.com/MTES-MCT/dashboard,True
+https://github.com/MTES-MCT/dashlord,False
 https://github.com/MTES-MCT/data-preparation-plugin,True
 https://github.com/MTES-MCT/dataqual,True
 https://github.com/MTES-MCT/dataroom,True
@@ -2220,6 +2221,7 @@ https://github.com/MTES-MCT/transport-routier,True
 https://github.com/MTES-MCT/trashadvisor,True
 https://github.com/MTES-MCT/udata-doc,True
 https://github.com/MTES-MCT/udata-gouvfr-ecologie,True
+https://github.com/MTES-MCT/updownio-action,False
 https://github.com/MinistereSupRecherche/bso,True
 https://github.com/MinistereSupRecherche/dataESR,True
 https://github.com/MinistereSupRecherche/machineadonnees,True
@@ -2486,7 +2488,7 @@ https://github.com/SocialGouv/covid,True
 https://github.com/SocialGouv/covid19-orientation,True
 https://github.com/SocialGouv/covid19-tests-schemas,True
 https://github.com/SocialGouv/ctdn-api,False
-https://github.com/SocialGouv/dashlord,False
+https://github.com/SocialGouv/dashlord,True
 https://github.com/SocialGouv/dashlord-httpobs-action,False
 https://github.com/SocialGouv/dashlord-init-action,False
 https://github.com/SocialGouv/dashlord-nuclei-action,True
