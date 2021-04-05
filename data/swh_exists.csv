@@ -7575,6 +7575,7 @@ https://gitlab.irstea.fr/ext/insitu/trios,True
 https://gitlab.irstea.fr/geopat/geopat,True
 https://gitlab.irstea.fr/hru-delin-dev/hru-delin,True
 https://gitlab.irstea.fr/hru-delin-dev/hru-delin-qgis,True
+https://gitlab.irstea.fr/in-wop/airGRiwrm,False
 https://gitlab.irstea.fr/in-wop/multivgest,True
 https://gitlab.irstea.fr/in-wop/rvgest,False
 https://gitlab.irstea.fr/in-wop/vgest,True
@@ -7919,7 +7920,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/9/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/01/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/02/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/05/STM32F4_CAN,False
-https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/05/STM32F7_BerkeleySocketsServer,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/05/STM32F7_BerkeleySocketsServer,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/05/STM32F7_MinnowServer,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/05/STM32F7_MongooseServer,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/05/STM32_BerkeleySocketsServer,True
