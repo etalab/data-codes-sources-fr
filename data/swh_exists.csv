@@ -2613,6 +2613,7 @@ https://github.com/SocialGouv/ui,False
 https://github.com/SocialGouv/upptime,True
 https://github.com/SocialGouv/veille-git,True
 https://github.com/SocialGouv/wappalyser-action,False
+https://github.com/SocialGouv/wappalyzer-action,False
 https://github.com/SocialGouv/web-dashboard,True
 https://github.com/SocialGouv/webseal,True
 https://github.com/SocialGouv/work-in-france,True
@@ -7916,6 +7917,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/9/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/01/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/02/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/05/STM32_BerkeleySocketsServer,True
+https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/05/STM32_CAN,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/05/STM32_CycloneServer,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/05/STM32_MinnowServer,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/05/STM32_MongooseServer,True
