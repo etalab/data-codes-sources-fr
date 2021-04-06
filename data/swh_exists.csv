@@ -2223,7 +2223,7 @@ https://github.com/MTES-MCT/trashadvisor,True
 https://github.com/MTES-MCT/udata-doc,True
 https://github.com/MTES-MCT/udata-gouvfr-ecologie,True
 https://github.com/MTES-MCT/updownio-action,False
-https://github.com/MTES-MCT/upptime,False
+https://github.com/MTES-MCT/upptime,True
 https://github.com/MinistereSupRecherche/bso,True
 https://github.com/MinistereSupRecherche/dataESR,True
 https://github.com/MinistereSupRecherche/machineadonnees,True
@@ -4359,7 +4359,7 @@ https://github.com/ezpaarse-project/ezpaarse-tools,True
 https://github.com/ezpaarse-project/ezpaarse-visualizer,True
 https://github.com/ezpaarse-project/ezpaarse-web-header,True
 https://github.com/ezpaarse-project/ezpaarse-web-home,True
-https://github.com/ezpaarse-project/ezunpaywall,False
+https://github.com/ezpaarse-project/ezunpaywall,True
 https://github.com/ezpaarse-project/getting-started-with-ezvis,True
 https://github.com/ezpaarse-project/ip-range-generator,True
 https://github.com/ezpaarse-project/irevue-logs-cleaner,True
@@ -7935,7 +7935,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/02/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/05/STM32F4_CAN,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/05/STM32F7_BerkeleySocketsServer,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/05/STM32F7_MinnowServer,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/05/STM32F7_MongooseServer,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/05/STM32F7_MongooseServer,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/05/STM32_BerkeleySocketsServer,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/05/STM32_CAN,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/05/STM32_CycloneServer,True
