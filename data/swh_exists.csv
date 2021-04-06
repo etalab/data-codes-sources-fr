@@ -2152,6 +2152,7 @@ https://github.com/MTES-MCT/cobot-bot,True
 https://github.com/MTES-MCT/cours-java-debutant,True
 https://github.com/MTES-MCT/dashboard,True
 https://github.com/MTES-MCT/dashlord,False
+https://github.com/MTES-MCT/dashlord-updownio-report,False
 https://github.com/MTES-MCT/data-preparation-plugin,True
 https://github.com/MTES-MCT/dataqual,True
 https://github.com/MTES-MCT/dataroom,True
@@ -3118,6 +3119,7 @@ https://github.com/betagouv/itou-entreprise,True
 https://github.com/betagouv/itou-fdi,True
 https://github.com/betagouv/itou-gitbook,True
 https://github.com/betagouv/itou-landing,True
+https://github.com/betagouv/itou-support,False
 https://github.com/betagouv/itou-theme-discourse,True
 https://github.com/betagouv/itou_c4_python_api,True
 https://github.com/betagouv/itou_entreprise,False
@@ -7921,7 +7923,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/01/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/02/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/05/STM32F4_CAN,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/05/STM32F7_BerkeleySocketsServer,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/05/STM32F7_MinnowServer,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/05/STM32F7_MinnowServer,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/05/STM32F7_MongooseServer,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/05/STM32_BerkeleySocketsServer,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/05/STM32_CAN,False
