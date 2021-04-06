@@ -776,7 +776,7 @@ https://git.unistra.fr/seul/P4a,True
 https://git.unistra.fr/sidereal/ptweb3,True
 https://git.unistra.fr/spice-girls-ft-jerry/school-game,True
 https://git.unistra.fr/t4-boost/t4,True
-https://git.unistra.fr/t4-foc21-prh/projet-t4,False
+https://git.unistra.fr/t4-foc21-prh/projet-t4,True
 https://git.unistra.fr/t4-the-origin/arti4,True
 https://git.unistra.fr/t41/poopy,True
 https://git.unistra.fr/t42/trail_extreme,True
@@ -910,7 +910,7 @@ https://github.com/ANSSI-FR/ADTimeline,True
 https://github.com/ANSSI-FR/ASCAD,True
 https://github.com/ANSSI-FR/Binacle,True
 https://github.com/ANSSI-FR/DFIR-O365RC,True
-https://github.com/ANSSI-FR/Faults_analyzer,False
+https://github.com/ANSSI-FR/Faults_analyzer,True
 https://github.com/ANSSI-FR/Faults_experiments,True
 https://github.com/ANSSI-FR/FreeSpec,True
 https://github.com/ANSSI-FR/MLA,True
@@ -2223,6 +2223,7 @@ https://github.com/MTES-MCT/trashadvisor,True
 https://github.com/MTES-MCT/udata-doc,True
 https://github.com/MTES-MCT/udata-gouvfr-ecologie,True
 https://github.com/MTES-MCT/updownio-action,False
+https://github.com/MTES-MCT/upptime,False
 https://github.com/MinistereSupRecherche/bso,True
 https://github.com/MinistereSupRecherche/dataESR,True
 https://github.com/MinistereSupRecherche/machineadonnees,True
@@ -3327,6 +3328,7 @@ https://github.com/caml-pkcs11/opkcs11-tool,True
 https://github.com/caradoc-org/caradoc,True
 https://github.com/cea-hpc/Hercule,True
 https://github.com/cea-hpc/Modane,True
+https://github.com/cea-hpc/Monilog4NabLab,False
 https://github.com/cea-hpc/NabLab,True
 https://github.com/cea-hpc/PCVS,True
 https://github.com/cea-hpc/bridge,True
@@ -4357,6 +4359,7 @@ https://github.com/ezpaarse-project/ezpaarse-tools,True
 https://github.com/ezpaarse-project/ezpaarse-visualizer,True
 https://github.com/ezpaarse-project/ezpaarse-web-header,True
 https://github.com/ezpaarse-project/ezpaarse-web-home,True
+https://github.com/ezpaarse-project/ezunpaywall,False
 https://github.com/ezpaarse-project/getting-started-with-ezvis,True
 https://github.com/ezpaarse-project/ip-range-generator,True
 https://github.com/ezpaarse-project/irevue-logs-cleaner,True
@@ -5451,6 +5454,13 @@ https://github.com/pass-culture/telegraf-buildpack,True
 https://github.com/pass-culture/telegraf-scalingo,True
 https://github.com/picty/concerto,True
 https://github.com/picty/parsifal,True
+https://github.com/plantnet/gbif-dl,False
+https://github.com/plantnet/hapi-rate-limit,False
+https://github.com/plantnet/my.plantnet,True
+https://github.com/plantnet/node-couchdb,True
+https://github.com/plantnet/node-datamanager,True
+https://github.com/plantnet/plantnet-datamanager,True
+https://github.com/plantnet/plantnet-publish,True
 https://github.com/polewebmaedi/MAEDI-Capitales,True
 https://github.com/polewebmaedi/MAEDI-Pays,True
 https://github.com/polewebmaedi/countries,True
@@ -6467,6 +6477,7 @@ https://gitlab.inria.fr/andiamo/tony,True
 https://gitlab.inria.fr/android-tools/apk-ops,True
 https://gitlab.inria.fr/android-tools/emulator,True
 https://gitlab.inria.fr/android-tools/readme,True
+https://gitlab.inria.fr/anon_group/iotlabandnist,False
 https://gitlab.inria.fr/asbizard/Procedural_modeling_of_multi-scale_galactic_dust,True
 https://gitlab.inria.fr/asclepios/biblio,True
 https://gitlab.inria.fr/auctus/panda/franka_control,True
@@ -7921,7 +7932,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/8/draft,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/9/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/01/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/02/docs,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/05/STM32F4_CAN,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/05/STM32F4_CAN,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/05/STM32F7_BerkeleySocketsServer,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/05/STM32F7_MinnowServer,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/05/STM32F7_MongooseServer,False
