@@ -2492,7 +2492,7 @@ https://github.com/SocialGouv/covid19-tests-schemas,True
 https://github.com/SocialGouv/ctdn-api,False
 https://github.com/SocialGouv/dashlord,True
 https://github.com/SocialGouv/dashlord-httpobs-action,False
-https://github.com/SocialGouv/dashlord-init-action,False
+https://github.com/SocialGouv/dashlord-init-action,True
 https://github.com/SocialGouv/dashlord-nuclei-action,True
 https://github.com/SocialGouv/dashlord-report-action,True
 https://github.com/SocialGouv/dashlord-save-action,True
@@ -3328,7 +3328,7 @@ https://github.com/caml-pkcs11/opkcs11-tool,True
 https://github.com/caradoc-org/caradoc,True
 https://github.com/cea-hpc/Hercule,True
 https://github.com/cea-hpc/Modane,True
-https://github.com/cea-hpc/Monilog4NabLab,False
+https://github.com/cea-hpc/Monilog4NabLab,True
 https://github.com/cea-hpc/NabLab,True
 https://github.com/cea-hpc/PCVS,True
 https://github.com/cea-hpc/bridge,True
@@ -6477,7 +6477,7 @@ https://gitlab.inria.fr/andiamo/tony,True
 https://gitlab.inria.fr/android-tools/apk-ops,True
 https://gitlab.inria.fr/android-tools/emulator,True
 https://gitlab.inria.fr/android-tools/readme,True
-https://gitlab.inria.fr/anon_group/iotlabandnist,False
+https://gitlab.inria.fr/anon_group/iotlabandnist,True
 https://gitlab.inria.fr/asbizard/Procedural_modeling_of_multi-scale_galactic_dust,True
 https://gitlab.inria.fr/asclepios/biblio,True
 https://gitlab.inria.fr/auctus/panda/franka_control,True
@@ -7932,8 +7932,10 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/8/draft,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/9/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/01/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/02/docs,True
+https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/05/Documentation,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/05/STM32F4_CAN,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/05/STM32F7_BerkeleySocketsServer,True
+https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/05/STM32F7_CycloneServer,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/05/STM32F7_MinnowServer,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/05/STM32F7_MongooseServer,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/05/STM32_BerkeleySocketsServer,True
@@ -7965,6 +7967,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/16/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/17/code,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/17/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/18/Project_Chirpstack-monitoring,True
+https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/18/chirpstack-monitoring,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/18/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/SIMPA/SIMPA,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/ai-courses/autonomous_systems_ml,True
