@@ -962,6 +962,7 @@ https://github.com/ARCEP-dev/BLOM,True
 https://github.com/ARCEP-dev/adresse,True
 https://github.com/ARCEP-dev/algo_maconnexioninternet,True
 https://github.com/ARCEP-dev/basePopDom,True
+https://github.com/ARCEP-dev/data.arcep.fr,False
 https://github.com/ARCEP-dev/dataTools,True
 https://github.com/ARCEP-dev/disPorts,True
 https://github.com/ARCEP-dev/geocodage_ban,True
@@ -2000,7 +2001,7 @@ https://github.com/InseeFrLab/keycloak-http-storage-provider,True
 https://github.com/InseeFrLab/keycloakify,True
 https://github.com/InseeFrLab/keycloakify-demo-app,True
 https://github.com/InseeFrLab/lockdown-maps-R,True
-https://github.com/InseeFrLab/manipulation-donnees-carroyees,False
+https://github.com/InseeFrLab/manipulation-donnees-carroyees,True
 https://github.com/InseeFrLab/marathon-to-kubernetes,True
 https://github.com/InseeFrLab/onyxia,True
 https://github.com/InseeFrLab/onyxia-api,True
@@ -7059,7 +7060,7 @@ https://gitlab.inria.fr/learninglab/guidelines-ill,True
 https://gitlab.inria.fr/learninglab/mooc-bioinfo,True
 https://gitlab.inria.fr/learninglab/mooc-forum-plugin,True
 https://gitlab.inria.fr/learninglab/mooc-forums-theme,True
-https://gitlab.inria.fr/learninglab/mooc-impacts-num/mooc-impacts-num-ressources,False
+https://gitlab.inria.fr/learninglab/mooc-impacts-num/mooc-impacts-num-ressources,True
 https://gitlab.inria.fr/learninglab/mooc-iot/mooc-iot-ressources,True
 https://gitlab.inria.fr/learninglab/mooc-mr-notebooks,True
 https://gitlab.inria.fr/learninglab/mooc-rr/mooc-rr-apps,True
