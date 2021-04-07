@@ -2222,7 +2222,7 @@ https://github.com/MTES-MCT/transport-routier,True
 https://github.com/MTES-MCT/trashadvisor,True
 https://github.com/MTES-MCT/udata-doc,True
 https://github.com/MTES-MCT/udata-gouvfr-ecologie,True
-https://github.com/MTES-MCT/updownio-action,False
+https://github.com/MTES-MCT/updownio-action,True
 https://github.com/MTES-MCT/upptime,True
 https://github.com/MinistereSupRecherche/bso,True
 https://github.com/MinistereSupRecherche/dataESR,True
@@ -3129,6 +3129,7 @@ https://github.com/betagouv/kibana-scalingo,True
 https://github.com/betagouv/kong-delegateAuth,True
 https://github.com/betagouv/kong-delegateAuth-deprecated,True
 https://github.com/betagouv/la-sass-vy,True
+https://github.com/betagouv/label-transition-ecologique,False
 https://github.com/betagouv/lapin,True
 https://github.com/betagouv/leximpact-client,True
 https://github.com/betagouv/leximpact-server,True
@@ -4636,6 +4637,7 @@ https://github.com/lutece-secteur-public/gru-module-crm-mydashboard-favorites,Tr
 https://github.com/lutece-secteur-public/gru-module-crm-mylutece,True
 https://github.com/lutece-secteur-public/gru-module-crm-mylutecedatabase,True
 https://github.com/lutece-secteur-public/gru-module-crm-mylutecedirectory,True
+https://github.com/lutece-secteur-public/gru-module-crm-notifygru,False
 https://github.com/lutece-secteur-public/gru-module-crm-rest,True
 https://github.com/lutece-secteur-public/gru-module-customerprovisioning-identitystore,True
 https://github.com/lutece-secteur-public/gru-module-customerprovisioning-mylutecedatabase,True
@@ -6213,6 +6215,7 @@ https://gitlab.inria.fr/DYLISS/samifier-docker,True
 https://gitlab.inria.fr/DYLISS/samifier-matching-kernel,True
 https://gitlab.inria.fr/DYLISS/samifier-web,True
 https://gitlab.inria.fr/Dae-Ng/Dae-Ng,True
+https://gitlab.inria.fr/Damaris/Simulations/across_wp7_opmflow_scripts,False
 https://gitlab.inria.fr/Damaris/Simulations/croco,True
 https://gitlab.inria.fr/Damaris/Simulations/noise,True
 https://gitlab.inria.fr/Damaris/damaris,True
