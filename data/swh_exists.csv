@@ -228,7 +228,7 @@ https://forgemia.inra.fr/cirad--monde-apres/teletravail,True
 https://forgemia.inra.fr/couplimspec/couplimspec,True
 https://forgemia.inra.fr/couplimspec/couplimspec_20150113,True
 https://forgemia.inra.fr/couplimspec/hyiam,True
-https://forgemia.inra.fr/dipso/kubespray,False
+https://forgemia.inra.fr/dipso/kubespray,True
 https://forgemia.inra.fr/enseignement-mistea/reports-with-markdown,True
 https://forgemia.inra.fr/epgv/nlgenomesweeper,True
 https://forgemia.inra.fr/eq-record/record-team,True
@@ -923,6 +923,7 @@ https://github.com/ANSSI-FR/SecAESSTM32,True
 https://github.com/ANSSI-FR/SecuML,True
 https://github.com/ANSSI-FR/SmartPGP,True
 https://github.com/ANSSI-FR/SysvolExplorer,True
+https://github.com/ANSSI-FR/WAAD,False
 https://github.com/ANSSI-FR/WSUS_Audit,True
 https://github.com/ANSSI-FR/audit-radius,True
 https://github.com/ANSSI-FR/bits_parser,True
@@ -2153,7 +2154,7 @@ https://github.com/MTES-MCT/cobot-api,True
 https://github.com/MTES-MCT/cobot-bot,True
 https://github.com/MTES-MCT/cours-java-debutant,True
 https://github.com/MTES-MCT/dashboard,True
-https://github.com/MTES-MCT/dashlord,False
+https://github.com/MTES-MCT/dashlord,True
 https://github.com/MTES-MCT/dashlord-updownio-report,False
 https://github.com/MTES-MCT/data-preparation-plugin,True
 https://github.com/MTES-MCT/dataqual,True
@@ -2179,7 +2180,9 @@ https://github.com/MTES-MCT/invasivalerte,True
 https://github.com/MTES-MCT/kelrisks,True
 https://github.com/MTES-MCT/kelrisks-data-preparation,True
 https://github.com/MTES-MCT/kelrisks-datascience,True
+https://github.com/MTES-MCT/keycloak-buildpack,False
 https://github.com/MTES-MCT/locatio,True
+https://github.com/MTES-MCT/mattermost-scalingo,False
 https://github.com/MTES-MCT/mobilic,True
 https://github.com/MTES-MCT/mobilic-api,True
 https://github.com/MTES-MCT/monitorfish,True
@@ -3278,6 +3281,7 @@ https://github.com/betagouv/sejour,True
 https://github.com/betagouv/service-national-universel,True
 https://github.com/betagouv/siecle-api,True
 https://github.com/betagouv/siecle-xml_mapper,True
+https://github.com/betagouv/signalconso-api-sdk-js,False
 https://github.com/betagouv/signalconso-loadtest,True
 https://github.com/betagouv/signalement,True
 https://github.com/betagouv/signalement-api,True
@@ -7040,6 +7044,7 @@ https://gitlab.inria.fr/ipanema-public/ipanema-kernel,True
 https://gitlab.inria.fr/ipanema-public/ipanema-proofs,True
 https://gitlab.inria.fr/isamdae/isamdae-documentation-and-bug-tracking,True
 https://gitlab.inria.fr/jgranier/Rendu-Style-Novat,True
+https://gitlab.inria.fr/julbrune/chaos,False
 https://gitlab.inria.fr/kadeploy/kadeploy.gitlabpages.inria.fr,True
 https://gitlab.inria.fr/kaldi.web/clapack-wasm,True
 https://gitlab.inria.fr/kaldi.web/kaldi-wasm,True
@@ -7942,7 +7947,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/02/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/05/Documentation,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/05/STM32F4_CAN,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/05/STM32F7_BerkeleySocketsServer,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/05/STM32F7_CycloneServer,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/05/STM32F7_CycloneServer,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/05/STM32F7_MinnowServer,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/05/STM32F7_MongooseServer,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/05/STM32_BerkeleySocketsServer,True
