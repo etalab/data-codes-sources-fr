@@ -2604,7 +2604,7 @@ https://github.com/SocialGouv/test-renovate,True
 https://github.com/SocialGouv/test-renovate-cdtn,True
 https://github.com/SocialGouv/test-ssl-action,False
 https://github.com/SocialGouv/thirdparties,True
-https://github.com/SocialGouv/thirdparties-action,False
+https://github.com/SocialGouv/thirdparties-action,True
 https://github.com/SocialGouv/thirdparties-dashboard,True
 https://github.com/SocialGouv/tocbot,True
 https://github.com/SocialGouv/tools,True
@@ -7418,6 +7418,7 @@ https://gitlab.inria.fr/sibr/projects/spixelwarp,True
 https://gitlab.inria.fr/sibr/projects/tfgl_interop,True
 https://gitlab.inria.fr/sibr/sibr_core,True
 https://gitlab.inria.fr/silm-seminar/test_streaming,True
+https://gitlab.inria.fr/silm-seminar/website,False
 https://gitlab.inria.fr/simgrid/platform-calibration,True
 https://gitlab.inria.fr/simgrid/simgrid,True
 https://gitlab.inria.fr/siteadmin/doc,True
@@ -7973,7 +7974,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/16/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/17/code,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/17/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/18/Project_Chirpstack-monitoring,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/18/chirpstack-monitoring,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/18/chirpstack-monitoring,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/18/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/SIMPA/SIMPA,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/ai-courses/autonomous_systems_ml,True
