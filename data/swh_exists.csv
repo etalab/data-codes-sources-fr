@@ -228,6 +228,7 @@ https://forgemia.inra.fr/cirad--monde-apres/teletravail,True
 https://forgemia.inra.fr/couplimspec/couplimspec,True
 https://forgemia.inra.fr/couplimspec/couplimspec_20150113,True
 https://forgemia.inra.fr/couplimspec/hyiam,True
+https://forgemia.inra.fr/dipso/kubespray,False
 https://forgemia.inra.fr/enseignement-mistea/reports-with-markdown,True
 https://forgemia.inra.fr/epgv/nlgenomesweeper,True
 https://forgemia.inra.fr/eq-record/record-team,True
@@ -5459,7 +5460,7 @@ https://github.com/pass-culture/telegraf-scalingo,True
 https://github.com/picty/concerto,True
 https://github.com/picty/parsifal,True
 https://github.com/plantnet/gbif-dl,False
-https://github.com/plantnet/hapi-rate-limit,False
+https://github.com/plantnet/hapi-rate-limit,True
 https://github.com/plantnet/my.plantnet,True
 https://github.com/plantnet/node-couchdb,True
 https://github.com/plantnet/node-datamanager,True
