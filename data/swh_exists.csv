@@ -2186,6 +2186,7 @@ https://github.com/MTES-MCT/kelrisks-data-preparation,True
 https://github.com/MTES-MCT/kelrisks-datascience,True
 https://github.com/MTES-MCT/keycloak-buildpack,False
 https://github.com/MTES-MCT/locatio,True
+https://github.com/MTES-MCT/mattermost-buildpack,False
 https://github.com/MTES-MCT/mattermost-scalingo,False
 https://github.com/MTES-MCT/mobilic,True
 https://github.com/MTES-MCT/mobilic-api,True
@@ -2611,7 +2612,7 @@ https://github.com/SocialGouv/support,True
 https://github.com/SocialGouv/template.data.gouv.fr.react,True
 https://github.com/SocialGouv/test-renovate,True
 https://github.com/SocialGouv/test-renovate-cdtn,True
-https://github.com/SocialGouv/test-ssl-action,False
+https://github.com/SocialGouv/test-ssl-action,True
 https://github.com/SocialGouv/thirdparties,True
 https://github.com/SocialGouv/thirdparties-action,True
 https://github.com/SocialGouv/thirdparties-dashboard,True
@@ -2628,7 +2629,7 @@ https://github.com/SocialGouv/ui,False
 https://github.com/SocialGouv/upptime,True
 https://github.com/SocialGouv/veille-git,True
 https://github.com/SocialGouv/wappalyser-action,False
-https://github.com/SocialGouv/wappalyzer-action,False
+https://github.com/SocialGouv/wappalyzer-action,True
 https://github.com/SocialGouv/web-dashboard,True
 https://github.com/SocialGouv/webseal,True
 https://github.com/SocialGouv/work-in-france,True
@@ -5121,6 +5122,7 @@ https://github.com/neuroanatomy/autism,True
 https://github.com/neuroanatomy/braincov,True
 https://github.com/neuroanatomy/bruker2nifti,True
 https://github.com/neuroanatomy/cortex,True
+https://github.com/neuroanatomy/eslint-config-naat,False
 https://github.com/neuroanatomy/fiind,True
 https://github.com/neuroanatomy/flattener,True
 https://github.com/neuroanatomy/foldgraph,True
@@ -7030,7 +7032,7 @@ https://gitlab.inria.fr/hiepacs/rotor,True
 https://gitlab.inria.fr/hpc_io/iofwd_perf_impact,True
 https://gitlab.inria.fr/hpc_io/summario,True
 https://gitlab.inria.fr/hsplit/hsplit,True
-https://gitlab.inria.fr/humanlab-inria/exofinger,False
+https://gitlab.inria.fr/humanlab-inria/exofinger,True
 https://gitlab.inria.fr/hussein/gnn_pathplanning,True
 https://gitlab.inria.fr/hussein/multiagent_gnn_policies,True
 https://gitlab.inria.fr/hwloc/xmls,True
