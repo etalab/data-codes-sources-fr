@@ -576,6 +576,7 @@ https://git.beta.pole-emploi.fr/open-source/toolkit,True
 https://git.beta.pole-emploi.fr/open-source/trefle,True
 https://git.beta.pole-emploi.fr/open-source/tuiles,True
 https://git.unicaen.fr/open-source/OSE,True
+https://git.unicaen.fr/open-source/docker/sygal-db-image,False
 https://git.unicaen.fr/open-source/docker/sygal-image,True
 https://git.unicaen.fr/open-source/docker/sygal-import-ws-image,True
 https://git.unicaen.fr/open-source/sygal,True
@@ -1910,6 +1911,8 @@ https://github.com/InseeFr/Avionic,True
 https://github.com/InseeFr/Bauhaus,True
 https://github.com/InseeFr/Bauhaus-Back-Office,True
 https://github.com/InseeFr/CSPA-SA-Client,True
+https://github.com/InseeFr/Coleman,False
+https://github.com/InseeFr/Coleman-Back-Office,False
 https://github.com/InseeFr/DDI-Access-Services,True
 https://github.com/InseeFr/Destinie-2,True
 https://github.com/InseeFr/Eno,True
@@ -1924,6 +1927,7 @@ https://github.com/InseeFr/Lunatic-Model,True
 https://github.com/InseeFr/Meleze,True
 https://github.com/InseeFr/Mesange,True
 https://github.com/InseeFr/Metadata-API,True
+https://github.com/InseeFr/Moog,False
 https://github.com/InseeFr/Omphale,True
 https://github.com/InseeFr/Ontologies,True
 https://github.com/InseeFr/Pearl-Jam,True
@@ -2489,7 +2493,7 @@ https://github.com/SocialGouv/code-du-travail-scenarios,True
 https://github.com/SocialGouv/code-du-travail-slides,True
 https://github.com/SocialGouv/code-du-travail-ui,True
 https://github.com/SocialGouv/codeceptjs-config,True
-https://github.com/SocialGouv/codes-naf,False
+https://github.com/SocialGouv/codes-naf,True
 https://github.com/SocialGouv/contributions-data,True
 https://github.com/SocialGouv/conventions-collectives,True
 https://github.com/SocialGouv/cors-anywhere,True
@@ -3283,7 +3287,7 @@ https://github.com/betagouv/sejour,True
 https://github.com/betagouv/service-national-universel,True
 https://github.com/betagouv/siecle-api,True
 https://github.com/betagouv/siecle-xml_mapper,True
-https://github.com/betagouv/signalconso-api-sdk-js,False
+https://github.com/betagouv/signalconso-api-sdk-js,True
 https://github.com/betagouv/signalconso-loadtest,True
 https://github.com/betagouv/signalement,True
 https://github.com/betagouv/signalement-api,True
@@ -6228,6 +6232,7 @@ https://gitlab.inria.fr/Damaris/Simulations/across_wp7_opmflow_scripts,True
 https://gitlab.inria.fr/Damaris/Simulations/croco,True
 https://gitlab.inria.fr/Damaris/Simulations/noise,True
 https://gitlab.inria.fr/Damaris/damaris,True
+https://gitlab.inria.fr/E2Clab/Paper-Artifacts/plantnet,False
 https://gitlab.inria.fr/GATB/simka,True
 https://gitlab.inria.fr/GUDHI/coxeter_for_ouragan,True
 https://gitlab.inria.fr/GUDHI/data,True
@@ -7743,6 +7748,7 @@ https://gitlab.u-psud.fr/SIF/sif-tools,True
 https://gitlab.u-psud.fr/castanea/documentation,True
 https://gitlab.u-psud.fr/egp/ile-interdite,True
 https://gitlab.u-psud.fr/galac/hceres,True
+https://gitlab.u-psud.fr/group-d-iml/iml-project-trash-classification-app-designing,False
 https://gitlab.u-psud.fr/talend/projectfortac,True
 https://gitlab.u-psud.fr/talend/tld_adonis_externe,True
 https://gitlab.u-psud.fr/talend/tld_adonis_sync_ldap,True
