@@ -2378,6 +2378,7 @@ https://github.com/PnX-SI/gn_module_suivi_habitat_territoire,True
 https://github.com/PnX-SI/gn_module_template,True
 https://github.com/PnX-SI/gn_module_validation,True
 https://github.com/PnX-SI/obs_occ,True
+https://github.com/PnX-SI/schema_randonnee,False
 https://github.com/PnX-SI/test_client_usershub_api,True
 https://github.com/PrefectureDePolice/Hydre,True
 https://github.com/PrefectureDePolice/NEOfil,True
@@ -2488,6 +2489,7 @@ https://github.com/SocialGouv/code-du-travail-scenarios,True
 https://github.com/SocialGouv/code-du-travail-slides,True
 https://github.com/SocialGouv/code-du-travail-ui,True
 https://github.com/SocialGouv/codeceptjs-config,True
+https://github.com/SocialGouv/codes-naf,False
 https://github.com/SocialGouv/contributions-data,True
 https://github.com/SocialGouv/conventions-collectives,True
 https://github.com/SocialGouv/cors-anywhere,True
@@ -6222,7 +6224,7 @@ https://gitlab.inria.fr/DYLISS/samifier-docker,True
 https://gitlab.inria.fr/DYLISS/samifier-matching-kernel,True
 https://gitlab.inria.fr/DYLISS/samifier-web,True
 https://gitlab.inria.fr/Dae-Ng/Dae-Ng,True
-https://gitlab.inria.fr/Damaris/Simulations/across_wp7_opmflow_scripts,False
+https://gitlab.inria.fr/Damaris/Simulations/across_wp7_opmflow_scripts,True
 https://gitlab.inria.fr/Damaris/Simulations/croco,True
 https://gitlab.inria.fr/Damaris/Simulations/noise,True
 https://gitlab.inria.fr/Damaris/damaris,True
@@ -7423,6 +7425,7 @@ https://gitlab.inria.fr/sibr/projects/soft3d,True
 https://gitlab.inria.fr/sibr/projects/spixelwarp,True
 https://gitlab.inria.fr/sibr/projects/tfgl_interop,True
 https://gitlab.inria.fr/sibr/sibr_core,True
+https://gitlab.inria.fr/silm-seminar/silm-seminar.gitlabpages.inria.fr,False
 https://gitlab.inria.fr/silm-seminar/test_streaming,True
 https://gitlab.inria.fr/silm-seminar/website,False
 https://gitlab.inria.fr/simgrid/platform-calibration,True
@@ -7660,6 +7663,7 @@ https://gitlab.irstea.fr/reversaal/loglinear-regression,True
 https://gitlab.irstea.fr/reversaal/tw-modeling-toolkit,True
 https://gitlab.irstea.fr/reversaal/wetlands_xray_tomopgraphy,True
 https://gitlab.irstea.fr/support/wiki,True
+https://gitlab.irstea.fr/umr-tetis/aidmoit/Protocole_aidmoit,False
 https://gitlab.irstea.fr/umr-tetis/aidmoit/collect,True
 https://gitlab.irstea.fr/umr-tetis/aidmoit/datalake-deployment,True
 https://gitlab.irstea.fr/umr-tetis/biotex_python,True
