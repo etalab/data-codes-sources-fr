@@ -923,7 +923,7 @@ https://github.com/ANSSI-FR/SecAESSTM32,True
 https://github.com/ANSSI-FR/SecuML,True
 https://github.com/ANSSI-FR/SmartPGP,True
 https://github.com/ANSSI-FR/SysvolExplorer,True
-https://github.com/ANSSI-FR/WAAD,False
+https://github.com/ANSSI-FR/WAAD,True
 https://github.com/ANSSI-FR/WSUS_Audit,True
 https://github.com/ANSSI-FR/audit-radius,True
 https://github.com/ANSSI-FR/bits_parser,True
@@ -2539,7 +2539,7 @@ https://github.com/SocialGouv/gitlab-ci-yml,True
 https://github.com/SocialGouv/hasura,True
 https://github.com/SocialGouv/hasura-permissions-viewer,True
 https://github.com/SocialGouv/helm-charts,True
-https://github.com/SocialGouv/httpobs-action,False
+https://github.com/SocialGouv/httpobs-action,True
 https://github.com/SocialGouv/importXLSLabos,True
 https://github.com/SocialGouv/jest-environment-knex,True
 https://github.com/SocialGouv/jmeter-kibana,True
@@ -4644,7 +4644,7 @@ https://github.com/lutece-secteur-public/gru-module-crm-mydashboard-favorites,Tr
 https://github.com/lutece-secteur-public/gru-module-crm-mylutece,True
 https://github.com/lutece-secteur-public/gru-module-crm-mylutecedatabase,True
 https://github.com/lutece-secteur-public/gru-module-crm-mylutecedirectory,True
-https://github.com/lutece-secteur-public/gru-module-crm-notifygru,False
+https://github.com/lutece-secteur-public/gru-module-crm-notifygru,True
 https://github.com/lutece-secteur-public/gru-module-crm-rest,True
 https://github.com/lutece-secteur-public/gru-module-customerprovisioning-identitystore,True
 https://github.com/lutece-secteur-public/gru-module-customerprovisioning-mylutecedatabase,True
@@ -5463,7 +5463,7 @@ https://github.com/pass-culture/telegraf-buildpack,True
 https://github.com/pass-culture/telegraf-scalingo,True
 https://github.com/picty/concerto,True
 https://github.com/picty/parsifal,True
-https://github.com/plantnet/gbif-dl,False
+https://github.com/plantnet/gbif-dl,True
 https://github.com/plantnet/hapi-rate-limit,True
 https://github.com/plantnet/my.plantnet,True
 https://github.com/plantnet/node-couchdb,True
@@ -7023,6 +7023,7 @@ https://gitlab.inria.fr/hiepacs/rotor,True
 https://gitlab.inria.fr/hpc_io/iofwd_perf_impact,True
 https://gitlab.inria.fr/hpc_io/summario,True
 https://gitlab.inria.fr/hsplit/hsplit,True
+https://gitlab.inria.fr/humanlab-inria/exofinger,False
 https://gitlab.inria.fr/hussein/gnn_pathplanning,True
 https://gitlab.inria.fr/hussein/multiagent_gnn_policies,True
 https://gitlab.inria.fr/hwloc/xmls,True
@@ -7044,7 +7045,7 @@ https://gitlab.inria.fr/ipanema-public/ipanema-kernel,True
 https://gitlab.inria.fr/ipanema-public/ipanema-proofs,True
 https://gitlab.inria.fr/isamdae/isamdae-documentation-and-bug-tracking,True
 https://gitlab.inria.fr/jgranier/Rendu-Style-Novat,True
-https://gitlab.inria.fr/julbrune/chaos,False
+https://gitlab.inria.fr/julbrune/chaos,True
 https://gitlab.inria.fr/kadeploy/kadeploy.gitlabpages.inria.fr,True
 https://gitlab.inria.fr/kaldi.web/clapack-wasm,True
 https://gitlab.inria.fr/kaldi.web/kaldi-wasm,True
