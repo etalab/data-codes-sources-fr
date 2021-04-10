@@ -5122,7 +5122,7 @@ https://github.com/neuroanatomy/autism,True
 https://github.com/neuroanatomy/braincov,True
 https://github.com/neuroanatomy/bruker2nifti,True
 https://github.com/neuroanatomy/cortex,True
-https://github.com/neuroanatomy/eslint-config-naat,False
+https://github.com/neuroanatomy/eslint-config-naat,True
 https://github.com/neuroanatomy/fiind,True
 https://github.com/neuroanatomy/flattener,True
 https://github.com/neuroanatomy/foldgraph,True
@@ -7613,7 +7613,7 @@ https://gitlab.irstea.fr/hru-delin-dev/hru-delin,True
 https://gitlab.irstea.fr/hru-delin-dev/hru-delin-qgis,True
 https://gitlab.irstea.fr/in-wop/airGRiwrm,False
 https://gitlab.irstea.fr/in-wop/multivgest,True
-https://gitlab.irstea.fr/in-wop/rvgest,False
+https://gitlab.irstea.fr/in-wop/rvgest,True
 https://gitlab.irstea.fr/in-wop/vgest,True
 https://gitlab.irstea.fr/irrig/public,True
 https://gitlab.irstea.fr/irstea-ros/ads1115_driver,True
@@ -7957,7 +7957,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/8/draft,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/19-20/9/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/01/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/02/docs,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/05/Documentation,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/05/Documentation,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/05/STM32F4_CAN,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/05/STM32F7_BerkeleySocketsServer,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/05/STM32F7_CycloneServer,True
