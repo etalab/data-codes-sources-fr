@@ -25,8 +25,8 @@ class TestPlatforms(unittest.TestCase):
         with self.assertRaises(ValueError):
             self.detector.find_platform("http://example.fr")
 
-        with self.assertRaises(NotImplementedError):
-            self.detector.find_platform("http://sourcesup.renater.fr")
+        # with self.assertRaises(NotImplementedError):
+        #     self.detector.find_platform("http://sourcesup.renater.fr")
 
     def test_platform_base_url(self):
         self.assertEquals(
