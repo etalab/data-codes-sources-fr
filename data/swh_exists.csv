@@ -576,7 +576,7 @@ https://git.beta.pole-emploi.fr/open-source/toolkit,True
 https://git.beta.pole-emploi.fr/open-source/trefle,True
 https://git.beta.pole-emploi.fr/open-source/tuiles,True
 https://git.unicaen.fr/open-source/OSE,True
-https://git.unicaen.fr/open-source/docker/sygal-db-image,False
+https://git.unicaen.fr/open-source/docker/sygal-db-image,True
 https://git.unicaen.fr/open-source/docker/sygal-image,True
 https://git.unicaen.fr/open-source/docker/sygal-import-ws-image,True
 https://git.unicaen.fr/open-source/sygal,True
@@ -2184,7 +2184,7 @@ https://github.com/MTES-MCT/invasivalerte,True
 https://github.com/MTES-MCT/kelrisks,True
 https://github.com/MTES-MCT/kelrisks-data-preparation,True
 https://github.com/MTES-MCT/kelrisks-datascience,True
-https://github.com/MTES-MCT/keycloak-buildpack,False
+https://github.com/MTES-MCT/keycloak-buildpack,True
 https://github.com/MTES-MCT/locatio,True
 https://github.com/MTES-MCT/mattermost-buildpack,False
 https://github.com/MTES-MCT/mattermost-scalingo,False
@@ -4584,7 +4584,7 @@ https://github.com/ivre/masscan,True
 https://github.com/landlock-lsm/landlock-lsm.github.io,True
 https://github.com/landlock-lsm/linux,True
 https://github.com/landlock-lsm/syzkaller,True
-https://github.com/landlock-lsm/tar,False
+https://github.com/landlock-lsm/tar,True
 https://github.com/leximpact/dataFin,True
 https://github.com/leximpact/donnees-extraites-assemblee,True
 https://github.com/leximpact/etudes-amendements,True
