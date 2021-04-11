@@ -1913,7 +1913,7 @@ https://github.com/InseeFr/Bauhaus,True
 https://github.com/InseeFr/Bauhaus-Back-Office,True
 https://github.com/InseeFr/CSPA-SA-Client,True
 https://github.com/InseeFr/Coleman,False
-https://github.com/InseeFr/Coleman-Back-Office,False
+https://github.com/InseeFr/Coleman-Back-Office,True
 https://github.com/InseeFr/DDI-Access-Services,True
 https://github.com/InseeFr/Destinie-2,True
 https://github.com/InseeFr/Eno,True
@@ -3142,7 +3142,7 @@ https://github.com/betagouv/kibana-scalingo,True
 https://github.com/betagouv/kong-delegateAuth,True
 https://github.com/betagouv/kong-delegateAuth-deprecated,True
 https://github.com/betagouv/la-sass-vy,True
-https://github.com/betagouv/label-transition-ecologique,False
+https://github.com/betagouv/label-transition-ecologique,True
 https://github.com/betagouv/lapin,True
 https://github.com/betagouv/leximpact-client,True
 https://github.com/betagouv/leximpact-server,True
@@ -3183,6 +3183,7 @@ https://github.com/betagouv/mpal,True
 https://github.com/betagouv/mpal-deploy,True
 https://github.com/betagouv/mpal-rod,True
 https://github.com/betagouv/mrs,True
+https://github.com/betagouv/n8n-scalingo,False
 https://github.com/betagouv/neutre.comobi.fr,True
 https://github.com/betagouv/nir_validate,True
 https://github.com/betagouv/normalized-data-state,True
