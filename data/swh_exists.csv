@@ -980,7 +980,7 @@ https://github.com/ARCEP-dev/BLOM,True
 https://github.com/ARCEP-dev/adresse,True
 https://github.com/ARCEP-dev/algo_maconnexioninternet,True
 https://github.com/ARCEP-dev/basePopDom,True
-https://github.com/ARCEP-dev/data.arcep.fr,False
+https://github.com/ARCEP-dev/data.arcep.fr,True
 https://github.com/ARCEP-dev/dataTools,True
 https://github.com/ARCEP-dev/disPorts,True
 https://github.com/ARCEP-dev/geocodage_ban,True
@@ -4757,6 +4757,7 @@ https://github.com/matchID-project/agrippa,True
 https://github.com/matchID-project/api-geo,True
 https://github.com/matchID-project/api.gouv.fr,True
 https://github.com/matchID-project/backend,True
+https://github.com/matchID-project/beta.gouv.fr,False
 https://github.com/matchID-project/deces-backend,True
 https://github.com/matchID-project/deces-dataprep,True
 https://github.com/matchID-project/deces-ui,True
@@ -7690,7 +7691,7 @@ https://gitlab.irstea.fr/reversaal/tw-modeling-toolkit,True
 https://gitlab.irstea.fr/reversaal/wetlands_xray_tomopgraphy,True
 https://gitlab.irstea.fr/support/wiki,True
 https://gitlab.irstea.fr/umr-tetis/aidmoit/ElasticSearch-Indexation,False
-https://gitlab.irstea.fr/umr-tetis/aidmoit/Protocole_aidmoit,False
+https://gitlab.irstea.fr/umr-tetis/aidmoit/Protocole_aidmoit,True
 https://gitlab.irstea.fr/umr-tetis/aidmoit/collect,True
 https://gitlab.irstea.fr/umr-tetis/aidmoit/datalake-deployment,True
 https://gitlab.irstea.fr/umr-tetis/biotex_python,True
