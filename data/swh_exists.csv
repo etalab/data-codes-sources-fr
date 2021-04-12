@@ -415,6 +415,7 @@ https://forgemia.inra.fr/metexplore/metx/metx-grid,True
 https://forgemia.inra.fr/metexplore/metx/metx-scatterplot,True
 https://forgemia.inra.fr/metexplore/tutorialmet4j,True
 https://forgemia.inra.fr/migale/affiliationexplorer,True
+https://forgemia.inra.fr/migale/dubii_magali_monnoye,False
 https://forgemia.inra.fr/migale/formations,True
 https://forgemia.inra.fr/olivier.bonnefon/mse,True
 https://forgemia.inra.fr/pappso/beads,True
@@ -3640,6 +3641,7 @@ https://github.com/datagir/datagir-site,True
 https://github.com/datagir/ecolab-agribalyse-recherche,True
 https://github.com/datagir/ecolab-alimentation,True
 https://github.com/datagir/ecolab-recherche-agribalyse,True
+https://github.com/datagir/mabasecarbone,False
 https://github.com/datagir/mesfruitsetlegumesdesaison,True
 https://github.com/datagir/mon-impact-transport,True
 https://github.com/datagir/monconvertisseurco2,True
@@ -7672,6 +7674,7 @@ https://gitlab.irstea.fr/reversaal/loglinear-regression,True
 https://gitlab.irstea.fr/reversaal/tw-modeling-toolkit,True
 https://gitlab.irstea.fr/reversaal/wetlands_xray_tomopgraphy,True
 https://gitlab.irstea.fr/support/wiki,True
+https://gitlab.irstea.fr/umr-tetis/aidmoit/ElasticSearch-Indexation,False
 https://gitlab.irstea.fr/umr-tetis/aidmoit/Protocole_aidmoit,False
 https://gitlab.irstea.fr/umr-tetis/aidmoit/collect,True
 https://gitlab.irstea.fr/umr-tetis/aidmoit/datalake-deployment,True
