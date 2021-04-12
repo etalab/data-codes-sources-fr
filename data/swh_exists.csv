@@ -148,6 +148,7 @@ https://forge.univ-lyon1.fr/forge_public/forge,True
 https://forge.univ-lyon1.fr/groupe-projet-lifap4/projet-lifap4,True
 https://forge.univ-lyon1.fr/inf2026l-lifap5/lifap5-backend-2021p,True
 https://forge.univ-lyon1.fr/info-7/Projet-Peip2,True
+https://forge.univ-lyon1.fr/info-7/tp-bdw1,False
 https://forge.univ-lyon1.fr/iut-lyon-s3-php/ansible,True
 https://forge.univ-lyon1.fr/knowdyn-ens/knowdyn-contenus-2020,True
 https://forge.univ-lyon1.fr/les-cracks/chaisse-lifap4,True
@@ -238,6 +239,16 @@ https://forgemia.inra.fr/fact/fact,True
 https://forgemia.inra.fr/fact/pfptools,True
 https://forgemia.inra.fr/formation/formation-python-inrae,True
 https://forgemia.inra.fr/formation/python-pour-les-biologistes,True
+https://forgemia.inra.fr/gaev/gaev,False
+https://forgemia.inra.fr/gaev/packer/centos-dd8gb,False
+https://forgemia.inra.fr/gaev/packer/macos,False
+https://forgemia.inra.fr/gaev/packer/ubuntu1804-dd18gb,False
+https://forgemia.inra.fr/gaev/packer/vagrant-cloud_api,False
+https://forgemia.inra.fr/gaev/packer/windows10,False
+https://forgemia.inra.fr/gaev/usecases/jupyterhub-ubuntu-vbox,False
+https://forgemia.inra.fr/gaev/usecases/macosr,False
+https://forgemia.inra.fr/gaev/usecases/odam-centos-virtualbox,False
+https://forgemia.inra.fr/gaev/usecases/windowsr,False
 https://forgemia.inra.fr/gafl/pipelines_snakemake/allmine,True
 https://forgemia.inra.fr/gafl/pipelines_snakemake/ezqtlseq,True
 https://forgemia.inra.fr/gafl/pipelines_snakemake/rnaseq,True
@@ -417,6 +428,7 @@ https://forgemia.inra.fr/metexplore/tutorialmet4j,True
 https://forgemia.inra.fr/migale/affiliationexplorer,True
 https://forgemia.inra.fr/migale/dubii_magali_monnoye,False
 https://forgemia.inra.fr/migale/formations,True
+https://forgemia.inra.fr/most/ib-rs,False
 https://forgemia.inra.fr/olivier.bonnefon/mse,True
 https://forgemia.inra.fr/pappso/beads,True
 https://forgemia.inra.fr/pappso/custompwiz,True
@@ -853,6 +865,7 @@ https://github.com/1024pix/pix-help-center-theme,True
 https://github.com/1024pix/pix-lifestyle,True
 https://github.com/1024pix/pix-maintenance,True
 https://github.com/1024pix/pix-proxy-bucket-ovh,True
+https://github.com/1024pix/pix-redirect-support-pix-fr,False
 https://github.com/1024pix/pix-report-csp,True
 https://github.com/1024pix/pix-review-router,True
 https://github.com/1024pix/pix-saml-idp,True
@@ -3641,7 +3654,7 @@ https://github.com/datagir/datagir-site,True
 https://github.com/datagir/ecolab-agribalyse-recherche,True
 https://github.com/datagir/ecolab-alimentation,True
 https://github.com/datagir/ecolab-recherche-agribalyse,True
-https://github.com/datagir/mabasecarbone,False
+https://github.com/datagir/mabasecarbone,True
 https://github.com/datagir/mesfruitsetlegumesdesaison,True
 https://github.com/datagir/mon-impact-transport,True
 https://github.com/datagir/monconvertisseurco2,True
@@ -5437,6 +5450,7 @@ https://github.com/openmole/openmole-docker,True
 https://github.com/openmole/openmole-market,True
 https://github.com/openmole/openmole-site,True
 https://github.com/openmole/ppse,True
+https://github.com/openmole/sbt-osgi,False
 https://github.com/openmole/scala-js-plotlyjs,True
 https://github.com/openmole/scala-js-plotlyjs-demo,True
 https://github.com/openmole/scalaWUI,True
@@ -6238,7 +6252,7 @@ https://gitlab.inria.fr/Damaris/Simulations/across_wp7_opmflow_scripts,True
 https://gitlab.inria.fr/Damaris/Simulations/croco,True
 https://gitlab.inria.fr/Damaris/Simulations/noise,True
 https://gitlab.inria.fr/Damaris/damaris,True
-https://gitlab.inria.fr/E2Clab/Paper-Artifacts/plantnet,False
+https://gitlab.inria.fr/E2Clab/Paper-Artifacts/plantnet,True
 https://gitlab.inria.fr/GATB/simka,True
 https://gitlab.inria.fr/GUDHI/coxeter_for_ouragan,True
 https://gitlab.inria.fr/GUDHI/data,True
@@ -6545,6 +6559,7 @@ https://gitlab.inria.fr/bioimage-it/bioimageit-tools,True
 https://gitlab.inria.fr/bioimage-it/bioimagej,True
 https://gitlab.inria.fr/bioimage-it/bioimagepy,True
 https://gitlab.inria.fr/bioimage-it/bioimagepy-tutorial,True
+https://gitlab.inria.fr/bioimage-it/fiji-docker,False
 https://gitlab.inria.fr/bioimage-it/fiji-tools,True
 https://gitlab.inria.fr/bioimage-it/htesting-tools,True
 https://gitlab.inria.fr/bioimage-it/package,True
@@ -7438,7 +7453,7 @@ https://gitlab.inria.fr/sibr/projects/tfgl_interop,True
 https://gitlab.inria.fr/sibr/sibr_core,True
 https://gitlab.inria.fr/silm-seminar/silm-seminar.gitlabpages.inria.fr,True
 https://gitlab.inria.fr/silm-seminar/test_streaming,True
-https://gitlab.inria.fr/silm-seminar/website,False
+https://gitlab.inria.fr/silm-seminar/website,True
 https://gitlab.inria.fr/simgrid/platform-calibration,True
 https://gitlab.inria.fr/simgrid/simgrid,True
 https://gitlab.inria.fr/siteadmin/doc,True
