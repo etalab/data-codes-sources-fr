@@ -2187,7 +2187,7 @@ https://github.com/MTES-MCT/kelrisks-data-preparation,True
 https://github.com/MTES-MCT/kelrisks-datascience,True
 https://github.com/MTES-MCT/keycloak-buildpack,True
 https://github.com/MTES-MCT/locatio,True
-https://github.com/MTES-MCT/mattermost-buildpack,False
+https://github.com/MTES-MCT/mattermost-buildpack,True
 https://github.com/MTES-MCT/mattermost-scalingo,False
 https://github.com/MTES-MCT/mobilic,True
 https://github.com/MTES-MCT/mobilic-api,True
@@ -2384,7 +2384,7 @@ https://github.com/PnX-SI/gn_module_suivi_habitat_territoire,True
 https://github.com/PnX-SI/gn_module_template,True
 https://github.com/PnX-SI/gn_module_validation,True
 https://github.com/PnX-SI/obs_occ,True
-https://github.com/PnX-SI/schema_randonnee,False
+https://github.com/PnX-SI/schema_randonnee,True
 https://github.com/PnX-SI/test_client_usershub_api,True
 https://github.com/PrefectureDePolice/Hydre,True
 https://github.com/PrefectureDePolice/NEOfil,True
@@ -3133,7 +3133,7 @@ https://github.com/betagouv/itou-entreprise,True
 https://github.com/betagouv/itou-fdi,True
 https://github.com/betagouv/itou-gitbook,True
 https://github.com/betagouv/itou-landing,True
-https://github.com/betagouv/itou-support,False
+https://github.com/betagouv/itou-support,True
 https://github.com/betagouv/itou-theme-discourse,True
 https://github.com/betagouv/itou_c4_python_api,True
 https://github.com/betagouv/itou_entreprise,False
