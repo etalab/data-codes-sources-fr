@@ -187,6 +187,7 @@ https://forge.univ-lyon1.fr/tiw-is/tiw1-is-2019,True
 https://forge.univ-lyon1.fr/tiw-is/tiw1-is-2020,True
 https://forgemia.inra.fr/4p/maquettes-4p,True
 https://forgemia.inra.fr/4p/modules/pheno-extraction,True
+https://forgemia.inra.fr/4p/modules/phis-export-l2,False
 https://forgemia.inra.fr/4p/modules/phis-import,True
 https://forgemia.inra.fr/4p/pheno-extraction,True
 https://forgemia.inra.fr/4p/user-guide,True
@@ -426,7 +427,7 @@ https://forgemia.inra.fr/metexplore/metx/metx-grid,True
 https://forgemia.inra.fr/metexplore/metx/metx-scatterplot,True
 https://forgemia.inra.fr/metexplore/tutorialmet4j,True
 https://forgemia.inra.fr/migale/affiliationexplorer,True
-https://forgemia.inra.fr/migale/dubii_magali_monnoye,False
+https://forgemia.inra.fr/migale/dubii_magali_monnoye,True
 https://forgemia.inra.fr/migale/formations,True
 https://forgemia.inra.fr/most/ib-rs,False
 https://forgemia.inra.fr/olivier.bonnefon/mse,True
