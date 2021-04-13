@@ -245,10 +245,10 @@ https://forgemia.inra.fr/gaev/packer/centos-dd8gb,False
 https://forgemia.inra.fr/gaev/packer/macos,False
 https://forgemia.inra.fr/gaev/packer/ubuntu1804-dd18gb,False
 https://forgemia.inra.fr/gaev/packer/vagrant-cloud_api,False
-https://forgemia.inra.fr/gaev/packer/windows10,False
+https://forgemia.inra.fr/gaev/packer/windows10,True
 https://forgemia.inra.fr/gaev/usecases/jupyterhub-ubuntu-vbox,True
 https://forgemia.inra.fr/gaev/usecases/macosr,False
-https://forgemia.inra.fr/gaev/usecases/odam-centos-virtualbox,False
+https://forgemia.inra.fr/gaev/usecases/odam-centos-virtualbox,True
 https://forgemia.inra.fr/gaev/usecases/windowsr,False
 https://forgemia.inra.fr/gafl/pipelines_snakemake/allmine,True
 https://forgemia.inra.fr/gafl/pipelines_snakemake/ezqtlseq,True
@@ -1674,6 +1674,7 @@ https://github.com/IGNF/geoportal-extensions,True
 https://github.com/IGNF/geoportal-extensions-itowns,True
 https://github.com/IGNF/geoportal-extensions-leaflet,True
 https://github.com/IGNF/geoportal-extensions-openlayers,True
+https://github.com/IGNF/geoportal-extensions-openlayers-samples,False
 https://github.com/IGNF/geoportal-sdk,True
 https://github.com/IGNF/geoportal-third-party-integration,True
 https://github.com/IGNF/geoportal-wfs-client,True
