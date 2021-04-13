@@ -148,7 +148,7 @@ https://forge.univ-lyon1.fr/forge_public/forge,True
 https://forge.univ-lyon1.fr/groupe-projet-lifap4/projet-lifap4,True
 https://forge.univ-lyon1.fr/inf2026l-lifap5/lifap5-backend-2021p,True
 https://forge.univ-lyon1.fr/info-7/Projet-Peip2,True
-https://forge.univ-lyon1.fr/info-7/tp-bdw1,False
+https://forge.univ-lyon1.fr/info-7/tp-bdw1,True
 https://forge.univ-lyon1.fr/iut-lyon-s3-php/ansible,True
 https://forge.univ-lyon1.fr/knowdyn-ens/knowdyn-contenus-2020,True
 https://forge.univ-lyon1.fr/les-cracks/chaisse-lifap4,True
@@ -163,7 +163,7 @@ https://forge.univ-lyon1.fr/lifap6/tp-arbretas-etu,True
 https://forge.univ-lyon1.fr/lifap6/tp-avl-etu,True
 https://forge.univ-lyon1.fr/lifap6/tp-listes-etu,True
 https://forge.univ-lyon1.fr/lifap6/tp-union-find-etu,True
-https://forge.univ-lyon1.fr/lifap_5/projet,False
+https://forge.univ-lyon1.fr/lifap_5/projet,True
 https://forge.univ-lyon1.fr/lifprojet-lifprojet/raytracing,True
 https://forge.univ-lyon1.fr/lifprojet/lifprojet_am3,True
 https://forge.univ-lyon1.fr/loup-garouptut/loupandroid,True
@@ -866,7 +866,7 @@ https://github.com/1024pix/pix-help-center-theme,True
 https://github.com/1024pix/pix-lifestyle,True
 https://github.com/1024pix/pix-maintenance,True
 https://github.com/1024pix/pix-proxy-bucket-ovh,True
-https://github.com/1024pix/pix-redirect-support-pix-fr,False
+https://github.com/1024pix/pix-redirect-support-pix-fr,True
 https://github.com/1024pix/pix-report-csp,True
 https://github.com/1024pix/pix-review-router,True
 https://github.com/1024pix/pix-saml-idp,True
@@ -1244,6 +1244,7 @@ https://github.com/DISIC/design.numerique.gouv.fr,True
 https://github.com/DISIC/designgouv-admin,True
 https://github.com/DISIC/evenements-bluehats,True
 https://github.com/DISIC/foss-contrib-policy-template,True
+https://github.com/DISIC/frago,False
 https://github.com/DISIC/gazette-bluehats,True
 https://github.com/DISIC/greentech,True
 https://github.com/DISIC/guide-RGAA_CMS,True
@@ -2875,7 +2876,7 @@ https://github.com/ambanum/information-manipulation-analyzer,True
 https://github.com/ambanum/information-manipulation-analyzer-processor,True
 https://github.com/ambanum/just-the-docs,True
 https://github.com/ambanum/media-scale,True
-https://github.com/ambanum/next-auth,False
+https://github.com/ambanum/next-auth,True
 https://github.com/ambanum/node-botometer,True
 https://github.com/ambanum/node-i18n-iso-countries,True
 https://github.com/ambanum/panoptes,True
@@ -3048,6 +3049,7 @@ https://github.com/betagouv/codimd,True
 https://github.com/betagouv/codimd-server,True
 https://github.com/betagouv/coding-dojos,True
 https://github.com/betagouv/comobi,True
+https://github.com/betagouv/comobi-core,False
 https://github.com/betagouv/comobi_valberg,True
 https://github.com/betagouv/competences-pro,True
 https://github.com/betagouv/competences-pro-orchestrateur,True
@@ -4278,6 +4280,7 @@ https://github.com/etalab/prevair-experiment,True
 https://github.com/etalab/project-legal,True
 https://github.com/etalab/pseudononymizer,True
 https://github.com/etalab/publicali,True
+https://github.com/etalab/publier.etalab.studio,False
 https://github.com/etalab/q2a-theme-etalab,True
 https://github.com/etalab/quartiers-prioritaires,True
 https://github.com/etalab/radar-tech,True
@@ -6947,6 +6950,8 @@ https://gitlab.inria.fr/gazelle/test-content/fhir-conformance-resources,True
 https://gitlab.inria.fr/gazelle/test-content/gazelle-hl7v2-validator-resources,True
 https://gitlab.inria.fr/gazelle/test-content/hl7-conformance-profiles,True
 https://gitlab.inria.fr/gazelle/test-content/pdqm-samples,True
+https://gitlab.inria.fr/gazelle/test-content/xsd,False
+https://gitlab.inria.fr/gazelle/test-content/xsl,False
 https://gitlab.inria.fr/gazelle/validator/FhirValidator,True
 https://gitlab.inria.fr/gazelle/validator/common/validation-ws,True
 https://gitlab.inria.fr/gbono/coop-ma-pg,True
@@ -7505,6 +7510,7 @@ https://gitlab.inria.fr/starpu/starpu,True
 https://gitlab.inria.fr/starpu/starpu-debian,True
 https://gitlab.inria.fr/starpu/starpu.gitlabpages.inria.fr,True
 https://gitlab.inria.fr/statify_public/anzj-crash,True
+https://gitlab.inria.fr/statify_public/brm-ema,False
 https://gitlab.inria.fr/statify_public/interstices_neuro,True
 https://gitlab.inria.fr/steep/urbansprawl/urbansprawl-lib,True
 https://gitlab.inria.fr/stopcovid19/CLEA-exposure-verification,True
