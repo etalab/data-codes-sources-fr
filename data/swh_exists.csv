@@ -245,7 +245,7 @@ https://forgemia.inra.fr/gaev/packer/macos,False
 https://forgemia.inra.fr/gaev/packer/ubuntu1804-dd18gb,False
 https://forgemia.inra.fr/gaev/packer/vagrant-cloud_api,False
 https://forgemia.inra.fr/gaev/packer/windows10,False
-https://forgemia.inra.fr/gaev/usecases/jupyterhub-ubuntu-vbox,False
+https://forgemia.inra.fr/gaev/usecases/jupyterhub-ubuntu-vbox,True
 https://forgemia.inra.fr/gaev/usecases/macosr,False
 https://forgemia.inra.fr/gaev/usecases/odam-centos-virtualbox,False
 https://forgemia.inra.fr/gaev/usecases/windowsr,False
@@ -2874,6 +2874,7 @@ https://github.com/ambanum/information-manipulation-analyzer,True
 https://github.com/ambanum/information-manipulation-analyzer-processor,True
 https://github.com/ambanum/just-the-docs,True
 https://github.com/ambanum/media-scale,True
+https://github.com/ambanum/next-auth,False
 https://github.com/ambanum/node-botometer,True
 https://github.com/ambanum/node-i18n-iso-countries,True
 https://github.com/ambanum/panoptes,True
@@ -4757,7 +4758,7 @@ https://github.com/matchID-project/agrippa,True
 https://github.com/matchID-project/api-geo,True
 https://github.com/matchID-project/api.gouv.fr,True
 https://github.com/matchID-project/backend,True
-https://github.com/matchID-project/beta.gouv.fr,False
+https://github.com/matchID-project/beta.gouv.fr,True
 https://github.com/matchID-project/deces-backend,True
 https://github.com/matchID-project/deces-dataprep,True
 https://github.com/matchID-project/deces-ui,True
