@@ -2175,6 +2175,7 @@ https://github.com/MTES-MCT/choisir-une-licence,True
 https://github.com/MTES-MCT/cobot-admin,True
 https://github.com/MTES-MCT/cobot-api,True
 https://github.com/MTES-MCT/cobot-bot,True
+https://github.com/MTES-MCT/codescanalerts-action,False
 https://github.com/MTES-MCT/cours-java-debutant,True
 https://github.com/MTES-MCT/dashboard,True
 https://github.com/MTES-MCT/dashlord,True
@@ -4610,7 +4611,7 @@ https://github.com/ivre/ivre-test-samples,True
 https://github.com/ivre/masscan,True
 https://github.com/landlock-lsm/landlock-lsm.github.io,True
 https://github.com/landlock-lsm/linux,True
-https://github.com/landlock-lsm/rust-landlock,False
+https://github.com/landlock-lsm/rust-landlock,True
 https://github.com/landlock-lsm/syzkaller,True
 https://github.com/landlock-lsm/tar,True
 https://github.com/leximpact/dataFin,True
@@ -6282,6 +6283,7 @@ https://gitlab.inria.fr/InBio/Public/fwd_ad,True
 https://gitlab.inria.fr/InBio/Public/hydriver,True
 https://gitlab.inria.fr/InBio/Public/micromator,True
 https://gitlab.inria.fr/InBio/Public/reacsight,True
+https://gitlab.inria.fr/KerA/examples/kera-e2clab-examples,False
 https://gitlab.inria.fr/KerA/examples/kera-flink-examples,True
 https://gitlab.inria.fr/KerA/gtest,True
 https://gitlab.inria.fr/KerA/integrations/kera-flink-connector,True
