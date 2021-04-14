@@ -243,9 +243,9 @@ https://forgemia.inra.fr/formation/formation-python-inrae,True
 https://forgemia.inra.fr/formation/python-pour-les-biologistes,True
 https://forgemia.inra.fr/gaev/gaev,False
 https://forgemia.inra.fr/gaev/packer/centos-dd8gb,False
-https://forgemia.inra.fr/gaev/packer/macos,False
+https://forgemia.inra.fr/gaev/packer/macos,True
 https://forgemia.inra.fr/gaev/packer/ubuntu1804-dd18gb,False
-https://forgemia.inra.fr/gaev/packer/vagrant-cloud_api,False
+https://forgemia.inra.fr/gaev/packer/vagrant-cloud_api,True
 https://forgemia.inra.fr/gaev/packer/windows10,True
 https://forgemia.inra.fr/gaev/usecases/jupyterhub-ubuntu-vbox,True
 https://forgemia.inra.fr/gaev/usecases/macosr,False
@@ -2603,6 +2603,7 @@ https://github.com/SocialGouv/owasp-dashboard,True
 https://github.com/SocialGouv/ozensemble,True
 https://github.com/SocialGouv/ozensemble-site,True
 https://github.com/SocialGouv/pep,True
+https://github.com/SocialGouv/plops-monde,False
 https://github.com/SocialGouv/polyfill-service,True
 https://github.com/SocialGouv/polyfill-service2,True
 https://github.com/SocialGouv/postgrest,True
@@ -4608,6 +4609,7 @@ https://github.com/ivre/ivre-test-samples,True
 https://github.com/ivre/masscan,True
 https://github.com/landlock-lsm/landlock-lsm.github.io,True
 https://github.com/landlock-lsm/linux,True
+https://github.com/landlock-lsm/rust-landlock,False
 https://github.com/landlock-lsm/syzkaller,True
 https://github.com/landlock-lsm/tar,True
 https://github.com/leximpact/dataFin,True
@@ -6005,6 +6007,7 @@ https://gitlab.com/dreal-datalab/enr_reseaux_teo,True
 https://gitlab.com/dreal-datalab/essai,True
 https://gitlab.com/dreal-datalab/indicateurs.territoriaux.datamart,True
 https://gitlab.com/dreal-datalab/indicateurs_territoriaux,True
+https://gitlab.com/dreal-datalab/mapfactory,False
 https://gitlab.com/dreal-datalab/maps,True
 https://gitlab.com/dreal-datalab/nitrates,True
 https://gitlab.com/dreal-datalab/ort_effectifs_transport,True
