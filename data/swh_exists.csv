@@ -3037,6 +3037,7 @@ https://github.com/betagouv/beta.gouv.fr.wiki-autoclone,True
 https://github.com/betagouv/beta.ssi,True
 https://github.com/betagouv/beta.wip,True
 https://github.com/betagouv/betaGouvBot,True
+https://github.com/betagouv/betagouv.github.io,False
 https://github.com/betagouv/blog.beta.gouv.fr,True
 https://github.com/betagouv/blog.dossiersco.fr,True
 https://github.com/betagouv/bourses,True
@@ -6115,6 +6116,7 @@ https://gitlab.huma-num.fr/ecrinum/anthologia/dataap,True
 https://gitlab.huma-num.fr/ecrinum/anthologia/pythonap,True
 https://gitlab.huma-num.fr/ecrinum/manuels/introduction-a-zotero,True
 https://gitlab.huma-num.fr/ecrinum/manuels/tutoriel-markdown-pandoc,True
+https://gitlab.huma-num.fr/ecrinum/projetglissant,False
 https://gitlab.huma-num.fr/ecrinum/sens-public/gestionedition,True
 https://gitlab.huma-num.fr/ecrinum/stylo/presentations/fosdem-2020,True
 https://gitlab.huma-num.fr/ecrinum/stylo/presentations/presentation-courte,True
