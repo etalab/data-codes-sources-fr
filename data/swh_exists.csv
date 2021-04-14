@@ -219,6 +219,7 @@ https://forgemia.inra.fr/bioger/django-custom-user,True
 https://forgemia.inra.fr/bios4biol/bioinfo-utils,True
 https://forgemia.inra.fr/bios4biol/workflows,True
 https://forgemia.inra.fr/biosys-public/rba-inrae-fr,True
+https://forgemia.inra.fr/canular/canular,False
 https://forgemia.inra.fr/cati-boom-public/site-officiel,True
 https://forgemia.inra.fr/chemhouse/octave/tbjmr/CovSel,True
 https://forgemia.inra.fr/chemhouse/octave/tbjmr/VSN,True
@@ -2985,6 +2986,7 @@ https://github.com/betagouv/StopCovid,True
 https://github.com/betagouv/a11y-generateur-declaration,True
 https://github.com/betagouv/admin-traitdunion,True
 https://github.com/betagouv/aides-jeunes,True
+https://github.com/betagouv/aides-jeunes-ops,False
 https://github.com/betagouv/allegement-fillon,True
 https://github.com/betagouv/analyse-flux-insertion,True
 https://github.com/betagouv/andi,True
@@ -6380,6 +6382,7 @@ https://gitlab.inria.fr/WellInverter/WellInverter_Standalone_Linux,True
 https://gitlab.inria.fr/WellInverter/WellInverter_Standalone_MacOS,True
 https://gitlab.inria.fr/WellInverter/WellInverter_Standalone_Nuvla,True
 https://gitlab.inria.fr/WellInverter/WellInverter_Standalone_Windows,True
+https://gitlab.inria.fr/acumes/dduq-traffic,False
 https://gitlab.inria.fr/adjoint-computation/H-Revolve,True
 https://gitlab.inria.fr/adjoint-computation/disk-revolve-public,True
 https://gitlab.inria.fr/adt-mochy/mochy,True
