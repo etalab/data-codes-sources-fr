@@ -187,7 +187,7 @@ https://forge.univ-lyon1.fr/tiw-is/tiw1-is-2019,True
 https://forge.univ-lyon1.fr/tiw-is/tiw1-is-2020,True
 https://forgemia.inra.fr/4p/maquettes-4p,True
 https://forgemia.inra.fr/4p/modules/pheno-extraction,True
-https://forgemia.inra.fr/4p/modules/phis-export-l2,False
+https://forgemia.inra.fr/4p/modules/phis-export-l2,True
 https://forgemia.inra.fr/4p/modules/phis-import,True
 https://forgemia.inra.fr/4p/pheno-extraction,True
 https://forgemia.inra.fr/4p/user-guide,True
@@ -219,7 +219,7 @@ https://forgemia.inra.fr/bioger/django-custom-user,True
 https://forgemia.inra.fr/bios4biol/bioinfo-utils,True
 https://forgemia.inra.fr/bios4biol/workflows,True
 https://forgemia.inra.fr/biosys-public/rba-inrae-fr,True
-https://forgemia.inra.fr/canular/canular,False
+https://forgemia.inra.fr/canular/canular,True
 https://forgemia.inra.fr/cati-boom-public/site-officiel,True
 https://forgemia.inra.fr/chemhouse/octave/tbjmr/CovSel,True
 https://forgemia.inra.fr/chemhouse/octave/tbjmr/VSN,True
@@ -1675,7 +1675,7 @@ https://github.com/IGNF/geoportal-extensions,True
 https://github.com/IGNF/geoportal-extensions-itowns,True
 https://github.com/IGNF/geoportal-extensions-leaflet,True
 https://github.com/IGNF/geoportal-extensions-openlayers,True
-https://github.com/IGNF/geoportal-extensions-openlayers-samples,False
+https://github.com/IGNF/geoportal-extensions-openlayers-samples,True
 https://github.com/IGNF/geoportal-sdk,True
 https://github.com/IGNF/geoportal-third-party-integration,True
 https://github.com/IGNF/geoportal-wfs-client,True
@@ -3751,6 +3751,7 @@ https://github.com/diverse-project/RA2018,True
 https://github.com/diverse-project/SAT-DSLmorphic,True
 https://github.com/diverse-project/SPLC-16,True
 https://github.com/diverse-project/alex,True
+https://github.com/diverse-project/confsurface,False
 https://github.com/diverse-project/dev-dashboard,True
 https://github.com/diverse-project/diverse-project.github.io,True
 https://github.com/diverse-project/diverse-project.github.io.old,True
@@ -4143,6 +4144,7 @@ https://github.com/etalab/contours-administratifs,True
 https://github.com/etalab/contribution-adresse,True
 https://github.com/etalab/couverture-urbanisme,True
 https://github.com/etalab/covid19-dashboard,True
+https://github.com/etalab/covid19-dashboard-widgets,False
 https://github.com/etalab/covid19-data,True
 https://github.com/etalab/covid19-orientation,True
 https://github.com/etalab/covid19-timeline,True
@@ -6117,7 +6119,7 @@ https://gitlab.huma-num.fr/ecrinum/anthologia/dataap,True
 https://gitlab.huma-num.fr/ecrinum/anthologia/pythonap,True
 https://gitlab.huma-num.fr/ecrinum/manuels/introduction-a-zotero,True
 https://gitlab.huma-num.fr/ecrinum/manuels/tutoriel-markdown-pandoc,True
-https://gitlab.huma-num.fr/ecrinum/projetglissant,False
+https://gitlab.huma-num.fr/ecrinum/projetglissant,True
 https://gitlab.huma-num.fr/ecrinum/sens-public/gestionedition,True
 https://gitlab.huma-num.fr/ecrinum/stylo/presentations/fosdem-2020,True
 https://gitlab.huma-num.fr/ecrinum/stylo/presentations/presentation-courte,True
@@ -6204,6 +6206,7 @@ https://gitlab.huma-num.fr/rzine/add_author,True
 https://gitlab.huma-num.fr/rzine/add_news,True
 https://gitlab.huma-num.fr/rzine/add_publication,True
 https://gitlab.huma-num.fr/rzine/documentation,True
+https://gitlab.huma-num.fr/rzine/help_rzine_publication,False
 https://gitlab.huma-num.fr/rzine/package,True
 https://gitlab.huma-num.fr/rzine/site,True
 https://gitlab.huma-num.fr/tip/flatdb4geonames,True
@@ -6867,6 +6870,7 @@ https://gitlab.inria.fr/fec/publications/mipp_a_portable_cpp_simd_wrapper_and_it
 https://gitlab.inria.fr/fedbiomed/PyGrid,True
 https://gitlab.inria.fr/fedbiomed/client-fedbiomed,True
 https://gitlab.inria.fr/fedbiomed/fed-requests,True
+https://gitlab.inria.fr/fedbiomed/fedbiomed,False
 https://gitlab.inria.fr/fedbiomed/fedbiomed-api,True
 https://gitlab.inria.fr/fedbiomed/fedbiomed-node,True
 https://gitlab.inria.fr/fedbiomed/fedbiomed.gitlabpages.inria.fr,True
@@ -7277,6 +7281,7 @@ https://gitlab.inria.fr/mpfi/mpfi,True
 https://gitlab.inria.fr/mpfq/mpfq,True
 https://gitlab.inria.fr/multicellular_modelling/libsbml,True
 https://gitlab.inria.fr/multicellular_modelling/public/cellsegmquant,True
+https://gitlab.inria.fr/musca/pydynpeak,False
 https://gitlab.inria.fr/myriads-team/python-distem,True
 https://gitlab.inria.fr/necs-open/RainbowVis-JS,True
 https://gitlab.inria.fr/necs-open/braincrafted.bootstrap-bundle,True
@@ -7521,7 +7526,7 @@ https://gitlab.inria.fr/starpu/starpu,True
 https://gitlab.inria.fr/starpu/starpu-debian,True
 https://gitlab.inria.fr/starpu/starpu.gitlabpages.inria.fr,True
 https://gitlab.inria.fr/statify_public/anzj-crash,True
-https://gitlab.inria.fr/statify_public/brm-ema,False
+https://gitlab.inria.fr/statify_public/brm-ema,True
 https://gitlab.inria.fr/statify_public/interstices_neuro,True
 https://gitlab.inria.fr/steep/urbansprawl/urbansprawl-lib,True
 https://gitlab.inria.fr/stopcovid19/CLEA-exposure-verification,True
@@ -7615,6 +7620,7 @@ https://gitlab.inria.fr/zefxis/experiments,True
 https://gitlab.inria.fr/zefxis/monitoring-tool,True
 https://gitlab.inria.fr/zefxis/playgrounds,True
 https://gitlab.inria.fr/zefxis/use-cases,True
+https://gitlab.inria.fr/zefxis1/playgrounds,False
 https://gitlab.inria.fr/zhozhang/zhongkai-zhang,True
 https://gitlab.inria.fr/zk-curves/bw6-761,True
 https://gitlab.irstea.fr/HYCAR-Hydro/ExcelGR,True
