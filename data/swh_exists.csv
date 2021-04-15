@@ -1246,7 +1246,7 @@ https://github.com/DISIC/design.numerique.gouv.fr,True
 https://github.com/DISIC/designgouv-admin,True
 https://github.com/DISIC/evenements-bluehats,True
 https://github.com/DISIC/foss-contrib-policy-template,True
-https://github.com/DISIC/frago,False
+https://github.com/DISIC/frago,True
 https://github.com/DISIC/gazette-bluehats,True
 https://github.com/DISIC/greentech,True
 https://github.com/DISIC/guide-RGAA_CMS,True
@@ -3754,7 +3754,7 @@ https://github.com/diverse-project/RA2018,True
 https://github.com/diverse-project/SAT-DSLmorphic,True
 https://github.com/diverse-project/SPLC-16,True
 https://github.com/diverse-project/alex,True
-https://github.com/diverse-project/confsurface,False
+https://github.com/diverse-project/confsurface,True
 https://github.com/diverse-project/dev-dashboard,True
 https://github.com/diverse-project/diverse-project.github.io,True
 https://github.com/diverse-project/diverse-project.github.io.old,True
@@ -5181,6 +5181,7 @@ https://github.com/numerique-gouv/numerique.gouv.fr,True
 https://github.com/numerique-gouv/numerique.gouv.fr-infra,True
 https://github.com/observatoire-territoires/KitsCarto-GdDebat,True
 https://github.com/observatoire-territoires/SOFIE,True
+https://github.com/observatoire-territoires/SOFIE-2.0,False
 https://github.com/observatoire-territoires/couvnum,True
 https://github.com/observatoire-territoires/migR,True
 https://github.com/observatoire-territoires/rapport-OT-mobilites,True
