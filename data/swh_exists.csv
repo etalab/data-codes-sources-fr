@@ -244,7 +244,7 @@ https://forgemia.inra.fr/formation/python-pour-les-biologistes,True
 https://forgemia.inra.fr/gaev/gaev,False
 https://forgemia.inra.fr/gaev/packer/centos-dd8gb,False
 https://forgemia.inra.fr/gaev/packer/macos,True
-https://forgemia.inra.fr/gaev/packer/ubuntu1804-dd18gb,False
+https://forgemia.inra.fr/gaev/packer/ubuntu1804-dd18gb,True
 https://forgemia.inra.fr/gaev/packer/vagrant-cloud_api,True
 https://forgemia.inra.fr/gaev/packer/windows10,True
 https://forgemia.inra.fr/gaev/usecases/jupyterhub-ubuntu-vbox,True
@@ -1065,6 +1065,7 @@ https://github.com/BRGM/geothermal-test-cases,True
 https://github.com/BRGM/gml_application_schema_toolbox,True
 https://github.com/BRGM/gmlib,True
 https://github.com/BRGM/hubeau,True
+https://github.com/BRGM/map2loop-2,False
 https://github.com/BRGM/plouf,True
 https://github.com/BRGM/razorback,True
 https://github.com/BRGM/razorback-tutorial-data,True
@@ -2605,6 +2606,7 @@ https://github.com/SocialGouv/ozensemble,True
 https://github.com/SocialGouv/ozensemble-site,True
 https://github.com/SocialGouv/pep,True
 https://github.com/SocialGouv/plops-monde,False
+https://github.com/SocialGouv/plops-monde-1001,False
 https://github.com/SocialGouv/polyfill-service,True
 https://github.com/SocialGouv/polyfill-service2,True
 https://github.com/SocialGouv/postgrest,True
@@ -3349,6 +3351,7 @@ https://github.com/betagouv/trait-d-union,True
 https://github.com/betagouv/traitdunion-landing-pages,True
 https://github.com/betagouv/traitdunion-metabase,True
 https://github.com/betagouv/transport-base-nationale-covoiturage,True
+https://github.com/betagouv/tutorat,False
 https://github.com/betagouv/urbanvitaliz,True
 https://github.com/betagouv/valberg.comobi.fr,True
 https://github.com/betagouv/verif.site,True
@@ -6579,7 +6582,7 @@ https://gitlab.inria.fr/bioimage-it/bioimageit-tools,True
 https://gitlab.inria.fr/bioimage-it/bioimagej,True
 https://gitlab.inria.fr/bioimage-it/bioimagepy,True
 https://gitlab.inria.fr/bioimage-it/bioimagepy-tutorial,True
-https://gitlab.inria.fr/bioimage-it/fiji-docker,False
+https://gitlab.inria.fr/bioimage-it/fiji-docker,True
 https://gitlab.inria.fr/bioimage-it/fiji-tools,True
 https://gitlab.inria.fr/bioimage-it/htesting-tools,True
 https://gitlab.inria.fr/bioimage-it/package,True
