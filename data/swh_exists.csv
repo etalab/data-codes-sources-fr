@@ -51,6 +51,16 @@ https://dev.ch-poitiers.fr/mssante/mssante-sync-ldap-annuaire,True
 https://dev.ch-poitiers.fr/mssante/mssante-sync-unidirectionnel,True
 https://dev.ch-poitiers.fr/mssante/mssante-webapp,True
 https://dev.ch-poitiers.fr/mssante/parent,True
+https://edu-git.ac-versailles.fr/capsule/drv,True
+https://edu-git.ac-versailles.fr/dev-academique/lib-php/PlateformeSms,True
+https://edu-git.ac-versailles.fr/devnat/sirh-poc-rest,True
+https://edu-git.ac-versailles.fr/dsi-tice-public/Filtrage-par-DNS,True
+https://edu-git.ac-versailles.fr/dsi-tice-public/edu-qrcode,True
+https://edu-git.ac-versailles.fr/lafontainenanterre/Robot1,True
+https://edu-git.ac-versailles.fr/prometheus/exporter/nextcloud,True
+https://edu-git.ac-versailles.fr/prometheus/exporter/onlyoffice,True
+https://edu-git.ac-versailles.fr/prometheus/exporter/prometheus_onlyoffice_exporter,True
+https://edu-git.ac-versailles.fr/snp/nextcloud/documents,True
 https://forge.grandlyon.com/gestion-des-assemblees/elections,True
 https://forge.grandlyon.com/laclasse/client,True
 https://forge.grandlyon.com/laclasse/etherpad,True
@@ -241,7 +251,7 @@ https://forgemia.inra.fr/fact/fact,True
 https://forgemia.inra.fr/fact/pfptools,True
 https://forgemia.inra.fr/formation/formation-python-inrae,True
 https://forgemia.inra.fr/formation/python-pour-les-biologistes,True
-https://forgemia.inra.fr/gaev/gaev,False
+https://forgemia.inra.fr/gaev/gaev,True
 https://forgemia.inra.fr/gaev/packer/centos-dd8gb,False
 https://forgemia.inra.fr/gaev/packer/macos,True
 https://forgemia.inra.fr/gaev/packer/ubuntu1804-dd18gb,True
@@ -958,6 +968,7 @@ https://github.com/ANSSI-FR/coq-comparse,True
 https://github.com/ANSSI-FR/coq-prelude,True
 https://github.com/ANSSI-FR/cornetto,True
 https://github.com/ANSSI-FR/ctf,True
+https://github.com/ANSSI-FR/guide-journalisation-microsoft,False
 https://github.com/ANSSI-FR/libapn,True
 https://github.com/ANSSI-FR/libecc,True
 https://github.com/ANSSI-FR/lidi,True
@@ -2185,6 +2196,7 @@ https://github.com/MTES-MCT/dashlord-updownio-report,False
 https://github.com/MTES-MCT/data-preparation-plugin,True
 https://github.com/MTES-MCT/dataqual,True
 https://github.com/MTES-MCT/dataroom,True
+https://github.com/MTES-MCT/dependabotalerts-action,False
 https://github.com/MTES-MCT/dtlk-api,True
 https://github.com/MTES-MCT/dtlk-ihm-alimentation,True
 https://github.com/MTES-MCT/ecophyto,True
@@ -6211,7 +6223,7 @@ https://gitlab.huma-num.fr/rzine/add_author,True
 https://gitlab.huma-num.fr/rzine/add_news,True
 https://gitlab.huma-num.fr/rzine/add_publication,True
 https://gitlab.huma-num.fr/rzine/documentation,True
-https://gitlab.huma-num.fr/rzine/help_rzine_publication,False
+https://gitlab.huma-num.fr/rzine/help_rzine_publication,True
 https://gitlab.huma-num.fr/rzine/package,True
 https://gitlab.huma-num.fr/rzine/site,True
 https://gitlab.huma-num.fr/tip/flatdb4geonames,True
@@ -6971,7 +6983,7 @@ https://gitlab.inria.fr/gazelle/test-content/gazelle-hl7v2-validator-resources,T
 https://gitlab.inria.fr/gazelle/test-content/hl7-conformance-profiles,True
 https://gitlab.inria.fr/gazelle/test-content/pdqm-samples,True
 https://gitlab.inria.fr/gazelle/test-content/xsd,False
-https://gitlab.inria.fr/gazelle/test-content/xsl,False
+https://gitlab.inria.fr/gazelle/test-content/xsl,True
 https://gitlab.inria.fr/gazelle/validator/FhirValidator,True
 https://gitlab.inria.fr/gazelle/validator/common/validation-ws,True
 https://gitlab.inria.fr/gbono/coop-ma-pg,True
@@ -7625,7 +7637,7 @@ https://gitlab.inria.fr/zefxis/experiments,True
 https://gitlab.inria.fr/zefxis/monitoring-tool,True
 https://gitlab.inria.fr/zefxis/playgrounds,True
 https://gitlab.inria.fr/zefxis/use-cases,True
-https://gitlab.inria.fr/zefxis1/playgrounds,False
+https://gitlab.inria.fr/zefxis1/playgrounds,True
 https://gitlab.inria.fr/zhozhang/zhongkai-zhang,True
 https://gitlab.inria.fr/zk-curves/bw6-761,True
 https://gitlab.irstea.fr/HYCAR-Hydro/ExcelGR,True
