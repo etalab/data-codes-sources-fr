@@ -1249,6 +1249,7 @@ https://github.com/DISIC/RGAA,True
 https://github.com/DISIC/RGAA-tests,True
 https://github.com/DISIC/Test-Compta-Demat,True
 https://github.com/DISIC/XWiki-cerfa-numerique,True
+https://github.com/DISIC/a11y-guidelines,False
 https://github.com/DISIC/assistant-rgaa,True
 https://github.com/DISIC/bmc-tools,True
 https://github.com/DISIC/checklist-pidila,True
@@ -2619,7 +2620,7 @@ https://github.com/SocialGouv/ozensemble,True
 https://github.com/SocialGouv/ozensemble-site,True
 https://github.com/SocialGouv/pep,True
 https://github.com/SocialGouv/plops-monde,False
-https://github.com/SocialGouv/plops-monde-1001,False
+https://github.com/SocialGouv/plops-monde-1001,True
 https://github.com/SocialGouv/polyfill-service,True
 https://github.com/SocialGouv/polyfill-service2,True
 https://github.com/SocialGouv/postgrest,True
@@ -3196,6 +3197,7 @@ https://github.com/betagouv/mas,True
 https://github.com/betagouv/matomo,True
 https://github.com/betagouv/matomo-beta,True
 https://github.com/betagouv/matomo-scalingo-deploy,True
+https://github.com/betagouv/mattermost-buildpack,False
 https://github.com/betagouv/mdph,True
 https://github.com/betagouv/mdph-evaluation,True
 https://github.com/betagouv/mdph-geva-etl,True
@@ -4160,7 +4162,7 @@ https://github.com/etalab/contours-administratifs,True
 https://github.com/etalab/contribution-adresse,True
 https://github.com/etalab/couverture-urbanisme,True
 https://github.com/etalab/covid19-dashboard,True
-https://github.com/etalab/covid19-dashboard-widgets,False
+https://github.com/etalab/covid19-dashboard-widgets,True
 https://github.com/etalab/covid19-data,True
 https://github.com/etalab/covid19-orientation,True
 https://github.com/etalab/covid19-timeline,True
@@ -5194,7 +5196,7 @@ https://github.com/numerique-gouv/numerique.gouv.fr,True
 https://github.com/numerique-gouv/numerique.gouv.fr-infra,True
 https://github.com/observatoire-territoires/KitsCarto-GdDebat,True
 https://github.com/observatoire-territoires/SOFIE,True
-https://github.com/observatoire-territoires/SOFIE-2.0,False
+https://github.com/observatoire-territoires/SOFIE-2.0,True
 https://github.com/observatoire-territoires/couvnum,True
 https://github.com/observatoire-territoires/migR,True
 https://github.com/observatoire-territoires/rapport-OT-mobilites,True
