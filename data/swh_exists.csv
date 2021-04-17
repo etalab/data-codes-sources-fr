@@ -252,7 +252,7 @@ https://forgemia.inra.fr/fact/pfptools,True
 https://forgemia.inra.fr/formation/formation-python-inrae,True
 https://forgemia.inra.fr/formation/python-pour-les-biologistes,True
 https://forgemia.inra.fr/gaev/gaev,True
-https://forgemia.inra.fr/gaev/packer/centos-dd8gb,False
+https://forgemia.inra.fr/gaev/packer/centos-dd8gb,True
 https://forgemia.inra.fr/gaev/packer/macos,True
 https://forgemia.inra.fr/gaev/packer/ubuntu1804-dd18gb,True
 https://forgemia.inra.fr/gaev/packer/vagrant-cloud_api,True
@@ -6411,7 +6411,7 @@ https://gitlab.inria.fr/WellInverter/WellInverter_Standalone_Linux,True
 https://gitlab.inria.fr/WellInverter/WellInverter_Standalone_MacOS,True
 https://gitlab.inria.fr/WellInverter/WellInverter_Standalone_Nuvla,True
 https://gitlab.inria.fr/WellInverter/WellInverter_Standalone_Windows,True
-https://gitlab.inria.fr/acumes/dduq-traffic,False
+https://gitlab.inria.fr/acumes/dduq-traffic,True
 https://gitlab.inria.fr/adjoint-computation/H-Revolve,True
 https://gitlab.inria.fr/adjoint-computation/disk-revolve-public,True
 https://gitlab.inria.fr/adt-mochy/mochy,True
