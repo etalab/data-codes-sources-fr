@@ -258,9 +258,9 @@ https://forgemia.inra.fr/gaev/packer/ubuntu1804-dd18gb,True
 https://forgemia.inra.fr/gaev/packer/vagrant-cloud_api,True
 https://forgemia.inra.fr/gaev/packer/windows10,True
 https://forgemia.inra.fr/gaev/usecases/jupyterhub-ubuntu-vbox,True
-https://forgemia.inra.fr/gaev/usecases/macosr,False
+https://forgemia.inra.fr/gaev/usecases/macosr,True
 https://forgemia.inra.fr/gaev/usecases/odam-centos-virtualbox,True
-https://forgemia.inra.fr/gaev/usecases/windowsr,False
+https://forgemia.inra.fr/gaev/usecases/windowsr,True
 https://forgemia.inra.fr/gafl/pipelines_snakemake/allmine,True
 https://forgemia.inra.fr/gafl/pipelines_snakemake/ezqtlseq,True
 https://forgemia.inra.fr/gafl/pipelines_snakemake/rnaseq,True
@@ -1249,7 +1249,7 @@ https://github.com/DISIC/RGAA,True
 https://github.com/DISIC/RGAA-tests,True
 https://github.com/DISIC/Test-Compta-Demat,True
 https://github.com/DISIC/XWiki-cerfa-numerique,True
-https://github.com/DISIC/a11y-guidelines,False
+https://github.com/DISIC/a11y-guidelines,True
 https://github.com/DISIC/assistant-rgaa,True
 https://github.com/DISIC/bmc-tools,True
 https://github.com/DISIC/checklist-pidila,True
@@ -3224,7 +3224,7 @@ https://github.com/betagouv/mpal,True
 https://github.com/betagouv/mpal-deploy,True
 https://github.com/betagouv/mpal-rod,True
 https://github.com/betagouv/mrs,True
-https://github.com/betagouv/n8n-scalingo,False
+https://github.com/betagouv/n8n-scalingo,True
 https://github.com/betagouv/neutre.comobi.fr,True
 https://github.com/betagouv/nir_validate,True
 https://github.com/betagouv/normalized-data-state,True
@@ -7734,7 +7734,7 @@ https://gitlab.irstea.fr/reversaal/loglinear-regression,True
 https://gitlab.irstea.fr/reversaal/tw-modeling-toolkit,True
 https://gitlab.irstea.fr/reversaal/wetlands_xray_tomopgraphy,True
 https://gitlab.irstea.fr/support/wiki,True
-https://gitlab.irstea.fr/umr-tetis/aidmoit/ElasticSearch-Indexation,False
+https://gitlab.irstea.fr/umr-tetis/aidmoit/ElasticSearch-Indexation,True
 https://gitlab.irstea.fr/umr-tetis/aidmoit/Protocole_aidmoit,True
 https://gitlab.irstea.fr/umr-tetis/aidmoit/collect,True
 https://gitlab.irstea.fr/umr-tetis/aidmoit/datalake-deployment,True
