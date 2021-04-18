@@ -968,7 +968,7 @@ https://github.com/ANSSI-FR/coq-comparse,True
 https://github.com/ANSSI-FR/coq-prelude,True
 https://github.com/ANSSI-FR/cornetto,True
 https://github.com/ANSSI-FR/ctf,True
-https://github.com/ANSSI-FR/guide-journalisation-microsoft,False
+https://github.com/ANSSI-FR/guide-journalisation-microsoft,True
 https://github.com/ANSSI-FR/libapn,True
 https://github.com/ANSSI-FR/libecc,True
 https://github.com/ANSSI-FR/lidi,True
@@ -3000,6 +3000,7 @@ https://github.com/betagouv/Element.details,True
 https://github.com/betagouv/OpenFiscaFrance.jl,True
 https://github.com/betagouv/OpenLawEditor,True
 https://github.com/betagouv/PeerTube,True
+https://github.com/betagouv/Rocket.Chat,False
 https://github.com/betagouv/StopCovid,True
 https://github.com/betagouv/a11y-generateur-declaration,True
 https://github.com/betagouv/admin-traitdunion,True
