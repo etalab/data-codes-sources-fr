@@ -3072,7 +3072,7 @@ https://github.com/betagouv/codimd,True
 https://github.com/betagouv/codimd-server,True
 https://github.com/betagouv/coding-dojos,True
 https://github.com/betagouv/comobi,True
-https://github.com/betagouv/comobi-core,False
+https://github.com/betagouv/comobi-core,True
 https://github.com/betagouv/comobi_valberg,True
 https://github.com/betagouv/competences-pro,True
 https://github.com/betagouv/competences-pro-orchestrateur,True
@@ -7301,7 +7301,7 @@ https://gitlab.inria.fr/mpfi/mpfi,True
 https://gitlab.inria.fr/mpfq/mpfq,True
 https://gitlab.inria.fr/multicellular_modelling/libsbml,True
 https://gitlab.inria.fr/multicellular_modelling/public/cellsegmquant,True
-https://gitlab.inria.fr/musca/pydynpeak,False
+https://gitlab.inria.fr/musca/pydynpeak,True
 https://gitlab.inria.fr/myriads-team/python-distem,True
 https://gitlab.inria.fr/necs-open/RainbowVis-JS,True
 https://gitlab.inria.fr/necs-open/braincrafted.bootstrap-bundle,True
