@@ -1077,7 +1077,7 @@ https://github.com/BRGM/geothermal-test-cases,True
 https://github.com/BRGM/gml_application_schema_toolbox,True
 https://github.com/BRGM/gmlib,True
 https://github.com/BRGM/hubeau,True
-https://github.com/BRGM/map2loop-2,False
+https://github.com/BRGM/map2loop-2,True
 https://github.com/BRGM/plouf,True
 https://github.com/BRGM/razorback,True
 https://github.com/BRGM/razorback-tutorial-data,True
@@ -2189,7 +2189,7 @@ https://github.com/MTES-MCT/choisir-une-licence,True
 https://github.com/MTES-MCT/cobot-admin,True
 https://github.com/MTES-MCT/cobot-api,True
 https://github.com/MTES-MCT/cobot-bot,True
-https://github.com/MTES-MCT/codescanalerts-action,False
+https://github.com/MTES-MCT/codescanalerts-action,True
 https://github.com/MTES-MCT/cours-java-debutant,True
 https://github.com/MTES-MCT/dashboard,True
 https://github.com/MTES-MCT/dashlord,True
