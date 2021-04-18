@@ -3000,7 +3000,7 @@ https://github.com/betagouv/Element.details,True
 https://github.com/betagouv/OpenFiscaFrance.jl,True
 https://github.com/betagouv/OpenLawEditor,True
 https://github.com/betagouv/PeerTube,True
-https://github.com/betagouv/Rocket.Chat,False
+https://github.com/betagouv/Rocket.Chat,True
 https://github.com/betagouv/StopCovid,True
 https://github.com/betagouv/a11y-generateur-declaration,True
 https://github.com/betagouv/admin-traitdunion,True
@@ -6985,7 +6985,7 @@ https://gitlab.inria.fr/gazelle/test-content/fhir-conformance-resources,True
 https://gitlab.inria.fr/gazelle/test-content/gazelle-hl7v2-validator-resources,True
 https://gitlab.inria.fr/gazelle/test-content/hl7-conformance-profiles,True
 https://gitlab.inria.fr/gazelle/test-content/pdqm-samples,True
-https://gitlab.inria.fr/gazelle/test-content/xsd,False
+https://gitlab.inria.fr/gazelle/test-content/xsd,True
 https://gitlab.inria.fr/gazelle/test-content/xsl,True
 https://gitlab.inria.fr/gazelle/validator/FhirValidator,True
 https://gitlab.inria.fr/gazelle/validator/common/validation-ws,True
@@ -7551,6 +7551,7 @@ https://gitlab.inria.fr/statify_public/interstices_neuro,True
 https://gitlab.inria.fr/steep/urbansprawl/urbansprawl-lib,True
 https://gitlab.inria.fr/stopcovid19/CLEA-exposure-verification,True
 https://gitlab.inria.fr/stopcovid19/accueil,True
+https://gitlab.inria.fr/stopcovid19/backend-server,False
 https://gitlab.inria.fr/stopcovid19/robert-client-api-spec,True
 https://gitlab.inria.fr/stopcovid19/robert-server,True
 https://gitlab.inria.fr/stopcovid19/stopcovid-android,True
