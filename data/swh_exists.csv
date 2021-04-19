@@ -2197,7 +2197,7 @@ https://github.com/MTES-MCT/dashlord-updownio-report,False
 https://github.com/MTES-MCT/data-preparation-plugin,True
 https://github.com/MTES-MCT/dataqual,True
 https://github.com/MTES-MCT/dataroom,True
-https://github.com/MTES-MCT/dependabotalerts-action,False
+https://github.com/MTES-MCT/dependabotalerts-action,True
 https://github.com/MTES-MCT/dtlk-api,True
 https://github.com/MTES-MCT/dtlk-ihm-alimentation,True
 https://github.com/MTES-MCT/ecophyto,True
@@ -6116,6 +6116,7 @@ https://gitlab.com/rdes_dreal/propre.itdd,True
 https://gitlab.com/rdes_dreal/propre.presentation,True
 https://gitlab.com/rdes_dreal/propre.presention.rencontresr,True
 https://gitlab.com/rdes_dreal/propre.rpls,True
+https://gitlab.com/rdes_dreal/publication_guide,False
 https://gitlab.com/rdes_dreal/sitadel_dataviz,True
 https://gitlab.huma-num.fr/atelier-donnees/depot,True
 https://gitlab.huma-num.fr/cbma/cbma-epigraphie-provence,True
@@ -6547,6 +6548,7 @@ https://gitlab.inria.fr/alta/alta,True
 https://gitlab.inria.fr/amibio/Infrared,True
 https://gitlab.inria.fr/amibio/RNAPOND,True
 https://gitlab.inria.fr/amibio/RNARedPrint,True
+https://gitlab.inria.fr/amibio/tree-diet,False
 https://gitlab.inria.fr/amibio/treedecomp,True
 https://gitlab.inria.fr/amibio/varna-api,True
 https://gitlab.inria.fr/andiamo/eusdisparser,True
@@ -7510,6 +7512,7 @@ https://gitlab.inria.fr/skeletons/necro,True
 https://gitlab.inria.fr/skeletons/necro-coq,True
 https://gitlab.inria.fr/skeletons/necro-debug,True
 https://gitlab.inria.fr/skeletons/necro-dep,True
+https://gitlab.inria.fr/skeletons/necro-man,False
 https://gitlab.inria.fr/skeletons/necro-ml,True
 https://gitlab.inria.fr/skeletons/necro-test,True
 https://gitlab.inria.fr/skeletons/necro-tex,True
@@ -7551,7 +7554,7 @@ https://gitlab.inria.fr/statify_public/interstices_neuro,True
 https://gitlab.inria.fr/steep/urbansprawl/urbansprawl-lib,True
 https://gitlab.inria.fr/stopcovid19/CLEA-exposure-verification,True
 https://gitlab.inria.fr/stopcovid19/accueil,True
-https://gitlab.inria.fr/stopcovid19/backend-server,False
+https://gitlab.inria.fr/stopcovid19/backend-server,True
 https://gitlab.inria.fr/stopcovid19/robert-client-api-spec,True
 https://gitlab.inria.fr/stopcovid19/robert-server,True
 https://gitlab.inria.fr/stopcovid19/stopcovid-android,True
