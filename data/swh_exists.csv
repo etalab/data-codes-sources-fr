@@ -1945,7 +1945,7 @@ https://github.com/InseeFr/Avionic,True
 https://github.com/InseeFr/Bauhaus,True
 https://github.com/InseeFr/Bauhaus-Back-Office,True
 https://github.com/InseeFr/CSPA-SA-Client,True
-https://github.com/InseeFr/Coleman,False
+https://github.com/InseeFr/Coleman,True
 https://github.com/InseeFr/Coleman-Back-Office,True
 https://github.com/InseeFr/DDI-Access-Services,True
 https://github.com/InseeFr/Destinie-2,True
@@ -6994,7 +6994,8 @@ https://gitlab.inria.fr/gazelle/test-content/xsl,True
 https://gitlab.inria.fr/gazelle/validator/FhirValidator,True
 https://gitlab.inria.fr/gazelle/validator/common/validation-ws,True
 https://gitlab.inria.fr/gazelle/validator/hl7templates/hl7template-generator-jar,False
-https://gitlab.inria.fr/gazelle/validator/hl7templates/hl7templates-api,False
+https://gitlab.inria.fr/gazelle/validator/hl7templates/hl7templates-api,True
+https://gitlab.inria.fr/gazelle/validator/hl7templates/hl7templates-model-jar,False
 https://gitlab.inria.fr/gazelle/validator/hl7templates/hl7templates-packager-jar,False
 https://gitlab.inria.fr/gbono/coop-ma-pg,True
 https://gitlab.inria.fr/gbono/sulfr,True
@@ -7513,6 +7514,7 @@ https://gitlab.inria.fr/siteadmin/pages-example,True
 https://gitlab.inria.fr/siteadmin/publictest,True
 https://gitlab.inria.fr/skeletons/Coq,True
 https://gitlab.inria.fr/skeletons/jskel,True
+https://gitlab.inria.fr/skeletons/ndam,False
 https://gitlab.inria.fr/skeletons/necro,True
 https://gitlab.inria.fr/skeletons/necro-coq,True
 https://gitlab.inria.fr/skeletons/necro-debug,True
@@ -8262,7 +8264,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/systemes/asynchronisme_algorithmiqu
 https://gricad-gitlab.univ-grenoble-alpes.fr/tal_for_distant_languages/wiki,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/talks/deeplearning,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/talks/fidle,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/thingsat/public,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/thingsat/public,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/tima-amfors/learnv,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/tima/public/ct_de-systemc,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/tima/public/newcas2019,True
