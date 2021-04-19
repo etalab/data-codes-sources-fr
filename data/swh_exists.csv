@@ -3005,7 +3005,7 @@ https://github.com/betagouv/StopCovid,True
 https://github.com/betagouv/a11y-generateur-declaration,True
 https://github.com/betagouv/admin-traitdunion,True
 https://github.com/betagouv/aides-jeunes,True
-https://github.com/betagouv/aides-jeunes-ops,False
+https://github.com/betagouv/aides-jeunes-ops,True
 https://github.com/betagouv/allegement-fillon,True
 https://github.com/betagouv/analyse-flux-insertion,True
 https://github.com/betagouv/andi,True
@@ -6306,7 +6306,7 @@ https://gitlab.inria.fr/InBio/Public/fwd_ad,True
 https://gitlab.inria.fr/InBio/Public/hydriver,True
 https://gitlab.inria.fr/InBio/Public/micromator,True
 https://gitlab.inria.fr/InBio/Public/reacsight,True
-https://gitlab.inria.fr/KerA/examples/kera-e2clab-examples,False
+https://gitlab.inria.fr/KerA/examples/kera-e2clab-examples,True
 https://gitlab.inria.fr/KerA/examples/kera-flink-examples,True
 https://gitlab.inria.fr/KerA/gtest,True
 https://gitlab.inria.fr/KerA/integrations/kera-flink-connector,True
@@ -8254,6 +8254,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/systemes/asynchronisme_algorithmiqu
 https://gricad-gitlab.univ-grenoble-alpes.fr/tal_for_distant_languages/wiki,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/talks/deeplearning,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/talks/fidle,True
+https://gricad-gitlab.univ-grenoble-alpes.fr/thingsat/public,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/tima-amfors/learnv,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/tima/public/ct_de-systemc,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/tima/public/newcas2019,True
