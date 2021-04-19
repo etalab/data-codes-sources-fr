@@ -461,6 +461,7 @@ https://forgemia.inra.fr/pappso/xtpcpp,True
 https://forgemia.inra.fr/pegase/pegase-fair,True
 https://forgemia.inra.fr/phenotic/publique/ordinalclustering,True
 https://forgemia.inra.fr/public-pgba/is900-rflp-in-silico,True
+https://forgemia.inra.fr/public-pgba/submission_ena,False
 https://forgemia.inra.fr/record-open-archives/rec-crash,True
 https://forgemia.inra.fr/record-open-archives/recmoustics,True
 https://forgemia.inra.fr/record/AgFlow,True
@@ -3198,7 +3199,7 @@ https://github.com/betagouv/mas,True
 https://github.com/betagouv/matomo,True
 https://github.com/betagouv/matomo-beta,True
 https://github.com/betagouv/matomo-scalingo-deploy,True
-https://github.com/betagouv/mattermost-buildpack,False
+https://github.com/betagouv/mattermost-buildpack,True
 https://github.com/betagouv/mdph,True
 https://github.com/betagouv/mdph-evaluation,True
 https://github.com/betagouv/mdph-geva-etl,True
@@ -6021,6 +6022,7 @@ https://gitlab.com/cortext/workshops/2020-10-iii-sins-rio-de-janeiro,True
 https://gitlab.com/dreal-datalab/adresses-mairies-epci,True
 https://gitlab.com/dreal-datalab/autorite-environnementale,False
 https://gitlab.com/dreal-datalab/autorite_environnementale,True
+https://gitlab.com/dreal-datalab/bilan.eco.insee,False
 https://gitlab.com/dreal-datalab/carrieres,True
 https://gitlab.com/dreal-datalab/codes_postaux,True
 https://gitlab.com/dreal-datalab/cogiter,True
@@ -6991,6 +6993,9 @@ https://gitlab.inria.fr/gazelle/test-content/xsd,True
 https://gitlab.inria.fr/gazelle/test-content/xsl,True
 https://gitlab.inria.fr/gazelle/validator/FhirValidator,True
 https://gitlab.inria.fr/gazelle/validator/common/validation-ws,True
+https://gitlab.inria.fr/gazelle/validator/hl7templates/hl7template-generator-jar,False
+https://gitlab.inria.fr/gazelle/validator/hl7templates/hl7templates-api,False
+https://gitlab.inria.fr/gazelle/validator/hl7templates/hl7templates-packager-jar,False
 https://gitlab.inria.fr/gbono/coop-ma-pg,True
 https://gitlab.inria.fr/gbono/sulfr,True
 https://gitlab.inria.fr/gecos/gecos-arith,True
