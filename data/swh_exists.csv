@@ -107,6 +107,7 @@ https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.gran
 https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/web-portal/components/indexers/metadata-and-data,True
 https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/web-portal/components/middlewares/legacy-auth,True
 https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/web-portal/components/miscellaneous/maintenance-page,True
+https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/web-portal/components/off-the-shelf-apps/rendertron,False
 https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/web-portal/components/proxies/authz-and-cache-for-es,True
 https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/web-portal/components/proxies/query,True
 https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/web-portal/components/services/authentication,True
@@ -2621,7 +2622,7 @@ https://github.com/SocialGouv/owasp-dashboard,True
 https://github.com/SocialGouv/ozensemble,True
 https://github.com/SocialGouv/ozensemble-site,True
 https://github.com/SocialGouv/pep,True
-https://github.com/SocialGouv/plops-monde,False
+https://github.com/SocialGouv/plops-monde,True
 https://github.com/SocialGouv/plops-monde-1001,True
 https://github.com/SocialGouv/polyfill-service,True
 https://github.com/SocialGouv/polyfill-service2,True
@@ -3197,6 +3198,7 @@ https://github.com/betagouv/ludwig-api,True
 https://github.com/betagouv/ludwig-ui,True
 https://github.com/betagouv/ma-cantine,True
 https://github.com/betagouv/macantine,True
+https://github.com/betagouv/mailjet-gem,False
 https://github.com/betagouv/mas,True
 https://github.com/betagouv/matomo,True
 https://github.com/betagouv/matomo-beta,True
@@ -5993,7 +5995,7 @@ https://gitlab.com/DREES_code/public/charte_drees,True
 https://gitlab.com/DREES_code/public/etudes/er1094,True
 https://gitlab.com/DREES_code/public/etudes/er1143,True
 https://gitlab.com/DREES_code/public/etudes/er1179,True
-https://gitlab.com/DREES_code/public/etudes/er1191,False
+https://gitlab.com/DREES_code/public/etudes/er1191,True
 https://gitlab.com/DREES_code/public/etudes/er745,True
 https://gitlab.com/DREES_code/public/etudes/er838,True
 https://gitlab.com/DREES_code/public/etudes/openghm,True
@@ -7003,6 +7005,11 @@ https://gitlab.inria.fr/gazelle/validator/hl7templates/hl7template-generator-jar
 https://gitlab.inria.fr/gazelle/validator/hl7templates/hl7templates-api,True
 https://gitlab.inria.fr/gazelle/validator/hl7templates/hl7templates-model-jar,False
 https://gitlab.inria.fr/gazelle/validator/hl7templates/hl7templates-packager-jar,True
+https://gitlab.inria.fr/gazelle/validator/models/cda-model,False
+https://gitlab.inria.fr/gazelle/validator/models/cdaepsos-model,False
+https://gitlab.inria.fr/gazelle/validator/models/common-models,False
+https://gitlab.inria.fr/gazelle/validator/models/infr-model,False
+https://gitlab.inria.fr/gazelle/validator/models/nblock-model,False
 https://gitlab.inria.fr/gbono/coop-ma-pg,True
 https://gitlab.inria.fr/gbono/sulfr,True
 https://gitlab.inria.fr/gecos/gecos-arith,True
@@ -7070,6 +7077,7 @@ https://gitlab.inria.fr/grid5000/ceph5k,True
 https://gitlab.inria.fr/grid5000/environments-recipes,True
 https://gitlab.inria.fr/grid5000/exhibitv2,True
 https://gitlab.inria.fr/grid5000/g5k-api,True
+https://gitlab.inria.fr/grid5000/g5k-armor,False
 https://gitlab.inria.fr/grid5000/g5k-cheat-sheet,True
 https://gitlab.inria.fr/grid5000/g5k-checks,True
 https://gitlab.inria.fr/grid5000/g5k-postinstall,True
