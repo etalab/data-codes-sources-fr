@@ -852,6 +852,7 @@ https://github.com/1024pix/graviteeio-portal-ui,True
 https://github.com/1024pix/graviteeio-rest-api,True
 https://github.com/1024pix/heroku-buildpack-git-submodule,True
 https://github.com/1024pix/heroku-buildpack-telegraf,True
+https://github.com/1024pix/holodeck-dashboard,False
 https://github.com/1024pix/journee-recherche,True
 https://github.com/1024pix/json-api-crud-server,True
 https://github.com/1024pix/mail-broker,True
@@ -5441,6 +5442,7 @@ https://github.com/openfun/politique-de-contribution-open-source,True
 https://github.com/openfun/poss-2018,True
 https://github.com/openfun/potsie,True
 https://github.com/openfun/proctoru-xblock,True
+https://github.com/openfun/prosody-docker,False
 https://github.com/openfun/prosody-test,True
 https://github.com/openfun/ralph,True
 https://github.com/openfun/richie,True
@@ -6022,7 +6024,7 @@ https://gitlab.com/cortext/workshops/2020-10-iii-sins-rio-de-janeiro,True
 https://gitlab.com/dreal-datalab/adresses-mairies-epci,True
 https://gitlab.com/dreal-datalab/autorite-environnementale,False
 https://gitlab.com/dreal-datalab/autorite_environnementale,True
-https://gitlab.com/dreal-datalab/bilan.eco.insee,False
+https://gitlab.com/dreal-datalab/bilan.eco.insee,True
 https://gitlab.com/dreal-datalab/carrieres,True
 https://gitlab.com/dreal-datalab/codes_postaux,True
 https://gitlab.com/dreal-datalab/cogiter,True
