@@ -507,7 +507,7 @@ https://forgemia.inra.fr/umr-astre/ppp-oie,True
 https://forgemia.inra.fr/umr-astre/rvf_mrt,True
 https://forgemia.inra.fr/umr-astre/spreadrate,True
 https://forgemia.inra.fr/umr-astre/topomatch,True
-https://forgemia.inra.fr/umr-astre/training/doc-references,False
+https://forgemia.inra.fr/umr-astre/training/doc-references,True
 https://forgemia.inra.fr/umr-astre/training/notions_stats,True
 https://forgemia.inra.fr/umr-boa/viseago,True
 https://forgemia.inra.fr/umr-gdec/biotools,True
@@ -4558,6 +4558,7 @@ https://github.com/incubateur-territoires/incubateur-directus,True
 https://github.com/incubateur-territoires/incubateur-strapi,True
 https://github.com/incubateur-territoires/incubateur.anct.gouv.fr,True
 https://github.com/incubateur-territoires/osp-app,True
+https://github.com/incubateur-territoires/outline,False
 https://github.com/incubateur-territoires/ressources,True
 https://github.com/incubateur-territoires/territoires.store,True
 https://github.com/incubateur-territoires/tutoriel-communs,True
@@ -5521,6 +5522,7 @@ https://github.com/pass-culture/pass-culture-browser,True
 https://github.com/pass-culture/pass-culture-doc,True
 https://github.com/pass-culture/pass-culture-homepage,True
 https://github.com/pass-culture/pass-culture-main,True
+https://github.com/pass-culture/pass-culture-native-static,False
 https://github.com/pass-culture/pass-culture-pro,True
 https://github.com/pass-culture/pass-culture-web-analytics,True
 https://github.com/pass-culture/pc-maintenance,True
@@ -6557,7 +6559,7 @@ https://gitlab.inria.fr/alta/alta,True
 https://gitlab.inria.fr/amibio/Infrared,True
 https://gitlab.inria.fr/amibio/RNAPOND,True
 https://gitlab.inria.fr/amibio/RNARedPrint,True
-https://gitlab.inria.fr/amibio/tree-diet,False
+https://gitlab.inria.fr/amibio/tree-diet,True
 https://gitlab.inria.fr/amibio/treedecomp,True
 https://gitlab.inria.fr/amibio/varna-api,True
 https://gitlab.inria.fr/andiamo/eusdisparser,True
@@ -6999,6 +7001,7 @@ https://gitlab.inria.fr/gazelle/test-content/pdqm-samples,True
 https://gitlab.inria.fr/gazelle/test-content/xsd,True
 https://gitlab.inria.fr/gazelle/test-content/xsl,True
 https://gitlab.inria.fr/gazelle/validator/FhirValidator,True
+https://gitlab.inria.fr/gazelle/validator/archetype/generated-validator,False
 https://gitlab.inria.fr/gazelle/validator/common/validation-ws,True
 https://gitlab.inria.fr/gazelle/validator/hl7templates/gocmodel-jar,False
 https://gitlab.inria.fr/gazelle/validator/hl7templates/hl7template-generator-jar,False
@@ -7008,8 +7011,11 @@ https://gitlab.inria.fr/gazelle/validator/hl7templates/hl7templates-packager-jar
 https://gitlab.inria.fr/gazelle/validator/models/cda-model,False
 https://gitlab.inria.fr/gazelle/validator/models/cdaepsos-model,False
 https://gitlab.inria.fr/gazelle/validator/models/common-models,False
+https://gitlab.inria.fr/gazelle/validator/models/datatypes-model,False
 https://gitlab.inria.fr/gazelle/validator/models/infr-model,False
+https://gitlab.inria.fr/gazelle/validator/models/model-resources,False
 https://gitlab.inria.fr/gazelle/validator/models/nblock-model,False
+https://gitlab.inria.fr/gazelle/validator/models/voc-model,False
 https://gitlab.inria.fr/gbono/coop-ma-pg,True
 https://gitlab.inria.fr/gbono/sulfr,True
 https://gitlab.inria.fr/gecos/gecos-arith,True
