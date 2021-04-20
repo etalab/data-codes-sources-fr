@@ -3176,6 +3176,7 @@ https://github.com/betagouv/itou-entreprise,True
 https://github.com/betagouv/itou-fdi,True
 https://github.com/betagouv/itou-gitbook,True
 https://github.com/betagouv/itou-landing,True
+https://github.com/betagouv/itou-pilotage,False
 https://github.com/betagouv/itou-support,True
 https://github.com/betagouv/itou-theme-discourse,True
 https://github.com/betagouv/itou_c4_python_api,True
@@ -5442,7 +5443,7 @@ https://github.com/openfun/politique-de-contribution-open-source,True
 https://github.com/openfun/poss-2018,True
 https://github.com/openfun/potsie,True
 https://github.com/openfun/proctoru-xblock,True
-https://github.com/openfun/prosody-docker,False
+https://github.com/openfun/prosody-docker,True
 https://github.com/openfun/prosody-test,True
 https://github.com/openfun/ralph,True
 https://github.com/openfun/richie,True
@@ -5532,6 +5533,7 @@ https://github.com/plantnet/hapi-rate-limit,True
 https://github.com/plantnet/my.plantnet,True
 https://github.com/plantnet/node-couchdb,True
 https://github.com/plantnet/node-datamanager,True
+https://github.com/plantnet/plantnet-R-client,False
 https://github.com/plantnet/plantnet-datamanager,True
 https://github.com/plantnet/plantnet-publish,True
 https://github.com/polewebmaedi/MAEDI-Capitales,True
@@ -5991,6 +5993,7 @@ https://gitlab.com/DREES_code/public/charte_drees,True
 https://gitlab.com/DREES_code/public/etudes/er1094,True
 https://gitlab.com/DREES_code/public/etudes/er1143,True
 https://gitlab.com/DREES_code/public/etudes/er1179,True
+https://gitlab.com/DREES_code/public/etudes/er1191,False
 https://gitlab.com/DREES_code/public/etudes/er745,True
 https://gitlab.com/DREES_code/public/etudes/er838,True
 https://gitlab.com/DREES_code/public/etudes/openghm,True
@@ -6995,10 +6998,11 @@ https://gitlab.inria.fr/gazelle/test-content/xsd,True
 https://gitlab.inria.fr/gazelle/test-content/xsl,True
 https://gitlab.inria.fr/gazelle/validator/FhirValidator,True
 https://gitlab.inria.fr/gazelle/validator/common/validation-ws,True
+https://gitlab.inria.fr/gazelle/validator/hl7templates/gocmodel-jar,False
 https://gitlab.inria.fr/gazelle/validator/hl7templates/hl7template-generator-jar,False
 https://gitlab.inria.fr/gazelle/validator/hl7templates/hl7templates-api,True
 https://gitlab.inria.fr/gazelle/validator/hl7templates/hl7templates-model-jar,False
-https://gitlab.inria.fr/gazelle/validator/hl7templates/hl7templates-packager-jar,False
+https://gitlab.inria.fr/gazelle/validator/hl7templates/hl7templates-packager-jar,True
 https://gitlab.inria.fr/gbono/coop-ma-pg,True
 https://gitlab.inria.fr/gbono/sulfr,True
 https://gitlab.inria.fr/gecos/gecos-arith,True
