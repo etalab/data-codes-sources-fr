@@ -132,6 +132,7 @@ https://forge.univ-lyon1.fr/albystructi/oop,True
 https://forge.univ-lyon1.fr/aml-lyon1/actionrobot,True
 https://forge.univ-lyon1.fr/aml-lyon1/campusdulibre,True
 https://forge.univ-lyon1.fr/bd-pedago/bd-pedago,True
+https://forge.univ-lyon1.fr/bdw_1/projet,False
 https://forge.univ-lyon1.fr/bpn/moduleimage,True
 https://forge.univ-lyon1.fr/bpn/projet,True
 https://forge.univ-lyon1.fr/cannes-cpoa/accommodation-management,True
@@ -500,6 +501,7 @@ https://forgemia.inra.fr/umr-astre/asf-challenge,True
 https://forgemia.inra.fr/umr-astre/asf-speed,True
 https://forgemia.inra.fr/umr-astre/cirad,True
 https://forgemia.inra.fr/umr-astre/covid19-mortality,True
+https://forgemia.inra.fr/umr-astre/difuse,False
 https://forgemia.inra.fr/umr-astre/epidmap,True
 https://forgemia.inra.fr/umr-astre/geonetwork,True
 https://forgemia.inra.fr/umr-astre/mapMCDA,True
@@ -853,7 +855,7 @@ https://github.com/1024pix/graviteeio-portal-ui,True
 https://github.com/1024pix/graviteeio-rest-api,True
 https://github.com/1024pix/heroku-buildpack-git-submodule,True
 https://github.com/1024pix/heroku-buildpack-telegraf,True
-https://github.com/1024pix/holodeck-dashboard,False
+https://github.com/1024pix/holodeck-dashboard,True
 https://github.com/1024pix/journee-recherche,True
 https://github.com/1024pix/json-api-crud-server,True
 https://github.com/1024pix/mail-broker,True
@@ -2884,6 +2886,7 @@ https://github.com/ambanum/OpenTermsArchive-snapshots,True
 https://github.com/ambanum/OpenTermsArchive-snapshots-tosback,True
 https://github.com/ambanum/OpenTermsArchive-stats,True
 https://github.com/ambanum/OpenTermsArchive-versions,True
+https://github.com/ambanum/OpenTermsArchive.org,False
 https://github.com/ambanum/ParisCall,True
 https://github.com/ambanum/TOSBack-CGUs-bridge,True
 https://github.com/ambanum/TwitterAccountsHistory,True
@@ -3177,7 +3180,7 @@ https://github.com/betagouv/itou-entreprise,True
 https://github.com/betagouv/itou-fdi,True
 https://github.com/betagouv/itou-gitbook,True
 https://github.com/betagouv/itou-landing,True
-https://github.com/betagouv/itou-pilotage,False
+https://github.com/betagouv/itou-pilotage,True
 https://github.com/betagouv/itou-support,True
 https://github.com/betagouv/itou-theme-discourse,True
 https://github.com/betagouv/itou_c4_python_api,True
@@ -5169,6 +5172,7 @@ https://github.com/neuroanatomy/FerretDiffusionTractTracingComparison,True
 https://github.com/neuroanatomy/GWPC,True
 https://github.com/neuroanatomy/GuerrillaPLI,True
 https://github.com/neuroanatomy/NeuroWebLab,True
+https://github.com/neuroanatomy/NeuroWebLab-app,False
 https://github.com/neuroanatomy/QCApp,True
 https://github.com/neuroanatomy/QCApp-Cb,True
 https://github.com/neuroanatomy/QCApp-vsub,True
@@ -6579,6 +6583,7 @@ https://gitlab.inria.fr/auctus/panda/velocity_qp,True
 https://gitlab.inria.fr/auctus/papers/setbasedrobotcapabilitiesestimation2020/code_public,True
 https://gitlab.inria.fr/aviz/paohvis,True
 https://gitlab.inria.fr/aviz/parcoursvis,True
+https://gitlab.inria.fr/azim/xapi-oulad,False
 https://gitlab.inria.fr/bar/website,True
 https://gitlab.inria.fr/bass-db/bss_eval,True
 https://gitlab.inria.fr/bass-db/bss_locate,True
@@ -7001,7 +7006,7 @@ https://gitlab.inria.fr/gazelle/test-content/pdqm-samples,True
 https://gitlab.inria.fr/gazelle/test-content/xsd,True
 https://gitlab.inria.fr/gazelle/test-content/xsl,True
 https://gitlab.inria.fr/gazelle/validator/FhirValidator,True
-https://gitlab.inria.fr/gazelle/validator/archetype/generated-validator,False
+https://gitlab.inria.fr/gazelle/validator/archetype/generated-validator,True
 https://gitlab.inria.fr/gazelle/validator/common/validation-ws,True
 https://gitlab.inria.fr/gazelle/validator/hl7templates/gocmodel-jar,False
 https://gitlab.inria.fr/gazelle/validator/hl7templates/hl7template-generator-jar,False
@@ -7205,6 +7210,7 @@ https://gitlab.inria.fr/local-implicit-schemes/supplementary-material-numerische
 https://gitlab.inria.fr/local-schemes/supplementary-sources,True
 https://gitlab.inria.fr/locolearn/public/docker_inria_wbc,True
 https://gitlab.inria.fr/locolearn/public/talos_description_rf,True
+https://gitlab.inria.fr/lola/data_prepare,False
 https://gitlab.inria.fr/magnet/anonymization_metrics,True
 https://gitlab.inria.fr/magnet/bias-in-nlp,True
 https://gitlab.inria.fr/magnet/gdn-lib,True
@@ -8233,6 +8239,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/omegalpes/omegalpes-web-back-end,Tr
 https://gricad-gitlab.univ-grenoble-alpes.fr/omegalpes/omegalpes-web-front-end,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/omegalpes/omegalpes_examples,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/omegalpes/omegalpes_notebooks,True
+https://gricad-gitlab.univ-grenoble-alpes.fr/ope/annual_report,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/pacific/codes/design_and_run_sem46_simulations_in_synthetic_models,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/pacific/publications/2020_Lavoue-et-al_SRL_supplemental-material,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/pagai/apron-clone,True
