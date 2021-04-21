@@ -3167,6 +3167,7 @@ https://github.com/betagouv/helpy,True
 https://github.com/betagouv/heroku-buildpack-ruby,True
 https://github.com/betagouv/histologe,True
 https://github.com/betagouv/holodeck-dashboard,True
+https://github.com/betagouv/holodeck-dashboard-old,False
 https://github.com/betagouv/i18nliner-js,True
 https://github.com/betagouv/ilos,True
 https://github.com/betagouv/impact-tests,True
@@ -5541,7 +5542,7 @@ https://github.com/plantnet/hapi-rate-limit,True
 https://github.com/plantnet/my.plantnet,True
 https://github.com/plantnet/node-couchdb,True
 https://github.com/plantnet/node-datamanager,True
-https://github.com/plantnet/plantnet-R-client,False
+https://github.com/plantnet/plantnet-R-client,True
 https://github.com/plantnet/plantnet-datamanager,True
 https://github.com/plantnet/plantnet-publish,True
 https://github.com/polewebmaedi/MAEDI-Capitales,True
@@ -6552,6 +6553,7 @@ https://gitlab.inria.fr/almanach/time-us/TEI-Boilerplate,True
 https://gitlab.inria.fr/almanach/time-us/TEITransformations,True
 https://gitlab.inria.fr/almanach/time-us/Transkribus-MassOCR,True
 https://gitlab.inria.fr/almanach/time-us/corpora-prep,True
+https://gitlab.inria.fr/almanach/time-us/corpus-prudhommes_lyon,False
 https://gitlab.inria.fr/almanach/time-us/corpus_texte,True
 https://gitlab.inria.fr/almanach/time-us/docs,True
 https://gitlab.inria.fr/almanach/time-us/kraken-models,True
@@ -6954,8 +6956,22 @@ https://gitlab.inria.fr/gazelle/applications/test-execution/simulator/pdqm-conne
 https://gitlab.inria.fr/gazelle/applications/test-execution/simulator/svs-simulator,True
 https://gitlab.inria.fr/gazelle/applications/test-execution/validator/EVSClient,True
 https://gitlab.inria.fr/gazelle/applications/test-execution/validator/SchematronValidator,True
+https://gitlab.inria.fr/gazelle/applications/test-execution/validator/archetypes/generated-validator,False
 https://gitlab.inria.fr/gazelle/applications/test-execution/validator/ch_iua-validator-service,True
 https://gitlab.inria.fr/gazelle/applications/test-execution/validator/gazellehl7v2validator,True
+https://gitlab.inria.fr/gazelle/applications/test-execution/validator/hl7templates/gocmodel-jar,False
+https://gitlab.inria.fr/gazelle/applications/test-execution/validator/hl7templates/hl7template-generator-jar,False
+https://gitlab.inria.fr/gazelle/applications/test-execution/validator/hl7templates/hl7templates-api,False
+https://gitlab.inria.fr/gazelle/applications/test-execution/validator/hl7templates/hl7templates-model-jar,False
+https://gitlab.inria.fr/gazelle/applications/test-execution/validator/hl7templates/hl7templates-packager-jar,False
+https://gitlab.inria.fr/gazelle/applications/test-execution/validator/models/cda-model,False
+https://gitlab.inria.fr/gazelle/applications/test-execution/validator/models/cdaepsos-model,False
+https://gitlab.inria.fr/gazelle/applications/test-execution/validator/models/common-models,False
+https://gitlab.inria.fr/gazelle/applications/test-execution/validator/models/datatypes-model,False
+https://gitlab.inria.fr/gazelle/applications/test-execution/validator/models/infr-model,False
+https://gitlab.inria.fr/gazelle/applications/test-execution/validator/models/model-resources,False
+https://gitlab.inria.fr/gazelle/applications/test-execution/validator/models/nblock-model,False
+https://gitlab.inria.fr/gazelle/applications/test-execution/validator/models/voc-model,False
 https://gitlab.inria.fr/gazelle/documentation/gazelle-user-documentation,True
 https://gitlab.inria.fr/gazelle/external-library,True
 https://gitlab.inria.fr/gazelle/framework/logger,True
@@ -7139,6 +7155,7 @@ https://gitlab.inria.fr/igrida/gvirt-factory,True
 https://gitlab.inria.fr/igrida/kubigrida-charts,True
 https://gitlab.inria.fr/igrida/kubigrida-docker,True
 https://gitlab.inria.fr/igrida/prometheus-oar-exporter,True
+https://gitlab.inria.fr/igrida/tutorials/tuto1,False
 https://gitlab.inria.fr/igrida/userdocs,True
 https://gitlab.inria.fr/ink-interaction/list-widgets,True
 https://gitlab.inria.fr/inria-ci/ci-scripts,True
