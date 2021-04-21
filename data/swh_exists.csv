@@ -107,7 +107,7 @@ https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.gran
 https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/web-portal/components/indexers/metadata-and-data,True
 https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/web-portal/components/middlewares/legacy-auth,True
 https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/web-portal/components/miscellaneous/maintenance-page,True
-https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/web-portal/components/off-the-shelf-apps/rendertron,False
+https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/web-portal/components/off-the-shelf-apps/rendertron,True
 https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/web-portal/components/proxies/authz-and-cache-for-es,True
 https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/web-portal/components/proxies/query,True
 https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/web-portal/components/services/authentication,True
@@ -5522,7 +5522,7 @@ https://github.com/pass-culture/pass-culture-browser,True
 https://github.com/pass-culture/pass-culture-doc,True
 https://github.com/pass-culture/pass-culture-homepage,True
 https://github.com/pass-culture/pass-culture-main,True
-https://github.com/pass-culture/pass-culture-native-static,False
+https://github.com/pass-culture/pass-culture-native-static,True
 https://github.com/pass-culture/pass-culture-pro,True
 https://github.com/pass-culture/pass-culture-web-analytics,True
 https://github.com/pass-culture/pc-maintenance,True
@@ -6127,7 +6127,7 @@ https://gitlab.com/rdes_dreal/propre.itdd,True
 https://gitlab.com/rdes_dreal/propre.presentation,True
 https://gitlab.com/rdes_dreal/propre.presention.rencontresr,True
 https://gitlab.com/rdes_dreal/propre.rpls,True
-https://gitlab.com/rdes_dreal/publication_guide,False
+https://gitlab.com/rdes_dreal/publication_guide,True
 https://gitlab.com/rdes_dreal/sitadel_dataviz,True
 https://gitlab.huma-num.fr/atelier-donnees/depot,True
 https://gitlab.huma-num.fr/cbma/cbma-epigraphie-provence,True
@@ -7015,7 +7015,7 @@ https://gitlab.inria.fr/gazelle/validator/models/datatypes-model,False
 https://gitlab.inria.fr/gazelle/validator/models/infr-model,False
 https://gitlab.inria.fr/gazelle/validator/models/model-resources,False
 https://gitlab.inria.fr/gazelle/validator/models/nblock-model,False
-https://gitlab.inria.fr/gazelle/validator/models/voc-model,False
+https://gitlab.inria.fr/gazelle/validator/models/voc-model,True
 https://gitlab.inria.fr/gbono/coop-ma-pg,True
 https://gitlab.inria.fr/gbono/sulfr,True
 https://gitlab.inria.fr/gecos/gecos-arith,True
