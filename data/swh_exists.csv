@@ -6622,6 +6622,7 @@ https://gitlab.inria.fr/bioimage-it/bioimagepy-tutorial,True
 https://gitlab.inria.fr/bioimage-it/fiji-docker,True
 https://gitlab.inria.fr/bioimage-it/fiji-tools,True
 https://gitlab.inria.fr/bioimage-it/htesting-tools,True
+https://gitlab.inria.fr/bioimage-it/noise2void,False
 https://gitlab.inria.fr/bioimage-it/package,True
 https://gitlab.inria.fr/bioimage-it/pycudadecon,True
 https://gitlab.inria.fr/bioimage-it/sampletool,True
@@ -6964,7 +6965,7 @@ https://gitlab.inria.fr/gazelle/applications/test-execution/validator/hl7templat
 https://gitlab.inria.fr/gazelle/applications/test-execution/validator/hl7templates/hl7templates-api,False
 https://gitlab.inria.fr/gazelle/applications/test-execution/validator/hl7templates/hl7templates-model-jar,False
 https://gitlab.inria.fr/gazelle/applications/test-execution/validator/hl7templates/hl7templates-packager-jar,False
-https://gitlab.inria.fr/gazelle/applications/test-execution/validator/models/cda-model,False
+https://gitlab.inria.fr/gazelle/applications/test-execution/validator/models/cda-model,True
 https://gitlab.inria.fr/gazelle/applications/test-execution/validator/models/cdaepsos-model,False
 https://gitlab.inria.fr/gazelle/applications/test-execution/validator/models/common-models,False
 https://gitlab.inria.fr/gazelle/applications/test-execution/validator/models/datatypes-model,False
@@ -7557,7 +7558,7 @@ https://gitlab.inria.fr/siteadmin/pages-example,True
 https://gitlab.inria.fr/siteadmin/publictest,True
 https://gitlab.inria.fr/skeletons/Coq,True
 https://gitlab.inria.fr/skeletons/jskel,True
-https://gitlab.inria.fr/skeletons/ndam,False
+https://gitlab.inria.fr/skeletons/ndam,True
 https://gitlab.inria.fr/skeletons/necro,True
 https://gitlab.inria.fr/skeletons/necro-coq,True
 https://gitlab.inria.fr/skeletons/necro-debug,True
