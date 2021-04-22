@@ -2056,6 +2056,7 @@ https://github.com/InseeFrLab/onyxia-ui,True
 https://github.com/InseeFrLab/predicat,True
 https://github.com/InseeFrLab/product-labelling,True
 https://github.com/InseeFrLab/rapidsai,True
+https://github.com/InseeFrLab/redash,False
 https://github.com/InseeFrLab/rjdworkspace,True
 https://github.com/InseeFrLab/rstudio,True
 https://github.com/InseeFrLab/rstudio-gpu,True
@@ -6622,7 +6623,7 @@ https://gitlab.inria.fr/bioimage-it/bioimagepy-tutorial,True
 https://gitlab.inria.fr/bioimage-it/fiji-docker,True
 https://gitlab.inria.fr/bioimage-it/fiji-tools,True
 https://gitlab.inria.fr/bioimage-it/htesting-tools,True
-https://gitlab.inria.fr/bioimage-it/noise2void,False
+https://gitlab.inria.fr/bioimage-it/noise2void,True
 https://gitlab.inria.fr/bioimage-it/package,True
 https://gitlab.inria.fr/bioimage-it/pycudadecon,True
 https://gitlab.inria.fr/bioimage-it/sampletool,True
@@ -7586,6 +7587,7 @@ https://gitlab.inria.fr/solverstack/pastix,True
 https://gitlab.inria.fr/solverstack/spack-repo,True
 https://gitlab.inria.fr/solverstack/spm,True
 https://gitlab.inria.fr/solverstack/tabakov,True
+https://gitlab.inria.fr/solverstack/test_fembem,False
 https://gitlab.inria.fr/solverstack/vite,True
 https://gitlab.inria.fr/source_code/aes-cryptanalysis-cp-xor-2019,True
 https://gitlab.inria.fr/source_code/ai_paper_code,True
