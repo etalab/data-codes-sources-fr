@@ -18,6 +18,7 @@ https://dci-gitlab.cines.fr/dad/pastis-vitamui,True
 https://dci-gitlab.cines.fr/dad/sip-builder-parent,True
 https://dci-gitlab.cines.fr/dad/smartapi,True
 https://dci-gitlab.cines.fr/dad/test-sphinx,True
+https://dci-gitlab.cines.fr/dad/test-synchronize-vitam,False
 https://dci-gitlab.cines.fr/dad/vitam-data-test,True
 https://dci-gitlab.cines.fr/dad/vitam-dwatcher,True
 https://dci-gitlab.cines.fr/dad/vitam-rest-api,True
@@ -425,6 +426,7 @@ https://forgemia.inra.fr/irhs-bioinfo/i-fungi,True
 https://forgemia.inra.fr/lbe/opensilexlbe/ontologielbe,True
 https://forgemia.inra.fr/lbe/opensilexlbe/opensilex-dev,True
 https://forgemia.inra.fr/metagenopolis/eskrim,True
+https://forgemia.inra.fr/metagenopolis/meteor,False
 https://forgemia.inra.fr/metagenopolis/trim_fastq,True
 https://forgemia.inra.fr/metexplore/MetExploreViz,True
 https://forgemia.inra.fr/metexplore/cbm/dexom,True
@@ -2047,6 +2049,7 @@ https://github.com/InseeFrLab/keycloakify-demo-app,True
 https://github.com/InseeFrLab/lockdown-maps-R,True
 https://github.com/InseeFrLab/manipulation-donnees-carroyees,True
 https://github.com/InseeFrLab/marathon-to-kubernetes,True
+https://github.com/InseeFrLab/mlflow,False
 https://github.com/InseeFrLab/onyxia,True
 https://github.com/InseeFrLab/onyxia-api,True
 https://github.com/InseeFrLab/onyxia-cli,True
@@ -3377,7 +3380,7 @@ https://github.com/betagouv/trait-d-union,True
 https://github.com/betagouv/traitdunion-landing-pages,True
 https://github.com/betagouv/traitdunion-metabase,True
 https://github.com/betagouv/transport-base-nationale-covoiturage,True
-https://github.com/betagouv/tutorat,False
+https://github.com/betagouv/tutorat,True
 https://github.com/betagouv/urbanvitaliz,True
 https://github.com/betagouv/valberg.comobi.fr,True
 https://github.com/betagouv/verif.site,True
@@ -5175,6 +5178,7 @@ https://github.com/neuroanatomy/GWPC,True
 https://github.com/neuroanatomy/GuerrillaPLI,True
 https://github.com/neuroanatomy/NeuroWebLab,True
 https://github.com/neuroanatomy/NeuroWebLab-app,False
+https://github.com/neuroanatomy/NeuroWebLab-server,False
 https://github.com/neuroanatomy/QCApp,True
 https://github.com/neuroanatomy/QCApp-Cb,True
 https://github.com/neuroanatomy/QCApp-vsub,True
@@ -6957,6 +6961,7 @@ https://gitlab.inria.fr/gazelle/applications/test-execution/simulator/patient-re
 https://gitlab.inria.fr/gazelle/applications/test-execution/simulator/pdqm-connector,True
 https://gitlab.inria.fr/gazelle/applications/test-execution/simulator/svs-simulator,True
 https://gitlab.inria.fr/gazelle/applications/test-execution/validator/EVSClient,True
+https://gitlab.inria.fr/gazelle/applications/test-execution/validator/FhirValidator,False
 https://gitlab.inria.fr/gazelle/applications/test-execution/validator/SchematronValidator,True
 https://gitlab.inria.fr/gazelle/applications/test-execution/validator/archetypes/generated-validator,False
 https://gitlab.inria.fr/gazelle/applications/test-execution/validator/ch_iua-validator-service,True
@@ -6980,6 +6985,7 @@ https://gitlab.inria.fr/gazelle/framework/logger,True
 https://gitlab.inria.fr/gazelle/framework/preferences,True
 https://gitlab.inria.fr/gazelle/library/HL7Common,True
 https://gitlab.inria.fr/gazelle/library/annotations,True
+https://gitlab.inria.fr/gazelle/library/archetypes/generated-validator,True
 https://gitlab.inria.fr/gazelle/library/archetypes/project-archetype,True
 https://gitlab.inria.fr/gazelle/library/assets,True
 https://gitlab.inria.fr/gazelle/library/auditMessage-validator-api,True
@@ -6990,9 +6996,22 @@ https://gitlab.inria.fr/gazelle/library/gazelle-assertion-coverage-provider,True
 https://gitlab.inria.fr/gazelle/library/gazelle-assets,True
 https://gitlab.inria.fr/gazelle/library/gazelle-preferences,True
 https://gitlab.inria.fr/gazelle/library/gazelle-tools,True
+https://gitlab.inria.fr/gazelle/library/hl7templates/gocmodel-jar,True
+https://gitlab.inria.fr/gazelle/library/hl7templates/hl7template-generator-jar,False
+https://gitlab.inria.fr/gazelle/library/hl7templates/hl7templates-api,False
+https://gitlab.inria.fr/gazelle/library/hl7templates/hl7templates-model-jar,False
+https://gitlab.inria.fr/gazelle/library/hl7templates/hl7templates-packager-jar,False
 https://gitlab.inria.fr/gazelle/library/home,True
 https://gitlab.inria.fr/gazelle/library/hql,True
 https://gitlab.inria.fr/gazelle/library/message-content-analyzer,True
+https://gitlab.inria.fr/gazelle/library/models/cda-model,True
+https://gitlab.inria.fr/gazelle/library/models/cdaepsos-model,True
+https://gitlab.inria.fr/gazelle/library/models/common-models,True
+https://gitlab.inria.fr/gazelle/library/models/datatypes-model,True
+https://gitlab.inria.fr/gazelle/library/models/infr-model,True
+https://gitlab.inria.fr/gazelle/library/models/model-resources,True
+https://gitlab.inria.fr/gazelle/library/models/nblock-model,True
+https://gitlab.inria.fr/gazelle/library/models/voc-model,True
 https://gitlab.inria.fr/gazelle/library/preference,True
 https://gitlab.inria.fr/gazelle/library/tool,True
 https://gitlab.inria.fr/gazelle/library/ui-service,True
@@ -7443,6 +7462,7 @@ https://gitlab.inria.fr/prosecco/vericrypt-cryptoverif,True
 https://gitlab.inria.fr/pvignet/cadbiom,True
 https://gitlab.inria.fr/pvignet/pycryptosat,True
 https://gitlab.inria.fr/pycomodo/pycomodo,True
+https://gitlab.inria.fr/qparse/paper-wtt,False
 https://gitlab.inria.fr/qparse/qparselib,True
 https://gitlab.inria.fr/rainbow-intervals/ros_interval,True
 https://gitlab.inria.fr/realopt/TemporalKnapsack,True
@@ -8260,7 +8280,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/omegalpes/omegalpes-web-back-end,Tr
 https://gricad-gitlab.univ-grenoble-alpes.fr/omegalpes/omegalpes-web-front-end,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/omegalpes/omegalpes_examples,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/omegalpes/omegalpes_notebooks,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/ope/annual_report,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/ope/annual_report,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/pacific/codes/design_and_run_sem46_simulations_in_synthetic_models,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/pacific/publications/2020_Lavoue-et-al_SRL_supplemental-material,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/pagai/apron-clone,True
