@@ -2886,7 +2886,7 @@ https://github.com/ambanum/OpenTermsArchive-snapshots,True
 https://github.com/ambanum/OpenTermsArchive-snapshots-tosback,True
 https://github.com/ambanum/OpenTermsArchive-stats,True
 https://github.com/ambanum/OpenTermsArchive-versions,True
-https://github.com/ambanum/OpenTermsArchive.org,False
+https://github.com/ambanum/OpenTermsArchive.org,True
 https://github.com/ambanum/ParisCall,True
 https://github.com/ambanum/TOSBack-CGUs-bridge,True
 https://github.com/ambanum/TwitterAccountsHistory,True
@@ -7728,6 +7728,7 @@ https://gitlab.irstea.fr/diades/diades.atlas,True
 https://gitlab.irstea.fr/diades/test,True
 https://gitlab.irstea.fr/emax/bddfontblanche,True
 https://gitlab.irstea.fr/ext/insitu/trios,True
+https://gitlab.irstea.fr/geau-technical/geau-utility,False
 https://gitlab.irstea.fr/geopat/geopat,True
 https://gitlab.irstea.fr/hru-delin-dev/hru-delin,True
 https://gitlab.irstea.fr/hru-delin-dev/hru-delin-qgis,True
