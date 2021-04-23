@@ -465,7 +465,7 @@ https://forgemia.inra.fr/pappso/xtpcpp,True
 https://forgemia.inra.fr/pegase/pegase-fair,True
 https://forgemia.inra.fr/phenotic/publique/ordinalclustering,True
 https://forgemia.inra.fr/public-pgba/is900-rflp-in-silico,True
-https://forgemia.inra.fr/public-pgba/submission_ena,False
+https://forgemia.inra.fr/public-pgba/submission_ena,True
 https://forgemia.inra.fr/record-open-archives/rec-crash,True
 https://forgemia.inra.fr/record-open-archives/recmoustics,True
 https://forgemia.inra.fr/record/AgFlow,True
@@ -6407,6 +6407,11 @@ https://gitlab.inria.fr/Simbiot/mecsyco/mecsycocpp,True
 https://gitlab.inria.fr/Simbiot/mecsyco/mecsycodsl,True
 https://gitlab.inria.fr/Simbiot/mecsyco/mecsycojava,True
 https://gitlab.inria.fr/Simbiot/mecsyco/mecsycoscholar,True
+https://gitlab.inria.fr/Simbiot/public/chairetie/pinchgui,False
+https://gitlab.inria.fr/Simbiot/public/utilities/drone-autonome,False
+https://gitlab.inria.fr/Simbiot/public/utilities/openvr_ros_docker,False
+https://gitlab.inria.fr/Simbiot/public/utilities/ros-optitrack-basics,False
+https://gitlab.inria.fr/Simbiot/public/utilities/ros-remote,False
 https://gitlab.inria.fr/SketchedLearning/fasttransformsc,True
 https://gitlab.inria.fr/SketchedLearning/spm-notebook,True
 https://gitlab.inria.fr/Spirals/k8sapimodeller,True
@@ -7462,7 +7467,7 @@ https://gitlab.inria.fr/prosecco/vericrypt-cryptoverif,True
 https://gitlab.inria.fr/pvignet/cadbiom,True
 https://gitlab.inria.fr/pvignet/pycryptosat,True
 https://gitlab.inria.fr/pycomodo/pycomodo,True
-https://gitlab.inria.fr/qparse/paper-wtt,False
+https://gitlab.inria.fr/qparse/paper-wtt,True
 https://gitlab.inria.fr/qparse/qparselib,True
 https://gitlab.inria.fr/rainbow-intervals/ros_interval,True
 https://gitlab.inria.fr/realopt/TemporalKnapsack,True
@@ -7594,6 +7599,7 @@ https://gitlab.inria.fr/skelton/skelton2,True
 https://gitlab.inria.fr/sollya/sollya,True
 https://gitlab.inria.fr/solverstack/ScalFMM,True
 https://gitlab.inria.fr/solverstack/chameleon,True
+https://gitlab.inria.fr/solverstack/distrib,False
 https://gitlab.inria.fr/solverstack/fabulous,True
 https://gitlab.inria.fr/solverstack/genfem,True
 https://gitlab.inria.fr/solverstack/h2p3s,True
