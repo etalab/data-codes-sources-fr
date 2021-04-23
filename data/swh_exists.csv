@@ -444,7 +444,7 @@ https://forgemia.inra.fr/metexplore/tutorialmet4j,True
 https://forgemia.inra.fr/migale/affiliationexplorer,True
 https://forgemia.inra.fr/migale/dubii_magali_monnoye,True
 https://forgemia.inra.fr/migale/formations,True
-https://forgemia.inra.fr/most/ib-rs,False
+https://forgemia.inra.fr/most/ib-rs,True
 https://forgemia.inra.fr/olivier.bonnefon/mse,True
 https://forgemia.inra.fr/pappso/beads,True
 https://forgemia.inra.fr/pappso/custompwiz,True
@@ -3206,7 +3206,7 @@ https://github.com/betagouv/ludwig-api,True
 https://github.com/betagouv/ludwig-ui,True
 https://github.com/betagouv/ma-cantine,True
 https://github.com/betagouv/macantine,True
-https://github.com/betagouv/mailjet-gem,False
+https://github.com/betagouv/mailjet-gem,True
 https://github.com/betagouv/mas,True
 https://github.com/betagouv/matomo,True
 https://github.com/betagouv/matomo-beta,True
@@ -6961,7 +6961,7 @@ https://gitlab.inria.fr/gazelle/applications/test-execution/simulator/patient-re
 https://gitlab.inria.fr/gazelle/applications/test-execution/simulator/pdqm-connector,True
 https://gitlab.inria.fr/gazelle/applications/test-execution/simulator/svs-simulator,True
 https://gitlab.inria.fr/gazelle/applications/test-execution/validator/EVSClient,True
-https://gitlab.inria.fr/gazelle/applications/test-execution/validator/FhirValidator,False
+https://gitlab.inria.fr/gazelle/applications/test-execution/validator/FhirValidator,True
 https://gitlab.inria.fr/gazelle/applications/test-execution/validator/SchematronValidator,True
 https://gitlab.inria.fr/gazelle/applications/test-execution/validator/archetypes/generated-validator,False
 https://gitlab.inria.fr/gazelle/applications/test-execution/validator/ch_iua-validator-service,True
@@ -7607,7 +7607,7 @@ https://gitlab.inria.fr/solverstack/pastix,True
 https://gitlab.inria.fr/solverstack/spack-repo,True
 https://gitlab.inria.fr/solverstack/spm,True
 https://gitlab.inria.fr/solverstack/tabakov,True
-https://gitlab.inria.fr/solverstack/test_fembem,False
+https://gitlab.inria.fr/solverstack/test_fembem,True
 https://gitlab.inria.fr/solverstack/vite,True
 https://gitlab.inria.fr/source_code/aes-cryptanalysis-cp-xor-2019,True
 https://gitlab.inria.fr/source_code/ai_paper_code,True
