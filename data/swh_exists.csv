@@ -503,7 +503,7 @@ https://forgemia.inra.fr/umr-astre/asf-challenge,True
 https://forgemia.inra.fr/umr-astre/asf-speed,True
 https://forgemia.inra.fr/umr-astre/cirad,True
 https://forgemia.inra.fr/umr-astre/covid19-mortality,True
-https://forgemia.inra.fr/umr-astre/difuse,False
+https://forgemia.inra.fr/umr-astre/difuse,True
 https://forgemia.inra.fr/umr-astre/epidmap,True
 https://forgemia.inra.fr/umr-astre/geonetwork,True
 https://forgemia.inra.fr/umr-astre/mapMCDA,True
@@ -3171,7 +3171,7 @@ https://github.com/betagouv/helpy,True
 https://github.com/betagouv/heroku-buildpack-ruby,True
 https://github.com/betagouv/histologe,True
 https://github.com/betagouv/holodeck-dashboard,True
-https://github.com/betagouv/holodeck-dashboard-old,False
+https://github.com/betagouv/holodeck-dashboard-old,True
 https://github.com/betagouv/i18nliner-js,True
 https://github.com/betagouv/ilos,True
 https://github.com/betagouv/impact-tests,True
@@ -5177,7 +5177,7 @@ https://github.com/neuroanatomy/FerretDiffusionTractTracingComparison,True
 https://github.com/neuroanatomy/GWPC,True
 https://github.com/neuroanatomy/GuerrillaPLI,True
 https://github.com/neuroanatomy/NeuroWebLab,True
-https://github.com/neuroanatomy/NeuroWebLab-app,False
+https://github.com/neuroanatomy/NeuroWebLab-app,True
 https://github.com/neuroanatomy/NeuroWebLab-server,False
 https://github.com/neuroanatomy/QCApp,True
 https://github.com/neuroanatomy/QCApp-Cb,True
@@ -6595,7 +6595,7 @@ https://gitlab.inria.fr/auctus/panda/velocity_qp,True
 https://gitlab.inria.fr/auctus/papers/setbasedrobotcapabilitiesestimation2020/code_public,True
 https://gitlab.inria.fr/aviz/paohvis,True
 https://gitlab.inria.fr/aviz/parcoursvis,True
-https://gitlab.inria.fr/azim/xapi-oulad,False
+https://gitlab.inria.fr/azim/xapi-oulad,True
 https://gitlab.inria.fr/bar/website,True
 https://gitlab.inria.fr/bass-db/bss_eval,True
 https://gitlab.inria.fr/bass-db/bss_locate,True
@@ -7598,6 +7598,7 @@ https://gitlab.inria.fr/skelton/pyskelton,True
 https://gitlab.inria.fr/skelton/skelton2,True
 https://gitlab.inria.fr/sollya/sollya,True
 https://gitlab.inria.fr/solverstack/ScalFMM,True
+https://gitlab.inria.fr/solverstack/brew-repo,False
 https://gitlab.inria.fr/solverstack/chameleon,True
 https://gitlab.inria.fr/solverstack/distrib,False
 https://gitlab.inria.fr/solverstack/fabulous,True
