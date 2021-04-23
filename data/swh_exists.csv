@@ -6408,7 +6408,7 @@ https://gitlab.inria.fr/Simbiot/mecsyco/mecsycodsl,True
 https://gitlab.inria.fr/Simbiot/mecsyco/mecsycojava,True
 https://gitlab.inria.fr/Simbiot/mecsyco/mecsycoscholar,True
 https://gitlab.inria.fr/Simbiot/public/chairetie/pinchgui,False
-https://gitlab.inria.fr/Simbiot/public/utilities/drone-autonome,False
+https://gitlab.inria.fr/Simbiot/public/utilities/drone-autonome,True
 https://gitlab.inria.fr/Simbiot/public/utilities/openvr_ros_docker,False
 https://gitlab.inria.fr/Simbiot/public/utilities/ros-optitrack-basics,False
 https://gitlab.inria.fr/Simbiot/public/utilities/ros-remote,False
@@ -7005,7 +7005,7 @@ https://gitlab.inria.fr/gazelle/library/hl7templates/gocmodel-jar,True
 https://gitlab.inria.fr/gazelle/library/hl7templates/hl7template-generator-jar,False
 https://gitlab.inria.fr/gazelle/library/hl7templates/hl7templates-api,False
 https://gitlab.inria.fr/gazelle/library/hl7templates/hl7templates-model-jar,False
-https://gitlab.inria.fr/gazelle/library/hl7templates/hl7templates-packager-jar,False
+https://gitlab.inria.fr/gazelle/library/hl7templates/hl7templates-packager-jar,True
 https://gitlab.inria.fr/gazelle/library/home,True
 https://gitlab.inria.fr/gazelle/library/hql,True
 https://gitlab.inria.fr/gazelle/library/message-content-analyzer,True
