@@ -7131,7 +7131,7 @@ https://gitlab.inria.fr/grid5000/ceph5k,True
 https://gitlab.inria.fr/grid5000/environments-recipes,True
 https://gitlab.inria.fr/grid5000/exhibitv2,True
 https://gitlab.inria.fr/grid5000/g5k-api,True
-https://gitlab.inria.fr/grid5000/g5k-armor,False
+https://gitlab.inria.fr/grid5000/g5k-armor,True
 https://gitlab.inria.fr/grid5000/g5k-cheat-sheet,True
 https://gitlab.inria.fr/grid5000/g5k-checks,True
 https://gitlab.inria.fr/grid5000/g5k-postinstall,True
