@@ -7005,7 +7005,7 @@ https://gitlab.inria.fr/gazelle/library/gazelle-tools,True
 https://gitlab.inria.fr/gazelle/library/hl7templates/gocmodel-jar,True
 https://gitlab.inria.fr/gazelle/library/hl7templates/hl7template-generator-jar,False
 https://gitlab.inria.fr/gazelle/library/hl7templates/hl7templates-api,False
-https://gitlab.inria.fr/gazelle/library/hl7templates/hl7templates-model-jar,False
+https://gitlab.inria.fr/gazelle/library/hl7templates/hl7templates-model-jar,True
 https://gitlab.inria.fr/gazelle/library/hl7templates/hl7templates-packager-jar,True
 https://gitlab.inria.fr/gazelle/library/home,True
 https://gitlab.inria.fr/gazelle/library/hql,True
@@ -7763,8 +7763,10 @@ https://gitlab.irstea.fr/geopat/geopat,True
 https://gitlab.irstea.fr/hru-delin-dev/hru-delin,True
 https://gitlab.irstea.fr/hru-delin-dev/hru-delin-qgis,True
 https://gitlab.irstea.fr/in-wop/airGRiwrm,True
+https://gitlab.irstea.fr/in-wop/irmara,False
 https://gitlab.irstea.fr/in-wop/multivgest,True
 https://gitlab.irstea.fr/in-wop/rvgest,True
+https://gitlab.irstea.fr/in-wop/sgldatagrabber,False
 https://gitlab.irstea.fr/in-wop/vgest,True
 https://gitlab.irstea.fr/irrig/public,True
 https://gitlab.irstea.fr/irstea-ros/ads1115_driver,True
