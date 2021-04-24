@@ -18,7 +18,7 @@ https://dci-gitlab.cines.fr/dad/pastis-vitamui,True
 https://dci-gitlab.cines.fr/dad/sip-builder-parent,True
 https://dci-gitlab.cines.fr/dad/smartapi,True
 https://dci-gitlab.cines.fr/dad/test-sphinx,True
-https://dci-gitlab.cines.fr/dad/test-synchronize-vitam,False
+https://dci-gitlab.cines.fr/dad/test-synchronize-vitam,True
 https://dci-gitlab.cines.fr/dad/vitam-data-test,True
 https://dci-gitlab.cines.fr/dad/vitam-dwatcher,True
 https://dci-gitlab.cines.fr/dad/vitam-rest-api,True
@@ -133,7 +133,7 @@ https://forge.univ-lyon1.fr/albystructi/oop,True
 https://forge.univ-lyon1.fr/aml-lyon1/actionrobot,True
 https://forge.univ-lyon1.fr/aml-lyon1/campusdulibre,True
 https://forge.univ-lyon1.fr/bd-pedago/bd-pedago,True
-https://forge.univ-lyon1.fr/bdw_1/projet,False
+https://forge.univ-lyon1.fr/bdw_1/projet,True
 https://forge.univ-lyon1.fr/bpn/moduleimage,True
 https://forge.univ-lyon1.fr/bpn/projet,True
 https://forge.univ-lyon1.fr/cannes-cpoa/accommodation-management,True
@@ -3298,6 +3298,7 @@ https://github.com/betagouv/peps-app,True
 https://github.com/betagouv/pia-back,True
 https://github.com/betagouv/pia-docker,True
 https://github.com/betagouv/pia-paas,True
+https://github.com/betagouv/pitchbox,False
 https://github.com/betagouv/pix,True
 https://github.com/betagouv/place-des-entreprises,True
 https://github.com/betagouv/place-emploi-public-api,True
@@ -4566,7 +4567,7 @@ https://github.com/incubateur-territoires/incubateur-directus,True
 https://github.com/incubateur-territoires/incubateur-strapi,True
 https://github.com/incubateur-territoires/incubateur.anct.gouv.fr,True
 https://github.com/incubateur-territoires/osp-app,True
-https://github.com/incubateur-territoires/outline,False
+https://github.com/incubateur-territoires/outline,True
 https://github.com/incubateur-territoires/ressources,True
 https://github.com/incubateur-territoires/territoires.store,True
 https://github.com/incubateur-territoires/tutoriel-communs,True
@@ -6563,7 +6564,7 @@ https://gitlab.inria.fr/almanach/time-us/TEI-Boilerplate,True
 https://gitlab.inria.fr/almanach/time-us/TEITransformations,True
 https://gitlab.inria.fr/almanach/time-us/Transkribus-MassOCR,True
 https://gitlab.inria.fr/almanach/time-us/corpora-prep,True
-https://gitlab.inria.fr/almanach/time-us/corpus-prudhommes_lyon,False
+https://gitlab.inria.fr/almanach/time-us/corpus-prudhommes_lyon,True
 https://gitlab.inria.fr/almanach/time-us/corpus_texte,True
 https://gitlab.inria.fr/almanach/time-us/docs,True
 https://gitlab.inria.fr/almanach/time-us/kraken-models,True
