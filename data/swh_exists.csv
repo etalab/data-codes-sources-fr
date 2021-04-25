@@ -3072,6 +3072,7 @@ https://github.com/betagouv/bourses,True
 https://github.com/betagouv/boussole,True
 https://github.com/betagouv/budget,True
 https://github.com/betagouv/calcul-co2-inverse,True
+https://github.com/betagouv/calendso,False
 https://github.com/betagouv/ccas,True
 https://github.com/betagouv/cerfa-form-filler,True
 https://github.com/betagouv/chatwoot,True
@@ -3212,6 +3213,7 @@ https://github.com/betagouv/matomo,True
 https://github.com/betagouv/matomo-beta,True
 https://github.com/betagouv/matomo-scalingo-deploy,True
 https://github.com/betagouv/mattermost-buildpack,True
+https://github.com/betagouv/mattermost-scalingo,False
 https://github.com/betagouv/mdph,True
 https://github.com/betagouv/mdph-evaluation,True
 https://github.com/betagouv/mdph-geva-etl,True
@@ -6027,6 +6029,7 @@ https://gitlab.com/cortext/ANSES,True
 https://gitlab.com/cortext/PAM-System,False
 https://gitlab.com/cortext/agroecology-exploration/intershipproject,True
 https://gitlab.com/cortext/cib-database,True
+https://gitlab.com/cortext/cortext-methods/cortextlib,False
 https://gitlab.com/cortext/cortext-methods/sashimi,True
 https://gitlab.com/cortext/cortext-pub,True
 https://gitlab.com/cortext/patstat,True
@@ -6411,7 +6414,7 @@ https://gitlab.inria.fr/Simbiot/mecsyco/mecsycoscholar,True
 https://gitlab.inria.fr/Simbiot/public/chairetie/pinchgui,False
 https://gitlab.inria.fr/Simbiot/public/utilities/drone-autonome,True
 https://gitlab.inria.fr/Simbiot/public/utilities/openvr_ros_docker,False
-https://gitlab.inria.fr/Simbiot/public/utilities/ros-optitrack-basics,False
+https://gitlab.inria.fr/Simbiot/public/utilities/ros-optitrack-basics,True
 https://gitlab.inria.fr/Simbiot/public/utilities/ros-remote,True
 https://gitlab.inria.fr/SketchedLearning/fasttransformsc,True
 https://gitlab.inria.fr/SketchedLearning/spm-notebook,True
@@ -7004,7 +7007,7 @@ https://gitlab.inria.fr/gazelle/library/gazelle-preferences,True
 https://gitlab.inria.fr/gazelle/library/gazelle-tools,True
 https://gitlab.inria.fr/gazelle/library/hl7templates/gocmodel-jar,True
 https://gitlab.inria.fr/gazelle/library/hl7templates/hl7template-generator-jar,False
-https://gitlab.inria.fr/gazelle/library/hl7templates/hl7templates-api,False
+https://gitlab.inria.fr/gazelle/library/hl7templates/hl7templates-api,True
 https://gitlab.inria.fr/gazelle/library/hl7templates/hl7templates-model-jar,True
 https://gitlab.inria.fr/gazelle/library/hl7templates/hl7templates-packager-jar,True
 https://gitlab.inria.fr/gazelle/library/home,True
