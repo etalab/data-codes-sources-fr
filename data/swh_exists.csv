@@ -426,7 +426,7 @@ https://forgemia.inra.fr/irhs-bioinfo/i-fungi,True
 https://forgemia.inra.fr/lbe/opensilexlbe/ontologielbe,True
 https://forgemia.inra.fr/lbe/opensilexlbe/opensilex-dev,True
 https://forgemia.inra.fr/metagenopolis/eskrim,True
-https://forgemia.inra.fr/metagenopolis/meteor,False
+https://forgemia.inra.fr/metagenopolis/meteor,True
 https://forgemia.inra.fr/metagenopolis/trim_fastq,True
 https://forgemia.inra.fr/metexplore/MetExploreViz,True
 https://forgemia.inra.fr/metexplore/cbm/dexom,True
@@ -2059,7 +2059,7 @@ https://github.com/InseeFrLab/onyxia-ui,True
 https://github.com/InseeFrLab/predicat,True
 https://github.com/InseeFrLab/product-labelling,True
 https://github.com/InseeFrLab/rapidsai,True
-https://github.com/InseeFrLab/redash,False
+https://github.com/InseeFrLab/redash,True
 https://github.com/InseeFrLab/rjdworkspace,True
 https://github.com/InseeFrLab/rstudio,True
 https://github.com/InseeFrLab/rstudio-gpu,True
@@ -7257,7 +7257,7 @@ https://gitlab.inria.fr/local-implicit-schemes/supplementary-material-numerische
 https://gitlab.inria.fr/local-schemes/supplementary-sources,True
 https://gitlab.inria.fr/locolearn/public/docker_inria_wbc,True
 https://gitlab.inria.fr/locolearn/public/talos_description_rf,True
-https://gitlab.inria.fr/lola/data_prepare,False
+https://gitlab.inria.fr/lola/data_prepare,True
 https://gitlab.inria.fr/magnet/anonymization_metrics,True
 https://gitlab.inria.fr/magnet/bias-in-nlp,True
 https://gitlab.inria.fr/magnet/gdn-lib,True
@@ -7769,7 +7769,7 @@ https://gitlab.irstea.fr/in-wop/airGRiwrm,True
 https://gitlab.irstea.fr/in-wop/irmara,False
 https://gitlab.irstea.fr/in-wop/multivgest,True
 https://gitlab.irstea.fr/in-wop/rvgest,True
-https://gitlab.irstea.fr/in-wop/sgldatagrabber,False
+https://gitlab.irstea.fr/in-wop/sgldatagrabber,True
 https://gitlab.irstea.fr/in-wop/vgest,True
 https://gitlab.irstea.fr/irrig/public,True
 https://gitlab.irstea.fr/irstea-ros/ads1115_driver,True
