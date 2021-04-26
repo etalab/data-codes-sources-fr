@@ -883,6 +883,7 @@ https://github.com/1024pix/pix-engineering,True
 https://github.com/1024pix/pix-graviteeio,True
 https://github.com/1024pix/pix-help-center-theme,True
 https://github.com/1024pix/pix-lifestyle,True
+https://github.com/1024pix/pix-love,False
 https://github.com/1024pix/pix-maintenance,True
 https://github.com/1024pix/pix-proxy-bucket-ovh,True
 https://github.com/1024pix/pix-redirect-support-pix-fr,True
@@ -1085,7 +1086,7 @@ https://github.com/BRGM/gml_application_schema_toolbox,True
 https://github.com/BRGM/gmlib,True
 https://github.com/BRGM/hubeau,True
 https://github.com/BRGM/map2loop-2,True
-https://github.com/BRGM/meshio,False
+https://github.com/BRGM/meshio,True
 https://github.com/BRGM/plouf,True
 https://github.com/BRGM/razorback,True
 https://github.com/BRGM/razorback-tutorial-data,True
@@ -2800,6 +2801,7 @@ https://github.com/abes-esr/abes-xslt,True
 https://github.com/abes-esr/algoliens-web,True
 https://github.com/abes-esr/archi-htmlreport-docker,True
 https://github.com/abes-esr/archi-model-example,True
+https://github.com/abes-esr/clamscan-docker,False
 https://github.com/abes-esr/eplouribousse,True
 https://github.com/abes-esr/ezmaster-globs,True
 https://github.com/abes-esr/fne-back,True
@@ -8030,6 +8032,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/monitoring-summer-snapsh
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/perfreporter,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/pz_resif,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/qpidd-k8s,True
+https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/resif-datacite-cli,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/resif-madmp,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/resif-robotframework-tests,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/resif-routing,True
