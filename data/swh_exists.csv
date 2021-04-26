@@ -3300,7 +3300,7 @@ https://github.com/betagouv/peps-app,True
 https://github.com/betagouv/pia-back,True
 https://github.com/betagouv/pia-docker,True
 https://github.com/betagouv/pia-paas,True
-https://github.com/betagouv/pitchbox,False
+https://github.com/betagouv/pitchbox,True
 https://github.com/betagouv/pix,True
 https://github.com/betagouv/place-des-entreprises,True
 https://github.com/betagouv/place-emploi-public-api,True
@@ -5179,6 +5179,7 @@ https://github.com/neuroanatomy/CoactivationMap.app,True
 https://github.com/neuroanatomy/FerretDiffusionTractTracingComparison,True
 https://github.com/neuroanatomy/GWPC,True
 https://github.com/neuroanatomy/GuerrillaPLI,True
+https://github.com/neuroanatomy/MeshSurgery,False
 https://github.com/neuroanatomy/NeuroWebLab,True
 https://github.com/neuroanatomy/NeuroWebLab-app,True
 https://github.com/neuroanatomy/NeuroWebLab-server,True
@@ -6413,7 +6414,7 @@ https://gitlab.inria.fr/Simbiot/mecsyco/mecsycojava,True
 https://gitlab.inria.fr/Simbiot/mecsyco/mecsycoscholar,True
 https://gitlab.inria.fr/Simbiot/public/chairetie/pinchgui,False
 https://gitlab.inria.fr/Simbiot/public/utilities/drone-autonome,True
-https://gitlab.inria.fr/Simbiot/public/utilities/openvr_ros_docker,False
+https://gitlab.inria.fr/Simbiot/public/utilities/openvr_ros_docker,True
 https://gitlab.inria.fr/Simbiot/public/utilities/ros-optitrack-basics,True
 https://gitlab.inria.fr/Simbiot/public/utilities/ros-remote,True
 https://gitlab.inria.fr/SketchedLearning/fasttransformsc,True
@@ -7008,6 +7009,7 @@ https://gitlab.inria.fr/gazelle/library/gazelle-tools,True
 https://gitlab.inria.fr/gazelle/library/hl7templates/gocmodel-jar,True
 https://gitlab.inria.fr/gazelle/library/hl7templates/hl7template-generator-jar,False
 https://gitlab.inria.fr/gazelle/library/hl7templates/hl7templates-api,True
+https://gitlab.inria.fr/gazelle/library/hl7templates/hl7templates-generator-jar,False
 https://gitlab.inria.fr/gazelle/library/hl7templates/hl7templates-model-jar,True
 https://gitlab.inria.fr/gazelle/library/hl7templates/hl7templates-packager-jar,True
 https://gitlab.inria.fr/gazelle/library/home,True
@@ -8052,6 +8054,8 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/ws-station,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/ws-station-k8s,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/ws-statistics,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/ws-timeseries,True
+https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/ws-timeseries-old,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/ws-timeseries-old2,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/yasmine-k8s,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/ige/erosion_model,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/isterre-sig/pyevent,True
