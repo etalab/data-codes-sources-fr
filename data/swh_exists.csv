@@ -1582,6 +1582,7 @@ https://github.com/GIP-RECIA/Roundcube-esco_theme,True
 https://github.com/GIP-RECIA/WebproxyPortlet,True
 https://github.com/GIP-RECIA/apps-deployer,True
 https://github.com/GIP-RECIA/apps-redirector,True
+https://github.com/GIP-RECIA/awesome-selfhosted,False
 https://github.com/GIP-RECIA/cahier-de-texte,True
 https://github.com/GIP-RECIA/cas,True
 https://github.com/GIP-RECIA/cas-esco-overlay,True
@@ -6416,7 +6417,7 @@ https://gitlab.inria.fr/Simbiot/mecsyco/mecsycocpp,True
 https://gitlab.inria.fr/Simbiot/mecsyco/mecsycodsl,True
 https://gitlab.inria.fr/Simbiot/mecsyco/mecsycojava,True
 https://gitlab.inria.fr/Simbiot/mecsyco/mecsycoscholar,True
-https://gitlab.inria.fr/Simbiot/public/chairetie/pinchgui,False
+https://gitlab.inria.fr/Simbiot/public/chairetie/pinchgui,True
 https://gitlab.inria.fr/Simbiot/public/utilities/drone-autonome,True
 https://gitlab.inria.fr/Simbiot/public/utilities/openvr_ros_docker,True
 https://gitlab.inria.fr/Simbiot/public/utilities/ros-optitrack-basics,True
@@ -7435,6 +7436,13 @@ https://gitlab.inria.fr/openvibe/unity-games/hello-sender,True
 https://gitlab.inria.fr/openvibe/unity-games/hello-world,True
 https://gitlab.inria.fr/openwind/openwind,True
 https://gitlab.inria.fr/openwind/release,True
+https://gitlab.inria.fr/optimdbs/optimdbs-dependencies/dcmtk,False
+https://gitlab.inria.fr/optimdbs/optimdbs-dependencies/dtk,False
+https://gitlab.inria.fr/optimdbs/optimdbs-dependencies/itk,False
+https://gitlab.inria.fr/optimdbs/optimdbs-dependencies/qtdcm,False
+https://gitlab.inria.fr/optimdbs/optimdbs-dependencies/rpi,False
+https://gitlab.inria.fr/optimdbs/optimdbs-dependencies/ttk,False
+https://gitlab.inria.fr/optimdbs/optimdbs-dependencies/vtk,False
 https://gitlab.inria.fr/optimdbs/optimdbs-medinria,True
 https://gitlab.inria.fr/optimdbs/optimdbs-superproject,True
 https://gitlab.inria.fr/ordo-bdx/io-peak,True
@@ -8033,7 +8041,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/monitoring-summer-snapsh
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/perfreporter,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/pz_resif,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/qpidd-k8s,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/resif-datacite-cli,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/resif-datacite-cli,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/resif-madmp,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/resif-robotframework-tests,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/resif-routing,True
