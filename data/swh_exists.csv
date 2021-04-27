@@ -1125,6 +1125,7 @@ https://github.com/CCSDForge/HAL,True
 https://github.com/CCSDForge/Sciencesconf.org,True
 https://github.com/CCSDForge/StaticFiles,True
 https://github.com/CCSDForge/episciences,True
+https://github.com/CCSDForge/episciences-api,False
 https://github.com/CEA-LIST/CinguParam,True
 https://github.com/CEA-LIST/Cingulata,True
 https://github.com/CEA-LIST/DAHLIA-BodyIndex,True
@@ -6306,6 +6307,7 @@ https://gitlab.inria.fr/ClassCode/classcodeadmin,True
 https://gitlab.inria.fr/ClassCode/pixees-theme,True
 https://gitlab.inria.fr/CompCert/ci,True
 https://gitlab.inria.fr/Conferences/ICT_2018_MUFF,True
+https://gitlab.inria.fr/D3/cassie,False
 https://gitlab.inria.fr/D3/contour-detect,True
 https://gitlab.inria.fr/D3/grid-vectorization,True
 https://gitlab.inria.fr/DLreasoners/stare,True
@@ -6580,6 +6582,7 @@ https://gitlab.inria.fr/almanach/time-us/kraken-models,True
 https://gitlab.inria.fr/almanach/time-us/page2tei_TimeUS,True
 https://gitlab.inria.fr/almanach/time-us/schema-tei,True
 https://gitlab.inria.fr/almanach/time-us/statistiques,True
+https://gitlab.inria.fr/almanach/time-us/teiprocess,False
 https://gitlab.inria.fr/almanach/time-us/transkribus-configuration,True
 https://gitlab.inria.fr/alta/alta,True
 https://gitlab.inria.fr/amibio/Infrared,True
@@ -7192,7 +7195,7 @@ https://gitlab.inria.fr/igrida/gvirt-factory,True
 https://gitlab.inria.fr/igrida/kubigrida-charts,True
 https://gitlab.inria.fr/igrida/kubigrida-docker,True
 https://gitlab.inria.fr/igrida/prometheus-oar-exporter,True
-https://gitlab.inria.fr/igrida/tutorials/tuto1,False
+https://gitlab.inria.fr/igrida/tutorials/tuto1,True
 https://gitlab.inria.fr/igrida/userdocs,True
 https://gitlab.inria.fr/ink-interaction/list-widgets,True
 https://gitlab.inria.fr/inria-ci/ci-scripts,True
@@ -8187,6 +8190,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/caseine/vpl_design_plugin,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/casys/givaro,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/ced-sandbox/linux,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/certicompil/compcert-kvx,True
+https://gricad-gitlab.univ-grenoble-alpes.fr/certicompil/velus,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/chamilotools/chamilotools,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/codalab/bundle_generation,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/codalab/docker-recipes,True
