@@ -6262,6 +6262,7 @@ https://gitlab.huma-num.fr/rzine/documentation,True
 https://gitlab.huma-num.fr/rzine/help_rzine_publication,True
 https://gitlab.huma-num.fr/rzine/package,True
 https://gitlab.huma-num.fr/rzine/site,True
+https://gitlab.huma-num.fr/s-minaire-mip-paris-nanterre/projettest,False
 https://gitlab.huma-num.fr/tip/flatdb4geonames,True
 https://gitlab.huma-num.fr/tip/geneaquilt,True
 https://gitlab.huma-num.fr/tip/graphic-kit,True
@@ -7439,7 +7440,7 @@ https://gitlab.inria.fr/openvibe/unity-games/hello-sender,True
 https://gitlab.inria.fr/openvibe/unity-games/hello-world,True
 https://gitlab.inria.fr/openwind/openwind,True
 https://gitlab.inria.fr/openwind/release,True
-https://gitlab.inria.fr/optimdbs/optimdbs-dependencies/dcmtk,False
+https://gitlab.inria.fr/optimdbs/optimdbs-dependencies/dcmtk,True
 https://gitlab.inria.fr/optimdbs/optimdbs-dependencies/dtk,False
 https://gitlab.inria.fr/optimdbs/optimdbs-dependencies/itk,False
 https://gitlab.inria.fr/optimdbs/optimdbs-dependencies/qtdcm,False
