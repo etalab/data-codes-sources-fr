@@ -2021,6 +2021,7 @@ https://github.com/InseeFrLab/btbpy,True
 https://github.com/InseeFrLab/cloud-scripts,True
 https://github.com/InseeFrLab/demo-apps,True
 https://github.com/InseeFrLab/docs.sspcloud.fr,True
+https://github.com/InseeFrLab/fastai,False
 https://github.com/InseeFrLab/funcamp-r,True
 https://github.com/InseeFrLab/funcamp-r-dock,True
 https://github.com/InseeFrLab/funcamp-r-grimoire,True
@@ -3075,7 +3076,7 @@ https://github.com/betagouv/bourses,True
 https://github.com/betagouv/boussole,True
 https://github.com/betagouv/budget,True
 https://github.com/betagouv/calcul-co2-inverse,True
-https://github.com/betagouv/calendso,False
+https://github.com/betagouv/calendso,True
 https://github.com/betagouv/ccas,True
 https://github.com/betagouv/cerfa-form-filler,True
 https://github.com/betagouv/chatwoot,True
@@ -8345,6 +8346,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/python-uga/website-pyscidatagre,Tru
 https://gricad-gitlab.univ-grenoble-alpes.fr/python-uga/working-sessions,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/rheolef/rheolef,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/rheolef/shalava,True
+https://gricad-gitlab.univ-grenoble-alpes.fr/rvai-public/abstraction_based_monitors,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/scalde-contrib/ljk-guix-channel,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/skitzml/compiler,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/steamer/thesis/lifeline,True
