@@ -7442,7 +7442,7 @@ https://gitlab.inria.fr/openwind/openwind,True
 https://gitlab.inria.fr/openwind/release,True
 https://gitlab.inria.fr/optimdbs/optimdbs-dependencies/dcmtk,True
 https://gitlab.inria.fr/optimdbs/optimdbs-dependencies/dtk,False
-https://gitlab.inria.fr/optimdbs/optimdbs-dependencies/itk,False
+https://gitlab.inria.fr/optimdbs/optimdbs-dependencies/itk,True
 https://gitlab.inria.fr/optimdbs/optimdbs-dependencies/qtdcm,False
 https://gitlab.inria.fr/optimdbs/optimdbs-dependencies/rpi,False
 https://gitlab.inria.fr/optimdbs/optimdbs-dependencies/ttk,False
