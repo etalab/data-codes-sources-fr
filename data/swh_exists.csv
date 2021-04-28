@@ -1583,7 +1583,7 @@ https://github.com/GIP-RECIA/Roundcube-esco_theme,True
 https://github.com/GIP-RECIA/WebproxyPortlet,True
 https://github.com/GIP-RECIA/apps-deployer,True
 https://github.com/GIP-RECIA/apps-redirector,True
-https://github.com/GIP-RECIA/awesome-selfhosted,False
+https://github.com/GIP-RECIA/awesome-selfhosted,True
 https://github.com/GIP-RECIA/cahier-de-texte,True
 https://github.com/GIP-RECIA/cas,True
 https://github.com/GIP-RECIA/cas-esco-overlay,True
@@ -2023,7 +2023,7 @@ https://github.com/InseeFrLab/btbpy,True
 https://github.com/InseeFrLab/cloud-scripts,True
 https://github.com/InseeFrLab/demo-apps,True
 https://github.com/InseeFrLab/docs.sspcloud.fr,True
-https://github.com/InseeFrLab/fastai,False
+https://github.com/InseeFrLab/fastai,True
 https://github.com/InseeFrLab/funcamp-r,True
 https://github.com/InseeFrLab/funcamp-r-dock,True
 https://github.com/InseeFrLab/funcamp-r-grimoire,True
@@ -3252,6 +3252,7 @@ https://github.com/betagouv/neutre.comobi.fr,True
 https://github.com/betagouv/nir_validate,True
 https://github.com/betagouv/normalized-data-state,True
 https://github.com/betagouv/observatoire-covoiturage,True
+https://github.com/betagouv/ohmyform,False
 https://github.com/betagouv/open-academie,True
 https://github.com/betagouv/open-academie-old,True
 https://github.com/betagouv/openfisca-brestmetropole,True
@@ -4578,6 +4579,7 @@ https://github.com/ina-foss/voxo-dashboard,True
 https://github.com/ina-foss/voxo-docker,True
 https://github.com/ina-foss/voxo-lib,True
 https://github.com/incubateur-territoires/demo-mesaides28,True
+https://github.com/incubateur-territoires/gridsome-source-graphql,False
 https://github.com/incubateur-territoires/incubateur-directus,True
 https://github.com/incubateur-territoires/incubateur-strapi,True
 https://github.com/incubateur-territoires/incubateur.anct.gouv.fr,True
@@ -6043,7 +6045,7 @@ https://gitlab.com/cortext/ANSES,True
 https://gitlab.com/cortext/PAM-System,False
 https://gitlab.com/cortext/agroecology-exploration/intershipproject,True
 https://gitlab.com/cortext/cib-database,True
-https://gitlab.com/cortext/cortext-methods/cortextlib,False
+https://gitlab.com/cortext/cortext-methods/cortextlib,True
 https://gitlab.com/cortext/cortext-methods/sashimi,True
 https://gitlab.com/cortext/cortext-pub,True
 https://gitlab.com/cortext/patstat,True
@@ -6942,7 +6944,7 @@ https://gitlab.inria.fr/fec/publications/mipp_a_portable_cpp_simd_wrapper_and_it
 https://gitlab.inria.fr/fedbiomed/PyGrid,True
 https://gitlab.inria.fr/fedbiomed/PyGrid-v2,False
 https://gitlab.inria.fr/fedbiomed/client-fedbiomed,True
-https://gitlab.inria.fr/fedbiomed/client-fedbiomed-v1,False
+https://gitlab.inria.fr/fedbiomed/client-fedbiomed-v1,True
 https://gitlab.inria.fr/fedbiomed/fed-requests,True
 https://gitlab.inria.fr/fedbiomed/fed-requests-v1,False
 https://gitlab.inria.fr/fedbiomed/fedbiomed,True
@@ -7625,7 +7627,7 @@ https://gitlab.inria.fr/skeletons/necro,True
 https://gitlab.inria.fr/skeletons/necro-coq,True
 https://gitlab.inria.fr/skeletons/necro-debug,True
 https://gitlab.inria.fr/skeletons/necro-dep,True
-https://gitlab.inria.fr/skeletons/necro-man,False
+https://gitlab.inria.fr/skeletons/necro-man,True
 https://gitlab.inria.fr/skeletons/necro-ml,True
 https://gitlab.inria.fr/skeletons/necro-test,True
 https://gitlab.inria.fr/skeletons/necro-tex,True
