@@ -2146,6 +2146,7 @@ https://github.com/LINCnil/obs-cookies,True
 https://github.com/LINCnil/pia,True
 https://github.com/LINCnil/pia-app,True
 https://github.com/LINCnil/pia-back,True
+https://github.com/LINCnil/pia-i18n,False
 https://github.com/LINCnil/scripts-vm-cel,True
 https://github.com/LINCnil/tosback2,True
 https://github.com/LemonLDAPNG/Apache-Session-Browseable,True
@@ -3699,6 +3700,12 @@ https://github.com/cw-leia/smartleia,True
 https://github.com/cw-leia/smartleia-doc,True
 https://github.com/cw-leia/smartleia-target,True
 https://github.com/cw-leia/smartleia-target-applet,True
+https://github.com/dataesr/curieXplore-paysage,False
+https://github.com/dataesr/kubectl-deploy,False
+https://github.com/dataesr/onedrive,False
+https://github.com/dataesr/paysage-openapi,False
+https://github.com/dataesr/react-dsfr,False
+https://github.com/dataesr/scanr-end2end,False
 https://github.com/datagir/Ecolab,True
 https://github.com/datagir/agribalyse,True
 https://github.com/datagir/datagir-site,True
@@ -6308,7 +6315,7 @@ https://gitlab.inria.fr/ClassCode/classcodeadmin,True
 https://gitlab.inria.fr/ClassCode/pixees-theme,True
 https://gitlab.inria.fr/CompCert/ci,True
 https://gitlab.inria.fr/Conferences/ICT_2018_MUFF,True
-https://gitlab.inria.fr/D3/cassie,False
+https://gitlab.inria.fr/D3/cassie,True
 https://gitlab.inria.fr/D3/contour-detect,True
 https://gitlab.inria.fr/D3/grid-vectorization,True
 https://gitlab.inria.fr/DLreasoners/stare,True
@@ -6933,11 +6940,17 @@ https://gitlab.inria.fr/fec/publications/energy_consumption_analysis_of_software
 https://gitlab.inria.fr/fec/publications/fast_simulation_and_prototyping_with_aff3ct,True
 https://gitlab.inria.fr/fec/publications/mipp_a_portable_cpp_simd_wrapper_and_its_use_for_error_correction_coding_in_5g_standard,True
 https://gitlab.inria.fr/fedbiomed/PyGrid,True
+https://gitlab.inria.fr/fedbiomed/PyGrid-v2,False
 https://gitlab.inria.fr/fedbiomed/client-fedbiomed,True
+https://gitlab.inria.fr/fedbiomed/client-fedbiomed-v1,False
 https://gitlab.inria.fr/fedbiomed/fed-requests,True
+https://gitlab.inria.fr/fedbiomed/fed-requests-v1,False
 https://gitlab.inria.fr/fedbiomed/fedbiomed,True
 https://gitlab.inria.fr/fedbiomed/fedbiomed-api,True
+https://gitlab.inria.fr/fedbiomed/fedbiomed-api-v1,False
 https://gitlab.inria.fr/fedbiomed/fedbiomed-node,True
+https://gitlab.inria.fr/fedbiomed/fedbiomed-node-v2,False
+https://gitlab.inria.fr/fedbiomed/fedbiomed-v2,False
 https://gitlab.inria.fr/fedbiomed/fedbiomed.gitlabpages.inria.fr,True
 https://gitlab.inria.fr/flocq/flocq,True
 https://gitlab.inria.fr/flowvr/flowvr-ex,True
@@ -7237,6 +7250,7 @@ https://gitlab.inria.fr/learninglab/mooc-rr/mooc-rr-apps,True
 https://gitlab.inria.fr/learninglab/mooc-rr/mooc-rr-modele,True
 https://gitlab.inria.fr/learninglab/mooc-rr/mooc-rr-ressources,True
 https://gitlab.inria.fr/learninglab/mooc-rr/moocrr-reproducibility-study,True
+https://gitlab.inria.fr/learninglab/mooc-scikit-learn/mooc-scikit-learn-apps,False
 https://gitlab.inria.fr/learninglab/mooc-scikit-learn/mooc-scikit-learn-model,True
 https://gitlab.inria.fr/learninglab/mooc-scikit-learn/mooc-scikit-learn-resources,True
 https://gitlab.inria.fr/learninglab/nsi-capes-info,True
@@ -7446,7 +7460,7 @@ https://gitlab.inria.fr/optimdbs/optimdbs-dependencies/itk,True
 https://gitlab.inria.fr/optimdbs/optimdbs-dependencies/qtdcm,False
 https://gitlab.inria.fr/optimdbs/optimdbs-dependencies/rpi,False
 https://gitlab.inria.fr/optimdbs/optimdbs-dependencies/ttk,False
-https://gitlab.inria.fr/optimdbs/optimdbs-dependencies/vtk,False
+https://gitlab.inria.fr/optimdbs/optimdbs-dependencies/vtk,True
 https://gitlab.inria.fr/optimdbs/optimdbs-medinria,True
 https://gitlab.inria.fr/optimdbs/optimdbs-superproject,True
 https://gitlab.inria.fr/ordo-bdx/io-peak,True
