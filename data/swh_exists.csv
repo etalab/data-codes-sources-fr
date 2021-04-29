@@ -2933,7 +2933,7 @@ https://github.com/ambanum/prettier-config,True
 https://github.com/ambanum/server-config,True
 https://github.com/ambanum/twint,True
 https://github.com/aphp/Cohort360,False
-https://github.com/aphp/Cohort360-Back-end,False
+https://github.com/aphp/Cohort360-Back-end,True
 https://github.com/assurance-maladie-digital/XF-Material-Library,True
 https://github.com/assurance-maladie-digital/api-droits-fs-doc,True
 https://github.com/assurance-maladie-digital/api-droits-fs-exemple-php,True
@@ -6348,6 +6348,7 @@ https://gitlab.inria.fr/Damaris/Simulations/croco,True
 https://gitlab.inria.fr/Damaris/Simulations/noise,True
 https://gitlab.inria.fr/Damaris/damaris,True
 https://gitlab.inria.fr/E2Clab/Paper-Artifacts/plantnet,True
+https://gitlab.inria.fr/E2Clab/e2clab,False
 https://gitlab.inria.fr/GATB/simka,True
 https://gitlab.inria.fr/GUDHI/coxeter_for_ouragan,True
 https://gitlab.inria.fr/GUDHI/data,True
@@ -6959,7 +6960,7 @@ https://gitlab.inria.fr/fedbiomed/PyGrid-v2,True
 https://gitlab.inria.fr/fedbiomed/client-fedbiomed,True
 https://gitlab.inria.fr/fedbiomed/client-fedbiomed-v1,True
 https://gitlab.inria.fr/fedbiomed/fed-requests,True
-https://gitlab.inria.fr/fedbiomed/fed-requests-v1,False
+https://gitlab.inria.fr/fedbiomed/fed-requests-v1,True
 https://gitlab.inria.fr/fedbiomed/fedbiomed,True
 https://gitlab.inria.fr/fedbiomed/fedbiomed-api,True
 https://gitlab.inria.fr/fedbiomed/fedbiomed-api-v1,True
