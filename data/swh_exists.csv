@@ -1776,6 +1776,7 @@ https://github.com/INSIDE-information-systems/SensorThingsAPI,True
 https://github.com/INSIDE-information-systems/TheHeart,True
 https://github.com/INSIDE-information-systems/WFS3,True
 https://github.com/INSIDE-information-systems/WatershedWPS,True
+https://github.com/INSIDE-information-systems/api-sensorthing,False
 https://github.com/INSIDE-information-systems/wfd2018,True
 https://github.com/ISCPIF/JEDI,True
 https://github.com/ISCPIF/MGO,True
@@ -3117,6 +3118,7 @@ https://github.com/betagouv/designers-transverses,True
 https://github.com/betagouv/desk-agent-polyvalent,True
 https://github.com/betagouv/dev-transverse-doc,True
 https://github.com/betagouv/diagoriente-admin,True
+https://github.com/betagouv/diagoriente-advisor,False
 https://github.com/betagouv/diagoriente-api-v5-,True
 https://github.com/betagouv/diagoriente-front,True
 https://github.com/betagouv/diagoriente-v5-front-app,True
@@ -3252,7 +3254,7 @@ https://github.com/betagouv/neutre.comobi.fr,True
 https://github.com/betagouv/nir_validate,True
 https://github.com/betagouv/normalized-data-state,True
 https://github.com/betagouv/observatoire-covoiturage,True
-https://github.com/betagouv/ohmyform,False
+https://github.com/betagouv/ohmyform,True
 https://github.com/betagouv/open-academie,True
 https://github.com/betagouv/open-academie-old,True
 https://github.com/betagouv/openfisca-brestmetropole,True
@@ -6942,17 +6944,17 @@ https://gitlab.inria.fr/fec/publications/energy_consumption_analysis_of_software
 https://gitlab.inria.fr/fec/publications/fast_simulation_and_prototyping_with_aff3ct,True
 https://gitlab.inria.fr/fec/publications/mipp_a_portable_cpp_simd_wrapper_and_its_use_for_error_correction_coding_in_5g_standard,True
 https://gitlab.inria.fr/fedbiomed/PyGrid,True
-https://gitlab.inria.fr/fedbiomed/PyGrid-v2,False
+https://gitlab.inria.fr/fedbiomed/PyGrid-v2,True
 https://gitlab.inria.fr/fedbiomed/client-fedbiomed,True
 https://gitlab.inria.fr/fedbiomed/client-fedbiomed-v1,True
 https://gitlab.inria.fr/fedbiomed/fed-requests,True
 https://gitlab.inria.fr/fedbiomed/fed-requests-v1,False
 https://gitlab.inria.fr/fedbiomed/fedbiomed,True
 https://gitlab.inria.fr/fedbiomed/fedbiomed-api,True
-https://gitlab.inria.fr/fedbiomed/fedbiomed-api-v1,False
+https://gitlab.inria.fr/fedbiomed/fedbiomed-api-v1,True
 https://gitlab.inria.fr/fedbiomed/fedbiomed-node,True
 https://gitlab.inria.fr/fedbiomed/fedbiomed-node-v2,False
-https://gitlab.inria.fr/fedbiomed/fedbiomed-v2,False
+https://gitlab.inria.fr/fedbiomed/fedbiomed-v2,True
 https://gitlab.inria.fr/fedbiomed/fedbiomed.gitlabpages.inria.fr,True
 https://gitlab.inria.fr/flocq/flocq,True
 https://gitlab.inria.fr/flowvr/flowvr-ex,True
@@ -7252,7 +7254,7 @@ https://gitlab.inria.fr/learninglab/mooc-rr/mooc-rr-apps,True
 https://gitlab.inria.fr/learninglab/mooc-rr/mooc-rr-modele,True
 https://gitlab.inria.fr/learninglab/mooc-rr/mooc-rr-ressources,True
 https://gitlab.inria.fr/learninglab/mooc-rr/moocrr-reproducibility-study,True
-https://gitlab.inria.fr/learninglab/mooc-scikit-learn/mooc-scikit-learn-apps,False
+https://gitlab.inria.fr/learninglab/mooc-scikit-learn/mooc-scikit-learn-apps,True
 https://gitlab.inria.fr/learninglab/mooc-scikit-learn/mooc-scikit-learn-model,True
 https://gitlab.inria.fr/learninglab/mooc-scikit-learn/mooc-scikit-learn-resources,True
 https://gitlab.inria.fr/learninglab/nsi-capes-info,True
