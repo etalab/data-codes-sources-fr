@@ -3394,6 +3394,7 @@ https://github.com/betagouv/traitdunion-landing-pages,True
 https://github.com/betagouv/traitdunion-metabase,True
 https://github.com/betagouv/transport-base-nationale-covoiturage,True
 https://github.com/betagouv/tutorat,True
+https://github.com/betagouv/tutorat-betagouv,False
 https://github.com/betagouv/urbanvitaliz,True
 https://github.com/betagouv/valberg.comobi.fr,True
 https://github.com/betagouv/verif.site,True
@@ -5196,7 +5197,7 @@ https://github.com/neuroanatomy/CoactivationMap.app,True
 https://github.com/neuroanatomy/FerretDiffusionTractTracingComparison,True
 https://github.com/neuroanatomy/GWPC,True
 https://github.com/neuroanatomy/GuerrillaPLI,True
-https://github.com/neuroanatomy/MeshSurgery,False
+https://github.com/neuroanatomy/MeshSurgery,True
 https://github.com/neuroanatomy/NeuroWebLab,True
 https://github.com/neuroanatomy/NeuroWebLab-app,True
 https://github.com/neuroanatomy/NeuroWebLab-server,True
@@ -6274,6 +6275,9 @@ https://gitlab.huma-num.fr/rzine/help_rzine_publication,True
 https://gitlab.huma-num.fr/rzine/package,True
 https://gitlab.huma-num.fr/rzine/site,True
 https://gitlab.huma-num.fr/s-minaire-mip-paris-nanterre/projettest,False
+https://gitlab.huma-num.fr/tesselle/packages,False
+https://gitlab.huma-num.fr/tesselle/style,False
+https://gitlab.huma-num.fr/tesselle/website,False
 https://gitlab.huma-num.fr/tip/flatdb4geonames,True
 https://gitlab.huma-num.fr/tip/geneaquilt,True
 https://gitlab.huma-num.fr/tip/graphic-kit,True
