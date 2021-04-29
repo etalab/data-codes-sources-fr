@@ -431,6 +431,7 @@ https://forgemia.inra.fr/metagenopolis/trim_fastq,True
 https://forgemia.inra.fr/metexplore/MetExploreViz,True
 https://forgemia.inra.fr/metexplore/cbm/dexom,True
 https://forgemia.inra.fr/metexplore/cbm/fvabiomarkers,True
+https://forgemia.inra.fr/metexplore/cbm/met4j-flux,False
 https://forgemia.inra.fr/metexplore/met4j,True
 https://forgemia.inra.fr/metexplore/metabolomics2network,True
 https://forgemia.inra.fr/metexplore/metexplore2,True
@@ -2931,6 +2932,8 @@ https://github.com/ambanum/political-ads-scraper,True
 https://github.com/ambanum/prettier-config,True
 https://github.com/ambanum/server-config,True
 https://github.com/ambanum/twint,True
+https://github.com/aphp/Cohort360,False
+https://github.com/aphp/Cohort360-Back-end,False
 https://github.com/assurance-maladie-digital/XF-Material-Library,True
 https://github.com/assurance-maladie-digital/api-droits-fs-doc,True
 https://github.com/assurance-maladie-digital/api-droits-fs-exemple-php,True
@@ -3710,6 +3713,7 @@ https://github.com/dataesr/onedrive,False
 https://github.com/dataesr/paysage-openapi,False
 https://github.com/dataesr/react-dsfr,False
 https://github.com/dataesr/scanr-end2end,False
+https://github.com/dataesr/scientific_tagger,False
 https://github.com/datagir/Ecolab,True
 https://github.com/datagir/agribalyse,True
 https://github.com/datagir/datagir-site,True
@@ -5210,6 +5214,7 @@ https://github.com/neuroanatomy/SurfaceRAMON,True
 https://github.com/neuroanatomy/autism,True
 https://github.com/neuroanatomy/braincov,True
 https://github.com/neuroanatomy/bruker2nifti,True
+https://github.com/neuroanatomy/challenge-engine,False
 https://github.com/neuroanatomy/cortex,True
 https://github.com/neuroanatomy/eslint-config-naat,True
 https://github.com/neuroanatomy/fiind,True
@@ -6088,6 +6093,7 @@ https://gitlab.com/dreal-datalab/rrrpls,True
 https://gitlab.com/dreal-datalab/sgbd_datamart,True
 https://gitlab.com/dreal-datalab/shinydreal,True
 https://gitlab.com/dreal-datalab/si_eau_pesticides,True
+https://gitlab.com/dreal-datalab/suivi-projets-dreal-datalab,False
 https://gitlab.com/dreal-datalab/utilitaires.ju,True
 https://gitlab.com/dreal-datalab/zonages-habitat,True
 https://gitlab.com/fabnum-minarm/e-chauffeur/api,True
@@ -6275,6 +6281,7 @@ https://gitlab.huma-num.fr/rzine/help_rzine_publication,True
 https://gitlab.huma-num.fr/rzine/package,True
 https://gitlab.huma-num.fr/rzine/site,True
 https://gitlab.huma-num.fr/s-minaire-mip-paris-nanterre/projettest,False
+https://gitlab.huma-num.fr/tesselle/hex,False
 https://gitlab.huma-num.fr/tesselle/packages,False
 https://gitlab.huma-num.fr/tesselle/style,False
 https://gitlab.huma-num.fr/tesselle/website,False
@@ -6598,7 +6605,7 @@ https://gitlab.inria.fr/almanach/time-us/kraken-models,True
 https://gitlab.inria.fr/almanach/time-us/page2tei_TimeUS,True
 https://gitlab.inria.fr/almanach/time-us/schema-tei,True
 https://gitlab.inria.fr/almanach/time-us/statistiques,True
-https://gitlab.inria.fr/almanach/time-us/teiprocess,False
+https://gitlab.inria.fr/almanach/time-us/teiprocess,True
 https://gitlab.inria.fr/almanach/time-us/transkribus-configuration,True
 https://gitlab.inria.fr/alta/alta,True
 https://gitlab.inria.fr/amibio/Infrared,True
@@ -7463,7 +7470,7 @@ https://gitlab.inria.fr/openvibe/unity-games/hello-world,True
 https://gitlab.inria.fr/openwind/openwind,True
 https://gitlab.inria.fr/openwind/release,True
 https://gitlab.inria.fr/optimdbs/optimdbs-dependencies/dcmtk,True
-https://gitlab.inria.fr/optimdbs/optimdbs-dependencies/dtk,False
+https://gitlab.inria.fr/optimdbs/optimdbs-dependencies/dtk,True
 https://gitlab.inria.fr/optimdbs/optimdbs-dependencies/itk,True
 https://gitlab.inria.fr/optimdbs/optimdbs-dependencies/qtdcm,False
 https://gitlab.inria.fr/optimdbs/optimdbs-dependencies/rpi,False
