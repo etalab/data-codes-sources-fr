@@ -19,6 +19,7 @@ https://dci-gitlab.cines.fr/dad/sip-builder-parent,True
 https://dci-gitlab.cines.fr/dad/smartapi,True
 https://dci-gitlab.cines.fr/dad/test-sphinx,True
 https://dci-gitlab.cines.fr/dad/test-synchronize-vitam,True
+https://dci-gitlab.cines.fr/dad/test_integration,False
 https://dci-gitlab.cines.fr/dad/vitam-data-test,True
 https://dci-gitlab.cines.fr/dad/vitam-dwatcher,True
 https://dci-gitlab.cines.fr/dad/vitam-rest-api,True
@@ -1186,6 +1187,7 @@ https://github.com/CEREMA/dterso.chaineTraitement.traitementImageSatelitteEtIndi
 https://github.com/CEREMA/dterso.pluginQgis.CeremaCartEau,True
 https://github.com/CEREMA/dterso.pluginQgis3.CeremaCartEau3,True
 https://github.com/CEREMA/rivages-android,True
+https://github.com/CEREMA/schema-arrete-circulation,False
 https://github.com/CEREMA/territoire-ville.Covadis,True
 https://github.com/CEREMA/territoires-ville.DiagFeux,True
 https://github.com/CEREMA/territoires-ville.Girabase,True
@@ -3397,7 +3399,7 @@ https://github.com/betagouv/traitdunion-landing-pages,True
 https://github.com/betagouv/traitdunion-metabase,True
 https://github.com/betagouv/transport-base-nationale-covoiturage,True
 https://github.com/betagouv/tutorat,True
-https://github.com/betagouv/tutorat-betagouv,False
+https://github.com/betagouv/tutorat-betagouv,True
 https://github.com/betagouv/urbanvitaliz,True
 https://github.com/betagouv/valberg.comobi.fr,True
 https://github.com/betagouv/verif.site,True
@@ -3710,10 +3712,10 @@ https://github.com/cw-leia/smartleia-target-applet,True
 https://github.com/dataesr/curieXplore-paysage,False
 https://github.com/dataesr/kubectl-deploy,True
 https://github.com/dataesr/onedrive,False
-https://github.com/dataesr/paysage-openapi,False
+https://github.com/dataesr/paysage-openapi,True
 https://github.com/dataesr/react-dsfr,False
 https://github.com/dataesr/scanr-end2end,False
-https://github.com/dataesr/scientific_tagger,False
+https://github.com/dataesr/scientific_tagger,True
 https://github.com/datagir/Ecolab,True
 https://github.com/datagir/agribalyse,True
 https://github.com/datagir/datagir-site,True
@@ -6281,8 +6283,9 @@ https://gitlab.huma-num.fr/rzine/help_rzine_publication,True
 https://gitlab.huma-num.fr/rzine/package,True
 https://gitlab.huma-num.fr/rzine/site,True
 https://gitlab.huma-num.fr/s-minaire-mip-paris-nanterre/projettest,False
+https://gitlab.huma-num.fr/tesselle/arkhe,False
 https://gitlab.huma-num.fr/tesselle/hex,False
-https://gitlab.huma-num.fr/tesselle/packages,False
+https://gitlab.huma-num.fr/tesselle/packages,True
 https://gitlab.huma-num.fr/tesselle/style,False
 https://gitlab.huma-num.fr/tesselle/website,True
 https://gitlab.huma-num.fr/tip/flatdb4geonames,True
@@ -7131,6 +7134,7 @@ https://gitlab.inria.fr/gecos/gecos-tools/gecos-tools-tommapping,True
 https://gitlab.inria.fr/gecos/gecos-tools/gecos-tools-tomsdk,True
 https://gitlab.inria.fr/gem5-nop/gem5,True
 https://gitlab.inria.fr/genouest-public/genouest-about,True
+https://gitlab.inria.fr/geomerix/ichol,False
 https://gitlab.inria.fr/gerzaguet_public/2a_imr_wirelessnetwork_lab,True
 https://gitlab.inria.fr/gerzaguet_public/3a_sysnum_wirelesscomm_tx,True
 https://gitlab.inria.fr/gerzaguet_public/abstractsdrsfmreceiver.jl,True
@@ -8204,6 +8208,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/18/chirpstack-m
 https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/20-21/18/docs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/SIMPA/SIMPA,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/ai-courses/autonomous_systems_ml,True
+https://gricad-gitlab.univ-grenoble-alpes.fr/alphee/nonsensical-paper-detector,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/aspen/aspen2014,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/batsim/batsim,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/biomove/fate,True
@@ -8283,6 +8288,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/hasdi/mspl-2018-2019,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/hasdi/td2,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/hceres2019/beamertheme-lig,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/iab-env-epi/ciment-user-guide,True
+https://gricad-gitlab.univ-grenoble-alpes.fr/iab-env-epi/git-rstudio-tutorial,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/iab-env-epi/jedynak_prenatal_2020,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/iab-env-epi/philippat_comparison_2020,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/iab-env-epi/rolland_exposure_2020,True
