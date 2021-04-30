@@ -3708,7 +3708,7 @@ https://github.com/cw-leia/smartleia-doc,True
 https://github.com/cw-leia/smartleia-target,True
 https://github.com/cw-leia/smartleia-target-applet,True
 https://github.com/dataesr/curieXplore-paysage,False
-https://github.com/dataesr/kubectl-deploy,False
+https://github.com/dataesr/kubectl-deploy,True
 https://github.com/dataesr/onedrive,False
 https://github.com/dataesr/paysage-openapi,False
 https://github.com/dataesr/react-dsfr,False
@@ -6093,7 +6093,7 @@ https://gitlab.com/dreal-datalab/rrrpls,True
 https://gitlab.com/dreal-datalab/sgbd_datamart,True
 https://gitlab.com/dreal-datalab/shinydreal,True
 https://gitlab.com/dreal-datalab/si_eau_pesticides,True
-https://gitlab.com/dreal-datalab/suivi-projets-dreal-datalab,False
+https://gitlab.com/dreal-datalab/suivi-projets-dreal-datalab,True
 https://gitlab.com/dreal-datalab/utilitaires.ju,True
 https://gitlab.com/dreal-datalab/zonages-habitat,True
 https://gitlab.com/fabnum-minarm/e-chauffeur/api,True
@@ -6284,7 +6284,7 @@ https://gitlab.huma-num.fr/s-minaire-mip-paris-nanterre/projettest,False
 https://gitlab.huma-num.fr/tesselle/hex,False
 https://gitlab.huma-num.fr/tesselle/packages,False
 https://gitlab.huma-num.fr/tesselle/style,False
-https://gitlab.huma-num.fr/tesselle/website,False
+https://gitlab.huma-num.fr/tesselle/website,True
 https://gitlab.huma-num.fr/tip/flatdb4geonames,True
 https://gitlab.huma-num.fr/tip/geneaquilt,True
 https://gitlab.huma-num.fr/tip/graphic-kit,True
