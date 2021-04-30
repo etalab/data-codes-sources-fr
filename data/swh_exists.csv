@@ -222,6 +222,7 @@ https://forgemia.inra.fr/agriterix/simulator,True
 https://forgemia.inra.fr/agroecoperenne/scripting/python-module,True
 https://forgemia.inra.fr/anaee-dev/coby,True
 https://forgemia.inra.fr/anaee-dev/oboe,True
+https://forgemia.inra.fr/anaee-dev/si-ore-v2,False
 https://forgemia.inra.fr/baric/family-companion,True
 https://forgemia.inra.fr/bibliome/alvisae-anaee,True
 https://forgemia.inra.fr/bibliome/bionlp-st-py,True
@@ -1779,7 +1780,7 @@ https://github.com/INSIDE-information-systems/SensorThingsAPI,True
 https://github.com/INSIDE-information-systems/TheHeart,True
 https://github.com/INSIDE-information-systems/WFS3,True
 https://github.com/INSIDE-information-systems/WatershedWPS,True
-https://github.com/INSIDE-information-systems/api-sensorthing,False
+https://github.com/INSIDE-information-systems/api-sensorthing,True
 https://github.com/INSIDE-information-systems/wfd2018,True
 https://github.com/ISCPIF/JEDI,True
 https://github.com/ISCPIF/MGO,True
@@ -3711,7 +3712,7 @@ https://github.com/cw-leia/smartleia-target,True
 https://github.com/cw-leia/smartleia-target-applet,True
 https://github.com/dataesr/curieXplore-paysage,False
 https://github.com/dataesr/kubectl-deploy,True
-https://github.com/dataesr/onedrive,False
+https://github.com/dataesr/onedrive,True
 https://github.com/dataesr/paysage-openapi,True
 https://github.com/dataesr/react-dsfr,False
 https://github.com/dataesr/scanr-end2end,False
@@ -5216,7 +5217,7 @@ https://github.com/neuroanatomy/SurfaceRAMON,True
 https://github.com/neuroanatomy/autism,True
 https://github.com/neuroanatomy/braincov,True
 https://github.com/neuroanatomy/bruker2nifti,True
-https://github.com/neuroanatomy/challenge-engine,False
+https://github.com/neuroanatomy/challenge-engine,True
 https://github.com/neuroanatomy/cortex,True
 https://github.com/neuroanatomy/eslint-config-naat,True
 https://github.com/neuroanatomy/fiind,True
@@ -7558,6 +7559,7 @@ https://gitlab.inria.fr/sed-paris/ai-community,True
 https://gitlab.inria.fr/sed-paris/c-project-template,True
 https://gitlab.inria.fr/sed-paris/codingdojo,True
 https://gitlab.inria.fr/sed-paris/developer-meetups,True
+https://gitlab.inria.fr/sed-paris/visiomanager,False
 https://gitlab.inria.fr/sed-paris/welcome,True
 https://gitlab.inria.fr/sed-ral/orccad,True
 https://gitlab.inria.fr/sed-rennes/VR-Three.js,True
@@ -7818,6 +7820,7 @@ https://gitlab.irstea.fr/geopat/geopat,True
 https://gitlab.irstea.fr/hru-delin-dev/hru-delin,True
 https://gitlab.irstea.fr/hru-delin-dev/hru-delin-qgis,True
 https://gitlab.irstea.fr/in-wop/airGRiwrm,True
+https://gitlab.irstea.fr/in-wop/bnpe,False
 https://gitlab.irstea.fr/in-wop/irmara,True
 https://gitlab.irstea.fr/in-wop/multivgest,True
 https://gitlab.irstea.fr/in-wop/rvgest,True
@@ -8288,7 +8291,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/hasdi/mspl-2018-2019,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/hasdi/td2,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/hceres2019/beamertheme-lig,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/iab-env-epi/ciment-user-guide,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/iab-env-epi/git-rstudio-tutorial,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/iab-env-epi/git-rstudio-tutorial,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/iab-env-epi/jedynak_prenatal_2020,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/iab-env-epi/philippat_comparison_2020,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/iab-env-epi/rolland_exposure_2020,True
@@ -8334,6 +8337,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/legi/soft/trokata/secdapt,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/legi/soft/trokata/signal-checkpoint,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/legi/soft/trokata/softsync,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/legi/soft/trokata/tssh,True
+https://gricad-gitlab.univ-grenoble-alpes.fr/ljk-scoliose/collecte_data,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/lucah/hadaca_scoring,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/marinesj/ls_translator,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/meige-legi/intro-python,True
