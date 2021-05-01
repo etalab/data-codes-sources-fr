@@ -1188,7 +1188,7 @@ https://github.com/CEREMA/dterso.chaineTraitement.traitementImageSatelitteEtIndi
 https://github.com/CEREMA/dterso.pluginQgis.CeremaCartEau,True
 https://github.com/CEREMA/dterso.pluginQgis3.CeremaCartEau3,True
 https://github.com/CEREMA/rivages-android,True
-https://github.com/CEREMA/schema-arrete-circulation,False
+https://github.com/CEREMA/schema-arrete-circulation,True
 https://github.com/CEREMA/territoire-ville.Covadis,True
 https://github.com/CEREMA/territoires-ville.DiagFeux,True
 https://github.com/CEREMA/territoires-ville.Girabase,True
@@ -4589,7 +4589,7 @@ https://github.com/ina-foss/voxo-dashboard,True
 https://github.com/ina-foss/voxo-docker,True
 https://github.com/ina-foss/voxo-lib,True
 https://github.com/incubateur-territoires/demo-mesaides28,True
-https://github.com/incubateur-territoires/gridsome-source-graphql,False
+https://github.com/incubateur-territoires/gridsome-source-graphql,True
 https://github.com/incubateur-territoires/incubateur-directus,True
 https://github.com/incubateur-territoires/incubateur-strapi,True
 https://github.com/incubateur-territoires/incubateur.anct.gouv.fr,True
@@ -5225,6 +5225,7 @@ https://github.com/neuroanatomy/flattener,True
 https://github.com/neuroanatomy/foldgraph,True
 https://github.com/neuroanatomy/genomic-architecture,True
 https://github.com/neuroanatomy/growth,True
+https://github.com/neuroanatomy/histology-db,False
 https://github.com/neuroanatomy/marching_cubes,True
 https://github.com/neuroanatomy/meshgeometry,True
 https://github.com/neuroanatomy/microdraw,True
@@ -8477,7 +8478,7 @@ https://plmlab.math.cnrs.fr/cluster-icj/modules,False
 https://plmlab.math.cnrs.fr/cmt/atom,False
 https://plmlab.math.cnrs.fr/cmt/autofs,False
 https://plmlab.math.cnrs.fr/cmt/base,False
-https://plmlab.math.cnrs.fr/cmt/cmt-server,False
+https://plmlab.math.cnrs.fr/cmt/cmt-server,True
 https://plmlab.math.cnrs.fr/cmt/dhcp-relay,False
 https://plmlab.math.cnrs.fr/cmt/dhcp-server,False
 https://plmlab.math.cnrs.fr/cmt/dnsmasq,False
@@ -8556,7 +8557,7 @@ https://plmlab.math.cnrs.fr/imb-dijon/faq,False
 https://plmlab.math.cnrs.fr/imb-public/anr-template,False
 https://plmlab.math.cnrs.fr/imt/fragma/fragma-on-amqp,False
 https://plmlab.math.cnrs.fr/imt/puppet/gitlab_deploy_key,False
-https://plmlab.math.cnrs.fr/imt/puppet/kerberos_module,False
+https://plmlab.math.cnrs.fr/imt/puppet/kerberos_module,True
 https://plmlab.math.cnrs.fr/imt/sysadmin_pub_keys,False
 https://plmlab.math.cnrs.fr/infomath/git_dummy,True
 https://plmlab.math.cnrs.fr/infomath/latex,False
@@ -8572,7 +8573,7 @@ https://plmlab.math.cnrs.fr/lmrs/statistique/smmR,False
 https://plmlab.math.cnrs.fr/mathrice/journees/2019/03/jupytercloudx,False
 https://plmlab.math.cnrs.fr/mathrice/mathricecom/webmathrice-hs,False
 https://plmlab.math.cnrs.fr/mathrice/plmdoc/openshift-antora-template,False
-https://plmlab.math.cnrs.fr/mathrice/plmdoc/ui,False
+https://plmlab.math.cnrs.fr/mathrice/plmdoc/ui,True
 https://plmlab.math.cnrs.fr/mcia/demo,False
 https://plmlab.math.cnrs.fr/mcia/docsy,False
 https://plmlab.math.cnrs.fr/modcov19/configurations/seafile-custom,False
