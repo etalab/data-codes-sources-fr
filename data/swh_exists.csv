@@ -1128,7 +1128,7 @@ https://github.com/CCSDForge/HAL,True
 https://github.com/CCSDForge/Sciencesconf.org,True
 https://github.com/CCSDForge/StaticFiles,True
 https://github.com/CCSDForge/episciences,True
-https://github.com/CCSDForge/episciences-api,False
+https://github.com/CCSDForge/episciences-api,True
 https://github.com/CEA-LIST/CinguParam,True
 https://github.com/CEA-LIST/Cingulata,True
 https://github.com/CEA-LIST/DAHLIA-BodyIndex,True
@@ -2810,7 +2810,7 @@ https://github.com/abes-esr/abes-xslt,True
 https://github.com/abes-esr/algoliens-web,True
 https://github.com/abes-esr/archi-htmlreport-docker,True
 https://github.com/abes-esr/archi-model-example,True
-https://github.com/abes-esr/clamscan-docker,False
+https://github.com/abes-esr/clamscan-docker,True
 https://github.com/abes-esr/eplouribousse,True
 https://github.com/abes-esr/ezmaster-globs,True
 https://github.com/abes-esr/fne-back,True
@@ -6353,7 +6353,7 @@ https://gitlab.inria.fr/Damaris/Simulations/croco,True
 https://gitlab.inria.fr/Damaris/Simulations/noise,True
 https://gitlab.inria.fr/Damaris/damaris,True
 https://gitlab.inria.fr/E2Clab/Paper-Artifacts/plantnet,True
-https://gitlab.inria.fr/E2Clab/e2clab,False
+https://gitlab.inria.fr/E2Clab/e2clab,True
 https://gitlab.inria.fr/GATB/simka,True
 https://gitlab.inria.fr/GUDHI/coxeter_for_ouragan,True
 https://gitlab.inria.fr/GUDHI/data,True
@@ -8523,7 +8523,7 @@ https://plmlab.math.cnrs.fr/docker-images/debian,False
 https://plmlab.math.cnrs.fr/docker-images/docker-images.pages.math.cnrs.fr,False
 https://plmlab.math.cnrs.fr/docker-images/elasticsearch,False
 https://plmlab.math.cnrs.fr/docker-images/esup-pod,False
-https://plmlab.math.cnrs.fr/docker-images/mariadb,False
+https://plmlab.math.cnrs.fr/docker-images/mariadb,True
 https://plmlab.math.cnrs.fr/docker-images/mkdocs,False
 https://plmlab.math.cnrs.fr/docker-images/nfs-ganesha,False
 https://plmlab.math.cnrs.fr/docker-images/nodejs,False
@@ -8550,7 +8550,7 @@ https://plmlab.math.cnrs.fr/icinga-plugins/massive-df,False
 https://plmlab.math.cnrs.fr/icinga-plugins/remote-df,False
 https://plmlab.math.cnrs.fr/icinga-plugins/remote-grep,False
 https://plmlab.math.cnrs.fr/icinga-plugins/timesync,False
-https://plmlab.math.cnrs.fr/ihp/logo,False
+https://plmlab.math.cnrs.fr/ihp/logo,True
 https://plmlab.math.cnrs.fr/illustrating-math/sphere_morph,False
 https://plmlab.math.cnrs.fr/imb-dijon/faq,False
 https://plmlab.math.cnrs.fr/imb-public/anr-template,False
@@ -8558,7 +8558,7 @@ https://plmlab.math.cnrs.fr/imt/fragma/fragma-on-amqp,False
 https://plmlab.math.cnrs.fr/imt/puppet/gitlab_deploy_key,False
 https://plmlab.math.cnrs.fr/imt/puppet/kerberos_module,False
 https://plmlab.math.cnrs.fr/imt/sysadmin_pub_keys,False
-https://plmlab.math.cnrs.fr/infomath/git_dummy,False
+https://plmlab.math.cnrs.fr/infomath/git_dummy,True
 https://plmlab.math.cnrs.fr/infomath/latex,False
 https://plmlab.math.cnrs.fr/ipanema/propellor,False
 https://plmlab.math.cnrs.fr/jupytercloud/authenticator-proxy,False
