@@ -3228,7 +3228,7 @@ https://github.com/betagouv/matomo,True
 https://github.com/betagouv/matomo-beta,True
 https://github.com/betagouv/matomo-scalingo-deploy,True
 https://github.com/betagouv/mattermost-buildpack,True
-https://github.com/betagouv/mattermost-scalingo,False
+https://github.com/betagouv/mattermost-scalingo,True
 https://github.com/betagouv/mdph,True
 https://github.com/betagouv/mdph-evaluation,True
 https://github.com/betagouv/mdph-geva-etl,True
@@ -6284,7 +6284,7 @@ https://gitlab.huma-num.fr/rzine/documentation,True
 https://gitlab.huma-num.fr/rzine/help_rzine_publication,True
 https://gitlab.huma-num.fr/rzine/package,True
 https://gitlab.huma-num.fr/rzine/site,True
-https://gitlab.huma-num.fr/s-minaire-mip-paris-nanterre/projettest,False
+https://gitlab.huma-num.fr/s-minaire-mip-paris-nanterre/projettest,True
 https://gitlab.huma-num.fr/tesselle/arkhe,False
 https://gitlab.huma-num.fr/tesselle/hex,False
 https://gitlab.huma-num.fr/tesselle/packages,True
@@ -7481,7 +7481,7 @@ https://gitlab.inria.fr/optimdbs/optimdbs-dependencies/dtk,True
 https://gitlab.inria.fr/optimdbs/optimdbs-dependencies/itk,True
 https://gitlab.inria.fr/optimdbs/optimdbs-dependencies/qtdcm,True
 https://gitlab.inria.fr/optimdbs/optimdbs-dependencies/rpi,False
-https://gitlab.inria.fr/optimdbs/optimdbs-dependencies/ttk,False
+https://gitlab.inria.fr/optimdbs/optimdbs-dependencies/ttk,True
 https://gitlab.inria.fr/optimdbs/optimdbs-dependencies/vtk,True
 https://gitlab.inria.fr/optimdbs/optimdbs-medinria,True
 https://gitlab.inria.fr/optimdbs/optimdbs-superproject,True
@@ -7659,7 +7659,7 @@ https://gitlab.inria.fr/sollya/sollya,True
 https://gitlab.inria.fr/solverstack/ScalFMM,True
 https://gitlab.inria.fr/solverstack/brew-repo,True
 https://gitlab.inria.fr/solverstack/chameleon,True
-https://gitlab.inria.fr/solverstack/distrib,False
+https://gitlab.inria.fr/solverstack/distrib,True
 https://gitlab.inria.fr/solverstack/fabulous,True
 https://gitlab.inria.fr/solverstack/genfem,True
 https://gitlab.inria.fr/solverstack/h2p3s,True
@@ -8400,7 +8400,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/python-uga/website-pyscidatagre,Tru
 https://gricad-gitlab.univ-grenoble-alpes.fr/python-uga/working-sessions,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/rheolef/rheolef,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/rheolef/shalava,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/rvai-public/abstraction_based_monitors,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/rvai-public/abstraction_based_monitors,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/scalde-contrib/ljk-guix-channel,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/skitzml/compiler,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/steamer/thesis/lifeline,True
@@ -8466,7 +8466,7 @@ https://plmlab.math.cnrs.fr/alpine/runc,False
 https://plmlab.math.cnrs.fr/anf2018/bd-hadoop,False
 https://plmlab.math.cnrs.fr/anf2018/bd-mongodb,False
 https://plmlab.math.cnrs.fr/anr-bmws/anr-bmws.pages.math.cnrs.fr,False
-https://plmlab.math.cnrs.fr/anr-highagt/anr-highagt.pages.math.cnrs.fr,False
+https://plmlab.math.cnrs.fr/anr-highagt/anr-highagt.pages.math.cnrs.fr,True
 https://plmlab.math.cnrs.fr/archimede/intertwiningwavelet,False
 https://plmlab.math.cnrs.fr/bwoc2020/bwoc2020.pages.math.cnrs.fr,False
 https://plmlab.math.cnrs.fr/calcul-icj/bench-python-fft,False
@@ -8489,7 +8489,7 @@ https://plmlab.math.cnrs.fr/cmt/iptables,False
 https://plmlab.math.cnrs.fr/cmt/lldp-server,False
 https://plmlab.math.cnrs.fr/cmt/nfs-server,False
 https://plmlab.math.cnrs.fr/cmt/postgresql-server,False
-https://plmlab.math.cnrs.fr/cmt/powerdns-server,False
+https://plmlab.math.cnrs.fr/cmt/powerdns-server,True
 https://plmlab.math.cnrs.fr/cmt/profile-lmod,False
 https://plmlab.math.cnrs.fr/cmt/pulp-server,False
 https://plmlab.math.cnrs.fr/cmt/redis-server,False
@@ -8509,7 +8509,7 @@ https://plmlab.math.cnrs.fr/cmt/vagrant-switch,False
 https://plmlab.math.cnrs.fr/david.delavennat/lri,False
 https://plmlab.math.cnrs.fr/ddm-corner-helmholtz-2d/scripts-onelab,False
 https://plmlab.math.cnrs.fr/deaduction/projet-lean,False
-https://plmlab.math.cnrs.fr/demoPLMlab/demoCIlatex,False
+https://plmlab.math.cnrs.fr/demoPLMlab/demoCIlatex,True
 https://plmlab.math.cnrs.fr/diffusion-imb/website,False
 https://plmlab.math.cnrs.fr/docker-images/alpine,False
 https://plmlab.math.cnrs.fr/docker-images/augeas,False
