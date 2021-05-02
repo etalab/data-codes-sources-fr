@@ -886,7 +886,7 @@ https://github.com/1024pix/pix-engineering,True
 https://github.com/1024pix/pix-graviteeio,True
 https://github.com/1024pix/pix-help-center-theme,True
 https://github.com/1024pix/pix-lifestyle,True
-https://github.com/1024pix/pix-love,False
+https://github.com/1024pix/pix-love,True
 https://github.com/1024pix/pix-maintenance,True
 https://github.com/1024pix/pix-proxy-bucket-ovh,True
 https://github.com/1024pix/pix-redirect-support-pix-fr,True
@@ -5293,6 +5293,7 @@ https://github.com/ocaml/ocamlunix,True
 https://github.com/ocaml/odoc,True
 https://github.com/ocaml/oloop,True
 https://github.com/ocaml/omd,True
+https://github.com/ocaml/ood,False
 https://github.com/ocaml/opam,True
 https://github.com/ocaml/opam-bulk-logs,True
 https://github.com/ocaml/opam-file-format,True
@@ -7481,7 +7482,7 @@ https://gitlab.inria.fr/optimdbs/optimdbs-dependencies/dcmtk,True
 https://gitlab.inria.fr/optimdbs/optimdbs-dependencies/dtk,True
 https://gitlab.inria.fr/optimdbs/optimdbs-dependencies/itk,True
 https://gitlab.inria.fr/optimdbs/optimdbs-dependencies/qtdcm,True
-https://gitlab.inria.fr/optimdbs/optimdbs-dependencies/rpi,False
+https://gitlab.inria.fr/optimdbs/optimdbs-dependencies/rpi,True
 https://gitlab.inria.fr/optimdbs/optimdbs-dependencies/ttk,True
 https://gitlab.inria.fr/optimdbs/optimdbs-dependencies/vtk,True
 https://gitlab.inria.fr/optimdbs/optimdbs-medinria,True
@@ -8451,7 +8452,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/vqgroup/flow-matrix,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/vqgroup/kameleon-salt-receipe,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/vqgroup/mcc,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/vqgroup/telegraf-nftables,True
-https://plmlab.math.cnrs.fr/4m053/code_cours,False
+https://plmlab.math.cnrs.fr/4m053/code_cours,True
 https://plmlab.math.cnrs.fr/4m053/example,True
 https://plmlab.math.cnrs.fr/4m053/exemples-cpp,False
 https://plmlab.math.cnrs.fr/4m053/gdb-tuto,False
@@ -8459,7 +8460,7 @@ https://plmlab.math.cnrs.fr/4m053/slides-informatique,False
 https://plmlab.math.cnrs.fr/XLIM/SPDOPT,False
 https://plmlab.math.cnrs.fr/alpine/buildah,False
 https://plmlab.math.cnrs.fr/alpine/container-linux,False
-https://plmlab.math.cnrs.fr/alpine/containers/build,False
+https://plmlab.math.cnrs.fr/alpine/containers/build,True
 https://plmlab.math.cnrs.fr/alpine/containers/conmon,False
 https://plmlab.math.cnrs.fr/alpine/containers/podman,False
 https://plmlab.math.cnrs.fr/alpine/live,False
@@ -8533,7 +8534,7 @@ https://plmlab.math.cnrs.fr/docker-images/rabbitmq,False
 https://plmlab.math.cnrs.fr/docker-images/rocketchat,True
 https://plmlab.math.cnrs.fr/docker-images/systemd,False
 https://plmlab.math.cnrs.fr/docker-images/ubuntu,False
-https://plmlab.math.cnrs.fr/econetproject/econetwork,False
+https://plmlab.math.cnrs.fr/econetproject/econetwork,True
 https://plmlab.math.cnrs.fr/fano-hk/fano-hk.pages.math.cnrs.fr,False
 https://plmlab.math.cnrs.fr/fedora/live,False
 https://plmlab.math.cnrs.fr/fedora/lorax,False
@@ -8576,12 +8577,12 @@ https://plmlab.math.cnrs.fr/mathrice/plmdoc/openshift-antora-template,True
 https://plmlab.math.cnrs.fr/mathrice/plmdoc/ui,True
 https://plmlab.math.cnrs.fr/mcia/demo,False
 https://plmlab.math.cnrs.fr/mcia/docsy,False
-https://plmlab.math.cnrs.fr/modcov19/configurations/seafile-custom,False
+https://plmlab.math.cnrs.fr/modcov19/configurations/seafile-custom,True
 https://plmlab.math.cnrs.fr/openfaas/faas,False
 https://plmlab.math.cnrs.fr/openfaas/ipxe/classes/bastion,False
 https://plmlab.math.cnrs.fr/openfaas/ipxe/instances/06-00-00-01-00-01,False
 https://plmlab.math.cnrs.fr/openfaas/ipxe/instances/06-00-00-01-00-02,True
-https://plmlab.math.cnrs.fr/packer/artifactory-pro,False
+https://plmlab.math.cnrs.fr/packer/artifactory-pro,True
 https://plmlab.math.cnrs.fr/packer/centos/8/base,False
 https://plmlab.math.cnrs.fr/packer/idcs,False
 https://plmlab.math.cnrs.fr/pagesfil/lamp,False
