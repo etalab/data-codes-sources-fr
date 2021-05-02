@@ -6286,8 +6286,8 @@ https://gitlab.huma-num.fr/rzine/help_rzine_publication,True
 https://gitlab.huma-num.fr/rzine/package,True
 https://gitlab.huma-num.fr/rzine/site,True
 https://gitlab.huma-num.fr/s-minaire-mip-paris-nanterre/projettest,True
-https://gitlab.huma-num.fr/tesselle/arkhe,False
-https://gitlab.huma-num.fr/tesselle/hex,False
+https://gitlab.huma-num.fr/tesselle/arkhe,True
+https://gitlab.huma-num.fr/tesselle/hex,True
 https://gitlab.huma-num.fr/tesselle/packages,True
 https://gitlab.huma-num.fr/tesselle/style,False
 https://gitlab.huma-num.fr/tesselle/website,True
@@ -8476,12 +8476,12 @@ https://plmlab.math.cnrs.fr/calcul-icj/python-training,False
 https://plmlab.math.cnrs.fr/chaos-math/static,False
 https://plmlab.math.cnrs.fr/cluster-icj/modules,False
 https://plmlab.math.cnrs.fr/cmt/atom,False
-https://plmlab.math.cnrs.fr/cmt/autofs,False
+https://plmlab.math.cnrs.fr/cmt/autofs,True
 https://plmlab.math.cnrs.fr/cmt/base,False
 https://plmlab.math.cnrs.fr/cmt/cmt-server,True
 https://plmlab.math.cnrs.fr/cmt/dhcp-relay,True
 https://plmlab.math.cnrs.fr/cmt/dhcp-server,False
-https://plmlab.math.cnrs.fr/cmt/dnsmasq,False
+https://plmlab.math.cnrs.fr/cmt/dnsmasq,True
 https://plmlab.math.cnrs.fr/cmt/firewalld,False
 https://plmlab.math.cnrs.fr/cmt/git-server,True
 https://plmlab.math.cnrs.fr/cmt/gui,False
@@ -8509,9 +8509,9 @@ https://plmlab.math.cnrs.fr/cmt/vagrant-node,False
 https://plmlab.math.cnrs.fr/cmt/vagrant-switch,False
 https://plmlab.math.cnrs.fr/david.delavennat/lri,False
 https://plmlab.math.cnrs.fr/ddm-corner-helmholtz-2d/scripts-onelab,False
-https://plmlab.math.cnrs.fr/deaduction/projet-lean,False
+https://plmlab.math.cnrs.fr/deaduction/projet-lean,True
 https://plmlab.math.cnrs.fr/demoPLMlab/demoCIlatex,True
-https://plmlab.math.cnrs.fr/diffusion-imb/website,False
+https://plmlab.math.cnrs.fr/diffusion-imb/website,True
 https://plmlab.math.cnrs.fr/docker-images/alpine,False
 https://plmlab.math.cnrs.fr/docker-images/augeas,False
 https://plmlab.math.cnrs.fr/docker-images/base-notebook-nbgrader,False
@@ -8550,7 +8550,7 @@ https://plmlab.math.cnrs.fr/icinga-plugins/check-swap,False
 https://plmlab.math.cnrs.fr/icinga-plugins/massive-df,False
 https://plmlab.math.cnrs.fr/icinga-plugins/remote-df,False
 https://plmlab.math.cnrs.fr/icinga-plugins/remote-grep,False
-https://plmlab.math.cnrs.fr/icinga-plugins/timesync,False
+https://plmlab.math.cnrs.fr/icinga-plugins/timesync,True
 https://plmlab.math.cnrs.fr/ihp/logo,True
 https://plmlab.math.cnrs.fr/illustrating-math/sphere_morph,False
 https://plmlab.math.cnrs.fr/imb-dijon/faq,False
@@ -8580,7 +8580,7 @@ https://plmlab.math.cnrs.fr/modcov19/configurations/seafile-custom,False
 https://plmlab.math.cnrs.fr/openfaas/faas,False
 https://plmlab.math.cnrs.fr/openfaas/ipxe/classes/bastion,False
 https://plmlab.math.cnrs.fr/openfaas/ipxe/instances/06-00-00-01-00-01,False
-https://plmlab.math.cnrs.fr/openfaas/ipxe/instances/06-00-00-01-00-02,False
+https://plmlab.math.cnrs.fr/openfaas/ipxe/instances/06-00-00-01-00-02,True
 https://plmlab.math.cnrs.fr/packer/artifactory-pro,False
 https://plmlab.math.cnrs.fr/packer/centos/8/base,False
 https://plmlab.math.cnrs.fr/packer/idcs,False
@@ -8666,7 +8666,7 @@ https://plmlab.math.cnrs.fr/plmteam/streaming,False
 https://plmlab.math.cnrs.fr/portail-maths/agenda-emath,False
 https://plmlab.math.cnrs.fr/portail-maths/ticket-ezproxy,False
 https://plmlab.math.cnrs.fr/rancher/os-alpineconsole,True
-https://plmlab.math.cnrs.fr/rancher/os-hashistackconsole,False
+https://plmlab.math.cnrs.fr/rancher/os-hashistackconsole,True
 https://plmlab.math.cnrs.fr/razvanbarbulescu/razvanbarbulescu.pages.math.cnrs.fr,False
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/ada-devops-tbx,False
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/ada-tp-packer,False
