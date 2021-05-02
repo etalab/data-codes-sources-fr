@@ -433,7 +433,7 @@ https://forgemia.inra.fr/metagenopolis/trim_fastq,True
 https://forgemia.inra.fr/metexplore/MetExploreViz,True
 https://forgemia.inra.fr/metexplore/cbm/dexom,True
 https://forgemia.inra.fr/metexplore/cbm/fvabiomarkers,True
-https://forgemia.inra.fr/metexplore/cbm/met4j-flux,False
+https://forgemia.inra.fr/metexplore/cbm/met4j-flux,True
 https://forgemia.inra.fr/metexplore/met4j,True
 https://forgemia.inra.fr/metexplore/metabolomics2network,True
 https://forgemia.inra.fr/metexplore/metexplore2,True
@@ -2151,7 +2151,7 @@ https://github.com/LINCnil/obs-cookies,True
 https://github.com/LINCnil/pia,True
 https://github.com/LINCnil/pia-app,True
 https://github.com/LINCnil/pia-back,True
-https://github.com/LINCnil/pia-i18n,False
+https://github.com/LINCnil/pia-i18n,True
 https://github.com/LINCnil/scripts-vm-cel,True
 https://github.com/LINCnil/tosback2,True
 https://github.com/LemonLDAPNG/Apache-Session-Browseable,True
@@ -6112,6 +6112,8 @@ https://gitlab.com/fabnum-minarm/igloo/docker-images,True
 https://gitlab.com/fabnum-minarm/igloo/docs,True
 https://gitlab.com/fabnum-minarm/igloo/gitlab-templates,True
 https://gitlab.com/fabnum-minarm/igloo/helm-charts,True
+https://gitlab.com/fabnum-minarm/igloo/images/rust/cargo-component-rustfmt,False
+https://gitlab.com/fabnum-minarm/igloo/images/rust/cargo-sccache,False
 https://gitlab.com/fabnum-minarm/igloo/images/rust/common-dev-libraries,False
 https://gitlab.com/fabnum-minarm/igloo/terraform/main,True
 https://gitlab.com/fabnum-minarm/igloo/terraform/modules/add-runner,True
@@ -8505,7 +8507,7 @@ https://plmlab.math.cnrs.fr/cmt/sss,False
 https://plmlab.math.cnrs.fr/cmt/stdlib,False
 https://plmlab.math.cnrs.fr/cmt/tftp-relay,False
 https://plmlab.math.cnrs.fr/cmt/tftp-server,False
-https://plmlab.math.cnrs.fr/cmt/vagrant-nfs,False
+https://plmlab.math.cnrs.fr/cmt/vagrant-nfs,True
 https://plmlab.math.cnrs.fr/cmt/vagrant-node,False
 https://plmlab.math.cnrs.fr/cmt/vagrant-switch,False
 https://plmlab.math.cnrs.fr/david.delavennat/lri,False
@@ -8522,14 +8524,14 @@ https://plmlab.math.cnrs.fr/docker-images/build-container,False
 https://plmlab.math.cnrs.fr/docker-images/buildah,False
 https://plmlab.math.cnrs.fr/docker-images/centos,False
 https://plmlab.math.cnrs.fr/docker-images/debian,False
-https://plmlab.math.cnrs.fr/docker-images/docker-images.pages.math.cnrs.fr,False
+https://plmlab.math.cnrs.fr/docker-images/docker-images.pages.math.cnrs.fr,True
 https://plmlab.math.cnrs.fr/docker-images/elasticsearch,False
 https://plmlab.math.cnrs.fr/docker-images/esup-pod,False
 https://plmlab.math.cnrs.fr/docker-images/mariadb,True
 https://plmlab.math.cnrs.fr/docker-images/mkdocs,False
 https://plmlab.math.cnrs.fr/docker-images/nfs-ganesha,False
 https://plmlab.math.cnrs.fr/docker-images/nodejs,False
-https://plmlab.math.cnrs.fr/docker-images/openjdk-jre-headless,False
+https://plmlab.math.cnrs.fr/docker-images/openjdk-jre-headless,True
 https://plmlab.math.cnrs.fr/docker-images/rabbitmq,False
 https://plmlab.math.cnrs.fr/docker-images/rocketchat,True
 https://plmlab.math.cnrs.fr/docker-images/systemd,False
@@ -8541,7 +8543,7 @@ https://plmlab.math.cnrs.fr/fedora/lorax,False
 https://plmlab.math.cnrs.fr/formation-calcul/optimisation,False
 https://plmlab.math.cnrs.fr/gdr-mascotnum/mnwiki-server,False
 https://plmlab.math.cnrs.fr/gdurif_slides/2021_02_18_ML_MPT_R_shiny,False
-https://plmlab.math.cnrs.fr/gdurif_teaching/polytech_ig5_regression,False
+https://plmlab.math.cnrs.fr/gdurif_teaching/polytech_ig5_regression,True
 https://plmlab.math.cnrs.fr/gdurif_teaching/polytech_ig5_regression_tutorial,True
 https://plmlab.math.cnrs.fr/groupe-calcul/website-digest,False
 https://plmlab.math.cnrs.fr/groupe-calcul/website-plmshift,False
@@ -8554,7 +8556,7 @@ https://plmlab.math.cnrs.fr/icinga-plugins/remote-grep,False
 https://plmlab.math.cnrs.fr/icinga-plugins/timesync,True
 https://plmlab.math.cnrs.fr/ihp/logo,True
 https://plmlab.math.cnrs.fr/illustrating-math/sphere_morph,False
-https://plmlab.math.cnrs.fr/imb-dijon/faq,False
+https://plmlab.math.cnrs.fr/imb-dijon/faq,True
 https://plmlab.math.cnrs.fr/imb-public/anr-template,False
 https://plmlab.math.cnrs.fr/imt/fragma/fragma-on-amqp,False
 https://plmlab.math.cnrs.fr/imt/puppet/gitlab_deploy_key,False
