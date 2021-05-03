@@ -2935,6 +2935,7 @@ https://github.com/ambanum/political-ads-legality-server,True
 https://github.com/ambanum/political-ads-scraper,True
 https://github.com/ambanum/prettier-config,True
 https://github.com/ambanum/server-config,True
+https://github.com/ambanum/snscrape,True
 https://github.com/ambanum/twint,True
 https://github.com/aphp/Cohort360,True
 https://github.com/aphp/Cohort360-Back-end,True
@@ -4368,6 +4369,7 @@ https://github.com/etalab/rubocop_api_entreprise,True
 https://github.com/etalab/run-nb,True
 https://github.com/etalab/schema-amenagements-cyclables,True
 https://github.com/etalab/schema-bal,True
+https://github.com/etalab/schema-comptage-velo,True
 https://github.com/etalab/schema-decp-dpa,True
 https://github.com/etalab/schema-generic-template,True
 https://github.com/etalab/schema-hautes-remunerations,True
@@ -8465,11 +8467,11 @@ https://plmlab.math.cnrs.fr/4m053/gdb-tuto,False
 https://plmlab.math.cnrs.fr/4m053/slides-informatique,False
 https://plmlab.math.cnrs.fr/XLIM/SPDOPT,False
 https://plmlab.math.cnrs.fr/alpine/buildah,False
-https://plmlab.math.cnrs.fr/alpine/container-linux,False
+https://plmlab.math.cnrs.fr/alpine/container-linux,True
 https://plmlab.math.cnrs.fr/alpine/containers/build,True
 https://plmlab.math.cnrs.fr/alpine/containers/conmon,False
 https://plmlab.math.cnrs.fr/alpine/containers/podman,False
-https://plmlab.math.cnrs.fr/alpine/live,False
+https://plmlab.math.cnrs.fr/alpine/live,True
 https://plmlab.math.cnrs.fr/alpine/runc,False
 https://plmlab.math.cnrs.fr/anf2018/bd-hadoop,False
 https://plmlab.math.cnrs.fr/anf2018/bd-mongodb,False
@@ -8493,7 +8495,7 @@ https://plmlab.math.cnrs.fr/cmt/firewalld,False
 https://plmlab.math.cnrs.fr/cmt/git-server,True
 https://plmlab.math.cnrs.fr/cmt/gui,False
 https://plmlab.math.cnrs.fr/cmt/http-server,True
-https://plmlab.math.cnrs.fr/cmt/iptables,False
+https://plmlab.math.cnrs.fr/cmt/iptables,True
 https://plmlab.math.cnrs.fr/cmt/lldp-server,False
 https://plmlab.math.cnrs.fr/cmt/nfs-server,False
 https://plmlab.math.cnrs.fr/cmt/postgresql-server,False
@@ -8502,10 +8504,10 @@ https://plmlab.math.cnrs.fr/cmt/profile-lmod,False
 https://plmlab.math.cnrs.fr/cmt/pulp-server,False
 https://plmlab.math.cnrs.fr/cmt/redis-server,False
 https://plmlab.math.cnrs.fr/cmt/repository-codeit-guru,False
-https://plmlab.math.cnrs.fr/cmt/repository-epel,False
-https://plmlab.math.cnrs.fr/cmt/ruby-libcouchbase,False
+https://plmlab.math.cnrs.fr/cmt/repository-epel,True
+https://plmlab.math.cnrs.fr/cmt/ruby-libcouchbase,True
 https://plmlab.math.cnrs.fr/cmt/software-collections,False
-https://plmlab.math.cnrs.fr/cmt/software-collections-python3,False
+https://plmlab.math.cnrs.fr/cmt/software-collections-python3,True
 https://plmlab.math.cnrs.fr/cmt/software-collections-ruby,False
 https://plmlab.math.cnrs.fr/cmt/sss,False
 https://plmlab.math.cnrs.fr/cmt/stdlib,False
@@ -8553,7 +8555,7 @@ https://plmlab.math.cnrs.fr/groupe-calcul/website-digest,False
 https://plmlab.math.cnrs.fr/groupe-calcul/website-plmshift,False
 https://plmlab.math.cnrs.fr/icinga-plugins/check-freshness,False
 https://plmlab.math.cnrs.fr/icinga-plugins/check-load,False
-https://plmlab.math.cnrs.fr/icinga-plugins/check-swap,False
+https://plmlab.math.cnrs.fr/icinga-plugins/check-swap,True
 https://plmlab.math.cnrs.fr/icinga-plugins/massive-df,True
 https://plmlab.math.cnrs.fr/icinga-plugins/remote-df,False
 https://plmlab.math.cnrs.fr/icinga-plugins/remote-grep,False
@@ -8601,7 +8603,7 @@ https://plmlab.math.cnrs.fr/perso/docs,False
 https://plmlab.math.cnrs.fr/perso/perso.pages.math.cnrs.fr,False
 https://plmlab.math.cnrs.fr/perso/users/arthur.touati,False
 https://plmlab.math.cnrs.fr/perso/users/bertrand.remy,False
-https://plmlab.math.cnrs.fr/perso/users/caterina.valcu,False
+https://plmlab.math.cnrs.fr/perso/users/caterina.valcu,True
 https://plmlab.math.cnrs.fr/perso/users/damien.ferney,False
 https://plmlab.math.cnrs.fr/perso/users/david.delavennat,False
 https://plmlab.math.cnrs.fr/perso/users/diego.izquierdo,False
