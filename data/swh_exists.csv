@@ -8509,7 +8509,7 @@ https://plmlab.math.cnrs.fr/cmt/tftp-relay,False
 https://plmlab.math.cnrs.fr/cmt/tftp-server,False
 https://plmlab.math.cnrs.fr/cmt/vagrant-nfs,True
 https://plmlab.math.cnrs.fr/cmt/vagrant-node,False
-https://plmlab.math.cnrs.fr/cmt/vagrant-switch,False
+https://plmlab.math.cnrs.fr/cmt/vagrant-switch,True
 https://plmlab.math.cnrs.fr/david.delavennat/lri,False
 https://plmlab.math.cnrs.fr/ddm-corner-helmholtz-2d/scripts-onelab,False
 https://plmlab.math.cnrs.fr/deaduction/projet-lean,True
@@ -8526,7 +8526,7 @@ https://plmlab.math.cnrs.fr/docker-images/centos,False
 https://plmlab.math.cnrs.fr/docker-images/debian,False
 https://plmlab.math.cnrs.fr/docker-images/docker-images.pages.math.cnrs.fr,True
 https://plmlab.math.cnrs.fr/docker-images/elasticsearch,False
-https://plmlab.math.cnrs.fr/docker-images/esup-pod,False
+https://plmlab.math.cnrs.fr/docker-images/esup-pod,True
 https://plmlab.math.cnrs.fr/docker-images/mariadb,True
 https://plmlab.math.cnrs.fr/docker-images/mkdocs,False
 https://plmlab.math.cnrs.fr/docker-images/nfs-ganesha,False
@@ -8550,7 +8550,7 @@ https://plmlab.math.cnrs.fr/groupe-calcul/website-plmshift,False
 https://plmlab.math.cnrs.fr/icinga-plugins/check-freshness,False
 https://plmlab.math.cnrs.fr/icinga-plugins/check-load,False
 https://plmlab.math.cnrs.fr/icinga-plugins/check-swap,False
-https://plmlab.math.cnrs.fr/icinga-plugins/massive-df,False
+https://plmlab.math.cnrs.fr/icinga-plugins/massive-df,True
 https://plmlab.math.cnrs.fr/icinga-plugins/remote-df,False
 https://plmlab.math.cnrs.fr/icinga-plugins/remote-grep,False
 https://plmlab.math.cnrs.fr/icinga-plugins/timesync,True
@@ -8571,7 +8571,7 @@ https://plmlab.math.cnrs.fr/jupytercloud/image-paris-saclay,False
 https://plmlab.math.cnrs.fr/jupytercloud/kubernetes,False
 https://plmlab.math.cnrs.fr/jupytercloud/repo2docker,False
 https://plmlab.math.cnrs.fr/jupytercloud/www,False
-https://plmlab.math.cnrs.fr/lmrs/statistique/drimmR,False
+https://plmlab.math.cnrs.fr/lmrs/statistique/drimmR,True
 https://plmlab.math.cnrs.fr/lmrs/statistique/smmR,False
 https://plmlab.math.cnrs.fr/mathrice/journees/2019/03/jupytercloudx,False
 https://plmlab.math.cnrs.fr/mathrice/mathricecom/webmathrice-hs,False
@@ -8580,7 +8580,7 @@ https://plmlab.math.cnrs.fr/mathrice/plmdoc/ui,True
 https://plmlab.math.cnrs.fr/mcia/demo,False
 https://plmlab.math.cnrs.fr/mcia/docsy,False
 https://plmlab.math.cnrs.fr/modcov19/configurations/seafile-custom,True
-https://plmlab.math.cnrs.fr/openfaas/faas,False
+https://plmlab.math.cnrs.fr/openfaas/faas,True
 https://plmlab.math.cnrs.fr/openfaas/ipxe/classes/bastion,False
 https://plmlab.math.cnrs.fr/openfaas/ipxe/instances/06-00-00-01-00-01,False
 https://plmlab.math.cnrs.fr/openfaas/ipxe/instances/06-00-00-01-00-02,True
@@ -8612,7 +8612,7 @@ https://plmlab.math.cnrs.fr/plm-services/geminabox-plmshift,False
 https://plmlab.math.cnrs.fr/plm-services/plm_build,False
 https://plmlab.math.cnrs.fr/plmlab/dind,False
 https://plmlab.math.cnrs.fr/plmlatex/plmlatex,False
-https://plmlab.math.cnrs.fr/plmlatex/sharelatex-clsi,False
+https://plmlab.math.cnrs.fr/plmlatex/sharelatex-clsi,True
 https://plmlab.math.cnrs.fr/plmlatex/sharelatex-web,False
 https://plmlab.math.cnrs.fr/plmshift/bbb-downloader,False
 https://plmlab.math.cnrs.fr/plmshift/borgbackup,False
