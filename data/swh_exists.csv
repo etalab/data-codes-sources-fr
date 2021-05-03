@@ -1189,6 +1189,7 @@ https://github.com/CEREMA/dterso.pluginQgis.CeremaCartEau,True
 https://github.com/CEREMA/dterso.pluginQgis3.CeremaCartEau3,True
 https://github.com/CEREMA/rivages-android,True
 https://github.com/CEREMA/schema-arrete-circulation,True
+https://github.com/CEREMA/schema-arrete-permanent-circulation,False
 https://github.com/CEREMA/territoire-ville.Covadis,True
 https://github.com/CEREMA/territoires-ville.DiagFeux,True
 https://github.com/CEREMA/territoires-ville.Girabase,True
@@ -3213,6 +3214,7 @@ https://github.com/betagouv/kong-delegateAuth-deprecated,True
 https://github.com/betagouv/la-sass-vy,True
 https://github.com/betagouv/label-transition-ecologique,True
 https://github.com/betagouv/lapin,True
+https://github.com/betagouv/lescollines.comobi.fr,False
 https://github.com/betagouv/leximpact-client,True
 https://github.com/betagouv/leximpact-server,True
 https://github.com/betagouv/logstash-boilerplate,True
@@ -3391,6 +3393,7 @@ https://github.com/betagouv/svair-mock-data,True
 https://github.com/betagouv/svair-mock-deprecated,True
 https://github.com/betagouv/syso,True
 https://github.com/betagouv/syso-core,True
+https://github.com/betagouv/tarn.comobi.fr,False
 https://github.com/betagouv/taux-collectifs-cotisation-atmp,True
 https://github.com/betagouv/taux-versement-transport,True
 https://github.com/betagouv/template-design-system-de-l-etat,True
@@ -3714,7 +3717,7 @@ https://github.com/dataesr/curieXplore-paysage,False
 https://github.com/dataesr/kubectl-deploy,True
 https://github.com/dataesr/onedrive,True
 https://github.com/dataesr/paysage-openapi,True
-https://github.com/dataesr/react-dsfr,False
+https://github.com/dataesr/react-dsfr,True
 https://github.com/dataesr/scanr-end2end,False
 https://github.com/dataesr/scientific_tagger,True
 https://github.com/datagir/Ecolab,True
@@ -4223,6 +4226,7 @@ https://github.com/etalab/dactylo,True
 https://github.com/etalab/dashboard-aides-entreprises,True
 https://github.com/etalab/dashboard_api_entreprise,True
 https://github.com/etalab/data-codes-sources-fr,True
+https://github.com/etalab/data-covid19-dashboard-widgets,False
 https://github.com/etalab/data.etalab.studio,True
 https://github.com/etalab/data.gouv.fr,True
 https://github.com/etalab/datagouv-dashboard-moderation,True
@@ -8472,11 +8476,11 @@ https://plmlab.math.cnrs.fr/anf2018/bd-mongodb,False
 https://plmlab.math.cnrs.fr/anr-bmws/anr-bmws.pages.math.cnrs.fr,True
 https://plmlab.math.cnrs.fr/anr-highagt/anr-highagt.pages.math.cnrs.fr,True
 https://plmlab.math.cnrs.fr/archimede/intertwiningwavelet,False
-https://plmlab.math.cnrs.fr/bwoc2020/bwoc2020.pages.math.cnrs.fr,False
+https://plmlab.math.cnrs.fr/bwoc2020/bwoc2020.pages.math.cnrs.fr,True
 https://plmlab.math.cnrs.fr/calcul-icj/bench-python-fft,False
 https://plmlab.math.cnrs.fr/calcul-icj/git-express,False
 https://plmlab.math.cnrs.fr/calcul-icj/python-training,False
-https://plmlab.math.cnrs.fr/chaos-math/static,False
+https://plmlab.math.cnrs.fr/chaos-math/static,True
 https://plmlab.math.cnrs.fr/cluster-icj/modules,False
 https://plmlab.math.cnrs.fr/cmt/atom,False
 https://plmlab.math.cnrs.fr/cmt/autofs,True
@@ -8488,7 +8492,7 @@ https://plmlab.math.cnrs.fr/cmt/dnsmasq,True
 https://plmlab.math.cnrs.fr/cmt/firewalld,False
 https://plmlab.math.cnrs.fr/cmt/git-server,True
 https://plmlab.math.cnrs.fr/cmt/gui,False
-https://plmlab.math.cnrs.fr/cmt/http-server,False
+https://plmlab.math.cnrs.fr/cmt/http-server,True
 https://plmlab.math.cnrs.fr/cmt/iptables,False
 https://plmlab.math.cnrs.fr/cmt/lldp-server,False
 https://plmlab.math.cnrs.fr/cmt/nfs-server,False
@@ -8529,7 +8533,7 @@ https://plmlab.math.cnrs.fr/docker-images/elasticsearch,False
 https://plmlab.math.cnrs.fr/docker-images/esup-pod,True
 https://plmlab.math.cnrs.fr/docker-images/mariadb,True
 https://plmlab.math.cnrs.fr/docker-images/mkdocs,False
-https://plmlab.math.cnrs.fr/docker-images/nfs-ganesha,False
+https://plmlab.math.cnrs.fr/docker-images/nfs-ganesha,True
 https://plmlab.math.cnrs.fr/docker-images/nodejs,False
 https://plmlab.math.cnrs.fr/docker-images/openjdk-jre-headless,True
 https://plmlab.math.cnrs.fr/docker-images/rabbitmq,False
@@ -8570,7 +8574,7 @@ https://plmlab.math.cnrs.fr/jupytercloud/httpd-shibboleth-sp,False
 https://plmlab.math.cnrs.fr/jupytercloud/image-paris-saclay,False
 https://plmlab.math.cnrs.fr/jupytercloud/kubernetes,False
 https://plmlab.math.cnrs.fr/jupytercloud/repo2docker,False
-https://plmlab.math.cnrs.fr/jupytercloud/www,False
+https://plmlab.math.cnrs.fr/jupytercloud/www,True
 https://plmlab.math.cnrs.fr/lmrs/statistique/drimmR,True
 https://plmlab.math.cnrs.fr/lmrs/statistique/smmR,False
 https://plmlab.math.cnrs.fr/mathrice/journees/2019/03/jupytercloudx,False
@@ -8608,7 +8612,7 @@ https://plmlab.math.cnrs.fr/perso/users/thomas.gauthier,False
 https://plmlab.math.cnrs.fr/phymath/nspawn,False
 https://plmlab.math.cnrs.fr/phymath/tftp-http-proxy,False
 https://plmlab.math.cnrs.fr/phymath/undionly.kkpxe,False
-https://plmlab.math.cnrs.fr/plm-services/geminabox-plmshift,False
+https://plmlab.math.cnrs.fr/plm-services/geminabox-plmshift,True
 https://plmlab.math.cnrs.fr/plm-services/plm_build,False
 https://plmlab.math.cnrs.fr/plmlab/dind,False
 https://plmlab.math.cnrs.fr/plmlatex/plmlatex,False
