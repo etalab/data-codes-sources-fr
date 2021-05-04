@@ -1586,6 +1586,7 @@ https://github.com/GIP-RECIA/Roundcube-CAS-Authn,True
 https://github.com/GIP-RECIA/Roundcube-esco_addressbook,True
 https://github.com/GIP-RECIA/Roundcube-esco_theme,True
 https://github.com/GIP-RECIA/WebproxyPortlet,True
+https://github.com/GIP-RECIA/ansible-role-wireguard,False
 https://github.com/GIP-RECIA/apps-deployer,True
 https://github.com/GIP-RECIA/apps-redirector,True
 https://github.com/GIP-RECIA/awesome-selfhosted,True
@@ -2077,7 +2078,7 @@ https://github.com/InseeFrLab/rstudio,True
 https://github.com/InseeFrLab/rstudio-gpu,True
 https://github.com/InseeFrLab/simple-default-backend,True
 https://github.com/InseeFrLab/spark,True
-https://github.com/InseeFrLab/spark-hadoop,False
+https://github.com/InseeFrLab/spark-hadoop,True
 https://github.com/InseeFrLab/sugoi-api,True
 https://github.com/InseeFrLab/sugoi-ui,True
 https://github.com/InseeFrLab/tensorflow,True
@@ -8494,7 +8495,7 @@ https://plmlab.math.cnrs.fr/archimede/intertwiningwavelet,False
 https://plmlab.math.cnrs.fr/bwoc2020/bwoc2020.pages.math.cnrs.fr,True
 https://plmlab.math.cnrs.fr/calcul-icj/bench-python-fft,False
 https://plmlab.math.cnrs.fr/calcul-icj/git-express,False
-https://plmlab.math.cnrs.fr/calcul-icj/python-training,False
+https://plmlab.math.cnrs.fr/calcul-icj/python-training,True
 https://plmlab.math.cnrs.fr/chaos-math/static,True
 https://plmlab.math.cnrs.fr/cluster-icj/modules,False
 https://plmlab.math.cnrs.fr/cmt/atom,False
@@ -8537,10 +8538,10 @@ https://plmlab.math.cnrs.fr/diffusion-imb/website,True
 https://plmlab.math.cnrs.fr/docker-images/alpine,False
 https://plmlab.math.cnrs.fr/docker-images/augeas,True
 https://plmlab.math.cnrs.fr/docker-images/base-notebook-nbgrader,False
-https://plmlab.math.cnrs.fr/docker-images/bash,False
+https://plmlab.math.cnrs.fr/docker-images/bash,True
 https://plmlab.math.cnrs.fr/docker-images/bash-bundler,False
 https://plmlab.math.cnrs.fr/docker-images/build-container,True
-https://plmlab.math.cnrs.fr/docker-images/buildah,False
+https://plmlab.math.cnrs.fr/docker-images/buildah,True
 https://plmlab.math.cnrs.fr/docker-images/centos,True
 https://plmlab.math.cnrs.fr/docker-images/debian,True
 https://plmlab.math.cnrs.fr/docker-images/docker-images.pages.math.cnrs.fr,True
@@ -8654,7 +8655,7 @@ https://plmlab.math.cnrs.fr/plmshift/kubernetes-zfs-provisioner,True
 https://plmlab.math.cnrs.fr/plmshift/lamp,False
 https://plmlab.math.cnrs.fr/plmshift/limesurvey,False
 https://plmlab.math.cnrs.fr/plmshift/logrotate,False
-https://plmlab.math.cnrs.fr/plmshift/mongodump,False
+https://plmlab.math.cnrs.fr/plmshift/mongodump,True
 https://plmlab.math.cnrs.fr/plmshift/moodle,False
 https://plmlab.math.cnrs.fr/plmshift/mysqldump,False
 https://plmlab.math.cnrs.fr/plmshift/notebook-example,True
