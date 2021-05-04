@@ -1844,6 +1844,7 @@ https://github.com/Inist-CNRS/ezmaster,True
 https://github.com/Inist-CNRS/ezmaster-automaton,True
 https://github.com/Inist-CNRS/ezmaster-canvas,True
 https://github.com/Inist-CNRS/ezmaster-cli,True
+https://github.com/Inist-CNRS/ezmaster-dokuwiki,False
 https://github.com/Inist-CNRS/ezmaster-gitbook,True
 https://github.com/Inist-CNRS/ezmaster-globs,True
 https://github.com/Inist-CNRS/ezmaster-hexo,True
@@ -3051,6 +3052,7 @@ https://github.com/betagouv/api-cpa,True
 https://github.com/betagouv/api-diagoriente-v5,True
 https://github.com/betagouv/api-drones,True
 https://github.com/betagouv/api-engagement,True
+https://github.com/betagouv/api-label-transition-ecologique,False
 https://github.com/betagouv/api-medicaments,True
 https://github.com/betagouv/api-particulier,True
 https://github.com/betagouv/api-particulier-ansible,True
@@ -3337,6 +3339,7 @@ https://github.com/betagouv/poubellesbattle,True
 https://github.com/betagouv/preuve-covoiturage,True
 https://github.com/betagouv/preuve-covoiturage-doc,True
 https://github.com/betagouv/preuve-covoiturage-vitrine,True
+https://github.com/betagouv/psy-enfant-ado,False
 https://github.com/betagouv/publicodes,True
 https://github.com/betagouv/qrcode-svg,True
 https://github.com/betagouv/quotient-familial,True
@@ -3394,7 +3397,7 @@ https://github.com/betagouv/svair-mock-data,True
 https://github.com/betagouv/svair-mock-deprecated,True
 https://github.com/betagouv/syso,True
 https://github.com/betagouv/syso-core,True
-https://github.com/betagouv/tarn.comobi.fr,False
+https://github.com/betagouv/tarn.comobi.fr,True
 https://github.com/betagouv/taux-collectifs-cotisation-atmp,True
 https://github.com/betagouv/taux-versement-transport,True
 https://github.com/betagouv/template-design-system-de-l-etat,True
@@ -4614,6 +4617,7 @@ https://github.com/inrae/Formation_Python,True
 https://github.com/inrae/GR3D,True
 https://github.com/inrae/Matrix_lib-v2.0,True
 https://github.com/inrae/ODAM,True
+https://github.com/inrae/RCaN,False
 https://github.com/inrae/SISPPEO,True
 https://github.com/inrae/ShellScripts,True
 https://github.com/inrae/dbexportmodel,True
@@ -6036,6 +6040,7 @@ https://gitlab.cerema.fr/admin-donnees/admin_referentiels_postgresql,True
 https://gitlab.cerema.fr/admin-donnees/fr.cerema.admin_donnees_postgresql,True
 https://gitlab.cerema.fr/centre-est/admin_ceremabase,True
 https://gitlab.cerema.fr/geomatique_donnees/en_test,True
+https://gitlab.cerema.fr/rem-d2pn-pn/fairplay,False
 https://gitlab.com/CSTB/geocoding_tools,True
 https://gitlab.com/CSTB/ifc2x3-SDK,True
 https://gitlab.com/CSTB/mathis,True
@@ -6930,6 +6935,8 @@ https://gitlab.inria.fr/dtk/dtk-wm,True
 https://gitlab.inria.fr/dtk/dtk-www,True
 https://gitlab.inria.fr/ed-mathstic/latex-template,True
 https://gitlab.inria.fr/eigen/eigen-mirror,True
+https://gitlab.inria.fr/elan-public-code/obj2vtk,False
+https://gitlab.inria.fr/elan-public-code/projectivefriction,False
 https://gitlab.inria.fr/enseignement/MIAGE_TP_XML_2017,True
 https://gitlab.inria.fr/epione/GP_progression_model_V2,True
 https://gitlab.inria.fr/epione/biblio,True
@@ -8496,7 +8503,7 @@ https://plmlab.math.cnrs.fr/cmt/git-server,True
 https://plmlab.math.cnrs.fr/cmt/gui,False
 https://plmlab.math.cnrs.fr/cmt/http-server,True
 https://plmlab.math.cnrs.fr/cmt/iptables,True
-https://plmlab.math.cnrs.fr/cmt/lldp-server,False
+https://plmlab.math.cnrs.fr/cmt/lldp-server,True
 https://plmlab.math.cnrs.fr/cmt/nfs-server,False
 https://plmlab.math.cnrs.fr/cmt/postgresql-server,False
 https://plmlab.math.cnrs.fr/cmt/powerdns-server,True
@@ -8526,10 +8533,10 @@ https://plmlab.math.cnrs.fr/docker-images/augeas,True
 https://plmlab.math.cnrs.fr/docker-images/base-notebook-nbgrader,False
 https://plmlab.math.cnrs.fr/docker-images/bash,False
 https://plmlab.math.cnrs.fr/docker-images/bash-bundler,False
-https://plmlab.math.cnrs.fr/docker-images/build-container,False
+https://plmlab.math.cnrs.fr/docker-images/build-container,True
 https://plmlab.math.cnrs.fr/docker-images/buildah,False
-https://plmlab.math.cnrs.fr/docker-images/centos,False
-https://plmlab.math.cnrs.fr/docker-images/debian,False
+https://plmlab.math.cnrs.fr/docker-images/centos,True
+https://plmlab.math.cnrs.fr/docker-images/debian,True
 https://plmlab.math.cnrs.fr/docker-images/docker-images.pages.math.cnrs.fr,True
 https://plmlab.math.cnrs.fr/docker-images/elasticsearch,False
 https://plmlab.math.cnrs.fr/docker-images/esup-pod,True
@@ -8565,7 +8572,7 @@ https://plmlab.math.cnrs.fr/illustrating-math/sphere_morph,False
 https://plmlab.math.cnrs.fr/imb-dijon/faq,True
 https://plmlab.math.cnrs.fr/imb-public/anr-template,False
 https://plmlab.math.cnrs.fr/imt/fragma/fragma-on-amqp,False
-https://plmlab.math.cnrs.fr/imt/puppet/gitlab_deploy_key,False
+https://plmlab.math.cnrs.fr/imt/puppet/gitlab_deploy_key,True
 https://plmlab.math.cnrs.fr/imt/puppet/kerberos_module,True
 https://plmlab.math.cnrs.fr/imt/sysadmin_pub_keys,False
 https://plmlab.math.cnrs.fr/infomath/git_dummy,True
@@ -8624,7 +8631,7 @@ https://plmlab.math.cnrs.fr/plmshift/bbb-downloader,False
 https://plmlab.math.cnrs.fr/plmshift/borgbackup,False
 https://plmlab.math.cnrs.fr/plmshift/codimd,False
 https://plmlab.math.cnrs.fr/plmshift/docker-registry-proxy,False
-https://plmlab.math.cnrs.fr/plmshift/drupal,False
+https://plmlab.math.cnrs.fr/plmshift/drupal,True
 https://plmlab.math.cnrs.fr/plmshift/etherpad,False
 https://plmlab.math.cnrs.fr/plmshift/gitlab-runner,False
 https://plmlab.math.cnrs.fr/plmshift/gitlab-runner-init,False
@@ -8637,14 +8644,14 @@ https://plmlab.math.cnrs.fr/plmshift/indico,False
 https://plmlab.math.cnrs.fr/plmshift/jupyter-notebooks,False
 https://plmlab.math.cnrs.fr/plmshift/jupyterhub-custom,False
 https://plmlab.math.cnrs.fr/plmshift/jupyterhub-quickstart,False
-https://plmlab.math.cnrs.fr/plmshift/kubernetes-zfs-provisioner,False
+https://plmlab.math.cnrs.fr/plmshift/kubernetes-zfs-provisioner,True
 https://plmlab.math.cnrs.fr/plmshift/lamp,False
 https://plmlab.math.cnrs.fr/plmshift/limesurvey,False
 https://plmlab.math.cnrs.fr/plmshift/logrotate,False
 https://plmlab.math.cnrs.fr/plmshift/mongodump,False
 https://plmlab.math.cnrs.fr/plmshift/moodle,False
 https://plmlab.math.cnrs.fr/plmshift/mysqldump,False
-https://plmlab.math.cnrs.fr/plmshift/notebook-example,False
+https://plmlab.math.cnrs.fr/plmshift/notebook-example,True
 https://plmlab.math.cnrs.fr/plmshift/oauth-proxy,False
 https://plmlab.math.cnrs.fr/plmshift/pelican,False
 https://plmlab.math.cnrs.fr/plmshift/phpldapadmin,False
@@ -8652,7 +8659,7 @@ https://plmlab.math.cnrs.fr/plmshift/plm_cinema,False
 https://plmlab.math.cnrs.fr/plmshift/plmkan,False
 https://plmlab.math.cnrs.fr/plmshift/plmshift-manifests,False
 https://plmlab.math.cnrs.fr/plmshift/plmshift.pages.math.cnrs.fr,False
-https://plmlab.math.cnrs.fr/plmshift/plmwebconf,False
+https://plmlab.math.cnrs.fr/plmshift/plmwebconf,True
 https://plmlab.math.cnrs.fr/plmshift/psqldump,False
 https://plmlab.math.cnrs.fr/plmshift/rocket-chat,False
 https://plmlab.math.cnrs.fr/plmshift/rsyslog,False
