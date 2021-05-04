@@ -3719,7 +3719,7 @@ https://github.com/dataesr/kubectl-deploy,True
 https://github.com/dataesr/onedrive,True
 https://github.com/dataesr/paysage-openapi,True
 https://github.com/dataesr/react-dsfr,True
-https://github.com/dataesr/scanr-end2end,False
+https://github.com/dataesr/scanr-end2end,True
 https://github.com/dataesr/scientific_tagger,True
 https://github.com/datagir/Ecolab,True
 https://github.com/datagir/agribalyse,True
@@ -8522,7 +8522,7 @@ https://plmlab.math.cnrs.fr/deaduction/projet-lean,True
 https://plmlab.math.cnrs.fr/demoPLMlab/demoCIlatex,True
 https://plmlab.math.cnrs.fr/diffusion-imb/website,True
 https://plmlab.math.cnrs.fr/docker-images/alpine,False
-https://plmlab.math.cnrs.fr/docker-images/augeas,False
+https://plmlab.math.cnrs.fr/docker-images/augeas,True
 https://plmlab.math.cnrs.fr/docker-images/base-notebook-nbgrader,False
 https://plmlab.math.cnrs.fr/docker-images/bash,False
 https://plmlab.math.cnrs.fr/docker-images/bash-bundler,False
@@ -8547,7 +8547,7 @@ https://plmlab.math.cnrs.fr/fano-hk/fano-hk.pages.math.cnrs.fr,False
 https://plmlab.math.cnrs.fr/fedora/live,False
 https://plmlab.math.cnrs.fr/fedora/lorax,False
 https://plmlab.math.cnrs.fr/formation-calcul/optimisation,False
-https://plmlab.math.cnrs.fr/gdr-mascotnum/mnwiki-server,False
+https://plmlab.math.cnrs.fr/gdr-mascotnum/mnwiki-server,True
 https://plmlab.math.cnrs.fr/gdurif_slides/2021_02_18_ML_MPT_R_shiny,False
 https://plmlab.math.cnrs.fr/gdurif_teaching/polytech_ig5_regression,True
 https://plmlab.math.cnrs.fr/gdurif_teaching/polytech_ig5_regression_tutorial,True
@@ -8570,7 +8570,7 @@ https://plmlab.math.cnrs.fr/imt/puppet/kerberos_module,True
 https://plmlab.math.cnrs.fr/imt/sysadmin_pub_keys,False
 https://plmlab.math.cnrs.fr/infomath/git_dummy,True
 https://plmlab.math.cnrs.fr/infomath/latex,False
-https://plmlab.math.cnrs.fr/ipanema/propellor,False
+https://plmlab.math.cnrs.fr/ipanema/propellor,True
 https://plmlab.math.cnrs.fr/jupytercloud/authenticator-proxy,False
 https://plmlab.math.cnrs.fr/jupytercloud/httpd-shibboleth-sp,False
 https://plmlab.math.cnrs.fr/jupytercloud/image-paris-saclay,False
@@ -8602,7 +8602,7 @@ https://plmlab.math.cnrs.fr/pagesfil/web-mathrice,False
 https://plmlab.math.cnrs.fr/perso/docs,False
 https://plmlab.math.cnrs.fr/perso/perso.pages.math.cnrs.fr,False
 https://plmlab.math.cnrs.fr/perso/users/arthur.touati,False
-https://plmlab.math.cnrs.fr/perso/users/bertrand.remy,False
+https://plmlab.math.cnrs.fr/perso/users/bertrand.remy,True
 https://plmlab.math.cnrs.fr/perso/users/caterina.valcu,True
 https://plmlab.math.cnrs.fr/perso/users/damien.ferney,False
 https://plmlab.math.cnrs.fr/perso/users/david.delavennat,False
