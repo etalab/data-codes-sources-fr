@@ -4609,6 +4609,7 @@ https://github.com/incubateur-territoires/incubateur.anct.gouv.fr,True
 https://github.com/incubateur-territoires/osp-app,True
 https://github.com/incubateur-territoires/outline,True
 https://github.com/incubateur-territoires/ressources,True
+https://github.com/incubateur-territoires/slack-advanced-exporter,False
 https://github.com/incubateur-territoires/territoires.store,True
 https://github.com/incubateur-territoires/tutoriel-communs,True
 https://github.com/indsante/Documentation-SNDS,True
@@ -5475,6 +5476,7 @@ https://github.com/openfun/fun-translations,True
 https://github.com/openfun/fun-videofront-xblock,True
 https://github.com/openfun/hackathon,True
 https://github.com/openfun/handbook,True
+https://github.com/openfun/jibri-pulseaudio,False
 https://github.com/openfun/joanie,True
 https://github.com/openfun/learning-analytics-playground,False
 https://github.com/openfun/learninglocker-docker,True
@@ -6946,7 +6948,7 @@ https://gitlab.inria.fr/dtk/dtk-www,True
 https://gitlab.inria.fr/ed-mathstic/latex-template,True
 https://gitlab.inria.fr/eigen/eigen-mirror,True
 https://gitlab.inria.fr/elan-public-code/obj2vtk,False
-https://gitlab.inria.fr/elan-public-code/projectivefriction,False
+https://gitlab.inria.fr/elan-public-code/projectivefriction,True
 https://gitlab.inria.fr/enseignement/MIAGE_TP_XML_2017,True
 https://gitlab.inria.fr/epione/GP_progression_model_V2,True
 https://gitlab.inria.fr/epione/biblio,True
@@ -7542,6 +7544,7 @@ https://gitlab.inria.fr/piper/viva,True
 https://gitlab.inria.fr/piy/piy,True
 https://gitlab.inria.fr/plas20/sessionintegrity,True
 https://gitlab.inria.fr/pm2/benchmark,True
+https://gitlab.inria.fr/pm2/benchnbc-results,False
 https://gitlab.inria.fr/pm2/packaging,True
 https://gitlab.inria.fr/pm2/pm2,True
 https://gitlab.inria.fr/pm2/pm2.gitlabpages.inria.fr,False
@@ -7787,6 +7790,7 @@ https://gitlab.inria.fr/vidjil/vidjil,True
 https://gitlab.inria.fr/vtaverni/libshadertoy,True
 https://gitlab.inria.fr/vtaverni/shadertoy-connector,True
 https://gitlab.inria.fr/webpages/apollo,True
+https://gitlab.inria.fr/webpages/trahrhe,False
 https://gitlab.inria.fr/whisper-public/atc20,True
 https://gitlab.inria.fr/why3/verifythis2020,True
 https://gitlab.inria.fr/why3/why3,True
@@ -8518,7 +8522,7 @@ https://plmlab.math.cnrs.fr/cmt/lldp-server,True
 https://plmlab.math.cnrs.fr/cmt/nfs-server,True
 https://plmlab.math.cnrs.fr/cmt/postgresql-server,False
 https://plmlab.math.cnrs.fr/cmt/powerdns-server,True
-https://plmlab.math.cnrs.fr/cmt/profile-lmod,False
+https://plmlab.math.cnrs.fr/cmt/profile-lmod,True
 https://plmlab.math.cnrs.fr/cmt/pulp-server,False
 https://plmlab.math.cnrs.fr/cmt/redis-server,False
 https://plmlab.math.cnrs.fr/cmt/repository-codeit-guru,True
@@ -8556,7 +8560,7 @@ https://plmlab.math.cnrs.fr/docker-images/mkdocs,False
 https://plmlab.math.cnrs.fr/docker-images/nfs-ganesha,True
 https://plmlab.math.cnrs.fr/docker-images/nodejs,False
 https://plmlab.math.cnrs.fr/docker-images/openjdk-jre-headless,True
-https://plmlab.math.cnrs.fr/docker-images/rabbitmq,False
+https://plmlab.math.cnrs.fr/docker-images/rabbitmq,True
 https://plmlab.math.cnrs.fr/docker-images/rocketchat,True
 https://plmlab.math.cnrs.fr/docker-images/systemd,False
 https://plmlab.math.cnrs.fr/docker-images/ubuntu,True
@@ -8590,7 +8594,7 @@ https://plmlab.math.cnrs.fr/infomath/git_dummy,True
 https://plmlab.math.cnrs.fr/infomath/latex,False
 https://plmlab.math.cnrs.fr/ipanema/propellor,True
 https://plmlab.math.cnrs.fr/jupytercloud/authenticator-proxy,False
-https://plmlab.math.cnrs.fr/jupytercloud/httpd-shibboleth-sp,False
+https://plmlab.math.cnrs.fr/jupytercloud/httpd-shibboleth-sp,True
 https://plmlab.math.cnrs.fr/jupytercloud/image-paris-saclay,False
 https://plmlab.math.cnrs.fr/jupytercloud/kubernetes,False
 https://plmlab.math.cnrs.fr/jupytercloud/repo2docker,False
@@ -8613,7 +8617,7 @@ https://plmlab.math.cnrs.fr/packer/centos/8/base,True
 https://plmlab.math.cnrs.fr/packer/idcs,False
 https://plmlab.math.cnrs.fr/pagesfil/lamp,False
 https://plmlab.math.cnrs.fr/pagesfil/nbgrader,True
-https://plmlab.math.cnrs.fr/pagesfil/pelican,False
+https://plmlab.math.cnrs.fr/pagesfil/pelican,True
 https://plmlab.math.cnrs.fr/pagesfil/reactjs-useradmin,False
 https://plmlab.math.cnrs.fr/pagesfil/test-drupal,True
 https://plmlab.math.cnrs.fr/pagesfil/web-mathrice,True
@@ -8657,7 +8661,7 @@ https://plmlab.math.cnrs.fr/plmshift/jupyterhub-custom,False
 https://plmlab.math.cnrs.fr/plmshift/jupyterhub-quickstart,False
 https://plmlab.math.cnrs.fr/plmshift/kubernetes-zfs-provisioner,True
 https://plmlab.math.cnrs.fr/plmshift/lamp,False
-https://plmlab.math.cnrs.fr/plmshift/limesurvey,False
+https://plmlab.math.cnrs.fr/plmshift/limesurvey,True
 https://plmlab.math.cnrs.fr/plmshift/logrotate,False
 https://plmlab.math.cnrs.fr/plmshift/mongodump,True
 https://plmlab.math.cnrs.fr/plmshift/moodle,False
@@ -8685,7 +8689,7 @@ https://plmlab.math.cnrs.fr/plmshift/sketchpad,False
 https://plmlab.math.cnrs.fr/plmshift/wims,False
 https://plmlab.math.cnrs.fr/plmshift/wims-custom,False
 https://plmlab.math.cnrs.fr/plmshift/wordpress,False
-https://plmlab.math.cnrs.fr/plmshift/wordpress-custom,False
+https://plmlab.math.cnrs.fr/plmshift/wordpress-custom,True
 https://plmlab.math.cnrs.fr/plmshift/wordpress-kit-cnrs,False
 https://plmlab.math.cnrs.fr/plmteam/docs/okd,False
 https://plmlab.math.cnrs.fr/plmteam/stream-hls-infra,False
@@ -8745,7 +8749,7 @@ https://plmlab.math.cnrs.fr/terraform/modules/instance,False
 https://plmlab.math.cnrs.fr/terraform/modules/keypair,False
 https://plmlab.math.cnrs.fr/terraform/modules/network,False
 https://plmlab.math.cnrs.fr/terraform/modules/volume,False
-https://plmlab.math.cnrs.fr/terraform/okd-upi,False
+https://plmlab.math.cnrs.fr/terraform/okd-upi,True
 https://plmlab.math.cnrs.fr/texlive/2017,False
 https://plmlab.math.cnrs.fr/webconf/greenlight-plm,False
 https://plmlab.math.cnrs.fr/webconf/webconf.pages.math.cnrs.fr,False
