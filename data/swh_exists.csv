@@ -3206,6 +3206,7 @@ https://github.com/betagouv/itou-entreprise,True
 https://github.com/betagouv/itou-fdi,True
 https://github.com/betagouv/itou-gitbook,True
 https://github.com/betagouv/itou-landing,True
+https://github.com/betagouv/itou-marche-api,False
 https://github.com/betagouv/itou-pilotage,True
 https://github.com/betagouv/itou-support,True
 https://github.com/betagouv/itou-theme-discourse,True
@@ -3738,6 +3739,7 @@ https://github.com/datagir/monconvertisseurco2,True
 https://github.com/datagir/monimpacttransport,True
 https://github.com/datagir/nosgestesclimat,True
 https://github.com/datagir/nosgestesclimat-site,True
+https://github.com/datagir/quefairedemesdechets,False
 https://github.com/datagir/teletravail,True
 https://github.com/datalocale/BinFul,True
 https://github.com/datalocale/ECV-IJBA,True
@@ -4087,6 +4089,7 @@ https://github.com/erasme/testWebhook,True
 https://github.com/erasme/vagrant-dev-env,True
 https://github.com/erasme/webnapperon2,True
 https://github.com/erasme/website_griotte,True
+https://github.com/etalab-ia/DGML,False
 https://github.com/etalab-ia/ami-ia,True
 https://github.com/etalab-ia/ami-ia-anssi,True
 https://github.com/etalab-ia/ami-ia-ce,True
@@ -5304,7 +5307,7 @@ https://github.com/ocaml/ocamlunix,True
 https://github.com/ocaml/odoc,True
 https://github.com/ocaml/oloop,True
 https://github.com/ocaml/omd,True
-https://github.com/ocaml/ood,False
+https://github.com/ocaml/ood,True
 https://github.com/ocaml/opam,True
 https://github.com/ocaml/opam-bulk-logs,True
 https://github.com/ocaml/opam-file-format,True
@@ -6127,7 +6130,7 @@ https://gitlab.com/fabnum-minarm/igloo/docs,True
 https://gitlab.com/fabnum-minarm/igloo/gitlab-templates,True
 https://gitlab.com/fabnum-minarm/igloo/helm-charts,True
 https://gitlab.com/fabnum-minarm/igloo/images/rust/cargo-component-rustfmt,False
-https://gitlab.com/fabnum-minarm/igloo/images/rust/cargo-sccache,False
+https://gitlab.com/fabnum-minarm/igloo/images/rust/cargo-sccache,True
 https://gitlab.com/fabnum-minarm/igloo/images/rust/common-dev-libraries,False
 https://gitlab.com/fabnum-minarm/igloo/terraform/main,True
 https://gitlab.com/fabnum-minarm/igloo/terraform/modules/add-runner,True
@@ -6276,6 +6279,7 @@ https://gitlab.huma-num.fr/lamop/topologie_aix-en-provence,False
 https://gitlab.huma-num.fr/lamop/wikidata2gramps,True
 https://gitlab.huma-num.fr/lamop/yersinia,True
 https://gitlab.huma-num.fr/le-livre-de-la-jeunesse-engag-e-en-nouvelle-aquitaine/le-livre-de-la-jeunesse-engagee,True
+https://gitlab.huma-num.fr/lemmatisation-fro/bfm-lem,False
 https://gitlab.huma-num.fr/mappemonde/archives,True
 https://gitlab.huma-num.fr/mshs-poitiers/forellis/datagrowth,True
 https://gitlab.huma-num.fr/mshs-poitiers/forellis/dicodiachro,True
@@ -8476,7 +8480,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/vqgroup/mcc,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/vqgroup/telegraf-nftables,True
 https://plmlab.math.cnrs.fr/4m053/code_cours,True
 https://plmlab.math.cnrs.fr/4m053/example,True
-https://plmlab.math.cnrs.fr/4m053/exemples-cpp,False
+https://plmlab.math.cnrs.fr/4m053/exemples-cpp,True
 https://plmlab.math.cnrs.fr/4m053/gdb-tuto,False
 https://plmlab.math.cnrs.fr/4m053/slides-informatique,True
 https://plmlab.math.cnrs.fr/XLIM/SPDOPT,False
@@ -8494,13 +8498,13 @@ https://plmlab.math.cnrs.fr/anr-highagt/anr-highagt.pages.math.cnrs.fr,True
 https://plmlab.math.cnrs.fr/archimede/intertwiningwavelet,False
 https://plmlab.math.cnrs.fr/bwoc2020/bwoc2020.pages.math.cnrs.fr,True
 https://plmlab.math.cnrs.fr/calcul-icj/bench-python-fft,False
-https://plmlab.math.cnrs.fr/calcul-icj/git-express,False
+https://plmlab.math.cnrs.fr/calcul-icj/git-express,True
 https://plmlab.math.cnrs.fr/calcul-icj/python-training,True
 https://plmlab.math.cnrs.fr/chaos-math/static,True
 https://plmlab.math.cnrs.fr/cluster-icj/modules,False
 https://plmlab.math.cnrs.fr/cmt/atom,False
 https://plmlab.math.cnrs.fr/cmt/autofs,True
-https://plmlab.math.cnrs.fr/cmt/base,False
+https://plmlab.math.cnrs.fr/cmt/base,True
 https://plmlab.math.cnrs.fr/cmt/cmt-server,True
 https://plmlab.math.cnrs.fr/cmt/dhcp-relay,True
 https://plmlab.math.cnrs.fr/cmt/dhcp-server,False
@@ -8523,10 +8527,10 @@ https://plmlab.math.cnrs.fr/cmt/ruby-libcouchbase,True
 https://plmlab.math.cnrs.fr/cmt/software-collections,False
 https://plmlab.math.cnrs.fr/cmt/software-collections-python3,True
 https://plmlab.math.cnrs.fr/cmt/software-collections-ruby,False
-https://plmlab.math.cnrs.fr/cmt/sss,False
+https://plmlab.math.cnrs.fr/cmt/sss,True
 https://plmlab.math.cnrs.fr/cmt/stdlib,False
 https://plmlab.math.cnrs.fr/cmt/tftp-relay,False
-https://plmlab.math.cnrs.fr/cmt/tftp-server,False
+https://plmlab.math.cnrs.fr/cmt/tftp-server,True
 https://plmlab.math.cnrs.fr/cmt/vagrant-nfs,True
 https://plmlab.math.cnrs.fr/cmt/vagrant-node,False
 https://plmlab.math.cnrs.fr/cmt/vagrant-switch,True
@@ -8537,7 +8541,7 @@ https://plmlab.math.cnrs.fr/demoPLMlab/demoCIlatex,True
 https://plmlab.math.cnrs.fr/diffusion-imb/website,True
 https://plmlab.math.cnrs.fr/docker-images/alpine,False
 https://plmlab.math.cnrs.fr/docker-images/augeas,True
-https://plmlab.math.cnrs.fr/docker-images/base-notebook-nbgrader,False
+https://plmlab.math.cnrs.fr/docker-images/base-notebook-nbgrader,True
 https://plmlab.math.cnrs.fr/docker-images/bash,True
 https://plmlab.math.cnrs.fr/docker-images/bash-bundler,False
 https://plmlab.math.cnrs.fr/docker-images/build-container,True
@@ -8555,7 +8559,7 @@ https://plmlab.math.cnrs.fr/docker-images/openjdk-jre-headless,True
 https://plmlab.math.cnrs.fr/docker-images/rabbitmq,False
 https://plmlab.math.cnrs.fr/docker-images/rocketchat,True
 https://plmlab.math.cnrs.fr/docker-images/systemd,False
-https://plmlab.math.cnrs.fr/docker-images/ubuntu,False
+https://plmlab.math.cnrs.fr/docker-images/ubuntu,True
 https://plmlab.math.cnrs.fr/econetproject/econetwork,True
 https://plmlab.math.cnrs.fr/fano-hk/fano-hk.pages.math.cnrs.fr,False
 https://plmlab.math.cnrs.fr/fedora/live,False
@@ -8593,12 +8597,12 @@ https://plmlab.math.cnrs.fr/jupytercloud/repo2docker,False
 https://plmlab.math.cnrs.fr/jupytercloud/www,True
 https://plmlab.math.cnrs.fr/lmrs/statistique/drimmR,True
 https://plmlab.math.cnrs.fr/lmrs/statistique/smmR,False
-https://plmlab.math.cnrs.fr/mathrice/journees/2019/03/jupytercloudx,False
+https://plmlab.math.cnrs.fr/mathrice/journees/2019/03/jupytercloudx,True
 https://plmlab.math.cnrs.fr/mathrice/mathricecom/webmathrice-hs,False
 https://plmlab.math.cnrs.fr/mathrice/plmdoc/openshift-antora-template,True
 https://plmlab.math.cnrs.fr/mathrice/plmdoc/ui,True
-https://plmlab.math.cnrs.fr/mcia/demo,False
-https://plmlab.math.cnrs.fr/mcia/docsy,False
+https://plmlab.math.cnrs.fr/mcia/demo,True
+https://plmlab.math.cnrs.fr/mcia/docsy,True
 https://plmlab.math.cnrs.fr/modcov19/configurations/seafile-custom,True
 https://plmlab.math.cnrs.fr/openfaas/faas,True
 https://plmlab.math.cnrs.fr/openfaas/ipxe/classes/bastion,False
@@ -8626,8 +8630,8 @@ https://plmlab.math.cnrs.fr/perso/users/frank.pacard,False
 https://plmlab.math.cnrs.fr/perso/users/lucas.ertzbischoff,True
 https://plmlab.math.cnrs.fr/perso/users/thomas.gauthier,False
 https://plmlab.math.cnrs.fr/phymath/nspawn,False
-https://plmlab.math.cnrs.fr/phymath/tftp-http-proxy,False
-https://plmlab.math.cnrs.fr/phymath/undionly.kkpxe,False
+https://plmlab.math.cnrs.fr/phymath/tftp-http-proxy,True
+https://plmlab.math.cnrs.fr/phymath/undionly.kkpxe,True
 https://plmlab.math.cnrs.fr/plm-services/geminabox-plmshift,True
 https://plmlab.math.cnrs.fr/plm-services/plm_build,False
 https://plmlab.math.cnrs.fr/plmlab/dind,False
@@ -8690,7 +8694,7 @@ https://plmlab.math.cnrs.fr/portail-maths/agenda-emath,False
 https://plmlab.math.cnrs.fr/portail-maths/ticket-ezproxy,False
 https://plmlab.math.cnrs.fr/rancher/os-alpineconsole,True
 https://plmlab.math.cnrs.fr/rancher/os-hashistackconsole,True
-https://plmlab.math.cnrs.fr/razvanbarbulescu/razvanbarbulescu.pages.math.cnrs.fr,False
+https://plmlab.math.cnrs.fr/razvanbarbulescu/razvanbarbulescu.pages.math.cnrs.fr,True
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/ada-devops-tbx,False
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/ada-tp-packer,False
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/build-container,False
