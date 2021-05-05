@@ -1445,9 +1445,11 @@ https://github.com/EDS-APHP/uima-aphp,True
 https://github.com/EDS-APHP/yarn-manager,True
 https://github.com/Envinorma/alto,True
 https://github.com/Envinorma/arretes_ministeriels,True
+https://github.com/Envinorma/back-office,False
 https://github.com/Envinorma/envinorma-data,True
 https://github.com/Envinorma/envinorma-web,True
 https://github.com/Envinorma/envinorma.github.io,True
+https://github.com/Envinorma/leginorma,False
 https://github.com/Envinorma/ocr_utils,True
 https://github.com/Envinorma/pdf_ocr_app,True
 https://github.com/EsupPortail/CMoodle-proxy-portlet,True
@@ -3195,6 +3197,7 @@ https://github.com/betagouv/holodeck-dashboard,True
 https://github.com/betagouv/holodeck-dashboard-old,True
 https://github.com/betagouv/i18nliner-js,True
 https://github.com/betagouv/ilos,True
+https://github.com/betagouv/immersion,False
 https://github.com/betagouv/impact-tests,True
 https://github.com/betagouv/indice_pollution,True
 https://github.com/betagouv/itou,True
@@ -3234,6 +3237,7 @@ https://github.com/betagouv/mas,True
 https://github.com/betagouv/matomo,True
 https://github.com/betagouv/matomo-beta,True
 https://github.com/betagouv/matomo-scalingo-deploy,True
+https://github.com/betagouv/matterbridge-paas,False
 https://github.com/betagouv/mattermost-buildpack,True
 https://github.com/betagouv/mattermost-scalingo,True
 https://github.com/betagouv/mdph,True
@@ -7790,7 +7794,7 @@ https://gitlab.inria.fr/vidjil/vidjil,True
 https://gitlab.inria.fr/vtaverni/libshadertoy,True
 https://gitlab.inria.fr/vtaverni/shadertoy-connector,True
 https://gitlab.inria.fr/webpages/apollo,True
-https://gitlab.inria.fr/webpages/trahrhe,False
+https://gitlab.inria.fr/webpages/trahrhe,True
 https://gitlab.inria.fr/whisper-public/atc20,True
 https://gitlab.inria.fr/why3/verifythis2020,True
 https://gitlab.inria.fr/why3/why3,True
@@ -7967,6 +7971,7 @@ https://gitlab.orfeo-toolbox.org/remote_modules/remote-module-template,True
 https://gitlab.orfeo-toolbox.org/remote_modules/wasp,True
 https://gitlab.orfeo-toolbox.org/s1-tiling/normlim_sigma0,True
 https://gitlab.orfeo-toolbox.org/s1-tiling/s1tiling,True
+https://gitlab.orfeo-toolbox.org/s1-tiling/s1tiling-dockers,False
 https://gitlab.orfeo-toolbox.org/s1-tiling/s1tilingsupportapplications,True
 https://gitlab.ow2.org/lemonldap-ng/lemonldap-ng,True
 https://gitlab.ow2.org/lemonldap-ng/vue-manager-for-llng,True
@@ -8515,7 +8520,7 @@ https://plmlab.math.cnrs.fr/cmt/dhcp-server,False
 https://plmlab.math.cnrs.fr/cmt/dnsmasq,True
 https://plmlab.math.cnrs.fr/cmt/firewalld,False
 https://plmlab.math.cnrs.fr/cmt/git-server,True
-https://plmlab.math.cnrs.fr/cmt/gui,False
+https://plmlab.math.cnrs.fr/cmt/gui,True
 https://plmlab.math.cnrs.fr/cmt/http-server,True
 https://plmlab.math.cnrs.fr/cmt/iptables,True
 https://plmlab.math.cnrs.fr/cmt/lldp-server,True
@@ -8615,7 +8620,7 @@ https://plmlab.math.cnrs.fr/openfaas/ipxe/instances/06-00-00-01-00-02,True
 https://plmlab.math.cnrs.fr/packer/artifactory-pro,True
 https://plmlab.math.cnrs.fr/packer/centos/8/base,True
 https://plmlab.math.cnrs.fr/packer/idcs,False
-https://plmlab.math.cnrs.fr/pagesfil/lamp,False
+https://plmlab.math.cnrs.fr/pagesfil/lamp,True
 https://plmlab.math.cnrs.fr/pagesfil/nbgrader,True
 https://plmlab.math.cnrs.fr/pagesfil/pelican,True
 https://plmlab.math.cnrs.fr/pagesfil/reactjs-useradmin,False
@@ -8639,10 +8644,10 @@ https://plmlab.math.cnrs.fr/phymath/undionly.kkpxe,True
 https://plmlab.math.cnrs.fr/plm-services/geminabox-plmshift,True
 https://plmlab.math.cnrs.fr/plm-services/plm_build,False
 https://plmlab.math.cnrs.fr/plmlab/dind,False
-https://plmlab.math.cnrs.fr/plmlatex/plmlatex,False
+https://plmlab.math.cnrs.fr/plmlatex/plmlatex,True
 https://plmlab.math.cnrs.fr/plmlatex/sharelatex-clsi,True
 https://plmlab.math.cnrs.fr/plmlatex/sharelatex-web,False
-https://plmlab.math.cnrs.fr/plmshift/bbb-downloader,False
+https://plmlab.math.cnrs.fr/plmshift/bbb-downloader,True
 https://plmlab.math.cnrs.fr/plmshift/borgbackup,False
 https://plmlab.math.cnrs.fr/plmshift/codimd,False
 https://plmlab.math.cnrs.fr/plmshift/docker-registry-proxy,False
@@ -8743,7 +8748,7 @@ https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/students/olivier.lassalle/ipxe.
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/vapormap,False
 https://plmlab.math.cnrs.fr/seafile/tb-filelink-seafile,False
 https://plmlab.math.cnrs.fr/smagp/smagp.pages.math.cnrs.fr,False
-https://plmlab.math.cnrs.fr/terraform/modules/deployment,False
+https://plmlab.math.cnrs.fr/terraform/modules/deployment,True
 https://plmlab.math.cnrs.fr/terraform/modules/image,False
 https://plmlab.math.cnrs.fr/terraform/modules/instance,False
 https://plmlab.math.cnrs.fr/terraform/modules/keypair,False
