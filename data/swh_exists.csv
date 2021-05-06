@@ -8614,7 +8614,7 @@ https://plmlab.math.cnrs.fr/mcia/demo,True
 https://plmlab.math.cnrs.fr/mcia/docsy,True
 https://plmlab.math.cnrs.fr/modcov19/configurations/seafile-custom,True
 https://plmlab.math.cnrs.fr/openfaas/faas,True
-https://plmlab.math.cnrs.fr/openfaas/ipxe/classes/bastion,False
+https://plmlab.math.cnrs.fr/openfaas/ipxe/classes/bastion,True
 https://plmlab.math.cnrs.fr/openfaas/ipxe/instances/06-00-00-01-00-01,False
 https://plmlab.math.cnrs.fr/openfaas/ipxe/instances/06-00-00-01-00-02,True
 https://plmlab.math.cnrs.fr/packer/artifactory-pro,True
@@ -8632,7 +8632,7 @@ https://plmlab.math.cnrs.fr/perso/users/arthur.touati,False
 https://plmlab.math.cnrs.fr/perso/users/bertrand.remy,True
 https://plmlab.math.cnrs.fr/perso/users/caterina.valcu,True
 https://plmlab.math.cnrs.fr/perso/users/damien.ferney,True
-https://plmlab.math.cnrs.fr/perso/users/david.delavennat,False
+https://plmlab.math.cnrs.fr/perso/users/david.delavennat,True
 https://plmlab.math.cnrs.fr/perso/users/diego.izquierdo,True
 https://plmlab.math.cnrs.fr/perso/users/eleonora.di-nezza,False
 https://plmlab.math.cnrs.fr/perso/users/frank.pacard,False
@@ -8669,7 +8669,7 @@ https://plmlab.math.cnrs.fr/plmshift/lamp,False
 https://plmlab.math.cnrs.fr/plmshift/limesurvey,True
 https://plmlab.math.cnrs.fr/plmshift/logrotate,False
 https://plmlab.math.cnrs.fr/plmshift/mongodump,True
-https://plmlab.math.cnrs.fr/plmshift/moodle,False
+https://plmlab.math.cnrs.fr/plmshift/moodle,True
 https://plmlab.math.cnrs.fr/plmshift/mysqldump,False
 https://plmlab.math.cnrs.fr/plmshift/notebook-example,True
 https://plmlab.math.cnrs.fr/plmshift/oauth-proxy,False
