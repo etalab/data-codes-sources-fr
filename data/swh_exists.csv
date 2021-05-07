@@ -215,6 +215,7 @@ https://forgemia.inra.fr/GNet/dicoexpress,True
 https://forgemia.inra.fr/GNet/einkorn_grain_transcriptome,True
 https://forgemia.inra.fr/GNet/pipelineoge,True
 https://forgemia.inra.fr/QTL/spell-qtl,True
+https://forgemia.inra.fr/acep/careb,False
 https://forgemia.inra.fr/adminforgemia/doc-public,True
 https://forgemia.inra.fr/agriterix/agriterix,True
 https://forgemia.inra.fr/agriterix/doc,True
@@ -1138,6 +1139,7 @@ https://github.com/CEA-LIST/adv-sat,True
 https://github.com/CEA-LIST/sgntx,True
 https://github.com/CEA-Leti/wsnet,True
 https://github.com/CEREMA/com.cerema.infocentre_old,True
+https://github.com/CEREMA/copro,False
 https://github.com/CEREMA/copro-occitanie,True
 https://github.com/CEREMA/dataroom,True
 https://github.com/CEREMA/django_unchained,True
@@ -7759,6 +7761,7 @@ https://gitlab.inria.fr/swloc/swloc.gitlabpages.inria.fr,True
 https://gitlab.inria.fr/synalp/python4nlp-2019-public,True
 https://gitlab.inria.fr/synalp/website,True
 https://gitlab.inria.fr/synchrone/heptagon,True
+https://gitlab.inria.fr/tansiv/python-tansiv,False
 https://gitlab.inria.fr/tapenade/tapenade,True
 https://gitlab.inria.fr/tapenade/userdoc,True
 https://gitlab.inria.fr/testing-security-features/Software/c-client,False
@@ -8121,7 +8124,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/JMMC/jmmc-srv-infra,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/JMMC/jmmc-vlti2018-school-tutorials,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/JMMC/jmmc-vollt-kubernetes,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/JMMC/jmmc-vollt-server,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/JMMC/vltischools/vltischool-2021,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/JMMC/vltischools/vltischool-2021,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/ResifYAMLfiles,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/budindexer,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/cronjobs-k8s,True
@@ -8396,6 +8399,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/lucah/hadaca_scoring,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/marinesj/ls_translator,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/meige-legi/intro-python,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/meige-legi/scientific-computing-m2-efm,True
+https://gricad-gitlab.univ-grenoble-alpes.fr/mercurius_inversion/alternated_inversion,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/michael_perin/pwc,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/michael_perin/tutoriel-qcm-avec-amc,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/modmed/modmedLog,True
@@ -8579,7 +8583,7 @@ https://plmlab.math.cnrs.fr/docker-images/esup-pod,True
 https://plmlab.math.cnrs.fr/docker-images/mariadb,True
 https://plmlab.math.cnrs.fr/docker-images/mkdocs,False
 https://plmlab.math.cnrs.fr/docker-images/nfs-ganesha,True
-https://plmlab.math.cnrs.fr/docker-images/nodejs,False
+https://plmlab.math.cnrs.fr/docker-images/nodejs,True
 https://plmlab.math.cnrs.fr/docker-images/openjdk-jre-headless,True
 https://plmlab.math.cnrs.fr/docker-images/rabbitmq,True
 https://plmlab.math.cnrs.fr/docker-images/rocketchat,True
@@ -8597,7 +8601,7 @@ https://plmlab.math.cnrs.fr/gdurif_teaching/polytech_ig5_regression_tutorial,Tru
 https://plmlab.math.cnrs.fr/groupe-calcul/website-digest,True
 https://plmlab.math.cnrs.fr/groupe-calcul/website-plmshift,True
 https://plmlab.math.cnrs.fr/icinga-plugins/check-freshness,False
-https://plmlab.math.cnrs.fr/icinga-plugins/check-load,False
+https://plmlab.math.cnrs.fr/icinga-plugins/check-load,True
 https://plmlab.math.cnrs.fr/icinga-plugins/check-swap,True
 https://plmlab.math.cnrs.fr/icinga-plugins/massive-df,True
 https://plmlab.math.cnrs.fr/icinga-plugins/remote-df,True
@@ -8643,7 +8647,7 @@ https://plmlab.math.cnrs.fr/pagesfil/reactjs-useradmin,True
 https://plmlab.math.cnrs.fr/pagesfil/test-drupal,True
 https://plmlab.math.cnrs.fr/pagesfil/web-mathrice,True
 https://plmlab.math.cnrs.fr/perso/docs,True
-https://plmlab.math.cnrs.fr/perso/perso.pages.math.cnrs.fr,False
+https://plmlab.math.cnrs.fr/perso/perso.pages.math.cnrs.fr,True
 https://plmlab.math.cnrs.fr/perso/users/arthur.touati,False
 https://plmlab.math.cnrs.fr/perso/users/bertrand.remy,True
 https://plmlab.math.cnrs.fr/perso/users/caterina.valcu,True
@@ -8659,7 +8663,7 @@ https://plmlab.math.cnrs.fr/phymath/tftp-http-proxy,True
 https://plmlab.math.cnrs.fr/phymath/undionly.kkpxe,True
 https://plmlab.math.cnrs.fr/plm-services/geminabox-plmshift,True
 https://plmlab.math.cnrs.fr/plm-services/plm_build,True
-https://plmlab.math.cnrs.fr/plmlab/dind,False
+https://plmlab.math.cnrs.fr/plmlab/dind,True
 https://plmlab.math.cnrs.fr/plmlatex/plmlatex,True
 https://plmlab.math.cnrs.fr/plmlatex/sharelatex-clsi,True
 https://plmlab.math.cnrs.fr/plmlatex/sharelatex-web,False
@@ -8673,7 +8677,7 @@ https://plmlab.math.cnrs.fr/plmshift/gitlab-runner,False
 https://plmlab.math.cnrs.fr/plmshift/gitlab-runner-init,False
 https://plmlab.math.cnrs.fr/plmshift/gollum,False
 https://plmlab.math.cnrs.fr/plmshift/gpu_driver,False
-https://plmlab.math.cnrs.fr/plmshift/horde,False
+https://plmlab.math.cnrs.fr/plmshift/horde,True
 https://plmlab.math.cnrs.fr/plmshift/horde-custom,False
 https://plmlab.math.cnrs.fr/plmshift/hugo,False
 https://plmlab.math.cnrs.fr/plmshift/indico,True
@@ -8721,11 +8725,11 @@ https://plmlab.math.cnrs.fr/rancher/os-alpineconsole,True
 https://plmlab.math.cnrs.fr/rancher/os-hashistackconsole,True
 https://plmlab.math.cnrs.fr/razvanbarbulescu/razvanbarbulescu.pages.math.cnrs.fr,True
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/ada-devops-tbx,False
-https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/ada-tp-packer,False
+https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/ada-tp-packer,True
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/build-container,False
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/cloud-init,False
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/containers/buildah,False
-https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/harbor/cluster,False
+https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/harbor/cluster,True
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/hashicorp/consul/cluster,False
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/hashicorp/nomad/cluster,False
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/hashicorp/packer/terraform,False
@@ -8733,7 +8737,7 @@ https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/hashicorp/terraform/infrastruct
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/hashicorp/terraform/modules/bastion,False
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/hashicorp/terraform/modules/image,False
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/hashicorp/terraform/modules/instance,False
-https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/hashicorp/terraform/modules/keypair,False
+https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/hashicorp/terraform/modules/keypair,True
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/hashicorp/terraform/modules/network,False
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/hashicorp/terraform/modules/volume,True
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/hashicorp/vault/cluster,False
@@ -8745,7 +8749,7 @@ https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/ipxe/instances/06-00-00-04-00-0
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/ipxe/instances/06-00-00-04-00-02,False
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/ipxe/instances/06-00-00-04-00-03,False
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/ipxe/instances/06-00-00-05-00-01,True
-https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/ipxe/instances/06-00-00-05-00-02,False
+https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/ipxe/instances/06-00-00-05-00-02,True
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/ipxe/instances/06-00-00-05-00-03,False
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/ipxe/ipxe.raw,False
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/kubernetes/vapormap,False
@@ -8768,7 +8772,7 @@ https://plmlab.math.cnrs.fr/terraform/modules/deployment,True
 https://plmlab.math.cnrs.fr/terraform/modules/image,False
 https://plmlab.math.cnrs.fr/terraform/modules/instance,False
 https://plmlab.math.cnrs.fr/terraform/modules/keypair,False
-https://plmlab.math.cnrs.fr/terraform/modules/network,False
+https://plmlab.math.cnrs.fr/terraform/modules/network,True
 https://plmlab.math.cnrs.fr/terraform/modules/volume,False
 https://plmlab.math.cnrs.fr/terraform/okd-upi,True
 https://plmlab.math.cnrs.fr/texlive/2017,False
