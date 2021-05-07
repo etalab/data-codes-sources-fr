@@ -2675,6 +2675,7 @@ https://github.com/SocialGouv/standup2,True
 https://github.com/SocialGouv/suggest,True
 https://github.com/SocialGouv/support,True
 https://github.com/SocialGouv/template.data.gouv.fr.react,True
+https://github.com/SocialGouv/test-deploy1,False
 https://github.com/SocialGouv/test-renovate,True
 https://github.com/SocialGouv/test-renovate-cdtn,True
 https://github.com/SocialGouv/test-ssl-action,True
@@ -5674,6 +5675,7 @@ https://github.com/rusticata/dhcp-parser,True
 https://github.com/rusticata/ipsec-parser,True
 https://github.com/rusticata/kerberos-parser,True
 https://github.com/rusticata/ldap-parser,True
+https://github.com/rusticata/netbios-parser,False
 https://github.com/rusticata/ntp-parser,True
 https://github.com/rusticata/oid-registry,True
 https://github.com/rusticata/openvpn-parser,True
@@ -6515,7 +6517,7 @@ https://gitlab.inria.fr/WellInverter/WellInverter_Standalone_MacOS,True
 https://gitlab.inria.fr/WellInverter/WellInverter_Standalone_Nuvla,True
 https://gitlab.inria.fr/WellInverter/WellInverter_Standalone_Windows,True
 https://gitlab.inria.fr/across_opm/opm-common,False
-https://gitlab.inria.fr/across_opm/opm-grid,False
+https://gitlab.inria.fr/across_opm/opm-grid,True
 https://gitlab.inria.fr/across_opm/opm-material,True
 https://gitlab.inria.fr/across_opm/opm-models,False
 https://gitlab.inria.fr/across_opm/opm-simulators,False
@@ -8528,7 +8530,7 @@ https://plmlab.math.cnrs.fr/cmt/cmt-server,True
 https://plmlab.math.cnrs.fr/cmt/dhcp-relay,True
 https://plmlab.math.cnrs.fr/cmt/dhcp-server,False
 https://plmlab.math.cnrs.fr/cmt/dnsmasq,True
-https://plmlab.math.cnrs.fr/cmt/firewalld,False
+https://plmlab.math.cnrs.fr/cmt/firewalld,True
 https://plmlab.math.cnrs.fr/cmt/git-server,True
 https://plmlab.math.cnrs.fr/cmt/gui,True
 https://plmlab.math.cnrs.fr/cmt/http-server,True
@@ -8545,7 +8547,7 @@ https://plmlab.math.cnrs.fr/cmt/repository-epel,True
 https://plmlab.math.cnrs.fr/cmt/ruby-libcouchbase,True
 https://plmlab.math.cnrs.fr/cmt/software-collections,False
 https://plmlab.math.cnrs.fr/cmt/software-collections-python3,True
-https://plmlab.math.cnrs.fr/cmt/software-collections-ruby,False
+https://plmlab.math.cnrs.fr/cmt/software-collections-ruby,True
 https://plmlab.math.cnrs.fr/cmt/sss,True
 https://plmlab.math.cnrs.fr/cmt/stdlib,True
 https://plmlab.math.cnrs.fr/cmt/tftp-relay,True
@@ -8617,7 +8619,7 @@ https://plmlab.math.cnrs.fr/jupytercloud/www,True
 https://plmlab.math.cnrs.fr/lmrs/statistique/drimmR,True
 https://plmlab.math.cnrs.fr/lmrs/statistique/smmR,False
 https://plmlab.math.cnrs.fr/mathrice/journees/2019/03/jupytercloudx,True
-https://plmlab.math.cnrs.fr/mathrice/mathricecom/webmathrice-hs,False
+https://plmlab.math.cnrs.fr/mathrice/mathricecom/webmathrice-hs,True
 https://plmlab.math.cnrs.fr/mathrice/plmdoc/openshift-antora-template,True
 https://plmlab.math.cnrs.fr/mathrice/plmdoc/ui,True
 https://plmlab.math.cnrs.fr/mcia/demo,True
@@ -8644,7 +8646,7 @@ https://plmlab.math.cnrs.fr/perso/users/caterina.valcu,True
 https://plmlab.math.cnrs.fr/perso/users/damien.ferney,True
 https://plmlab.math.cnrs.fr/perso/users/david.delavennat,True
 https://plmlab.math.cnrs.fr/perso/users/diego.izquierdo,True
-https://plmlab.math.cnrs.fr/perso/users/eleonora.di-nezza,False
+https://plmlab.math.cnrs.fr/perso/users/eleonora.di-nezza,True
 https://plmlab.math.cnrs.fr/perso/users/frank.pacard,False
 https://plmlab.math.cnrs.fr/perso/users/lucas.ertzbischoff,True
 https://plmlab.math.cnrs.fr/perso/users/thomas.gauthier,False
@@ -8675,7 +8677,7 @@ https://plmlab.math.cnrs.fr/plmshift/jupyter-notebooks,True
 https://plmlab.math.cnrs.fr/plmshift/jupyterhub-custom,False
 https://plmlab.math.cnrs.fr/plmshift/jupyterhub-quickstart,False
 https://plmlab.math.cnrs.fr/plmshift/kubernetes-zfs-provisioner,True
-https://plmlab.math.cnrs.fr/plmshift/lamp,False
+https://plmlab.math.cnrs.fr/plmshift/lamp,True
 https://plmlab.math.cnrs.fr/plmshift/limesurvey,True
 https://plmlab.math.cnrs.fr/plmshift/logrotate,False
 https://plmlab.math.cnrs.fr/plmshift/mongodump,True
