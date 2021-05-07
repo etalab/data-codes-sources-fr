@@ -8511,7 +8511,7 @@ https://plmlab.math.cnrs.fr/alpine/containers/podman,True
 https://plmlab.math.cnrs.fr/alpine/live,True
 https://plmlab.math.cnrs.fr/alpine/runc,True
 https://plmlab.math.cnrs.fr/anf2018/bd-hadoop,False
-https://plmlab.math.cnrs.fr/anf2018/bd-mongodb,False
+https://plmlab.math.cnrs.fr/anf2018/bd-mongodb,True
 https://plmlab.math.cnrs.fr/anr-bmws/anr-bmws.pages.math.cnrs.fr,True
 https://plmlab.math.cnrs.fr/anr-highagt/anr-highagt.pages.math.cnrs.fr,True
 https://plmlab.math.cnrs.fr/archimede/intertwiningwavelet,False
@@ -8547,7 +8547,7 @@ https://plmlab.math.cnrs.fr/cmt/software-collections,False
 https://plmlab.math.cnrs.fr/cmt/software-collections-python3,True
 https://plmlab.math.cnrs.fr/cmt/software-collections-ruby,False
 https://plmlab.math.cnrs.fr/cmt/sss,True
-https://plmlab.math.cnrs.fr/cmt/stdlib,False
+https://plmlab.math.cnrs.fr/cmt/stdlib,True
 https://plmlab.math.cnrs.fr/cmt/tftp-relay,True
 https://plmlab.math.cnrs.fr/cmt/tftp-server,True
 https://plmlab.math.cnrs.fr/cmt/vagrant-nfs,True
@@ -8558,7 +8558,7 @@ https://plmlab.math.cnrs.fr/ddm-corner-helmholtz-2d/scripts-onelab,False
 https://plmlab.math.cnrs.fr/deaduction/projet-lean,True
 https://plmlab.math.cnrs.fr/demoPLMlab/demoCIlatex,True
 https://plmlab.math.cnrs.fr/diffusion-imb/website,True
-https://plmlab.math.cnrs.fr/docker-images/alpine,False
+https://plmlab.math.cnrs.fr/docker-images/alpine,True
 https://plmlab.math.cnrs.fr/docker-images/augeas,True
 https://plmlab.math.cnrs.fr/docker-images/base-notebook-nbgrader,True
 https://plmlab.math.cnrs.fr/docker-images/bash,True
@@ -8594,7 +8594,7 @@ https://plmlab.math.cnrs.fr/icinga-plugins/check-freshness,False
 https://plmlab.math.cnrs.fr/icinga-plugins/check-load,False
 https://plmlab.math.cnrs.fr/icinga-plugins/check-swap,True
 https://plmlab.math.cnrs.fr/icinga-plugins/massive-df,True
-https://plmlab.math.cnrs.fr/icinga-plugins/remote-df,False
+https://plmlab.math.cnrs.fr/icinga-plugins/remote-df,True
 https://plmlab.math.cnrs.fr/icinga-plugins/remote-grep,False
 https://plmlab.math.cnrs.fr/icinga-plugins/timesync,True
 https://plmlab.math.cnrs.fr/ihp/logo,True
@@ -8735,7 +8735,7 @@ https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/info-site,False
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/ipxe/classes/bastion,False
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/ipxe/instances/06-00-00-01-00-01,False
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/ipxe/instances/06-00-00-01-00-02,False
-https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/ipxe/instances/06-00-00-04-00-01,False
+https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/ipxe/instances/06-00-00-04-00-01,True
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/ipxe/instances/06-00-00-04-00-02,False
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/ipxe/instances/06-00-00-04-00-03,False
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/ipxe/instances/06-00-00-05-00-01,True
@@ -8743,7 +8743,7 @@ https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/ipxe/instances/06-00-00-05-00-0
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/ipxe/instances/06-00-00-05-00-03,False
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/ipxe/ipxe.raw,False
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/kubernetes/vapormap,False
-https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/openssh/pki,False
+https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/openssh/pki,True
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/rancher/os-console,False
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/rancher/os-services,False
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/rancher/rio,False
@@ -8755,7 +8755,7 @@ https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/students/martin.souchal/infrast
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/students/martin.souchal/ipxe.raw,False
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/students/olivier.lassalle/infrastructure,False
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/students/olivier.lassalle/ipxe.raw,False
-https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/vapormap,False
+https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/vapormap,True
 https://plmlab.math.cnrs.fr/seafile/tb-filelink-seafile,False
 https://plmlab.math.cnrs.fr/smagp/smagp.pages.math.cnrs.fr,True
 https://plmlab.math.cnrs.fr/terraform/modules/deployment,True
