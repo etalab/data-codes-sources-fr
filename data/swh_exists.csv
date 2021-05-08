@@ -8582,7 +8582,7 @@ https://plmlab.math.cnrs.fr/docker-images/docker-images.pages.math.cnrs.fr,True
 https://plmlab.math.cnrs.fr/docker-images/elasticsearch,False
 https://plmlab.math.cnrs.fr/docker-images/esup-pod,True
 https://plmlab.math.cnrs.fr/docker-images/mariadb,True
-https://plmlab.math.cnrs.fr/docker-images/mkdocs,False
+https://plmlab.math.cnrs.fr/docker-images/mkdocs,True
 https://plmlab.math.cnrs.fr/docker-images/nfs-ganesha,True
 https://plmlab.math.cnrs.fr/docker-images/nodejs,True
 https://plmlab.math.cnrs.fr/docker-images/openjdk-jre-headless,True
@@ -8718,7 +8718,7 @@ https://plmlab.math.cnrs.fr/plmshift/wordpress,False
 https://plmlab.math.cnrs.fr/plmshift/wordpress-custom,True
 https://plmlab.math.cnrs.fr/plmshift/wordpress-kit-cnrs,True
 https://plmlab.math.cnrs.fr/plmteam/docs/okd,False
-https://plmlab.math.cnrs.fr/plmteam/stream-hls-infra,False
+https://plmlab.math.cnrs.fr/plmteam/stream-hls-infra,True
 https://plmlab.math.cnrs.fr/plmteam/streaming,False
 https://plmlab.math.cnrs.fr/portail-maths/agenda-emath,False
 https://plmlab.math.cnrs.fr/portail-maths/ticket-ezproxy,False
@@ -8735,7 +8735,7 @@ https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/hashicorp/consul/cluster,False
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/hashicorp/nomad/cluster,False
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/hashicorp/packer/terraform,False
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/hashicorp/terraform/infrastructure,False
-https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/hashicorp/terraform/modules/bastion,False
+https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/hashicorp/terraform/modules/bastion,True
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/hashicorp/terraform/modules/image,False
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/hashicorp/terraform/modules/instance,True
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/hashicorp/terraform/modules/keypair,True
@@ -8756,7 +8756,7 @@ https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/ipxe/ipxe.raw,False
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/kubernetes/vapormap,True
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/openssh/pki,True
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/rancher/os-console,True
-https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/rancher/os-services,False
+https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/rancher/os-services,True
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/rancher/rio,False
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/rancher/rke,True
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/registry/rancher/os-alpineconsole,False
