@@ -1448,7 +1448,7 @@ https://github.com/EDS-APHP/yarn-manager,True
 https://github.com/Envinorma/alto,True
 https://github.com/Envinorma/arretes_ministeriels,True
 https://github.com/Envinorma/back-office,True
-https://github.com/Envinorma/data-tasks,False
+https://github.com/Envinorma/data-tasks,True
 https://github.com/Envinorma/envinorma-data,True
 https://github.com/Envinorma/envinorma-web,True
 https://github.com/Envinorma/envinorma.github.io,True
@@ -6967,7 +6967,7 @@ https://gitlab.inria.fr/dtk/dtk-wm,True
 https://gitlab.inria.fr/dtk/dtk-www,True
 https://gitlab.inria.fr/ed-mathstic/latex-template,True
 https://gitlab.inria.fr/eigen/eigen-mirror,True
-https://gitlab.inria.fr/elan-public-code/obj2vtk,False
+https://gitlab.inria.fr/elan-public-code/obj2vtk,True
 https://gitlab.inria.fr/elan-public-code/projectivefriction,True
 https://gitlab.inria.fr/enseignement/MIAGE_TP_XML_2017,True
 https://gitlab.inria.fr/epione/GP_progression_model_V2,True
@@ -8466,6 +8466,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/systemes/asynchronisme_algorithmiqu
 https://gricad-gitlab.univ-grenoble-alpes.fr/tal_for_distant_languages/wiki,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/talks/deeplearning,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/talks/fidle,True
+https://gricad-gitlab.univ-grenoble-alpes.fr/terra-forma/public,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/thingsat/public,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/tima-amfors/learnv,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/tima/public/ct_de-systemc,True
@@ -8625,7 +8626,7 @@ https://plmlab.math.cnrs.fr/jupytercloud/kubernetes,True
 https://plmlab.math.cnrs.fr/jupytercloud/repo2docker,False
 https://plmlab.math.cnrs.fr/jupytercloud/www,True
 https://plmlab.math.cnrs.fr/lmrs/statistique/drimmR,True
-https://plmlab.math.cnrs.fr/lmrs/statistique/smmR,False
+https://plmlab.math.cnrs.fr/lmrs/statistique/smmR,True
 https://plmlab.math.cnrs.fr/mathrice/journees/2019/03/jupytercloudx,True
 https://plmlab.math.cnrs.fr/mathrice/mathricecom/webmathrice-hs,True
 https://plmlab.math.cnrs.fr/mathrice/plmdoc/openshift-antora-template,True
@@ -8752,7 +8753,7 @@ https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/ipxe/instances/06-00-00-05-00-0
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/ipxe/instances/06-00-00-05-00-02,True
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/ipxe/instances/06-00-00-05-00-03,False
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/ipxe/ipxe.raw,False
-https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/kubernetes/vapormap,False
+https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/kubernetes/vapormap,True
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/openssh/pki,True
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/rancher/os-console,True
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/rancher/os-services,False
@@ -8771,10 +8772,10 @@ https://plmlab.math.cnrs.fr/smagp/smagp.pages.math.cnrs.fr,True
 https://plmlab.math.cnrs.fr/terraform/modules/deployment,True
 https://plmlab.math.cnrs.fr/terraform/modules/image,False
 https://plmlab.math.cnrs.fr/terraform/modules/instance,False
-https://plmlab.math.cnrs.fr/terraform/modules/keypair,False
+https://plmlab.math.cnrs.fr/terraform/modules/keypair,True
 https://plmlab.math.cnrs.fr/terraform/modules/network,True
 https://plmlab.math.cnrs.fr/terraform/modules/volume,False
 https://plmlab.math.cnrs.fr/terraform/okd-upi,True
 https://plmlab.math.cnrs.fr/texlive/2017,False
 https://plmlab.math.cnrs.fr/webconf/greenlight-plm,False
-https://plmlab.math.cnrs.fr/webconf/webconf.pages.math.cnrs.fr,False
+https://plmlab.math.cnrs.fr/webconf/webconf.pages.math.cnrs.fr,True
