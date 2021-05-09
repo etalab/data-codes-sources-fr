@@ -3352,7 +3352,7 @@ https://github.com/betagouv/poubellesbattle,True
 https://github.com/betagouv/preuve-covoiturage,True
 https://github.com/betagouv/preuve-covoiturage-doc,True
 https://github.com/betagouv/preuve-covoiturage-vitrine,True
-https://github.com/betagouv/psy-enfant-ado,False
+https://github.com/betagouv/psy-enfant-ado,True
 https://github.com/betagouv/publicodes,True
 https://github.com/betagouv/qrcode-svg,True
 https://github.com/betagouv/quotient-familial,True
@@ -5489,7 +5489,7 @@ https://github.com/openfun/hackathon,True
 https://github.com/openfun/handbook,True
 https://github.com/openfun/jibri-pulseaudio,True
 https://github.com/openfun/joanie,True
-https://github.com/openfun/learning-analytics-playground,False
+https://github.com/openfun/learning-analytics-playground,True
 https://github.com/openfun/learninglocker-docker,True
 https://github.com/openfun/libcast-xblock,True
 https://github.com/openfun/mail-fun-edx,True
@@ -8399,7 +8399,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/lucah/hadaca_scoring,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/marinesj/ls_translator,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/meige-legi/intro-python,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/meige-legi/scientific-computing-m2-efm,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/mercurius_inversion/alternated_inversion,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/mercurius_inversion/alternated_inversion,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/michael_perin/pwc,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/michael_perin/tutoriel-qcm-avec-amc,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/modmed/modmedLog,True
@@ -8676,7 +8676,7 @@ https://plmlab.math.cnrs.fr/plmshift/drupal,True
 https://plmlab.math.cnrs.fr/plmshift/etherpad,False
 https://plmlab.math.cnrs.fr/plmshift/gitlab-runner,True
 https://plmlab.math.cnrs.fr/plmshift/gitlab-runner-init,False
-https://plmlab.math.cnrs.fr/plmshift/gollum,False
+https://plmlab.math.cnrs.fr/plmshift/gollum,True
 https://plmlab.math.cnrs.fr/plmshift/gpu_driver,False
 https://plmlab.math.cnrs.fr/plmshift/horde,True
 https://plmlab.math.cnrs.fr/plmshift/horde-custom,False
@@ -8763,7 +8763,7 @@ https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/registry/rancher/os-alpineconso
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/registry/rancher/os-hashistackconsole,False
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/registry/rancher/os-rkeconsole,False
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/students/martin.souchal/infrastructure,False
-https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/students/martin.souchal/ipxe.raw,False
+https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/students/martin.souchal/ipxe.raw,True
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/students/olivier.lassalle/infrastructure,False
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/students/olivier.lassalle/ipxe.raw,False
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/vapormap,True
