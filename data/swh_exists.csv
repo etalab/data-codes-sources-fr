@@ -3062,7 +3062,7 @@ https://github.com/betagouv/api-cpa,True
 https://github.com/betagouv/api-diagoriente-v5,True
 https://github.com/betagouv/api-drones,True
 https://github.com/betagouv/api-engagement,True
-https://github.com/betagouv/api-label-transition-ecologique,False
+https://github.com/betagouv/api-label-transition-ecologique,True
 https://github.com/betagouv/api-medicaments,True
 https://github.com/betagouv/api-particulier,True
 https://github.com/betagouv/api-particulier-ansible,True
@@ -8024,7 +8024,7 @@ https://gitlab.u-psud.fr/talend/tld_adonis_sync_ldap,True
 https://gitlab.u-psud.fr/talend/tld_alma,True
 https://gitlab.u-psud.fr/talend/tld_candidatures_sc,True
 https://gitlab.u-psud.fr/talend/tld_cartes_sceaux,True
-https://gitlab.u-psud.fr/talend/tld_celcat,False
+https://gitlab.u-psud.fr/talend/tld_celcat,True
 https://gitlab.u-psud.fr/talend/tld_cidr,True
 https://gitlab.u-psud.fr/talend/tld_crd,True
 https://gitlab.u-psud.fr/talend/tld_crm,True
@@ -8649,7 +8649,7 @@ https://plmlab.math.cnrs.fr/pagesfil/test-drupal,True
 https://plmlab.math.cnrs.fr/pagesfil/web-mathrice,True
 https://plmlab.math.cnrs.fr/perso/docs,True
 https://plmlab.math.cnrs.fr/perso/perso.pages.math.cnrs.fr,True
-https://plmlab.math.cnrs.fr/perso/users/arthur.touati,False
+https://plmlab.math.cnrs.fr/perso/users/arthur.touati,True
 https://plmlab.math.cnrs.fr/perso/users/bertrand.remy,True
 https://plmlab.math.cnrs.fr/perso/users/caterina.valcu,True
 https://plmlab.math.cnrs.fr/perso/users/damien.ferney,True
@@ -8671,9 +8671,9 @@ https://plmlab.math.cnrs.fr/plmlatex/sharelatex-web,True
 https://plmlab.math.cnrs.fr/plmshift/bbb-downloader,True
 https://plmlab.math.cnrs.fr/plmshift/borgbackup,False
 https://plmlab.math.cnrs.fr/plmshift/codimd,True
-https://plmlab.math.cnrs.fr/plmshift/docker-registry-proxy,False
+https://plmlab.math.cnrs.fr/plmshift/docker-registry-proxy,True
 https://plmlab.math.cnrs.fr/plmshift/drupal,True
-https://plmlab.math.cnrs.fr/plmshift/etherpad,False
+https://plmlab.math.cnrs.fr/plmshift/etherpad,True
 https://plmlab.math.cnrs.fr/plmshift/gitlab-runner,True
 https://plmlab.math.cnrs.fr/plmshift/gitlab-runner-init,False
 https://plmlab.math.cnrs.fr/plmshift/gollum,True
@@ -8688,7 +8688,7 @@ https://plmlab.math.cnrs.fr/plmshift/jupyterhub-quickstart,True
 https://plmlab.math.cnrs.fr/plmshift/kubernetes-zfs-provisioner,True
 https://plmlab.math.cnrs.fr/plmshift/lamp,True
 https://plmlab.math.cnrs.fr/plmshift/limesurvey,True
-https://plmlab.math.cnrs.fr/plmshift/logrotate,False
+https://plmlab.math.cnrs.fr/plmshift/logrotate,True
 https://plmlab.math.cnrs.fr/plmshift/mongodump,True
 https://plmlab.math.cnrs.fr/plmshift/moodle,True
 https://plmlab.math.cnrs.fr/plmshift/mysqldump,False
@@ -8708,7 +8708,7 @@ https://plmlab.math.cnrs.fr/plmshift/rt,True
 https://plmlab.math.cnrs.fr/plmshift/s2i-tensorflow-gpu-notebook,True
 https://plmlab.math.cnrs.fr/plmshift/sage-notebook-testing,False
 https://plmlab.math.cnrs.fr/plmshift/seafile,True
-https://plmlab.math.cnrs.fr/plmshift/seafile-custom,False
+https://plmlab.math.cnrs.fr/plmshift/seafile-custom,True
 https://plmlab.math.cnrs.fr/plmshift/shiny,True
 https://plmlab.math.cnrs.fr/plmshift/shiny-custom,False
 https://plmlab.math.cnrs.fr/plmshift/sketchpad,False
@@ -8752,7 +8752,7 @@ https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/ipxe/instances/06-00-00-04-00-0
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/ipxe/instances/06-00-00-05-00-01,True
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/ipxe/instances/06-00-00-05-00-02,True
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/ipxe/instances/06-00-00-05-00-03,False
-https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/ipxe/ipxe.raw,False
+https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/ipxe/ipxe.raw,True
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/kubernetes/vapormap,True
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/openssh/pki,True
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/rancher/os-console,True
@@ -8770,7 +8770,7 @@ https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/vapormap,True
 https://plmlab.math.cnrs.fr/seafile/tb-filelink-seafile,False
 https://plmlab.math.cnrs.fr/smagp/smagp.pages.math.cnrs.fr,True
 https://plmlab.math.cnrs.fr/terraform/modules/deployment,True
-https://plmlab.math.cnrs.fr/terraform/modules/image,False
+https://plmlab.math.cnrs.fr/terraform/modules/image,True
 https://plmlab.math.cnrs.fr/terraform/modules/instance,False
 https://plmlab.math.cnrs.fr/terraform/modules/keypair,True
 https://plmlab.math.cnrs.fr/terraform/modules/network,True
