@@ -1191,7 +1191,7 @@ https://github.com/CEREMA/dterso.pluginQgis.CeremaCartEau,True
 https://github.com/CEREMA/dterso.pluginQgis3.CeremaCartEau3,True
 https://github.com/CEREMA/rivages-android,True
 https://github.com/CEREMA/schema-arrete-circulation,True
-https://github.com/CEREMA/schema-arrete-permanent-circulation,False
+https://github.com/CEREMA/schema-arrete-permanent-circulation,True
 https://github.com/CEREMA/territoire-ville.Covadis,True
 https://github.com/CEREMA/territoires-ville.DiagFeux,True
 https://github.com/CEREMA/territoires-ville.Girabase,True
@@ -1452,7 +1452,7 @@ https://github.com/Envinorma/data-tasks,True
 https://github.com/Envinorma/envinorma-data,True
 https://github.com/Envinorma/envinorma-web,True
 https://github.com/Envinorma/envinorma.github.io,True
-https://github.com/Envinorma/leginorma,False
+https://github.com/Envinorma/leginorma,True
 https://github.com/Envinorma/ocr_utils,True
 https://github.com/Envinorma/pdf_ocr_app,True
 https://github.com/Envinorma/text_diff,False
@@ -4633,7 +4633,7 @@ https://github.com/inrae/Formation_Python,True
 https://github.com/inrae/GR3D,True
 https://github.com/inrae/Matrix_lib-v2.0,True
 https://github.com/inrae/ODAM,True
-https://github.com/inrae/RCaN,False
+https://github.com/inrae/RCaN,True
 https://github.com/inrae/SISPPEO,True
 https://github.com/inrae/ShellScripts,True
 https://github.com/inrae/dbexportmodel,True
@@ -7567,7 +7567,7 @@ https://gitlab.inria.fr/pm2/benchmark,True
 https://gitlab.inria.fr/pm2/benchnbc-results,True
 https://gitlab.inria.fr/pm2/packaging,True
 https://gitlab.inria.fr/pm2/pm2,True
-https://gitlab.inria.fr/pm2/pm2.gitlabpages.inria.fr,False
+https://gitlab.inria.fr/pm2/pm2.gitlabpages.inria.fr,True
 https://gitlab.inria.fr/polar/polar,True
 https://gitlab.inria.fr/popstar/SAT-Equiv,True
 https://gitlab.inria.fr/post-doc-inria/fairvision,True
@@ -8670,7 +8670,7 @@ https://plmlab.math.cnrs.fr/plmlatex/sharelatex-clsi,True
 https://plmlab.math.cnrs.fr/plmlatex/sharelatex-web,True
 https://plmlab.math.cnrs.fr/plmshift/bbb-downloader,True
 https://plmlab.math.cnrs.fr/plmshift/borgbackup,False
-https://plmlab.math.cnrs.fr/plmshift/codimd,False
+https://plmlab.math.cnrs.fr/plmshift/codimd,True
 https://plmlab.math.cnrs.fr/plmshift/docker-registry-proxy,False
 https://plmlab.math.cnrs.fr/plmshift/drupal,True
 https://plmlab.math.cnrs.fr/plmshift/etherpad,False
@@ -8709,7 +8709,7 @@ https://plmlab.math.cnrs.fr/plmshift/s2i-tensorflow-gpu-notebook,True
 https://plmlab.math.cnrs.fr/plmshift/sage-notebook-testing,False
 https://plmlab.math.cnrs.fr/plmshift/seafile,True
 https://plmlab.math.cnrs.fr/plmshift/seafile-custom,False
-https://plmlab.math.cnrs.fr/plmshift/shiny,False
+https://plmlab.math.cnrs.fr/plmshift/shiny,True
 https://plmlab.math.cnrs.fr/plmshift/shiny-custom,False
 https://plmlab.math.cnrs.fr/plmshift/sketchpad,False
 https://plmlab.math.cnrs.fr/plmshift/wims,False
@@ -8742,7 +8742,7 @@ https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/hashicorp/terraform/modules/key
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/hashicorp/terraform/modules/network,False
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/hashicorp/terraform/modules/volume,True
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/hashicorp/vault/cluster,False
-https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/info-site,False
+https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/info-site,True
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/ipxe/classes/bastion,False
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/ipxe/instances/06-00-00-01-00-01,False
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/ipxe/instances/06-00-00-01-00-02,False
@@ -8774,7 +8774,7 @@ https://plmlab.math.cnrs.fr/terraform/modules/image,False
 https://plmlab.math.cnrs.fr/terraform/modules/instance,False
 https://plmlab.math.cnrs.fr/terraform/modules/keypair,True
 https://plmlab.math.cnrs.fr/terraform/modules/network,True
-https://plmlab.math.cnrs.fr/terraform/modules/volume,False
+https://plmlab.math.cnrs.fr/terraform/modules/volume,True
 https://plmlab.math.cnrs.fr/terraform/okd-upi,True
 https://plmlab.math.cnrs.fr/texlive/2017,False
 https://plmlab.math.cnrs.fr/webconf/greenlight-plm,False
