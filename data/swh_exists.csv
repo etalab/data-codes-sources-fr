@@ -2678,7 +2678,7 @@ https://github.com/SocialGouv/standup2,True
 https://github.com/SocialGouv/suggest,True
 https://github.com/SocialGouv/support,True
 https://github.com/SocialGouv/template.data.gouv.fr.react,True
-https://github.com/SocialGouv/test-deploy1,False
+https://github.com/SocialGouv/test-deploy1,True
 https://github.com/SocialGouv/test-renovate,True
 https://github.com/SocialGouv/test-renovate-cdtn,True
 https://github.com/SocialGouv/test-ssl-action,True
@@ -3204,7 +3204,7 @@ https://github.com/betagouv/holodeck-dashboard,True
 https://github.com/betagouv/holodeck-dashboard-old,True
 https://github.com/betagouv/i18nliner-js,True
 https://github.com/betagouv/ilos,True
-https://github.com/betagouv/immersion,False
+https://github.com/betagouv/immersion,True
 https://github.com/betagouv/impact-tests,True
 https://github.com/betagouv/indice_pollution,True
 https://github.com/betagouv/itou,True
@@ -3750,7 +3750,7 @@ https://github.com/datagir/monconvertisseurco2,True
 https://github.com/datagir/monimpacttransport,True
 https://github.com/datagir/nosgestesclimat,True
 https://github.com/datagir/nosgestesclimat-site,True
-https://github.com/datagir/quefairedemesdechets,False
+https://github.com/datagir/quefairedemesdechets,True
 https://github.com/datagir/teletravail,True
 https://github.com/datalocale/BinFul,True
 https://github.com/datalocale/ECV-IJBA,True
@@ -7019,7 +7019,7 @@ https://gitlab.inria.fr/fedbiomed/fedbiomed,True
 https://gitlab.inria.fr/fedbiomed/fedbiomed-api,True
 https://gitlab.inria.fr/fedbiomed/fedbiomed-api-v1,True
 https://gitlab.inria.fr/fedbiomed/fedbiomed-node,True
-https://gitlab.inria.fr/fedbiomed/fedbiomed-node-v2,False
+https://gitlab.inria.fr/fedbiomed/fedbiomed-node-v2,True
 https://gitlab.inria.fr/fedbiomed/fedbiomed-v2,True
 https://gitlab.inria.fr/fedbiomed/fedbiomed.gitlabpages.inria.fr,True
 https://gitlab.inria.fr/flocq/flocq,True
@@ -7761,7 +7761,7 @@ https://gitlab.inria.fr/swloc/swloc.gitlabpages.inria.fr,True
 https://gitlab.inria.fr/synalp/python4nlp-2019-public,True
 https://gitlab.inria.fr/synalp/website,True
 https://gitlab.inria.fr/synchrone/heptagon,True
-https://gitlab.inria.fr/tansiv/python-tansiv,False
+https://gitlab.inria.fr/tansiv/python-tansiv,True
 https://gitlab.inria.fr/tapenade/tapenade,True
 https://gitlab.inria.fr/tapenade/userdoc,True
 https://gitlab.inria.fr/testing-security-features/Software/c-client,False
@@ -8573,7 +8573,7 @@ https://plmlab.math.cnrs.fr/docker-images/alpine,True
 https://plmlab.math.cnrs.fr/docker-images/augeas,True
 https://plmlab.math.cnrs.fr/docker-images/base-notebook-nbgrader,True
 https://plmlab.math.cnrs.fr/docker-images/bash,True
-https://plmlab.math.cnrs.fr/docker-images/bash-bundler,False
+https://plmlab.math.cnrs.fr/docker-images/bash-bundler,True
 https://plmlab.math.cnrs.fr/docker-images/build-container,True
 https://plmlab.math.cnrs.fr/docker-images/buildah,True
 https://plmlab.math.cnrs.fr/docker-images/centos,True
@@ -8621,7 +8621,7 @@ https://plmlab.math.cnrs.fr/infomath/latex,True
 https://plmlab.math.cnrs.fr/ipanema/propellor,True
 https://plmlab.math.cnrs.fr/jupytercloud/authenticator-proxy,True
 https://plmlab.math.cnrs.fr/jupytercloud/httpd-shibboleth-sp,True
-https://plmlab.math.cnrs.fr/jupytercloud/image-paris-saclay,False
+https://plmlab.math.cnrs.fr/jupytercloud/image-paris-saclay,True
 https://plmlab.math.cnrs.fr/jupytercloud/kubernetes,True
 https://plmlab.math.cnrs.fr/jupytercloud/repo2docker,True
 https://plmlab.math.cnrs.fr/jupytercloud/www,True
@@ -8667,7 +8667,7 @@ https://plmlab.math.cnrs.fr/plm-services/plm_build,True
 https://plmlab.math.cnrs.fr/plmlab/dind,True
 https://plmlab.math.cnrs.fr/plmlatex/plmlatex,True
 https://plmlab.math.cnrs.fr/plmlatex/sharelatex-clsi,True
-https://plmlab.math.cnrs.fr/plmlatex/sharelatex-web,False
+https://plmlab.math.cnrs.fr/plmlatex/sharelatex-web,True
 https://plmlab.math.cnrs.fr/plmshift/bbb-downloader,True
 https://plmlab.math.cnrs.fr/plmshift/borgbackup,False
 https://plmlab.math.cnrs.fr/plmshift/codimd,False
@@ -8699,7 +8699,7 @@ https://plmlab.math.cnrs.fr/plmshift/phpldapadmin,True
 https://plmlab.math.cnrs.fr/plmshift/plm_cinema,True
 https://plmlab.math.cnrs.fr/plmshift/plmkan,True
 https://plmlab.math.cnrs.fr/plmshift/plmshift-manifests,True
-https://plmlab.math.cnrs.fr/plmshift/plmshift.pages.math.cnrs.fr,False
+https://plmlab.math.cnrs.fr/plmshift/plmshift.pages.math.cnrs.fr,True
 https://plmlab.math.cnrs.fr/plmshift/plmwebconf,True
 https://plmlab.math.cnrs.fr/plmshift/psqldump,True
 https://plmlab.math.cnrs.fr/plmshift/rocket-chat,False
