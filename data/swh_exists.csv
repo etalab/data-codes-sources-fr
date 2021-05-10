@@ -4248,7 +4248,7 @@ https://github.com/etalab/dactylo,True
 https://github.com/etalab/dashboard-aides-entreprises,True
 https://github.com/etalab/dashboard_api_entreprise,True
 https://github.com/etalab/data-codes-sources-fr,True
-https://github.com/etalab/data-covid19-dashboard-widgets,False
+https://github.com/etalab/data-covid19-dashboard-widgets,True
 https://github.com/etalab/data.etalab.studio,True
 https://github.com/etalab/data.gouv.fr,True
 https://github.com/etalab/datagouv-dashboard-moderation,True
@@ -6799,6 +6799,8 @@ https://gitlab.inria.fr/compass/compass,True
 https://gitlab.inria.fr/compass/meshtools,True
 https://gitlab.inria.fr/compcertssa/compcertssa,True
 https://gitlab.inria.fr/complexityparser/complexityparser,True
+https://gitlab.inria.fr/compose/oldstack/cpp_tools,False
+https://gitlab.inria.fr/compose/oldstack/fmr,False
 https://gitlab.inria.fr/comprise/comprise-cloud-based-platform,True
 https://gitlab.inria.fr/comprise/comprise-example-library,True
 https://gitlab.inria.fr/comprise/comprise-personal-server,True
@@ -8531,7 +8533,7 @@ https://plmlab.math.cnrs.fr/anf2018/bd-hadoop,True
 https://plmlab.math.cnrs.fr/anf2018/bd-mongodb,True
 https://plmlab.math.cnrs.fr/anr-bmws/anr-bmws.pages.math.cnrs.fr,True
 https://plmlab.math.cnrs.fr/anr-highagt/anr-highagt.pages.math.cnrs.fr,True
-https://plmlab.math.cnrs.fr/archimede/intertwiningwavelet,False
+https://plmlab.math.cnrs.fr/archimede/intertwiningwavelet,True
 https://plmlab.math.cnrs.fr/bwoc2020/bwoc2020.pages.math.cnrs.fr,True
 https://plmlab.math.cnrs.fr/calcul-icj/bench-python-fft,True
 https://plmlab.math.cnrs.fr/calcul-icj/git-express,True
@@ -8568,7 +8570,7 @@ https://plmlab.math.cnrs.fr/cmt/stdlib,True
 https://plmlab.math.cnrs.fr/cmt/tftp-relay,True
 https://plmlab.math.cnrs.fr/cmt/tftp-server,True
 https://plmlab.math.cnrs.fr/cmt/vagrant-nfs,True
-https://plmlab.math.cnrs.fr/cmt/vagrant-node,False
+https://plmlab.math.cnrs.fr/cmt/vagrant-node,True
 https://plmlab.math.cnrs.fr/cmt/vagrant-switch,True
 https://plmlab.math.cnrs.fr/david.delavennat/lri,True
 https://plmlab.math.cnrs.fr/ddm-corner-helmholtz-2d/scripts-onelab,True
@@ -8754,7 +8756,7 @@ https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/ipxe/instances/06-00-00-01-00-0
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/ipxe/instances/06-00-00-01-00-02,False
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/ipxe/instances/06-00-00-04-00-01,True
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/ipxe/instances/06-00-00-04-00-02,False
-https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/ipxe/instances/06-00-00-04-00-03,False
+https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/ipxe/instances/06-00-00-04-00-03,True
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/ipxe/instances/06-00-00-05-00-01,True
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/ipxe/instances/06-00-00-05-00-02,True
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/ipxe/instances/06-00-00-05-00-03,False
@@ -8763,7 +8765,7 @@ https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/kubernetes/vapormap,True
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/openssh/pki,True
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/rancher/os-console,True
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/rancher/os-services,True
-https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/rancher/rio,False
+https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/rancher/rio,True
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/rancher/rke,True
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/registry/rancher/os-alpineconsole,False
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/registry/rancher/os-hashistackconsole,False
