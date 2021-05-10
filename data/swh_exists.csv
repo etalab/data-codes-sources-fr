@@ -532,7 +532,7 @@ https://forgemia.inra.fr/umrf/utopia,True
 https://forgemia.inra.fr/urep/appToolbox,True
 https://forgemia.inra.fr/urep/docs/bonpland,True
 https://forgemia.inra.fr/urep/docs/demorpackage,True
-https://forgemia.inra.fr/urep/formations/formation_r/initiation,False
+https://forgemia.inra.fr/urep/formations/formation_r/initiation,True
 https://forgemia.inra.fr/urep/soere-acbb-pp/documentation,False
 https://forgemia.inra.fr/urep/soere-pp/doc_soere-pp,True
 https://forgemia.inra.fr/urep/soere-pp/meteosolApp,True
@@ -6127,6 +6127,7 @@ https://gitlab.com/dreal-datalab/ort_effectifs_transport,True
 https://gitlab.com/dreal-datalab/pesticides,True
 https://gitlab.com/dreal-datalab/poc-enr-teo,True
 https://gitlab.com/dreal-datalab/propre.artificialisation,True
+https://gitlab.com/dreal-datalab/propre.ecln,False
 https://gitlab.com/dreal-datalab/rapport.irve,True
 https://gitlab.com/dreal-datalab/reseauchaleur,True
 https://gitlab.com/dreal-datalab/rrrpls,True
@@ -6527,7 +6528,7 @@ https://gitlab.inria.fr/across_opm/opm-common,False
 https://gitlab.inria.fr/across_opm/opm-grid,True
 https://gitlab.inria.fr/across_opm/opm-material,True
 https://gitlab.inria.fr/across_opm/opm-models,True
-https://gitlab.inria.fr/across_opm/opm-simulators,False
+https://gitlab.inria.fr/across_opm/opm-simulators,True
 https://gitlab.inria.fr/across_opm/opm-upscaling,True
 https://gitlab.inria.fr/acumes/dduq-traffic,True
 https://gitlab.inria.fr/adjoint-computation/H-Revolve,True
@@ -7101,6 +7102,7 @@ https://gitlab.inria.fr/gazelle/library/gazelle-assertion-coverage-provider,True
 https://gitlab.inria.fr/gazelle/library/gazelle-assets,True
 https://gitlab.inria.fr/gazelle/library/gazelle-preferences,True
 https://gitlab.inria.fr/gazelle/library/gazelle-tools,True
+https://gitlab.inria.fr/gazelle/library/gazelle-x-validation,False
 https://gitlab.inria.fr/gazelle/library/hl7templates/gocmodel-jar,True
 https://gitlab.inria.fr/gazelle/library/hl7templates/hl7template-generator-jar,False
 https://gitlab.inria.fr/gazelle/library/hl7templates/hl7templates-api,True
@@ -7991,7 +7993,7 @@ https://gitlab.orfeo-toolbox.org/remote_modules/remote-module-template,True
 https://gitlab.orfeo-toolbox.org/remote_modules/wasp,True
 https://gitlab.orfeo-toolbox.org/s1-tiling/normlim_sigma0,True
 https://gitlab.orfeo-toolbox.org/s1-tiling/s1tiling,True
-https://gitlab.orfeo-toolbox.org/s1-tiling/s1tiling-dockers,False
+https://gitlab.orfeo-toolbox.org/s1-tiling/s1tiling-dockers,True
 https://gitlab.orfeo-toolbox.org/s1-tiling/s1tilingsupportapplications,True
 https://gitlab.ow2.org/lemonldap-ng/lemonldap-ng,True
 https://gitlab.ow2.org/lemonldap-ng/vue-manager-for-llng,True
@@ -8521,7 +8523,7 @@ https://plmlab.math.cnrs.fr/XLIM/SPDOPT,True
 https://plmlab.math.cnrs.fr/alpine/buildah,False
 https://plmlab.math.cnrs.fr/alpine/container-linux,True
 https://plmlab.math.cnrs.fr/alpine/containers/build,True
-https://plmlab.math.cnrs.fr/alpine/containers/conmon,False
+https://plmlab.math.cnrs.fr/alpine/containers/conmon,True
 https://plmlab.math.cnrs.fr/alpine/containers/podman,True
 https://plmlab.math.cnrs.fr/alpine/live,True
 https://plmlab.math.cnrs.fr/alpine/runc,True
@@ -8596,7 +8598,7 @@ https://plmlab.math.cnrs.fr/docker-images/systemd,True
 https://plmlab.math.cnrs.fr/docker-images/ubuntu,True
 https://plmlab.math.cnrs.fr/econetproject/econetwork,True
 https://plmlab.math.cnrs.fr/fano-hk/fano-hk.pages.math.cnrs.fr,True
-https://plmlab.math.cnrs.fr/fedora/live,False
+https://plmlab.math.cnrs.fr/fedora/live,True
 https://plmlab.math.cnrs.fr/fedora/lorax,True
 https://plmlab.math.cnrs.fr/formation-calcul/optimisation,True
 https://plmlab.math.cnrs.fr/gdr-mascotnum/mnwiki-server,True
@@ -8683,7 +8685,7 @@ https://plmlab.math.cnrs.fr/plmshift/gitlab-runner-init,False
 https://plmlab.math.cnrs.fr/plmshift/gollum,True
 https://plmlab.math.cnrs.fr/plmshift/gpu_driver,False
 https://plmlab.math.cnrs.fr/plmshift/horde,True
-https://plmlab.math.cnrs.fr/plmshift/horde-custom,False
+https://plmlab.math.cnrs.fr/plmshift/horde-custom,True
 https://plmlab.math.cnrs.fr/plmshift/hugo,False
 https://plmlab.math.cnrs.fr/plmshift/indico,True
 https://plmlab.math.cnrs.fr/plmshift/jupyter-notebooks,True
@@ -8731,7 +8733,7 @@ https://plmlab.math.cnrs.fr/rancher/os-hashistackconsole,True
 https://plmlab.math.cnrs.fr/razvanbarbulescu/razvanbarbulescu.pages.math.cnrs.fr,True
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/ada-devops-tbx,False
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/ada-tp-packer,True
-https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/build-container,False
+https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/build-container,True
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/cloud-init,False
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/containers/buildah,False
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/harbor/cluster,True
