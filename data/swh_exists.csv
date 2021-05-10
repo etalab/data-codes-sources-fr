@@ -215,7 +215,7 @@ https://forgemia.inra.fr/GNet/dicoexpress,True
 https://forgemia.inra.fr/GNet/einkorn_grain_transcriptome,True
 https://forgemia.inra.fr/GNet/pipelineoge,True
 https://forgemia.inra.fr/QTL/spell-qtl,True
-https://forgemia.inra.fr/acep/careb,False
+https://forgemia.inra.fr/acep/careb,True
 https://forgemia.inra.fr/adminforgemia/doc-public,True
 https://forgemia.inra.fr/agriterix/agriterix,True
 https://forgemia.inra.fr/agriterix/doc,True
@@ -428,6 +428,7 @@ https://forgemia.inra.fr/inter_cati_omics/snakemake/snakemake_modules,True
 https://forgemia.inra.fr/irhs-bioinfo/i-fungi,True
 https://forgemia.inra.fr/lbe/opensilexlbe/ontologielbe,True
 https://forgemia.inra.fr/lbe/opensilexlbe/opensilex-dev,True
+https://forgemia.inra.fr/linmodel/linmodel,False
 https://forgemia.inra.fr/metagenopolis/eskrim,True
 https://forgemia.inra.fr/metagenopolis/meteor,True
 https://forgemia.inra.fr/metagenopolis/trim_fastq,True
@@ -531,6 +532,7 @@ https://forgemia.inra.fr/umrf/utopia,True
 https://forgemia.inra.fr/urep/appToolbox,True
 https://forgemia.inra.fr/urep/docs/bonpland,True
 https://forgemia.inra.fr/urep/docs/demorpackage,True
+https://forgemia.inra.fr/urep/formations/formation_r/initiation,False
 https://forgemia.inra.fr/urep/soere-acbb-pp/documentation,False
 https://forgemia.inra.fr/urep/soere-pp/doc_soere-pp,True
 https://forgemia.inra.fr/urep/soere-pp/meteosolApp,True
@@ -2273,7 +2275,7 @@ https://github.com/MTES-MCT/partaj,True
 https://github.com/MTES-MCT/passport-cerbere,True
 https://github.com/MTES-MCT/permis-construire,True
 https://github.com/MTES-MCT/portail,True
-https://github.com/MTES-MCT/portscan-action,False
+https://github.com/MTES-MCT/portscan-action,True
 https://github.com/MTES-MCT/potentiel,True
 https://github.com/MTES-MCT/rapportNav,True
 https://github.com/MTES-MCT/resorption-bidonvilles-deploy,True
@@ -3735,6 +3737,7 @@ https://github.com/dataesr/kubectl-deploy,True
 https://github.com/dataesr/onedrive,True
 https://github.com/dataesr/paysage-openapi,True
 https://github.com/dataesr/react-dsfr,True
+https://github.com/dataesr/scanr,False
 https://github.com/dataesr/scanr-end2end,True
 https://github.com/dataesr/scientific_tagger,True
 https://github.com/datagir/Ecolab,True
@@ -6110,7 +6113,7 @@ https://gitlab.com/dreal-datalab/carrieres,True
 https://gitlab.com/dreal-datalab/codes_postaux,True
 https://gitlab.com/dreal-datalab/cogiter,True
 https://gitlab.com/dreal-datalab/communications,True
-https://gitlab.com/dreal-datalab/crte.com,False
+https://gitlab.com/dreal-datalab/crte.com,True
 https://gitlab.com/dreal-datalab/drealdown,True
 https://gitlab.com/dreal-datalab/drealthemes,True
 https://gitlab.com/dreal-datalab/enr_reseaux_teo,True
@@ -6523,7 +6526,7 @@ https://gitlab.inria.fr/WellInverter/WellInverter_Standalone_Windows,True
 https://gitlab.inria.fr/across_opm/opm-common,False
 https://gitlab.inria.fr/across_opm/opm-grid,True
 https://gitlab.inria.fr/across_opm/opm-material,True
-https://gitlab.inria.fr/across_opm/opm-models,False
+https://gitlab.inria.fr/across_opm/opm-models,True
 https://gitlab.inria.fr/across_opm/opm-simulators,False
 https://gitlab.inria.fr/across_opm/opm-upscaling,True
 https://gitlab.inria.fr/acumes/dduq-traffic,True
@@ -8400,6 +8403,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/marinesj/ls_translator,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/meige-legi/intro-python,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/meige-legi/scientific-computing-m2-efm,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/mercurius_inversion/alternated_inversion,True
+https://gricad-gitlab.univ-grenoble-alpes.fr/mercury_inversion/alternating_inversion,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/michael_perin/pwc,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/michael_perin/tutoriel-qcm-avec-amc,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/modmed/modmedLog,True
@@ -8564,7 +8568,7 @@ https://plmlab.math.cnrs.fr/cmt/tftp-server,True
 https://plmlab.math.cnrs.fr/cmt/vagrant-nfs,True
 https://plmlab.math.cnrs.fr/cmt/vagrant-node,False
 https://plmlab.math.cnrs.fr/cmt/vagrant-switch,True
-https://plmlab.math.cnrs.fr/david.delavennat/lri,False
+https://plmlab.math.cnrs.fr/david.delavennat/lri,True
 https://plmlab.math.cnrs.fr/ddm-corner-helmholtz-2d/scripts-onelab,True
 https://plmlab.math.cnrs.fr/deaduction/projet-lean,True
 https://plmlab.math.cnrs.fr/demoPLMlab/demoCIlatex,True
@@ -8579,7 +8583,7 @@ https://plmlab.math.cnrs.fr/docker-images/buildah,True
 https://plmlab.math.cnrs.fr/docker-images/centos,True
 https://plmlab.math.cnrs.fr/docker-images/debian,True
 https://plmlab.math.cnrs.fr/docker-images/docker-images.pages.math.cnrs.fr,True
-https://plmlab.math.cnrs.fr/docker-images/elasticsearch,False
+https://plmlab.math.cnrs.fr/docker-images/elasticsearch,True
 https://plmlab.math.cnrs.fr/docker-images/esup-pod,True
 https://plmlab.math.cnrs.fr/docker-images/mariadb,True
 https://plmlab.math.cnrs.fr/docker-images/mkdocs,True
@@ -8734,7 +8738,7 @@ https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/harbor/cluster,True
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/hashicorp/consul/cluster,False
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/hashicorp/nomad/cluster,False
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/hashicorp/packer/terraform,False
-https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/hashicorp/terraform/infrastructure,False
+https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/hashicorp/terraform/infrastructure,True
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/hashicorp/terraform/modules/bastion,True
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/hashicorp/terraform/modules/image,True
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/hashicorp/terraform/modules/instance,True
