@@ -219,6 +219,7 @@ https://forgemia.inra.fr/acep/careb,True
 https://forgemia.inra.fr/adminforgemia/doc-public,True
 https://forgemia.inra.fr/agriterix/agriterix,True
 https://forgemia.inra.fr/agriterix/doc,True
+https://forgemia.inra.fr/agriterix/import-export,False
 https://forgemia.inra.fr/agriterix/simulator,True
 https://forgemia.inra.fr/agroecoperenne/scripting/python-module,True
 https://forgemia.inra.fr/anaee-dev/coby,True
@@ -4392,6 +4393,8 @@ https://github.com/etalab/run-nb,True
 https://github.com/etalab/schema-amenagements-cyclables,True
 https://github.com/etalab/schema-bal,True
 https://github.com/etalab/schema-comptage-velo,True
+https://github.com/etalab/schema-comptage-velo-dynamique,False
+https://github.com/etalab/schema-comptage-velo-statique,False
 https://github.com/etalab/schema-decp-dpa,True
 https://github.com/etalab/schema-generic-template,True
 https://github.com/etalab/schema-hautes-remunerations,True
@@ -6754,7 +6757,7 @@ https://gitlab.inria.fr/capsid-public/conda/runner-deploy,True
 https://gitlab.inria.fr/capsid.crates/lib3dmol,True
 https://gitlab.inria.fr/causality/causal-ocaml,True
 https://gitlab.inria.fr/causality/causality-monad,True
-https://gitlab.inria.fr/causality/petri-strategies,False
+https://gitlab.inria.fr/causality/petri-strategies,True
 https://gitlab.inria.fr/causality/weakmem,True
 https://gitlab.inria.fr/cedar/RDFQuotient,True
 https://gitlab.inria.fr/cedar/connectionlens,True
@@ -6804,7 +6807,7 @@ https://gitlab.inria.fr/compass/meshtools,True
 https://gitlab.inria.fr/compcertssa/compcertssa,True
 https://gitlab.inria.fr/complexityparser/complexityparser,True
 https://gitlab.inria.fr/compose/oldstack/cpp_tools,False
-https://gitlab.inria.fr/compose/oldstack/fmr,False
+https://gitlab.inria.fr/compose/oldstack/fmr,True
 https://gitlab.inria.fr/comprise/comprise-cloud-based-platform,True
 https://gitlab.inria.fr/comprise/comprise-example-library,True
 https://gitlab.inria.fr/comprise/comprise-personal-server,True
@@ -6841,7 +6844,7 @@ https://gitlab.inria.fr/concordant/software/c-service,True
 https://gitlab.inria.fr/concordant/software/c-sudoku,True
 https://gitlab.inria.fr/concordant/software/mini-app,True
 https://gitlab.inria.fr/controlHub/experiment_server,False
-https://gitlab.inria.fr/controlHub/submission_video_server,False
+https://gitlab.inria.fr/controlHub/submission_video_server,True
 https://gitlab.inria.fr/coq/coq,True
 https://gitlab.inria.fr/coq/wiki-backup,True
 https://gitlab.inria.fr/coqinterval/interval,True
@@ -8413,7 +8416,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/marinesj/ls_translator,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/meige-legi/intro-python,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/meige-legi/scientific-computing-m2-efm,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/mercurius_inversion/alternated_inversion,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/mercury_inversion/alternating_inversion,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/mercury_inversion/alternating_inversion,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/michael_perin/pwc,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/michael_perin/tutoriel-qcm-avec-amc,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/modmed/modmedLog,True
@@ -8684,7 +8687,7 @@ https://plmlab.math.cnrs.fr/plmlatex/plmlatex,True
 https://plmlab.math.cnrs.fr/plmlatex/sharelatex-clsi,True
 https://plmlab.math.cnrs.fr/plmlatex/sharelatex-web,True
 https://plmlab.math.cnrs.fr/plmshift/bbb-downloader,True
-https://plmlab.math.cnrs.fr/plmshift/borgbackup,False
+https://plmlab.math.cnrs.fr/plmshift/borgbackup,True
 https://plmlab.math.cnrs.fr/plmshift/codimd,True
 https://plmlab.math.cnrs.fr/plmshift/docker-registry-proxy,True
 https://plmlab.math.cnrs.fr/plmshift/drupal,True
@@ -8735,7 +8738,7 @@ https://plmlab.math.cnrs.fr/plmshift/wordpress-kit-cnrs,True
 https://plmlab.math.cnrs.fr/plmteam/docs/okd,False
 https://plmlab.math.cnrs.fr/plmteam/stream-hls-infra,True
 https://plmlab.math.cnrs.fr/plmteam/streaming,False
-https://plmlab.math.cnrs.fr/portail-maths/agenda-emath,False
+https://plmlab.math.cnrs.fr/portail-maths/agenda-emath,True
 https://plmlab.math.cnrs.fr/portail-maths/ticket-ezproxy,False
 https://plmlab.math.cnrs.fr/rancher/os-alpineconsole,True
 https://plmlab.math.cnrs.fr/rancher/os-hashistackconsole,True
@@ -8747,7 +8750,7 @@ https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/cloud-init,True
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/containers/buildah,False
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/harbor/cluster,True
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/hashicorp/consul/cluster,False
-https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/hashicorp/nomad/cluster,False
+https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/hashicorp/nomad/cluster,True
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/hashicorp/packer/terraform,False
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/hashicorp/terraform/infrastructure,True
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/hashicorp/terraform/modules/bastion,True
