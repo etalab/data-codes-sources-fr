@@ -468,6 +468,7 @@ https://forgemia.inra.fr/pappso/repository-massxpert,True
 https://forgemia.inra.fr/pappso/repository-minexpert2,True
 https://forgemia.inra.fr/pappso/xtpcpp,True
 https://forgemia.inra.fr/pegase/pegase-fair,True
+https://forgemia.inra.fr/pepiniere-jouy/detecteur_co2,False
 https://forgemia.inra.fr/phenotic/publique/ordinalclustering,True
 https://forgemia.inra.fr/public-pgba/is900-rflp-in-silico,True
 https://forgemia.inra.fr/public-pgba/submission_ena,True
@@ -4957,6 +4958,7 @@ https://github.com/medialab/generator-artoo,True
 https://github.com/medialab/giec_base,True
 https://github.com/medialab/gitlaw,True
 https://github.com/medialab/google-bookmarklets,True
+https://github.com/medialab/graines,False
 https://github.com/medialab/graph-recipes,True
 https://github.com/medialab/grunt-artoo,True
 https://github.com/medialab/gulp-artoo,True
@@ -6671,6 +6673,7 @@ https://gitlab.inria.fr/amibio/tree-diet,True
 https://gitlab.inria.fr/amibio/treedecomp,True
 https://gitlab.inria.fr/amibio/varna-api,True
 https://gitlab.inria.fr/andiamo/eusdisparser,True
+https://gitlab.inria.fr/andiamo/relations-primitives-2019,False
 https://gitlab.inria.fr/andiamo/tony,True
 https://gitlab.inria.fr/android-tools/apk-ops,True
 https://gitlab.inria.fr/android-tools/emulator,True
@@ -6730,7 +6733,7 @@ https://gitlab.inria.fr/bioimage-it/pycudadecon,True
 https://gitlab.inria.fr/bioimage-it/sampletool,True
 https://gitlab.inria.fr/bioimage-it/toolbox-js-browser,True
 https://gitlab.inria.fr/bioimage-it/toolboxes,True
-https://gitlab.inria.fr/biopyc/BioPyC,False
+https://gitlab.inria.fr/biopyc/BioPyC,True
 https://gitlab.inria.fr/bism/bism-experiments,True
 https://gitlab.inria.fr/bism/bism-public,True
 https://gitlab.inria.fr/blare/kblare,True
@@ -6751,6 +6754,7 @@ https://gitlab.inria.fr/capsid-public/conda/runner-deploy,True
 https://gitlab.inria.fr/capsid.crates/lib3dmol,True
 https://gitlab.inria.fr/causality/causal-ocaml,True
 https://gitlab.inria.fr/causality/causality-monad,True
+https://gitlab.inria.fr/causality/petri-strategies,False
 https://gitlab.inria.fr/causality/weakmem,True
 https://gitlab.inria.fr/cedar/RDFQuotient,True
 https://gitlab.inria.fr/cedar/connectionlens,True
@@ -6836,6 +6840,8 @@ https://gitlab.inria.fr/concordant/software/c-markdown-editor,True
 https://gitlab.inria.fr/concordant/software/c-service,True
 https://gitlab.inria.fr/concordant/software/c-sudoku,True
 https://gitlab.inria.fr/concordant/software/mini-app,True
+https://gitlab.inria.fr/controlHub/experiment_server,False
+https://gitlab.inria.fr/controlHub/submission_video_server,False
 https://gitlab.inria.fr/coq/coq,True
 https://gitlab.inria.fr/coq/wiki-backup,True
 https://gitlab.inria.fr/coqinterval/interval,True
@@ -7104,7 +7110,7 @@ https://gitlab.inria.fr/gazelle/library/gazelle-assertion-coverage-provider,True
 https://gitlab.inria.fr/gazelle/library/gazelle-assets,True
 https://gitlab.inria.fr/gazelle/library/gazelle-preferences,True
 https://gitlab.inria.fr/gazelle/library/gazelle-tools,True
-https://gitlab.inria.fr/gazelle/library/gazelle-x-validation,False
+https://gitlab.inria.fr/gazelle/library/gazelle-x-validation,True
 https://gitlab.inria.fr/gazelle/library/hl7templates/gocmodel-jar,True
 https://gitlab.inria.fr/gazelle/library/hl7templates/hl7template-generator-jar,False
 https://gitlab.inria.fr/gazelle/library/hl7templates/hl7templates-api,True
@@ -8442,6 +8448,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/phd-xavier/pre_analyses_ecrins,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/phelma/a-propos,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/phelma/fablab/marlin_blackprusa,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/pmall/apli_pmall,True
+https://gricad-gitlab.univ-grenoble-alpes.fr/pmall/app_op,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/pmall/pm-source,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/pmall/pyopestimator,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/pmall/pyopestimator-data,True
@@ -8474,7 +8481,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/systemes/asynchronisme_algorithmiqu
 https://gricad-gitlab.univ-grenoble-alpes.fr/tal_for_distant_languages/wiki,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/talks/deeplearning,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/talks/fidle,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/terra-forma/public,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/terra-forma/public,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/thingsat/public,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/tima-amfors/learnv,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/tima/public/ct_de-systemc,True
@@ -8614,7 +8621,7 @@ https://plmlab.math.cnrs.fr/icinga-plugins/check-load,True
 https://plmlab.math.cnrs.fr/icinga-plugins/check-swap,True
 https://plmlab.math.cnrs.fr/icinga-plugins/massive-df,True
 https://plmlab.math.cnrs.fr/icinga-plugins/remote-df,True
-https://plmlab.math.cnrs.fr/icinga-plugins/remote-grep,False
+https://plmlab.math.cnrs.fr/icinga-plugins/remote-grep,True
 https://plmlab.math.cnrs.fr/icinga-plugins/timesync,True
 https://plmlab.math.cnrs.fr/ihp/logo,True
 https://plmlab.math.cnrs.fr/illustrating-math/sphere_morph,True
@@ -8683,12 +8690,12 @@ https://plmlab.math.cnrs.fr/plmshift/docker-registry-proxy,True
 https://plmlab.math.cnrs.fr/plmshift/drupal,True
 https://plmlab.math.cnrs.fr/plmshift/etherpad,True
 https://plmlab.math.cnrs.fr/plmshift/gitlab-runner,True
-https://plmlab.math.cnrs.fr/plmshift/gitlab-runner-init,False
+https://plmlab.math.cnrs.fr/plmshift/gitlab-runner-init,True
 https://plmlab.math.cnrs.fr/plmshift/gollum,True
 https://plmlab.math.cnrs.fr/plmshift/gpu_driver,True
 https://plmlab.math.cnrs.fr/plmshift/horde,True
 https://plmlab.math.cnrs.fr/plmshift/horde-custom,True
-https://plmlab.math.cnrs.fr/plmshift/hugo,False
+https://plmlab.math.cnrs.fr/plmshift/hugo,True
 https://plmlab.math.cnrs.fr/plmshift/indico,True
 https://plmlab.math.cnrs.fr/plmshift/jupyter-notebooks,True
 https://plmlab.math.cnrs.fr/plmshift/jupyterhub-custom,True
@@ -8710,8 +8717,8 @@ https://plmlab.math.cnrs.fr/plmshift/plmshift-manifests,True
 https://plmlab.math.cnrs.fr/plmshift/plmshift.pages.math.cnrs.fr,True
 https://plmlab.math.cnrs.fr/plmshift/plmwebconf,True
 https://plmlab.math.cnrs.fr/plmshift/psqldump,True
-https://plmlab.math.cnrs.fr/plmshift/rocket-chat,False
-https://plmlab.math.cnrs.fr/plmshift/rsyslog,False
+https://plmlab.math.cnrs.fr/plmshift/rocket-chat,True
+https://plmlab.math.cnrs.fr/plmshift/rsyslog,True
 https://plmlab.math.cnrs.fr/plmshift/rt,True
 https://plmlab.math.cnrs.fr/plmshift/s2i-tensorflow-gpu-notebook,True
 https://plmlab.math.cnrs.fr/plmshift/sage-notebook-testing,False
