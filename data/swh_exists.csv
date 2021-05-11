@@ -3732,7 +3732,7 @@ https://github.com/cw-leia/smartleia,True
 https://github.com/cw-leia/smartleia-doc,True
 https://github.com/cw-leia/smartleia-target,True
 https://github.com/cw-leia/smartleia-target-applet,True
-https://github.com/dataesr/curieXplore-paysage,False
+https://github.com/dataesr/curieXplore-paysage,True
 https://github.com/dataesr/kubectl-deploy,True
 https://github.com/dataesr/onedrive,True
 https://github.com/dataesr/paysage-openapi,True
@@ -8685,7 +8685,7 @@ https://plmlab.math.cnrs.fr/plmshift/etherpad,True
 https://plmlab.math.cnrs.fr/plmshift/gitlab-runner,True
 https://plmlab.math.cnrs.fr/plmshift/gitlab-runner-init,False
 https://plmlab.math.cnrs.fr/plmshift/gollum,True
-https://plmlab.math.cnrs.fr/plmshift/gpu_driver,False
+https://plmlab.math.cnrs.fr/plmshift/gpu_driver,True
 https://plmlab.math.cnrs.fr/plmshift/horde,True
 https://plmlab.math.cnrs.fr/plmshift/horde-custom,True
 https://plmlab.math.cnrs.fr/plmshift/hugo,False
@@ -8699,7 +8699,7 @@ https://plmlab.math.cnrs.fr/plmshift/limesurvey,True
 https://plmlab.math.cnrs.fr/plmshift/logrotate,True
 https://plmlab.math.cnrs.fr/plmshift/mongodump,True
 https://plmlab.math.cnrs.fr/plmshift/moodle,True
-https://plmlab.math.cnrs.fr/plmshift/mysqldump,False
+https://plmlab.math.cnrs.fr/plmshift/mysqldump,True
 https://plmlab.math.cnrs.fr/plmshift/notebook-example,True
 https://plmlab.math.cnrs.fr/plmshift/oauth-proxy,True
 https://plmlab.math.cnrs.fr/plmshift/pelican,True
@@ -8736,7 +8736,7 @@ https://plmlab.math.cnrs.fr/razvanbarbulescu/razvanbarbulescu.pages.math.cnrs.fr
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/ada-devops-tbx,False
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/ada-tp-packer,True
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/build-container,True
-https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/cloud-init,False
+https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/cloud-init,True
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/containers/buildah,False
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/harbor/cluster,True
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/hashicorp/consul/cluster,False
@@ -8755,7 +8755,7 @@ https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/ipxe/classes/bastion,False
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/ipxe/instances/06-00-00-01-00-01,False
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/ipxe/instances/06-00-00-01-00-02,False
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/ipxe/instances/06-00-00-04-00-01,True
-https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/ipxe/instances/06-00-00-04-00-02,False
+https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/ipxe/instances/06-00-00-04-00-02,True
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/ipxe/instances/06-00-00-04-00-03,True
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/ipxe/instances/06-00-00-05-00-01,True
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/ipxe/instances/06-00-00-05-00-02,True
