@@ -2027,6 +2027,7 @@ https://github.com/InseeFrLab/Macronometrics-Notebook,True
 https://github.com/InseeFrLab/Mapex,True
 https://github.com/InseeFrLab/NRC-Heck-model,True
 https://github.com/InseeFrLab/SASTauArgus,True
+https://github.com/InseeFrLab/Sabiane-Data,False
 https://github.com/InseeFrLab/Shelly,True
 https://github.com/InseeFrLab/Spark-hive,True
 https://github.com/InseeFrLab/Ubuntu-vnc-base,True
@@ -2125,6 +2126,7 @@ https://github.com/LAB-MI/api.gouv.fr,True
 https://github.com/LAB-MI/attestation-couvre-feu-covid-19,True
 https://github.com/LAB-MI/attestation-deplacement-derogatoire-covid-19,True
 https://github.com/LAB-MI/attestation-deplacement-derogatoire-q4-2020,True
+https://github.com/LAB-MI/attestation-honneur-ue,False
 https://github.com/LAB-MI/candilib,True
 https://github.com/LAB-MI/candilibV2,True
 https://github.com/LAB-MI/covid-19-certificate,True
@@ -2259,6 +2261,7 @@ https://github.com/MTES-MCT/mattermost-scalingo,False
 https://github.com/MTES-MCT/mobilic,True
 https://github.com/MTES-MCT/mobilic-api,True
 https://github.com/MTES-MCT/monitorfish,True
+https://github.com/MTES-MCT/nmap-action,False
 https://github.com/MTES-MCT/node-cerbere,True
 https://github.com/MTES-MCT/numerique,True
 https://github.com/MTES-MCT/parcours-r,True
@@ -2680,6 +2683,7 @@ https://github.com/SocialGouv/sre-tools,True
 https://github.com/SocialGouv/ssl-dashboard,True
 https://github.com/SocialGouv/standup,True
 https://github.com/SocialGouv/standup2,True
+https://github.com/SocialGouv/startup-template-public,False
 https://github.com/SocialGouv/suggest,True
 https://github.com/SocialGouv/support,True
 https://github.com/SocialGouv/template.data.gouv.fr.react,True
@@ -4107,7 +4111,7 @@ https://github.com/erasme/testWebhook,True
 https://github.com/erasme/vagrant-dev-env,True
 https://github.com/erasme/webnapperon2,True
 https://github.com/erasme/website_griotte,True
-https://github.com/etalab-ia/DGML,False
+https://github.com/etalab-ia/DGML,True
 https://github.com/etalab-ia/ami-ia,True
 https://github.com/etalab-ia/ami-ia-anssi,True
 https://github.com/etalab-ia/ami-ia-ce,True
@@ -6678,7 +6682,7 @@ https://gitlab.inria.fr/amibio/tree-diet,True
 https://gitlab.inria.fr/amibio/treedecomp,True
 https://gitlab.inria.fr/amibio/varna-api,True
 https://gitlab.inria.fr/andiamo/eusdisparser,True
-https://gitlab.inria.fr/andiamo/relations-primitives-2019,False
+https://gitlab.inria.fr/andiamo/relations-primitives-2019,True
 https://gitlab.inria.fr/andiamo/tony,True
 https://gitlab.inria.fr/android-tools/apk-ops,True
 https://gitlab.inria.fr/android-tools/emulator,True
@@ -6689,6 +6693,7 @@ https://gitlab.inria.fr/asclepios/biblio,True
 https://gitlab.inria.fr/auctus/panda/franka_control,True
 https://gitlab.inria.fr/auctus/panda/franka_description,True
 https://gitlab.inria.fr/auctus/panda/panda_traj,True
+https://gitlab.inria.fr/auctus/panda/qp_solver,False
 https://gitlab.inria.fr/auctus/panda/rtt_panda/rtt_ros_kdl_tools,True
 https://gitlab.inria.fr/auctus/panda/torque_qp,True
 https://gitlab.inria.fr/auctus/panda/velocity_qp,True
@@ -8535,7 +8540,7 @@ https://plmlab.math.cnrs.fr/4m053/exemples-cpp,True
 https://plmlab.math.cnrs.fr/4m053/gdb-tuto,True
 https://plmlab.math.cnrs.fr/4m053/slides-informatique,True
 https://plmlab.math.cnrs.fr/XLIM/SPDOPT,True
-https://plmlab.math.cnrs.fr/alpine/buildah,False
+https://plmlab.math.cnrs.fr/alpine/buildah,True
 https://plmlab.math.cnrs.fr/alpine/container-linux,True
 https://plmlab.math.cnrs.fr/alpine/containers/build,True
 https://plmlab.math.cnrs.fr/alpine/containers/conmon,True
@@ -8752,7 +8757,7 @@ https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/build-container,True
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/cloud-init,True
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/containers/buildah,False
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/harbor/cluster,True
-https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/hashicorp/consul/cluster,False
+https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/hashicorp/consul/cluster,True
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/hashicorp/nomad/cluster,True
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/hashicorp/packer/terraform,False
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/hashicorp/terraform/infrastructure,True
@@ -8783,7 +8788,7 @@ https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/rancher/rke,True
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/registry/rancher/os-alpineconsole,False
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/registry/rancher/os-hashistackconsole,True
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/registry/rancher/os-rkeconsole,True
-https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/students/martin.souchal/infrastructure,False
+https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/students/martin.souchal/infrastructure,True
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/students/martin.souchal/ipxe.raw,True
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/students/olivier.lassalle/infrastructure,False
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/students/olivier.lassalle/ipxe.raw,False
