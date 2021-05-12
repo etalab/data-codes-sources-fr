@@ -2573,7 +2573,7 @@ https://github.com/SocialGouv/covid19-orientation,True
 https://github.com/SocialGouv/covid19-tests-schemas,True
 https://github.com/SocialGouv/ctdn-api,False
 https://github.com/SocialGouv/dashlord,True
-https://github.com/SocialGouv/dashlord-fabrique,False
+https://github.com/SocialGouv/dashlord-fabrique,True
 https://github.com/SocialGouv/dashlord-httpobs-action,False
 https://github.com/SocialGouv/dashlord-init-action,True
 https://github.com/SocialGouv/dashlord-nuclei-action,True
@@ -5688,7 +5688,7 @@ https://github.com/rusticata/dhcp-parser,True
 https://github.com/rusticata/ipsec-parser,True
 https://github.com/rusticata/kerberos-parser,True
 https://github.com/rusticata/ldap-parser,True
-https://github.com/rusticata/netbios-parser,False
+https://github.com/rusticata/netbios-parser,True
 https://github.com/rusticata/ntp-parser,True
 https://github.com/rusticata/oid-registry,True
 https://github.com/rusticata/openvpn-parser,True
@@ -8732,7 +8732,7 @@ https://plmlab.math.cnrs.fr/plmshift/seafile,True
 https://plmlab.math.cnrs.fr/plmshift/seafile-custom,True
 https://plmlab.math.cnrs.fr/plmshift/shiny,True
 https://plmlab.math.cnrs.fr/plmshift/shiny-custom,True
-https://plmlab.math.cnrs.fr/plmshift/sketchpad,False
+https://plmlab.math.cnrs.fr/plmshift/sketchpad,True
 https://plmlab.math.cnrs.fr/plmshift/wims,False
 https://plmlab.math.cnrs.fr/plmshift/wims-custom,False
 https://plmlab.math.cnrs.fr/plmshift/wordpress,False
