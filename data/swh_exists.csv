@@ -6138,7 +6138,7 @@ https://gitlab.com/dreal-datalab/ort_effectifs_transport,True
 https://gitlab.com/dreal-datalab/pesticides,True
 https://gitlab.com/dreal-datalab/poc-enr-teo,True
 https://gitlab.com/dreal-datalab/propre.artificialisation,True
-https://gitlab.com/dreal-datalab/propre.ecln,False
+https://gitlab.com/dreal-datalab/propre.ecln,True
 https://gitlab.com/dreal-datalab/rapport.irve,True
 https://gitlab.com/dreal-datalab/reseauchaleur,True
 https://gitlab.com/dreal-datalab/rrrpls,True
@@ -6385,7 +6385,7 @@ https://gitlab.inria.fr/CORSE/wasmpoly,True
 https://gitlab.inria.fr/ClassCode/class_code,True
 https://gitlab.inria.fr/ClassCode/class_code_v2,True
 https://gitlab.inria.fr/ClassCode/classcodeadmin,True
-https://gitlab.inria.fr/ClassCode/classcodeia,False
+https://gitlab.inria.fr/ClassCode/classcodeia,True
 https://gitlab.inria.fr/ClassCode/pixees-theme,True
 https://gitlab.inria.fr/CompCert/ci,True
 https://gitlab.inria.fr/Conferences/ICT_2018_MUFF,True
@@ -8739,7 +8739,7 @@ https://plmlab.math.cnrs.fr/plmshift/shiny,True
 https://plmlab.math.cnrs.fr/plmshift/shiny-custom,True
 https://plmlab.math.cnrs.fr/plmshift/sketchpad,True
 https://plmlab.math.cnrs.fr/plmshift/wims,False
-https://plmlab.math.cnrs.fr/plmshift/wims-custom,False
+https://plmlab.math.cnrs.fr/plmshift/wims-custom,True
 https://plmlab.math.cnrs.fr/plmshift/wordpress,False
 https://plmlab.math.cnrs.fr/plmshift/wordpress-custom,True
 https://plmlab.math.cnrs.fr/plmshift/wordpress-kit-cnrs,True
@@ -8777,7 +8777,7 @@ https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/ipxe/instances/06-00-00-04-00-0
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/ipxe/instances/06-00-00-04-00-03,True
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/ipxe/instances/06-00-00-05-00-01,True
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/ipxe/instances/06-00-00-05-00-02,True
-https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/ipxe/instances/06-00-00-05-00-03,False
+https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/ipxe/instances/06-00-00-05-00-03,True
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/ipxe/ipxe.raw,True
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/kubernetes/vapormap,True
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/openssh/pki,True
