@@ -3130,6 +3130,7 @@ https://github.com/betagouv/covid19-algorithme-orientation-elixir,True
 https://github.com/betagouv/covoiturage-attestation,False
 https://github.com/betagouv/covoiturage-attestation-honneur,True
 https://github.com/betagouv/dashboard_apientreprise,True
+https://github.com/betagouv/dashlord,False
 https://github.com/betagouv/datagir,True
 https://github.com/betagouv/datagir-iframe,True
 https://github.com/betagouv/datagir-site,True
@@ -8574,7 +8575,7 @@ https://plmlab.math.cnrs.fr/cmt/redis-server,True
 https://plmlab.math.cnrs.fr/cmt/repository-codeit-guru,True
 https://plmlab.math.cnrs.fr/cmt/repository-epel,True
 https://plmlab.math.cnrs.fr/cmt/ruby-libcouchbase,True
-https://plmlab.math.cnrs.fr/cmt/software-collections,False
+https://plmlab.math.cnrs.fr/cmt/software-collections,True
 https://plmlab.math.cnrs.fr/cmt/software-collections-python3,True
 https://plmlab.math.cnrs.fr/cmt/software-collections-ruby,True
 https://plmlab.math.cnrs.fr/cmt/sss,True
@@ -8780,7 +8781,7 @@ https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/rancher/os-services,True
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/rancher/rio,True
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/rancher/rke,True
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/registry/rancher/os-alpineconsole,False
-https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/registry/rancher/os-hashistackconsole,False
+https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/registry/rancher/os-hashistackconsole,True
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/registry/rancher/os-rkeconsole,True
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/students/martin.souchal/infrastructure,False
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/students/martin.souchal/ipxe.raw,True
@@ -8791,7 +8792,7 @@ https://plmlab.math.cnrs.fr/seafile/tb-filelink-seafile,False
 https://plmlab.math.cnrs.fr/smagp/smagp.pages.math.cnrs.fr,True
 https://plmlab.math.cnrs.fr/terraform/modules/deployment,True
 https://plmlab.math.cnrs.fr/terraform/modules/image,True
-https://plmlab.math.cnrs.fr/terraform/modules/instance,False
+https://plmlab.math.cnrs.fr/terraform/modules/instance,True
 https://plmlab.math.cnrs.fr/terraform/modules/keypair,True
 https://plmlab.math.cnrs.fr/terraform/modules/network,True
 https://plmlab.math.cnrs.fr/terraform/modules/volume,True
