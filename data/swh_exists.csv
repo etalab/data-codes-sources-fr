@@ -167,6 +167,7 @@ https://forge.univ-lyon1.fr/iut-lyon-s3-php/ansible,True
 https://forge.univ-lyon1.fr/knowdyn-ens/knowdyn-contenus-2020,True
 https://forge.univ-lyon1.fr/les-cracks/chaisse-lifap4,True
 https://forge.univ-lyon1.fr/les-cracks/pacman-royale,True
+https://forge.univ-lyon1.fr/les-gros-FDP/ANALGAME,False
 https://forge.univ-lyon1.fr/lifap6/ccompil,True
 https://forge.univ-lyon1.fr/lifap6/magic-maze-etu,True
 https://forge.univ-lyon1.fr/lifap6/roborally-etu,True
@@ -6693,7 +6694,7 @@ https://gitlab.inria.fr/asclepios/biblio,True
 https://gitlab.inria.fr/auctus/panda/franka_control,True
 https://gitlab.inria.fr/auctus/panda/franka_description,True
 https://gitlab.inria.fr/auctus/panda/panda_traj,True
-https://gitlab.inria.fr/auctus/panda/qp_solver,False
+https://gitlab.inria.fr/auctus/panda/qp_solver,True
 https://gitlab.inria.fr/auctus/panda/rtt_panda/rtt_ros_kdl_tools,True
 https://gitlab.inria.fr/auctus/panda/torque_qp,True
 https://gitlab.inria.fr/auctus/panda/velocity_qp,True
@@ -8720,6 +8721,7 @@ https://plmlab.math.cnrs.fr/plmshift/moodle,True
 https://plmlab.math.cnrs.fr/plmshift/mysqldump,True
 https://plmlab.math.cnrs.fr/plmshift/notebook-example,True
 https://plmlab.math.cnrs.fr/plmshift/oauth-proxy,True
+https://plmlab.math.cnrs.fr/plmshift/odh-manifests-for-plm,False
 https://plmlab.math.cnrs.fr/plmshift/pelican,True
 https://plmlab.math.cnrs.fr/plmshift/phpldapadmin,True
 https://plmlab.math.cnrs.fr/plmshift/plm_cinema,True
