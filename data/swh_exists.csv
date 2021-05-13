@@ -1459,7 +1459,7 @@ https://github.com/Envinorma/envinorma.github.io,True
 https://github.com/Envinorma/leginorma,True
 https://github.com/Envinorma/ocr_utils,True
 https://github.com/Envinorma/pdf_ocr_app,True
-https://github.com/Envinorma/text_diff,False
+https://github.com/Envinorma/text_diff,True
 https://github.com/EsupPortail/CMoodle-proxy-portlet,True
 https://github.com/EsupPortail/Esup-Pod,True
 https://github.com/EsupPortail/EsupUserApps,True
@@ -2027,7 +2027,7 @@ https://github.com/InseeFrLab/Macronometrics-Notebook,True
 https://github.com/InseeFrLab/Mapex,True
 https://github.com/InseeFrLab/NRC-Heck-model,True
 https://github.com/InseeFrLab/SASTauArgus,True
-https://github.com/InseeFrLab/Sabiane-Data,False
+https://github.com/InseeFrLab/Sabiane-Data,True
 https://github.com/InseeFrLab/Shelly,True
 https://github.com/InseeFrLab/Spark-hive,True
 https://github.com/InseeFrLab/Ubuntu-vnc-base,True
@@ -3134,7 +3134,7 @@ https://github.com/betagouv/covid19-algorithme-orientation-elixir,True
 https://github.com/betagouv/covoiturage-attestation,False
 https://github.com/betagouv/covoiturage-attestation-honneur,True
 https://github.com/betagouv/dashboard_apientreprise,True
-https://github.com/betagouv/dashlord,False
+https://github.com/betagouv/dashlord,True
 https://github.com/betagouv/datagir,True
 https://github.com/betagouv/datagir-iframe,True
 https://github.com/betagouv/datagir-site,True
@@ -8751,7 +8751,7 @@ https://plmlab.math.cnrs.fr/portail-maths/ticket-ezproxy,False
 https://plmlab.math.cnrs.fr/rancher/os-alpineconsole,True
 https://plmlab.math.cnrs.fr/rancher/os-hashistackconsole,True
 https://plmlab.math.cnrs.fr/razvanbarbulescu/razvanbarbulescu.pages.math.cnrs.fr,True
-https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/ada-devops-tbx,False
+https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/ada-devops-tbx,True
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/ada-tp-packer,True
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/build-container,True
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/cloud-init,True
