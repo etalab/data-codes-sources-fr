@@ -220,7 +220,7 @@ https://forgemia.inra.fr/acep/careb,True
 https://forgemia.inra.fr/adminforgemia/doc-public,True
 https://forgemia.inra.fr/agriterix/agriterix,True
 https://forgemia.inra.fr/agriterix/doc,True
-https://forgemia.inra.fr/agriterix/import-export,False
+https://forgemia.inra.fr/agriterix/import-export,True
 https://forgemia.inra.fr/agriterix/simulator,True
 https://forgemia.inra.fr/agroecoperenne/scripting/python-module,True
 https://forgemia.inra.fr/anaee-dev/coby,True
@@ -3209,6 +3209,7 @@ https://github.com/betagouv/gravitee-api-extension,True
 https://github.com/betagouv/hedgedoc,True
 https://github.com/betagouv/hedgedoc-api-lib-js,True
 https://github.com/betagouv/helpy,True
+https://github.com/betagouv/heroku-buildpack-nginx,False
 https://github.com/betagouv/heroku-buildpack-ruby,True
 https://github.com/betagouv/histologe,True
 https://github.com/betagouv/holodeck-dashboard,True
@@ -3437,6 +3438,7 @@ https://github.com/betagouv/valberg.comobi.fr,True
 https://github.com/betagouv/verif.site,True
 https://github.com/betagouv/visam,True
 https://github.com/betagouv/voir-et-localiser-samu-sign-on,True
+https://github.com/betagouv/vouch-proxy,False
 https://github.com/betagouv/webconf,True
 https://github.com/betagouv/with-login,True
 https://github.com/betagouv/with-query-router,True
@@ -6311,7 +6313,7 @@ https://gitlab.huma-num.fr/lamop/topologie_aix-en-provence,False
 https://gitlab.huma-num.fr/lamop/wikidata2gramps,True
 https://gitlab.huma-num.fr/lamop/yersinia,True
 https://gitlab.huma-num.fr/le-livre-de-la-jeunesse-engag-e-en-nouvelle-aquitaine/le-livre-de-la-jeunesse-engagee,True
-https://gitlab.huma-num.fr/lemmatisation-fro/bfm-lem,False
+https://gitlab.huma-num.fr/lemmatisation-fro/bfm-lem,True
 https://gitlab.huma-num.fr/mappemonde/archives,True
 https://gitlab.huma-num.fr/mshs-poitiers/forellis/datagrowth,True
 https://gitlab.huma-num.fr/mshs-poitiers/forellis/dicodiachro,True
@@ -8733,6 +8735,7 @@ https://plmlab.math.cnrs.fr/plmshift/psqldump,True
 https://plmlab.math.cnrs.fr/plmshift/rocket-chat,True
 https://plmlab.math.cnrs.fr/plmshift/rsyslog,True
 https://plmlab.math.cnrs.fr/plmshift/rt,True
+https://plmlab.math.cnrs.fr/plmshift/s2i-minimal-notebook-with-sage,False
 https://plmlab.math.cnrs.fr/plmshift/s2i-tensorflow-gpu-notebook,True
 https://plmlab.math.cnrs.fr/plmshift/sage-notebook-testing,False
 https://plmlab.math.cnrs.fr/plmshift/seafile,True
@@ -8747,7 +8750,7 @@ https://plmlab.math.cnrs.fr/plmshift/wordpress-custom,True
 https://plmlab.math.cnrs.fr/plmshift/wordpress-kit-cnrs,True
 https://plmlab.math.cnrs.fr/plmteam/docs/okd,False
 https://plmlab.math.cnrs.fr/plmteam/stream-hls-infra,True
-https://plmlab.math.cnrs.fr/plmteam/streaming,False
+https://plmlab.math.cnrs.fr/plmteam/streaming,True
 https://plmlab.math.cnrs.fr/portail-maths/agenda-emath,True
 https://plmlab.math.cnrs.fr/portail-maths/ticket-ezproxy,False
 https://plmlab.math.cnrs.fr/rancher/os-alpineconsole,True
@@ -8761,7 +8764,7 @@ https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/containers/buildah,True
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/harbor/cluster,True
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/hashicorp/consul/cluster,True
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/hashicorp/nomad/cluster,True
-https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/hashicorp/packer/terraform,False
+https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/hashicorp/packer/terraform,True
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/hashicorp/terraform/infrastructure,True
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/hashicorp/terraform/modules/bastion,True
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/hashicorp/terraform/modules/image,True
@@ -8769,9 +8772,9 @@ https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/hashicorp/terraform/modules/ins
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/hashicorp/terraform/modules/keypair,True
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/hashicorp/terraform/modules/network,False
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/hashicorp/terraform/modules/volume,True
-https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/hashicorp/vault/cluster,False
+https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/hashicorp/vault/cluster,True
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/info-site,True
-https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/ipxe/classes/bastion,False
+https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/ipxe/classes/bastion,True
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/ipxe/instances/06-00-00-01-00-01,False
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/ipxe/instances/06-00-00-01-00-02,False
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/ipxe/instances/06-00-00-04-00-01,True
