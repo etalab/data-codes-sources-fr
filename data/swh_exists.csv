@@ -2683,7 +2683,7 @@ https://github.com/SocialGouv/sre-tools,True
 https://github.com/SocialGouv/ssl-dashboard,True
 https://github.com/SocialGouv/standup,True
 https://github.com/SocialGouv/standup2,True
-https://github.com/SocialGouv/startup-template-public,False
+https://github.com/SocialGouv/startup-template-public,True
 https://github.com/SocialGouv/suggest,True
 https://github.com/SocialGouv/support,True
 https://github.com/SocialGouv/template.data.gouv.fr.react,True
@@ -4399,7 +4399,7 @@ https://github.com/etalab/run-nb,True
 https://github.com/etalab/schema-amenagements-cyclables,True
 https://github.com/etalab/schema-bal,True
 https://github.com/etalab/schema-comptage-velo,True
-https://github.com/etalab/schema-comptage-velo-dynamique,False
+https://github.com/etalab/schema-comptage-velo-dynamique,True
 https://github.com/etalab/schema-comptage-velo-statique,True
 https://github.com/etalab/schema-decp-dpa,True
 https://github.com/etalab/schema-generic-template,True
@@ -6535,7 +6535,7 @@ https://gitlab.inria.fr/WellInverter/WellInverter_Standalone_Linux,True
 https://gitlab.inria.fr/WellInverter/WellInverter_Standalone_MacOS,True
 https://gitlab.inria.fr/WellInverter/WellInverter_Standalone_Nuvla,True
 https://gitlab.inria.fr/WellInverter/WellInverter_Standalone_Windows,True
-https://gitlab.inria.fr/across_opm/opm-common,False
+https://gitlab.inria.fr/across_opm/opm-common,True
 https://gitlab.inria.fr/across_opm/opm-grid,True
 https://gitlab.inria.fr/across_opm/opm-material,True
 https://gitlab.inria.fr/across_opm/opm-models,True
@@ -8755,7 +8755,7 @@ https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/ada-devops-tbx,False
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/ada-tp-packer,True
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/build-container,True
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/cloud-init,True
-https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/containers/buildah,False
+https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/containers/buildah,True
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/harbor/cluster,True
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/hashicorp/consul/cluster,True
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/hashicorp/nomad/cluster,True
