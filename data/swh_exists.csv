@@ -3438,7 +3438,7 @@ https://github.com/betagouv/valberg.comobi.fr,True
 https://github.com/betagouv/verif.site,True
 https://github.com/betagouv/visam,True
 https://github.com/betagouv/voir-et-localiser-samu-sign-on,True
-https://github.com/betagouv/vouch-proxy,False
+https://github.com/betagouv/vouch-proxy,True
 https://github.com/betagouv/webconf,True
 https://github.com/betagouv/with-login,True
 https://github.com/betagouv/with-query-router,True
@@ -4636,7 +4636,7 @@ https://github.com/incubateur-territoires/incubateur.anct.gouv.fr,True
 https://github.com/incubateur-territoires/osp-app,True
 https://github.com/incubateur-territoires/outline,True
 https://github.com/incubateur-territoires/ressources,True
-https://github.com/incubateur-territoires/slack-advanced-exporter,False
+https://github.com/incubateur-territoires/slack-advanced-exporter,True
 https://github.com/incubateur-territoires/territoires.store,True
 https://github.com/incubateur-territoires/tutoriel-communs,True
 https://github.com/indsante/Documentation-SNDS,True
@@ -8723,7 +8723,7 @@ https://plmlab.math.cnrs.fr/plmshift/moodle,True
 https://plmlab.math.cnrs.fr/plmshift/mysqldump,True
 https://plmlab.math.cnrs.fr/plmshift/notebook-example,True
 https://plmlab.math.cnrs.fr/plmshift/oauth-proxy,True
-https://plmlab.math.cnrs.fr/plmshift/odh-manifests-for-plm,False
+https://plmlab.math.cnrs.fr/plmshift/odh-manifests-for-plm,True
 https://plmlab.math.cnrs.fr/plmshift/pelican,True
 https://plmlab.math.cnrs.fr/plmshift/phpldapadmin,True
 https://plmlab.math.cnrs.fr/plmshift/plm_cinema,True
