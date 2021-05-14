@@ -3209,7 +3209,7 @@ https://github.com/betagouv/gravitee-api-extension,True
 https://github.com/betagouv/hedgedoc,True
 https://github.com/betagouv/hedgedoc-api-lib-js,True
 https://github.com/betagouv/helpy,True
-https://github.com/betagouv/heroku-buildpack-nginx,False
+https://github.com/betagouv/heroku-buildpack-nginx,True
 https://github.com/betagouv/heroku-buildpack-ruby,True
 https://github.com/betagouv/histologe,True
 https://github.com/betagouv/holodeck-dashboard,True
@@ -3748,7 +3748,7 @@ https://github.com/dataesr/kubectl-deploy,True
 https://github.com/dataesr/onedrive,True
 https://github.com/dataesr/paysage-openapi,True
 https://github.com/dataesr/react-dsfr,True
-https://github.com/dataesr/scanr,False
+https://github.com/dataesr/scanr,True
 https://github.com/dataesr/scanr-end2end,True
 https://github.com/dataesr/scientific_tagger,True
 https://github.com/datagir/Ecolab,True
