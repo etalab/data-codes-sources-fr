@@ -8641,7 +8641,7 @@ https://plmlab.math.cnrs.fr/ihp/logo,True
 https://plmlab.math.cnrs.fr/illustrating-math/sphere_morph,True
 https://plmlab.math.cnrs.fr/imb-dijon/faq,True
 https://plmlab.math.cnrs.fr/imb-public/anr-template,True
-https://plmlab.math.cnrs.fr/imt/fragma/fragma-on-amqp,False
+https://plmlab.math.cnrs.fr/imt/fragma/fragma-on-amqp,True
 https://plmlab.math.cnrs.fr/imt/puppet/gitlab_deploy_key,True
 https://plmlab.math.cnrs.fr/imt/puppet/kerberos_module,True
 https://plmlab.math.cnrs.fr/imt/sysadmin_pub_keys,True
@@ -8745,7 +8745,7 @@ https://plmlab.math.cnrs.fr/plmshift/shiny-custom,True
 https://plmlab.math.cnrs.fr/plmshift/sketchpad,True
 https://plmlab.math.cnrs.fr/plmshift/wims,False
 https://plmlab.math.cnrs.fr/plmshift/wims-custom,True
-https://plmlab.math.cnrs.fr/plmshift/wordpress,False
+https://plmlab.math.cnrs.fr/plmshift/wordpress,True
 https://plmlab.math.cnrs.fr/plmshift/wordpress-custom,True
 https://plmlab.math.cnrs.fr/plmshift/wordpress-kit-cnrs,True
 https://plmlab.math.cnrs.fr/plmteam/docs/okd,True
@@ -8775,7 +8775,7 @@ https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/hashicorp/terraform/modules/vol
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/hashicorp/vault/cluster,True
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/info-site,True
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/ipxe/classes/bastion,True
-https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/ipxe/instances/06-00-00-01-00-01,False
+https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/ipxe/instances/06-00-00-01-00-01,True
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/ipxe/instances/06-00-00-01-00-02,False
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/ipxe/instances/06-00-00-04-00-01,True
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/ipxe/instances/06-00-00-04-00-02,True
