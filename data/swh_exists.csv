@@ -167,7 +167,7 @@ https://forge.univ-lyon1.fr/iut-lyon-s3-php/ansible,True
 https://forge.univ-lyon1.fr/knowdyn-ens/knowdyn-contenus-2020,True
 https://forge.univ-lyon1.fr/les-cracks/chaisse-lifap4,True
 https://forge.univ-lyon1.fr/les-cracks/pacman-royale,True
-https://forge.univ-lyon1.fr/les-gros-FDP/ANALGAME,False
+https://forge.univ-lyon1.fr/les-gros-FDP/ANALGAME,True
 https://forge.univ-lyon1.fr/lifap6/ccompil,True
 https://forge.univ-lyon1.fr/lifap6/magic-maze-etu,True
 https://forge.univ-lyon1.fr/lifap6/roborally-etu,True
@@ -8737,7 +8737,7 @@ https://plmlab.math.cnrs.fr/plmshift/rsyslog,True
 https://plmlab.math.cnrs.fr/plmshift/rt,True
 https://plmlab.math.cnrs.fr/plmshift/s2i-minimal-notebook-with-sage,False
 https://plmlab.math.cnrs.fr/plmshift/s2i-tensorflow-gpu-notebook,True
-https://plmlab.math.cnrs.fr/plmshift/sage-notebook-testing,False
+https://plmlab.math.cnrs.fr/plmshift/sage-notebook-testing,True
 https://plmlab.math.cnrs.fr/plmshift/seafile,True
 https://plmlab.math.cnrs.fr/plmshift/seafile-custom,True
 https://plmlab.math.cnrs.fr/plmshift/shiny,True
@@ -8748,7 +8748,7 @@ https://plmlab.math.cnrs.fr/plmshift/wims-custom,True
 https://plmlab.math.cnrs.fr/plmshift/wordpress,False
 https://plmlab.math.cnrs.fr/plmshift/wordpress-custom,True
 https://plmlab.math.cnrs.fr/plmshift/wordpress-kit-cnrs,True
-https://plmlab.math.cnrs.fr/plmteam/docs/okd,False
+https://plmlab.math.cnrs.fr/plmteam/docs/okd,True
 https://plmlab.math.cnrs.fr/plmteam/stream-hls-infra,True
 https://plmlab.math.cnrs.fr/plmteam/streaming,True
 https://plmlab.math.cnrs.fr/portail-maths/agenda-emath,True
@@ -8807,6 +8807,6 @@ https://plmlab.math.cnrs.fr/terraform/modules/keypair,True
 https://plmlab.math.cnrs.fr/terraform/modules/network,True
 https://plmlab.math.cnrs.fr/terraform/modules/volume,True
 https://plmlab.math.cnrs.fr/terraform/okd-upi,True
-https://plmlab.math.cnrs.fr/texlive/2017,False
+https://plmlab.math.cnrs.fr/texlive/2017,True
 https://plmlab.math.cnrs.fr/webconf/greenlight-plm,False
 https://plmlab.math.cnrs.fr/webconf/webconf.pages.math.cnrs.fr,True
