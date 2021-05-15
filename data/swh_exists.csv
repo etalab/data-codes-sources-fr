@@ -470,7 +470,7 @@ https://forgemia.inra.fr/pappso/repository-massxpert,True
 https://forgemia.inra.fr/pappso/repository-minexpert2,True
 https://forgemia.inra.fr/pappso/xtpcpp,True
 https://forgemia.inra.fr/pegase/pegase-fair,True
-https://forgemia.inra.fr/pepiniere-jouy/detecteur_co2,False
+https://forgemia.inra.fr/pepiniere-jouy/detecteur_co2,True
 https://forgemia.inra.fr/phenotic/publique/ordinalclustering,True
 https://forgemia.inra.fr/public-pgba/is900-rflp-in-silico,True
 https://forgemia.inra.fr/public-pgba/submission_ena,True
@@ -2036,7 +2036,7 @@ https://github.com/InseeFrLab/Universe-Datascience,True
 https://github.com/InseeFrLab/Universe-Formations,True
 https://github.com/InseeFrLab/VTL-Lab,True
 https://github.com/InseeFrLab/VTL-Lab-Resources,True
-https://github.com/InseeFrLab/VTL-Lab-UI,False
+https://github.com/InseeFrLab/VTL-Lab-UI,True
 https://github.com/InseeFrLab/apinsee,True
 https://github.com/InseeFrLab/aws.s3,True
 https://github.com/InseeFrLab/blazingsql,True
@@ -8463,7 +8463,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/phd-xavier/pre_analyses_ecrins,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/phelma/a-propos,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/phelma/fablab/marlin_blackprusa,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/pmall/apli_pmall,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/pmall/app_op,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/pmall/app_op,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/pmall/pm-source,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/pmall/pyopestimator,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/pmall/pyopestimator-data,True
@@ -8666,7 +8666,7 @@ https://plmlab.math.cnrs.fr/mcia/docsy,True
 https://plmlab.math.cnrs.fr/modcov19/configurations/seafile-custom,True
 https://plmlab.math.cnrs.fr/openfaas/faas,True
 https://plmlab.math.cnrs.fr/openfaas/ipxe/classes/bastion,True
-https://plmlab.math.cnrs.fr/openfaas/ipxe/instances/06-00-00-01-00-01,False
+https://plmlab.math.cnrs.fr/openfaas/ipxe/instances/06-00-00-01-00-01,True
 https://plmlab.math.cnrs.fr/openfaas/ipxe/instances/06-00-00-01-00-02,True
 https://plmlab.math.cnrs.fr/packer/artifactory-pro,True
 https://plmlab.math.cnrs.fr/packer/centos/8/base,True
