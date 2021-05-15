@@ -2036,6 +2036,7 @@ https://github.com/InseeFrLab/Universe-Datascience,True
 https://github.com/InseeFrLab/Universe-Formations,True
 https://github.com/InseeFrLab/VTL-Lab,True
 https://github.com/InseeFrLab/VTL-Lab-Resources,True
+https://github.com/InseeFrLab/VTL-Lab-UI,False
 https://github.com/InseeFrLab/apinsee,True
 https://github.com/InseeFrLab/aws.s3,True
 https://github.com/InseeFrLab/blazingsql,True
@@ -8743,7 +8744,7 @@ https://plmlab.math.cnrs.fr/plmshift/seafile-custom,True
 https://plmlab.math.cnrs.fr/plmshift/shiny,True
 https://plmlab.math.cnrs.fr/plmshift/shiny-custom,True
 https://plmlab.math.cnrs.fr/plmshift/sketchpad,True
-https://plmlab.math.cnrs.fr/plmshift/wims,False
+https://plmlab.math.cnrs.fr/plmshift/wims,True
 https://plmlab.math.cnrs.fr/plmshift/wims-custom,True
 https://plmlab.math.cnrs.fr/plmshift/wordpress,True
 https://plmlab.math.cnrs.fr/plmshift/wordpress-custom,True
