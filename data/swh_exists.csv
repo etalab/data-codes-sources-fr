@@ -2127,7 +2127,7 @@ https://github.com/LAB-MI/api.gouv.fr,True
 https://github.com/LAB-MI/attestation-couvre-feu-covid-19,True
 https://github.com/LAB-MI/attestation-deplacement-derogatoire-covid-19,True
 https://github.com/LAB-MI/attestation-deplacement-derogatoire-q4-2020,True
-https://github.com/LAB-MI/attestation-honneur-ue,False
+https://github.com/LAB-MI/attestation-honneur-ue,True
 https://github.com/LAB-MI/candilib,True
 https://github.com/LAB-MI/candilibV2,True
 https://github.com/LAB-MI/covid-19-certificate,True
@@ -8790,13 +8790,13 @@ https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/rancher/os-console,True
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/rancher/os-services,True
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/rancher/rio,True
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/rancher/rke,True
-https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/registry/rancher/os-alpineconsole,False
+https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/registry/rancher/os-alpineconsole,True
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/registry/rancher/os-hashistackconsole,True
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/registry/rancher/os-rkeconsole,True
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/students/martin.souchal/infrastructure,True
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/students/martin.souchal/ipxe.raw,True
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/students/olivier.lassalle/infrastructure,False
-https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/students/olivier.lassalle/ipxe.raw,False
+https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/students/olivier.lassalle/ipxe.raw,True
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/vapormap,True
 https://plmlab.math.cnrs.fr/seafile/tb-filelink-seafile,False
 https://plmlab.math.cnrs.fr/smagp/smagp.pages.math.cnrs.fr,True
