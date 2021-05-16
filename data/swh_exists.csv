@@ -6855,7 +6855,7 @@ https://gitlab.inria.fr/concordant/software/c-markdown-editor,True
 https://gitlab.inria.fr/concordant/software/c-service,True
 https://gitlab.inria.fr/concordant/software/c-sudoku,True
 https://gitlab.inria.fr/concordant/software/mini-app,True
-https://gitlab.inria.fr/controlHub/experiment_server,False
+https://gitlab.inria.fr/controlHub/experiment_server,True
 https://gitlab.inria.fr/controlHub/submission_video_server,True
 https://gitlab.inria.fr/coq/coq,True
 https://gitlab.inria.fr/coq/wiki-backup,True
@@ -8771,7 +8771,7 @@ https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/hashicorp/terraform/modules/bas
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/hashicorp/terraform/modules/image,True
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/hashicorp/terraform/modules/instance,True
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/hashicorp/terraform/modules/keypair,True
-https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/hashicorp/terraform/modules/network,False
+https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/hashicorp/terraform/modules/network,True
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/hashicorp/terraform/modules/volume,True
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/hashicorp/vault/cluster,True
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/info-site,True
