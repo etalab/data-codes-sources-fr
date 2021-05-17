@@ -2264,7 +2264,7 @@ https://github.com/MTES-MCT/mattermost-scalingo,False
 https://github.com/MTES-MCT/mobilic,True
 https://github.com/MTES-MCT/mobilic-api,True
 https://github.com/MTES-MCT/monitorfish,True
-https://github.com/MTES-MCT/nmap-action,False
+https://github.com/MTES-MCT/nmap-action,True
 https://github.com/MTES-MCT/node-cerbere,True
 https://github.com/MTES-MCT/numerique,True
 https://github.com/MTES-MCT/parcours-r,True
@@ -3190,7 +3190,7 @@ https://github.com/betagouv/ecolab-recherche-agribalyse,True
 https://github.com/betagouv/ecolab-transport,True
 https://github.com/betagouv/ecosante,True
 https://github.com/betagouv/elasticsearch-gravitee-ingest-processor,True
-https://github.com/betagouv/ellesfontlaphoto,False
+https://github.com/betagouv/ellesfontlaphoto,True
 https://github.com/betagouv/etudiant-entrepreneur,True
 https://github.com/betagouv/eva,True
 https://github.com/betagouv/eva-orchestrateur,True
@@ -5598,6 +5598,7 @@ https://github.com/openmole/spatialsampling,True
 https://github.com/openmole/xz-scala,True
 https://github.com/openmole/yapa,True
 https://github.com/pass-culture/FreezeMerge,True
+https://github.com/pass-culture/dashlord,False
 https://github.com/pass-culture/data-analytics,True
 https://github.com/pass-culture/data-science,True
 https://github.com/pass-culture/enriched_data,True
@@ -5637,6 +5638,7 @@ https://github.com/polewebmaedi/natural-earth-vector,True
 https://github.com/powerapi-ng/energy-scripts,True
 https://github.com/powerapi-ng/hwpc-sensor,True
 https://github.com/powerapi-ng/j-joules,True
+https://github.com/powerapi-ng/jouleit,False
 https://github.com/powerapi-ng/junit-jjoules,True
 https://github.com/powerapi-ng/powerapi,True
 https://github.com/powerapi-ng/powerapi-ng.github.io,True
@@ -6827,7 +6829,7 @@ https://gitlab.inria.fr/comprise/comprise-example-library,True
 https://gitlab.inria.fr/comprise/comprise-personal-server,True
 https://gitlab.inria.fr/comprise/comprise-stt-training-recipe,True
 https://gitlab.inria.fr/comprise/comprise_app_wizard,True
-https://gitlab.inria.fr/comprise/comprise_client_libraries,False
+https://gitlab.inria.fr/comprise/comprise_client_libraries,True
 https://gitlab.inria.fr/comprise/comprise_client_library,True
 https://gitlab.inria.fr/comprise/comprise_dialog_management,True
 https://gitlab.inria.fr/comprise/comprise_machine_translation,True
@@ -8690,7 +8692,7 @@ https://plmlab.math.cnrs.fr/perso/users/damien.ferney,True
 https://plmlab.math.cnrs.fr/perso/users/david.delavennat,True
 https://plmlab.math.cnrs.fr/perso/users/diego.izquierdo,True
 https://plmlab.math.cnrs.fr/perso/users/eleonora.di-nezza,True
-https://plmlab.math.cnrs.fr/perso/users/frank.pacard,False
+https://plmlab.math.cnrs.fr/perso/users/frank.pacard,True
 https://plmlab.math.cnrs.fr/perso/users/lucas.ertzbischoff,True
 https://plmlab.math.cnrs.fr/perso/users/thomas.gauthier,True
 https://plmlab.math.cnrs.fr/phymath/nspawn,True
