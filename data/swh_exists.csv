@@ -430,7 +430,7 @@ https://forgemia.inra.fr/inter_cati_omics/snakemake/snakemake_modules,True
 https://forgemia.inra.fr/irhs-bioinfo/i-fungi,True
 https://forgemia.inra.fr/lbe/opensilexlbe/ontologielbe,True
 https://forgemia.inra.fr/lbe/opensilexlbe/opensilex-dev,True
-https://forgemia.inra.fr/linmodel/linmodel,False
+https://forgemia.inra.fr/linmodel/linmodel,True
 https://forgemia.inra.fr/metagenopolis/eskrim,True
 https://forgemia.inra.fr/metagenopolis/meteor,True
 https://forgemia.inra.fr/metagenopolis/trim_fastq,True
@@ -2101,6 +2101,7 @@ https://github.com/InseeFrLab/utilitR,True
 https://github.com/InseeFrLab/utilitR-website,True
 https://github.com/InseeFrLab/utilitr-actions,True
 https://github.com/InseeFrLab/utilitr-bonnes-pratiques,True
+https://github.com/InseeFrLab/utilitr-prez,False
 https://github.com/InseeFrLab/utilitr-template,True
 https://github.com/InseeFrLab/utils,True
 https://github.com/InseeFrLab/vscode-python,True
@@ -3189,6 +3190,7 @@ https://github.com/betagouv/ecolab-recherche-agribalyse,True
 https://github.com/betagouv/ecolab-transport,True
 https://github.com/betagouv/ecosante,True
 https://github.com/betagouv/elasticsearch-gravitee-ingest-processor,True
+https://github.com/betagouv/ellesfontlaphoto,False
 https://github.com/betagouv/etudiant-entrepreneur,True
 https://github.com/betagouv/eva,True
 https://github.com/betagouv/eva-orchestrateur,True
@@ -7774,6 +7776,7 @@ https://gitlab.inria.fr/steep/urbansprawl/urbansprawl-lib,True
 https://gitlab.inria.fr/stopcovid19/CLEA-exposure-verification,True
 https://gitlab.inria.fr/stopcovid19/accueil,True
 https://gitlab.inria.fr/stopcovid19/backend-server,True
+https://gitlab.inria.fr/stopcovid19/clea-server,False
 https://gitlab.inria.fr/stopcovid19/robert-client-api-spec,True
 https://gitlab.inria.fr/stopcovid19/robert-server,True
 https://gitlab.inria.fr/stopcovid19/stopcovid-android,True
