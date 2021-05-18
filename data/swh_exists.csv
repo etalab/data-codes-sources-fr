@@ -2101,6 +2101,7 @@ https://github.com/InseeFrLab/utilitR,True
 https://github.com/InseeFrLab/utilitR-website,True
 https://github.com/InseeFrLab/utilitr-actions,True
 https://github.com/InseeFrLab/utilitr-bonnes-pratiques,True
+https://github.com/InseeFrLab/utilitr-presentation,False
 https://github.com/InseeFrLab/utilitr-prez,False
 https://github.com/InseeFrLab/utilitr-template,True
 https://github.com/InseeFrLab/utils,True
@@ -3259,7 +3260,7 @@ https://github.com/betagouv/mas,True
 https://github.com/betagouv/matomo,True
 https://github.com/betagouv/matomo-beta,True
 https://github.com/betagouv/matomo-scalingo-deploy,True
-https://github.com/betagouv/matterbridge-paas,False
+https://github.com/betagouv/matterbridge-paas,True
 https://github.com/betagouv/mattermost-buildpack,True
 https://github.com/betagouv/mattermost-scalingo,True
 https://github.com/betagouv/mdph,True
