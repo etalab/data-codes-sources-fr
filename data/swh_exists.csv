@@ -269,6 +269,7 @@ https://forgemia.inra.fr/gaev/usecases/jupyterhub-ubuntu-vbox,True
 https://forgemia.inra.fr/gaev/usecases/macosr,True
 https://forgemia.inra.fr/gaev/usecases/odam-centos-virtualbox,True
 https://forgemia.inra.fr/gaev/usecases/windowsr,True
+https://forgemia.inra.fr/gafl/i2b/dev_embedded_android/application_recolte/django_database,False
 https://forgemia.inra.fr/gafl/pipelines_snakemake/allmine,True
 https://forgemia.inra.fr/gafl/pipelines_snakemake/ezqtlseq,True
 https://forgemia.inra.fr/gafl/pipelines_snakemake/rnaseq,True
@@ -538,6 +539,7 @@ https://forgemia.inra.fr/urep/docs/bonpland,True
 https://forgemia.inra.fr/urep/docs/demorpackage,True
 https://forgemia.inra.fr/urep/formations/formation_r/initiation,True
 https://forgemia.inra.fr/urep/soere-acbb-pp/documentation,False
+https://forgemia.inra.fr/urep/soere-pp/aigoual,False
 https://forgemia.inra.fr/urep/soere-pp/doc_soere-pp,True
 https://forgemia.inra.fr/urep/soere-pp/meteosolApp,True
 https://forgemia.inra.fr/urep/soere-pp/meteosolToolbox,True
@@ -1095,6 +1097,7 @@ https://github.com/BRGM/geothermal-test-cases,True
 https://github.com/BRGM/gml_application_schema_toolbox,True
 https://github.com/BRGM/gmlib,True
 https://github.com/BRGM/hubeau,True
+https://github.com/BRGM/inept,False
 https://github.com/BRGM/map2loop-2,True
 https://github.com/BRGM/meshio,True
 https://github.com/BRGM/plouf,True
@@ -3432,6 +3435,8 @@ https://github.com/betagouv/taux-collectifs-cotisation-atmp,True
 https://github.com/betagouv/taux-versement-transport,True
 https://github.com/betagouv/template-design-system-de-l-etat,True
 https://github.com/betagouv/template.beta.gouv.fr,True
+https://github.com/betagouv/territoires-en-transitions,False
+https://github.com/betagouv/territoires-en-transitions-api,False
 https://github.com/betagouv/trait-d-union,True
 https://github.com/betagouv/traitdunion-landing-pages,True
 https://github.com/betagouv/traitdunion-metabase,True
@@ -6863,7 +6868,9 @@ https://gitlab.inria.fr/concordant/software/c-service,True
 https://gitlab.inria.fr/concordant/software/c-sudoku,True
 https://gitlab.inria.fr/concordant/software/mini-app,True
 https://gitlab.inria.fr/controlHub/experiment_server,True
+https://gitlab.inria.fr/controlHub/experiment_server_pub,False
 https://gitlab.inria.fr/controlHub/submission_video_server,True
+https://gitlab.inria.fr/controlHub/submission_video_server_pub,False
 https://gitlab.inria.fr/coq/coq,True
 https://gitlab.inria.fr/coq/wiki-backup,True
 https://gitlab.inria.fr/coqinterval/interval,True
