@@ -3399,6 +3399,7 @@ https://github.com/betagouv/retraite,True
 https://github.com/betagouv/role-ansible,True
 https://github.com/betagouv/sante-psy,True
 https://github.com/betagouv/secretariat,True
+https://github.com/betagouv/secretariat-bot,False
 https://github.com/betagouv/securite-numerique-agile,True
 https://github.com/betagouv/sejour,True
 https://github.com/betagouv/service-national-universel,True
@@ -8749,6 +8750,8 @@ https://plmlab.math.cnrs.fr/plmshift/mysqldump,True
 https://plmlab.math.cnrs.fr/plmshift/notebook-example,True
 https://plmlab.math.cnrs.fr/plmshift/oauth-proxy,True
 https://plmlab.math.cnrs.fr/plmshift/odh-manifests-for-plm,True
+https://plmlab.math.cnrs.fr/plmshift/opendatahub/s2i-pytorch-notebook,False
+https://plmlab.math.cnrs.fr/plmshift/opendatahub/s2i-tensorflow-gpu-notebook,False
 https://plmlab.math.cnrs.fr/plmshift/pelican,True
 https://plmlab.math.cnrs.fr/plmshift/phpldapadmin,True
 https://plmlab.math.cnrs.fr/plmshift/plm_cinema,True
