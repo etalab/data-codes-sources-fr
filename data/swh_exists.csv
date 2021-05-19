@@ -539,7 +539,7 @@ https://forgemia.inra.fr/urep/docs/bonpland,True
 https://forgemia.inra.fr/urep/docs/demorpackage,True
 https://forgemia.inra.fr/urep/formations/formation_r/initiation,True
 https://forgemia.inra.fr/urep/soere-acbb-pp/documentation,False
-https://forgemia.inra.fr/urep/soere-pp/aigoual,False
+https://forgemia.inra.fr/urep/soere-pp/aigoual,True
 https://forgemia.inra.fr/urep/soere-pp/doc_soere-pp,True
 https://forgemia.inra.fr/urep/soere-pp/meteosolApp,True
 https://forgemia.inra.fr/urep/soere-pp/meteosolToolbox,True
@@ -3818,6 +3818,7 @@ https://github.com/dinsic-pim/matrix-react-sdk,True
 https://github.com/dinsic-pim/matrix-react-sdk-v3,True
 https://github.com/dinsic-pim/tchap-android,True
 https://github.com/dinsic-pim/tchap-android-v2,True
+https://github.com/dinsic-pim/tchap-desktop,False
 https://github.com/dinsic-pim/tchap-ios,True
 https://github.com/dinsic-pim/tchap-web,True
 https://github.com/dinsic-pim/tchap-web-v3,True
@@ -6257,6 +6258,7 @@ https://gitlab.huma-num.fr/cosme/telma_chartes_exports,True
 https://gitlab.huma-num.fr/cosme/telma_chartes_imports,True
 https://gitlab.huma-num.fr/disco-lge/processinglge,True
 https://gitlab.huma-num.fr/disco-lge/soprano,True
+https://gitlab.huma-num.fr/disco-lge/tei-encoding,False
 https://gitlab.huma-num.fr/disco-lge/vue-d-ensemble,True
 https://gitlab.huma-num.fr/ecrinum/anthologia/dataap,True
 https://gitlab.huma-num.fr/ecrinum/anthologia/pythonap,True
@@ -7139,6 +7141,7 @@ https://gitlab.inria.fr/gazelle/library/gazelle-assertion-coverage-provider,True
 https://gitlab.inria.fr/gazelle/library/gazelle-assets,True
 https://gitlab.inria.fr/gazelle/library/gazelle-preferences,True
 https://gitlab.inria.fr/gazelle/library/gazelle-tools,True
+https://gitlab.inria.fr/gazelle/library/gazelle-ws-clients,False
 https://gitlab.inria.fr/gazelle/library/gazelle-x-validation,True
 https://gitlab.inria.fr/gazelle/library/hl7templates/gocmodel-jar,True
 https://gitlab.inria.fr/gazelle/library/hl7templates/hl7template-generator-jar,False
@@ -7787,7 +7790,7 @@ https://gitlab.inria.fr/steep/urbansprawl/urbansprawl-lib,True
 https://gitlab.inria.fr/stopcovid19/CLEA-exposure-verification,True
 https://gitlab.inria.fr/stopcovid19/accueil,True
 https://gitlab.inria.fr/stopcovid19/backend-server,True
-https://gitlab.inria.fr/stopcovid19/clea-server,False
+https://gitlab.inria.fr/stopcovid19/clea-server,True
 https://gitlab.inria.fr/stopcovid19/robert-client-api-spec,True
 https://gitlab.inria.fr/stopcovid19/robert-server,True
 https://gitlab.inria.fr/stopcovid19/stopcovid-android,True
@@ -8768,7 +8771,7 @@ https://plmlab.math.cnrs.fr/plmteam/docs/okd,True
 https://plmlab.math.cnrs.fr/plmteam/stream-hls-infra,True
 https://plmlab.math.cnrs.fr/plmteam/streaming,True
 https://plmlab.math.cnrs.fr/portail-maths/agenda-emath,True
-https://plmlab.math.cnrs.fr/portail-maths/ticket-ezproxy,False
+https://plmlab.math.cnrs.fr/portail-maths/ticket-ezproxy,True
 https://plmlab.math.cnrs.fr/rancher/os-alpineconsole,True
 https://plmlab.math.cnrs.fr/rancher/os-hashistackconsole,True
 https://plmlab.math.cnrs.fr/razvanbarbulescu/razvanbarbulescu.pages.math.cnrs.fr,True
