@@ -369,7 +369,7 @@ https://forgemia.inra.fr/get-it/nf-assemblshortread,True
 https://forgemia.inra.fr/get-it/nf-taxoaffiliation,True
 https://forgemia.inra.fr/get-nextflow-ngl-bi/template-nf,True
 https://forgemia.inra.fr/get-nextflow-ngl-bi/test-data,True
-https://forgemia.inra.fr/gqe-acep/careb,False
+https://forgemia.inra.fr/gqe-acep/careb,True
 https://forgemia.inra.fr/gryc-data/blastobotrys_adeninivorans-ls3,True
 https://forgemia.inra.fr/gryc-data/candida_albicans-sc_5314,True
 https://forgemia.inra.fr/gryc-data/candida_glabrata-cbs_138,True
@@ -1141,6 +1141,7 @@ https://github.com/CCSDForge/StaticFiles,True
 https://github.com/CCSDForge/episciences,True
 https://github.com/CCSDForge/episciences-api,True
 https://github.com/CCSDForge/episciences-doc,False
+https://github.com/CEA-LIST/AD-RobustnessEval,False
 https://github.com/CEA-LIST/CinguParam,True
 https://github.com/CEA-LIST/Cingulata,True
 https://github.com/CEA-LIST/DAHLIA-BodyIndex,True
@@ -1241,6 +1242,7 @@ https://github.com/CNRS-DSI-Dev/user_set_password,True
 https://github.com/CNRS-DSI-Dev/user_share_guest,True
 https://github.com/CatalaLang/catala,True
 https://github.com/CatalaLang/catala-website,True
+https://github.com/Cour-de-cassation/judillibre-search,False
 https://github.com/Cour-de-cassation/label,True
 https://github.com/Cour-de-cassation/moteurNER,True
 https://github.com/Cour-de-cassation/openjustice-sder,True
@@ -3756,7 +3758,7 @@ https://github.com/cw-leia/smartleia,True
 https://github.com/cw-leia/smartleia-doc,True
 https://github.com/cw-leia/smartleia-target,True
 https://github.com/cw-leia/smartleia-target-applet,True
-https://github.com/dataesr/bso-ui,False
+https://github.com/dataesr/bso-ui,True
 https://github.com/dataesr/curieXplore-paysage,True
 https://github.com/dataesr/kubectl-deploy,True
 https://github.com/dataesr/onedrive,True
@@ -4985,7 +4987,7 @@ https://github.com/medialab/generator-artoo,True
 https://github.com/medialab/giec_base,True
 https://github.com/medialab/gitlaw,True
 https://github.com/medialab/google-bookmarklets,True
-https://github.com/medialab/graines,False
+https://github.com/medialab/graines,True
 https://github.com/medialab/graph-recipes,True
 https://github.com/medialab/grunt-artoo,True
 https://github.com/medialab/gulp-artoo,True
@@ -6214,6 +6216,7 @@ https://gitlab.com/healthdatahub/open-data/open-damir,True
 https://gitlab.com/healthdatahub/programmes-sdns,True
 https://gitlab.com/healthdatahub/programmes-snds,True
 https://gitlab.com/healthdatahub/schema-snds,True
+https://gitlab.com/healthdatahub/sphinx,False
 https://gitlab.com/healthdatahub/synthetic-generator,True
 https://gitlab.com/healthdatahub/synthetic-snds,True
 https://gitlab.com/healthdatahub/tsfaker,True
@@ -8594,7 +8597,7 @@ https://plmlab.math.cnrs.fr/cmt/autofs,True
 https://plmlab.math.cnrs.fr/cmt/base,True
 https://plmlab.math.cnrs.fr/cmt/cmt-server,True
 https://plmlab.math.cnrs.fr/cmt/dhcp-relay,True
-https://plmlab.math.cnrs.fr/cmt/dhcp-server,False
+https://plmlab.math.cnrs.fr/cmt/dhcp-server,True
 https://plmlab.math.cnrs.fr/cmt/dnsmasq,True
 https://plmlab.math.cnrs.fr/cmt/firewalld,True
 https://plmlab.math.cnrs.fr/cmt/git-server,True
