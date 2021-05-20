@@ -275,6 +275,7 @@ https://forgemia.inra.fr/gafl/pipelines_snakemake/allmine,True
 https://forgemia.inra.fr/gafl/pipelines_snakemake/ezqtlseq,True
 https://forgemia.inra.fr/gafl/pipelines_snakemake/rnaseq,True
 https://forgemia.inra.fr/gafl/pipelines_snakemake/wgs,True
+https://forgemia.inra.fr/gafl/pipelines_snakemake/wgs_gatk,False
 https://forgemia.inra.fr/gafl/scripts/genome_feature_distribution,True
 https://forgemia.inra.fr/gafl/singularity/10Xgenomics,True
 https://forgemia.inra.fr/gafl/singularity/Allmine,True
@@ -1142,7 +1143,7 @@ https://github.com/CCSDForge/Sciencesconf.org,True
 https://github.com/CCSDForge/StaticFiles,True
 https://github.com/CCSDForge/episciences,True
 https://github.com/CCSDForge/episciences-api,True
-https://github.com/CCSDForge/episciences-doc,False
+https://github.com/CCSDForge/episciences-doc,True
 https://github.com/CEA-LIST/AD-RobustnessEval,False
 https://github.com/CEA-LIST/CinguParam,True
 https://github.com/CEA-LIST/Cingulata,True
@@ -2112,7 +2113,7 @@ https://github.com/InseeFrLab/utilitR,True
 https://github.com/InseeFrLab/utilitR-website,True
 https://github.com/InseeFrLab/utilitr-actions,True
 https://github.com/InseeFrLab/utilitr-bonnes-pratiques,True
-https://github.com/InseeFrLab/utilitr-presentation,False
+https://github.com/InseeFrLab/utilitr-presentation,True
 https://github.com/InseeFrLab/utilitr-prez,False
 https://github.com/InseeFrLab/utilitr-template,True
 https://github.com/InseeFrLab/utils,True
@@ -6108,6 +6109,7 @@ https://gitlab.com/CSTB/mathis,True
 https://gitlab.com/CSTB/modele_donnee_dpe_2020,True
 https://gitlab.com/DREES_code/formulaire_zonage_ars,True
 https://gitlab.com/DREES_code/public/charte_drees,True
+https://gitlab.com/DREES_code/public/etudes/ER1172,False
 https://gitlab.com/DREES_code/public/etudes/er1094,True
 https://gitlab.com/DREES_code/public/etudes/er1143,True
 https://gitlab.com/DREES_code/public/etudes/er1179,True
