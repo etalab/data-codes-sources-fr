@@ -1140,6 +1140,7 @@ https://github.com/CCSDForge/Sciencesconf.org,True
 https://github.com/CCSDForge/StaticFiles,True
 https://github.com/CCSDForge/episciences,True
 https://github.com/CCSDForge/episciences-api,True
+https://github.com/CCSDForge/episciences-doc,False
 https://github.com/CEA-LIST/CinguParam,True
 https://github.com/CEA-LIST/Cingulata,True
 https://github.com/CEA-LIST/DAHLIA-BodyIndex,True
@@ -8190,6 +8191,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/formations/hdf5,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/monitoring,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/monitoring-summer-snapshot,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/perfreporter,True
+https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/publications/reports,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/pz_resif,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/qpidd-k8s,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/resif-datacite-cli,True
@@ -8750,8 +8752,9 @@ https://plmlab.math.cnrs.fr/plmshift/mysqldump,True
 https://plmlab.math.cnrs.fr/plmshift/notebook-example,True
 https://plmlab.math.cnrs.fr/plmshift/oauth-proxy,True
 https://plmlab.math.cnrs.fr/plmshift/odh-manifests-for-plm,True
+https://plmlab.math.cnrs.fr/plmshift/opendatahub/s2i-base-container,False
 https://plmlab.math.cnrs.fr/plmshift/opendatahub/s2i-pytorch-notebook,False
-https://plmlab.math.cnrs.fr/plmshift/opendatahub/s2i-tensorflow-gpu-notebook,False
+https://plmlab.math.cnrs.fr/plmshift/opendatahub/s2i-tensorflow-gpu-notebook,True
 https://plmlab.math.cnrs.fr/plmshift/pelican,True
 https://plmlab.math.cnrs.fr/plmshift/phpldapadmin,True
 https://plmlab.math.cnrs.fr/plmshift/plm_cinema,True
