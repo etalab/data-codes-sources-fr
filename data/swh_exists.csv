@@ -25,6 +25,7 @@ https://dci-gitlab.cines.fr/dad/vitam-dwatcher,True
 https://dci-gitlab.cines.fr/dad/vitam-rest-api,True
 https://dci-gitlab.cines.fr/dad/vitam-ui-cea_app_referential_pr1,True
 https://dci-gitlab.cines.fr/dad/vitam-ui-develop,True
+https://dci-gitlab.cines.fr/dad/vitam_sushi,False
 https://dci-gitlab.cines.fr/dad/vitamui-cines-pastis-old,True
 https://dci-gitlab.cines.fr/dad/vitamui-pr-pastis,True
 https://dev.ch-poitiers.fr/PowerShell/OutilsServeurs,True
@@ -502,6 +503,7 @@ https://forgemia.inra.fr/siriusquality/sqcode/siriusquality-bioma-maizelai-compo
 https://forgemia.inra.fr/siriusquality/sqcode/siriusquality-bioma-wheatpotentiallai-component,True
 https://forgemia.inra.fr/sunflo/envirotyping_sunrise,True
 https://forgemia.inra.fr/sunrise/15ex05_data_correction,True
+https://forgemia.inra.fr/sunrise/inference_sunrise,False
 https://forgemia.inra.fr/sunrise/network-inference,True
 https://forgemia.inra.fr/svdetection/cnvpipelines,True
 https://forgemia.inra.fr/svdetection/popsim,True
@@ -1242,6 +1244,7 @@ https://github.com/CNRS-DSI-Dev/user_set_password,True
 https://github.com/CNRS-DSI-Dev/user_share_guest,True
 https://github.com/CatalaLang/catala,True
 https://github.com/CatalaLang/catala-website,True
+https://github.com/Cour-de-cassation/judilibre-search,False
 https://github.com/Cour-de-cassation/judillibre-search,False
 https://github.com/Cour-de-cassation/label,True
 https://github.com/Cour-de-cassation/moteurNER,True
@@ -5549,6 +5552,7 @@ https://github.com/openfun/password-container-xblock,True
 https://github.com/openfun/politique-de-contribution-open-source,True
 https://github.com/openfun/poss-2018,True
 https://github.com/openfun/potsie,True
+https://github.com/openfun/potsie-legacy,False
 https://github.com/openfun/proctoru-xblock,True
 https://github.com/openfun/prosody-docker,True
 https://github.com/openfun/prosody-test,True
@@ -5652,7 +5656,7 @@ https://github.com/polewebmaedi/natural-earth-vector,True
 https://github.com/powerapi-ng/energy-scripts,True
 https://github.com/powerapi-ng/hwpc-sensor,True
 https://github.com/powerapi-ng/j-joules,True
-https://github.com/powerapi-ng/jouleit,False
+https://github.com/powerapi-ng/jouleit,True
 https://github.com/powerapi-ng/junit-jjoules,True
 https://github.com/powerapi-ng/powerapi,True
 https://github.com/powerapi-ng/powerapi-ng.github.io,True
@@ -6298,6 +6302,7 @@ https://gitlab.huma-num.fr/geographie-cites/autobiopedia,True
 https://gitlab.huma-num.fr/huma-num-public/documentation,True
 https://gitlab.huma-num.fr/huma-num-public/hn-site,True
 https://gitlab.huma-num.fr/huma-num-public/next-auth-nakala,True
+https://gitlab.huma-num.fr/huma-num-public/notebook-api-nakala,False
 https://gitlab.huma-num.fr/irihs/NakalaTools,True
 https://gitlab.huma-num.fr/irihs/flaubertexport,True
 https://gitlab.huma-num.fr/irihs/genetictables,True
@@ -8194,7 +8199,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/formations/hdf5,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/monitoring,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/monitoring-summer-snapshot,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/perfreporter,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/publications/reports,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/publications/reports,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/pz_resif,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/qpidd-k8s,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/resif-datacite-cli,True
