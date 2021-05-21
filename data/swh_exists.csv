@@ -275,7 +275,7 @@ https://forgemia.inra.fr/gafl/pipelines_snakemake/allmine,True
 https://forgemia.inra.fr/gafl/pipelines_snakemake/ezqtlseq,True
 https://forgemia.inra.fr/gafl/pipelines_snakemake/rnaseq,True
 https://forgemia.inra.fr/gafl/pipelines_snakemake/wgs,True
-https://forgemia.inra.fr/gafl/pipelines_snakemake/wgs_gatk,False
+https://forgemia.inra.fr/gafl/pipelines_snakemake/wgs_gatk,True
 https://forgemia.inra.fr/gafl/scripts/genome_feature_distribution,True
 https://forgemia.inra.fr/gafl/singularity/10Xgenomics,True
 https://forgemia.inra.fr/gafl/singularity/Allmine,True
@@ -2020,7 +2020,7 @@ https://github.com/InseeFr/Sonor,True
 https://github.com/InseeFr/Stromae,True
 https://github.com/InseeFr/Stromae-DB,True
 https://github.com/InseeFr/Trevas,True
-https://github.com/InseeFr/Trevas-JS,False
+https://github.com/InseeFr/Trevas-JS,True
 https://github.com/InseeFr/VTL-Tools,True
 https://github.com/InseeFr/Wilco,True
 https://github.com/InseeFr/diffman,True
@@ -5370,6 +5370,7 @@ https://github.com/ocaml/opam-repository,True
 https://github.com/ocaml/opam.ocaml.org,True
 https://github.com/ocaml/platform-blog,True
 https://github.com/ocaml/platform-dev,True
+https://github.com/ocaml/setup-ocaml,False
 https://github.com/ocaml/stdlib-shims,True
 https://github.com/ocaml/tuareg,True
 https://github.com/ocaml/uchar,True
@@ -6114,7 +6115,7 @@ https://gitlab.com/CSTB/mathis,True
 https://gitlab.com/CSTB/modele_donnee_dpe_2020,True
 https://gitlab.com/DREES_code/formulaire_zonage_ars,True
 https://gitlab.com/DREES_code/public/charte_drees,True
-https://gitlab.com/DREES_code/public/etudes/ER1172,False
+https://gitlab.com/DREES_code/public/etudes/ER1172,True
 https://gitlab.com/DREES_code/public/etudes/er1094,True
 https://gitlab.com/DREES_code/public/etudes/er1143,True
 https://gitlab.com/DREES_code/public/etudes/er1179,True
@@ -6158,6 +6159,7 @@ https://gitlab.com/dreal-datalab/carrieres,True
 https://gitlab.com/dreal-datalab/codes_postaux,True
 https://gitlab.com/dreal-datalab/cogiter,True
 https://gitlab.com/dreal-datalab/communications,True
+https://gitlab.com/dreal-datalab/crte,True
 https://gitlab.com/dreal-datalab/crte.com,True
 https://gitlab.com/dreal-datalab/drealdown,True
 https://gitlab.com/dreal-datalab/drealthemes,True
@@ -7812,7 +7814,7 @@ https://gitlab.inria.fr/statify_public/interstices_neuro,True
 https://gitlab.inria.fr/steep/urbansprawl/urbansprawl-lib,True
 https://gitlab.inria.fr/stopcovid19/CLEA-exposure-verification,True
 https://gitlab.inria.fr/stopcovid19/accueil,True
-https://gitlab.inria.fr/stopcovid19/analytics-server,False
+https://gitlab.inria.fr/stopcovid19/analytics-server,True
 https://gitlab.inria.fr/stopcovid19/backend-server,True
 https://gitlab.inria.fr/stopcovid19/clea-server,True
 https://gitlab.inria.fr/stopcovid19/robert-client-api-spec,True
