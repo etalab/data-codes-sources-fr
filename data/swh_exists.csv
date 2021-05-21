@@ -3444,7 +3444,7 @@ https://github.com/betagouv/taux-collectifs-cotisation-atmp,True
 https://github.com/betagouv/taux-versement-transport,True
 https://github.com/betagouv/template-design-system-de-l-etat,True
 https://github.com/betagouv/template.beta.gouv.fr,True
-https://github.com/betagouv/territoires-en-transitions,False
+https://github.com/betagouv/territoires-en-transitions,True
 https://github.com/betagouv/territoires-en-transitions-api,True
 https://github.com/betagouv/trait-d-union,True
 https://github.com/betagouv/traitdunion-landing-pages,True
@@ -3762,6 +3762,8 @@ https://github.com/cw-leia/smartleia,True
 https://github.com/cw-leia/smartleia-doc,True
 https://github.com/cw-leia/smartleia-target,True
 https://github.com/cw-leia/smartleia-target-applet,True
+https://github.com/dataesr/bso-clinical-trials,False
+https://github.com/dataesr/bso-publications,False
 https://github.com/dataesr/bso-ui,True
 https://github.com/dataesr/curieXplore-paysage,True
 https://github.com/dataesr/kubectl-deploy,True
@@ -5553,7 +5555,7 @@ https://github.com/openfun/password-container-xblock,True
 https://github.com/openfun/politique-de-contribution-open-source,True
 https://github.com/openfun/poss-2018,True
 https://github.com/openfun/potsie,True
-https://github.com/openfun/potsie-legacy,False
+https://github.com/openfun/potsie-legacy,True
 https://github.com/openfun/proctoru-xblock,True
 https://github.com/openfun/prosody-docker,True
 https://github.com/openfun/prosody-test,True
@@ -6271,7 +6273,7 @@ https://gitlab.huma-num.fr/cosme/telma_chartes_exports,True
 https://gitlab.huma-num.fr/cosme/telma_chartes_imports,True
 https://gitlab.huma-num.fr/disco-lge/processinglge,True
 https://gitlab.huma-num.fr/disco-lge/soprano,True
-https://gitlab.huma-num.fr/disco-lge/tei-encoding,False
+https://gitlab.huma-num.fr/disco-lge/tei-encoding,True
 https://gitlab.huma-num.fr/disco-lge/vue-d-ensemble,True
 https://gitlab.huma-num.fr/ecrinum/anthologia/dataap,True
 https://gitlab.huma-num.fr/ecrinum/anthologia/pythonap,True
@@ -8836,7 +8838,7 @@ https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/registry/rancher/os-hashistackc
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/registry/rancher/os-rkeconsole,True
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/students/martin.souchal/infrastructure,True
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/students/martin.souchal/ipxe.raw,True
-https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/students/olivier.lassalle/infrastructure,False
+https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/students/olivier.lassalle/infrastructure,True
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/students/olivier.lassalle/ipxe.raw,True
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/vapormap,True
 https://plmlab.math.cnrs.fr/seafile/tb-filelink-seafile,True
