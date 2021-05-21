@@ -3293,6 +3293,7 @@ https://github.com/betagouv/mes-aides-out,True
 https://github.com/betagouv/mes-aides-ui,True
 https://github.com/betagouv/metabase-scalingo,True
 https://github.com/betagouv/meteor-assemblee-nationale,True
+https://github.com/betagouv/metiers-numerique,False
 https://github.com/betagouv/mon-entreprise,True
 https://github.com/betagouv/mon-service-securise,True
 https://github.com/betagouv/monitoring.api.gouv.fr,True
@@ -6890,7 +6891,7 @@ https://gitlab.inria.fr/concordant/software/mini-app,True
 https://gitlab.inria.fr/controlHub/experiment_server,True
 https://gitlab.inria.fr/controlHub/experiment_server_pub,True
 https://gitlab.inria.fr/controlHub/submission_video_server,True
-https://gitlab.inria.fr/controlHub/submission_video_server_pub,False
+https://gitlab.inria.fr/controlHub/submission_video_server_pub,True
 https://gitlab.inria.fr/coq/coq,True
 https://gitlab.inria.fr/coq/wiki-backup,True
 https://gitlab.inria.fr/coqinterval/interval,True
@@ -7739,7 +7740,7 @@ https://gitlab.inria.fr/sibr/projects/facades-repetitions/facade_repetitions,Tru
 https://gitlab.inria.fr/sibr/projects/facades-repetitions/facade_repetitions_external,True
 https://gitlab.inria.fr/sibr/projects/fribr_framework,True
 https://gitlab.inria.fr/sibr/projects/glossy-probes/synthetic_ibr,True
-https://gitlab.inria.fr/sibr/projects/hybrid_ibr,False
+https://gitlab.inria.fr/sibr/projects/hybrid_ibr,True
 https://gitlab.inria.fr/sibr/projects/inside_out_deep_blending,True
 https://gitlab.inria.fr/sibr/projects/optix,True
 https://gitlab.inria.fr/sibr/projects/outdoor_relighting,True
