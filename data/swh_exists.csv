@@ -1144,7 +1144,7 @@ https://github.com/CCSDForge/StaticFiles,True
 https://github.com/CCSDForge/episciences,True
 https://github.com/CCSDForge/episciences-api,True
 https://github.com/CCSDForge/episciences-doc,True
-https://github.com/CEA-LIST/AD-RobustnessEval,False
+https://github.com/CEA-LIST/AD-RobustnessEval,True
 https://github.com/CEA-LIST/CinguParam,True
 https://github.com/CEA-LIST/Cingulata,True
 https://github.com/CEA-LIST/DAHLIA-BodyIndex,True
@@ -2020,6 +2020,7 @@ https://github.com/InseeFr/Sonor,True
 https://github.com/InseeFr/Stromae,True
 https://github.com/InseeFr/Stromae-DB,True
 https://github.com/InseeFr/Trevas,True
+https://github.com/InseeFr/Trevas-JS,False
 https://github.com/InseeFr/VTL-Tools,True
 https://github.com/InseeFr/Wilco,True
 https://github.com/InseeFr/diffman,True
@@ -2592,6 +2593,7 @@ https://github.com/SocialGouv/covid19-orientation,True
 https://github.com/SocialGouv/covid19-tests-schemas,True
 https://github.com/SocialGouv/ctdn-api,False
 https://github.com/SocialGouv/dashlord,True
+https://github.com/SocialGouv/dashlord-actions,False
 https://github.com/SocialGouv/dashlord-fabrique,True
 https://github.com/SocialGouv/dashlord-httpobs-action,False
 https://github.com/SocialGouv/dashlord-init-action,True
@@ -7647,6 +7649,7 @@ https://gitlab.inria.fr/regular-pv/timbuk/ocaml,True
 https://gitlab.inria.fr/regular-pv/timbuk/timbuk,True
 https://gitlab.inria.fr/reo/transport-in-1d-networks,True
 https://gitlab.inria.fr/resibots/public/py_map_elites,True
+https://gitlab.inria.fr/resist/tutorial-iot-security,False
 https://gitlab.inria.fr/revol/mpfi,True
 https://gitlab.inria.fr/rmod-public/2019-sourcecodedata,True
 https://gitlab.inria.fr/rmod-public/steven-tests/steven-tests.gitlab.inria.fr,False
