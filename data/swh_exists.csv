@@ -25,7 +25,7 @@ https://dci-gitlab.cines.fr/dad/vitam-dwatcher,True
 https://dci-gitlab.cines.fr/dad/vitam-rest-api,True
 https://dci-gitlab.cines.fr/dad/vitam-ui-cea_app_referential_pr1,True
 https://dci-gitlab.cines.fr/dad/vitam-ui-develop,True
-https://dci-gitlab.cines.fr/dad/vitam_sushi,False
+https://dci-gitlab.cines.fr/dad/vitam_sushi,True
 https://dci-gitlab.cines.fr/dad/vitamui-cines-pastis-old,True
 https://dci-gitlab.cines.fr/dad/vitamui-pr-pastis,True
 https://dev.ch-poitiers.fr/PowerShell/OutilsServeurs,True
@@ -475,6 +475,7 @@ https://forgemia.inra.fr/pappso/repository-minexpert2,True
 https://forgemia.inra.fr/pappso/xtpcpp,True
 https://forgemia.inra.fr/pegase/pegase-fair,True
 https://forgemia.inra.fr/pepiniere-jouy/detecteur_co2,True
+https://forgemia.inra.fr/pepiniere-jouy/notice_detecteur_co2,False
 https://forgemia.inra.fr/phenotic/publique/ordinalclustering,True
 https://forgemia.inra.fr/public-pgba/is900-rflp-in-silico,True
 https://forgemia.inra.fr/public-pgba/submission_ena,True
@@ -538,7 +539,7 @@ https://forgemia.inra.fr/umrf/exploremetabar,True
 https://forgemia.inra.fr/umrf/ranomaly,True
 https://forgemia.inra.fr/umrf/utopia,True
 https://forgemia.inra.fr/urep/appToolbox,True
-https://forgemia.inra.fr/urep/dev_utils/java_utils,False
+https://forgemia.inra.fr/urep/dev_utils/java_utils,True
 https://forgemia.inra.fr/urep/docs/bonpland,True
 https://forgemia.inra.fr/urep/docs/demorpackage,True
 https://forgemia.inra.fr/urep/formations/formation_r/initiation,True
@@ -3765,7 +3766,7 @@ https://github.com/cw-leia/smartleia,True
 https://github.com/cw-leia/smartleia-doc,True
 https://github.com/cw-leia/smartleia-target,True
 https://github.com/cw-leia/smartleia-target-applet,True
-https://github.com/dataesr/bso-clinical-trials,False
+https://github.com/dataesr/bso-clinical-trials,True
 https://github.com/dataesr/bso-publications,False
 https://github.com/dataesr/bso-ui,True
 https://github.com/dataesr/curieXplore-paysage,True
@@ -5370,7 +5371,7 @@ https://github.com/ocaml/opam-repository,True
 https://github.com/ocaml/opam.ocaml.org,True
 https://github.com/ocaml/platform-blog,True
 https://github.com/ocaml/platform-dev,True
-https://github.com/ocaml/setup-ocaml,False
+https://github.com/ocaml/setup-ocaml,True
 https://github.com/ocaml/stdlib-shims,True
 https://github.com/ocaml/tuareg,True
 https://github.com/ocaml/uchar,True
@@ -5623,7 +5624,7 @@ https://github.com/openmole/spatialsampling,True
 https://github.com/openmole/xz-scala,True
 https://github.com/openmole/yapa,True
 https://github.com/pass-culture/FreezeMerge,True
-https://github.com/pass-culture/dashlord,False
+https://github.com/pass-culture/dashlord,True
 https://github.com/pass-culture/data-analytics,True
 https://github.com/pass-culture/data-science,True
 https://github.com/pass-culture/enriched_data,True
@@ -6311,7 +6312,7 @@ https://gitlab.huma-num.fr/geographie-cites/autobiopedia,True
 https://gitlab.huma-num.fr/huma-num-public/documentation,True
 https://gitlab.huma-num.fr/huma-num-public/hn-site,True
 https://gitlab.huma-num.fr/huma-num-public/next-auth-nakala,True
-https://gitlab.huma-num.fr/huma-num-public/notebook-api-nakala,False
+https://gitlab.huma-num.fr/huma-num-public/notebook-api-nakala,True
 https://gitlab.huma-num.fr/irihs/NakalaTools,True
 https://gitlab.huma-num.fr/irihs/flaubertexport,True
 https://gitlab.huma-num.fr/irihs/genetictables,True
@@ -7164,7 +7165,7 @@ https://gitlab.inria.fr/gazelle/library/gazelle-assets,True
 https://gitlab.inria.fr/gazelle/library/gazelle-preferences,True
 https://gitlab.inria.fr/gazelle/library/gazelle-tm-tools,False
 https://gitlab.inria.fr/gazelle/library/gazelle-tools,True
-https://gitlab.inria.fr/gazelle/library/gazelle-ws-clients,False
+https://gitlab.inria.fr/gazelle/library/gazelle-ws-clients,True
 https://gitlab.inria.fr/gazelle/library/gazelle-x-validation,True
 https://gitlab.inria.fr/gazelle/library/hl7templates/gocmodel-jar,True
 https://gitlab.inria.fr/gazelle/library/hl7templates/hl7template-generator-jar,False
