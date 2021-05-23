@@ -270,7 +270,7 @@ https://forgemia.inra.fr/gaev/usecases/jupyterhub-ubuntu-vbox,True
 https://forgemia.inra.fr/gaev/usecases/macosr,True
 https://forgemia.inra.fr/gaev/usecases/odam-centos-virtualbox,True
 https://forgemia.inra.fr/gaev/usecases/windowsr,True
-https://forgemia.inra.fr/gafl/i2b/dev_embedded_android/application_recolte/django_database,False
+https://forgemia.inra.fr/gafl/i2b/dev_embedded_android/application_recolte/django_database,True
 https://forgemia.inra.fr/gafl/pipelines_snakemake/allmine,True
 https://forgemia.inra.fr/gafl/pipelines_snakemake/ezqtlseq,True
 https://forgemia.inra.fr/gafl/pipelines_snakemake/rnaseq,True
