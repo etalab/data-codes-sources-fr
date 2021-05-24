@@ -3249,6 +3249,7 @@ https://github.com/betagouv/itou-gitbook,True
 https://github.com/betagouv/itou-landing,True
 https://github.com/betagouv/itou-marche-api,True
 https://github.com/betagouv/itou-pilotage,True
+https://github.com/betagouv/itou-subscribe,False
 https://github.com/betagouv/itou-support,True
 https://github.com/betagouv/itou-theme-discourse,True
 https://github.com/betagouv/itou_c4_python_api,True
@@ -7063,7 +7064,7 @@ https://gitlab.inria.fr/expression/expression-externals/kenlm,True
 https://gitlab.inria.fr/expression/expression-externals/libxml2,True
 https://gitlab.inria.fr/expression/expression-externals/mitlm,True
 https://gitlab.inria.fr/expression/expression-externals/old_icu,True
-https://gitlab.inria.fr/expression/test_pa,False
+https://gitlab.inria.fr/expression/test_pa,True
 https://gitlab.inria.fr/expression/tools/FlexEval,True
 https://gitlab.inria.fr/expression/tools/roots,True
 https://gitlab.inria.fr/faustgrp/gforge_files,True
@@ -7163,7 +7164,7 @@ https://gitlab.inria.fr/gazelle/library/fhir-util,True
 https://gitlab.inria.fr/gazelle/library/gazelle-assertion-coverage-provider,True
 https://gitlab.inria.fr/gazelle/library/gazelle-assets,True
 https://gitlab.inria.fr/gazelle/library/gazelle-preferences,True
-https://gitlab.inria.fr/gazelle/library/gazelle-tm-tools,False
+https://gitlab.inria.fr/gazelle/library/gazelle-tm-tools,True
 https://gitlab.inria.fr/gazelle/library/gazelle-tools,True
 https://gitlab.inria.fr/gazelle/library/gazelle-ws-clients,True
 https://gitlab.inria.fr/gazelle/library/gazelle-x-validation,True
