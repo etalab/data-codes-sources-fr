@@ -2595,7 +2595,7 @@ https://github.com/SocialGouv/covid19-orientation,True
 https://github.com/SocialGouv/covid19-tests-schemas,True
 https://github.com/SocialGouv/ctdn-api,False
 https://github.com/SocialGouv/dashlord,True
-https://github.com/SocialGouv/dashlord-actions,False
+https://github.com/SocialGouv/dashlord-actions,True
 https://github.com/SocialGouv/dashlord-fabrique,True
 https://github.com/SocialGouv/dashlord-httpobs-action,False
 https://github.com/SocialGouv/dashlord-init-action,True
@@ -3297,8 +3297,10 @@ https://github.com/betagouv/mes-aides-ui,True
 https://github.com/betagouv/metabase-scalingo,True
 https://github.com/betagouv/meteor-assemblee-nationale,True
 https://github.com/betagouv/metiers-numerique,True
+https://github.com/betagouv/metiers-numeriques,False
 https://github.com/betagouv/mon-entreprise,True
 https://github.com/betagouv/mon-service-securise,True
+https://github.com/betagouv/mon-suivi-justice,False
 https://github.com/betagouv/monitoring.api.gouv.fr,True
 https://github.com/betagouv/monstage,True
 https://github.com/betagouv/monstage-backup-manager,True
