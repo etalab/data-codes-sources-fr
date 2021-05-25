@@ -3297,10 +3297,10 @@ https://github.com/betagouv/mes-aides-ui,True
 https://github.com/betagouv/metabase-scalingo,True
 https://github.com/betagouv/meteor-assemblee-nationale,True
 https://github.com/betagouv/metiers-numerique,True
-https://github.com/betagouv/metiers-numeriques,False
+https://github.com/betagouv/metiers-numeriques,True
 https://github.com/betagouv/mon-entreprise,True
 https://github.com/betagouv/mon-service-securise,True
-https://github.com/betagouv/mon-suivi-justice,False
+https://github.com/betagouv/mon-suivi-justice,True
 https://github.com/betagouv/monitoring.api.gouv.fr,True
 https://github.com/betagouv/monstage,True
 https://github.com/betagouv/monstage-backup-manager,True
@@ -4586,6 +4586,7 @@ https://github.com/gemoc/gemoc-studio-ale-execution,True
 https://github.com/gemoc/gemoc-studio-compilation-script,True
 https://github.com/gemoc/gemoc-studio-eclipse-integration,True
 https://github.com/gemoc/gemoc-studio-eclipsefork,True
+https://github.com/gemoc/gemoc-studio-eclipseforks-integration,False
 https://github.com/gemoc/gemoc-studio-execution-ale-eclipsefork,True
 https://github.com/gemoc/gemoc-studio-execution-java,True
 https://github.com/gemoc/gemoc-studio-execution-moccml,True
@@ -5056,6 +5057,7 @@ https://github.com/medialab/poltergeist,True
 https://github.com/medialab/portic-datasprint-2021,True
 https://github.com/medialab/portic-explorations,True
 https://github.com/medialab/portic-poitousprint-datasets-modalities,True
+https://github.com/medialab/portic-storymaps-2021,False
 https://github.com/medialab/privacy,True
 https://github.com/medialab/pubpub,True
 https://github.com/medialab/python-boilerpipe,True
@@ -5767,6 +5769,7 @@ https://github.com/signaux-faibles/signauxfaibles-web,True
 https://github.com/signaux-faibles/site-eig,True
 https://github.com/signaux-faibles/users,True
 https://github.com/sigrennesmetropole/GeoNature-atlas,True
+https://github.com/sigrennesmetropole/GeoNature-citizen,False
 https://github.com/sigrennesmetropole/MViewer-SIGRM,True
 https://github.com/sigrennesmetropole/MapStore2,True
 https://github.com/sigrennesmetropole/QgisCadastrePlugin,True
