@@ -1247,7 +1247,7 @@ https://github.com/CNRS-DSI-Dev/user_set_password,True
 https://github.com/CNRS-DSI-Dev/user_share_guest,True
 https://github.com/CatalaLang/catala,True
 https://github.com/CatalaLang/catala-website,True
-https://github.com/Cour-de-cassation/judilibre-search,False
+https://github.com/Cour-de-cassation/judilibre-search,True
 https://github.com/Cour-de-cassation/judillibre-search,False
 https://github.com/Cour-de-cassation/label,True
 https://github.com/Cour-de-cassation/moteurNER,True
@@ -8379,6 +8379,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/deformvis/insarviz,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/design_optimization/noload,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/design_optimization/noload_benchmarks_open,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/diu-eil/diu-eil-grenoble,True
+https://gricad-gitlab.univ-grenoble-alpes.fr/diu-eil/sokoban,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/diu/test,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/ds-courses/materials-optimal-filtering,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/ds-courses/optimal-filtering-sicom,True
