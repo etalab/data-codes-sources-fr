@@ -5769,7 +5769,7 @@ https://github.com/signaux-faibles/signauxfaibles-web,True
 https://github.com/signaux-faibles/site-eig,True
 https://github.com/signaux-faibles/users,True
 https://github.com/sigrennesmetropole/GeoNature-atlas,True
-https://github.com/sigrennesmetropole/GeoNature-citizen,False
+https://github.com/sigrennesmetropole/GeoNature-citizen,True
 https://github.com/sigrennesmetropole/MViewer-SIGRM,True
 https://github.com/sigrennesmetropole/MapStore2,True
 https://github.com/sigrennesmetropole/QgisCadastrePlugin,True
@@ -8351,6 +8351,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/SIMPA/SIMPA,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/ai-courses/autonomous_systems_ml,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/alphee/nonsensical-paper-detector,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/aspen/aspen2014,True
+https://gricad-gitlab.univ-grenoble-alpes.fr/avatar/avatar-1st-year/student-project,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/batsim/batsim,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/biomove/fate,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/caseine/dxf-filter,True
