@@ -5061,7 +5061,7 @@ https://github.com/medialab/poltergeist,True
 https://github.com/medialab/portic-datasprint-2021,True
 https://github.com/medialab/portic-explorations,True
 https://github.com/medialab/portic-poitousprint-datasets-modalities,True
-https://github.com/medialab/portic-storymaps-2021,False
+https://github.com/medialab/portic-storymaps-2021,True
 https://github.com/medialab/privacy,True
 https://github.com/medialab/pubpub,True
 https://github.com/medialab/python-boilerpipe,True
@@ -5257,6 +5257,7 @@ https://github.com/micmacIGN/InterfaceCEREMA,True
 https://github.com/micmacIGN/Papers,True
 https://github.com/micmacIGN/interface,True
 https://github.com/micmacIGN/micmac,True
+https://github.com/micmacIGN/stackprof,False
 https://github.com/minagri-initial/angular-components,True
 https://github.com/minagri-initial/api.gouv.fr,True
 https://github.com/minagri-initial/arpent-api,True
