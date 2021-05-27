@@ -5978,6 +5978,11 @@ https://github.com/wookey-project/app-dfu-usb,True
 https://github.com/wookey-project/app-sample-blinky,True
 https://github.com/wookey-project/app-sample-button,True
 https://github.com/wookey-project/app-sample-leds,True
+https://github.com/wookey-project/app-u2f2-fido,False
+https://github.com/wookey-project/app-u2f2-parser,False
+https://github.com/wookey-project/app-u2f2-pin,False
+https://github.com/wookey-project/app-u2f2-storage,False
+https://github.com/wookey-project/app-u2f2-usb,False
 https://github.com/wookey-project/app-woocan-canspy,True
 https://github.com/wookey-project/app-wookey-crypto,True
 https://github.com/wookey-project/app-wookey-flash,True
@@ -6013,8 +6018,11 @@ https://github.com/wookey-project/layout-stm32f407,True
 https://github.com/wookey-project/layout-stm32f439,True
 https://github.com/wookey-project/libaes,True
 https://github.com/wookey-project/libconsole,True
+https://github.com/wookey-project/libctap,False
 https://github.com/wookey-project/libdes,True
 https://github.com/wookey-project/libdfu,True
+https://github.com/wookey-project/libfido,False
+https://github.com/wookey-project/libfidostorage,False
 https://github.com/wookey-project/libfw,True
 https://github.com/wookey-project/libgui,True
 https://github.com/wookey-project/libhmac,True
@@ -6024,6 +6032,9 @@ https://github.com/wookey-project/libsd,True
 https://github.com/wookey-project/libsmartcard,True
 https://github.com/wookey-project/libstd,True
 https://github.com/wookey-project/libtoken,True
+https://github.com/wookey-project/libu2f2,False
+https://github.com/wookey-project/libu2fapdu,False
+https://github.com/wookey-project/libusbhid,False
 https://github.com/wookey-project/libwookey,True
 https://github.com/wookey-project/libxDCI,True
 https://github.com/wookey-project/manifest,True
@@ -6034,6 +6045,7 @@ https://github.com/wookey-project/tataouine,True
 https://github.com/wookey-project/tataouine-configs,True
 https://github.com/wookey-project/tataouine-layouts,True
 https://github.com/wookey-project/wookey-docker,True
+https://github.com/wookey-project/wookey-perms-u2f2,False
 https://github.com/wookey-project/wookey-project.github.io,True
 https://github.com/wookey-project/wookeypedia,True
 https://gitlab.adullact.net/Comptoir/Comptoir-srv,True
@@ -7851,6 +7863,8 @@ https://gitlab.inria.fr/swloc/swloc.gitlabpages.inria.fr,True
 https://gitlab.inria.fr/synalp/python4nlp-2019-public,True
 https://gitlab.inria.fr/synalp/website,True
 https://gitlab.inria.fr/synchrone/heptagon,True
+https://gitlab.inria.fr/syntheticgt/syntheticgt-mitsuba,False
+https://gitlab.inria.fr/syntheticgt/syntheticgt-utilities,False
 https://gitlab.inria.fr/tansiv/python-tansiv,True
 https://gitlab.inria.fr/tapenade/tapenade,True
 https://gitlab.inria.fr/tapenade/userdoc,True
