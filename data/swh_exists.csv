@@ -372,9 +372,9 @@ https://forgemia.inra.fr/get-it/nf-taxoaffiliation,True
 https://forgemia.inra.fr/get-nextflow-ngl-bi/template-nf,True
 https://forgemia.inra.fr/get-nextflow-ngl-bi/test-data,True
 https://forgemia.inra.fr/gqe-acep/careb,True
-https://forgemia.inra.fr/gqe-base/careb,False
+https://forgemia.inra.fr/gqe-base/careb,True
 https://forgemia.inra.fr/gqe-base/cnvmap,False
-https://forgemia.inra.fr/gqe-base/coda,False
+https://forgemia.inra.fr/gqe-base/coda,True
 https://forgemia.inra.fr/gryc-data/blastobotrys_adeninivorans-ls3,True
 https://forgemia.inra.fr/gryc-data/candida_albicans-sc_5314,True
 https://forgemia.inra.fr/gryc-data/candida_glabrata-cbs_138,True
@@ -2853,6 +2853,7 @@ https://github.com/abes-esr/abes-sparql-examples,True
 https://github.com/abes-esr/abes-uptimerobot-widget,True
 https://github.com/abes-esr/abes-webservices,True
 https://github.com/abes-esr/abes-xslt,True
+https://github.com/abes-esr/accescbs,False
 https://github.com/abes-esr/algoliens-web,True
 https://github.com/abes-esr/archi-htmlreport-docker,True
 https://github.com/abes-esr/archi-model-example,True
@@ -5983,7 +5984,7 @@ https://github.com/wookey-project/app-u2f2-fido,False
 https://github.com/wookey-project/app-u2f2-parser,False
 https://github.com/wookey-project/app-u2f2-pin,True
 https://github.com/wookey-project/app-u2f2-storage,False
-https://github.com/wookey-project/app-u2f2-usb,False
+https://github.com/wookey-project/app-u2f2-usb,True
 https://github.com/wookey-project/app-woocan-canspy,True
 https://github.com/wookey-project/app-wookey-crypto,True
 https://github.com/wookey-project/app-wookey-flash,True
@@ -7662,7 +7663,7 @@ https://gitlab.inria.fr/piy/piy,True
 https://gitlab.inria.fr/plas20/sessionintegrity,True
 https://gitlab.inria.fr/pleiade/containers/camisim,False
 https://gitlab.inria.fr/pleiade/containers/ci-planemo,False
-https://gitlab.inria.fr/pleiade/pleiade-cookiecutter-sql-flyway-pgtap,False
+https://gitlab.inria.fr/pleiade/pleiade-cookiecutter-sql-flyway-pgtap,True
 https://gitlab.inria.fr/pm2/benchmark,True
 https://gitlab.inria.fr/pm2/benchnbc-results,True
 https://gitlab.inria.fr/pm2/packaging,True
@@ -7866,7 +7867,7 @@ https://gitlab.inria.fr/synalp/python4nlp-2019-public,True
 https://gitlab.inria.fr/synalp/website,True
 https://gitlab.inria.fr/synchrone/heptagon,True
 https://gitlab.inria.fr/syntheticgt/syntheticgt-mitsuba,True
-https://gitlab.inria.fr/syntheticgt/syntheticgt-utilities,False
+https://gitlab.inria.fr/syntheticgt/syntheticgt-utilities,True
 https://gitlab.inria.fr/tansiv/python-tansiv,True
 https://gitlab.inria.fr/tapenade/tapenade,True
 https://gitlab.inria.fr/tapenade/userdoc,True
