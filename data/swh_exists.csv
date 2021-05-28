@@ -2853,7 +2853,7 @@ https://github.com/abes-esr/abes-sparql-examples,True
 https://github.com/abes-esr/abes-uptimerobot-widget,True
 https://github.com/abes-esr/abes-webservices,True
 https://github.com/abes-esr/abes-xslt,True
-https://github.com/abes-esr/accescbs,False
+https://github.com/abes-esr/accescbs,True
 https://github.com/abes-esr/algoliens-web,True
 https://github.com/abes-esr/archi-htmlreport-docker,True
 https://github.com/abes-esr/archi-model-example,True
@@ -8379,7 +8379,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/SIMPA/SIMPA,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/ai-courses/autonomous_systems_ml,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/alphee/nonsensical-paper-detector,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/aspen/aspen2014,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/avatar/avatar-1st-year/student-project,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/avatar/avatar-1st-year/student-project,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/batsim/batsim,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/biomove/fate,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/caseine/dxf-filter,True
@@ -8627,6 +8627,7 @@ https://plmlab.math.cnrs.fr/4m053/exemples-cpp,True
 https://plmlab.math.cnrs.fr/4m053/gdb-tuto,True
 https://plmlab.math.cnrs.fr/4m053/slides-informatique,True
 https://plmlab.math.cnrs.fr/XLIM/SPDOPT,True
+https://plmlab.math.cnrs.fr/abbe-mohl/psf,False
 https://plmlab.math.cnrs.fr/alpine/buildah,True
 https://plmlab.math.cnrs.fr/alpine/container-linux,True
 https://plmlab.math.cnrs.fr/alpine/containers/build,True
