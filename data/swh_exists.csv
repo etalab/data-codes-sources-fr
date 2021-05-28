@@ -7667,7 +7667,7 @@ https://gitlab.inria.fr/piper/sofa/LinearSubspace,True
 https://gitlab.inria.fr/piper/viva,True
 https://gitlab.inria.fr/piy/piy,True
 https://gitlab.inria.fr/plas20/sessionintegrity,True
-https://gitlab.inria.fr/pleiade/containers/camisim,False
+https://gitlab.inria.fr/pleiade/containers/camisim,True
 https://gitlab.inria.fr/pleiade/containers/ci-planemo,False
 https://gitlab.inria.fr/pleiade/pleiade-cookiecutter-sql-flyway-pgtap,True
 https://gitlab.inria.fr/pm2/benchmark,True
@@ -8732,7 +8732,7 @@ https://plmlab.math.cnrs.fr/ihp/logo,True
 https://plmlab.math.cnrs.fr/illustrating-math/sphere_morph,True
 https://plmlab.math.cnrs.fr/imb-dijon/faq,True
 https://plmlab.math.cnrs.fr/imb-public/anr-template,True
-https://plmlab.math.cnrs.fr/imt/acces_backup,False
+https://plmlab.math.cnrs.fr/imt/acces_backup,True
 https://plmlab.math.cnrs.fr/imt/fragma/fragma-on-amqp,True
 https://plmlab.math.cnrs.fr/imt/puppet/gitlab_deploy_key,True
 https://plmlab.math.cnrs.fr/imt/puppet/kerberos_module,True
