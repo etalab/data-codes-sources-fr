@@ -2286,6 +2286,7 @@ https://github.com/MTES-MCT/mobilic-api,True
 https://github.com/MTES-MCT/monitorfish,True
 https://github.com/MTES-MCT/nmap-action,True
 https://github.com/MTES-MCT/nmap-docker,False
+https://github.com/MTES-MCT/nocodb-buildpack,False
 https://github.com/MTES-MCT/node-cerbere,True
 https://github.com/MTES-MCT/numerique,True
 https://github.com/MTES-MCT/parcours-r,True
@@ -3220,6 +3221,7 @@ https://github.com/betagouv/eva-orchestrateur,True
 https://github.com/betagouv/eva-redirection-cohortes,True
 https://github.com/betagouv/eva-serveur,True
 https://github.com/betagouv/eva-www,True
+https://github.com/betagouv/fastapi-csv,False
 https://github.com/betagouv/fetch-normalize-data,True
 https://github.com/betagouv/fiches-de-banc,True
 https://github.com/betagouv/fin-de-mps,True
@@ -3319,6 +3321,7 @@ https://github.com/betagouv/n8n-scalingo,True
 https://github.com/betagouv/neutre.comobi.fr,True
 https://github.com/betagouv/nir_validate,True
 https://github.com/betagouv/nocodb,False
+https://github.com/betagouv/nocodb-seed,False
 https://github.com/betagouv/normalized-data-state,True
 https://github.com/betagouv/observatoire-covoiturage,True
 https://github.com/betagouv/ohmyform,True
@@ -4060,6 +4063,7 @@ https://github.com/entrepreneur-interet-general/vue-python-starter-kit,True
 https://github.com/entrepreneur-interet-general/word_convertor,True
 https://github.com/eole/ad-formula,True
 https://github.com/eole/addon-context-linux,True
+https://github.com/eole/alcali,False
 https://github.com/eole/cert-formula,True
 https://github.com/eole/clients-linux-scribe,True
 https://github.com/eole/dhcpd-formula,True
@@ -4836,7 +4840,7 @@ https://github.com/lutece-secteur-public/gru-module-elasticdata-appointment,True
 https://github.com/lutece-secteur-public/gru-module-elasticdata-gru,True
 https://github.com/lutece-secteur-public/gru-module-elasticdata-identity,True
 https://github.com/lutece-secteur-public/gru-module-genericattributes-cgu,True
-https://github.com/lutece-secteur-public/gru-module-grustoragedb-broadcast,False
+https://github.com/lutece-secteur-public/gru-module-grustoragedb-broadcast,True
 https://github.com/lutece-secteur-public/gru-module-identitystore-agentcertifier,True
 https://github.com/lutece-secteur-public/gru-module-identitystore-cnicertifier,True
 https://github.com/lutece-secteur-public/gru-module-identitystore-emailcertifier,True
@@ -5262,7 +5266,7 @@ https://github.com/micmacIGN/InterfaceCEREMA,True
 https://github.com/micmacIGN/Papers,True
 https://github.com/micmacIGN/interface,True
 https://github.com/micmacIGN/micmac,True
-https://github.com/micmacIGN/stackprof,False
+https://github.com/micmacIGN/stackprof,True
 https://github.com/minagri-initial/angular-components,True
 https://github.com/minagri-initial/api.gouv.fr,True
 https://github.com/minagri-initial/arpent-api,True
@@ -8728,6 +8732,7 @@ https://plmlab.math.cnrs.fr/ihp/logo,True
 https://plmlab.math.cnrs.fr/illustrating-math/sphere_morph,True
 https://plmlab.math.cnrs.fr/imb-dijon/faq,True
 https://plmlab.math.cnrs.fr/imb-public/anr-template,True
+https://plmlab.math.cnrs.fr/imt/acces_backup,False
 https://plmlab.math.cnrs.fr/imt/fragma/fragma-on-amqp,True
 https://plmlab.math.cnrs.fr/imt/puppet/gitlab_deploy_key,True
 https://plmlab.math.cnrs.fr/imt/puppet/kerberos_module,True
