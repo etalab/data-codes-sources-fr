@@ -373,7 +373,7 @@ https://forgemia.inra.fr/get-nextflow-ngl-bi/template-nf,True
 https://forgemia.inra.fr/get-nextflow-ngl-bi/test-data,True
 https://forgemia.inra.fr/gqe-acep/careb,True
 https://forgemia.inra.fr/gqe-base/careb,True
-https://forgemia.inra.fr/gqe-base/cnvmap,False
+https://forgemia.inra.fr/gqe-base/cnvmap,True
 https://forgemia.inra.fr/gqe-base/coda,True
 https://forgemia.inra.fr/gryc-data/blastobotrys_adeninivorans-ls3,True
 https://forgemia.inra.fr/gryc-data/candida_albicans-sc_5314,True
@@ -5987,7 +5987,7 @@ https://github.com/wookey-project/app-sample-blinky,True
 https://github.com/wookey-project/app-sample-button,True
 https://github.com/wookey-project/app-sample-leds,True
 https://github.com/wookey-project/app-u2f2-fido,False
-https://github.com/wookey-project/app-u2f2-parser,False
+https://github.com/wookey-project/app-u2f2-parser,True
 https://github.com/wookey-project/app-u2f2-pin,True
 https://github.com/wookey-project/app-u2f2-storage,False
 https://github.com/wookey-project/app-u2f2-usb,True
