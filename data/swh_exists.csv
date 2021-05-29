@@ -5986,7 +5986,7 @@ https://github.com/wookey-project/app-dfu-usb,True
 https://github.com/wookey-project/app-sample-blinky,True
 https://github.com/wookey-project/app-sample-button,True
 https://github.com/wookey-project/app-sample-leds,True
-https://github.com/wookey-project/app-u2f2-fido,False
+https://github.com/wookey-project/app-u2f2-fido,True
 https://github.com/wookey-project/app-u2f2-parser,True
 https://github.com/wookey-project/app-u2f2-pin,True
 https://github.com/wookey-project/app-u2f2-storage,False
@@ -6608,7 +6608,7 @@ https://gitlab.inria.fr/WellInverter/WellInverter_Standalone_Linux,True
 https://gitlab.inria.fr/WellInverter/WellInverter_Standalone_MacOS,True
 https://gitlab.inria.fr/WellInverter/WellInverter_Standalone_Nuvla,True
 https://gitlab.inria.fr/WellInverter/WellInverter_Standalone_Windows,True
-https://gitlab.inria.fr/abadoual/Camisim,False
+https://gitlab.inria.fr/abadoual/Camisim,True
 https://gitlab.inria.fr/across_opm/opm-common,True
 https://gitlab.inria.fr/across_opm/opm-grid,True
 https://gitlab.inria.fr/across_opm/opm-material,True
