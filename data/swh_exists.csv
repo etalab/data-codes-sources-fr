@@ -3321,7 +3321,7 @@ https://github.com/betagouv/n8n-scalingo,True
 https://github.com/betagouv/neutre.comobi.fr,True
 https://github.com/betagouv/nir_validate,True
 https://github.com/betagouv/nocodb,False
-https://github.com/betagouv/nocodb-seed,False
+https://github.com/betagouv/nocodb-seed,True
 https://github.com/betagouv/normalized-data-state,True
 https://github.com/betagouv/observatoire-covoiturage,True
 https://github.com/betagouv/ohmyform,True
@@ -4063,7 +4063,7 @@ https://github.com/entrepreneur-interet-general/vue-python-starter-kit,True
 https://github.com/entrepreneur-interet-general/word_convertor,True
 https://github.com/eole/ad-formula,True
 https://github.com/eole/addon-context-linux,True
-https://github.com/eole/alcali,False
+https://github.com/eole/alcali,True
 https://github.com/eole/cert-formula,True
 https://github.com/eole/clients-linux-scribe,True
 https://github.com/eole/dhcpd-formula,True
@@ -6041,7 +6041,7 @@ https://github.com/wookey-project/libsmartcard,True
 https://github.com/wookey-project/libstd,True
 https://github.com/wookey-project/libtoken,True
 https://github.com/wookey-project/libu2f2,True
-https://github.com/wookey-project/libu2fapdu,False
+https://github.com/wookey-project/libu2fapdu,True
 https://github.com/wookey-project/libusbhid,False
 https://github.com/wookey-project/libwookey,True
 https://github.com/wookey-project/libxDCI,True
@@ -6310,6 +6310,7 @@ https://gitlab.huma-num.fr/code-performance/code-performance,True
 https://gitlab.huma-num.fr/consortium3d/aLTAG3D,True
 https://gitlab.huma-num.fr/cosme/telma_chartes_exports,True
 https://gitlab.huma-num.fr/cosme/telma_chartes_imports,True
+https://gitlab.huma-num.fr/disco-lge/ichll11-slides,False
 https://gitlab.huma-num.fr/disco-lge/processinglge,True
 https://gitlab.huma-num.fr/disco-lge/soprano,True
 https://gitlab.huma-num.fr/disco-lge/tei-encoding,True
