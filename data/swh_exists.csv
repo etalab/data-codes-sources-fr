@@ -6026,10 +6026,10 @@ https://github.com/wookey-project/layout-stm32f407,True
 https://github.com/wookey-project/layout-stm32f439,True
 https://github.com/wookey-project/libaes,True
 https://github.com/wookey-project/libconsole,True
-https://github.com/wookey-project/libctap,False
+https://github.com/wookey-project/libctap,True
 https://github.com/wookey-project/libdes,True
 https://github.com/wookey-project/libdfu,True
-https://github.com/wookey-project/libfido,False
+https://github.com/wookey-project/libfido,True
 https://github.com/wookey-project/libfidostorage,True
 https://github.com/wookey-project/libfw,True
 https://github.com/wookey-project/libgui,True
