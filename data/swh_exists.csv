@@ -4693,7 +4693,7 @@ https://github.com/inrae/GR3D,True
 https://github.com/inrae/Matrix_lib-v2.0,True
 https://github.com/inrae/ODAM,True
 https://github.com/inrae/RCaN,True
-https://github.com/inrae/Rodam,False
+https://github.com/inrae/Rodam,True
 https://github.com/inrae/SISPPEO,True
 https://github.com/inrae/ShellScripts,True
 https://github.com/inrae/dbexportmodel,True
@@ -6310,7 +6310,7 @@ https://gitlab.huma-num.fr/code-performance/code-performance,True
 https://gitlab.huma-num.fr/consortium3d/aLTAG3D,True
 https://gitlab.huma-num.fr/cosme/telma_chartes_exports,True
 https://gitlab.huma-num.fr/cosme/telma_chartes_imports,True
-https://gitlab.huma-num.fr/disco-lge/ichll11-slides,False
+https://gitlab.huma-num.fr/disco-lge/ichll11-slides,True
 https://gitlab.huma-num.fr/disco-lge/processinglge,True
 https://gitlab.huma-num.fr/disco-lge/soprano,True
 https://gitlab.huma-num.fr/disco-lge/tei-encoding,True
@@ -7939,7 +7939,7 @@ https://gitlab.inria.fr/xug/meetings,True
 https://gitlab.inria.fr/xug/nix-tutorial,True
 https://gitlab.inria.fr/yixu/deepmot,True
 https://gitlab.inria.fr/yoann/grew,True
-https://gitlab.inria.fr/yoda/public,False
+https://gitlab.inria.fr/yoda/public,True
 https://gitlab.inria.fr/zefxis/BCgenerator,True
 https://gitlab.inria.fr/zefxis/DeX-IDL,True
 https://gitlab.inria.fr/zefxis/DeXMS,True
