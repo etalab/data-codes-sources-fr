@@ -2287,7 +2287,7 @@ https://github.com/MTES-MCT/mobilic-api,True
 https://github.com/MTES-MCT/monitorfish,True
 https://github.com/MTES-MCT/nmap-action,True
 https://github.com/MTES-MCT/nmap-docker,False
-https://github.com/MTES-MCT/nocodb-buildpack,False
+https://github.com/MTES-MCT/nocodb-buildpack,True
 https://github.com/MTES-MCT/node-cerbere,True
 https://github.com/MTES-MCT/numerique,True
 https://github.com/MTES-MCT/parcours-r,True
@@ -7599,6 +7599,7 @@ https://gitlab.inria.fr/necs-open/promise-polyfill,True
 https://gitlab.inria.fr/necs-open/typeahead.js-bootstrap4-css,True
 https://gitlab.inria.fr/necs_lib/SOCI,True
 https://gitlab.inria.fr/necs_lib/boost-process,True
+https://gitlab.inria.fr/neuromod/nm-spikes,False
 https://gitlab.inria.fr/nix-tutorial/chord-experiments,True
 https://gitlab.inria.fr/nix-tutorial/chord-tuto-nix-2019,True
 https://gitlab.inria.fr/nix-tutorial/nix-tutorial,True
