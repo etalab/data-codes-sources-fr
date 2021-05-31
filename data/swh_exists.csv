@@ -2210,6 +2210,7 @@ https://github.com/LemonLDAPNG/pts2019-llng-workshop,True
 https://github.com/LemonLDAPNG/puppet-lemonldap-ng,True
 https://github.com/MLanguage/language-m-dgfip,True
 https://github.com/MLanguage/mlang,True
+https://github.com/MTES-MCT/Dossier-Facile-API,False
 https://github.com/MTES-MCT/Dossier-Facile-Frontend,True
 https://github.com/MTES-MCT/acceslibre,True
 https://github.com/MTES-MCT/acceslibre-schema,True
@@ -2890,6 +2891,7 @@ https://github.com/abes-esr/scienceplus-content,True
 https://github.com/abes-esr/scienceplus-queries,True
 https://github.com/abes-esr/scienceplus-queries-grlc,True
 https://github.com/abes-esr/sudoc-toolkit,True
+https://github.com/abes-esr/sudocps-graph-app,False
 https://github.com/abes-esr/theses-batch,True
 https://github.com/abes-esr/theses-batch-ongoingthesestodelete,True
 https://github.com/abes-esr/theses-dataaccesslayer,True
@@ -3471,6 +3473,7 @@ https://github.com/betagouv/transport-base-nationale-covoiturage,True
 https://github.com/betagouv/tutorat,True
 https://github.com/betagouv/tutorat-betagouv,True
 https://github.com/betagouv/urbanvitaliz,True
+https://github.com/betagouv/urbanvitaliz-django,False
 https://github.com/betagouv/valberg.comobi.fr,True
 https://github.com/betagouv/verif.site,True
 https://github.com/betagouv/visam,True
@@ -4607,6 +4610,7 @@ https://github.com/gemoc/gemoc-studio-modeldebugging-eclipsefork,True
 https://github.com/gemoc/gemoc-studio-old,True
 https://github.com/gemoc/gemoc-studio-userguide,True
 https://github.com/gemoc/gemoc.github.io,True
+https://github.com/gemoc/git-sync-tools,False
 https://github.com/gemoc/glose,True
 https://github.com/gemoc/heterogeneousmodeling,True
 https://github.com/gemoc/idm4sco,True
@@ -5989,7 +5993,7 @@ https://github.com/wookey-project/app-sample-leds,True
 https://github.com/wookey-project/app-u2f2-fido,True
 https://github.com/wookey-project/app-u2f2-parser,True
 https://github.com/wookey-project/app-u2f2-pin,True
-https://github.com/wookey-project/app-u2f2-storage,False
+https://github.com/wookey-project/app-u2f2-storage,True
 https://github.com/wookey-project/app-u2f2-usb,True
 https://github.com/wookey-project/app-woocan-canspy,True
 https://github.com/wookey-project/app-wookey-crypto,True
@@ -6998,6 +7002,7 @@ https://gitlab.inria.fr/dh-projects/kramin/kramin-lib,False
 https://gitlab.inria.fr/dhai/SimpleAnnotationServer,True
 https://gitlab.inria.fr/dhai/filigrane,True
 https://gitlab.inria.fr/digiscope/spat,True
+https://gitlab.inria.fr/discovery/cheops,False
 https://gitlab.inria.fr/discovery/enoslib,True
 https://gitlab.inria.fr/discovery/keystoneauth,True
 https://gitlab.inria.fr/discovery/keystonemiddleware,True
@@ -7398,6 +7403,8 @@ https://gitlab.inria.fr/isamdae/isamdae-documentation-and-bug-tracking,True
 https://gitlab.inria.fr/jgranier/Rendu-Style-Novat,True
 https://gitlab.inria.fr/julbrune/chaos,True
 https://gitlab.inria.fr/kadeploy/kadeploy.gitlabpages.inria.fr,True
+https://gitlab.inria.fr/kairos/gemocbackends/klightanimationbackendforgemoc,False
+https://gitlab.inria.fr/kairos/gemocbackends/xtextanimationbackendforgemoc,False
 https://gitlab.inria.fr/kaldi.web/clapack-wasm,True
 https://gitlab.inria.fr/kaldi.web/kaldi-wasm,True
 https://gitlab.inria.fr/kameleon/kameleon-recipes,True
@@ -8415,7 +8422,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/deformvis/insarviz,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/design_optimization/noload,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/design_optimization/noload_benchmarks_open,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/diu-eil/diu-eil-grenoble,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/diu-eil/sokoban,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/diu-eil/sokoban,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/diu/test,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/ds-courses/materials-optimal-filtering,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/ds-courses/optimal-filtering-sicom,True
