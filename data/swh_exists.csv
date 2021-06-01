@@ -3787,6 +3787,7 @@ https://github.com/dataesr/bso-clinical-trials,True
 https://github.com/dataesr/bso-publications,True
 https://github.com/dataesr/bso-ui,True
 https://github.com/dataesr/curieXplore-paysage,True
+https://github.com/dataesr/harvest-pubmed,False
 https://github.com/dataesr/kubectl-deploy,True
 https://github.com/dataesr/onedrive,True
 https://github.com/dataesr/paysage-openapi,True
@@ -6825,6 +6826,7 @@ https://gitlab.inria.fr/bioimage-it/toolboxes,True
 https://gitlab.inria.fr/biopyc/BioPyC,True
 https://gitlab.inria.fr/bism/bism-experiments,True
 https://gitlab.inria.fr/bism/bism-public,True
+https://gitlab.inria.fr/blare/hardblare,False
 https://gitlab.inria.fr/blare/kblare,True
 https://gitlab.inria.fr/blare/kblare-tests,True
 https://gitlab.inria.fr/blare/kblare-tools,True
