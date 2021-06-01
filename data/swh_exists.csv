@@ -2005,6 +2005,7 @@ https://github.com/InseeFr/JDCruncheR,True
 https://github.com/InseeFr/Keycloak-FranceConnect,True
 https://github.com/InseeFr/Lunatic,True
 https://github.com/InseeFr/Lunatic-Model,True
+https://github.com/InseeFr/Magma,False
 https://github.com/InseeFr/Meleze,True
 https://github.com/InseeFr/Mesange,True
 https://github.com/InseeFr/Metadata-API,True
@@ -3118,6 +3119,7 @@ https://github.com/betagouv/api-particulier-portail,True
 https://github.com/betagouv/api-particulier-status,True
 https://github.com/betagouv/api-particulier-token-sender,True
 https://github.com/betagouv/api-particulier-web,True
+https://github.com/betagouv/api-sante-data,False
 https://github.com/betagouv/api-scopes,True
 https://github.com/betagouv/api-stats-elk,True
 https://github.com/betagouv/api-stats-elk-deprecated,True
@@ -5131,6 +5133,7 @@ https://github.com/medialab/webclim_buzzsumo,True
 https://github.com/medialab/webclim_facebook,True
 https://github.com/medialab/webclim_propagation_graphs_facebook,True
 https://github.com/medialab/webclim_temporal_evolution_facebook,True
+https://github.com/medialab/webclim_youtube,False
 https://github.com/medialab/website,True
 https://github.com/medialab/well-being-metrics,True
 https://github.com/medialab/zup,True
@@ -5590,6 +5593,7 @@ https://github.com/openfun/proctoru-xblock,True
 https://github.com/openfun/prosody-docker,True
 https://github.com/openfun/prosody-test,True
 https://github.com/openfun/ralph,True
+https://github.com/openfun/renovate-configuration,False
 https://github.com/openfun/richie,True
 https://github.com/openfun/richie-cnfpt,True
 https://github.com/openfun/richie-site-factory,True
@@ -5772,6 +5776,7 @@ https://github.com/signaux-faibles/MLlogr,True
 https://github.com/signaux-faibles/MLsegmentr,True
 https://github.com/signaux-faibles/datapi,True
 https://github.com/signaux-faibles/documentation,True
+https://github.com/signaux-faibles/fakeData,False
 https://github.com/signaux-faibles/frontend,True
 https://github.com/signaux-faibles/fte,True
 https://github.com/signaux-faibles/gorncs-api,True
@@ -6827,6 +6832,18 @@ https://gitlab.inria.fr/biopyc/BioPyC,True
 https://gitlab.inria.fr/bism/bism-experiments,True
 https://gitlab.inria.fr/bism/bism-public,True
 https://gitlab.inria.fr/blare/hardblare,False
+https://gitlab.inria.fr/blare/hardblare/hardblare-binutils,False
+https://gitlab.inria.fr/blare/hardblare/hardblare-clang,False
+https://gitlab.inria.fr/blare/hardblare/hardblare-documentation,False
+https://gitlab.inria.fr/blare/hardblare/hardblare-hw,False
+https://gitlab.inria.fr/blare/hardblare/hardblare-kblare-tools,False
+https://gitlab.inria.fr/blare/hardblare/hardblare-kernel,False
+https://gitlab.inria.fr/blare/hardblare/hardblare-llvm,False
+https://gitlab.inria.fr/blare/hardblare/hardblare-musl-libc,False
+https://gitlab.inria.fr/blare/hardblare/hardblare-yocto-meta-clang,False
+https://gitlab.inria.fr/blare/hardblare/hardblare-yocto-meta-hardblare,False
+https://gitlab.inria.fr/blare/hardblare/hardblare-yocto-meta-openembedded,False
+https://gitlab.inria.fr/blare/hardblare/hardblare-yocto-poky-hardblare,False
 https://gitlab.inria.fr/blare/kblare,True
 https://gitlab.inria.fr/blare/kblare-tests,True
 https://gitlab.inria.fr/blare/kblare-tools,True
@@ -7004,7 +7021,7 @@ https://gitlab.inria.fr/dh-projects/kramin/kramin-lib,False
 https://gitlab.inria.fr/dhai/SimpleAnnotationServer,True
 https://gitlab.inria.fr/dhai/filigrane,True
 https://gitlab.inria.fr/digiscope/spat,True
-https://gitlab.inria.fr/discovery/cheops,False
+https://gitlab.inria.fr/discovery/cheops,True
 https://gitlab.inria.fr/discovery/enoslib,True
 https://gitlab.inria.fr/discovery/keystoneauth,True
 https://gitlab.inria.fr/discovery/keystonemiddleware,True
@@ -7079,6 +7096,7 @@ https://gitlab.inria.fr/elan-public-code/projectivefriction,True
 https://gitlab.inria.fr/enseignement/MIAGE_TP_XML_2017,True
 https://gitlab.inria.fr/epione/GP_progression_model_V2,True
 https://gitlab.inria.fr/epione/biblio,True
+https://gitlab.inria.fr/epione/federated-multi-views-ppca,False
 https://gitlab.inria.fr/epione/flhd,True
 https://gitlab.inria.fr/epione/hdcob,True
 https://gitlab.inria.fr/epione/promfusion,True
@@ -7405,7 +7423,7 @@ https://gitlab.inria.fr/isamdae/isamdae-documentation-and-bug-tracking,True
 https://gitlab.inria.fr/jgranier/Rendu-Style-Novat,True
 https://gitlab.inria.fr/julbrune/chaos,True
 https://gitlab.inria.fr/kadeploy/kadeploy.gitlabpages.inria.fr,True
-https://gitlab.inria.fr/kairos/gemocbackends/klightanimationbackendforgemoc,False
+https://gitlab.inria.fr/kairos/gemocbackends/klightanimationbackendforgemoc,True
 https://gitlab.inria.fr/kairos/gemocbackends/xtextanimationbackendforgemoc,False
 https://gitlab.inria.fr/kaldi.web/clapack-wasm,True
 https://gitlab.inria.fr/kaldi.web/kaldi-wasm,True
