@@ -83,6 +83,7 @@ https://forge.grandlyon.com/pocs/cozy/egl-api-connector,True
 https://forge.grandlyon.com/pocs/cozy/enedis-scraping-connector,True
 https://forge.grandlyon.com/pocs/cozy/energy-dataviz,True
 https://forge.grandlyon.com/pocs/cozy/grdf-scraping-connector,True
+https://forge.grandlyon.com/pocs/cozy/tracemob,False
 https://forge.grandlyon.com/pocs/dpetit/api-cartographie,True
 https://forge.grandlyon.com/pocs/dpetit/cozy-konnector-750g,True
 https://forge.grandlyon.com/pocs/dpetit/konnector-ecolyo,True
@@ -1154,7 +1155,7 @@ https://github.com/CEA-LIST/CinguParam,True
 https://github.com/CEA-LIST/Cingulata,True
 https://github.com/CEA-LIST/DAHLIA-BodyIndex,True
 https://github.com/CEA-LIST/N2D2,True
-https://github.com/CEA-LIST/N2D2-docs,False
+https://github.com/CEA-LIST/N2D2-docs,True
 https://github.com/CEA-LIST/adv-reid,True
 https://github.com/CEA-LIST/adv-sat,True
 https://github.com/CEA-LIST/sgntx,True
@@ -2047,6 +2048,7 @@ https://github.com/InseeFrLab/Macronometrics,True
 https://github.com/InseeFrLab/Macronometrics-Notebook,True
 https://github.com/InseeFrLab/Mapex,True
 https://github.com/InseeFrLab/NRC-Heck-model,True
+https://github.com/InseeFrLab/Pearl-Jam-Back-Office,False
 https://github.com/InseeFrLab/SASTauArgus,True
 https://github.com/InseeFrLab/Sabiane-Data,True
 https://github.com/InseeFrLab/Shelly,True
@@ -2211,7 +2213,7 @@ https://github.com/LemonLDAPNG/pts2019-llng-workshop,True
 https://github.com/LemonLDAPNG/puppet-lemonldap-ng,True
 https://github.com/MLanguage/language-m-dgfip,True
 https://github.com/MLanguage/mlang,True
-https://github.com/MTES-MCT/Dossier-Facile-API,False
+https://github.com/MTES-MCT/Dossier-Facile-API,True
 https://github.com/MTES-MCT/Dossier-Facile-Frontend,True
 https://github.com/MTES-MCT/acceslibre,True
 https://github.com/MTES-MCT/acceslibre-schema,True
@@ -3417,6 +3419,7 @@ https://github.com/betagouv/react-reducer-effect-context-data,True
 https://github.com/betagouv/recosante,True
 https://github.com/betagouv/recosante-api,True
 https://github.com/betagouv/recosante-mail,True
+https://github.com/betagouv/recosante-widget,False
 https://github.com/betagouv/redirections,True
 https://github.com/betagouv/redux-react-modals,True
 https://github.com/betagouv/redux-saga-data,True
@@ -4679,6 +4682,7 @@ https://github.com/ina-foss/voxo-dashboard,True
 https://github.com/ina-foss/voxo-docker,True
 https://github.com/ina-foss/voxo-lib,True
 https://github.com/incubateur-territoires/demo-mesaides28,True
+https://github.com/incubateur-territoires/discourse-theme,False
 https://github.com/incubateur-territoires/gridsome-source-graphql,True
 https://github.com/incubateur-territoires/incubateur-directus,True
 https://github.com/incubateur-territoires/incubateur-strapi,True
@@ -6840,7 +6844,7 @@ https://gitlab.inria.fr/blare/hardblare/hardblare-kblare-tools,False
 https://gitlab.inria.fr/blare/hardblare/hardblare-kernel,False
 https://gitlab.inria.fr/blare/hardblare/hardblare-llvm,False
 https://gitlab.inria.fr/blare/hardblare/hardblare-musl-libc,False
-https://gitlab.inria.fr/blare/hardblare/hardblare-yocto-meta-clang,False
+https://gitlab.inria.fr/blare/hardblare/hardblare-yocto-meta-clang,True
 https://gitlab.inria.fr/blare/hardblare/hardblare-yocto-meta-hardblare,False
 https://gitlab.inria.fr/blare/hardblare/hardblare-yocto-meta-openembedded,False
 https://gitlab.inria.fr/blare/hardblare/hardblare-yocto-poky-hardblare,False
@@ -7424,7 +7428,7 @@ https://gitlab.inria.fr/jgranier/Rendu-Style-Novat,True
 https://gitlab.inria.fr/julbrune/chaos,True
 https://gitlab.inria.fr/kadeploy/kadeploy.gitlabpages.inria.fr,True
 https://gitlab.inria.fr/kairos/gemocbackends/klightanimationbackendforgemoc,True
-https://gitlab.inria.fr/kairos/gemocbackends/xtextanimationbackendforgemoc,False
+https://gitlab.inria.fr/kairos/gemocbackends/xtextanimationbackendforgemoc,True
 https://gitlab.inria.fr/kaldi.web/clapack-wasm,True
 https://gitlab.inria.fr/kaldi.web/kaldi-wasm,True
 https://gitlab.inria.fr/kameleon/kameleon-recipes,True
@@ -8292,6 +8296,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/resif2eidastats,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/resif_docker,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/rsync-resif-k8s,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/rtconfig,True
+https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/seedpsd,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/site-characterization,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/storage-summer-k8s,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/ws-dataselect,True
