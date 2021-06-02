@@ -2015,6 +2015,7 @@ https://github.com/InseeFr/Omphale,True
 https://github.com/InseeFr/Ontologies,True
 https://github.com/InseeFr/Pearl-Jam,True
 https://github.com/InseeFr/Pearl-Jam-Back-Office,True
+https://github.com/InseeFr/Pearl-Jam-Batch,False
 https://github.com/InseeFr/Pogues,True
 https://github.com/InseeFr/Pogues-Back-Office,True
 https://github.com/InseeFr/Pogues-Model,True
@@ -2023,6 +2024,7 @@ https://github.com/InseeFr/Public-Enemy-Back-Office,True
 https://github.com/InseeFr/Quatro,True
 https://github.com/InseeFr/Queen,True
 https://github.com/InseeFr/Queen-Back-Office,True
+https://github.com/InseeFr/Queen-Batch,False
 https://github.com/InseeFr/R-Insee-Data,True
 https://github.com/InseeFr/Sonor,True
 https://github.com/InseeFr/Stromae,True
@@ -3479,7 +3481,7 @@ https://github.com/betagouv/transport-base-nationale-covoiturage,True
 https://github.com/betagouv/tutorat,True
 https://github.com/betagouv/tutorat-betagouv,True
 https://github.com/betagouv/urbanvitaliz,True
-https://github.com/betagouv/urbanvitaliz-django,False
+https://github.com/betagouv/urbanvitaliz-django,True
 https://github.com/betagouv/valberg.comobi.fr,True
 https://github.com/betagouv/verif.site,True
 https://github.com/betagouv/visam,True
@@ -3793,6 +3795,7 @@ https://github.com/dataesr/bso-clinical-trials,True
 https://github.com/dataesr/bso-publications,True
 https://github.com/dataesr/bso-ui,True
 https://github.com/dataesr/curieXplore-paysage,True
+https://github.com/dataesr/curiexplore-paysage,False
 https://github.com/dataesr/harvest-pubmed,False
 https://github.com/dataesr/kubectl-deploy,True
 https://github.com/dataesr/onedrive,True
@@ -4445,6 +4448,7 @@ https://github.com/etalab/radar-tech-form,True
 https://github.com/etalab/recherche.etalab.studio,True
 https://github.com/etalab/recommendations-edito,True
 https://github.com/etalab/reports-aides-entreprises,True
+https://github.com/etalab/retool-onpremise,False
 https://github.com/etalab/retos-civicos,True
 https://github.com/etalab/retweet,True
 https://github.com/etalab/rna_as_api,True
@@ -6840,11 +6844,11 @@ https://gitlab.inria.fr/bism/bism-public,True
 https://gitlab.inria.fr/blare/hardblare,False
 https://gitlab.inria.fr/blare/hardblare/hardblare-binutils,False
 https://gitlab.inria.fr/blare/hardblare/hardblare-clang,True
-https://gitlab.inria.fr/blare/hardblare/hardblare-documentation,False
+https://gitlab.inria.fr/blare/hardblare/hardblare-documentation,True
 https://gitlab.inria.fr/blare/hardblare/hardblare-hw,False
-https://gitlab.inria.fr/blare/hardblare/hardblare-kblare-tools,False
+https://gitlab.inria.fr/blare/hardblare/hardblare-kblare-tools,True
 https://gitlab.inria.fr/blare/hardblare/hardblare-kernel,False
-https://gitlab.inria.fr/blare/hardblare/hardblare-llvm,False
+https://gitlab.inria.fr/blare/hardblare/hardblare-llvm,True
 https://gitlab.inria.fr/blare/hardblare/hardblare-musl-libc,False
 https://gitlab.inria.fr/blare/hardblare/hardblare-yocto-meta-clang,True
 https://gitlab.inria.fr/blare/hardblare/hardblare-yocto-meta-hardblare,False
@@ -7013,6 +7017,7 @@ https://gitlab.inria.fr/dexms/dexidl,True
 https://gitlab.inria.fr/dexms/end-to-end-examples,True
 https://gitlab.inria.fr/dexms/service,True
 https://gitlab.inria.fr/dexms/website,True
+https://gitlab.inria.fr/dgd-i/seminairestransverses,False
 https://gitlab.inria.fr/dgd-s/testandalert,True
 https://gitlab.inria.fr/dh-projects/aspyre-gt,True
 https://gitlab.inria.fr/dh-projects/aspyre-gui,True
@@ -7705,6 +7710,7 @@ https://gitlab.inria.fr/piy/piy,True
 https://gitlab.inria.fr/plas20/sessionintegrity,True
 https://gitlab.inria.fr/pleiade/containers/camisim,True
 https://gitlab.inria.fr/pleiade/containers/ci-planemo,True
+https://gitlab.inria.fr/pleiade/menetools,False
 https://gitlab.inria.fr/pleiade/pleiade-cookiecutter-sql-flyway-pgtap,True
 https://gitlab.inria.fr/pm2/benchmark,True
 https://gitlab.inria.fr/pm2/benchnbc-results,True
@@ -8299,7 +8305,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/resif2eidastats,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/resif_docker,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/rsync-resif-k8s,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/rtconfig,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/seedpsd,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/seedpsd,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/site-characterization,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/storage-summer-k8s,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/ws-dataselect,True
@@ -8743,6 +8749,7 @@ https://plmlab.math.cnrs.fr/docker-images/mkdocs,True
 https://plmlab.math.cnrs.fr/docker-images/nfs-ganesha,True
 https://plmlab.math.cnrs.fr/docker-images/nodejs,True
 https://plmlab.math.cnrs.fr/docker-images/openjdk-jre-headless,True
+https://plmlab.math.cnrs.fr/docker-images/python,False
 https://plmlab.math.cnrs.fr/docker-images/rabbitmq,True
 https://plmlab.math.cnrs.fr/docker-images/rocketchat,True
 https://plmlab.math.cnrs.fr/docker-images/systemd,True
