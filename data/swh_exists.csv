@@ -2990,7 +2990,7 @@ https://github.com/ambanum/political-ads-scraper,True
 https://github.com/ambanum/prettier-config,True
 https://github.com/ambanum/server-config,True
 https://github.com/ambanum/snscrape,True
-https://github.com/ambanum/social-networks-bot-finder,False
+https://github.com/ambanum/social-networks-bot-finder,True
 https://github.com/ambanum/twint,True
 https://github.com/aphp/Cohort360,True
 https://github.com/aphp/Cohort360-Back-end,True
@@ -3422,7 +3422,7 @@ https://github.com/betagouv/react-reducer-effect-context-data,True
 https://github.com/betagouv/recosante,True
 https://github.com/betagouv/recosante-api,True
 https://github.com/betagouv/recosante-mail,True
-https://github.com/betagouv/recosante-widget,False
+https://github.com/betagouv/recosante-widget,True
 https://github.com/betagouv/redirections,True
 https://github.com/betagouv/redux-react-modals,True
 https://github.com/betagouv/redux-saga-data,True
@@ -4487,6 +4487,7 @@ https://github.com/etalab/speedtracker,True
 https://github.com/etalab/sprint-open-source,True
 https://github.com/etalab/stars_detective,True
 https://github.com/etalab/statut.annuaire-entreprises.data.gouv.fr,True
+https://github.com/etalab/statut.particulier.api.gouv.fr,False
 https://github.com/etalab/suivi-ouverture-citp-2021,False
 https://github.com/etalab/support.data.gouv.fr,True
 https://github.com/etalab/tableschema-template,True
@@ -5688,6 +5689,7 @@ https://github.com/pass-culture/telegraf-buildpack,True
 https://github.com/pass-culture/telegraf-scalingo,True
 https://github.com/picty/concerto,True
 https://github.com/picty/parsifal,True
+https://github.com/plantnet/PlantNet-300K,False
 https://github.com/plantnet/gbif-dl,True
 https://github.com/plantnet/hapi-rate-limit,True
 https://github.com/plantnet/my.plantnet,True
