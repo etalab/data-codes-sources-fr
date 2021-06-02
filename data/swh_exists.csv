@@ -83,7 +83,7 @@ https://forge.grandlyon.com/pocs/cozy/egl-api-connector,True
 https://forge.grandlyon.com/pocs/cozy/enedis-scraping-connector,True
 https://forge.grandlyon.com/pocs/cozy/energy-dataviz,True
 https://forge.grandlyon.com/pocs/cozy/grdf-scraping-connector,True
-https://forge.grandlyon.com/pocs/cozy/tracemob,False
+https://forge.grandlyon.com/pocs/cozy/tracemob,True
 https://forge.grandlyon.com/pocs/dpetit/api-cartographie,True
 https://forge.grandlyon.com/pocs/dpetit/cozy-konnector-750g,True
 https://forge.grandlyon.com/pocs/dpetit/konnector-ecolyo,True
@@ -4560,6 +4560,7 @@ https://github.com/ezpaarse-project/ip-range-generator,True
 https://github.com/ezpaarse-project/irevue-logs-cleaner,True
 https://github.com/ezpaarse-project/meilisearch,True
 https://github.com/ezpaarse-project/node-etatcollhlm,True
+https://github.com/ezpaarse-project/node-ezhlm,False
 https://github.com/ezpaarse-project/node-ezmesure,True
 https://github.com/ezpaarse-project/node-ezpaarse,True
 https://github.com/ezpaarse-project/node-ezunpaywall,True
@@ -5598,7 +5599,7 @@ https://github.com/openfun/proctoru-xblock,True
 https://github.com/openfun/prosody-docker,True
 https://github.com/openfun/prosody-test,True
 https://github.com/openfun/ralph,True
-https://github.com/openfun/renovate-configuration,False
+https://github.com/openfun/renovate-configuration,True
 https://github.com/openfun/richie,True
 https://github.com/openfun/richie-cnfpt,True
 https://github.com/openfun/richie-site-factory,True
@@ -6838,7 +6839,7 @@ https://gitlab.inria.fr/bism/bism-experiments,True
 https://gitlab.inria.fr/bism/bism-public,True
 https://gitlab.inria.fr/blare/hardblare,False
 https://gitlab.inria.fr/blare/hardblare/hardblare-binutils,False
-https://gitlab.inria.fr/blare/hardblare/hardblare-clang,False
+https://gitlab.inria.fr/blare/hardblare/hardblare-clang,True
 https://gitlab.inria.fr/blare/hardblare/hardblare-documentation,False
 https://gitlab.inria.fr/blare/hardblare/hardblare-hw,False
 https://gitlab.inria.fr/blare/hardblare/hardblare-kblare-tools,False
@@ -6865,6 +6866,7 @@ https://gitlab.inria.fr/cado-nfs/records,True
 https://gitlab.inria.fr/capsid-public/conda/runner-build,True
 https://gitlab.inria.fr/capsid-public/conda/runner-deploy,True
 https://gitlab.inria.fr/capsid.crates/lib3dmol,True
+https://gitlab.inria.fr/capsid.public_codes/ppidmpublic,False
 https://gitlab.inria.fr/causality/causal-ocaml,True
 https://gitlab.inria.fr/causality/causality-monad,True
 https://gitlab.inria.fr/causality/petri-strategies,True
