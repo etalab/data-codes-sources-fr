@@ -2988,6 +2988,7 @@ https://github.com/ambanum/political-ads-scraper,True
 https://github.com/ambanum/prettier-config,True
 https://github.com/ambanum/server-config,True
 https://github.com/ambanum/snscrape,True
+https://github.com/ambanum/social-networks-bot-finder,False
 https://github.com/ambanum/twint,True
 https://github.com/aphp/Cohort360,True
 https://github.com/aphp/Cohort360-Back-end,True
@@ -4682,7 +4683,7 @@ https://github.com/ina-foss/voxo-dashboard,True
 https://github.com/ina-foss/voxo-docker,True
 https://github.com/ina-foss/voxo-lib,True
 https://github.com/incubateur-territoires/demo-mesaides28,True
-https://github.com/incubateur-territoires/discourse-theme,False
+https://github.com/incubateur-territoires/discourse-theme,True
 https://github.com/incubateur-territoires/gridsome-source-graphql,True
 https://github.com/incubateur-territoires/incubateur-directus,True
 https://github.com/incubateur-territoires/incubateur-strapi,True
