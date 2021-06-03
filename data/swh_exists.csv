@@ -520,6 +520,7 @@ https://forgemia.inra.fr/umr-1202-biogeco/snakemake_singularity_hpc,True
 https://forgemia.inra.fr/umr-astre/amr-laos,True
 https://forgemia.inra.fr/umr-astre/asf-challenge,True
 https://forgemia.inra.fr/umr-astre/asf-speed,True
+https://forgemia.inra.fr/umr-astre/capiche,False
 https://forgemia.inra.fr/umr-astre/cirad,True
 https://forgemia.inra.fr/umr-astre/covid19-mortality,True
 https://forgemia.inra.fr/umr-astre/difuse,True
@@ -2015,7 +2016,7 @@ https://github.com/InseeFr/Omphale,True
 https://github.com/InseeFr/Ontologies,True
 https://github.com/InseeFr/Pearl-Jam,True
 https://github.com/InseeFr/Pearl-Jam-Back-Office,True
-https://github.com/InseeFr/Pearl-Jam-Batch,False
+https://github.com/InseeFr/Pearl-Jam-Batch,True
 https://github.com/InseeFr/Pogues,True
 https://github.com/InseeFr/Pogues-Back-Office,True
 https://github.com/InseeFr/Pogues-Model,True
@@ -3125,7 +3126,7 @@ https://github.com/betagouv/api-particulier-portail,True
 https://github.com/betagouv/api-particulier-status,True
 https://github.com/betagouv/api-particulier-token-sender,True
 https://github.com/betagouv/api-particulier-web,True
-https://github.com/betagouv/api-sante-data,False
+https://github.com/betagouv/api-sante-data,True
 https://github.com/betagouv/api-scopes,True
 https://github.com/betagouv/api-stats-elk,True
 https://github.com/betagouv/api-stats-elk-deprecated,True
@@ -4625,7 +4626,7 @@ https://github.com/gemoc/gemoc-studio-modeldebugging-eclipsefork,True
 https://github.com/gemoc/gemoc-studio-old,True
 https://github.com/gemoc/gemoc-studio-userguide,True
 https://github.com/gemoc/gemoc.github.io,True
-https://github.com/gemoc/git-sync-tools,False
+https://github.com/gemoc/git-sync-tools,True
 https://github.com/gemoc/glose,True
 https://github.com/gemoc/heterogeneousmodeling,True
 https://github.com/gemoc/idm4sco,True
@@ -6067,7 +6068,7 @@ https://github.com/wookey-project/libstd,True
 https://github.com/wookey-project/libtoken,True
 https://github.com/wookey-project/libu2f2,True
 https://github.com/wookey-project/libu2fapdu,True
-https://github.com/wookey-project/libusbhid,False
+https://github.com/wookey-project/libusbhid,True
 https://github.com/wookey-project/libwookey,True
 https://github.com/wookey-project/libxDCI,True
 https://github.com/wookey-project/manifest,True
@@ -6850,7 +6851,7 @@ https://gitlab.inria.fr/blare/hardblare,False
 https://gitlab.inria.fr/blare/hardblare/hardblare-binutils,False
 https://gitlab.inria.fr/blare/hardblare/hardblare-clang,True
 https://gitlab.inria.fr/blare/hardblare/hardblare-documentation,True
-https://gitlab.inria.fr/blare/hardblare/hardblare-hw,False
+https://gitlab.inria.fr/blare/hardblare/hardblare-hw,True
 https://gitlab.inria.fr/blare/hardblare/hardblare-kblare-tools,True
 https://gitlab.inria.fr/blare/hardblare/hardblare-kernel,False
 https://gitlab.inria.fr/blare/hardblare/hardblare-llvm,True
@@ -6858,7 +6859,7 @@ https://gitlab.inria.fr/blare/hardblare/hardblare-musl-libc,False
 https://gitlab.inria.fr/blare/hardblare/hardblare-yocto-meta-clang,True
 https://gitlab.inria.fr/blare/hardblare/hardblare-yocto-meta-hardblare,False
 https://gitlab.inria.fr/blare/hardblare/hardblare-yocto-meta-openembedded,False
-https://gitlab.inria.fr/blare/hardblare/hardblare-yocto-poky-hardblare,False
+https://gitlab.inria.fr/blare/hardblare/hardblare-yocto-poky-hardblare,True
 https://gitlab.inria.fr/blare/hardblare/hardblare-yocto-qemu-xilinx-hardblare,True
 https://gitlab.inria.fr/blare/kblare,True
 https://gitlab.inria.fr/blare/kblare-tests,True
@@ -7618,6 +7619,7 @@ https://gitlab.inria.fr/mosaic/publications/lpy2pc,True
 https://gitlab.inria.fr/mosaic/publications/protoplast,True
 https://gitlab.inria.fr/mosaic/publications/sam_spaghetti,True
 https://gitlab.inria.fr/mosaic/publications/seed_sup_mat,True
+https://gitlab.inria.fr/mosaic/publications/seg_compare,False
 https://gitlab.inria.fr/mosaic/publications/tissue2d,True
 https://gitlab.inria.fr/mosaic/timagetk,True
 https://gitlab.inria.fr/mosaic/tissue_analysis,True
@@ -7716,6 +7718,7 @@ https://gitlab.inria.fr/piy/piy,True
 https://gitlab.inria.fr/plas20/sessionintegrity,True
 https://gitlab.inria.fr/pleiade/containers/camisim,True
 https://gitlab.inria.fr/pleiade/containers/ci-planemo,True
+https://gitlab.inria.fr/pleiade/fluto,False
 https://gitlab.inria.fr/pleiade/menetools,False
 https://gitlab.inria.fr/pleiade/metage2metabo,True
 https://gitlab.inria.fr/pleiade/miscoto,True
@@ -7733,6 +7736,7 @@ https://gitlab.inria.fr/prosecco/vericrypt-cryptoverif,True
 https://gitlab.inria.fr/pvignet/cadbiom,True
 https://gitlab.inria.fr/pvignet/pycryptosat,True
 https://gitlab.inria.fr/pycomodo/pycomodo,True
+https://gitlab.inria.fr/qparse/corpus,False
 https://gitlab.inria.fr/qparse/paper-wtt,True
 https://gitlab.inria.fr/qparse/qparselib,True
 https://gitlab.inria.fr/rainbow-intervals/ros_interval,True
@@ -8855,6 +8859,7 @@ https://plmlab.math.cnrs.fr/plmshift/horde,True
 https://plmlab.math.cnrs.fr/plmshift/horde-custom,True
 https://plmlab.math.cnrs.fr/plmshift/hugo,True
 https://plmlab.math.cnrs.fr/plmshift/indico,True
+https://plmlab.math.cnrs.fr/plmshift/jekyll,False
 https://plmlab.math.cnrs.fr/plmshift/jupyter-notebooks,True
 https://plmlab.math.cnrs.fr/plmshift/jupyterhub-custom,True
 https://plmlab.math.cnrs.fr/plmshift/jupyterhub-quickstart,True
