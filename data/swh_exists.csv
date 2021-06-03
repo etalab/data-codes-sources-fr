@@ -2007,7 +2007,7 @@ https://github.com/InseeFr/JDCruncheR,True
 https://github.com/InseeFr/Keycloak-FranceConnect,True
 https://github.com/InseeFr/Lunatic,True
 https://github.com/InseeFr/Lunatic-Model,True
-https://github.com/InseeFr/Magma,False
+https://github.com/InseeFr/Magma,True
 https://github.com/InseeFr/Meleze,True
 https://github.com/InseeFr/Mesange,True
 https://github.com/InseeFr/Metadata-API,True
@@ -2830,6 +2830,7 @@ https://github.com/StartupsPoleEmploi/labonneboite,True
 https://github.com/StartupsPoleEmploi/labonneformation,True
 https://github.com/StartupsPoleEmploi/memo,True
 https://github.com/StartupsPoleEmploi/mjl-avril,True
+https://github.com/StartupsPoleEmploi/mobiville,False
 https://github.com/StartupsPoleEmploi/openfisca-france,True
 https://github.com/StartupsPoleEmploi/perspectives,True
 https://github.com/StartupsPoleEmploi/profil-avril,True
@@ -6853,7 +6854,7 @@ https://gitlab.inria.fr/blare/hardblare/hardblare-clang,True
 https://gitlab.inria.fr/blare/hardblare/hardblare-documentation,True
 https://gitlab.inria.fr/blare/hardblare/hardblare-hw,True
 https://gitlab.inria.fr/blare/hardblare/hardblare-kblare-tools,True
-https://gitlab.inria.fr/blare/hardblare/hardblare-kernel,False
+https://gitlab.inria.fr/blare/hardblare/hardblare-kernel,True
 https://gitlab.inria.fr/blare/hardblare/hardblare-llvm,True
 https://gitlab.inria.fr/blare/hardblare/hardblare-musl-libc,False
 https://gitlab.inria.fr/blare/hardblare/hardblare-yocto-meta-clang,True
@@ -7278,6 +7279,7 @@ https://gitlab.inria.fr/gazelle/specific-tools/connectivity-test-scripts,True
 https://gitlab.inria.fr/gazelle/specific-tools/epr/adr-provider,True
 https://gitlab.inria.fr/gazelle/specific-tools/epr/assertion-provider,True
 https://gitlab.inria.fr/gazelle/specific-tools/epr/atc-repository,True
+https://gitlab.inria.fr/gazelle/specific-tools/epr/gnomon,False
 https://gitlab.inria.fr/gazelle/specific-tools/epr/idp,True
 https://gitlab.inria.fr/gazelle/specific-tools/epr/metadata-update-responders,True
 https://gitlab.inria.fr/gazelle/specific-tools/epr/no-peer-testing,True
