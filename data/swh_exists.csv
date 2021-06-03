@@ -2106,6 +2106,7 @@ https://github.com/InseeFrLab/onyxia-cli,True
 https://github.com/InseeFrLab/onyxia-design-system,True
 https://github.com/InseeFrLab/onyxia-onboarding,True
 https://github.com/InseeFrLab/onyxia-ui,True
+https://github.com/InseeFrLab/onyxia-web,False
 https://github.com/InseeFrLab/predicat,True
 https://github.com/InseeFrLab/product-labelling,True
 https://github.com/InseeFrLab/rapidsai,True
@@ -2896,7 +2897,7 @@ https://github.com/abes-esr/scienceplus-content,True
 https://github.com/abes-esr/scienceplus-queries,True
 https://github.com/abes-esr/scienceplus-queries-grlc,True
 https://github.com/abes-esr/sudoc-toolkit,True
-https://github.com/abes-esr/sudocps-graph-app,False
+https://github.com/abes-esr/sudocps-graph-app,True
 https://github.com/abes-esr/theses-batch,True
 https://github.com/abes-esr/theses-batch-ongoingthesestodelete,True
 https://github.com/abes-esr/theses-dataaccesslayer,True
@@ -3230,7 +3231,7 @@ https://github.com/betagouv/eva-orchestrateur,True
 https://github.com/betagouv/eva-redirection-cohortes,True
 https://github.com/betagouv/eva-serveur,True
 https://github.com/betagouv/eva-www,True
-https://github.com/betagouv/fastapi-csv,False
+https://github.com/betagouv/fastapi-csv,True
 https://github.com/betagouv/fetch-normalize-data,True
 https://github.com/betagouv/fiches-de-banc,True
 https://github.com/betagouv/fin-de-mps,True
@@ -3795,8 +3796,8 @@ https://github.com/dataesr/bso-clinical-trials,True
 https://github.com/dataesr/bso-publications,True
 https://github.com/dataesr/bso-ui,True
 https://github.com/dataesr/curieXplore-paysage,True
-https://github.com/dataesr/curiexplore-paysage,False
-https://github.com/dataesr/harvest-pubmed,False
+https://github.com/dataesr/curiexplore-paysage,True
+https://github.com/dataesr/harvest-pubmed,True
 https://github.com/dataesr/kubectl-deploy,True
 https://github.com/dataesr/onedrive,True
 https://github.com/dataesr/paysage-openapi,True
@@ -4008,6 +4009,7 @@ https://github.com/entrepreneur-interet-general/brigade-numerique,True
 https://github.com/entrepreneur-interet-general/bulletins,True
 https://github.com/entrepreneur-interet-general/bulletins-docs,True
 https://github.com/entrepreneur-interet-general/bulloterie,True
+https://github.com/entrepreneur-interet-general/bulloterie-dash,False
 https://github.com/entrepreneur-interet-general/cartav,True
 https://github.com/entrepreneur-interet-general/cheapExp,True
 https://github.com/entrepreneur-interet-general/clj-rgf93-wgs84,True
@@ -4448,7 +4450,7 @@ https://github.com/etalab/radar-tech-form,True
 https://github.com/etalab/recherche.etalab.studio,True
 https://github.com/etalab/recommendations-edito,True
 https://github.com/etalab/reports-aides-entreprises,True
-https://github.com/etalab/retool-onpremise,False
+https://github.com/etalab/retool-onpremise,True
 https://github.com/etalab/retos-civicos,True
 https://github.com/etalab/retweet,True
 https://github.com/etalab/rna_as_api,True
@@ -4695,6 +4697,7 @@ https://github.com/incubateur-territoires/incubateur-directus,True
 https://github.com/incubateur-territoires/incubateur-strapi,True
 https://github.com/incubateur-territoires/incubateur.anct.gouv.fr,True
 https://github.com/incubateur-territoires/osp-app,True
+https://github.com/incubateur-territoires/outillage,True
 https://github.com/incubateur-territoires/outline,True
 https://github.com/incubateur-territoires/ressources,True
 https://github.com/incubateur-territoires/slack-advanced-exporter,True
@@ -6856,6 +6859,7 @@ https://gitlab.inria.fr/blare/hardblare/hardblare-yocto-meta-clang,True
 https://gitlab.inria.fr/blare/hardblare/hardblare-yocto-meta-hardblare,False
 https://gitlab.inria.fr/blare/hardblare/hardblare-yocto-meta-openembedded,False
 https://gitlab.inria.fr/blare/hardblare/hardblare-yocto-poky-hardblare,False
+https://gitlab.inria.fr/blare/hardblare/hardblare-yocto-qemu-xilinx-hardblare,True
 https://gitlab.inria.fr/blare/kblare,True
 https://gitlab.inria.fr/blare/kblare-tests,True
 https://gitlab.inria.fr/blare/kblare-tools,True
@@ -7713,6 +7717,8 @@ https://gitlab.inria.fr/plas20/sessionintegrity,True
 https://gitlab.inria.fr/pleiade/containers/camisim,True
 https://gitlab.inria.fr/pleiade/containers/ci-planemo,True
 https://gitlab.inria.fr/pleiade/menetools,False
+https://gitlab.inria.fr/pleiade/metage2metabo,True
+https://gitlab.inria.fr/pleiade/miscoto,True
 https://gitlab.inria.fr/pleiade/pleiade-cookiecutter-sql-flyway-pgtap,True
 https://gitlab.inria.fr/pm2/benchmark,True
 https://gitlab.inria.fr/pm2/benchnbc-results,True
@@ -8889,6 +8895,7 @@ https://plmlab.math.cnrs.fr/plmshift/wims-custom,True
 https://plmlab.math.cnrs.fr/plmshift/wordpress,True
 https://plmlab.math.cnrs.fr/plmshift/wordpress-custom,True
 https://plmlab.math.cnrs.fr/plmshift/wordpress-kit-cnrs,True
+https://plmlab.math.cnrs.fr/plmteam/docs/jupytercloud,False
 https://plmlab.math.cnrs.fr/plmteam/docs/okd,True
 https://plmlab.math.cnrs.fr/plmteam/stream-hls-infra,True
 https://plmlab.math.cnrs.fr/plmteam/streaming,True
