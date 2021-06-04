@@ -3810,6 +3810,7 @@ https://github.com/dataesr/react-dsfr,True
 https://github.com/dataesr/scanr,True
 https://github.com/dataesr/scanr-end2end,True
 https://github.com/dataesr/scientific_tagger,True
+https://github.com/dataesr/slack-notifier-action,False
 https://github.com/datagir/Ecolab,True
 https://github.com/datagir/agribalyse,True
 https://github.com/datagir/datagir-site,True
@@ -6442,7 +6443,7 @@ https://gitlab.huma-num.fr/rzine/help_rzine_publication,True
 https://gitlab.huma-num.fr/rzine/package,True
 https://gitlab.huma-num.fr/rzine/site,True
 https://gitlab.huma-num.fr/s-minaire-mip-paris-nanterre/projettest,True
-https://gitlab.huma-num.fr/sigr/sigr-reproducible-data,False
+https://gitlab.huma-num.fr/sigr/sigr-reproducible-data,True
 https://gitlab.huma-num.fr/sigr/sigr-reproducible-markdown,False
 https://gitlab.huma-num.fr/tesselle/arkhe,True
 https://gitlab.huma-num.fr/tesselle/hex,True
@@ -7284,7 +7285,7 @@ https://gitlab.inria.fr/gazelle/specific-tools/connectivity-test-scripts,True
 https://gitlab.inria.fr/gazelle/specific-tools/epr/adr-provider,True
 https://gitlab.inria.fr/gazelle/specific-tools/epr/assertion-provider,True
 https://gitlab.inria.fr/gazelle/specific-tools/epr/atc-repository,True
-https://gitlab.inria.fr/gazelle/specific-tools/epr/gnomon,False
+https://gitlab.inria.fr/gazelle/specific-tools/epr/gnomon,True
 https://gitlab.inria.fr/gazelle/specific-tools/epr/idp,True
 https://gitlab.inria.fr/gazelle/specific-tools/epr/metadata-update-responders,True
 https://gitlab.inria.fr/gazelle/specific-tools/epr/no-peer-testing,True
@@ -8243,7 +8244,7 @@ https://gitub.u-bordeaux.fr/erias/patient-covid19,True
 https://gitub.u-bordeaux.fr/innovation/act,True
 https://gitub.u-bordeaux.fr/innovation/climackathon,True
 https://gitub.u-bordeaux.fr/mapi/mapi-module-mediapod,True
-https://gitub.u-bordeaux.fr/mapi/mdl-block-dictionary,False
+https://gitub.u-bordeaux.fr/mapi/mdl-block-dictionary,True
 https://gitub.u-bordeaux.fr/mapi/mdl-block-navigation-ltpv,True
 https://gitub.u-bordeaux.fr/mapi/mdl-block-progress,True
 https://gitub.u-bordeaux.fr/mapi/mdl-enrol-ubxsshib,True
@@ -8869,7 +8870,7 @@ https://plmlab.math.cnrs.fr/plmshift/horde,True
 https://plmlab.math.cnrs.fr/plmshift/horde-custom,True
 https://plmlab.math.cnrs.fr/plmshift/hugo,True
 https://plmlab.math.cnrs.fr/plmshift/indico,True
-https://plmlab.math.cnrs.fr/plmshift/jekyll,False
+https://plmlab.math.cnrs.fr/plmshift/jekyll,True
 https://plmlab.math.cnrs.fr/plmshift/jupyter-notebooks,True
 https://plmlab.math.cnrs.fr/plmshift/jupyterhub-custom,True
 https://plmlab.math.cnrs.fr/plmshift/jupyterhub-quickstart,True
