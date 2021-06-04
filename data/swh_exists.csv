@@ -6440,6 +6440,8 @@ https://gitlab.huma-num.fr/rzine/help_rzine_publication,True
 https://gitlab.huma-num.fr/rzine/package,True
 https://gitlab.huma-num.fr/rzine/site,True
 https://gitlab.huma-num.fr/s-minaire-mip-paris-nanterre/projettest,True
+https://gitlab.huma-num.fr/sigr/sigr-reproducible-data,False
+https://gitlab.huma-num.fr/sigr/sigr-reproducible-markdown,False
 https://gitlab.huma-num.fr/tesselle/arkhe,True
 https://gitlab.huma-num.fr/tesselle/hex,True
 https://gitlab.huma-num.fr/tesselle/packages,True
@@ -6859,8 +6861,8 @@ https://gitlab.inria.fr/blare/hardblare/hardblare-kernel,True
 https://gitlab.inria.fr/blare/hardblare/hardblare-llvm,True
 https://gitlab.inria.fr/blare/hardblare/hardblare-musl-libc,False
 https://gitlab.inria.fr/blare/hardblare/hardblare-yocto-meta-clang,True
-https://gitlab.inria.fr/blare/hardblare/hardblare-yocto-meta-hardblare,False
-https://gitlab.inria.fr/blare/hardblare/hardblare-yocto-meta-openembedded,False
+https://gitlab.inria.fr/blare/hardblare/hardblare-yocto-meta-hardblare,True
+https://gitlab.inria.fr/blare/hardblare/hardblare-yocto-meta-openembedded,True
 https://gitlab.inria.fr/blare/hardblare/hardblare-yocto-poky-hardblare,True
 https://gitlab.inria.fr/blare/hardblare/hardblare-yocto-qemu-xilinx-hardblare,True
 https://gitlab.inria.fr/blare/kblare,True
@@ -7445,6 +7447,7 @@ https://gitlab.inria.fr/isamdae/isamdae-documentation-and-bug-tracking,True
 https://gitlab.inria.fr/jgranier/Rendu-Style-Novat,True
 https://gitlab.inria.fr/julbrune/chaos,True
 https://gitlab.inria.fr/kadeploy/kadeploy.gitlabpages.inria.fr,True
+https://gitlab.inria.fr/kairos/ccsl_gemoc_compiler,False
 https://gitlab.inria.fr/kairos/gemocbackends/klightanimationbackendforgemoc,True
 https://gitlab.inria.fr/kairos/gemocbackends/xtextanimationbackendforgemoc,True
 https://gitlab.inria.fr/kaldi.web/clapack-wasm,True
@@ -7622,7 +7625,7 @@ https://gitlab.inria.fr/mosaic/publications/lpy2pc,True
 https://gitlab.inria.fr/mosaic/publications/protoplast,True
 https://gitlab.inria.fr/mosaic/publications/sam_spaghetti,True
 https://gitlab.inria.fr/mosaic/publications/seed_sup_mat,True
-https://gitlab.inria.fr/mosaic/publications/seg_compare,False
+https://gitlab.inria.fr/mosaic/publications/seg_compare,True
 https://gitlab.inria.fr/mosaic/publications/tissue2d,True
 https://gitlab.inria.fr/mosaic/timagetk,True
 https://gitlab.inria.fr/mosaic/tissue_analysis,True
@@ -7679,6 +7682,7 @@ https://gitlab.inria.fr/openvibe/unity-games/games,True
 https://gitlab.inria.fr/openvibe/unity-games/hello-bidirectionnal,True
 https://gitlab.inria.fr/openvibe/unity-games/hello-sender,True
 https://gitlab.inria.fr/openvibe/unity-games/hello-world,True
+https://gitlab.inria.fr/openwind/images,False
 https://gitlab.inria.fr/openwind/openwind,True
 https://gitlab.inria.fr/openwind/release,True
 https://gitlab.inria.fr/optimdbs/optimdbs-dependencies/dcmtk,True
@@ -7722,7 +7726,7 @@ https://gitlab.inria.fr/plas20/sessionintegrity,True
 https://gitlab.inria.fr/pleiade/containers/camisim,True
 https://gitlab.inria.fr/pleiade/containers/ci-planemo,True
 https://gitlab.inria.fr/pleiade/fluto,False
-https://gitlab.inria.fr/pleiade/menetools,False
+https://gitlab.inria.fr/pleiade/menetools,True
 https://gitlab.inria.fr/pleiade/metage2metabo,True
 https://gitlab.inria.fr/pleiade/miscoto,True
 https://gitlab.inria.fr/pleiade/pleiade-cookiecutter-sql-flyway-pgtap,True
