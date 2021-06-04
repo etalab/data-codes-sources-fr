@@ -1161,6 +1161,7 @@ https://github.com/CEA-LIST/adv-reid,True
 https://github.com/CEA-LIST/adv-sat,True
 https://github.com/CEA-LIST/sgntx,True
 https://github.com/CEA-Leti/wsnet,True
+https://github.com/CEREMA/appli_conso_espace_doubs,False
 https://github.com/CEREMA/com.cerema.infocentre_old,True
 https://github.com/CEREMA/copro,True
 https://github.com/CEREMA/copro-occitanie,True
@@ -2107,7 +2108,7 @@ https://github.com/InseeFrLab/onyxia-cli,True
 https://github.com/InseeFrLab/onyxia-design-system,True
 https://github.com/InseeFrLab/onyxia-onboarding,True
 https://github.com/InseeFrLab/onyxia-ui,True
-https://github.com/InseeFrLab/onyxia-web,False
+https://github.com/InseeFrLab/onyxia-web,True
 https://github.com/InseeFrLab/predicat,True
 https://github.com/InseeFrLab/product-labelling,True
 https://github.com/InseeFrLab/rapidsai,True
@@ -3122,6 +3123,7 @@ https://github.com/betagouv/api-particulier-deprecated,True
 https://github.com/betagouv/api-particulier-legacy-token-feeder,True
 https://github.com/betagouv/api-particulier-lib,True
 https://github.com/betagouv/api-particulier-mesri-connector,True
+https://github.com/betagouv/api-particulier-monolith,False
 https://github.com/betagouv/api-particulier-pole-emploi-connector,True
 https://github.com/betagouv/api-particulier-pole-emploi-sandbox-connector,True
 https://github.com/betagouv/api-particulier-portail,True
@@ -6859,7 +6861,7 @@ https://gitlab.inria.fr/blare/hardblare/hardblare-hw,True
 https://gitlab.inria.fr/blare/hardblare/hardblare-kblare-tools,True
 https://gitlab.inria.fr/blare/hardblare/hardblare-kernel,True
 https://gitlab.inria.fr/blare/hardblare/hardblare-llvm,True
-https://gitlab.inria.fr/blare/hardblare/hardblare-musl-libc,False
+https://gitlab.inria.fr/blare/hardblare/hardblare-musl-libc,True
 https://gitlab.inria.fr/blare/hardblare/hardblare-yocto-meta-clang,True
 https://gitlab.inria.fr/blare/hardblare/hardblare-yocto-meta-hardblare,True
 https://gitlab.inria.fr/blare/hardblare/hardblare-yocto-meta-openembedded,True
