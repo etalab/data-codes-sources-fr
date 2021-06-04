@@ -2230,6 +2230,7 @@ https://github.com/MTES-MCT/adock-api,True
 https://github.com/MTES-MCT/adock-ui,True
 https://github.com/MTES-MCT/aeris,True
 https://github.com/MTES-MCT/aides-territoires,True
+https://github.com/MTES-MCT/asgard-manager,False
 https://github.com/MTES-MCT/asgard-postgresql,True
 https://github.com/MTES-MCT/assec,True
 https://github.com/MTES-MCT/biocarburants,False
@@ -4569,7 +4570,7 @@ https://github.com/ezpaarse-project/ip-range-generator,True
 https://github.com/ezpaarse-project/irevue-logs-cleaner,True
 https://github.com/ezpaarse-project/meilisearch,True
 https://github.com/ezpaarse-project/node-etatcollhlm,True
-https://github.com/ezpaarse-project/node-ezhlm,False
+https://github.com/ezpaarse-project/node-ezhlm,True
 https://github.com/ezpaarse-project/node-ezmesure,True
 https://github.com/ezpaarse-project/node-ezpaarse,True
 https://github.com/ezpaarse-project/node-ezunpaywall,True
@@ -5694,7 +5695,7 @@ https://github.com/pass-culture/telegraf-buildpack,True
 https://github.com/pass-culture/telegraf-scalingo,True
 https://github.com/picty/concerto,True
 https://github.com/picty/parsifal,True
-https://github.com/plantnet/PlantNet-300K,False
+https://github.com/plantnet/PlantNet-300K,True
 https://github.com/plantnet/gbif-dl,True
 https://github.com/plantnet/hapi-rate-limit,True
 https://github.com/plantnet/my.plantnet,True
@@ -7738,7 +7739,7 @@ https://gitlab.inria.fr/prosecco/vericrypt-cryptoverif,True
 https://gitlab.inria.fr/pvignet/cadbiom,True
 https://gitlab.inria.fr/pvignet/pycryptosat,True
 https://gitlab.inria.fr/pycomodo/pycomodo,True
-https://gitlab.inria.fr/qparse/corpus,False
+https://gitlab.inria.fr/qparse/corpus,True
 https://gitlab.inria.fr/qparse/paper-wtt,True
 https://gitlab.inria.fr/qparse/qparselib,True
 https://gitlab.inria.fr/rainbow-intervals/ros_interval,True
@@ -8236,6 +8237,7 @@ https://gitub.u-bordeaux.fr/erias/patient-covid19,True
 https://gitub.u-bordeaux.fr/innovation/act,True
 https://gitub.u-bordeaux.fr/innovation/climackathon,True
 https://gitub.u-bordeaux.fr/mapi/mapi-module-mediapod,True
+https://gitub.u-bordeaux.fr/mapi/mdl-block-dictionary,False
 https://gitub.u-bordeaux.fr/mapi/mdl-block-navigation-ltpv,True
 https://gitub.u-bordeaux.fr/mapi/mdl-block-progress,True
 https://gitub.u-bordeaux.fr/mapi/mdl-enrol-ubxsshib,True
