@@ -4495,7 +4495,7 @@ https://github.com/etalab/speedtracker,True
 https://github.com/etalab/sprint-open-source,True
 https://github.com/etalab/stars_detective,True
 https://github.com/etalab/statut.annuaire-entreprises.data.gouv.fr,True
-https://github.com/etalab/statut.particulier.api.gouv.fr,False
+https://github.com/etalab/statut.particulier.api.gouv.fr,True
 https://github.com/etalab/suivi-ouverture-citp-2021,False
 https://github.com/etalab/support.data.gouv.fr,True
 https://github.com/etalab/tableschema-template,True
@@ -7122,7 +7122,7 @@ https://gitlab.inria.fr/elan-public-code/projectivefriction,True
 https://gitlab.inria.fr/enseignement/MIAGE_TP_XML_2017,True
 https://gitlab.inria.fr/epione/GP_progression_model_V2,True
 https://gitlab.inria.fr/epione/biblio,True
-https://gitlab.inria.fr/epione/federated-multi-views-ppca,False
+https://gitlab.inria.fr/epione/federated-multi-views-ppca,True
 https://gitlab.inria.fr/epione/flhd,True
 https://gitlab.inria.fr/epione/hdcob,True
 https://gitlab.inria.fr/epione/promfusion,True
@@ -7450,7 +7450,7 @@ https://gitlab.inria.fr/isamdae/isamdae-documentation-and-bug-tracking,True
 https://gitlab.inria.fr/jgranier/Rendu-Style-Novat,True
 https://gitlab.inria.fr/julbrune/chaos,True
 https://gitlab.inria.fr/kadeploy/kadeploy.gitlabpages.inria.fr,True
-https://gitlab.inria.fr/kairos/ccsl_gemoc_compiler,False
+https://gitlab.inria.fr/kairos/ccsl_gemoc_compiler,True
 https://gitlab.inria.fr/kairos/gemocbackends/klightanimationbackendforgemoc,True
 https://gitlab.inria.fr/kairos/gemocbackends/xtextanimationbackendforgemoc,True
 https://gitlab.inria.fr/kaldi.web/clapack-wasm,True
@@ -7685,7 +7685,7 @@ https://gitlab.inria.fr/openvibe/unity-games/games,True
 https://gitlab.inria.fr/openvibe/unity-games/hello-bidirectionnal,True
 https://gitlab.inria.fr/openvibe/unity-games/hello-sender,True
 https://gitlab.inria.fr/openvibe/unity-games/hello-world,True
-https://gitlab.inria.fr/openwind/images,False
+https://gitlab.inria.fr/openwind/images,True
 https://gitlab.inria.fr/openwind/openwind,True
 https://gitlab.inria.fr/openwind/release,True
 https://gitlab.inria.fr/optimdbs/optimdbs-dependencies/dcmtk,True
@@ -8911,7 +8911,7 @@ https://plmlab.math.cnrs.fr/plmshift/wims-custom,True
 https://plmlab.math.cnrs.fr/plmshift/wordpress,True
 https://plmlab.math.cnrs.fr/plmshift/wordpress-custom,True
 https://plmlab.math.cnrs.fr/plmshift/wordpress-kit-cnrs,True
-https://plmlab.math.cnrs.fr/plmteam/docs/jupytercloud,False
+https://plmlab.math.cnrs.fr/plmteam/docs/jupytercloud,True
 https://plmlab.math.cnrs.fr/plmteam/docs/okd,True
 https://plmlab.math.cnrs.fr/plmteam/stream-hls-infra,True
 https://plmlab.math.cnrs.fr/plmteam/streaming,True
