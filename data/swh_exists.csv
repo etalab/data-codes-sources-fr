@@ -3812,7 +3812,7 @@ https://github.com/dataesr/react-dsfr,True
 https://github.com/dataesr/scanr,True
 https://github.com/dataesr/scanr-end2end,True
 https://github.com/dataesr/scientific_tagger,True
-https://github.com/dataesr/slack-notifier-action,False
+https://github.com/dataesr/slack-notifier-action,True
 https://github.com/datagir/Ecolab,True
 https://github.com/datagir/agribalyse,True
 https://github.com/datagir/datagir-site,True
@@ -4623,7 +4623,7 @@ https://github.com/gemoc/gemoc-studio-ale-execution,True
 https://github.com/gemoc/gemoc-studio-compilation-script,True
 https://github.com/gemoc/gemoc-studio-eclipse-integration,True
 https://github.com/gemoc/gemoc-studio-eclipsefork,True
-https://github.com/gemoc/gemoc-studio-eclipseforks-integration,False
+https://github.com/gemoc/gemoc-studio-eclipseforks-integration,True
 https://github.com/gemoc/gemoc-studio-execution-ale-eclipsefork,True
 https://github.com/gemoc/gemoc-studio-execution-java,True
 https://github.com/gemoc/gemoc-studio-execution-moccml,True
@@ -6857,7 +6857,7 @@ https://gitlab.inria.fr/biopyc/BioPyC,True
 https://gitlab.inria.fr/bism/bism-experiments,True
 https://gitlab.inria.fr/bism/bism-public,True
 https://gitlab.inria.fr/blare/hardblare,False
-https://gitlab.inria.fr/blare/hardblare/hardblare-binutils,False
+https://gitlab.inria.fr/blare/hardblare/hardblare-binutils,True
 https://gitlab.inria.fr/blare/hardblare/hardblare-clang,True
 https://gitlab.inria.fr/blare/hardblare/hardblare-documentation,True
 https://gitlab.inria.fr/blare/hardblare/hardblare-hw,True
@@ -8774,7 +8774,7 @@ https://plmlab.math.cnrs.fr/docker-images/mkdocs,True
 https://plmlab.math.cnrs.fr/docker-images/nfs-ganesha,True
 https://plmlab.math.cnrs.fr/docker-images/nodejs,True
 https://plmlab.math.cnrs.fr/docker-images/openjdk-jre-headless,True
-https://plmlab.math.cnrs.fr/docker-images/python,False
+https://plmlab.math.cnrs.fr/docker-images/python,True
 https://plmlab.math.cnrs.fr/docker-images/rabbitmq,True
 https://plmlab.math.cnrs.fr/docker-images/rocketchat,True
 https://plmlab.math.cnrs.fr/docker-images/systemd,True
