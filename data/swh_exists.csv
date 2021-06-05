@@ -2231,7 +2231,7 @@ https://github.com/MTES-MCT/adock-api,True
 https://github.com/MTES-MCT/adock-ui,True
 https://github.com/MTES-MCT/aeris,True
 https://github.com/MTES-MCT/aides-territoires,True
-https://github.com/MTES-MCT/asgard-manager,False
+https://github.com/MTES-MCT/asgard-manager,True
 https://github.com/MTES-MCT/asgard-postgresql,True
 https://github.com/MTES-MCT/assec,True
 https://github.com/MTES-MCT/biocarburants,False
@@ -2997,6 +2997,8 @@ https://github.com/ambanum/server-config,True
 https://github.com/ambanum/snscrape,True
 https://github.com/ambanum/social-networks-bot-finder,True
 https://github.com/ambanum/twint,True
+https://github.com/ansforge/esignsante,False
+https://github.com/ansforge/politique-de-contribution-open-source,False
 https://github.com/aphp/Cohort360,True
 https://github.com/aphp/Cohort360-Back-end,True
 https://github.com/assurance-maladie-digital/XF-Material-Library,True
