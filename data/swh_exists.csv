@@ -2295,7 +2295,7 @@ https://github.com/MTES-MCT/mobilic,True
 https://github.com/MTES-MCT/mobilic-api,True
 https://github.com/MTES-MCT/monitorfish,True
 https://github.com/MTES-MCT/nmap-action,True
-https://github.com/MTES-MCT/nmap-docker,False
+https://github.com/MTES-MCT/nmap-docker,True
 https://github.com/MTES-MCT/nocodb-buildpack,True
 https://github.com/MTES-MCT/node-cerbere,True
 https://github.com/MTES-MCT/numerique,True
