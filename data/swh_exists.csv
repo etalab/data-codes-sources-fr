@@ -6446,7 +6446,7 @@ https://gitlab.huma-num.fr/rzine/package,True
 https://gitlab.huma-num.fr/rzine/site,True
 https://gitlab.huma-num.fr/s-minaire-mip-paris-nanterre/projettest,True
 https://gitlab.huma-num.fr/sigr/sigr-reproducible-data,True
-https://gitlab.huma-num.fr/sigr/sigr-reproducible-markdown,False
+https://gitlab.huma-num.fr/sigr/sigr-reproducible-markdown,True
 https://gitlab.huma-num.fr/tesselle/arkhe,True
 https://gitlab.huma-num.fr/tesselle/hex,True
 https://gitlab.huma-num.fr/tesselle/packages,True
@@ -7650,7 +7650,7 @@ https://gitlab.inria.fr/necs-open/promise-polyfill,True
 https://gitlab.inria.fr/necs-open/typeahead.js-bootstrap4-css,True
 https://gitlab.inria.fr/necs_lib/SOCI,True
 https://gitlab.inria.fr/necs_lib/boost-process,True
-https://gitlab.inria.fr/neuromod/nm-spikes,False
+https://gitlab.inria.fr/neuromod/nm-spikes,True
 https://gitlab.inria.fr/nix-tutorial/chord-experiments,True
 https://gitlab.inria.fr/nix-tutorial/chord-tuto-nix-2019,True
 https://gitlab.inria.fr/nix-tutorial/nix-tutorial,True
@@ -7730,7 +7730,7 @@ https://gitlab.inria.fr/piy/piy,True
 https://gitlab.inria.fr/plas20/sessionintegrity,True
 https://gitlab.inria.fr/pleiade/containers/camisim,True
 https://gitlab.inria.fr/pleiade/containers/ci-planemo,True
-https://gitlab.inria.fr/pleiade/fluto,False
+https://gitlab.inria.fr/pleiade/fluto,True
 https://gitlab.inria.fr/pleiade/menetools,True
 https://gitlab.inria.fr/pleiade/metage2metabo,True
 https://gitlab.inria.fr/pleiade/miscoto,True
