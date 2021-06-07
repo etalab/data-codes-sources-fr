@@ -20,6 +20,7 @@ https://dci-gitlab.cines.fr/dad/smartapi,True
 https://dci-gitlab.cines.fr/dad/test-sphinx,True
 https://dci-gitlab.cines.fr/dad/test-synchronize-vitam,True
 https://dci-gitlab.cines.fr/dad/test_integration,True
+https://dci-gitlab.cines.fr/dad/vitam-api-proxy,False
 https://dci-gitlab.cines.fr/dad/vitam-data-test,True
 https://dci-gitlab.cines.fr/dad/vitam-dwatcher,True
 https://dci-gitlab.cines.fr/dad/vitam-rest-api,True
@@ -55,6 +56,9 @@ https://dev.ch-poitiers.fr/mssante/mssante-sync-unidirectionnel,True
 https://dev.ch-poitiers.fr/mssante/mssante-webapp,True
 https://dev.ch-poitiers.fr/mssante/parent,True
 https://edu-git.ac-versailles.fr/capsule/drv,True
+https://edu-git.ac-versailles.fr/dane-spip/depot-plugins-dane,False
+https://edu-git.ac-versailles.fr/dane-spip/plugin-gis-data,False
+https://edu-git.ac-versailles.fr/dane-spip/plugin-indicateurs,False
 https://edu-git.ac-versailles.fr/dev-academique/lib-php/PlateformeSms,True
 https://edu-git.ac-versailles.fr/devnat/sirh-poc-rest,True
 https://edu-git.ac-versailles.fr/dsi-tice-public/Filtrage-par-DNS,True
@@ -1161,7 +1165,7 @@ https://github.com/CEA-LIST/adv-reid,True
 https://github.com/CEA-LIST/adv-sat,True
 https://github.com/CEA-LIST/sgntx,True
 https://github.com/CEA-Leti/wsnet,True
-https://github.com/CEREMA/appli_conso_espace_doubs,False
+https://github.com/CEREMA/appli_conso_espace_doubs,True
 https://github.com/CEREMA/com.cerema.infocentre_old,True
 https://github.com/CEREMA/copro,True
 https://github.com/CEREMA/copro-occitanie,True
@@ -1606,12 +1610,15 @@ https://github.com/GIP-RECIA/ESCOSynchroGRR,True
 https://github.com/GIP-RECIA/ESCOSynchroMoodle,True
 https://github.com/GIP-RECIA/GRR-MuE,True
 https://github.com/GIP-RECIA/JasigWidgetPortlets,True
+https://github.com/GIP-RECIA/Madiacentre-UI,False
 https://github.com/GIP-RECIA/Markdown_Server_Documentation_Generator,True
 https://github.com/GIP-RECIA/MediaCentre,True
 https://github.com/GIP-RECIA/MediaCentre-WS,True
 https://github.com/GIP-RECIA/Notification-POC,True
 https://github.com/GIP-RECIA/NotificationPortlet,True
 https://github.com/GIP-RECIA/Pronote-WS,True
+https://github.com/GIP-RECIA/Ressources-Diffusables-API,False
+https://github.com/GIP-RECIA/Ressources-Diffusables-UI,False
 https://github.com/GIP-RECIA/Rocket.Chat,True
 https://github.com/GIP-RECIA/Rouncube-esco_user_identity,True
 https://github.com/GIP-RECIA/Roundcube-CAS-Authn,True
@@ -6173,6 +6180,7 @@ https://gitlab.cerema.fr/Stream/stream-python,True
 https://gitlab.cerema.fr/admin-donnees/admin_referentiels_postgresql,True
 https://gitlab.cerema.fr/admin-donnees/fr.cerema.admin_donnees_postgresql,True
 https://gitlab.cerema.fr/centre-est/admin_ceremabase,True
+https://gitlab.cerema.fr/centre-est/diagnostic-trafic-rshiny,False
 https://gitlab.cerema.fr/geomatique_donnees/en_test,True
 https://gitlab.cerema.fr/rem-d2pn-pn/fairplay,True
 https://gitlab.cerema.fr/rem-d2pn-pn/quadrispel,True
@@ -7494,6 +7502,7 @@ https://gitlab.inria.fr/line/aide-group/aidecv,True
 https://gitlab.inria.fr/line/aide-group/aidesys,True
 https://gitlab.inria.fr/line/aide-group/aideweb,True
 https://gitlab.inria.fr/line/aide-group/creacog,True
+https://gitlab.inria.fr/line/aide-group/creaonto,False
 https://gitlab.inria.fr/line/aide-group/creaspot,True
 https://gitlab.inria.fr/line/aide-group/esp32-roomcontrol,True
 https://gitlab.inria.fr/line/aide-group/esp32brachistochrone,True
@@ -8619,6 +8628,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/pedagogies-multimodales/wikiphon,Tr
 https://gricad-gitlab.univ-grenoble-alpes.fr/phd-xavier/pre_analyses_ecrins,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/phelma/a-propos,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/phelma/fablab/marlin_blackprusa,True
+https://gricad-gitlab.univ-grenoble-alpes.fr/phitem/installation-environnement-bureau-gnome-avec-ansible,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/pmall/apli_pmall,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/pmall/app_op,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/pmall/pm-source,True
