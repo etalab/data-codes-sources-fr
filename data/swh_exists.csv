@@ -20,7 +20,7 @@ https://dci-gitlab.cines.fr/dad/smartapi,True
 https://dci-gitlab.cines.fr/dad/test-sphinx,True
 https://dci-gitlab.cines.fr/dad/test-synchronize-vitam,True
 https://dci-gitlab.cines.fr/dad/test_integration,True
-https://dci-gitlab.cines.fr/dad/vitam-api-proxy,False
+https://dci-gitlab.cines.fr/dad/vitam-api-proxy,True
 https://dci-gitlab.cines.fr/dad/vitam-data-test,True
 https://dci-gitlab.cines.fr/dad/vitam-dwatcher,True
 https://dci-gitlab.cines.fr/dad/vitam-rest-api,True
@@ -3940,6 +3940,7 @@ https://github.com/diverse-project/meta-randconfig,True
 https://github.com/diverse-project/minijava,True
 https://github.com/diverse-project/models2016-program,True
 https://github.com/diverse-project/mtl,True
+https://github.com/diverse-project/mulder-jamstack.github.io,False
 https://github.com/diverse-project/pdedependencies2dot,True
 https://github.com/diverse-project/projetWE,True
 https://github.com/diverse-project/researchtooling,True
@@ -5162,7 +5163,7 @@ https://github.com/medialab/webclim_buzzsumo,True
 https://github.com/medialab/webclim_facebook,True
 https://github.com/medialab/webclim_propagation_graphs_facebook,True
 https://github.com/medialab/webclim_temporal_evolution_facebook,True
-https://github.com/medialab/webclim_youtube,False
+https://github.com/medialab/webclim_youtube,True
 https://github.com/medialab/website,True
 https://github.com/medialab/well-being-metrics,True
 https://github.com/medialab/zup,True
@@ -6358,6 +6359,7 @@ https://gitlab.huma-num.fr/disco-lge/tei-encoding,True
 https://gitlab.huma-num.fr/disco-lge/vue-d-ensemble,True
 https://gitlab.huma-num.fr/ecrinum/anthologia/dataap,True
 https://gitlab.huma-num.fr/ecrinum/anthologia/pythonap,True
+https://gitlab.huma-num.fr/ecrinum/latextemplates,False
 https://gitlab.huma-num.fr/ecrinum/manuels/introduction-a-zotero,True
 https://gitlab.huma-num.fr/ecrinum/manuels/tutoriel-markdown-pandoc,True
 https://gitlab.huma-num.fr/ecrinum/projetglissant,True
@@ -7258,6 +7260,7 @@ https://gitlab.inria.fr/gazelle/library/datatable-component,True
 https://gitlab.inria.fr/gazelle/library/fhir-util,True
 https://gitlab.inria.fr/gazelle/library/gazelle-assertion-coverage-provider,True
 https://gitlab.inria.fr/gazelle/library/gazelle-assets,True
+https://gitlab.inria.fr/gazelle/library/gazelle-evsclient-common,False
 https://gitlab.inria.fr/gazelle/library/gazelle-preferences,True
 https://gitlab.inria.fr/gazelle/library/gazelle-tm-tools,True
 https://gitlab.inria.fr/gazelle/library/gazelle-tools,True
