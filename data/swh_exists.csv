@@ -2059,7 +2059,7 @@ https://github.com/InseeFrLab/Macronometrics,True
 https://github.com/InseeFrLab/Macronometrics-Notebook,True
 https://github.com/InseeFrLab/Mapex,True
 https://github.com/InseeFrLab/NRC-Heck-model,True
-https://github.com/InseeFrLab/Pearl-Jam-Back-Office,False
+https://github.com/InseeFrLab/Pearl-Jam-Back-Office,True
 https://github.com/InseeFrLab/SASTauArgus,True
 https://github.com/InseeFrLab/Sabiane-Data,True
 https://github.com/InseeFrLab/Shelly,True
@@ -2713,6 +2713,7 @@ https://github.com/SocialGouv/react-departements,True
 https://github.com/SocialGouv/react-k8s-viewer,True
 https://github.com/SocialGouv/react-medixtor,True
 https://github.com/SocialGouv/recherche-entreprises,True
+https://github.com/SocialGouv/reference-article,False
 https://github.com/SocialGouv/renovate-config,True
 https://github.com/SocialGouv/runners-bench,True
 https://github.com/SocialGouv/sample-next-app,True
@@ -3882,6 +3883,7 @@ https://github.com/dinsic-pim/tchap-android,True
 https://github.com/dinsic-pim/tchap-android-v2,True
 https://github.com/dinsic-pim/tchap-desktop,True
 https://github.com/dinsic-pim/tchap-ios,True
+https://github.com/dinsic-pim/tchap-support,False
 https://github.com/dinsic-pim/tchap-web,True
 https://github.com/dinsic-pim/tchap-web-v3,True
 https://github.com/dinsic-pim/tchap-welcome,False
@@ -3928,6 +3930,7 @@ https://github.com/diverse-project/diversifying-descartes,True
 https://github.com/diverse-project/farmbot,True
 https://github.com/diverse-project/flink-datacenter,True
 https://github.com/diverse-project/gen-mobile-data-app,True
+https://github.com/diverse-project/http-traffic4web-security,False
 https://github.com/diverse-project/k3,True
 https://github.com/diverse-project/kcvl,True
 https://github.com/diverse-project/kermeta,True
@@ -6547,6 +6550,7 @@ https://gitlab.inria.fr/GardiNet/liblc,True
 https://gitlab.inria.fr/GruLab/s-cgn,True
 https://gitlab.inria.fr/GruLab/s-gcn,True
 https://gitlab.inria.fr/IOTLanguage/IoTCompilertoBIP,True
+https://gitlab.inria.fr/InBio/Public/cvode-rust-wrap,False
 https://gitlab.inria.fr/InBio/Public/efaecalis-ratio,True
 https://gitlab.inria.fr/InBio/Public/fwd_ad,True
 https://gitlab.inria.fr/InBio/Public/hydriver,True
@@ -7052,7 +7056,7 @@ https://gitlab.inria.fr/dexms/dexidl,True
 https://gitlab.inria.fr/dexms/end-to-end-examples,True
 https://gitlab.inria.fr/dexms/service,True
 https://gitlab.inria.fr/dexms/website,True
-https://gitlab.inria.fr/dgd-i/seminairestransverses,False
+https://gitlab.inria.fr/dgd-i/seminairestransverses,True
 https://gitlab.inria.fr/dgd-s/testandalert,True
 https://gitlab.inria.fr/dh-projects/aspyre-gt,True
 https://gitlab.inria.fr/dh-projects/aspyre-gui,True
@@ -8074,6 +8078,7 @@ https://gitlab.irstea.fr/geau-technical/geau-utility,True
 https://gitlab.irstea.fr/geopat/geopat,True
 https://gitlab.irstea.fr/hru-delin-dev/hru-delin,True
 https://gitlab.irstea.fr/hru-delin-dev/hru-delin-qgis,True
+https://gitlab.irstea.fr/hydrotools_demosandprocessing/sample2gumbel,False
 https://gitlab.irstea.fr/in-wop/airGRiwrm,True
 https://gitlab.irstea.fr/in-wop/bnpe,True
 https://gitlab.irstea.fr/in-wop/irmara,True
@@ -8640,6 +8645,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/pedagogies-multimodales/wikiphon,Tr
 https://gricad-gitlab.univ-grenoble-alpes.fr/phd-xavier/pre_analyses_ecrins,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/phelma/a-propos,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/phelma/fablab/marlin_blackprusa,True
+https://gricad-gitlab.univ-grenoble-alpes.fr/phitem/design-linux-uga,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/phitem/installation-environnement-bureau-gnome-avec-ansible,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/pmall/apli_pmall,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/pmall/app_op,True
