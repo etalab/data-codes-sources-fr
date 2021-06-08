@@ -56,7 +56,7 @@ https://dev.ch-poitiers.fr/mssante/mssante-sync-unidirectionnel,True
 https://dev.ch-poitiers.fr/mssante/mssante-webapp,True
 https://dev.ch-poitiers.fr/mssante/parent,True
 https://edu-git.ac-versailles.fr/capsule/drv,True
-https://edu-git.ac-versailles.fr/dane-spip/depot-plugins-dane,False
+https://edu-git.ac-versailles.fr/dane-spip/depot-plugins-dane,True
 https://edu-git.ac-versailles.fr/dane-spip/plugin-gis-data,False
 https://edu-git.ac-versailles.fr/dane-spip/plugin-indicateurs,False
 https://edu-git.ac-versailles.fr/dev-academique/lib-php/PlateformeSms,True
@@ -524,7 +524,7 @@ https://forgemia.inra.fr/umr-1202-biogeco/snakemake_singularity_hpc,True
 https://forgemia.inra.fr/umr-astre/amr-laos,True
 https://forgemia.inra.fr/umr-astre/asf-challenge,True
 https://forgemia.inra.fr/umr-astre/asf-speed,True
-https://forgemia.inra.fr/umr-astre/capiche,False
+https://forgemia.inra.fr/umr-astre/capiche,True
 https://forgemia.inra.fr/umr-astre/cirad,True
 https://forgemia.inra.fr/umr-astre/covid19-mortality,True
 https://forgemia.inra.fr/umr-astre/difuse,True
@@ -1610,7 +1610,7 @@ https://github.com/GIP-RECIA/ESCOSynchroGRR,True
 https://github.com/GIP-RECIA/ESCOSynchroMoodle,True
 https://github.com/GIP-RECIA/GRR-MuE,True
 https://github.com/GIP-RECIA/JasigWidgetPortlets,True
-https://github.com/GIP-RECIA/Madiacentre-UI,False
+https://github.com/GIP-RECIA/Madiacentre-UI,True
 https://github.com/GIP-RECIA/Markdown_Server_Documentation_Generator,True
 https://github.com/GIP-RECIA/MediaCentre,True
 https://github.com/GIP-RECIA/MediaCentre-WS,True
@@ -1618,7 +1618,7 @@ https://github.com/GIP-RECIA/Notification-POC,True
 https://github.com/GIP-RECIA/NotificationPortlet,True
 https://github.com/GIP-RECIA/Pronote-WS,True
 https://github.com/GIP-RECIA/Ressources-Diffusables-API,False
-https://github.com/GIP-RECIA/Ressources-Diffusables-UI,False
+https://github.com/GIP-RECIA/Ressources-Diffusables-UI,True
 https://github.com/GIP-RECIA/Rocket.Chat,True
 https://github.com/GIP-RECIA/Rouncube-esco_user_identity,True
 https://github.com/GIP-RECIA/Roundcube-CAS-Authn,True
@@ -2713,7 +2713,7 @@ https://github.com/SocialGouv/react-departements,True
 https://github.com/SocialGouv/react-k8s-viewer,True
 https://github.com/SocialGouv/react-medixtor,True
 https://github.com/SocialGouv/recherche-entreprises,True
-https://github.com/SocialGouv/reference-article,False
+https://github.com/SocialGouv/reference-article,True
 https://github.com/SocialGouv/renovate-config,True
 https://github.com/SocialGouv/runners-bench,True
 https://github.com/SocialGouv/sample-next-app,True
@@ -3254,6 +3254,7 @@ https://github.com/betagouv/fin-de-mps,True
 https://github.com/betagouv/focalboard-buildpack,False
 https://github.com/betagouv/francaisaletranger,True
 https://github.com/betagouv/francaisaletranger-api,True
+https://github.com/betagouv/france-chaleur-urbaine,False
 https://github.com/betagouv/freescout,True
 https://github.com/betagouv/geoplus,True
 https://github.com/betagouv/glossaire,True
@@ -4497,7 +4498,7 @@ https://github.com/etalab/schema-sdirve,True
 https://github.com/etalab/schema-stationnement,True
 https://github.com/etalab/schema-stationnement-cyclable,True
 https://github.com/etalab/schema-template,True
-https://github.com/etalab/schema-zfe-regles,False
+https://github.com/etalab/schema-zfe-regles,True
 https://github.com/etalab/schema.data.gouv.fr,True
 https://github.com/etalab/schema_amenagements_cyclables,True
 https://github.com/etalab/scpc-as-api,True
@@ -6191,7 +6192,7 @@ https://gitlab.cerema.fr/admin-donnees/admin_referentiels_postgresql,True
 https://gitlab.cerema.fr/admin-donnees/fr.cerema.admin_donnees_postgresql,True
 https://gitlab.cerema.fr/centre-est/admin_ceremabase,True
 https://gitlab.cerema.fr/centre-est/diagnostic-trafic-rshiny,False
-https://gitlab.cerema.fr/centre-est/mobilite/Stream/qstream,False
+https://gitlab.cerema.fr/centre-est/mobilite/Stream/qstream,True
 https://gitlab.cerema.fr/centre-est/mobilite/Stream/stream-python,False
 https://gitlab.cerema.fr/centre-est/mobilite/diagnostic-trafic-rshiny,False
 https://gitlab.cerema.fr/geomatique_donnees/en_test,True
@@ -6550,7 +6551,7 @@ https://gitlab.inria.fr/GardiNet/liblc,True
 https://gitlab.inria.fr/GruLab/s-cgn,True
 https://gitlab.inria.fr/GruLab/s-gcn,True
 https://gitlab.inria.fr/IOTLanguage/IoTCompilertoBIP,True
-https://gitlab.inria.fr/InBio/Public/cvode-rust-wrap,False
+https://gitlab.inria.fr/InBio/Public/cvode-rust-wrap,True
 https://gitlab.inria.fr/InBio/Public/efaecalis-ratio,True
 https://gitlab.inria.fr/InBio/Public/fwd_ad,True
 https://gitlab.inria.fr/InBio/Public/hydriver,True
@@ -8078,6 +8079,7 @@ https://gitlab.irstea.fr/geau-technical/geau-utility,True
 https://gitlab.irstea.fr/geopat/geopat,True
 https://gitlab.irstea.fr/hru-delin-dev/hru-delin,True
 https://gitlab.irstea.fr/hru-delin-dev/hru-delin-qgis,True
+https://gitlab.irstea.fr/hydrotools_demosandprocessing/backwater-curve-approximation,False
 https://gitlab.irstea.fr/hydrotools_demosandprocessing/sample2gumbel,False
 https://gitlab.irstea.fr/in-wop/airGRiwrm,True
 https://gitlab.irstea.fr/in-wop/bnpe,True
