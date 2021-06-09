@@ -58,7 +58,7 @@ https://dev.ch-poitiers.fr/mssante/parent,True
 https://edu-git.ac-versailles.fr/capsule/drv,True
 https://edu-git.ac-versailles.fr/dane-spip/depot-plugins-dane,True
 https://edu-git.ac-versailles.fr/dane-spip/plugin-gis-data,True
-https://edu-git.ac-versailles.fr/dane-spip/plugin-indicateurs,False
+https://edu-git.ac-versailles.fr/dane-spip/plugin-indicateurs,True
 https://edu-git.ac-versailles.fr/dev-academique/lib-php/PlateformeSms,True
 https://edu-git.ac-versailles.fr/devnat/sirh-poc-rest,True
 https://edu-git.ac-versailles.fr/dsi-tice-public/Filtrage-par-DNS,True
@@ -953,6 +953,7 @@ https://github.com/139bercy/cloud-appliance-composer-repo,True
 https://github.com/139bercy/cloud-appliance-management,True
 https://github.com/139bercy/cloud-appliance-nexus-repo,True
 https://github.com/139bercy/cloud-appliance-observability,True
+https://github.com/139bercy/dashboard_widgets,False
 https://github.com/139bercy/decp-augmente,True
 https://github.com/139bercy/decp-docs,True
 https://github.com/139bercy/decp-monitoring,True
@@ -1144,6 +1145,26 @@ https://github.com/BibCnrs/docker-ezproxy,True
 https://github.com/BibCnrs/docker-shibboleth-sp,True
 https://github.com/BibCnrs/docker-wordpress,True
 https://github.com/BibCnrs/wp-EBSCO-widget,True
+https://github.com/Bibliome/Alvis,True
+https://github.com/Bibliome/TEES,True
+https://github.com/Bibliome/alvis-docker,True
+https://github.com/Bibliome/alvis-guidelines,False
+https://github.com/Bibliome/alvis-metadata,False
+https://github.com/Bibliome/alvis_galaxy_capsule,True
+https://github.com/Bibliome/alvisae,True
+https://github.com/Bibliome/alvisae-1,True
+https://github.com/Bibliome/alviscorpus,True
+https://github.com/Bibliome/alvisdb,True
+https://github.com/Bibliome/alvisir,True
+https://github.com/Bibliome/alvisnlp,True
+https://github.com/Bibliome/alvisre,True
+https://github.com/Bibliome/bibliome-java-utils,True
+https://github.com/Bibliome/bionlp-st,True
+https://github.com/Bibliome/food-microbiome-habitats,True
+https://github.com/Bibliome/misc-utils,True
+https://github.com/Bibliome/obo-utils,True
+https://github.com/Bibliome/onto-relation-vizualisation,False
+https://github.com/Bibliome/pubmed-utils,True
 https://github.com/CCSDForge/CcsdCommon,True
 https://github.com/CCSDForge/Convert,True
 https://github.com/CCSDForge/Episciences,True
@@ -2576,6 +2597,7 @@ https://github.com/SocialGouv/1000jours,True
 https://github.com/SocialGouv/SocialGouvUi,True
 https://github.com/SocialGouv/TextStyle,True
 https://github.com/SocialGouv/TextStyle-script,True
+https://github.com/SocialGouv/Tumeplay,False
 https://github.com/SocialGouv/UDD,True
 https://github.com/SocialGouv/aes-gcm-rsa-oaep,True
 https://github.com/SocialGouv/annuaire-mjpm,True
@@ -2852,12 +2874,14 @@ https://github.com/StartupsPoleEmploi/zen,True
 https://github.com/StartupsPoleEmploi/zen-createur,True
 https://github.com/X-DataInitiative/MultiVariatePointProcess,True
 https://github.com/X-DataInitiative/SCALPEL-Analysis,True
+https://github.com/X-DataInitiative/SCALPEL-Experience,False
 https://github.com/X-DataInitiative/SCALPEL-Extraction,True
 https://github.com/X-DataInitiative/SCALPEL-Flattening,True
 https://github.com/X-DataInitiative/SCALPEL3,True
 https://github.com/X-DataInitiative/Spleen,True
 https://github.com/X-DataInitiative/clusterboot,True
 https://github.com/X-DataInitiative/population-flowchart,True
+https://github.com/X-DataInitiative/pyarray-bindings,False
 https://github.com/X-DataInitiative/tick,True
 https://github.com/X-DataInitiative/tick-datasets,True
 https://github.com/X-DataInitiative/tick_appveyor,True
@@ -2895,6 +2919,7 @@ https://github.com/abes-esr/licencesnationales-front,True
 https://github.com/abes-esr/ln-back-event,False
 https://github.com/abes-esr/ln-front,False
 https://github.com/abes-esr/marcxml2tei,True
+https://github.com/abes-esr/openapi,False
 https://github.com/abes-esr/periscope-back,True
 https://github.com/abes-esr/periscope-front,True
 https://github.com/abes-esr/periscope-indexing-ws,True
@@ -3006,6 +3031,7 @@ https://github.com/ambanum/server-config,True
 https://github.com/ambanum/snscrape,True
 https://github.com/ambanum/social-networks-bot-finder,True
 https://github.com/ambanum/twint,True
+https://github.com/ansforge/Modelisationdesstructuresetdesprofessionnels,False
 https://github.com/ansforge/esignsante,True
 https://github.com/ansforge/politique-de-contribution-open-source,False
 https://github.com/aphp/Cohort360,True
@@ -3120,6 +3146,7 @@ https://github.com/betagouv/api-auth,True
 https://github.com/betagouv/api-caf,True
 https://github.com/betagouv/api-cpa,True
 https://github.com/betagouv/api-diagoriente-v5,True
+https://github.com/betagouv/api-domaines,False
 https://github.com/betagouv/api-drones,True
 https://github.com/betagouv/api-engagement,True
 https://github.com/betagouv/api-label-transition-ecologique,True
@@ -3251,7 +3278,7 @@ https://github.com/betagouv/fastapi-csv,True
 https://github.com/betagouv/fetch-normalize-data,True
 https://github.com/betagouv/fiches-de-banc,True
 https://github.com/betagouv/fin-de-mps,True
-https://github.com/betagouv/focalboard-buildpack,False
+https://github.com/betagouv/focalboard-buildpack,True
 https://github.com/betagouv/francaisaletranger,True
 https://github.com/betagouv/francaisaletranger-api,True
 https://github.com/betagouv/france-chaleur-urbaine,True
@@ -4393,6 +4420,7 @@ https://github.com/etalab/fr-bounding-boxes,True
 https://github.com/etalab/franceconnect-rne,True
 https://github.com/etalab/fridaylab,True
 https://github.com/etalab/gazetteer,True
+https://github.com/etalab/gbfs,False
 https://github.com/etalab/geo.api.gouv.fr,True
 https://github.com/etalab/geo.data.gouv.fr,True
 https://github.com/etalab/geo.data.gouv.fr-components,True
@@ -5162,6 +5190,7 @@ https://github.com/medialab/toflit18_data,True
 https://github.com/medialab/tools,True
 https://github.com/medialab/tools-old,True
 https://github.com/medialab/trustlab,True
+https://github.com/medialab/truth-and-trust-online-2021,False
 https://github.com/medialab/tweet-bubbles,True
 https://github.com/medialab/twitwi,True
 https://github.com/medialab/txjsonrpc,True
@@ -6194,7 +6223,7 @@ https://gitlab.cerema.fr/centre-est/admin_ceremabase,True
 https://gitlab.cerema.fr/centre-est/diagnostic-trafic-rshiny,False
 https://gitlab.cerema.fr/centre-est/mobilite/Stream/qstream,True
 https://gitlab.cerema.fr/centre-est/mobilite/Stream/stream-python,False
-https://gitlab.cerema.fr/centre-est/mobilite/diagnostic-trafic-rshiny,False
+https://gitlab.cerema.fr/centre-est/mobilite/diagnostic-trafic-rshiny,True
 https://gitlab.cerema.fr/geomatique_donnees/en_test,True
 https://gitlab.cerema.fr/rem-d2pn-pn/fairplay,True
 https://gitlab.cerema.fr/rem-d2pn-pn/quadrispel,True
@@ -6952,6 +6981,7 @@ https://gitlab.inria.fr/cobcom/cimem/bayesnet,True
 https://gitlab.inria.fr/cobcom/cimem/cimem,True
 https://gitlab.inria.fr/cobcom/cimem/recur,True
 https://gitlab.inria.fr/cobcom/talon,True
+https://gitlab.inria.fr/cobcom/wlalign,False
 https://gitlab.inria.fr/coccinelle/coccinelle,True
 https://gitlab.inria.fr/coccinelle/reference_scores,True
 https://gitlab.inria.fr/coding-dojo-saclay/Blockchain,True
@@ -8085,6 +8115,7 @@ https://gitlab.irstea.fr/hydrotools_demosandprocessing/probability-of-having-k-f
 https://gitlab.irstea.fr/hydrotools_demosandprocessing/sample2gumbel,True
 https://gitlab.irstea.fr/in-wop/airGRiwrm,True
 https://gitlab.irstea.fr/in-wop/bnpe,True
+https://gitlab.irstea.fr/in-wop/inwopusages,False
 https://gitlab.irstea.fr/in-wop/irmara,True
 https://gitlab.irstea.fr/in-wop/multivgest,True
 https://gitlab.irstea.fr/in-wop/rvgest,True
@@ -8179,6 +8210,7 @@ https://gitlab.math.unistra.fr/urfist/cours-python,True
 https://gitlab.math.unistra.fr/voiceover/voiceover-terminal,True
 https://gitlab.orfeo-toolbox.org/maja/maja,True
 https://gitlab.orfeo-toolbox.org/maja/maja-build-env,True
+https://gitlab.orfeo-toolbox.org/maja/maja-utilities,False
 https://gitlab.orfeo-toolbox.org/orfeotoolbox/otb,True
 https://gitlab.orfeo-toolbox.org/orfeotoolbox/otb-build-env,True
 https://gitlab.orfeo-toolbox.org/orfeotoolbox/otb-data,True
@@ -8649,11 +8681,12 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/pedagogies-multimodales/wikiphon,Tr
 https://gricad-gitlab.univ-grenoble-alpes.fr/phd-xavier/pre_analyses_ecrins,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/phelma/a-propos,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/phelma/fablab/marlin_blackprusa,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/phitem/design-linux-uga,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/phitem/design-linux-uga,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/phitem/environnement-bureau-gnome,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/phitem/installation-environnement-bureau-gnome-avec-ansible,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/pmall/apli_pmall,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/pmall/app_op,True
+https://gricad-gitlab.univ-grenoble-alpes.fr/pmall/bdd_aerosols,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/pmall/pm-source,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/pmall/pyopestimator,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/pmall/pyopestimator-data,True
@@ -8835,7 +8868,7 @@ https://plmlab.math.cnrs.fr/illustrating-math/sphere_morph,True
 https://plmlab.math.cnrs.fr/imb-dijon/faq,True
 https://plmlab.math.cnrs.fr/imb-public/anr-template,True
 https://plmlab.math.cnrs.fr/imt/acces_backup,True
-https://plmlab.math.cnrs.fr/imt/ansible_deploy_nfs,False
+https://plmlab.math.cnrs.fr/imt/ansible_deploy_nfs,True
 https://plmlab.math.cnrs.fr/imt/fragma/fragma-on-amqp,True
 https://plmlab.math.cnrs.fr/imt/puppet/gitlab_deploy_key,True
 https://plmlab.math.cnrs.fr/imt/puppet/kerberos_module,True
