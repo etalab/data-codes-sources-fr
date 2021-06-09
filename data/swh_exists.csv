@@ -57,7 +57,7 @@ https://dev.ch-poitiers.fr/mssante/mssante-webapp,True
 https://dev.ch-poitiers.fr/mssante/parent,True
 https://edu-git.ac-versailles.fr/capsule/drv,True
 https://edu-git.ac-versailles.fr/dane-spip/depot-plugins-dane,True
-https://edu-git.ac-versailles.fr/dane-spip/plugin-gis-data,False
+https://edu-git.ac-versailles.fr/dane-spip/plugin-gis-data,True
 https://edu-git.ac-versailles.fr/dane-spip/plugin-indicateurs,False
 https://edu-git.ac-versailles.fr/dev-academique/lib-php/PlateformeSms,True
 https://edu-git.ac-versailles.fr/devnat/sirh-poc-rest,True
@@ -3254,7 +3254,7 @@ https://github.com/betagouv/fin-de-mps,True
 https://github.com/betagouv/focalboard-buildpack,False
 https://github.com/betagouv/francaisaletranger,True
 https://github.com/betagouv/francaisaletranger-api,True
-https://github.com/betagouv/france-chaleur-urbaine,False
+https://github.com/betagouv/france-chaleur-urbaine,True
 https://github.com/betagouv/freescout,True
 https://github.com/betagouv/geoplus,True
 https://github.com/betagouv/glossaire,True
@@ -3460,7 +3460,7 @@ https://github.com/betagouv/service-national-universel,True
 https://github.com/betagouv/siecle-api,True
 https://github.com/betagouv/siecle-xml_mapper,True
 https://github.com/betagouv/signalconso-api-sdk-js,True
-https://github.com/betagouv/signalconso-dashboard-react,False
+https://github.com/betagouv/signalconso-dashboard-react,True
 https://github.com/betagouv/signalconso-loadtest,True
 https://github.com/betagouv/signalement,True
 https://github.com/betagouv/signalement-api,True
@@ -3884,7 +3884,7 @@ https://github.com/dinsic-pim/tchap-android,True
 https://github.com/dinsic-pim/tchap-android-v2,True
 https://github.com/dinsic-pim/tchap-desktop,True
 https://github.com/dinsic-pim/tchap-ios,True
-https://github.com/dinsic-pim/tchap-support,False
+https://github.com/dinsic-pim/tchap-support,True
 https://github.com/dinsic-pim/tchap-web,True
 https://github.com/dinsic-pim/tchap-web-v3,True
 https://github.com/dinsic-pim/tchap-welcome,False
@@ -4083,7 +4083,7 @@ https://github.com/entrepreneur-interet-general/publib,True
 https://github.com/entrepreneur-interet-general/recrues,True
 https://github.com/entrepreneur-interet-general/ressources-design,True
 https://github.com/entrepreneur-interet-general/ressources-eig4,True
-https://github.com/entrepreneur-interet-general/sedaccord-app,False
+https://github.com/entrepreneur-interet-general/sedaccord-app,True
 https://github.com/entrepreneur-interet-general/sedatif,True
 https://github.com/entrepreneur-interet-general/sidenotes,True
 https://github.com/entrepreneur-interet-general/sill,True
@@ -6910,7 +6910,7 @@ https://gitlab.inria.fr/cado-nfs/records,True
 https://gitlab.inria.fr/capsid-public/conda/runner-build,True
 https://gitlab.inria.fr/capsid-public/conda/runner-deploy,True
 https://gitlab.inria.fr/capsid.crates/lib3dmol,True
-https://gitlab.inria.fr/capsid.public_codes/ppidmpublic,False
+https://gitlab.inria.fr/capsid.public_codes/ppidmpublic,True
 https://gitlab.inria.fr/causality/causal-ocaml,True
 https://gitlab.inria.fr/causality/causality-monad,True
 https://gitlab.inria.fr/causality/petri-strategies,True
@@ -8080,7 +8080,9 @@ https://gitlab.irstea.fr/geopat/geopat,True
 https://gitlab.irstea.fr/hru-delin-dev/hru-delin,True
 https://gitlab.irstea.fr/hru-delin-dev/hru-delin-qgis,True
 https://gitlab.irstea.fr/hydrotools_demosandprocessing/backwater-curve-approximation,False
-https://gitlab.irstea.fr/hydrotools_demosandprocessing/sample2gumbel,False
+https://gitlab.irstea.fr/hydrotools_demosandprocessing/illustrattions-for-wikis,False
+https://gitlab.irstea.fr/hydrotools_demosandprocessing/probability-of-having-k-floods-in-n-years,False
+https://gitlab.irstea.fr/hydrotools_demosandprocessing/sample2gumbel,True
 https://gitlab.irstea.fr/in-wop/airGRiwrm,True
 https://gitlab.irstea.fr/in-wop/bnpe,True
 https://gitlab.irstea.fr/in-wop/irmara,True
@@ -8648,6 +8650,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/phd-xavier/pre_analyses_ecrins,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/phelma/a-propos,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/phelma/fablab/marlin_blackprusa,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/phitem/design-linux-uga,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/phitem/environnement-bureau-gnome,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/phitem/installation-environnement-bureau-gnome-avec-ansible,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/pmall/apli_pmall,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/pmall/app_op,True
