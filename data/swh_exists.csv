@@ -2863,7 +2863,7 @@ https://github.com/StartupsPoleEmploi/labonneboite,True
 https://github.com/StartupsPoleEmploi/labonneformation,True
 https://github.com/StartupsPoleEmploi/memo,True
 https://github.com/StartupsPoleEmploi/mjl-avril,True
-https://github.com/StartupsPoleEmploi/mobiville,False
+https://github.com/StartupsPoleEmploi/mobiville,True
 https://github.com/StartupsPoleEmploi/openfisca-france,True
 https://github.com/StartupsPoleEmploi/perspectives,True
 https://github.com/StartupsPoleEmploi/profil-avril,True
@@ -6394,6 +6394,7 @@ https://gitlab.huma-num.fr/code-performance/code-performance,True
 https://gitlab.huma-num.fr/consortium3d/aLTAG3D,True
 https://gitlab.huma-num.fr/cosme/telma_chartes_exports,True
 https://gitlab.huma-num.fr/cosme/telma_chartes_imports,True
+https://gitlab.huma-num.fr/daycourse/intersectionality,False
 https://gitlab.huma-num.fr/disco-lge/ichll11-slides,True
 https://gitlab.huma-num.fr/disco-lge/processinglge,True
 https://gitlab.huma-num.fr/disco-lge/soprano,True
