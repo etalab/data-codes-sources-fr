@@ -2544,7 +2544,7 @@ https://github.com/ProgrammeVitam/java-libpst,False
 https://github.com/ProgrammeVitam/java-libpst-origin,True
 https://github.com/ProgrammeVitam/mailextract,True
 https://github.com/ProgrammeVitam/odftoolkit,True
-https://github.com/ProgrammeVitam/sedaccord-app,False
+https://github.com/ProgrammeVitam/sedaccord-app,True
 https://github.com/ProgrammeVitam/sedatools,True
 https://github.com/ProgrammeVitam/vitam,True
 https://github.com/ProgrammeVitam/vitam-grafana-dashboards,True
@@ -3555,6 +3555,7 @@ https://github.com/cea-hpc/Modane,True
 https://github.com/cea-hpc/Monilog4NabLab,True
 https://github.com/cea-hpc/NabLab,True
 https://github.com/cea-hpc/PCVS,True
+https://github.com/cea-hpc/bmgr,False
 https://github.com/cea-hpc/bridge,True
 https://github.com/cea-hpc/clustershell,True
 https://github.com/cea-hpc/fleet,True
