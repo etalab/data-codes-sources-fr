@@ -3975,7 +3975,7 @@ https://github.com/diverse-project/meta-randconfig,True
 https://github.com/diverse-project/minijava,True
 https://github.com/diverse-project/models2016-program,True
 https://github.com/diverse-project/mtl,True
-https://github.com/diverse-project/mulder-jamstack.github.io,False
+https://github.com/diverse-project/mulder-jamstack.github.io,True
 https://github.com/diverse-project/pdedependencies2dot,True
 https://github.com/diverse-project/projetWE,True
 https://github.com/diverse-project/researchtooling,True
@@ -6587,6 +6587,7 @@ https://gitlab.inria.fr/InBio/Public/fwd_ad,True
 https://gitlab.inria.fr/InBio/Public/hydriver,True
 https://gitlab.inria.fr/InBio/Public/micromator,True
 https://gitlab.inria.fr/InBio/Public/reacsight,True
+https://gitlab.inria.fr/InBio/yeast-optogenetic-differentiation-automaton_yoda,False
 https://gitlab.inria.fr/KerA/examples/kera-e2clab-examples,True
 https://gitlab.inria.fr/KerA/examples/kera-flink-examples,True
 https://gitlab.inria.fr/KerA/gtest,True
