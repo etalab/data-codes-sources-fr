@@ -3962,7 +3962,8 @@ https://github.com/diverse-project/diversifying-descartes,True
 https://github.com/diverse-project/farmbot,True
 https://github.com/diverse-project/flink-datacenter,True
 https://github.com/diverse-project/gen-mobile-data-app,True
-https://github.com/diverse-project/http-traffic4web-security,False
+https://github.com/diverse-project/http-traffic4web-security,True
+https://github.com/diverse-project/jhipster-dataset,False
 https://github.com/diverse-project/k3,True
 https://github.com/diverse-project/kcvl,True
 https://github.com/diverse-project/kermeta,True
@@ -6586,6 +6587,7 @@ https://gitlab.inria.fr/GardiNet/liblc,True
 https://gitlab.inria.fr/GruLab/s-cgn,True
 https://gitlab.inria.fr/GruLab/s-gcn,True
 https://gitlab.inria.fr/IOTLanguage/IoTCompilertoBIP,True
+https://gitlab.inria.fr/InBio/Public/YeastOptogeneticDifferentiation_YODA,False
 https://gitlab.inria.fr/InBio/Public/cvode-rust-wrap,True
 https://gitlab.inria.fr/InBio/Public/efaecalis-ratio,True
 https://gitlab.inria.fr/InBio/Public/fwd_ad,True
@@ -6977,7 +6979,7 @@ https://gitlab.inria.fr/cidre-public/tata/tata-llvm,True
 https://gitlab.inria.fr/cidre-public/tata/tata-release,True
 https://gitlab.inria.fr/cigri-ctrl/big-data-hpc-g5k-expe-tools,True
 https://gitlab.inria.fr/cigri-ctrl/cigri-expe,True
-https://gitlab.inria.fr/cigri-ctrl/io-benchmarks,False
+https://gitlab.inria.fr/cigri-ctrl/io-benchmarks,True
 https://gitlab.inria.fr/cigri-ctrl/stage-agustin-yabo,True
 https://gitlab.inria.fr/citi-lab/bbb-powerprobe,True
 https://gitlab.inria.fr/citi-lab/dycton,True
@@ -7283,6 +7285,7 @@ https://gitlab.inria.fr/gazelle/applications/test-execution/validator/FhirValida
 https://gitlab.inria.fr/gazelle/applications/test-execution/validator/SchematronValidator,True
 https://gitlab.inria.fr/gazelle/applications/test-execution/validator/archetypes/generated-validator,False
 https://gitlab.inria.fr/gazelle/applications/test-execution/validator/ch_iua-validator-service,True
+https://gitlab.inria.fr/gazelle/applications/test-execution/validator/eu-digital-covid-certificate-validator,False
 https://gitlab.inria.fr/gazelle/applications/test-execution/validator/gazellehl7v2validator,True
 https://gitlab.inria.fr/gazelle/applications/test-execution/validator/hl7templates/gocmodel-jar,False
 https://gitlab.inria.fr/gazelle/applications/test-execution/validator/hl7templates/hl7template-generator-jar,False
@@ -8119,7 +8122,7 @@ https://gitlab.irstea.fr/hru-delin-dev/hru-delin,True
 https://gitlab.irstea.fr/hru-delin-dev/hru-delin-qgis,True
 https://gitlab.irstea.fr/hydrotools_demosandprocessing/backwater-curve-approximation,False
 https://gitlab.irstea.fr/hydrotools_demosandprocessing/illustrattions-for-wikis,False
-https://gitlab.irstea.fr/hydrotools_demosandprocessing/probability-of-having-k-floods-in-n-years,False
+https://gitlab.irstea.fr/hydrotools_demosandprocessing/probability-of-having-k-floods-in-n-years,True
 https://gitlab.irstea.fr/hydrotools_demosandprocessing/sample2gumbel,True
 https://gitlab.irstea.fr/in-wop/airGRiwrm,True
 https://gitlab.irstea.fr/in-wop/bnpe,True
