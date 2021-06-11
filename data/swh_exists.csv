@@ -3980,7 +3980,7 @@ https://github.com/diverse-project/farmbot,True
 https://github.com/diverse-project/flink-datacenter,True
 https://github.com/diverse-project/gen-mobile-data-app,True
 https://github.com/diverse-project/http-traffic4web-security,True
-https://github.com/diverse-project/jhipster-dataset,False
+https://github.com/diverse-project/jhipster-dataset,True
 https://github.com/diverse-project/k3,True
 https://github.com/diverse-project/kcvl,True
 https://github.com/diverse-project/kermeta,True
@@ -4082,7 +4082,7 @@ https://github.com/entrepreneur-interet-general/brigade-numerique,True
 https://github.com/entrepreneur-interet-general/bulletins,True
 https://github.com/entrepreneur-interet-general/bulletins-docs,True
 https://github.com/entrepreneur-interet-general/bulloterie,True
-https://github.com/entrepreneur-interet-general/bulloterie-dash,False
+https://github.com/entrepreneur-interet-general/bulloterie-dash,True
 https://github.com/entrepreneur-interet-general/cartav,True
 https://github.com/entrepreneur-interet-general/cheapExp,True
 https://github.com/entrepreneur-interet-general/clj-rgf93-wgs84,True
@@ -7993,6 +7993,7 @@ https://gitlab.inria.fr/source_code/ai_paper_code,True
 https://gitlab.inria.fr/spine/spine_model,True
 https://gitlab.inria.fr/spinfer/spinfer,True
 https://gitlab.inria.fr/spinfer/spinfer_evaluation,True
+https://gitlab.inria.fr/stage-env/support,False
 https://gitlab.inria.fr/star-explain/fjs_of_fml,True
 https://gitlab.inria.fr/star-explain/jsexplain,True
 https://gitlab.inria.fr/star-explain/opam-repository,True
