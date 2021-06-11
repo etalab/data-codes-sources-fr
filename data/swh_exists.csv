@@ -449,6 +449,7 @@ https://forgemia.inra.fr/metagenopolis/trim_fastq,True
 https://forgemia.inra.fr/metexplore/MetExploreViz,True
 https://forgemia.inra.fr/metexplore/cbm/dexom,True
 https://forgemia.inra.fr/metexplore/cbm/fvabiomarkers,True
+https://forgemia.inra.fr/metexplore/cbm/met4j-dynamicrfba-singularity,False
 https://forgemia.inra.fr/metexplore/cbm/met4j-flux,True
 https://forgemia.inra.fr/metexplore/met4j,True
 https://forgemia.inra.fr/metexplore/metabolomics2network,True
@@ -1176,7 +1177,7 @@ https://github.com/CCSDForge/StaticFiles,True
 https://github.com/CCSDForge/episciences,True
 https://github.com/CCSDForge/episciences-api,True
 https://github.com/CCSDForge/episciences-doc,True
-https://github.com/CCSDForge/orcid-php-client,False
+https://github.com/CCSDForge/orcid-php-client,True
 https://github.com/CEA-LIST/AD-RobustnessEval,True
 https://github.com/CEA-LIST/CinguParam,True
 https://github.com/CEA-LIST/Cingulata,True
@@ -2875,7 +2876,7 @@ https://github.com/StartupsPoleEmploi/zen,True
 https://github.com/StartupsPoleEmploi/zen-createur,True
 https://github.com/X-DataInitiative/MultiVariatePointProcess,True
 https://github.com/X-DataInitiative/SCALPEL-Analysis,True
-https://github.com/X-DataInitiative/SCALPEL-Experience,False
+https://github.com/X-DataInitiative/SCALPEL-Experience,True
 https://github.com/X-DataInitiative/SCALPEL-Extraction,True
 https://github.com/X-DataInitiative/SCALPEL-Flattening,True
 https://github.com/X-DataInitiative/SCALPEL3,True
@@ -6992,7 +6993,7 @@ https://gitlab.inria.fr/cobcom/cimem/bayesnet,True
 https://gitlab.inria.fr/cobcom/cimem/cimem,True
 https://gitlab.inria.fr/cobcom/cimem/recur,True
 https://gitlab.inria.fr/cobcom/talon,True
-https://gitlab.inria.fr/cobcom/wlalign,False
+https://gitlab.inria.fr/cobcom/wlalign,True
 https://gitlab.inria.fr/coccinelle/coccinelle,True
 https://gitlab.inria.fr/coccinelle/reference_scores,True
 https://gitlab.inria.fr/coding-dojo-saclay/Blockchain,True
@@ -7316,7 +7317,7 @@ https://gitlab.inria.fr/gazelle/library/datatable-component,True
 https://gitlab.inria.fr/gazelle/library/fhir-util,True
 https://gitlab.inria.fr/gazelle/library/gazelle-assertion-coverage-provider,True
 https://gitlab.inria.fr/gazelle/library/gazelle-assets,True
-https://gitlab.inria.fr/gazelle/library/gazelle-evsclient-common,False
+https://gitlab.inria.fr/gazelle/library/gazelle-evsclient-common,True
 https://gitlab.inria.fr/gazelle/library/gazelle-preferences,True
 https://gitlab.inria.fr/gazelle/library/gazelle-tm-tools,True
 https://gitlab.inria.fr/gazelle/library/gazelle-tools,True
@@ -8694,11 +8695,11 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/phd-xavier/pre_analyses_ecrins,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/phelma/a-propos,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/phelma/fablab/marlin_blackprusa,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/phitem/design-linux-uga,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/phitem/environnement-bureau-gnome,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/phitem/environnement-bureau-gnome,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/phitem/installation-environnement-bureau-gnome-avec-ansible,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/pmall/apli_pmall,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/pmall/app_op,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/pmall/bdd_aerosols,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/pmall/bdd_aerosols,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/pmall/pm-source,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/pmall/pyopestimator,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/pmall/pyopestimator-data,True
