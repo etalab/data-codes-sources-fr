@@ -357,6 +357,8 @@ https://forgemia.inra.fr/gafl/singularity/vcftools,True
 https://forgemia.inra.fr/gafl/singularity/whatshap,True
 https://forgemia.inra.fr/gafl/snakemake_modules,True
 https://forgemia.inra.fr/gafl/thaliadb/ThaliaDB_singularity,True
+https://forgemia.inra.fr/genepi/analyses/methylation-analysis-for-chickstress,False
+https://forgemia.inra.fr/genepi/analyses/rosepigs,False
 https://forgemia.inra.fr/genotoul-bioinfo/dgenies,True
 https://forgemia.inra.fr/genotoul-bioinfo/dgenies-viewer,True
 https://forgemia.inra.fr/genotoul-bioinfo/jflow,True
@@ -3150,7 +3152,7 @@ https://github.com/betagouv/api-auth,True
 https://github.com/betagouv/api-caf,True
 https://github.com/betagouv/api-cpa,True
 https://github.com/betagouv/api-diagoriente-v5,True
-https://github.com/betagouv/api-domaines,False
+https://github.com/betagouv/api-domaines,True
 https://github.com/betagouv/api-drones,True
 https://github.com/betagouv/api-engagement,True
 https://github.com/betagouv/api-label-transition-ecologique,True
@@ -3874,6 +3876,18 @@ https://github.com/datagir/nosgestesclimat,True
 https://github.com/datagir/nosgestesclimat-site,True
 https://github.com/datagir/quefairedemesdechets,True
 https://github.com/datagir/teletravail,True
+https://github.com/datalab-mi/Casper,False
+https://github.com/datalab-mi/carto-fast,False
+https://github.com/datalab-mi/datalab-mi.github.io,False
+https://github.com/datalab-mi/dev-infra,False
+https://github.com/datalab-mi/docker-dss,False
+https://github.com/datalab-mi/docker-postgres,False
+https://github.com/datalab-mi/ghost,False
+https://github.com/datalab-mi/lab-nlp,False
+https://github.com/datalab-mi/mdr-infra,False
+https://github.com/datalab-mi/moteur-de-recherche,False
+https://github.com/datalab-mi/piac-bot,False
+https://github.com/datalab-mi/website,False
 https://github.com/datalocale/BinFul,True
 https://github.com/datalocale/ECV-IJBA,True
 https://github.com/datalocale/G8_Metadata_Mapping,True
@@ -7101,6 +7115,9 @@ https://gitlab.inria.fr/dexms/end-to-end-examples,True
 https://gitlab.inria.fr/dexms/service,True
 https://gitlab.inria.fr/dexms/website,True
 https://gitlab.inria.fr/dgd-i/seminairestransverses,True
+https://gitlab.inria.fr/dgd-i/seminairetransverse/2021-06-jupyter,False
+https://gitlab.inria.fr/dgd-i/seminairetransverse/Markdown,False
+https://gitlab.inria.fr/dgd-i/seminairetransverse/seminairestransverses,False
 https://gitlab.inria.fr/dgd-s/testandalert,True
 https://gitlab.inria.fr/dh-projects/aspyre-gt,True
 https://gitlab.inria.fr/dh-projects/aspyre-gui,True
@@ -8010,6 +8027,7 @@ https://gitlab.inria.fr/synalp/website,True
 https://gitlab.inria.fr/synchrone/heptagon,True
 https://gitlab.inria.fr/syntheticgt/syntheticgt-mitsuba,True
 https://gitlab.inria.fr/syntheticgt/syntheticgt-utilities,True
+https://gitlab.inria.fr/tangram/3d-aware-ellipses-for-visual-localization,False
 https://gitlab.inria.fr/tansiv/python-tansiv,True
 https://gitlab.inria.fr/tapenade/tapenade,True
 https://gitlab.inria.fr/tapenade/userdoc,True
