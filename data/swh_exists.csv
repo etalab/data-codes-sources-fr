@@ -535,6 +535,7 @@ https://forgemia.inra.fr/umr-astre/mapMCDA,True
 https://forgemia.inra.fr/umr-astre/ppp-oie,True
 https://forgemia.inra.fr/umr-astre/rvf_mrt,True
 https://forgemia.inra.fr/umr-astre/spreadrate,True
+https://forgemia.inra.fr/umr-astre/stage_mlegray,False
 https://forgemia.inra.fr/umr-astre/topomatch,True
 https://forgemia.inra.fr/umr-astre/training/doc-references,True
 https://forgemia.inra.fr/umr-astre/training/notions_stats,True
@@ -1149,7 +1150,7 @@ https://github.com/BibCnrs/wp-EBSCO-widget,True
 https://github.com/Bibliome/Alvis,True
 https://github.com/Bibliome/TEES,True
 https://github.com/Bibliome/alvis-docker,True
-https://github.com/Bibliome/alvis-guidelines,False
+https://github.com/Bibliome/alvis-guidelines,True
 https://github.com/Bibliome/alvis-metadata,False
 https://github.com/Bibliome/alvis_galaxy_capsule,True
 https://github.com/Bibliome/alvisae,True
@@ -3556,7 +3557,7 @@ https://github.com/cea-hpc/Modane,True
 https://github.com/cea-hpc/Monilog4NabLab,True
 https://github.com/cea-hpc/NabLab,True
 https://github.com/cea-hpc/PCVS,True
-https://github.com/cea-hpc/bmgr,False
+https://github.com/cea-hpc/bmgr,True
 https://github.com/cea-hpc/bridge,True
 https://github.com/cea-hpc/clustershell,True
 https://github.com/cea-hpc/fleet,True
@@ -8123,12 +8124,12 @@ https://gitlab.irstea.fr/geopat/geopat,True
 https://gitlab.irstea.fr/hru-delin-dev/hru-delin,True
 https://gitlab.irstea.fr/hru-delin-dev/hru-delin-qgis,True
 https://gitlab.irstea.fr/hydrotools_demosandprocessing/backwater-curve-approximation,False
-https://gitlab.irstea.fr/hydrotools_demosandprocessing/illustrattions-for-wikis,False
+https://gitlab.irstea.fr/hydrotools_demosandprocessing/illustrattions-for-wikis,True
 https://gitlab.irstea.fr/hydrotools_demosandprocessing/probability-of-having-k-floods-in-n-years,True
 https://gitlab.irstea.fr/hydrotools_demosandprocessing/sample2gumbel,True
 https://gitlab.irstea.fr/in-wop/airGRiwrm,True
 https://gitlab.irstea.fr/in-wop/bnpe,True
-https://gitlab.irstea.fr/in-wop/inwopusages,False
+https://gitlab.irstea.fr/in-wop/inwopusages,True
 https://gitlab.irstea.fr/in-wop/irmara,True
 https://gitlab.irstea.fr/in-wop/multivgest,True
 https://gitlab.irstea.fr/in-wop/rvgest,True
