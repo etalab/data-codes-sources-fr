@@ -358,7 +358,7 @@ https://forgemia.inra.fr/gafl/singularity/whatshap,True
 https://forgemia.inra.fr/gafl/snakemake_modules,True
 https://forgemia.inra.fr/gafl/thaliadb/ThaliaDB_singularity,True
 https://forgemia.inra.fr/genepi/analyses/methylation-analysis-for-chickstress,False
-https://forgemia.inra.fr/genepi/analyses/rosepigs,False
+https://forgemia.inra.fr/genepi/analyses/rosepigs,True
 https://forgemia.inra.fr/genotoul-bioinfo/dgenies,True
 https://forgemia.inra.fr/genotoul-bioinfo/dgenies-viewer,True
 https://forgemia.inra.fr/genotoul-bioinfo/jflow,True
@@ -2602,7 +2602,7 @@ https://github.com/SocialGouv/1000jours,True
 https://github.com/SocialGouv/SocialGouvUi,True
 https://github.com/SocialGouv/TextStyle,True
 https://github.com/SocialGouv/TextStyle-script,True
-https://github.com/SocialGouv/Tumeplay,False
+https://github.com/SocialGouv/Tumeplay,True
 https://github.com/SocialGouv/UDD,True
 https://github.com/SocialGouv/aes-gcm-rsa-oaep,True
 https://github.com/SocialGouv/annuaire-mjpm,True
@@ -2924,7 +2924,7 @@ https://github.com/abes-esr/licencesnationales-front,True
 https://github.com/abes-esr/ln-back-event,False
 https://github.com/abes-esr/ln-front,False
 https://github.com/abes-esr/marcxml2tei,True
-https://github.com/abes-esr/openapi,False
+https://github.com/abes-esr/openapi,True
 https://github.com/abes-esr/periscope-back,True
 https://github.com/abes-esr/periscope-front,True
 https://github.com/abes-esr/periscope-indexing-ws,True
@@ -3882,11 +3882,11 @@ https://github.com/datalab-mi/datalab-mi.github.io,False
 https://github.com/datalab-mi/dev-infra,False
 https://github.com/datalab-mi/docker-dss,False
 https://github.com/datalab-mi/docker-postgres,False
-https://github.com/datalab-mi/ghost,False
+https://github.com/datalab-mi/ghost,True
 https://github.com/datalab-mi/lab-nlp,False
 https://github.com/datalab-mi/mdr-infra,False
 https://github.com/datalab-mi/moteur-de-recherche,False
-https://github.com/datalab-mi/piac-bot,False
+https://github.com/datalab-mi/piac-bot,True
 https://github.com/datalab-mi/website,False
 https://github.com/datalocale/BinFul,True
 https://github.com/datalocale/ECV-IJBA,True
@@ -8142,7 +8142,7 @@ https://gitlab.irstea.fr/geau-technical/geau-utility,True
 https://gitlab.irstea.fr/geopat/geopat,True
 https://gitlab.irstea.fr/hru-delin-dev/hru-delin,True
 https://gitlab.irstea.fr/hru-delin-dev/hru-delin-qgis,True
-https://gitlab.irstea.fr/hydrotools_demosandprocessing/backwater-curve-approximation,False
+https://gitlab.irstea.fr/hydrotools_demosandprocessing/backwater-curve-approximation,True
 https://gitlab.irstea.fr/hydrotools_demosandprocessing/illustrattions-for-wikis,True
 https://gitlab.irstea.fr/hydrotools_demosandprocessing/probability-of-having-k-floods-in-n-years,True
 https://gitlab.irstea.fr/hydrotools_demosandprocessing/sample2gumbel,True
@@ -8243,7 +8243,7 @@ https://gitlab.math.unistra.fr/urfist/cours-python,True
 https://gitlab.math.unistra.fr/voiceover/voiceover-terminal,True
 https://gitlab.orfeo-toolbox.org/maja/maja,True
 https://gitlab.orfeo-toolbox.org/maja/maja-build-env,True
-https://gitlab.orfeo-toolbox.org/maja/maja-utilities,False
+https://gitlab.orfeo-toolbox.org/maja/maja-utilities,True
 https://gitlab.orfeo-toolbox.org/orfeotoolbox/otb,True
 https://gitlab.orfeo-toolbox.org/orfeotoolbox/otb-build-env,True
 https://gitlab.orfeo-toolbox.org/orfeotoolbox/otb-data,True
