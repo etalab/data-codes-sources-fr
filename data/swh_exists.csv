@@ -6426,7 +6426,7 @@ https://gitlab.huma-num.fr/disco-lge/tei-encoding,True
 https://gitlab.huma-num.fr/disco-lge/vue-d-ensemble,True
 https://gitlab.huma-num.fr/ecrinum/anthologia/dataap,True
 https://gitlab.huma-num.fr/ecrinum/anthologia/pythonap,True
-https://gitlab.huma-num.fr/ecrinum/latextemplates,False
+https://gitlab.huma-num.fr/ecrinum/latextemplates,True
 https://gitlab.huma-num.fr/ecrinum/manuels/introduction-a-zotero,True
 https://gitlab.huma-num.fr/ecrinum/manuels/tutoriel-markdown-pandoc,True
 https://gitlab.huma-num.fr/ecrinum/projetglissant,True
@@ -7306,7 +7306,7 @@ https://gitlab.inria.fr/gazelle/applications/test-execution/validator/FhirValida
 https://gitlab.inria.fr/gazelle/applications/test-execution/validator/SchematronValidator,True
 https://gitlab.inria.fr/gazelle/applications/test-execution/validator/archetypes/generated-validator,False
 https://gitlab.inria.fr/gazelle/applications/test-execution/validator/ch_iua-validator-service,True
-https://gitlab.inria.fr/gazelle/applications/test-execution/validator/eu-digital-covid-certificate-validator,False
+https://gitlab.inria.fr/gazelle/applications/test-execution/validator/eu-digital-covid-certificate-validator,True
 https://gitlab.inria.fr/gazelle/applications/test-execution/validator/gazellehl7v2validator,True
 https://gitlab.inria.fr/gazelle/applications/test-execution/validator/hl7templates/gocmodel-jar,False
 https://gitlab.inria.fr/gazelle/applications/test-execution/validator/hl7templates/hl7template-generator-jar,False
