@@ -189,6 +189,7 @@ https://forge.univ-lyon1.fr/lifprojet-lifprojet/raytracing,True
 https://forge.univ-lyon1.fr/lifprojet/lifprojet_am3,True
 https://forge.univ-lyon1.fr/loup-garouptut/loupandroid,True
 https://forge.univ-lyon1.fr/lpt-soft/lifprojet-lpto,True
+https://forge.univ-lyon1.fr/m1-grp26/impact-pollution-mortalite,False
 https://forge.univ-lyon1.fr/m1if13/m1if13-2019,True
 https://forge.univ-lyon1.fr/m1if13/m1if13-2020,True
 https://forge.univ-lyon1.fr/m1if13/m1if13-2021,True
@@ -1167,7 +1168,7 @@ https://github.com/Bibliome/bionlp-st,True
 https://github.com/Bibliome/food-microbiome-habitats,True
 https://github.com/Bibliome/misc-utils,True
 https://github.com/Bibliome/obo-utils,True
-https://github.com/Bibliome/onto-relation-vizualisation,False
+https://github.com/Bibliome/onto-relation-vizualisation,True
 https://github.com/Bibliome/pubmed-utils,True
 https://github.com/CCSDForge/CcsdCommon,True
 https://github.com/CCSDForge/Convert,True
