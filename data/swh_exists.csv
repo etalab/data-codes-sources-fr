@@ -358,7 +358,7 @@ https://forgemia.inra.fr/gafl/singularity/vcftools,True
 https://forgemia.inra.fr/gafl/singularity/whatshap,True
 https://forgemia.inra.fr/gafl/snakemake_modules,True
 https://forgemia.inra.fr/gafl/thaliadb/ThaliaDB_singularity,True
-https://forgemia.inra.fr/genepi/analyses/methylation-analysis-for-chickstress,False
+https://forgemia.inra.fr/genepi/analyses/methylation-analysis-for-chickstress,True
 https://forgemia.inra.fr/genepi/analyses/rosepigs,True
 https://forgemia.inra.fr/genotoul-bioinfo/dgenies,True
 https://forgemia.inra.fr/genotoul-bioinfo/dgenies-viewer,True
@@ -4769,7 +4769,7 @@ https://github.com/ina-foss/voxo-docker,True
 https://github.com/ina-foss/voxo-lib,True
 https://github.com/incubateur-territoires/demo-mesaides28,True
 https://github.com/incubateur-territoires/discourse-theme,True
-https://github.com/incubateur-territoires/dokku-discourse,False
+https://github.com/incubateur-territoires/dokku-discourse,True
 https://github.com/incubateur-territoires/gridsome-source-graphql,True
 https://github.com/incubateur-territoires/incubateur-directus,True
 https://github.com/incubateur-territoires/incubateur-strapi,True
