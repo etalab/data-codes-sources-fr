@@ -3323,7 +3323,7 @@ https://github.com/betagouv/itou-marche-api,True
 https://github.com/betagouv/itou-pilotage,True
 https://github.com/betagouv/itou-subscribe,True
 https://github.com/betagouv/itou-support,True
-https://github.com/betagouv/itou-theme,False
+https://github.com/betagouv/itou-theme,True
 https://github.com/betagouv/itou-theme-discourse,True
 https://github.com/betagouv/itou_c4_python_api,True
 https://github.com/betagouv/itou_entreprise,False
@@ -5214,7 +5214,7 @@ https://github.com/medialab/toflit18_data,True
 https://github.com/medialab/tools,True
 https://github.com/medialab/tools-old,True
 https://github.com/medialab/trustlab,True
-https://github.com/medialab/truth-and-trust-online-2021,False
+https://github.com/medialab/truth-and-trust-online-2021,True
 https://github.com/medialab/tweet-bubbles,True
 https://github.com/medialab/twitwi,True
 https://github.com/medialab/txjsonrpc,True
@@ -7117,7 +7117,7 @@ https://gitlab.inria.fr/dexms/service,True
 https://gitlab.inria.fr/dexms/website,True
 https://gitlab.inria.fr/dgd-i/seminairestransverses,True
 https://gitlab.inria.fr/dgd-i/seminairetransverse/2021-06-jupyter,False
-https://gitlab.inria.fr/dgd-i/seminairetransverse/Markdown,False
+https://gitlab.inria.fr/dgd-i/seminairetransverse/Markdown,True
 https://gitlab.inria.fr/dgd-i/seminairetransverse/seminairestransverses,False
 https://gitlab.inria.fr/dgd-s/testandalert,True
 https://gitlab.inria.fr/dh-projects/aspyre-gt,True
