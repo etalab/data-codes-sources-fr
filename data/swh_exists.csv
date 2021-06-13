@@ -189,7 +189,7 @@ https://forge.univ-lyon1.fr/lifprojet-lifprojet/raytracing,True
 https://forge.univ-lyon1.fr/lifprojet/lifprojet_am3,True
 https://forge.univ-lyon1.fr/loup-garouptut/loupandroid,True
 https://forge.univ-lyon1.fr/lpt-soft/lifprojet-lpto,True
-https://forge.univ-lyon1.fr/m1-grp26/impact-pollution-mortalite,False
+https://forge.univ-lyon1.fr/m1-grp26/impact-pollution-mortalite,True
 https://forge.univ-lyon1.fr/m1if13/m1if13-2019,True
 https://forge.univ-lyon1.fr/m1if13/m1if13-2020,True
 https://forge.univ-lyon1.fr/m1if13/m1if13-2021,True
@@ -3037,7 +3037,7 @@ https://github.com/ambanum/server-config,True
 https://github.com/ambanum/snscrape,True
 https://github.com/ambanum/social-networks-bot-finder,True
 https://github.com/ambanum/twint,True
-https://github.com/ansforge/ModelisationFHIRdesacteursdesante,False
+https://github.com/ansforge/ModelisationFHIRdesacteursdesante,True
 https://github.com/ansforge/Modelisationdesstructuresetdesprofessionnels,False
 https://github.com/ansforge/esignsante,True
 https://github.com/ansforge/politique-de-contribution-open-source,False
@@ -3228,7 +3228,7 @@ https://github.com/betagouv/datagir-site,True
 https://github.com/betagouv/datapass,True
 https://github.com/betagouv/datapass-api-particulier-bridge,True
 https://github.com/betagouv/dds-cross-simulator,True
-https://github.com/betagouv/declic.comobi.fr,False
+https://github.com/betagouv/declic.comobi.fr,True
 https://github.com/betagouv/demarches-simplifiees.fr,True
 https://github.com/betagouv/demarches.api.gouv.fr,True
 https://github.com/betagouv/demo-flux-cnaf,True
@@ -3877,10 +3877,10 @@ https://github.com/datagir/nosgestesclimat,True
 https://github.com/datagir/nosgestesclimat-site,True
 https://github.com/datagir/quefairedemesdechets,True
 https://github.com/datagir/teletravail,True
-https://github.com/datalab-mi/Casper,False
+https://github.com/datalab-mi/Casper,True
 https://github.com/datalab-mi/carto-fast,False
 https://github.com/datalab-mi/datalab-mi.github.io,True
-https://github.com/datalab-mi/dev-infra,False
+https://github.com/datalab-mi/dev-infra,True
 https://github.com/datalab-mi/docker-dss,False
 https://github.com/datalab-mi/docker-postgres,False
 https://github.com/datalab-mi/ghost,True
