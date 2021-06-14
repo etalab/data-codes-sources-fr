@@ -2921,7 +2921,7 @@ https://github.com/abes-esr/idref-queries,True
 https://github.com/abes-esr/idrefplus-queries,True
 https://github.com/abes-esr/item-api,True
 https://github.com/abes-esr/item-client,True
-https://github.com/abes-esr/kalidos,False
+https://github.com/abes-esr/kalidos,True
 https://github.com/abes-esr/licencesnationales-back,True
 https://github.com/abes-esr/licencesnationales-front,True
 https://github.com/abes-esr/ln-back-event,False
@@ -3884,14 +3884,14 @@ https://github.com/datalab-mi/Casper,True
 https://github.com/datalab-mi/carto-fast,False
 https://github.com/datalab-mi/datalab-mi.github.io,True
 https://github.com/datalab-mi/dev-infra,True
-https://github.com/datalab-mi/docker-dss,False
+https://github.com/datalab-mi/docker-dss,True
 https://github.com/datalab-mi/docker-postgres,False
 https://github.com/datalab-mi/ghost,True
 https://github.com/datalab-mi/lab-nlp,False
-https://github.com/datalab-mi/mdr-infra,False
+https://github.com/datalab-mi/mdr-infra,True
 https://github.com/datalab-mi/moteur-de-recherche,True
 https://github.com/datalab-mi/piac-bot,True
-https://github.com/datalab-mi/website,False
+https://github.com/datalab-mi/website,True
 https://github.com/datalocale/BinFul,True
 https://github.com/datalocale/ECV-IJBA,True
 https://github.com/datalocale/G8_Metadata_Mapping,True
