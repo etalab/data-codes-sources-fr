@@ -1703,6 +1703,7 @@ https://github.com/GIP-RECIA/moodle-dev-stack,True
 https://github.com/GIP-RECIA/moodle-filter_jmol,True
 https://github.com/GIP-RECIA/moodle-filter_poodll,True
 https://github.com/GIP-RECIA/moodle-mod_etherpadlite,True
+https://github.com/GIP-RECIA/moodle-mod_geogebra,False
 https://github.com/GIP-RECIA/moodle-themes-locaux,True
 https://github.com/GIP-RECIA/moodle_enrol_simplesco,True
 https://github.com/GIP-RECIA/moodle_esco,True
@@ -3849,6 +3850,7 @@ https://github.com/cw-leia/smartleia-doc,True
 https://github.com/cw-leia/smartleia-target,True
 https://github.com/cw-leia/smartleia-target-applet,True
 https://github.com/dataesr/bso-clinical-trials,True
+https://github.com/dataesr/bso-parser-html,False
 https://github.com/dataesr/bso-publications,True
 https://github.com/dataesr/bso-ui,True
 https://github.com/dataesr/curieXplore-paysage,True
@@ -3886,7 +3888,7 @@ https://github.com/datalab-mi/docker-postgres,False
 https://github.com/datalab-mi/ghost,True
 https://github.com/datalab-mi/lab-nlp,False
 https://github.com/datalab-mi/mdr-infra,False
-https://github.com/datalab-mi/moteur-de-recherche,False
+https://github.com/datalab-mi/moteur-de-recherche,True
 https://github.com/datalab-mi/piac-bot,True
 https://github.com/datalab-mi/website,False
 https://github.com/datalocale/BinFul,True
@@ -4444,6 +4446,8 @@ https://github.com/etalab/franceconnect-rne,True
 https://github.com/etalab/fridaylab,True
 https://github.com/etalab/gazetteer,True
 https://github.com/etalab/gbfs,True
+https://github.com/etalab/gbfs-carsharing-extension,False
+https://github.com/etalab/gbfs-json-schema-carsharing-extension,False
 https://github.com/etalab/geo.api.gouv.fr,True
 https://github.com/etalab/geo.data.gouv.fr,True
 https://github.com/etalab/geo.data.gouv.fr-components,True
@@ -7984,6 +7988,7 @@ https://gitlab.inria.fr/solverstack/morse_cmake,True
 https://gitlab.inria.fr/solverstack/paddle,True
 https://gitlab.inria.fr/solverstack/parade,True
 https://gitlab.inria.fr/solverstack/pastix,True
+https://gitlab.inria.fr/solverstack/qr_mumps,False
 https://gitlab.inria.fr/solverstack/spack-repo,True
 https://gitlab.inria.fr/solverstack/spm,True
 https://gitlab.inria.fr/solverstack/tabakov,True
