@@ -1642,6 +1642,7 @@ https://github.com/GIP-RECIA/Madiacentre-UI,True
 https://github.com/GIP-RECIA/Markdown_Server_Documentation_Generator,True
 https://github.com/GIP-RECIA/MediaCentre,True
 https://github.com/GIP-RECIA/MediaCentre-WS,True
+https://github.com/GIP-RECIA/Mediacentre-UI,False
 https://github.com/GIP-RECIA/Notification-POC,True
 https://github.com/GIP-RECIA/NotificationPortlet,True
 https://github.com/GIP-RECIA/Pronote-WS,True
@@ -6352,6 +6353,7 @@ https://gitlab.com/fabnum-minarm/igloo/terraform/main,True
 https://gitlab.com/fabnum-minarm/igloo/terraform/modules/add-runner,True
 https://gitlab.com/fabnum-minarm/igloo/terraform/modules/configure-repository-for-deployment,True
 https://gitlab.com/fabnum-minarm/igloo/terraform/modules/create-namespace,True
+https://gitlab.com/fabnum-minarm/igloo/terraform/modules/postgresql,False
 https://gitlab.com/fabnum-minarm/igloo/terraform/modules/timescaledb,True
 https://gitlab.com/fabnum-minarm/igloo/terraform/projects/_template,True
 https://gitlab.com/fabnum-minarm/igloo/terraform/projects/alpps,True
@@ -6367,7 +6369,7 @@ https://gitlab.com/fabnum-minarm/stargate/frontend,True
 https://gitlab.com/fabnum-minarm/stargate/stargate,True
 https://gitlab.com/france-mobilites/documents-marches-publics,True
 https://gitlab.com/hatvp-open/agora,True
-https://gitlab.com/healthdatahub/conversion-norme-a,False
+https://gitlab.com/healthdatahub/conversion-norme-a,True
 https://gitlab.com/healthdatahub/dataviz_tableau-de-bord,True
 https://gitlab.com/healthdatahub/dico-snds,True
 https://gitlab.com/healthdatahub/dico-snds-creation-archive,True
@@ -6614,7 +6616,7 @@ https://gitlab.inria.fr/GardiNet/liblc,True
 https://gitlab.inria.fr/GruLab/s-cgn,True
 https://gitlab.inria.fr/GruLab/s-gcn,True
 https://gitlab.inria.fr/IOTLanguage/IoTCompilertoBIP,True
-https://gitlab.inria.fr/InBio/Public/YeastOptogeneticDifferentiation_YODA,False
+https://gitlab.inria.fr/InBio/Public/YeastOptogeneticDifferentiation_YODA,True
 https://gitlab.inria.fr/InBio/Public/cvode-rust-wrap,True
 https://gitlab.inria.fr/InBio/Public/efaecalis-ratio,True
 https://gitlab.inria.fr/InBio/Public/fwd_ad,True
@@ -8033,6 +8035,7 @@ https://gitlab.inria.fr/stopcovid19/stopcovid-robertsdk-android,True
 https://gitlab.inria.fr/stopcovid19/stopcovid-robertsdk-ios,True
 https://gitlab.inria.fr/stopcovid19/submission-code-server,True
 https://gitlab.inria.fr/stopcovid19/submission-code-server-client-api-spec,True
+https://gitlab.inria.fr/stopcovid19/submission-code-server-old,False
 https://gitlab.inria.fr/structgraphics/code,True
 https://gitlab.inria.fr/swloc/swloc,True
 https://gitlab.inria.fr/swloc/swloc.gitlabpages.inria.fr,True
@@ -9000,6 +9003,7 @@ https://plmlab.math.cnrs.fr/plmshift/mysqldump,True
 https://plmlab.math.cnrs.fr/plmshift/notebook-example,True
 https://plmlab.math.cnrs.fr/plmshift/oauth-proxy,True
 https://plmlab.math.cnrs.fr/plmshift/odh-manifests-for-plm,True
+https://plmlab.math.cnrs.fr/plmshift/opendatahub/julia-jupyter-notebooks-with-cuda,False
 https://plmlab.math.cnrs.fr/plmshift/opendatahub/s2i-base-container,True
 https://plmlab.math.cnrs.fr/plmshift/opendatahub/s2i-pytorch-notebook,True
 https://plmlab.math.cnrs.fr/plmshift/opendatahub/s2i-tensorflow-gpu-notebook,True
