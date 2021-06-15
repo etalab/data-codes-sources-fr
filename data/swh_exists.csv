@@ -452,7 +452,7 @@ https://forgemia.inra.fr/metagenopolis/trim_fastq,True
 https://forgemia.inra.fr/metexplore/MetExploreViz,True
 https://forgemia.inra.fr/metexplore/cbm/dexom,True
 https://forgemia.inra.fr/metexplore/cbm/fvabiomarkers,True
-https://forgemia.inra.fr/metexplore/cbm/met4j-dynamicrfba-singularity,False
+https://forgemia.inra.fr/metexplore/cbm/met4j-dynamicrfba-singularity,True
 https://forgemia.inra.fr/metexplore/cbm/met4j-flux,True
 https://forgemia.inra.fr/metexplore/met4j,True
 https://forgemia.inra.fr/metexplore/metabolomics2network,True
@@ -4450,7 +4450,7 @@ https://github.com/etalab/franceconnect-rne,True
 https://github.com/etalab/fridaylab,True
 https://github.com/etalab/gazetteer,True
 https://github.com/etalab/gbfs,True
-https://github.com/etalab/gbfs-carsharing-extension,False
+https://github.com/etalab/gbfs-carsharing-extension,True
 https://github.com/etalab/gbfs-json-schema-carsharing-extension,True
 https://github.com/etalab/geo.api.gouv.fr,True
 https://github.com/etalab/geo.data.gouv.fr,True
@@ -6361,6 +6361,7 @@ https://gitlab.com/fabnum-minarm/igloo/terraform/projects/anais,True
 https://gitlab.com/fabnum-minarm/igloo/terraform/projects/argos,True
 https://gitlab.com/fabnum-minarm/igloo/terraform/projects/cassiopee,True
 https://gitlab.com/fabnum-minarm/igloo/terraform/projects/e-chauffeur,True
+https://gitlab.com/fabnum-minarm/igloo/terraform/projects/octopus,False
 https://gitlab.com/fabnum-minarm/igloo/terraform/projects/sepia,True
 https://gitlab.com/fabnum-minarm/metiis/backend,True
 https://gitlab.com/fabnum-minarm/metiis/frontend,True
