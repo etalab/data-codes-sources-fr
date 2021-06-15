@@ -4449,7 +4449,7 @@ https://github.com/etalab/fridaylab,True
 https://github.com/etalab/gazetteer,True
 https://github.com/etalab/gbfs,True
 https://github.com/etalab/gbfs-carsharing-extension,False
-https://github.com/etalab/gbfs-json-schema-carsharing-extension,False
+https://github.com/etalab/gbfs-json-schema-carsharing-extension,True
 https://github.com/etalab/geo.api.gouv.fr,True
 https://github.com/etalab/geo.data.gouv.fr,True
 https://github.com/etalab/geo.data.gouv.fr-components,True
