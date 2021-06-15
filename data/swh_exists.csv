@@ -1503,6 +1503,7 @@ https://github.com/EDS-APHP/tag_serve,True
 https://github.com/EDS-APHP/uima-aphp,True
 https://github.com/EDS-APHP/yarn-manager,True
 https://github.com/Envinorma/alto,True
+https://github.com/Envinorma/arretes-ministeriels,False
 https://github.com/Envinorma/arretes_ministeriels,True
 https://github.com/Envinorma/back-office,True
 https://github.com/Envinorma/data-tasks,True
@@ -3851,7 +3852,7 @@ https://github.com/cw-leia/smartleia-doc,True
 https://github.com/cw-leia/smartleia-target,True
 https://github.com/cw-leia/smartleia-target-applet,True
 https://github.com/dataesr/bso-clinical-trials,True
-https://github.com/dataesr/bso-parser-html,False
+https://github.com/dataesr/bso-parser-html,True
 https://github.com/dataesr/bso-publications,True
 https://github.com/dataesr/bso-ui,True
 https://github.com/dataesr/curieXplore-paysage,True
@@ -6253,7 +6254,7 @@ https://gitlab.cerema.fr/admin-donnees/fr.cerema.admin_donnees_postgresql,True
 https://gitlab.cerema.fr/centre-est/admin_ceremabase,True
 https://gitlab.cerema.fr/centre-est/diagnostic-trafic-rshiny,False
 https://gitlab.cerema.fr/centre-est/mobilite/Stream/qstream,True
-https://gitlab.cerema.fr/centre-est/mobilite/Stream/stream-python,False
+https://gitlab.cerema.fr/centre-est/mobilite/Stream/stream-python,True
 https://gitlab.cerema.fr/centre-est/mobilite/diagnostic-trafic-rshiny,True
 https://gitlab.cerema.fr/geomatique_donnees/en_test,True
 https://gitlab.cerema.fr/rem-d2pn-pn/fairplay,True
@@ -6366,6 +6367,7 @@ https://gitlab.com/fabnum-minarm/stargate/frontend,True
 https://gitlab.com/fabnum-minarm/stargate/stargate,True
 https://gitlab.com/france-mobilites/documents-marches-publics,True
 https://gitlab.com/hatvp-open/agora,True
+https://gitlab.com/healthdatahub/conversion-norme-a,False
 https://gitlab.com/healthdatahub/dataviz_tableau-de-bord,True
 https://gitlab.com/healthdatahub/dico-snds,True
 https://gitlab.com/healthdatahub/dico-snds-creation-archive,True
@@ -6838,7 +6840,7 @@ https://gitlab.inria.fr/almanach/lectaurep/documentation,True
 https://gitlab.inria.fr/almanach/lectaurep/escriptorium,True
 https://gitlab.inria.fr/almanach/lectaurep/models,True
 https://gitlab.inria.fr/almanach/lectaurep/pipeline,True
-https://gitlab.inria.fr/almanach/lectaurep/spellchecking,False
+https://gitlab.inria.fr/almanach/lectaurep/spellchecking,True
 https://gitlab.inria.fr/almanach/mgkit/biomg,True
 https://gitlab.inria.fr/almanach/mgkit/depgraph,True
 https://gitlab.inria.fr/almanach/mgkit/dyalog-expander,True
@@ -6935,6 +6937,7 @@ https://gitlab.inria.fr/bioimage-it/bioimagepy-tutorial,True
 https://gitlab.inria.fr/bioimage-it/fiji-docker,True
 https://gitlab.inria.fr/bioimage-it/fiji-tools,True
 https://gitlab.inria.fr/bioimage-it/htesting-tools,True
+https://gitlab.inria.fr/bioimage-it/n2v,False
 https://gitlab.inria.fr/bioimage-it/noise2void,True
 https://gitlab.inria.fr/bioimage-it/package,True
 https://gitlab.inria.fr/bioimage-it/pycudadecon,True
@@ -7992,7 +7995,7 @@ https://gitlab.inria.fr/solverstack/morse_cmake,True
 https://gitlab.inria.fr/solverstack/paddle,True
 https://gitlab.inria.fr/solverstack/parade,True
 https://gitlab.inria.fr/solverstack/pastix,True
-https://gitlab.inria.fr/solverstack/qr_mumps,False
+https://gitlab.inria.fr/solverstack/qr_mumps,True
 https://gitlab.inria.fr/solverstack/spack-repo,True
 https://gitlab.inria.fr/solverstack/spm,True
 https://gitlab.inria.fr/solverstack/tabakov,True
@@ -8003,7 +8006,7 @@ https://gitlab.inria.fr/source_code/ai_paper_code,True
 https://gitlab.inria.fr/spine/spine_model,True
 https://gitlab.inria.fr/spinfer/spinfer,True
 https://gitlab.inria.fr/spinfer/spinfer_evaluation,True
-https://gitlab.inria.fr/stage-env/support,False
+https://gitlab.inria.fr/stage-env/support,True
 https://gitlab.inria.fr/star-explain/fjs_of_fml,True
 https://gitlab.inria.fr/star-explain/jsexplain,True
 https://gitlab.inria.fr/star-explain/opam-repository,True
