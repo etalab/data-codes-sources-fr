@@ -3889,7 +3889,7 @@ https://github.com/datalab-mi/carto-fast,False
 https://github.com/datalab-mi/datalab-mi.github.io,True
 https://github.com/datalab-mi/dev-infra,True
 https://github.com/datalab-mi/docker-dss,True
-https://github.com/datalab-mi/docker-postgres,False
+https://github.com/datalab-mi/docker-postgres,True
 https://github.com/datalab-mi/ghost,True
 https://github.com/datalab-mi/lab-nlp,False
 https://github.com/datalab-mi/mdr-infra,True
@@ -5778,10 +5778,11 @@ https://github.com/pass-culture/pass-culture-pro,True
 https://github.com/pass-culture/pass-culture-web-analytics,True
 https://github.com/pass-culture/pc-maintenance,True
 https://github.com/pass-culture/pc-monitoring,True
+https://github.com/pass-culture/react-native-profiling,False
 https://github.com/pass-culture/reverse-proxy,True
 https://github.com/pass-culture/telegraf-buildpack,True
 https://github.com/pass-culture/telegraf-scalingo,True
-https://github.com/pass-culture/terraform-google-sql-db,False
+https://github.com/pass-culture/terraform-google-sql-db,True
 https://github.com/picty/concerto,True
 https://github.com/picty/parsifal,True
 https://github.com/plantnet/PlantNet-300K,True
@@ -6365,7 +6366,7 @@ https://gitlab.com/fabnum-minarm/igloo/terraform/projects/anais,True
 https://gitlab.com/fabnum-minarm/igloo/terraform/projects/argos,True
 https://gitlab.com/fabnum-minarm/igloo/terraform/projects/cassiopee,True
 https://gitlab.com/fabnum-minarm/igloo/terraform/projects/e-chauffeur,True
-https://gitlab.com/fabnum-minarm/igloo/terraform/projects/octopus,False
+https://gitlab.com/fabnum-minarm/igloo/terraform/projects/octopus,True
 https://gitlab.com/fabnum-minarm/igloo/terraform/projects/sepia,True
 https://gitlab.com/fabnum-minarm/metiis/backend,True
 https://gitlab.com/fabnum-minarm/metiis/frontend,True
@@ -7858,6 +7859,7 @@ https://gitlab.inria.fr/pycomodo/pycomodo,True
 https://gitlab.inria.fr/qparse/corpus,True
 https://gitlab.inria.fr/qparse/paper-wtt,True
 https://gitlab.inria.fr/qparse/qparselib,True
+https://gitlab.inria.fr/quantitative-corpora-description/corpora-description,False
 https://gitlab.inria.fr/rainbow-intervals/ros_interval,True
 https://gitlab.inria.fr/realopt/TemporalKnapsack,True
 https://gitlab.inria.fr/regular-pv/timbuk/ocaml,True
@@ -8604,6 +8606,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/diu/test,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/ds-courses/materials-optimal-filtering,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/ds-courses/optimal-filtering-sicom,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/eCOM-RICM5-MyTransport/MyTransport,True
+https://gricad-gitlab.univ-grenoble-alpes.fr/ecoinfo/anf2021,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/ecopol/attacking-the-weak-or-the-strong,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/ecopol/ipdradical,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/edcampus/edcampus-back-node,True
@@ -9009,7 +9012,7 @@ https://plmlab.math.cnrs.fr/plmshift/mysqldump,True
 https://plmlab.math.cnrs.fr/plmshift/notebook-example,True
 https://plmlab.math.cnrs.fr/plmshift/oauth-proxy,True
 https://plmlab.math.cnrs.fr/plmshift/odh-manifests-for-plm,True
-https://plmlab.math.cnrs.fr/plmshift/opendatahub/julia-jupyter-notebooks-with-cuda,False
+https://plmlab.math.cnrs.fr/plmshift/opendatahub/julia-jupyter-notebooks-with-cuda,True
 https://plmlab.math.cnrs.fr/plmshift/opendatahub/s2i-base-container,True
 https://plmlab.math.cnrs.fr/plmshift/opendatahub/s2i-pytorch-notebook,True
 https://plmlab.math.cnrs.fr/plmshift/opendatahub/s2i-tensorflow-gpu-notebook,True
