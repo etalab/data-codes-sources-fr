@@ -3045,7 +3045,7 @@ https://github.com/ambanum/twint,True
 https://github.com/ansforge/ModelisationFHIRdesacteursdesante,True
 https://github.com/ansforge/Modelisationdesstructuresetdesprofessionnels,False
 https://github.com/ansforge/esignsante,True
-https://github.com/ansforge/politique-de-contribution-open-source,False
+https://github.com/ansforge/politique-de-contribution-open-source,True
 https://github.com/aphp/Cohort360,True
 https://github.com/aphp/Cohort360-Back-end,True
 https://github.com/assurance-maladie-digital/XF-Material-Library,True
@@ -3879,7 +3879,7 @@ https://github.com/datagir/mesfruitsetlegumesdesaison,True
 https://github.com/datagir/mon-impact-transport,True
 https://github.com/datagir/monconvertisseurco2,True
 https://github.com/datagir/monimpacttransport,True
-https://github.com/datagir/monimpacttransport-api,False
+https://github.com/datagir/monimpacttransport-api,True
 https://github.com/datagir/nosgestesclimat,True
 https://github.com/datagir/nosgestesclimat-site,True
 https://github.com/datagir/quefairedemesdechets,True
@@ -3891,6 +3891,7 @@ https://github.com/datalab-mi/dev-infra,True
 https://github.com/datalab-mi/docker-dss,True
 https://github.com/datalab-mi/docker-postgres,True
 https://github.com/datalab-mi/ghost,True
+https://github.com/datalab-mi/lab-cv,False
 https://github.com/datalab-mi/lab-nlp,False
 https://github.com/datalab-mi/mdr-infra,True
 https://github.com/datalab-mi/moteur-de-recherche,True
@@ -5759,7 +5760,7 @@ https://github.com/openmole/yapa,True
 https://github.com/pass-culture/FreezeMerge,True
 https://github.com/pass-culture/dashlord,True
 https://github.com/pass-culture/data-analytics,True
-https://github.com/pass-culture/data-gcp,False
+https://github.com/pass-culture/data-gcp,True
 https://github.com/pass-culture/data-science,True
 https://github.com/pass-culture/enriched_data,True
 https://github.com/pass-culture/kibana-scalingo,True
@@ -6883,6 +6884,7 @@ https://gitlab.inria.fr/almanach/time-us/statistiques,True
 https://gitlab.inria.fr/almanach/time-us/teiprocess,True
 https://gitlab.inria.fr/almanach/time-us/transkribus-configuration,True
 https://gitlab.inria.fr/alta/alta,True
+https://gitlab.inria.fr/amaourid/realsensel515,False
 https://gitlab.inria.fr/amibio/Infrared,True
 https://gitlab.inria.fr/amibio/RNAPOND,True
 https://gitlab.inria.fr/amibio/RNARedPrint,True
