@@ -2170,6 +2170,7 @@ https://github.com/InseeFrLab/utilitr-prez,False
 https://github.com/InseeFrLab/utilitr-template,True
 https://github.com/InseeFrLab/utils,True
 https://github.com/InseeFrLab/vscode-python,True
+https://github.com/InseeFrLab/www.sspcloud.fr,True
 https://github.com/Irstea/ALPFORPLOTS,True
 https://github.com/Irstea/Redmine-mod-perl-auth,True
 https://github.com/Irstea/alisma,True
@@ -3878,6 +3879,7 @@ https://github.com/datagir/mesfruitsetlegumesdesaison,True
 https://github.com/datagir/mon-impact-transport,True
 https://github.com/datagir/monconvertisseurco2,True
 https://github.com/datagir/monimpacttransport,True
+https://github.com/datagir/monimpacttransport-api,False
 https://github.com/datagir/nosgestesclimat,True
 https://github.com/datagir/nosgestesclimat-site,True
 https://github.com/datagir/quefairedemesdechets,True
@@ -5017,6 +5019,7 @@ https://github.com/lutece-secteur-public/opendata-module-document-ckan,True
 https://github.com/lutece-secteur-public/opengov-plugin-lobbycal,True
 https://github.com/lutece-secteur-public/opengov-plugin-transparency,True
 https://github.com/lutece-secteur-public/particip-module-participatoryideation-participatorybudget,True
+https://github.com/lutece-secteur-public/particip-plugin-campaign,False
 https://github.com/lutece-secteur-public/particip-plugin-ideation,False
 https://github.com/lutece-secteur-public/particip-plugin-participatorybudget,True
 https://github.com/lutece-secteur-public/particip-plugin-participatoryideation,True
@@ -5756,6 +5759,7 @@ https://github.com/openmole/yapa,True
 https://github.com/pass-culture/FreezeMerge,True
 https://github.com/pass-culture/dashlord,True
 https://github.com/pass-culture/data-analytics,True
+https://github.com/pass-culture/data-gcp,False
 https://github.com/pass-culture/data-science,True
 https://github.com/pass-culture/enriched_data,True
 https://github.com/pass-culture/kibana-scalingo,True
@@ -7130,7 +7134,7 @@ https://gitlab.inria.fr/dexms/end-to-end-examples,True
 https://gitlab.inria.fr/dexms/service,True
 https://gitlab.inria.fr/dexms/website,True
 https://gitlab.inria.fr/dgd-i/seminairestransverses,True
-https://gitlab.inria.fr/dgd-i/seminairetransverse/2021-06-jupyter,False
+https://gitlab.inria.fr/dgd-i/seminairetransverse/2021-06-jupyter,True
 https://gitlab.inria.fr/dgd-i/seminairetransverse/Markdown,True
 https://gitlab.inria.fr/dgd-i/seminairetransverse/seminairestransverses,False
 https://gitlab.inria.fr/dgd-s/testandalert,True
@@ -7233,6 +7237,7 @@ https://gitlab.inria.fr/epione_ML/mcvae,True
 https://gitlab.inria.fr/erable/kirikomics/hglib,True
 https://gitlab.inria.fr/erable/kirikomics/metnetlib,True
 https://gitlab.inria.fr/erable/kirikomics/metnetlib-minproject,True
+https://gitlab.inria.fr/erable/kissplice,False
 https://gitlab.inria.fr/erable/totoro,True
 https://gitlab.inria.fr/etac/notice-etac,True
 https://gitlab.inria.fr/evalanon/enoslib,True
