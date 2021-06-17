@@ -4285,7 +4285,7 @@ https://github.com/etalab-ia/ocr-xtract,True
 https://github.com/etalab-ia/open_ML,True
 https://github.com/etalab-ia/opendatascience,True
 https://github.com/etalab-ia/piaf-code,True
-https://github.com/etalab-ia/piaf-ml,False
+https://github.com/etalab-ia/piaf-ml,True
 https://github.com/etalab-ia/piaf_agent,True
 https://github.com/etalab-ia/pseudo_api,True
 https://github.com/etalab-ia/pseudo_app,True
@@ -5024,7 +5024,7 @@ https://github.com/lutece-secteur-public/opendata-module-document-ckan,True
 https://github.com/lutece-secteur-public/opengov-plugin-lobbycal,True
 https://github.com/lutece-secteur-public/opengov-plugin-transparency,True
 https://github.com/lutece-secteur-public/particip-module-participatoryideation-participatorybudget,True
-https://github.com/lutece-secteur-public/particip-plugin-campaign,False
+https://github.com/lutece-secteur-public/particip-plugin-campaign,True
 https://github.com/lutece-secteur-public/particip-plugin-ideation,False
 https://github.com/lutece-secteur-public/particip-plugin-participatorybudget,True
 https://github.com/lutece-secteur-public/particip-plugin-participatoryideation,True
