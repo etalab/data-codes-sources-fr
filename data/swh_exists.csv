@@ -1025,6 +1025,8 @@ https://github.com/ANSSI-FR/polichombr,True
 https://github.com/ANSSI-FR/pycrate,True
 https://github.com/ANSSI-FR/route_leaks,True
 https://github.com/ANSSI-FR/rust-guide,True
+https://github.com/ANSSI-FR/scep,False
+https://github.com/ANSSI-FR/scep-ci,False
 https://github.com/ANSSI-FR/secAES-ATmega8515,True
 https://github.com/ANSSI-FR/tabi,True
 https://github.com/ANSSI-FR/transdep,True
@@ -6317,6 +6319,7 @@ https://gitlab.com/dreal-datalab/carrieres,True
 https://gitlab.com/dreal-datalab/codes_postaux,True
 https://gitlab.com/dreal-datalab/cogiter,True
 https://gitlab.com/dreal-datalab/communications,True
+https://gitlab.com/dreal-datalab/configproxyr,False
 https://gitlab.com/dreal-datalab/crte,True
 https://gitlab.com/dreal-datalab/crte.com,True
 https://gitlab.com/dreal-datalab/drealdown,True
@@ -7360,6 +7363,7 @@ https://gitlab.inria.fr/gazelle/library/fhir-util,True
 https://gitlab.inria.fr/gazelle/library/gazelle-assertion-coverage-provider,True
 https://gitlab.inria.fr/gazelle/library/gazelle-assets,True
 https://gitlab.inria.fr/gazelle/library/gazelle-evsclient-common,True
+https://gitlab.inria.fr/gazelle/library/gazelle-hl7-messagestructures,False
 https://gitlab.inria.fr/gazelle/library/gazelle-preferences,True
 https://gitlab.inria.fr/gazelle/library/gazelle-tm-tools,True
 https://gitlab.inria.fr/gazelle/library/gazelle-tools,True
@@ -8844,6 +8848,7 @@ https://plmlab.math.cnrs.fr/archimede/intertwiningwavelet,True
 https://plmlab.math.cnrs.fr/bwoc2020/bwoc2020.pages.math.cnrs.fr,True
 https://plmlab.math.cnrs.fr/calcul-icj/bench-python-fft,True
 https://plmlab.math.cnrs.fr/calcul-icj/git-express,True
+https://plmlab.math.cnrs.fr/calcul-icj/python-l1,False
 https://plmlab.math.cnrs.fr/calcul-icj/python-training,True
 https://plmlab.math.cnrs.fr/chaos-math/static,True
 https://plmlab.math.cnrs.fr/cluster-icj/modules,True
@@ -8927,6 +8932,7 @@ https://plmlab.math.cnrs.fr/icinga-plugins/timesync,True
 https://plmlab.math.cnrs.fr/ihp/logo,True
 https://plmlab.math.cnrs.fr/illustrating-math/sphere_morph,True
 https://plmlab.math.cnrs.fr/imb-dijon/faq,True
+https://plmlab.math.cnrs.fr/imb-dijon/infocom,False
 https://plmlab.math.cnrs.fr/imb-public/anr-template,True
 https://plmlab.math.cnrs.fr/imt/acces_backup,True
 https://plmlab.math.cnrs.fr/imt/ansible_deploy_nfs,True
@@ -8934,7 +8940,7 @@ https://plmlab.math.cnrs.fr/imt/fragma/fragma-on-amqp,True
 https://plmlab.math.cnrs.fr/imt/puppet/gitlab_deploy_key,True
 https://plmlab.math.cnrs.fr/imt/puppet/kerberos_module,True
 https://plmlab.math.cnrs.fr/imt/sysadmin_pub_keys,True
-https://plmlab.math.cnrs.fr/imt/web-scripts/web-scripts-base,False
+https://plmlab.math.cnrs.fr/imt/web-scripts/web-scripts-base,True
 https://plmlab.math.cnrs.fr/infomath/git_dummy,True
 https://plmlab.math.cnrs.fr/infomath/latex,True
 https://plmlab.math.cnrs.fr/ipanema/propellor,True
