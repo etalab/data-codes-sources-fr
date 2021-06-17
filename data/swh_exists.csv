@@ -2354,6 +2354,7 @@ https://github.com/MTES-MCT/parcours_r_socle_preparation_des_donnees,True
 https://github.com/MTES-MCT/partaj,True
 https://github.com/MTES-MCT/passport-cerbere,True
 https://github.com/MTES-MCT/permis-construire,True
+https://github.com/MTES-MCT/pip-for-qgis,False
 https://github.com/MTES-MCT/portail,True
 https://github.com/MTES-MCT/portscan-action,True
 https://github.com/MTES-MCT/potentiel,True
@@ -8050,7 +8051,7 @@ https://gitlab.inria.fr/stopcovid19/stopcovid-robertsdk-android,True
 https://gitlab.inria.fr/stopcovid19/stopcovid-robertsdk-ios,True
 https://gitlab.inria.fr/stopcovid19/submission-code-server,True
 https://gitlab.inria.fr/stopcovid19/submission-code-server-client-api-spec,True
-https://gitlab.inria.fr/stopcovid19/submission-code-server-old,False
+https://gitlab.inria.fr/stopcovid19/submission-code-server-old,True
 https://gitlab.inria.fr/structgraphics/code,True
 https://gitlab.inria.fr/swloc/swloc,True
 https://gitlab.inria.fr/swloc/swloc.gitlabpages.inria.fr,True
@@ -9049,6 +9050,7 @@ https://plmlab.math.cnrs.fr/plmshift/wims-custom,True
 https://plmlab.math.cnrs.fr/plmshift/wordpress,True
 https://plmlab.math.cnrs.fr/plmshift/wordpress-custom,True
 https://plmlab.math.cnrs.fr/plmshift/wordpress-kit-cnrs,True
+https://plmlab.math.cnrs.fr/plmshift/yakforms,False
 https://plmlab.math.cnrs.fr/plmteam/docs/jupytercloud,True
 https://plmlab.math.cnrs.fr/plmteam/docs/okd,True
 https://plmlab.math.cnrs.fr/plmteam/stream-hls-infra,True
