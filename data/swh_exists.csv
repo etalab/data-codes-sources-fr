@@ -1025,7 +1025,7 @@ https://github.com/ANSSI-FR/polichombr,True
 https://github.com/ANSSI-FR/pycrate,True
 https://github.com/ANSSI-FR/route_leaks,True
 https://github.com/ANSSI-FR/rust-guide,True
-https://github.com/ANSSI-FR/scep,False
+https://github.com/ANSSI-FR/scep,True
 https://github.com/ANSSI-FR/scep-ci,False
 https://github.com/ANSSI-FR/secAES-ATmega8515,True
 https://github.com/ANSSI-FR/tabi,True
@@ -1648,7 +1648,7 @@ https://github.com/GIP-RECIA/Mediacentre-UI,False
 https://github.com/GIP-RECIA/Notification-POC,True
 https://github.com/GIP-RECIA/NotificationPortlet,True
 https://github.com/GIP-RECIA/Pronote-WS,True
-https://github.com/GIP-RECIA/Ressources-Diffusables-API,False
+https://github.com/GIP-RECIA/Ressources-Diffusables-API,True
 https://github.com/GIP-RECIA/Ressources-Diffusables-UI,True
 https://github.com/GIP-RECIA/Rocket.Chat,True
 https://github.com/GIP-RECIA/Rouncube-esco_user_identity,True
@@ -3889,7 +3889,7 @@ https://github.com/datagir/nosgestesclimat-site,True
 https://github.com/datagir/quefairedemesdechets,True
 https://github.com/datagir/teletravail,True
 https://github.com/datalab-mi/Casper,True
-https://github.com/datalab-mi/carto-fast,False
+https://github.com/datalab-mi/carto-fast,True
 https://github.com/datalab-mi/datalab-mi.github.io,True
 https://github.com/datalab-mi/dev-infra,True
 https://github.com/datalab-mi/docker-dss,True
@@ -6952,7 +6952,7 @@ https://gitlab.inria.fr/bioimage-it/bioimagepy-tutorial,True
 https://gitlab.inria.fr/bioimage-it/fiji-docker,True
 https://gitlab.inria.fr/bioimage-it/fiji-tools,True
 https://gitlab.inria.fr/bioimage-it/htesting-tools,True
-https://gitlab.inria.fr/bioimage-it/n2v,False
+https://gitlab.inria.fr/bioimage-it/n2v,True
 https://gitlab.inria.fr/bioimage-it/noise2void,True
 https://gitlab.inria.fr/bioimage-it/package,True
 https://gitlab.inria.fr/bioimage-it/pycudadecon,True
@@ -7364,7 +7364,7 @@ https://gitlab.inria.fr/gazelle/library/fhir-util,True
 https://gitlab.inria.fr/gazelle/library/gazelle-assertion-coverage-provider,True
 https://gitlab.inria.fr/gazelle/library/gazelle-assets,True
 https://gitlab.inria.fr/gazelle/library/gazelle-evsclient-common,True
-https://gitlab.inria.fr/gazelle/library/gazelle-hl7-messagestructures,False
+https://gitlab.inria.fr/gazelle/library/gazelle-hl7-messagestructures,True
 https://gitlab.inria.fr/gazelle/library/gazelle-preferences,True
 https://gitlab.inria.fr/gazelle/library/gazelle-tm-tools,True
 https://gitlab.inria.fr/gazelle/library/gazelle-tools,True
@@ -8060,7 +8060,7 @@ https://gitlab.inria.fr/synalp/website,True
 https://gitlab.inria.fr/synchrone/heptagon,True
 https://gitlab.inria.fr/syntheticgt/syntheticgt-mitsuba,True
 https://gitlab.inria.fr/syntheticgt/syntheticgt-utilities,True
-https://gitlab.inria.fr/tangram/3d-aware-ellipses-for-visual-localization,False
+https://gitlab.inria.fr/tangram/3d-aware-ellipses-for-visual-localization,True
 https://gitlab.inria.fr/tansiv/python-tansiv,True
 https://gitlab.inria.fr/tapenade/tapenade,True
 https://gitlab.inria.fr/tapenade/userdoc,True
