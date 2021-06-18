@@ -6390,6 +6390,7 @@ https://gitlab.com/healthdatahub/dico-snds-creation-archive,True
 https://gitlab.com/healthdatahub/documentation-snds,True
 https://gitlab.com/healthdatahub/formation/documentation-snds,True
 https://gitlab.com/healthdatahub/formation/exercices-snds,True
+https://gitlab.com/healthdatahub/hdhstorage,False
 https://gitlab.com/healthdatahub/indexation-nomenclatures,True
 https://gitlab.com/healthdatahub/omop,True
 https://gitlab.com/healthdatahub/open-data/open-damir,True
@@ -6623,6 +6624,7 @@ https://gitlab.inria.fr/Damaris/Simulations/noise,True
 https://gitlab.inria.fr/Damaris/damaris,True
 https://gitlab.inria.fr/E2Clab/Paper-Artifacts/plantnet,True
 https://gitlab.inria.fr/E2Clab/e2clab,True
+https://gitlab.inria.fr/GATB/gatb-core,True
 https://gitlab.inria.fr/GATB/simka,True
 https://gitlab.inria.fr/GUDHI/coxeter_for_ouragan,True
 https://gitlab.inria.fr/GUDHI/data,True
@@ -7149,7 +7151,7 @@ https://gitlab.inria.fr/dexms/website,True
 https://gitlab.inria.fr/dgd-i/seminairestransverses,True
 https://gitlab.inria.fr/dgd-i/seminairetransverse/2021-06-jupyter,True
 https://gitlab.inria.fr/dgd-i/seminairetransverse/Markdown,True
-https://gitlab.inria.fr/dgd-i/seminairetransverse/seminairestransverses,False
+https://gitlab.inria.fr/dgd-i/seminairetransverse/seminairestransverses,True
 https://gitlab.inria.fr/dgd-s/testandalert,True
 https://gitlab.inria.fr/dh-projects/aspyre-gt,True
 https://gitlab.inria.fr/dh-projects/aspyre-gui,True
@@ -7250,7 +7252,7 @@ https://gitlab.inria.fr/epione_ML/mcvae,True
 https://gitlab.inria.fr/erable/kirikomics/hglib,True
 https://gitlab.inria.fr/erable/kirikomics/metnetlib,True
 https://gitlab.inria.fr/erable/kirikomics/metnetlib-minproject,True
-https://gitlab.inria.fr/erable/kissplice,False
+https://gitlab.inria.fr/erable/kissplice,True
 https://gitlab.inria.fr/erable/totoro,True
 https://gitlab.inria.fr/etac/notice-etac,True
 https://gitlab.inria.fr/evalanon/enoslib,True
@@ -8619,7 +8621,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/diu/test,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/ds-courses/materials-optimal-filtering,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/ds-courses/optimal-filtering-sicom,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/eCOM-RICM5-MyTransport/MyTransport,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/ecoinfo/anf2021,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/ecoinfo/anf2021,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/ecopol/attacking-the-weak-or-the-strong,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/ecopol/ipdradical,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/edcampus/edcampus-back-node,True
@@ -8947,6 +8949,7 @@ https://plmlab.math.cnrs.fr/imt/puppet/gitlab_deploy_key,True
 https://plmlab.math.cnrs.fr/imt/puppet/kerberos_module,True
 https://plmlab.math.cnrs.fr/imt/sysadmin_pub_keys,True
 https://plmlab.math.cnrs.fr/imt/web-scripts/web-scripts-base,True
+https://plmlab.math.cnrs.fr/info/flpro,True
 https://plmlab.math.cnrs.fr/infomath/git_dummy,True
 https://plmlab.math.cnrs.fr/infomath/latex,True
 https://plmlab.math.cnrs.fr/ipanema/propellor,True
