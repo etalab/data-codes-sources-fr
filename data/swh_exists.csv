@@ -492,6 +492,7 @@ https://forgemia.inra.fr/pepiniere-jouy/notice_detecteur_co2,True
 https://forgemia.inra.fr/phenotic/publique/ordinalclustering,True
 https://forgemia.inra.fr/public-pgba/is900-rflp-in-silico,True
 https://forgemia.inra.fr/public-pgba/submission_ena,True
+https://forgemia.inra.fr/quaysofthestics/sticsquays,False
 https://forgemia.inra.fr/record-open-archives/rec-crash,True
 https://forgemia.inra.fr/record-open-archives/recmoustics,True
 https://forgemia.inra.fr/record/AgFlow,True
@@ -538,7 +539,7 @@ https://forgemia.inra.fr/umr-astre/mapMCDA,True
 https://forgemia.inra.fr/umr-astre/ppp-oie,True
 https://forgemia.inra.fr/umr-astre/rvf_mrt,True
 https://forgemia.inra.fr/umr-astre/spreadrate,True
-https://forgemia.inra.fr/umr-astre/stage_mlegray,False
+https://forgemia.inra.fr/umr-astre/stage_mlegray,True
 https://forgemia.inra.fr/umr-astre/topomatch,True
 https://forgemia.inra.fr/umr-astre/training/doc-references,True
 https://forgemia.inra.fr/umr-astre/training/notions_stats,True
@@ -1644,7 +1645,7 @@ https://github.com/GIP-RECIA/Madiacentre-UI,True
 https://github.com/GIP-RECIA/Markdown_Server_Documentation_Generator,True
 https://github.com/GIP-RECIA/MediaCentre,True
 https://github.com/GIP-RECIA/MediaCentre-WS,True
-https://github.com/GIP-RECIA/Mediacentre-UI,False
+https://github.com/GIP-RECIA/Mediacentre-UI,True
 https://github.com/GIP-RECIA/Notification-POC,True
 https://github.com/GIP-RECIA/NotificationPortlet,True
 https://github.com/GIP-RECIA/Pronote-WS,True
@@ -4721,6 +4722,7 @@ https://github.com/gemoc/git-sync-tools,True
 https://github.com/gemoc/glose,True
 https://github.com/gemoc/heterogeneousmodeling,True
 https://github.com/gemoc/idm4sco,True
+https://github.com/gemoc/image-tools-mavenplugin,False
 https://github.com/gemoc/kaulua,True
 https://github.com/gemoc/mbse-teaching,True
 https://github.com/gemoc/mini-expression-server,True
@@ -6320,7 +6322,7 @@ https://gitlab.com/dreal-datalab/carrieres,True
 https://gitlab.com/dreal-datalab/codes_postaux,True
 https://gitlab.com/dreal-datalab/cogiter,True
 https://gitlab.com/dreal-datalab/communications,True
-https://gitlab.com/dreal-datalab/configproxyr,False
+https://gitlab.com/dreal-datalab/configproxyr,True
 https://gitlab.com/dreal-datalab/crte,True
 https://gitlab.com/dreal-datalab/crte.com,True
 https://gitlab.com/dreal-datalab/drealdown,True
@@ -6598,6 +6600,9 @@ https://gitlab.inria.fr/ClassCode/classcodeia,True
 https://gitlab.inria.fr/ClassCode/pixees-theme,True
 https://gitlab.inria.fr/CompCert/ci,True
 https://gitlab.inria.fr/Conferences/ICT_2018_MUFF,True
+https://gitlab.inria.fr/CrowdBot/CrowdBotChallenge,False
+https://gitlab.inria.fr/CrowdBot/CrowdBotUnity,False
+https://gitlab.inria.fr/CrowdBot/catkin_crowdbotsim,False
 https://gitlab.inria.fr/D3/cassie,True
 https://gitlab.inria.fr/D3/cassie-data,True
 https://gitlab.inria.fr/D3/contour-detect,True
@@ -9050,7 +9055,7 @@ https://plmlab.math.cnrs.fr/plmshift/wims-custom,True
 https://plmlab.math.cnrs.fr/plmshift/wordpress,True
 https://plmlab.math.cnrs.fr/plmshift/wordpress-custom,True
 https://plmlab.math.cnrs.fr/plmshift/wordpress-kit-cnrs,True
-https://plmlab.math.cnrs.fr/plmshift/yakforms,False
+https://plmlab.math.cnrs.fr/plmshift/yakforms,True
 https://plmlab.math.cnrs.fr/plmteam/docs/jupytercloud,True
 https://plmlab.math.cnrs.fr/plmteam/docs/okd,True
 https://plmlab.math.cnrs.fr/plmteam/stream-hls-infra,True
