@@ -6896,7 +6896,7 @@ https://gitlab.inria.fr/almanach/time-us/statistiques,True
 https://gitlab.inria.fr/almanach/time-us/teiprocess,True
 https://gitlab.inria.fr/almanach/time-us/transkribus-configuration,True
 https://gitlab.inria.fr/alta/alta,True
-https://gitlab.inria.fr/amaourid/realsensel515,False
+https://gitlab.inria.fr/amaourid/realsensel515,True
 https://gitlab.inria.fr/amibio/Infrared,True
 https://gitlab.inria.fr/amibio/RNAPOND,True
 https://gitlab.inria.fr/amibio/RNARedPrint,True
@@ -6951,6 +6951,7 @@ https://gitlab.inria.fr/belenios-forks/belenios-swergas,True
 https://gitlab.inria.fr/belenios/belenios,True
 https://gitlab.inria.fr/belenios/belenios-prepared-database,True
 https://gitlab.inria.fr/bench/v0,True
+https://gitlab.inria.fr/bibtex2html/bibtex2html,False
 https://gitlab.inria.fr/bioimage-it/bioimageapp,True
 https://gitlab.inria.fr/bioimage-it/bioimageit-tools,True
 https://gitlab.inria.fr/bioimage-it/bioimagej,True
@@ -7874,7 +7875,7 @@ https://gitlab.inria.fr/pycomodo/pycomodo,True
 https://gitlab.inria.fr/qparse/corpus,True
 https://gitlab.inria.fr/qparse/paper-wtt,True
 https://gitlab.inria.fr/qparse/qparselib,True
-https://gitlab.inria.fr/quantitative-corpora-description/corpora-description,False
+https://gitlab.inria.fr/quantitative-corpora-description/corpora-description,True
 https://gitlab.inria.fr/rainbow-intervals/ros_interval,True
 https://gitlab.inria.fr/realopt/TemporalKnapsack,True
 https://gitlab.inria.fr/regular-pv/timbuk/ocaml,True
