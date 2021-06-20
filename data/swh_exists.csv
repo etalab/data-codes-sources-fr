@@ -2355,7 +2355,7 @@ https://github.com/MTES-MCT/parcours_r_socle_preparation_des_donnees,True
 https://github.com/MTES-MCT/partaj,True
 https://github.com/MTES-MCT/passport-cerbere,True
 https://github.com/MTES-MCT/permis-construire,True
-https://github.com/MTES-MCT/pip-for-qgis,False
+https://github.com/MTES-MCT/pip-for-qgis,True
 https://github.com/MTES-MCT/portail,True
 https://github.com/MTES-MCT/portscan-action,True
 https://github.com/MTES-MCT/potentiel,True
@@ -4722,7 +4722,7 @@ https://github.com/gemoc/git-sync-tools,True
 https://github.com/gemoc/glose,True
 https://github.com/gemoc/heterogeneousmodeling,True
 https://github.com/gemoc/idm4sco,True
-https://github.com/gemoc/image-tools-mavenplugin,False
+https://github.com/gemoc/image-tools-mavenplugin,True
 https://github.com/gemoc/kaulua,True
 https://github.com/gemoc/mbse-teaching,True
 https://github.com/gemoc/mini-expression-server,True
