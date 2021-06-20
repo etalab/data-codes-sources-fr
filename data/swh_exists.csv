@@ -3896,7 +3896,7 @@ https://github.com/datalab-mi/dev-infra,True
 https://github.com/datalab-mi/docker-dss,True
 https://github.com/datalab-mi/docker-postgres,True
 https://github.com/datalab-mi/ghost,True
-https://github.com/datalab-mi/lab-cv,False
+https://github.com/datalab-mi/lab-cv,True
 https://github.com/datalab-mi/lab-nlp,False
 https://github.com/datalab-mi/mdr-infra,True
 https://github.com/datalab-mi/moteur-de-recherche,True
@@ -8048,7 +8048,7 @@ https://gitlab.inria.fr/stopcovid19/accueil,True
 https://gitlab.inria.fr/stopcovid19/analytics-server,True
 https://gitlab.inria.fr/stopcovid19/backend-server,True
 https://gitlab.inria.fr/stopcovid19/clea-server,True
-https://gitlab.inria.fr/stopcovid19/dgca-app-core-android,False
+https://gitlab.inria.fr/stopcovid19/dgca-app-core-android,True
 https://gitlab.inria.fr/stopcovid19/robert-client-api-spec,True
 https://gitlab.inria.fr/stopcovid19/robert-server,True
 https://gitlab.inria.fr/stopcovid19/stopcovid-android,True
