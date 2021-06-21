@@ -1157,7 +1157,7 @@ https://github.com/Bibliome/Alvis,True
 https://github.com/Bibliome/TEES,True
 https://github.com/Bibliome/alvis-docker,True
 https://github.com/Bibliome/alvis-guidelines,True
-https://github.com/Bibliome/alvis-metadata,False
+https://github.com/Bibliome/alvis-metadata,True
 https://github.com/Bibliome/alvis_galaxy_capsule,True
 https://github.com/Bibliome/alvisae,True
 https://github.com/Bibliome/alvisae-1,True
@@ -6602,7 +6602,7 @@ https://gitlab.inria.fr/ClassCode/pixees-theme,True
 https://gitlab.inria.fr/CompCert/ci,True
 https://gitlab.inria.fr/Conferences/ICT_2018_MUFF,True
 https://gitlab.inria.fr/CrowdBot/CrowdBotChallenge,False
-https://gitlab.inria.fr/CrowdBot/CrowdBotUnity,False
+https://gitlab.inria.fr/CrowdBot/CrowdBotUnity,True
 https://gitlab.inria.fr/CrowdBot/catkin_crowdbotsim,False
 https://gitlab.inria.fr/D3/cassie,True
 https://gitlab.inria.fr/D3/cassie-data,True
