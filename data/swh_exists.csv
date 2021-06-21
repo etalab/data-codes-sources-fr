@@ -4788,6 +4788,7 @@ https://github.com/ina-foss/voxo-dashboard,True
 https://github.com/ina-foss/voxo-docker,True
 https://github.com/ina-foss/voxo-lib,True
 https://github.com/incubateur-territoires/demo-mesaides28,True
+https://github.com/incubateur-territoires/discourse-incubateur,False
 https://github.com/incubateur-territoires/discourse-theme,True
 https://github.com/incubateur-territoires/dokku-discourse,True
 https://github.com/incubateur-territoires/gridsome-source-graphql,True
@@ -6916,6 +6917,7 @@ https://gitlab.inria.fr/android-tools/readme,True
 https://gitlab.inria.fr/anon_group/iotlabandnist,True
 https://gitlab.inria.fr/asbizard/Procedural_modeling_of_multi-scale_galactic_dust,True
 https://gitlab.inria.fr/asclepios/biblio,True
+https://gitlab.inria.fr/astec/astec-tutorial,False
 https://gitlab.inria.fr/auctus/panda/franka_control,True
 https://gitlab.inria.fr/auctus/panda/franka_description,True
 https://gitlab.inria.fr/auctus/panda/panda_traj,True
@@ -6983,6 +6985,7 @@ https://gitlab.inria.fr/blare/hardblare/hardblare-kblare-tools,True
 https://gitlab.inria.fr/blare/hardblare/hardblare-kernel,True
 https://gitlab.inria.fr/blare/hardblare/hardblare-llvm,True
 https://gitlab.inria.fr/blare/hardblare/hardblare-musl-libc,True
+https://gitlab.inria.fr/blare/hardblare/hardblare-use-cases,False
 https://gitlab.inria.fr/blare/hardblare/hardblare-yocto-meta-clang,True
 https://gitlab.inria.fr/blare/hardblare/hardblare-yocto-meta-hardblare,True
 https://gitlab.inria.fr/blare/hardblare/hardblare-yocto-meta-openembedded,True
@@ -8472,7 +8475,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/resif_docker,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/rsync-resif-k8s,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/rtconfig,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/seedpsd,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/seedtree5,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/seedtree5,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/site-characterization,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/storage-summer-k8s,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/ws-dataselect,True
