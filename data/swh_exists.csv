@@ -2291,6 +2291,7 @@ https://github.com/MTES-MCT/camino-portainer,True
 https://github.com/MTES-MCT/camino-scripting,True
 https://github.com/MTES-MCT/camino-spreadsheets,True
 https://github.com/MTES-MCT/camino-ui,True
+https://github.com/MTES-MCT/capqualif,False
 https://github.com/MTES-MCT/carbure,True
 https://github.com/MTES-MCT/cerbere-nodejs,True
 https://github.com/MTES-MCT/cerbere-python,True
@@ -3476,6 +3477,7 @@ https://github.com/betagouv/psy-enfant-ado,True
 https://github.com/betagouv/publicodes,True
 https://github.com/betagouv/qrcode-svg,True
 https://github.com/betagouv/quotient-familial,True
+https://github.com/betagouv/rdv-insertion,False
 https://github.com/betagouv/rdv-solidarites.fr,True
 https://github.com/betagouv/rdv-solidarites.fr-webhook-exemples,False
 https://github.com/betagouv/react-elasticsearch,True
@@ -6366,7 +6368,7 @@ https://gitlab.com/fabnum-minarm/igloo/terraform/main,True
 https://gitlab.com/fabnum-minarm/igloo/terraform/modules/add-runner,True
 https://gitlab.com/fabnum-minarm/igloo/terraform/modules/configure-repository-for-deployment,True
 https://gitlab.com/fabnum-minarm/igloo/terraform/modules/create-namespace,True
-https://gitlab.com/fabnum-minarm/igloo/terraform/modules/postgresql,False
+https://gitlab.com/fabnum-minarm/igloo/terraform/modules/postgresql,True
 https://gitlab.com/fabnum-minarm/igloo/terraform/modules/timescaledb,True
 https://gitlab.com/fabnum-minarm/igloo/terraform/projects/_template,True
 https://gitlab.com/fabnum-minarm/igloo/terraform/projects/alpps,True
@@ -6603,7 +6605,7 @@ https://gitlab.inria.fr/CompCert/ci,True
 https://gitlab.inria.fr/Conferences/ICT_2018_MUFF,True
 https://gitlab.inria.fr/CrowdBot/CrowdBotChallenge,False
 https://gitlab.inria.fr/CrowdBot/CrowdBotUnity,True
-https://gitlab.inria.fr/CrowdBot/catkin_crowdbotsim,False
+https://gitlab.inria.fr/CrowdBot/catkin_crowdbotsim,True
 https://gitlab.inria.fr/D3/cassie,True
 https://gitlab.inria.fr/D3/cassie-data,True
 https://gitlab.inria.fr/D3/contour-detect,True
@@ -7361,6 +7363,7 @@ https://gitlab.inria.fr/gazelle/external-library,True
 https://gitlab.inria.fr/gazelle/framework/logger,True
 https://gitlab.inria.fr/gazelle/framework/preferences,True
 https://gitlab.inria.fr/gazelle/library/HL7Common,True
+https://gitlab.inria.fr/gazelle/library/PatientGeneration,False
 https://gitlab.inria.fr/gazelle/library/annotations,True
 https://gitlab.inria.fr/gazelle/library/archetypes/generated-validator,True
 https://gitlab.inria.fr/gazelle/library/archetypes/project-archetype,True
@@ -8590,6 +8593,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/ai-courses/autonomous_systems_ml,Tr
 https://gricad-gitlab.univ-grenoble-alpes.fr/alphee/nonsensical-paper-detector,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/aspen/aspen2014,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/avatar/avatar-1st-year/student-project,True
+https://gricad-gitlab.univ-grenoble-alpes.fr/avatar/avatar-site,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/batsim/batsim,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/biomove/fate,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/caseine/dxf-filter,True
