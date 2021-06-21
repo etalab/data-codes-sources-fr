@@ -1506,7 +1506,7 @@ https://github.com/EDS-APHP/tag_serve,True
 https://github.com/EDS-APHP/uima-aphp,True
 https://github.com/EDS-APHP/yarn-manager,True
 https://github.com/Envinorma/alto,True
-https://github.com/Envinorma/arretes-ministeriels,False
+https://github.com/Envinorma/arretes-ministeriels,True
 https://github.com/Envinorma/arretes_ministeriels,True
 https://github.com/Envinorma/back-office,True
 https://github.com/Envinorma/data-tasks,True
@@ -3287,6 +3287,7 @@ https://github.com/betagouv/ecolab-transport,True
 https://github.com/betagouv/ecosante,True
 https://github.com/betagouv/elasticsearch-gravitee-ingest-processor,True
 https://github.com/betagouv/ellesfontlaphoto,True
+https://github.com/betagouv/epci,False
 https://github.com/betagouv/etudiant-entrepreneur,True
 https://github.com/betagouv/eva,True
 https://github.com/betagouv/eva-orchestrateur,True
@@ -6368,6 +6369,7 @@ https://gitlab.com/fabnum-minarm/igloo/terraform/main,True
 https://gitlab.com/fabnum-minarm/igloo/terraform/modules/add-runner,True
 https://gitlab.com/fabnum-minarm/igloo/terraform/modules/configure-repository-for-deployment,True
 https://gitlab.com/fabnum-minarm/igloo/terraform/modules/create-namespace,True
+https://gitlab.com/fabnum-minarm/igloo/terraform/modules/mailcatcher,False
 https://gitlab.com/fabnum-minarm/igloo/terraform/modules/postgresql,True
 https://gitlab.com/fabnum-minarm/igloo/terraform/modules/timescaledb,True
 https://gitlab.com/fabnum-minarm/igloo/terraform/projects/_template,True
@@ -6392,7 +6394,7 @@ https://gitlab.com/healthdatahub/dico-snds-creation-archive,True
 https://gitlab.com/healthdatahub/documentation-snds,True
 https://gitlab.com/healthdatahub/formation/documentation-snds,True
 https://gitlab.com/healthdatahub/formation/exercices-snds,True
-https://gitlab.com/healthdatahub/hdhstorage,False
+https://gitlab.com/healthdatahub/hdhstorage,True
 https://gitlab.com/healthdatahub/indexation-nomenclatures,True
 https://gitlab.com/healthdatahub/omop,True
 https://gitlab.com/healthdatahub/open-data/open-damir,True
@@ -8470,6 +8472,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/resif_docker,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/rsync-resif-k8s,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/rtconfig,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/seedpsd,True
+https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/seedtree5,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/site-characterization,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/storage-summer-k8s,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/ws-dataselect,True
