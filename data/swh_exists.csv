@@ -4,6 +4,7 @@ https://dci-gitlab.cines.fr/dad/archive-format-converter,True
 https://dci-gitlab.cines.fr/dad/cines-vitam-plugins/ark-griffin,True
 https://dci-gitlab.cines.fr/dad/cines-vitam-plugins/bir-plugin,True
 https://dci-gitlab.cines.fr/dad/cines-vitam-plugins/format-validator-plugin,True
+https://dci-gitlab.cines.fr/dad/cines-vitamui,False
 https://dci-gitlab.cines.fr/dad/fdp-api,True
 https://dci-gitlab.cines.fr/dad/fdp-client,True
 https://dci-gitlab.cines.fr/dad/fdp-pillar,True
@@ -2936,6 +2937,7 @@ https://github.com/abes-esr/licencesnationales-front,True
 https://github.com/abes-esr/ln-back-event,False
 https://github.com/abes-esr/ln-front,False
 https://github.com/abes-esr/marcxml2tei,True
+https://github.com/abes-esr/notice-mapper,False
 https://github.com/abes-esr/openapi,True
 https://github.com/abes-esr/periscope-back,True
 https://github.com/abes-esr/periscope-front,True
@@ -3195,7 +3197,7 @@ https://github.com/betagouv/aplus,True
 https://github.com/betagouv/aplus-docs,True
 https://github.com/betagouv/audioconf,True
 https://github.com/betagouv/azur.comobi.fr,True
-https://github.com/betagouv/bbb-analytics,False
+https://github.com/betagouv/bbb-analytics,True
 https://github.com/betagouv/beta.gouv.fr,True
 https://github.com/betagouv/beta.gouv.fr.wiki-autoclone,True
 https://github.com/betagouv/beta.ssi,True
@@ -4484,6 +4486,7 @@ https://github.com/etalab/hackdash,True
 https://github.com/etalab/id.data.gouv.fr,True
 https://github.com/etalab/infolettre-lab-ia,True
 https://github.com/etalab/inspire-cartes-producteurs,True
+https://github.com/etalab/interview-test-dev-front,False
 https://github.com/etalab/inventaire-codes-sources-organismes-publics,True
 https://github.com/etalab/iris,True
 https://github.com/etalab/irve,True
@@ -4543,6 +4546,7 @@ https://github.com/etalab/quartiers-prioritaires,True
 https://github.com/etalab/radar-tech,True
 https://github.com/etalab/radar-tech-backend,True
 https://github.com/etalab/radar-tech-form,True
+https://github.com/etalab/radar-tech-frontend,False
 https://github.com/etalab/recherche.etalab.studio,True
 https://github.com/etalab/recommendations-edito,True
 https://github.com/etalab/reports-aides-entreprises,True
@@ -5194,6 +5198,7 @@ https://github.com/medialab/portic-explorations,True
 https://github.com/medialab/portic-poitousprint-datasets-modalities,True
 https://github.com/medialab/portic-storymaps-2021,True
 https://github.com/medialab/privacy,True
+https://github.com/medialab/psia-digital-methods,False
 https://github.com/medialab/pubpub,True
 https://github.com/medialab/python-boilerpipe,True
 https://github.com/medialab/python-urlsresolver,True
@@ -6918,6 +6923,8 @@ https://gitlab.inria.fr/android-tools/readme,True
 https://gitlab.inria.fr/anon_group/iotlabandnist,True
 https://gitlab.inria.fr/asbizard/Procedural_modeling_of_multi-scale_galactic_dust,True
 https://gitlab.inria.fr/asclepios/biblio,True
+https://gitlab.inria.fr/astec/astec,False
+https://gitlab.inria.fr/astec/astec-2019-published,False
 https://gitlab.inria.fr/astec/astec-tutorial,False
 https://gitlab.inria.fr/auctus/panda/franka_control,True
 https://gitlab.inria.fr/auctus/panda/franka_description,True
@@ -7369,7 +7376,7 @@ https://gitlab.inria.fr/gazelle/external-library,True
 https://gitlab.inria.fr/gazelle/framework/logger,True
 https://gitlab.inria.fr/gazelle/framework/preferences,True
 https://gitlab.inria.fr/gazelle/library/HL7Common,True
-https://gitlab.inria.fr/gazelle/library/PatientGeneration,False
+https://gitlab.inria.fr/gazelle/library/PatientGeneration,True
 https://gitlab.inria.fr/gazelle/library/annotations,True
 https://gitlab.inria.fr/gazelle/library/archetypes/generated-validator,True
 https://gitlab.inria.fr/gazelle/library/archetypes/project-archetype,True
@@ -8807,6 +8814,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/talks/deeplearning,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/talks/fidle,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/terra-forma/public,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/thingsat/public,True
+https://gricad-gitlab.univ-grenoble-alpes.fr/thingsat/tinygs,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/tima-amfors/learnv,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/tima/public/ct_de-systemc,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/tima/public/newcas2019,True
