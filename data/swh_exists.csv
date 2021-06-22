@@ -1029,7 +1029,7 @@ https://github.com/ANSSI-FR/pycrate,True
 https://github.com/ANSSI-FR/route_leaks,True
 https://github.com/ANSSI-FR/rust-guide,True
 https://github.com/ANSSI-FR/scep,True
-https://github.com/ANSSI-FR/scep-ci,False
+https://github.com/ANSSI-FR/scep-ci,True
 https://github.com/ANSSI-FR/secAES-ATmega8515,True
 https://github.com/ANSSI-FR/tabi,True
 https://github.com/ANSSI-FR/transdep,True
@@ -4285,6 +4285,7 @@ https://github.com/etalab-ia/chatbot-template,True
 https://github.com/etalab-ia/data_gouv_text,True
 https://github.com/etalab-ia/data_science_template,True
 https://github.com/etalab-ia/demo-piaf,True
+https://github.com/etalab-ia/doctr,False
 https://github.com/etalab-ia/florian_opendatascience,True
 https://github.com/etalab-ia/knowledge-base,True
 https://github.com/etalab-ia/mlflow-docker,True
@@ -4486,7 +4487,7 @@ https://github.com/etalab/hackdash,True
 https://github.com/etalab/id.data.gouv.fr,True
 https://github.com/etalab/infolettre-lab-ia,True
 https://github.com/etalab/inspire-cartes-producteurs,True
-https://github.com/etalab/interview-test-dev-front,False
+https://github.com/etalab/interview-test-dev-front,True
 https://github.com/etalab/inventaire-codes-sources-organismes-publics,True
 https://github.com/etalab/iris,True
 https://github.com/etalab/irve,True
@@ -6612,8 +6613,9 @@ https://gitlab.inria.fr/ClassCode/classcodeia,True
 https://gitlab.inria.fr/ClassCode/pixees-theme,True
 https://gitlab.inria.fr/CompCert/ci,True
 https://gitlab.inria.fr/Conferences/ICT_2018_MUFF,True
-https://gitlab.inria.fr/CrowdBot/CrowdBotChallenge,False
+https://gitlab.inria.fr/CrowdBot/CrowdBotChallenge,True
 https://gitlab.inria.fr/CrowdBot/CrowdBotUnity,True
+https://gitlab.inria.fr/CrowdBot/UMANS,False
 https://gitlab.inria.fr/CrowdBot/catkin_crowdbotsim,True
 https://gitlab.inria.fr/D3/cassie,True
 https://gitlab.inria.fr/D3/cassie-data,True
@@ -6924,7 +6926,7 @@ https://gitlab.inria.fr/anon_group/iotlabandnist,True
 https://gitlab.inria.fr/asbizard/Procedural_modeling_of_multi-scale_galactic_dust,True
 https://gitlab.inria.fr/asclepios/biblio,True
 https://gitlab.inria.fr/astec/astec,False
-https://gitlab.inria.fr/astec/astec-2019-published,False
+https://gitlab.inria.fr/astec/astec-2019-published,True
 https://gitlab.inria.fr/astec/astec-tutorial,False
 https://gitlab.inria.fr/auctus/panda/franka_control,True
 https://gitlab.inria.fr/auctus/panda/franka_description,True
@@ -8967,6 +8969,7 @@ https://plmlab.math.cnrs.fr/imt/acces_backup,True
 https://plmlab.math.cnrs.fr/imt/ansible_deploy_nfs,True
 https://plmlab.math.cnrs.fr/imt/fragma/fragma-on-amqp,True
 https://plmlab.math.cnrs.fr/imt/fragma/plm-oidc-authentification,False
+https://plmlab.math.cnrs.fr/imt/plmbox_restore,False
 https://plmlab.math.cnrs.fr/imt/puppet/gitlab_deploy_key,True
 https://plmlab.math.cnrs.fr/imt/puppet/kerberos_module,True
 https://plmlab.math.cnrs.fr/imt/sysadmin_pub_keys,True
