@@ -2113,6 +2113,7 @@ https://github.com/InseeFrLab/cloud-scripts,True
 https://github.com/InseeFrLab/demo-apps,True
 https://github.com/InseeFrLab/docs.sspcloud.fr,True
 https://github.com/InseeFrLab/fastai,True
+https://github.com/InseeFrLab/fmtsas,False
 https://github.com/InseeFrLab/funcamp-r,True
 https://github.com/InseeFrLab/funcamp-r-dock,True
 https://github.com/InseeFrLab/funcamp-r-grimoire,True
@@ -3267,6 +3268,7 @@ https://github.com/betagouv/doc.incubateur.net-startups,True
 https://github.com/betagouv/docs.dossiersco.fr,True
 https://github.com/betagouv/documentation,True
 https://github.com/betagouv/domain-scan,True
+https://github.com/betagouv/dora,False
 https://github.com/betagouv/dossiersco,True
 https://github.com/betagouv/dossiersco-maintenance,True
 https://github.com/betagouv/dossiersco-openlab1,True
@@ -6340,6 +6342,7 @@ https://gitlab.com/dreal-datalab/drealdown,True
 https://gitlab.com/dreal-datalab/drealthemes,True
 https://gitlab.com/dreal-datalab/enr_reseaux_teo,True
 https://gitlab.com/dreal-datalab/essai,True
+https://gitlab.com/dreal-datalab/exports_terristory,False
 https://gitlab.com/dreal-datalab/indicateurs.territoriaux.datamart,True
 https://gitlab.com/dreal-datalab/indicateurs_territoriaux,True
 https://gitlab.com/dreal-datalab/mapfactory,True
@@ -6377,7 +6380,7 @@ https://gitlab.com/fabnum-minarm/igloo/terraform/main,True
 https://gitlab.com/fabnum-minarm/igloo/terraform/modules/add-runner,True
 https://gitlab.com/fabnum-minarm/igloo/terraform/modules/configure-repository-for-deployment,True
 https://gitlab.com/fabnum-minarm/igloo/terraform/modules/create-namespace,True
-https://gitlab.com/fabnum-minarm/igloo/terraform/modules/mailcatcher,False
+https://gitlab.com/fabnum-minarm/igloo/terraform/modules/mailcatcher,True
 https://gitlab.com/fabnum-minarm/igloo/terraform/modules/postgresql,True
 https://gitlab.com/fabnum-minarm/igloo/terraform/modules/timescaledb,True
 https://gitlab.com/fabnum-minarm/igloo/terraform/projects/_template,True
@@ -6442,6 +6445,7 @@ https://gitlab.com/rdes_dreal/propre.rpls,True
 https://gitlab.com/rdes_dreal/publication_guide,True
 https://gitlab.com/rdes_dreal/sitadel_dataviz,True
 https://gitlab.huma-num.fr/atelier-donnees/depot,True
+https://gitlab.huma-num.fr/cahier/gt-reuse-vade-mecum,False
 https://gitlab.huma-num.fr/cbma/cbma-epigraphie-provence,True
 https://gitlab.huma-num.fr/cbma/cbma-philologic,True
 https://gitlab.huma-num.fr/cbma/cbma-philologic-docker,True
@@ -7704,6 +7708,8 @@ https://gitlab.inria.fr/mediation-sif/Labyrinthe/tutoriellaby,True
 https://gitlab.inria.fr/meetings/biomolecules-project,True
 https://gitlab.inria.fr/meetings/codes,True
 https://gitlab.inria.fr/meetings/first-attempts-with-biomolecular-experiments,True
+https://gitlab.inria.fr/melissa/melissa,False
+https://gitlab.inria.fr/melissa/melissa-ci,False
 https://gitlab.inria.fr/memcad/clangml,True
 https://gitlab.inria.fr/memcad/clangml-transforms,True
 https://gitlab.inria.fr/memphis/nemo,True
