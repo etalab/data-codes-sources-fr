@@ -533,6 +533,7 @@ https://forgemia.inra.fr/umr-astre/capiche,True
 https://forgemia.inra.fr/umr-astre/cirad,True
 https://forgemia.inra.fr/umr-astre/covid19-mortality,True
 https://forgemia.inra.fr/umr-astre/difuse,True
+https://forgemia.inra.fr/umr-astre/dockelet,False
 https://forgemia.inra.fr/umr-astre/epidmap,True
 https://forgemia.inra.fr/umr-astre/geonetwork,True
 https://forgemia.inra.fr/umr-astre/mapMCDA,True
@@ -6957,7 +6958,7 @@ https://gitlab.inria.fr/belenios-forks/belenios-swergas,True
 https://gitlab.inria.fr/belenios/belenios,True
 https://gitlab.inria.fr/belenios/belenios-prepared-database,True
 https://gitlab.inria.fr/bench/v0,True
-https://gitlab.inria.fr/bibtex2html/bibtex2html,False
+https://gitlab.inria.fr/bibtex2html/bibtex2html,True
 https://gitlab.inria.fr/bioimage-it/bioimageapp,True
 https://gitlab.inria.fr/bioimage-it/bioimageit-tools,True
 https://gitlab.inria.fr/bioimage-it/bioimagej,True
@@ -8957,6 +8958,7 @@ https://plmlab.math.cnrs.fr/imb-public/anr-template,True
 https://plmlab.math.cnrs.fr/imt/acces_backup,True
 https://plmlab.math.cnrs.fr/imt/ansible_deploy_nfs,True
 https://plmlab.math.cnrs.fr/imt/fragma/fragma-on-amqp,True
+https://plmlab.math.cnrs.fr/imt/fragma/plm-oidc-authentification,False
 https://plmlab.math.cnrs.fr/imt/puppet/gitlab_deploy_key,True
 https://plmlab.math.cnrs.fr/imt/puppet/kerberos_module,True
 https://plmlab.math.cnrs.fr/imt/sysadmin_pub_keys,True
