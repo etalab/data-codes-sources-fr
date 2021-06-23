@@ -534,7 +534,7 @@ https://forgemia.inra.fr/umr-astre/capiche,True
 https://forgemia.inra.fr/umr-astre/cirad,True
 https://forgemia.inra.fr/umr-astre/covid19-mortality,True
 https://forgemia.inra.fr/umr-astre/difuse,True
-https://forgemia.inra.fr/umr-astre/dockelet,False
+https://forgemia.inra.fr/umr-astre/dockelet,True
 https://forgemia.inra.fr/umr-astre/epidmap,True
 https://forgemia.inra.fr/umr-astre/geonetwork,True
 https://forgemia.inra.fr/umr-astre/mapMCDA,True
@@ -5480,6 +5480,7 @@ https://github.com/ocaml/MPP-language-blender,True
 https://github.com/ocaml/RFCs,True
 https://github.com/ocaml/Zarith,True
 https://github.com/ocaml/caml-mode,True
+https://github.com/ocaml/camlp-streams,False
 https://github.com/ocaml/dbm,True
 https://github.com/ocaml/dune,True
 https://github.com/ocaml/dune-www,True
@@ -6999,7 +7000,7 @@ https://gitlab.inria.fr/blare/hardblare/hardblare-kblare-tools,True
 https://gitlab.inria.fr/blare/hardblare/hardblare-kernel,True
 https://gitlab.inria.fr/blare/hardblare/hardblare-llvm,True
 https://gitlab.inria.fr/blare/hardblare/hardblare-musl-libc,True
-https://gitlab.inria.fr/blare/hardblare/hardblare-use-cases,False
+https://gitlab.inria.fr/blare/hardblare/hardblare-use-cases,True
 https://gitlab.inria.fr/blare/hardblare/hardblare-yocto-meta-clang,True
 https://gitlab.inria.fr/blare/hardblare/hardblare-yocto-meta-hardblare,True
 https://gitlab.inria.fr/blare/hardblare/hardblare-yocto-meta-openembedded,True
@@ -7043,6 +7044,7 @@ https://gitlab.inria.fr/chroma/drone-simulator,True
 https://gitlab.inria.fr/chroma/drones/drone-simulator,True
 https://gitlab.inria.fr/chroma/intelaero-cao,True
 https://gitlab.inria.fr/ciao/pmns-for-sidh,True
+https://gitlab.inria.fr/cidre-public/debiased-android-malware-datasets,False
 https://gitlab.inria.fr/cidre-public/from-ttp-to-ioc-dataset,True
 https://gitlab.inria.fr/cidre-public/malcon19,True
 https://gitlab.inria.fr/cidre-public/obfuscated-android-unit-examples,True
@@ -7710,6 +7712,7 @@ https://gitlab.inria.fr/meetings/codes,True
 https://gitlab.inria.fr/meetings/first-attempts-with-biomolecular-experiments,True
 https://gitlab.inria.fr/melissa/melissa,False
 https://gitlab.inria.fr/melissa/melissa-ci,False
+https://gitlab.inria.fr/melissa/melissa-da,True
 https://gitlab.inria.fr/memcad/clangml,True
 https://gitlab.inria.fr/memcad/clangml-transforms,True
 https://gitlab.inria.fr/memphis/nemo,True
@@ -8135,6 +8138,7 @@ https://gitlab.inria.fr/verifisc/lawspec,True
 https://gitlab.inria.fr/verifisc/mlang,True
 https://gitlab.inria.fr/verifisc/verifisc,True
 https://gitlab.inria.fr/verifisc/verifisc-python,True
+https://gitlab.inria.fr/vidjil/contrib,False
 https://gitlab.inria.fr/vidjil/mixcr,True
 https://gitlab.inria.fr/vidjil/mkdocs-gitlab-plugin,True
 https://gitlab.inria.fr/vidjil/sdsl-lite,True
@@ -8745,6 +8749,15 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/legi/soft/trokata/tssh,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/ljk-scoliose/collecte_data,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/lucah/hadaca_scoring,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/marinesj/ls_translator,True
+https://gricad-gitlab.univ-grenoble-alpes.fr/mecaiceige/tools/documentations/AITA-book,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/mecaiceige/tools/documentations/CraFT-Book,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/mecaiceige/tools/documentations/DIC-Book,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/mecaiceige/tools/lib_python/xarray_aita,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/mecaiceige/tools/lib_python/xarray_craft,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/mecaiceige/tools/lib_python/xarray_dic,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/mecaiceige/tools/lib_python/xarray_function,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/mecaiceige/tools/lib_python/xarray_symTensor2d,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/mecaiceige/tools/lib_python/xarray_uvecs,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/meige-legi/intro-python,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/meige-legi/scientific-computing-m2-efm,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/mercurius_inversion/alternated_inversion,True
