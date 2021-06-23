@@ -2294,7 +2294,7 @@ https://github.com/MTES-MCT/camino-portainer,True
 https://github.com/MTES-MCT/camino-scripting,True
 https://github.com/MTES-MCT/camino-spreadsheets,True
 https://github.com/MTES-MCT/camino-ui,True
-https://github.com/MTES-MCT/capqualif,False
+https://github.com/MTES-MCT/capqualif,True
 https://github.com/MTES-MCT/carbure,True
 https://github.com/MTES-MCT/cerbere-nodejs,True
 https://github.com/MTES-MCT/cerbere-python,True
@@ -4288,7 +4288,7 @@ https://github.com/etalab-ia/chatbot-template,True
 https://github.com/etalab-ia/data_gouv_text,True
 https://github.com/etalab-ia/data_science_template,True
 https://github.com/etalab-ia/demo-piaf,True
-https://github.com/etalab-ia/doctr,False
+https://github.com/etalab-ia/doctr,True
 https://github.com/etalab-ia/florian_opendatascience,True
 https://github.com/etalab-ia/knowledge-base,True
 https://github.com/etalab-ia/mlflow-docker,True
@@ -8082,6 +8082,7 @@ https://gitlab.inria.fr/stopcovid19/backend-server,True
 https://gitlab.inria.fr/stopcovid19/clea-server,True
 https://gitlab.inria.fr/stopcovid19/dgca-app-core-android,True
 https://gitlab.inria.fr/stopcovid19/robert-client-api-spec,True
+https://gitlab.inria.fr/stopcovid19/robert-push-notif-server,False
 https://gitlab.inria.fr/stopcovid19/robert-server,True
 https://gitlab.inria.fr/stopcovid19/stopcovid-android,True
 https://gitlab.inria.fr/stopcovid19/stopcovid-blesdk-android,True
