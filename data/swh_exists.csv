@@ -3572,6 +3572,7 @@ https://github.com/betagouv/with-react-formidable,True
 https://github.com/betagouv/with-react-login,True
 https://github.com/betagouv/with-react-query,True
 https://github.com/betagouv/with-react-redux-login,True
+https://github.com/betagouv/yakforms,False
 https://github.com/betagouv/zam,True
 https://github.com/caml-pkcs11/caml-crush,True
 https://github.com/caml-pkcs11/opkcs11-tool,True
@@ -8145,7 +8146,7 @@ https://gitlab.inria.fr/verifisc/lawspec,True
 https://gitlab.inria.fr/verifisc/mlang,True
 https://gitlab.inria.fr/verifisc/verifisc,True
 https://gitlab.inria.fr/verifisc/verifisc-python,True
-https://gitlab.inria.fr/vidjil/contrib,False
+https://gitlab.inria.fr/vidjil/contrib,True
 https://gitlab.inria.fr/vidjil/mixcr,True
 https://gitlab.inria.fr/vidjil/mkdocs-gitlab-plugin,True
 https://gitlab.inria.fr/vidjil/sdsl-lite,True
@@ -8758,7 +8759,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/lucah/hadaca_scoring,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/marinesj/ls_translator,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/mecaiceige/tools/documentations/AITA-book,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/mecaiceige/tools/documentations/CraFT-Book,False
-https://gricad-gitlab.univ-grenoble-alpes.fr/mecaiceige/tools/documentations/DIC-Book,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/mecaiceige/tools/documentations/DIC-Book,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/mecaiceige/tools/documentations/IceMecha,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/mecaiceige/tools/lib_python/xarray_aita,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/mecaiceige/tools/lib_python/xarray_craft,False
@@ -9111,6 +9112,10 @@ https://plmlab.math.cnrs.fr/plmshift/wordpress,True
 https://plmlab.math.cnrs.fr/plmshift/wordpress-custom,True
 https://plmlab.math.cnrs.fr/plmshift/wordpress-kit-cnrs,True
 https://plmlab.math.cnrs.fr/plmshift/yakforms,True
+https://plmlab.math.cnrs.fr/plmteam/applications/sso/oauth2,False
+https://plmlab.math.cnrs.fr/plmteam/applications/sso/openldap,False
+https://plmlab.math.cnrs.fr/plmteam/applications/sso/shib-idp,False
+https://plmlab.math.cnrs.fr/plmteam/applications/sso/shib-sp,False
 https://plmlab.math.cnrs.fr/plmteam/docs/jupytercloud,True
 https://plmlab.math.cnrs.fr/plmteam/docs/okd,True
 https://plmlab.math.cnrs.fr/plmteam/stream-hls-infra,True
