@@ -2372,6 +2372,7 @@ https://github.com/MTES-MCT/rieau-ui,True
 https://github.com/MTES-MCT/savoirfR,True
 https://github.com/MTES-MCT/secmar-data,True
 https://github.com/MTES-MCT/secmar-documentation,True
+https://github.com/MTES-MCT/stats-action,False
 https://github.com/MTES-MCT/toolbox,True
 https://github.com/MTES-MCT/trackdechets,True
 https://github.com/MTES-MCT/trackdechets-bulk-account-creation,True
@@ -5203,7 +5204,7 @@ https://github.com/medialab/portic-explorations,True
 https://github.com/medialab/portic-poitousprint-datasets-modalities,True
 https://github.com/medialab/portic-storymaps-2021,True
 https://github.com/medialab/privacy,True
-https://github.com/medialab/psia-digital-methods,False
+https://github.com/medialab/psia-digital-methods,True
 https://github.com/medialab/pubpub,True
 https://github.com/medialab/python-boilerpipe,True
 https://github.com/medialab/python-urlsresolver,True
@@ -6345,7 +6346,7 @@ https://gitlab.com/dreal-datalab/drealdown,True
 https://gitlab.com/dreal-datalab/drealthemes,True
 https://gitlab.com/dreal-datalab/enr_reseaux_teo,True
 https://gitlab.com/dreal-datalab/essai,True
-https://gitlab.com/dreal-datalab/exports_terristory,False
+https://gitlab.com/dreal-datalab/exports_terristory,True
 https://gitlab.com/dreal-datalab/indicateurs.territoriaux.datamart,True
 https://gitlab.com/dreal-datalab/indicateurs_territoriaux,True
 https://gitlab.com/dreal-datalab/mapfactory,True
@@ -8074,7 +8075,7 @@ https://gitlab.inria.fr/starpu/starpu.gitlabpages.inria.fr,True
 https://gitlab.inria.fr/statify_public/anzj-crash,True
 https://gitlab.inria.fr/statify_public/brm-ema,True
 https://gitlab.inria.fr/statify_public/interstices_neuro,True
-https://gitlab.inria.fr/statify_public/jemr-ema,False
+https://gitlab.inria.fr/statify_public/jemr-ema,True
 https://gitlab.inria.fr/steep/urbansprawl/urbansprawl-lib,True
 https://gitlab.inria.fr/stopcovid19/CLEA-exposure-verification,True
 https://gitlab.inria.fr/stopcovid19/accueil,True
@@ -8762,7 +8763,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/mecaiceige/tools/documentations/Ice
 https://gricad-gitlab.univ-grenoble-alpes.fr/mecaiceige/tools/lib_python/xarray_aita,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/mecaiceige/tools/lib_python/xarray_craft,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/mecaiceige/tools/lib_python/xarray_dic,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/mecaiceige/tools/lib_python/xarray_function,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/mecaiceige/tools/lib_python/xarray_function,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/mecaiceige/tools/lib_python/xarray_symTensor2d,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/mecaiceige/tools/lib_python/xarray_uvecs,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/meige-legi/intro-python,True
