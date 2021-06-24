@@ -4,7 +4,7 @@ https://dci-gitlab.cines.fr/dad/archive-format-converter,True
 https://dci-gitlab.cines.fr/dad/cines-vitam-plugins/ark-griffin,True
 https://dci-gitlab.cines.fr/dad/cines-vitam-plugins/bir-plugin,True
 https://dci-gitlab.cines.fr/dad/cines-vitam-plugins/format-validator-plugin,True
-https://dci-gitlab.cines.fr/dad/cines-vitamui,False
+https://dci-gitlab.cines.fr/dad/cines-vitamui,True
 https://dci-gitlab.cines.fr/dad/fdp-api,True
 https://dci-gitlab.cines.fr/dad/fdp-client,True
 https://dci-gitlab.cines.fr/dad/fdp-pillar,True
@@ -2737,6 +2737,7 @@ https://github.com/SocialGouv/monsuivipsy,True
 https://github.com/SocialGouv/monsuivipsy-landing,False
 https://github.com/SocialGouv/monsuivipsy-site,True
 https://github.com/SocialGouv/next-routes,True
+https://github.com/SocialGouv/nos1000jours-landing,False
 https://github.com/SocialGouv/nuclei-dashboard,True
 https://github.com/SocialGouv/onvs,True
 https://github.com/SocialGouv/owasp-dashboard,True
@@ -8082,7 +8083,7 @@ https://gitlab.inria.fr/stopcovid19/backend-server,True
 https://gitlab.inria.fr/stopcovid19/clea-server,True
 https://gitlab.inria.fr/stopcovid19/dgca-app-core-android,True
 https://gitlab.inria.fr/stopcovid19/robert-client-api-spec,True
-https://gitlab.inria.fr/stopcovid19/robert-push-notif-server,False
+https://gitlab.inria.fr/stopcovid19/robert-push-notif-server,True
 https://gitlab.inria.fr/stopcovid19/robert-server,True
 https://gitlab.inria.fr/stopcovid19/stopcovid-android,True
 https://gitlab.inria.fr/stopcovid19/stopcovid-blesdk-android,True
@@ -8758,7 +8759,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/mecaiceige/tools/documentations/AIT
 https://gricad-gitlab.univ-grenoble-alpes.fr/mecaiceige/tools/documentations/CraFT-Book,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/mecaiceige/tools/documentations/DIC-Book,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/mecaiceige/tools/documentations/IceMecha,False
-https://gricad-gitlab.univ-grenoble-alpes.fr/mecaiceige/tools/lib_python/xarray_aita,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/mecaiceige/tools/lib_python/xarray_aita,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/mecaiceige/tools/lib_python/xarray_craft,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/mecaiceige/tools/lib_python/xarray_dic,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/mecaiceige/tools/lib_python/xarray_function,False
@@ -8994,7 +8995,7 @@ https://plmlab.math.cnrs.fr/imt/acces_backup,True
 https://plmlab.math.cnrs.fr/imt/ansible_deploy_nfs,True
 https://plmlab.math.cnrs.fr/imt/fragma/fragma-on-amqp,True
 https://plmlab.math.cnrs.fr/imt/fragma/plm-oidc-authentification,True
-https://plmlab.math.cnrs.fr/imt/plmbox_restore,False
+https://plmlab.math.cnrs.fr/imt/plmbox_restore,True
 https://plmlab.math.cnrs.fr/imt/puppet/gitlab_deploy_key,True
 https://plmlab.math.cnrs.fr/imt/puppet/kerberos_module,True
 https://plmlab.math.cnrs.fr/imt/sysadmin_pub_keys,True
