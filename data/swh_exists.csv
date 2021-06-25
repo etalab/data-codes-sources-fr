@@ -228,6 +228,7 @@ https://forgemia.inra.fr/acep/careb,True
 https://forgemia.inra.fr/adminforgemia/doc-public,True
 https://forgemia.inra.fr/agriterix/agriterix,True
 https://forgemia.inra.fr/agriterix/doc,True
+https://forgemia.inra.fr/agriterix/farm-generator,False
 https://forgemia.inra.fr/agriterix/import-export,True
 https://forgemia.inra.fr/agriterix/simulator,True
 https://forgemia.inra.fr/agroecoperenne/scripting/python-module,True
@@ -2740,7 +2741,7 @@ https://github.com/SocialGouv/monsuivipsy,True
 https://github.com/SocialGouv/monsuivipsy-landing,False
 https://github.com/SocialGouv/monsuivipsy-site,True
 https://github.com/SocialGouv/next-routes,True
-https://github.com/SocialGouv/nos1000jours-landing,False
+https://github.com/SocialGouv/nos1000jours-landing,True
 https://github.com/SocialGouv/nuclei-dashboard,True
 https://github.com/SocialGouv/onvs,True
 https://github.com/SocialGouv/owasp-dashboard,True
@@ -3273,7 +3274,7 @@ https://github.com/betagouv/doc.incubateur.net-startups,True
 https://github.com/betagouv/docs.dossiersco.fr,True
 https://github.com/betagouv/documentation,True
 https://github.com/betagouv/domain-scan,True
-https://github.com/betagouv/dora,False
+https://github.com/betagouv/dora,True
 https://github.com/betagouv/dossiersco,True
 https://github.com/betagouv/dossiersco-maintenance,True
 https://github.com/betagouv/dossiersco-openlab1,True
@@ -4555,7 +4556,7 @@ https://github.com/etalab/quartiers-prioritaires,True
 https://github.com/etalab/radar-tech,True
 https://github.com/etalab/radar-tech-backend,True
 https://github.com/etalab/radar-tech-form,True
-https://github.com/etalab/radar-tech-frontend,False
+https://github.com/etalab/radar-tech-frontend,True
 https://github.com/etalab/recherche.etalab.studio,True
 https://github.com/etalab/recommendations-edito,True
 https://github.com/etalab/reports-aides-entreprises,True
@@ -6467,7 +6468,7 @@ https://gitlab.huma-num.fr/code-performance/code-performance,True
 https://gitlab.huma-num.fr/consortium3d/aLTAG3D,True
 https://gitlab.huma-num.fr/cosme/telma_chartes_exports,True
 https://gitlab.huma-num.fr/cosme/telma_chartes_imports,True
-https://gitlab.huma-num.fr/crh/biblio-crh,False
+https://gitlab.huma-num.fr/crh/biblio-crh,True
 https://gitlab.huma-num.fr/daycourse/intersectionality,True
 https://gitlab.huma-num.fr/disco-lge/ichll11-slides,True
 https://gitlab.huma-num.fr/disco-lge/processinglge,True
