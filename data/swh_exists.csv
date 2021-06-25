@@ -961,6 +961,7 @@ https://github.com/139bercy/cloud-appliance-composer-repo,True
 https://github.com/139bercy/cloud-appliance-management,True
 https://github.com/139bercy/cloud-appliance-nexus-repo,True
 https://github.com/139bercy/cloud-appliance-observability,True
+https://github.com/139bercy/covid19-dashboard-widgets,False
 https://github.com/139bercy/dashboard_widgets,True
 https://github.com/139bercy/decp-augmente,True
 https://github.com/139bercy/decp-docs,True
@@ -5909,7 +5910,7 @@ https://github.com/signaux-faibles/MLlogr,True
 https://github.com/signaux-faibles/MLsegmentr,True
 https://github.com/signaux-faibles/datapi,True
 https://github.com/signaux-faibles/documentation,True
-https://github.com/signaux-faibles/fakeData,False
+https://github.com/signaux-faibles/fakeData,True
 https://github.com/signaux-faibles/frontend,True
 https://github.com/signaux-faibles/fte,True
 https://github.com/signaux-faibles/gorncs-api,True
@@ -7716,8 +7717,8 @@ https://gitlab.inria.fr/mediation-sif/Labyrinthe/tutoriellaby,True
 https://gitlab.inria.fr/meetings/biomolecules-project,True
 https://gitlab.inria.fr/meetings/codes,True
 https://gitlab.inria.fr/meetings/first-attempts-with-biomolecular-experiments,True
-https://gitlab.inria.fr/melissa/melissa,False
-https://gitlab.inria.fr/melissa/melissa-ci,False
+https://gitlab.inria.fr/melissa/melissa,True
+https://gitlab.inria.fr/melissa/melissa-ci,True
 https://gitlab.inria.fr/melissa/melissa-da,True
 https://gitlab.inria.fr/memcad/clangml,True
 https://gitlab.inria.fr/memcad/clangml-transforms,True
@@ -9112,7 +9113,7 @@ https://plmlab.math.cnrs.fr/plmshift/wordpress,True
 https://plmlab.math.cnrs.fr/plmshift/wordpress-custom,True
 https://plmlab.math.cnrs.fr/plmshift/wordpress-kit-cnrs,True
 https://plmlab.math.cnrs.fr/plmshift/yakforms,True
-https://plmlab.math.cnrs.fr/plmteam/applications/sso/oauth2,False
+https://plmlab.math.cnrs.fr/plmteam/applications/sso/oauth2,True
 https://plmlab.math.cnrs.fr/plmteam/applications/sso/openldap,False
 https://plmlab.math.cnrs.fr/plmteam/applications/sso/shib-idp,False
 https://plmlab.math.cnrs.fr/plmteam/applications/sso/shib-sp,False
