@@ -5804,7 +5804,7 @@ https://github.com/pass-culture/pass-culture-pro,True
 https://github.com/pass-culture/pass-culture-web-analytics,True
 https://github.com/pass-culture/pc-maintenance,True
 https://github.com/pass-culture/pc-monitoring,True
-https://github.com/pass-culture/react-native-profiling,False
+https://github.com/pass-culture/react-native-profiling,True
 https://github.com/pass-culture/reverse-proxy,True
 https://github.com/pass-culture/telegraf-buildpack,True
 https://github.com/pass-culture/telegraf-scalingo,True
@@ -6938,7 +6938,7 @@ https://gitlab.inria.fr/asbizard/Procedural_modeling_of_multi-scale_galactic_dus
 https://gitlab.inria.fr/asclepios/biblio,True
 https://gitlab.inria.fr/astec/astec,False
 https://gitlab.inria.fr/astec/astec-2019-published,True
-https://gitlab.inria.fr/astec/astec-tutorial,False
+https://gitlab.inria.fr/astec/astec-tutorial,True
 https://gitlab.inria.fr/auctus/panda/franka_control,True
 https://gitlab.inria.fr/auctus/panda/franka_description,True
 https://gitlab.inria.fr/auctus/panda/panda_traj,True
@@ -8761,7 +8761,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/marinesj/ls_translator,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/mecaiceige/tools/documentations/AITA-book,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/mecaiceige/tools/documentations/CraFT-Book,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/mecaiceige/tools/documentations/DIC-Book,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/mecaiceige/tools/documentations/IceMecha,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/mecaiceige/tools/documentations/IceMecha,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/mecaiceige/tools/lib_python/xarray_aita,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/mecaiceige/tools/lib_python/xarray_craft,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/mecaiceige/tools/lib_python/xarray_dic,True
