@@ -2944,7 +2944,7 @@ https://github.com/abes-esr/licencesnationales-front,True
 https://github.com/abes-esr/ln-back-event,False
 https://github.com/abes-esr/ln-front,False
 https://github.com/abes-esr/marcxml2tei,True
-https://github.com/abes-esr/notice-mapper,False
+https://github.com/abes-esr/notice-mapper,True
 https://github.com/abes-esr/openapi,True
 https://github.com/abes-esr/periscope-back,True
 https://github.com/abes-esr/periscope-front,True
@@ -3298,7 +3298,7 @@ https://github.com/betagouv/ecolab-transport,True
 https://github.com/betagouv/ecosante,True
 https://github.com/betagouv/elasticsearch-gravitee-ingest-processor,True
 https://github.com/betagouv/ellesfontlaphoto,True
-https://github.com/betagouv/epci,False
+https://github.com/betagouv/epci,True
 https://github.com/betagouv/etudiant-entrepreneur,True
 https://github.com/betagouv/eva,True
 https://github.com/betagouv/eva-orchestrateur,True
@@ -5487,7 +5487,7 @@ https://github.com/ocaml/MPP-language-blender,True
 https://github.com/ocaml/RFCs,True
 https://github.com/ocaml/Zarith,True
 https://github.com/ocaml/caml-mode,True
-https://github.com/ocaml/camlp-streams,False
+https://github.com/ocaml/camlp-streams,True
 https://github.com/ocaml/dbm,True
 https://github.com/ocaml/dune,True
 https://github.com/ocaml/dune-www,True
