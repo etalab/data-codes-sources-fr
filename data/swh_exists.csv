@@ -143,8 +143,8 @@ https://forge.univ-lyon1.fr/aml-lyon1/campusdulibre,True
 https://forge.univ-lyon1.fr/analyse-image_axel_paul_cyril/ucbl-background-extraction,False
 https://forge.univ-lyon1.fr/analyse-image_axel_paul_cyril/ucbl-edge-detection,False
 https://forge.univ-lyon1.fr/analyse-image_axel_paul_cyril/ucbl-region-growing,False
-https://forge.univ-lyon1.fr/analyse-image_axel_paul_cyril/ucbl-space-filtering,False
-https://forge.univ-lyon1.fr/analyse-image_axel_paul_cyril/ucbl-time-filtering,False
+https://forge.univ-lyon1.fr/analyse-image_axel_paul_cyril/ucbl-space-filtering,True
+https://forge.univ-lyon1.fr/analyse-image_axel_paul_cyril/ucbl-time-filtering,True
 https://forge.univ-lyon1.fr/analyse-image_axel_paul_cyril/ucbl-video-io,False
 https://forge.univ-lyon1.fr/bd-pedago/bd-pedago,True
 https://forge.univ-lyon1.fr/bdw_1/projet,True
