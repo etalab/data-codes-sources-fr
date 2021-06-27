@@ -234,7 +234,7 @@ https://forgemia.inra.fr/acep/careb,True
 https://forgemia.inra.fr/adminforgemia/doc-public,True
 https://forgemia.inra.fr/agriterix/agriterix,True
 https://forgemia.inra.fr/agriterix/doc,True
-https://forgemia.inra.fr/agriterix/farm-generator,False
+https://forgemia.inra.fr/agriterix/farm-generator,True
 https://forgemia.inra.fr/agriterix/import-export,True
 https://forgemia.inra.fr/agriterix/simulator,True
 https://forgemia.inra.fr/agroecoperenne/scripting/python-module,True
