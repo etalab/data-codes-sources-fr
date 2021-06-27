@@ -2381,7 +2381,7 @@ https://github.com/MTES-MCT/rieau-ui,True
 https://github.com/MTES-MCT/savoirfR,True
 https://github.com/MTES-MCT/secmar-data,True
 https://github.com/MTES-MCT/secmar-documentation,True
-https://github.com/MTES-MCT/stats-action,False
+https://github.com/MTES-MCT/stats-action,True
 https://github.com/MTES-MCT/toolbox,True
 https://github.com/MTES-MCT/trackdechets,True
 https://github.com/MTES-MCT/trackdechets-bulk-account-creation,True
@@ -9124,7 +9124,7 @@ https://plmlab.math.cnrs.fr/plmshift/yakforms,True
 https://plmlab.math.cnrs.fr/plmteam/applications/sso/oauth2,True
 https://plmlab.math.cnrs.fr/plmteam/applications/sso/openldap,False
 https://plmlab.math.cnrs.fr/plmteam/applications/sso/shib-idp,True
-https://plmlab.math.cnrs.fr/plmteam/applications/sso/shib-sp,False
+https://plmlab.math.cnrs.fr/plmteam/applications/sso/shib-sp,True
 https://plmlab.math.cnrs.fr/plmteam/docs/jupytercloud,True
 https://plmlab.math.cnrs.fr/plmteam/docs/okd,True
 https://plmlab.math.cnrs.fr/plmteam/stream-hls-infra,True
