@@ -142,10 +142,10 @@ https://forge.univ-lyon1.fr/aml-lyon1/actionrobot,True
 https://forge.univ-lyon1.fr/aml-lyon1/campusdulibre,True
 https://forge.univ-lyon1.fr/analyse-image_axel_paul_cyril/ucbl-background-extraction,False
 https://forge.univ-lyon1.fr/analyse-image_axel_paul_cyril/ucbl-edge-detection,False
-https://forge.univ-lyon1.fr/analyse-image_axel_paul_cyril/ucbl-region-growing,False
+https://forge.univ-lyon1.fr/analyse-image_axel_paul_cyril/ucbl-region-growing,True
 https://forge.univ-lyon1.fr/analyse-image_axel_paul_cyril/ucbl-space-filtering,True
 https://forge.univ-lyon1.fr/analyse-image_axel_paul_cyril/ucbl-time-filtering,True
-https://forge.univ-lyon1.fr/analyse-image_axel_paul_cyril/ucbl-video-io,False
+https://forge.univ-lyon1.fr/analyse-image_axel_paul_cyril/ucbl-video-io,True
 https://forge.univ-lyon1.fr/bd-pedago/bd-pedago,True
 https://forge.univ-lyon1.fr/bdw_1/projet,True
 https://forge.univ-lyon1.fr/bpn/moduleimage,True
@@ -1881,7 +1881,7 @@ https://github.com/IRSN/dbaf,True
 https://github.com/IRSN/nuclear_iventory_prediction,False
 https://github.com/IRSN/radR,True
 https://github.com/IRSN/smint,True
-https://github.com/IRSN/ubuntu1804-dind,False
+https://github.com/IRSN/ubuntu1804-dind,True
 https://github.com/ISCPIF/JEDI,True
 https://github.com/ISCPIF/MGO,True
 https://github.com/ISCPIF/PSEExperiments,True
