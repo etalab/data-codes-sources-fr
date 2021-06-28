@@ -3281,6 +3281,8 @@ https://github.com/betagouv/docs.dossiersco.fr,True
 https://github.com/betagouv/documentation,True
 https://github.com/betagouv/domain-scan,True
 https://github.com/betagouv/dora,True
+https://github.com/betagouv/dora-back,False
+https://github.com/betagouv/dora-front,False
 https://github.com/betagouv/dossiersco,True
 https://github.com/betagouv/dossiersco-maintenance,True
 https://github.com/betagouv/dossiersco-openlab1,True
@@ -9122,7 +9124,7 @@ https://plmlab.math.cnrs.fr/plmshift/wordpress-custom,True
 https://plmlab.math.cnrs.fr/plmshift/wordpress-kit-cnrs,True
 https://plmlab.math.cnrs.fr/plmshift/yakforms,True
 https://plmlab.math.cnrs.fr/plmteam/applications/sso/oauth2,True
-https://plmlab.math.cnrs.fr/plmteam/applications/sso/openldap,False
+https://plmlab.math.cnrs.fr/plmteam/applications/sso/openldap,True
 https://plmlab.math.cnrs.fr/plmteam/applications/sso/shib-idp,True
 https://plmlab.math.cnrs.fr/plmteam/applications/sso/shib-sp,True
 https://plmlab.math.cnrs.fr/plmteam/docs/jupytercloud,True
