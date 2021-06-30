@@ -651,6 +651,7 @@ https://git.beta.pole-emploi.fr/open-source/labonneformation,True
 https://git.beta.pole-emploi.fr/open-source/toolkit,True
 https://git.beta.pole-emploi.fr/open-source/trefle,True
 https://git.beta.pole-emploi.fr/open-source/tuiles,True
+https://git.beta.pole-emploi.fr/open-source/wiki-docs-ressources-public,False
 https://git.unicaen.fr/open-source/OSE,True
 https://git.unicaen.fr/open-source/docker/sygal-db-image,True
 https://git.unicaen.fr/open-source/docker/sygal-image,True
@@ -6969,7 +6970,7 @@ https://gitlab.inria.fr/android-tools/readme,True
 https://gitlab.inria.fr/anon_group/iotlabandnist,True
 https://gitlab.inria.fr/asbizard/Procedural_modeling_of_multi-scale_galactic_dust,True
 https://gitlab.inria.fr/asclepios/biblio,True
-https://gitlab.inria.fr/astec/astec,False
+https://gitlab.inria.fr/astec/astec,True
 https://gitlab.inria.fr/astec/astec-2019-published,True
 https://gitlab.inria.fr/astec/astec-tutorial,True
 https://gitlab.inria.fr/auctus/panda/franka_control,True
@@ -8201,6 +8202,8 @@ https://gitlab.inria.fr/xfor/docs,True
 https://gitlab.inria.fr/xfor/guix-xfor,True
 https://gitlab.inria.fr/xfor/xfor-clang,True
 https://gitlab.inria.fr/xkblas/versions,True
+https://gitlab.inria.fr/xlab/x_logger,False
+https://gitlab.inria.fr/xlab/x_quick,False
 https://gitlab.inria.fr/xug/meetings,True
 https://gitlab.inria.fr/xug/nix-tutorial,True
 https://gitlab.inria.fr/yixu/deepmot,True
@@ -8996,6 +8999,7 @@ https://plmlab.math.cnrs.fr/docker-images/debian,True
 https://plmlab.math.cnrs.fr/docker-images/docker-images.pages.math.cnrs.fr,True
 https://plmlab.math.cnrs.fr/docker-images/elasticsearch,True
 https://plmlab.math.cnrs.fr/docker-images/esup-pod,True
+https://plmlab.math.cnrs.fr/docker-images/helm-mirror,False
 https://plmlab.math.cnrs.fr/docker-images/mariadb,True
 https://plmlab.math.cnrs.fr/docker-images/mkdocs,True
 https://plmlab.math.cnrs.fr/docker-images/nfs-ganesha,True
@@ -9154,6 +9158,7 @@ https://plmlab.math.cnrs.fr/plmteam/applications/sso/shib-idp,True
 https://plmlab.math.cnrs.fr/plmteam/applications/sso/shib-sp,True
 https://plmlab.math.cnrs.fr/plmteam/docs/jupytercloud,True
 https://plmlab.math.cnrs.fr/plmteam/docs/okd,True
+https://plmlab.math.cnrs.fr/plmteam/services/hashistack,False
 https://plmlab.math.cnrs.fr/plmteam/services/ldap/openldap,True
 https://plmlab.math.cnrs.fr/plmteam/services/sso/oauth2,False
 https://plmlab.math.cnrs.fr/plmteam/services/sso/openldap,False
