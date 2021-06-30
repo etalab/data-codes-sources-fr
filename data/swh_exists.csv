@@ -1883,7 +1883,7 @@ https://github.com/IRSN/codadiags,True
 https://github.com/IRSN/cokm,False
 https://github.com/IRSN/cosmic-on-air,True
 https://github.com/IRSN/dbaf,True
-https://github.com/IRSN/nuclear_iventory_prediction,False
+https://github.com/IRSN/nuclear_iventory_prediction,True
 https://github.com/IRSN/radR,True
 https://github.com/IRSN/smint,True
 https://github.com/IRSN/ubuntu1804-dind,True
@@ -9154,7 +9154,7 @@ https://plmlab.math.cnrs.fr/plmteam/applications/sso/shib-idp,True
 https://plmlab.math.cnrs.fr/plmteam/applications/sso/shib-sp,True
 https://plmlab.math.cnrs.fr/plmteam/docs/jupytercloud,True
 https://plmlab.math.cnrs.fr/plmteam/docs/okd,True
-https://plmlab.math.cnrs.fr/plmteam/services/ldap/openldap,False
+https://plmlab.math.cnrs.fr/plmteam/services/ldap/openldap,True
 https://plmlab.math.cnrs.fr/plmteam/services/sso/oauth2,False
 https://plmlab.math.cnrs.fr/plmteam/services/sso/openldap,False
 https://plmlab.math.cnrs.fr/plmteam/services/sso/shib-idp,False
