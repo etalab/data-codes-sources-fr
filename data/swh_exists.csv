@@ -1876,7 +1876,7 @@ https://github.com/IRSN/DiceKriging,True
 https://github.com/IRSN/DiceView,True
 https://github.com/IRSN/IECI,True
 https://github.com/IRSN/Py-MENT,True
-https://github.com/IRSN/PyNjoy2016,False
+https://github.com/IRSN/PyNjoy2016,True
 https://github.com/IRSN/RobustInv,True
 https://github.com/IRSN/SalinoPhD,False
 https://github.com/IRSN/codadiags,True
@@ -5723,6 +5723,7 @@ https://github.com/openfun/fun-videofront-xblock,True
 https://github.com/openfun/hackathon,True
 https://github.com/openfun/handbook,True
 https://github.com/openfun/jibri-pulseaudio,True
+https://github.com/openfun/jitsi-k8s,False
 https://github.com/openfun/joanie,True
 https://github.com/openfun/learning-analytics-playground,True
 https://github.com/openfun/learninglocker-docker,True
