@@ -2306,7 +2306,7 @@ https://github.com/MTES-MCT/adock-api,True
 https://github.com/MTES-MCT/adock-ui,True
 https://github.com/MTES-MCT/aeris,True
 https://github.com/MTES-MCT/aides-territoires,True
-https://github.com/MTES-MCT/appel,False
+https://github.com/MTES-MCT/appel,True
 https://github.com/MTES-MCT/asgard-manager,True
 https://github.com/MTES-MCT/asgard-postgresql,True
 https://github.com/MTES-MCT/assec,True
@@ -2962,6 +2962,7 @@ https://github.com/abes-esr/fne-back,True
 https://github.com/abes-esr/fne-batch,True
 https://github.com/abes-esr/fne-front,True
 https://github.com/abes-esr/fne-import,True
+https://github.com/abes-esr/gitpuller-docker,False
 https://github.com/abes-esr/idref-api,True
 https://github.com/abes-esr/idref-queries,True
 https://github.com/abes-esr/idrefplus-queries,True
@@ -9158,7 +9159,7 @@ https://plmlab.math.cnrs.fr/plmteam/applications/sso/shib-idp,True
 https://plmlab.math.cnrs.fr/plmteam/applications/sso/shib-sp,True
 https://plmlab.math.cnrs.fr/plmteam/docs/jupytercloud,True
 https://plmlab.math.cnrs.fr/plmteam/docs/okd,True
-https://plmlab.math.cnrs.fr/plmteam/services/hashistack,False
+https://plmlab.math.cnrs.fr/plmteam/services/hashistack,True
 https://plmlab.math.cnrs.fr/plmteam/services/ldap/openldap,True
 https://plmlab.math.cnrs.fr/plmteam/services/sso/oauth2,False
 https://plmlab.math.cnrs.fr/plmteam/services/sso/openldap,False
