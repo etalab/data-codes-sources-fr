@@ -651,7 +651,7 @@ https://git.beta.pole-emploi.fr/open-source/labonneformation,True
 https://git.beta.pole-emploi.fr/open-source/toolkit,True
 https://git.beta.pole-emploi.fr/open-source/trefle,True
 https://git.beta.pole-emploi.fr/open-source/tuiles,True
-https://git.beta.pole-emploi.fr/open-source/wiki-docs-ressources-public,False
+https://git.beta.pole-emploi.fr/open-source/wiki-docs-ressources-public,True
 https://git.unicaen.fr/open-source/OSE,True
 https://git.unicaen.fr/open-source/docker/sygal-db-image,True
 https://git.unicaen.fr/open-source/docker/sygal-image,True
@@ -5725,7 +5725,7 @@ https://github.com/openfun/fun-videofront-xblock,True
 https://github.com/openfun/hackathon,True
 https://github.com/openfun/handbook,True
 https://github.com/openfun/jibri-pulseaudio,True
-https://github.com/openfun/jitsi-k8s,False
+https://github.com/openfun/jitsi-k8s,True
 https://github.com/openfun/joanie,True
 https://github.com/openfun/learning-analytics-playground,True
 https://github.com/openfun/learninglocker-docker,True
