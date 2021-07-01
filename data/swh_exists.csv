@@ -4615,6 +4615,7 @@ https://github.com/etalab/schema-sdirve,True
 https://github.com/etalab/schema-stationnement,True
 https://github.com/etalab/schema-stationnement-cyclable,True
 https://github.com/etalab/schema-template,True
+https://github.com/etalab/schema-zfe,False
 https://github.com/etalab/schema-zfe-regles,True
 https://github.com/etalab/schema.data.gouv.fr,True
 https://github.com/etalab/schema_amenagements_cyclables,True
@@ -6323,7 +6324,7 @@ https://gitlab.cerema.fr/centre-est/diagnostic-trafic-rshiny,False
 https://gitlab.cerema.fr/centre-est/mobilite/Stream/qstream,True
 https://gitlab.cerema.fr/centre-est/mobilite/Stream/stream-python,True
 https://gitlab.cerema.fr/centre-est/mobilite/diagnostic-trafic-rshiny,True
-https://gitlab.cerema.fr/centre-est/mobilite/securite-routiere-series,False
+https://gitlab.cerema.fr/centre-est/mobilite/securite-routiere-series,True
 https://gitlab.cerema.fr/geomatique_donnees/en_test,True
 https://gitlab.cerema.fr/rem-d2pn-pn/fairplay,True
 https://gitlab.cerema.fr/rem-d2pn-pn/quadrispel,True
@@ -8144,6 +8145,7 @@ https://gitlab.inria.fr/synchrone/heptagon,True
 https://gitlab.inria.fr/syntheticgt/syntheticgt-mitsuba,True
 https://gitlab.inria.fr/syntheticgt/syntheticgt-utilities,True
 https://gitlab.inria.fr/tangram/3d-aware-ellipses-for-visual-localization,True
+https://gitlab.inria.fr/tangram/pyellcv,False
 https://gitlab.inria.fr/tansiv/python-tansiv,True
 https://gitlab.inria.fr/tapenade/tapenade,True
 https://gitlab.inria.fr/tapenade/userdoc,True
@@ -8205,8 +8207,9 @@ https://gitlab.inria.fr/xfor/docs,True
 https://gitlab.inria.fr/xfor/guix-xfor,True
 https://gitlab.inria.fr/xfor/xfor-clang,True
 https://gitlab.inria.fr/xkblas/versions,True
-https://gitlab.inria.fr/xlab/x_logger,False
-https://gitlab.inria.fr/xlab/x_quick,False
+https://gitlab.inria.fr/xlab/x_gui,False
+https://gitlab.inria.fr/xlab/x_logger,True
+https://gitlab.inria.fr/xlab/x_quick,True
 https://gitlab.inria.fr/xug/meetings,True
 https://gitlab.inria.fr/xug/nix-tutorial,True
 https://gitlab.inria.fr/yixu/deepmot,True
@@ -9002,7 +9005,7 @@ https://plmlab.math.cnrs.fr/docker-images/debian,True
 https://plmlab.math.cnrs.fr/docker-images/docker-images.pages.math.cnrs.fr,True
 https://plmlab.math.cnrs.fr/docker-images/elasticsearch,True
 https://plmlab.math.cnrs.fr/docker-images/esup-pod,True
-https://plmlab.math.cnrs.fr/docker-images/helm-mirror,False
+https://plmlab.math.cnrs.fr/docker-images/helm-mirror,True
 https://plmlab.math.cnrs.fr/docker-images/mariadb,True
 https://plmlab.math.cnrs.fr/docker-images/mkdocs,True
 https://plmlab.math.cnrs.fr/docker-images/nfs-ganesha,True
@@ -9165,8 +9168,8 @@ https://plmlab.math.cnrs.fr/plmteam/services/hashistack,True
 https://plmlab.math.cnrs.fr/plmteam/services/ldap/openldap,True
 https://plmlab.math.cnrs.fr/plmteam/services/sso/oauth2,True
 https://plmlab.math.cnrs.fr/plmteam/services/sso/openldap,False
-https://plmlab.math.cnrs.fr/plmteam/services/sso/shib-idp,False
-https://plmlab.math.cnrs.fr/plmteam/services/sso/shib-sp,False
+https://plmlab.math.cnrs.fr/plmteam/services/sso/shib-idp,True
+https://plmlab.math.cnrs.fr/plmteam/services/sso/shib-sp,True
 https://plmlab.math.cnrs.fr/plmteam/stream-hls-infra,True
 https://plmlab.math.cnrs.fr/plmteam/streaming,True
 https://plmlab.math.cnrs.fr/portail-maths/agenda-emath,True
