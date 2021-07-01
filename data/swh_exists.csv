@@ -1881,7 +1881,7 @@ https://github.com/IRSN/PyNjoy2016,True
 https://github.com/IRSN/RobustInv,True
 https://github.com/IRSN/SalinoPhD,False
 https://github.com/IRSN/codadiags,True
-https://github.com/IRSN/cokm,False
+https://github.com/IRSN/cokm,True
 https://github.com/IRSN/cosmic-on-air,True
 https://github.com/IRSN/dbaf,True
 https://github.com/IRSN/nuclear_iventory_prediction,True
@@ -6323,6 +6323,7 @@ https://gitlab.cerema.fr/centre-est/diagnostic-trafic-rshiny,False
 https://gitlab.cerema.fr/centre-est/mobilite/Stream/qstream,True
 https://gitlab.cerema.fr/centre-est/mobilite/Stream/stream-python,True
 https://gitlab.cerema.fr/centre-est/mobilite/diagnostic-trafic-rshiny,True
+https://gitlab.cerema.fr/centre-est/mobilite/securite-routiere-series,False
 https://gitlab.cerema.fr/geomatique_donnees/en_test,True
 https://gitlab.cerema.fr/rem-d2pn-pn/fairplay,True
 https://gitlab.cerema.fr/rem-d2pn-pn/quadrispel,True
@@ -7438,6 +7439,7 @@ https://gitlab.inria.fr/gazelle/library/fhir-util,True
 https://gitlab.inria.fr/gazelle/library/gazelle-assertion-coverage-provider,True
 https://gitlab.inria.fr/gazelle/library/gazelle-assets,True
 https://gitlab.inria.fr/gazelle/library/gazelle-evsclient-common,True
+https://gitlab.inria.fr/gazelle/library/gazelle-evsclient-connector,False
 https://gitlab.inria.fr/gazelle/library/gazelle-hl7-messagestructures,True
 https://gitlab.inria.fr/gazelle/library/gazelle-preferences,True
 https://gitlab.inria.fr/gazelle/library/gazelle-tm-tools,True
@@ -9161,7 +9163,7 @@ https://plmlab.math.cnrs.fr/plmteam/docs/jupytercloud,True
 https://plmlab.math.cnrs.fr/plmteam/docs/okd,True
 https://plmlab.math.cnrs.fr/plmteam/services/hashistack,True
 https://plmlab.math.cnrs.fr/plmteam/services/ldap/openldap,True
-https://plmlab.math.cnrs.fr/plmteam/services/sso/oauth2,False
+https://plmlab.math.cnrs.fr/plmteam/services/sso/oauth2,True
 https://plmlab.math.cnrs.fr/plmteam/services/sso/openldap,False
 https://plmlab.math.cnrs.fr/plmteam/services/sso/shib-idp,False
 https://plmlab.math.cnrs.fr/plmteam/services/sso/shib-sp,False
