@@ -366,6 +366,7 @@ https://forgemia.inra.fr/gafl/singularity/vcftools,True
 https://forgemia.inra.fr/gafl/singularity/whatshap,True
 https://forgemia.inra.fr/gafl/snakemake_modules,True
 https://forgemia.inra.fr/gafl/thaliadb/ThaliaDB_singularity,True
+https://forgemia.inra.fr/game-theory-tools-group/nash-eq-wilson-to-binder,False
 https://forgemia.inra.fr/genepi/analyses/methylation-analysis-for-chickstress,True
 https://forgemia.inra.fr/genepi/analyses/rosepigs,True
 https://forgemia.inra.fr/genotoul-bioinfo/dgenies,True
@@ -4870,7 +4871,7 @@ https://github.com/inrae/diades.atlas,True
 https://github.com/inrae/filo-docker,True
 https://github.com/inrae/filo-science,True
 https://github.com/inrae/jupyterhub-vm,True
-https://github.com/inrae/magest,False
+https://github.com/inrae/magest,True
 https://github.com/istex/GitManager,True
 https://github.com/istex/Pub2TEI,True
 https://github.com/istex/co-dothejob,True
@@ -5922,6 +5923,7 @@ https://github.com/riatelab/spatpos,False
 https://github.com/riatelab/tanaka,True
 https://github.com/riatelab/tunisie,True
 https://github.com/riatelab/world,True
+https://github.com/rusticata/asn1-rs,False
 https://github.com/rusticata/der-parser,True
 https://github.com/rusticata/dhcp-parser,True
 https://github.com/rusticata/ipsec-parser,True
