@@ -4870,6 +4870,7 @@ https://github.com/inrae/diades.atlas,True
 https://github.com/inrae/filo-docker,True
 https://github.com/inrae/filo-science,True
 https://github.com/inrae/jupyterhub-vm,True
+https://github.com/inrae/magest,False
 https://github.com/istex/GitManager,True
 https://github.com/istex/Pub2TEI,True
 https://github.com/istex/co-dothejob,True
@@ -7448,7 +7449,7 @@ https://gitlab.inria.fr/gazelle/library/fhir-util,True
 https://gitlab.inria.fr/gazelle/library/gazelle-assertion-coverage-provider,True
 https://gitlab.inria.fr/gazelle/library/gazelle-assets,True
 https://gitlab.inria.fr/gazelle/library/gazelle-evsclient-common,True
-https://gitlab.inria.fr/gazelle/library/gazelle-evsclient-connector,False
+https://gitlab.inria.fr/gazelle/library/gazelle-evsclient-connector,True
 https://gitlab.inria.fr/gazelle/library/gazelle-hl7-messagestructures,True
 https://gitlab.inria.fr/gazelle/library/gazelle-preferences,True
 https://gitlab.inria.fr/gazelle/library/gazelle-tm-tools,True
@@ -8215,7 +8216,7 @@ https://gitlab.inria.fr/xfor/docs,True
 https://gitlab.inria.fr/xfor/guix-xfor,True
 https://gitlab.inria.fr/xfor/xfor-clang,True
 https://gitlab.inria.fr/xkblas/versions,True
-https://gitlab.inria.fr/xlab/x_gui,False
+https://gitlab.inria.fr/xlab/x_gui,True
 https://gitlab.inria.fr/xlab/x_logger,True
 https://gitlab.inria.fr/xlab/x_quick,True
 https://gitlab.inria.fr/xug/meetings,True
