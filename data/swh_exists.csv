@@ -140,8 +140,8 @@ https://forge.univ-lyon1.fr/Montecher/WebS1,True
 https://forge.univ-lyon1.fr/albystructi/oop,True
 https://forge.univ-lyon1.fr/aml-lyon1/actionrobot,True
 https://forge.univ-lyon1.fr/aml-lyon1/campusdulibre,True
-https://forge.univ-lyon1.fr/analyse-image_axel_paul_cyril/ucbl-background-extraction,False
-https://forge.univ-lyon1.fr/analyse-image_axel_paul_cyril/ucbl-edge-detection,False
+https://forge.univ-lyon1.fr/analyse-image_axel_paul_cyril/ucbl-background-extraction,True
+https://forge.univ-lyon1.fr/analyse-image_axel_paul_cyril/ucbl-edge-detection,True
 https://forge.univ-lyon1.fr/analyse-image_axel_paul_cyril/ucbl-region-growing,True
 https://forge.univ-lyon1.fr/analyse-image_axel_paul_cyril/ucbl-space-filtering,True
 https://forge.univ-lyon1.fr/analyse-image_axel_paul_cyril/ucbl-time-filtering,True
@@ -6336,6 +6336,7 @@ https://gitlab.com/CSTB/modele_donnee_dpe_2020,True
 https://gitlab.com/DREES_code/formulaire_zonage_ars,True
 https://gitlab.com/DREES_code/public/charte_drees,True
 https://gitlab.com/DREES_code/public/etudes/ER1172,True
+https://gitlab.com/DREES_code/public/etudes/ER1196,False
 https://gitlab.com/DREES_code/public/etudes/er1094,True
 https://gitlab.com/DREES_code/public/etudes/er1143,True
 https://gitlab.com/DREES_code/public/etudes/er1179,True
@@ -7094,7 +7095,7 @@ https://gitlab.inria.fr/cidre-public/from-ttp-to-ioc-dataset,True
 https://gitlab.inria.fr/cidre-public/malcon19,True
 https://gitlab.inria.fr/cidre-public/oatinside/oatinside,False
 https://gitlab.inria.fr/cidre-public/oatinside/oatinside_dataset,False
-https://gitlab.inria.fr/cidre-public/oatinside/oatinside_framework,False
+https://gitlab.inria.fr/cidre-public/oatinside/oatinside_framework,True
 https://gitlab.inria.fr/cidre-public/oatinside/oatinside_kernel,False
 https://gitlab.inria.fr/cidre-public/oatinside/oatinside_protobuf,False
 https://gitlab.inria.fr/cidre-public/oatinside/oatinside_runtime,False
