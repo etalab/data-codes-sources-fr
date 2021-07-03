@@ -1773,9 +1773,9 @@ https://github.com/Geographie-cites/toyspace,True
 https://github.com/Geographie-cites/toyspace-dev,True
 https://github.com/GouvernementFR/RepubliqueNumerique,True
 https://github.com/GouvernementFR/calculette-impots-m-source-code,True
-https://github.com/GouvernementFR/dsfr,False
+https://github.com/GouvernementFR/dsfr,True
 https://github.com/GouvernementFR/dsfr-theme-tarteaucitron,False
-https://github.com/GouvernementFR/image,False
+https://github.com/GouvernementFR/image,True
 https://github.com/IGNF/CartAGen,True
 https://github.com/IGNF/ContinuousGeneralisation,True
 https://github.com/IGNF/MultiCriteriaMatching,True
@@ -6339,7 +6339,7 @@ https://gitlab.com/CSTB/modele_donnee_dpe_2020,True
 https://gitlab.com/DREES_code/formulaire_zonage_ars,True
 https://gitlab.com/DREES_code/public/charte_drees,True
 https://gitlab.com/DREES_code/public/etudes/ER1172,True
-https://gitlab.com/DREES_code/public/etudes/ER1196,False
+https://gitlab.com/DREES_code/public/etudes/ER1196,True
 https://gitlab.com/DREES_code/public/etudes/er1094,True
 https://gitlab.com/DREES_code/public/etudes/er1143,True
 https://gitlab.com/DREES_code/public/etudes/er1179,True
@@ -7096,7 +7096,7 @@ https://gitlab.inria.fr/cidre-public/dada,True
 https://gitlab.inria.fr/cidre-public/debiased-android-malware-datasets,False
 https://gitlab.inria.fr/cidre-public/from-ttp-to-ioc-dataset,True
 https://gitlab.inria.fr/cidre-public/malcon19,True
-https://gitlab.inria.fr/cidre-public/oatinside/oatinside,False
+https://gitlab.inria.fr/cidre-public/oatinside/oatinside,True
 https://gitlab.inria.fr/cidre-public/oatinside/oatinside_dataset,False
 https://gitlab.inria.fr/cidre-public/oatinside/oatinside_framework,True
 https://gitlab.inria.fr/cidre-public/oatinside/oatinside_kernel,True
