@@ -2964,7 +2964,7 @@ https://github.com/abes-esr/fne-back,True
 https://github.com/abes-esr/fne-batch,True
 https://github.com/abes-esr/fne-front,True
 https://github.com/abes-esr/fne-import,True
-https://github.com/abes-esr/gitpuller-docker,False
+https://github.com/abes-esr/gitpuller-docker,True
 https://github.com/abes-esr/idref-api,True
 https://github.com/abes-esr/idref-queries,True
 https://github.com/abes-esr/idrefplus-queries,True
@@ -5923,7 +5923,7 @@ https://github.com/riatelab/spatpos,False
 https://github.com/riatelab/tanaka,True
 https://github.com/riatelab/tunisie,True
 https://github.com/riatelab/world,True
-https://github.com/rusticata/asn1-rs,False
+https://github.com/rusticata/asn1-rs,True
 https://github.com/rusticata/der-parser,True
 https://github.com/rusticata/dhcp-parser,True
 https://github.com/rusticata/ipsec-parser,True
@@ -8221,7 +8221,7 @@ https://gitlab.inria.fr/xfor/xfor-clang,True
 https://gitlab.inria.fr/xkblas/versions,True
 https://gitlab.inria.fr/xlab/x_gui,True
 https://gitlab.inria.fr/xlab/x_logger,True
-https://gitlab.inria.fr/xlab/x_playground,False
+https://gitlab.inria.fr/xlab/x_playground,True
 https://gitlab.inria.fr/xlab/x_quick,True
 https://gitlab.inria.fr/xug/meetings,True
 https://gitlab.inria.fr/xug/nix-tutorial,True
