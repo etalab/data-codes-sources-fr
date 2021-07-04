@@ -7190,6 +7190,7 @@ https://gitlab.inria.fr/crowdguard-public/implems/pkd-simul,True
 https://gitlab.inria.fr/crv14/benchmarks,True
 https://gitlab.inria.fr/crv14/evaluation,True
 https://gitlab.inria.fr/ct/gallery,True
+https://gitlab.inria.fr/ct/gallery-env,False
 https://gitlab.inria.fr/dalu/decawave-drivers,True
 https://gitlab.inria.fr/dalu/spank-extio,True
 https://gitlab.inria.fr/dalu/spank-i2c-example,True
@@ -8816,7 +8817,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/ljk-scoliose/collecte_data,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/lucah/hadaca_scoring,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/marinesj/ls_translator,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/mecaiceige/tools/documentations/AITA-book,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/mecaiceige/tools/documentations/CraFT-Book,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/mecaiceige/tools/documentations/CraFT-Book,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/mecaiceige/tools/documentations/DIC-Book,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/mecaiceige/tools/documentations/IceMecha,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/mecaiceige/tools/lib_python/xarray_aita,True
