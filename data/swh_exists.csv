@@ -1301,6 +1301,7 @@ https://github.com/CNRS-DSI-Dev/user_set_password,True
 https://github.com/CNRS-DSI-Dev/user_share_guest,True
 https://github.com/CatalaLang/catala,True
 https://github.com/CatalaLang/catala-website,True
+https://github.com/Cour-de-cassation/judilibre-infra,False
 https://github.com/Cour-de-cassation/judilibre-search,True
 https://github.com/Cour-de-cassation/judillibre-search,False
 https://github.com/Cour-de-cassation/label,True
@@ -7190,7 +7191,7 @@ https://gitlab.inria.fr/crowdguard-public/implems/pkd-simul,True
 https://gitlab.inria.fr/crv14/benchmarks,True
 https://gitlab.inria.fr/crv14/evaluation,True
 https://gitlab.inria.fr/ct/gallery,True
-https://gitlab.inria.fr/ct/gallery-env,False
+https://gitlab.inria.fr/ct/gallery-env,True
 https://gitlab.inria.fr/dalu/decawave-drivers,True
 https://gitlab.inria.fr/dalu/spank-extio,True
 https://gitlab.inria.fr/dalu/spank-i2c-example,True
