@@ -519,6 +519,7 @@ https://forgemia.inra.fr/record/workbench4record,True
 https://forgemia.inra.fr/rna-seq/rna-seq-compagnon,True
 https://forgemia.inra.fr/scales/differential-analysis-of-trees,True
 https://forgemia.inra.fr/sciproject/managesciproject,True
+https://forgemia.inra.fr/seqoccin/GenomOrder,False
 https://forgemia.inra.fr/seqoccin/axis3-metagenomics-amplicon,True
 https://forgemia.inra.fr/singularity/bcftools_v1.10.2,True
 https://forgemia.inra.fr/singularity/test,True
@@ -7378,8 +7379,10 @@ https://gitlab.inria.fr/fedbiomed/fed-requests-v1,True
 https://gitlab.inria.fr/fedbiomed/fedbiomed,True
 https://gitlab.inria.fr/fedbiomed/fedbiomed-api,True
 https://gitlab.inria.fr/fedbiomed/fedbiomed-api-v1,True
+https://gitlab.inria.fr/fedbiomed/fedbiomed-network,False
 https://gitlab.inria.fr/fedbiomed/fedbiomed-node,True
 https://gitlab.inria.fr/fedbiomed/fedbiomed-node-v2,True
+https://gitlab.inria.fr/fedbiomed/fedbiomed-researcher,False
 https://gitlab.inria.fr/fedbiomed/fedbiomed-v2,True
 https://gitlab.inria.fr/fedbiomed/fedbiomed.gitlabpages.inria.fr,True
 https://gitlab.inria.fr/flocq/flocq,True
@@ -8222,6 +8225,11 @@ https://gitlab.inria.fr/whisper-public/atc20,True
 https://gitlab.inria.fr/why3/verifythis2020,True
 https://gitlab.inria.fr/why3/why3,True
 https://gitlab.inria.fr/why3/whymp,True
+https://gitlab.inria.fr/x-lab/x-book,False
+https://gitlab.inria.fr/x-lab/x-doc,False
+https://gitlab.inria.fr/x-lab/x-gui,False
+https://gitlab.inria.fr/x-lab/x-logger,False
+https://gitlab.inria.fr/x-lab/x-quick,False
 https://gitlab.inria.fr/xbie/dvae-speech,True
 https://gitlab.inria.fr/xfor/docs,True
 https://gitlab.inria.fr/xfor/guix-xfor,True
@@ -9126,6 +9134,7 @@ https://plmlab.math.cnrs.fr/plmshift/bbb-downloader,True
 https://plmlab.math.cnrs.fr/plmshift/borgbackup,True
 https://plmlab.math.cnrs.fr/plmshift/codimd,True
 https://plmlab.math.cnrs.fr/plmshift/docker-registry-proxy,True
+https://plmlab.math.cnrs.fr/plmshift/dokuwiki,False
 https://plmlab.math.cnrs.fr/plmshift/drupal,True
 https://plmlab.math.cnrs.fr/plmshift/etherpad,True
 https://plmlab.math.cnrs.fr/plmshift/gitlab-runner,True
