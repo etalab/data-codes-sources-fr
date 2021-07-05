@@ -1301,7 +1301,7 @@ https://github.com/CNRS-DSI-Dev/user_set_password,True
 https://github.com/CNRS-DSI-Dev/user_share_guest,True
 https://github.com/CatalaLang/catala,True
 https://github.com/CatalaLang/catala-website,True
-https://github.com/Cour-de-cassation/judilibre-infra,False
+https://github.com/Cour-de-cassation/judilibre-infra,True
 https://github.com/Cour-de-cassation/judilibre-search,True
 https://github.com/Cour-de-cassation/judillibre-search,False
 https://github.com/Cour-de-cassation/label,True
@@ -6494,6 +6494,8 @@ https://gitlab.com/rdes_dreal/propre.rpls,True
 https://gitlab.com/rdes_dreal/publication_guide,True
 https://gitlab.com/rdes_dreal/sitadel_dataviz,True
 https://gitlab.huma-num.fr/atelier-donnees/depot,True
+https://gitlab.huma-num.fr/bvh/max/max_bvh,False
+https://gitlab.huma-num.fr/bvh/max/max_editions,False
 https://gitlab.huma-num.fr/cahier/gt-reuse-vade-mecum,False
 https://gitlab.huma-num.fr/cbma/cbma-epigraphie-provence,True
 https://gitlab.huma-num.fr/cbma/cbma-philologic,True
