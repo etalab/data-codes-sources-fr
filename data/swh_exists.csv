@@ -366,7 +366,7 @@ https://forgemia.inra.fr/gafl/singularity/vcftools,True
 https://forgemia.inra.fr/gafl/singularity/whatshap,True
 https://forgemia.inra.fr/gafl/snakemake_modules,True
 https://forgemia.inra.fr/gafl/thaliadb/ThaliaDB_singularity,True
-https://forgemia.inra.fr/game-theory-tools-group/nash-eq-wilson-to-binder,False
+https://forgemia.inra.fr/game-theory-tools-group/nash-eq-wilson-to-binder,True
 https://forgemia.inra.fr/genepi/analyses/methylation-analysis-for-chickstress,True
 https://forgemia.inra.fr/genepi/analyses/rosepigs,True
 https://forgemia.inra.fr/genotoul-bioinfo/dgenies,True
@@ -1898,9 +1898,12 @@ https://github.com/ISCPIF/doors-docker,True
 https://github.com/ISCPIF/easter-viability,True
 https://github.com/ISCPIF/freedsl,True
 https://github.com/ISCPIF/gargantext,True
+https://github.com/ISCPIF/haskell-gargantext,False
 https://github.com/ISCPIF/marius-method,True
 https://github.com/ISCPIF/myreview,True
 https://github.com/ISCPIF/profiles-simpoplocal,True
+https://github.com/ISCPIF/purescript-gargantext,False
+https://github.com/ISCPIF/python-gargantext,False
 https://github.com/ISCPIF/sbt-izpack,True
 https://github.com/ISCPIF/sbt-osgi,True
 https://github.com/ISCPIF/simpark-viability,True
@@ -2350,6 +2353,7 @@ https://github.com/MTES-MCT/dtlk-ihm-alimentation,True
 https://github.com/MTES-MCT/ecophyto,True
 https://github.com/MTES-MCT/enr,True
 https://github.com/MTES-MCT/enr-and-ground,True
+https://github.com/MTES-MCT/envergo,False
 https://github.com/MTES-MCT/explorateur-ecocites,True
 https://github.com/MTES-MCT/filharmonic,True
 https://github.com/MTES-MCT/filharmonic-api,True
@@ -9147,6 +9151,7 @@ https://plmlab.math.cnrs.fr/plmshift/notebook-example,True
 https://plmlab.math.cnrs.fr/plmshift/oauth-proxy,True
 https://plmlab.math.cnrs.fr/plmshift/odh-manifests-for-plm,True
 https://plmlab.math.cnrs.fr/plmshift/opendatahub/julia-jupyter-notebooks-with-cuda,True
+https://plmlab.math.cnrs.fr/plmshift/opendatahub/odh-manifests-for-plm,False
 https://plmlab.math.cnrs.fr/plmshift/opendatahub/s2i-base-container,True
 https://plmlab.math.cnrs.fr/plmshift/opendatahub/s2i-pytorch-notebook,True
 https://plmlab.math.cnrs.fr/plmshift/opendatahub/s2i-tensorflow-gpu-notebook,True
