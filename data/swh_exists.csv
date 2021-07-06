@@ -253,6 +253,7 @@ https://forgemia.inra.fr/bios4biol/bioinfo-utils,True
 https://forgemia.inra.fr/bios4biol/workflows,True
 https://forgemia.inra.fr/biosys-public/rba-inrae-fr,True
 https://forgemia.inra.fr/canular/canular,True
+https://forgemia.inra.fr/canular/canular-website,False
 https://forgemia.inra.fr/cati-boom-public/site-officiel,True
 https://forgemia.inra.fr/chemhouse/octave/tbjmr/CovSel,True
 https://forgemia.inra.fr/chemhouse/octave/tbjmr/VSN,True
@@ -2515,6 +2516,7 @@ https://github.com/PnCevennes/courbes_eau,True
 https://github.com/PnCevennes/demandes_autorisations,True
 https://github.com/PnCevennes/docker,True
 https://github.com/PnCevennes/floraOccitania,True
+https://github.com/PnCevennes/geotrek_admin_agg,False
 https://github.com/PnCevennes/gn_module_suivi_chiro,True
 https://github.com/PnCevennes/gn_module_suivi_oedic,True
 https://github.com/PnCevennes/ng-mapCreator-fp,True
@@ -4763,6 +4765,7 @@ https://github.com/gemoc/debug4science,True
 https://github.com/gemoc/demos,True
 https://github.com/gemoc/exploration,True
 https://github.com/gemoc/farmingmodeling,True
+https://github.com/gemoc/gemoc-discussions,False
 https://github.com/gemoc/gemoc-rc-day18,True
 https://github.com/gemoc/gemoc-studio-ale-execution,True
 https://github.com/gemoc/gemoc-studio-compilation-script,True
@@ -4852,6 +4855,7 @@ https://github.com/incubateur-territoires/gridsome-source-graphql,True
 https://github.com/incubateur-territoires/incubateur-directus,True
 https://github.com/incubateur-territoires/incubateur-strapi,True
 https://github.com/incubateur-territoires/incubateur.anct.gouv.fr,True
+https://github.com/incubateur-territoires/infrastructure,False
 https://github.com/incubateur-territoires/osp-app,True
 https://github.com/incubateur-territoires/outillage,True
 https://github.com/incubateur-territoires/outline,True
@@ -6435,6 +6439,7 @@ https://gitlab.com/fabnum-minarm/igloo/terraform/main,True
 https://gitlab.com/fabnum-minarm/igloo/terraform/modules/add-runner,True
 https://gitlab.com/fabnum-minarm/igloo/terraform/modules/configure-repository-for-deployment,True
 https://gitlab.com/fabnum-minarm/igloo/terraform/modules/create-namespace,True
+https://gitlab.com/fabnum-minarm/igloo/terraform/modules/generate-scoped-kubeconfig,False
 https://gitlab.com/fabnum-minarm/igloo/terraform/modules/mailcatcher,True
 https://gitlab.com/fabnum-minarm/igloo/terraform/modules/postgresql,True
 https://gitlab.com/fabnum-minarm/igloo/terraform/modules/timescaledb,True
@@ -7277,6 +7282,7 @@ https://gitlab.inria.fr/dlp-sif/dlp-arduino,True
 https://gitlab.inria.fr/dlp-sif/sonarqube,True
 https://gitlab.inria.fr/doris/doris-android,True
 https://gitlab.inria.fr/doris/doris.gitlabpages.inria.fr,True
+https://gitlab.inria.fr/druid-public/headwork,False
 https://gitlab.inria.fr/dsi_public/depots_officiels_inria_gitlab,True
 https://gitlab.inria.fr/dsi_public/osc,True
 https://gitlab.inria.fr/dtk/dtk,True
@@ -7425,6 +7431,7 @@ https://gitlab.inria.fr/gazelle/applications/test-execution/simulator/gazelle-we
 https://gitlab.inria.fr/gazelle/applications/test-execution/simulator/order-manager,True
 https://gitlab.inria.fr/gazelle/applications/test-execution/simulator/patient-registry,True
 https://gitlab.inria.fr/gazelle/applications/test-execution/simulator/pdqm-connector,True
+https://gitlab.inria.fr/gazelle/applications/test-execution/simulator/pixm-connector,False
 https://gitlab.inria.fr/gazelle/applications/test-execution/simulator/svs-simulator,True
 https://gitlab.inria.fr/gazelle/applications/test-execution/validator/EVSClient,True
 https://gitlab.inria.fr/gazelle/applications/test-execution/validator/FhirValidator,True
@@ -7815,6 +7822,7 @@ https://gitlab.inria.fr/ml_genetics/public/demoseq,True
 https://gitlab.inria.fr/ml_genetics/public/dlpopsize,True
 https://gitlab.inria.fr/ml_genetics/public/dlpopsize_paper,True
 https://gitlab.inria.fr/ml_genetics/public/flagel_cnn,True
+https://gitlab.inria.fr/mmangeot/wp2static,False
 https://gitlab.inria.fr/mnemosyne/data_prototypes,True
 https://gitlab.inria.fr/mnemosyne/neurosmart,True
 https://gitlab.inria.fr/mnemosyne/vanilla_nn,True
@@ -8227,10 +8235,12 @@ https://gitlab.inria.fr/why3/verifythis2020,True
 https://gitlab.inria.fr/why3/why3,True
 https://gitlab.inria.fr/why3/whymp,True
 https://gitlab.inria.fr/x-lab/x-book,True
+https://gitlab.inria.fr/x-lab/x-deno,False
 https://gitlab.inria.fr/x-lab/x-doc,True
-https://gitlab.inria.fr/x-lab/x-gui,False
+https://gitlab.inria.fr/x-lab/x-gui,True
 https://gitlab.inria.fr/x-lab/x-logger,False
-https://gitlab.inria.fr/x-lab/x-quick,False
+https://gitlab.inria.fr/x-lab/x-node,False
+https://gitlab.inria.fr/x-lab/x-quick,True
 https://gitlab.inria.fr/xbie/dvae-speech,True
 https://gitlab.inria.fr/xfor/docs,True
 https://gitlab.inria.fr/xfor/guix-xfor,True
@@ -8574,6 +8584,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/resif-robotframework-tes
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/resif-routing,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/resif-routing-k8s,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/resif2eidastats,True
+https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/resif_amqp_worker,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/resif_docker,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/rsync-resif-k8s,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/rtconfig,True
