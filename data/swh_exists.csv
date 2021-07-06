@@ -2403,6 +2403,7 @@ https://github.com/MTES-MCT/portail,True
 https://github.com/MTES-MCT/portscan-action,True
 https://github.com/MTES-MCT/potentiel,True
 https://github.com/MTES-MCT/rapportNav,True
+https://github.com/MTES-MCT/resorption-bidonvilles,False
 https://github.com/MTES-MCT/resorption-bidonvilles-deploy,True
 https://github.com/MTES-MCT/rieau,True
 https://github.com/MTES-MCT/rieau-api,True
@@ -7108,7 +7109,7 @@ https://gitlab.inria.fr/cidre-public/oatinside/oatinside,True
 https://gitlab.inria.fr/cidre-public/oatinside/oatinside_dataset,False
 https://gitlab.inria.fr/cidre-public/oatinside/oatinside_framework,True
 https://gitlab.inria.fr/cidre-public/oatinside/oatinside_kernel,True
-https://gitlab.inria.fr/cidre-public/oatinside/oatinside_protobuf,False
+https://gitlab.inria.fr/cidre-public/oatinside/oatinside_protobuf,True
 https://gitlab.inria.fr/cidre-public/oatinside/oatinside_runtime,False
 https://gitlab.inria.fr/cidre-public/obfuscated-android-unit-examples,True
 https://gitlab.inria.fr/cidre-public/pymao,True
@@ -8226,7 +8227,7 @@ https://gitlab.inria.fr/why3/verifythis2020,True
 https://gitlab.inria.fr/why3/why3,True
 https://gitlab.inria.fr/why3/whymp,True
 https://gitlab.inria.fr/x-lab/x-book,True
-https://gitlab.inria.fr/x-lab/x-doc,False
+https://gitlab.inria.fr/x-lab/x-doc,True
 https://gitlab.inria.fr/x-lab/x-gui,False
 https://gitlab.inria.fr/x-lab/x-logger,False
 https://gitlab.inria.fr/x-lab/x-quick,False
