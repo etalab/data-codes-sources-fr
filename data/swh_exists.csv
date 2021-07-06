@@ -2516,7 +2516,7 @@ https://github.com/PnCevennes/courbes_eau,True
 https://github.com/PnCevennes/demandes_autorisations,True
 https://github.com/PnCevennes/docker,True
 https://github.com/PnCevennes/floraOccitania,True
-https://github.com/PnCevennes/geotrek_admin_agg,False
+https://github.com/PnCevennes/geotrek_admin_agg,True
 https://github.com/PnCevennes/gn_module_suivi_chiro,True
 https://github.com/PnCevennes/gn_module_suivi_oedic,True
 https://github.com/PnCevennes/ng-mapCreator-fp,True
@@ -4942,6 +4942,7 @@ https://github.com/ivre/ivre-test-samples,True
 https://github.com/ivre/masscan,True
 https://github.com/landlock-lsm/landlock-lsm.github.io,True
 https://github.com/landlock-lsm/linux,True
+https://github.com/landlock-lsm/man-pages,False
 https://github.com/landlock-lsm/rust-landlock,True
 https://github.com/landlock-lsm/syzkaller,True
 https://github.com/landlock-lsm/tar,True
@@ -8238,7 +8239,7 @@ https://gitlab.inria.fr/x-lab/x-book,True
 https://gitlab.inria.fr/x-lab/x-deno,False
 https://gitlab.inria.fr/x-lab/x-doc,True
 https://gitlab.inria.fr/x-lab/x-gui,True
-https://gitlab.inria.fr/x-lab/x-logger,False
+https://gitlab.inria.fr/x-lab/x-logger,True
 https://gitlab.inria.fr/x-lab/x-node,False
 https://gitlab.inria.fr/x-lab/x-quick,True
 https://gitlab.inria.fr/xbie/dvae-speech,True
