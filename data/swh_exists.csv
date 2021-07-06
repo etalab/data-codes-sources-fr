@@ -519,7 +519,7 @@ https://forgemia.inra.fr/record/workbench4record,True
 https://forgemia.inra.fr/rna-seq/rna-seq-compagnon,True
 https://forgemia.inra.fr/scales/differential-analysis-of-trees,True
 https://forgemia.inra.fr/sciproject/managesciproject,True
-https://forgemia.inra.fr/seqoccin/GenomOrder,False
+https://forgemia.inra.fr/seqoccin/GenomOrder,True
 https://forgemia.inra.fr/seqoccin/axis3-metagenomics-amplicon,True
 https://forgemia.inra.fr/singularity/bcftools_v1.10.2,True
 https://forgemia.inra.fr/singularity/test,True
@@ -1899,11 +1899,11 @@ https://github.com/ISCPIF/doors-docker,True
 https://github.com/ISCPIF/easter-viability,True
 https://github.com/ISCPIF/freedsl,True
 https://github.com/ISCPIF/gargantext,True
-https://github.com/ISCPIF/haskell-gargantext,False
+https://github.com/ISCPIF/haskell-gargantext,True
 https://github.com/ISCPIF/marius-method,True
 https://github.com/ISCPIF/myreview,True
 https://github.com/ISCPIF/profiles-simpoplocal,True
-https://github.com/ISCPIF/purescript-gargantext,False
+https://github.com/ISCPIF/purescript-gargantext,True
 https://github.com/ISCPIF/python-gargantext,False
 https://github.com/ISCPIF/sbt-izpack,True
 https://github.com/ISCPIF/sbt-osgi,True
@@ -8225,7 +8225,7 @@ https://gitlab.inria.fr/whisper-public/atc20,True
 https://gitlab.inria.fr/why3/verifythis2020,True
 https://gitlab.inria.fr/why3/why3,True
 https://gitlab.inria.fr/why3/whymp,True
-https://gitlab.inria.fr/x-lab/x-book,False
+https://gitlab.inria.fr/x-lab/x-book,True
 https://gitlab.inria.fr/x-lab/x-doc,False
 https://gitlab.inria.fr/x-lab/x-gui,False
 https://gitlab.inria.fr/x-lab/x-logger,False
@@ -9160,6 +9160,7 @@ https://plmlab.math.cnrs.fr/plmshift/notebook-example,True
 https://plmlab.math.cnrs.fr/plmshift/oauth-proxy,True
 https://plmlab.math.cnrs.fr/plmshift/odh-manifests-for-plm,True
 https://plmlab.math.cnrs.fr/plmshift/opendatahub/julia-jupyter-notebooks-with-cuda,True
+https://plmlab.math.cnrs.fr/plmshift/opendatahub/jupyter-notebooks,True
 https://plmlab.math.cnrs.fr/plmshift/opendatahub/odh-manifests-for-plm,False
 https://plmlab.math.cnrs.fr/plmshift/opendatahub/s2i-base-container,True
 https://plmlab.math.cnrs.fr/plmshift/opendatahub/s2i-pytorch-notebook,True
