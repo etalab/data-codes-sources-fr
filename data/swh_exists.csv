@@ -108,6 +108,9 @@ https://forge.grandlyon.com/web-et-numerique/llle_project/egl-konnector,True
 https://forge.grandlyon.com/web-et-numerique/llle_project/enedis-konnector,True
 https://forge.grandlyon.com/web-et-numerique/llle_project/grdf-konnector,True
 https://forge.grandlyon.com/web-et-numerique/llle_project/grdf-scraping-konnector,True
+https://forge.grandlyon.com/web-et-numerique/pamn_plateforme-des-acteurs-de-la-mediation-numerique/import_script,False
+https://forge.grandlyon.com/web-et-numerique/pamn_plateforme-des-acteurs-de-la-mediation-numerique/pamn_client,False
+https://forge.grandlyon.com/web-et-numerique/pamn_plateforme-des-acteurs-de-la-mediation-numerique/pamn_server,False
 https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/articles/point-cloud,True
 https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/pocs/wiki-territorial-covid,True
 https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/web-portal/components/custom-apps/admin-gui,True
@@ -4647,6 +4650,7 @@ https://github.com/etalab/sprint-open-source,True
 https://github.com/etalab/stars_detective,True
 https://github.com/etalab/statut.annuaire-entreprises.data.gouv.fr,True
 https://github.com/etalab/statut.particulier.api.gouv.fr,True
+https://github.com/etalab/suivi-ouverture,False
 https://github.com/etalab/suivi-ouverture-citp-2021,False
 https://github.com/etalab/support.data.gouv.fr,True
 https://github.com/etalab/tableschema-template,True
@@ -4767,7 +4771,7 @@ https://github.com/gemoc/debug4science,True
 https://github.com/gemoc/demos,True
 https://github.com/gemoc/exploration,True
 https://github.com/gemoc/farmingmodeling,True
-https://github.com/gemoc/gemoc-discussions,False
+https://github.com/gemoc/gemoc-discussions,True
 https://github.com/gemoc/gemoc-rc-day18,True
 https://github.com/gemoc/gemoc-studio-ale-execution,True
 https://github.com/gemoc/gemoc-studio-compilation-script,True
@@ -4855,6 +4859,7 @@ https://github.com/incubateur-territoires/discourse-theme,True
 https://github.com/incubateur-territoires/dokku-discourse,True
 https://github.com/incubateur-territoires/gridsome-source-graphql,True
 https://github.com/incubateur-territoires/incubateur-directus,True
+https://github.com/incubateur-territoires/incubateur-mattermost,False
 https://github.com/incubateur-territoires/incubateur-strapi,True
 https://github.com/incubateur-territoires/incubateur.anct.gouv.fr,True
 https://github.com/incubateur-territoires/infrastructure,False
@@ -4944,7 +4949,7 @@ https://github.com/ivre/ivre-test-samples,True
 https://github.com/ivre/masscan,True
 https://github.com/landlock-lsm/landlock-lsm.github.io,True
 https://github.com/landlock-lsm/linux,True
-https://github.com/landlock-lsm/man-pages,False
+https://github.com/landlock-lsm/man-pages,True
 https://github.com/landlock-lsm/rust-landlock,True
 https://github.com/landlock-lsm/syzkaller,True
 https://github.com/landlock-lsm/tar,True
@@ -8567,13 +8572,14 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/JMMC/jmmc-vollt-kubernetes,Tru
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/JMMC/jmmc-vollt-server,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/JMMC/vltischools/vltischool-2021,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/ResifYAMLfiles,True
+https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/amqp-worker-wfcatalog-k8s,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/budindexer,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/cronjobs-k8s,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/datadump,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/deploy-k8s,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/es2pg-aggregators,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/fdsnextender,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/fdsnnetextender,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/fdsnnetextender,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/fdsnwsstat,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/formations/hdf5,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/monitoring,True
