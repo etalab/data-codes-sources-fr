@@ -8177,7 +8177,7 @@ https://gitlab.inria.fr/synchrone/heptagon,True
 https://gitlab.inria.fr/syntheticgt/syntheticgt-mitsuba,True
 https://gitlab.inria.fr/syntheticgt/syntheticgt-utilities,True
 https://gitlab.inria.fr/tangram/3d-aware-ellipses-for-visual-localization,True
-https://gitlab.inria.fr/tangram/pyellcv,False
+https://gitlab.inria.fr/tangram/pyellcv,True
 https://gitlab.inria.fr/tansiv/python-tansiv,True
 https://gitlab.inria.fr/tapenade/tapenade,True
 https://gitlab.inria.fr/tapenade/userdoc,True
@@ -8196,7 +8196,7 @@ https://gitlab.inria.fr/these-bxi/s4bxi-runner,False
 https://gitlab.inria.fr/thoth/python-spams,True
 https://gitlab.inria.fr/thoth/spams-devel,True
 https://gitlab.inria.fr/tnfs-alpha/alpha,True
-https://gitlab.inria.fr/tousanticovid-verif/certificate-conversion-backend,False
+https://gitlab.inria.fr/tousanticovid-verif/certificate-conversion-backend,True
 https://gitlab.inria.fr/traitor/traitor,True
 https://gitlab.inria.fr/tranus/QGIS_Tranus_Reports,True
 https://gitlab.inria.fr/tranus/TRANUS_Interfaces,True
