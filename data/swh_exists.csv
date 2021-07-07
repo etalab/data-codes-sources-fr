@@ -500,6 +500,8 @@ https://forgemia.inra.fr/pegase/pegase-fair,True
 https://forgemia.inra.fr/pepiniere-jouy/detecteur_co2,True
 https://forgemia.inra.fr/pepiniere-jouy/mode_emploi_detecteur_co2,True
 https://forgemia.inra.fr/pepiniere-jouy/notice_detecteur_co2,True
+https://forgemia.inra.fr/phenobois/cavisoft,False
+https://forgemia.inra.fr/phenobois/graviflow,False
 https://forgemia.inra.fr/phenotic/publique/ordinalclustering,True
 https://forgemia.inra.fr/public-pgba/is900-rflp-in-silico,True
 https://forgemia.inra.fr/public-pgba/submission_ena,True
@@ -7390,7 +7392,7 @@ https://gitlab.inria.fr/fedbiomed/fedbiomed-api-v1,True
 https://gitlab.inria.fr/fedbiomed/fedbiomed-network,False
 https://gitlab.inria.fr/fedbiomed/fedbiomed-node,True
 https://gitlab.inria.fr/fedbiomed/fedbiomed-node-v2,True
-https://gitlab.inria.fr/fedbiomed/fedbiomed-researcher,False
+https://gitlab.inria.fr/fedbiomed/fedbiomed-researcher,True
 https://gitlab.inria.fr/fedbiomed/fedbiomed-v2,True
 https://gitlab.inria.fr/fedbiomed/fedbiomed.gitlabpages.inria.fr,True
 https://gitlab.inria.fr/flocq/flocq,True
@@ -8571,6 +8573,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/datadump,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/deploy-k8s,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/es2pg-aggregators,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/fdsnextender,True
+https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/fdsnnetextender,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/fdsnwsstat,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/formations/hdf5,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/monitoring,True
