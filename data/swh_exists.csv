@@ -108,7 +108,7 @@ https://forge.grandlyon.com/web-et-numerique/llle_project/egl-konnector,True
 https://forge.grandlyon.com/web-et-numerique/llle_project/enedis-konnector,True
 https://forge.grandlyon.com/web-et-numerique/llle_project/grdf-konnector,True
 https://forge.grandlyon.com/web-et-numerique/llle_project/grdf-scraping-konnector,True
-https://forge.grandlyon.com/web-et-numerique/pamn_plateforme-des-acteurs-de-la-mediation-numerique/import_script,False
+https://forge.grandlyon.com/web-et-numerique/pamn_plateforme-des-acteurs-de-la-mediation-numerique/import_script,True
 https://forge.grandlyon.com/web-et-numerique/pamn_plateforme-des-acteurs-de-la-mediation-numerique/pamn_client,False
 https://forge.grandlyon.com/web-et-numerique/pamn_plateforme-des-acteurs-de-la-mediation-numerique/pamn_server,False
 https://forge.grandlyon.com/web-et-numerique/web-et-numerique-internet/data.grandlyon.com/articles/point-cloud,True
@@ -2409,7 +2409,7 @@ https://github.com/MTES-MCT/portail,True
 https://github.com/MTES-MCT/portscan-action,True
 https://github.com/MTES-MCT/potentiel,True
 https://github.com/MTES-MCT/rapportNav,True
-https://github.com/MTES-MCT/resorption-bidonvilles,False
+https://github.com/MTES-MCT/resorption-bidonvilles,True
 https://github.com/MTES-MCT/resorption-bidonvilles-deploy,True
 https://github.com/MTES-MCT/rieau,True
 https://github.com/MTES-MCT/rieau-api,True
@@ -8572,7 +8572,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/JMMC/jmmc-vollt-kubernetes,Tru
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/JMMC/jmmc-vollt-server,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/JMMC/vltischools/vltischool-2021,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/ResifYAMLfiles,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/amqp-worker-wfcatalog-k8s,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/amqp-worker-wfcatalog-k8s,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/budindexer,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/cronjobs-k8s,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/datadump,True
@@ -9156,7 +9156,7 @@ https://plmlab.math.cnrs.fr/plmshift/bbb-downloader,True
 https://plmlab.math.cnrs.fr/plmshift/borgbackup,True
 https://plmlab.math.cnrs.fr/plmshift/codimd,True
 https://plmlab.math.cnrs.fr/plmshift/docker-registry-proxy,True
-https://plmlab.math.cnrs.fr/plmshift/dokuwiki,False
+https://plmlab.math.cnrs.fr/plmshift/dokuwiki,True
 https://plmlab.math.cnrs.fr/plmshift/drupal,True
 https://plmlab.math.cnrs.fr/plmshift/etherpad,True
 https://plmlab.math.cnrs.fr/plmshift/gitlab-runner,True
