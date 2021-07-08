@@ -504,7 +504,7 @@ https://forgemia.inra.fr/pepiniere-jouy/detecteur_co2,True
 https://forgemia.inra.fr/pepiniere-jouy/mode_emploi_detecteur_co2,True
 https://forgemia.inra.fr/pepiniere-jouy/notice_detecteur_co2,True
 https://forgemia.inra.fr/phenobois/cavisoft,False
-https://forgemia.inra.fr/phenobois/graviflow,False
+https://forgemia.inra.fr/phenobois/graviflow,True
 https://forgemia.inra.fr/phenotic/publique/ordinalclustering,True
 https://forgemia.inra.fr/public-pgba/is900-rflp-in-silico,True
 https://forgemia.inra.fr/public-pgba/submission_ena,True
@@ -3290,6 +3290,7 @@ https://github.com/betagouv/covoiturage-attestation,False
 https://github.com/betagouv/covoiturage-attestation-honneur,True
 https://github.com/betagouv/dashboard_apientreprise,True
 https://github.com/betagouv/dashlord,True
+https://github.com/betagouv/data_insertion_toolkit,False
 https://github.com/betagouv/datagir,True
 https://github.com/betagouv/datagir-iframe,True
 https://github.com/betagouv/datagir-site,True
@@ -8595,7 +8596,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/resif-madmp,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/resif-robotframework-tests,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/resif-routing,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/resif-routing-k8s,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/resif-wfcatalog,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/resif-wfcatalog,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/resif2eidastats,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/resif_amqp_worker,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/resif_docker,True
