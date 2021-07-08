@@ -668,6 +668,7 @@ https://git.unicaen.fr/open-source/sygal,True
 https://git.unicaen.fr/open-source/sygal-doc,True
 https://git.unicaen.fr/open-source/sygal-import-ws,True
 https://git.unicaen.fr/pdn-certic/MaX,True
+https://git.unicaen.fr/pdn-certic/max-tei-demo,False
 https://git.unicaen.fr/pdn-certic/zotero-java-client,True
 https://git.unistra.fr/1A_mecatro/ev3simulator,True
 https://git.unistra.fr/2017-T4-6/Project,True
@@ -6447,7 +6448,7 @@ https://gitlab.com/fabnum-minarm/igloo/terraform/main,True
 https://gitlab.com/fabnum-minarm/igloo/terraform/modules/add-runner,True
 https://gitlab.com/fabnum-minarm/igloo/terraform/modules/configure-repository-for-deployment,True
 https://gitlab.com/fabnum-minarm/igloo/terraform/modules/create-namespace,True
-https://gitlab.com/fabnum-minarm/igloo/terraform/modules/generate-scoped-kubeconfig,False
+https://gitlab.com/fabnum-minarm/igloo/terraform/modules/generate-scoped-kubeconfig,True
 https://gitlab.com/fabnum-minarm/igloo/terraform/modules/mailcatcher,True
 https://gitlab.com/fabnum-minarm/igloo/terraform/modules/postgresql,True
 https://gitlab.com/fabnum-minarm/igloo/terraform/modules/timescaledb,True
@@ -6513,8 +6514,8 @@ https://gitlab.com/rdes_dreal/propre.rpls,True
 https://gitlab.com/rdes_dreal/publication_guide,True
 https://gitlab.com/rdes_dreal/sitadel_dataviz,True
 https://gitlab.huma-num.fr/atelier-donnees/depot,True
-https://gitlab.huma-num.fr/bvh/max/max_bvh,False
-https://gitlab.huma-num.fr/bvh/max/max_editions,False
+https://gitlab.huma-num.fr/bvh/max/max_bvh,True
+https://gitlab.huma-num.fr/bvh/max/max_editions,True
 https://gitlab.huma-num.fr/cahier/gt-reuse-vade-mecum,False
 https://gitlab.huma-num.fr/cbma/cbma-epigraphie-provence,True
 https://gitlab.huma-num.fr/cbma/cbma-philologic,True
@@ -8505,6 +8506,7 @@ https://gitub.u-bordeaux.fr/altarica/ccl,True
 https://gitub.u-bordeaux.fr/dev-celia/tango-controls-notes,True
 https://gitub.u-bordeaux.fr/erias/amalgam,True
 https://gitub.u-bordeaux.fr/erias/fideo,True
+https://gitub.u-bordeaux.fr/erias/knowledge-warehouse/documentation,False
 https://gitub.u-bordeaux.fr/erias/knowledge-warehouse/wiki,True
 https://gitub.u-bordeaux.fr/erias/oregano,True
 https://gitub.u-bordeaux.fr/erias/patient-covid19,True
@@ -8593,6 +8595,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/resif-madmp,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/resif-robotframework-tests,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/resif-routing,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/resif-routing-k8s,True
+https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/resif-wfcatalog,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/resif2eidastats,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/resif_amqp_worker,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/resif_docker,True
@@ -9141,6 +9144,7 @@ https://plmlab.math.cnrs.fr/perso/users/david.delavennat,True
 https://plmlab.math.cnrs.fr/perso/users/diego.izquierdo,True
 https://plmlab.math.cnrs.fr/perso/users/eleonora.di-nezza,True
 https://plmlab.math.cnrs.fr/perso/users/frank.pacard,True
+https://plmlab.math.cnrs.fr/perso/users/gabriel.ribeiro,False
 https://plmlab.math.cnrs.fr/perso/users/lucas.ertzbischoff,True
 https://plmlab.math.cnrs.fr/perso/users/thomas.gauthier,True
 https://plmlab.math.cnrs.fr/phymath/nspawn,True
