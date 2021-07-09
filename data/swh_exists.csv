@@ -3290,7 +3290,7 @@ https://github.com/betagouv/covoiturage-attestation,False
 https://github.com/betagouv/covoiturage-attestation-honneur,True
 https://github.com/betagouv/dashboard_apientreprise,True
 https://github.com/betagouv/dashlord,True
-https://github.com/betagouv/data_insertion_toolkit,False
+https://github.com/betagouv/data_insertion_toolkit,True
 https://github.com/betagouv/datagir,True
 https://github.com/betagouv/datagir-iframe,True
 https://github.com/betagouv/datagir-site,True
@@ -4505,6 +4505,7 @@ https://github.com/etalab/editeur-bal,True
 https://github.com/etalab/eig-charts,True
 https://github.com/etalab/entraide.etalab.studio,True
 https://github.com/etalab/entreprise.api.gouv.fr,True
+https://github.com/etalab/entreprise.api.gouv.fr-v3,False
 https://github.com/etalab/entreprise.data.gouv.fr,True
 https://github.com/etalab/epci,True
 https://github.com/etalab/etalab,True
@@ -7012,6 +7013,10 @@ https://gitlab.inria.fr/auctus/panda/franka_description,True
 https://gitlab.inria.fr/auctus/panda/panda_traj,True
 https://gitlab.inria.fr/auctus/panda/qp_solver,True
 https://gitlab.inria.fr/auctus/panda/rtt_panda/rtt_ros_kdl_tools,True
+https://gitlab.inria.fr/auctus/panda/torque-qp-extended/franka_description,False
+https://gitlab.inria.fr/auctus/panda/torque-qp-extended/panda_traj,False
+https://gitlab.inria.fr/auctus/panda/torque-qp-extended/qp_solver,False
+https://gitlab.inria.fr/auctus/panda/torque-qp-extended/torque_qp,False
 https://gitlab.inria.fr/auctus/panda/torque_qp,True
 https://gitlab.inria.fr/auctus/panda/velocity_qp,True
 https://gitlab.inria.fr/auctus/papers/setbasedrobotcapabilitiesestimation2020/code_public,True
@@ -7419,6 +7424,7 @@ https://gitlab.inria.fr/formations/cpp/gettingstartedwithmoderncpp,True
 https://gitlab.inria.fr/formations/git-and-gitlab/git-example-tutorial,True
 https://gitlab.inria.fr/formations/integrationcontinue/TutorielGpuPlafrim,True
 https://gitlab.inria.fr/formations/integrationcontinue/gitlabciintroduction,True
+https://gitlab.inria.fr/formations/ocaml/introduction-au-langage-ocaml,False
 https://gitlab.inria.fr/foscadiff/demoRameau,True
 https://gitlab.inria.fr/gagallium/gagallium,True
 https://gitlab.inria.fr/gagallium/gagallium-save,True
@@ -9147,7 +9153,7 @@ https://plmlab.math.cnrs.fr/perso/users/david.delavennat,True
 https://plmlab.math.cnrs.fr/perso/users/diego.izquierdo,True
 https://plmlab.math.cnrs.fr/perso/users/eleonora.di-nezza,True
 https://plmlab.math.cnrs.fr/perso/users/frank.pacard,True
-https://plmlab.math.cnrs.fr/perso/users/gabriel.ribeiro,False
+https://plmlab.math.cnrs.fr/perso/users/gabriel.ribeiro,True
 https://plmlab.math.cnrs.fr/perso/users/lucas.ertzbischoff,True
 https://plmlab.math.cnrs.fr/perso/users/thomas.gauthier,True
 https://plmlab.math.cnrs.fr/phymath/nspawn,True
