@@ -4655,7 +4655,7 @@ https://github.com/etalab/sprint-open-source,True
 https://github.com/etalab/stars_detective,True
 https://github.com/etalab/statut.annuaire-entreprises.data.gouv.fr,True
 https://github.com/etalab/statut.particulier.api.gouv.fr,True
-https://github.com/etalab/suivi-ouverture,False
+https://github.com/etalab/suivi-ouverture,True
 https://github.com/etalab/suivi-ouverture-citp-2021,False
 https://github.com/etalab/support.data.gouv.fr,True
 https://github.com/etalab/tableschema-template,True
@@ -4860,7 +4860,7 @@ https://github.com/ina-foss/voxo-docker,True
 https://github.com/ina-foss/voxo-lib,True
 https://github.com/incubateur-territoires/demo-mesaides28,True
 https://github.com/incubateur-territoires/discourse-incubateur,True
-https://github.com/incubateur-territoires/discourse-private-replies,False
+https://github.com/incubateur-territoires/discourse-private-replies,True
 https://github.com/incubateur-territoires/discourse-theme,True
 https://github.com/incubateur-territoires/dokku-discourse,True
 https://github.com/incubateur-territoires/gridsome-source-graphql,True
@@ -4868,7 +4868,7 @@ https://github.com/incubateur-territoires/incubateur-directus,True
 https://github.com/incubateur-territoires/incubateur-mattermost,True
 https://github.com/incubateur-territoires/incubateur-strapi,True
 https://github.com/incubateur-territoires/incubateur.anct.gouv.fr,True
-https://github.com/incubateur-territoires/infrastructure,False
+https://github.com/incubateur-territoires/infrastructure,True
 https://github.com/incubateur-territoires/osp-app,True
 https://github.com/incubateur-territoires/outillage,True
 https://github.com/incubateur-territoires/outline,True
@@ -7017,7 +7017,7 @@ https://gitlab.inria.fr/auctus/panda/rtt_panda/rtt_ros_kdl_tools,True
 https://gitlab.inria.fr/auctus/panda/torque-qp-extended/franka_description,True
 https://gitlab.inria.fr/auctus/panda/torque-qp-extended/panda_traj,False
 https://gitlab.inria.fr/auctus/panda/torque-qp-extended/qp_solver,True
-https://gitlab.inria.fr/auctus/panda/torque-qp-extended/torque_qp,False
+https://gitlab.inria.fr/auctus/panda/torque-qp-extended/torque_qp,True
 https://gitlab.inria.fr/auctus/panda/torque_qp,True
 https://gitlab.inria.fr/auctus/panda/velocity_qp,True
 https://gitlab.inria.fr/auctus/papers/setbasedrobotcapabilitiesestimation2020/code_public,True
@@ -7425,7 +7425,7 @@ https://gitlab.inria.fr/formations/cpp/gettingstartedwithmoderncpp,True
 https://gitlab.inria.fr/formations/git-and-gitlab/git-example-tutorial,True
 https://gitlab.inria.fr/formations/integrationcontinue/TutorielGpuPlafrim,True
 https://gitlab.inria.fr/formations/integrationcontinue/gitlabciintroduction,True
-https://gitlab.inria.fr/formations/ocaml/introduction-au-langage-ocaml,False
+https://gitlab.inria.fr/formations/ocaml/introduction-au-langage-ocaml,True
 https://gitlab.inria.fr/foscadiff/demoRameau,True
 https://gitlab.inria.fr/gagallium/gagallium,True
 https://gitlab.inria.fr/gagallium/gagallium-save,True
