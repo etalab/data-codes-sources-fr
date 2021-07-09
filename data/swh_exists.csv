@@ -1783,7 +1783,7 @@ https://github.com/Geographie-cites/toyspace-dev,True
 https://github.com/GouvernementFR/RepubliqueNumerique,True
 https://github.com/GouvernementFR/calculette-impots-m-source-code,True
 https://github.com/GouvernementFR/dsfr,True
-https://github.com/GouvernementFR/dsfr-theme-tarteaucitron,False
+https://github.com/GouvernementFR/dsfr-theme-tarteaucitron,True
 https://github.com/GouvernementFR/image,True
 https://github.com/IGNF/CartAGen,True
 https://github.com/IGNF/ContinuousGeneralisation,True
@@ -1911,7 +1911,7 @@ https://github.com/ISCPIF/marius-method,True
 https://github.com/ISCPIF/myreview,True
 https://github.com/ISCPIF/profiles-simpoplocal,True
 https://github.com/ISCPIF/purescript-gargantext,True
-https://github.com/ISCPIF/python-gargantext,False
+https://github.com/ISCPIF/python-gargantext,True
 https://github.com/ISCPIF/sbt-izpack,True
 https://github.com/ISCPIF/sbt-osgi,True
 https://github.com/ISCPIF/simpark-viability,True
@@ -3290,6 +3290,7 @@ https://github.com/betagouv/covoiturage-attestation,False
 https://github.com/betagouv/covoiturage-attestation-honneur,True
 https://github.com/betagouv/dashboard_apientreprise,True
 https://github.com/betagouv/dashlord,True
+https://github.com/betagouv/data_insertion_toolbox,False
 https://github.com/betagouv/data_insertion_toolkit,True
 https://github.com/betagouv/datagir,True
 https://github.com/betagouv/datagir-iframe,True
@@ -7013,9 +7014,9 @@ https://gitlab.inria.fr/auctus/panda/franka_description,True
 https://gitlab.inria.fr/auctus/panda/panda_traj,True
 https://gitlab.inria.fr/auctus/panda/qp_solver,True
 https://gitlab.inria.fr/auctus/panda/rtt_panda/rtt_ros_kdl_tools,True
-https://gitlab.inria.fr/auctus/panda/torque-qp-extended/franka_description,False
+https://gitlab.inria.fr/auctus/panda/torque-qp-extended/franka_description,True
 https://gitlab.inria.fr/auctus/panda/torque-qp-extended/panda_traj,False
-https://gitlab.inria.fr/auctus/panda/torque-qp-extended/qp_solver,False
+https://gitlab.inria.fr/auctus/panda/torque-qp-extended/qp_solver,True
 https://gitlab.inria.fr/auctus/panda/torque-qp-extended/torque_qp,False
 https://gitlab.inria.fr/auctus/panda/torque_qp,True
 https://gitlab.inria.fr/auctus/panda/velocity_qp,True
@@ -7449,7 +7450,7 @@ https://gitlab.inria.fr/gazelle/applications/test-execution/simulator/gazelle-we
 https://gitlab.inria.fr/gazelle/applications/test-execution/simulator/order-manager,True
 https://gitlab.inria.fr/gazelle/applications/test-execution/simulator/patient-registry,True
 https://gitlab.inria.fr/gazelle/applications/test-execution/simulator/pdqm-connector,True
-https://gitlab.inria.fr/gazelle/applications/test-execution/simulator/pixm-connector,False
+https://gitlab.inria.fr/gazelle/applications/test-execution/simulator/pixm-connector,True
 https://gitlab.inria.fr/gazelle/applications/test-execution/simulator/svs-simulator,True
 https://gitlab.inria.fr/gazelle/applications/test-execution/validator/EVSClient,True
 https://gitlab.inria.fr/gazelle/applications/test-execution/validator/FhirValidator,True
@@ -8139,6 +8140,7 @@ https://gitlab.inria.fr/solverstack/h2p3s,True
 https://gitlab.inria.fr/solverstack/hips,True
 https://gitlab.inria.fr/solverstack/hqr,True
 https://gitlab.inria.fr/solverstack/maphys/maphys,True
+https://gitlab.inria.fr/solverstack/maphys/maphyspp,False
 https://gitlab.inria.fr/solverstack/morse_cmake,True
 https://gitlab.inria.fr/solverstack/paddle,True
 https://gitlab.inria.fr/solverstack/parade,True
