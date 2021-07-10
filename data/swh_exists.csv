@@ -3290,7 +3290,7 @@ https://github.com/betagouv/covoiturage-attestation,False
 https://github.com/betagouv/covoiturage-attestation-honneur,True
 https://github.com/betagouv/dashboard_apientreprise,True
 https://github.com/betagouv/dashlord,True
-https://github.com/betagouv/data_insertion_toolbox,False
+https://github.com/betagouv/data_insertion_toolbox,True
 https://github.com/betagouv/data_insertion_toolkit,True
 https://github.com/betagouv/datagir,True
 https://github.com/betagouv/datagir-iframe,True
@@ -3932,7 +3932,7 @@ https://github.com/dataesr/curieXplore-paysage,True
 https://github.com/dataesr/curiexplore-paysage,True
 https://github.com/dataesr/harvest-pubmed,True
 https://github.com/dataesr/kubectl-deploy,True
-https://github.com/dataesr/matcher,False
+https://github.com/dataesr/matcher,True
 https://github.com/dataesr/onedrive,True
 https://github.com/dataesr/paysage-openapi,True
 https://github.com/dataesr/react-dsfr,True
@@ -7015,7 +7015,7 @@ https://gitlab.inria.fr/auctus/panda/panda_traj,True
 https://gitlab.inria.fr/auctus/panda/qp_solver,True
 https://gitlab.inria.fr/auctus/panda/rtt_panda/rtt_ros_kdl_tools,True
 https://gitlab.inria.fr/auctus/panda/torque-qp-extended/franka_description,True
-https://gitlab.inria.fr/auctus/panda/torque-qp-extended/panda_traj,False
+https://gitlab.inria.fr/auctus/panda/torque-qp-extended/panda_traj,True
 https://gitlab.inria.fr/auctus/panda/torque-qp-extended/qp_solver,True
 https://gitlab.inria.fr/auctus/panda/torque-qp-extended/torque_qp,True
 https://gitlab.inria.fr/auctus/panda/torque_qp,True
@@ -8255,7 +8255,7 @@ https://gitlab.inria.fr/why3/verifythis2020,True
 https://gitlab.inria.fr/why3/why3,True
 https://gitlab.inria.fr/why3/whymp,True
 https://gitlab.inria.fr/x-lab/x-book,True
-https://gitlab.inria.fr/x-lab/x-deno,False
+https://gitlab.inria.fr/x-lab/x-deno,True
 https://gitlab.inria.fr/x-lab/x-doc,True
 https://gitlab.inria.fr/x-lab/x-gui,True
 https://gitlab.inria.fr/x-lab/x-logger,True
