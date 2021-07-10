@@ -2361,7 +2361,7 @@ https://github.com/MTES-MCT/dtlk-ihm-alimentation,True
 https://github.com/MTES-MCT/ecophyto,True
 https://github.com/MTES-MCT/enr,True
 https://github.com/MTES-MCT/enr-and-ground,True
-https://github.com/MTES-MCT/envergo,False
+https://github.com/MTES-MCT/envergo,True
 https://github.com/MTES-MCT/explorateur-ecocites,True
 https://github.com/MTES-MCT/filharmonic,True
 https://github.com/MTES-MCT/filharmonic-api,True
@@ -7406,7 +7406,7 @@ https://gitlab.inria.fr/fedbiomed/fed-requests-v1,True
 https://gitlab.inria.fr/fedbiomed/fedbiomed,True
 https://gitlab.inria.fr/fedbiomed/fedbiomed-api,True
 https://gitlab.inria.fr/fedbiomed/fedbiomed-api-v1,True
-https://gitlab.inria.fr/fedbiomed/fedbiomed-network,False
+https://gitlab.inria.fr/fedbiomed/fedbiomed-network,True
 https://gitlab.inria.fr/fedbiomed/fedbiomed-node,True
 https://gitlab.inria.fr/fedbiomed/fedbiomed-node-v2,True
 https://gitlab.inria.fr/fedbiomed/fedbiomed-researcher,True
