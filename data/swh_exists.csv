@@ -4506,7 +4506,7 @@ https://github.com/etalab/editeur-bal,True
 https://github.com/etalab/eig-charts,True
 https://github.com/etalab/entraide.etalab.studio,True
 https://github.com/etalab/entreprise.api.gouv.fr,True
-https://github.com/etalab/entreprise.api.gouv.fr-v3,False
+https://github.com/etalab/entreprise.api.gouv.fr-v3,True
 https://github.com/etalab/entreprise.data.gouv.fr,True
 https://github.com/etalab/epci,True
 https://github.com/etalab/etalab,True
@@ -6866,6 +6866,8 @@ https://gitlab.inria.fr/agm/gspline,True
 https://gitlab.inria.fr/agm/msplinetools,True
 https://gitlab.inria.fr/agm/mypkg,True
 https://gitlab.inria.fr/agos-bso/mediatheque,True
+https://gitlab.inria.fr/aideme/aideme,False
+https://gitlab.inria.fr/aideme/aideme-web,False
 https://gitlab.inria.fr/aljanon-experiment-framework/ansible_experiment,True
 https://gitlab.inria.fr/aljanon-experiment-framework/deployment,True
 https://gitlab.inria.fr/aljanon-experiment-framework/expw,True
@@ -7129,7 +7131,7 @@ https://gitlab.inria.fr/cidre-public/debiased-android-malware-datasets,False
 https://gitlab.inria.fr/cidre-public/from-ttp-to-ioc-dataset,True
 https://gitlab.inria.fr/cidre-public/malcon19,True
 https://gitlab.inria.fr/cidre-public/oatinside/oatinside,True
-https://gitlab.inria.fr/cidre-public/oatinside/oatinside_dataset,False
+https://gitlab.inria.fr/cidre-public/oatinside/oatinside_dataset,True
 https://gitlab.inria.fr/cidre-public/oatinside/oatinside_framework,True
 https://gitlab.inria.fr/cidre-public/oatinside/oatinside_kernel,True
 https://gitlab.inria.fr/cidre-public/oatinside/oatinside_protobuf,True
@@ -8259,7 +8261,7 @@ https://gitlab.inria.fr/x-lab/x-deno,True
 https://gitlab.inria.fr/x-lab/x-doc,True
 https://gitlab.inria.fr/x-lab/x-gui,True
 https://gitlab.inria.fr/x-lab/x-logger,True
-https://gitlab.inria.fr/x-lab/x-node,False
+https://gitlab.inria.fr/x-lab/x-node,True
 https://gitlab.inria.fr/x-lab/x-quick,True
 https://gitlab.inria.fr/xbie/dvae-speech,True
 https://gitlab.inria.fr/xfor/docs,True
