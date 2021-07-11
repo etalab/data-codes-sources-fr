@@ -4636,7 +4636,7 @@ https://github.com/etalab/schema-sdirve,True
 https://github.com/etalab/schema-stationnement,True
 https://github.com/etalab/schema-stationnement-cyclable,True
 https://github.com/etalab/schema-template,True
-https://github.com/etalab/schema-zfe,False
+https://github.com/etalab/schema-zfe,True
 https://github.com/etalab/schema-zfe-regles,True
 https://github.com/etalab/schema.data.gouv.fr,True
 https://github.com/etalab/schema_amenagements_cyclables,True
@@ -7843,7 +7843,7 @@ https://gitlab.inria.fr/ml_genetics/public/demoseq,True
 https://gitlab.inria.fr/ml_genetics/public/dlpopsize,True
 https://gitlab.inria.fr/ml_genetics/public/dlpopsize_paper,True
 https://gitlab.inria.fr/ml_genetics/public/flagel_cnn,True
-https://gitlab.inria.fr/mmangeot/wp2static,False
+https://gitlab.inria.fr/mmangeot/wp2static,True
 https://gitlab.inria.fr/mnemosyne/data_prototypes,True
 https://gitlab.inria.fr/mnemosyne/neurosmart,True
 https://gitlab.inria.fr/mnemosyne/vanilla_nn,True
