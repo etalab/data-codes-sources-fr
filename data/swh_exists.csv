@@ -554,6 +554,7 @@ https://forgemia.inra.fr/umr-astre/dockelet,True
 https://forgemia.inra.fr/umr-astre/epidmap,True
 https://forgemia.inra.fr/umr-astre/geonetwork,True
 https://forgemia.inra.fr/umr-astre/mapMCDA,True
+https://forgemia.inra.fr/umr-astre/nimbletempdev,False
 https://forgemia.inra.fr/umr-astre/ppp-oie,True
 https://forgemia.inra.fr/umr-astre/rvf_mrt,True
 https://forgemia.inra.fr/umr-astre/spreadrate,True
@@ -2422,6 +2423,7 @@ https://github.com/MTES-MCT/secmar-documentation,True
 https://github.com/MTES-MCT/stats-action,True
 https://github.com/MTES-MCT/toolbox,True
 https://github.com/MTES-MCT/trackdechets,True
+https://github.com/MTES-MCT/trackdechets-backups,True
 https://github.com/MTES-MCT/trackdechets-bulk-account-creation,True
 https://github.com/MTES-MCT/trackdechets-dasri-proto,True
 https://github.com/MTES-MCT/trackdechets-datascience,True
@@ -4758,6 +4760,8 @@ https://github.com/fabnumdef/fabrique-chatbot,True
 https://github.com/fabnumdef/fabrique-chatbot-back,True
 https://github.com/fabnumdef/fabrique-chatbot-front,True
 https://github.com/fabnumdef/resources,True
+https://github.com/fabnumdef/stargate_backend,True
+https://github.com/fabnumdef/stargate_frontend,True
 https://github.com/gammalib/gammalib,True
 https://github.com/gemoc/Gemoc-ThingML,True
 https://github.com/gemoc/ICSA2017Tutorial,True
@@ -5878,6 +5882,7 @@ https://github.com/picty/parsifal,True
 https://github.com/plantnet/PlantNet-300K,True
 https://github.com/plantnet/gbif-dl,True
 https://github.com/plantnet/hapi-rate-limit,True
+https://github.com/plantnet/leaflet-d3,True
 https://github.com/plantnet/my.plantnet,True
 https://github.com/plantnet/node-couchdb,True
 https://github.com/plantnet/node-datamanager,True
@@ -6449,6 +6454,7 @@ https://gitlab.com/fabnum-minarm/igloo/helm-charts,True
 https://gitlab.com/fabnum-minarm/igloo/images/rust/cargo-component-rustfmt,True
 https://gitlab.com/fabnum-minarm/igloo/images/rust/cargo-sccache,True
 https://gitlab.com/fabnum-minarm/igloo/images/rust/common-dev-libraries,True
+https://gitlab.com/fabnum-minarm/igloo/images/tools/mdbook,False
 https://gitlab.com/fabnum-minarm/igloo/terraform/main,True
 https://gitlab.com/fabnum-minarm/igloo/terraform/modules/add-runner,True
 https://gitlab.com/fabnum-minarm/igloo/terraform/modules/configure-repository-for-deployment,True
@@ -8635,6 +8641,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/ws-statistics,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/ws-timeseries,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/ws-timeseries-old,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/ws-timeseries-old2,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/ws-wfcatalog-k8s,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/yasmine-k8s,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/ige/erosion_model,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/isterre-sig/pyevent,True
