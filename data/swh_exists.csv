@@ -9200,7 +9200,7 @@ https://plmlab.math.cnrs.fr/plmshift/oauth-proxy,True
 https://plmlab.math.cnrs.fr/plmshift/odh-manifests-for-plm,True
 https://plmlab.math.cnrs.fr/plmshift/opendatahub/julia-jupyter-notebooks-with-cuda,True
 https://plmlab.math.cnrs.fr/plmshift/opendatahub/jupyter-notebooks,True
-https://plmlab.math.cnrs.fr/plmshift/opendatahub/odh-manifests-for-plm,False
+https://plmlab.math.cnrs.fr/plmshift/opendatahub/odh-manifests-for-plm,True
 https://plmlab.math.cnrs.fr/plmshift/opendatahub/s2i-base-container,True
 https://plmlab.math.cnrs.fr/plmshift/opendatahub/s2i-pytorch-notebook,True
 https://plmlab.math.cnrs.fr/plmshift/opendatahub/s2i-tensorflow-gpu-notebook,True
