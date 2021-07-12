@@ -2140,6 +2140,7 @@ https://github.com/InseeFrLab/Mapex,True
 https://github.com/InseeFrLab/NRC-Heck-model,True
 https://github.com/InseeFrLab/Pearl-Jam,False
 https://github.com/InseeFrLab/Pearl-Jam-Back-Office,True
+https://github.com/InseeFrLab/Py-Insee-Data,False
 https://github.com/InseeFrLab/SASTauArgus,True
 https://github.com/InseeFrLab/Sabiane-Data,True
 https://github.com/InseeFrLab/Shelly,True
@@ -8525,7 +8526,7 @@ https://gitub.u-bordeaux.fr/altarica/ccl,True
 https://gitub.u-bordeaux.fr/dev-celia/tango-controls-notes,True
 https://gitub.u-bordeaux.fr/erias/amalgam,True
 https://gitub.u-bordeaux.fr/erias/fideo,True
-https://gitub.u-bordeaux.fr/erias/knowledge-warehouse/documentation,False
+https://gitub.u-bordeaux.fr/erias/knowledge-warehouse/documentation,True
 https://gitub.u-bordeaux.fr/erias/knowledge-warehouse/wiki,True
 https://gitub.u-bordeaux.fr/erias/oregano,True
 https://gitub.u-bordeaux.fr/erias/patient-covid19,True
