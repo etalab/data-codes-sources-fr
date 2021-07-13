@@ -4808,6 +4808,7 @@ https://github.com/gemoc/heterogeneousmodeling,True
 https://github.com/gemoc/idm4sco,True
 https://github.com/gemoc/image-tools-mavenplugin,True
 https://github.com/gemoc/kaulua,True
+https://github.com/gemoc/liviz,False
 https://github.com/gemoc/mbse-teaching,True
 https://github.com/gemoc/mini-expression-server,True
 https://github.com/gemoc/miniexpr,True
@@ -8155,7 +8156,7 @@ https://gitlab.inria.fr/solverstack/h2p3s,True
 https://gitlab.inria.fr/solverstack/hips,True
 https://gitlab.inria.fr/solverstack/hqr,True
 https://gitlab.inria.fr/solverstack/maphys/maphys,True
-https://gitlab.inria.fr/solverstack/maphys/maphyspp,False
+https://gitlab.inria.fr/solverstack/maphys/maphyspp,True
 https://gitlab.inria.fr/solverstack/morse_cmake,True
 https://gitlab.inria.fr/solverstack/paddle,True
 https://gitlab.inria.fr/solverstack/parade,True
