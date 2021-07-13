@@ -1164,6 +1164,10 @@ https://github.com/BibCnrs/BibCnrs,True
 https://github.com/BibCnrs/BibEzProxy,True
 https://github.com/BibCnrs/BibRP,True
 https://github.com/BibCnrs/EBSCO-widget,True
+https://github.com/BibCnrs/UNUSED_UrlTransformerScript,False
+https://github.com/BibCnrs/UNUSED_appstack-wpcli,False
+https://github.com/BibCnrs/UNUSED_bibcnrs-widget,False
+https://github.com/BibCnrs/UNUSED_docker-data,False
 https://github.com/BibCnrs/UrlTransformerFirefox,True
 https://github.com/BibCnrs/UrlTransformerScript,True
 https://github.com/BibCnrs/appstack-wpcli,True
@@ -2537,6 +2541,7 @@ https://github.com/PnCevennes/projet_suivis_frontend,True
 https://github.com/PnCevennes/protocoles_suivi,True
 https://github.com/PnCevennes/qgis_python_script,True
 https://github.com/PnCevennes/saisieFlore,True
+https://github.com/PnCevennes/sauvegarde_mail,False
 https://github.com/PnCevennes/signature_mails,True
 https://github.com/PnCevennes/test,True
 https://github.com/PnCevennes/testAngular2,True
@@ -6456,6 +6461,7 @@ https://gitlab.com/fabnum-minarm/igloo/images/rust/cargo-component-rustfmt,True
 https://gitlab.com/fabnum-minarm/igloo/images/rust/cargo-sccache,True
 https://gitlab.com/fabnum-minarm/igloo/images/rust/common-dev-libraries,True
 https://gitlab.com/fabnum-minarm/igloo/images/tools/mdbook,False
+https://gitlab.com/fabnum-minarm/igloo/images/tools/pandoc,False
 https://gitlab.com/fabnum-minarm/igloo/terraform/main,True
 https://gitlab.com/fabnum-minarm/igloo/terraform/modules/add-runner,True
 https://gitlab.com/fabnum-minarm/igloo/terraform/modules/configure-repository-for-deployment,True
