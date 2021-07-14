@@ -503,7 +503,7 @@ https://forgemia.inra.fr/pegase/pegase-fair,True
 https://forgemia.inra.fr/pepiniere-jouy/detecteur_co2,True
 https://forgemia.inra.fr/pepiniere-jouy/mode_emploi_detecteur_co2,True
 https://forgemia.inra.fr/pepiniere-jouy/notice_detecteur_co2,True
-https://forgemia.inra.fr/phenobois/cavisoft,False
+https://forgemia.inra.fr/phenobois/cavisoft,True
 https://forgemia.inra.fr/phenobois/graviflow,True
 https://forgemia.inra.fr/phenotic/publique/ordinalclustering,True
 https://forgemia.inra.fr/public-pgba/is900-rflp-in-silico,True
@@ -2144,7 +2144,7 @@ https://github.com/InseeFrLab/Mapex,True
 https://github.com/InseeFrLab/NRC-Heck-model,True
 https://github.com/InseeFrLab/Pearl-Jam,False
 https://github.com/InseeFrLab/Pearl-Jam-Back-Office,True
-https://github.com/InseeFrLab/Py-Insee-Data,False
+https://github.com/InseeFrLab/Py-Insee-Data,True
 https://github.com/InseeFrLab/SASTauArgus,True
 https://github.com/InseeFrLab/Sabiane-Data,True
 https://github.com/InseeFrLab/Shelly,True
