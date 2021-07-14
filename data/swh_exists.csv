@@ -1164,7 +1164,7 @@ https://github.com/BibCnrs/BibCnrs,True
 https://github.com/BibCnrs/BibEzProxy,True
 https://github.com/BibCnrs/BibRP,True
 https://github.com/BibCnrs/EBSCO-widget,True
-https://github.com/BibCnrs/UNUSED_UrlTransformerScript,False
+https://github.com/BibCnrs/UNUSED_UrlTransformerScript,True
 https://github.com/BibCnrs/UNUSED_appstack-wpcli,False
 https://github.com/BibCnrs/UNUSED_bibcnrs-widget,False
 https://github.com/BibCnrs/UNUSED_docker-data,False
@@ -4808,7 +4808,7 @@ https://github.com/gemoc/heterogeneousmodeling,True
 https://github.com/gemoc/idm4sco,True
 https://github.com/gemoc/image-tools-mavenplugin,True
 https://github.com/gemoc/kaulua,True
-https://github.com/gemoc/liviz,False
+https://github.com/gemoc/liviz,True
 https://github.com/gemoc/mbse-teaching,True
 https://github.com/gemoc/mini-expression-server,True
 https://github.com/gemoc/miniexpr,True
