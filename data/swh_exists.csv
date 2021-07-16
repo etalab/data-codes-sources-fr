@@ -392,6 +392,7 @@ https://forgemia.inra.fr/get-it/nf-assemblshortread,True
 https://forgemia.inra.fr/get-it/nf-taxoaffiliation,True
 https://forgemia.inra.fr/get-nextflow-ngl-bi/template-nf,True
 https://forgemia.inra.fr/get-nextflow-ngl-bi/test-data,True
+https://forgemia.inra.fr/get-nextflow-ngl-bi/wf-illumina-nf,False
 https://forgemia.inra.fr/gqe-acep/careb,True
 https://forgemia.inra.fr/gqe-base/careb,True
 https://forgemia.inra.fr/gqe-base/cnvmap,True
@@ -506,6 +507,7 @@ https://forgemia.inra.fr/pepiniere-jouy/notice_detecteur_co2,True
 https://forgemia.inra.fr/phenobois/cavisoft,True
 https://forgemia.inra.fr/phenobois/graviflow,True
 https://forgemia.inra.fr/phenotic/publique/ordinalclustering,True
+https://forgemia.inra.fr/pole-migrateurs/acoustique,False
 https://forgemia.inra.fr/public-pgba/is900-rflp-in-silico,True
 https://forgemia.inra.fr/public-pgba/submission_ena,True
 https://forgemia.inra.fr/quaysofthestics/sticsquays,True
@@ -8938,7 +8940,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/phelma/fablab/marlin_blackprusa,Tru
 https://gricad-gitlab.univ-grenoble-alpes.fr/phitem/design-linux-uga,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/phitem/environnement-bureau-gnome,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/phitem/installation-environnement-bureau-gnome-avec-ansible,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/phitem/phitem-linux-vm,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/phitem/phitem-linux-vm,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/pmall/apli_pmall,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/pmall/app_op,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/pmall/bdd_aerosols,True
