@@ -459,6 +459,7 @@ https://forgemia.inra.fr/inter_cati_omics/snakemake/snakemake_modules,True
 https://forgemia.inra.fr/irhs-bioinfo/i-fungi,True
 https://forgemia.inra.fr/lbe/opensilexlbe/ontologielbe,True
 https://forgemia.inra.fr/lbe/opensilexlbe/opensilex-dev,True
+https://forgemia.inra.fr/lbe/opensilexlbe/script,False
 https://forgemia.inra.fr/linmodel/linmodel,True
 https://forgemia.inra.fr/metagenopolis/eskrim,True
 https://forgemia.inra.fr/metagenopolis/meteor,True
@@ -507,6 +508,7 @@ https://forgemia.inra.fr/pepiniere-jouy/notice_detecteur_co2,True
 https://forgemia.inra.fr/phenobois/cavisoft,True
 https://forgemia.inra.fr/phenobois/graviflow,True
 https://forgemia.inra.fr/phenotic/publique/ordinalclustering,True
+https://forgemia.inra.fr/pole-migrateurs/Acoustic/acoustique,False
 https://forgemia.inra.fr/pole-migrateurs/acoustique,False
 https://forgemia.inra.fr/public-pgba/is900-rflp-in-silico,True
 https://forgemia.inra.fr/public-pgba/submission_ena,True
@@ -2428,7 +2430,7 @@ https://github.com/MTES-MCT/rieau-ui,True
 https://github.com/MTES-MCT/savoirfR,True
 https://github.com/MTES-MCT/secmar-data,True
 https://github.com/MTES-MCT/secmar-documentation,True
-https://github.com/MTES-MCT/sparte,False
+https://github.com/MTES-MCT/sparte,True
 https://github.com/MTES-MCT/stats-action,True
 https://github.com/MTES-MCT/toolbox,True
 https://github.com/MTES-MCT/trackdechets,True
@@ -4413,6 +4415,7 @@ https://github.com/etalab/askbot-etalab-skin,True
 https://github.com/etalab/autopsy,True
 https://github.com/etalab/backend-siren,False
 https://github.com/etalab/bal,True
+https://github.com/etalab/ban-api-depot,False
 https://github.com/etalab/ban-api-push-bal,True
 https://github.com/etalab/ban-data,True
 https://github.com/etalab/ban-geocode,True
