@@ -6466,7 +6466,7 @@ https://gitlab.com/fabnum-minarm/igloo/images/rust/cargo-component-rustfmt,True
 https://gitlab.com/fabnum-minarm/igloo/images/rust/cargo-sccache,True
 https://gitlab.com/fabnum-minarm/igloo/images/rust/common-dev-libraries,True
 https://gitlab.com/fabnum-minarm/igloo/images/tools/mdbook,False
-https://gitlab.com/fabnum-minarm/igloo/images/tools/pandoc,False
+https://gitlab.com/fabnum-minarm/igloo/images/tools/pandoc,True
 https://gitlab.com/fabnum-minarm/igloo/terraform/main,True
 https://gitlab.com/fabnum-minarm/igloo/terraform/modules/add-runner,True
 https://gitlab.com/fabnum-minarm/igloo/terraform/modules/configure-repository-for-deployment,True
