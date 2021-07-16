@@ -1170,7 +1170,7 @@ https://github.com/BibCnrs/BibRP,True
 https://github.com/BibCnrs/EBSCO-widget,True
 https://github.com/BibCnrs/UNUSED_UrlTransformerScript,True
 https://github.com/BibCnrs/UNUSED_appstack-wpcli,True
-https://github.com/BibCnrs/UNUSED_bibcnrs-widget,False
+https://github.com/BibCnrs/UNUSED_bibcnrs-widget,True
 https://github.com/BibCnrs/UNUSED_docker-data,False
 https://github.com/BibCnrs/UrlTransformerFirefox,True
 https://github.com/BibCnrs/UrlTransformerScript,True
@@ -1191,6 +1191,7 @@ https://github.com/Bibliome/alvis-metadata,True
 https://github.com/Bibliome/alvis_galaxy_capsule,True
 https://github.com/Bibliome/alvisae,True
 https://github.com/Bibliome/alvisae-1,True
+https://github.com/Bibliome/alvisae-archived,False
 https://github.com/Bibliome/alviscorpus,True
 https://github.com/Bibliome/alvisdb,True
 https://github.com/Bibliome/alvisir,True
@@ -4415,7 +4416,7 @@ https://github.com/etalab/askbot-etalab-skin,True
 https://github.com/etalab/autopsy,True
 https://github.com/etalab/backend-siren,False
 https://github.com/etalab/bal,True
-https://github.com/etalab/ban-api-depot,False
+https://github.com/etalab/ban-api-depot,True
 https://github.com/etalab/ban-api-push-bal,True
 https://github.com/etalab/ban-data,True
 https://github.com/etalab/ban-geocode,True
@@ -6755,6 +6756,7 @@ https://gitlab.inria.fr/IOTLanguage/IoTCompilertoBIP,True
 https://gitlab.inria.fr/InBio/Public/YeastOptogeneticDifferentiation_YODA,True
 https://gitlab.inria.fr/InBio/Public/cvode-rust-wrap,True
 https://gitlab.inria.fr/InBio/Public/efaecalis-ratio,True
+https://gitlab.inria.fr/InBio/Public/esbl-escape,False
 https://gitlab.inria.fr/InBio/Public/fwd_ad,True
 https://gitlab.inria.fr/InBio/Public/hydriver,True
 https://gitlab.inria.fr/InBio/Public/micromator,True
