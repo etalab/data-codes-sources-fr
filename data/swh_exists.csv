@@ -508,7 +508,7 @@ https://forgemia.inra.fr/pepiniere-jouy/notice_detecteur_co2,True
 https://forgemia.inra.fr/phenobois/cavisoft,True
 https://forgemia.inra.fr/phenobois/graviflow,True
 https://forgemia.inra.fr/phenotic/publique/ordinalclustering,True
-https://forgemia.inra.fr/pole-migrateurs/Acoustic/acoustique,False
+https://forgemia.inra.fr/pole-migrateurs/Acoustic/acoustique,True
 https://forgemia.inra.fr/pole-migrateurs/acoustique,False
 https://forgemia.inra.fr/public-pgba/is900-rflp-in-silico,True
 https://forgemia.inra.fr/public-pgba/submission_ena,True
@@ -1171,7 +1171,7 @@ https://github.com/BibCnrs/EBSCO-widget,True
 https://github.com/BibCnrs/UNUSED_UrlTransformerScript,True
 https://github.com/BibCnrs/UNUSED_appstack-wpcli,True
 https://github.com/BibCnrs/UNUSED_bibcnrs-widget,True
-https://github.com/BibCnrs/UNUSED_docker-data,False
+https://github.com/BibCnrs/UNUSED_docker-data,True
 https://github.com/BibCnrs/UrlTransformerFirefox,True
 https://github.com/BibCnrs/UrlTransformerScript,True
 https://github.com/BibCnrs/appstack-wpcli,True
@@ -3119,6 +3119,7 @@ https://github.com/ambanum/server-config,True
 https://github.com/ambanum/snscrape,True
 https://github.com/ambanum/social-networks-bot-finder,True
 https://github.com/ambanum/twint,True
+https://github.com/ansforge/DesignSystem,False
 https://github.com/ansforge/ModelisationFHIRdesacteursdesante,True
 https://github.com/ansforge/Modelisationdesstructuresetdesprofessionnels,False
 https://github.com/ansforge/esignsante,True
