@@ -392,7 +392,7 @@ https://forgemia.inra.fr/get-it/nf-assemblshortread,True
 https://forgemia.inra.fr/get-it/nf-taxoaffiliation,True
 https://forgemia.inra.fr/get-nextflow-ngl-bi/template-nf,True
 https://forgemia.inra.fr/get-nextflow-ngl-bi/test-data,True
-https://forgemia.inra.fr/get-nextflow-ngl-bi/wf-illumina-nf,False
+https://forgemia.inra.fr/get-nextflow-ngl-bi/wf-illumina-nf,True
 https://forgemia.inra.fr/gqe-acep/careb,True
 https://forgemia.inra.fr/gqe-base/careb,True
 https://forgemia.inra.fr/gqe-base/cnvmap,True
@@ -6757,7 +6757,7 @@ https://gitlab.inria.fr/IOTLanguage/IoTCompilertoBIP,True
 https://gitlab.inria.fr/InBio/Public/YeastOptogeneticDifferentiation_YODA,True
 https://gitlab.inria.fr/InBio/Public/cvode-rust-wrap,True
 https://gitlab.inria.fr/InBio/Public/efaecalis-ratio,True
-https://gitlab.inria.fr/InBio/Public/esbl-escape,False
+https://gitlab.inria.fr/InBio/Public/esbl-escape,True
 https://gitlab.inria.fr/InBio/Public/fwd_ad,True
 https://gitlab.inria.fr/InBio/Public/hydriver,True
 https://gitlab.inria.fr/InBio/Public/micromator,True
