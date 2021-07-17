@@ -459,7 +459,7 @@ https://forgemia.inra.fr/inter_cati_omics/snakemake/snakemake_modules,True
 https://forgemia.inra.fr/irhs-bioinfo/i-fungi,True
 https://forgemia.inra.fr/lbe/opensilexlbe/ontologielbe,True
 https://forgemia.inra.fr/lbe/opensilexlbe/opensilex-dev,True
-https://forgemia.inra.fr/lbe/opensilexlbe/script,False
+https://forgemia.inra.fr/lbe/opensilexlbe/script,True
 https://forgemia.inra.fr/linmodel/linmodel,True
 https://forgemia.inra.fr/metagenopolis/eskrim,True
 https://forgemia.inra.fr/metagenopolis/meteor,True
