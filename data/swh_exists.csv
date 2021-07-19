@@ -1636,7 +1636,7 @@ https://github.com/EsupPortail/esup-smsu-api,True
 https://github.com/EsupPortail/esup-smsu-api-admin,True
 https://github.com/EsupPortail/esup-smsu-api-mail,True
 https://github.com/EsupPortail/esup-stage,True
-https://github.com/EsupPortail/esup-sygal,False
+https://github.com/EsupPortail/esup-sygal,True
 https://github.com/EsupPortail/esup-uportal,True
 https://github.com/EsupPortail/esup-wayf,True
 https://github.com/EsupPortail/esup-webengine-intranets,True
@@ -2570,6 +2570,7 @@ https://github.com/PnEcrins/Manuel-QGIS-Forets-Anciennes,True
 https://github.com/PnEcrins/PatBati,True
 https://github.com/PnEcrins/Police,True
 https://github.com/PnEcrins/R-mesures-physiques,True
+https://github.com/PnEcrins/trombi,False
 https://github.com/PnX-SI/GeoNature,True
 https://github.com/PnX-SI/GeoNature-R-package,True
 https://github.com/PnX-SI/GeoNature-atlas,True
@@ -6445,6 +6446,7 @@ https://gitlab.com/dreal-datalab/essai,True
 https://gitlab.com/dreal-datalab/exports_terristory,True
 https://gitlab.com/dreal-datalab/indicateurs.territoriaux.datamart,True
 https://gitlab.com/dreal-datalab/indicateurs_territoriaux,True
+https://gitlab.com/dreal-datalab/it_indicateurs,False
 https://gitlab.com/dreal-datalab/mapfactory,True
 https://gitlab.com/dreal-datalab/maps,True
 https://gitlab.com/dreal-datalab/nitrates,True
@@ -8915,6 +8917,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/meige-legi/intro-python,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/meige-legi/scientific-computing-m2-efm,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/mercurius_inversion/alternated_inversion,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/mercury_inversion/alternating_inversion,True
+https://gricad-gitlab.univ-grenoble-alpes.fr/mercury_inversion/inversion_3species,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/michael_perin/pwc,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/michael_perin/tutoriel-qcm-avec-amc,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/modmed/modmedLog,True
@@ -9049,6 +9052,7 @@ https://plmlab.math.cnrs.fr/anf2018/bd-mongodb,True
 https://plmlab.math.cnrs.fr/anr-bmws/anr-bmws.pages.math.cnrs.fr,True
 https://plmlab.math.cnrs.fr/anr-highagt/anr-highagt.pages.math.cnrs.fr,True
 https://plmlab.math.cnrs.fr/archimede/intertwiningwavelet,True
+https://plmlab.math.cnrs.fr/besse-repred/besse-repred.pages.math.cnrs.fr,False
 https://plmlab.math.cnrs.fr/bwoc2020/bwoc2020.pages.math.cnrs.fr,True
 https://plmlab.math.cnrs.fr/calcul-icj/bench-python-fft,True
 https://plmlab.math.cnrs.fr/calcul-icj/git-express,True
