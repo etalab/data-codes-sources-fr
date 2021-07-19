@@ -1636,6 +1636,7 @@ https://github.com/EsupPortail/esup-smsu-api,True
 https://github.com/EsupPortail/esup-smsu-api-admin,True
 https://github.com/EsupPortail/esup-smsu-api-mail,True
 https://github.com/EsupPortail/esup-stage,True
+https://github.com/EsupPortail/esup-sygal,False
 https://github.com/EsupPortail/esup-uportal,True
 https://github.com/EsupPortail/esup-wayf,True
 https://github.com/EsupPortail/esup-webengine-intranets,True
@@ -2563,6 +2564,7 @@ https://github.com/PnEcrins/GeoNature-migration-PNE,True
 https://github.com/PnEcrins/GeoNature-mobile,True
 https://github.com/PnEcrins/GeoNature-mobile-sync,True
 https://github.com/PnEcrins/GeoNature-mobile-webapi,True
+https://github.com/PnEcrins/GeoSensor,False
 https://github.com/PnEcrins/GeoSites,True
 https://github.com/PnEcrins/Manuel-QGIS-Forets-Anciennes,True
 https://github.com/PnEcrins/PatBati,True
@@ -2749,6 +2751,7 @@ https://github.com/SocialGouv/eMJPM-api,True
 https://github.com/SocialGouv/eMJPM-app,True
 https://github.com/SocialGouv/eMJPM-doc,True
 https://github.com/SocialGouv/eMJPM-homepage,True
+https://github.com/SocialGouv/ecollecte,False
 https://github.com/SocialGouv/egapro,True
 https://github.com/SocialGouv/egapro-api,True
 https://github.com/SocialGouv/egapro-consultation,True
@@ -2792,6 +2795,7 @@ https://github.com/SocialGouv/mano,True
 https://github.com/SocialGouv/map,True
 https://github.com/SocialGouv/maraudes-app,True
 https://github.com/SocialGouv/maraudes-backend,True
+https://github.com/SocialGouv/matomo-metabase,False
 https://github.com/SocialGouv/matomo-next,True
 https://github.com/SocialGouv/mattermost-plugin-google-calendar,True
 https://github.com/SocialGouv/meditor,True
@@ -8144,6 +8148,7 @@ https://gitlab.inria.fr/siteadmin/gitlab_import_ildap_group_members,True
 https://gitlab.inria.fr/siteadmin/pages-example,True
 https://gitlab.inria.fr/siteadmin/publictest,True
 https://gitlab.inria.fr/skeletons/Coq,True
+https://gitlab.inria.fr/skeletons/asm-in-skel,False
 https://gitlab.inria.fr/skeletons/jskel,True
 https://gitlab.inria.fr/skeletons/ndam,True
 https://gitlab.inria.fr/skeletons/necro,True
