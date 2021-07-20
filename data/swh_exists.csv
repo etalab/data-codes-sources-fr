@@ -7163,6 +7163,7 @@ https://gitlab.inria.fr/cidre-public/debiased-android-malware-datasets,False
 https://gitlab.inria.fr/cidre-public/from-ttp-to-ioc-dataset,True
 https://gitlab.inria.fr/cidre-public/malcon19,True
 https://gitlab.inria.fr/cidre-public/oatinside/oatinside,True
+https://gitlab.inria.fr/cidre-public/oatinside/oatinside-host-scripts,False
 https://gitlab.inria.fr/cidre-public/oatinside/oatinside_dataset,True
 https://gitlab.inria.fr/cidre-public/oatinside/oatinside_framework,True
 https://gitlab.inria.fr/cidre-public/oatinside/oatinside_kernel,True
@@ -7469,6 +7470,7 @@ https://gitlab.inria.fr/gagallium/stog-gagallium,True
 https://gitlab.inria.fr/gagallium/stog-math,True
 https://gitlab.inria.fr/gappa/coq,True
 https://gitlab.inria.fr/gappa/gappa,True
+https://gitlab.inria.fr/gazelle/applications/fhirtraining,False
 https://gitlab.inria.fr/gazelle/applications/mixed/CDAGenerator,True
 https://gitlab.inria.fr/gazelle/applications/mixed/gazelle-atna,True
 https://gitlab.inria.fr/gazelle/applications/mixed/gazelle-tm,True
