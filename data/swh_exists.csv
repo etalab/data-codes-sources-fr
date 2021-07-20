@@ -647,6 +647,7 @@ https://framagit.org/synalp/olki/landing,True
 https://framagit.org/synalp/olki/olki,True
 https://framagit.org/synalp/olki/publicabot,True
 https://framagit.org/synalp/olki/scifed,True
+https://git.ademe.fr/docker/data-gouv-fr/rna,False
 https://git.ademe.fr/docker/getpdf,True
 https://git.ademe.fr/docker/httpd,True
 https://git.ademe.fr/docker/httpd-php,True
@@ -2752,7 +2753,7 @@ https://github.com/SocialGouv/eMJPM-api,True
 https://github.com/SocialGouv/eMJPM-app,True
 https://github.com/SocialGouv/eMJPM-doc,True
 https://github.com/SocialGouv/eMJPM-homepage,True
-https://github.com/SocialGouv/ecollecte,False
+https://github.com/SocialGouv/ecollecte,True
 https://github.com/SocialGouv/egapro,True
 https://github.com/SocialGouv/egapro-api,True
 https://github.com/SocialGouv/egapro-consultation,True
@@ -3426,6 +3427,7 @@ https://github.com/betagouv/juridiques,True
 https://github.com/betagouv/kibana-scalingo,True
 https://github.com/betagouv/kong-delegateAuth,True
 https://github.com/betagouv/kong-delegateAuth-deprecated,True
+https://github.com/betagouv/l-immersion-facile,False
 https://github.com/betagouv/la-sass-vy,True
 https://github.com/betagouv/label-transition-ecologique,True
 https://github.com/betagouv/lapin,True
@@ -6431,6 +6433,7 @@ https://gitlab.com/dreal-datalab/adresses-mairies-epci,True
 https://gitlab.com/dreal-datalab/autorite-environnementale,False
 https://gitlab.com/dreal-datalab/autorite_environnementale,True
 https://gitlab.com/dreal-datalab/bilan.eco.insee,True
+https://gitlab.com/dreal-datalab/bilans_annuels_methaniseurs,False
 https://gitlab.com/dreal-datalab/carrieres,True
 https://gitlab.com/dreal-datalab/codes_postaux,True
 https://gitlab.com/dreal-datalab/cogiter,True
