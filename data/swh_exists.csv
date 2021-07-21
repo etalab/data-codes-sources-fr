@@ -648,6 +648,7 @@ https://framagit.org/synalp/olki/olki,True
 https://framagit.org/synalp/olki/publicabot,True
 https://framagit.org/synalp/olki/scifed,True
 https://git.ademe.fr/docker/data-gouv-fr/rna,False
+https://git.ademe.fr/docker/data-gouv-fr/sirene,True
 https://git.ademe.fr/docker/getpdf,True
 https://git.ademe.fr/docker/httpd,True
 https://git.ademe.fr/docker/httpd-php,True
@@ -1281,6 +1282,7 @@ https://github.com/CEREMA/dterso.pluginQgis.CeremaCartEau,True
 https://github.com/CEREMA/dterso.pluginQgis3.CeremaCartEau3,True
 https://github.com/CEREMA/rivages-android,True
 https://github.com/CEREMA/schema-arrete-circulation,True
+https://github.com/CEREMA/schema-arrete-circulation-marchandises,True
 https://github.com/CEREMA/schema-arrete-permanent-circulation,True
 https://github.com/CEREMA/territoire-ville.Covadis,True
 https://github.com/CEREMA/territoires-ville.DiagFeux,True
@@ -3123,6 +3125,7 @@ https://github.com/ambanum/political-ads-scraper,True
 https://github.com/ambanum/prettier-config,True
 https://github.com/ambanum/server-config,True
 https://github.com/ambanum/snscrape,True
+https://github.com/ambanum/social-network-graph-generator,True
 https://github.com/ambanum/social-networks-bot-finder,True
 https://github.com/ambanum/twint,True
 https://github.com/ansforge/DesignSystem,False
@@ -6417,6 +6420,7 @@ https://gitlab.com/cortext/PAM-System,False
 https://gitlab.com/cortext/agroecology-exploration/intershipproject,True
 https://gitlab.com/cortext/cib-database,True
 https://gitlab.com/cortext/cortext-methods/cortextlib,True
+https://gitlab.com/cortext/cortext-methods/istex,True
 https://gitlab.com/cortext/cortext-methods/sashimi,True
 https://gitlab.com/cortext/cortext-pub,True
 https://gitlab.com/cortext/patstat,True
@@ -7046,6 +7050,7 @@ https://gitlab.inria.fr/asclepios/biblio,True
 https://gitlab.inria.fr/astec/astec,True
 https://gitlab.inria.fr/astec/astec-2019-published,True
 https://gitlab.inria.fr/astec/astec-tutorial,True
+https://gitlab.inria.fr/auctus/human_library,True
 https://gitlab.inria.fr/auctus/panda/franka_control,True
 https://gitlab.inria.fr/auctus/panda/franka_description,True
 https://gitlab.inria.fr/auctus/panda/panda_traj,True
@@ -7262,6 +7267,7 @@ https://gitlab.inria.fr/crv14/evaluation,True
 https://gitlab.inria.fr/ct/gallery,True
 https://gitlab.inria.fr/ct/gallery-env,True
 https://gitlab.inria.fr/dalu/decawave-drivers,True
+https://gitlab.inria.fr/dalu/spank,True
 https://gitlab.inria.fr/dalu/spank-extio,True
 https://gitlab.inria.fr/dalu/spank-i2c-example,True
 https://gitlab.inria.fr/dalu/zephyr-redskin,True
@@ -8959,6 +8965,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/phelma/fablab/marlin_blackprusa,Tru
 https://gricad-gitlab.univ-grenoble-alpes.fr/phitem/design-linux-uga,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/phitem/environnement-bureau-gnome,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/phitem/installation-environnement-bureau-gnome-avec-ansible,True
+https://gricad-gitlab.univ-grenoble-alpes.fr/phitem/phitem-linux-logiciels,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/phitem/phitem-linux-vm,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/pmall/apli_pmall,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/pmall/app_op,True
