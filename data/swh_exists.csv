@@ -553,6 +553,7 @@ https://forgemia.inra.fr/umr-astre/asf-speed,True
 https://forgemia.inra.fr/umr-astre/capiche,True
 https://forgemia.inra.fr/umr-astre/cirad,True
 https://forgemia.inra.fr/umr-astre/covid19-mortality,True
+https://forgemia.inra.fr/umr-astre/culicoides-friction,False
 https://forgemia.inra.fr/umr-astre/difuse,True
 https://forgemia.inra.fr/umr-astre/dockelet,True
 https://forgemia.inra.fr/umr-astre/epidmap,True
@@ -6437,7 +6438,7 @@ https://gitlab.com/dreal-datalab/adresses-mairies-epci,True
 https://gitlab.com/dreal-datalab/autorite-environnementale,False
 https://gitlab.com/dreal-datalab/autorite_environnementale,True
 https://gitlab.com/dreal-datalab/bilan.eco.insee,True
-https://gitlab.com/dreal-datalab/bilans_annuels_methaniseurs,False
+https://gitlab.com/dreal-datalab/bilans_annuels_methaniseurs,True
 https://gitlab.com/dreal-datalab/carrieres,True
 https://gitlab.com/dreal-datalab/codes_postaux,True
 https://gitlab.com/dreal-datalab/cogiter,True
@@ -9064,7 +9065,7 @@ https://plmlab.math.cnrs.fr/anf2018/bd-mongodb,True
 https://plmlab.math.cnrs.fr/anr-bmws/anr-bmws.pages.math.cnrs.fr,True
 https://plmlab.math.cnrs.fr/anr-highagt/anr-highagt.pages.math.cnrs.fr,True
 https://plmlab.math.cnrs.fr/archimede/intertwiningwavelet,True
-https://plmlab.math.cnrs.fr/besse-repred/besse-repred.pages.math.cnrs.fr,False
+https://plmlab.math.cnrs.fr/besse-repred/besse-repred.pages.math.cnrs.fr,True
 https://plmlab.math.cnrs.fr/bwoc2020/bwoc2020.pages.math.cnrs.fr,True
 https://plmlab.math.cnrs.fr/calcul-icj/bench-python-fft,True
 https://plmlab.math.cnrs.fr/calcul-icj/git-express,True
