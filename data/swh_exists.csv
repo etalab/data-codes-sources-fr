@@ -576,6 +576,7 @@ https://forgemia.inra.fr/umr-gdec/magatt,True
 https://forgemia.inra.fr/umrf/anomaly,True
 https://forgemia.inra.fr/umrf/dairydb,True
 https://forgemia.inra.fr/umrf/exploremetabar,True
+https://forgemia.inra.fr/umrf/exploremetabar-docker,False
 https://forgemia.inra.fr/umrf/ranomaly,True
 https://forgemia.inra.fr/umrf/utopia,True
 https://forgemia.inra.fr/urep/appToolbox,True
@@ -2513,6 +2514,7 @@ https://github.com/OpenEdition/templates.openedition,True
 https://github.com/OpenEdition/toolpic,True
 https://github.com/OpenFLUID/MaterialDesign-SVG,True
 https://github.com/OpenFLUID/homebrew-openfluid,True
+https://github.com/OpenFLUID/libopenfluid-landr,False
 https://github.com/OpenFLUID/material-design-icons,True
 https://github.com/OpenFLUID/openfluid,True
 https://github.com/OpenFLUID/openfluid-buildmachine,True
@@ -2574,6 +2576,7 @@ https://github.com/PnEcrins/Manuel-QGIS-Forets-Anciennes,True
 https://github.com/PnEcrins/PatBati,True
 https://github.com/PnEcrins/Police,True
 https://github.com/PnEcrins/R-mesures-physiques,True
+https://github.com/PnEcrins/Trombi,False
 https://github.com/PnEcrins/trombi,False
 https://github.com/PnX-SI/GeoNature,True
 https://github.com/PnX-SI/GeoNature-R-package,True
@@ -3431,7 +3434,7 @@ https://github.com/betagouv/juridiques,True
 https://github.com/betagouv/kibana-scalingo,True
 https://github.com/betagouv/kong-delegateAuth,True
 https://github.com/betagouv/kong-delegateAuth-deprecated,True
-https://github.com/betagouv/l-immersion-facile,False
+https://github.com/betagouv/l-immersion-facile,True
 https://github.com/betagouv/la-sass-vy,True
 https://github.com/betagouv/label-transition-ecologique,True
 https://github.com/betagouv/lapin,True
@@ -4204,6 +4207,7 @@ https://github.com/entrepreneur-interet-general/demo_metabase_postgres,True
 https://github.com/entrepreneur-interet-general/design-system,True
 https://github.com/entrepreneur-interet-general/dicoCodes,True
 https://github.com/entrepreneur-interet-general/dig,True
+https://github.com/entrepreneur-interet-general/django-francedata,False
 https://github.com/entrepreneur-interet-general/domen,True
 https://github.com/entrepreneur-interet-general/eig-link,True
 https://github.com/entrepreneur-interet-general/enki,True
