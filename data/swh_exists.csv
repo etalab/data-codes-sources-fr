@@ -2576,7 +2576,7 @@ https://github.com/PnEcrins/Manuel-QGIS-Forets-Anciennes,True
 https://github.com/PnEcrins/PatBati,True
 https://github.com/PnEcrins/Police,True
 https://github.com/PnEcrins/R-mesures-physiques,True
-https://github.com/PnEcrins/Trombi,False
+https://github.com/PnEcrins/Trombi,True
 https://github.com/PnEcrins/trombi,False
 https://github.com/PnX-SI/GeoNature,True
 https://github.com/PnX-SI/GeoNature-R-package,True
@@ -3089,6 +3089,7 @@ https://github.com/ambanum/CGUs-ops,False
 https://github.com/ambanum/CGUs-snapshots,True
 https://github.com/ambanum/CGUs-stats,True
 https://github.com/ambanum/CGUs-versions,True
+https://github.com/ambanum/DevTools,False
 https://github.com/ambanum/DormantTwitterAccountsDetector,True
 https://github.com/ambanum/OpenTermsArchive,True
 https://github.com/ambanum/OpenTermsArchive-api,True
@@ -8068,6 +8069,7 @@ https://gitlab.inria.fr/plas20/sessionintegrity,True
 https://gitlab.inria.fr/pleiade/containers/camisim,True
 https://gitlab.inria.fr/pleiade/containers/ci-planemo,True
 https://gitlab.inria.fr/pleiade/fluto,True
+https://gitlab.inria.fr/pleiade/jupyterlab-slurm,False
 https://gitlab.inria.fr/pleiade/menetools,True
 https://gitlab.inria.fr/pleiade/metage2metabo,True
 https://gitlab.inria.fr/pleiade/miscoto,True
@@ -8973,7 +8975,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/meige-legi/intro-python,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/meige-legi/scientific-computing-m2-efm,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/mercurius_inversion/alternated_inversion,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/mercury_inversion/alternating_inversion,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/mercury_inversion/inversion_3species,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/mercury_inversion/inversion_3species,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/michael_perin/pwc,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/michael_perin/tutoriel-qcm-avec-amc,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/modmed/modmedLog,True
