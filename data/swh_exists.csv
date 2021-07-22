@@ -3090,7 +3090,7 @@ https://github.com/ambanum/CGUs-ops,False
 https://github.com/ambanum/CGUs-snapshots,True
 https://github.com/ambanum/CGUs-stats,True
 https://github.com/ambanum/CGUs-versions,True
-https://github.com/ambanum/DevTools,False
+https://github.com/ambanum/DevTools,True
 https://github.com/ambanum/DormantTwitterAccountsDetector,True
 https://github.com/ambanum/OpenTermsArchive,True
 https://github.com/ambanum/OpenTermsArchive-api,True
@@ -6460,7 +6460,7 @@ https://gitlab.com/dreal-datalab/essai,True
 https://gitlab.com/dreal-datalab/exports_terristory,True
 https://gitlab.com/dreal-datalab/indicateurs.territoriaux.datamart,True
 https://gitlab.com/dreal-datalab/indicateurs_territoriaux,True
-https://gitlab.com/dreal-datalab/it_indicateurs,False
+https://gitlab.com/dreal-datalab/it_indicateurs,True
 https://gitlab.com/dreal-datalab/mapfactory,True
 https://gitlab.com/dreal-datalab/maps,True
 https://gitlab.com/dreal-datalab/nitrates,True
@@ -6572,14 +6572,14 @@ https://gitlab.factory.social.gouv.fr/SocialGouv/cdtn-admin,False
 https://gitlab.factory.social.gouv.fr/SocialGouv/cdtn-api,False
 https://gitlab.factory.social.gouv.fr/SocialGouv/cdtn-contrib,False
 https://gitlab.factory.social.gouv.fr/SocialGouv/cdtn-monolog,False
-https://gitlab.factory.social.gouv.fr/SocialGouv/code-du-travail-numerique,False
+https://gitlab.factory.social.gouv.fr/SocialGouv/code-du-travail-numerique,True
 https://gitlab.factory.social.gouv.fr/SocialGouv/contributions-data,False
-https://gitlab.factory.social.gouv.fr/SocialGouv/datafiller-data,False
+https://gitlab.factory.social.gouv.fr/SocialGouv/datafiller-data,True
 https://gitlab.factory.social.gouv.fr/SocialGouv/docker,False
 https://gitlab.factory.social.gouv.fr/SocialGouv/domifa/domifa,False
 https://gitlab.factory.social.gouv.fr/SocialGouv/ds-aggregator,False
 https://gitlab.factory.social.gouv.fr/SocialGouv/egapro,False
-https://gitlab.factory.social.gouv.fr/SocialGouv/egapro-api,False
+https://gitlab.factory.social.gouv.fr/SocialGouv/egapro-api,True
 https://gitlab.factory.social.gouv.fr/SocialGouv/emjpm-editor-app,False
 https://gitlab.factory.social.gouv.fr/SocialGouv/emjpm-portail,False
 https://gitlab.factory.social.gouv.fr/SocialGouv/fabrique/carnets,False
