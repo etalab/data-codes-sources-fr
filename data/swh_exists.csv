@@ -2864,7 +2864,7 @@ https://github.com/SocialGouv/tps,True
 https://github.com/SocialGouv/traducteur-legistique,True
 https://github.com/SocialGouv/traefigit,True
 https://github.com/SocialGouv/tremplin,True
-https://github.com/SocialGouv/tumeplay,False
+https://github.com/SocialGouv/tumeplay,True
 https://github.com/SocialGouv/tumeplay-app,True
 https://github.com/SocialGouv/tumeplay-back,True
 https://github.com/SocialGouv/tutoriel-gitlab,True
@@ -6564,7 +6564,7 @@ https://gitlab.com/rdes_dreal/propre.rpls,True
 https://gitlab.com/rdes_dreal/publication_guide,True
 https://gitlab.com/rdes_dreal/sitadel_dataviz,True
 https://gitlab.factory.social.gouv.fr/SocialGouv/1000jours/les1000jours,False
-https://gitlab.factory.social.gouv.fr/SocialGouv/1000jours/les1000jours-landing,False
+https://gitlab.factory.social.gouv.fr/SocialGouv/1000jours/les1000jours-landing,True
 https://gitlab.factory.social.gouv.fr/SocialGouv/archifiltre,False
 https://gitlab.factory.social.gouv.fr/SocialGouv/archifiltre-site,False
 https://gitlab.factory.social.gouv.fr/SocialGouv/archifiltre-statistics,False
@@ -6583,7 +6583,7 @@ https://gitlab.factory.social.gouv.fr/SocialGouv/egapro-api,False
 https://gitlab.factory.social.gouv.fr/SocialGouv/emjpm-editor-app,False
 https://gitlab.factory.social.gouv.fr/SocialGouv/emjpm-portail,False
 https://gitlab.factory.social.gouv.fr/SocialGouv/fabrique/carnets,False
-https://gitlab.factory.social.gouv.fr/SocialGouv/fabrique/socialgouv-github-io,False
+https://gitlab.factory.social.gouv.fr/SocialGouv/fabrique/socialgouv-github-io,True
 https://gitlab.factory.social.gouv.fr/SocialGouv/fabrique/standup,False
 https://gitlab.factory.social.gouv.fr/SocialGouv/hasura,False
 https://gitlab.factory.social.gouv.fr/SocialGouv/medle,False
@@ -8704,6 +8704,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/resif-routing-k8s,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/resif-wfcatalog,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/resif2eidastats,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/resif_amqp_worker,True
+https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/resif_data_reporter,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/resif_docker,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/rsync-resif-k8s,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/rtconfig,True
