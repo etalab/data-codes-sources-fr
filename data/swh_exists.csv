@@ -576,7 +576,7 @@ https://forgemia.inra.fr/umr-gdec/magatt,True
 https://forgemia.inra.fr/umrf/anomaly,True
 https://forgemia.inra.fr/umrf/dairydb,True
 https://forgemia.inra.fr/umrf/exploremetabar,True
-https://forgemia.inra.fr/umrf/exploremetabar-docker,False
+https://forgemia.inra.fr/umrf/exploremetabar-docker,True
 https://forgemia.inra.fr/umrf/ranomaly,True
 https://forgemia.inra.fr/umrf/utopia,True
 https://forgemia.inra.fr/urep/appToolbox,True
@@ -2514,7 +2514,7 @@ https://github.com/OpenEdition/templates.openedition,True
 https://github.com/OpenEdition/toolpic,True
 https://github.com/OpenFLUID/MaterialDesign-SVG,True
 https://github.com/OpenFLUID/homebrew-openfluid,True
-https://github.com/OpenFLUID/libopenfluid-landr,False
+https://github.com/OpenFLUID/libopenfluid-landr,True
 https://github.com/OpenFLUID/material-design-icons,True
 https://github.com/OpenFLUID/openfluid,True
 https://github.com/OpenFLUID/openfluid-buildmachine,True
@@ -6582,7 +6582,7 @@ https://gitlab.factory.social.gouv.fr/SocialGouv/egapro,False
 https://gitlab.factory.social.gouv.fr/SocialGouv/egapro-api,True
 https://gitlab.factory.social.gouv.fr/SocialGouv/emjpm-editor-app,False
 https://gitlab.factory.social.gouv.fr/SocialGouv/emjpm-portail,False
-https://gitlab.factory.social.gouv.fr/SocialGouv/fabrique/carnets,False
+https://gitlab.factory.social.gouv.fr/SocialGouv/fabrique/carnets,True
 https://gitlab.factory.social.gouv.fr/SocialGouv/fabrique/socialgouv-github-io,True
 https://gitlab.factory.social.gouv.fr/SocialGouv/fabrique/standup,False
 https://gitlab.factory.social.gouv.fr/SocialGouv/hasura,False
@@ -6593,7 +6593,7 @@ https://gitlab.factory.social.gouv.fr/SocialGouv/ozensemble-site,False
 https://gitlab.factory.social.gouv.fr/SocialGouv/sample-next-app/sample-next-app,False
 https://gitlab.factory.social.gouv.fr/SocialGouv/serving-ml,False
 https://gitlab.factory.social.gouv.fr/SocialGouv/sre/docker,False
-https://gitlab.factory.social.gouv.fr/SocialGouv/sre/k8s-ci,False
+https://gitlab.factory.social.gouv.fr/SocialGouv/sre/k8s-ci,True
 https://gitlab.factory.social.gouv.fr/SocialGouv/sre/runners-bench,False
 https://gitlab.factory.social.gouv.fr/SocialGouv/sre/simple-project,False
 https://gitlab.factory.social.gouv.fr/SocialGouv/wif/work-in-france,False
@@ -8704,7 +8704,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/resif-routing-k8s,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/resif-wfcatalog,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/resif2eidastats,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/resif_amqp_worker,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/resif_data_reporter,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/resif_data_reporter,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/resif_docker,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/rsync-resif-k8s,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/rtconfig,True
