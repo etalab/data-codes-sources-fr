@@ -2271,6 +2271,7 @@ https://github.com/LAB-MI/covid-19-certificate,True
 https://github.com/LAB-MI/demande-masques-covid-19,True
 https://github.com/LAB-MI/deplacement-codiv-19,False
 https://github.com/LAB-MI/deplacement-covid-19,True
+https://github.com/LAB-MI/nocodb,False
 https://github.com/LAB-MI/nocodb-seed-heroku,False
 https://github.com/LAB-MI/remise-masques-covid-19,True
 https://github.com/LETG/coastlinetracking,True
@@ -2792,6 +2793,7 @@ https://github.com/SocialGouv/k8s,True
 https://github.com/SocialGouv/k8s-ci,True
 https://github.com/SocialGouv/kali-data,True
 https://github.com/SocialGouv/kaligator,True
+https://github.com/SocialGouv/keycloak-hasura-demo,False
 https://github.com/SocialGouv/kosko-charts,True
 https://github.com/SocialGouv/legi-data,True
 https://github.com/SocialGouv/legi-detect,True
@@ -6566,12 +6568,12 @@ https://gitlab.com/rdes_dreal/propre.presention.rencontresr,True
 https://gitlab.com/rdes_dreal/propre.rpls,True
 https://gitlab.com/rdes_dreal/publication_guide,True
 https://gitlab.com/rdes_dreal/sitadel_dataviz,True
-https://gitlab.factory.social.gouv.fr/SocialGouv/1000jours/les1000jours,False
+https://gitlab.factory.social.gouv.fr/SocialGouv/1000jours/les1000jours,True
 https://gitlab.factory.social.gouv.fr/SocialGouv/1000jours/les1000jours-landing,True
 https://gitlab.factory.social.gouv.fr/SocialGouv/archifiltre,False
-https://gitlab.factory.social.gouv.fr/SocialGouv/archifiltre-site,False
-https://gitlab.factory.social.gouv.fr/SocialGouv/archifiltre-statistics,False
-https://gitlab.factory.social.gouv.fr/SocialGouv/board,False
+https://gitlab.factory.social.gouv.fr/SocialGouv/archifiltre-site,True
+https://gitlab.factory.social.gouv.fr/SocialGouv/archifiltre-statistics,True
+https://gitlab.factory.social.gouv.fr/SocialGouv/board,True
 https://gitlab.factory.social.gouv.fr/SocialGouv/cdtn-admin,False
 https://gitlab.factory.social.gouv.fr/SocialGouv/cdtn-api,False
 https://gitlab.factory.social.gouv.fr/SocialGouv/cdtn-contrib,False
@@ -6593,7 +6595,7 @@ https://gitlab.factory.social.gouv.fr/SocialGouv/hasura,False
 https://gitlab.factory.social.gouv.fr/SocialGouv/medle,False
 https://gitlab.factory.social.gouv.fr/SocialGouv/monsuivipsy-site,False
 https://gitlab.factory.social.gouv.fr/SocialGouv/onvs,False
-https://gitlab.factory.social.gouv.fr/SocialGouv/ozensemble-site,False
+https://gitlab.factory.social.gouv.fr/SocialGouv/ozensemble-site,True
 https://gitlab.factory.social.gouv.fr/SocialGouv/sample-next-app/sample-next-app,False
 https://gitlab.factory.social.gouv.fr/SocialGouv/serving-ml,False
 https://gitlab.factory.social.gouv.fr/SocialGouv/sre/docker,False
@@ -7979,6 +7981,7 @@ https://gitlab.inria.fr/mosaic/timagetk,True
 https://gitlab.inria.fr/mosaic/tissue_analysis,True
 https://gitlab.inria.fr/mosaic/tissue_nukem_3d,True
 https://gitlab.inria.fr/mosaic/tissue_paredes,True
+https://gitlab.inria.fr/mosaic/treex,False
 https://gitlab.inria.fr/mpc/mpc,True
 https://gitlab.inria.fr/mpfi/mpfi,True
 https://gitlab.inria.fr/mpfq/mpfq,True
