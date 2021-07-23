@@ -1004,6 +1004,7 @@ https://github.com/139bercy/influxdb-recovery,True
 https://github.com/139bercy/opendata-quality,True
 https://github.com/139bercy/propilot2pdf,True
 https://github.com/139bercy/secret_stat,True
+https://github.com/139bercy/tresthor,False
 https://github.com/ANSSI-FR/AD-control-paths,True
 https://github.com/ANSSI-FR/AD-permissions,True
 https://github.com/ANSSI-FR/ADCP-DirectoryCrawler,True
@@ -2270,6 +2271,7 @@ https://github.com/LAB-MI/covid-19-certificate,True
 https://github.com/LAB-MI/demande-masques-covid-19,True
 https://github.com/LAB-MI/deplacement-codiv-19,False
 https://github.com/LAB-MI/deplacement-covid-19,True
+https://github.com/LAB-MI/nocodb-seed-heroku,False
 https://github.com/LAB-MI/remise-masques-covid-19,True
 https://github.com/LETG/coastlinetracking,True
 https://github.com/LETG/csw-harvester,True
@@ -4745,6 +4747,7 @@ https://github.com/ezpaarse-project/docker-ezvis,True
 https://github.com/ezpaarse-project/ez-unpaywall,True
 https://github.com/ezpaarse-project/ezmesure,True
 https://github.com/ezpaarse-project/ezmesure-admin,True
+https://github.com/ezpaarse-project/ezmesure-templates,False
 https://github.com/ezpaarse-project/ezmesure-widgets,True
 https://github.com/ezpaarse-project/ezpaarse,True
 https://github.com/ezpaarse-project/ezpaarse-badge,True
@@ -6568,6 +6571,7 @@ https://gitlab.factory.social.gouv.fr/SocialGouv/1000jours/les1000jours-landing,
 https://gitlab.factory.social.gouv.fr/SocialGouv/archifiltre,False
 https://gitlab.factory.social.gouv.fr/SocialGouv/archifiltre-site,False
 https://gitlab.factory.social.gouv.fr/SocialGouv/archifiltre-statistics,False
+https://gitlab.factory.social.gouv.fr/SocialGouv/board,False
 https://gitlab.factory.social.gouv.fr/SocialGouv/cdtn-admin,False
 https://gitlab.factory.social.gouv.fr/SocialGouv/cdtn-api,False
 https://gitlab.factory.social.gouv.fr/SocialGouv/cdtn-contrib,False
