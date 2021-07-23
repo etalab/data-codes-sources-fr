@@ -2272,6 +2272,7 @@ https://github.com/LAB-MI/demande-masques-covid-19,True
 https://github.com/LAB-MI/deplacement-codiv-19,False
 https://github.com/LAB-MI/deplacement-covid-19,True
 https://github.com/LAB-MI/nocodb,False
+https://github.com/LAB-MI/nocodb-seed,False
 https://github.com/LAB-MI/nocodb-seed-heroku,False
 https://github.com/LAB-MI/remise-masques-covid-19,True
 https://github.com/LETG/coastlinetracking,True
@@ -4902,6 +4903,7 @@ https://github.com/ina-foss/voxo-dashboard,True
 https://github.com/ina-foss/voxo-docker,True
 https://github.com/ina-foss/voxo-lib,True
 https://github.com/incubateur-territoires/demo-mesaides28,True
+https://github.com/incubateur-territoires/directus-helm-chart,False
 https://github.com/incubateur-territoires/discourse-incubateur,True
 https://github.com/incubateur-territoires/discourse-private-replies,True
 https://github.com/incubateur-territoires/discourse-theme,True
@@ -6590,11 +6592,11 @@ https://gitlab.factory.social.gouv.fr/SocialGouv/emjpm-editor-app,False
 https://gitlab.factory.social.gouv.fr/SocialGouv/emjpm-portail,False
 https://gitlab.factory.social.gouv.fr/SocialGouv/fabrique/carnets,True
 https://gitlab.factory.social.gouv.fr/SocialGouv/fabrique/socialgouv-github-io,True
-https://gitlab.factory.social.gouv.fr/SocialGouv/fabrique/standup,False
-https://gitlab.factory.social.gouv.fr/SocialGouv/hasura,False
+https://gitlab.factory.social.gouv.fr/SocialGouv/fabrique/standup,True
+https://gitlab.factory.social.gouv.fr/SocialGouv/hasura,True
 https://gitlab.factory.social.gouv.fr/SocialGouv/medle,False
 https://gitlab.factory.social.gouv.fr/SocialGouv/monsuivipsy-site,False
-https://gitlab.factory.social.gouv.fr/SocialGouv/onvs,False
+https://gitlab.factory.social.gouv.fr/SocialGouv/onvs,True
 https://gitlab.factory.social.gouv.fr/SocialGouv/ozensemble-site,True
 https://gitlab.factory.social.gouv.fr/SocialGouv/sample-next-app/sample-next-app,False
 https://gitlab.factory.social.gouv.fr/SocialGouv/serving-ml,False
@@ -7981,7 +7983,7 @@ https://gitlab.inria.fr/mosaic/timagetk,True
 https://gitlab.inria.fr/mosaic/tissue_analysis,True
 https://gitlab.inria.fr/mosaic/tissue_nukem_3d,True
 https://gitlab.inria.fr/mosaic/tissue_paredes,True
-https://gitlab.inria.fr/mosaic/treex,False
+https://gitlab.inria.fr/mosaic/treex,True
 https://gitlab.inria.fr/mpc/mpc,True
 https://gitlab.inria.fr/mpfi/mpfi,True
 https://gitlab.inria.fr/mpfq/mpfq,True
@@ -8655,7 +8657,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/Drakkar-LIG/WiSHFUL,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Drakkar-LIG/WiSHFUL-LoRa-connector,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Drakkar-LIG/ipmt,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Geodynamo/Singe,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/Geodynamo/pdsd,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/Geodynamo/pdsd,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Geodynamo/pygeodyn,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Geodynamo/pygeodyn_data,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/Geodynamo/webgeodyn,True
