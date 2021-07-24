@@ -1004,7 +1004,7 @@ https://github.com/139bercy/influxdb-recovery,True
 https://github.com/139bercy/opendata-quality,True
 https://github.com/139bercy/propilot2pdf,True
 https://github.com/139bercy/secret_stat,True
-https://github.com/139bercy/tresthor,False
+https://github.com/139bercy/tresthor,True
 https://github.com/ANSSI-FR/AD-control-paths,True
 https://github.com/ANSSI-FR/AD-permissions,True
 https://github.com/ANSSI-FR/ADCP-DirectoryCrawler,True
@@ -6577,7 +6577,7 @@ https://gitlab.factory.social.gouv.fr/SocialGouv/archifiltre-site,True
 https://gitlab.factory.social.gouv.fr/SocialGouv/archifiltre-statistics,True
 https://gitlab.factory.social.gouv.fr/SocialGouv/board,True
 https://gitlab.factory.social.gouv.fr/SocialGouv/cdtn-admin,False
-https://gitlab.factory.social.gouv.fr/SocialGouv/cdtn-api,False
+https://gitlab.factory.social.gouv.fr/SocialGouv/cdtn-api,True
 https://gitlab.factory.social.gouv.fr/SocialGouv/cdtn-contrib,False
 https://gitlab.factory.social.gouv.fr/SocialGouv/cdtn-monolog,False
 https://gitlab.factory.social.gouv.fr/SocialGouv/code-du-travail-numerique,True
@@ -6605,7 +6605,7 @@ https://gitlab.factory.social.gouv.fr/SocialGouv/sre/k8s-ci,True
 https://gitlab.factory.social.gouv.fr/SocialGouv/sre/runners-bench,False
 https://gitlab.factory.social.gouv.fr/SocialGouv/sre/simple-project,False
 https://gitlab.factory.social.gouv.fr/SocialGouv/wif/work-in-france,False
-https://gitlab.factory.social.gouv.fr/SocialGouv/work-in-france,False
+https://gitlab.factory.social.gouv.fr/SocialGouv/work-in-france,True
 https://gitlab.factory.social.gouv.fr/SocialGouv/work-in-france-backoffice,False
 https://gitlab.factory.social.gouv.fr/test-ops/docker-modsec-fluentd,False
 https://gitlab.factory.social.gouv.fr/test-ops/standup,False
