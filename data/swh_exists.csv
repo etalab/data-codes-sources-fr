@@ -6595,7 +6595,7 @@ https://gitlab.factory.social.gouv.fr/SocialGouv/fabrique/socialgouv-github-io,T
 https://gitlab.factory.social.gouv.fr/SocialGouv/fabrique/standup,True
 https://gitlab.factory.social.gouv.fr/SocialGouv/hasura,True
 https://gitlab.factory.social.gouv.fr/SocialGouv/medle,False
-https://gitlab.factory.social.gouv.fr/SocialGouv/monsuivipsy-site,False
+https://gitlab.factory.social.gouv.fr/SocialGouv/monsuivipsy-site,True
 https://gitlab.factory.social.gouv.fr/SocialGouv/onvs,True
 https://gitlab.factory.social.gouv.fr/SocialGouv/ozensemble-site,True
 https://gitlab.factory.social.gouv.fr/SocialGouv/sample-next-app/sample-next-app,False
@@ -7534,7 +7534,7 @@ https://gitlab.inria.fr/gagallium/stog-gagallium,True
 https://gitlab.inria.fr/gagallium/stog-math,True
 https://gitlab.inria.fr/gappa/coq,True
 https://gitlab.inria.fr/gappa/gappa,True
-https://gitlab.inria.fr/gazelle/applications/fhirtraining,False
+https://gitlab.inria.fr/gazelle/applications/fhirtraining,True
 https://gitlab.inria.fr/gazelle/applications/mixed/CDAGenerator,True
 https://gitlab.inria.fr/gazelle/applications/mixed/gazelle-atna,True
 https://gitlab.inria.fr/gazelle/applications/mixed/gazelle-tm,True
