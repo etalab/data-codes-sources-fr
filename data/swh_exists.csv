@@ -649,7 +649,7 @@ https://framagit.org/synalp/olki/landing,True
 https://framagit.org/synalp/olki/olki,True
 https://framagit.org/synalp/olki/publicabot,True
 https://framagit.org/synalp/olki/scifed,True
-https://git.ademe.fr/docker/data-gouv-fr/rna,False
+https://git.ademe.fr/docker/data-gouv-fr/rna,True
 https://git.ademe.fr/docker/data-gouv-fr/sirene,True
 https://git.ademe.fr/docker/getpdf,True
 https://git.ademe.fr/docker/httpd,True
@@ -4903,7 +4903,7 @@ https://github.com/ina-foss/voxo-dashboard,True
 https://github.com/ina-foss/voxo-docker,True
 https://github.com/ina-foss/voxo-lib,True
 https://github.com/incubateur-territoires/demo-mesaides28,True
-https://github.com/incubateur-territoires/directus-helm-chart,False
+https://github.com/incubateur-territoires/directus-helm-chart,True
 https://github.com/incubateur-territoires/discourse-incubateur,True
 https://github.com/incubateur-territoires/discourse-private-replies,True
 https://github.com/incubateur-territoires/discourse-theme,True
@@ -6606,7 +6606,7 @@ https://gitlab.factory.social.gouv.fr/SocialGouv/sre/runners-bench,False
 https://gitlab.factory.social.gouv.fr/SocialGouv/sre/simple-project,False
 https://gitlab.factory.social.gouv.fr/SocialGouv/wif/work-in-france,False
 https://gitlab.factory.social.gouv.fr/SocialGouv/work-in-france,True
-https://gitlab.factory.social.gouv.fr/SocialGouv/work-in-france-backoffice,False
+https://gitlab.factory.social.gouv.fr/SocialGouv/work-in-france-backoffice,True
 https://gitlab.factory.social.gouv.fr/test-ops/docker-modsec-fluentd,False
 https://gitlab.factory.social.gouv.fr/test-ops/standup,False
 https://gitlab.factory.social.gouv.fr/test-ops/tremplin,False
