@@ -4214,7 +4214,7 @@ https://github.com/entrepreneur-interet-general/demo_metabase_postgres,True
 https://github.com/entrepreneur-interet-general/design-system,True
 https://github.com/entrepreneur-interet-general/dicoCodes,True
 https://github.com/entrepreneur-interet-general/dig,True
-https://github.com/entrepreneur-interet-general/django-francedata,False
+https://github.com/entrepreneur-interet-general/django-francedata,True
 https://github.com/entrepreneur-interet-general/domen,True
 https://github.com/entrepreneur-interet-general/eig-link,True
 https://github.com/entrepreneur-interet-general/enki,True
@@ -4750,7 +4750,7 @@ https://github.com/ezpaarse-project/docker-ezvis,True
 https://github.com/ezpaarse-project/ez-unpaywall,True
 https://github.com/ezpaarse-project/ezmesure,True
 https://github.com/ezpaarse-project/ezmesure-admin,True
-https://github.com/ezpaarse-project/ezmesure-templates,False
+https://github.com/ezpaarse-project/ezmesure-templates,True
 https://github.com/ezpaarse-project/ezmesure-widgets,True
 https://github.com/ezpaarse-project/ezpaarse,True
 https://github.com/ezpaarse-project/ezpaarse-badge,True
@@ -6572,7 +6572,7 @@ https://gitlab.com/rdes_dreal/publication_guide,True
 https://gitlab.com/rdes_dreal/sitadel_dataviz,True
 https://gitlab.factory.social.gouv.fr/SocialGouv/1000jours/les1000jours,True
 https://gitlab.factory.social.gouv.fr/SocialGouv/1000jours/les1000jours-landing,True
-https://gitlab.factory.social.gouv.fr/SocialGouv/archifiltre,False
+https://gitlab.factory.social.gouv.fr/SocialGouv/archifiltre,True
 https://gitlab.factory.social.gouv.fr/SocialGouv/archifiltre-site,True
 https://gitlab.factory.social.gouv.fr/SocialGouv/archifiltre-statistics,True
 https://gitlab.factory.social.gouv.fr/SocialGouv/board,True
@@ -6602,7 +6602,7 @@ https://gitlab.factory.social.gouv.fr/SocialGouv/sample-next-app/sample-next-app
 https://gitlab.factory.social.gouv.fr/SocialGouv/serving-ml,False
 https://gitlab.factory.social.gouv.fr/SocialGouv/sre/docker,False
 https://gitlab.factory.social.gouv.fr/SocialGouv/sre/k8s-ci,True
-https://gitlab.factory.social.gouv.fr/SocialGouv/sre/runners-bench,False
+https://gitlab.factory.social.gouv.fr/SocialGouv/sre/runners-bench,True
 https://gitlab.factory.social.gouv.fr/SocialGouv/sre/simple-project,False
 https://gitlab.factory.social.gouv.fr/SocialGouv/wif/work-in-france,False
 https://gitlab.factory.social.gouv.fr/SocialGouv/work-in-france,True
@@ -6610,7 +6610,7 @@ https://gitlab.factory.social.gouv.fr/SocialGouv/work-in-france-backoffice,True
 https://gitlab.factory.social.gouv.fr/test-ops/docker-modsec-fluentd,False
 https://gitlab.factory.social.gouv.fr/test-ops/standup,False
 https://gitlab.factory.social.gouv.fr/test-ops/tremplin,False
-https://gitlab.factory.social.gouv.fr/test-scaleway1/test-autodevops-pg,False
+https://gitlab.factory.social.gouv.fr/test-scaleway1/test-autodevops-pg,True
 https://gitlab.huma-num.fr/atelier-donnees/depot,True
 https://gitlab.huma-num.fr/bvh/max/max_bvh,True
 https://gitlab.huma-num.fr/bvh/max/max_editions,True
