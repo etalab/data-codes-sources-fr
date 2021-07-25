@@ -1196,7 +1196,7 @@ https://github.com/Bibliome/alvis-metadata,True
 https://github.com/Bibliome/alvis_galaxy_capsule,True
 https://github.com/Bibliome/alvisae,True
 https://github.com/Bibliome/alvisae-1,True
-https://github.com/Bibliome/alvisae-archived,False
+https://github.com/Bibliome/alvisae-archived,True
 https://github.com/Bibliome/alviscorpus,True
 https://github.com/Bibliome/alvisdb,True
 https://github.com/Bibliome/alvisir,True
@@ -2272,7 +2272,7 @@ https://github.com/LAB-MI/demande-masques-covid-19,True
 https://github.com/LAB-MI/deplacement-codiv-19,False
 https://github.com/LAB-MI/deplacement-covid-19,True
 https://github.com/LAB-MI/nocodb,False
-https://github.com/LAB-MI/nocodb-seed,False
+https://github.com/LAB-MI/nocodb-seed,True
 https://github.com/LAB-MI/nocodb-seed-heroku,False
 https://github.com/LAB-MI/remise-masques-covid-19,True
 https://github.com/LETG/coastlinetracking,True
@@ -6584,7 +6584,7 @@ https://gitlab.factory.social.gouv.fr/SocialGouv/code-du-travail-numerique,True
 https://gitlab.factory.social.gouv.fr/SocialGouv/contributions-data,False
 https://gitlab.factory.social.gouv.fr/SocialGouv/datafiller-data,True
 https://gitlab.factory.social.gouv.fr/SocialGouv/docker,False
-https://gitlab.factory.social.gouv.fr/SocialGouv/domifa/domifa,False
+https://gitlab.factory.social.gouv.fr/SocialGouv/domifa/domifa,True
 https://gitlab.factory.social.gouv.fr/SocialGouv/ds-aggregator,False
 https://gitlab.factory.social.gouv.fr/SocialGouv/egapro,False
 https://gitlab.factory.social.gouv.fr/SocialGouv/egapro-api,True
@@ -6594,7 +6594,7 @@ https://gitlab.factory.social.gouv.fr/SocialGouv/fabrique/carnets,True
 https://gitlab.factory.social.gouv.fr/SocialGouv/fabrique/socialgouv-github-io,True
 https://gitlab.factory.social.gouv.fr/SocialGouv/fabrique/standup,True
 https://gitlab.factory.social.gouv.fr/SocialGouv/hasura,True
-https://gitlab.factory.social.gouv.fr/SocialGouv/medle,False
+https://gitlab.factory.social.gouv.fr/SocialGouv/medle,True
 https://gitlab.factory.social.gouv.fr/SocialGouv/monsuivipsy-site,True
 https://gitlab.factory.social.gouv.fr/SocialGouv/onvs,True
 https://gitlab.factory.social.gouv.fr/SocialGouv/ozensemble-site,True
@@ -8079,7 +8079,7 @@ https://gitlab.inria.fr/plas20/sessionintegrity,True
 https://gitlab.inria.fr/pleiade/containers/camisim,True
 https://gitlab.inria.fr/pleiade/containers/ci-planemo,True
 https://gitlab.inria.fr/pleiade/fluto,True
-https://gitlab.inria.fr/pleiade/jupyterlab-slurm,False
+https://gitlab.inria.fr/pleiade/jupyterlab-slurm,True
 https://gitlab.inria.fr/pleiade/menetools,True
 https://gitlab.inria.fr/pleiade/metage2metabo,True
 https://gitlab.inria.fr/pleiade/miscoto,True
