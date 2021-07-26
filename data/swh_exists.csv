@@ -6598,10 +6598,10 @@ https://gitlab.factory.social.gouv.fr/SocialGouv/contributions-data,False
 https://gitlab.factory.social.gouv.fr/SocialGouv/datafiller-data,True
 https://gitlab.factory.social.gouv.fr/SocialGouv/docker,False
 https://gitlab.factory.social.gouv.fr/SocialGouv/domifa/domifa,True
-https://gitlab.factory.social.gouv.fr/SocialGouv/ds-aggregator,False
+https://gitlab.factory.social.gouv.fr/SocialGouv/ds-aggregator,True
 https://gitlab.factory.social.gouv.fr/SocialGouv/egapro,False
 https://gitlab.factory.social.gouv.fr/SocialGouv/egapro-api,True
-https://gitlab.factory.social.gouv.fr/SocialGouv/emjpm-editor-app,False
+https://gitlab.factory.social.gouv.fr/SocialGouv/emjpm-editor-app,True
 https://gitlab.factory.social.gouv.fr/SocialGouv/emjpm-portail,False
 https://gitlab.factory.social.gouv.fr/SocialGouv/fabrique/carnets,True
 https://gitlab.factory.social.gouv.fr/SocialGouv/fabrique/socialgouv-github-io,True
@@ -7239,7 +7239,7 @@ https://gitlab.inria.fr/cidre-public/debiased-android-malware-datasets,False
 https://gitlab.inria.fr/cidre-public/from-ttp-to-ioc-dataset,True
 https://gitlab.inria.fr/cidre-public/malcon19,True
 https://gitlab.inria.fr/cidre-public/oatinside/oatinside,True
-https://gitlab.inria.fr/cidre-public/oatinside/oatinside-host-scripts,False
+https://gitlab.inria.fr/cidre-public/oatinside/oatinside-host-scripts,True
 https://gitlab.inria.fr/cidre-public/oatinside/oatinside_dataset,True
 https://gitlab.inria.fr/cidre-public/oatinside/oatinside_framework,True
 https://gitlab.inria.fr/cidre-public/oatinside/oatinside_kernel,True
@@ -7808,7 +7808,7 @@ https://gitlab.inria.fr/julbrune/chaos,True
 https://gitlab.inria.fr/kadeploy/kadeploy.gitlabpages.inria.fr,True
 https://gitlab.inria.fr/kairos/ccsl_gemoc_compiler,True
 https://gitlab.inria.fr/kairos/gemocbackends/klightanimationbackendforgemoc,True
-https://gitlab.inria.fr/kairos/gemocbackends/runstar,False
+https://gitlab.inria.fr/kairos/gemocbackends/runstar,True
 https://gitlab.inria.fr/kairos/gemocbackends/timeseriesutils,False
 https://gitlab.inria.fr/kairos/gemocbackends/xtextanimationbackendforgemoc,True
 https://gitlab.inria.fr/kaldi.web/clapack-wasm,True
@@ -8227,7 +8227,7 @@ https://gitlab.inria.fr/silm-seminar/silm-seminar.gitlabpages.inria.fr,True
 https://gitlab.inria.fr/silm-seminar/test_streaming,True
 https://gitlab.inria.fr/silm-seminar/website,True
 https://gitlab.inria.fr/simgrid/platform-calibration,True
-https://gitlab.inria.fr/simgrid/sgcb,False
+https://gitlab.inria.fr/simgrid/sgcb,True
 https://gitlab.inria.fr/simgrid/simgrid,True
 https://gitlab.inria.fr/siteadmin/doc,True
 https://gitlab.inria.fr/siteadmin/gitlab_import_ildap_group_members,True
