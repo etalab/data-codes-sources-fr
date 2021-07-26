@@ -1862,6 +1862,16 @@ https://github.com/IGNF/validator-example,True
 https://github.com/IGNF/validator-schema,True
 https://github.com/IGNF/visio_dpc,True
 https://github.com/IGNF/wxfreechart,True
+https://github.com/INHAParis/IIIF_presentation,True
+https://github.com/INHAParis/Jeu_Collections_Rothschild,True
+https://github.com/INHAParis/Les-envois-de-Rome_v1,True
+https://github.com/INHAParis/Network_SISMO,True
+https://github.com/INHAParis/aucase-inha-frontend,True
+https://github.com/INHAParis/georetif,True
+https://github.com/INHAParis/omeka-s-OCMI,True
+https://github.com/INHAParis/omeka-s-theme-DigitalMuret,True
+https://github.com/INHAParis/simpleFilter.js,True
+https://github.com/INHAParis/working_reconciliationwork_AGORHA-GPI,False
 https://github.com/INRA/AU_metabo,True
 https://github.com/INRA/NMRProcFlow,True
 https://github.com/INRA/ODAM,True
@@ -2614,6 +2624,7 @@ https://github.com/PnX-SI/gn_module_suivi_habitat_station,True
 https://github.com/PnX-SI/gn_module_suivi_habitat_territoire,True
 https://github.com/PnX-SI/gn_module_template,True
 https://github.com/PnX-SI/gn_module_validation,True
+https://github.com/PnX-SI/jsonschema_validator,False
 https://github.com/PnX-SI/obs_occ,True
 https://github.com/PnX-SI/schema_randonnee,True
 https://github.com/PnX-SI/test_client_usershub_api,True
@@ -2825,6 +2836,7 @@ https://github.com/SocialGouv/onvs,True
 https://github.com/SocialGouv/owasp-dashboard,True
 https://github.com/SocialGouv/ozensemble,True
 https://github.com/SocialGouv/ozensemble-site,True
+https://github.com/SocialGouv/pass-emploi-api,False
 https://github.com/SocialGouv/pep,True
 https://github.com/SocialGouv/plops-monde,True
 https://github.com/SocialGouv/plops-monde-1001,True
@@ -5857,6 +5869,7 @@ https://github.com/openmole/effectaside,True
 https://github.com/openmole/exmodelo-courses,True
 https://github.com/openmole/exmodelo-model,True
 https://github.com/openmole/family,True
+https://github.com/openmole/flocking,False
 https://github.com/openmole/frontiers2016,True
 https://github.com/openmole/gama-plugin,True
 https://github.com/openmole/gama-plugin-old,True
@@ -6604,7 +6617,7 @@ https://gitlab.factory.social.gouv.fr/SocialGouv/sre/docker,False
 https://gitlab.factory.social.gouv.fr/SocialGouv/sre/k8s-ci,True
 https://gitlab.factory.social.gouv.fr/SocialGouv/sre/runners-bench,True
 https://gitlab.factory.social.gouv.fr/SocialGouv/sre/simple-project,False
-https://gitlab.factory.social.gouv.fr/SocialGouv/wif/work-in-france,False
+https://gitlab.factory.social.gouv.fr/SocialGouv/wif/work-in-france,True
 https://gitlab.factory.social.gouv.fr/SocialGouv/work-in-france,True
 https://gitlab.factory.social.gouv.fr/SocialGouv/work-in-france-backoffice,True
 https://gitlab.factory.social.gouv.fr/test-ops/docker-modsec-fluentd,False
@@ -8214,6 +8227,7 @@ https://gitlab.inria.fr/silm-seminar/silm-seminar.gitlabpages.inria.fr,True
 https://gitlab.inria.fr/silm-seminar/test_streaming,True
 https://gitlab.inria.fr/silm-seminar/website,True
 https://gitlab.inria.fr/simgrid/platform-calibration,True
+https://gitlab.inria.fr/simgrid/sgcb,False
 https://gitlab.inria.fr/simgrid/simgrid,True
 https://gitlab.inria.fr/siteadmin/doc,True
 https://gitlab.inria.fr/siteadmin/gitlab_import_ildap_group_members,True
@@ -8321,6 +8335,8 @@ https://gitlab.inria.fr/thoth/python-spams,True
 https://gitlab.inria.fr/thoth/spams-devel,True
 https://gitlab.inria.fr/tnfs-alpha/alpha,True
 https://gitlab.inria.fr/tousanticovid-verif/certificate-conversion-backend,True
+https://gitlab.inria.fr/tousanticovid-verif/tousanticovid-verif-android,False
+https://gitlab.inria.fr/tousanticovid-verif/tousanticovid-verif-ios,False
 https://gitlab.inria.fr/traitor/traitor,True
 https://gitlab.inria.fr/tranus/QGIS_Tranus_Reports,True
 https://gitlab.inria.fr/tranus/TRANUS_Interfaces,True
