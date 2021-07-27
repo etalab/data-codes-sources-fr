@@ -6599,7 +6599,7 @@ https://gitlab.factory.social.gouv.fr/SocialGouv/datafiller-data,True
 https://gitlab.factory.social.gouv.fr/SocialGouv/docker,False
 https://gitlab.factory.social.gouv.fr/SocialGouv/domifa/domifa,True
 https://gitlab.factory.social.gouv.fr/SocialGouv/ds-aggregator,True
-https://gitlab.factory.social.gouv.fr/SocialGouv/egapro,False
+https://gitlab.factory.social.gouv.fr/SocialGouv/egapro,True
 https://gitlab.factory.social.gouv.fr/SocialGouv/egapro-api,True
 https://gitlab.factory.social.gouv.fr/SocialGouv/emjpm-editor-app,True
 https://gitlab.factory.social.gouv.fr/SocialGouv/emjpm-portail,False
@@ -6612,7 +6612,7 @@ https://gitlab.factory.social.gouv.fr/SocialGouv/monsuivipsy-site,True
 https://gitlab.factory.social.gouv.fr/SocialGouv/onvs,True
 https://gitlab.factory.social.gouv.fr/SocialGouv/ozensemble-site,True
 https://gitlab.factory.social.gouv.fr/SocialGouv/sample-next-app/sample-next-app,True
-https://gitlab.factory.social.gouv.fr/SocialGouv/serving-ml,False
+https://gitlab.factory.social.gouv.fr/SocialGouv/serving-ml,True
 https://gitlab.factory.social.gouv.fr/SocialGouv/sre/docker,False
 https://gitlab.factory.social.gouv.fr/SocialGouv/sre/k8s-ci,True
 https://gitlab.factory.social.gouv.fr/SocialGouv/sre/runners-bench,True
