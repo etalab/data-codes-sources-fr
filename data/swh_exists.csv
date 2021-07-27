@@ -531,6 +531,7 @@ https://forgemia.inra.fr/scales/differential-analysis-of-trees,True
 https://forgemia.inra.fr/sciproject/managesciproject,True
 https://forgemia.inra.fr/seqoccin/GenomOrder,True
 https://forgemia.inra.fr/seqoccin/axis3-metagenomics-amplicon,True
+https://forgemia.inra.fr/seqoccin/metagwgs,False
 https://forgemia.inra.fr/singularity/bcftools_v1.10.2,True
 https://forgemia.inra.fr/singularity/test,True
 https://forgemia.inra.fr/siriusquality/sqcode/Release,True
@@ -2836,7 +2837,8 @@ https://github.com/SocialGouv/onvs,True
 https://github.com/SocialGouv/owasp-dashboard,True
 https://github.com/SocialGouv/ozensemble,True
 https://github.com/SocialGouv/ozensemble-site,True
-https://github.com/SocialGouv/pass-emploi-api,False
+https://github.com/SocialGouv/pass-emploi-api,True
+https://github.com/SocialGouv/pass-emploi-app,False
 https://github.com/SocialGouv/pep,True
 https://github.com/SocialGouv/plops-monde,True
 https://github.com/SocialGouv/plops-monde-1001,True
@@ -5943,6 +5945,7 @@ https://github.com/plantnet/node-datamanager,True
 https://github.com/plantnet/plantnet-R-client,True
 https://github.com/plantnet/plantnet-datamanager,True
 https://github.com/plantnet/plantnet-publish,True
+https://github.com/plantnet/status,False
 https://github.com/polewebmaedi/MAEDI-Capitales,True
 https://github.com/polewebmaedi/MAEDI-Pays,True
 https://github.com/polewebmaedi/countries,True
@@ -6623,7 +6626,7 @@ https://gitlab.factory.social.gouv.fr/SocialGouv/work-in-france,True
 https://gitlab.factory.social.gouv.fr/SocialGouv/work-in-france-backoffice,True
 https://gitlab.factory.social.gouv.fr/test-ops/docker-modsec-fluentd,False
 https://gitlab.factory.social.gouv.fr/test-ops/standup,False
-https://gitlab.factory.social.gouv.fr/test-ops/tremplin,False
+https://gitlab.factory.social.gouv.fr/test-ops/tremplin,True
 https://gitlab.factory.social.gouv.fr/test-scaleway1/test-autodevops-pg,True
 https://gitlab.huma-num.fr/atelier-donnees/depot,True
 https://gitlab.huma-num.fr/bvh/max/max_bvh,True
@@ -7827,6 +7830,7 @@ https://gitlab.inria.fr/lcourtes-phd/edcc-2006,True
 https://gitlab.inria.fr/lcourtes-phd/edcc-2006-redone,True
 https://gitlab.inria.fr/lcourtes-phd/file-sets,True
 https://gitlab.inria.fr/learning-bluetooth/ble_simulator,True
+https://gitlab.inria.fr/learninglab/classcodeia,False
 https://gitlab.inria.fr/learninglab/formation-ux,True
 https://gitlab.inria.fr/learninglab/guidelines,False
 https://gitlab.inria.fr/learninglab/guidelines-ill,True
@@ -8337,7 +8341,7 @@ https://gitlab.inria.fr/thoth/spams-devel,True
 https://gitlab.inria.fr/tnfs-alpha/alpha,True
 https://gitlab.inria.fr/tousanticovid-verif/certificate-conversion-backend,True
 https://gitlab.inria.fr/tousanticovid-verif/tousanticovid-verif-android,False
-https://gitlab.inria.fr/tousanticovid-verif/tousanticovid-verif-ios,False
+https://gitlab.inria.fr/tousanticovid-verif/tousanticovid-verif-ios,True
 https://gitlab.inria.fr/traitor/traitor,True
 https://gitlab.inria.fr/tranus/QGIS_Tranus_Reports,True
 https://gitlab.inria.fr/tranus/TRANUS_Interfaces,True
