@@ -554,7 +554,7 @@ https://forgemia.inra.fr/umr-astre/asf-speed,True
 https://forgemia.inra.fr/umr-astre/capiche,True
 https://forgemia.inra.fr/umr-astre/cirad,True
 https://forgemia.inra.fr/umr-astre/covid19-mortality,True
-https://forgemia.inra.fr/umr-astre/culicoides-friction,False
+https://forgemia.inra.fr/umr-astre/culicoides-friction,True
 https://forgemia.inra.fr/umr-astre/difuse,True
 https://forgemia.inra.fr/umr-astre/dockelet,True
 https://forgemia.inra.fr/umr-astre/epidmap,True
@@ -2839,6 +2839,7 @@ https://github.com/SocialGouv/ozensemble,True
 https://github.com/SocialGouv/ozensemble-site,True
 https://github.com/SocialGouv/pass-emploi-api,True
 https://github.com/SocialGouv/pass-emploi-app,False
+https://github.com/SocialGouv/pass_emploi_app,False
 https://github.com/SocialGouv/pep,True
 https://github.com/SocialGouv/plops-monde,True
 https://github.com/SocialGouv/plops-monde-1001,True
@@ -6594,7 +6595,7 @@ https://gitlab.factory.social.gouv.fr/SocialGouv/archifiltre-statistics,True
 https://gitlab.factory.social.gouv.fr/SocialGouv/board,True
 https://gitlab.factory.social.gouv.fr/SocialGouv/cdtn-admin,True
 https://gitlab.factory.social.gouv.fr/SocialGouv/cdtn-api,True
-https://gitlab.factory.social.gouv.fr/SocialGouv/cdtn-contrib,False
+https://gitlab.factory.social.gouv.fr/SocialGouv/cdtn-contrib,True
 https://gitlab.factory.social.gouv.fr/SocialGouv/cdtn-monolog,False
 https://gitlab.factory.social.gouv.fr/SocialGouv/code-du-travail-numerique,True
 https://gitlab.factory.social.gouv.fr/SocialGouv/contributions-data,False
@@ -7208,6 +7209,7 @@ https://gitlab.inria.fr/blare/test,True
 https://gitlab.inria.fr/bleuse/procset.py,True
 https://gitlab.inria.fr/bora-ucar/fast-matching,True
 https://gitlab.inria.fr/bora-ucar/karp--sipser-reduction,True
+https://gitlab.inria.fr/bora-ucar/karp-sipser-for-hypergraphs,False
 https://gitlab.inria.fr/bora-ucar/libspmxv,True
 https://gitlab.inria.fr/bora-ucar/matchmaker,True
 https://gitlab.inria.fr/bptraffic/star-ips,True
