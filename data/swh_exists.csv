@@ -484,6 +484,7 @@ https://forgemia.inra.fr/migale/affiliationexplorer,True
 https://forgemia.inra.fr/migale/dubii_magali_monnoye,True
 https://forgemia.inra.fr/migale/formations,True
 https://forgemia.inra.fr/most/ib-rs,True
+https://forgemia.inra.fr/mychoice/documentation,False
 https://forgemia.inra.fr/olivier.bonnefon/mse,True
 https://forgemia.inra.fr/pappso/beads,True
 https://forgemia.inra.fr/pappso/custompwiz,True
@@ -2282,7 +2283,7 @@ https://github.com/LAB-MI/covid-19-certificate,True
 https://github.com/LAB-MI/demande-masques-covid-19,True
 https://github.com/LAB-MI/deplacement-codiv-19,False
 https://github.com/LAB-MI/deplacement-covid-19,True
-https://github.com/LAB-MI/nocodb,False
+https://github.com/LAB-MI/nocodb,True
 https://github.com/LAB-MI/nocodb-seed,True
 https://github.com/LAB-MI/nocodb-seed-heroku,False
 https://github.com/LAB-MI/remise-masques-covid-19,True
@@ -6617,7 +6618,7 @@ https://gitlab.factory.social.gouv.fr/SocialGouv/onvs,True
 https://gitlab.factory.social.gouv.fr/SocialGouv/ozensemble-site,True
 https://gitlab.factory.social.gouv.fr/SocialGouv/sample-next-app/sample-next-app,True
 https://gitlab.factory.social.gouv.fr/SocialGouv/serving-ml,True
-https://gitlab.factory.social.gouv.fr/SocialGouv/sre/docker,False
+https://gitlab.factory.social.gouv.fr/SocialGouv/sre/docker,True
 https://gitlab.factory.social.gouv.fr/SocialGouv/sre/k8s-ci,True
 https://gitlab.factory.social.gouv.fr/SocialGouv/sre/runners-bench,True
 https://gitlab.factory.social.gouv.fr/SocialGouv/sre/simple-project,False
