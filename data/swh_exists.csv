@@ -532,7 +532,7 @@ https://forgemia.inra.fr/scales/differential-analysis-of-trees,True
 https://forgemia.inra.fr/sciproject/managesciproject,True
 https://forgemia.inra.fr/seqoccin/GenomOrder,True
 https://forgemia.inra.fr/seqoccin/axis3-metagenomics-amplicon,True
-https://forgemia.inra.fr/seqoccin/metagwgs,False
+https://forgemia.inra.fr/seqoccin/metagwgs,True
 https://forgemia.inra.fr/singularity/bcftools_v1.10.2,True
 https://forgemia.inra.fr/singularity/test,True
 https://forgemia.inra.fr/siriusquality/sqcode/Release,True
@@ -2748,6 +2748,7 @@ https://github.com/SocialGouv/contributions-data,True
 https://github.com/SocialGouv/conventions-collectives,True
 https://github.com/SocialGouv/cors-anywhere,True
 https://github.com/SocialGouv/covid,True
+https://github.com/SocialGouv/covid-counter,False
 https://github.com/SocialGouv/covid19-orientation,True
 https://github.com/SocialGouv/covid19-tests-schemas,True
 https://github.com/SocialGouv/ctdn-api,False
@@ -8244,7 +8245,7 @@ https://gitlab.inria.fr/siteadmin/gitlab_import_ildap_group_members,True
 https://gitlab.inria.fr/siteadmin/pages-example,True
 https://gitlab.inria.fr/siteadmin/publictest,True
 https://gitlab.inria.fr/skeletons/Coq,True
-https://gitlab.inria.fr/skeletons/asm-in-skel,False
+https://gitlab.inria.fr/skeletons/asm-in-skel,True
 https://gitlab.inria.fr/skeletons/jskel,True
 https://gitlab.inria.fr/skeletons/ndam,True
 https://gitlab.inria.fr/skeletons/necro,True
