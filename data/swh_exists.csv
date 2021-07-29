@@ -483,6 +483,7 @@ https://forgemia.inra.fr/metexplore/tutorialmet4j,True
 https://forgemia.inra.fr/migale/affiliationexplorer,True
 https://forgemia.inra.fr/migale/dubii_magali_monnoye,True
 https://forgemia.inra.fr/migale/formations,True
+https://forgemia.inra.fr/migale/service-analyse-text-mining,False
 https://forgemia.inra.fr/most/ib-rs,True
 https://forgemia.inra.fr/mychoice/documentation,False
 https://forgemia.inra.fr/olivier.bonnefon/mse,True
@@ -5660,6 +5661,8 @@ https://github.com/ocaml/setup-ocaml,True
 https://github.com/ocaml/stdlib-shims,True
 https://github.com/ocaml/tuareg,True
 https://github.com/ocaml/uchar,True
+https://github.com/ocaml/v3.ocaml.org,False
+https://github.com/ocaml/v3.ocaml.org-server,False
 https://github.com/ocaml/vim-ocaml,True
 https://github.com/opendatateam/ansible-udata,True
 https://github.com/opendatateam/cookiecutter-udata-harvester,True
@@ -6601,6 +6604,14 @@ https://gitlab.factory.social.gouv.fr/SocialGouv/cdtn-admin,True
 https://gitlab.factory.social.gouv.fr/SocialGouv/cdtn-api,True
 https://gitlab.factory.social.gouv.fr/SocialGouv/cdtn-contrib,True
 https://gitlab.factory.social.gouv.fr/SocialGouv/cdtn-monolog,False
+https://gitlab.factory.social.gouv.fr/SocialGouv/cdtn/cdtn-admin,False
+https://gitlab.factory.social.gouv.fr/SocialGouv/cdtn/cdtn-api,False
+https://gitlab.factory.social.gouv.fr/SocialGouv/cdtn/cdtn-monolog,False
+https://gitlab.factory.social.gouv.fr/SocialGouv/cdtn/code-du-travail-backoffice,False
+https://gitlab.factory.social.gouv.fr/SocialGouv/cdtn/code-du-travail-numerique,False
+https://gitlab.factory.social.gouv.fr/SocialGouv/cdtn/recherche-entreprises,False
+https://gitlab.factory.social.gouv.fr/SocialGouv/cdtn/serving-ml,False
+https://gitlab.factory.social.gouv.fr/SocialGouv/cdtn/siret2idcc,False
 https://gitlab.factory.social.gouv.fr/SocialGouv/code-du-travail-numerique,True
 https://gitlab.factory.social.gouv.fr/SocialGouv/contributions-data,False
 https://gitlab.factory.social.gouv.fr/SocialGouv/datafiller-data,True
@@ -6619,13 +6630,14 @@ https://gitlab.factory.social.gouv.fr/SocialGouv/medle,True
 https://gitlab.factory.social.gouv.fr/SocialGouv/monsuivipsy-site,True
 https://gitlab.factory.social.gouv.fr/SocialGouv/onvs,True
 https://gitlab.factory.social.gouv.fr/SocialGouv/ozensemble-site,True
+https://gitlab.factory.social.gouv.fr/SocialGouv/ozensemble/ozensemble-site,False
 https://gitlab.factory.social.gouv.fr/SocialGouv/sample-next-app/sample-next-app,True
 https://gitlab.factory.social.gouv.fr/SocialGouv/serving-ml,True
 https://gitlab.factory.social.gouv.fr/SocialGouv/sre/docker,True
 https://gitlab.factory.social.gouv.fr/SocialGouv/sre/k8s-ci,True
 https://gitlab.factory.social.gouv.fr/SocialGouv/sre/runners-bench,True
 https://gitlab.factory.social.gouv.fr/SocialGouv/sre/simple-project,False
-https://gitlab.factory.social.gouv.fr/SocialGouv/tumeplay/tumeplay,False
+https://gitlab.factory.social.gouv.fr/SocialGouv/tumeplay/tumeplay,True
 https://gitlab.factory.social.gouv.fr/SocialGouv/wif/work-in-france,True
 https://gitlab.factory.social.gouv.fr/SocialGouv/work-in-france,True
 https://gitlab.factory.social.gouv.fr/SocialGouv/work-in-france-backoffice,True
@@ -6852,6 +6864,7 @@ https://gitlab.inria.fr/InBio/Public/fwd_ad,True
 https://gitlab.inria.fr/InBio/Public/hydriver,True
 https://gitlab.inria.fr/InBio/Public/micromator,True
 https://gitlab.inria.fr/InBio/Public/reacsight,True
+https://gitlab.inria.fr/InBio/predicting-selection-effects,False
 https://gitlab.inria.fr/InBio/yeast-optogenetic-differentiation-automaton_yoda,False
 https://gitlab.inria.fr/KerA/examples/kera-e2clab-examples,True
 https://gitlab.inria.fr/KerA/examples/kera-flink-examples,True
@@ -8902,6 +8915,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/coriofoam/coriofoam,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/deformvis/insarviz,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/design_optimization/noload,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/design_optimization/noload_benchmarks_open,True
+https://gricad-gitlab.univ-grenoble-alpes.fr/districtmodeling/bayesian_archetypes,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/diu-eil/diu-eil-grenoble,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/diu-eil/sokoban,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/diu/test,True
