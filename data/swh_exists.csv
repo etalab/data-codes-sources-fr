@@ -1873,7 +1873,7 @@ https://github.com/INHAParis/georetif,True
 https://github.com/INHAParis/omeka-s-OCMI,True
 https://github.com/INHAParis/omeka-s-theme-DigitalMuret,True
 https://github.com/INHAParis/simpleFilter.js,True
-https://github.com/INHAParis/working_reconciliationwork_AGORHA-GPI,False
+https://github.com/INHAParis/working_reconciliationwork_AGORHA-GPI,True
 https://github.com/INRA/AU_metabo,True
 https://github.com/INRA/NMRProcFlow,True
 https://github.com/INRA/ODAM,True
@@ -2748,7 +2748,7 @@ https://github.com/SocialGouv/contributions-data,True
 https://github.com/SocialGouv/conventions-collectives,True
 https://github.com/SocialGouv/cors-anywhere,True
 https://github.com/SocialGouv/covid,True
-https://github.com/SocialGouv/covid-counter,False
+https://github.com/SocialGouv/covid-counter,True
 https://github.com/SocialGouv/covid19-orientation,True
 https://github.com/SocialGouv/covid19-tests-schemas,True
 https://github.com/SocialGouv/ctdn-api,False
@@ -4929,6 +4929,7 @@ https://github.com/incubateur-territoires/dokku-discourse,True
 https://github.com/incubateur-territoires/gridsome-source-graphql,True
 https://github.com/incubateur-territoires/incubateur-directus,True
 https://github.com/incubateur-territoires/incubateur-mattermost,True
+https://github.com/incubateur-territoires/incubateur-metabase,False
 https://github.com/incubateur-territoires/incubateur-strapi,True
 https://github.com/incubateur-territoires/incubateur.anct.gouv.fr,True
 https://github.com/incubateur-territoires/infrastructure,True
@@ -7998,7 +7999,7 @@ https://gitlab.inria.fr/mosaic/bvpy,True
 https://gitlab.inria.fr/mosaic/cellcomplex,True
 https://gitlab.inria.fr/mosaic/draco_stem,True
 https://gitlab.inria.fr/mosaic/mosaic-commons,True
-https://gitlab.inria.fr/mosaic/publications/cauliflower,False
+https://gitlab.inria.fr/mosaic/publications/cauliflower,True
 https://gitlab.inria.fr/mosaic/publications/lpy2pc,True
 https://gitlab.inria.fr/mosaic/publications/protoplast,True
 https://gitlab.inria.fr/mosaic/publications/sam_spaghetti,True
