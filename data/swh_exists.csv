@@ -2810,7 +2810,7 @@ https://github.com/SocialGouv/k8s,True
 https://github.com/SocialGouv/k8s-ci,True
 https://github.com/SocialGouv/kali-data,True
 https://github.com/SocialGouv/kaligator,True
-https://github.com/SocialGouv/keycloak-hasura-demo,False
+https://github.com/SocialGouv/keycloak-hasura-demo,True
 https://github.com/SocialGouv/kosko-charts,True
 https://github.com/SocialGouv/legi-data,True
 https://github.com/SocialGouv/legi-detect,True
@@ -6642,7 +6642,7 @@ https://gitlab.factory.social.gouv.fr/SocialGouv/tumeplay/tumeplay,True
 https://gitlab.factory.social.gouv.fr/SocialGouv/wif/work-in-france,True
 https://gitlab.factory.social.gouv.fr/SocialGouv/work-in-france,True
 https://gitlab.factory.social.gouv.fr/SocialGouv/work-in-france-backoffice,True
-https://gitlab.factory.social.gouv.fr/test-ops/docker-modsec-fluentd,False
+https://gitlab.factory.social.gouv.fr/test-ops/docker-modsec-fluentd,True
 https://gitlab.factory.social.gouv.fr/test-ops/standup,False
 https://gitlab.factory.social.gouv.fr/test-ops/tremplin,True
 https://gitlab.factory.social.gouv.fr/test-scaleway1/test-autodevops-pg,True
