@@ -4405,6 +4405,7 @@ https://github.com/etalab-ia/data_gouv_text,True
 https://github.com/etalab-ia/data_science_template,True
 https://github.com/etalab-ia/demo-piaf,True
 https://github.com/etalab-ia/doctr,True
+https://github.com/etalab-ia/explainable_api,False
 https://github.com/etalab-ia/florian_opendatascience,True
 https://github.com/etalab-ia/knowledge-base,True
 https://github.com/etalab-ia/mlflow-docker,True
@@ -6612,7 +6613,7 @@ https://gitlab.factory.social.gouv.fr/SocialGouv/cdtn/code-du-travail-backoffice
 https://gitlab.factory.social.gouv.fr/SocialGouv/cdtn/code-du-travail-numerique,False
 https://gitlab.factory.social.gouv.fr/SocialGouv/cdtn/recherche-entreprises,False
 https://gitlab.factory.social.gouv.fr/SocialGouv/cdtn/serving-ml,False
-https://gitlab.factory.social.gouv.fr/SocialGouv/cdtn/siret2idcc,False
+https://gitlab.factory.social.gouv.fr/SocialGouv/cdtn/siret2idcc,True
 https://gitlab.factory.social.gouv.fr/SocialGouv/code-du-travail-numerique,True
 https://gitlab.factory.social.gouv.fr/SocialGouv/contributions-data,False
 https://gitlab.factory.social.gouv.fr/SocialGouv/datafiller-data,True
