@@ -4233,7 +4233,7 @@ https://github.com/entrepreneur-interet-general/demo_metabase_postgres,True
 https://github.com/entrepreneur-interet-general/design-system,True
 https://github.com/entrepreneur-interet-general/dicoCodes,True
 https://github.com/entrepreneur-interet-general/dig,True
-https://github.com/entrepreneur-interet-general/django-dsfr,False
+https://github.com/entrepreneur-interet-general/django-dsfr,True
 https://github.com/entrepreneur-interet-general/django-francedata,True
 https://github.com/entrepreneur-interet-general/domen,True
 https://github.com/entrepreneur-interet-general/eig-link,True
@@ -5663,7 +5663,7 @@ https://github.com/ocaml/setup-ocaml,True
 https://github.com/ocaml/stdlib-shims,True
 https://github.com/ocaml/tuareg,True
 https://github.com/ocaml/uchar,True
-https://github.com/ocaml/v3.ocaml.org,False
+https://github.com/ocaml/v3.ocaml.org,True
 https://github.com/ocaml/v3.ocaml.org-server,False
 https://github.com/ocaml/vim-ocaml,True
 https://github.com/opendatateam/ansible-udata,True
@@ -6525,6 +6525,7 @@ https://gitlab.com/fabnum-minarm/igloo/helm-charts,True
 https://gitlab.com/fabnum-minarm/igloo/images/rust/cargo-component-rustfmt,True
 https://gitlab.com/fabnum-minarm/igloo/images/rust/cargo-sccache,True
 https://gitlab.com/fabnum-minarm/igloo/images/rust/common-dev-libraries,True
+https://gitlab.com/fabnum-minarm/igloo/images/tools/igloo-releaser,False
 https://gitlab.com/fabnum-minarm/igloo/images/tools/mdbook,True
 https://gitlab.com/fabnum-minarm/igloo/images/tools/pandoc,True
 https://gitlab.com/fabnum-minarm/igloo/terraform/main,True
@@ -6610,8 +6611,8 @@ https://gitlab.factory.social.gouv.fr/SocialGouv/cdtn/cdtn-admin,False
 https://gitlab.factory.social.gouv.fr/SocialGouv/cdtn/cdtn-api,False
 https://gitlab.factory.social.gouv.fr/SocialGouv/cdtn/cdtn-monolog,False
 https://gitlab.factory.social.gouv.fr/SocialGouv/cdtn/code-du-travail-backoffice,False
-https://gitlab.factory.social.gouv.fr/SocialGouv/cdtn/code-du-travail-numerique,False
-https://gitlab.factory.social.gouv.fr/SocialGouv/cdtn/recherche-entreprises,False
+https://gitlab.factory.social.gouv.fr/SocialGouv/cdtn/code-du-travail-numerique,True
+https://gitlab.factory.social.gouv.fr/SocialGouv/cdtn/recherche-entreprises,True
 https://gitlab.factory.social.gouv.fr/SocialGouv/cdtn/serving-ml,False
 https://gitlab.factory.social.gouv.fr/SocialGouv/cdtn/siret2idcc,True
 https://gitlab.factory.social.gouv.fr/SocialGouv/code-du-travail-numerique,True
