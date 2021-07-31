@@ -6607,7 +6607,7 @@ https://gitlab.factory.social.gouv.fr/SocialGouv/cdtn-admin,True
 https://gitlab.factory.social.gouv.fr/SocialGouv/cdtn-api,True
 https://gitlab.factory.social.gouv.fr/SocialGouv/cdtn-contrib,True
 https://gitlab.factory.social.gouv.fr/SocialGouv/cdtn-monolog,False
-https://gitlab.factory.social.gouv.fr/SocialGouv/cdtn/cdtn-admin,False
+https://gitlab.factory.social.gouv.fr/SocialGouv/cdtn/cdtn-admin,True
 https://gitlab.factory.social.gouv.fr/SocialGouv/cdtn/cdtn-api,True
 https://gitlab.factory.social.gouv.fr/SocialGouv/cdtn/cdtn-monolog,True
 https://gitlab.factory.social.gouv.fr/SocialGouv/cdtn/code-du-travail-backoffice,False
@@ -6866,6 +6866,7 @@ https://gitlab.inria.fr/InBio/Public/esbl-escape,True
 https://gitlab.inria.fr/InBio/Public/fwd_ad,True
 https://gitlab.inria.fr/InBio/Public/hydriver,True
 https://gitlab.inria.fr/InBio/Public/micromator,True
+https://gitlab.inria.fr/InBio/Public/predicting-selection-effects,False
 https://gitlab.inria.fr/InBio/Public/reacsight,True
 https://gitlab.inria.fr/InBio/predicting-selection-effects,False
 https://gitlab.inria.fr/InBio/yeast-optogenetic-differentiation-automaton_yoda,False
@@ -8363,7 +8364,7 @@ https://gitlab.inria.fr/thoth/python-spams,True
 https://gitlab.inria.fr/thoth/spams-devel,True
 https://gitlab.inria.fr/tnfs-alpha/alpha,True
 https://gitlab.inria.fr/tousanticovid-verif/certificate-conversion-backend,True
-https://gitlab.inria.fr/tousanticovid-verif/tousanticovid-verif-android,False
+https://gitlab.inria.fr/tousanticovid-verif/tousanticovid-verif-android,True
 https://gitlab.inria.fr/tousanticovid-verif/tousanticovid-verif-ios,True
 https://gitlab.inria.fr/traitor/traitor,True
 https://gitlab.inria.fr/tranus/QGIS_Tranus_Reports,True
@@ -8469,7 +8470,7 @@ https://gitlab.irstea.fr/diades/diades.atlas,True
 https://gitlab.irstea.fr/diades/test,True
 https://gitlab.irstea.fr/emax/bddfontblanche,True
 https://gitlab.irstea.fr/ext/insitu/trios,True
-https://gitlab.irstea.fr/geau-inondation/geau-utility,False
+https://gitlab.irstea.fr/geau-inondation/geau-utility,True
 https://gitlab.irstea.fr/geau-technical/geau-utility,True
 https://gitlab.irstea.fr/geopat/geopat,True
 https://gitlab.irstea.fr/hru-delin-dev/hru-delin,True
