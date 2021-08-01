@@ -4405,7 +4405,7 @@ https://github.com/etalab-ia/data_gouv_text,True
 https://github.com/etalab-ia/data_science_template,True
 https://github.com/etalab-ia/demo-piaf,True
 https://github.com/etalab-ia/doctr,True
-https://github.com/etalab-ia/explainable_api,False
+https://github.com/etalab-ia/explainable_api,True
 https://github.com/etalab-ia/florian_opendatascience,True
 https://github.com/etalab-ia/knowledge-base,True
 https://github.com/etalab-ia/mlflow-docker,True
@@ -7230,7 +7230,7 @@ https://gitlab.inria.fr/blare/test,True
 https://gitlab.inria.fr/bleuse/procset.py,True
 https://gitlab.inria.fr/bora-ucar/fast-matching,True
 https://gitlab.inria.fr/bora-ucar/karp--sipser-reduction,True
-https://gitlab.inria.fr/bora-ucar/karp-sipser-for-hypergraphs,False
+https://gitlab.inria.fr/bora-ucar/karp-sipser-for-hypergraphs,True
 https://gitlab.inria.fr/bora-ucar/libspmxv,True
 https://gitlab.inria.fr/bora-ucar/matchmaker,True
 https://gitlab.inria.fr/bptraffic/star-ips,True
@@ -8670,6 +8670,7 @@ https://gitub.u-bordeaux.fr/erias/amalgam,True
 https://gitub.u-bordeaux.fr/erias/fideo,True
 https://gitub.u-bordeaux.fr/erias/knowledge-warehouse/documentation,True
 https://gitub.u-bordeaux.fr/erias/knowledge-warehouse/wiki,True
+https://gitub.u-bordeaux.fr/erias/nlp/stringsubstitution,False
 https://gitub.u-bordeaux.fr/erias/oregano,True
 https://gitub.u-bordeaux.fr/erias/patient-covid19,True
 https://gitub.u-bordeaux.fr/innovation/act,True
