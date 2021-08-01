@@ -2628,7 +2628,7 @@ https://github.com/PnX-SI/gn_module_suivi_habitat_station,True
 https://github.com/PnX-SI/gn_module_suivi_habitat_territoire,True
 https://github.com/PnX-SI/gn_module_template,True
 https://github.com/PnX-SI/gn_module_validation,True
-https://github.com/PnX-SI/jsonschema_validator,False
+https://github.com/PnX-SI/jsonschema_validator,True
 https://github.com/PnX-SI/obs_occ,True
 https://github.com/PnX-SI/schema_randonnee,True
 https://github.com/PnX-SI/test_client_usershub_api,True
