@@ -6509,6 +6509,7 @@ https://gitlab.com/dreal-datalab/propre.ecln,True
 https://gitlab.com/dreal-datalab/rapport.irve,True
 https://gitlab.com/dreal-datalab/reseauchaleur,True
 https://gitlab.com/dreal-datalab/rrrpls,True
+https://gitlab.com/dreal-datalab/sgbd_conjoncture,False
 https://gitlab.com/dreal-datalab/sgbd_datamart,True
 https://gitlab.com/dreal-datalab/shinydreal,True
 https://gitlab.com/dreal-datalab/si_eau_pesticides,True
@@ -6644,7 +6645,7 @@ https://gitlab.factory.social.gouv.fr/SocialGouv/serving-ml,True
 https://gitlab.factory.social.gouv.fr/SocialGouv/sre/docker,True
 https://gitlab.factory.social.gouv.fr/SocialGouv/sre/k8s-ci,True
 https://gitlab.factory.social.gouv.fr/SocialGouv/sre/runners-bench,True
-https://gitlab.factory.social.gouv.fr/SocialGouv/sre/simple-project,False
+https://gitlab.factory.social.gouv.fr/SocialGouv/sre/simple-project,True
 https://gitlab.factory.social.gouv.fr/SocialGouv/tumeplay/tumeplay,True
 https://gitlab.factory.social.gouv.fr/SocialGouv/wif/work-in-france,True
 https://gitlab.factory.social.gouv.fr/SocialGouv/work-in-france,True
@@ -8487,6 +8488,7 @@ https://gitlab.irstea.fr/hydrotools_demosandprocessing/probability-of-having-k-f
 https://gitlab.irstea.fr/hydrotools_demosandprocessing/sample2gumbel,True
 https://gitlab.irstea.fr/in-wop/airGRiwrm,True
 https://gitlab.irstea.fr/in-wop/bnpe,True
+https://gitlab.irstea.fr/in-wop/hubeau,False
 https://gitlab.irstea.fr/in-wop/inwopusages,True
 https://gitlab.irstea.fr/in-wop/irmara,True
 https://gitlab.irstea.fr/in-wop/multivgest,True
