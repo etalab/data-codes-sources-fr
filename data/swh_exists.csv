@@ -2457,6 +2457,7 @@ https://github.com/MTES-MCT/secmar-data,True
 https://github.com/MTES-MCT/secmar-documentation,True
 https://github.com/MTES-MCT/sparte,True
 https://github.com/MTES-MCT/stats-action,True
+https://github.com/MTES-MCT/test_nicolas,False
 https://github.com/MTES-MCT/toolbox,True
 https://github.com/MTES-MCT/trackdechets,True
 https://github.com/MTES-MCT/trackdechets-backups,True
@@ -2836,6 +2837,7 @@ https://github.com/SocialGouv/monsuivipsy-landing,False
 https://github.com/SocialGouv/monsuivipsy-site,True
 https://github.com/SocialGouv/next-routes,True
 https://github.com/SocialGouv/nos1000jours-landing,True
+https://github.com/SocialGouv/nos1000jours-web-pro,True
 https://github.com/SocialGouv/nuclei-dashboard,True
 https://github.com/SocialGouv/onvs,True
 https://github.com/SocialGouv/owasp-dashboard,True
@@ -4959,6 +4961,7 @@ https://github.com/inrae/SISPPEO,True
 https://github.com/inrae/ShellScripts,True
 https://github.com/inrae/dbexportmodel,True
 https://github.com/inrae/diades.atlas,True
+https://github.com/inrae/dylaq_chimie_rshiny,False
 https://github.com/inrae/filo-docker,True
 https://github.com/inrae/filo-science,True
 https://github.com/inrae/jupyterhub-vm,True
@@ -5939,6 +5942,7 @@ https://github.com/pass-culture/pass-culture-web-analytics,True
 https://github.com/pass-culture/pc-maintenance,True
 https://github.com/pass-culture/pc-monitoring,True
 https://github.com/pass-culture/react-native-profiling,True
+https://github.com/pass-culture/redirections,True
 https://github.com/pass-culture/reverse-proxy,True
 https://github.com/pass-culture/telegraf-buildpack,True
 https://github.com/pass-culture/telegraf-scalingo,True
@@ -6558,6 +6562,7 @@ https://gitlab.com/healthdatahub/dico-snds-creation-archive,True
 https://gitlab.com/healthdatahub/documentation-snds,True
 https://gitlab.com/healthdatahub/formation/documentation-snds,True
 https://gitlab.com/healthdatahub/formation/exercices-snds,True
+https://gitlab.com/healthdatahub/hdhactions,True
 https://gitlab.com/healthdatahub/hdhstorage,True
 https://gitlab.com/healthdatahub/indexation-nomenclatures,True
 https://gitlab.com/healthdatahub/omop,True
@@ -6613,7 +6618,7 @@ https://gitlab.factory.social.gouv.fr/SocialGouv/cdtn/cdtn-monolog,True
 https://gitlab.factory.social.gouv.fr/SocialGouv/cdtn/code-du-travail-backoffice,True
 https://gitlab.factory.social.gouv.fr/SocialGouv/cdtn/code-du-travail-numerique,True
 https://gitlab.factory.social.gouv.fr/SocialGouv/cdtn/recherche-entreprises,True
-https://gitlab.factory.social.gouv.fr/SocialGouv/cdtn/serving-ml,False
+https://gitlab.factory.social.gouv.fr/SocialGouv/cdtn/serving-ml,True
 https://gitlab.factory.social.gouv.fr/SocialGouv/cdtn/siret2idcc,True
 https://gitlab.factory.social.gouv.fr/SocialGouv/code-du-travail-numerique,True
 https://gitlab.factory.social.gouv.fr/SocialGouv/contributions-data,True
@@ -6633,7 +6638,7 @@ https://gitlab.factory.social.gouv.fr/SocialGouv/medle,True
 https://gitlab.factory.social.gouv.fr/SocialGouv/monsuivipsy-site,True
 https://gitlab.factory.social.gouv.fr/SocialGouv/onvs,True
 https://gitlab.factory.social.gouv.fr/SocialGouv/ozensemble-site,True
-https://gitlab.factory.social.gouv.fr/SocialGouv/ozensemble/ozensemble-site,False
+https://gitlab.factory.social.gouv.fr/SocialGouv/ozensemble/ozensemble-site,True
 https://gitlab.factory.social.gouv.fr/SocialGouv/sample-next-app/sample-next-app,True
 https://gitlab.factory.social.gouv.fr/SocialGouv/serving-ml,True
 https://gitlab.factory.social.gouv.fr/SocialGouv/sre/docker,True
@@ -8208,6 +8213,7 @@ https://gitlab.inria.fr/selalib/selalib.gitlabpages.inria.fr,True
 https://gitlab.inria.fr/semagramme-public-projects/resources/french-fracas,True
 https://gitlab.inria.fr/sequoia/deep-sequoia,True
 https://gitlab.inria.fr/serpico/3d-flow-assessment,True
+https://gitlab.inria.fr/serpico/airyscanj,False
 https://gitlab.inria.fr/serpico/airyscanj_bin,True
 https://gitlab.inria.fr/serpico/atlas,True
 https://gitlab.inria.fr/serpico/cimgdenoising,True
@@ -8671,6 +8677,7 @@ https://gitub.u-bordeaux.fr/erias/fideo,True
 https://gitub.u-bordeaux.fr/erias/knowledge-warehouse/documentation,True
 https://gitub.u-bordeaux.fr/erias/knowledge-warehouse/wiki,True
 https://gitub.u-bordeaux.fr/erias/nlp/stringsubstitution,True
+https://gitub.u-bordeaux.fr/erias/nlp/substitutionstring,False
 https://gitub.u-bordeaux.fr/erias/oregano,True
 https://gitub.u-bordeaux.fr/erias/patient-covid19,True
 https://gitub.u-bordeaux.fr/innovation/act,True
