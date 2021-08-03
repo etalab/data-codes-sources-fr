@@ -2392,6 +2392,7 @@ https://github.com/MTES-MCT/data-preparation-plugin,True
 https://github.com/MTES-MCT/dataqual,True
 https://github.com/MTES-MCT/dataroom,True
 https://github.com/MTES-MCT/dependabotalerts-action,True
+https://github.com/MTES-MCT/didoscalie,False
 https://github.com/MTES-MCT/dtlk-api,True
 https://github.com/MTES-MCT/dtlk-ihm-alimentation,True
 https://github.com/MTES-MCT/ecophyto,True
@@ -6530,7 +6531,7 @@ https://gitlab.com/fabnum-minarm/igloo/helm-charts,True
 https://gitlab.com/fabnum-minarm/igloo/images/rust/cargo-component-rustfmt,True
 https://gitlab.com/fabnum-minarm/igloo/images/rust/cargo-sccache,True
 https://gitlab.com/fabnum-minarm/igloo/images/rust/common-dev-libraries,True
-https://gitlab.com/fabnum-minarm/igloo/images/tools/igloo-releaser,False
+https://gitlab.com/fabnum-minarm/igloo/images/tools/igloo-releaser,True
 https://gitlab.com/fabnum-minarm/igloo/images/tools/mdbook,True
 https://gitlab.com/fabnum-minarm/igloo/images/tools/pandoc,True
 https://gitlab.com/fabnum-minarm/igloo/terraform/main,True
