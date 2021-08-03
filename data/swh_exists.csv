@@ -2458,7 +2458,7 @@ https://github.com/MTES-MCT/secmar-data,True
 https://github.com/MTES-MCT/secmar-documentation,True
 https://github.com/MTES-MCT/sparte,True
 https://github.com/MTES-MCT/stats-action,True
-https://github.com/MTES-MCT/test_nicolas,False
+https://github.com/MTES-MCT/test_nicolas,True
 https://github.com/MTES-MCT/toolbox,True
 https://github.com/MTES-MCT/trackdechets,True
 https://github.com/MTES-MCT/trackdechets-backups,True
@@ -7803,6 +7803,7 @@ https://gitlab.inria.fr/gt-sw-citation/bibtex-sw-entry,True
 https://gitlab.inria.fr/gtpi/inria_skin,True
 https://gitlab.inria.fr/guix-hpc/cuirass-configuration,True
 https://gitlab.inria.fr/guix-hpc/function-multi-versioning,True
+https://gitlab.inria.fr/guix-hpc/guix-benchmarking,False
 https://gitlab.inria.fr/guix-hpc/guix-hpc,True
 https://gitlab.inria.fr/guix-hpc/guix-hpc-non-free,True
 https://gitlab.inria.fr/guix-hpc/guix-kernel,True
