@@ -3160,6 +3160,7 @@ https://github.com/ambanum/server-config,True
 https://github.com/ambanum/snscrape,True
 https://github.com/ambanum/social-network-graph-generator,True
 https://github.com/ambanum/social-networks-bot-finder,True
+https://github.com/ambanum/test-repo,False
 https://github.com/ambanum/twint,True
 https://github.com/ansforge/DesignSystem,True
 https://github.com/ansforge/ModelisationFHIRdesacteursdesante,True
@@ -4935,7 +4936,7 @@ https://github.com/incubateur-territoires/dokku-discourse,True
 https://github.com/incubateur-territoires/gridsome-source-graphql,True
 https://github.com/incubateur-territoires/incubateur-directus,True
 https://github.com/incubateur-territoires/incubateur-mattermost,True
-https://github.com/incubateur-territoires/incubateur-metabase,False
+https://github.com/incubateur-territoires/incubateur-metabase,True
 https://github.com/incubateur-territoires/incubateur-strapi,True
 https://github.com/incubateur-territoires/incubateur.anct.gouv.fr,True
 https://github.com/incubateur-territoires/infrastructure,True
