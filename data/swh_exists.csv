@@ -3446,6 +3446,7 @@ https://github.com/betagouv/impact-tests,True
 https://github.com/betagouv/indice_pollution,True
 https://github.com/betagouv/itou,True
 https://github.com/betagouv/itou-bitoubi,True
+https://github.com/betagouv/itou-c4-tracker,False
 https://github.com/betagouv/itou-cocorico,True
 https://github.com/betagouv/itou-consultation,True
 https://github.com/betagouv/itou-discourse,True
@@ -6512,7 +6513,7 @@ https://gitlab.com/dreal-datalab/propre.ecln,True
 https://gitlab.com/dreal-datalab/rapport.irve,True
 https://gitlab.com/dreal-datalab/reseauchaleur,True
 https://gitlab.com/dreal-datalab/rrrpls,True
-https://gitlab.com/dreal-datalab/sgbd_conjoncture,False
+https://gitlab.com/dreal-datalab/sgbd_conjoncture,True
 https://gitlab.com/dreal-datalab/sgbd_datamart,True
 https://gitlab.com/dreal-datalab/shinydreal,True
 https://gitlab.com/dreal-datalab/si_eau_pesticides,True
@@ -6612,6 +6613,9 @@ https://gitlab.factory.social.gouv.fr/SocialGouv/1000jours/les1000jours-landing,
 https://gitlab.factory.social.gouv.fr/SocialGouv/archifiltre,True
 https://gitlab.factory.social.gouv.fr/SocialGouv/archifiltre-site,True
 https://gitlab.factory.social.gouv.fr/SocialGouv/archifiltre-statistics,True
+https://gitlab.factory.social.gouv.fr/SocialGouv/archifiltre/archifiltre,False
+https://gitlab.factory.social.gouv.fr/SocialGouv/archifiltre/archifiltre-site,False
+https://gitlab.factory.social.gouv.fr/SocialGouv/archifiltre/archifiltre-statistics,False
 https://gitlab.factory.social.gouv.fr/SocialGouv/board,True
 https://gitlab.factory.social.gouv.fr/SocialGouv/cdtn-admin,True
 https://gitlab.factory.social.gouv.fr/SocialGouv/cdtn-api,True
