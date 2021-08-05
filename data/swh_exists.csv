@@ -269,6 +269,7 @@ https://forgemia.inra.fr/cirad--monde-apres/teletravail,True
 https://forgemia.inra.fr/couplimspec/couplimspec,True
 https://forgemia.inra.fr/couplimspec/couplimspec_20150113,True
 https://forgemia.inra.fr/couplimspec/hyiam,True
+https://forgemia.inra.fr/dipso/bridge-datainrae-nextcloud,False
 https://forgemia.inra.fr/dipso/kubespray,True
 https://forgemia.inra.fr/enseignement-mistea/reports-with-markdown,True
 https://forgemia.inra.fr/epgv/nlgenomesweeper,True
@@ -2392,7 +2393,7 @@ https://github.com/MTES-MCT/data-preparation-plugin,True
 https://github.com/MTES-MCT/dataqual,True
 https://github.com/MTES-MCT/dataroom,True
 https://github.com/MTES-MCT/dependabotalerts-action,True
-https://github.com/MTES-MCT/didoscalie,False
+https://github.com/MTES-MCT/didoscalie,True
 https://github.com/MTES-MCT/dtlk-api,True
 https://github.com/MTES-MCT/dtlk-ihm-alimentation,True
 https://github.com/MTES-MCT/ecophyto,True
@@ -6554,6 +6555,7 @@ https://gitlab.com/fabnum-minarm/igloo/terraform/projects/sepia,True
 https://gitlab.com/fabnum-minarm/metiis/backend,True
 https://gitlab.com/fabnum-minarm/metiis/frontend,True
 https://gitlab.com/fabnum-minarm/stargate/backend,True
+https://gitlab.com/fabnum-minarm/stargate/docs,True
 https://gitlab.com/fabnum-minarm/stargate/frontend,True
 https://gitlab.com/fabnum-minarm/stargate/stargate,True
 https://gitlab.com/france-mobilites/documents-marches-publics,True
@@ -8217,7 +8219,7 @@ https://gitlab.inria.fr/selalib/selalib.gitlabpages.inria.fr,True
 https://gitlab.inria.fr/semagramme-public-projects/resources/french-fracas,True
 https://gitlab.inria.fr/sequoia/deep-sequoia,True
 https://gitlab.inria.fr/serpico/3d-flow-assessment,True
-https://gitlab.inria.fr/serpico/airyscanj,False
+https://gitlab.inria.fr/serpico/airyscanj,True
 https://gitlab.inria.fr/serpico/airyscanj_bin,True
 https://gitlab.inria.fr/serpico/atlas,True
 https://gitlab.inria.fr/serpico/cimgdenoising,True
@@ -9078,6 +9080,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/pedagogies-multimodales/panneaux-de
 https://gricad-gitlab.univ-grenoble-alpes.fr/pedagogies-multimodales/phon2graph,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/pedagogies-multimodales/phonodrop,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/pedagogies-multimodales/phonographe,True
+https://gricad-gitlab.univ-grenoble-alpes.fr/pedagogies-multimodales/prosophone,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/pedagogies-multimodales/transfo-phono,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/pedagogies-multimodales/wikicolor,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/pedagogies-multimodales/wikiphon,True
@@ -9281,6 +9284,7 @@ https://plmlab.math.cnrs.fr/imt/acces_backup,True
 https://plmlab.math.cnrs.fr/imt/ansible_deploy_nfs,True
 https://plmlab.math.cnrs.fr/imt/fragma/fragma-on-amqp,True
 https://plmlab.math.cnrs.fr/imt/fragma/plm-oidc-authentification,True
+https://plmlab.math.cnrs.fr/imt/nixos-nginx-openid,False
 https://plmlab.math.cnrs.fr/imt/plmbox_restore,True
 https://plmlab.math.cnrs.fr/imt/puppet/gitlab_deploy_key,True
 https://plmlab.math.cnrs.fr/imt/puppet/kerberos_module,True
