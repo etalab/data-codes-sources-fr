@@ -6613,7 +6613,7 @@ https://gitlab.factory.social.gouv.fr/SocialGouv/1000jours/les1000jours-landing,
 https://gitlab.factory.social.gouv.fr/SocialGouv/archifiltre,True
 https://gitlab.factory.social.gouv.fr/SocialGouv/archifiltre-site,True
 https://gitlab.factory.social.gouv.fr/SocialGouv/archifiltre-statistics,True
-https://gitlab.factory.social.gouv.fr/SocialGouv/archifiltre/archifiltre,False
+https://gitlab.factory.social.gouv.fr/SocialGouv/archifiltre/archifiltre,True
 https://gitlab.factory.social.gouv.fr/SocialGouv/archifiltre/archifiltre-site,False
 https://gitlab.factory.social.gouv.fr/SocialGouv/archifiltre/archifiltre-statistics,False
 https://gitlab.factory.social.gouv.fr/SocialGouv/board,True
@@ -8689,7 +8689,7 @@ https://gitub.u-bordeaux.fr/erias/fideo,True
 https://gitub.u-bordeaux.fr/erias/knowledge-warehouse/documentation,True
 https://gitub.u-bordeaux.fr/erias/knowledge-warehouse/wiki,True
 https://gitub.u-bordeaux.fr/erias/nlp/stringsubstitution,True
-https://gitub.u-bordeaux.fr/erias/nlp/substitutionstring,False
+https://gitub.u-bordeaux.fr/erias/nlp/substitutionstring,True
 https://gitub.u-bordeaux.fr/erias/oregano,True
 https://gitub.u-bordeaux.fr/erias/patient-covid19,True
 https://gitub.u-bordeaux.fr/innovation/act,True
