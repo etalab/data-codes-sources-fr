@@ -3013,6 +3013,7 @@ https://github.com/X-DataInitiative/tick-datasets,True
 https://github.com/X-DataInitiative/tick_appveyor,True
 https://github.com/X-DataInitiative/tick_archive,True
 https://github.com/abes-esr/LnEvent,True
+https://github.com/abes-esr/abes-filebeat-docker,False
 https://github.com/abes-esr/abes-format-pivot,True
 https://github.com/abes-esr/abes-hello,True
 https://github.com/abes-esr/abes-hello-back,True
