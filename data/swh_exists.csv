@@ -4969,6 +4969,7 @@ https://github.com/inrae/diades.atlas,True
 https://github.com/inrae/dylaq_chimie_rshiny,True
 https://github.com/inrae/filo-docker,True
 https://github.com/inrae/filo-science,True
+https://github.com/inrae/hubeau,False
 https://github.com/inrae/jupyterhub-vm,True
 https://github.com/inrae/magest,True
 https://github.com/istex/GitManager,True
@@ -6638,6 +6639,7 @@ https://gitlab.factory.social.gouv.fr/SocialGouv/domifa/domifa,True
 https://gitlab.factory.social.gouv.fr/SocialGouv/ds-aggregator,True
 https://gitlab.factory.social.gouv.fr/SocialGouv/egapro,True
 https://gitlab.factory.social.gouv.fr/SocialGouv/egapro-api,True
+https://gitlab.factory.social.gouv.fr/SocialGouv/egapro/egapro,False
 https://gitlab.factory.social.gouv.fr/SocialGouv/emjpm-editor-app,True
 https://gitlab.factory.social.gouv.fr/SocialGouv/emjpm-portail,True
 https://gitlab.factory.social.gouv.fr/SocialGouv/fabrique/carnets,True
