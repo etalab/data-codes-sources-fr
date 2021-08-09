@@ -4003,6 +4003,7 @@ https://github.com/dataesr/matcher,True
 https://github.com/dataesr/onedrive,True
 https://github.com/dataesr/paysage-openapi,True
 https://github.com/dataesr/react-dsfr,True
+https://github.com/dataesr/realtime-dashboard,False
 https://github.com/dataesr/scanr,True
 https://github.com/dataesr/scanr-end2end,True
 https://github.com/dataesr/scientific_tagger,True
@@ -8946,7 +8947,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/coriofoam/coriofoam,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/deformvis/insarviz,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/design_optimization/noload,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/design_optimization/noload_benchmarks_open,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/districtmodeling/bayesian_archetypes,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/districtmodeling/bayesian_archetypes,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/diu-eil/diu-eil-grenoble,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/diu-eil/sokoban,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/diu/test,True
@@ -9287,6 +9288,8 @@ https://plmlab.math.cnrs.fr/icinga-plugins/remote-df,True
 https://plmlab.math.cnrs.fr/icinga-plugins/remote-grep,True
 https://plmlab.math.cnrs.fr/icinga-plugins/timesync,True
 https://plmlab.math.cnrs.fr/ihp/logo,True
+https://plmlab.math.cnrs.fr/illustrating-math/im-website,False
+https://plmlab.math.cnrs.fr/illustrating-math/im-website-custom,False
 https://plmlab.math.cnrs.fr/illustrating-math/sphere_morph,True
 https://plmlab.math.cnrs.fr/illustrating-math/website,False
 https://plmlab.math.cnrs.fr/illustrating-math/wordpress,False
