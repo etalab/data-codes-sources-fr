@@ -270,7 +270,7 @@ https://forgemia.inra.fr/cirad--monde-apres/teletravail,True
 https://forgemia.inra.fr/couplimspec/couplimspec,True
 https://forgemia.inra.fr/couplimspec/couplimspec_20150113,True
 https://forgemia.inra.fr/couplimspec/hyiam,True
-https://forgemia.inra.fr/dipso/bridge-datainrae-nextcloud,False
+https://forgemia.inra.fr/dipso/bridge-datainrae-nextcloud,True
 https://forgemia.inra.fr/dipso/kubespray,True
 https://forgemia.inra.fr/enseignement-mistea/reports-with-markdown,True
 https://forgemia.inra.fr/epgv/nlgenomesweeper,True
@@ -3451,7 +3451,7 @@ https://github.com/betagouv/impact-tests,True
 https://github.com/betagouv/indice_pollution,True
 https://github.com/betagouv/itou,True
 https://github.com/betagouv/itou-bitoubi,True
-https://github.com/betagouv/itou-c4-tracker,False
+https://github.com/betagouv/itou-c4-tracker,True
 https://github.com/betagouv/itou-cocorico,True
 https://github.com/betagouv/itou-consultation,True
 https://github.com/betagouv/itou-discourse,True
@@ -4974,7 +4974,7 @@ https://github.com/inrae/diades.atlas,True
 https://github.com/inrae/dylaq_chimie_rshiny,True
 https://github.com/inrae/filo-docker,True
 https://github.com/inrae/filo-science,True
-https://github.com/inrae/hubeau,False
+https://github.com/inrae/hubeau,True
 https://github.com/inrae/jupyterhub-vm,True
 https://github.com/inrae/magest,True
 https://github.com/istex/GitManager,True
