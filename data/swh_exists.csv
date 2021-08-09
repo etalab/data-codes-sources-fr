@@ -200,6 +200,7 @@ https://forge.univ-lyon1.fr/lifprojet/lifprojet_am3,True
 https://forge.univ-lyon1.fr/loup-garouptut/loupandroid,True
 https://forge.univ-lyon1.fr/lpt-soft/lifprojet-lpto,True
 https://forge.univ-lyon1.fr/m1-grp26/impact-pollution-mortalite,True
+https://forge.univ-lyon1.fr/m1if10-projet-transversal/m1if10-projet-transversal-2020,False
 https://forge.univ-lyon1.fr/m1if13/m1if13-2019,True
 https://forge.univ-lyon1.fr/m1if13/m1if13-2020,True
 https://forge.univ-lyon1.fr/m1if13/m1if13-2021,True
@@ -2240,6 +2241,7 @@ https://github.com/InseeFrLab/rstudio-gpu,True
 https://github.com/InseeFrLab/simple-default-backend,True
 https://github.com/InseeFrLab/spark,True
 https://github.com/InseeFrLab/spark-hadoop,True
+https://github.com/InseeFrLab/sspcloud,False
 https://github.com/InseeFrLab/sugoi-api,True
 https://github.com/InseeFrLab/sugoi-ui,True
 https://github.com/InseeFrLab/tensorflow,True
@@ -2345,6 +2347,7 @@ https://github.com/MLanguage/language-m-dgfip,True
 https://github.com/MLanguage/mlang,True
 https://github.com/MTES-MCT/Dossier-Facile-API,True
 https://github.com/MTES-MCT/Dossier-Facile-Frontend,True
+https://github.com/MTES-MCT/Localiser_Parcelle_Adresse_BAN,False
 https://github.com/MTES-MCT/acceslibre,True
 https://github.com/MTES-MCT/acceslibre-schema,True
 https://github.com/MTES-MCT/access4all,True
@@ -3162,6 +3165,7 @@ https://github.com/ambanum/server-config,True
 https://github.com/ambanum/snscrape,True
 https://github.com/ambanum/social-network-graph-generator,True
 https://github.com/ambanum/social-networks-bot-finder,True
+https://github.com/ambanum/social-networks-graph-generator,False
 https://github.com/ambanum/test-repo,True
 https://github.com/ambanum/twint,True
 https://github.com/ansforge/DesignSystem,True
@@ -9284,6 +9288,8 @@ https://plmlab.math.cnrs.fr/icinga-plugins/remote-grep,True
 https://plmlab.math.cnrs.fr/icinga-plugins/timesync,True
 https://plmlab.math.cnrs.fr/ihp/logo,True
 https://plmlab.math.cnrs.fr/illustrating-math/sphere_morph,True
+https://plmlab.math.cnrs.fr/illustrating-math/website,False
+https://plmlab.math.cnrs.fr/illustrating-math/wordpress,False
 https://plmlab.math.cnrs.fr/imb-dijon/faq,True
 https://plmlab.math.cnrs.fr/imb-dijon/infocom,True
 https://plmlab.math.cnrs.fr/imb-public/anr-template,True
