@@ -3019,7 +3019,7 @@ https://github.com/X-DataInitiative/tick-datasets,True
 https://github.com/X-DataInitiative/tick_appveyor,True
 https://github.com/X-DataInitiative/tick_archive,True
 https://github.com/abes-esr/LnEvent,True
-https://github.com/abes-esr/abes-filebeat-docker,False
+https://github.com/abes-esr/abes-filebeat-docker,True
 https://github.com/abes-esr/abes-format-pivot,True
 https://github.com/abes-esr/abes-hello,True
 https://github.com/abes-esr/abes-hello-back,True
@@ -7872,6 +7872,7 @@ https://gitlab.inria.fr/kairos/gemocbackends/xtextanimationbackendforgemoc,True
 https://gitlab.inria.fr/kaldi.web/clapack-wasm,True
 https://gitlab.inria.fr/kaldi.web/kaldi-wasm,True
 https://gitlab.inria.fr/kameleon/kameleon-recipes,True
+https://gitlab.inria.fr/kinect/nite,False
 https://gitlab.inria.fr/kirikomics/hglib,True
 https://gitlab.inria.fr/knem/knem,True
 https://gitlab.inria.fr/kstar/clang-omp,True
