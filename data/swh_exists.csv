@@ -4008,7 +4008,7 @@ https://github.com/dataesr/matcher,True
 https://github.com/dataesr/onedrive,True
 https://github.com/dataesr/paysage-openapi,True
 https://github.com/dataesr/react-dsfr,True
-https://github.com/dataesr/realtime-dashboard,False
+https://github.com/dataesr/realtime-dashboard,True
 https://github.com/dataesr/scanr,True
 https://github.com/dataesr/scanr-end2end,True
 https://github.com/dataesr/scientific_tagger,True
@@ -6675,7 +6675,7 @@ https://gitlab.factory.social.gouv.fr/SocialGouv/wif/work-in-france,True
 https://gitlab.factory.social.gouv.fr/SocialGouv/work-in-france,True
 https://gitlab.factory.social.gouv.fr/SocialGouv/work-in-france-backoffice,True
 https://gitlab.factory.social.gouv.fr/test-ops/docker-modsec-fluentd,True
-https://gitlab.factory.social.gouv.fr/test-ops/standup,False
+https://gitlab.factory.social.gouv.fr/test-ops/standup,True
 https://gitlab.factory.social.gouv.fr/test-ops/tremplin,True
 https://gitlab.factory.social.gouv.fr/test-scaleway1/test-autodevops-pg,True
 https://gitlab.huma-num.fr/atelier-donnees/depot,True
