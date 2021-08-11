@@ -200,7 +200,7 @@ https://forge.univ-lyon1.fr/lifprojet/lifprojet_am3,True
 https://forge.univ-lyon1.fr/loup-garouptut/loupandroid,True
 https://forge.univ-lyon1.fr/lpt-soft/lifprojet-lpto,True
 https://forge.univ-lyon1.fr/m1-grp26/impact-pollution-mortalite,True
-https://forge.univ-lyon1.fr/m1if10-projet-transversal/m1if10-projet-transversal-2020,False
+https://forge.univ-lyon1.fr/m1if10-projet-transversal/m1if10-projet-transversal-2020,True
 https://forge.univ-lyon1.fr/m1if13/m1if13-2019,True
 https://forge.univ-lyon1.fr/m1if13/m1if13-2020,True
 https://forge.univ-lyon1.fr/m1if13/m1if13-2021,True
@@ -3168,7 +3168,7 @@ https://github.com/ambanum/server-config,True
 https://github.com/ambanum/snscrape,True
 https://github.com/ambanum/social-network-graph-generator,True
 https://github.com/ambanum/social-networks-bot-finder,True
-https://github.com/ambanum/social-networks-graph-generator,False
+https://github.com/ambanum/social-networks-graph-generator,True
 https://github.com/ambanum/test-repo,True
 https://github.com/ambanum/twint,True
 https://github.com/ansforge/DesignSystem,True
@@ -9296,8 +9296,8 @@ https://plmlab.math.cnrs.fr/icinga-plugins/remote-df,True
 https://plmlab.math.cnrs.fr/icinga-plugins/remote-grep,True
 https://plmlab.math.cnrs.fr/icinga-plugins/timesync,True
 https://plmlab.math.cnrs.fr/ihp/logo,True
-https://plmlab.math.cnrs.fr/illustrating-math/im-website,False
-https://plmlab.math.cnrs.fr/illustrating-math/im-website-custom,False
+https://plmlab.math.cnrs.fr/illustrating-math/im-website,True
+https://plmlab.math.cnrs.fr/illustrating-math/im-website-custom,True
 https://plmlab.math.cnrs.fr/illustrating-math/sphere_morph,True
 https://plmlab.math.cnrs.fr/illustrating-math/website,False
 https://plmlab.math.cnrs.fr/illustrating-math/wordpress,False
@@ -9399,6 +9399,7 @@ https://plmlab.math.cnrs.fr/plmshift/oauth-proxy,True
 https://plmlab.math.cnrs.fr/plmshift/odh-manifests-for-plm,True
 https://plmlab.math.cnrs.fr/plmshift/opendatahub/julia-jupyter-notebooks-with-cuda,True
 https://plmlab.math.cnrs.fr/plmshift/opendatahub/jupyter-notebooks,True
+https://plmlab.math.cnrs.fr/plmshift/opendatahub/manin-notebook,False
 https://plmlab.math.cnrs.fr/plmshift/opendatahub/odh-manifests-for-plm,True
 https://plmlab.math.cnrs.fr/plmshift/opendatahub/s2i-base-container,True
 https://plmlab.math.cnrs.fr/plmshift/opendatahub/s2i-pytorch-notebook,True
