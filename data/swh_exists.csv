@@ -2852,7 +2852,7 @@ https://github.com/SocialGouv/ozensemble,True
 https://github.com/SocialGouv/ozensemble-site,True
 https://github.com/SocialGouv/pass-emploi-api,True
 https://github.com/SocialGouv/pass-emploi-app,False
-https://github.com/SocialGouv/pass-emploi-web,False
+https://github.com/SocialGouv/pass-emploi-web,True
 https://github.com/SocialGouv/pass_emploi_app,True
 https://github.com/SocialGouv/pep,True
 https://github.com/SocialGouv/plops-monde,True
@@ -3289,7 +3289,7 @@ https://github.com/betagouv/api-auth,True
 https://github.com/betagouv/api-caf,True
 https://github.com/betagouv/api-cpa,True
 https://github.com/betagouv/api-diagoriente-v5,True
-https://github.com/betagouv/api-diagoriente-v6,False
+https://github.com/betagouv/api-diagoriente-v6,True
 https://github.com/betagouv/api-domaines,True
 https://github.com/betagouv/api-drones,True
 https://github.com/betagouv/api-engagement,True
@@ -3302,6 +3302,7 @@ https://github.com/betagouv/api-particulier-auth-deprecated,True
 https://github.com/betagouv/api-particulier-demo,True
 https://github.com/betagouv/api-particulier-demo-traces,True
 https://github.com/betagouv/api-particulier-deprecated,True
+https://github.com/betagouv/api-particulier-legacy,False
 https://github.com/betagouv/api-particulier-legacy-token-feeder,True
 https://github.com/betagouv/api-particulier-lib,True
 https://github.com/betagouv/api-particulier-mesri-connector,True
