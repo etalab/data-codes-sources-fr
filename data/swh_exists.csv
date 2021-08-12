@@ -2852,6 +2852,7 @@ https://github.com/SocialGouv/ozensemble,True
 https://github.com/SocialGouv/ozensemble-site,True
 https://github.com/SocialGouv/pass-emploi-api,True
 https://github.com/SocialGouv/pass-emploi-app,False
+https://github.com/SocialGouv/pass-emploi-web,False
 https://github.com/SocialGouv/pass_emploi_app,True
 https://github.com/SocialGouv/pep,True
 https://github.com/SocialGouv/plops-monde,True
@@ -5946,7 +5947,7 @@ https://github.com/pass-culture/kibana-scalingo,True
 https://github.com/pass-culture/logstash,True
 https://github.com/pass-culture/mailjet-apiv3-python,True
 https://github.com/pass-culture/metabase-scalingo,True
-https://github.com/pass-culture/pass-culture-adage-front,False
+https://github.com/pass-culture/pass-culture-adage-front,True
 https://github.com/pass-culture/pass-culture-api,True
 https://github.com/pass-culture/pass-culture-app-native,True
 https://github.com/pass-culture/pass-culture-beneficiary-android-app,True
@@ -7872,7 +7873,7 @@ https://gitlab.inria.fr/kairos/gemocbackends/xtextanimationbackendforgemoc,True
 https://gitlab.inria.fr/kaldi.web/clapack-wasm,True
 https://gitlab.inria.fr/kaldi.web/kaldi-wasm,True
 https://gitlab.inria.fr/kameleon/kameleon-recipes,True
-https://gitlab.inria.fr/kinect/nite,False
+https://gitlab.inria.fr/kinect/nite,True
 https://gitlab.inria.fr/kirikomics/hglib,True
 https://gitlab.inria.fr/knem/knem,True
 https://gitlab.inria.fr/kstar/clang-omp,True
@@ -9309,7 +9310,7 @@ https://plmlab.math.cnrs.fr/imt/acces_backup,True
 https://plmlab.math.cnrs.fr/imt/ansible_deploy_nfs,True
 https://plmlab.math.cnrs.fr/imt/fragma/fragma-on-amqp,True
 https://plmlab.math.cnrs.fr/imt/fragma/plm-oidc-authentification,True
-https://plmlab.math.cnrs.fr/imt/nixos-nginx-openid,False
+https://plmlab.math.cnrs.fr/imt/nixos-nginx-openid,True
 https://plmlab.math.cnrs.fr/imt/plmbox_restore,True
 https://plmlab.math.cnrs.fr/imt/puppet/gitlab_deploy_key,True
 https://plmlab.math.cnrs.fr/imt/puppet/kerberos_module,True
