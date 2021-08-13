@@ -488,6 +488,7 @@ https://forgemia.inra.fr/migale/formations,True
 https://forgemia.inra.fr/migale/metabarfood,True
 https://forgemia.inra.fr/migale/service-analyse-text-mining,True
 https://forgemia.inra.fr/most/ib-rs,True
+https://forgemia.inra.fr/mpm-at-recover/pycbg,False
 https://forgemia.inra.fr/mychoice/documentation,False
 https://forgemia.inra.fr/mychoice/public,False
 https://forgemia.inra.fr/olivier.bonnefon/mse,True
@@ -2349,7 +2350,7 @@ https://github.com/MLanguage/language-m-dgfip,True
 https://github.com/MLanguage/mlang,True
 https://github.com/MTES-MCT/Dossier-Facile-API,True
 https://github.com/MTES-MCT/Dossier-Facile-Frontend,True
-https://github.com/MTES-MCT/Localiser_Parcelle_Adresse_BAN,False
+https://github.com/MTES-MCT/Localiser_Parcelle_Adresse_BAN,True
 https://github.com/MTES-MCT/acceslibre,True
 https://github.com/MTES-MCT/acceslibre-schema,True
 https://github.com/MTES-MCT/access4all,True
@@ -9270,6 +9271,7 @@ https://plmlab.math.cnrs.fr/docker-images/docker-images.pages.math.cnrs.fr,True
 https://plmlab.math.cnrs.fr/docker-images/elasticsearch,True
 https://plmlab.math.cnrs.fr/docker-images/esup-pod,True
 https://plmlab.math.cnrs.fr/docker-images/helm-mirror,True
+https://plmlab.math.cnrs.fr/docker-images/latex,False
 https://plmlab.math.cnrs.fr/docker-images/mariadb,True
 https://plmlab.math.cnrs.fr/docker-images/mkdocs,True
 https://plmlab.math.cnrs.fr/docker-images/nfs-ganesha,True
