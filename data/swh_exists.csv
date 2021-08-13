@@ -2244,7 +2244,7 @@ https://github.com/InseeFrLab/rstudio-gpu,True
 https://github.com/InseeFrLab/simple-default-backend,True
 https://github.com/InseeFrLab/spark,True
 https://github.com/InseeFrLab/spark-hadoop,True
-https://github.com/InseeFrLab/sspcloud,False
+https://github.com/InseeFrLab/sspcloud,True
 https://github.com/InseeFrLab/sugoi-api,True
 https://github.com/InseeFrLab/sugoi-ui,True
 https://github.com/InseeFrLab/tensorflow,True
@@ -8281,6 +8281,7 @@ https://gitlab.inria.fr/sibr/projects/hybrid_ibr,True
 https://gitlab.inria.fr/sibr/projects/inside_out_deep_blending,True
 https://gitlab.inria.fr/sibr/projects/optix,True
 https://gitlab.inria.fr/sibr/projects/outdoor_relighting,True
+https://gitlab.inria.fr/sibr/projects/pointbased_neural_rendering,False
 https://gitlab.inria.fr/sibr/projects/semantic-reflections/segmentation-network,True
 https://gitlab.inria.fr/sibr/projects/semantic-reflections/semantic_reflections,True
 https://gitlab.inria.fr/sibr/projects/simple,True
