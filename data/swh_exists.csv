@@ -661,7 +661,7 @@ https://git.ademe.fr/docker/data-gouv-fr/sirene,True
 https://git.ademe.fr/docker/getpdf,True
 https://git.ademe.fr/docker/httpd,True
 https://git.ademe.fr/docker/httpd-php,True
-https://git.ademe.fr/docker/mkdocs,False
+https://git.ademe.fr/docker/mkdocs,True
 https://git.ademe.fr/docker/phpfpm,True
 https://git.ademe.fr/docker/ssh-sftp,False
 https://git.ademe.fr/docker/sshd-sftp,True
@@ -3302,7 +3302,7 @@ https://github.com/betagouv/api-particulier-auth-deprecated,True
 https://github.com/betagouv/api-particulier-demo,True
 https://github.com/betagouv/api-particulier-demo-traces,True
 https://github.com/betagouv/api-particulier-deprecated,True
-https://github.com/betagouv/api-particulier-legacy,False
+https://github.com/betagouv/api-particulier-legacy,True
 https://github.com/betagouv/api-particulier-legacy-token-feeder,True
 https://github.com/betagouv/api-particulier-lib,True
 https://github.com/betagouv/api-particulier-mesri-connector,True
