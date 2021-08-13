@@ -570,6 +570,7 @@ https://forgemia.inra.fr/umr-astre/mapMCDA,True
 https://forgemia.inra.fr/umr-astre/nimbletempdev,True
 https://forgemia.inra.fr/umr-astre/ppp-oie,True
 https://forgemia.inra.fr/umr-astre/rvf_mrt,True
+https://forgemia.inra.fr/umr-astre/sit-design,False
 https://forgemia.inra.fr/umr-astre/spreadrate,True
 https://forgemia.inra.fr/umr-astre/stage_mlegray,True
 https://forgemia.inra.fr/umr-astre/topomatch,True
@@ -953,6 +954,7 @@ https://github.com/1024pix/pix-editor-ext,True
 https://github.com/1024pix/pix-engineering,True
 https://github.com/1024pix/pix-graviteeio,True
 https://github.com/1024pix/pix-help-center-theme,True
+https://github.com/1024pix/pix-int-to-bigint,False
 https://github.com/1024pix/pix-lifestyle,True
 https://github.com/1024pix/pix-love,True
 https://github.com/1024pix/pix-maintenance,True
