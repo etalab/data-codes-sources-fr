@@ -488,7 +488,7 @@ https://forgemia.inra.fr/migale/formations,True
 https://forgemia.inra.fr/migale/metabarfood,True
 https://forgemia.inra.fr/migale/service-analyse-text-mining,True
 https://forgemia.inra.fr/most/ib-rs,True
-https://forgemia.inra.fr/mpm-at-recover/pycbg,False
+https://forgemia.inra.fr/mpm-at-recover/pycbg,True
 https://forgemia.inra.fr/mychoice/documentation,False
 https://forgemia.inra.fr/mychoice/public,False
 https://forgemia.inra.fr/olivier.bonnefon/mse,True
@@ -3383,7 +3383,7 @@ https://github.com/betagouv/diagoriente-admin,True
 https://github.com/betagouv/diagoriente-advisor,True
 https://github.com/betagouv/diagoriente-api-v5-,True
 https://github.com/betagouv/diagoriente-front,True
-https://github.com/betagouv/diagoriente-front-v6,False
+https://github.com/betagouv/diagoriente-front-v6,True
 https://github.com/betagouv/diagoriente-v5-front-app,True
 https://github.com/betagouv/diagoriente-v5-mobile,True
 https://github.com/betagouv/dialogue-de-gestion,True
@@ -5689,7 +5689,7 @@ https://github.com/ocaml/stdlib-shims,True
 https://github.com/ocaml/tuareg,True
 https://github.com/ocaml/uchar,True
 https://github.com/ocaml/v3.ocaml.org,True
-https://github.com/ocaml/v3.ocaml.org-server,False
+https://github.com/ocaml/v3.ocaml.org-server,True
 https://github.com/ocaml/vim-ocaml,True
 https://github.com/opendatateam/ansible-udata,True
 https://github.com/opendatateam/cookiecutter-udata-harvester,True
