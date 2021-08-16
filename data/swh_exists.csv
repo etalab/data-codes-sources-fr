@@ -5976,6 +5976,7 @@ https://github.com/plantnet/PlantNet-300K,True
 https://github.com/plantnet/gbif-dl,True
 https://github.com/plantnet/hapi-rate-limit,True
 https://github.com/plantnet/leaflet-d3,True
+https://github.com/plantnet/leaflet-geosearch,False
 https://github.com/plantnet/my.plantnet,True
 https://github.com/plantnet/node-couchdb,True
 https://github.com/plantnet/node-datamanager,True
@@ -6520,6 +6521,7 @@ https://gitlab.com/dreal-datalab/essai,True
 https://gitlab.com/dreal-datalab/exports_terristory,True
 https://gitlab.com/dreal-datalab/indicateurs.territoriaux.datamart,True
 https://gitlab.com/dreal-datalab/indicateurs_territoriaux,True
+https://gitlab.com/dreal-datalab/it_conso_espace,False
 https://gitlab.com/dreal-datalab/it_indicateurs,True
 https://gitlab.com/dreal-datalab/mapfactory,True
 https://gitlab.com/dreal-datalab/maps,True
@@ -8192,6 +8194,7 @@ https://gitlab.inria.fr/resist/tutorial-iot-security,True
 https://gitlab.inria.fr/revol/mpfi,True
 https://gitlab.inria.fr/rmod-public/2019-sourcecodedata,True
 https://gitlab.inria.fr/rmod-public/steven-tests/steven-tests.gitlab.inria.fr,False
+https://gitlab.inria.fr/ros_nodes/hrl-kdl,False
 https://gitlab.inria.fr/rsed1/documentation,False
 https://gitlab.inria.fr/runaway/mixup,True
 https://gitlab.inria.fr/runaway/runaway,True
