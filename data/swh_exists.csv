@@ -8454,6 +8454,7 @@ https://gitlab.inria.fr/x-lab/x-gui,True
 https://gitlab.inria.fr/x-lab/x-logger,True
 https://gitlab.inria.fr/x-lab/x-node,True
 https://gitlab.inria.fr/x-lab/x-quick,True
+https://gitlab.inria.fr/x-lab/x-tts,False
 https://gitlab.inria.fr/xbie/dvae-speech,True
 https://gitlab.inria.fr/xfor/docs,True
 https://gitlab.inria.fr/xfor/guix-xfor,True
@@ -9376,6 +9377,7 @@ https://plmlab.math.cnrs.fr/phymath/undionly.kkpxe,True
 https://plmlab.math.cnrs.fr/plm-services/geminabox-plmshift,True
 https://plmlab.math.cnrs.fr/plm-services/plm_build,True
 https://plmlab.math.cnrs.fr/plmlab/dind,True
+https://plmlab.math.cnrs.fr/plmlatex/manager,False
 https://plmlab.math.cnrs.fr/plmlatex/plmlatex,True
 https://plmlab.math.cnrs.fr/plmlatex/sharelatex-clsi,True
 https://plmlab.math.cnrs.fr/plmlatex/sharelatex-web,True
