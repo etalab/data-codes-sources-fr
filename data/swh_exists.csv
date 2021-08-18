@@ -914,6 +914,7 @@ https://git.unistra.fr/xstra-dev/conteneur-2019,True
 https://git.unistra.fr/xstra-dev/tp-gitlab-ci,True
 https://github.com/1024pix/airtable-backup,True
 https://github.com/1024pix/airtable-updater,True
+https://github.com/1024pix/assets-extractor-module,False
 https://github.com/1024pix/automatic-merge-actions,True
 https://github.com/1024pix/benchmark,True
 https://github.com/1024pix/codeshift,True
@@ -2485,6 +2486,7 @@ https://github.com/MTES-MCT/udata-doc,True
 https://github.com/MTES-MCT/udata-gouvfr-ecologie,True
 https://github.com/MTES-MCT/updownio-action,True
 https://github.com/MTES-MCT/upptime,True
+https://github.com/MTES-MCT/wikicarbone,False
 https://github.com/MinistereSupRecherche/bso,True
 https://github.com/MinistereSupRecherche/dataESR,True
 https://github.com/MinistereSupRecherche/machineadonnees,True
@@ -6635,7 +6637,7 @@ https://gitlab.factory.social.gouv.fr/SocialGouv/archifiltre,True
 https://gitlab.factory.social.gouv.fr/SocialGouv/archifiltre-site,True
 https://gitlab.factory.social.gouv.fr/SocialGouv/archifiltre-statistics,True
 https://gitlab.factory.social.gouv.fr/SocialGouv/archifiltre/archifiltre,True
-https://gitlab.factory.social.gouv.fr/SocialGouv/archifiltre/archifiltre-site,False
+https://gitlab.factory.social.gouv.fr/SocialGouv/archifiltre/archifiltre-site,True
 https://gitlab.factory.social.gouv.fr/SocialGouv/archifiltre/archifiltre-statistics,True
 https://gitlab.factory.social.gouv.fr/SocialGouv/board,True
 https://gitlab.factory.social.gouv.fr/SocialGouv/cdtn-admin,True
@@ -6799,6 +6801,7 @@ https://gitlab.huma-num.fr/portic/porticapi,True
 https://gitlab.huma-num.fr/profiterole/profiterole-tools,True
 https://gitlab.huma-num.fr/profiterole/sentseg,True
 https://gitlab.huma-num.fr/profiterole/srcmf-ud,True
+https://gitlab.huma-num.fr/rzine/Help_Rzine_Layout,False
 https://gitlab.huma-num.fr/rzine/Rzine_actu,True
 https://gitlab.huma-num.fr/rzine/add_author,True
 https://gitlab.huma-num.fr/rzine/add_news,True
@@ -8454,8 +8457,9 @@ https://gitlab.inria.fr/x-lab/x-gui,True
 https://gitlab.inria.fr/x-lab/x-logger,True
 https://gitlab.inria.fr/x-lab/x-node,True
 https://gitlab.inria.fr/x-lab/x-quick,True
-https://gitlab.inria.fr/x-lab/x-stt,False
+https://gitlab.inria.fr/x-lab/x-stt,True
 https://gitlab.inria.fr/x-lab/x-tts,False
+https://gitlab.inria.fr/x-lab/x-vis,False
 https://gitlab.inria.fr/xbie/dvae-speech,True
 https://gitlab.inria.fr/xfor/docs,True
 https://gitlab.inria.fr/xfor/guix-xfor,True
