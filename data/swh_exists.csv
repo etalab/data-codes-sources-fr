@@ -250,6 +250,7 @@ https://forgemia.inra.fr/bibliome/alvisae-anaee,True
 https://forgemia.inra.fr/bibliome/bionlp-st-py,True
 https://forgemia.inra.fr/bibliome/formation-alvisnlp,True
 https://forgemia.inra.fr/bibliome/pesv-tm,True
+https://forgemia.inra.fr/bibliome/re-bert,False
 https://forgemia.inra.fr/biocom/biocom-pipe,True
 https://forgemia.inra.fr/biocom/biocom-pipe_manual,True
 https://forgemia.inra.fr/bioger/django-custom-user,True
@@ -955,7 +956,7 @@ https://github.com/1024pix/pix-editor-ext,True
 https://github.com/1024pix/pix-engineering,True
 https://github.com/1024pix/pix-graviteeio,True
 https://github.com/1024pix/pix-help-center-theme,True
-https://github.com/1024pix/pix-int-to-bigint,False
+https://github.com/1024pix/pix-int-to-bigint,True
 https://github.com/1024pix/pix-lifestyle,True
 https://github.com/1024pix/pix-love,True
 https://github.com/1024pix/pix-maintenance,True
@@ -2486,7 +2487,7 @@ https://github.com/MTES-MCT/udata-doc,True
 https://github.com/MTES-MCT/udata-gouvfr-ecologie,True
 https://github.com/MTES-MCT/updownio-action,True
 https://github.com/MTES-MCT/upptime,True
-https://github.com/MTES-MCT/wikicarbone,False
+https://github.com/MTES-MCT/wikicarbone,True
 https://github.com/MinistereSupRecherche/bso,True
 https://github.com/MinistereSupRecherche/dataESR,True
 https://github.com/MinistereSupRecherche/machineadonnees,True
@@ -6801,7 +6802,7 @@ https://gitlab.huma-num.fr/portic/porticapi,True
 https://gitlab.huma-num.fr/profiterole/profiterole-tools,True
 https://gitlab.huma-num.fr/profiterole/sentseg,True
 https://gitlab.huma-num.fr/profiterole/srcmf-ud,True
-https://gitlab.huma-num.fr/rzine/Help_Rzine_Layout,False
+https://gitlab.huma-num.fr/rzine/Help_Rzine_Layout,True
 https://gitlab.huma-num.fr/rzine/Rzine_actu,True
 https://gitlab.huma-num.fr/rzine/add_author,True
 https://gitlab.huma-num.fr/rzine/add_news,True
@@ -9283,7 +9284,7 @@ https://plmlab.math.cnrs.fr/docker-images/docker-images.pages.math.cnrs.fr,True
 https://plmlab.math.cnrs.fr/docker-images/elasticsearch,True
 https://plmlab.math.cnrs.fr/docker-images/esup-pod,True
 https://plmlab.math.cnrs.fr/docker-images/helm-mirror,True
-https://plmlab.math.cnrs.fr/docker-images/latex,False
+https://plmlab.math.cnrs.fr/docker-images/latex,True
 https://plmlab.math.cnrs.fr/docker-images/mariadb,True
 https://plmlab.math.cnrs.fr/docker-images/mkdocs,True
 https://plmlab.math.cnrs.fr/docker-images/nfs-ganesha,True
