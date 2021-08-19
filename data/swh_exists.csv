@@ -6809,6 +6809,8 @@ https://gitlab.huma-num.fr/rzine/add_news,True
 https://gitlab.huma-num.fr/rzine/add_publication,True
 https://gitlab.huma-num.fr/rzine/documentation,True
 https://gitlab.huma-num.fr/rzine/help_rzine_publication,True
+https://gitlab.huma-num.fr/rzine/help_rzine_reviewing,False
+https://gitlab.huma-num.fr/rzine/help_rzine_submit,False
 https://gitlab.huma-num.fr/rzine/package,True
 https://gitlab.huma-num.fr/rzine/site,True
 https://gitlab.huma-num.fr/s-minaire-mip-paris-nanterre/projettest,True
@@ -8393,6 +8395,7 @@ https://gitlab.inria.fr/syntheticgt/syntheticgt-utilities,True
 https://gitlab.inria.fr/tangram/3d-aware-ellipses-for-visual-localization,True
 https://gitlab.inria.fr/tangram/pyellcv,True
 https://gitlab.inria.fr/tansiv/python-tansiv,True
+https://gitlab.inria.fr/tansiv/tansiv-xps,False
 https://gitlab.inria.fr/tapenade/tapenade,True
 https://gitlab.inria.fr/tapenade/userdoc,True
 https://gitlab.inria.fr/testing-security-features/Software/c-client,False
