@@ -250,7 +250,7 @@ https://forgemia.inra.fr/bibliome/alvisae-anaee,True
 https://forgemia.inra.fr/bibliome/bionlp-st-py,True
 https://forgemia.inra.fr/bibliome/formation-alvisnlp,True
 https://forgemia.inra.fr/bibliome/pesv-tm,True
-https://forgemia.inra.fr/bibliome/re-bert,False
+https://forgemia.inra.fr/bibliome/re-bert,True
 https://forgemia.inra.fr/biocom/biocom-pipe,True
 https://forgemia.inra.fr/biocom/biocom-pipe_manual,True
 https://forgemia.inra.fr/bioger/django-custom-user,True
@@ -8459,7 +8459,7 @@ https://gitlab.inria.fr/x-lab/x-logger,True
 https://gitlab.inria.fr/x-lab/x-node,True
 https://gitlab.inria.fr/x-lab/x-quick,True
 https://gitlab.inria.fr/x-lab/x-stt,True
-https://gitlab.inria.fr/x-lab/x-tts,False
+https://gitlab.inria.fr/x-lab/x-tts,True
 https://gitlab.inria.fr/x-lab/x-vis,False
 https://gitlab.inria.fr/xbie/dvae-speech,True
 https://gitlab.inria.fr/xfor/docs,True
