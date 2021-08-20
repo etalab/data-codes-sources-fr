@@ -2726,6 +2726,7 @@ https://github.com/SocialGouv/TextStyle,True
 https://github.com/SocialGouv/TextStyle-script,True
 https://github.com/SocialGouv/Tumeplay,True
 https://github.com/SocialGouv/UDD,True
+https://github.com/SocialGouv/actions,False
 https://github.com/SocialGouv/aes-gcm-rsa-oaep,True
 https://github.com/SocialGouv/annuaire-mjpm,True
 https://github.com/SocialGouv/ansible-kubeadm-cluster,True
@@ -6810,7 +6811,7 @@ https://gitlab.huma-num.fr/rzine/add_news,True
 https://gitlab.huma-num.fr/rzine/add_publication,True
 https://gitlab.huma-num.fr/rzine/documentation,True
 https://gitlab.huma-num.fr/rzine/help_rzine_publication,True
-https://gitlab.huma-num.fr/rzine/help_rzine_reviewing,False
+https://gitlab.huma-num.fr/rzine/help_rzine_reviewing,True
 https://gitlab.huma-num.fr/rzine/help_rzine_submit,True
 https://gitlab.huma-num.fr/rzine/package,True
 https://gitlab.huma-num.fr/rzine/site,True
@@ -8253,6 +8254,10 @@ https://gitlab.inria.fr/sed-rennes/sharelatex/web-sharelatex,True
 https://gitlab.inria.fr/sed-rennes/test-droits,True
 https://gitlab.inria.fr/sed-saclay/TutorielGitlabPages,True
 https://gitlab.inria.fr/sed-saclay/formulairesdemandesingenieur,True
+https://gitlab.inria.fr/seed_detection/benchmarking,False
+https://gitlab.inria.fr/seed_detection/precursor,False
+https://gitlab.inria.fr/seed_detection/predator,False
+https://gitlab.inria.fr/seed_detection/tools-comparison,False
 https://gitlab.inria.fr/selalib/selalib.gitlabpages.inria.fr,True
 https://gitlab.inria.fr/semagramme-public-projects/resources/french-fracas,True
 https://gitlab.inria.fr/sequoia/deep-sequoia,True
@@ -9390,7 +9395,7 @@ https://plmlab.math.cnrs.fr/phymath/undionly.kkpxe,True
 https://plmlab.math.cnrs.fr/plm-services/geminabox-plmshift,True
 https://plmlab.math.cnrs.fr/plm-services/plm_build,True
 https://plmlab.math.cnrs.fr/plmlab/dind,True
-https://plmlab.math.cnrs.fr/plmlatex/manager,False
+https://plmlab.math.cnrs.fr/plmlatex/manager,True
 https://plmlab.math.cnrs.fr/plmlatex/plmlatex,True
 https://plmlab.math.cnrs.fr/plmlatex/sharelatex-clsi,True
 https://plmlab.math.cnrs.fr/plmlatex/sharelatex-web,True
