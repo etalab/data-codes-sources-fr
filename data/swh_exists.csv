@@ -491,7 +491,7 @@ https://forgemia.inra.fr/migale/service-analyse-text-mining,True
 https://forgemia.inra.fr/most/ib-rs,True
 https://forgemia.inra.fr/mpm-at-recover/pycbg,True
 https://forgemia.inra.fr/mychoice/documentation,False
-https://forgemia.inra.fr/mychoice/public,False
+https://forgemia.inra.fr/mychoice/public,True
 https://forgemia.inra.fr/olivier.bonnefon/mse,True
 https://forgemia.inra.fr/pappso/beads,True
 https://forgemia.inra.fr/pappso/custompwiz,True
@@ -561,6 +561,7 @@ https://forgemia.inra.fr/umr-astre/asf-challenge,True
 https://forgemia.inra.fr/umr-astre/asf-speed,True
 https://forgemia.inra.fr/umr-astre/capiche,True
 https://forgemia.inra.fr/umr-astre/cirad,True
+https://forgemia.inra.fr/umr-astre/confint_ratio,False
 https://forgemia.inra.fr/umr-astre/covid19-mortality,True
 https://forgemia.inra.fr/umr-astre/culicoides-friction,True
 https://forgemia.inra.fr/umr-astre/difuse,True
