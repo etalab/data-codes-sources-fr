@@ -8331,6 +8331,7 @@ https://gitlab.inria.fr/skeletons/necro-ml,True
 https://gitlab.inria.fr/skeletons/necro-test,True
 https://gitlab.inria.fr/skeletons/necro-tex,True
 https://gitlab.inria.fr/skeletons/opam-repository,True
+https://gitlab.inria.fr/skeletons/stage-olivier-idir,False
 https://gitlab.inria.fr/skelton/pyskelton,True
 https://gitlab.inria.fr/skelton/skelton2,True
 https://gitlab.inria.fr/sollya/sollya,True
@@ -8402,7 +8403,7 @@ https://gitlab.inria.fr/syntheticgt/syntheticgt-utilities,True
 https://gitlab.inria.fr/tangram/3d-aware-ellipses-for-visual-localization,True
 https://gitlab.inria.fr/tangram/pyellcv,True
 https://gitlab.inria.fr/tansiv/python-tansiv,True
-https://gitlab.inria.fr/tansiv/tansiv-xps,False
+https://gitlab.inria.fr/tansiv/tansiv-xps,True
 https://gitlab.inria.fr/tapenade/tapenade,True
 https://gitlab.inria.fr/tapenade/userdoc,True
 https://gitlab.inria.fr/testing-security-features/Software/c-client,False
