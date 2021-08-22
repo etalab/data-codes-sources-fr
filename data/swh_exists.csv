@@ -561,7 +561,7 @@ https://forgemia.inra.fr/umr-astre/asf-challenge,True
 https://forgemia.inra.fr/umr-astre/asf-speed,True
 https://forgemia.inra.fr/umr-astre/capiche,True
 https://forgemia.inra.fr/umr-astre/cirad,True
-https://forgemia.inra.fr/umr-astre/confint_ratio,False
+https://forgemia.inra.fr/umr-astre/confint_ratio,True
 https://forgemia.inra.fr/umr-astre/covid19-mortality,True
 https://forgemia.inra.fr/umr-astre/culicoides-friction,True
 https://forgemia.inra.fr/umr-astre/difuse,True
@@ -8484,7 +8484,7 @@ https://gitlab.inria.fr/xlab/x_playground,True
 https://gitlab.inria.fr/xlab/x_quick,True
 https://gitlab.inria.fr/xug/meetings,True
 https://gitlab.inria.fr/xug/nix-tutorial,True
-https://gitlab.inria.fr/yixu/TransCenter_official,False
+https://gitlab.inria.fr/yixu/TransCenter_official,True
 https://gitlab.inria.fr/yixu/deepmot,True
 https://gitlab.inria.fr/yoann/grew,True
 https://gitlab.inria.fr/yoda/public,True
