@@ -201,6 +201,7 @@ https://forge.univ-lyon1.fr/loup-garouptut/loupandroid,True
 https://forge.univ-lyon1.fr/lpt-soft/lifprojet-lpto,True
 https://forge.univ-lyon1.fr/m1-grp26/impact-pollution-mortalite,True
 https://forge.univ-lyon1.fr/m1if10-projet-transversal/m1if10-projet-transversal-2020,True
+https://forge.univ-lyon1.fr/m1if10-projet-transversal/m1if10-projet-transversal-2021,False
 https://forge.univ-lyon1.fr/m1if13/m1if13-2019,True
 https://forge.univ-lyon1.fr/m1if13/m1if13-2020,True
 https://forge.univ-lyon1.fr/m1if13/m1if13-2021,True
@@ -6532,6 +6533,7 @@ https://gitlab.com/dreal-datalab/it_indicateurs,True
 https://gitlab.com/dreal-datalab/mapfactory,True
 https://gitlab.com/dreal-datalab/maps,True
 https://gitlab.com/dreal-datalab/nitrates,True
+https://gitlab.com/dreal-datalab/nitrates_zar,False
 https://gitlab.com/dreal-datalab/ort_effectifs_transport,True
 https://gitlab.com/dreal-datalab/pesticides,True
 https://gitlab.com/dreal-datalab/poc-enr-teo,True
