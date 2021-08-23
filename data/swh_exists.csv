@@ -5605,6 +5605,7 @@ https://github.com/neuroanatomy/autism,True
 https://github.com/neuroanatomy/braincov,True
 https://github.com/neuroanatomy/bruker2nifti,True
 https://github.com/neuroanatomy/challenge-engine,True
+https://github.com/neuroanatomy/cmapjs,False
 https://github.com/neuroanatomy/cortex,True
 https://github.com/neuroanatomy/eslint-config-naat,True
 https://github.com/neuroanatomy/fiind,True
@@ -6982,7 +6983,7 @@ https://gitlab.inria.fr/Seshat/internetprivacy,True
 https://gitlab.inria.fr/Seshat/javascript,True
 https://gitlab.inria.fr/Seshat/outils_pedagogiques_ra_rv,True
 https://gitlab.inria.fr/Seshat/pt1,True
-https://gitlab.inria.fr/Seshat/sae1-06,False
+https://gitlab.inria.fr/Seshat/sae1-06,True
 https://gitlab.inria.fr/Seshat/simplewebpage,True
 https://gitlab.inria.fr/Seshat/test,True
 https://gitlab.inria.fr/Seshat/unity,True
@@ -9306,6 +9307,7 @@ https://plmlab.math.cnrs.fr/docker-images/openjdk-jre-headless,True
 https://plmlab.math.cnrs.fr/docker-images/python,True
 https://plmlab.math.cnrs.fr/docker-images/rabbitmq,True
 https://plmlab.math.cnrs.fr/docker-images/rocketchat,True
+https://plmlab.math.cnrs.fr/docker-images/scipy-notebook-plus,False
 https://plmlab.math.cnrs.fr/docker-images/systemd,True
 https://plmlab.math.cnrs.fr/docker-images/ubuntu,True
 https://plmlab.math.cnrs.fr/econetproject/econetwork,True
