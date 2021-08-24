@@ -5051,6 +5051,7 @@ https://github.com/istex/sisyphe-monitor,True
 https://github.com/ivre/ivre,True
 https://github.com/ivre/ivre-test-samples,True
 https://github.com/ivre/masscan,True
+https://github.com/landlock-lsm/go-landlock,False
 https://github.com/landlock-lsm/landlock-lsm.github.io,True
 https://github.com/landlock-lsm/linux,True
 https://github.com/landlock-lsm/man-pages,True
@@ -5247,7 +5248,7 @@ https://github.com/medialab/MNAM,True
 https://github.com/medialab/MappingFrenchRussia,True
 https://github.com/medialab/RM-livewall,True
 https://github.com/medialab/SE_Word_Imaging,True
-https://github.com/medialab/SHAPING_AI_dashboard,False
+https://github.com/medialab/SHAPING_AI_dashboard,True
 https://github.com/medialab/ScienceTrotterS_API,True
 https://github.com/medialab/ScienceTrotterS_backoffice,True
 https://github.com/medialab/ScienceTrotterS_docker,True
@@ -5607,7 +5608,7 @@ https://github.com/neuroanatomy/autism,True
 https://github.com/neuroanatomy/braincov,True
 https://github.com/neuroanatomy/bruker2nifti,True
 https://github.com/neuroanatomy/challenge-engine,True
-https://github.com/neuroanatomy/cmapjs,False
+https://github.com/neuroanatomy/cmapjs,True
 https://github.com/neuroanatomy/cortex,True
 https://github.com/neuroanatomy/eslint-config-naat,True
 https://github.com/neuroanatomy/fiind,True
