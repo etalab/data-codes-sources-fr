@@ -272,6 +272,7 @@ https://forgemia.inra.fr/cirad--monde-apres/teletravail,True
 https://forgemia.inra.fr/couplimspec/couplimspec,True
 https://forgemia.inra.fr/couplimspec/couplimspec_20150113,True
 https://forgemia.inra.fr/couplimspec/hyiam,True
+https://forgemia.inra.fr/dipso/aspire,False
 https://forgemia.inra.fr/dipso/bridge-datainrae-nextcloud,True
 https://forgemia.inra.fr/dipso/kubespray,True
 https://forgemia.inra.fr/enseignement-mistea/reports-with-markdown,True
@@ -2854,6 +2855,7 @@ https://github.com/SocialGouv/monsuivipsy-landing,False
 https://github.com/SocialGouv/monsuivipsy-site,True
 https://github.com/SocialGouv/next-routes,True
 https://github.com/SocialGouv/nos1000jours-landing,True
+https://github.com/SocialGouv/nos1000jours-lib,False
 https://github.com/SocialGouv/nos1000jours-web-pro,True
 https://github.com/SocialGouv/nuclei-dashboard,True
 https://github.com/SocialGouv/onvs,True
@@ -9156,6 +9158,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/pmall/bdd_aerosols,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/pmall/pm-source,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/pmall/pyopestimator,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/pmall/pyopestimator-data,True
+https://gricad-gitlab.univ-grenoble-alpes.fr/pmall/tendencies,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/polytech/info3-unix,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/projet-irradiance/project-irradiance,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/projet-ter-m1-wic-openwrt/documentation,True
