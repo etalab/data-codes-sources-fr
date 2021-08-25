@@ -201,7 +201,7 @@ https://forge.univ-lyon1.fr/loup-garouptut/loupandroid,True
 https://forge.univ-lyon1.fr/lpt-soft/lifprojet-lpto,True
 https://forge.univ-lyon1.fr/m1-grp26/impact-pollution-mortalite,True
 https://forge.univ-lyon1.fr/m1if10-projet-transversal/m1if10-projet-transversal-2020,True
-https://forge.univ-lyon1.fr/m1if10-projet-transversal/m1if10-projet-transversal-2021,False
+https://forge.univ-lyon1.fr/m1if10-projet-transversal/m1if10-projet-transversal-2021,True
 https://forge.univ-lyon1.fr/m1if13/m1if13-2019,True
 https://forge.univ-lyon1.fr/m1if13/m1if13-2020,True
 https://forge.univ-lyon1.fr/m1if13/m1if13-2021,True
@@ -2440,6 +2440,7 @@ https://github.com/MTES-MCT/nmap-docker,True
 https://github.com/MTES-MCT/nocodb-buildpack,True
 https://github.com/MTES-MCT/node-cerbere,True
 https://github.com/MTES-MCT/numerique,True
+https://github.com/MTES-MCT/pacauto,False
 https://github.com/MTES-MCT/parcours-r,True
 https://github.com/MTES-MCT/parcours_r_exercices,True
 https://github.com/MTES-MCT/parcours_r_module_analyse_multi_dimensionnelles,True
@@ -6621,6 +6622,7 @@ https://gitlab.com/peren/api-meubles/fraddress,True
 https://gitlab.com/peren/api-meubles/frontend,True
 https://gitlab.com/peren/api-meubles/website,True
 https://gitlab.com/peren/datasets/contours-administratifs,True
+https://gitlab.com/peren/website/website,False
 https://gitlab.com/pidila/checklist-app,True
 https://gitlab.com/pidila/checklist-pidila,True
 https://gitlab.com/pidila/checklist-pidila-old,True
@@ -8478,7 +8480,7 @@ https://gitlab.inria.fr/x-lab/x-node,True
 https://gitlab.inria.fr/x-lab/x-quick,True
 https://gitlab.inria.fr/x-lab/x-stt,True
 https://gitlab.inria.fr/x-lab/x-tts,True
-https://gitlab.inria.fr/x-lab/x-vis,False
+https://gitlab.inria.fr/x-lab/x-vis,True
 https://gitlab.inria.fr/xbie/dvae-speech,True
 https://gitlab.inria.fr/xfor/docs,True
 https://gitlab.inria.fr/xfor/guix-xfor,True
