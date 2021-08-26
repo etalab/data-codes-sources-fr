@@ -2844,6 +2844,7 @@ https://github.com/SocialGouv/map,True
 https://github.com/SocialGouv/maraudes-app,True
 https://github.com/SocialGouv/maraudes-backend,True
 https://github.com/SocialGouv/matomo-metabase,True
+https://github.com/SocialGouv/matomo-metabase-deploys,False
 https://github.com/SocialGouv/matomo-next,True
 https://github.com/SocialGouv/mattermost-plugin-google-calendar,True
 https://github.com/SocialGouv/meditor,True
@@ -5502,6 +5503,7 @@ https://github.com/metwork-framework/docker-mfxxx-centos6-testimage,True
 https://github.com/metwork-framework/docker-mfxxx-centos7-buildimage,True
 https://github.com/metwork-framework/docker-mfxxx-centos7-testimage,True
 https://github.com/metwork-framework/docker-mfxxx-centos8-buildimage,True
+https://github.com/metwork-framework/docker-mfxxx-centos8-testimage,False
 https://github.com/metwork-framework/docker-portable-envtpl-buildimage,True
 https://github.com/metwork-framework/enumerate-markdown,True
 https://github.com/metwork-framework/envtpl,True
@@ -6464,6 +6466,7 @@ https://gitlab.cerema.fr/centre-est/admin_ceremabase,True
 https://gitlab.cerema.fr/centre-est/diagnostic-trafic-rshiny,False
 https://gitlab.cerema.fr/centre-est/mobilite/Stream/qstream,True
 https://gitlab.cerema.fr/centre-est/mobilite/Stream/stream-python,True
+https://gitlab.cerema.fr/centre-est/mobilite/data_securite_routiere_series_,False
 https://gitlab.cerema.fr/centre-est/mobilite/diagnostic-trafic-rshiny,True
 https://gitlab.cerema.fr/centre-est/mobilite/securite-routiere-series,True
 https://gitlab.cerema.fr/geomatique_donnees/en_test,True
