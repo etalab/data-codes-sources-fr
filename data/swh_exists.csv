@@ -5054,7 +5054,7 @@ https://github.com/istex/sisyphe-monitor,True
 https://github.com/ivre/ivre,True
 https://github.com/ivre/ivre-test-samples,True
 https://github.com/ivre/masscan,True
-https://github.com/landlock-lsm/go-landlock,False
+https://github.com/landlock-lsm/go-landlock,True
 https://github.com/landlock-lsm/landlock-lsm.github.io,True
 https://github.com/landlock-lsm/linux,True
 https://github.com/landlock-lsm/man-pages,True
@@ -6526,7 +6526,7 @@ https://gitlab.com/dreal-datalab/communications,True
 https://gitlab.com/dreal-datalab/configproxyr,True
 https://gitlab.com/dreal-datalab/crte,True
 https://gitlab.com/dreal-datalab/crte.com,True
-https://gitlab.com/dreal-datalab/datalibaba,False
+https://gitlab.com/dreal-datalab/datalibaba,True
 https://gitlab.com/dreal-datalab/drealdown,True
 https://gitlab.com/dreal-datalab/drealthemes,True
 https://gitlab.com/dreal-datalab/enr_reseaux_teo,True
