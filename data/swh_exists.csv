@@ -273,9 +273,9 @@ https://forgemia.inra.fr/couplimspec/couplimspec,True
 https://forgemia.inra.fr/couplimspec/couplimspec_20150113,True
 https://forgemia.inra.fr/couplimspec/hyiam,True
 https://forgemia.inra.fr/cropmetapop/CMPynalyser,False
-https://forgemia.inra.fr/cropmetapop/cmpanalyzer,False
+https://forgemia.inra.fr/cropmetapop/cmpanalyzer,True
 https://forgemia.inra.fr/cropmetapop/cmpconfig,False
-https://forgemia.inra.fr/cropmetapop/cmpfitness,False
+https://forgemia.inra.fr/cropmetapop/cmpfitness,True
 https://forgemia.inra.fr/cropmetapop/cropmetapop,False
 https://forgemia.inra.fr/dipso/aspire,False
 https://forgemia.inra.fr/dipso/bridge-datainrae-nextcloud,True
@@ -2446,7 +2446,7 @@ https://github.com/MTES-MCT/nmap-docker,True
 https://github.com/MTES-MCT/nocodb-buildpack,True
 https://github.com/MTES-MCT/node-cerbere,True
 https://github.com/MTES-MCT/numerique,True
-https://github.com/MTES-MCT/pacauto,False
+https://github.com/MTES-MCT/pacauto,True
 https://github.com/MTES-MCT/parcours-r,True
 https://github.com/MTES-MCT/parcours_r_exercices,True
 https://github.com/MTES-MCT/parcours_r_module_analyse_multi_dimensionnelles,True
@@ -5509,7 +5509,7 @@ https://github.com/metwork-framework/docker-mfxxx-centos6-testimage,True
 https://github.com/metwork-framework/docker-mfxxx-centos7-buildimage,True
 https://github.com/metwork-framework/docker-mfxxx-centos7-testimage,True
 https://github.com/metwork-framework/docker-mfxxx-centos8-buildimage,True
-https://github.com/metwork-framework/docker-mfxxx-centos8-testimage,False
+https://github.com/metwork-framework/docker-mfxxx-centos8-testimage,True
 https://github.com/metwork-framework/docker-portable-envtpl-buildimage,True
 https://github.com/metwork-framework/enumerate-markdown,True
 https://github.com/metwork-framework/envtpl,True
@@ -6633,7 +6633,7 @@ https://gitlab.com/peren/api-meubles/fraddress,True
 https://gitlab.com/peren/api-meubles/frontend,True
 https://gitlab.com/peren/api-meubles/website,True
 https://gitlab.com/peren/datasets/contours-administratifs,True
-https://gitlab.com/peren/website/website,False
+https://gitlab.com/peren/website/website,True
 https://gitlab.com/pidila/checklist-app,True
 https://gitlab.com/pidila/checklist-pidila,True
 https://gitlab.com/pidila/checklist-pidila-old,True
