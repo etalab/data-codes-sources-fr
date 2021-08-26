@@ -272,6 +272,11 @@ https://forgemia.inra.fr/cirad--monde-apres/teletravail,True
 https://forgemia.inra.fr/couplimspec/couplimspec,True
 https://forgemia.inra.fr/couplimspec/couplimspec_20150113,True
 https://forgemia.inra.fr/couplimspec/hyiam,True
+https://forgemia.inra.fr/cropmetapop/CMPynalyser,False
+https://forgemia.inra.fr/cropmetapop/cmpanalyzer,False
+https://forgemia.inra.fr/cropmetapop/cmpconfig,False
+https://forgemia.inra.fr/cropmetapop/cmpfitness,False
+https://forgemia.inra.fr/cropmetapop/cropmetapop,False
 https://forgemia.inra.fr/dipso/aspire,False
 https://forgemia.inra.fr/dipso/bridge-datainrae-nextcloud,True
 https://forgemia.inra.fr/dipso/kubespray,True
@@ -4798,6 +4803,7 @@ https://github.com/ezpaarse-project/bibliomap-harvester,True
 https://github.com/ezpaarse-project/bibliomap-theme.github.io,True
 https://github.com/ezpaarse-project/bibliomap-viewer,True
 https://github.com/ezpaarse-project/crossref,True
+https://github.com/ezpaarse-project/csv2kib,False
 https://github.com/ezpaarse-project/dbbench,True
 https://github.com/ezpaarse-project/docker-ezvis,True
 https://github.com/ezpaarse-project/ez-unpaywall,True
