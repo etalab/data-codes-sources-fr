@@ -274,7 +274,7 @@ https://forgemia.inra.fr/couplimspec/couplimspec_20150113,True
 https://forgemia.inra.fr/couplimspec/hyiam,True
 https://forgemia.inra.fr/cropmetapop/CMPynalyser,False
 https://forgemia.inra.fr/cropmetapop/cmpanalyzer,True
-https://forgemia.inra.fr/cropmetapop/cmpconfig,False
+https://forgemia.inra.fr/cropmetapop/cmpconfig,True
 https://forgemia.inra.fr/cropmetapop/cmpfitness,True
 https://forgemia.inra.fr/cropmetapop/cropmetapop,False
 https://forgemia.inra.fr/dipso/aspire,True
@@ -685,6 +685,7 @@ https://git.beta.pole-emploi.fr/open-source/immersion,True
 https://git.beta.pole-emploi.fr/open-source/jitsi,True
 https://git.beta.pole-emploi.fr/open-source/labonneformation,True
 https://git.beta.pole-emploi.fr/open-source/toolkit,True
+https://git.beta.pole-emploi.fr/open-source/toolkit-oss/dockers/postfix,False
 https://git.beta.pole-emploi.fr/open-source/trefle,True
 https://git.beta.pole-emploi.fr/open-source/tuiles,True
 https://git.beta.pole-emploi.fr/open-source/wiki-docs-ressources-public,True
@@ -3682,6 +3683,7 @@ https://github.com/betagouv/solidarite-numerique,True
 https://github.com/betagouv/sqlalchemy-api-handler,True
 https://github.com/betagouv/sqlalchemy-handler,True
 https://github.com/betagouv/standup,True
+https://github.com/betagouv/stats-data-insertion,False
 https://github.com/betagouv/stats_metabase_demo,True
 https://github.com/betagouv/status.api.gouv.fr,True
 https://github.com/betagouv/statut.api.gouv.fr,True
@@ -5643,6 +5645,7 @@ https://github.com/neuroanatomy/paper-reorient,False
 https://github.com/neuroanatomy/reorient,True
 https://github.com/neuroanatomy/structjs,True
 https://github.com/neuroanatomy/thresholdmann,True
+https://github.com/neuroanatomy/translucent-viewer,False
 https://github.com/numerique-gouv/numerique.gouv.fr,True
 https://github.com/numerique-gouv/numerique.gouv.fr-infra,True
 https://github.com/observatoire-territoires/KitsCarto-GdDebat,True
