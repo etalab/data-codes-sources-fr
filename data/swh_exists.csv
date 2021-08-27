@@ -277,7 +277,7 @@ https://forgemia.inra.fr/cropmetapop/cmpanalyzer,True
 https://forgemia.inra.fr/cropmetapop/cmpconfig,False
 https://forgemia.inra.fr/cropmetapop/cmpfitness,True
 https://forgemia.inra.fr/cropmetapop/cropmetapop,False
-https://forgemia.inra.fr/dipso/aspire,False
+https://forgemia.inra.fr/dipso/aspire,True
 https://forgemia.inra.fr/dipso/bridge-datainrae-nextcloud,True
 https://forgemia.inra.fr/dipso/kubespray,True
 https://forgemia.inra.fr/enseignement-mistea/reports-with-markdown,True
@@ -1722,6 +1722,7 @@ https://github.com/GIP-RECIA/ansible-role-wireguard,True
 https://github.com/GIP-RECIA/apps-deployer,True
 https://github.com/GIP-RECIA/apps-redirector,True
 https://github.com/GIP-RECIA/awesome-selfhosted,True
+https://github.com/GIP-RECIA/bbb_custom_conf,False
 https://github.com/GIP-RECIA/cahier-de-texte,True
 https://github.com/GIP-RECIA/cas,True
 https://github.com/GIP-RECIA/cas-esco-overlay,True
