@@ -2851,7 +2851,7 @@ https://github.com/SocialGouv/map,True
 https://github.com/SocialGouv/maraudes-app,True
 https://github.com/SocialGouv/maraudes-backend,True
 https://github.com/SocialGouv/matomo-metabase,True
-https://github.com/SocialGouv/matomo-metabase-deploys,False
+https://github.com/SocialGouv/matomo-metabase-deploys,True
 https://github.com/SocialGouv/matomo-next,True
 https://github.com/SocialGouv/mattermost-plugin-google-calendar,True
 https://github.com/SocialGouv/meditor,True
@@ -5620,6 +5620,7 @@ https://github.com/neuroanatomy/StereotaxicRAMON,True
 https://github.com/neuroanatomy/SurfaceRAMON,True
 https://github.com/neuroanatomy/autism,True
 https://github.com/neuroanatomy/braincov,True
+https://github.com/neuroanatomy/brainspell2,True
 https://github.com/neuroanatomy/bruker2nifti,True
 https://github.com/neuroanatomy/challenge-engine,True
 https://github.com/neuroanatomy/cmapjs,True
