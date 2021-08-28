@@ -1723,7 +1723,7 @@ https://github.com/GIP-RECIA/ansible-role-wireguard,True
 https://github.com/GIP-RECIA/apps-deployer,True
 https://github.com/GIP-RECIA/apps-redirector,True
 https://github.com/GIP-RECIA/awesome-selfhosted,True
-https://github.com/GIP-RECIA/bbb_custom_conf,False
+https://github.com/GIP-RECIA/bbb_custom_conf,True
 https://github.com/GIP-RECIA/cahier-de-texte,True
 https://github.com/GIP-RECIA/cas,True
 https://github.com/GIP-RECIA/cas-esco-overlay,True
@@ -3683,7 +3683,7 @@ https://github.com/betagouv/solidarite-numerique,True
 https://github.com/betagouv/sqlalchemy-api-handler,True
 https://github.com/betagouv/sqlalchemy-handler,True
 https://github.com/betagouv/standup,True
-https://github.com/betagouv/stats-data-insertion,False
+https://github.com/betagouv/stats-data-insertion,True
 https://github.com/betagouv/stats_metabase_demo,True
 https://github.com/betagouv/status.api.gouv.fr,True
 https://github.com/betagouv/statut.api.gouv.fr,True
