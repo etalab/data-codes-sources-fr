@@ -6477,7 +6477,7 @@ https://gitlab.cerema.fr/centre-est/admin_ceremabase,True
 https://gitlab.cerema.fr/centre-est/diagnostic-trafic-rshiny,False
 https://gitlab.cerema.fr/centre-est/mobilite/Stream/qstream,True
 https://gitlab.cerema.fr/centre-est/mobilite/Stream/stream-python,True
-https://gitlab.cerema.fr/centre-est/mobilite/data_securite_routiere_series_,False
+https://gitlab.cerema.fr/centre-est/mobilite/data_securite_routiere_series_,True
 https://gitlab.cerema.fr/centre-est/mobilite/diagnostic-trafic-rshiny,True
 https://gitlab.cerema.fr/centre-est/mobilite/securite-routiere-series,True
 https://gitlab.cerema.fr/geomatique_donnees/en_test,True
@@ -6748,6 +6748,7 @@ https://gitlab.huma-num.fr/ecrinum/projetglissant,True
 https://gitlab.huma-num.fr/ecrinum/sens-public/gestionedition,True
 https://gitlab.huma-num.fr/ecrinum/stylo/presentations/fosdem-2020,True
 https://gitlab.huma-num.fr/ecrinum/stylo/presentations/presentation-courte,True
+https://gitlab.huma-num.fr/elan-numerique/manuels/omeka-autoformation,False
 https://gitlab.huma-num.fr/eurhisfirm/annuaires-favre,True
 https://gitlab.huma-num.fr/eurhisfirm/biryani,True
 https://gitlab.huma-num.fr/eurhisfirm/dfih-open-data,True
@@ -7306,6 +7307,7 @@ https://gitlab.inria.fr/bora-ucar/matchmaker,True
 https://gitlab.inria.fr/bptraffic/star-ips,True
 https://gitlab.inria.fr/cado-nfs/cado-nfs,True
 https://gitlab.inria.fr/cado-nfs/records,True
+https://gitlab.inria.fr/camin-soft/ant4rotor,False
 https://gitlab.inria.fr/capsid-public/conda/runner-build,True
 https://gitlab.inria.fr/capsid-public/conda/runner-deploy,True
 https://gitlab.inria.fr/capsid.crates/lib3dmol,True
