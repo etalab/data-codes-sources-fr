@@ -466,6 +466,7 @@ https://forgemia.inra.fr/inter_cati_omics/singularity/Custom_containers/Bionano_
 https://forgemia.inra.fr/inter_cati_omics/singularity/Custom_containers/dicoexpress,True
 https://forgemia.inra.fr/inter_cati_omics/singularity/biocontainers/projet-biocontainers,True
 https://forgemia.inra.fr/inter_cati_omics/snakemake/snakemake_modules,True
+https://forgemia.inra.fr/irhs-bioinfo/Divis,False
 https://forgemia.inra.fr/irhs-bioinfo/i-fungi,True
 https://forgemia.inra.fr/lbe/opensilexlbe/ontologielbe,True
 https://forgemia.inra.fr/lbe/opensilexlbe/opensilex-dev,True
@@ -8280,7 +8281,7 @@ https://gitlab.inria.fr/sed-rennes/sharelatex/web-sharelatex,True
 https://gitlab.inria.fr/sed-rennes/test-droits,True
 https://gitlab.inria.fr/sed-saclay/TutorielGitlabPages,True
 https://gitlab.inria.fr/sed-saclay/formulairesdemandesingenieur,True
-https://gitlab.inria.fr/seed_detection/benchmarking,False
+https://gitlab.inria.fr/seed_detection/benchmarking,True
 https://gitlab.inria.fr/seed_detection/precursor,True
 https://gitlab.inria.fr/seed_detection/predator,True
 https://gitlab.inria.fr/seed_detection/tools-comparison,True
