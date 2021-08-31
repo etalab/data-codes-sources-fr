@@ -276,7 +276,7 @@ https://forgemia.inra.fr/cropmetapop/CMPynalyser,True
 https://forgemia.inra.fr/cropmetapop/cmpanalyzer,True
 https://forgemia.inra.fr/cropmetapop/cmpconfig,True
 https://forgemia.inra.fr/cropmetapop/cmpfitness,True
-https://forgemia.inra.fr/cropmetapop/cropmetapop,False
+https://forgemia.inra.fr/cropmetapop/cropmetapop,True
 https://forgemia.inra.fr/dipso/aspire,True
 https://forgemia.inra.fr/dipso/bridge-datainrae-nextcloud,True
 https://forgemia.inra.fr/dipso/kubespray,True
@@ -466,7 +466,7 @@ https://forgemia.inra.fr/inter_cati_omics/singularity/Custom_containers/Bionano_
 https://forgemia.inra.fr/inter_cati_omics/singularity/Custom_containers/dicoexpress,True
 https://forgemia.inra.fr/inter_cati_omics/singularity/biocontainers/projet-biocontainers,True
 https://forgemia.inra.fr/inter_cati_omics/snakemake/snakemake_modules,True
-https://forgemia.inra.fr/irhs-bioinfo/Divis,False
+https://forgemia.inra.fr/irhs-bioinfo/Divis,True
 https://forgemia.inra.fr/irhs-bioinfo/i-fungi,True
 https://forgemia.inra.fr/lbe/opensilexlbe/ontologielbe,True
 https://forgemia.inra.fr/lbe/opensilexlbe/opensilex-dev,True
