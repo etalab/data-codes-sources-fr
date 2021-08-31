@@ -5651,7 +5651,7 @@ https://github.com/neuroanatomy/paper-reorient,False
 https://github.com/neuroanatomy/reorient,True
 https://github.com/neuroanatomy/structjs,True
 https://github.com/neuroanatomy/thresholdmann,True
-https://github.com/neuroanatomy/translucent-viewer,False
+https://github.com/neuroanatomy/translucent-viewer,True
 https://github.com/numerique-gouv/numerique.gouv.fr,True
 https://github.com/numerique-gouv/numerique.gouv.fr-infra,True
 https://github.com/observatoire-territoires/KitsCarto-GdDebat,True
@@ -7165,6 +7165,7 @@ https://gitlab.inria.fr/almanach/dyalog/dyalog-xml,True
 https://gitlab.inria.fr/almanach/lectaurep/documentation,True
 https://gitlab.inria.fr/almanach/lectaurep/escriptorium,True
 https://gitlab.inria.fr/almanach/lectaurep/models,True
+https://gitlab.inria.fr/almanach/lectaurep/ner,False
 https://gitlab.inria.fr/almanach/lectaurep/pipeline,True
 https://gitlab.inria.fr/almanach/lectaurep/spellchecking,True
 https://gitlab.inria.fr/almanach/mgkit/biomg,True
