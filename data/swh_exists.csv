@@ -280,6 +280,7 @@ https://forgemia.inra.fr/cropmetapop/cropmetapop,True
 https://forgemia.inra.fr/dipso/aspire,True
 https://forgemia.inra.fr/dipso/bridge-datainrae-nextcloud,True
 https://forgemia.inra.fr/dipso/kubespray,True
+https://forgemia.inra.fr/dipso/thesaurus-inrae,False
 https://forgemia.inra.fr/enseignement-mistea/reports-with-markdown,True
 https://forgemia.inra.fr/epgv/nlgenomesweeper,True
 https://forgemia.inra.fr/eq-record/record-team,True
@@ -4786,6 +4787,7 @@ https://github.com/etalab/transport-topo,True
 https://github.com/etalab/transport-topo-tools,True
 https://github.com/etalab/transport-validator,True
 https://github.com/etalab/transport-validator-python,True
+https://github.com/etalab/udata-front,False
 https://github.com/etalab/udata-geoplatform,True
 https://github.com/etalab/udata-gouvfr,True
 https://github.com/etalab/udata-schema-gouvfr,True
