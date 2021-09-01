@@ -1666,6 +1666,7 @@ https://github.com/EsupPortail/esup-smsu-api-admin,True
 https://github.com/EsupPortail/esup-smsu-api-mail,True
 https://github.com/EsupPortail/esup-stage,True
 https://github.com/EsupPortail/esup-sygal,True
+https://github.com/EsupPortail/esup-sygal-import-ws,False
 https://github.com/EsupPortail/esup-uportal,True
 https://github.com/EsupPortail/esup-wayf,True
 https://github.com/EsupPortail/esup-webengine-intranets,True
@@ -4726,6 +4727,7 @@ https://github.com/etalab/rubocop_api_entreprise,True
 https://github.com/etalab/run-nb,True
 https://github.com/etalab/schema-amenagements-cyclables,True
 https://github.com/etalab/schema-bal,True
+https://github.com/etalab/schema-catalogue-donnees,False
 https://github.com/etalab/schema-comptage-velo,True
 https://github.com/etalab/schema-comptage-velo-dynamique,True
 https://github.com/etalab/schema-comptage-velo-statique,True
@@ -8339,6 +8341,7 @@ https://gitlab.inria.fr/sibr/projects/simple,True
 https://gitlab.inria.fr/sibr/projects/soft3d,True
 https://gitlab.inria.fr/sibr/projects/spixelwarp,True
 https://gitlab.inria.fr/sibr/projects/tfgl_interop,True
+https://gitlab.inria.fr/sibr/projects/torchgl_interop,False
 https://gitlab.inria.fr/sibr/sibr_core,True
 https://gitlab.inria.fr/silm-seminar/silm-seminar.gitlabpages.inria.fr,True
 https://gitlab.inria.fr/silm-seminar/test_streaming,True
@@ -9074,6 +9077,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/iab-env-epi/ciment-user-guide,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/iab-env-epi/git-rstudio-tutorial,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/iab-env-epi/jedynak_prenatal_2020,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/iab-env-epi/philippat_comparison_2020,True
+https://gricad-gitlab.univ-grenoble-alpes.fr/iab-env-epi/philippat_pre_2021,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/iab-env-epi/rolland_exposure_2020,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/icall/MagicWord,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/ikats/op-rhm,True
