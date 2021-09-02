@@ -4451,6 +4451,7 @@ https://github.com/etalab-ia/demo-piaf,True
 https://github.com/etalab-ia/doctr,True
 https://github.com/etalab-ia/explainable_api,True
 https://github.com/etalab-ia/florian_opendatascience,True
+https://github.com/etalab-ia/hubeau_chatbot,False
 https://github.com/etalab-ia/knowledge-base,True
 https://github.com/etalab-ia/mlflow-docker,True
 https://github.com/etalab-ia/ocr-xtract,True
@@ -6821,6 +6822,7 @@ https://gitlab.huma-num.fr/lamop/yersinia,True
 https://gitlab.huma-num.fr/le-livre-de-la-jeunesse-engag-e-en-nouvelle-aquitaine/le-livre-de-la-jeunesse-engagee,True
 https://gitlab.huma-num.fr/lemmatisation-fro/bfm-lem,True
 https://gitlab.huma-num.fr/mappemonde/archives,True
+https://gitlab.huma-num.fr/mshs-poitiers/forellis/amalgameclassifier,False
 https://gitlab.huma-num.fr/mshs-poitiers/forellis/datagrowth,True
 https://gitlab.huma-num.fr/mshs-poitiers/forellis/dicodiachro,True
 https://gitlab.huma-num.fr/mshs-poitiers/forellis/erea,True
@@ -7864,6 +7866,7 @@ https://gitlab.inria.fr/grid5000/kameleon_g5k_custom_recipes_examples,True
 https://gitlab.inria.fr/grid5000/kwapi-g5k,True
 https://gitlab.inria.fr/grid5000/kwollect,True
 https://gitlab.inria.fr/grid5000/kwollect-dashboard,True
+https://gitlab.inria.fr/grid5000/libfabric,False
 https://gitlab.inria.fr/grid5000/megaraid_sas,True
 https://gitlab.inria.fr/grid5000/metrology-api,True
 https://gitlab.inria.fr/grid5000/notebook-tutorial,True
