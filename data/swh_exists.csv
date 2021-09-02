@@ -4796,7 +4796,7 @@ https://github.com/etalab/urbaclic-next,True
 https://github.com/etalab/urban-olympics.etalab.studio,True
 https://github.com/etalab/user-research,True
 https://github.com/etalab/utilery-recipe-jurpol,True
-https://github.com/etalab/validata.etalab.studio,False
+https://github.com/etalab/validata.etalab.studio,True
 https://github.com/etalab/vuepress-gouv-fr-demo,True
 https://github.com/etalab/vuepress-theme-gouv-fr,True
 https://github.com/etalab/watchdoge_apientreprise,True
@@ -9379,6 +9379,7 @@ https://plmlab.math.cnrs.fr/imt/acces_backup,True
 https://plmlab.math.cnrs.fr/imt/ansible_deploy_nfs,True
 https://plmlab.math.cnrs.fr/imt/fragma/fragma-on-amqp,True
 https://plmlab.math.cnrs.fr/imt/fragma/plm-oidc-authentification,True
+https://plmlab.math.cnrs.fr/imt/imt_belenios,False
 https://plmlab.math.cnrs.fr/imt/nixos-nginx-openid,True
 https://plmlab.math.cnrs.fr/imt/plmbox_restore,True
 https://plmlab.math.cnrs.fr/imt/puppet/gitlab_deploy_key,True
