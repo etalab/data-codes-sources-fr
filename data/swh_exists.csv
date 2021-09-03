@@ -4732,7 +4732,7 @@ https://github.com/etalab/rubocop_api_entreprise,True
 https://github.com/etalab/run-nb,True
 https://github.com/etalab/schema-amenagements-cyclables,True
 https://github.com/etalab/schema-bal,True
-https://github.com/etalab/schema-catalogue-donnees,False
+https://github.com/etalab/schema-catalogue-donnees,True
 https://github.com/etalab/schema-comptage-velo,True
 https://github.com/etalab/schema-comptage-velo-dynamique,True
 https://github.com/etalab/schema-comptage-velo-statique,True
@@ -4791,6 +4791,7 @@ https://github.com/etalab/transport-topo,True
 https://github.com/etalab/transport-topo-tools,True
 https://github.com/etalab/transport-validator,True
 https://github.com/etalab/transport-validator-python,True
+https://github.com/etalab/udata-devcontainer,False
 https://github.com/etalab/udata-front,True
 https://github.com/etalab/udata-geoplatform,True
 https://github.com/etalab/udata-gouvfr,True
@@ -6034,6 +6035,7 @@ https://github.com/powerapi-ng/junit-jjoules,True
 https://github.com/powerapi-ng/powerapi,True
 https://github.com/powerapi-ng/powerapi-ng.github.io,True
 https://github.com/powerapi-ng/powerapi-scala,True
+https://github.com/powerapi-ng/procfs-sensor,False
 https://github.com/powerapi-ng/pyJoules,True
 https://github.com/powerapi-ng/pyRAPL,True
 https://github.com/powerapi-ng/rapl-formula,True
@@ -6825,7 +6827,7 @@ https://gitlab.huma-num.fr/lamop/yersinia,True
 https://gitlab.huma-num.fr/le-livre-de-la-jeunesse-engag-e-en-nouvelle-aquitaine/le-livre-de-la-jeunesse-engagee,True
 https://gitlab.huma-num.fr/lemmatisation-fro/bfm-lem,True
 https://gitlab.huma-num.fr/mappemonde/archives,True
-https://gitlab.huma-num.fr/mshs-poitiers/forellis/amalgameclassifier,False
+https://gitlab.huma-num.fr/mshs-poitiers/forellis/amalgameclassifier,True
 https://gitlab.huma-num.fr/mshs-poitiers/forellis/datagrowth,True
 https://gitlab.huma-num.fr/mshs-poitiers/forellis/dicodiachro,True
 https://gitlab.huma-num.fr/mshs-poitiers/forellis/erea,True
