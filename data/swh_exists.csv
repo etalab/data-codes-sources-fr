@@ -3208,6 +3208,7 @@ https://github.com/assurance-maladie-digital/api-droits-fs-exemple-php,True
 https://github.com/assurance-maladie-digital/api.gouv.fr,True
 https://github.com/assurance-maladie-digital/assurance-maladie-digital.github.io,True
 https://github.com/assurance-maladie-digital/design-system,True
+https://github.com/assurance-maladie-digital/github-status-orb,False
 https://github.com/assurance-maladie-digital/vue-cli-preset,True
 https://github.com/assurance-maladie-digital/vue-dash,True
 https://github.com/assurance-maladie-digital/vue-dot,True
@@ -4783,12 +4784,12 @@ https://github.com/etalab/transport-history,True
 https://github.com/etalab/transport-landing-page,True
 https://github.com/etalab/transport-ops,True
 https://github.com/etalab/transport-site,True
-https://github.com/etalab/transport-tools,False
+https://github.com/etalab/transport-tools,True
 https://github.com/etalab/transport-topo,True
 https://github.com/etalab/transport-topo-tools,True
 https://github.com/etalab/transport-validator,True
 https://github.com/etalab/transport-validator-python,True
-https://github.com/etalab/udata-front,False
+https://github.com/etalab/udata-front,True
 https://github.com/etalab/udata-geoplatform,True
 https://github.com/etalab/udata-gouvfr,True
 https://github.com/etalab/udata-schema-gouvfr,True
@@ -8346,7 +8347,7 @@ https://gitlab.inria.fr/sibr/projects/simple,True
 https://gitlab.inria.fr/sibr/projects/soft3d,True
 https://gitlab.inria.fr/sibr/projects/spixelwarp,True
 https://gitlab.inria.fr/sibr/projects/tfgl_interop,True
-https://gitlab.inria.fr/sibr/projects/torchgl_interop,False
+https://gitlab.inria.fr/sibr/projects/torchgl_interop,True
 https://gitlab.inria.fr/sibr/sibr_core,True
 https://gitlab.inria.fr/silm-seminar/silm-seminar.gitlabpages.inria.fr,True
 https://gitlab.inria.fr/silm-seminar/test_streaming,True
