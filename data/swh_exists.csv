@@ -3211,7 +3211,7 @@ https://github.com/assurance-maladie-digital/api-droits-fs-exemple-php,True
 https://github.com/assurance-maladie-digital/api.gouv.fr,True
 https://github.com/assurance-maladie-digital/assurance-maladie-digital.github.io,True
 https://github.com/assurance-maladie-digital/design-system,True
-https://github.com/assurance-maladie-digital/github-status-orb,False
+https://github.com/assurance-maladie-digital/github-status-orb,True
 https://github.com/assurance-maladie-digital/vue-cli-preset,True
 https://github.com/assurance-maladie-digital/vue-dash,True
 https://github.com/assurance-maladie-digital/vue-dot,True
@@ -7177,7 +7177,7 @@ https://gitlab.inria.fr/almanach/dyalog/dyalog-xml,True
 https://gitlab.inria.fr/almanach/lectaurep/documentation,True
 https://gitlab.inria.fr/almanach/lectaurep/escriptorium,True
 https://gitlab.inria.fr/almanach/lectaurep/models,True
-https://gitlab.inria.fr/almanach/lectaurep/ner,False
+https://gitlab.inria.fr/almanach/lectaurep/ner,True
 https://gitlab.inria.fr/almanach/lectaurep/pipeline,True
 https://gitlab.inria.fr/almanach/lectaurep/spellchecking,True
 https://gitlab.inria.fr/almanach/mgkit/biomg,True
