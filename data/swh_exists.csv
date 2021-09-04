@@ -280,7 +280,7 @@ https://forgemia.inra.fr/cropmetapop/cropmetapop,True
 https://forgemia.inra.fr/dipso/aspire,True
 https://forgemia.inra.fr/dipso/bridge-datainrae-nextcloud,True
 https://forgemia.inra.fr/dipso/kubespray,True
-https://forgemia.inra.fr/dipso/thesaurus-inrae,False
+https://forgemia.inra.fr/dipso/thesaurus-inrae,True
 https://forgemia.inra.fr/enseignement-mistea/reports-with-markdown,True
 https://forgemia.inra.fr/epgv/nlgenomesweeper,True
 https://forgemia.inra.fr/eq-record/record-team,True
@@ -2796,6 +2796,7 @@ https://github.com/SocialGouv/dashlord-save-action,True
 https://github.com/SocialGouv/dashlord-thirdparties-action,True
 https://github.com/SocialGouv/datafiller,True
 https://github.com/SocialGouv/datafiller-data,True
+https://github.com/SocialGouv/detect-404-action,False
 https://github.com/SocialGouv/dila-api-client,True
 https://github.com/SocialGouv/dila-tests-api,True
 https://github.com/SocialGouv/dila2sql,True
@@ -4791,7 +4792,7 @@ https://github.com/etalab/transport-topo,True
 https://github.com/etalab/transport-topo-tools,True
 https://github.com/etalab/transport-validator,True
 https://github.com/etalab/transport-validator-python,True
-https://github.com/etalab/udata-devcontainer,False
+https://github.com/etalab/udata-devcontainer,True
 https://github.com/etalab/udata-front,True
 https://github.com/etalab/udata-geoplatform,True
 https://github.com/etalab/udata-gouvfr,True
@@ -7871,7 +7872,7 @@ https://gitlab.inria.fr/grid5000/kameleon_g5k_custom_recipes_examples,True
 https://gitlab.inria.fr/grid5000/kwapi-g5k,True
 https://gitlab.inria.fr/grid5000/kwollect,True
 https://gitlab.inria.fr/grid5000/kwollect-dashboard,True
-https://gitlab.inria.fr/grid5000/libfabric,False
+https://gitlab.inria.fr/grid5000/libfabric,True
 https://gitlab.inria.fr/grid5000/megaraid_sas,True
 https://gitlab.inria.fr/grid5000/metrology-api,True
 https://gitlab.inria.fr/grid5000/notebook-tutorial,True
