@@ -6764,7 +6764,7 @@ https://gitlab.huma-num.fr/ecrinum/projetglissant,True
 https://gitlab.huma-num.fr/ecrinum/sens-public/gestionedition,True
 https://gitlab.huma-num.fr/ecrinum/stylo/presentations/fosdem-2020,True
 https://gitlab.huma-num.fr/ecrinum/stylo/presentations/presentation-courte,True
-https://gitlab.huma-num.fr/elan-numerique/manuels/omeka-autoformation,False
+https://gitlab.huma-num.fr/elan-numerique/manuels/omeka-autoformation,True
 https://gitlab.huma-num.fr/eurhisfirm/annuaires-favre,True
 https://gitlab.huma-num.fr/eurhisfirm/biryani,True
 https://gitlab.huma-num.fr/eurhisfirm/dfih-open-data,True
@@ -8512,6 +8512,7 @@ https://gitlab.inria.fr/why3/why3,True
 https://gitlab.inria.fr/why3/whymp,True
 https://gitlab.inria.fr/x-lab/x-book,True
 https://gitlab.inria.fr/x-lab/x-deno,True
+https://gitlab.inria.fr/x-lab/x-deploy,False
 https://gitlab.inria.fr/x-lab/x-doc,True
 https://gitlab.inria.fr/x-lab/x-gui,True
 https://gitlab.inria.fr/x-lab/x-logger,True
