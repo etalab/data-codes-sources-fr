@@ -1351,7 +1351,7 @@ https://github.com/CatalaLang/catala,True
 https://github.com/CatalaLang/catala-website,True
 https://github.com/Cour-de-cassation/judilibre-infra,True
 https://github.com/Cour-de-cassation/judilibre-search,True
-https://github.com/Cour-de-cassation/judilibre-uptime,False
+https://github.com/Cour-de-cassation/judilibre-uptime,True
 https://github.com/Cour-de-cassation/judillibre-search,False
 https://github.com/Cour-de-cassation/label,True
 https://github.com/Cour-de-cassation/moteurNER,True
@@ -2631,7 +2631,7 @@ https://github.com/PnX-SI/GeoNature-atlas,True
 https://github.com/PnX-SI/GeoNature-citizen,True
 https://github.com/PnX-SI/GeoNature-docker,True
 https://github.com/PnX-SI/GeoNature-packaging,True
-https://github.com/PnX-SI/GeoNature-website,False
+https://github.com/PnX-SI/GeoNature-website,True
 https://github.com/PnX-SI/GeoPaysages,True
 https://github.com/PnX-SI/Habref-api-module,True
 https://github.com/PnX-SI/Nomenclature-api-module,True
@@ -2796,7 +2796,7 @@ https://github.com/SocialGouv/dashlord-save-action,True
 https://github.com/SocialGouv/dashlord-thirdparties-action,True
 https://github.com/SocialGouv/datafiller,True
 https://github.com/SocialGouv/datafiller-data,True
-https://github.com/SocialGouv/detect-404-action,False
+https://github.com/SocialGouv/detect-404-action,True
 https://github.com/SocialGouv/dila-api-client,True
 https://github.com/SocialGouv/dila-tests-api,True
 https://github.com/SocialGouv/dila2sql,True
@@ -8512,7 +8512,7 @@ https://gitlab.inria.fr/why3/why3,True
 https://gitlab.inria.fr/why3/whymp,True
 https://gitlab.inria.fr/x-lab/x-book,True
 https://gitlab.inria.fr/x-lab/x-deno,True
-https://gitlab.inria.fr/x-lab/x-deploy,False
+https://gitlab.inria.fr/x-lab/x-deploy,True
 https://gitlab.inria.fr/x-lab/x-doc,True
 https://gitlab.inria.fr/x-lab/x-gui,True
 https://gitlab.inria.fr/x-lab/x-logger,True
