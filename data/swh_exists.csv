@@ -1668,7 +1668,7 @@ https://github.com/EsupPortail/esup-smsu-api-admin,True
 https://github.com/EsupPortail/esup-smsu-api-mail,True
 https://github.com/EsupPortail/esup-stage,True
 https://github.com/EsupPortail/esup-sygal,True
-https://github.com/EsupPortail/esup-sygal-import-ws,False
+https://github.com/EsupPortail/esup-sygal-import-ws,True
 https://github.com/EsupPortail/esup-uportal,True
 https://github.com/EsupPortail/esup-wayf,True
 https://github.com/EsupPortail/esup-webengine-intranets,True
