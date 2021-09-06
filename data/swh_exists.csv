@@ -2807,7 +2807,7 @@ https://github.com/SocialGouv/domifa,True
 https://github.com/SocialGouv/ds-aggregator,True
 https://github.com/SocialGouv/ds-collector,True
 https://github.com/SocialGouv/ds-dashboard,True
-https://github.com/SocialGouv/dsfr,False
+https://github.com/SocialGouv/dsfr,True
 https://github.com/SocialGouv/eMJPM-api,True
 https://github.com/SocialGouv/eMJPM-app,True
 https://github.com/SocialGouv/eMJPM-doc,True
@@ -2895,6 +2895,7 @@ https://github.com/SocialGouv/react-medixtor,True
 https://github.com/SocialGouv/recherche-entreprises,True
 https://github.com/SocialGouv/reference-article,True
 https://github.com/SocialGouv/renovate-config,True
+https://github.com/SocialGouv/reva,False
 https://github.com/SocialGouv/runners-bench,True
 https://github.com/SocialGouv/sample-next-app,True
 https://github.com/SocialGouv/scanners-action,True
@@ -3095,6 +3096,7 @@ https://github.com/abes-esr/poc-fne,True
 https://github.com/abes-esr/poc-fne-wikibase-docker,True
 https://github.com/abes-esr/poc-fne-wikidata-query-gui,True
 https://github.com/abes-esr/pydref,True
+https://github.com/abes-esr/qualinka-findra,False
 https://github.com/abes-esr/scienceplus-content,True
 https://github.com/abes-esr/scienceplus-queries,True
 https://github.com/abes-esr/scienceplus-queries-grlc,True
