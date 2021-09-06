@@ -1765,6 +1765,7 @@ https://github.com/GIP-RECIA/gip-recia.github.io,True
 https://github.com/GIP-RECIA/greenlight,True
 https://github.com/GIP-RECIA/grr-eleves,True
 https://github.com/GIP-RECIA/h5p-moodle-plugin,True
+https://github.com/GIP-RECIA/h5p-php-library,False
 https://github.com/GIP-RECIA/help-info-portlet,True
 https://github.com/GIP-RECIA/icons-pack,True
 https://github.com/GIP-RECIA/iframe-resizer,True
@@ -2896,6 +2897,7 @@ https://github.com/SocialGouv/recherche-entreprises,True
 https://github.com/SocialGouv/reference-article,True
 https://github.com/SocialGouv/renovate-config,True
 https://github.com/SocialGouv/reva,False
+https://github.com/SocialGouv/reva-enquete,False
 https://github.com/SocialGouv/runners-bench,True
 https://github.com/SocialGouv/sample-next-app,True
 https://github.com/SocialGouv/scanners-action,True
@@ -4036,6 +4038,7 @@ https://github.com/dataesr/bso-publications,True
 https://github.com/dataesr/bso-ui,True
 https://github.com/dataesr/curieXplore-paysage,True
 https://github.com/dataesr/curiexplore-paysage,True
+https://github.com/dataesr/harvest-patstat,False
 https://github.com/dataesr/harvest-pubmed,True
 https://github.com/dataesr/kubectl-deploy,True
 https://github.com/dataesr/matcher,True
@@ -8150,6 +8153,9 @@ https://gitlab.inria.fr/obelix/broceliande,True
 https://gitlab.inria.fr/obelix/triskele,True
 https://gitlab.inria.fr/open-mx/open-mx,True
 https://gitlab.inria.fr/openbiscuit/rescience_egbert14,True
+https://gitlab.inria.fr/openbiscuit/software/loriakhep,False
+https://gitlab.inria.fr/openbiscuit/software/psyphine_gforge,False
+https://gitlab.inria.fr/openbiscuit/software/wifibotlib,False
 https://gitlab.inria.fr/openmp/clang,True
 https://gitlab.inria.fr/openmp/energy,True
 https://gitlab.inria.fr/openmp/enertools,True
