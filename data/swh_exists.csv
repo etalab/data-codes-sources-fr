@@ -2807,6 +2807,7 @@ https://github.com/SocialGouv/domifa,True
 https://github.com/SocialGouv/ds-aggregator,True
 https://github.com/SocialGouv/ds-collector,True
 https://github.com/SocialGouv/ds-dashboard,True
+https://github.com/SocialGouv/dsfr,False
 https://github.com/SocialGouv/eMJPM-api,True
 https://github.com/SocialGouv/eMJPM-app,True
 https://github.com/SocialGouv/eMJPM-doc,True
@@ -4821,7 +4822,7 @@ https://github.com/ezpaarse-project/bibliomap-harvester,True
 https://github.com/ezpaarse-project/bibliomap-theme.github.io,True
 https://github.com/ezpaarse-project/bibliomap-viewer,True
 https://github.com/ezpaarse-project/crossref,True
-https://github.com/ezpaarse-project/csv2kib,False
+https://github.com/ezpaarse-project/csv2kib,True
 https://github.com/ezpaarse-project/dbbench,True
 https://github.com/ezpaarse-project/docker-ezvis,True
 https://github.com/ezpaarse-project/ez-unpaywall,True
@@ -6119,6 +6120,7 @@ https://github.com/signaux-faibles/documentation,True
 https://github.com/signaux-faibles/fakeData,True
 https://github.com/signaux-faibles/frontend,True
 https://github.com/signaux-faibles/fte,True
+https://github.com/signaux-faibles/goSirene,False
 https://github.com/signaux-faibles/gorncs-api,True
 https://github.com/signaux-faibles/goup,True
 https://github.com/signaux-faibles/gournal,True
