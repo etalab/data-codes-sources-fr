@@ -4075,6 +4075,7 @@ https://github.com/datalab-mi/dev-infra,True
 https://github.com/datalab-mi/docker-dss,True
 https://github.com/datalab-mi/docker-postgres,True
 https://github.com/datalab-mi/ghost,True
+https://github.com/datalab-mi/ia-foule,False
 https://github.com/datalab-mi/lab-cv,True
 https://github.com/datalab-mi/lab-nlp,True
 https://github.com/datalab-mi/mdr-infra,True
@@ -4966,6 +4967,7 @@ https://github.com/ia-flash/frontend,True
 https://github.com/ia-flash/lab,True
 https://github.com/ia-flash/matchvec,True
 https://github.com/ia-flash/mmdetection,True
+https://github.com/ia-flash/ref_caradisiac,False
 https://github.com/ia-flash/s3-download-action,True
 https://github.com/ia-flash/sivnorm,True
 https://github.com/imagesdesmaths/idm,True
