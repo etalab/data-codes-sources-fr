@@ -1766,7 +1766,7 @@ https://github.com/GIP-RECIA/gip-recia.github.io,True
 https://github.com/GIP-RECIA/greenlight,True
 https://github.com/GIP-RECIA/grr-eleves,True
 https://github.com/GIP-RECIA/h5p-moodle-plugin,True
-https://github.com/GIP-RECIA/h5p-php-library,False
+https://github.com/GIP-RECIA/h5p-php-library,True
 https://github.com/GIP-RECIA/help-info-portlet,True
 https://github.com/GIP-RECIA/icons-pack,True
 https://github.com/GIP-RECIA/iframe-resizer,True
@@ -6126,7 +6126,7 @@ https://github.com/signaux-faibles/documentation,True
 https://github.com/signaux-faibles/fakeData,True
 https://github.com/signaux-faibles/frontend,True
 https://github.com/signaux-faibles/fte,True
-https://github.com/signaux-faibles/goSirene,False
+https://github.com/signaux-faibles/goSirene,True
 https://github.com/signaux-faibles/gorncs-api,True
 https://github.com/signaux-faibles/goup,True
 https://github.com/signaux-faibles/gournal,True
@@ -8262,7 +8262,7 @@ https://gitlab.inria.fr/revol/mpfi,True
 https://gitlab.inria.fr/rmod-public/2019-sourcecodedata,True
 https://gitlab.inria.fr/rmod-public/steven-tests/steven-tests.gitlab.inria.fr,False
 https://gitlab.inria.fr/ros_nodes/hrl-kdl,True
-https://gitlab.inria.fr/rsdschool21/website,False
+https://gitlab.inria.fr/rsdschool21/website,True
 https://gitlab.inria.fr/rsed1/documentation,False
 https://gitlab.inria.fr/runaway/mixup,True
 https://gitlab.inria.fr/runaway/runaway,True
