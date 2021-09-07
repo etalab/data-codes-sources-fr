@@ -1245,6 +1245,7 @@ https://github.com/CCSDForge/episciences,True
 https://github.com/CCSDForge/episciences-api,True
 https://github.com/CCSDForge/episciences-doc,True
 https://github.com/CCSDForge/orcid-php-client,True
+https://github.com/CCSDForge/php-hcaptcha,False
 https://github.com/CEA-LIST/AD-RobustnessEval,True
 https://github.com/CEA-LIST/CinguParam,True
 https://github.com/CEA-LIST/Cingulata,True
@@ -3098,7 +3099,7 @@ https://github.com/abes-esr/poc-fne,True
 https://github.com/abes-esr/poc-fne-wikibase-docker,True
 https://github.com/abes-esr/poc-fne-wikidata-query-gui,True
 https://github.com/abes-esr/pydref,True
-https://github.com/abes-esr/qualinka-findra,False
+https://github.com/abes-esr/qualinka-findra,True
 https://github.com/abes-esr/scienceplus-content,True
 https://github.com/abes-esr/scienceplus-queries,True
 https://github.com/abes-esr/scienceplus-queries-grlc,True
@@ -4038,7 +4039,7 @@ https://github.com/dataesr/bso-publications,True
 https://github.com/dataesr/bso-ui,True
 https://github.com/dataesr/curieXplore-paysage,True
 https://github.com/dataesr/curiexplore-paysage,True
-https://github.com/dataesr/harvest-patstat,False
+https://github.com/dataesr/harvest-patstat,True
 https://github.com/dataesr/harvest-pubmed,True
 https://github.com/dataesr/kubectl-deploy,True
 https://github.com/dataesr/matcher,True
@@ -7358,6 +7359,7 @@ https://gitlab.inria.fr/chroma/drone-simulator,True
 https://gitlab.inria.fr/chroma/drones/drone-simulator,True
 https://gitlab.inria.fr/chroma/intelaero-cao,True
 https://gitlab.inria.fr/ciao/pmns-for-sidh,True
+https://gitlab.inria.fr/cidre-public/cfi-c,False
 https://gitlab.inria.fr/cidre-public/dada,True
 https://gitlab.inria.fr/cidre-public/debiased-android-malware-datasets,False
 https://gitlab.inria.fr/cidre-public/from-ttp-to-ioc-dataset,True
@@ -9441,7 +9443,7 @@ https://plmlab.math.cnrs.fr/pagesfil/test-drupal,True
 https://plmlab.math.cnrs.fr/pagesfil/web-mathrice,True
 https://plmlab.math.cnrs.fr/perso/docs,True
 https://plmlab.math.cnrs.fr/perso/perso.pages.math.cnrs.fr,True
-https://plmlab.math.cnrs.fr/perso/users/andrea.marrama,False
+https://plmlab.math.cnrs.fr/perso/users/andrea.marrama,True
 https://plmlab.math.cnrs.fr/perso/users/arthur.touati,True
 https://plmlab.math.cnrs.fr/perso/users/bertrand.remy,True
 https://plmlab.math.cnrs.fr/perso/users/caterina.valcu,True
