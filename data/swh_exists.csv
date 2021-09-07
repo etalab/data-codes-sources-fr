@@ -613,6 +613,7 @@ https://forgemia.inra.fr/urgi-is/data-discovery,True
 https://forgemia.inra.fr/urgi-is/docker-rare,True
 https://forgemia.inra.fr/urgi-is/faidare,True
 https://forgemia.inra.fr/urgi-is/ontologies,True
+https://forgemia.inra.fr/vasa/illuminametabarcoding,False
 https://framagit.org/datatourisme/api,True
 https://framagit.org/datatourisme/docker-stack,True
 https://framagit.org/datatourisme/ontology,True
@@ -2898,7 +2899,7 @@ https://github.com/SocialGouv/recherche-entreprises,True
 https://github.com/SocialGouv/reference-article,True
 https://github.com/SocialGouv/renovate-config,True
 https://github.com/SocialGouv/reva,False
-https://github.com/SocialGouv/reva-enquete,False
+https://github.com/SocialGouv/reva-enquete,True
 https://github.com/SocialGouv/runners-bench,True
 https://github.com/SocialGouv/sample-next-app,True
 https://github.com/SocialGouv/scanners-action,True
