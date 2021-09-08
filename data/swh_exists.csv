@@ -238,6 +238,8 @@ https://forgemia.inra.fr/QTL/spell-qtl,True
 https://forgemia.inra.fr/acep/careb,True
 https://forgemia.inra.fr/adminforgemia/doc-public,True
 https://forgemia.inra.fr/agriterix/agriterix,True
+https://forgemia.inra.fr/agriterix/datamap,False
+https://forgemia.inra.fr/agriterix/dataprocess,False
 https://forgemia.inra.fr/agriterix/doc,True
 https://forgemia.inra.fr/agriterix/farm-generator,True
 https://forgemia.inra.fr/agriterix/import-export,True
@@ -7605,7 +7607,7 @@ https://gitlab.inria.fr/epione/promfusion,True
 https://gitlab.inria.fr/epione/unsegqc,True
 https://gitlab.inria.fr/epione_ML/bayesian-learning-uca,True
 https://gitlab.inria.fr/epione_ML/mcvae,True
-https://gitlab.inria.fr/erable/MultiPusAsp,False
+https://gitlab.inria.fr/erable/MultiPusAsp,True
 https://gitlab.inria.fr/erable/coala,False
 https://gitlab.inria.fr/erable/eucalypt,False
 https://gitlab.inria.fr/erable/kirikomics/hglib,True
