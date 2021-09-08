@@ -613,7 +613,7 @@ https://forgemia.inra.fr/urgi-is/data-discovery,True
 https://forgemia.inra.fr/urgi-is/docker-rare,True
 https://forgemia.inra.fr/urgi-is/faidare,True
 https://forgemia.inra.fr/urgi-is/ontologies,True
-https://forgemia.inra.fr/vasa/illuminametabarcoding,False
+https://forgemia.inra.fr/vasa/illuminametabarcoding,True
 https://framagit.org/datatourisme/api,True
 https://framagit.org/datatourisme/docker-stack,True
 https://framagit.org/datatourisme/ontology,True
@@ -1246,7 +1246,7 @@ https://github.com/CCSDForge/episciences,True
 https://github.com/CCSDForge/episciences-api,True
 https://github.com/CCSDForge/episciences-doc,True
 https://github.com/CCSDForge/orcid-php-client,True
-https://github.com/CCSDForge/php-hcaptcha,False
+https://github.com/CCSDForge/php-hcaptcha,True
 https://github.com/CEA-LIST/AD-RobustnessEval,True
 https://github.com/CEA-LIST/CinguParam,True
 https://github.com/CEA-LIST/Cingulata,True
@@ -3433,6 +3433,7 @@ https://github.com/betagouv/domain-scan,True
 https://github.com/betagouv/dora,True
 https://github.com/betagouv/dora-back,True
 https://github.com/betagouv/dora-front,True
+https://github.com/betagouv/dora-pdf,False
 https://github.com/betagouv/dossiersco,True
 https://github.com/betagouv/dossiersco-maintenance,True
 https://github.com/betagouv/dossiersco-openlab1,True
@@ -4130,6 +4131,7 @@ https://github.com/dinsic-pim/tchap-support,True
 https://github.com/dinsic-pim/tchap-web,True
 https://github.com/dinsic-pim/tchap-web-v3,True
 https://github.com/dinsic-pim/tchap-welcome,False
+https://github.com/dinum-HubEE/Documentations,False
 https://github.com/diplomatiegouvfr/applitutoriel-js,True
 https://github.com/diplomatiegouvfr/applitutoriel-modules,True
 https://github.com/diplomatiegouvfr/applitutoriel-online,True
@@ -7603,10 +7605,15 @@ https://gitlab.inria.fr/epione/promfusion,True
 https://gitlab.inria.fr/epione/unsegqc,True
 https://gitlab.inria.fr/epione_ML/bayesian-learning-uca,True
 https://gitlab.inria.fr/epione_ML/mcvae,True
+https://gitlab.inria.fr/erable/MultiPusAsp,False
+https://gitlab.inria.fr/erable/coala,False
+https://gitlab.inria.fr/erable/eucalypt,False
 https://gitlab.inria.fr/erable/kirikomics/hglib,True
 https://gitlab.inria.fr/erable/kirikomics/metnetlib,True
 https://gitlab.inria.fr/erable/kirikomics/metnetlib-minproject,True
 https://gitlab.inria.fr/erable/kissplice,True
+https://gitlab.inria.fr/erable/mirinho,False
+https://gitlab.inria.fr/erable/momo-sysbio,False
 https://gitlab.inria.fr/erable/totoro,True
 https://gitlab.inria.fr/etac/notice-etac,True
 https://gitlab.inria.fr/evalanon/enoslib,True
