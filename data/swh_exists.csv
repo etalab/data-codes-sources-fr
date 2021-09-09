@@ -612,6 +612,7 @@ https://forgemia.inra.fr/urep/soere-pp/aigoual,True
 https://forgemia.inra.fr/urep/soere-pp/doc_soere-pp,True
 https://forgemia.inra.fr/urep/soere-pp/meteosolApp,True
 https://forgemia.inra.fr/urep/soere-pp/meteosolToolbox,True
+https://forgemia.inra.fr/urgi-anagen/caulifinder_docker,False
 https://forgemia.inra.fr/urgi-is/data-discovery,True
 https://forgemia.inra.fr/urgi-is/docker-rare,True
 https://forgemia.inra.fr/urgi-is/faidare,True
@@ -4975,7 +4976,7 @@ https://github.com/ia-flash/frontend,True
 https://github.com/ia-flash/lab,True
 https://github.com/ia-flash/matchvec,True
 https://github.com/ia-flash/mmdetection,True
-https://github.com/ia-flash/ref_caradisiac,False
+https://github.com/ia-flash/ref_caradisiac,True
 https://github.com/ia-flash/s3-download-action,True
 https://github.com/ia-flash/sivnorm,True
 https://github.com/imagesdesmaths/idm,True
@@ -7778,6 +7779,7 @@ https://gitlab.inria.fr/gazelle/library/ui-service,True
 https://gitlab.inria.fr/gazelle/library/unit-test,True
 https://gitlab.inria.fr/gazelle/library/validators/src-gen/hpd/hpd-code-jar,False
 https://gitlab.inria.fr/gazelle/library/validators/src-gen/hpd/ihehpd-code-jar,False
+https://gitlab.inria.fr/gazelle/library/validators/src-gen/hpd/ihehpd-validator-jar,False
 https://gitlab.inria.fr/gazelle/library/version,True
 https://gitlab.inria.fr/gazelle/model-api/gazelle-model,True
 https://gitlab.inria.fr/gazelle/model-api/gitb,True
@@ -8202,7 +8204,7 @@ https://gitlab.inria.fr/openvibe/meta,True
 https://gitlab.inria.fr/openvibe/sdk,True
 https://gitlab.inria.fr/openvibe/unity-games/LSL4Unity,True
 https://gitlab.inria.fr/openvibe/unity-games/basketball,True
-https://gitlab.inria.fr/openvibe/unity-games/bci-gest,False
+https://gitlab.inria.fr/openvibe/unity-games/bci-gest,True
 https://gitlab.inria.fr/openvibe/unity-games/brain-hero,True
 https://gitlab.inria.fr/openvibe/unity-games/games,True
 https://gitlab.inria.fr/openvibe/unity-games/hello-bidirectionnal,True
@@ -9298,6 +9300,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/synchrone/tools-distrib,Tru
 https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/tempo/StlEval,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/tempo/boolean,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/tempo/multidimensional_search,True
+https://gricad-gitlab.univ-grenoble-alpes.fr/vision-r-public/architool,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/vote22/simulation,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/vqgroup/KaZoSCa-stack,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/vqgroup/docker-spy,True
