@@ -98,6 +98,15 @@ class GitLabOrg(object):
 
         data = response.json()
 
+        url_projects = self.base_url + "groups/" + self.organisation + "/projects?include_subgroups=true"
+
+        response_projects = requests.get(url_projects)
+        if response_projects.status_code == 404:
+            return {}
+        response_projects.raise_for_status()
+
+        data_projects = response_projects.json()
+
         res = {
             "login": data["path"],
             "description": data["description"],
@@ -108,7 +117,7 @@ class GitLabOrg(object):
             "adresse": None,
             "email": None,
             "est_verifiee": None,
-            "nombre_repertoires": len(data["projects"]),
+            "nombre_repertoires": len(data_projects),
             "date_creation": None,
             "plateforme": "GitLab",
         }
