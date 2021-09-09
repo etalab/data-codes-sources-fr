@@ -239,7 +239,7 @@ https://forgemia.inra.fr/acep/careb,True
 https://forgemia.inra.fr/adminforgemia/doc-public,True
 https://forgemia.inra.fr/agriterix/agriterix,True
 https://forgemia.inra.fr/agriterix/datamap,False
-https://forgemia.inra.fr/agriterix/dataprocess,False
+https://forgemia.inra.fr/agriterix/dataprocess,True
 https://forgemia.inra.fr/agriterix/doc,True
 https://forgemia.inra.fr/agriterix/farm-generator,True
 https://forgemia.inra.fr/agriterix/import-export,True
@@ -4890,6 +4890,7 @@ https://github.com/fabnumdef/fabrique-chatbot,True
 https://github.com/fabnumdef/fabrique-chatbot-back,True
 https://github.com/fabnumdef/fabrique-chatbot-front,True
 https://github.com/fabnumdef/resources,True
+https://github.com/fabnumdef/stargate,False
 https://github.com/fabnumdef/stargate_backend,True
 https://github.com/fabnumdef/stargate_frontend,True
 https://github.com/gammalib/gammalib,True
@@ -7608,7 +7609,7 @@ https://gitlab.inria.fr/epione/unsegqc,True
 https://gitlab.inria.fr/epione_ML/bayesian-learning-uca,True
 https://gitlab.inria.fr/epione_ML/mcvae,True
 https://gitlab.inria.fr/erable/MultiPusAsp,True
-https://gitlab.inria.fr/erable/coala,False
+https://gitlab.inria.fr/erable/coala,True
 https://gitlab.inria.fr/erable/eucalypt,False
 https://gitlab.inria.fr/erable/kirikomics/hglib,True
 https://gitlab.inria.fr/erable/kirikomics/metnetlib,True
@@ -7768,6 +7769,8 @@ https://gitlab.inria.fr/gazelle/library/preference,True
 https://gitlab.inria.fr/gazelle/library/tool,True
 https://gitlab.inria.fr/gazelle/library/ui-service,True
 https://gitlab.inria.fr/gazelle/library/unit-test,True
+https://gitlab.inria.fr/gazelle/library/validators/src-gen/hpd/hpd-code-jar,False
+https://gitlab.inria.fr/gazelle/library/validators/src-gen/hpd/ihehpd-code-jar,False
 https://gitlab.inria.fr/gazelle/library/version,True
 https://gitlab.inria.fr/gazelle/model-api/gazelle-model,True
 https://gitlab.inria.fr/gazelle/model-api/gitb,True
