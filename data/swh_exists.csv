@@ -4894,7 +4894,7 @@ https://github.com/fabnumdef/fabrique-chatbot,True
 https://github.com/fabnumdef/fabrique-chatbot-back,True
 https://github.com/fabnumdef/fabrique-chatbot-front,True
 https://github.com/fabnumdef/resources,True
-https://github.com/fabnumdef/stargate,False
+https://github.com/fabnumdef/stargate,True
 https://github.com/fabnumdef/stargate_backend,True
 https://github.com/fabnumdef/stargate_frontend,True
 https://github.com/gammalib/gammalib,True
@@ -6055,7 +6055,7 @@ https://github.com/powerapi-ng/junit-jjoules,True
 https://github.com/powerapi-ng/powerapi,True
 https://github.com/powerapi-ng/powerapi-ng.github.io,True
 https://github.com/powerapi-ng/powerapi-scala,True
-https://github.com/powerapi-ng/procfs-sensor,False
+https://github.com/powerapi-ng/procfs-sensor,True
 https://github.com/powerapi-ng/pyJoules,True
 https://github.com/powerapi-ng/pyRAPL,True
 https://github.com/powerapi-ng/rapl-formula,True
@@ -7779,7 +7779,7 @@ https://gitlab.inria.fr/gazelle/library/ui-service,True
 https://gitlab.inria.fr/gazelle/library/unit-test,True
 https://gitlab.inria.fr/gazelle/library/validators/src-gen/hpd/hpd-code-jar,False
 https://gitlab.inria.fr/gazelle/library/validators/src-gen/hpd/ihehpd-code-jar,False
-https://gitlab.inria.fr/gazelle/library/validators/src-gen/hpd/ihehpd-validator-jar,False
+https://gitlab.inria.fr/gazelle/library/validators/src-gen/hpd/ihehpd-validator-jar,True
 https://gitlab.inria.fr/gazelle/library/version,True
 https://gitlab.inria.fr/gazelle/model-api/gazelle-model,True
 https://gitlab.inria.fr/gazelle/model-api/gitb,True
@@ -8180,7 +8180,7 @@ https://gitlab.inria.fr/obelix/triskele,True
 https://gitlab.inria.fr/open-mx/open-mx,True
 https://gitlab.inria.fr/openbiscuit/rescience_egbert14,True
 https://gitlab.inria.fr/openbiscuit/software/loriakhep,True
-https://gitlab.inria.fr/openbiscuit/software/psyphine_gforge,False
+https://gitlab.inria.fr/openbiscuit/software/psyphine_gforge,True
 https://gitlab.inria.fr/openbiscuit/software/wifibotlib,False
 https://gitlab.inria.fr/openmp/clang,True
 https://gitlab.inria.fr/openmp/energy,True
