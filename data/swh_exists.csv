@@ -485,6 +485,7 @@ https://forgemia.inra.fr/metexplore/cbm/met4j-dynamicrfba-singularity,True
 https://forgemia.inra.fr/metexplore/cbm/met4j-flux,True
 https://forgemia.inra.fr/metexplore/gsam,True
 https://forgemia.inra.fr/metexplore/met4j,True
+https://forgemia.inra.fr/metexplore/met4j-singularity,False
 https://forgemia.inra.fr/metexplore/metabolomics2network,True
 https://forgemia.inra.fr/metexplore/metexplore2,True
 https://forgemia.inra.fr/metexplore/metx/metexplore_components,True
@@ -2422,6 +2423,7 @@ https://github.com/MTES-MCT/data-preparation-plugin,True
 https://github.com/MTES-MCT/dataqual,True
 https://github.com/MTES-MCT/dataroom,True
 https://github.com/MTES-MCT/dependabotalerts-action,True
+https://github.com/MTES-MCT/deploy-gitlab-pages-action,False
 https://github.com/MTES-MCT/didoscalie,True
 https://github.com/MTES-MCT/dtlk-api,True
 https://github.com/MTES-MCT/dtlk-ihm-alimentation,True
@@ -3493,6 +3495,7 @@ https://github.com/betagouv/i18nliner-js,True
 https://github.com/betagouv/ilos,True
 https://github.com/betagouv/immersion,True
 https://github.com/betagouv/impact-tests,True
+https://github.com/betagouv/inca-survey,True
 https://github.com/betagouv/indice_pollution,True
 https://github.com/betagouv/itou,True
 https://github.com/betagouv/itou-bitoubi,True
@@ -4468,7 +4471,7 @@ https://github.com/etalab-ia/demo-piaf,True
 https://github.com/etalab-ia/doctr,True
 https://github.com/etalab-ia/explainable_api,True
 https://github.com/etalab-ia/florian_opendatascience,True
-https://github.com/etalab-ia/hubeau_chatbot,False
+https://github.com/etalab-ia/hubeau_chatbot,True
 https://github.com/etalab-ia/knowledge-base,True
 https://github.com/etalab-ia/mlflow-docker,True
 https://github.com/etalab-ia/ocr-xtract,True
@@ -7610,13 +7613,17 @@ https://gitlab.inria.fr/epione_ML/bayesian-learning-uca,True
 https://gitlab.inria.fr/epione_ML/mcvae,True
 https://gitlab.inria.fr/erable/MultiPusAsp,True
 https://gitlab.inria.fr/erable/coala,True
+https://gitlab.inria.fr/erable/dinghy,True
 https://gitlab.inria.fr/erable/eucalypt,False
+https://gitlab.inria.fr/erable/gobbolino,True
 https://gitlab.inria.fr/erable/kirikomics/hglib,True
 https://gitlab.inria.fr/erable/kirikomics/metnetlib,True
 https://gitlab.inria.fr/erable/kirikomics/metnetlib-minproject,True
 https://gitlab.inria.fr/erable/kissplice,True
 https://gitlab.inria.fr/erable/mirinho,False
 https://gitlab.inria.fr/erable/momo-sysbio,False
+https://gitlab.inria.fr/erable/pitufo,True
+https://gitlab.inria.fr/erable/sasita,True
 https://gitlab.inria.fr/erable/totoro,True
 https://gitlab.inria.fr/etac/notice-etac,True
 https://gitlab.inria.fr/evalanon/enoslib,True
@@ -8170,7 +8177,7 @@ https://gitlab.inria.fr/obelix/broceliande,True
 https://gitlab.inria.fr/obelix/triskele,True
 https://gitlab.inria.fr/open-mx/open-mx,True
 https://gitlab.inria.fr/openbiscuit/rescience_egbert14,True
-https://gitlab.inria.fr/openbiscuit/software/loriakhep,False
+https://gitlab.inria.fr/openbiscuit/software/loriakhep,True
 https://gitlab.inria.fr/openbiscuit/software/psyphine_gforge,False
 https://gitlab.inria.fr/openbiscuit/software/wifibotlib,False
 https://gitlab.inria.fr/openmp/clang,True
