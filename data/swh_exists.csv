@@ -612,7 +612,7 @@ https://forgemia.inra.fr/urep/soere-pp/aigoual,True
 https://forgemia.inra.fr/urep/soere-pp/doc_soere-pp,True
 https://forgemia.inra.fr/urep/soere-pp/meteosolApp,True
 https://forgemia.inra.fr/urep/soere-pp/meteosolToolbox,True
-https://forgemia.inra.fr/urgi-anagen/caulifinder_docker,False
+https://forgemia.inra.fr/urgi-anagen/caulifinder_docker,True
 https://forgemia.inra.fr/urgi-is/data-discovery,True
 https://forgemia.inra.fr/urgi-is/docker-rare,True
 https://forgemia.inra.fr/urgi-is/faidare,True
@@ -2903,7 +2903,7 @@ https://github.com/SocialGouv/react-medixtor,True
 https://github.com/SocialGouv/recherche-entreprises,True
 https://github.com/SocialGouv/reference-article,True
 https://github.com/SocialGouv/renovate-config,True
-https://github.com/SocialGouv/reva,False
+https://github.com/SocialGouv/reva,True
 https://github.com/SocialGouv/reva-enquete,True
 https://github.com/SocialGouv/runners-bench,True
 https://github.com/SocialGouv/sample-next-app,True
@@ -3224,6 +3224,7 @@ https://github.com/assurance-maladie-digital/api.gouv.fr,True
 https://github.com/assurance-maladie-digital/assurance-maladie-digital.github.io,True
 https://github.com/assurance-maladie-digital/design-system,True
 https://github.com/assurance-maladie-digital/github-status-orb,True
+https://github.com/assurance-maladie-digital/qualytou,False
 https://github.com/assurance-maladie-digital/vue-cli-preset,True
 https://github.com/assurance-maladie-digital/vue-dash,True
 https://github.com/assurance-maladie-digital/vue-dot,True
@@ -9300,7 +9301,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/synchrone/tools-distrib,Tru
 https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/tempo/StlEval,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/tempo/boolean,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/tempo/multidimensional_search,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/vision-r-public/architool,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/vision-r-public/architool,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/vote22/simulation,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/vqgroup/KaZoSCa-stack,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/vqgroup/docker-spy,True
