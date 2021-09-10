@@ -181,6 +181,7 @@ https://forge.univ-lyon1.fr/info-7/Projet-Peip2,True
 https://forge.univ-lyon1.fr/info-7/tp-bdw1,True
 https://forge.univ-lyon1.fr/iut-lyon-s3-php/ansible,True
 https://forge.univ-lyon1.fr/knowdyn-ens/knowdyn-contenus-2020,True
+https://forge.univ-lyon1.fr/le-meilleur-projet/1er-projet,False
 https://forge.univ-lyon1.fr/les-cracks/chaisse-lifap4,True
 https://forge.univ-lyon1.fr/les-cracks/pacman-royale,True
 https://forge.univ-lyon1.fr/les-gros-FDP/ANALGAME,True
@@ -233,6 +234,7 @@ https://forgemia.inra.fr/GNet/appinetwork,True
 https://forgemia.inra.fr/GNet/cytopheno_omics,True
 https://forgemia.inra.fr/GNet/dicoexpress,True
 https://forgemia.inra.fr/GNet/einkorn_grain_transcriptome,True
+https://forgemia.inra.fr/GNet/high-dimensional_regression_comparison,False
 https://forgemia.inra.fr/GNet/pipelineoge,True
 https://forgemia.inra.fr/QTL/spell-qtl,True
 https://forgemia.inra.fr/acep/careb,True
@@ -3078,7 +3080,7 @@ https://github.com/abes-esr/archi-model-example,True
 https://github.com/abes-esr/clamscan-docker,True
 https://github.com/abes-esr/eplouribousse,True
 https://github.com/abes-esr/ezmaster-globs,True
-https://github.com/abes-esr/filebeat-example-docker,False
+https://github.com/abes-esr/filebeat-example-docker,True
 https://github.com/abes-esr/fne-back,True
 https://github.com/abes-esr/fne-batch,True
 https://github.com/abes-esr/fne-front,True
@@ -4143,7 +4145,7 @@ https://github.com/dinsic-pim/tchap-support,True
 https://github.com/dinsic-pim/tchap-web,True
 https://github.com/dinsic-pim/tchap-web-v3,True
 https://github.com/dinsic-pim/tchap-welcome,False
-https://github.com/dinum-HubEE/Documentations,False
+https://github.com/dinum-HubEE/Documentations,True
 https://github.com/diplomatiegouvfr/applitutoriel-js,True
 https://github.com/diplomatiegouvfr/applitutoriel-modules,True
 https://github.com/diplomatiegouvfr/applitutoriel-online,True
@@ -4308,6 +4310,7 @@ https://github.com/entrepreneur-interet-general/django-dsfr,True
 https://github.com/entrepreneur-interet-general/django-francedata,True
 https://github.com/entrepreneur-interet-general/domen,True
 https://github.com/entrepreneur-interet-general/eig-link,True
+https://github.com/entrepreneur-interet-general/eig5,False
 https://github.com/entrepreneur-interet-general/enki,True
 https://github.com/entrepreneur-interet-general/entity-resolution-evaluation,True
 https://github.com/entrepreneur-interet-general/exo_ref,True
