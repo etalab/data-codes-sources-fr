@@ -7625,7 +7625,7 @@ https://gitlab.inria.fr/epione_ML/mcvae,True
 https://gitlab.inria.fr/erable/MultiPusAsp,True
 https://gitlab.inria.fr/erable/coala,True
 https://gitlab.inria.fr/erable/dinghy,True
-https://gitlab.inria.fr/erable/eucalypt,False
+https://gitlab.inria.fr/erable/eucalypt,True
 https://gitlab.inria.fr/erable/gobbolino,True
 https://gitlab.inria.fr/erable/kirikomics/hglib,True
 https://gitlab.inria.fr/erable/kirikomics/metnetlib,True
@@ -8191,7 +8191,7 @@ https://gitlab.inria.fr/open-mx/open-mx,True
 https://gitlab.inria.fr/openbiscuit/rescience_egbert14,True
 https://gitlab.inria.fr/openbiscuit/software/loriakhep,True
 https://gitlab.inria.fr/openbiscuit/software/psyphine_gforge,True
-https://gitlab.inria.fr/openbiscuit/software/wifibotlib,False
+https://gitlab.inria.fr/openbiscuit/software/wifibotlib,True
 https://gitlab.inria.fr/openmp/clang,True
 https://gitlab.inria.fr/openmp/energy,True
 https://gitlab.inria.fr/openmp/enertools,True
