@@ -500,6 +500,7 @@ https://forgemia.inra.fr/migale/dubii_magali_monnoye,True
 https://forgemia.inra.fr/migale/formations,True
 https://forgemia.inra.fr/migale/metabarfood,True
 https://forgemia.inra.fr/migale/service-analyse-text-mining,True
+https://forgemia.inra.fr/migale/trainings,False
 https://forgemia.inra.fr/most/ib-rs,True
 https://forgemia.inra.fr/mpm-at-recover/pycbg,True
 https://forgemia.inra.fr/mychoice/documentation,False
@@ -2765,6 +2766,7 @@ https://github.com/SocialGouv/carnet-de-bord,True
 https://github.com/SocialGouv/carnets,True
 https://github.com/SocialGouv/cdtn-admin,True
 https://github.com/SocialGouv/cdtn-api,True
+https://github.com/SocialGouv/cdtn-docx-to-html,False
 https://github.com/SocialGouv/cdtn-elk,True
 https://github.com/SocialGouv/cdtn-entreprises,True
 https://github.com/SocialGouv/cdtn-monolog,True
@@ -3076,6 +3078,7 @@ https://github.com/abes-esr/archi-model-example,True
 https://github.com/abes-esr/clamscan-docker,True
 https://github.com/abes-esr/eplouribousse,True
 https://github.com/abes-esr/ezmaster-globs,True
+https://github.com/abes-esr/filebeat-example-docker,False
 https://github.com/abes-esr/fne-back,True
 https://github.com/abes-esr/fne-batch,True
 https://github.com/abes-esr/fne-front,True
@@ -3779,6 +3782,8 @@ https://github.com/cea-hpc/octocatalog-diff,True
 https://github.com/cea-hpc/openssh-portable,True
 https://github.com/cea-hpc/parablox,True
 https://github.com/cea-hpc/pcocc,True
+https://github.com/cea-hpc/pcvs,False
+https://github.com/cea-hpc/pcvs-benchmarks,False
 https://github.com/cea-hpc/pdwfs,True
 https://github.com/cea-hpc/phobos,True
 https://github.com/cea-hpc/puppet-gluster,True
@@ -4083,7 +4088,7 @@ https://github.com/datalab-mi/dev-infra,True
 https://github.com/datalab-mi/docker-dss,True
 https://github.com/datalab-mi/docker-postgres,True
 https://github.com/datalab-mi/ghost,True
-https://github.com/datalab-mi/ia-foule,False
+https://github.com/datalab-mi/ia-foule,True
 https://github.com/datalab-mi/lab-cv,True
 https://github.com/datalab-mi/lab-nlp,True
 https://github.com/datalab-mi/mdr-infra,True
@@ -6613,6 +6618,7 @@ https://gitlab.com/fabnum-minarm/e-chauffeur/e-chauffeur,True
 https://gitlab.com/fabnum-minarm/e-chauffeur/lib-vue,True
 https://gitlab.com/fabnum-minarm/e-chauffeur/navette,True
 https://gitlab.com/fabnum-minarm/e-chauffeur/user,True
+https://gitlab.com/fabnum-minarm/frise-package/documentation,False
 https://gitlab.com/fabnum-minarm/igloo/docker-images,True
 https://gitlab.com/fabnum-minarm/igloo/docs,True
 https://gitlab.com/fabnum-minarm/igloo/gitlab-templates,True
@@ -7623,7 +7629,7 @@ https://gitlab.inria.fr/erable/kirikomics/metnetlib,True
 https://gitlab.inria.fr/erable/kirikomics/metnetlib-minproject,True
 https://gitlab.inria.fr/erable/kissplice,True
 https://gitlab.inria.fr/erable/mirinho,False
-https://gitlab.inria.fr/erable/momo-sysbio,False
+https://gitlab.inria.fr/erable/momo-sysbio,True
 https://gitlab.inria.fr/erable/pitufo,True
 https://gitlab.inria.fr/erable/sasita,True
 https://gitlab.inria.fr/erable/totoro,True
