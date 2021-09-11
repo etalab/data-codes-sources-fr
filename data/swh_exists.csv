@@ -3784,8 +3784,8 @@ https://github.com/cea-hpc/octocatalog-diff,True
 https://github.com/cea-hpc/openssh-portable,True
 https://github.com/cea-hpc/parablox,True
 https://github.com/cea-hpc/pcocc,True
-https://github.com/cea-hpc/pcvs,False
-https://github.com/cea-hpc/pcvs-benchmarks,False
+https://github.com/cea-hpc/pcvs,True
+https://github.com/cea-hpc/pcvs-benchmarks,True
 https://github.com/cea-hpc/pdwfs,True
 https://github.com/cea-hpc/phobos,True
 https://github.com/cea-hpc/puppet-gluster,True
@@ -6621,7 +6621,7 @@ https://gitlab.com/fabnum-minarm/e-chauffeur/e-chauffeur,True
 https://gitlab.com/fabnum-minarm/e-chauffeur/lib-vue,True
 https://gitlab.com/fabnum-minarm/e-chauffeur/navette,True
 https://gitlab.com/fabnum-minarm/e-chauffeur/user,True
-https://gitlab.com/fabnum-minarm/frise-package/documentation,False
+https://gitlab.com/fabnum-minarm/frise-package/documentation,True
 https://gitlab.com/fabnum-minarm/igloo/docker-images,True
 https://gitlab.com/fabnum-minarm/igloo/docs,True
 https://gitlab.com/fabnum-minarm/igloo/gitlab-templates,True
