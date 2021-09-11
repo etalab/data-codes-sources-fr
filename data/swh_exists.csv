@@ -181,7 +181,7 @@ https://forge.univ-lyon1.fr/info-7/Projet-Peip2,True
 https://forge.univ-lyon1.fr/info-7/tp-bdw1,True
 https://forge.univ-lyon1.fr/iut-lyon-s3-php/ansible,True
 https://forge.univ-lyon1.fr/knowdyn-ens/knowdyn-contenus-2020,True
-https://forge.univ-lyon1.fr/le-meilleur-projet/1er-projet,False
+https://forge.univ-lyon1.fr/le-meilleur-projet/1er-projet,True
 https://forge.univ-lyon1.fr/les-cracks/chaisse-lifap4,True
 https://forge.univ-lyon1.fr/les-cracks/pacman-royale,True
 https://forge.univ-lyon1.fr/les-gros-FDP/ANALGAME,True
@@ -487,7 +487,7 @@ https://forgemia.inra.fr/metexplore/cbm/met4j-dynamicrfba-singularity,True
 https://forgemia.inra.fr/metexplore/cbm/met4j-flux,True
 https://forgemia.inra.fr/metexplore/gsam,True
 https://forgemia.inra.fr/metexplore/met4j,True
-https://forgemia.inra.fr/metexplore/met4j-singularity,False
+https://forgemia.inra.fr/metexplore/met4j-singularity,True
 https://forgemia.inra.fr/metexplore/metabolomics2network,True
 https://forgemia.inra.fr/metexplore/metexplore2,True
 https://forgemia.inra.fr/metexplore/metx/metexplore_components,True
@@ -2768,7 +2768,7 @@ https://github.com/SocialGouv/carnet-de-bord,True
 https://github.com/SocialGouv/carnets,True
 https://github.com/SocialGouv/cdtn-admin,True
 https://github.com/SocialGouv/cdtn-api,True
-https://github.com/SocialGouv/cdtn-docx-to-html,False
+https://github.com/SocialGouv/cdtn-docx-to-html,True
 https://github.com/SocialGouv/cdtn-elk,True
 https://github.com/SocialGouv/cdtn-entreprises,True
 https://github.com/SocialGouv/cdtn-monolog,True
