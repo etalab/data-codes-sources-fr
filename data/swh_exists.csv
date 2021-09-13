@@ -240,7 +240,7 @@ https://forgemia.inra.fr/QTL/spell-qtl,True
 https://forgemia.inra.fr/acep/careb,True
 https://forgemia.inra.fr/adminforgemia/doc-public,True
 https://forgemia.inra.fr/agriterix/agriterix,True
-https://forgemia.inra.fr/agriterix/datamap,False
+https://forgemia.inra.fr/agriterix/datamap,True
 https://forgemia.inra.fr/agriterix/dataprocess,True
 https://forgemia.inra.fr/agriterix/doc,True
 https://forgemia.inra.fr/agriterix/farm-generator,True
@@ -2518,7 +2518,7 @@ https://github.com/MTES-MCT/udata-gouvfr-ecologie,True
 https://github.com/MTES-MCT/updownio-action,True
 https://github.com/MTES-MCT/upptime,True
 https://github.com/MTES-MCT/wikicarbone,True
-https://github.com/MTES-MCT/zero-logement-vacant,False
+https://github.com/MTES-MCT/zero-logement-vacant,True
 https://github.com/MinistereSupRecherche/bso,True
 https://github.com/MinistereSupRecherche/dataESR,True
 https://github.com/MinistereSupRecherche/machineadonnees,True
@@ -7640,7 +7640,7 @@ https://gitlab.inria.fr/erable/kirikomics/hglib,True
 https://gitlab.inria.fr/erable/kirikomics/metnetlib,True
 https://gitlab.inria.fr/erable/kirikomics/metnetlib-minproject,True
 https://gitlab.inria.fr/erable/kissplice,True
-https://gitlab.inria.fr/erable/mirinho,False
+https://gitlab.inria.fr/erable/mirinho,True
 https://gitlab.inria.fr/erable/momo-sysbio,True
 https://gitlab.inria.fr/erable/pitufo,True
 https://gitlab.inria.fr/erable/sasita,True
