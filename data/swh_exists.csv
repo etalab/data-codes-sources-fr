@@ -575,6 +575,7 @@ https://forgemia.inra.fr/umr-astre/amr-laos,True
 https://forgemia.inra.fr/umr-astre/asf-challenge,True
 https://forgemia.inra.fr/umr-astre/asf-speed,True
 https://forgemia.inra.fr/umr-astre/capiche,True
+https://forgemia.inra.fr/umr-astre/cicr-vaccination,False
 https://forgemia.inra.fr/umr-astre/cirad,True
 https://forgemia.inra.fr/umr-astre/confint_ratio,True
 https://forgemia.inra.fr/umr-astre/covid19-mortality,True
@@ -2508,6 +2509,7 @@ https://github.com/MTES-MCT/trackdechets-etl,True
 https://github.com/MTES-MCT/trackdechets-map,True
 https://github.com/MTES-MCT/trackdechets-metabase,True
 https://github.com/MTES-MCT/trackdechets-oauth2-demo-app,True
+https://github.com/MTES-MCT/trackdechets-scalingo-hook,False
 https://github.com/MTES-MCT/trackdechets-website,True
 https://github.com/MTES-MCT/transport-routier,True
 https://github.com/MTES-MCT/trashadvisor,True
@@ -2763,6 +2765,7 @@ https://github.com/SocialGouv/archifiltre,True
 https://github.com/SocialGouv/archifiltre-landing-page,True
 https://github.com/SocialGouv/archifiltre-site,True
 https://github.com/SocialGouv/archifiltre-statistics,True
+https://github.com/SocialGouv/archimail,False
 https://github.com/SocialGouv/autosuggest,True
 https://github.com/SocialGouv/bootstrap,True
 https://github.com/SocialGouv/bot,True
