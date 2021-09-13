@@ -234,7 +234,7 @@ https://forgemia.inra.fr/GNet/appinetwork,True
 https://forgemia.inra.fr/GNet/cytopheno_omics,True
 https://forgemia.inra.fr/GNet/dicoexpress,True
 https://forgemia.inra.fr/GNet/einkorn_grain_transcriptome,True
-https://forgemia.inra.fr/GNet/high-dimensional_regression_comparison,False
+https://forgemia.inra.fr/GNet/high-dimensional_regression_comparison,True
 https://forgemia.inra.fr/GNet/pipelineoge,True
 https://forgemia.inra.fr/QTL/spell-qtl,True
 https://forgemia.inra.fr/acep/careb,True
@@ -2422,6 +2422,8 @@ https://github.com/MTES-MCT/codescanalerts-action,True
 https://github.com/MTES-MCT/cours-java-debutant,True
 https://github.com/MTES-MCT/dashboard,True
 https://github.com/MTES-MCT/dashlord,True
+https://github.com/MTES-MCT/dashlord-dgaln,False
+https://github.com/MTES-MCT/dashlord-mte,False
 https://github.com/MTES-MCT/dashlord-updownio-report,False
 https://github.com/MTES-MCT/data-preparation-plugin,True
 https://github.com/MTES-MCT/dataqual,True
@@ -7263,7 +7265,7 @@ https://gitlab.inria.fr/asclepios/biblio,True
 https://gitlab.inria.fr/astec/astec,True
 https://gitlab.inria.fr/astec/astec-2019-published,True
 https://gitlab.inria.fr/astec/astec-tutorial,True
-https://gitlab.inria.fr/auctus-team/website/auctus,False
+https://gitlab.inria.fr/auctus-team/website/auctus,True
 https://gitlab.inria.fr/auctus-team/website/auctus-team,False
 https://gitlab.inria.fr/auctus/human_library,True
 https://gitlab.inria.fr/auctus/panda/franka_control,True
@@ -9440,7 +9442,7 @@ https://plmlab.math.cnrs.fr/imt/acces_backup,True
 https://plmlab.math.cnrs.fr/imt/ansible_deploy_nfs,True
 https://plmlab.math.cnrs.fr/imt/fragma/fragma-on-amqp,True
 https://plmlab.math.cnrs.fr/imt/fragma/plm-oidc-authentification,True
-https://plmlab.math.cnrs.fr/imt/imt_belenios,False
+https://plmlab.math.cnrs.fr/imt/imt_belenios,True
 https://plmlab.math.cnrs.fr/imt/nixos-nginx-openid,True
 https://plmlab.math.cnrs.fr/imt/plmbox_restore,True
 https://plmlab.math.cnrs.fr/imt/puppet/gitlab_deploy_key,True
