@@ -2766,7 +2766,7 @@ https://github.com/SocialGouv/archifiltre,True
 https://github.com/SocialGouv/archifiltre-landing-page,True
 https://github.com/SocialGouv/archifiltre-site,True
 https://github.com/SocialGouv/archifiltre-statistics,True
-https://github.com/SocialGouv/archimail,False
+https://github.com/SocialGouv/archimail,True
 https://github.com/SocialGouv/autosuggest,True
 https://github.com/SocialGouv/bootstrap,True
 https://github.com/SocialGouv/bot,True
@@ -9429,6 +9429,7 @@ https://plmlab.math.cnrs.fr/fano-hk/fano-hk.pages.math.cnrs.fr,True
 https://plmlab.math.cnrs.fr/fedora/live,True
 https://plmlab.math.cnrs.fr/fedora/lorax,True
 https://plmlab.math.cnrs.fr/formation-calcul/optimisation,True
+https://plmlab.math.cnrs.fr/front/front.math.cnrs.fr,True
 https://plmlab.math.cnrs.fr/gdr-mascotnum/mnwiki-server,True
 https://plmlab.math.cnrs.fr/gdurif_slides/2021_02_18_ML_MPT_R_shiny,True
 https://plmlab.math.cnrs.fr/gdurif_teaching/polytech_ig5_regression,True
