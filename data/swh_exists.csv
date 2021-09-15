@@ -1269,6 +1269,7 @@ https://github.com/CEREMA/appli_conso_espace_doubs,True
 https://github.com/CEREMA/com.cerema.infocentre_old,True
 https://github.com/CEREMA/copro,True
 https://github.com/CEREMA/copro-occitanie,True
+https://github.com/CEREMA/data-trafic,False
 https://github.com/CEREMA/dataroom,True
 https://github.com/CEREMA/django_unchained,True
 https://github.com/CEREMA/dsi.adutils,True
@@ -1407,6 +1408,7 @@ https://github.com/DISIC/circuits,True
 https://github.com/DISIC/design-numerique-admin,True
 https://github.com/DISIC/design.numerique.gouv.fr,True
 https://github.com/DISIC/designgouv-admin,True
+https://github.com/DISIC/dsn-audits-dlpaj,False
 https://github.com/DISIC/evenements-bluehats,True
 https://github.com/DISIC/foss-contrib-policy-template,True
 https://github.com/DISIC/frago,True
@@ -4483,6 +4485,7 @@ https://github.com/etalab-ia/ami-ia-sisse,True
 https://github.com/etalab-ia/chatbot-template,True
 https://github.com/etalab-ia/data_gouv_text,True
 https://github.com/etalab-ia/data_science_template,True
+https://github.com/etalab-ia/dbpedia-demonyms-fr,False
 https://github.com/etalab-ia/demo-heideltime,False
 https://github.com/etalab-ia/demo-piaf,True
 https://github.com/etalab-ia/doctr,True
@@ -4771,11 +4774,13 @@ https://github.com/etalab/schema-comptage-velo,True
 https://github.com/etalab/schema-comptage-velo-dynamique,True
 https://github.com/etalab/schema-comptage-velo-statique,True
 https://github.com/etalab/schema-decp-dpa,True
+https://github.com/etalab/schema-flotte-publique-vehicule,False
 https://github.com/etalab/schema-generic-template,True
 https://github.com/etalab/schema-hautes-remunerations,True
 https://github.com/etalab/schema-inclusion-numerique,True
 https://github.com/etalab/schema-irve,True
 https://github.com/etalab/schema-lieux-covoiturage,True
+https://github.com/etalab/schema-passage-a-niveau,False
 https://github.com/etalab/schema-plf,True
 https://github.com/etalab/schema-sdirve,True
 https://github.com/etalab/schema-stationnement,True
@@ -6498,6 +6503,7 @@ https://gitlab.adullact.net/gip-recia-snc/public/docker/debian-systemd,True
 https://gitlab.adullact.net/gip-recia-snc/public/docker/fedora-systemd,True
 https://gitlab.adullact.net/gip-recia-snc/public/docker/teampasswordmanager,True
 https://gitlab.adullact.net/gip-recia-snc/public/odoo/odoo-time-tracker,True
+https://gitlab.adullact.net/marche-sll/etudes-de-veille,False
 https://gitlab.adullact.net/pixelhumain/Rocket-Chat,True
 https://gitlab.adullact.net/pixelhumain/co-meta,True
 https://gitlab.adullact.net/pixelhumain/costum,True
@@ -6769,11 +6775,11 @@ https://gitlab.factory.social.gouv.fr/test-ops/tremplin,True
 https://gitlab.factory.social.gouv.fr/test-scaleway1/test-autodevops-pg,True
 https://gitlab.fresnel.fr/exemples/hdf5-tuto,False
 https://gitlab.fresnel.fr/exemples/libcardan,False
-https://gitlab.fresnel.fr/fem_models/gratings,False
+https://gitlab.fresnel.fr/fem_models/gratings,True
 https://gitlab.fresnel.fr/fem_models/nonlinearevp,False
 https://gitlab.fresnel.fr/fem_models/scattering,False
 https://gitlab.fresnel.fr/fem_models/structured_waveguides,False
-https://gitlab.fresnel.fr/mosaic/4polarSTORM,False
+https://gitlab.fresnel.fr/mosaic/4polarSTORM,True
 https://gitlab.huma-num.fr/atelier-donnees/depot,True
 https://gitlab.huma-num.fr/bvh/max/max_bvh,True
 https://gitlab.huma-num.fr/bvh/max/max_editions,True
@@ -7220,6 +7226,7 @@ https://gitlab.inria.fr/almanach/dyalog/dyalog-sr,True
 https://gitlab.inria.fr/almanach/dyalog/dyalog-xml,True
 https://gitlab.inria.fr/almanach/lectaurep/documentation,True
 https://gitlab.inria.fr/almanach/lectaurep/escriptorium,True
+https://gitlab.inria.fr/almanach/lectaurep/lepidemo,False
 https://gitlab.inria.fr/almanach/lectaurep/models,True
 https://gitlab.inria.fr/almanach/lectaurep/ner,True
 https://gitlab.inria.fr/almanach/lectaurep/pipeline,True
@@ -8965,6 +8972,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/ws-timeseries,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/ws-timeseries-old,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/ws-timeseries-old2,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/ws-wfcatalog-k8s,True
+https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/ws.resif.fr,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/yasmine-k8s,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/ige/erosion_model,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/isterre-sig/pyevent,True
