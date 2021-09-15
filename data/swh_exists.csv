@@ -6767,6 +6767,13 @@ https://gitlab.factory.social.gouv.fr/test-ops/docker-modsec-fluentd,True
 https://gitlab.factory.social.gouv.fr/test-ops/standup,True
 https://gitlab.factory.social.gouv.fr/test-ops/tremplin,True
 https://gitlab.factory.social.gouv.fr/test-scaleway1/test-autodevops-pg,True
+https://gitlab.fresnel.fr/exemples/hdf5-tuto,False
+https://gitlab.fresnel.fr/exemples/libcardan,False
+https://gitlab.fresnel.fr/fem_models/gratings,False
+https://gitlab.fresnel.fr/fem_models/nonlinearevp,False
+https://gitlab.fresnel.fr/fem_models/scattering,False
+https://gitlab.fresnel.fr/fem_models/structured_waveguides,False
+https://gitlab.fresnel.fr/mosaic/4polarSTORM,False
 https://gitlab.huma-num.fr/atelier-donnees/depot,True
 https://gitlab.huma-num.fr/bvh/max/max_bvh,True
 https://gitlab.huma-num.fr/bvh/max/max_editions,True
@@ -8705,6 +8712,7 @@ https://gitlab.irstea.fr/remi.cresson/SimpleExtractionTools,True
 https://gitlab.irstea.fr/remi.cresson/TemporalSmoothing,True
 https://gitlab.irstea.fr/remi.cresson/TimeSeriesUtils,True
 https://gitlab.irstea.fr/remi.cresson/mosaic,True
+https://gitlab.irstea.fr/reseed/opentw,False
 https://gitlab.irstea.fr/reversaal/OhmPi,True
 https://gitlab.irstea.fr/reversaal/loglinear-regression,True
 https://gitlab.irstea.fr/reversaal/tw-modeling-toolkit,True
