@@ -2511,7 +2511,7 @@ https://github.com/MTES-MCT/trackdechets-etl,True
 https://github.com/MTES-MCT/trackdechets-map,True
 https://github.com/MTES-MCT/trackdechets-metabase,True
 https://github.com/MTES-MCT/trackdechets-oauth2-demo-app,True
-https://github.com/MTES-MCT/trackdechets-scalingo-hook,False
+https://github.com/MTES-MCT/trackdechets-scalingo-hook,True
 https://github.com/MTES-MCT/trackdechets-website,True
 https://github.com/MTES-MCT/transport-routier,True
 https://github.com/MTES-MCT/trashadvisor,True
@@ -4786,6 +4786,7 @@ https://github.com/etalab/schema-sdirve,True
 https://github.com/etalab/schema-stationnement,True
 https://github.com/etalab/schema-stationnement-cyclable,True
 https://github.com/etalab/schema-template,True
+https://github.com/etalab/schema-vehicules-faibles-emissions-renouvellement-parc,False
 https://github.com/etalab/schema-zfe,True
 https://github.com/etalab/schema-zfe-regles,True
 https://github.com/etalab/schema.data.gouv.fr,True
@@ -6776,7 +6777,7 @@ https://gitlab.factory.social.gouv.fr/test-scaleway1/test-autodevops-pg,True
 https://gitlab.fresnel.fr/exemples/hdf5-tuto,False
 https://gitlab.fresnel.fr/exemples/libcardan,False
 https://gitlab.fresnel.fr/fem_models/gratings,True
-https://gitlab.fresnel.fr/fem_models/nonlinearevp,False
+https://gitlab.fresnel.fr/fem_models/nonlinearevp,True
 https://gitlab.fresnel.fr/fem_models/scattering,False
 https://gitlab.fresnel.fr/fem_models/structured_waveguides,False
 https://gitlab.fresnel.fr/mosaic/4polarSTORM,True
