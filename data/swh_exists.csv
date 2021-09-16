@@ -182,6 +182,7 @@ https://forge.univ-lyon1.fr/info-7/tp-bdw1,True
 https://forge.univ-lyon1.fr/iut-lyon-s3-php/ansible,True
 https://forge.univ-lyon1.fr/knowdyn-ens/knowdyn-contenus-2020,True
 https://forge.univ-lyon1.fr/le-meilleur-projet/1er-projet,True
+https://forge.univ-lyon1.fr/les-cracks/OpenGL,False
 https://forge.univ-lyon1.fr/les-cracks/chaisse-lifap4,True
 https://forge.univ-lyon1.fr/les-cracks/pacman-royale,True
 https://forge.univ-lyon1.fr/les-gros-FDP/ANALGAME,True
@@ -1408,7 +1409,7 @@ https://github.com/DISIC/circuits,True
 https://github.com/DISIC/design-numerique-admin,True
 https://github.com/DISIC/design.numerique.gouv.fr,True
 https://github.com/DISIC/designgouv-admin,True
-https://github.com/DISIC/dsn-audits-dlpaj,False
+https://github.com/DISIC/dsn-audits-dlpaj,True
 https://github.com/DISIC/evenements-bluehats,True
 https://github.com/DISIC/foss-contrib-policy-template,True
 https://github.com/DISIC/frago,True
@@ -4486,7 +4487,7 @@ https://github.com/etalab-ia/chatbot-template,True
 https://github.com/etalab-ia/data_gouv_text,True
 https://github.com/etalab-ia/data_science_template,True
 https://github.com/etalab-ia/dbpedia-demonyms-fr,False
-https://github.com/etalab-ia/demo-heideltime,False
+https://github.com/etalab-ia/demo-heideltime,True
 https://github.com/etalab-ia/demo-piaf,True
 https://github.com/etalab-ia/doctr,True
 https://github.com/etalab-ia/explainable_api,True
@@ -7405,6 +7406,7 @@ https://gitlab.inria.fr/chroma/drone-simulator,True
 https://gitlab.inria.fr/chroma/drones/drone-simulator,True
 https://gitlab.inria.fr/chroma/intelaero-cao,True
 https://gitlab.inria.fr/ciao/pmns-for-sidh,True
+https://gitlab.inria.fr/cicamo-re/cicamo.re,False
 https://gitlab.inria.fr/cidre-public/cfi-c,True
 https://gitlab.inria.fr/cidre-public/dada,True
 https://gitlab.inria.fr/cidre-public/debiased-android-malware-datasets,False
@@ -8582,6 +8584,7 @@ https://gitlab.inria.fr/why3/verifythis2020,True
 https://gitlab.inria.fr/why3/why3,True
 https://gitlab.inria.fr/why3/whymp,True
 https://gitlab.inria.fr/x-lab/x-book,True
+https://gitlab.inria.fr/x-lab/x-code,False
 https://gitlab.inria.fr/x-lab/x-deno,True
 https://gitlab.inria.fr/x-lab/x-deploy,True
 https://gitlab.inria.fr/x-lab/x-doc,True
@@ -8757,6 +8760,7 @@ https://gitlab.math.unistra.fr/ml/slides_exposes,True
 https://gitlab.math.unistra.fr/moco/moco.pages.math.unistra.fr,False
 https://gitlab.math.unistra.fr/patapon/patapon,True
 https://gitlab.math.unistra.fr/proba-mc2020/proba-mc2020,True
+https://gitlab.math.unistra.fr/seminaire_edp/seminaire_edp.pages.math.unistra.fr,False
 https://gitlab.math.unistra.fr/seminaire_moco/seminaire_moco.pages.math.unistra.fr,False
 https://gitlab.math.unistra.fr/urfist/cours-python,True
 https://gitlab.math.unistra.fr/voiceover/voiceover-terminal,True
@@ -8976,6 +8980,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/ws-timeseries-old,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/ws-timeseries-old2,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/ws-wfcatalog-k8s,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/ws.resif.fr,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/ws.resif.fr-k8s,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/yasmine-k8s,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/ige/erosion_model,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/isterre-sig/pyevent,True
