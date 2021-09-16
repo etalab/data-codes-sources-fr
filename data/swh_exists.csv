@@ -945,6 +945,7 @@ https://github.com/1024pix/ember-cli-matomo-tag-manager,True
 https://github.com/1024pix/ember-sentry,True
 https://github.com/1024pix/formation-jeremie,True
 https://github.com/1024pix/gateway,True
+https://github.com/1024pix/gh-pix,False
 https://github.com/1024pix/gravitee-buildpack,True
 https://github.com/1024pix/gravitee-gateway,True
 https://github.com/1024pix/graviteeio-management-ui,True
@@ -981,6 +982,7 @@ https://github.com/1024pix/pix-int-to-bigint,True
 https://github.com/1024pix/pix-lifestyle,True
 https://github.com/1024pix/pix-love,True
 https://github.com/1024pix/pix-maintenance,True
+https://github.com/1024pix/pix-on-dev-merge-action,False
 https://github.com/1024pix/pix-proxy-bucket-ovh,True
 https://github.com/1024pix/pix-redirect-support-pix-fr,True
 https://github.com/1024pix/pix-report-csp,True
@@ -2222,6 +2224,7 @@ https://github.com/InseeFrLab/VTL-Lab-UI,True
 https://github.com/InseeFrLab/apinsee,True
 https://github.com/InseeFrLab/aws.s3,True
 https://github.com/InseeFrLab/blazingsql,True
+https://github.com/InseeFrLab/btb,False
 https://github.com/InseeFrLab/btbpy,True
 https://github.com/InseeFrLab/cloud-scripts,True
 https://github.com/InseeFrLab/demo-apps,True
@@ -3771,6 +3774,7 @@ https://github.com/cea-hpc/PCVS,True
 https://github.com/cea-hpc/bmgr,True
 https://github.com/cea-hpc/bridge,True
 https://github.com/cea-hpc/clustershell,True
+https://github.com/cea-hpc/coordinatool,False
 https://github.com/cea-hpc/fleet,True
 https://github.com/cea-hpc/gct,True
 https://github.com/cea-hpc/glost,True
@@ -4486,7 +4490,7 @@ https://github.com/etalab-ia/ami-ia-sisse,True
 https://github.com/etalab-ia/chatbot-template,True
 https://github.com/etalab-ia/data_gouv_text,True
 https://github.com/etalab-ia/data_science_template,True
-https://github.com/etalab-ia/dbpedia-demonyms-fr,False
+https://github.com/etalab-ia/dbpedia-demonyms-fr,True
 https://github.com/etalab-ia/demo-heideltime,True
 https://github.com/etalab-ia/demo-piaf,True
 https://github.com/etalab-ia/doctr,True
@@ -4781,7 +4785,7 @@ https://github.com/etalab/schema-hautes-remunerations,True
 https://github.com/etalab/schema-inclusion-numerique,True
 https://github.com/etalab/schema-irve,True
 https://github.com/etalab/schema-lieux-covoiturage,True
-https://github.com/etalab/schema-passage-a-niveau,False
+https://github.com/etalab/schema-passage-a-niveau,True
 https://github.com/etalab/schema-plf,True
 https://github.com/etalab/schema-sdirve,True
 https://github.com/etalab/schema-stationnement,True
@@ -5041,6 +5045,7 @@ https://github.com/incubateur-territoires/outline,True
 https://github.com/incubateur-territoires/ressources,True
 https://github.com/incubateur-territoires/slack-advanced-exporter,True
 https://github.com/incubateur-territoires/territoires.store,True
+https://github.com/incubateur-territoires/territoires.store-api,False
 https://github.com/incubateur-territoires/tutoriel-communs,True
 https://github.com/indsante/Documentation-SNDS,True
 https://github.com/indsante/dico-snds,True
@@ -7406,7 +7411,7 @@ https://gitlab.inria.fr/chroma/drone-simulator,True
 https://gitlab.inria.fr/chroma/drones/drone-simulator,True
 https://gitlab.inria.fr/chroma/intelaero-cao,True
 https://gitlab.inria.fr/ciao/pmns-for-sidh,True
-https://gitlab.inria.fr/cicamo-re/cicamo.re,False
+https://gitlab.inria.fr/cicamo-re/cicamo.re,True
 https://gitlab.inria.fr/cidre-public/cfi-c,True
 https://gitlab.inria.fr/cidre-public/dada,True
 https://gitlab.inria.fr/cidre-public/debiased-android-malware-datasets,False
@@ -8979,8 +8984,8 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/ws-timeseries,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/ws-timeseries-old,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/ws-timeseries-old2,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/ws-wfcatalog-k8s,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/ws.resif.fr,False
-https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/ws.resif.fr-k8s,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/ws.resif.fr,True
+https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/ws.resif.fr-k8s,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/yasmine-k8s,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/ige/erosion_model,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/isterre-sig/pyevent,True
