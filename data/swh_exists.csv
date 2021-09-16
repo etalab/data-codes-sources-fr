@@ -6504,7 +6504,7 @@ https://gitlab.adullact.net/gip-recia-snc/public/docker/debian-systemd,True
 https://gitlab.adullact.net/gip-recia-snc/public/docker/fedora-systemd,True
 https://gitlab.adullact.net/gip-recia-snc/public/docker/teampasswordmanager,True
 https://gitlab.adullact.net/gip-recia-snc/public/odoo/odoo-time-tracker,True
-https://gitlab.adullact.net/marche-sll/etudes-de-veille,False
+https://gitlab.adullact.net/marche-sll/etudes-de-veille,True
 https://gitlab.adullact.net/pixelhumain/Rocket-Chat,True
 https://gitlab.adullact.net/pixelhumain/co-meta,True
 https://gitlab.adullact.net/pixelhumain/costum,True
@@ -6775,7 +6775,7 @@ https://gitlab.factory.social.gouv.fr/test-ops/standup,True
 https://gitlab.factory.social.gouv.fr/test-ops/tremplin,True
 https://gitlab.factory.social.gouv.fr/test-scaleway1/test-autodevops-pg,True
 https://gitlab.fresnel.fr/exemples/hdf5-tuto,False
-https://gitlab.fresnel.fr/exemples/libcardan,False
+https://gitlab.fresnel.fr/exemples/libcardan,True
 https://gitlab.fresnel.fr/fem_models/gratings,True
 https://gitlab.fresnel.fr/fem_models/nonlinearevp,True
 https://gitlab.fresnel.fr/fem_models/scattering,False
@@ -7811,7 +7811,7 @@ https://gitlab.inria.fr/gazelle/library/preference,True
 https://gitlab.inria.fr/gazelle/library/tool,True
 https://gitlab.inria.fr/gazelle/library/ui-service,True
 https://gitlab.inria.fr/gazelle/library/unit-test,True
-https://gitlab.inria.fr/gazelle/library/validators/src-gen/hpd/hpd-code-jar,False
+https://gitlab.inria.fr/gazelle/library/validators/src-gen/hpd/hpd-code-jar,True
 https://gitlab.inria.fr/gazelle/library/validators/src-gen/hpd/ihehpd-code-jar,False
 https://gitlab.inria.fr/gazelle/library/validators/src-gen/hpd/ihehpd-validator-jar,True
 https://gitlab.inria.fr/gazelle/library/version,True
@@ -8754,8 +8754,10 @@ https://gitlab.math.unistra.fr/groupe-calcul/website,True
 https://gitlab.math.unistra.fr/hyperkin/hyperkin,True
 https://gitlab.math.unistra.fr/ml/references,True
 https://gitlab.math.unistra.fr/ml/slides_exposes,True
+https://gitlab.math.unistra.fr/moco/moco.pages.math.unistra.fr,False
 https://gitlab.math.unistra.fr/patapon/patapon,True
 https://gitlab.math.unistra.fr/proba-mc2020/proba-mc2020,True
+https://gitlab.math.unistra.fr/seminaire_moco/seminaire_moco.pages.math.unistra.fr,False
 https://gitlab.math.unistra.fr/urfist/cours-python,True
 https://gitlab.math.unistra.fr/voiceover/voiceover-terminal,True
 https://gitlab.orfeo-toolbox.org/maja/maja,True
