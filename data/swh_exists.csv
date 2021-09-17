@@ -182,7 +182,7 @@ https://forge.univ-lyon1.fr/info-7/tp-bdw1,True
 https://forge.univ-lyon1.fr/iut-lyon-s3-php/ansible,True
 https://forge.univ-lyon1.fr/knowdyn-ens/knowdyn-contenus-2020,True
 https://forge.univ-lyon1.fr/le-meilleur-projet/1er-projet,True
-https://forge.univ-lyon1.fr/les-cracks/OpenGL,False
+https://forge.univ-lyon1.fr/les-cracks/OpenGL,True
 https://forge.univ-lyon1.fr/les-cracks/chaisse-lifap4,True
 https://forge.univ-lyon1.fr/les-cracks/pacman-royale,True
 https://forge.univ-lyon1.fr/les-gros-FDP/ANALGAME,True
@@ -1272,7 +1272,7 @@ https://github.com/CEREMA/appli_conso_espace_doubs,True
 https://github.com/CEREMA/com.cerema.infocentre_old,True
 https://github.com/CEREMA/copro,True
 https://github.com/CEREMA/copro-occitanie,True
-https://github.com/CEREMA/data-trafic,False
+https://github.com/CEREMA/data-trafic,True
 https://github.com/CEREMA/dataroom,True
 https://github.com/CEREMA/django_unchained,True
 https://github.com/CEREMA/dsi.adutils,True
@@ -1411,6 +1411,8 @@ https://github.com/DISIC/circuits,True
 https://github.com/DISIC/design-numerique-admin,True
 https://github.com/DISIC/design.numerique.gouv.fr,True
 https://github.com/DISIC/designgouv-admin,True
+https://github.com/DISIC/dsn-audits-cnamts,False
+https://github.com/DISIC/dsn-audits-dgpn,False
 https://github.com/DISIC/dsn-audits-dlpaj,True
 https://github.com/DISIC/evenements-bluehats,True
 https://github.com/DISIC/foss-contrib-policy-template,True
@@ -3083,6 +3085,7 @@ https://github.com/abes-esr/abes-labo-movies,True
 https://github.com/abes-esr/abes-ontology,True
 https://github.com/abes-esr/abes-politique-developpement,True
 https://github.com/abes-esr/abes-sparql-examples,True
+https://github.com/abes-esr/abes-swish-e-docker,False
 https://github.com/abes-esr/abes-uptimerobot-widget,True
 https://github.com/abes-esr/abes-webservices,True
 https://github.com/abes-esr/abes-xslt,True
@@ -3129,6 +3132,7 @@ https://github.com/abes-esr/scienceplus-queries,True
 https://github.com/abes-esr/scienceplus-queries-grlc,True
 https://github.com/abes-esr/sudoc-toolkit,True
 https://github.com/abes-esr/sudocps-graph-app,True
+https://github.com/abes-esr/swish-e-docker,False
 https://github.com/abes-esr/theses-batch,True
 https://github.com/abes-esr/theses-batch-ongoingthesestodelete,True
 https://github.com/abes-esr/theses-dataaccesslayer,True
@@ -3242,7 +3246,7 @@ https://github.com/assurance-maladie-digital/api.gouv.fr,True
 https://github.com/assurance-maladie-digital/assurance-maladie-digital.github.io,True
 https://github.com/assurance-maladie-digital/design-system,True
 https://github.com/assurance-maladie-digital/github-status-orb,True
-https://github.com/assurance-maladie-digital/qualytou,False
+https://github.com/assurance-maladie-digital/qualytou,True
 https://github.com/assurance-maladie-digital/vue-cli-preset,True
 https://github.com/assurance-maladie-digital/vue-dash,True
 https://github.com/assurance-maladie-digital/vue-dot,True
@@ -4010,6 +4014,7 @@ https://github.com/coq/ltac2,True
 https://github.com/coq/opam-coq-archive,True
 https://github.com/coq/opam-coq-shell,True
 https://github.com/coq/platform,True
+https://github.com/coq/prerequisites,False
 https://github.com/coq/repo-8.5,True
 https://github.com/coq/repo-coqs-disabled,True
 https://github.com/coq/repo-stable-disabled,True
@@ -5046,7 +5051,7 @@ https://github.com/incubateur-territoires/outline,True
 https://github.com/incubateur-territoires/ressources,True
 https://github.com/incubateur-territoires/slack-advanced-exporter,True
 https://github.com/incubateur-territoires/territoires.store,True
-https://github.com/incubateur-territoires/territoires.store-api,False
+https://github.com/incubateur-territoires/territoires.store-api,True
 https://github.com/incubateur-territoires/tutoriel-communs,True
 https://github.com/indsante/Documentation-SNDS,True
 https://github.com/indsante/dico-snds,True
@@ -9677,5 +9682,6 @@ https://plmlab.math.cnrs.fr/terraform/modules/network,True
 https://plmlab.math.cnrs.fr/terraform/modules/volume,True
 https://plmlab.math.cnrs.fr/terraform/okd-upi,True
 https://plmlab.math.cnrs.fr/texlive/2017,True
+https://plmlab.math.cnrs.fr/umr9008/public/seminaire-jeune-chercheur-ui,False
 https://plmlab.math.cnrs.fr/webconf/greenlight-plm,True
 https://plmlab.math.cnrs.fr/webconf/webconf.pages.math.cnrs.fr,True
