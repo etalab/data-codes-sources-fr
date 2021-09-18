@@ -982,7 +982,7 @@ https://github.com/1024pix/pix-int-to-bigint,True
 https://github.com/1024pix/pix-lifestyle,True
 https://github.com/1024pix/pix-love,True
 https://github.com/1024pix/pix-maintenance,True
-https://github.com/1024pix/pix-on-dev-merge-action,False
+https://github.com/1024pix/pix-on-dev-merge-action,True
 https://github.com/1024pix/pix-proxy-bucket-ovh,True
 https://github.com/1024pix/pix-redirect-support-pix-fr,True
 https://github.com/1024pix/pix-report-csp,True
@@ -4014,7 +4014,7 @@ https://github.com/coq/ltac2,True
 https://github.com/coq/opam-coq-archive,True
 https://github.com/coq/opam-coq-shell,True
 https://github.com/coq/platform,True
-https://github.com/coq/prerequisites,False
+https://github.com/coq/prerequisites,True
 https://github.com/coq/repo-8.5,True
 https://github.com/coq/repo-coqs-disabled,True
 https://github.com/coq/repo-stable-disabled,True
