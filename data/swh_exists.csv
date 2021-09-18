@@ -6791,7 +6791,7 @@ https://gitlab.fresnel.fr/exemples/libcardan,True
 https://gitlab.fresnel.fr/fem_models/gratings,True
 https://gitlab.fresnel.fr/fem_models/nonlinearevp,True
 https://gitlab.fresnel.fr/fem_models/scattering,False
-https://gitlab.fresnel.fr/fem_models/structured_waveguides,False
+https://gitlab.fresnel.fr/fem_models/structured_waveguides,True
 https://gitlab.fresnel.fr/mosaic/4polarSTORM,True
 https://gitlab.huma-num.fr/atelier-donnees/depot,True
 https://gitlab.huma-num.fr/bvh/max/max_bvh,True
@@ -9219,6 +9219,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/legi/soft/trokata/bidiez,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/legi/soft/trokata/bundle,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/legi/soft/trokata/ddt,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/legi/soft/trokata/freskein,True
+https://gricad-gitlab.univ-grenoble-alpes.fr/legi/soft/trokata/kannad,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/legi/soft/trokata/klask,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/legi/soft/trokata/klask-webphp,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/legi/soft/trokata/latex-review,True
