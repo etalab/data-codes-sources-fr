@@ -1411,7 +1411,7 @@ https://github.com/DISIC/circuits,True
 https://github.com/DISIC/design-numerique-admin,True
 https://github.com/DISIC/design.numerique.gouv.fr,True
 https://github.com/DISIC/designgouv-admin,True
-https://github.com/DISIC/dsn-audits-cnamts,False
+https://github.com/DISIC/dsn-audits-cnamts,True
 https://github.com/DISIC/dsn-audits-dgpn,False
 https://github.com/DISIC/dsn-audits-dlpaj,True
 https://github.com/DISIC/evenements-bluehats,True
@@ -6790,7 +6790,7 @@ https://gitlab.fresnel.fr/exemples/hdf5-tuto,False
 https://gitlab.fresnel.fr/exemples/libcardan,True
 https://gitlab.fresnel.fr/fem_models/gratings,True
 https://gitlab.fresnel.fr/fem_models/nonlinearevp,True
-https://gitlab.fresnel.fr/fem_models/scattering,False
+https://gitlab.fresnel.fr/fem_models/scattering,True
 https://gitlab.fresnel.fr/fem_models/structured_waveguides,True
 https://gitlab.fresnel.fr/mosaic/4polarSTORM,True
 https://gitlab.huma-num.fr/atelier-donnees/depot,True
@@ -8195,6 +8195,7 @@ https://gitlab.inria.fr/mosaic/draco_stem,True
 https://gitlab.inria.fr/mosaic/mosaic-commons,True
 https://gitlab.inria.fr/mosaic/publications/cauliflower,True
 https://gitlab.inria.fr/mosaic/publications/lpy2pc,True
+https://gitlab.inria.fr/mosaic/publications/pccd,False
 https://gitlab.inria.fr/mosaic/publications/protoplast,True
 https://gitlab.inria.fr/mosaic/publications/sam_spaghetti,True
 https://gitlab.inria.fr/mosaic/publications/seed_sup_mat,True
