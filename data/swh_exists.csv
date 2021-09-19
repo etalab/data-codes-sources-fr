@@ -9445,6 +9445,7 @@ https://plmlab.math.cnrs.fr/docker-images/docker-images.pages.math.cnrs.fr,True
 https://plmlab.math.cnrs.fr/docker-images/elasticsearch,True
 https://plmlab.math.cnrs.fr/docker-images/esup-pod,True
 https://plmlab.math.cnrs.fr/docker-images/helm-mirror,True
+https://plmlab.math.cnrs.fr/docker-images/hugo,False
 https://plmlab.math.cnrs.fr/docker-images/latex,True
 https://plmlab.math.cnrs.fr/docker-images/mariadb,True
 https://plmlab.math.cnrs.fr/docker-images/mkdocs,True
