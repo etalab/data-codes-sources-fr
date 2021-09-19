@@ -1412,7 +1412,7 @@ https://github.com/DISIC/design-numerique-admin,True
 https://github.com/DISIC/design.numerique.gouv.fr,True
 https://github.com/DISIC/designgouv-admin,True
 https://github.com/DISIC/dsn-audits-cnamts,True
-https://github.com/DISIC/dsn-audits-dgpn,False
+https://github.com/DISIC/dsn-audits-dgpn,True
 https://github.com/DISIC/dsn-audits-dlpaj,True
 https://github.com/DISIC/evenements-bluehats,True
 https://github.com/DISIC/foss-contrib-policy-template,True
@@ -4797,7 +4797,7 @@ https://github.com/etalab/schema-sdirve,True
 https://github.com/etalab/schema-stationnement,True
 https://github.com/etalab/schema-stationnement-cyclable,True
 https://github.com/etalab/schema-template,True
-https://github.com/etalab/schema-vehicules-faibles-emissions-renouvellement-parc,False
+https://github.com/etalab/schema-vehicules-faibles-emissions-renouvellement-parc,True
 https://github.com/etalab/schema-zfe,True
 https://github.com/etalab/schema-zfe-regles,True
 https://github.com/etalab/schema.data.gouv.fr,True
