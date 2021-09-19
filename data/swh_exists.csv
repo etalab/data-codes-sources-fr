@@ -945,7 +945,7 @@ https://github.com/1024pix/ember-cli-matomo-tag-manager,True
 https://github.com/1024pix/ember-sentry,True
 https://github.com/1024pix/formation-jeremie,True
 https://github.com/1024pix/gateway,True
-https://github.com/1024pix/gh-pix,False
+https://github.com/1024pix/gh-pix,True
 https://github.com/1024pix/gravitee-buildpack,True
 https://github.com/1024pix/gravitee-gateway,True
 https://github.com/1024pix/graviteeio-management-ui,True
@@ -3132,7 +3132,7 @@ https://github.com/abes-esr/scienceplus-queries,True
 https://github.com/abes-esr/scienceplus-queries-grlc,True
 https://github.com/abes-esr/sudoc-toolkit,True
 https://github.com/abes-esr/sudocps-graph-app,True
-https://github.com/abes-esr/swish-e-docker,False
+https://github.com/abes-esr/swish-e-docker,True
 https://github.com/abes-esr/theses-batch,True
 https://github.com/abes-esr/theses-batch-ongoingthesestodelete,True
 https://github.com/abes-esr/theses-dataaccesslayer,True
