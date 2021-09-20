@@ -3781,7 +3781,7 @@ https://github.com/cea-hpc/PCVS,True
 https://github.com/cea-hpc/bmgr,True
 https://github.com/cea-hpc/bridge,True
 https://github.com/cea-hpc/clustershell,True
-https://github.com/cea-hpc/coordinatool,False
+https://github.com/cea-hpc/coordinatool,True
 https://github.com/cea-hpc/fleet,True
 https://github.com/cea-hpc/gct,True
 https://github.com/cea-hpc/glost,True
@@ -5716,6 +5716,7 @@ https://github.com/neuroanatomy/paper-reorient,False
 https://github.com/neuroanatomy/reorient,True
 https://github.com/neuroanatomy/structjs,True
 https://github.com/neuroanatomy/thresholdmann,True
+https://github.com/neuroanatomy/trainable_segmentation,False
 https://github.com/neuroanatomy/translucent-viewer,True
 https://github.com/numerique-gouv/numerique.gouv.fr,True
 https://github.com/numerique-gouv/numerique.gouv.fr-infra,True
@@ -8169,6 +8170,7 @@ https://gitlab.inria.fr/mnemosyne/data_prototypes,True
 https://gitlab.inria.fr/mnemosyne/neurosmart,True
 https://gitlab.inria.fr/mnemosyne/vanilla_nn,True
 https://gitlab.inria.fr/moex/alignapi,True
+https://gitlab.inria.fr/moex/aroma,False
 https://gitlab.inria.fr/moex/class,True
 https://gitlab.inria.fr/moex/elster,True
 https://gitlab.inria.fr/moex/lazylav,True
