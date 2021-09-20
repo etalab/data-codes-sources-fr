@@ -966,6 +966,7 @@ https://github.com/1024pix/metrics-grafana,True
 https://github.com/1024pix/metrics-router,True
 https://github.com/1024pix/nginx-lb,True
 https://github.com/1024pix/nginx-lb-dev,True
+https://github.com/1024pix/notify-team-on-config-file-change,False
 https://github.com/1024pix/nuxt-image-extractor,True
 https://github.com/1024pix/open-lab,True
 https://github.com/1024pix/pix,True
@@ -6891,6 +6892,7 @@ https://gitlab.huma-num.fr/lamop/wikidata2gramps,True
 https://gitlab.huma-num.fr/lamop/yersinia,True
 https://gitlab.huma-num.fr/le-livre-de-la-jeunesse-engag-e-en-nouvelle-aquitaine/le-livre-de-la-jeunesse-engagee,True
 https://gitlab.huma-num.fr/lemmatisation-fro/bfm-lem,True
+https://gitlab.huma-num.fr/les-auzieres/website,False
 https://gitlab.huma-num.fr/mappemonde/archives,True
 https://gitlab.huma-num.fr/mshs-poitiers/forellis/amalgameclassifier,True
 https://gitlab.huma-num.fr/mshs-poitiers/forellis/datagrowth,True
@@ -7241,7 +7243,7 @@ https://gitlab.inria.fr/almanach/dyalog/dyalog-sr,True
 https://gitlab.inria.fr/almanach/dyalog/dyalog-xml,True
 https://gitlab.inria.fr/almanach/lectaurep/documentation,True
 https://gitlab.inria.fr/almanach/lectaurep/escriptorium,True
-https://gitlab.inria.fr/almanach/lectaurep/lepidemo,False
+https://gitlab.inria.fr/almanach/lectaurep/lepidemo,True
 https://gitlab.inria.fr/almanach/lectaurep/models,True
 https://gitlab.inria.fr/almanach/lectaurep/ner,True
 https://gitlab.inria.fr/almanach/lectaurep/pipeline,True
@@ -8495,6 +8497,7 @@ https://gitlab.inria.fr/solverstack/vite,True
 https://gitlab.inria.fr/source_code/aes-cryptanalysis-cp-xor-2019,True
 https://gitlab.inria.fr/source_code/ai_paper_code,True
 https://gitlab.inria.fr/spine/spine_model,True
+https://gitlab.inria.fr/spine/vertebrae_segmentation,False
 https://gitlab.inria.fr/spinfer/spinfer,True
 https://gitlab.inria.fr/spinfer/spinfer_evaluation,True
 https://gitlab.inria.fr/stage-env/support,True
@@ -9456,6 +9459,7 @@ https://plmlab.math.cnrs.fr/docker-images/openjdk-jre-headless,True
 https://plmlab.math.cnrs.fr/docker-images/python,True
 https://plmlab.math.cnrs.fr/docker-images/rabbitmq,True
 https://plmlab.math.cnrs.fr/docker-images/rocketchat,True
+https://plmlab.math.cnrs.fr/docker-images/scipy-notebook,False
 https://plmlab.math.cnrs.fr/docker-images/scipy-notebook-plus,True
 https://plmlab.math.cnrs.fr/docker-images/systemd,True
 https://plmlab.math.cnrs.fr/docker-images/ubuntu,True
@@ -9538,6 +9542,7 @@ https://plmlab.math.cnrs.fr/perso/users/bertrand.remy,True
 https://plmlab.math.cnrs.fr/perso/users/caterina.valcu,True
 https://plmlab.math.cnrs.fr/perso/users/damien.ferney,True
 https://plmlab.math.cnrs.fr/perso/users/david.delavennat,True
+https://plmlab.math.cnrs.fr/perso/users/david.renard,False
 https://plmlab.math.cnrs.fr/perso/users/diego.izquierdo,True
 https://plmlab.math.cnrs.fr/perso/users/eleonora.di-nezza,True
 https://plmlab.math.cnrs.fr/perso/users/frank.pacard,True
