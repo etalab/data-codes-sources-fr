@@ -1,5 +1,5 @@
 import os
-import requests, json
+import requests, json, time
 from collections import defaultdict
 
 from models import Package
@@ -57,6 +57,7 @@ def fetch_packages(orgs):
     all_packs = defaultdict(list)
     for k,v in enumerate(json_orgs["login"]):
         if json_orgs["plateforme"][k] == "GitHub":
+            time.sleep(1)
             packages = fetch_package(v)
             for key in packages:
                 all_packs[key].extend(packages[key])            
