@@ -56,7 +56,7 @@ save_orgs(all_orgs)
 # Save packages created by each org
 all_packs = []
 
-print("Fetchin librairies.io for packages")
+print("Fetching librairies.io for packages")
 packages = fetch_packages(all_orgs)
 
 save_packages(packages)
