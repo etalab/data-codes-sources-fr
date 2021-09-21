@@ -1201,7 +1201,7 @@ https://github.com/BRGM/razorback-tutorial-data,True
 https://github.com/BRGM/registry-config-base,True
 https://github.com/BRGM/registry-core,True
 https://github.com/BRGM/vtkwriters,True
-https://github.com/BaseAdresseNationale/adresse-data,False
+https://github.com/BaseAdresseNationale/adresse-data,True
 https://github.com/BaseAdresseNationale/adresse-data-legacy-api,False
 https://github.com/BaseAdresseNationale/adresse-explorer-api,True
 https://github.com/BaseAdresseNationale/adresse.data.gouv.fr,True
@@ -1225,7 +1225,7 @@ https://github.com/BaseAdresseNationale/editeur-bal,True
 https://github.com/BaseAdresseNationale/fantoir,True
 https://github.com/BaseAdresseNationale/fantoir-parser,True
 https://github.com/BaseAdresseNationale/franceconnect-rne,False
-https://github.com/BaseAdresseNationale/gazetteer,False
+https://github.com/BaseAdresseNationale/gazetteer,True
 https://github.com/BaseAdresseNationale/js-normadresse,False
 https://github.com/BaseAdresseNationale/moissonneur-bal,False
 https://github.com/BaseAdresseNationale/normadresse,True
@@ -3363,6 +3363,7 @@ https://github.com/betagouv/Rocket.Chat,True
 https://github.com/betagouv/StopCovid,True
 https://github.com/betagouv/a-just,True
 https://github.com/betagouv/a11y-generateur-declaration,True
+https://github.com/betagouv/active_storage_validations,False
 https://github.com/betagouv/admin-traitdunion,True
 https://github.com/betagouv/aides-jeunes,True
 https://github.com/betagouv/aides-jeunes-ops,True
@@ -7098,6 +7099,7 @@ https://gitlab.inria.fr/OCSR/chaos,True
 https://gitlab.inria.fr/OCSR/crowdmp/addons/microsoft-rocketbox,True
 https://gitlab.inria.fr/OCSR/crowdmp/crowdmp,True
 https://gitlab.inria.fr/OCSR/crowdscan,True
+https://gitlab.inria.fr/PSI/marmotecore,False
 https://gitlab.inria.fr/PSI/psi3,True
 https://gitlab.inria.fr/PSI/psi4,True
 https://gitlab.inria.fr/PaMPA/PaMPA,True
@@ -8536,7 +8538,7 @@ https://gitlab.inria.fr/solverstack/vite,True
 https://gitlab.inria.fr/source_code/aes-cryptanalysis-cp-xor-2019,True
 https://gitlab.inria.fr/source_code/ai_paper_code,True
 https://gitlab.inria.fr/spine/spine_model,True
-https://gitlab.inria.fr/spine/vertebrae_segmentation,False
+https://gitlab.inria.fr/spine/vertebrae_segmentation,True
 https://gitlab.inria.fr/spinfer/spinfer,True
 https://gitlab.inria.fr/spinfer/spinfer_evaluation,True
 https://gitlab.inria.fr/stage-env/support,True
@@ -9263,7 +9265,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/legi/soft/trokata/bidiez,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/legi/soft/trokata/bundle,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/legi/soft/trokata/ddt,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/legi/soft/trokata/freskein,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/legi/soft/trokata/kannad,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/legi/soft/trokata/kannad,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/legi/soft/trokata/klask,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/legi/soft/trokata/klask-webphp,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/legi/soft/trokata/latex-review,True
