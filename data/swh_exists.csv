@@ -1173,6 +1173,7 @@ https://github.com/ApieFrance/ApieFrance.github.io,True
 https://github.com/ApieFrance/choosealicense.com,True
 https://github.com/AssuranceMaladieSec/CertStreamMonitor,True
 https://github.com/AssuranceMaladieSec/abuse,True
+https://github.com/AssuranceMaladieSec/assurancemaladiesec.github.io,False
 https://github.com/AssuranceMaladieSec/ressources-faq-assures,True
 https://github.com/BRGM/ANZSoilML,True
 https://github.com/BRGM/BLiv,True
@@ -1207,7 +1208,7 @@ https://github.com/BaseAdresseNationale/adresse.data.gouv.fr,True
 https://github.com/BaseAdresseNationale/adresse.data.gouv.fr-backend,True
 https://github.com/BaseAdresseNationale/adresses-cadastre,True
 https://github.com/BaseAdresseNationale/adresses-ftth,False
-https://github.com/BaseAdresseNationale/adresses-util,False
+https://github.com/BaseAdresseNationale/adresses-util,True
 https://github.com/BaseAdresseNationale/api-bal,True
 https://github.com/BaseAdresseNationale/api-geocode,True
 https://github.com/BaseAdresseNationale/api-gestion,True
@@ -1865,6 +1866,7 @@ https://github.com/Geographie-cites/delhiR,True
 https://github.com/Geographie-cites/h24,True
 https://github.com/Geographie-cites/lucie,True
 https://github.com/Geographie-cites/micmac-scala,True
+https://github.com/Geographie-cites/mobiliquest,False
 https://github.com/Geographie-cites/mobiliscope,True
 https://github.com/Geographie-cites/mobiliscope2,False
 https://github.com/Geographie-cites/semogeo,True
@@ -3453,6 +3455,7 @@ https://github.com/betagouv/covoiturage-attestation,False
 https://github.com/betagouv/covoiturage-attestation-honneur,True
 https://github.com/betagouv/dashboard_apientreprise,True
 https://github.com/betagouv/dashlord,True
+https://github.com/betagouv/data-insertion-swaggers,False
 https://github.com/betagouv/data_insertion_toolbox,True
 https://github.com/betagouv/data_insertion_toolkit,True
 https://github.com/betagouv/datagir,True
@@ -6128,6 +6131,7 @@ https://github.com/powerapi-ng/rapl-formula,True
 https://github.com/powerapi-ng/selfwatts-controller,True
 https://github.com/powerapi-ng/selfwatts-formula,True
 https://github.com/powerapi-ng/smartwatts-formula,True
+https://github.com/powerapi-ng/virtualwatts,True
 https://github.com/region-bretagne/cit,True
 https://github.com/region-bretagne/dd-portal,True
 https://github.com/region-bretagne/inventaire,True
@@ -6922,7 +6926,7 @@ https://gitlab.huma-num.fr/lamop/wikidata2gramps,True
 https://gitlab.huma-num.fr/lamop/yersinia,True
 https://gitlab.huma-num.fr/le-livre-de-la-jeunesse-engag-e-en-nouvelle-aquitaine/le-livre-de-la-jeunesse-engagee,True
 https://gitlab.huma-num.fr/lemmatisation-fro/bfm-lem,True
-https://gitlab.huma-num.fr/les-auzieres/website,False
+https://gitlab.huma-num.fr/les-auzieres/website,True
 https://gitlab.huma-num.fr/mappemonde/archives,True
 https://gitlab.huma-num.fr/mshs-poitiers/forellis/amalgameclassifier,True
 https://gitlab.huma-num.fr/mshs-poitiers/forellis/datagrowth,True
@@ -6930,6 +6934,7 @@ https://gitlab.huma-num.fr/mshs-poitiers/forellis/dicodiachro,True
 https://gitlab.huma-num.fr/mshs-poitiers/forellis/erea,True
 https://gitlab.huma-num.fr/mshs-poitiers/forellis/gestion-de-version-et-recherche-reproductible,True
 https://gitlab.huma-num.fr/mshs-poitiers/forellis/grafe,True
+https://gitlab.huma-num.fr/mshs-poitiers/forellis/lexifle,False
 https://gitlab.huma-num.fr/mshs-poitiers/forellis/marmython,True
 https://gitlab.huma-num.fr/mshs-poitiers/forellis/sudocmeta2csv,True
 https://gitlab.huma-num.fr/mshs-poitiers/plateforme/xmlify,True
@@ -8032,6 +8037,7 @@ https://gitlab.inria.fr/igrida/kubigrida-docker,True
 https://gitlab.inria.fr/igrida/prometheus-oar-exporter,True
 https://gitlab.inria.fr/igrida/tutorials/tuto1,True
 https://gitlab.inria.fr/igrida/userdocs,True
+https://gitlab.inria.fr/ilda/hyperstorylines,False
 https://gitlab.inria.fr/ink-interaction/list-widgets,True
 https://gitlab.inria.fr/inria-ci/ci-scripts,True
 https://gitlab.inria.fr/inria-ci/ctproxy,True
@@ -8359,7 +8365,7 @@ https://gitlab.inria.fr/pvignet/cadbiom,True
 https://gitlab.inria.fr/pvignet/pycryptosat,True
 https://gitlab.inria.fr/pycomodo/pycomodo,True
 https://gitlab.inria.fr/qparse/corpus,True
-https://gitlab.inria.fr/qparse/onthefly,False
+https://gitlab.inria.fr/qparse/onthefly,True
 https://gitlab.inria.fr/qparse/paper-wtt,True
 https://gitlab.inria.fr/qparse/qparselib,True
 https://gitlab.inria.fr/quantitative-corpora-description/corpora-description,True
