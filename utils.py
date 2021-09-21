@@ -5,7 +5,7 @@ from collections import defaultdict
 from models import Package
 
 def fetch_package(org):
-    api_key = os.getenv("LIBRAIRIES_API_KEY") 
+    api_key = os.getenv("LIBRARIES.IO_API_KEY")
     base_url = "https://libraries.io/api/github/"+ org +"/projects?api_key=" + api_key
     response = requests.get(base_url)
     if response.status_code == 404:
