@@ -1208,8 +1208,8 @@ https://github.com/BaseAdresseNationale/adresse.data.gouv.fr-backend,True
 https://github.com/BaseAdresseNationale/adresses-cadastre,True
 https://github.com/BaseAdresseNationale/adresses-ftth,False
 https://github.com/BaseAdresseNationale/adresses-util,False
-https://github.com/BaseAdresseNationale/api-bal,False
-https://github.com/BaseAdresseNationale/api-geocode,False
+https://github.com/BaseAdresseNationale/api-bal,True
+https://github.com/BaseAdresseNationale/api-geocode,True
 https://github.com/BaseAdresseNationale/api-gestion,True
 https://github.com/BaseAdresseNationale/api-gestion-poc,True
 https://github.com/BaseAdresseNationale/bal,True
@@ -1220,9 +1220,9 @@ https://github.com/BaseAdresseNationale/charte-experimentation-2017,True
 https://github.com/BaseAdresseNationale/codes-postaux,True
 https://github.com/BaseAdresseNationale/contribution-adresse,True
 https://github.com/BaseAdresseNationale/donnees-initiales-2018,True
-https://github.com/BaseAdresseNationale/editeur-bal,False
+https://github.com/BaseAdresseNationale/editeur-bal,True
 https://github.com/BaseAdresseNationale/fantoir,True
-https://github.com/BaseAdresseNationale/fantoir-parser,False
+https://github.com/BaseAdresseNationale/fantoir-parser,True
 https://github.com/BaseAdresseNationale/franceconnect-rne,False
 https://github.com/BaseAdresseNationale/gazetteer,False
 https://github.com/BaseAdresseNationale/js-normadresse,False
@@ -1814,6 +1814,7 @@ https://github.com/GIP-RECIA/h5p-php-library,True
 https://github.com/GIP-RECIA/help-info-portlet,True
 https://github.com/GIP-RECIA/icons-pack,True
 https://github.com/GIP-RECIA/iframe-resizer,True
+https://github.com/GIP-RECIA/karuta-deployer,False
 https://github.com/GIP-RECIA/menu-cantine-ui,True
 https://github.com/GIP-RECIA/moodle,True
 https://github.com/GIP-RECIA/moodle-blocks-course_overview_esco,True
@@ -3113,7 +3114,7 @@ https://github.com/abes-esr/abes-labo-movies,True
 https://github.com/abes-esr/abes-ontology,True
 https://github.com/abes-esr/abes-politique-developpement,True
 https://github.com/abes-esr/abes-sparql-examples,True
-https://github.com/abes-esr/abes-swish-e-docker,False
+https://github.com/abes-esr/abes-swish-e-docker,True
 https://github.com/abes-esr/abes-uptimerobot-widget,True
 https://github.com/abes-esr/abes-webservices,True
 https://github.com/abes-esr/abes-xslt,True
@@ -6117,6 +6118,7 @@ https://github.com/powerapi-ng/j-joules,True
 https://github.com/powerapi-ng/jouleit,True
 https://github.com/powerapi-ng/junit-jjoules,True
 https://github.com/powerapi-ng/powerapi,True
+https://github.com/powerapi-ng/powerapi-ci-env,False
 https://github.com/powerapi-ng/powerapi-ng.github.io,True
 https://github.com/powerapi-ng/powerapi-scala,True
 https://github.com/powerapi-ng/procfs-sensor,True
@@ -6816,7 +6818,7 @@ https://gitlab.factory.social.gouv.fr/test-ops/docker-modsec-fluentd,True
 https://gitlab.factory.social.gouv.fr/test-ops/standup,True
 https://gitlab.factory.social.gouv.fr/test-ops/tremplin,True
 https://gitlab.factory.social.gouv.fr/test-scaleway1/test-autodevops-pg,True
-https://gitlab.fresnel.fr/exemples/hdf5-tuto,False
+https://gitlab.fresnel.fr/exemples/hdf5-tuto,True
 https://gitlab.fresnel.fr/exemples/libcardan,True
 https://gitlab.fresnel.fr/fem_models/gratings,True
 https://gitlab.fresnel.fr/fem_models/nonlinearevp,True
@@ -7324,6 +7326,7 @@ https://gitlab.inria.fr/android-tools/apk-ops,True
 https://gitlab.inria.fr/android-tools/emulator,True
 https://gitlab.inria.fr/android-tools/readme,True
 https://gitlab.inria.fr/anon_group/iotlabandnist,True
+https://gitlab.inria.fr/anr-fcw/infjesp,True
 https://gitlab.inria.fr/asbizard/Procedural_modeling_of_multi-scale_galactic_dust,True
 https://gitlab.inria.fr/asclepios/biblio,True
 https://gitlab.inria.fr/astec/astec,True
@@ -8356,6 +8359,7 @@ https://gitlab.inria.fr/pvignet/cadbiom,True
 https://gitlab.inria.fr/pvignet/pycryptosat,True
 https://gitlab.inria.fr/pycomodo/pycomodo,True
 https://gitlab.inria.fr/qparse/corpus,True
+https://gitlab.inria.fr/qparse/onthefly,False
 https://gitlab.inria.fr/qparse/paper-wtt,True
 https://gitlab.inria.fr/qparse/qparselib,True
 https://gitlab.inria.fr/quantitative-corpora-description/corpora-description,True
@@ -9720,6 +9724,6 @@ https://plmlab.math.cnrs.fr/terraform/modules/network,True
 https://plmlab.math.cnrs.fr/terraform/modules/volume,True
 https://plmlab.math.cnrs.fr/terraform/okd-upi,True
 https://plmlab.math.cnrs.fr/texlive/2017,True
-https://plmlab.math.cnrs.fr/umr9008/public/seminaire-jeune-chercheur-ui,False
+https://plmlab.math.cnrs.fr/umr9008/public/seminaire-jeune-chercheur-ui,True
 https://plmlab.math.cnrs.fr/webconf/greenlight-plm,True
 https://plmlab.math.cnrs.fr/webconf/webconf.pages.math.cnrs.fr,True
