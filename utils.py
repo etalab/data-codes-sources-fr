@@ -8,7 +8,7 @@ def fetch_package(org):
     api_key = os.getenv("LIBRARIESIO_API_KEY")
     base_url = "https://libraries.io/api/github/"+ org +"/projects?api_key=" + api_key
     response = requests.get(base_url)
-    if response.status_code == 404:
+    if response.status_code == 404 or response.status_code == 500:
         return {}
     response.raise_for_status()
 
