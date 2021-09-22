@@ -31,8 +31,8 @@ jobs:
       - run:
           name: Remove existing data files
           command: |
-            rm data/{repertoires,organisations}/csv/*.csv
-            rm data/{repertoires,organisations}/json/*.json
+            rm data/{repertoires,organisations,packages}/csv/*.csv
+            rm data/{repertoires,organisations,packages}/json/*.json
       - run:
           name: Build CSV
           command: |

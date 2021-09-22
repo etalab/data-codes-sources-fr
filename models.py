@@ -47,3 +47,25 @@ class Organisation(BaseModel):
     nombre_repertoires: int
     date_creation: str
     plateforme: str
+
+@dataclass(frozen=True)
+class Package(BaseModel):
+    deprecation_reason: bool
+    description: str
+    forks: int
+    homepage: str
+    keywords: str
+    language: str
+    latest_download_url: str
+    latest_stable_release_number: str
+    latest_stable_release_published_at: str
+    license_normalized: bool
+    licenses: str
+    name: str
+    normalized_licenses: str
+    package_manager_url: str
+    platform: str
+    rank: int
+    repository_url: str
+    stars: int
+    status:str
