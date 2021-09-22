@@ -1444,6 +1444,7 @@ https://github.com/DISIC/designgouv-admin,True
 https://github.com/DISIC/dsn-audits-cnamts,True
 https://github.com/DISIC/dsn-audits-dgpn,True
 https://github.com/DISIC/dsn-audits-dlpaj,True
+https://github.com/DISIC/dsn-audits-dsr,False
 https://github.com/DISIC/evenements-bluehats,True
 https://github.com/DISIC/foss-contrib-policy-template,True
 https://github.com/DISIC/frago,True
@@ -2192,6 +2193,7 @@ https://github.com/InseeFr/Destinie-2,True
 https://github.com/InseeFr/Eno,True
 https://github.com/InseeFr/Eno-CLI,True
 https://github.com/InseeFr/Eno-WS,True
+https://github.com/InseeFr/Helm-Charts,False
 https://github.com/InseeFr/IAM,True
 https://github.com/InseeFr/Impala,True
 https://github.com/InseeFr/JDCruncheR,True
@@ -4421,6 +4423,7 @@ https://github.com/entrepreneur-interet-general/word_convertor,True
 https://github.com/eole/ad-formula,True
 https://github.com/eole/addon-context-linux,True
 https://github.com/eole/alcali,True
+https://github.com/eole/alcali-formula,False
 https://github.com/eole/cert-formula,True
 https://github.com/eole/clients-linux-scribe,True
 https://github.com/eole/dhcpd-formula,True
@@ -6937,7 +6940,7 @@ https://gitlab.huma-num.fr/mshs-poitiers/forellis/dicodiachro,True
 https://gitlab.huma-num.fr/mshs-poitiers/forellis/erea,True
 https://gitlab.huma-num.fr/mshs-poitiers/forellis/gestion-de-version-et-recherche-reproductible,True
 https://gitlab.huma-num.fr/mshs-poitiers/forellis/grafe,True
-https://gitlab.huma-num.fr/mshs-poitiers/forellis/lexifle,False
+https://gitlab.huma-num.fr/mshs-poitiers/forellis/lexifle,True
 https://gitlab.huma-num.fr/mshs-poitiers/forellis/marmython,True
 https://gitlab.huma-num.fr/mshs-poitiers/forellis/sudocmeta2csv,True
 https://gitlab.huma-num.fr/mshs-poitiers/plateforme/xmlify,True
@@ -9367,6 +9370,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/scalde-contrib/ljk-guix-channel,Tru
 https://gricad-gitlab.univ-grenoble-alpes.fr/skitzml/compiler,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/steamer/thesis/lifeline,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/systeme/nachos,True
+https://gricad-gitlab.univ-grenoble-alpes.fr/systeme/tp-mem-alloc,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/systemes/asynchronisme_algorithmique_et_programmation,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/tal_for_distant_languages/wiki,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/talks/deeplearning,True
