@@ -3529,6 +3529,7 @@ https://github.com/betagouv/eva-orchestrateur,True
 https://github.com/betagouv/eva-redirection-cohortes,True
 https://github.com/betagouv/eva-serveur,True
 https://github.com/betagouv/eva-www,True
+https://github.com/betagouv/evolution_perimetres_geo,False
 https://github.com/betagouv/fastapi-csv,True
 https://github.com/betagouv/fetch-normalize-data,True
 https://github.com/betagouv/fiches-de-banc,True
@@ -9506,7 +9507,7 @@ https://plmlab.math.cnrs.fr/docker-images/openjdk-jre-headless,True
 https://plmlab.math.cnrs.fr/docker-images/python,True
 https://plmlab.math.cnrs.fr/docker-images/rabbitmq,True
 https://plmlab.math.cnrs.fr/docker-images/rocketchat,True
-https://plmlab.math.cnrs.fr/docker-images/scipy-notebook,False
+https://plmlab.math.cnrs.fr/docker-images/scipy-notebook,True
 https://plmlab.math.cnrs.fr/docker-images/scipy-notebook-plus,True
 https://plmlab.math.cnrs.fr/docker-images/systemd,True
 https://plmlab.math.cnrs.fr/docker-images/ubuntu,True
@@ -9589,7 +9590,7 @@ https://plmlab.math.cnrs.fr/perso/users/bertrand.remy,True
 https://plmlab.math.cnrs.fr/perso/users/caterina.valcu,True
 https://plmlab.math.cnrs.fr/perso/users/damien.ferney,True
 https://plmlab.math.cnrs.fr/perso/users/david.delavennat,True
-https://plmlab.math.cnrs.fr/perso/users/david.renard,False
+https://plmlab.math.cnrs.fr/perso/users/david.renard,True
 https://plmlab.math.cnrs.fr/perso/users/diego.izquierdo,True
 https://plmlab.math.cnrs.fr/perso/users/eleonora.di-nezza,True
 https://plmlab.math.cnrs.fr/perso/users/frank.pacard,True
