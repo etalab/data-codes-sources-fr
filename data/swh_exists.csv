@@ -600,7 +600,7 @@ https://forgemia.inra.fr/umr-boa/viseago,True
 https://forgemia.inra.fr/umr-gdec/biotools,True
 https://forgemia.inra.fr/umr-gdec/bwgs,True
 https://forgemia.inra.fr/umr-gdec/clari-te,True
-https://forgemia.inra.fr/umr-gdec/gps,False
+https://forgemia.inra.fr/umr-gdec/gps,True
 https://forgemia.inra.fr/umr-gdec/isbpfinder,True
 https://forgemia.inra.fr/umr-gdec/magatt,True
 https://forgemia.inra.fr/umrf/anomaly,True
@@ -1226,7 +1226,7 @@ https://github.com/BaseAdresseNationale/fantoir,True
 https://github.com/BaseAdresseNationale/fantoir-parser,True
 https://github.com/BaseAdresseNationale/franceconnect-rne,False
 https://github.com/BaseAdresseNationale/gazetteer,True
-https://github.com/BaseAdresseNationale/js-normadresse,False
+https://github.com/BaseAdresseNationale/js-normadresse,True
 https://github.com/BaseAdresseNationale/mes-adresses,True
 https://github.com/BaseAdresseNationale/moissonneur-bal,True
 https://github.com/BaseAdresseNationale/normadresse,True
@@ -5077,6 +5077,7 @@ https://github.com/incubateur-territoires/directus-helm-chart,True
 https://github.com/incubateur-territoires/discourse-incubateur,True
 https://github.com/incubateur-territoires/discourse-private-replies,True
 https://github.com/incubateur-territoires/discourse-theme,True
+https://github.com/incubateur-territoires/docker,False
 https://github.com/incubateur-territoires/dokku-discourse,True
 https://github.com/incubateur-territoires/gridsome-source-graphql,True
 https://github.com/incubateur-territoires/incubateur-directus,True
@@ -6125,6 +6126,7 @@ https://github.com/polewebmaedi/natural-earth-vector,True
 https://github.com/powerapi-ng/energy-scripts,True
 https://github.com/powerapi-ng/hwpc-sensor,True
 https://github.com/powerapi-ng/j-joules,True
+https://github.com/powerapi-ng/joulehunter,False
 https://github.com/powerapi-ng/jouleit,True
 https://github.com/powerapi-ng/junit-jjoules,True
 https://github.com/powerapi-ng/powerapi,True
@@ -8997,6 +8999,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/JMMC/jmmc-vollt-server,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/JMMC/vltischools/vltischool-2021,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/ResifYAMLfiles,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/amqp-worker-wfcatalog-k8s,True
+https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/budcollector,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/budindexer,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/cronjobs-k8s,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/datadump,True
