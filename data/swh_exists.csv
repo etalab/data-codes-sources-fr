@@ -1215,8 +1215,8 @@ https://github.com/BaseAdresseNationale/api-gestion,True
 https://github.com/BaseAdresseNationale/api-gestion-poc,True
 https://github.com/BaseAdresseNationale/bal,True
 https://github.com/BaseAdresseNationale/ban,True
-https://github.com/BaseAdresseNationale/ban-api-depot,False
-https://github.com/BaseAdresseNationale/ban-plateforme,False
+https://github.com/BaseAdresseNationale/ban-api-depot,True
+https://github.com/BaseAdresseNationale/ban-plateforme,True
 https://github.com/BaseAdresseNationale/charte-experimentation-2017,True
 https://github.com/BaseAdresseNationale/codes-postaux,True
 https://github.com/BaseAdresseNationale/contribution-adresse,True
@@ -5545,6 +5545,7 @@ https://github.com/medialab/webclim_analyses,True
 https://github.com/medialab/webclim_analyses_covid19,True
 https://github.com/medialab/webclim_buzzsumo,True
 https://github.com/medialab/webclim_facebook,True
+https://github.com/medialab/webclim_ipm,False
 https://github.com/medialab/webclim_propagation_graphs_facebook,True
 https://github.com/medialab/webclim_temporal_evolution_facebook,True
 https://github.com/medialab/webclim_youtube,True
@@ -6130,7 +6131,7 @@ https://github.com/powerapi-ng/joulehunter,False
 https://github.com/powerapi-ng/jouleit,True
 https://github.com/powerapi-ng/junit-jjoules,True
 https://github.com/powerapi-ng/powerapi,True
-https://github.com/powerapi-ng/powerapi-ci-env,False
+https://github.com/powerapi-ng/powerapi-ci-env,True
 https://github.com/powerapi-ng/powerapi-ng.github.io,True
 https://github.com/powerapi-ng/powerapi-scala,True
 https://github.com/powerapi-ng/procfs-sensor,True
@@ -6717,6 +6718,7 @@ https://gitlab.com/fabnum-minarm/igloo/terraform/projects/anais,True
 https://gitlab.com/fabnum-minarm/igloo/terraform/projects/argos,True
 https://gitlab.com/fabnum-minarm/igloo/terraform/projects/cassiopee,True
 https://gitlab.com/fabnum-minarm/igloo/terraform/projects/e-chauffeur,True
+https://gitlab.com/fabnum-minarm/igloo/terraform/projects/frise,False
 https://gitlab.com/fabnum-minarm/igloo/terraform/projects/octopus,True
 https://gitlab.com/fabnum-minarm/igloo/terraform/projects/sepia,True
 https://gitlab.com/fabnum-minarm/metiis/backend,True
@@ -8047,7 +8049,7 @@ https://gitlab.inria.fr/igrida/kubigrida-docker,True
 https://gitlab.inria.fr/igrida/prometheus-oar-exporter,True
 https://gitlab.inria.fr/igrida/tutorials/tuto1,True
 https://gitlab.inria.fr/igrida/userdocs,True
-https://gitlab.inria.fr/ilda/hyperstorylines,False
+https://gitlab.inria.fr/ilda/hyperstorylines,True
 https://gitlab.inria.fr/ink-interaction/list-widgets,True
 https://gitlab.inria.fr/inria-ci/ci-scripts,True
 https://gitlab.inria.fr/inria-ci/ctproxy,True
