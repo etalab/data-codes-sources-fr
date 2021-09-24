@@ -3780,6 +3780,7 @@ https://github.com/betagouv/syso-core,True
 https://github.com/betagouv/tarn.comobi.fr,True
 https://github.com/betagouv/taux-collectifs-cotisation-atmp,True
 https://github.com/betagouv/taux-versement-transport,True
+https://github.com/betagouv/tell-me,False
 https://github.com/betagouv/template-design-system-de-l-etat,True
 https://github.com/betagouv/template.beta.gouv.fr,True
 https://github.com/betagouv/territoires-en-transitions,True
@@ -7109,7 +7110,7 @@ https://gitlab.inria.fr/OCSR/chaos,True
 https://gitlab.inria.fr/OCSR/crowdmp/addons/microsoft-rocketbox,True
 https://gitlab.inria.fr/OCSR/crowdmp/crowdmp,True
 https://gitlab.inria.fr/OCSR/crowdscan,True
-https://gitlab.inria.fr/PSI/marmotecore,False
+https://gitlab.inria.fr/PSI/marmotecore,True
 https://gitlab.inria.fr/PSI/psi3,True
 https://gitlab.inria.fr/PSI/psi4,True
 https://gitlab.inria.fr/PaMPA/PaMPA,True
