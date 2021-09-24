@@ -1441,6 +1441,7 @@ https://github.com/DISIC/circuits,True
 https://github.com/DISIC/design-numerique-admin,True
 https://github.com/DISIC/design.numerique.gouv.fr,True
 https://github.com/DISIC/designgouv-admin,True
+https://github.com/DISIC/dsn-audits-ce,False
 https://github.com/DISIC/dsn-audits-cnamts,True
 https://github.com/DISIC/dsn-audits-dgpn,True
 https://github.com/DISIC/dsn-audits-dlpaj,True
@@ -3165,6 +3166,7 @@ https://github.com/abes-esr/qualinka-findra,True
 https://github.com/abes-esr/scienceplus-content,True
 https://github.com/abes-esr/scienceplus-queries,True
 https://github.com/abes-esr/scienceplus-queries-grlc,True
+https://github.com/abes-esr/spring-cloud-config-server,False
 https://github.com/abes-esr/sudoc-toolkit,True
 https://github.com/abes-esr/sudocps-graph-app,True
 https://github.com/abes-esr/swish-e-docker,True
@@ -4551,6 +4553,7 @@ https://github.com/etalab-ia/open_ML,True
 https://github.com/etalab-ia/opendatascience,True
 https://github.com/etalab-ia/piaf-code,True
 https://github.com/etalab-ia/piaf-ml,True
+https://github.com/etalab-ia/piaf-ranker,False
 https://github.com/etalab-ia/piaf_agent,True
 https://github.com/etalab-ia/pseudo_api,True
 https://github.com/etalab-ia/pseudo_app,True
@@ -7979,7 +7982,7 @@ https://gitlab.inria.fr/grew/grew_demo,False
 https://gitlab.inria.fr/grew/grew_doc,True
 https://gitlab.inria.fr/grew/grew_gui,True
 https://gitlab.inria.fr/grew/grew_match,True
-https://gitlab.inria.fr/grew/grew_match_back,False
+https://gitlab.inria.fr/grew/grew_match_back,True
 https://gitlab.inria.fr/grew/grew_parse,True
 https://gitlab.inria.fr/grew/grew_server,True
 https://gitlab.inria.fr/grew/grew_stat,True
