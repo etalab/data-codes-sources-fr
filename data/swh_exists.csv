@@ -1205,7 +1205,7 @@ https://github.com/BRGM/registry-config-base,True
 https://github.com/BRGM/registry-core,True
 https://github.com/BRGM/vtkwriters,True
 https://github.com/BaseAdresseNationale/adresse-data,True
-https://github.com/BaseAdresseNationale/adresse-data-legacy-api,False
+https://github.com/BaseAdresseNationale/adresse-data-legacy-api,True
 https://github.com/BaseAdresseNationale/adresse-explorer-api,True
 https://github.com/BaseAdresseNationale/adresse.data.gouv.fr,True
 https://github.com/BaseAdresseNationale/adresse.data.gouv.fr-backend,True
@@ -1444,7 +1444,7 @@ https://github.com/DISIC/circuits,True
 https://github.com/DISIC/design-numerique-admin,True
 https://github.com/DISIC/design.numerique.gouv.fr,True
 https://github.com/DISIC/designgouv-admin,True
-https://github.com/DISIC/dsn-audits-ce,False
+https://github.com/DISIC/dsn-audits-ce,True
 https://github.com/DISIC/dsn-audits-cnamts,True
 https://github.com/DISIC/dsn-audits-dgpn,True
 https://github.com/DISIC/dsn-audits-dlpaj,True
@@ -3536,7 +3536,7 @@ https://github.com/betagouv/eva-orchestrateur,True
 https://github.com/betagouv/eva-redirection-cohortes,True
 https://github.com/betagouv/eva-serveur,True
 https://github.com/betagouv/eva-www,True
-https://github.com/betagouv/evolution_perimetres_geo,False
+https://github.com/betagouv/evolution_perimetres_geo,True
 https://github.com/betagouv/fastapi-csv,True
 https://github.com/betagouv/fetch-normalize-data,True
 https://github.com/betagouv/fiches-de-banc,True
@@ -4432,7 +4432,7 @@ https://github.com/entrepreneur-interet-general/word_convertor,True
 https://github.com/eole/ad-formula,True
 https://github.com/eole/addon-context-linux,True
 https://github.com/eole/alcali,True
-https://github.com/eole/alcali-formula,False
+https://github.com/eole/alcali-formula,True
 https://github.com/eole/cert-formula,True
 https://github.com/eole/clients-linux-scribe,True
 https://github.com/eole/dhcpd-formula,True
@@ -5949,7 +5949,7 @@ https://github.com/openfisca/trace-tool,True
 https://github.com/openfisca/tracer,True
 https://github.com/openfisca/tracker,True
 https://github.com/openfisca/tutorial,True
-https://github.com/openfun/.github,False
+https://github.com/openfun/.github,True
 https://github.com/openfun/ansible-role-bigbluebutton,True
 https://github.com/openfun/arnold,True
 https://github.com/openfun/arnold-apps,True
