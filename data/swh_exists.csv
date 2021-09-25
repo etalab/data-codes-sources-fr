@@ -3377,7 +3377,7 @@ https://github.com/betagouv/active_storage_validations,True
 https://github.com/betagouv/admin-traitdunion,True
 https://github.com/betagouv/aides-jeunes,True
 https://github.com/betagouv/aides-jeunes-ops,True
-https://github.com/betagouv/aides_jeunes_custom_openfisca_france,False
+https://github.com/betagouv/aides_jeunes_custom_openfisca_france,True
 https://github.com/betagouv/allegement-fillon,True
 https://github.com/betagouv/analyse-flux-insertion,True
 https://github.com/betagouv/andi,True
@@ -5949,6 +5949,7 @@ https://github.com/openfisca/trace-tool,True
 https://github.com/openfisca/tracer,True
 https://github.com/openfisca/tracker,True
 https://github.com/openfisca/tutorial,True
+https://github.com/openfun/.github,False
 https://github.com/openfun/ansible-role-bigbluebutton,True
 https://github.com/openfun/arnold,True
 https://github.com/openfun/arnold-apps,True
