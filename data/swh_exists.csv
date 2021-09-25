@@ -1227,7 +1227,7 @@ https://github.com/BaseAdresseNationale/donnees-initiales-2018,True
 https://github.com/BaseAdresseNationale/editeur-bal,True
 https://github.com/BaseAdresseNationale/fantoir,True
 https://github.com/BaseAdresseNationale/fantoir-parser,True
-https://github.com/BaseAdresseNationale/franceconnect-rne,False
+https://github.com/BaseAdresseNationale/franceconnect-rne,True
 https://github.com/BaseAdresseNationale/gazetteer,True
 https://github.com/BaseAdresseNationale/js-normadresse,True
 https://github.com/BaseAdresseNationale/mes-adresses,True
@@ -3787,7 +3787,7 @@ https://github.com/betagouv/syso-core,True
 https://github.com/betagouv/tarn.comobi.fr,True
 https://github.com/betagouv/taux-collectifs-cotisation-atmp,True
 https://github.com/betagouv/taux-versement-transport,True
-https://github.com/betagouv/tell-me,False
+https://github.com/betagouv/tell-me,True
 https://github.com/betagouv/template-design-system-de-l-etat,True
 https://github.com/betagouv/template.beta.gouv.fr,True
 https://github.com/betagouv/territoires-en-transitions,True
@@ -5555,7 +5555,7 @@ https://github.com/medialab/webclim_analyses,True
 https://github.com/medialab/webclim_analyses_covid19,True
 https://github.com/medialab/webclim_buzzsumo,True
 https://github.com/medialab/webclim_facebook,True
-https://github.com/medialab/webclim_ipm,False
+https://github.com/medialab/webclim_ipm,True
 https://github.com/medialab/webclim_propagation_graphs_facebook,True
 https://github.com/medialab/webclim_temporal_evolution_facebook,True
 https://github.com/medialab/webclim_youtube,True
@@ -9552,7 +9552,7 @@ https://plmlab.math.cnrs.fr/illustrating-math/sphere_morph,True
 https://plmlab.math.cnrs.fr/illustrating-math/website,False
 https://plmlab.math.cnrs.fr/illustrating-math/wordpress,False
 https://plmlab.math.cnrs.fr/imb-dijon/faq,True
-https://plmlab.math.cnrs.fr/imb-dijon/flpro,False
+https://plmlab.math.cnrs.fr/imb-dijon/flpro,True
 https://plmlab.math.cnrs.fr/imb-dijon/infocom,True
 https://plmlab.math.cnrs.fr/imb-public/anr-template,True
 https://plmlab.math.cnrs.fr/imt/acces_backup,True
