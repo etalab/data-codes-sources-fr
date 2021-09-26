@@ -1057,7 +1057,7 @@ https://github.com/139bercy/influxdb-recovery,True
 https://github.com/139bercy/opendata-quality,True
 https://github.com/139bercy/orchestrator-ETL,False
 https://github.com/139bercy/propilot2pdf,True
-https://github.com/139bercy/pypel,False
+https://github.com/139bercy/pypel,True
 https://github.com/139bercy/secret_stat,True
 https://github.com/139bercy/tresthor,True
 https://github.com/ANSSI-FR/AD-control-paths,True
@@ -3480,7 +3480,7 @@ https://github.com/betagouv/covoiturage-attestation,False
 https://github.com/betagouv/covoiturage-attestation-honneur,True
 https://github.com/betagouv/dashboard_apientreprise,True
 https://github.com/betagouv/dashlord,True
-https://github.com/betagouv/data-insertion-swaggers,False
+https://github.com/betagouv/data-insertion-swaggers,True
 https://github.com/betagouv/data_insertion_toolbox,True
 https://github.com/betagouv/data_insertion_toolkit,True
 https://github.com/betagouv/datagir,True
@@ -3546,6 +3546,7 @@ https://github.com/betagouv/epci,True
 https://github.com/betagouv/etudiant-entrepreneur,True
 https://github.com/betagouv/eva,True
 https://github.com/betagouv/eva-orchestrateur,True
+https://github.com/betagouv/eva-proxy,False
 https://github.com/betagouv/eva-redirection-cohortes,True
 https://github.com/betagouv/eva-serveur,True
 https://github.com/betagouv/eva-www,True
@@ -3608,7 +3609,7 @@ https://github.com/betagouv/lapin,True
 https://github.com/betagouv/lescollines.comobi.fr,True
 https://github.com/betagouv/leximpact-client,True
 https://github.com/betagouv/leximpact-server,True
-https://github.com/betagouv/locadocs,False
+https://github.com/betagouv/locadocs,True
 https://github.com/betagouv/logstash-boilerplate,True
 https://github.com/betagouv/loomio,True
 https://github.com/betagouv/ludwig,True
