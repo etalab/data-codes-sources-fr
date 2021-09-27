@@ -185,7 +185,7 @@ https://forge.univ-lyon1.fr/isicg/Geom_Discr_Projet,False
 https://forge.univ-lyon1.fr/isicg/GeometrieDiscrete_cercleSphere,False
 https://forge.univ-lyon1.fr/isicg/IA,False
 https://forge.univ-lyon1.fr/isicg/ITNI,False
-https://forge.univ-lyon1.fr/isicg/MA_SAMIR_TP1,False
+https://forge.univ-lyon1.fr/isicg/MA_SAMIR_TP1,True
 https://forge.univ-lyon1.fr/isicg/Trivia,False
 https://forge.univ-lyon1.fr/isicg/brocoli,False
 https://forge.univ-lyon1.fr/isicg/impression3D,False
@@ -2450,7 +2450,7 @@ https://github.com/MTES-MCT/adock-api,True
 https://github.com/MTES-MCT/adock-ui,True
 https://github.com/MTES-MCT/aeris,True
 https://github.com/MTES-MCT/aides-territoires,True
-https://github.com/MTES-MCT/apilos,False
+https://github.com/MTES-MCT/apilos,True
 https://github.com/MTES-MCT/appel,True
 https://github.com/MTES-MCT/asgard-manager,True
 https://github.com/MTES-MCT/asgard-postgresql,True
@@ -3180,6 +3180,7 @@ https://github.com/abes-esr/poc-fne-wikidata-query-gui,True
 https://github.com/abes-esr/pydref,True
 https://github.com/abes-esr/qualinka-findra,True
 https://github.com/abes-esr/qualinka-microservices,False
+https://github.com/abes-esr/qualinka-spring-cloud-config-server,False
 https://github.com/abes-esr/scienceplus-content,True
 https://github.com/abes-esr/scienceplus-queries,True
 https://github.com/abes-esr/scienceplus-queries-grlc,True
@@ -4555,6 +4556,7 @@ https://github.com/etalab-ia/ami-ia-ineris,True
 https://github.com/etalab-ia/ami-ia-insee,True
 https://github.com/etalab-ia/ami-ia-irsn,True
 https://github.com/etalab-ia/ami-ia-sisse,True
+https://github.com/etalab-ia/auto-sklearn,False
 https://github.com/etalab-ia/chatbot-template,True
 https://github.com/etalab-ia/data_gouv_text,True
 https://github.com/etalab-ia/data_science_template,True
@@ -9583,6 +9585,7 @@ https://plmlab.math.cnrs.fr/imt/sysadmin_pub_keys,True
 https://plmlab.math.cnrs.fr/imt/web-scripts/web-scripts-base,True
 https://plmlab.math.cnrs.fr/info/flpro,True
 https://plmlab.math.cnrs.fr/infomath/git_dummy,True
+https://plmlab.math.cnrs.fr/infomath/hugo-docker,False
 https://plmlab.math.cnrs.fr/infomath/latex,True
 https://plmlab.math.cnrs.fr/ipanema/propellor,True
 https://plmlab.math.cnrs.fr/jupytercloud/authenticator-proxy,True
