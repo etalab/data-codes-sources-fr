@@ -180,7 +180,7 @@ https://forge.univ-lyon1.fr/inf2026l-lifap5/lifap5-backend-2021p,True
 https://forge.univ-lyon1.fr/info-7/Projet-Peip2,True
 https://forge.univ-lyon1.fr/info-7/tp-bdw1,True
 https://forge.univ-lyon1.fr/isicg/GPGPU_image,False
-https://forge.univ-lyon1.fr/isicg/GameTheory,False
+https://forge.univ-lyon1.fr/isicg/GameTheory,True
 https://forge.univ-lyon1.fr/isicg/Geom_Discr_Projet,False
 https://forge.univ-lyon1.fr/isicg/GeometrieDiscrete_cercleSphere,False
 https://forge.univ-lyon1.fr/isicg/IA,False
@@ -189,7 +189,7 @@ https://forge.univ-lyon1.fr/isicg/MA_SAMIR_TP1,True
 https://forge.univ-lyon1.fr/isicg/Trivia,False
 https://forge.univ-lyon1.fr/isicg/brocoli,False
 https://forge.univ-lyon1.fr/isicg/impression3D,False
-https://forge.univ-lyon1.fr/isicg/parapp,False
+https://forge.univ-lyon1.fr/isicg/parapp,True
 https://forge.univ-lyon1.fr/iut-lyon-s3-php/ansible,True
 https://forge.univ-lyon1.fr/knowdyn-ens/knowdyn-contenus-2020,True
 https://forge.univ-lyon1.fr/l3-mi/Vision-3D-Robot,False
@@ -1461,7 +1461,7 @@ https://github.com/DISIC/dsn-audits-ce,True
 https://github.com/DISIC/dsn-audits-cnamts,True
 https://github.com/DISIC/dsn-audits-dgpn,True
 https://github.com/DISIC/dsn-audits-dlpaj,True
-https://github.com/DISIC/dsn-audits-dsr,False
+https://github.com/DISIC/dsn-audits-dsr,True
 https://github.com/DISIC/evenements-bluehats,True
 https://github.com/DISIC/foss-contrib-policy-template,True
 https://github.com/DISIC/frago,True
@@ -4833,7 +4833,7 @@ https://github.com/etalab/radar-tech,True
 https://github.com/etalab/radar-tech-backend,True
 https://github.com/etalab/radar-tech-form,True
 https://github.com/etalab/radar-tech-frontend,True
-https://github.com/etalab/recherche-data-gouv-fr,False
+https://github.com/etalab/recherche-data-gouv-fr,True
 https://github.com/etalab/recherche.etalab.studio,True
 https://github.com/etalab/recommendations-edito,True
 https://github.com/etalab/reports-aides-entreprises,True
@@ -8419,6 +8419,7 @@ https://gitlab.inria.fr/revol/mpfi,True
 https://gitlab.inria.fr/rmod-public/2019-sourcecodedata,True
 https://gitlab.inria.fr/rmod-public/steven-tests/steven-tests.gitlab.inria.fr,False
 https://gitlab.inria.fr/ros_nodes/hrl-kdl,True
+https://gitlab.inria.fr/rsdschool21/lab,False
 https://gitlab.inria.fr/rsdschool21/website,True
 https://gitlab.inria.fr/rsed1/documentation,False
 https://gitlab.inria.fr/runaway/mixup,True
