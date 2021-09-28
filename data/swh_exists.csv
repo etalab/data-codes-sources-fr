@@ -186,7 +186,7 @@ https://forge.univ-lyon1.fr/isicg/GeometrieDiscrete_cercleSphere,False
 https://forge.univ-lyon1.fr/isicg/IA,False
 https://forge.univ-lyon1.fr/isicg/ITNI,False
 https://forge.univ-lyon1.fr/isicg/MA_SAMIR_TP1,True
-https://forge.univ-lyon1.fr/isicg/Trivia,False
+https://forge.univ-lyon1.fr/isicg/Trivia,True
 https://forge.univ-lyon1.fr/isicg/brocoli,False
 https://forge.univ-lyon1.fr/isicg/impression3D,True
 https://forge.univ-lyon1.fr/isicg/parapp,True
@@ -1834,7 +1834,7 @@ https://github.com/GIP-RECIA/h5p-php-library,True
 https://github.com/GIP-RECIA/help-info-portlet,True
 https://github.com/GIP-RECIA/icons-pack,True
 https://github.com/GIP-RECIA/iframe-resizer,True
-https://github.com/GIP-RECIA/karuta-deployer,False
+https://github.com/GIP-RECIA/karuta-deployer,True
 https://github.com/GIP-RECIA/menu-cantine-ui,True
 https://github.com/GIP-RECIA/moodle,True
 https://github.com/GIP-RECIA/moodle-blocks-course_overview_esco,True
@@ -1885,7 +1885,7 @@ https://github.com/Geographie-cites/delhiR,True
 https://github.com/Geographie-cites/h24,True
 https://github.com/Geographie-cites/lucie,True
 https://github.com/Geographie-cites/micmac-scala,True
-https://github.com/Geographie-cites/mobiliquest,False
+https://github.com/Geographie-cites/mobiliquest,True
 https://github.com/Geographie-cites/mobiliscope,True
 https://github.com/Geographie-cites/mobiliscope2,False
 https://github.com/Geographie-cites/semogeo,True
@@ -3330,7 +3330,7 @@ https://github.com/atlanmod/NeoEMF-hbase,True
 https://github.com/atlanmod/OCL2fUML,True
 https://github.com/atlanmod/Parallel-ATL,True
 https://github.com/atlanmod/Prefetching_Caching_DSL,True
-https://github.com/atlanmod/SparkTE_public,False
+https://github.com/atlanmod/SparkTE_public,True
 https://github.com/atlanmod/ThingML,True
 https://github.com/atlanmod/UML2NoSQL,True
 https://github.com/atlanmod/algae,True
@@ -5850,6 +5850,7 @@ https://github.com/ocaml/platform-blog,True
 https://github.com/ocaml/platform-dev,True
 https://github.com/ocaml/setup-ocaml,True
 https://github.com/ocaml/stdlib-shims,True
+https://github.com/ocaml/subsystem-meetings,False
 https://github.com/ocaml/tuareg,True
 https://github.com/ocaml/uchar,True
 https://github.com/ocaml/v3.ocaml.org,True
@@ -6404,7 +6405,7 @@ https://github.com/unistra/django-workflows,True
 https://github.com/unistra/djangorestframework-spore,True
 https://github.com/unistra/dtrt-ffmpeg,True
 https://github.com/unistra/eplouribousse,True
-https://github.com/unistra/esup-immersup,False
+https://github.com/unistra/esup-immersup,True
 https://github.com/unistra/esup-schedulesy-backend,True
 https://github.com/unistra/esup-schedulesy-frontend,True
 https://github.com/unistra/eva,True
@@ -8867,6 +8868,14 @@ https://gitlab.math.unistra.fr/seminaire_edp/seminaire_edp.pages.math.unistra.fr
 https://gitlab.math.unistra.fr/seminaire_moco/seminaire_moco.pages.math.unistra.fr,False
 https://gitlab.math.unistra.fr/urfist/cours-python,True
 https://gitlab.math.unistra.fr/voiceover/voiceover-terminal,True
+https://gitlab.metromobilite.fr/m/affluence/affluence-front,False
+https://gitlab.metromobilite.fr/m/affluence/affluence-serv,False
+https://gitlab.metromobilite.fr/m/m-pwa-light,False
+https://gitlab.metromobilite.fr/m/public/m-features,False
+https://gitlab.metromobilite.fr/m/public/m-map,False
+https://gitlab.metromobilite.fr/m/public/m-smartwatch/metro-watch,False
+https://gitlab.metromobilite.fr/m/public/m-theme,False
+https://gitlab.metromobilite.fr/m/public/metro-flutter,False
 https://gitlab.orfeo-toolbox.org/maja/maja,True
 https://gitlab.orfeo-toolbox.org/maja/maja-build-env,True
 https://gitlab.orfeo-toolbox.org/maja/maja-utilities,True
