@@ -193,7 +193,7 @@ https://forge.univ-lyon1.fr/isicg/parapp,True
 https://forge.univ-lyon1.fr/iut-lyon-s3-php/ansible,True
 https://forge.univ-lyon1.fr/knowdyn-ens/knowdyn-contenus-2020,True
 https://forge.univ-lyon1.fr/l3-mi/Vision-3D-Robot,False
-https://forge.univ-lyon1.fr/l3-mi/poo_project,False
+https://forge.univ-lyon1.fr/l3-mi/poo_project,True
 https://forge.univ-lyon1.fr/le-meilleur-projet/1er-projet,True
 https://forge.univ-lyon1.fr/les-cracks/OpenGL,True
 https://forge.univ-lyon1.fr/les-cracks/chaisse-lifap4,True
@@ -1055,7 +1055,7 @@ https://github.com/139bercy/graylog-recovery,True
 https://github.com/139bercy/hub,True
 https://github.com/139bercy/influxdb-recovery,True
 https://github.com/139bercy/opendata-quality,True
-https://github.com/139bercy/orchestrator-ETL,False
+https://github.com/139bercy/orchestrator-ETL,True
 https://github.com/139bercy/propilot2pdf,True
 https://github.com/139bercy/pypel,True
 https://github.com/139bercy/secret_stat,True
@@ -2483,7 +2483,7 @@ https://github.com/MTES-MCT/codescanalerts-action,True
 https://github.com/MTES-MCT/cours-java-debutant,True
 https://github.com/MTES-MCT/dashboard,True
 https://github.com/MTES-MCT/dashlord,True
-https://github.com/MTES-MCT/dashlord-dgaln,False
+https://github.com/MTES-MCT/dashlord-dgaln,True
 https://github.com/MTES-MCT/dashlord-mte,False
 https://github.com/MTES-MCT/dashlord-updownio-report,False
 https://github.com/MTES-MCT/data-preparation-plugin,True
@@ -3179,8 +3179,9 @@ https://github.com/abes-esr/poc-fne-wikibase-docker,True
 https://github.com/abes-esr/poc-fne-wikidata-query-gui,True
 https://github.com/abes-esr/pydref,True
 https://github.com/abes-esr/qualinka-findra,True
+https://github.com/abes-esr/qualinka-findws-requests,False
 https://github.com/abes-esr/qualinka-microservices,True
-https://github.com/abes-esr/qualinka-spring-cloud-config-server,False
+https://github.com/abes-esr/qualinka-spring-cloud-config-server,True
 https://github.com/abes-esr/scienceplus-content,True
 https://github.com/abes-esr/scienceplus-queries,True
 https://github.com/abes-esr/scienceplus-queries-grlc,True
@@ -6984,6 +6985,7 @@ https://gitlab.huma-num.fr/nakala-tools/nakanav,True
 https://gitlab.huma-num.fr/portic/gazetteer,True
 https://gitlab.huma-num.fr/portic/navigocorpus,True
 https://gitlab.huma-num.fr/portic/porticapi,True
+https://gitlab.huma-num.fr/portic/porticttl,False
 https://gitlab.huma-num.fr/profiterole/profiterole-tools,True
 https://gitlab.huma-num.fr/profiterole/sentseg,True
 https://gitlab.huma-num.fr/profiterole/srcmf-ud,True
