@@ -182,7 +182,7 @@ https://forge.univ-lyon1.fr/info-7/tp-bdw1,True
 https://forge.univ-lyon1.fr/isicg/GPGPU_image,True
 https://forge.univ-lyon1.fr/isicg/GameTheory,True
 https://forge.univ-lyon1.fr/isicg/Geom_Discr_Projet,False
-https://forge.univ-lyon1.fr/isicg/GeometrieDiscrete_cercleSphere,False
+https://forge.univ-lyon1.fr/isicg/GeometrieDiscrete_cercleSphere,True
 https://forge.univ-lyon1.fr/isicg/IA,False
 https://forge.univ-lyon1.fr/isicg/ITNI,False
 https://forge.univ-lyon1.fr/isicg/MA_SAMIR_TP1,True
@@ -4558,7 +4558,7 @@ https://github.com/etalab-ia/ami-ia-ineris,True
 https://github.com/etalab-ia/ami-ia-insee,True
 https://github.com/etalab-ia/ami-ia-irsn,True
 https://github.com/etalab-ia/ami-ia-sisse,True
-https://github.com/etalab-ia/auto-sklearn,False
+https://github.com/etalab-ia/auto-sklearn,True
 https://github.com/etalab-ia/chatbot-template,True
 https://github.com/etalab-ia/data_gouv_text,True
 https://github.com/etalab-ia/data_science_template,True
@@ -8870,7 +8870,7 @@ https://gitlab.math.unistra.fr/urfist/cours-python,True
 https://gitlab.math.unistra.fr/voiceover/voiceover-terminal,True
 https://gitlab.metromobilite.fr/m/affluence/affluence-front,False
 https://gitlab.metromobilite.fr/m/affluence/affluence-serv,False
-https://gitlab.metromobilite.fr/m/m-pwa-light,False
+https://gitlab.metromobilite.fr/m/m-pwa-light,True
 https://gitlab.metromobilite.fr/m/public/m-features,False
 https://gitlab.metromobilite.fr/m/public/m-map,False
 https://gitlab.metromobilite.fr/m/public/m-smartwatch/metro-watch,False
