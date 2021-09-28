@@ -3179,7 +3179,7 @@ https://github.com/abes-esr/poc-fne-wikibase-docker,True
 https://github.com/abes-esr/poc-fne-wikidata-query-gui,True
 https://github.com/abes-esr/pydref,True
 https://github.com/abes-esr/qualinka-findra,True
-https://github.com/abes-esr/qualinka-microservices,False
+https://github.com/abes-esr/qualinka-microservices,True
 https://github.com/abes-esr/qualinka-spring-cloud-config-server,False
 https://github.com/abes-esr/scienceplus-content,True
 https://github.com/abes-esr/scienceplus-queries,True
@@ -3329,6 +3329,7 @@ https://github.com/atlanmod/NeoEMF-hbase,True
 https://github.com/atlanmod/OCL2fUML,True
 https://github.com/atlanmod/Parallel-ATL,True
 https://github.com/atlanmod/Prefetching_Caching_DSL,True
+https://github.com/atlanmod/SparkTE_public,False
 https://github.com/atlanmod/ThingML,True
 https://github.com/atlanmod/UML2NoSQL,True
 https://github.com/atlanmod/algae,True
@@ -6402,6 +6403,7 @@ https://github.com/unistra/django-workflows,True
 https://github.com/unistra/djangorestframework-spore,True
 https://github.com/unistra/dtrt-ffmpeg,True
 https://github.com/unistra/eplouribousse,True
+https://github.com/unistra/esup-immersup,False
 https://github.com/unistra/esup-schedulesy-backend,True
 https://github.com/unistra/esup-schedulesy-frontend,True
 https://github.com/unistra/eva,True
@@ -8419,7 +8421,7 @@ https://gitlab.inria.fr/revol/mpfi,True
 https://gitlab.inria.fr/rmod-public/2019-sourcecodedata,True
 https://gitlab.inria.fr/rmod-public/steven-tests/steven-tests.gitlab.inria.fr,False
 https://gitlab.inria.fr/ros_nodes/hrl-kdl,True
-https://gitlab.inria.fr/rsdschool21/lab,False
+https://gitlab.inria.fr/rsdschool21/lab,True
 https://gitlab.inria.fr/rsdschool21/website,True
 https://gitlab.inria.fr/rsed1/documentation,False
 https://gitlab.inria.fr/runaway/mixup,True
