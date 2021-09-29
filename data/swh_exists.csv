@@ -184,7 +184,7 @@ https://forge.univ-lyon1.fr/isicg/GameTheory,True
 https://forge.univ-lyon1.fr/isicg/Geom_Discr_Projet,False
 https://forge.univ-lyon1.fr/isicg/GeometrieDiscrete_cercleSphere,True
 https://forge.univ-lyon1.fr/isicg/IA,False
-https://forge.univ-lyon1.fr/isicg/ITNI,False
+https://forge.univ-lyon1.fr/isicg/ITNI,True
 https://forge.univ-lyon1.fr/isicg/MA_SAMIR_TP1,True
 https://forge.univ-lyon1.fr/isicg/Trivia,True
 https://forge.univ-lyon1.fr/isicg/brocoli,True
@@ -3179,7 +3179,7 @@ https://github.com/abes-esr/poc-fne-wikibase-docker,True
 https://github.com/abes-esr/poc-fne-wikidata-query-gui,True
 https://github.com/abes-esr/pydref,True
 https://github.com/abes-esr/qualinka-findra,True
-https://github.com/abes-esr/qualinka-findws-requests,False
+https://github.com/abes-esr/qualinka-findws-requests,True
 https://github.com/abes-esr/qualinka-microservices,True
 https://github.com/abes-esr/qualinka-spring-cloud-config-server,True
 https://github.com/abes-esr/scienceplus-content,True
@@ -6155,6 +6155,7 @@ https://github.com/polewebmaedi/MAEDI-Capitales,True
 https://github.com/polewebmaedi/MAEDI-Pays,True
 https://github.com/polewebmaedi/countries,True
 https://github.com/polewebmaedi/natural-earth-vector,True
+https://github.com/powerapi-ng/.github,False
 https://github.com/powerapi-ng/energy-scripts,True
 https://github.com/powerapi-ng/hwpc-sensor,True
 https://github.com/powerapi-ng/j-joules,True
@@ -8117,6 +8118,7 @@ https://gitlab.inria.fr/lcourtes-phd/file-sets,True
 https://gitlab.inria.fr/learning-bluetooth/ble_simulator,True
 https://gitlab.inria.fr/learninglab/classcodeia,True
 https://gitlab.inria.fr/learninglab/formation-ux,True
+https://gitlab.inria.fr/learninglab/forum-involvment-exercise,False
 https://gitlab.inria.fr/learninglab/guidelines,False
 https://gitlab.inria.fr/learninglab/guidelines-ill,True
 https://gitlab.inria.fr/learninglab/mooc-bioinfo,True
@@ -8251,7 +8253,7 @@ https://gitlab.inria.fr/mnemosyne/data_prototypes,True
 https://gitlab.inria.fr/mnemosyne/neurosmart,True
 https://gitlab.inria.fr/mnemosyne/vanilla_nn,True
 https://gitlab.inria.fr/moex/alignapi,True
-https://gitlab.inria.fr/moex/aroma,False
+https://gitlab.inria.fr/moex/aroma,True
 https://gitlab.inria.fr/moex/class,True
 https://gitlab.inria.fr/moex/elster,True
 https://gitlab.inria.fr/moex/lazylav,True
