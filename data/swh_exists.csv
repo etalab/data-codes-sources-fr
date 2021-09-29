@@ -5080,6 +5080,16 @@ https://github.com/ia-flash/mmdetection,True
 https://github.com/ia-flash/ref_caradisiac,True
 https://github.com/ia-flash/s3-download-action,True
 https://github.com/ia-flash/sivnorm,True
+https://github.com/ifremer-bioinformatics/BLAST-PLAST-bench,True
+https://github.com/ifremer-bioinformatics/BeeDeeM-Tools,False
+https://github.com/ifremer-bioinformatics/Keshif,False
+https://github.com/ifremer-bioinformatics/ToolDirectory,True
+https://github.com/ifremer-bioinformatics/celia,False
+https://github.com/ifremer-bioinformatics/ifremer-bioinformatics.github.io,False
+https://github.com/ifremer-bioinformatics/omics-catalog,False
+https://github.com/ifremer-bioinformatics/orson,False
+https://github.com/ifremer-bioinformatics/pallor,False
+https://github.com/ifremer-bioinformatics/samba,False
 https://github.com/imagesdesmaths/idm,True
 https://github.com/imagesdesmaths/spip,True
 https://github.com/ina-foss/ID-Fits,True
@@ -5852,7 +5862,7 @@ https://github.com/ocaml/platform-blog,True
 https://github.com/ocaml/platform-dev,True
 https://github.com/ocaml/setup-ocaml,True
 https://github.com/ocaml/stdlib-shims,True
-https://github.com/ocaml/subsystem-meetings,False
+https://github.com/ocaml/subsystem-meetings,True
 https://github.com/ocaml/tuareg,True
 https://github.com/ocaml/uchar,True
 https://github.com/ocaml/v3.ocaml.org,True
@@ -7599,7 +7609,7 @@ https://gitlab.inria.fr/corese/corese-lab,True
 https://gitlab.inria.fr/croco-ocean/croco,True
 https://gitlab.inria.fr/croco-ocean/croco_tools,True
 https://gitlab.inria.fr/croco-ocean/devs/theetten/croco,True
-https://gitlab.inria.fr/crombach-neuro/projection-neurons-mouse-olfactory-bulb,False
+https://gitlab.inria.fr/crombach-neuro/projection-neurons-mouse-olfactory-bulb,True
 https://gitlab.inria.fr/crowdguard-public/data/taxonomy-skillproject,True
 https://gitlab.inria.fr/crowdguard-public/data/workers-stackoverflow,True
 https://gitlab.inria.fr/crowdguard-public/deliverables/final,True
@@ -8878,7 +8888,7 @@ https://gitlab.math.unistra.fr/voiceover/voiceover-terminal,True
 https://gitlab.metromobilite.fr/m/affluence/affluence-front,False
 https://gitlab.metromobilite.fr/m/affluence/affluence-serv,True
 https://gitlab.metromobilite.fr/m/m-pwa-light,True
-https://gitlab.metromobilite.fr/m/public/m-features,False
+https://gitlab.metromobilite.fr/m/public/m-features,True
 https://gitlab.metromobilite.fr/m/public/m-map,False
 https://gitlab.metromobilite.fr/m/public/m-smartwatch/metro-watch,False
 https://gitlab.metromobilite.fr/m/public/m-theme,False
