@@ -5410,6 +5410,7 @@ https://github.com/medialab/aime-tweets,True
 https://github.com/medialab/amendement,True
 https://github.com/medialab/artoo,True
 https://github.com/medialab/artoratoire,True
+https://github.com/medialab/ateliers,False
 https://github.com/medialab/benchmarkForceAtlas2,True
 https://github.com/medialab/benchmarkNetworkCut,True
 https://github.com/medialab/bhht-datascape,True
@@ -7482,6 +7483,8 @@ https://gitlab.inria.fr/capsid-public/conda/runner-build,True
 https://gitlab.inria.fr/capsid-public/conda/runner-deploy,True
 https://gitlab.inria.fr/capsid.crates/lib3dmol,True
 https://gitlab.inria.fr/capsid.public_codes/ppidmpublic,True
+https://gitlab.inria.fr/cartolabe/cartolabe-data,False
+https://gitlab.inria.fr/cartolabe/cartolabe-visu,False
 https://gitlab.inria.fr/causality/causal-ocaml,True
 https://gitlab.inria.fr/causality/causality-monad,True
 https://gitlab.inria.fr/causality/petri-strategies,True
@@ -7596,6 +7599,7 @@ https://gitlab.inria.fr/corese/corese-lab,True
 https://gitlab.inria.fr/croco-ocean/croco,True
 https://gitlab.inria.fr/croco-ocean/croco_tools,True
 https://gitlab.inria.fr/croco-ocean/devs/theetten/croco,True
+https://gitlab.inria.fr/crombach-neuro/projection-neurons-mouse-olfactory-bulb,False
 https://gitlab.inria.fr/crowdguard-public/data/taxonomy-skillproject,True
 https://gitlab.inria.fr/crowdguard-public/data/workers-stackoverflow,True
 https://gitlab.inria.fr/crowdguard-public/deliverables/final,True
