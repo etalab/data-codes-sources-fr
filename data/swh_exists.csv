@@ -5082,7 +5082,7 @@ https://github.com/ia-flash/s3-download-action,True
 https://github.com/ia-flash/sivnorm,True
 https://github.com/ifremer-bioinformatics/BLAST-PLAST-bench,True
 https://github.com/ifremer-bioinformatics/BeeDeeM-Tools,False
-https://github.com/ifremer-bioinformatics/Keshif,False
+https://github.com/ifremer-bioinformatics/Keshif,True
 https://github.com/ifremer-bioinformatics/ToolDirectory,True
 https://github.com/ifremer-bioinformatics/celia,False
 https://github.com/ifremer-bioinformatics/ifremer-bioinformatics.github.io,False
@@ -6765,6 +6765,7 @@ https://gitlab.com/fabnum-minarm/igloo/terraform/projects/e-chauffeur,True
 https://gitlab.com/fabnum-minarm/igloo/terraform/projects/frise,True
 https://gitlab.com/fabnum-minarm/igloo/terraform/projects/octopus,True
 https://gitlab.com/fabnum-minarm/igloo/terraform/projects/sepia,True
+https://gitlab.com/fabnum-minarm/igloo/terraform/projects/sgdsn,False
 https://gitlab.com/fabnum-minarm/metiis/backend,True
 https://gitlab.com/fabnum-minarm/metiis/frontend,True
 https://gitlab.com/fabnum-minarm/stargate/backend,True
