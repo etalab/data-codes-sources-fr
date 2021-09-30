@@ -981,7 +981,7 @@ https://github.com/1024pix/metrics-grafana,True
 https://github.com/1024pix/metrics-router,True
 https://github.com/1024pix/nginx-lb,True
 https://github.com/1024pix/nginx-lb-dev,True
-https://github.com/1024pix/notify-team-on-config-file-change,False
+https://github.com/1024pix/notify-team-on-config-file-change,True
 https://github.com/1024pix/nuxt-image-extractor,True
 https://github.com/1024pix/open-lab,True
 https://github.com/1024pix/pix,True
@@ -5084,11 +5084,11 @@ https://github.com/ifremer-bioinformatics/BLAST-PLAST-bench,True
 https://github.com/ifremer-bioinformatics/BeeDeeM-Tools,False
 https://github.com/ifremer-bioinformatics/Keshif,True
 https://github.com/ifremer-bioinformatics/ToolDirectory,True
-https://github.com/ifremer-bioinformatics/celia,False
+https://github.com/ifremer-bioinformatics/celia,True
 https://github.com/ifremer-bioinformatics/ifremer-bioinformatics.github.io,False
 https://github.com/ifremer-bioinformatics/omics-catalog,False
 https://github.com/ifremer-bioinformatics/orson,False
-https://github.com/ifremer-bioinformatics/pallor,False
+https://github.com/ifremer-bioinformatics/pallor,True
 https://github.com/ifremer-bioinformatics/samba,False
 https://github.com/imagesdesmaths/idm,True
 https://github.com/imagesdesmaths/spip,True
@@ -7495,7 +7495,7 @@ https://gitlab.inria.fr/capsid-public/conda/runner-deploy,True
 https://gitlab.inria.fr/capsid.crates/lib3dmol,True
 https://gitlab.inria.fr/capsid.public_codes/ppidmpublic,True
 https://gitlab.inria.fr/cartolabe/cartolabe-data,False
-https://gitlab.inria.fr/cartolabe/cartolabe-visu,False
+https://gitlab.inria.fr/cartolabe/cartolabe-visu,True
 https://gitlab.inria.fr/causality/causal-ocaml,True
 https://gitlab.inria.fr/causality/causality-monad,True
 https://gitlab.inria.fr/causality/petri-strategies,True
@@ -8893,7 +8893,7 @@ https://gitlab.metromobilite.fr/m/public/m-features,True
 https://gitlab.metromobilite.fr/m/public/m-map,False
 https://gitlab.metromobilite.fr/m/public/m-smartwatch/metro-watch,False
 https://gitlab.metromobilite.fr/m/public/m-theme,False
-https://gitlab.metromobilite.fr/m/public/metro-flutter,False
+https://gitlab.metromobilite.fr/m/public/metro-flutter,True
 https://gitlab.orfeo-toolbox.org/maja/maja,True
 https://gitlab.orfeo-toolbox.org/maja/maja-build-env,True
 https://gitlab.orfeo-toolbox.org/maja/maja-utilities,True
