@@ -2984,6 +2984,7 @@ https://github.com/SocialGouv/seminaire,True
 https://github.com/SocialGouv/serving-ml,True
 https://github.com/SocialGouv/siret2idcc,True
 https://github.com/SocialGouv/social-ui,True
+https://github.com/SocialGouv/socialgouv,False
 https://github.com/SocialGouv/socialgouv.github.io,True
 https://github.com/SocialGouv/sre-tools,True
 https://github.com/SocialGouv/ssl-dashboard,True
@@ -6151,6 +6152,7 @@ https://github.com/pass-culture/terraform-google-sql-db,True
 https://github.com/picty/concerto,True
 https://github.com/picty/parsifal,True
 https://github.com/plantnet/PlantNet-300K,True
+https://github.com/plantnet/arangojs,False
 https://github.com/plantnet/gbif-dl,True
 https://github.com/plantnet/hapi-rate-limit,True
 https://github.com/plantnet/leaflet-d3,True
@@ -6765,7 +6767,7 @@ https://gitlab.com/fabnum-minarm/igloo/terraform/projects/e-chauffeur,True
 https://gitlab.com/fabnum-minarm/igloo/terraform/projects/frise,True
 https://gitlab.com/fabnum-minarm/igloo/terraform/projects/octopus,True
 https://gitlab.com/fabnum-minarm/igloo/terraform/projects/sepia,True
-https://gitlab.com/fabnum-minarm/igloo/terraform/projects/sgdsn,False
+https://gitlab.com/fabnum-minarm/igloo/terraform/projects/sgdsn,True
 https://gitlab.com/fabnum-minarm/metiis/backend,True
 https://gitlab.com/fabnum-minarm/metiis/frontend,True
 https://gitlab.com/fabnum-minarm/stargate/backend,True
@@ -7494,7 +7496,7 @@ https://gitlab.inria.fr/capsid-public/conda/runner-build,True
 https://gitlab.inria.fr/capsid-public/conda/runner-deploy,True
 https://gitlab.inria.fr/capsid.crates/lib3dmol,True
 https://gitlab.inria.fr/capsid.public_codes/ppidmpublic,True
-https://gitlab.inria.fr/cartolabe/cartolabe-data,False
+https://gitlab.inria.fr/cartolabe/cartolabe-data,True
 https://gitlab.inria.fr/cartolabe/cartolabe-visu,True
 https://gitlab.inria.fr/causality/causal-ocaml,True
 https://gitlab.inria.fr/causality/causality-monad,True
@@ -7607,6 +7609,7 @@ https://gitlab.inria.fr/coq/wiki-backup,True
 https://gitlab.inria.fr/coqinterval/interval,True
 https://gitlab.inria.fr/coquelicot/coquelicot,True
 https://gitlab.inria.fr/corese/corese-lab,True
+https://gitlab.inria.fr/cours-mf/is328-students,False
 https://gitlab.inria.fr/croco-ocean/croco,True
 https://gitlab.inria.fr/croco-ocean/croco_tools,True
 https://gitlab.inria.fr/croco-ocean/devs/theetten/croco,True
@@ -9361,6 +9364,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/mecaiceige/tools/lib_python/xarray_
 https://gricad-gitlab.univ-grenoble-alpes.fr/mecaiceige/tools/lib_python/xarray_uvecs,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/meige-legi/intro-python,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/meige-legi/scientific-computing-m2-efm,True
+https://gricad-gitlab.univ-grenoble-alpes.fr/mepels/mepelssystem,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/mercurius_inversion/alternated_inversion,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/mercury_inversion/alternating_inversion,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/mercury_inversion/inversion_3species,True
