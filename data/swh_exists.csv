@@ -192,7 +192,7 @@ https://forge.univ-lyon1.fr/isicg/impression3D,True
 https://forge.univ-lyon1.fr/isicg/parapp,True
 https://forge.univ-lyon1.fr/iut-lyon-s3-php/ansible,True
 https://forge.univ-lyon1.fr/knowdyn-ens/knowdyn-contenus-2020,True
-https://forge.univ-lyon1.fr/l3-mi/Vision-3D-Robot,False
+https://forge.univ-lyon1.fr/l3-mi/Vision-3D-Robot,True
 https://forge.univ-lyon1.fr/l3-mi/poo_project,True
 https://forge.univ-lyon1.fr/le-meilleur-projet/1er-projet,True
 https://forge.univ-lyon1.fr/les-cracks/OpenGL,True
@@ -2984,7 +2984,7 @@ https://github.com/SocialGouv/seminaire,True
 https://github.com/SocialGouv/serving-ml,True
 https://github.com/SocialGouv/siret2idcc,True
 https://github.com/SocialGouv/social-ui,True
-https://github.com/SocialGouv/socialgouv,False
+https://github.com/SocialGouv/socialgouv,True
 https://github.com/SocialGouv/socialgouv.github.io,True
 https://github.com/SocialGouv/sre-tools,True
 https://github.com/SocialGouv/ssl-dashboard,True
