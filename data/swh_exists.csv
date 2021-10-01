@@ -1461,6 +1461,7 @@ https://github.com/DISIC/dsn-audits-ce,True
 https://github.com/DISIC/dsn-audits-cnamts,True
 https://github.com/DISIC/dsn-audits-dgpn,True
 https://github.com/DISIC/dsn-audits-dlpaj,True
+https://github.com/DISIC/dsn-audits-drhmae,False
 https://github.com/DISIC/dsn-audits-dsr,True
 https://github.com/DISIC/evenements-bluehats,True
 https://github.com/DISIC/foss-contrib-policy-template,True
@@ -3743,6 +3744,7 @@ https://github.com/betagouv/psy-enfant-ado,True
 https://github.com/betagouv/publicodes,True
 https://github.com/betagouv/qrcode-svg,True
 https://github.com/betagouv/quotient-familial,True
+https://github.com/betagouv/radio.incubateur.net,False
 https://github.com/betagouv/rdv-insertion,True
 https://github.com/betagouv/rdv-solidarites.fr,True
 https://github.com/betagouv/rdv-solidarites.fr-webhook-exemples,False
@@ -6152,7 +6154,7 @@ https://github.com/pass-culture/terraform-google-sql-db,True
 https://github.com/picty/concerto,True
 https://github.com/picty/parsifal,True
 https://github.com/plantnet/PlantNet-300K,True
-https://github.com/plantnet/arangojs,False
+https://github.com/plantnet/arangojs,True
 https://github.com/plantnet/gbif-dl,True
 https://github.com/plantnet/hapi-rate-limit,True
 https://github.com/plantnet/leaflet-d3,True
@@ -6168,7 +6170,7 @@ https://github.com/polewebmaedi/MAEDI-Capitales,True
 https://github.com/polewebmaedi/MAEDI-Pays,True
 https://github.com/polewebmaedi/countries,True
 https://github.com/polewebmaedi/natural-earth-vector,True
-https://github.com/powerapi-ng/.github,False
+https://github.com/powerapi-ng/.github,True
 https://github.com/powerapi-ng/energy-scripts,True
 https://github.com/powerapi-ng/hwpc-sensor,True
 https://github.com/powerapi-ng/j-joules,True
@@ -6906,6 +6908,7 @@ https://gitlab.huma-num.fr/consortium3d/aLTAG3D,True
 https://gitlab.huma-num.fr/cosme/telma_chartes_exports,True
 https://gitlab.huma-num.fr/cosme/telma_chartes_imports,True
 https://gitlab.huma-num.fr/crh/biblio-crh,True
+https://gitlab.huma-num.fr/crh/crh-biblio,False
 https://gitlab.huma-num.fr/daycourse/intersectionality,True
 https://gitlab.huma-num.fr/disco-lge/ichll11-slides,True
 https://gitlab.huma-num.fr/disco-lge/processinglge,True
@@ -8495,6 +8498,7 @@ https://gitlab.inria.fr/sed-rennes/sharelatex/sharelatex,True
 https://gitlab.inria.fr/sed-rennes/sharelatex/web-sharelatex,True
 https://gitlab.inria.fr/sed-rennes/test-droits,True
 https://gitlab.inria.fr/sed-saclay/TutorielGitlabPages,True
+https://gitlab.inria.fr/sed-saclay/cheatsheetfornewcomers,False
 https://gitlab.inria.fr/sed-saclay/formulairesdemandesingenieur,True
 https://gitlab.inria.fr/seed_detection/benchmarking,True
 https://gitlab.inria.fr/seed_detection/precursor,True
@@ -8895,7 +8899,7 @@ https://gitlab.metromobilite.fr/m/m-pwa-light,True
 https://gitlab.metromobilite.fr/m/public/m-features,True
 https://gitlab.metromobilite.fr/m/public/m-map,False
 https://gitlab.metromobilite.fr/m/public/m-smartwatch/metro-watch,False
-https://gitlab.metromobilite.fr/m/public/m-theme,False
+https://gitlab.metromobilite.fr/m/public/m-theme,True
 https://gitlab.metromobilite.fr/m/public/metro-flutter,True
 https://gitlab.orfeo-toolbox.org/maja/maja,True
 https://gitlab.orfeo-toolbox.org/maja/maja-build-env,True
@@ -9621,7 +9625,7 @@ https://plmlab.math.cnrs.fr/imt/sysadmin_pub_keys,True
 https://plmlab.math.cnrs.fr/imt/web-scripts/web-scripts-base,True
 https://plmlab.math.cnrs.fr/info/flpro,True
 https://plmlab.math.cnrs.fr/infomath/git_dummy,True
-https://plmlab.math.cnrs.fr/infomath/hugo-docker,False
+https://plmlab.math.cnrs.fr/infomath/hugo-docker,True
 https://plmlab.math.cnrs.fr/infomath/latex,True
 https://plmlab.math.cnrs.fr/ipanema/propellor,True
 https://plmlab.math.cnrs.fr/jupytercloud/authenticator-proxy,True
