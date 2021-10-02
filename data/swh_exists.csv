@@ -3744,7 +3744,7 @@ https://github.com/betagouv/psy-enfant-ado,True
 https://github.com/betagouv/publicodes,True
 https://github.com/betagouv/qrcode-svg,True
 https://github.com/betagouv/quotient-familial,True
-https://github.com/betagouv/radio.incubateur.net,False
+https://github.com/betagouv/radio.incubateur.net,True
 https://github.com/betagouv/rdv-insertion,True
 https://github.com/betagouv/rdv-solidarites.fr,True
 https://github.com/betagouv/rdv-solidarites.fr-webhook-exemples,False
@@ -6988,7 +6988,7 @@ https://gitlab.huma-num.fr/consortium3d/aLTAG3D,True
 https://gitlab.huma-num.fr/cosme/telma_chartes_exports,True
 https://gitlab.huma-num.fr/cosme/telma_chartes_imports,True
 https://gitlab.huma-num.fr/crh/biblio-crh,True
-https://gitlab.huma-num.fr/crh/crh-biblio,False
+https://gitlab.huma-num.fr/crh/crh-biblio,True
 https://gitlab.huma-num.fr/daycourse/intersectionality,True
 https://gitlab.huma-num.fr/disco-lge/ichll11-slides,True
 https://gitlab.huma-num.fr/disco-lge/processinglge,True
@@ -7291,6 +7291,7 @@ https://gitlab.inria.fr/SketchedLearning/spm-notebook,True
 https://gitlab.inria.fr/Spirals/k8sapimodeller,True
 https://gitlab.inria.fr/Spirals/monsoon,True
 https://gitlab.inria.fr/TeamPlay_Public/TeamPlay_Public_Deliverables,True
+https://gitlab.inria.fr/TeamPlay_Public/TeamPlay_Public_Tools/SecurityAnalyser,False
 https://gitlab.inria.fr/VeRDi-project/concerto,True
 https://gitlab.inria.fr/VeRDi-project/concerto-evaluation,True
 https://gitlab.inria.fr/VeRDi-project/concerto-plan-synthesis,True
@@ -7692,7 +7693,7 @@ https://gitlab.inria.fr/coq/wiki-backup,True
 https://gitlab.inria.fr/coqinterval/interval,True
 https://gitlab.inria.fr/coquelicot/coquelicot,True
 https://gitlab.inria.fr/corese/corese-lab,True
-https://gitlab.inria.fr/cours-mf/is328-students,False
+https://gitlab.inria.fr/cours-mf/is328-students,True
 https://gitlab.inria.fr/croco-ocean/croco,True
 https://gitlab.inria.fr/croco-ocean/croco_tools,True
 https://gitlab.inria.fr/croco-ocean/devs/theetten/croco,True
