@@ -1461,7 +1461,7 @@ https://github.com/DISIC/dsn-audits-ce,True
 https://github.com/DISIC/dsn-audits-cnamts,True
 https://github.com/DISIC/dsn-audits-dgpn,True
 https://github.com/DISIC/dsn-audits-dlpaj,True
-https://github.com/DISIC/dsn-audits-drhmae,False
+https://github.com/DISIC/dsn-audits-drhmae,True
 https://github.com/DISIC/dsn-audits-dsr,True
 https://github.com/DISIC/evenements-bluehats,True
 https://github.com/DISIC/foss-contrib-policy-template,True
@@ -5164,7 +5164,7 @@ https://github.com/ia-flash/ref_caradisiac,True
 https://github.com/ia-flash/s3-download-action,True
 https://github.com/ia-flash/sivnorm,True
 https://github.com/ifremer-bioinformatics/BLAST-PLAST-bench,True
-https://github.com/ifremer-bioinformatics/BeeDeeM-Tools,False
+https://github.com/ifremer-bioinformatics/BeeDeeM-Tools,True
 https://github.com/ifremer-bioinformatics/Keshif,True
 https://github.com/ifremer-bioinformatics/ToolDirectory,True
 https://github.com/ifremer-bioinformatics/celia,True
@@ -6254,7 +6254,7 @@ https://github.com/powerapi-ng/.github,True
 https://github.com/powerapi-ng/energy-scripts,True
 https://github.com/powerapi-ng/hwpc-sensor,True
 https://github.com/powerapi-ng/j-joules,True
-https://github.com/powerapi-ng/joulehunter,False
+https://github.com/powerapi-ng/joulehunter,True
 https://github.com/powerapi-ng/jouleit,True
 https://github.com/powerapi-ng/junit-jjoules,True
 https://github.com/powerapi-ng/powerapi,True
@@ -8978,7 +8978,7 @@ https://gitlab.metromobilite.fr/m/affluence/affluence-front,False
 https://gitlab.metromobilite.fr/m/affluence/affluence-serv,True
 https://gitlab.metromobilite.fr/m/m-pwa-light,True
 https://gitlab.metromobilite.fr/m/public/m-features,True
-https://gitlab.metromobilite.fr/m/public/m-map,False
+https://gitlab.metromobilite.fr/m/public/m-map,True
 https://gitlab.metromobilite.fr/m/public/m-smartwatch/metro-watch,False
 https://gitlab.metromobilite.fr/m/public/m-theme,True
 https://gitlab.metromobilite.fr/m/public/metro-flutter,True
@@ -9537,7 +9537,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/tima/public/ct_de-systemc,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/tima/public/newcas2019,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/tima/public/tcad,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/tima/sls/projects/augh,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/tima/sls/projects/qece,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/tima/sls/projects/qece,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/tima/sls/projects/qece-benchmark,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/tima/sls/projects/systemc-ct,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/ttk/radioSphere,True
