@@ -5083,7 +5083,7 @@ https://github.com/geobretagne/mreport,True
 https://github.com/geobretagne/mviewer,True
 https://github.com/geobretagne/mviewer-site,True
 https://github.com/geobretagne/mviewer.doc,True
-https://github.com/geobretagne/mviewerstudio,False
+https://github.com/geobretagne/mviewerstudio,True
 https://github.com/geobretagne/openstreetmap-wms,True
 https://github.com/geobretagne/popp,True
 https://github.com/geobretagne/profile,True
@@ -5119,7 +5119,7 @@ https://github.com/georchestra/foncier,True
 https://github.com/georchestra/geoext,True
 https://github.com/georchestra/geofence,True
 https://github.com/georchestra/geonetwork,True
-https://github.com/georchestra/geonetwork-microservices,False
+https://github.com/georchestra/geonetwork-microservices,True
 https://github.com/georchestra/geonetwork-ui,False
 https://github.com/georchestra/geonetwork_minimal_datadir,True
 https://github.com/georchestra/georchestra,True
@@ -7291,7 +7291,7 @@ https://gitlab.inria.fr/SketchedLearning/spm-notebook,True
 https://gitlab.inria.fr/Spirals/k8sapimodeller,True
 https://gitlab.inria.fr/Spirals/monsoon,True
 https://gitlab.inria.fr/TeamPlay_Public/TeamPlay_Public_Deliverables,True
-https://gitlab.inria.fr/TeamPlay_Public/TeamPlay_Public_Tools/SecurityAnalyser,False
+https://gitlab.inria.fr/TeamPlay_Public/TeamPlay_Public_Tools/SecurityAnalyser,True
 https://gitlab.inria.fr/VeRDi-project/concerto,True
 https://gitlab.inria.fr/VeRDi-project/concerto-evaluation,True
 https://gitlab.inria.fr/VeRDi-project/concerto-plan-synthesis,True
