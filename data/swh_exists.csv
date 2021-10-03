@@ -5115,7 +5115,7 @@ https://github.com/georchestra/datadir,True
 https://github.com/georchestra/docker,True
 https://github.com/georchestra/docker-jenkins,True
 https://github.com/georchestra/extjs,True
-https://github.com/georchestra/foncier,False
+https://github.com/georchestra/foncier,True
 https://github.com/georchestra/geoext,True
 https://github.com/georchestra/geofence,True
 https://github.com/georchestra/geonetwork,True
@@ -7085,7 +7085,7 @@ https://gitlab.huma-num.fr/nakala-tools/nakanav,True
 https://gitlab.huma-num.fr/portic/gazetteer,True
 https://gitlab.huma-num.fr/portic/navigocorpus,True
 https://gitlab.huma-num.fr/portic/porticapi,True
-https://gitlab.huma-num.fr/portic/porticttl,False
+https://gitlab.huma-num.fr/portic/porticttl,True
 https://gitlab.huma-num.fr/profiterole/profiterole-tools,True
 https://gitlab.huma-num.fr/profiterole/sentseg,True
 https://gitlab.huma-num.fr/profiterole/srcmf-ud,True
@@ -9538,7 +9538,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/tima/public/newcas2019,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/tima/public/tcad,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/tima/sls/projects/augh,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/tima/sls/projects/qece,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/tima/sls/projects/qece-benchmark,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/tima/sls/projects/qece-benchmark,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/tima/sls/projects/systemc-ct,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/ttk/radioSphere,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/ttk/spam,True
