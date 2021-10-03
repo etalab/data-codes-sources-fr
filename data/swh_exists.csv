@@ -5120,7 +5120,7 @@ https://github.com/georchestra/geoext,True
 https://github.com/georchestra/geofence,True
 https://github.com/georchestra/geonetwork,True
 https://github.com/georchestra/geonetwork-microservices,True
-https://github.com/georchestra/geonetwork-ui,False
+https://github.com/georchestra/geonetwork-ui,True
 https://github.com/georchestra/geonetwork_minimal_datadir,True
 https://github.com/georchestra/georchestra,True
 https://github.com/georchestra/georchestra-cas-server,False
@@ -5148,7 +5148,7 @@ https://github.com/georchestra/sshdata,True
 https://github.com/georchestra/styler,True
 https://github.com/georchestra/sviewer,True
 https://github.com/georchestra/template,True
-https://github.com/georchestra/vrt-bot,False
+https://github.com/georchestra/vrt-bot,True
 https://github.com/guix-mirror/guix,True
 https://github.com/histovec/csa-as-pdf,True
 https://github.com/histovec/histovec-beta,True
@@ -5170,7 +5170,7 @@ https://github.com/ifremer-bioinformatics/ToolDirectory,True
 https://github.com/ifremer-bioinformatics/celia,True
 https://github.com/ifremer-bioinformatics/ifremer-bioinformatics.github.io,True
 https://github.com/ifremer-bioinformatics/omics-catalog,True
-https://github.com/ifremer-bioinformatics/orson,False
+https://github.com/ifremer-bioinformatics/orson,True
 https://github.com/ifremer-bioinformatics/pallor,True
 https://github.com/ifremer-bioinformatics/samba,True
 https://github.com/imagesdesmaths/idm,True
@@ -8805,6 +8805,7 @@ https://gitlab.inria.fr/x-lab/x-quick,True
 https://gitlab.inria.fr/x-lab/x-stt,True
 https://gitlab.inria.fr/x-lab/x-tts,True
 https://gitlab.inria.fr/x-lab/x-vis,True
+https://gitlab.inria.fr/x-lab/x-wng,False
 https://gitlab.inria.fr/xbie/dvae-speech,True
 https://gitlab.inria.fr/xfor/docs,True
 https://gitlab.inria.fr/xfor/guix-xfor,True
@@ -9745,7 +9746,7 @@ https://plmlab.math.cnrs.fr/perso/users/andrea.marrama,True
 https://plmlab.math.cnrs.fr/perso/users/arthur.touati,True
 https://plmlab.math.cnrs.fr/perso/users/bertrand.remy,True
 https://plmlab.math.cnrs.fr/perso/users/caterina.valcu,True
-https://plmlab.math.cnrs.fr/perso/users/cyril.roberto,False
+https://plmlab.math.cnrs.fr/perso/users/cyril.roberto,True
 https://plmlab.math.cnrs.fr/perso/users/damien.ferney,True
 https://plmlab.math.cnrs.fr/perso/users/david.delavennat,True
 https://plmlab.math.cnrs.fr/perso/users/david.renard,True
