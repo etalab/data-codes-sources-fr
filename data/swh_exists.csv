@@ -3595,6 +3595,7 @@ https://github.com/betagouv/itou-entreprise,True
 https://github.com/betagouv/itou-fdi,True
 https://github.com/betagouv/itou-gitbook,True
 https://github.com/betagouv/itou-landing,True
+https://github.com/betagouv/itou-marche,False
 https://github.com/betagouv/itou-marche-api,True
 https://github.com/betagouv/itou-pilotage,True
 https://github.com/betagouv/itou-subscribe,True
@@ -5125,7 +5126,7 @@ https://github.com/georchestra/geonetwork_minimal_datadir,True
 https://github.com/georchestra/georchestra,True
 https://github.com/georchestra/georchestra-cas-server,False
 https://github.com/georchestra/georchestra.github.io,True
-https://github.com/georchestra/georchestra_documentation,False
+https://github.com/georchestra/georchestra_documentation,True
 https://github.com/georchestra/geoserver,True
 https://github.com/georchestra/geoserver_minimal_datadir,True
 https://github.com/georchestra/geotools,True
@@ -8330,6 +8331,7 @@ https://gitlab.inria.fr/metapart/starpart,True
 https://gitlab.inria.fr/metapart/walshaw,True
 https://gitlab.inria.fr/mfx/icesl-documentation,True
 https://gitlab.inria.fr/mfx/icesl-public,True
+https://gitlab.inria.fr/mfx/opencl-base-code,False
 https://gitlab.inria.fr/mgkit/MetaMOF,True
 https://gitlab.inria.fr/mgkit/MetaMeF,True
 https://gitlab.inria.fr/mgkit/ofrlex-metamof-new,True
@@ -9437,6 +9439,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/legi/soft/trokata/signal-checkpoint
 https://gricad-gitlab.univ-grenoble-alpes.fr/legi/soft/trokata/softsync,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/legi/soft/trokata/tssh,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/ljk-scoliose/collecte_data,True
+https://gricad-gitlab.univ-grenoble-alpes.fr/lstruber-research/state-space-adaptation,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/lucah/hadaca_scoring,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/marinesj/ls_translator,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/mecaiceige/tools/documentations/AITA-book,True
