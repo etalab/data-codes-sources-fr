@@ -5503,7 +5503,7 @@ https://github.com/medialab/aime-tweets,True
 https://github.com/medialab/amendement,True
 https://github.com/medialab/artoo,True
 https://github.com/medialab/artoratoire,True
-https://github.com/medialab/ateliers,False
+https://github.com/medialab/ateliers,True
 https://github.com/medialab/benchmarkForceAtlas2,True
 https://github.com/medialab/benchmarkNetworkCut,True
 https://github.com/medialab/bhht-datascape,True
@@ -6786,6 +6786,7 @@ https://gitlab.com/dreal-datalab/configproxyr,True
 https://gitlab.com/dreal-datalab/crte,True
 https://gitlab.com/dreal-datalab/crte.com,True
 https://gitlab.com/dreal-datalab/datalibaba,True
+https://gitlab.com/dreal-datalab/donneeshydrobio,False
 https://gitlab.com/dreal-datalab/drealdown,True
 https://gitlab.com/dreal-datalab/drealthemes,True
 https://gitlab.com/dreal-datalab/enr_reseaux_teo,True
