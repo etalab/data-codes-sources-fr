@@ -5132,7 +5132,7 @@ https://github.com/georchestra/geoserver_minimal_datadir,True
 https://github.com/georchestra/geotools,True
 https://github.com/georchestra/htdocs,True
 https://github.com/georchestra/inspire-qos-check,True
-https://github.com/georchestra/mapstore2-cadastrapp,False
+https://github.com/georchestra/mapstore2-cadastrapp,True
 https://github.com/georchestra/mapstore2-georchestra,True
 https://github.com/georchestra/mfprintv2deps,True
 https://github.com/georchestra/nagios,True
@@ -6776,6 +6776,7 @@ https://gitlab.com/cortext/workshops/2020-10-iii-sins-rio-de-janeiro,True
 https://gitlab.com/dreal-datalab/adresses-mairies-epci,True
 https://gitlab.com/dreal-datalab/autorite-environnementale,False
 https://gitlab.com/dreal-datalab/autorite_environnementale,True
+https://gitlab.com/dreal-datalab/basededonneeshydrobio,False
 https://gitlab.com/dreal-datalab/bilan.eco.insee,True
 https://gitlab.com/dreal-datalab/bilans_annuels_methaniseurs,True
 https://gitlab.com/dreal-datalab/carrieres,True
@@ -6787,7 +6788,7 @@ https://gitlab.com/dreal-datalab/configproxyr,True
 https://gitlab.com/dreal-datalab/crte,True
 https://gitlab.com/dreal-datalab/crte.com,True
 https://gitlab.com/dreal-datalab/datalibaba,True
-https://gitlab.com/dreal-datalab/donneeshydrobio,False
+https://gitlab.com/dreal-datalab/donneeshydrobio,True
 https://gitlab.com/dreal-datalab/drealdown,True
 https://gitlab.com/dreal-datalab/drealthemes,True
 https://gitlab.com/dreal-datalab/enr_reseaux_teo,True
@@ -8331,7 +8332,7 @@ https://gitlab.inria.fr/metapart/starpart,True
 https://gitlab.inria.fr/metapart/walshaw,True
 https://gitlab.inria.fr/mfx/icesl-documentation,True
 https://gitlab.inria.fr/mfx/icesl-public,True
-https://gitlab.inria.fr/mfx/opencl-base-code,False
+https://gitlab.inria.fr/mfx/opencl-base-code,True
 https://gitlab.inria.fr/mgkit/MetaMOF,True
 https://gitlab.inria.fr/mgkit/MetaMeF,True
 https://gitlab.inria.fr/mgkit/ofrlex-metamof-new,True
@@ -9416,6 +9417,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/kubernetes-alpes/nova-k8s-tf,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/kubernetes-alpes/nova-packer,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/kubernetes-alpes/reunions,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/kubernetes-alpes/terraform-vsphere-rke,True
+https://gricad-gitlab.univ-grenoble-alpes.fr/kubernetes-alpes/terraform-vsphere-rke2,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/labnbook/documentation-dev-public,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/labnbook/labnbook,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/labnbook/moodle-labnbook,True
@@ -9439,7 +9441,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/legi/soft/trokata/signal-checkpoint
 https://gricad-gitlab.univ-grenoble-alpes.fr/legi/soft/trokata/softsync,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/legi/soft/trokata/tssh,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/ljk-scoliose/collecte_data,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/lstruber-research/state-space-adaptation,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/lstruber-research/state-space-adaptation,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/lucah/hadaca_scoring,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/marinesj/ls_translator,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/mecaiceige/tools/documentations/AITA-book,True
