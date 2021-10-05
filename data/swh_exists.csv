@@ -181,7 +181,7 @@ https://forge.univ-lyon1.fr/info-7/Projet-Peip2,True
 https://forge.univ-lyon1.fr/info-7/tp-bdw1,True
 https://forge.univ-lyon1.fr/isicg/GPGPU_image,True
 https://forge.univ-lyon1.fr/isicg/GameTheory,True
-https://forge.univ-lyon1.fr/isicg/Geom_Discr_Projet,False
+https://forge.univ-lyon1.fr/isicg/Geom_Discr_Projet,True
 https://forge.univ-lyon1.fr/isicg/GeometrieDiscrete_cercleSphere,True
 https://forge.univ-lyon1.fr/isicg/IA,True
 https://forge.univ-lyon1.fr/isicg/ITNI,True
@@ -3140,6 +3140,7 @@ https://github.com/abes-esr/abes-hello-front,True
 https://github.com/abes-esr/abes-labo-movies,True
 https://github.com/abes-esr/abes-ontology,True
 https://github.com/abes-esr/abes-politique-developpement,True
+https://github.com/abes-esr/abes-referentiels,False
 https://github.com/abes-esr/abes-sparql-examples,True
 https://github.com/abes-esr/abes-swish-e-docker,True
 https://github.com/abes-esr/abes-uptimerobot-widget,True
@@ -4173,7 +4174,7 @@ https://github.com/datagir/nosgestesclimat,True
 https://github.com/datagir/nosgestesclimat-site,True
 https://github.com/datagir/quefairedemesdechets,True
 https://github.com/datagir/teletravail,True
-https://github.com/datagir/vertvolt,False
+https://github.com/datagir/vertvolt,True
 https://github.com/datalab-mi/Casper,True
 https://github.com/datalab-mi/carto-fast,True
 https://github.com/datalab-mi/datalab-mi.github.io,True
@@ -8242,6 +8243,7 @@ https://gitlab.inria.fr/learninglab/mooc-scikit-learn/mooc-scikit-learn-apps,Tru
 https://gitlab.inria.fr/learninglab/mooc-scikit-learn/mooc-scikit-learn-model,True
 https://gitlab.inria.fr/learninglab/mooc-scikit-learn/mooc-scikit-learn-resources,True
 https://gitlab.inria.fr/learninglab/nsi-capes-info,True
+https://gitlab.inria.fr/lecture-HPC/2021,False
 https://gitlab.inria.fr/lifeware/biocham,True
 https://gitlab.inria.fr/line/aide-group/aide,True
 https://gitlab.inria.fr/line/aide-group/aidebuild,True
@@ -8841,6 +8843,7 @@ https://gitlab.inria.fr/zefxis/use-cases,True
 https://gitlab.inria.fr/zefxis1/playgrounds,True
 https://gitlab.inria.fr/zhozhang/zhongkai-zhang,True
 https://gitlab.inria.fr/zk-curves/bw6-761,True
+https://gitlab.inria.fr/zk-curves/snark-2-chains,False
 https://gitlab.irstea.fr/HYCAR-Hydro/ExcelGR,True
 https://gitlab.irstea.fr/HYCAR-Hydro/airGR-Website,True
 https://gitlab.irstea.fr/HYCAR-Hydro/airgr,True
