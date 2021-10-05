@@ -1217,6 +1217,7 @@ https://github.com/BRGM/razorback-tutorial-data,True
 https://github.com/BRGM/registry-config-base,True
 https://github.com/BRGM/registry-core,True
 https://github.com/BRGM/vtkwriters,True
+https://github.com/BaseAdresseNationale/adresse-backend,False
 https://github.com/BaseAdresseNationale/adresse-data,True
 https://github.com/BaseAdresseNationale/adresse-data-legacy-api,True
 https://github.com/BaseAdresseNationale/adresse-explorer-api,True
@@ -1226,6 +1227,7 @@ https://github.com/BaseAdresseNationale/adresses-cadastre,True
 https://github.com/BaseAdresseNationale/adresses-ftth,True
 https://github.com/BaseAdresseNationale/adresses-util,True
 https://github.com/BaseAdresseNationale/api-bal,True
+https://github.com/BaseAdresseNationale/api-depot,False
 https://github.com/BaseAdresseNationale/api-geocode,True
 https://github.com/BaseAdresseNationale/api-gestion,True
 https://github.com/BaseAdresseNationale/api-gestion-poc,True
