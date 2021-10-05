@@ -3140,7 +3140,7 @@ https://github.com/abes-esr/abes-hello-front,True
 https://github.com/abes-esr/abes-labo-movies,True
 https://github.com/abes-esr/abes-ontology,True
 https://github.com/abes-esr/abes-politique-developpement,True
-https://github.com/abes-esr/abes-referentiels,False
+https://github.com/abes-esr/abes-referentiels,True
 https://github.com/abes-esr/abes-sparql-examples,True
 https://github.com/abes-esr/abes-swish-e-docker,True
 https://github.com/abes-esr/abes-uptimerobot-widget,True
@@ -3690,6 +3690,7 @@ https://github.com/betagouv/openfisca-pau,True
 https://github.com/betagouv/openfisca-rennesmetropole,True
 https://github.com/betagouv/openfisca-tracer,True
 https://github.com/betagouv/openfisca-web-api,True
+https://github.com/betagouv/openform-format,False
 https://github.com/betagouv/opensimplif,True
 https://github.com/betagouv/osticket-docker,True
 https://github.com/betagouv/pad,False
