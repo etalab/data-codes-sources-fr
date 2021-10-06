@@ -227,6 +227,7 @@ https://forge.univ-lyon1.fr/my-awesome-group/database,True
 https://forge.univ-lyon1.fr/my-awesome-group/planning-matchs,True
 https://forge.univ-lyon1.fr/my-awesome-group/uml,True
 https://forge.univ-lyon1.fr/nuit-de-l-info-2019/projetnuitinfo,True
+https://forge.univ-lyon1.fr/projet-tcl-groupe-3/tcl-project,False
 https://forge.univ-lyon1.fr/projet_web_legeay/truc-de-vente-la,True
 https://forge.univ-lyon1.fr/shield/Corp,True
 https://forge.univ-lyon1.fr/sia/mr-red,True
@@ -475,6 +476,9 @@ https://forgemia.inra.fr/infosol/sensor-map,True
 https://forgemia.inra.fr/infosol/si-debug,True
 https://forgemia.inra.fr/infosol/talks,True
 https://forgemia.inra.fr/infosol/txm-manual,True
+https://forgemia.inra.fr/inter_cati_omics/hackathon_octobre2021/atelier_repro,False
+https://forgemia.inra.fr/inter_cati_omics/hackathon_octobre2021/hackathon_datascience_2021,False
+https://forgemia.inra.fr/inter_cati_omics/hackathon_octobre2021/shinyDataScience,False
 https://forgemia.inra.fr/inter_cati_omics/hackathon_shiny_2020,True
 https://forgemia.inra.fr/inter_cati_omics/hackathon_snakemake_2020,True
 https://forgemia.inra.fr/inter_cati_omics/hackathon_snakemake_singularity_calling,True
@@ -3148,6 +3152,7 @@ https://github.com/abes-esr/abes-webservices,True
 https://github.com/abes-esr/abes-xslt,True
 https://github.com/abes-esr/accescbs,True
 https://github.com/abes-esr/algoliens-web,True
+https://github.com/abes-esr/apicom-referentiels,False
 https://github.com/abes-esr/archi-htmlreport-docker,True
 https://github.com/abes-esr/archi-model-example,True
 https://github.com/abes-esr/clamscan-docker,True
@@ -6781,7 +6786,7 @@ https://gitlab.com/cortext/workshops/2020-10-iii-sins-rio-de-janeiro,True
 https://gitlab.com/dreal-datalab/adresses-mairies-epci,True
 https://gitlab.com/dreal-datalab/autorite-environnementale,False
 https://gitlab.com/dreal-datalab/autorite_environnementale,True
-https://gitlab.com/dreal-datalab/basededonneeshydrobio,False
+https://gitlab.com/dreal-datalab/basededonneeshydrobio,True
 https://gitlab.com/dreal-datalab/bilan.eco.insee,True
 https://gitlab.com/dreal-datalab/bilans_annuels_methaniseurs,True
 https://gitlab.com/dreal-datalab/carrieres,True
@@ -7033,6 +7038,7 @@ https://gitlab.huma-num.fr/eurhisfirm/test-app-saisie,True
 https://gitlab.huma-num.fr/eurhisfirm/test-import-bot,True
 https://gitlab.huma-num.fr/fp-lab/fplabsite,True
 https://gitlab.huma-num.fr/geographie-cites/autobiopedia,True
+https://gitlab.huma-num.fr/gt-notebook/site-hugo,False
 https://gitlab.huma-num.fr/huma-num-public/documentation,True
 https://gitlab.huma-num.fr/huma-num-public/hn-site,True
 https://gitlab.huma-num.fr/huma-num-public/next-auth-nakala,True
@@ -7995,6 +8001,7 @@ https://gitlab.inria.fr/gazelle/library/gazelle-assets,True
 https://gitlab.inria.fr/gazelle/library/gazelle-evsclient-common,True
 https://gitlab.inria.fr/gazelle/library/gazelle-evsclient-connector,True
 https://gitlab.inria.fr/gazelle/library/gazelle-hl7-messagestructures,True
+https://gitlab.inria.fr/gazelle/library/gazelle-objects-checker,False
 https://gitlab.inria.fr/gazelle/library/gazelle-preferences,True
 https://gitlab.inria.fr/gazelle/library/gazelle-tm-tools,True
 https://gitlab.inria.fr/gazelle/library/gazelle-tools,True
@@ -8589,7 +8596,7 @@ https://gitlab.inria.fr/sed-rennes/sharelatex/sharelatex,True
 https://gitlab.inria.fr/sed-rennes/sharelatex/web-sharelatex,True
 https://gitlab.inria.fr/sed-rennes/test-droits,True
 https://gitlab.inria.fr/sed-saclay/TutorielGitlabPages,True
-https://gitlab.inria.fr/sed-saclay/cheatsheetfornewcomers,False
+https://gitlab.inria.fr/sed-saclay/cheatsheetfornewcomers,True
 https://gitlab.inria.fr/sed-saclay/formulairesdemandesingenieur,True
 https://gitlab.inria.fr/seed_detection/benchmarking,True
 https://gitlab.inria.fr/seed_detection/precursor,True
@@ -8689,6 +8696,7 @@ https://gitlab.inria.fr/solverstack/paddle,True
 https://gitlab.inria.fr/solverstack/parade,True
 https://gitlab.inria.fr/solverstack/pastix,True
 https://gitlab.inria.fr/solverstack/qr_mumps,True
+https://gitlab.inria.fr/solverstack/solverstack,False
 https://gitlab.inria.fr/solverstack/spack-repo,True
 https://gitlab.inria.fr/solverstack/spm,True
 https://gitlab.inria.fr/solverstack/tabakov,True
@@ -9110,6 +9118,7 @@ https://gitub.u-bordeaux.fr/mapi/mdl-report-ubxstats,True
 https://gitub.u-bordeaux.fr/mapi/mdl-repository-pod,True
 https://gitub.u-bordeaux.fr/mapi/mdl-theme-ubx19,True
 https://gitub.u-bordeaux.fr/mapi/mdl-tool-ubxcourses,True
+https://gitub.u-bordeaux.fr/parcoursup/why3,False
 https://gitub.u-bordeaux.fr/public-softwares/rescannedrcm-labview-exe-software,True
 https://gitub.u-bordeaux.fr/starpu/starpu,True
 https://gitub.u-bordeaux.fr/starpu/starpu2,True
@@ -9424,7 +9433,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/kubernetes-alpes/nova-k8s-tf,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/kubernetes-alpes/nova-packer,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/kubernetes-alpes/reunions,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/kubernetes-alpes/terraform-vsphere-rke,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/kubernetes-alpes/terraform-vsphere-rke2,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/kubernetes-alpes/terraform-vsphere-rke2,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/labnbook/documentation-dev-public,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/labnbook/labnbook,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/labnbook/moodle-labnbook,True
