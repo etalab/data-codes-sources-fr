@@ -3691,6 +3691,7 @@ https://github.com/betagouv/openfisca-rennesmetropole,True
 https://github.com/betagouv/openfisca-tracer,True
 https://github.com/betagouv/openfisca-web-api,True
 https://github.com/betagouv/openform-format,False
+https://github.com/betagouv/openform-specs,False
 https://github.com/betagouv/opensimplif,True
 https://github.com/betagouv/osticket-docker,True
 https://github.com/betagouv/pad,False
@@ -4160,7 +4161,7 @@ https://github.com/dataesr/scientific_tagger,True
 https://github.com/dataesr/slack-notifier-action,True
 https://github.com/datagir/Ecolab,True
 https://github.com/datagir/agribalyse,True
-https://github.com/datagir/bilansclimatsimplifies,False
+https://github.com/datagir/bilansclimatsimplifies,True
 https://github.com/datagir/datagir-site,True
 https://github.com/datagir/ecolab-agribalyse-recherche,True
 https://github.com/datagir/ecolab-alimentation,True
@@ -5094,7 +5095,7 @@ https://github.com/geobretagne/popp,True
 https://github.com/geobretagne/profile,True
 https://github.com/geobretagne/pywps-flask,False
 https://github.com/geobretagne/qgis-plugin,False
-https://github.com/geobretagne/schema-equipements-velo,False
+https://github.com/geobretagne/schema-equipements-velo,True
 https://github.com/geobretagne/signalement,True
 https://github.com/geobretagne/thesaurus,True
 https://github.com/geobretagne/wpsbv,True
@@ -8985,7 +8986,7 @@ https://gitlab.math.unistra.fr/seminaire_edp/seminaire_edp.pages.math.unistra.fr
 https://gitlab.math.unistra.fr/seminaire_moco/seminaire_moco.pages.math.unistra.fr,False
 https://gitlab.math.unistra.fr/urfist/cours-python,True
 https://gitlab.math.unistra.fr/voiceover/voiceover-terminal,True
-https://gitlab.metromobilite.fr/m/affluence/affluence-front,False
+https://gitlab.metromobilite.fr/m/affluence/affluence-front,True
 https://gitlab.metromobilite.fr/m/affluence/affluence-serv,True
 https://gitlab.metromobilite.fr/m/m-pwa-light,True
 https://gitlab.metromobilite.fr/m/public/m-features,True
