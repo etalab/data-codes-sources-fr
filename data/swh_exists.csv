@@ -1416,6 +1416,7 @@ https://github.com/CNRS-DSI-Dev/user_set_password,True
 https://github.com/CNRS-DSI-Dev/user_share_guest,True
 https://github.com/CatalaLang/catala,True
 https://github.com/CatalaLang/catala-website,True
+https://github.com/Cour-de-cassation/api.gouv.fr,False
 https://github.com/Cour-de-cassation/judilibre-infra,True
 https://github.com/Cour-de-cassation/judilibre-search,True
 https://github.com/Cour-de-cassation/judilibre-uptime,True
@@ -3153,7 +3154,7 @@ https://github.com/abes-esr/abes-webservices,True
 https://github.com/abes-esr/abes-xslt,True
 https://github.com/abes-esr/accescbs,True
 https://github.com/abes-esr/algoliens-web,True
-https://github.com/abes-esr/apicom-referentiels,False
+https://github.com/abes-esr/apicom-referentiels,True
 https://github.com/abes-esr/archi-htmlreport-docker,True
 https://github.com/abes-esr/archi-model-example,True
 https://github.com/abes-esr/clamscan-docker,True
@@ -3605,7 +3606,7 @@ https://github.com/betagouv/itou-entreprise,True
 https://github.com/betagouv/itou-fdi,True
 https://github.com/betagouv/itou-gitbook,True
 https://github.com/betagouv/itou-landing,True
-https://github.com/betagouv/itou-marche,False
+https://github.com/betagouv/itou-marche,True
 https://github.com/betagouv/itou-marche-api,True
 https://github.com/betagouv/itou-pilotage,True
 https://github.com/betagouv/itou-subscribe,True
@@ -4747,6 +4748,7 @@ https://github.com/etalab/edigeo-parser,True
 https://github.com/etalab/edigeo-reproject,True
 https://github.com/etalab/editeur-bal,True
 https://github.com/etalab/eig-charts,True
+https://github.com/etalab/eleventy-dsfr,False
 https://github.com/etalab/entraide.etalab.studio,True
 https://github.com/etalab/entreprise.api.gouv.fr,True
 https://github.com/etalab/entreprise.api.gouv.fr-v3,True
