@@ -301,6 +301,7 @@ https://forgemia.inra.fr/dipso/bridge-datainrae-nextcloud,True
 https://forgemia.inra.fr/dipso/kubespray,True
 https://forgemia.inra.fr/dipso/thesaurus-inrae,True
 https://forgemia.inra.fr/enseignement-mistea/reports-with-markdown,True
+https://forgemia.inra.fr/epgv/amaizing-tgbs,False
 https://forgemia.inra.fr/epgv/nlgenomesweeper,True
 https://forgemia.inra.fr/eq-record/record-team,True
 https://forgemia.inra.fr/exploratory-penalized-regression/paper-script-and-data,True
@@ -477,7 +478,7 @@ https://forgemia.inra.fr/infosol/si-debug,True
 https://forgemia.inra.fr/infosol/talks,True
 https://forgemia.inra.fr/infosol/txm-manual,True
 https://forgemia.inra.fr/inter_cati_omics/hackathon_octobre2021/atelier_repro,True
-https://forgemia.inra.fr/inter_cati_omics/hackathon_octobre2021/hackathon_datascience_2021,False
+https://forgemia.inra.fr/inter_cati_omics/hackathon_octobre2021/hackathon_datascience_2021,True
 https://forgemia.inra.fr/inter_cati_omics/hackathon_octobre2021/shinyDataScience,False
 https://forgemia.inra.fr/inter_cati_omics/hackathon_shiny_2020,True
 https://forgemia.inra.fr/inter_cati_omics/hackathon_snakemake_2020,True
@@ -8002,7 +8003,7 @@ https://gitlab.inria.fr/gazelle/library/gazelle-assets,True
 https://gitlab.inria.fr/gazelle/library/gazelle-evsclient-common,True
 https://gitlab.inria.fr/gazelle/library/gazelle-evsclient-connector,True
 https://gitlab.inria.fr/gazelle/library/gazelle-hl7-messagestructures,True
-https://gitlab.inria.fr/gazelle/library/gazelle-objects-checker,False
+https://gitlab.inria.fr/gazelle/library/gazelle-objects-checker,True
 https://gitlab.inria.fr/gazelle/library/gazelle-preferences,True
 https://gitlab.inria.fr/gazelle/library/gazelle-tm-tools,True
 https://gitlab.inria.fr/gazelle/library/gazelle-tools,True
@@ -8397,6 +8398,7 @@ https://gitlab.inria.fr/monitoring/themis-artifact-outdated,True
 https://gitlab.inria.fr/monitoring/themis-demo,True
 https://gitlab.inria.fr/monitoring/themis-rv18smarthome,True
 https://gitlab.inria.fr/monitoring/verde,True
+https://gitlab.inria.fr/morpheo/cvt,False
 https://gitlab.inria.fr/mosaic/bvpy,True
 https://gitlab.inria.fr/mosaic/cellcomplex,True
 https://gitlab.inria.fr/mosaic/draco_stem,True
@@ -9120,7 +9122,7 @@ https://gitub.u-bordeaux.fr/mapi/mdl-report-ubxstats,True
 https://gitub.u-bordeaux.fr/mapi/mdl-repository-pod,True
 https://gitub.u-bordeaux.fr/mapi/mdl-theme-ubx19,True
 https://gitub.u-bordeaux.fr/mapi/mdl-tool-ubxcourses,True
-https://gitub.u-bordeaux.fr/parcoursup/why3,False
+https://gitub.u-bordeaux.fr/parcoursup/why3,True
 https://gitub.u-bordeaux.fr/public-softwares/rescannedrcm-labview-exe-software,True
 https://gitub.u-bordeaux.fr/starpu/starpu,True
 https://gitub.u-bordeaux.fr/starpu/starpu2,True
