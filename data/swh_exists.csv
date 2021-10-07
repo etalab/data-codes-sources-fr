@@ -227,7 +227,7 @@ https://forge.univ-lyon1.fr/my-awesome-group/database,True
 https://forge.univ-lyon1.fr/my-awesome-group/planning-matchs,True
 https://forge.univ-lyon1.fr/my-awesome-group/uml,True
 https://forge.univ-lyon1.fr/nuit-de-l-info-2019/projetnuitinfo,True
-https://forge.univ-lyon1.fr/projet-tcl-groupe-3/tcl-project,False
+https://forge.univ-lyon1.fr/projet-tcl-groupe-3/tcl-project,True
 https://forge.univ-lyon1.fr/projet_web_legeay/truc-de-vente-la,True
 https://forge.univ-lyon1.fr/shield/Corp,True
 https://forge.univ-lyon1.fr/sia/mr-red,True
@@ -476,7 +476,7 @@ https://forgemia.inra.fr/infosol/sensor-map,True
 https://forgemia.inra.fr/infosol/si-debug,True
 https://forgemia.inra.fr/infosol/talks,True
 https://forgemia.inra.fr/infosol/txm-manual,True
-https://forgemia.inra.fr/inter_cati_omics/hackathon_octobre2021/atelier_repro,False
+https://forgemia.inra.fr/inter_cati_omics/hackathon_octobre2021/atelier_repro,True
 https://forgemia.inra.fr/inter_cati_omics/hackathon_octobre2021/hackathon_datascience_2021,False
 https://forgemia.inra.fr/inter_cati_omics/hackathon_octobre2021/shinyDataScience,False
 https://forgemia.inra.fr/inter_cati_omics/hackathon_shiny_2020,True
@@ -1231,7 +1231,7 @@ https://github.com/BaseAdresseNationale/adresses-cadastre,True
 https://github.com/BaseAdresseNationale/adresses-ftth,True
 https://github.com/BaseAdresseNationale/adresses-util,True
 https://github.com/BaseAdresseNationale/api-bal,True
-https://github.com/BaseAdresseNationale/api-depot,False
+https://github.com/BaseAdresseNationale/api-depot,True
 https://github.com/BaseAdresseNationale/api-geocode,True
 https://github.com/BaseAdresseNationale/api-gestion,True
 https://github.com/BaseAdresseNationale/api-gestion-poc,True
@@ -3591,6 +3591,7 @@ https://github.com/betagouv/i18nliner-js,True
 https://github.com/betagouv/ilos,True
 https://github.com/betagouv/immersion,True
 https://github.com/betagouv/impact-tests,True
+https://github.com/betagouv/inca-proxy,False
 https://github.com/betagouv/inca-survey,True
 https://github.com/betagouv/indice_pollution,True
 https://github.com/betagouv/itou,True
@@ -7038,7 +7039,7 @@ https://gitlab.huma-num.fr/eurhisfirm/test-app-saisie,True
 https://gitlab.huma-num.fr/eurhisfirm/test-import-bot,True
 https://gitlab.huma-num.fr/fp-lab/fplabsite,True
 https://gitlab.huma-num.fr/geographie-cites/autobiopedia,True
-https://gitlab.huma-num.fr/gt-notebook/site-hugo,False
+https://gitlab.huma-num.fr/gt-notebook/site-hugo,True
 https://gitlab.huma-num.fr/huma-num-public/documentation,True
 https://gitlab.huma-num.fr/huma-num-public/hn-site,True
 https://gitlab.huma-num.fr/huma-num-public/next-auth-nakala,True
@@ -8697,6 +8698,7 @@ https://gitlab.inria.fr/solverstack/parade,True
 https://gitlab.inria.fr/solverstack/pastix,True
 https://gitlab.inria.fr/solverstack/qr_mumps,True
 https://gitlab.inria.fr/solverstack/solverstack,False
+https://gitlab.inria.fr/solverstack/solverstack.gitlabpages.inria.fr,True
 https://gitlab.inria.fr/solverstack/spack-repo,True
 https://gitlab.inria.fr/solverstack/spm,True
 https://gitlab.inria.fr/solverstack/tabakov,True
@@ -8853,7 +8855,7 @@ https://gitlab.inria.fr/zefxis/use-cases,True
 https://gitlab.inria.fr/zefxis1/playgrounds,True
 https://gitlab.inria.fr/zhozhang/zhongkai-zhang,True
 https://gitlab.inria.fr/zk-curves/bw6-761,True
-https://gitlab.inria.fr/zk-curves/snark-2-chains,False
+https://gitlab.inria.fr/zk-curves/snark-2-chains,True
 https://gitlab.irstea.fr/HYCAR-Hydro/ExcelGR,True
 https://gitlab.irstea.fr/HYCAR-Hydro/airGR-Website,True
 https://gitlab.irstea.fr/HYCAR-Hydro/airgr,True
