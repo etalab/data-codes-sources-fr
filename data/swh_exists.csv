@@ -4599,7 +4599,7 @@ https://github.com/etalab-ia/pseudo_api,True
 https://github.com/etalab-ia/pseudo_app,True
 https://github.com/etalab-ia/pseudo_conseil_etat,True
 https://github.com/etalab-ia/pseudonymisation_decisions_ce,True
-https://github.com/etalab-ia/text_extractor_from_xml,False
+https://github.com/etalab-ia/text_extractor_from_xml,True
 https://github.com/etalab/Algo_gouv,True
 https://github.com/etalab/Attendize,True
 https://github.com/etalab/DVF-app,True
@@ -5100,7 +5100,7 @@ https://github.com/geobretagne/openstreetmap-wms,True
 https://github.com/geobretagne/popp,True
 https://github.com/geobretagne/profile,True
 https://github.com/geobretagne/pywps-flask,False
-https://github.com/geobretagne/qgis-plugin,False
+https://github.com/geobretagne/qgis-plugin,True
 https://github.com/geobretagne/schema-equipements-velo,True
 https://github.com/geobretagne/signalement,True
 https://github.com/geobretagne/thesaurus,True
@@ -8253,7 +8253,7 @@ https://gitlab.inria.fr/learninglab/mooc-scikit-learn/mooc-scikit-learn-apps,Tru
 https://gitlab.inria.fr/learninglab/mooc-scikit-learn/mooc-scikit-learn-model,True
 https://gitlab.inria.fr/learninglab/mooc-scikit-learn/mooc-scikit-learn-resources,True
 https://gitlab.inria.fr/learninglab/nsi-capes-info,True
-https://gitlab.inria.fr/lecture-HPC/2021,False
+https://gitlab.inria.fr/lecture-HPC/2021,True
 https://gitlab.inria.fr/lifeware/biocham,True
 https://gitlab.inria.fr/line/aide-group/aide,True
 https://gitlab.inria.fr/line/aide-group/aidebuild,True
