@@ -2278,6 +2278,7 @@ https://github.com/InseeFrLab/NRC-Heck-model,True
 https://github.com/InseeFrLab/Pearl-Jam,False
 https://github.com/InseeFrLab/Pearl-Jam-Back-Office,True
 https://github.com/InseeFrLab/Py-Insee-Data,True
+https://github.com/InseeFrLab/R-Insee-Data,False
 https://github.com/InseeFrLab/SASTauArgus,True
 https://github.com/InseeFrLab/Sabiane-Data,True
 https://github.com/InseeFrLab/Shelly,True
@@ -7505,6 +7506,10 @@ https://gitlab.inria.fr/asclepios/biblio,True
 https://gitlab.inria.fr/astec/astec,True
 https://gitlab.inria.fr/astec/astec-2019-published,True
 https://gitlab.inria.fr/astec/astec-tutorial,True
+https://gitlab.inria.fr/auctus-team/people/antunskuric/four_link_robot,False
+https://gitlab.inria.fr/auctus-team/people/antunskuric/kinect/nite,False
+https://gitlab.inria.fr/auctus-team/people/antunskuric/pyomeca_examples,False
+https://gitlab.inria.fr/auctus-team/people/antunskuric/pyosim_examples,False
 https://gitlab.inria.fr/auctus-team/website/auctus,True
 https://gitlab.inria.fr/auctus-team/website/auctus-team,False
 https://gitlab.inria.fr/auctus/human_library,True
