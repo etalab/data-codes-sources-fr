@@ -254,6 +254,7 @@ https://forgemia.inra.fr/GNet/pipelineoge,True
 https://forgemia.inra.fr/QTL/spell-qtl,True
 https://forgemia.inra.fr/acep/careb,True
 https://forgemia.inra.fr/adminforgemia/doc-public,True
+https://forgemia.inra.fr/agriterix/abc-ages,False
 https://forgemia.inra.fr/agriterix/agriterix,True
 https://forgemia.inra.fr/agriterix/datamap,True
 https://forgemia.inra.fr/agriterix/dataprocess,True
@@ -479,7 +480,7 @@ https://forgemia.inra.fr/infosol/talks,True
 https://forgemia.inra.fr/infosol/txm-manual,True
 https://forgemia.inra.fr/inter_cati_omics/hackathon_octobre2021/atelier_repro,True
 https://forgemia.inra.fr/inter_cati_omics/hackathon_octobre2021/hackathon_datascience_2021,True
-https://forgemia.inra.fr/inter_cati_omics/hackathon_octobre2021/shinyDataScience,False
+https://forgemia.inra.fr/inter_cati_omics/hackathon_octobre2021/shinyDataScience,True
 https://forgemia.inra.fr/inter_cati_omics/hackathon_shiny_2020,True
 https://forgemia.inra.fr/inter_cati_omics/hackathon_snakemake_2020,True
 https://forgemia.inra.fr/inter_cati_omics/hackathon_snakemake_singularity_calling,True
@@ -603,6 +604,7 @@ https://forgemia.inra.fr/umr-astre/difuse,True
 https://forgemia.inra.fr/umr-astre/dockelet,True
 https://forgemia.inra.fr/umr-astre/epidmap,True
 https://forgemia.inra.fr/umr-astre/geonetwork,True
+https://forgemia.inra.fr/umr-astre/guidelines/doc-references,False
 https://forgemia.inra.fr/umr-astre/interference-arn-ppr,True
 https://forgemia.inra.fr/umr-astre/mapMCDA,True
 https://forgemia.inra.fr/umr-astre/nimbletempdev,True
@@ -1217,6 +1219,7 @@ https://github.com/BRGM/inept,True
 https://github.com/BRGM/map2loop-2,True
 https://github.com/BRGM/meshio,True
 https://github.com/BRGM/plouf,True
+https://github.com/BRGM/premache,False
 https://github.com/BRGM/razorback,True
 https://github.com/BRGM/razorback-tutorial-data,True
 https://github.com/BRGM/registry-config-base,True
@@ -2227,6 +2230,8 @@ https://github.com/InseeFr/Keycloak-FranceConnect,True
 https://github.com/InseeFr/Lunatic,True
 https://github.com/InseeFr/Lunatic-Model,True
 https://github.com/InseeFr/Magma,True
+https://github.com/InseeFr/Massive-Attack,False
+https://github.com/InseeFr/Massive-Attack-Back-Office,False
 https://github.com/InseeFr/Meleze,True
 https://github.com/InseeFr/Mesange,True
 https://github.com/InseeFr/Metadata-API,True
@@ -5146,6 +5151,7 @@ https://github.com/georchestra/geoserver_minimal_datadir,True
 https://github.com/georchestra/geotools,True
 https://github.com/georchestra/htdocs,True
 https://github.com/georchestra/inspire-qos-check,True
+https://github.com/georchestra/ldap2pg,False
 https://github.com/georchestra/mapstore2-cadastrapp,True
 https://github.com/georchestra/mapstore2-georchestra,True
 https://github.com/georchestra/mfprintv2deps,True
