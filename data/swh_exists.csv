@@ -3600,7 +3600,7 @@ https://github.com/betagouv/ilos,True
 https://github.com/betagouv/immersion,True
 https://github.com/betagouv/impact-tests,True
 https://github.com/betagouv/inca-app,False
-https://github.com/betagouv/inca-proxy,False
+https://github.com/betagouv/inca-proxy,True
 https://github.com/betagouv/inca-survey,True
 https://github.com/betagouv/indice_pollution,True
 https://github.com/betagouv/itou,True
@@ -5153,7 +5153,7 @@ https://github.com/georchestra/geoserver_minimal_datadir,True
 https://github.com/georchestra/geotools,True
 https://github.com/georchestra/htdocs,True
 https://github.com/georchestra/inspire-qos-check,True
-https://github.com/georchestra/ldap2pg,False
+https://github.com/georchestra/ldap2pg,True
 https://github.com/georchestra/mapstore2-cadastrapp,True
 https://github.com/georchestra/mapstore2-georchestra,True
 https://github.com/georchestra/mfprintv2deps,True
@@ -7507,7 +7507,7 @@ https://gitlab.inria.fr/asclepios/biblio,True
 https://gitlab.inria.fr/astec/astec,True
 https://gitlab.inria.fr/astec/astec-2019-published,True
 https://gitlab.inria.fr/astec/astec-tutorial,True
-https://gitlab.inria.fr/auctus-team/people/antunskuric/four_link_robot,False
+https://gitlab.inria.fr/auctus-team/people/antunskuric/four_link_robot,True
 https://gitlab.inria.fr/auctus-team/people/antunskuric/kinect/nite,True
 https://gitlab.inria.fr/auctus-team/people/antunskuric/pyomeca_examples,True
 https://gitlab.inria.fr/auctus-team/people/antunskuric/pyosim_examples,True
