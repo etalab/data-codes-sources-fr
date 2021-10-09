@@ -7508,8 +7508,8 @@ https://gitlab.inria.fr/astec/astec,True
 https://gitlab.inria.fr/astec/astec-2019-published,True
 https://gitlab.inria.fr/astec/astec-tutorial,True
 https://gitlab.inria.fr/auctus-team/people/antunskuric/four_link_robot,False
-https://gitlab.inria.fr/auctus-team/people/antunskuric/kinect/nite,False
-https://gitlab.inria.fr/auctus-team/people/antunskuric/pyomeca_examples,False
+https://gitlab.inria.fr/auctus-team/people/antunskuric/kinect/nite,True
+https://gitlab.inria.fr/auctus-team/people/antunskuric/pyomeca_examples,True
 https://gitlab.inria.fr/auctus-team/people/antunskuric/pyosim_examples,False
 https://gitlab.inria.fr/auctus-team/website/auctus,True
 https://gitlab.inria.fr/auctus-team/website/auctus-team,False
@@ -8412,7 +8412,7 @@ https://gitlab.inria.fr/monitoring/themis-artifact-outdated,True
 https://gitlab.inria.fr/monitoring/themis-demo,True
 https://gitlab.inria.fr/monitoring/themis-rv18smarthome,True
 https://gitlab.inria.fr/monitoring/verde,True
-https://gitlab.inria.fr/morpheo/cvt,False
+https://gitlab.inria.fr/morpheo/cvt,True
 https://gitlab.inria.fr/mosaic/bvpy,True
 https://gitlab.inria.fr/mosaic/cellcomplex,True
 https://gitlab.inria.fr/mosaic/draco_stem,True
@@ -8841,7 +8841,7 @@ https://gitlab.inria.fr/x-lab/x-quick,True
 https://gitlab.inria.fr/x-lab/x-stt,True
 https://gitlab.inria.fr/x-lab/x-tts,True
 https://gitlab.inria.fr/x-lab/x-vis,True
-https://gitlab.inria.fr/x-lab/x-wng,False
+https://gitlab.inria.fr/x-lab/x-wng,True
 https://gitlab.inria.fr/xbie/dvae-speech,True
 https://gitlab.inria.fr/xfor/docs,True
 https://gitlab.inria.fr/xfor/guix-xfor,True
