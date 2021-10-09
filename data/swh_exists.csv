@@ -1225,7 +1225,7 @@ https://github.com/BRGM/razorback-tutorial-data,True
 https://github.com/BRGM/registry-config-base,True
 https://github.com/BRGM/registry-core,True
 https://github.com/BRGM/vtkwriters,True
-https://github.com/BaseAdresseNationale/adresse-backend,False
+https://github.com/BaseAdresseNationale/adresse-backend,True
 https://github.com/BaseAdresseNationale/adresse-data,True
 https://github.com/BaseAdresseNationale/adresse-data-legacy-api,True
 https://github.com/BaseAdresseNationale/adresse-explorer-api,True
@@ -2231,7 +2231,7 @@ https://github.com/InseeFr/Lunatic,True
 https://github.com/InseeFr/Lunatic-Model,True
 https://github.com/InseeFr/Magma,True
 https://github.com/InseeFr/Massive-Attack,False
-https://github.com/InseeFr/Massive-Attack-Back-Office,False
+https://github.com/InseeFr/Massive-Attack-Back-Office,True
 https://github.com/InseeFr/Meleze,True
 https://github.com/InseeFr/Mesange,True
 https://github.com/InseeFr/Metadata-API,True
@@ -4755,7 +4755,7 @@ https://github.com/etalab/edigeo-parser,True
 https://github.com/etalab/edigeo-reproject,True
 https://github.com/etalab/editeur-bal,True
 https://github.com/etalab/eig-charts,True
-https://github.com/etalab/eleventy-dsfr,False
+https://github.com/etalab/eleventy-dsfr,True
 https://github.com/etalab/entraide.etalab.studio,True
 https://github.com/etalab/entreprise.api.gouv.fr,True
 https://github.com/etalab/entreprise.api.gouv.fr-v3,True
@@ -5109,7 +5109,7 @@ https://github.com/geobretagne/mviewerstudio,True
 https://github.com/geobretagne/openstreetmap-wms,True
 https://github.com/geobretagne/popp,True
 https://github.com/geobretagne/profile,True
-https://github.com/geobretagne/pywps-flask,False
+https://github.com/geobretagne/pywps-flask,True
 https://github.com/geobretagne/qgis-plugin,True
 https://github.com/geobretagne/schema-equipements-velo,True
 https://github.com/geobretagne/signalement,True
@@ -7510,7 +7510,7 @@ https://gitlab.inria.fr/astec/astec-tutorial,True
 https://gitlab.inria.fr/auctus-team/people/antunskuric/four_link_robot,False
 https://gitlab.inria.fr/auctus-team/people/antunskuric/kinect/nite,True
 https://gitlab.inria.fr/auctus-team/people/antunskuric/pyomeca_examples,True
-https://gitlab.inria.fr/auctus-team/people/antunskuric/pyosim_examples,False
+https://gitlab.inria.fr/auctus-team/people/antunskuric/pyosim_examples,True
 https://gitlab.inria.fr/auctus-team/website/auctus,True
 https://gitlab.inria.fr/auctus-team/website/auctus-team,False
 https://gitlab.inria.fr/auctus/human_library,True
