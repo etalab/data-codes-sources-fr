@@ -5145,7 +5145,7 @@ https://github.com/georchestra/geonetwork-microservices,True
 https://github.com/georchestra/geonetwork-ui,True
 https://github.com/georchestra/geonetwork_minimal_datadir,True
 https://github.com/georchestra/georchestra,True
-https://github.com/georchestra/georchestra-cas-server,False
+https://github.com/georchestra/georchestra-cas-server,True
 https://github.com/georchestra/georchestra.github.io,True
 https://github.com/georchestra/georchestra_documentation,True
 https://github.com/georchestra/geoserver,True
