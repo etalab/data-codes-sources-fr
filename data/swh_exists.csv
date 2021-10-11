@@ -582,6 +582,8 @@ https://forgemia.inra.fr/siriusquality/sqcode/SiriusQuality-BioMa-Phenology-Comp
 https://forgemia.inra.fr/siriusquality/sqcode/siriusquality-bioma-irradiance-component,True
 https://forgemia.inra.fr/siriusquality/sqcode/siriusquality-bioma-maizelai-component,True
 https://forgemia.inra.fr/siriusquality/sqcode/siriusquality-bioma-wheatpotentiallai-component,True
+https://forgemia.inra.fr/stacomi/stacomir,False
+https://forgemia.inra.fr/stacomi/stacoshiny,False
 https://forgemia.inra.fr/sunflo/envirotyping_sunrise,True
 https://forgemia.inra.fr/sunrise/15ex05_data_correction,True
 https://forgemia.inra.fr/sunrise/inference_sunrise,True
@@ -1219,7 +1221,7 @@ https://github.com/BRGM/inept,True
 https://github.com/BRGM/map2loop-2,True
 https://github.com/BRGM/meshio,True
 https://github.com/BRGM/plouf,True
-https://github.com/BRGM/premache,False
+https://github.com/BRGM/premache,True
 https://github.com/BRGM/razorback,True
 https://github.com/BRGM/razorback-tutorial-data,True
 https://github.com/BRGM/registry-config-base,True
@@ -3708,7 +3710,7 @@ https://github.com/betagouv/openfisca-rennesmetropole,True
 https://github.com/betagouv/openfisca-tracer,True
 https://github.com/betagouv/openfisca-web-api,True
 https://github.com/betagouv/openform-format,False
-https://github.com/betagouv/openform-specs,False
+https://github.com/betagouv/openform-specs,True
 https://github.com/betagouv/opensimplif,True
 https://github.com/betagouv/osticket-docker,True
 https://github.com/betagouv/pad,False
@@ -8792,6 +8794,7 @@ https://gitlab.inria.fr/tnfs-alpha/alpha,True
 https://gitlab.inria.fr/tousanticovid-verif/certificate-conversion-backend,True
 https://gitlab.inria.fr/tousanticovid-verif/tousanticovid-verif-android,True
 https://gitlab.inria.fr/tousanticovid-verif/tousanticovid-verif-ios,True
+https://gitlab.inria.fr/traficnetworkgeneration/documents,False
 https://gitlab.inria.fr/traitor/traitor,True
 https://gitlab.inria.fr/tranus/QGIS_Tranus_Reports,True
 https://gitlab.inria.fr/tranus/TRANUS_Interfaces,True
@@ -9442,6 +9445,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/innovalangues/plannings-self,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/instrum/tp1,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/ir-info4/tp-conteneur,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/jlparser/parser,True
+https://gricad-gitlab.univ-grenoble-alpes.fr/kubernetes-alpes/argocd-custom-image,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/kubernetes-alpes/buildah,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/kubernetes-alpes/docker-fidle,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/kubernetes-alpes/docker-registry,True
@@ -9611,6 +9615,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/synchrone/tools-distrib,Tru
 https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/tempo/StlEval,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/tempo/boolean,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/tempo/multidimensional_search,True
+https://gricad-gitlab.univ-grenoble-alpes.fr/verimag_mosig/program_verif_wmm9mo73,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/vision-r-public/architool,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/vote22/simulation,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/vqgroup/KaZoSCa-stack,True
