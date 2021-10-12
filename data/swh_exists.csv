@@ -2234,7 +2234,7 @@ https://github.com/InseeFr/Keycloak-FranceConnect,True
 https://github.com/InseeFr/Lunatic,True
 https://github.com/InseeFr/Lunatic-Model,True
 https://github.com/InseeFr/Magma,True
-https://github.com/InseeFr/Massive-Attack,False
+https://github.com/InseeFr/Massive-Attack,True
 https://github.com/InseeFr/Massive-Attack-Back-Office,True
 https://github.com/InseeFr/Meleze,True
 https://github.com/InseeFr/Mesange,True
@@ -6931,6 +6931,7 @@ https://gitlab.com/pidila/select-a11y,True
 https://gitlab.com/pidila/sp-simulateurs-data,True
 https://gitlab.com/rdes_dreal/propre,True
 https://gitlab.com/rdes_dreal/propre.brochure,True
+https://gitlab.com/rdes_dreal/propre.datareg,False
 https://gitlab.com/rdes_dreal/propre.energie.enquete,True
 https://gitlab.com/rdes_dreal/propre.itdd,True
 https://gitlab.com/rdes_dreal/propre.presentation,True
@@ -7720,6 +7721,7 @@ https://gitlab.inria.fr/concordant/software/c-crdtlib,True
 https://gitlab.inria.fr/concordant/software/c-markdown-editor,True
 https://gitlab.inria.fr/concordant/software/c-service,True
 https://gitlab.inria.fr/concordant/software/c-sudoku,True
+https://gitlab.inria.fr/concordant/software/crdt-benchmarks,False
 https://gitlab.inria.fr/concordant/software/mini-app,True
 https://gitlab.inria.fr/controlHub/experiment_server,True
 https://gitlab.inria.fr/controlHub/experiment_server_pub,True
@@ -9228,6 +9230,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/seedpsd,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/seedtree5,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/site-characterization,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/storage-summer-k8s,True
+https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/summmo,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/ws-dataselect,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/ws-eidaauth,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/ws-eidastats-k8s,True
