@@ -463,7 +463,7 @@ https://forgemia.inra.fr/gryc-data/zygosaccharomyces_rouxii-cbs_732,True
 https://forgemia.inra.fr/hackathon-portail-calcul/criteres,True
 https://forgemia.inra.fr/hackathon-portail-calcul/existant,True
 https://forgemia.inra.fr/hackathon-portail-calcul/hackathon_organisation,True
-https://forgemia.inra.fr/ices_imes_analysis/icescreen_public_release,False
+https://forgemia.inra.fr/ices_imes_analysis/icescreen_public_release,True
 https://forgemia.inra.fr/in-sylva-development/in-sylva.gatekeeper,True
 https://forgemia.inra.fr/in-sylva-development/in-sylva.information-system,True
 https://forgemia.inra.fr/in-sylva-development/in-sylva.infrastructure,False
@@ -7277,6 +7277,7 @@ https://gitlab.inria.fr/OCSR/crowdmp/addons/microsoft-rocketbox,True
 https://gitlab.inria.fr/OCSR/crowdmp/crowdmp,True
 https://gitlab.inria.fr/OCSR/crowdscan,True
 https://gitlab.inria.fr/PSI/marmotecore,True
+https://gitlab.inria.fr/PSI/psi2,False
 https://gitlab.inria.fr/PSI/psi3,True
 https://gitlab.inria.fr/PSI/psi4,True
 https://gitlab.inria.fr/PaMPA/PaMPA,True
@@ -8916,6 +8917,7 @@ https://gitlab.irstea.fr/diades/diades.atlas,True
 https://gitlab.irstea.fr/diades/test,True
 https://gitlab.irstea.fr/emax/bddfontblanche,True
 https://gitlab.irstea.fr/ext/insitu/trios,True
+https://gitlab.irstea.fr/flood-appraisal/floodam/floodam-data,False
 https://gitlab.irstea.fr/geau-inondation/geau-utility,True
 https://gitlab.irstea.fr/geau-technical/geau-utility,True
 https://gitlab.irstea.fr/geopat/geopat,True
@@ -9624,7 +9626,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/tempo/StlEval,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/tempo/boolean,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/verimag/tempo/multidimensional_search,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/verimag_mosig/program_verif_wmm9mo73,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/verimag_mosig/sat_smt_wmm9mo46,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/verimag_mosig/sat_smt_wmm9mo46,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/vision-r-public/architool,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/vote22/simulation,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/vqgroup/KaZoSCa-stack,True
