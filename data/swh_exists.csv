@@ -1381,6 +1381,7 @@ https://github.com/CEREMA/dtermed.webapp.rivages,True
 https://github.com/CEREMA/dterso.chaineTraitement.traitementImageSatelitteEtIndicateursDerives,True
 https://github.com/CEREMA/dterso.pluginQgis.CeremaCartEau,True
 https://github.com/CEREMA/dterso.pluginQgis3.CeremaCartEau3,True
+https://github.com/CEREMA/quadogeo,False
 https://github.com/CEREMA/rivages-android,True
 https://github.com/CEREMA/schema-arrete-circulation,True
 https://github.com/CEREMA/schema-arrete-circulation-marchandises,True
@@ -1763,6 +1764,7 @@ https://github.com/EsupPortail/moodle-mod_pod,True
 https://github.com/EsupPortail/moodle-mod_pod-filter,True
 https://github.com/EsupPortail/nginx-auth-cas-lua,True
 https://github.com/EsupPortail/nuxeo-onlyoffice,True
+https://github.com/EsupPortail/opencast-studio,False
 https://github.com/EsupPortail/orioai-nuxeo,True
 https://github.com/EsupPortail/pod,True
 https://github.com/EsupPortail/portlet-tools,True
