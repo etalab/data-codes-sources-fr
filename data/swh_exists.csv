@@ -3320,7 +3320,7 @@ https://github.com/ambanum/twint,True
 https://github.com/ansforge/DesignSystem,True
 https://github.com/ansforge/ModelisationFHIRdesacteursdesante,True
 https://github.com/ansforge/Modelisationdesstructuresetdesprofessionnels,False
-https://github.com/ansforge/asip-sign-V2,False
+https://github.com/ansforge/asip-sign-V2,True
 https://github.com/ansforge/esignsante,True
 https://github.com/ansforge/esignsante-ws,False
 https://github.com/ansforge/politique-de-contribution-open-source,True
@@ -4346,6 +4346,7 @@ https://github.com/diverse-project/varylatex,True
 https://github.com/diverse-project/website,True
 https://github.com/diverse-project/xcore-light,True
 https://github.com/diverse-project/yajta-mirror,True
+https://github.com/dnum-mi/cartographie-donnees,False
 https://github.com/dsi-ehess/VIVO,True
 https://github.com/dsi-ehess/VIVO-EHESS,True
 https://github.com/dsi-ehess/VIVO-Sample-Data,True
@@ -8716,7 +8717,7 @@ https://gitlab.inria.fr/skeletons/stage-olivier-idir,True
 https://gitlab.inria.fr/skelton/pyskelton,True
 https://gitlab.inria.fr/skelton/skelton2,True
 https://gitlab.inria.fr/socialbus/webhook-manager,False
-https://gitlab.inria.fr/socialbus/website,False
+https://gitlab.inria.fr/socialbus/website,True
 https://gitlab.inria.fr/sollya/sollya,True
 https://gitlab.inria.fr/solverstack/ScalFMM,True
 https://gitlab.inria.fr/solverstack/brew-repo,True
