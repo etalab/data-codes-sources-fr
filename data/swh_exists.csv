@@ -969,6 +969,8 @@ https://github.com/1024pix/codeshift,True
 https://github.com/1024pix/ember-cli-chartjs,True
 https://github.com/1024pix/ember-cli-matomo-tag-manager,True
 https://github.com/1024pix/ember-sentry,True
+https://github.com/1024pix/ember-testing-library,False
+https://github.com/1024pix/ember-testing-library-old,False
 https://github.com/1024pix/formation-jeremie,True
 https://github.com/1024pix/gateway,True
 https://github.com/1024pix/gh-pix,True
@@ -3318,7 +3320,9 @@ https://github.com/ambanum/twint,True
 https://github.com/ansforge/DesignSystem,True
 https://github.com/ansforge/ModelisationFHIRdesacteursdesante,True
 https://github.com/ansforge/Modelisationdesstructuresetdesprofessionnels,False
+https://github.com/ansforge/asip-sign-V2,False
 https://github.com/ansforge/esignsante,True
+https://github.com/ansforge/esignsante-ws,False
 https://github.com/ansforge/politique-de-contribution-open-source,True
 https://github.com/aphp/Cohort360,True
 https://github.com/aphp/Cohort360-Back-end,True
@@ -6283,6 +6287,7 @@ https://github.com/polewebmaedi/MAEDI-Pays,True
 https://github.com/polewebmaedi/countries,True
 https://github.com/polewebmaedi/natural-earth-vector,True
 https://github.com/powerapi-ng/.github,True
+https://github.com/powerapi-ng/dummy-formula,False
 https://github.com/powerapi-ng/energy-scripts,True
 https://github.com/powerapi-ng/hwpc-sensor,True
 https://github.com/powerapi-ng/j-joules,True
@@ -8159,6 +8164,7 @@ https://gitlab.inria.fr/grew/grew_doc,True
 https://gitlab.inria.fr/grew/grew_gui,True
 https://gitlab.inria.fr/grew/grew_match,True
 https://gitlab.inria.fr/grew/grew_match_back,True
+https://gitlab.inria.fr/grew/grew_match_config,False
 https://gitlab.inria.fr/grew/grew_parse,True
 https://gitlab.inria.fr/grew/grew_server,True
 https://gitlab.inria.fr/grew/grew_stat,True
@@ -8709,6 +8715,8 @@ https://gitlab.inria.fr/skeletons/opam-repository,True
 https://gitlab.inria.fr/skeletons/stage-olivier-idir,True
 https://gitlab.inria.fr/skelton/pyskelton,True
 https://gitlab.inria.fr/skelton/skelton2,True
+https://gitlab.inria.fr/socialbus/webhook-manager,False
+https://gitlab.inria.fr/socialbus/website,False
 https://gitlab.inria.fr/sollya/sollya,True
 https://gitlab.inria.fr/solverstack/ScalFMM,True
 https://gitlab.inria.fr/solverstack/brew-repo,True
@@ -9757,6 +9765,7 @@ https://plmlab.math.cnrs.fr/imb-dijon/infocom,True
 https://plmlab.math.cnrs.fr/imb-public/anr-template,True
 https://plmlab.math.cnrs.fr/imt/acces_backup,True
 https://plmlab.math.cnrs.fr/imt/ansible_deploy_nfs,True
+https://plmlab.math.cnrs.fr/imt/borgbox,False
 https://plmlab.math.cnrs.fr/imt/fragma/fragma-on-amqp,True
 https://plmlab.math.cnrs.fr/imt/fragma/plm-oidc-authentification,True
 https://plmlab.math.cnrs.fr/imt/imt_belenios,True
