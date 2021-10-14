@@ -297,6 +297,7 @@ https://forgemia.inra.fr/cropmetapop/cmpanalyzer,True
 https://forgemia.inra.fr/cropmetapop/cmpconfig,True
 https://forgemia.inra.fr/cropmetapop/cmpfitness,True
 https://forgemia.inra.fr/cropmetapop/cropmetapop,True
+https://forgemia.inra.fr/decrypt/deterministic-model,False
 https://forgemia.inra.fr/dipso/aspire,True
 https://forgemia.inra.fr/dipso/bridge-datainrae-nextcloud,True
 https://forgemia.inra.fr/dipso/kubespray,True
@@ -481,6 +482,7 @@ https://forgemia.inra.fr/infosol/si-debug,True
 https://forgemia.inra.fr/infosol/talks,True
 https://forgemia.inra.fr/infosol/txm-manual,True
 https://forgemia.inra.fr/inter_cati_omics/hackathon_octobre2021/atelier_repro,True
+https://forgemia.inra.fr/inter_cati_omics/hackathon_octobre2021/django-rest-api,False
 https://forgemia.inra.fr/inter_cati_omics/hackathon_octobre2021/hackathon_datascience_2021,True
 https://forgemia.inra.fr/inter_cati_omics/hackathon_octobre2021/shinyDataScience,True
 https://forgemia.inra.fr/inter_cati_omics/hackathon_shiny_2020,True
@@ -3325,6 +3327,7 @@ https://github.com/ansforge/ModelisationFHIRdesacteursdesante,True
 https://github.com/ansforge/Modelisationdesstructuresetdesprofessionnels,False
 https://github.com/ansforge/asip-sign-V2,True
 https://github.com/ansforge/esignsante,True
+https://github.com/ansforge/esignsante-psc,False
 https://github.com/ansforge/esignsante-ws,False
 https://github.com/ansforge/politique-de-contribution-open-source,True
 https://github.com/aphp/Cohort360,True
