@@ -463,6 +463,7 @@ https://forgemia.inra.fr/gryc-data/zygosaccharomyces_rouxii-cbs_732,True
 https://forgemia.inra.fr/hackathon-portail-calcul/criteres,True
 https://forgemia.inra.fr/hackathon-portail-calcul/existant,True
 https://forgemia.inra.fr/hackathon-portail-calcul/hackathon_organisation,True
+https://forgemia.inra.fr/ices_imes_analysis/icescreen_pub,False
 https://forgemia.inra.fr/ices_imes_analysis/icescreen_public_release,True
 https://forgemia.inra.fr/in-sylva-development/in-sylva.gatekeeper,True
 https://forgemia.inra.fr/in-sylva-development/in-sylva.information-system,True
@@ -984,6 +985,7 @@ https://github.com/1024pix/heroku-buildpack-telegraf,True
 https://github.com/1024pix/holodeck-dashboard,True
 https://github.com/1024pix/journee-recherche,True
 https://github.com/1024pix/json-api-crud-server,True
+https://github.com/1024pix/logstash-buildpack,False
 https://github.com/1024pix/mail-broker,True
 https://github.com/1024pix/matomo,True
 https://github.com/1024pix/matomo-buildpack,True
@@ -1767,7 +1769,7 @@ https://github.com/EsupPortail/moodle-mod_pod,True
 https://github.com/EsupPortail/moodle-mod_pod-filter,True
 https://github.com/EsupPortail/nginx-auth-cas-lua,True
 https://github.com/EsupPortail/nuxeo-onlyoffice,True
-https://github.com/EsupPortail/opencast-studio,False
+https://github.com/EsupPortail/opencast-studio,True
 https://github.com/EsupPortail/orioai-nuxeo,True
 https://github.com/EsupPortail/pod,True
 https://github.com/EsupPortail/portlet-tools,True
@@ -7284,7 +7286,7 @@ https://gitlab.inria.fr/OCSR/crowdmp/addons/microsoft-rocketbox,True
 https://gitlab.inria.fr/OCSR/crowdmp/crowdmp,True
 https://gitlab.inria.fr/OCSR/crowdscan,True
 https://gitlab.inria.fr/PSI/marmotecore,True
-https://gitlab.inria.fr/PSI/psi2,False
+https://gitlab.inria.fr/PSI/psi2,True
 https://gitlab.inria.fr/PSI/psi3,True
 https://gitlab.inria.fr/PSI/psi4,True
 https://gitlab.inria.fr/PaMPA/PaMPA,True
@@ -8166,7 +8168,7 @@ https://gitlab.inria.fr/grew/grew_doc,True
 https://gitlab.inria.fr/grew/grew_gui,True
 https://gitlab.inria.fr/grew/grew_match,True
 https://gitlab.inria.fr/grew/grew_match_back,True
-https://gitlab.inria.fr/grew/grew_match_config,False
+https://gitlab.inria.fr/grew/grew_match_config,True
 https://gitlab.inria.fr/grew/grew_parse,True
 https://gitlab.inria.fr/grew/grew_server,True
 https://gitlab.inria.fr/grew/grew_stat,True
@@ -9244,7 +9246,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/seedpsd,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/seedtree5,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/site-characterization,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/storage-summer-k8s,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/summmo,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/summmo,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/ws-dataselect,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/ws-eidaauth,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/ws-eidastats-k8s,True
