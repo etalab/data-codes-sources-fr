@@ -1477,6 +1477,7 @@ https://github.com/DISIC/design.numerique.gouv.fr,True
 https://github.com/DISIC/designgouv-admin,True
 https://github.com/DISIC/dsn-audits-ce,True
 https://github.com/DISIC/dsn-audits-cnamts,True
+https://github.com/DISIC/dsn-audits-ddd,False
 https://github.com/DISIC/dsn-audits-dgpn,True
 https://github.com/DISIC/dsn-audits-dlpaj,True
 https://github.com/DISIC/dsn-audits-drhmae,True
@@ -2286,7 +2287,7 @@ https://github.com/InseeFrLab/NRC-Heck-model,True
 https://github.com/InseeFrLab/Pearl-Jam,False
 https://github.com/InseeFrLab/Pearl-Jam-Back-Office,True
 https://github.com/InseeFrLab/Py-Insee-Data,True
-https://github.com/InseeFrLab/R-Insee-Data,False
+https://github.com/InseeFrLab/R-Insee-Data,True
 https://github.com/InseeFrLab/SASTauArgus,True
 https://github.com/InseeFrLab/Sabiane-Data,True
 https://github.com/InseeFrLab/Shelly,True
