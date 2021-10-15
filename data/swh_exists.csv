@@ -6684,7 +6684,7 @@ https://github.com/wookey-project/wookeypedia,True
 https://gitlab-research.centralesupelec.fr/3if4030/c_rpc_random,False
 https://gitlab-research.centralesupelec.fr/3if4030/cpp_grpc_random,False
 https://gitlab-research.centralesupelec.fr/3if4030/java_corba_random,False
-https://gitlab-research.centralesupelec.fr/3if4030/java_jms_random,False
+https://gitlab-research.centralesupelec.fr/3if4030/java_jms_random,True
 https://gitlab-research.centralesupelec.fr/3if4030/java_rest_random,False
 https://gitlab-research.centralesupelec.fr/3if4030/java_rmi_random,False
 https://gitlab-research.centralesupelec.fr/3if4030/java_soap_random,False
@@ -7785,7 +7785,7 @@ https://gitlab.inria.fr/concordant/software/c-crdtlib,True
 https://gitlab.inria.fr/concordant/software/c-markdown-editor,True
 https://gitlab.inria.fr/concordant/software/c-service,True
 https://gitlab.inria.fr/concordant/software/c-sudoku,True
-https://gitlab.inria.fr/concordant/software/crdt-benchmarks,False
+https://gitlab.inria.fr/concordant/software/crdt-benchmarks,True
 https://gitlab.inria.fr/concordant/software/mini-app,True
 https://gitlab.inria.fr/controlHub/experiment_server,True
 https://gitlab.inria.fr/controlHub/experiment_server_pub,True
@@ -8495,6 +8495,7 @@ https://gitlab.inria.fr/mosaic/draco_stem,True
 https://gitlab.inria.fr/mosaic/mosaic-commons,True
 https://gitlab.inria.fr/mosaic/publications/cauliflower,True
 https://gitlab.inria.fr/mosaic/publications/isbi_2021,False
+https://gitlab.inria.fr/mosaic/publications/isbi_2022,False
 https://gitlab.inria.fr/mosaic/publications/lpy2pc,True
 https://gitlab.inria.fr/mosaic/publications/pccd,True
 https://gitlab.inria.fr/mosaic/publications/protoplast,True
@@ -8986,7 +8987,7 @@ https://gitlab.irstea.fr/diades/diades.atlas,True
 https://gitlab.irstea.fr/diades/test,True
 https://gitlab.irstea.fr/emax/bddfontblanche,True
 https://gitlab.irstea.fr/ext/insitu/trios,True
-https://gitlab.irstea.fr/flood-appraisal/floodam/floodam-data,False
+https://gitlab.irstea.fr/flood-appraisal/floodam/floodam-data,True
 https://gitlab.irstea.fr/geau-inondation/geau-utility,True
 https://gitlab.irstea.fr/geau-technical/geau-utility,True
 https://gitlab.irstea.fr/geopat/geopat,True
