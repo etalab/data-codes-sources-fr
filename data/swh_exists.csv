@@ -988,7 +988,7 @@ https://github.com/1024pix/heroku-buildpack-telegraf,True
 https://github.com/1024pix/holodeck-dashboard,True
 https://github.com/1024pix/journee-recherche,True
 https://github.com/1024pix/json-api-crud-server,True
-https://github.com/1024pix/logstash-buildpack,False
+https://github.com/1024pix/logstash-buildpack,True
 https://github.com/1024pix/mail-broker,True
 https://github.com/1024pix/matomo,True
 https://github.com/1024pix/matomo-buildpack,True
@@ -1482,7 +1482,7 @@ https://github.com/DISIC/design.numerique.gouv.fr,True
 https://github.com/DISIC/designgouv-admin,True
 https://github.com/DISIC/dsn-audits-ce,True
 https://github.com/DISIC/dsn-audits-cnamts,True
-https://github.com/DISIC/dsn-audits-ddd,False
+https://github.com/DISIC/dsn-audits-ddd,True
 https://github.com/DISIC/dsn-audits-dgpn,True
 https://github.com/DISIC/dsn-audits-dlpaj,True
 https://github.com/DISIC/dsn-audits-drhmae,True
@@ -2121,6 +2121,7 @@ https://github.com/Inist-CNRS/ezmaster-libpostal,True
 https://github.com/Inist-CNRS/ezmaster-mongo,True
 https://github.com/Inist-CNRS/ezmaster-mysql,True
 https://github.com/Inist-CNRS/ezmaster-phpserver,True
+https://github.com/Inist-CNRS/ezmaster-proxy,False
 https://github.com/Inist-CNRS/ezmaster-skosmos,True
 https://github.com/Inist-CNRS/ezmaster-virtuoso,True
 https://github.com/Inist-CNRS/ezmaster-web-term,True
@@ -4212,6 +4213,7 @@ https://github.com/datagir/nosgestesclimat-site,True
 https://github.com/datagir/quefairedemesdechets,True
 https://github.com/datagir/teletravail,True
 https://github.com/datagir/vertvolt,True
+https://github.com/datalab-mi/Basegun,False
 https://github.com/datalab-mi/Casper,True
 https://github.com/datalab-mi/carto-fast,True
 https://github.com/datalab-mi/datalab-mi.github.io,True
@@ -6706,7 +6708,7 @@ https://gitlab-research.centralesupelec.fr/RiseClipseGroup/riseclipse-validator-
 https://gitlab-research.centralesupelec.fr/RiseClipseGroup/riseclipse-validator-ocl,False
 https://gitlab-research.centralesupelec.fr/RiseClipseGroup/riseclipse-validator-scl2003,False
 https://gitlab-research.centralesupelec.fr/cidre-public/compilation/infosec-ecomp,False
-https://gitlab-research.centralesupelec.fr/cidre-public/compilation/supecomp,False
+https://gitlab-research.centralesupelec.fr/cidre-public/compilation/supecomp,True
 https://gitlab-research.centralesupelec.fr/cidre-public/devweb/mission-impossible,True
 https://gitlab-research.centralesupelec.fr/cidre-public/divers/td-git-bookmarks,False
 https://gitlab-research.centralesupelec.fr/cidre-public/npr/deploy,False
@@ -8424,6 +8426,7 @@ https://gitlab.inria.fr/melissa/melissa-ci,True
 https://gitlab.inria.fr/melissa/melissa-da,True
 https://gitlab.inria.fr/memcad/clangml,True
 https://gitlab.inria.fr/memcad/clangml-transforms,True
+https://gitlab.inria.fr/memcad/memcad,False
 https://gitlab.inria.fr/memphis/nemo,True
 https://gitlab.inria.fr/metapart/copart,True
 https://gitlab.inria.fr/metapart/kgggp,True
@@ -8921,7 +8924,7 @@ https://gitlab.inria.fr/x-lab/x-stt,True
 https://gitlab.inria.fr/x-lab/x-tts,True
 https://gitlab.inria.fr/x-lab/x-vis,True
 https://gitlab.inria.fr/x-lab/x-wng,True
-https://gitlab.inria.fr/xbie/dvae,False
+https://gitlab.inria.fr/xbie/dvae,True
 https://gitlab.inria.fr/xbie/dvae-speech,True
 https://gitlab.inria.fr/xfor/docs,True
 https://gitlab.inria.fr/xfor/guix-xfor,True
