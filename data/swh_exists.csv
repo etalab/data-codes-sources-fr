@@ -6815,6 +6815,7 @@ https://gitlab.cerema.fr/centre-est/mobilite/Stream/stream-python,True
 https://gitlab.cerema.fr/centre-est/mobilite/data_securite_routiere_series_,True
 https://gitlab.cerema.fr/centre-est/mobilite/diagnostic-trafic-rshiny,True
 https://gitlab.cerema.fr/centre-est/mobilite/securite-routiere-series,True
+https://gitlab.cerema.fr/centre-est/zonage_montagne_urbanisme_1985,False
 https://gitlab.cerema.fr/geomatique_donnees/en_test,True
 https://gitlab.cerema.fr/rem-d2pn-pn/fairplay,True
 https://gitlab.cerema.fr/rem-d2pn-pn/quadrispel,True
@@ -8490,6 +8491,7 @@ https://gitlab.inria.fr/mosaic/cellcomplex,True
 https://gitlab.inria.fr/mosaic/draco_stem,True
 https://gitlab.inria.fr/mosaic/mosaic-commons,True
 https://gitlab.inria.fr/mosaic/publications/cauliflower,True
+https://gitlab.inria.fr/mosaic/publications/isbi_2021,False
 https://gitlab.inria.fr/mosaic/publications/lpy2pc,True
 https://gitlab.inria.fr/mosaic/publications/pccd,True
 https://gitlab.inria.fr/mosaic/publications/protoplast,True
@@ -8505,6 +8507,8 @@ https://gitlab.inria.fr/mosaic/treex,True
 https://gitlab.inria.fr/mpc/mpc,True
 https://gitlab.inria.fr/mpfi/mpfi,True
 https://gitlab.inria.fr/mpfq/mpfq,True
+https://gitlab.inria.fr/mpfr/misc,False
+https://gitlab.inria.fr/mpfr/mpfr,False
 https://gitlab.inria.fr/multicellular_modelling/libsbml,True
 https://gitlab.inria.fr/multicellular_modelling/public/cellsegmquant,True
 https://gitlab.inria.fr/musca/pydynpeak,True
@@ -8768,7 +8772,7 @@ https://gitlab.inria.fr/skeletons/opam-repository,True
 https://gitlab.inria.fr/skeletons/stage-olivier-idir,True
 https://gitlab.inria.fr/skelton/pyskelton,True
 https://gitlab.inria.fr/skelton/skelton2,True
-https://gitlab.inria.fr/socialbus/webhook-manager,False
+https://gitlab.inria.fr/socialbus/webhook-manager,True
 https://gitlab.inria.fr/socialbus/website,True
 https://gitlab.inria.fr/sollya/sollya,True
 https://gitlab.inria.fr/solverstack/ScalFMM,True
