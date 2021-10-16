@@ -4213,7 +4213,7 @@ https://github.com/datagir/nosgestesclimat-site,True
 https://github.com/datagir/quefairedemesdechets,True
 https://github.com/datagir/teletravail,True
 https://github.com/datagir/vertvolt,True
-https://github.com/datalab-mi/Basegun,False
+https://github.com/datalab-mi/Basegun,True
 https://github.com/datalab-mi/Casper,True
 https://github.com/datalab-mi/carto-fast,True
 https://github.com/datalab-mi/datalab-mi.github.io,True
@@ -5986,6 +5986,7 @@ https://github.com/ocaml/opam,True
 https://github.com/ocaml/opam-bulk-logs,True
 https://github.com/ocaml/opam-file-format,True
 https://github.com/ocaml/opam-repository,True
+https://github.com/ocaml/opam-source-archives,False
 https://github.com/ocaml/opam.ocaml.org,True
 https://github.com/ocaml/platform-blog,True
 https://github.com/ocaml/platform-dev,True
@@ -6683,7 +6684,7 @@ https://github.com/wookey-project/wookey-project.github.io,True
 https://github.com/wookey-project/wookeypedia,True
 https://gitlab-research.centralesupelec.fr/3if4030/c_rpc_random,True
 https://gitlab-research.centralesupelec.fr/3if4030/cpp_grpc_random,True
-https://gitlab-research.centralesupelec.fr/3if4030/java_corba_random,False
+https://gitlab-research.centralesupelec.fr/3if4030/java_corba_random,True
 https://gitlab-research.centralesupelec.fr/3if4030/java_jms_random,True
 https://gitlab-research.centralesupelec.fr/3if4030/java_rest_random,False
 https://gitlab-research.centralesupelec.fr/3if4030/java_rmi_random,False
@@ -6712,7 +6713,7 @@ https://gitlab-research.centralesupelec.fr/cidre-public/compilation/supecomp,Tru
 https://gitlab-research.centralesupelec.fr/cidre-public/devweb/mission-impossible,True
 https://gitlab-research.centralesupelec.fr/cidre-public/divers/td-git-bookmarks,False
 https://gitlab-research.centralesupelec.fr/cidre-public/npr/deploy,False
-https://gitlab-research.centralesupelec.fr/cidre-public/npr/webserver,False
+https://gitlab-research.centralesupelec.fr/cidre-public/npr/webserver,True
 https://gitlab-research.centralesupelec.fr/cidre-public/reseausecu/netbook-maintenance,False
 https://gitlab-research.centralesupelec.fr/cidre-public/seculog,False
 https://gitlab-research.centralesupelec.fr/cidre-public/systemes-exploitation/xv6-riscv-tp,False
@@ -6721,7 +6722,7 @@ https://gitlab-research.centralesupelec.fr/datasc_projects_public/bayescovid19,F
 https://gitlab-research.centralesupelec.fr/mesocentre-public/fusion_examples,False
 https://gitlab-research.centralesupelec.fr/mesocentre-public/ruche_examples,False
 https://gitlab-research.centralesupelec.fr/mics_biomathematics/bioinfo/VariantAnnotator,False
-https://gitlab-research.centralesupelec.fr/mics_biomathematics/prettyplots/PrettyPy,False
+https://gitlab-research.centralesupelec.fr/mics_biomathematics/prettyplots/PrettyPy,True
 https://gitlab-research.centralesupelec.fr/mics_biomathematics/prettyplots/tableExtra,False
 https://gitlab-research.centralesupelec.fr/myapps-templates/django,False
 https://gitlab-research.centralesupelec.fr/myapps-templates/empty-template,False
@@ -9783,6 +9784,7 @@ https://plmlab.math.cnrs.fr/docker-images/elasticsearch,True
 https://plmlab.math.cnrs.fr/docker-images/esup-pod,True
 https://plmlab.math.cnrs.fr/docker-images/helm-mirror,True
 https://plmlab.math.cnrs.fr/docker-images/hugo,True
+https://plmlab.math.cnrs.fr/docker-images/julia,False
 https://plmlab.math.cnrs.fr/docker-images/latex,True
 https://plmlab.math.cnrs.fr/docker-images/mariadb,True
 https://plmlab.math.cnrs.fr/docker-images/mkdocs,True
