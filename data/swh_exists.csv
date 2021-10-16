@@ -1434,6 +1434,7 @@ https://github.com/CatalaLang/catala-website,True
 https://github.com/Cour-de-cassation/api.gouv.fr,False
 https://github.com/Cour-de-cassation/judilibre-infra,True
 https://github.com/Cour-de-cassation/judilibre-search,True
+https://github.com/Cour-de-cassation/judilibre-stats,False
 https://github.com/Cour-de-cassation/judilibre-uptime,True
 https://github.com/Cour-de-cassation/judillibre-search,False
 https://github.com/Cour-de-cassation/label,True
@@ -5986,7 +5987,7 @@ https://github.com/ocaml/opam,True
 https://github.com/ocaml/opam-bulk-logs,True
 https://github.com/ocaml/opam-file-format,True
 https://github.com/ocaml/opam-repository,True
-https://github.com/ocaml/opam-source-archives,False
+https://github.com/ocaml/opam-source-archives,True
 https://github.com/ocaml/opam.ocaml.org,True
 https://github.com/ocaml/platform-blog,True
 https://github.com/ocaml/platform-dev,True
@@ -6711,7 +6712,7 @@ https://gitlab-research.centralesupelec.fr/RiseClipseGroup/riseclipse-validator-
 https://gitlab-research.centralesupelec.fr/cidre-public/compilation/infosec-ecomp,False
 https://gitlab-research.centralesupelec.fr/cidre-public/compilation/supecomp,True
 https://gitlab-research.centralesupelec.fr/cidre-public/devweb/mission-impossible,True
-https://gitlab-research.centralesupelec.fr/cidre-public/divers/td-git-bookmarks,False
+https://gitlab-research.centralesupelec.fr/cidre-public/divers/td-git-bookmarks,True
 https://gitlab-research.centralesupelec.fr/cidre-public/npr/deploy,False
 https://gitlab-research.centralesupelec.fr/cidre-public/npr/webserver,True
 https://gitlab-research.centralesupelec.fr/cidre-public/reseausecu/netbook-maintenance,False
@@ -6723,7 +6724,7 @@ https://gitlab-research.centralesupelec.fr/mesocentre-public/fusion_examples,Fal
 https://gitlab-research.centralesupelec.fr/mesocentre-public/ruche_examples,False
 https://gitlab-research.centralesupelec.fr/mics_biomathematics/bioinfo/VariantAnnotator,False
 https://gitlab-research.centralesupelec.fr/mics_biomathematics/prettyplots/PrettyPy,True
-https://gitlab-research.centralesupelec.fr/mics_biomathematics/prettyplots/tableExtra,False
+https://gitlab-research.centralesupelec.fr/mics_biomathematics/prettyplots/tableExtra,True
 https://gitlab-research.centralesupelec.fr/myapps-templates/django,False
 https://gitlab-research.centralesupelec.fr/myapps-templates/empty-template,False
 https://gitlab-research.centralesupelec.fr/myapps-templates/node,False
