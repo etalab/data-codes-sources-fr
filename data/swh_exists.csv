@@ -482,7 +482,7 @@ https://forgemia.inra.fr/infosol/si-debug,True
 https://forgemia.inra.fr/infosol/talks,True
 https://forgemia.inra.fr/infosol/txm-manual,True
 https://forgemia.inra.fr/inter_cati_omics/hackathon_octobre2021/atelier_repro,True
-https://forgemia.inra.fr/inter_cati_omics/hackathon_octobre2021/django-rest-api,False
+https://forgemia.inra.fr/inter_cati_omics/hackathon_octobre2021/django-rest-api,True
 https://forgemia.inra.fr/inter_cati_omics/hackathon_octobre2021/django-vue-interface,False
 https://forgemia.inra.fr/inter_cati_omics/hackathon_octobre2021/hackathon_datascience_2021,True
 https://forgemia.inra.fr/inter_cati_omics/hackathon_octobre2021/shinyDataScience,True
@@ -6681,7 +6681,7 @@ https://github.com/wookey-project/wookey-docker,True
 https://github.com/wookey-project/wookey-perms-u2f2,True
 https://github.com/wookey-project/wookey-project.github.io,True
 https://github.com/wookey-project/wookeypedia,True
-https://gitlab-research.centralesupelec.fr/3if4030/c_rpc_random,False
+https://gitlab-research.centralesupelec.fr/3if4030/c_rpc_random,True
 https://gitlab-research.centralesupelec.fr/3if4030/cpp_grpc_random,False
 https://gitlab-research.centralesupelec.fr/3if4030/java_corba_random,False
 https://gitlab-research.centralesupelec.fr/3if4030/java_jms_random,True
@@ -8495,7 +8495,7 @@ https://gitlab.inria.fr/mosaic/draco_stem,True
 https://gitlab.inria.fr/mosaic/mosaic-commons,True
 https://gitlab.inria.fr/mosaic/publications/cauliflower,True
 https://gitlab.inria.fr/mosaic/publications/isbi_2021,False
-https://gitlab.inria.fr/mosaic/publications/isbi_2022,False
+https://gitlab.inria.fr/mosaic/publications/isbi_2022,True
 https://gitlab.inria.fr/mosaic/publications/lpy2pc,True
 https://gitlab.inria.fr/mosaic/publications/pccd,True
 https://gitlab.inria.fr/mosaic/publications/protoplast,True
