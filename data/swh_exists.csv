@@ -1388,7 +1388,7 @@ https://github.com/CEREMA/dtermed.webapp.rivages,True
 https://github.com/CEREMA/dterso.chaineTraitement.traitementImageSatelitteEtIndicateursDerives,True
 https://github.com/CEREMA/dterso.pluginQgis.CeremaCartEau,True
 https://github.com/CEREMA/dterso.pluginQgis3.CeremaCartEau3,True
-https://github.com/CEREMA/quadogeo,False
+https://github.com/CEREMA/quadogeo,True
 https://github.com/CEREMA/rivages-android,True
 https://github.com/CEREMA/schema-arrete-circulation,True
 https://github.com/CEREMA/schema-arrete-circulation-marchandises,True
@@ -8430,7 +8430,7 @@ https://gitlab.inria.fr/melissa/melissa-ci,True
 https://gitlab.inria.fr/melissa/melissa-da,True
 https://gitlab.inria.fr/memcad/clangml,True
 https://gitlab.inria.fr/memcad/clangml-transforms,True
-https://gitlab.inria.fr/memcad/memcad,False
+https://gitlab.inria.fr/memcad/memcad,True
 https://gitlab.inria.fr/memphis/nemo,True
 https://gitlab.inria.fr/metapart/copart,True
 https://gitlab.inria.fr/metapart/kgggp,True
@@ -9775,7 +9775,7 @@ https://plmlab.math.cnrs.fr/demoPLMlab/demoCIlatex,True
 https://plmlab.math.cnrs.fr/diffusion-imb/website,True
 https://plmlab.math.cnrs.fr/docker-images/alpine,True
 https://plmlab.math.cnrs.fr/docker-images/augeas,True
-https://plmlab.math.cnrs.fr/docker-images/base-notebook,False
+https://plmlab.math.cnrs.fr/docker-images/base-notebook,True
 https://plmlab.math.cnrs.fr/docker-images/base-notebook-nbgrader,True
 https://plmlab.math.cnrs.fr/docker-images/bash,True
 https://plmlab.math.cnrs.fr/docker-images/bash-bundler,True
@@ -9848,6 +9848,7 @@ https://plmlab.math.cnrs.fr/infomath/git_dummy,True
 https://plmlab.math.cnrs.fr/infomath/hugo-docker,True
 https://plmlab.math.cnrs.fr/infomath/latex,True
 https://plmlab.math.cnrs.fr/ipanema/propellor,True
+https://plmlab.math.cnrs.fr/journees-mathrice-2021-10-graphviz/datacenter-elec,False
 https://plmlab.math.cnrs.fr/jupytercloud/authenticator-proxy,True
 https://plmlab.math.cnrs.fr/jupytercloud/httpd-shibboleth-sp,True
 https://plmlab.math.cnrs.fr/jupytercloud/image-paris-saclay,True
