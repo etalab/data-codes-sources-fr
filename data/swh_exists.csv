@@ -483,7 +483,7 @@ https://forgemia.inra.fr/infosol/talks,True
 https://forgemia.inra.fr/infosol/txm-manual,True
 https://forgemia.inra.fr/inter_cati_omics/hackathon_octobre2021/atelier_repro,True
 https://forgemia.inra.fr/inter_cati_omics/hackathon_octobre2021/django-rest-api,True
-https://forgemia.inra.fr/inter_cati_omics/hackathon_octobre2021/django-vue-interface,False
+https://forgemia.inra.fr/inter_cati_omics/hackathon_octobre2021/django-vue-interface,True
 https://forgemia.inra.fr/inter_cati_omics/hackathon_octobre2021/hackathon_datascience_2021,True
 https://forgemia.inra.fr/inter_cati_omics/hackathon_octobre2021/shinyDataScience,True
 https://forgemia.inra.fr/inter_cati_omics/hackathon_shiny_2020,True
@@ -6689,8 +6689,8 @@ https://gitlab-research.centralesupelec.fr/3if4030/java_corba_random,True
 https://gitlab-research.centralesupelec.fr/3if4030/java_jms_random,True
 https://gitlab-research.centralesupelec.fr/3if4030/java_rest_random,False
 https://gitlab-research.centralesupelec.fr/3if4030/java_rmi_random,False
-https://gitlab-research.centralesupelec.fr/3if4030/java_soap_random,False
-https://gitlab-research.centralesupelec.fr/3if4030/python_xmlrpc_random,False
+https://gitlab-research.centralesupelec.fr/3if4030/java_soap_random,True
+https://gitlab-research.centralesupelec.fr/3if4030/python_xmlrpc_random,True
 https://gitlab-research.centralesupelec.fr/RiseClipseGroup/riseclipse-developer,False
 https://gitlab-research.centralesupelec.fr/RiseClipseGroup/riseclipse-distribution,False
 https://gitlab-research.centralesupelec.fr/RiseClipseGroup/riseclipse-editor,False
@@ -6705,7 +6705,7 @@ https://gitlab-research.centralesupelec.fr/RiseClipseGroup/riseclipse-metamodel-
 https://gitlab-research.centralesupelec.fr/RiseClipseGroup/riseclipse-metamodel-iec61970cim17v34,False
 https://gitlab-research.centralesupelec.fr/RiseClipseGroup/riseclipse-metamodel-nsd2016,False
 https://gitlab-research.centralesupelec.fr/RiseClipseGroup/riseclipse-metamodel-scl2003,False
-https://gitlab-research.centralesupelec.fr/RiseClipseGroup/riseclipse-ocl-constraints-scl2003,False
+https://gitlab-research.centralesupelec.fr/RiseClipseGroup/riseclipse-ocl-constraints-scl2003,True
 https://gitlab-research.centralesupelec.fr/RiseClipseGroup/riseclipse-validator-cgmes-2-4-15,False
 https://gitlab-research.centralesupelec.fr/RiseClipseGroup/riseclipse-validator-ocl,False
 https://gitlab-research.centralesupelec.fr/RiseClipseGroup/riseclipse-validator-scl2003,False
@@ -7813,6 +7813,8 @@ https://gitlab.inria.fr/crv14/evaluation,True
 https://gitlab.inria.fr/ct/gallery,True
 https://gitlab.inria.fr/ct/gallery-env,True
 https://gitlab.inria.fr/ct/hampath/code,True
+https://gitlab.inria.fr/ct/hampath/environment,False
+https://gitlab.inria.fr/ct/hampath/gallery,False
 https://gitlab.inria.fr/dalu/decawave-drivers,True
 https://gitlab.inria.fr/dalu/spank,True
 https://gitlab.inria.fr/dalu/spank-extio,True
@@ -9773,6 +9775,7 @@ https://plmlab.math.cnrs.fr/demoPLMlab/demoCIlatex,True
 https://plmlab.math.cnrs.fr/diffusion-imb/website,True
 https://plmlab.math.cnrs.fr/docker-images/alpine,True
 https://plmlab.math.cnrs.fr/docker-images/augeas,True
+https://plmlab.math.cnrs.fr/docker-images/base-notebook,False
 https://plmlab.math.cnrs.fr/docker-images/base-notebook-nbgrader,True
 https://plmlab.math.cnrs.fr/docker-images/bash,True
 https://plmlab.math.cnrs.fr/docker-images/bash-bundler,True
