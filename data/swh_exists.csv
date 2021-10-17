@@ -8516,7 +8516,7 @@ https://gitlab.inria.fr/mpc/mpc,True
 https://gitlab.inria.fr/mpfi/mpfi,True
 https://gitlab.inria.fr/mpfq/mpfq,True
 https://gitlab.inria.fr/mpfr/misc,False
-https://gitlab.inria.fr/mpfr/mpfr,False
+https://gitlab.inria.fr/mpfr/mpfr,True
 https://gitlab.inria.fr/multicellular_modelling/libsbml,True
 https://gitlab.inria.fr/multicellular_modelling/public/cellsegmquant,True
 https://gitlab.inria.fr/musca/pydynpeak,True
@@ -9849,6 +9849,7 @@ https://plmlab.math.cnrs.fr/infomath/hugo-docker,True
 https://plmlab.math.cnrs.fr/infomath/latex,True
 https://plmlab.math.cnrs.fr/ipanema/propellor,True
 https://plmlab.math.cnrs.fr/journees-mathrice-2021-10-graphviz/datacenter-elec,False
+https://plmlab.math.cnrs.fr/journees-mathrice-2021-10-graphviz/gv-demo,False
 https://plmlab.math.cnrs.fr/jupytercloud/authenticator-proxy,True
 https://plmlab.math.cnrs.fr/jupytercloud/httpd-shibboleth-sp,True
 https://plmlab.math.cnrs.fr/jupytercloud/image-paris-saclay,True
