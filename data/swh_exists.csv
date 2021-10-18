@@ -1433,6 +1433,7 @@ https://github.com/CatalaLang/catala,True
 https://github.com/CatalaLang/catala-website,True
 https://github.com/Cour-de-cassation/api.gouv.fr,False
 https://github.com/Cour-de-cassation/judilibre-infra,True
+https://github.com/Cour-de-cassation/judilibre-monitor,False
 https://github.com/Cour-de-cassation/judilibre-search,True
 https://github.com/Cour-de-cassation/judilibre-stats,False
 https://github.com/Cour-de-cassation/judilibre-uptime,True
@@ -6706,9 +6707,9 @@ https://gitlab-research.centralesupelec.fr/RiseClipseGroup/riseclipse-metamodel-
 https://gitlab-research.centralesupelec.fr/RiseClipseGroup/riseclipse-metamodel-nsd2016,False
 https://gitlab-research.centralesupelec.fr/RiseClipseGroup/riseclipse-metamodel-scl2003,False
 https://gitlab-research.centralesupelec.fr/RiseClipseGroup/riseclipse-ocl-constraints-scl2003,True
-https://gitlab-research.centralesupelec.fr/RiseClipseGroup/riseclipse-validator-cgmes-2-4-15,False
+https://gitlab-research.centralesupelec.fr/RiseClipseGroup/riseclipse-validator-cgmes-2-4-15,True
 https://gitlab-research.centralesupelec.fr/RiseClipseGroup/riseclipse-validator-ocl,False
-https://gitlab-research.centralesupelec.fr/RiseClipseGroup/riseclipse-validator-scl2003,False
+https://gitlab-research.centralesupelec.fr/RiseClipseGroup/riseclipse-validator-scl2003,True
 https://gitlab-research.centralesupelec.fr/cidre-public/compilation/infosec-ecomp,False
 https://gitlab-research.centralesupelec.fr/cidre-public/compilation/supecomp,True
 https://gitlab-research.centralesupelec.fr/cidre-public/devweb/mission-impossible,True
@@ -6718,7 +6719,7 @@ https://gitlab-research.centralesupelec.fr/cidre-public/npr/webserver,True
 https://gitlab-research.centralesupelec.fr/cidre-public/reseausecu/netbook-maintenance,False
 https://gitlab-research.centralesupelec.fr/cidre-public/seculog,False
 https://gitlab-research.centralesupelec.fr/cidre-public/systemes-exploitation/xv6-riscv-tp,False
-https://gitlab-research.centralesupelec.fr/cidre-public/test-virtualbox-installation,False
+https://gitlab-research.centralesupelec.fr/cidre-public/test-virtualbox-installation,True
 https://gitlab-research.centralesupelec.fr/datasc_projects_public/bayescovid19,False
 https://gitlab-research.centralesupelec.fr/mesocentre-public/fusion_examples,False
 https://gitlab-research.centralesupelec.fr/mesocentre-public/ruche_examples,False
@@ -6996,7 +6997,7 @@ https://gitlab.com/pidila/select-a11y,True
 https://gitlab.com/pidila/sp-simulateurs-data,True
 https://gitlab.com/rdes_dreal/propre,True
 https://gitlab.com/rdes_dreal/propre.brochure,True
-https://gitlab.com/rdes_dreal/propre.datareg,False
+https://gitlab.com/rdes_dreal/propre.datareg,True
 https://gitlab.com/rdes_dreal/propre.energie.enquete,True
 https://gitlab.com/rdes_dreal/propre.itdd,True
 https://gitlab.com/rdes_dreal/propre.presentation,True
@@ -9849,7 +9850,9 @@ https://plmlab.math.cnrs.fr/infomath/hugo-docker,True
 https://plmlab.math.cnrs.fr/infomath/latex,True
 https://plmlab.math.cnrs.fr/ipanema/propellor,True
 https://plmlab.math.cnrs.fr/journees-mathrice-2021-10-graphviz/datacenter-elec,False
+https://plmlab.math.cnrs.fr/journees-mathrice-2021-10-graphviz/flux-dns,False
 https://plmlab.math.cnrs.fr/journees-mathrice-2021-10-graphviz/gv-demo,False
+https://plmlab.math.cnrs.fr/journees-mathrice-2021-10-graphviz/interco-reseau,False
 https://plmlab.math.cnrs.fr/jupytercloud/authenticator-proxy,True
 https://plmlab.math.cnrs.fr/jupytercloud/httpd-shibboleth-sp,True
 https://plmlab.math.cnrs.fr/jupytercloud/image-paris-saclay,True
