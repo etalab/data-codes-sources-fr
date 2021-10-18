@@ -1431,7 +1431,7 @@ https://github.com/CNRS-DSI-Dev/user_set_password,True
 https://github.com/CNRS-DSI-Dev/user_share_guest,True
 https://github.com/CatalaLang/catala,True
 https://github.com/CatalaLang/catala-website,True
-https://github.com/Cour-de-cassation/api.gouv.fr,False
+https://github.com/Cour-de-cassation/api.gouv.fr,True
 https://github.com/Cour-de-cassation/judilibre-infra,True
 https://github.com/Cour-de-cassation/judilibre-monitor,False
 https://github.com/Cour-de-cassation/judilibre-search,True
@@ -3588,6 +3588,7 @@ https://github.com/betagouv/elasticsearch-gravitee-ingest-processor,True
 https://github.com/betagouv/ellesfontlaphoto,True
 https://github.com/betagouv/epci,True
 https://github.com/betagouv/etudiant-entrepreneur,True
+https://github.com/betagouv/euphrosyne,False
 https://github.com/betagouv/eva,True
 https://github.com/betagouv/eva-orchestrateur,True
 https://github.com/betagouv/eva-proxy,True
@@ -3630,6 +3631,7 @@ https://github.com/betagouv/itou,True
 https://github.com/betagouv/itou-bitoubi,True
 https://github.com/betagouv/itou-c4-tracker,True
 https://github.com/betagouv/itou-cocorico,True
+https://github.com/betagouv/itou-communaute,False
 https://github.com/betagouv/itou-consultation,True
 https://github.com/betagouv/itou-discourse,True
 https://github.com/betagouv/itou-entreprise,True
@@ -6714,13 +6716,13 @@ https://gitlab-research.centralesupelec.fr/cidre-public/compilation/infosec-ecom
 https://gitlab-research.centralesupelec.fr/cidre-public/compilation/supecomp,True
 https://gitlab-research.centralesupelec.fr/cidre-public/devweb/mission-impossible,True
 https://gitlab-research.centralesupelec.fr/cidre-public/divers/td-git-bookmarks,True
-https://gitlab-research.centralesupelec.fr/cidre-public/npr/deploy,False
+https://gitlab-research.centralesupelec.fr/cidre-public/npr/deploy,True
 https://gitlab-research.centralesupelec.fr/cidre-public/npr/webserver,True
 https://gitlab-research.centralesupelec.fr/cidre-public/reseausecu/netbook-maintenance,False
 https://gitlab-research.centralesupelec.fr/cidre-public/seculog,False
 https://gitlab-research.centralesupelec.fr/cidre-public/systemes-exploitation/xv6-riscv-tp,False
 https://gitlab-research.centralesupelec.fr/cidre-public/test-virtualbox-installation,True
-https://gitlab-research.centralesupelec.fr/datasc_projects_public/bayescovid19,False
+https://gitlab-research.centralesupelec.fr/datasc_projects_public/bayescovid19,True
 https://gitlab-research.centralesupelec.fr/mesocentre-public/fusion_examples,False
 https://gitlab-research.centralesupelec.fr/mesocentre-public/ruche_examples,False
 https://gitlab-research.centralesupelec.fr/mics_biomathematics/bioinfo/VariantAnnotator,False
@@ -8122,6 +8124,7 @@ https://gitlab.inria.fr/gazelle/library/models/voc-model,True
 https://gitlab.inria.fr/gazelle/library/preference,True
 https://gitlab.inria.fr/gazelle/library/tool,True
 https://gitlab.inria.fr/gazelle/library/ui-service,True
+https://gitlab.inria.fr/gazelle/library/uml-models,False
 https://gitlab.inria.fr/gazelle/library/unit-test,True
 https://gitlab.inria.fr/gazelle/library/validators/src-gen/hpd/hpd-code-jar,True
 https://gitlab.inria.fr/gazelle/library/validators/src-gen/hpd/ihehpd-code-jar,False
