@@ -305,6 +305,7 @@ https://forgemia.inra.fr/dipso/thesaurus-inrae,True
 https://forgemia.inra.fr/enseignement-mistea/reports-with-markdown,True
 https://forgemia.inra.fr/epgv/amaizing-tgbs,True
 https://forgemia.inra.fr/epgv/nlgenomesweeper,True
+https://forgemia.inra.fr/epgv/sv-arabido,False
 https://forgemia.inra.fr/eq-record/record-team,True
 https://forgemia.inra.fr/exploratory-penalized-regression/paper-script-and-data,True
 https://forgemia.inra.fr/fact/fact,True
@@ -1078,6 +1079,8 @@ https://github.com/139bercy/propilot2pdf,True
 https://github.com/139bercy/pypel,True
 https://github.com/139bercy/secret_stat,True
 https://github.com/139bercy/tresthor,True
+https://github.com/AC-Rennes-OpenSource/alambic,True
+https://github.com/AC-Rennes-OpenSource/alambic-addon-mvn-archetype,False
 https://github.com/ANSSI-FR/AD-control-paths,True
 https://github.com/ANSSI-FR/AD-permissions,True
 https://github.com/ANSSI-FR/ADCP-DirectoryCrawler,True
@@ -2354,6 +2357,7 @@ https://github.com/InseeFrLab/onyxia-design-system,True
 https://github.com/InseeFrLab/onyxia-onboarding,True
 https://github.com/InseeFrLab/onyxia-ui,True
 https://github.com/InseeFrLab/onyxia-web,True
+https://github.com/InseeFrLab/poc-metallica-mongodb,False
 https://github.com/InseeFrLab/predicat,True
 https://github.com/InseeFrLab/product-labelling,True
 https://github.com/InseeFrLab/rapidsai,True
@@ -3006,6 +3010,7 @@ https://github.com/SocialGouv/recherche-entreprises,True
 https://github.com/SocialGouv/reference-article,True
 https://github.com/SocialGouv/releaserc,True
 https://github.com/SocialGouv/renovate-config,True
+https://github.com/SocialGouv/repo-test-bootstrap,False
 https://github.com/SocialGouv/reva,True
 https://github.com/SocialGouv/reva-enquete,True
 https://github.com/SocialGouv/runners-bench,True
@@ -3765,6 +3770,7 @@ https://github.com/betagouv/pc-maintenance,True
 https://github.com/betagouv/pc-monitoring,True
 https://github.com/betagouv/peps,True
 https://github.com/betagouv/peps-app,True
+https://github.com/betagouv/pg-backup-buildpack,False
 https://github.com/betagouv/pia-back,True
 https://github.com/betagouv/pia-docker,True
 https://github.com/betagouv/pia-paas,True
@@ -4662,6 +4668,7 @@ https://github.com/etalab/agefiph_worker_api_entreprise,True
 https://github.com/etalab/agenda-tech-ext,True
 https://github.com/etalab/aio-proxy,True
 https://github.com/etalab/algorithmes-publics,True
+https://github.com/etalab/amenagements-cyclables,False
 https://github.com/etalab/annuaire-entreprises.data.gouv.fr,True
 https://github.com/etalab/api-annuaire-entreprises,True
 https://github.com/etalab/api-bal,True
@@ -4726,6 +4733,7 @@ https://github.com/etalab/codegouvfr-deps,True
 https://github.com/etalab/codes-juridiques-francais,True
 https://github.com/etalab/codes-postaux,True
 https://github.com/etalab/collectivites.data.gouv.fr,True
+https://github.com/etalab/comptage-mobilites-site,False
 https://github.com/etalab/comptes-collectivites,True
 https://github.com/etalab/contours-administratifs,True
 https://github.com/etalab/contribution-adresse,True
@@ -4840,6 +4848,7 @@ https://github.com/etalab/labels-and-roads,True
 https://github.com/etalab/labonneboite,True
 https://github.com/etalab/landing-page,True
 https://github.com/etalab/licence-ouverte,True
+https://github.com/etalab/lieux-covoiturage,False
 https://github.com/etalab/lois-non-codifiees-et-reglements-francais,True
 https://github.com/etalab/majic,True
 https://github.com/etalab/mastodon-stats,True
@@ -9256,6 +9265,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/MSPL/mspl-2018-2019,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/MSPL/mspl-2019-2020,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/NSBAS/fftw,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/NSBAS/wiki_roipac,True
+https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/DC/emaa/EMAA,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/DC/osug-doi,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/DC/shiny-base,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/DC/shiny.osug.fr,True
@@ -9852,10 +9862,12 @@ https://plmlab.math.cnrs.fr/infomath/git_dummy,True
 https://plmlab.math.cnrs.fr/infomath/hugo-docker,True
 https://plmlab.math.cnrs.fr/infomath/latex,True
 https://plmlab.math.cnrs.fr/ipanema/propellor,True
-https://plmlab.math.cnrs.fr/journees-mathrice-2021-10-graphviz/datacenter-elec,False
+https://plmlab.math.cnrs.fr/journees-mathrice-2021-10-graphviz/datacenter-elec,True
+https://plmlab.math.cnrs.fr/journees-mathrice-2021-10-graphviz/dessin-anime,False
 https://plmlab.math.cnrs.fr/journees-mathrice-2021-10-graphviz/flux-dns,False
 https://plmlab.math.cnrs.fr/journees-mathrice-2021-10-graphviz/gv-demo,False
 https://plmlab.math.cnrs.fr/journees-mathrice-2021-10-graphviz/interco-reseau,False
+https://plmlab.math.cnrs.fr/journees-mathrice-2021-10-graphviz/makefile,False
 https://plmlab.math.cnrs.fr/jupytercloud/authenticator-proxy,True
 https://plmlab.math.cnrs.fr/jupytercloud/httpd-shibboleth-sp,True
 https://plmlab.math.cnrs.fr/jupytercloud/image-paris-saclay,True
