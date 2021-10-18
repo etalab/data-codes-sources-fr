@@ -1436,7 +1436,7 @@ https://github.com/CatalaLang/catala,True
 https://github.com/CatalaLang/catala-website,True
 https://github.com/Cour-de-cassation/api.gouv.fr,True
 https://github.com/Cour-de-cassation/judilibre-infra,True
-https://github.com/Cour-de-cassation/judilibre-monitor,False
+https://github.com/Cour-de-cassation/judilibre-monitor,True
 https://github.com/Cour-de-cassation/judilibre-search,True
 https://github.com/Cour-de-cassation/judilibre-stats,False
 https://github.com/Cour-de-cassation/judilibre-uptime,True
@@ -1866,6 +1866,7 @@ https://github.com/GIP-RECIA/help-info-portlet,True
 https://github.com/GIP-RECIA/icons-pack,True
 https://github.com/GIP-RECIA/iframe-resizer,True
 https://github.com/GIP-RECIA/karuta-deployer,True
+https://github.com/GIP-RECIA/karuta-fileserver,False
 https://github.com/GIP-RECIA/menu-cantine-ui,True
 https://github.com/GIP-RECIA/moodle,True
 https://github.com/GIP-RECIA/moodle-blocks-course_overview_esco,True
@@ -3593,7 +3594,7 @@ https://github.com/betagouv/elasticsearch-gravitee-ingest-processor,True
 https://github.com/betagouv/ellesfontlaphoto,True
 https://github.com/betagouv/epci,True
 https://github.com/betagouv/etudiant-entrepreneur,True
-https://github.com/betagouv/euphrosyne,False
+https://github.com/betagouv/euphrosyne,True
 https://github.com/betagouv/eva,True
 https://github.com/betagouv/eva-orchestrateur,True
 https://github.com/betagouv/eva-proxy,True
@@ -6311,7 +6312,7 @@ https://github.com/polewebmaedi/MAEDI-Pays,True
 https://github.com/polewebmaedi/countries,True
 https://github.com/polewebmaedi/natural-earth-vector,True
 https://github.com/powerapi-ng/.github,True
-https://github.com/powerapi-ng/dummy-formula,False
+https://github.com/powerapi-ng/dummy-formula,True
 https://github.com/powerapi-ng/energy-scripts,True
 https://github.com/powerapi-ng/hwpc-sensor,True
 https://github.com/powerapi-ng/j-joules,True
@@ -6716,7 +6717,7 @@ https://gitlab-research.centralesupelec.fr/RiseClipseGroup/riseclipse-metamodel-
 https://gitlab-research.centralesupelec.fr/RiseClipseGroup/riseclipse-metamodel-iec61970cim17-iec61968cim13,False
 https://gitlab-research.centralesupelec.fr/RiseClipseGroup/riseclipse-metamodel-iec61970cim17v34,False
 https://gitlab-research.centralesupelec.fr/RiseClipseGroup/riseclipse-metamodel-nsd2016,False
-https://gitlab-research.centralesupelec.fr/RiseClipseGroup/riseclipse-metamodel-scl2003,False
+https://gitlab-research.centralesupelec.fr/RiseClipseGroup/riseclipse-metamodel-scl2003,True
 https://gitlab-research.centralesupelec.fr/RiseClipseGroup/riseclipse-ocl-constraints-scl2003,True
 https://gitlab-research.centralesupelec.fr/RiseClipseGroup/riseclipse-validator-cgmes-2-4-15,True
 https://gitlab-research.centralesupelec.fr/RiseClipseGroup/riseclipse-validator-ocl,False
