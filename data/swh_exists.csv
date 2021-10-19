@@ -4672,7 +4672,7 @@ https://github.com/etalab/agefiph_worker_api_entreprise,True
 https://github.com/etalab/agenda-tech-ext,True
 https://github.com/etalab/aio-proxy,True
 https://github.com/etalab/algorithmes-publics,True
-https://github.com/etalab/amenagements-cyclables,False
+https://github.com/etalab/amenagements-cyclables,True
 https://github.com/etalab/annuaire-entreprises.data.gouv.fr,True
 https://github.com/etalab/api-annuaire-entreprises,True
 https://github.com/etalab/api-bal,True
@@ -4852,7 +4852,7 @@ https://github.com/etalab/labels-and-roads,True
 https://github.com/etalab/labonneboite,True
 https://github.com/etalab/landing-page,True
 https://github.com/etalab/licence-ouverte,True
-https://github.com/etalab/lieux-covoiturage,False
+https://github.com/etalab/lieux-covoiturage,True
 https://github.com/etalab/lois-non-codifiees-et-reglements-francais,True
 https://github.com/etalab/majic,True
 https://github.com/etalab/mastodon-stats,True
@@ -6733,7 +6733,7 @@ https://gitlab-research.centralesupelec.fr/cidre-public/divers/td-git-bookmarks,
 https://gitlab-research.centralesupelec.fr/cidre-public/npr/deploy,True
 https://gitlab-research.centralesupelec.fr/cidre-public/npr/webserver,True
 https://gitlab-research.centralesupelec.fr/cidre-public/reseausecu/netbook-maintenance,False
-https://gitlab-research.centralesupelec.fr/cidre-public/seculog,False
+https://gitlab-research.centralesupelec.fr/cidre-public/seculog,True
 https://gitlab-research.centralesupelec.fr/cidre-public/systemes-exploitation/xv6-riscv-tp,False
 https://gitlab-research.centralesupelec.fr/cidre-public/test-virtualbox-installation,True
 https://gitlab-research.centralesupelec.fr/datasc_projects_public/bayescovid19,True
@@ -9874,7 +9874,7 @@ https://plmlab.math.cnrs.fr/journees-mathrice-2021-10-graphviz/dessin-anime,Fals
 https://plmlab.math.cnrs.fr/journees-mathrice-2021-10-graphviz/flux-dns,True
 https://plmlab.math.cnrs.fr/journees-mathrice-2021-10-graphviz/gv-demo,True
 https://plmlab.math.cnrs.fr/journees-mathrice-2021-10-graphviz/interco-reseau,False
-https://plmlab.math.cnrs.fr/journees-mathrice-2021-10-graphviz/makefile,False
+https://plmlab.math.cnrs.fr/journees-mathrice-2021-10-graphviz/makefile,True
 https://plmlab.math.cnrs.fr/jupytercloud/authenticator-proxy,True
 https://plmlab.math.cnrs.fr/jupytercloud/httpd-shibboleth-sp,True
 https://plmlab.math.cnrs.fr/jupytercloud/image-paris-saclay,True
