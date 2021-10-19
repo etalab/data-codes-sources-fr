@@ -8,7 +8,8 @@ Le but de ce dépôt est de :
 - collecter des métadonnées concernant les dépôts publiés par les comptes d'organisation d'organismes publics ;
 - donner de la visibilité à l'ensemble de ces comptes.
 
-Ne sont pour l'instant traités que les comptes présents sur GitHub. Les comptes présents sur d'autres plates-formes (par exemple GitLab) pourront être intégrés dans un second temps.
+Ne sont pour l'instant traités que les comptes présents sur GitHub et
+les forges GitLab.
 
 Pour ajouter le compte d'organisation de votre organisme, vous pouvez proposer de modifier [le fichier](https://github.com/DISIC/politique-de-contribution-open-source/blob/master/comptes-organismes-publics) pertinent dans le dépôt de la DINSIC relatif à la Politique de Contribution Open Source de l'État.
 
