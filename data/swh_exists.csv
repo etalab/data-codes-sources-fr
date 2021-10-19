@@ -5774,6 +5774,7 @@ https://github.com/metwork-framework/aiohttp_metwork_middlewares,True
 https://github.com/metwork-framework/alwaysup,True
 https://github.com/metwork-framework/auto-changelog,True
 https://github.com/metwork-framework/circus_autorestart_plugin,True
+https://github.com/metwork-framework/common_makefiles,False
 https://github.com/metwork-framework/cookiecutter,True
 https://github.com/metwork-framework/cookiecutter_hooks,True
 https://github.com/metwork-framework/cron-wrapper,True
@@ -6722,7 +6723,7 @@ https://gitlab-research.centralesupelec.fr/RiseClipseGroup/riseclipse-ocl-constr
 https://gitlab-research.centralesupelec.fr/RiseClipseGroup/riseclipse-validator-cgmes-2-4-15,True
 https://gitlab-research.centralesupelec.fr/RiseClipseGroup/riseclipse-validator-ocl,False
 https://gitlab-research.centralesupelec.fr/RiseClipseGroup/riseclipse-validator-scl2003,True
-https://gitlab-research.centralesupelec.fr/cidre-public/compilation/infosec-ecomp,False
+https://gitlab-research.centralesupelec.fr/cidre-public/compilation/infosec-ecomp,True
 https://gitlab-research.centralesupelec.fr/cidre-public/compilation/supecomp,True
 https://gitlab-research.centralesupelec.fr/cidre-public/devweb/mission-impossible,True
 https://gitlab-research.centralesupelec.fr/cidre-public/divers/td-git-bookmarks,True
