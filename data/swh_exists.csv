@@ -176,6 +176,8 @@ https://forge.univ-lyon1.fr/faq-raspi/rpi-faq,True
 https://forge.univ-lyon1.fr/forge_public/ci-images,True
 https://forge.univ-lyon1.fr/forge_public/forge,True
 https://forge.univ-lyon1.fr/groupe-projet-lifap4/projet-lifap4,True
+https://forge.univ-lyon1.fr/id3d/CTC,False
+https://forge.univ-lyon1.fr/id3d/GAM,False
 https://forge.univ-lyon1.fr/inf2026l-lifap5/lifap5-backend-2021p,True
 https://forge.univ-lyon1.fr/info-7/Projet-Peip2,True
 https://forge.univ-lyon1.fr/info-7/tp-bdw1,True
@@ -267,6 +269,7 @@ https://forgemia.inra.fr/anaee-dev/coby,True
 https://forgemia.inra.fr/anaee-dev/oboe,True
 https://forgemia.inra.fr/anaee-dev/si-ore-v2,True
 https://forgemia.inra.fr/baric/family-companion,True
+https://forgemia.inra.fr/beyond/beyond_si,False
 https://forgemia.inra.fr/bibliome/alvisae-anaee,True
 https://forgemia.inra.fr/bibliome/bionlp-st-py,True
 https://forgemia.inra.fr/bibliome/formation-alvisnlp,True
@@ -1435,6 +1438,7 @@ https://github.com/CNRS-DSI-Dev/user_share_guest,True
 https://github.com/CatalaLang/catala,True
 https://github.com/CatalaLang/catala-website,True
 https://github.com/Cour-de-cassation/api.gouv.fr,True
+https://github.com/Cour-de-cassation/judifiltre,False
 https://github.com/Cour-de-cassation/judilibre-infra,True
 https://github.com/Cour-de-cassation/judilibre-monitor,True
 https://github.com/Cour-de-cassation/judilibre-search,True
@@ -5777,7 +5781,7 @@ https://github.com/metwork-framework/aiohttp_metwork_middlewares,True
 https://github.com/metwork-framework/alwaysup,True
 https://github.com/metwork-framework/auto-changelog,True
 https://github.com/metwork-framework/circus_autorestart_plugin,True
-https://github.com/metwork-framework/common_makefiles,False
+https://github.com/metwork-framework/common_makefiles,True
 https://github.com/metwork-framework/cookiecutter,True
 https://github.com/metwork-framework/cookiecutter_hooks,True
 https://github.com/metwork-framework/cron-wrapper,True
@@ -5951,6 +5955,7 @@ https://github.com/observatoire-territoires/KitsCarto-GdDebat,True
 https://github.com/observatoire-territoires/SOFIE,True
 https://github.com/observatoire-territoires/SOFIE-2.0,True
 https://github.com/observatoire-territoires/couvnum,True
+https://github.com/observatoire-territoires/diaCOG,False
 https://github.com/observatoire-territoires/migR,True
 https://github.com/observatoire-territoires/rapport-OT-mobilites,True
 https://github.com/observatoire-territoires/sageo2019,True
@@ -6709,7 +6714,7 @@ https://gitlab-research.centralesupelec.fr/3if4030/java_rmi_random,False
 https://gitlab-research.centralesupelec.fr/3if4030/java_soap_random,True
 https://gitlab-research.centralesupelec.fr/3if4030/python_xmlrpc_random,True
 https://gitlab-research.centralesupelec.fr/RiseClipseGroup/riseclipse-developer,True
-https://gitlab-research.centralesupelec.fr/RiseClipseGroup/riseclipse-distribution,False
+https://gitlab-research.centralesupelec.fr/RiseClipseGroup/riseclipse-distribution,True
 https://gitlab-research.centralesupelec.fr/RiseClipseGroup/riseclipse-editor,False
 https://gitlab-research.centralesupelec.fr/RiseClipseGroup/riseclipse-experimental,False
 https://gitlab-research.centralesupelec.fr/RiseClipseGroup/riseclipse-main,True
@@ -6720,7 +6725,7 @@ https://gitlab-research.centralesupelec.fr/RiseClipseGroup/riseclipse-metamodel-
 https://gitlab-research.centralesupelec.fr/RiseClipseGroup/riseclipse-metamodel-iec61970cim16v33,False
 https://gitlab-research.centralesupelec.fr/RiseClipseGroup/riseclipse-metamodel-iec61970cim17-iec61968cim13,False
 https://gitlab-research.centralesupelec.fr/RiseClipseGroup/riseclipse-metamodel-iec61970cim17v34,False
-https://gitlab-research.centralesupelec.fr/RiseClipseGroup/riseclipse-metamodel-nsd2016,False
+https://gitlab-research.centralesupelec.fr/RiseClipseGroup/riseclipse-metamodel-nsd2016,True
 https://gitlab-research.centralesupelec.fr/RiseClipseGroup/riseclipse-metamodel-scl2003,True
 https://gitlab-research.centralesupelec.fr/RiseClipseGroup/riseclipse-ocl-constraints-scl2003,True
 https://gitlab-research.centralesupelec.fr/RiseClipseGroup/riseclipse-validator-cgmes-2-4-15,True
@@ -8534,7 +8539,7 @@ https://gitlab.inria.fr/mosaic/treex,True
 https://gitlab.inria.fr/mpc/mpc,True
 https://gitlab.inria.fr/mpfi/mpfi,True
 https://gitlab.inria.fr/mpfq/mpfq,True
-https://gitlab.inria.fr/mpfr/misc,False
+https://gitlab.inria.fr/mpfr/misc,True
 https://gitlab.inria.fr/mpfr/mpfr,True
 https://gitlab.inria.fr/multicellular_modelling/libsbml,True
 https://gitlab.inria.fr/multicellular_modelling/public/cellsegmquant,True
@@ -8696,6 +8701,7 @@ https://gitlab.inria.fr/sed-paris/visiomanager,True
 https://gitlab.inria.fr/sed-paris/welcome,True
 https://gitlab.inria.fr/sed-ral/orccad,True
 https://gitlab.inria.fr/sed-rennes/VR-Three.js,True
+https://gitlab.inria.fr/sed-rennes/ask-the-sed,False
 https://gitlab.inria.fr/sed-rennes/formations/allgo,True
 https://gitlab.inria.fr/sed-rennes/formations/deep-learning-intro,True
 https://gitlab.inria.fr/sed-rennes/formations/diu-robotique,True
@@ -9012,7 +9018,7 @@ https://gitlab.irstea.fr/emax/bddfontblanche,True
 https://gitlab.irstea.fr/ext/insitu/trios,True
 https://gitlab.irstea.fr/flood-appraisal/floodam/floodam-data,True
 https://gitlab.irstea.fr/geau-inondation/geau-utility,True
-https://gitlab.irstea.fr/geau-inondation/official,False
+https://gitlab.irstea.fr/geau-inondation/official,True
 https://gitlab.irstea.fr/geau-technical/geau-utility,True
 https://gitlab.irstea.fr/geopat/geopat,True
 https://gitlab.irstea.fr/hru-delin-dev/hru-delin,True
@@ -9090,6 +9096,7 @@ https://gitlab.irstea.fr/umr-tetis/aidmoit/ElasticSearch-Indexation,True
 https://gitlab.irstea.fr/umr-tetis/aidmoit/Protocole_aidmoit,True
 https://gitlab.irstea.fr/umr-tetis/aidmoit/collect,True
 https://gitlab.irstea.fr/umr-tetis/aidmoit/datalake-deployment,True
+https://gitlab.irstea.fr/umr-tetis/beyond/beyond_si,False
 https://gitlab.irstea.fr/umr-tetis/biotex_python,True
 https://gitlab.irstea.fr/umr-tetis/idg-tetis/formation/publication_automatique_metadonnees/automatisation_publication_metadonnees,True
 https://gitlab.irstea.fr/umr-tetis/mood/geonetwork-insertion,True
@@ -9680,6 +9687,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/systeme/nachos,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/systeme/tp-mem-alloc,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/systemes/asynchronisme_algorithmique_et_programmation,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/tal_for_distant_languages/wiki,True
+https://gricad-gitlab.univ-grenoble-alpes.fr/talalao2021/un-autre-projet,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/talks/deeplearning,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/talks/fidle,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/terra-forma/public,True
