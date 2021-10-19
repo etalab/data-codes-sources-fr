@@ -589,7 +589,7 @@ https://forgemia.inra.fr/siriusquality/sqcode/siriusquality-bioma-irradiance-com
 https://forgemia.inra.fr/siriusquality/sqcode/siriusquality-bioma-maizelai-component,True
 https://forgemia.inra.fr/siriusquality/sqcode/siriusquality-bioma-wheatpotentiallai-component,True
 https://forgemia.inra.fr/stacomi/stacomir,True
-https://forgemia.inra.fr/stacomi/stacomirtools,False
+https://forgemia.inra.fr/stacomi/stacomirtools,True
 https://forgemia.inra.fr/stacomi/stacoshiny,True
 https://forgemia.inra.fr/sunflo/envirotyping_sunrise,True
 https://forgemia.inra.fr/sunrise/15ex05_data_correction,True
@@ -3241,6 +3241,7 @@ https://github.com/abes-esr/theses-oracletosolr-indexing,True
 https://github.com/abes-esr/theses-xml,True
 https://github.com/abes-esr/winibw-scripts,True
 https://github.com/abes-esr/zotero-translators,True
+https://github.com/academiePoitiers/testrepo,True
 https://github.com/addok/addocker,True
 https://github.com/addok/addok,True
 https://github.com/addok/addok-csv,True
@@ -4366,7 +4367,7 @@ https://github.com/diverse-project/varylatex,True
 https://github.com/diverse-project/website,True
 https://github.com/diverse-project/xcore-light,True
 https://github.com/diverse-project/yajta-mirror,True
-https://github.com/dnum-mi/cartographie-donnees,False
+https://github.com/dnum-mi/cartographie-donnees,True
 https://github.com/dsi-ehess/VIVO,True
 https://github.com/dsi-ehess/VIVO-EHESS,True
 https://github.com/dsi-ehess/VIVO-Sample-Data,True
@@ -4523,6 +4524,8 @@ https://github.com/eole/installer,False
 https://github.com/eole/jquery-bootgrid,False
 https://github.com/eole/libvirt-formula,True
 https://github.com/eole/mastodon,True
+https://github.com/eole/meteor-accounts-keycloak,False
+https://github.com/eole/meteor-keycloak-oauth,False
 https://github.com/eole/one,True
 https://github.com/eole/opnsense-bsdinstaller,True
 https://github.com/eole/opnsense-changelog,True
@@ -6705,7 +6708,7 @@ https://gitlab-research.centralesupelec.fr/3if4030/java_rest_random,False
 https://gitlab-research.centralesupelec.fr/3if4030/java_rmi_random,False
 https://gitlab-research.centralesupelec.fr/3if4030/java_soap_random,True
 https://gitlab-research.centralesupelec.fr/3if4030/python_xmlrpc_random,True
-https://gitlab-research.centralesupelec.fr/RiseClipseGroup/riseclipse-developer,False
+https://gitlab-research.centralesupelec.fr/RiseClipseGroup/riseclipse-developer,True
 https://gitlab-research.centralesupelec.fr/RiseClipseGroup/riseclipse-distribution,False
 https://gitlab-research.centralesupelec.fr/RiseClipseGroup/riseclipse-editor,False
 https://gitlab-research.centralesupelec.fr/RiseClipseGroup/riseclipse-experimental,False
@@ -6734,7 +6737,7 @@ https://gitlab-research.centralesupelec.fr/cidre-public/seculog,False
 https://gitlab-research.centralesupelec.fr/cidre-public/systemes-exploitation/xv6-riscv-tp,False
 https://gitlab-research.centralesupelec.fr/cidre-public/test-virtualbox-installation,True
 https://gitlab-research.centralesupelec.fr/datasc_projects_public/bayescovid19,True
-https://gitlab-research.centralesupelec.fr/mesocentre-public/fusion_examples,False
+https://gitlab-research.centralesupelec.fr/mesocentre-public/fusion_examples,True
 https://gitlab-research.centralesupelec.fr/mesocentre-public/ruche_examples,False
 https://gitlab-research.centralesupelec.fr/mics_biomathematics/bioinfo/VariantAnnotator,False
 https://gitlab-research.centralesupelec.fr/mics_biomathematics/prettyplots/PrettyPy,True
@@ -7599,6 +7602,7 @@ https://gitlab.inria.fr/auctus-team/people/antunskuric/four_link_robot,True
 https://gitlab.inria.fr/auctus-team/people/antunskuric/kinect/nite,True
 https://gitlab.inria.fr/auctus-team/people/antunskuric/pyomeca_examples,True
 https://gitlab.inria.fr/auctus-team/people/antunskuric/pyosim_examples,True
+https://gitlab.inria.fr/auctus-team/people/gautierlaisne/public/opensim-in-cpp-simple-example-project,False
 https://gitlab.inria.fr/auctus-team/website/auctus,True
 https://gitlab.inria.fr/auctus-team/website/auctus-team,False
 https://gitlab.inria.fr/auctus/human_library,True
@@ -9008,6 +9012,7 @@ https://gitlab.irstea.fr/emax/bddfontblanche,True
 https://gitlab.irstea.fr/ext/insitu/trios,True
 https://gitlab.irstea.fr/flood-appraisal/floodam/floodam-data,True
 https://gitlab.irstea.fr/geau-inondation/geau-utility,True
+https://gitlab.irstea.fr/geau-inondation/official,False
 https://gitlab.irstea.fr/geau-technical/geau-utility,True
 https://gitlab.irstea.fr/geopat/geopat,True
 https://gitlab.irstea.fr/hru-delin-dev/hru-delin,True
@@ -9866,8 +9871,8 @@ https://plmlab.math.cnrs.fr/infomath/latex,True
 https://plmlab.math.cnrs.fr/ipanema/propellor,True
 https://plmlab.math.cnrs.fr/journees-mathrice-2021-10-graphviz/datacenter-elec,True
 https://plmlab.math.cnrs.fr/journees-mathrice-2021-10-graphviz/dessin-anime,False
-https://plmlab.math.cnrs.fr/journees-mathrice-2021-10-graphviz/flux-dns,False
-https://plmlab.math.cnrs.fr/journees-mathrice-2021-10-graphviz/gv-demo,False
+https://plmlab.math.cnrs.fr/journees-mathrice-2021-10-graphviz/flux-dns,True
+https://plmlab.math.cnrs.fr/journees-mathrice-2021-10-graphviz/gv-demo,True
 https://plmlab.math.cnrs.fr/journees-mathrice-2021-10-graphviz/interco-reseau,False
 https://plmlab.math.cnrs.fr/journees-mathrice-2021-10-graphviz/makefile,False
 https://plmlab.math.cnrs.fr/jupytercloud/authenticator-proxy,True
