@@ -300,7 +300,7 @@ https://forgemia.inra.fr/cropmetapop/cmpanalyzer,True
 https://forgemia.inra.fr/cropmetapop/cmpconfig,True
 https://forgemia.inra.fr/cropmetapop/cmpfitness,True
 https://forgemia.inra.fr/cropmetapop/cropmetapop,True
-https://forgemia.inra.fr/decrypt/deterministic-model,False
+https://forgemia.inra.fr/decrypt/deterministic-model,True
 https://forgemia.inra.fr/dipso/aspire,True
 https://forgemia.inra.fr/dipso/bridge-datainrae-nextcloud,True
 https://forgemia.inra.fr/dipso/kubespray,True
@@ -2285,6 +2285,8 @@ https://github.com/InseeFr/VTL-Tools,True
 https://github.com/InseeFr/Wilco,True
 https://github.com/InseeFr/diffman,True
 https://github.com/InseeFr/disaggR,True
+https://github.com/InseeFr/sugoi-api,False
+https://github.com/InseeFr/sugoi-ui,False
 https://github.com/InseeFrLab/AdventOfCodeLeaderboard,True
 https://github.com/InseeFrLab/BootcampJS-API,True
 https://github.com/InseeFrLab/BootcampJS-JS,True
@@ -6748,7 +6750,7 @@ https://gitlab-research.centralesupelec.fr/mics_biomathematics/bioinfo/VariantAn
 https://gitlab-research.centralesupelec.fr/mics_biomathematics/prettyplots/PrettyPy,True
 https://gitlab-research.centralesupelec.fr/mics_biomathematics/prettyplots/tableExtra,True
 https://gitlab-research.centralesupelec.fr/myapps-templates/django,False
-https://gitlab-research.centralesupelec.fr/myapps-templates/empty-template,False
+https://gitlab-research.centralesupelec.fr/myapps-templates/empty-template,True
 https://gitlab-research.centralesupelec.fr/myapps-templates/node,False
 https://gitlab.adullact.net/Comptoir/Comptoir-srv,True
 https://gitlab.adullact.net/Comptoir/puppet-comptoir,True
@@ -6857,6 +6859,7 @@ https://gitlab.com/DREES_code/public/etudes/er1094,True
 https://gitlab.com/DREES_code/public/etudes/er1143,True
 https://gitlab.com/DREES_code/public/etudes/er1179,True
 https://gitlab.com/DREES_code/public/etudes/er1191,True
+https://gitlab.com/DREES_code/public/etudes/er1212,False
 https://gitlab.com/DREES_code/public/etudes/er745,True
 https://gitlab.com/DREES_code/public/etudes/er838,True
 https://gitlab.com/DREES_code/public/etudes/openghm,True
@@ -9279,7 +9282,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/MSPL/mspl-2018-2019,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/MSPL/mspl-2019-2020,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/NSBAS/fftw,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/NSBAS/wiki_roipac,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/DC/emaa/EMAA,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/DC/emaa/EMAA,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/DC/osug-doi,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/DC/shiny-base,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/DC/shiny.osug.fr,True
@@ -9646,6 +9649,9 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/pedagogies-multimodales/wikicolor,T
 https://gricad-gitlab.univ-grenoble-alpes.fr/pedagogies-multimodales/wikiphon,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/phd-xavier/pre_analyses_ecrins,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/phelma/a-propos,True
+https://gricad-gitlab.univ-grenoble-alpes.fr/phelma/be-1a/fiche-de-mesure-latex,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/phelma/be-1a/phelma-kicad,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/phelma/be-1a/template-kicad-be-1a-phelma-s1,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/phelma/fablab/marlin_blackprusa,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/phitem/design-linux-uga,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/phitem/environnement-bureau-gnome,True
