@@ -3342,7 +3342,7 @@ https://github.com/ansforge/ModelisationFHIRdesacteursdesante,True
 https://github.com/ansforge/Modelisationdesstructuresetdesprofessionnels,False
 https://github.com/ansforge/asip-sign-V2,True
 https://github.com/ansforge/esignsante,True
-https://github.com/ansforge/esignsante-psc,False
+https://github.com/ansforge/esignsante-psc,True
 https://github.com/ansforge/esignsante-ws,False
 https://github.com/ansforge/politique-de-contribution-open-source,True
 https://github.com/aphp/Cohort360,True
@@ -3776,7 +3776,7 @@ https://github.com/betagouv/pc-maintenance,True
 https://github.com/betagouv/pc-monitoring,True
 https://github.com/betagouv/peps,True
 https://github.com/betagouv/peps-app,True
-https://github.com/betagouv/pg-backup-buildpack,False
+https://github.com/betagouv/pg-backup-buildpack,True
 https://github.com/betagouv/pia-back,True
 https://github.com/betagouv/pia-docker,True
 https://github.com/betagouv/pia-paas,True
@@ -9133,7 +9133,7 @@ https://gitlab.metromobilite.fr/m/affluence/affluence-serv,True
 https://gitlab.metromobilite.fr/m/m-pwa-light,True
 https://gitlab.metromobilite.fr/m/public/m-features,True
 https://gitlab.metromobilite.fr/m/public/m-map,True
-https://gitlab.metromobilite.fr/m/public/m-smartwatch/metro-watch,False
+https://gitlab.metromobilite.fr/m/public/m-smartwatch/metro-watch,True
 https://gitlab.metromobilite.fr/m/public/m-theme,True
 https://gitlab.metromobilite.fr/m/public/metro-flutter,True
 https://gitlab.orfeo-toolbox.org/maja/maja,True
@@ -9878,7 +9878,7 @@ https://plmlab.math.cnrs.fr/infomath/hugo-docker,True
 https://plmlab.math.cnrs.fr/infomath/latex,True
 https://plmlab.math.cnrs.fr/ipanema/propellor,True
 https://plmlab.math.cnrs.fr/journees-mathrice-2021-10-graphviz/datacenter-elec,True
-https://plmlab.math.cnrs.fr/journees-mathrice-2021-10-graphviz/dessin-anime,False
+https://plmlab.math.cnrs.fr/journees-mathrice-2021-10-graphviz/dessin-anime,True
 https://plmlab.math.cnrs.fr/journees-mathrice-2021-10-graphviz/flux-dns,True
 https://plmlab.math.cnrs.fr/journees-mathrice-2021-10-graphviz/gv-demo,True
 https://plmlab.math.cnrs.fr/journees-mathrice-2021-10-graphviz/interco-reseau,False
