@@ -176,7 +176,7 @@ https://forge.univ-lyon1.fr/faq-raspi/rpi-faq,True
 https://forge.univ-lyon1.fr/forge_public/ci-images,True
 https://forge.univ-lyon1.fr/forge_public/forge,True
 https://forge.univ-lyon1.fr/groupe-projet-lifap4/projet-lifap4,True
-https://forge.univ-lyon1.fr/id3d/CTC,False
+https://forge.univ-lyon1.fr/id3d/CTC,True
 https://forge.univ-lyon1.fr/id3d/GAM,False
 https://forge.univ-lyon1.fr/inf2026l-lifap5/lifap5-backend-2021p,True
 https://forge.univ-lyon1.fr/info-7/Projet-Peip2,True
@@ -1162,6 +1162,9 @@ https://github.com/AccessiDys/06AdaptSup,True
 https://github.com/AccessiDys/AccessiDys,True
 https://github.com/AccessiDys/AccessiDys.github.io,True
 https://github.com/AccessiDys/prototype-decoupage,True
+https://github.com/AgenceBio/cartobio-api,False
+https://github.com/AgenceBio/cartobio-front,False
+https://github.com/AgenceBio/cartobio-rpg,False
 https://github.com/AlsaceDigitale/2012.edgefest.fr,True
 https://github.com/AlsaceDigitale/2013.edgefest.fr,True
 https://github.com/AlsaceDigitale/2014.edgefest.fr,True
@@ -1439,6 +1442,7 @@ https://github.com/CatalaLang/catala,True
 https://github.com/CatalaLang/catala-website,True
 https://github.com/Cour-de-cassation/api.gouv.fr,True
 https://github.com/Cour-de-cassation/judifiltre,False
+https://github.com/Cour-de-cassation/judifiltre-core,True
 https://github.com/Cour-de-cassation/judilibre-infra,True
 https://github.com/Cour-de-cassation/judilibre-monitor,True
 https://github.com/Cour-de-cassation/judilibre-search,True
@@ -2946,6 +2950,7 @@ https://github.com/SocialGouv/emjpm-editor-app,True
 https://github.com/SocialGouv/emjpm-migration-k8s,True
 https://github.com/SocialGouv/emjpm-portail,True
 https://github.com/SocialGouv/emjpm-ui,True
+https://github.com/SocialGouv/enfants-du-spectacle,False
 https://github.com/SocialGouv/eslint-plugin-autoimport,True
 https://github.com/SocialGouv/faq-code-du-travail,True
 https://github.com/SocialGouv/fce,True
@@ -3636,7 +3641,7 @@ https://github.com/betagouv/i18nliner-js,True
 https://github.com/betagouv/ilos,True
 https://github.com/betagouv/immersion,True
 https://github.com/betagouv/impact-tests,True
-https://github.com/betagouv/inca-app,False
+https://github.com/betagouv/inca-app,True
 https://github.com/betagouv/inca-proxy,True
 https://github.com/betagouv/inca-survey,True
 https://github.com/betagouv/indice_pollution,True
@@ -4216,6 +4221,7 @@ https://github.com/dataesr/slack-notifier-action,True
 https://github.com/datagir/Ecolab,True
 https://github.com/datagir/agribalyse,True
 https://github.com/datagir/bilansclimatsimplifies,True
+https://github.com/datagir/bilansclimatsimplifies-backend,True
 https://github.com/datagir/datagir-site,True
 https://github.com/datagir/ecolab-agribalyse-recherche,True
 https://github.com/datagir/ecolab-alimentation,True
@@ -6723,7 +6729,7 @@ https://gitlab-research.centralesupelec.fr/RiseClipseGroup/riseclipse-main,True
 https://gitlab-research.centralesupelec.fr/RiseClipseGroup/riseclipse-metamodel-cgmes-2-4-15,False
 https://gitlab-research.centralesupelec.fr/RiseClipseGroup/riseclipse-metamodel-cim,False
 https://gitlab-research.centralesupelec.fr/RiseClipseGroup/riseclipse-metamodel-cim16,False
-https://gitlab-research.centralesupelec.fr/RiseClipseGroup/riseclipse-metamodel-cim17,False
+https://gitlab-research.centralesupelec.fr/RiseClipseGroup/riseclipse-metamodel-cim17,True
 https://gitlab-research.centralesupelec.fr/RiseClipseGroup/riseclipse-metamodel-iec61970cim16v33,False
 https://gitlab-research.centralesupelec.fr/RiseClipseGroup/riseclipse-metamodel-iec61970cim17-iec61968cim13,False
 https://gitlab-research.centralesupelec.fr/RiseClipseGroup/riseclipse-metamodel-iec61970cim17v34,False
@@ -6745,8 +6751,8 @@ https://gitlab-research.centralesupelec.fr/cidre-public/systemes-exploitation/xv
 https://gitlab-research.centralesupelec.fr/cidre-public/test-virtualbox-installation,True
 https://gitlab-research.centralesupelec.fr/datasc_projects_public/bayescovid19,True
 https://gitlab-research.centralesupelec.fr/mesocentre-public/fusion_examples,True
-https://gitlab-research.centralesupelec.fr/mesocentre-public/ruche_examples,False
-https://gitlab-research.centralesupelec.fr/mics_biomathematics/bioinfo/VariantAnnotator,False
+https://gitlab-research.centralesupelec.fr/mesocentre-public/ruche_examples,True
+https://gitlab-research.centralesupelec.fr/mics_biomathematics/bioinfo/VariantAnnotator,True
 https://gitlab-research.centralesupelec.fr/mics_biomathematics/prettyplots/PrettyPy,True
 https://gitlab-research.centralesupelec.fr/mics_biomathematics/prettyplots/tableExtra,True
 https://gitlab-research.centralesupelec.fr/myapps-templates/django,False
@@ -6866,6 +6872,7 @@ https://gitlab.com/DREES_code/public/etudes/openghm,True
 https://gitlab.com/DREES_code/public/indicateurs_de_sante,True
 https://gitlab.com/DREES_code/public/indicateurs_qualite_snds,True
 https://gitlab.com/DREES_code/public/openghm,True
+https://gitlab.com/DREES_code/public/outils/restes-a-charge-snds,True
 https://gitlab.com/DREES_code/public/tutoriels,True
 https://gitlab.com/DREES_code/public/validation_datapackage,True
 https://gitlab.com/api-meubles/backend,True
@@ -8314,6 +8321,7 @@ https://gitlab.inria.fr/hussein/multiagent_gnn_policies,True
 https://gitlab.inria.fr/hwloc/xmls,True
 https://gitlab.inria.fr/i3inria/raspi-k8s,True
 https://gitlab.inria.fr/iccv_2019/pyvideoresearch_gunnar,True
+https://gitlab.inria.fr/icpp22/icpp22.gitlabpages.inria.fr,True
 https://gitlab.inria.fr/igloo/igloo,True
 https://gitlab.inria.fr/igrida/gvirt,True
 https://gitlab.inria.fr/igrida/gvirt-factory,True
@@ -9490,6 +9498,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/college-EDTUE-doctorants/PhD_FAQ,Tr
 https://gricad-gitlab.univ-grenoble-alpes.fr/continuous-everything/ci,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/coriofoam/coriofoam,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/deformvis/insarviz,True
+https://gricad-gitlab.univ-grenoble-alpes.fr/design_optimization/NoLoad_v2,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/design_optimization/noload,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/design_optimization/noload_benchmarks_open,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/districtmodeling/bayesian_archetypes,True
@@ -9862,6 +9871,7 @@ https://plmlab.math.cnrs.fr/illustrating-math/im-website-custom,True
 https://plmlab.math.cnrs.fr/illustrating-math/sphere_morph,True
 https://plmlab.math.cnrs.fr/illustrating-math/website,False
 https://plmlab.math.cnrs.fr/illustrating-math/wordpress,False
+https://plmlab.math.cnrs.fr/imag-staff/miash2-adv-prog-parallel-comp,True
 https://plmlab.math.cnrs.fr/imb-dijon/faq,True
 https://plmlab.math.cnrs.fr/imb-dijon/flpro,True
 https://plmlab.math.cnrs.fr/imb-dijon/infocom,True
@@ -9887,7 +9897,7 @@ https://plmlab.math.cnrs.fr/journees-mathrice-2021-10-graphviz/datacenter-elec,T
 https://plmlab.math.cnrs.fr/journees-mathrice-2021-10-graphviz/dessin-anime,True
 https://plmlab.math.cnrs.fr/journees-mathrice-2021-10-graphviz/flux-dns,True
 https://plmlab.math.cnrs.fr/journees-mathrice-2021-10-graphviz/gv-demo,True
-https://plmlab.math.cnrs.fr/journees-mathrice-2021-10-graphviz/interco-reseau,False
+https://plmlab.math.cnrs.fr/journees-mathrice-2021-10-graphviz/interco-reseau,True
 https://plmlab.math.cnrs.fr/journees-mathrice-2021-10-graphviz/makefile,True
 https://plmlab.math.cnrs.fr/jupytercloud/authenticator-proxy,True
 https://plmlab.math.cnrs.fr/jupytercloud/httpd-shibboleth-sp,True
@@ -10075,6 +10085,7 @@ https://plmlab.math.cnrs.fr/terraform/modules/network,True
 https://plmlab.math.cnrs.fr/terraform/modules/volume,True
 https://plmlab.math.cnrs.fr/terraform/okd-upi,True
 https://plmlab.math.cnrs.fr/texlive/2017,True
+https://plmlab.math.cnrs.fr/umr9008/public/rencontre_combinatoire_reims,True
 https://plmlab.math.cnrs.fr/umr9008/public/seminaire-jeune-chercheur-ui,True
 https://plmlab.math.cnrs.fr/webconf/greenlight-plm,True
 https://plmlab.math.cnrs.fr/webconf/webconf.pages.math.cnrs.fr,True
