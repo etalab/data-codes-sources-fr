@@ -38,7 +38,7 @@ https://dev.ch-poitiers.fr/debian/buster-sources,True
 https://dev.ch-poitiers.fr/elk/debian-buster,True
 https://dev.ch-poitiers.fr/elk/stormshield,True
 https://dev.ch-poitiers.fr/firefox/policy-templates,True
-https://dev.ch-poitiers.fr/java/ip2network,False
+https://dev.ch-poitiers.fr/java/ip2network,True
 https://dev.ch-poitiers.fr/mssante/mssante-api,True
 https://dev.ch-poitiers.fr/mssante/mssante-beans-alimentation-annuaire,True
 https://dev.ch-poitiers.fr/mssante/mssante-beans-bal,True
@@ -627,7 +627,7 @@ https://forgemia.inra.fr/umr-astre/mapMCDA,True
 https://forgemia.inra.fr/umr-astre/nimbletempdev,True
 https://forgemia.inra.fr/umr-astre/ppp-oie,True
 https://forgemia.inra.fr/umr-astre/rvf_mrt,True
-https://forgemia.inra.fr/umr-astre/sit,False
+https://forgemia.inra.fr/umr-astre/sit,True
 https://forgemia.inra.fr/umr-astre/sit-design,True
 https://forgemia.inra.fr/umr-astre/spreadrate,True
 https://forgemia.inra.fr/umr-astre/stage_mlegray,True
@@ -4544,7 +4544,7 @@ https://github.com/eole/jquery-bootgrid,False
 https://github.com/eole/libvirt-formula,True
 https://github.com/eole/mastodon,True
 https://github.com/eole/meteor-accounts-keycloak,False
-https://github.com/eole/meteor-keycloak-oauth,False
+https://github.com/eole/meteor-keycloak-oauth,True
 https://github.com/eole/one,True
 https://github.com/eole/opnsense-bsdinstaller,True
 https://github.com/eole/opnsense-changelog,True
@@ -6724,7 +6724,7 @@ https://gitlab-research.centralesupelec.fr/3if4030/c_rpc_random,True
 https://gitlab-research.centralesupelec.fr/3if4030/cpp_grpc_random,True
 https://gitlab-research.centralesupelec.fr/3if4030/java_corba_random,True
 https://gitlab-research.centralesupelec.fr/3if4030/java_jms_random,True
-https://gitlab-research.centralesupelec.fr/3if4030/java_rest_random,False
+https://gitlab-research.centralesupelec.fr/3if4030/java_rest_random,True
 https://gitlab-research.centralesupelec.fr/3if4030/java_rmi_random,False
 https://gitlab-research.centralesupelec.fr/3if4030/java_soap_random,True
 https://gitlab-research.centralesupelec.fr/3if4030/python_xmlrpc_random,True
@@ -6754,7 +6754,7 @@ https://gitlab-research.centralesupelec.fr/cidre-public/npr/deploy,True
 https://gitlab-research.centralesupelec.fr/cidre-public/npr/webserver,True
 https://gitlab-research.centralesupelec.fr/cidre-public/reseausecu/netbook-maintenance,False
 https://gitlab-research.centralesupelec.fr/cidre-public/seculog,True
-https://gitlab-research.centralesupelec.fr/cidre-public/systemes-exploitation/xv6-riscv-tp,False
+https://gitlab-research.centralesupelec.fr/cidre-public/systemes-exploitation/xv6-riscv-tp,True
 https://gitlab-research.centralesupelec.fr/cidre-public/test-virtualbox-installation,True
 https://gitlab-research.centralesupelec.fr/datasc_projects_public/bayescovid19,True
 https://gitlab-research.centralesupelec.fr/mesocentre-public/fusion_examples,True
@@ -7855,7 +7855,7 @@ https://gitlab.inria.fr/crv14/evaluation,True
 https://gitlab.inria.fr/ct/gallery,True
 https://gitlab.inria.fr/ct/gallery-env,True
 https://gitlab.inria.fr/ct/hampath/code,True
-https://gitlab.inria.fr/ct/hampath/environment,False
+https://gitlab.inria.fr/ct/hampath/environment,True
 https://gitlab.inria.fr/ct/hampath/gallery,False
 https://gitlab.inria.fr/dalu/decawave-drivers,True
 https://gitlab.inria.fr/dalu/spank,True
@@ -8853,11 +8853,13 @@ https://gitlab.inria.fr/solverstack/test_fembem,True
 https://gitlab.inria.fr/solverstack/vite,True
 https://gitlab.inria.fr/source_code/aes-cryptanalysis-cp-xor-2019,True
 https://gitlab.inria.fr/source_code/ai_paper_code,True
+https://gitlab.inria.fr/spicy/pow,False
 https://gitlab.inria.fr/spicy/pow-api,False
 https://gitlab.inria.fr/spine/spine_model,True
 https://gitlab.inria.fr/spine/vertebrae_segmentation,True
 https://gitlab.inria.fr/spinfer/spinfer,True
 https://gitlab.inria.fr/spinfer/spinfer_evaluation,True
+https://gitlab.inria.fr/spring/wp1_user_application/data-collection,False
 https://gitlab.inria.fr/stage-env/support,True
 https://gitlab.inria.fr/star-explain/fjs_of_fml,True
 https://gitlab.inria.fr/star-explain/jsexplain,True
@@ -9678,6 +9680,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/phitem/environnement-bureau-gnome,T
 https://gricad-gitlab.univ-grenoble-alpes.fr/phitem/installation-environnement-bureau-gnome-avec-ansible,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/phitem/phitem-linux-logiciels,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/phitem/phitem-linux-vm,True
+https://gricad-gitlab.univ-grenoble-alpes.fr/phyrev/test1,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/pmall/apli_pmall,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/pmall/app_op,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/pmall/bdd_aerosols,True
@@ -9887,6 +9890,7 @@ https://plmlab.math.cnrs.fr/imb-dijon/faq,True
 https://plmlab.math.cnrs.fr/imb-dijon/flpro,True
 https://plmlab.math.cnrs.fr/imb-dijon/infocom,True
 https://plmlab.math.cnrs.fr/imb-public/anr-template,True
+https://plmlab.math.cnrs.fr/imj2021/webimj21,False
 https://plmlab.math.cnrs.fr/imt/acces_backup,True
 https://plmlab.math.cnrs.fr/imt/ansible_deploy_nfs,True
 https://plmlab.math.cnrs.fr/imt/borgbox,True
@@ -10045,6 +10049,8 @@ https://plmlab.math.cnrs.fr/presimj/preshtml,True
 https://plmlab.math.cnrs.fr/rancher/os-alpineconsole,True
 https://plmlab.math.cnrs.fr/rancher/os-hashistackconsole,True
 https://plmlab.math.cnrs.fr/razvanbarbulescu/razvanbarbulescu.pages.math.cnrs.fr,True
+https://plmlab.math.cnrs.fr/resinfo-cargo/cargoday/cargoday-12,False
+https://plmlab.math.cnrs.fr/resinfo-cargo/cargoday/cargoday-9,False
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/ada-devops-tbx,True
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/ada-tp-packer,True
 https://plmlab.math.cnrs.fr/resinfo/ANF/2019/ADA/build-container,True
