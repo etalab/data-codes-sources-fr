@@ -12,6 +12,8 @@ https://dci-gitlab.cines.fr/dad/federated-fair-data-space-documentation,True
 https://dci-gitlab.cines.fr/dad/ffds-register-api,True
 https://dci-gitlab.cines.fr/dad/ffds-register-front,True
 https://dci-gitlab.cines.fr/dad/ffds-smart-harvester,True
+https://dci-gitlab.cines.fr/dad/materials-browser-api,False
+https://dci-gitlab.cines.fr/dad/materials-browser-front,False
 https://dci-gitlab.cines.fr/dad/openrefine-metadata,True
 https://dci-gitlab.cines.fr/dad/pastis-dad-externe,True
 https://dci-gitlab.cines.fr/dad/pastis-extern,True
@@ -36,6 +38,7 @@ https://dev.ch-poitiers.fr/debian/buster-sources,True
 https://dev.ch-poitiers.fr/elk/debian-buster,True
 https://dev.ch-poitiers.fr/elk/stormshield,True
 https://dev.ch-poitiers.fr/firefox/policy-templates,True
+https://dev.ch-poitiers.fr/java/ip2network,False
 https://dev.ch-poitiers.fr/mssante/mssante-api,True
 https://dev.ch-poitiers.fr/mssante/mssante-beans-alimentation-annuaire,True
 https://dev.ch-poitiers.fr/mssante/mssante-beans-bal,True
@@ -468,6 +471,7 @@ https://forgemia.inra.fr/gryc-data/zygosaccharomyces_rouxii-cbs_732,True
 https://forgemia.inra.fr/hackathon-portail-calcul/criteres,True
 https://forgemia.inra.fr/hackathon-portail-calcul/existant,True
 https://forgemia.inra.fr/hackathon-portail-calcul/hackathon_organisation,True
+https://forgemia.inra.fr/ices_imes_analysis/icescreen,False
 https://forgemia.inra.fr/ices_imes_analysis/icescreen_pub,False
 https://forgemia.inra.fr/ices_imes_analysis/icescreen_public_release,True
 https://forgemia.inra.fr/in-sylva-development/in-sylva.gatekeeper,True
@@ -596,6 +600,7 @@ https://forgemia.inra.fr/stacomi/stacomirtools,True
 https://forgemia.inra.fr/stacomi/stacoshiny,True
 https://forgemia.inra.fr/sunflo/envirotyping_sunrise,True
 https://forgemia.inra.fr/sunrise/15ex05_data_correction,True
+https://forgemia.inra.fr/sunrise/inference_methods,False
 https://forgemia.inra.fr/sunrise/inference_sunrise,True
 https://forgemia.inra.fr/sunrise/network-inference,True
 https://forgemia.inra.fr/svdetection/cnvpipelines,True
@@ -622,6 +627,7 @@ https://forgemia.inra.fr/umr-astre/mapMCDA,True
 https://forgemia.inra.fr/umr-astre/nimbletempdev,True
 https://forgemia.inra.fr/umr-astre/ppp-oie,True
 https://forgemia.inra.fr/umr-astre/rvf_mrt,True
+https://forgemia.inra.fr/umr-astre/sit,False
 https://forgemia.inra.fr/umr-astre/sit-design,True
 https://forgemia.inra.fr/umr-astre/spreadrate,True
 https://forgemia.inra.fr/umr-astre/stage_mlegray,True
@@ -2289,7 +2295,7 @@ https://github.com/InseeFr/VTL-Tools,True
 https://github.com/InseeFr/Wilco,True
 https://github.com/InseeFr/diffman,True
 https://github.com/InseeFr/disaggR,True
-https://github.com/InseeFr/sugoi-api,False
+https://github.com/InseeFr/sugoi-api,True
 https://github.com/InseeFr/sugoi-ui,False
 https://github.com/InseeFrLab/AdventOfCodeLeaderboard,True
 https://github.com/InseeFrLab/BootcampJS-API,True
@@ -4379,6 +4385,7 @@ https://github.com/diverse-project/varylatex,True
 https://github.com/diverse-project/website,True
 https://github.com/diverse-project/xcore-light,True
 https://github.com/diverse-project/yajta-mirror,True
+https://github.com/dnum-mi/carto-rna,False
 https://github.com/dnum-mi/cartographie-donnees,True
 https://github.com/dsi-ehess/VIVO,True
 https://github.com/dsi-ehess/VIVO-EHESS,True
@@ -6728,7 +6735,7 @@ https://gitlab-research.centralesupelec.fr/RiseClipseGroup/riseclipse-experiment
 https://gitlab-research.centralesupelec.fr/RiseClipseGroup/riseclipse-main,True
 https://gitlab-research.centralesupelec.fr/RiseClipseGroup/riseclipse-metamodel-cgmes-2-4-15,False
 https://gitlab-research.centralesupelec.fr/RiseClipseGroup/riseclipse-metamodel-cim,False
-https://gitlab-research.centralesupelec.fr/RiseClipseGroup/riseclipse-metamodel-cim16,False
+https://gitlab-research.centralesupelec.fr/RiseClipseGroup/riseclipse-metamodel-cim16,True
 https://gitlab-research.centralesupelec.fr/RiseClipseGroup/riseclipse-metamodel-cim17,True
 https://gitlab-research.centralesupelec.fr/RiseClipseGroup/riseclipse-metamodel-iec61970cim16v33,False
 https://gitlab-research.centralesupelec.fr/RiseClipseGroup/riseclipse-metamodel-iec61970cim17-iec61968cim13,False
@@ -6798,6 +6805,8 @@ https://gitlab.adullact.net/departements-notaires/departements-notaires,True
 https://gitlab.adullact.net/departements-notaires/departements-notaires-v2,True
 https://gitlab.adullact.net/departements-notaires/vagrant-departements-notaires,True
 https://gitlab.adullact.net/dgfip/calculette-impot-societes,True
+https://gitlab.adullact.net/dgfip/dtnum/tf,False
+https://gitlab.adullact.net/dgfip/dtnum/th,False
 https://gitlab.adullact.net/dgfip/ir-calcul,True
 https://gitlab.adullact.net/directmairie/directmairie,True
 https://gitlab.adullact.net/directmairie/puppet-directmairie,True
@@ -8844,6 +8853,7 @@ https://gitlab.inria.fr/solverstack/test_fembem,True
 https://gitlab.inria.fr/solverstack/vite,True
 https://gitlab.inria.fr/source_code/aes-cryptanalysis-cp-xor-2019,True
 https://gitlab.inria.fr/source_code/ai_paper_code,True
+https://gitlab.inria.fr/spicy/pow-api,False
 https://gitlab.inria.fr/spine/spine_model,True
 https://gitlab.inria.fr/spine/vertebrae_segmentation,True
 https://gitlab.inria.fr/spinfer/spinfer,True
@@ -8905,6 +8915,7 @@ https://gitlab.inria.fr/these-bxi/s4bxi-config-generator,True
 https://gitlab.inria.fr/these-bxi/s4bxi-log-viewer,True
 https://gitlab.inria.fr/these-bxi/s4bxi-platforms,True
 https://gitlab.inria.fr/these-bxi/s4bxi-runner,False
+https://gitlab.inria.fr/these-bxi/s4bxi-vagrant,False
 https://gitlab.inria.fr/thoth/python-spams,True
 https://gitlab.inria.fr/thoth/spams-devel,True
 https://gitlab.inria.fr/tnfs-alpha/alpha,True
@@ -9702,7 +9713,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/systeme/nachos,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/systeme/tp-mem-alloc,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/systemes/asynchronisme_algorithmique_et_programmation,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/tal_for_distant_languages/wiki,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/talalao2021/un-autre-projet,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/talalao2021/un-autre-projet,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/talks/deeplearning,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/talks/fidle,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/terra-forma/public,True
@@ -10030,6 +10041,7 @@ https://plmlab.math.cnrs.fr/plmteam/stream-hls-infra,True
 https://plmlab.math.cnrs.fr/plmteam/streaming,True
 https://plmlab.math.cnrs.fr/portail-maths/agenda-emath,True
 https://plmlab.math.cnrs.fr/portail-maths/ticket-ezproxy,True
+https://plmlab.math.cnrs.fr/presimj/preshtml,True
 https://plmlab.math.cnrs.fr/rancher/os-alpineconsole,True
 https://plmlab.math.cnrs.fr/rancher/os-hashistackconsole,True
 https://plmlab.math.cnrs.fr/razvanbarbulescu/razvanbarbulescu.pages.math.cnrs.fr,True
