@@ -12,7 +12,7 @@ https://dci-gitlab.cines.fr/dad/federated-fair-data-space-documentation,True
 https://dci-gitlab.cines.fr/dad/ffds-register-api,True
 https://dci-gitlab.cines.fr/dad/ffds-register-front,True
 https://dci-gitlab.cines.fr/dad/ffds-smart-harvester,True
-https://dci-gitlab.cines.fr/dad/materials-browser-api,False
+https://dci-gitlab.cines.fr/dad/materials-browser-api,True
 https://dci-gitlab.cines.fr/dad/materials-browser-front,False
 https://dci-gitlab.cines.fr/dad/openrefine-metadata,True
 https://dci-gitlab.cines.fr/dad/pastis-dad-externe,True
@@ -311,7 +311,7 @@ https://forgemia.inra.fr/dipso/thesaurus-inrae,True
 https://forgemia.inra.fr/enseignement-mistea/reports-with-markdown,True
 https://forgemia.inra.fr/epgv/amaizing-tgbs,True
 https://forgemia.inra.fr/epgv/nlgenomesweeper,True
-https://forgemia.inra.fr/epgv/sv-arabido,False
+https://forgemia.inra.fr/epgv/sv-arabido,True
 https://forgemia.inra.fr/eq-record/record-team,True
 https://forgemia.inra.fr/exploratory-penalized-regression/paper-script-and-data,True
 https://forgemia.inra.fr/fact/fact,True
@@ -1168,7 +1168,7 @@ https://github.com/AccessiDys/06AdaptSup,True
 https://github.com/AccessiDys/AccessiDys,True
 https://github.com/AccessiDys/AccessiDys.github.io,True
 https://github.com/AccessiDys/prototype-decoupage,True
-https://github.com/AgenceBio/cartobio-api,False
+https://github.com/AgenceBio/cartobio-api,True
 https://github.com/AgenceBio/cartobio-front,False
 https://github.com/AgenceBio/cartobio-rpg,False
 https://github.com/AlsaceDigitale/2012.edgefest.fr,True
@@ -6734,11 +6734,11 @@ https://gitlab-research.centralesupelec.fr/RiseClipseGroup/riseclipse-editor,Fal
 https://gitlab-research.centralesupelec.fr/RiseClipseGroup/riseclipse-experimental,False
 https://gitlab-research.centralesupelec.fr/RiseClipseGroup/riseclipse-main,True
 https://gitlab-research.centralesupelec.fr/RiseClipseGroup/riseclipse-metamodel-cgmes-2-4-15,False
-https://gitlab-research.centralesupelec.fr/RiseClipseGroup/riseclipse-metamodel-cim,False
+https://gitlab-research.centralesupelec.fr/RiseClipseGroup/riseclipse-metamodel-cim,True
 https://gitlab-research.centralesupelec.fr/RiseClipseGroup/riseclipse-metamodel-cim16,True
 https://gitlab-research.centralesupelec.fr/RiseClipseGroup/riseclipse-metamodel-cim17,True
 https://gitlab-research.centralesupelec.fr/RiseClipseGroup/riseclipse-metamodel-iec61970cim16v33,False
-https://gitlab-research.centralesupelec.fr/RiseClipseGroup/riseclipse-metamodel-iec61970cim17-iec61968cim13,False
+https://gitlab-research.centralesupelec.fr/RiseClipseGroup/riseclipse-metamodel-iec61970cim17-iec61968cim13,True
 https://gitlab-research.centralesupelec.fr/RiseClipseGroup/riseclipse-metamodel-iec61970cim17v34,True
 https://gitlab-research.centralesupelec.fr/RiseClipseGroup/riseclipse-metamodel-nsd2016,True
 https://gitlab-research.centralesupelec.fr/RiseClipseGroup/riseclipse-metamodel-scl2003,True
@@ -7771,6 +7771,7 @@ https://gitlab.inria.fr/cidre-public/tata/tata-release,True
 https://gitlab.inria.fr/cigri-ctrl/big-data-hpc-g5k-expe-tools,True
 https://gitlab.inria.fr/cigri-ctrl/cigri-expe,True
 https://gitlab.inria.fr/cigri-ctrl/io-benchmarks,True
+https://gitlab.inria.fr/cigri-ctrl/model-free-control,False
 https://gitlab.inria.fr/cigri-ctrl/stage-agustin-yabo,True
 https://gitlab.inria.fr/citi-lab/bbb-powerprobe,True
 https://gitlab.inria.fr/citi-lab/dycton,True
@@ -8073,6 +8074,7 @@ https://gitlab.inria.fr/formations/integrationcontinue/TutorielGpuPlafrim,True
 https://gitlab.inria.fr/formations/integrationcontinue/gitlabciintroduction,True
 https://gitlab.inria.fr/formations/ocaml/introduction-au-langage-ocaml,True
 https://gitlab.inria.fr/foscadiff/demoRameau,True
+https://gitlab.inria.fr/fungraph/freestylegan,False
 https://gitlab.inria.fr/gagallium/gagallium,True
 https://gitlab.inria.fr/gagallium/gagallium-save,True
 https://gitlab.inria.fr/gagallium/gagallium-source,True
@@ -8862,7 +8864,7 @@ https://gitlab.inria.fr/spine/spine_model,True
 https://gitlab.inria.fr/spine/vertebrae_segmentation,True
 https://gitlab.inria.fr/spinfer/spinfer,True
 https://gitlab.inria.fr/spinfer/spinfer_evaluation,True
-https://gitlab.inria.fr/spring/wp1_user_application/data-collection,False
+https://gitlab.inria.fr/spring/wp1_user_application/data-collection,True
 https://gitlab.inria.fr/stage-env/support,True
 https://gitlab.inria.fr/star-explain/fjs_of_fml,True
 https://gitlab.inria.fr/star-explain/jsexplain,True
