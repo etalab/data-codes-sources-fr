@@ -1170,7 +1170,7 @@ https://github.com/AccessiDys/AccessiDys.github.io,True
 https://github.com/AccessiDys/prototype-decoupage,True
 https://github.com/AgenceBio/cartobio-api,True
 https://github.com/AgenceBio/cartobio-front,False
-https://github.com/AgenceBio/cartobio-rpg,False
+https://github.com/AgenceBio/cartobio-rpg,True
 https://github.com/AlsaceDigitale/2012.edgefest.fr,True
 https://github.com/AlsaceDigitale/2013.edgefest.fr,True
 https://github.com/AlsaceDigitale/2014.edgefest.fr,True
@@ -2141,7 +2141,7 @@ https://github.com/Inist-CNRS/ezmaster-libpostal,True
 https://github.com/Inist-CNRS/ezmaster-mongo,True
 https://github.com/Inist-CNRS/ezmaster-mysql,True
 https://github.com/Inist-CNRS/ezmaster-phpserver,True
-https://github.com/Inist-CNRS/ezmaster-proxy,False
+https://github.com/Inist-CNRS/ezmaster-proxy,True
 https://github.com/Inist-CNRS/ezmaster-skosmos,True
 https://github.com/Inist-CNRS/ezmaster-virtuoso,True
 https://github.com/Inist-CNRS/ezmaster-web-term,True
@@ -6725,7 +6725,7 @@ https://gitlab-research.centralesupelec.fr/3if4030/cpp_grpc_random,True
 https://gitlab-research.centralesupelec.fr/3if4030/java_corba_random,True
 https://gitlab-research.centralesupelec.fr/3if4030/java_jms_random,True
 https://gitlab-research.centralesupelec.fr/3if4030/java_rest_random,True
-https://gitlab-research.centralesupelec.fr/3if4030/java_rmi_random,False
+https://gitlab-research.centralesupelec.fr/3if4030/java_rmi_random,True
 https://gitlab-research.centralesupelec.fr/3if4030/java_soap_random,True
 https://gitlab-research.centralesupelec.fr/3if4030/python_xmlrpc_random,True
 https://gitlab-research.centralesupelec.fr/RiseClipseGroup/riseclipse-developer,True
@@ -6737,7 +6737,7 @@ https://gitlab-research.centralesupelec.fr/RiseClipseGroup/riseclipse-metamodel-
 https://gitlab-research.centralesupelec.fr/RiseClipseGroup/riseclipse-metamodel-cim,True
 https://gitlab-research.centralesupelec.fr/RiseClipseGroup/riseclipse-metamodel-cim16,True
 https://gitlab-research.centralesupelec.fr/RiseClipseGroup/riseclipse-metamodel-cim17,True
-https://gitlab-research.centralesupelec.fr/RiseClipseGroup/riseclipse-metamodel-iec61970cim16v33,False
+https://gitlab-research.centralesupelec.fr/RiseClipseGroup/riseclipse-metamodel-iec61970cim16v33,True
 https://gitlab-research.centralesupelec.fr/RiseClipseGroup/riseclipse-metamodel-iec61970cim17-iec61968cim13,True
 https://gitlab-research.centralesupelec.fr/RiseClipseGroup/riseclipse-metamodel-iec61970cim17v34,True
 https://gitlab-research.centralesupelec.fr/RiseClipseGroup/riseclipse-metamodel-nsd2016,True
@@ -7771,7 +7771,7 @@ https://gitlab.inria.fr/cidre-public/tata/tata-release,True
 https://gitlab.inria.fr/cigri-ctrl/big-data-hpc-g5k-expe-tools,True
 https://gitlab.inria.fr/cigri-ctrl/cigri-expe,True
 https://gitlab.inria.fr/cigri-ctrl/io-benchmarks,True
-https://gitlab.inria.fr/cigri-ctrl/model-free-control,False
+https://gitlab.inria.fr/cigri-ctrl/model-free-control,True
 https://gitlab.inria.fr/cigri-ctrl/stage-agustin-yabo,True
 https://gitlab.inria.fr/citi-lab/bbb-powerprobe,True
 https://gitlab.inria.fr/citi-lab/dycton,True
@@ -7858,7 +7858,7 @@ https://gitlab.inria.fr/ct/gallery,True
 https://gitlab.inria.fr/ct/gallery-env,True
 https://gitlab.inria.fr/ct/hampath/code,True
 https://gitlab.inria.fr/ct/hampath/environment,True
-https://gitlab.inria.fr/ct/hampath/gallery,False
+https://gitlab.inria.fr/ct/hampath/gallery,True
 https://gitlab.inria.fr/dalu/decawave-drivers,True
 https://gitlab.inria.fr/dalu/spank,True
 https://gitlab.inria.fr/dalu/spank-extio,True
@@ -8983,6 +8983,7 @@ https://gitlab.inria.fr/x-lab/x-quick,True
 https://gitlab.inria.fr/x-lab/x-stt,True
 https://gitlab.inria.fr/x-lab/x-tts,True
 https://gitlab.inria.fr/x-lab/x-vis,True
+https://gitlab.inria.fr/x-lab/x-vis-integration,False
 https://gitlab.inria.fr/x-lab/x-wng,True
 https://gitlab.inria.fr/xbie/dvae,True
 https://gitlab.inria.fr/xbie/dvae-speech,True
@@ -9687,7 +9688,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/phitem/environnement-bureau-gnome,T
 https://gricad-gitlab.univ-grenoble-alpes.fr/phitem/installation-environnement-bureau-gnome-avec-ansible,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/phitem/phitem-linux-logiciels,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/phitem/phitem-linux-vm,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/phyrev/test1,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/phyrev/test1,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/pmall/apli_pmall,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/pmall/app_op,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/pmall/bdd_aerosols,True
