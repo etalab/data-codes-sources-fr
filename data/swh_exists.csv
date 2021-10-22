@@ -180,7 +180,7 @@ https://forge.univ-lyon1.fr/forge_public/ci-images,True
 https://forge.univ-lyon1.fr/forge_public/forge,True
 https://forge.univ-lyon1.fr/groupe-projet-lifap4/projet-lifap4,True
 https://forge.univ-lyon1.fr/id3d/CTC,True
-https://forge.univ-lyon1.fr/id3d/GAM,False
+https://forge.univ-lyon1.fr/id3d/GAM,True
 https://forge.univ-lyon1.fr/inf2026l-lifap5/lifap5-backend-2021p,True
 https://forge.univ-lyon1.fr/info-7/Projet-Peip2,True
 https://forge.univ-lyon1.fr/info-7/tp-bdw1,True
@@ -8853,8 +8853,8 @@ https://gitlab.inria.fr/solverstack/test_fembem,True
 https://gitlab.inria.fr/solverstack/vite,True
 https://gitlab.inria.fr/source_code/aes-cryptanalysis-cp-xor-2019,True
 https://gitlab.inria.fr/source_code/ai_paper_code,True
-https://gitlab.inria.fr/spicy/pow,False
-https://gitlab.inria.fr/spicy/pow-api,False
+https://gitlab.inria.fr/spicy/pow,True
+https://gitlab.inria.fr/spicy/pow-api,True
 https://gitlab.inria.fr/spine/spine_model,True
 https://gitlab.inria.fr/spine/vertebrae_segmentation,True
 https://gitlab.inria.fr/spinfer/spinfer,True
