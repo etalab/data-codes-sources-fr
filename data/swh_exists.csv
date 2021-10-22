@@ -7165,6 +7165,7 @@ https://gitlab.huma-num.fr/eurhisfirm/test-import-bot,True
 https://gitlab.huma-num.fr/fp-lab/fplabsite,True
 https://gitlab.huma-num.fr/geographie-cites/autobiopedia,True
 https://gitlab.huma-num.fr/gt-notebook/site-hugo,True
+https://gitlab.huma-num.fr/gt-notebook/wiki,False
 https://gitlab.huma-num.fr/huma-num-public/documentation,True
 https://gitlab.huma-num.fr/huma-num-public/hn-site,True
 https://gitlab.huma-num.fr/huma-num-public/next-auth-nakala,True
@@ -8578,6 +8579,8 @@ https://gitlab.inria.fr/nix-tutorial/chord-tuto-nix-2019,True
 https://gitlab.inria.fr/nix-tutorial/nix-tutorial,True
 https://gitlab.inria.fr/nix-tutorial/packages-repository,True
 https://gitlab.inria.fr/nix-tutorial/presentation-slides,True
+https://gitlab.inria.fr/nixos-compose/ipanema-nixos-compose,False
+https://gitlab.inria.fr/nixos-compose/nixos-compose,False
 https://gitlab.inria.fr/obelix/broceliande,True
 https://gitlab.inria.fr/obelix/triskele,True
 https://gitlab.inria.fr/open-mx/open-mx,True
@@ -8902,6 +8905,7 @@ https://gitlab.inria.fr/syntheticgt/syntheticgt-utilities,True
 https://gitlab.inria.fr/tangram/3d-aware-ellipses-for-visual-localization,True
 https://gitlab.inria.fr/tangram/pyellcv,True
 https://gitlab.inria.fr/tansiv/python-tansiv,True
+https://gitlab.inria.fr/tansiv/tansiv,False
 https://gitlab.inria.fr/tansiv/tansiv-xps,True
 https://gitlab.inria.fr/tapenade/tapenade,True
 https://gitlab.inria.fr/tapenade/userdoc,True
@@ -9488,6 +9492,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/avatar/avatar-1st-year/student-proj
 https://gricad-gitlab.univ-grenoble-alpes.fr/avatar/avatar-site,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/batsim/batsim,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/biomove/fate,True
+https://gricad-gitlab.univ-grenoble-alpes.fr/caseine/code-quality-to-check-demo,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/caseine/dxf-filter,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/caseine/kekule.js,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/caseine/moodle-mod_vpl,True
@@ -10000,6 +10005,7 @@ https://plmlab.math.cnrs.fr/plmshift/odh-manifests-for-plm,True
 https://plmlab.math.cnrs.fr/plmshift/opendatahub/julia-jupyter-notebooks-with-cuda,True
 https://plmlab.math.cnrs.fr/plmshift/opendatahub/jupyter-notebooks,True
 https://plmlab.math.cnrs.fr/plmshift/opendatahub/manin-notebook,True
+https://plmlab.math.cnrs.fr/plmshift/opendatahub/notebook-vscode,False
 https://plmlab.math.cnrs.fr/plmshift/opendatahub/odh-manifests-for-plm,True
 https://plmlab.math.cnrs.fr/plmshift/opendatahub/s2i-base-container,True
 https://plmlab.math.cnrs.fr/plmshift/opendatahub/s2i-pytorch-notebook,True
