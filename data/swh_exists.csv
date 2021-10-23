@@ -3655,7 +3655,7 @@ https://github.com/betagouv/itou,True
 https://github.com/betagouv/itou-bitoubi,True
 https://github.com/betagouv/itou-c4-tracker,True
 https://github.com/betagouv/itou-cocorico,True
-https://github.com/betagouv/itou-communaute,False
+https://github.com/betagouv/itou-communaute,True
 https://github.com/betagouv/itou-consultation,True
 https://github.com/betagouv/itou-discourse,True
 https://github.com/betagouv/itou-entreprise,True
@@ -5970,7 +5970,7 @@ https://github.com/observatoire-territoires/KitsCarto-GdDebat,True
 https://github.com/observatoire-territoires/SOFIE,True
 https://github.com/observatoire-territoires/SOFIE-2.0,True
 https://github.com/observatoire-territoires/couvnum,True
-https://github.com/observatoire-territoires/diaCOG,False
+https://github.com/observatoire-territoires/diaCOG,True
 https://github.com/observatoire-territoires/migR,True
 https://github.com/observatoire-territoires/rapport-OT-mobilites,True
 https://github.com/observatoire-territoires/sageo2019,True
@@ -6733,7 +6733,7 @@ https://gitlab-research.centralesupelec.fr/RiseClipseGroup/riseclipse-distributi
 https://gitlab-research.centralesupelec.fr/RiseClipseGroup/riseclipse-editor,False
 https://gitlab-research.centralesupelec.fr/RiseClipseGroup/riseclipse-experimental,False
 https://gitlab-research.centralesupelec.fr/RiseClipseGroup/riseclipse-main,True
-https://gitlab-research.centralesupelec.fr/RiseClipseGroup/riseclipse-metamodel-cgmes-2-4-15,False
+https://gitlab-research.centralesupelec.fr/RiseClipseGroup/riseclipse-metamodel-cgmes-2-4-15,True
 https://gitlab-research.centralesupelec.fr/RiseClipseGroup/riseclipse-metamodel-cim,True
 https://gitlab-research.centralesupelec.fr/RiseClipseGroup/riseclipse-metamodel-cim16,True
 https://gitlab-research.centralesupelec.fr/RiseClipseGroup/riseclipse-metamodel-cim17,True
@@ -6744,7 +6744,7 @@ https://gitlab-research.centralesupelec.fr/RiseClipseGroup/riseclipse-metamodel-
 https://gitlab-research.centralesupelec.fr/RiseClipseGroup/riseclipse-metamodel-scl2003,True
 https://gitlab-research.centralesupelec.fr/RiseClipseGroup/riseclipse-ocl-constraints-scl2003,True
 https://gitlab-research.centralesupelec.fr/RiseClipseGroup/riseclipse-validator-cgmes-2-4-15,True
-https://gitlab-research.centralesupelec.fr/RiseClipseGroup/riseclipse-validator-ocl,False
+https://gitlab-research.centralesupelec.fr/RiseClipseGroup/riseclipse-validator-ocl,True
 https://gitlab-research.centralesupelec.fr/RiseClipseGroup/riseclipse-validator-scl2003,True
 https://gitlab-research.centralesupelec.fr/cidre-public/compilation/infosec-ecomp,True
 https://gitlab-research.centralesupelec.fr/cidre-public/compilation/supecomp,True
