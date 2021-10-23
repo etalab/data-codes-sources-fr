@@ -117,7 +117,7 @@ class GitLabOrg(object):
             "location": None,
             "email": None,
             "is_verified": None,
-            "repos_cnt": len(data_projects),
+            "repositories_count": len(data_projects),
             "creation_date": None,
             "platform": "GitLab",
         }
