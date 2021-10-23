@@ -2,9 +2,9 @@ import os
 import requests, json, time
 from collections import defaultdict
 
-from models import Package
+from models import Library
 
-def fetch_package(org):
+def fetch_library(org):
     api_key = os.getenv("LIBRARIESIO_API_KEY")
     base_url = "https://libraries.io/api/github/"+ org +"/projects?api_key=" + api_key
     response = requests.get(base_url)
@@ -29,7 +29,7 @@ def fetch_package(org):
         ("license_normalized", "license_normalized"),
         ("licenses", "licenses"),
         ("normalized_licenses", "normalized_licenses"),
-        ("package_manager_url", "package_manager_url"),
+        ("library_manager_url", "library_manager_url"),
         ("platform", "platform"),
         ("rank", "rank"),
         ("repository_url", "repository_url"),
@@ -45,7 +45,7 @@ def fetch_package(org):
                     current_dict[key] = str(pack[json_key])
                 except KeyError:
                     current_dict[key] = None
-            p = Package(**current_dict)
+            p = Library(**current_dict)
             for k, v in p.to_dict().items():
                 org_libraries[k].append(v)
     return org_libraries
@@ -58,7 +58,7 @@ def fetch_libraries(orgs):
     for k,v in enumerate(json_orgs["login"]):
         if json_orgs["plateforme"][k] == "GitHub":
             time.sleep(1)
-            libraries = fetch_package(v)
+            libraries = fetch_library(v)
             for key in libraries:
                 all_packs[key].extend(libraries[key])
     return all_packs
