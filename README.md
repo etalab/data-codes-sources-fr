@@ -5,7 +5,8 @@
 # But du dépôt
 
 Le but de ce dépôt est de :
-- collecter des métadonnées concernant les dépôts publiés par les comptes d'organisation d'organismes publics ;
+
+- collecter des métadonnées concernant les dépôts publiés par les comptes d'organisation d'organismes publics ;
 - donner de la visibilité à l'ensemble de ces comptes.
 
 Ne sont pour l'instant traités que les comptes présents sur GitHub et
