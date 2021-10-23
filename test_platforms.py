@@ -43,13 +43,13 @@ class TestPlatforms(unittest.TestCase):
 
         self.assertEquals(len(org), 1)
         self.assertIsInstance(org[0], GitHubOrg)
-        self.assertEquals(org[0].organisation, "etalab")
+        self.assertEquals(org[0].organization, "etalab")
         self.assertEquals(org[0].base_url, "https://api.github.com/")
 
         org = self.detector.to_orgs("https://framagit.org/etalab")
         self.assertEquals(len(org), 1)
         self.assertIsInstance(org[0], GitLabOrg)
-        self.assertEquals(org[0].organisation, "etalab")
+        self.assertEquals(org[0].organization, "etalab")
         self.assertEquals(org[0].base_url, "https://framagit.org/api/v4/")
 
     def test_is_bare_platform(self):
