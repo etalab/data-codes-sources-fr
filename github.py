@@ -60,7 +60,7 @@ class GitHubOrg(object):
             repo["repository_url"] = repository["html_url"]
             repo["description"] = repository["description"]
             repo["is_fork"] = repository["fork"]
-            repo["is_archive"] = repository["archived"]
+            repo["is_archived"] = repository["archived"]
             repo["creation_date"] = repository["created_at"]
             repo["last_update"] = repository["updated_at"]
             repo["last_modification"] = repository["pushed_at"]

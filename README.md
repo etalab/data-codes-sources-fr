@@ -35,7 +35,7 @@ Les données sont décrites à l'aide de fichiers [Table Schema](https://frictio
 |repository_url|chaîne de caractères (format `uri`)|L'URL vers le répertoire|https://github.com/etalab/nom-repertoire|Valeur obligatoire|
 |description|chaîne de caractères|La description du répertoire|Ce répertoire est utile|Valeur optionnelle|
 |is_fork|booléen|Indique si le répertoire est un fork|false|Valeur obligatoire|
-|is_archive|booléen|Indique si le répertoire est archivé, c'est-à-dire qu'il est en lecture seule|false|Valeur obligatoire|
+|is_archived|booléen|Indique si le répertoire est archivé, c'est-à-dire qu'il est en lecture seule|false|Valeur obligatoire|
 |creation_date|date et heure|La date de création du répertoire|2018-12-01T20:00:55Z|Valeur obligatoire|
 |last_update|date et heure|La date de dernière mise à jour du répertoire|2018-12-01T20:00:55Z|Valeur obligatoire|
 |homepage|chaîne de caractères|URL vers la page d'accueil du projet|https://etalab.gouv.fr|Valeur optionnelle|

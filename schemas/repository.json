@@ -65,7 +65,7 @@
          }
       },
       {
-         "name":"is_archive",
+         "name":"is_archived",
          "description":"Indique si le répertoire est archivé, c'est-à-dire qu'il est en lecture seule",
          "example": "false",
          "type":"boolean",
