@@ -2,18 +2,18 @@ from collections import defaultdict
 
 import requests
 
-from models import Organisation, Repository
+from models import Organization, Repository
 
 
 class GitLabOrg(object):
-    def __init__(self, organisation, swh_exists, base_url):
+    def __init__(self, organization, swh_exists, base_url):
         super(GitLabOrg, self).__init__()
-        self.organisation = organisation
+        self.organization = organization
         self.swh_exists = swh_exists
         self.base_url = base_url
 
     def __repr__(self):
-        return "GitLabOrg: " + self.organisation
+        return "GitLabOrg: " + self.organization
 
     def repos_for_org(self):
         def format_datetime(dt):
@@ -22,7 +22,7 @@ class GitLabOrg(object):
 
         data = []
 
-        url = f"{self.base_url}groups/{self.organisation}/projects?per_page=100&include_subgroups=true"
+        url = f"{self.base_url}groups/{self.organization}/projects?per_page=100&include_subgroups=true"
         response = requests.get(url)
         if response.status_code == 404:
             return {}
@@ -33,31 +33,31 @@ class GitLabOrg(object):
         for repository in data:
             repo = {}
 
-            repo["nom"] = repository["path"]
-            repo["organisation_nom"] = self.organisation
-            repo["plateforme"] = "GitLab"
-            repo["repertoire_url"] = repository["web_url"]
+            repo["name"] = repository["path"]
+            repo["organization_name"] = self.organization
+            repo["platform"] = "GitLab"
+            repo["repository_url"] = repository["web_url"]
             repo["description"] = repository["description"]
-            repo["est_fork"] = None
-            repo["est_archive"] = repository["archived"]
-            repo["date_creation"] = format_datetime(repository["created_at"])
-            repo["derniere_mise_a_jour"] = format_datetime(
+            repo["is_fork"] = None
+            repo["is_archived"] = repository["archived"]
+            repo["creation_date"] = format_datetime(repository["created_at"])
+            repo["last_update"] = format_datetime(
                 repository["last_activity_at"]
             )
             # derniere_modification really ought to be the equivalent of GitHub pushed_at but GitLab does not expose such information for now
-            repo["derniere_modification"] = format_datetime(
+            repo["last_modification"] = format_datetime(
                 repository["last_activity_at"]
             )
-            repo["page_accueil"] = None
-            repo["nombre_stars"] = repository["star_count"]
-            repo["nombre_forks"] = repository["forks_count"]
-            repo["licence"] = None
+            repo["homepage"] = None
+            repo["stars_count"] = repository["star_count"]
+            repo["forks_count"] = repository["forks_count"]
+            repo["license"] = None
             try:
-                repo["nombre_issues_ouvertes"] = repository["open_issues_count"]
+                repo["open_issues_count"] = repository["open_issues_count"]
             except KeyError:
                 # Is it appropriate? Issues can be disabled, always leading to 0 issues
-                repo["nombre_issues_ouvertes"] = 0
-            repo["langage"] = None
+                repo["open_issues_count"] = 0
+            repo["language"] = None
             repo["topics"] = ",".join(repository["tag_list"])
             repo.update(self.swh_attributes(repo))
 
@@ -67,7 +67,7 @@ class GitLabOrg(object):
         return repos
 
     def swh_attributes(self, repo):
-        swh_url = self.swh_exists.swh_url(repo["repertoire_url"])
+        swh_url = self.swh_exists.swh_url(repo["repository_url"])
         res = {}
 
         if not swh_url:
@@ -89,7 +89,7 @@ class GitLabOrg(object):
         return None
 
     def get_org(self):
-        url = self.base_url + "groups/" + self.organisation
+        url = self.base_url + "groups/" + self.organization
 
         response = requests.get(url)
         if response.status_code == 404:
@@ -98,7 +98,7 @@ class GitLabOrg(object):
 
         data = response.json()
 
-        url_projects = self.base_url + "groups/" + self.organisation + "/projects?include_subgroups=true"
+        url_projects = self.base_url + "groups/" + self.organization + "/projects?include_subgroups=true"
 
         response_projects = requests.get(url_projects)
         if response_projects.status_code == 404:
@@ -110,16 +110,16 @@ class GitLabOrg(object):
         res = {
             "login": data["path"],
             "description": data["description"],
-            "nom": data["name"],
-            "organisation_url": data["web_url"],
+            "name": data["name"],
+            "organization_url": data["web_url"],
             "avatar_url": self.avatar_url(data["avatar_url"]),
-            "site_web": None,
-            "adresse": None,
+            "website": None,
+            "location": None,
             "email": None,
-            "est_verifiee": None,
-            "nombre_repertoires": len(data_projects),
-            "date_creation": None,
-            "plateforme": "GitLab",
+            "is_verified": None,
+            "repos_cnt": len(data_projects),
+            "creation_date": None,
+            "platform": "GitLab",
         }
 
-        return Organisation(**res)
+        return Organization(**res)

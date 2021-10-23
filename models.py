@@ -12,41 +12,42 @@ class BaseModel(object):
 
 @dataclass(frozen=True)
 class Repository(BaseModel):
-    nom: str
-    organisation_nom: str
-    plateforme: str
-    repertoire_url: str
+    name: str
+    organization_nom: str
+    platform: str
+    repository_url: str
     description: str
-    est_fork: bool
-    est_archive: bool
-    date_creation: str
-    derniere_mise_a_jour: str
-    derniere_modification: str
-    page_accueil: str
-    nombre_stars: int
-    nombre_forks: int
-    licence: str
-    nombre_issues_ouvertes: int
-    langage: str
+    is_fork: bool
+    is_archived: bool
+    creation_date: str
+    last_update: str
+    last_modification: str
+    homepage: str
+    stars_count: int
+    forks_count: int
+    license: str
+    open_issues_count: int
+    language: str
     topics: str
     software_heritage_exists: bool
     software_heritage_url: str
 
 
 @dataclass(frozen=True)
-class Organisation(BaseModel):
+class Organization(BaseModel):
     login: str
     description: str
-    nom: str
-    organisation_url: str
+    name: str
+    organization_url: str
     avatar_url: str
-    site_web: str
-    adresse: str
+    website: str
+    location: str
     email: str
-    est_verifiee: bool
-    nombre_repertoires: int
-    date_creation: str
-    plateforme: str
+    is_verified: bool
+    repositories_count: int
+    creation_date: str
+    platform: str
+
 
 @dataclass(frozen=True)
 class Package(BaseModel):

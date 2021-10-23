@@ -2,18 +2,18 @@ import os
 import requests
 from collections import defaultdict
 
-from models import Organisation, Repository
+from models import Organization, Repository
 
 
 class GitHubOrg(object):
-    def __init__(self, organisation, swh_exists, base_url):
+    def __init__(self, organization, swh_exists, base_url):
         super(GitHubOrg, self).__init__()
-        self.organisation = organisation
+        self.organization = organization
         self.swh_exists = swh_exists
         self.base_url = base_url
 
     def __repr__(self):
-        return "GitHubOrg: " + self.organisation
+        return "GitHubOrg: " + self.organization
 
     def github_headers(self):
         return {
@@ -38,7 +38,7 @@ class GitHubOrg(object):
     def repos_for_org(self):
         data = []
 
-        base_url = self.url("orgs/" + self.organisation + "/repos?per_page=100")
+        base_url = self.url("orgs/" + self.organization + "/repos?per_page=100")
         response = requests.get(base_url, headers=self.github_headers())
         if response.status_code == 404:
             return {}
@@ -54,25 +54,25 @@ class GitHubOrg(object):
         for repository in data:
             repo = {}
 
-            repo["nom"] = repository["name"]
-            repo["organisation_nom"] = repository["owner"]["login"]
-            repo["plateforme"] = "GitHub"
-            repo["repertoire_url"] = repository["html_url"]
+            repo["name"] = repository["name"]
+            repo["organization_name"] = repository["owner"]["login"]
+            repo["platform"] = "GitHub"
+            repo["repository_url"] = repository["html_url"]
             repo["description"] = repository["description"]
-            repo["est_fork"] = repository["fork"]
-            repo["est_archive"] = repository["archived"]
-            repo["date_creation"] = repository["created_at"]
-            repo["derniere_mise_a_jour"] = repository["updated_at"]
-            repo["derniere_modification"] = repository["pushed_at"]
-            repo["page_accueil"] = repository["homepage"]
-            repo["nombre_stars"] = repository["stargazers_count"]
-            repo["nombre_forks"] = repository["forks_count"]
+            repo["is_fork"] = repository["fork"]
+            repo["is_archive"] = repository["archived"]
+            repo["creation_date"] = repository["created_at"]
+            repo["last_update"] = repository["updated_at"]
+            repo["last_modification"] = repository["pushed_at"]
+            repo["homepage"] = repository["homepage"]
+            repo["stars_count"] = repository["stargazers_count"]
+            repo["forks_count"] = repository["forks_count"]
             try:
-                repo["licence"] = self.clean_license(repository["license"]["name"])
+                repo["license"] = self.clean_license(repository["license"]["name"])
             except Exception:
-                repo["licence"] = None
-            repo["nombre_issues_ouvertes"] = repository["open_issues"]
-            repo["langage"] = repository["language"]
+                repo["license"] = None
+            repo["open_issues_count"] = repository["open_issues"]
+            repo["language"] = repository["language"]
             repo["topics"] = ",".join(repository["topics"])
             repo.update(self.swh_attributes(repo))
 
@@ -82,7 +82,7 @@ class GitHubOrg(object):
         return repos
 
     def swh_attributes(self, repo):
-        swh_url = self.swh_exists.swh_url(repo["repertoire_url"])
+        swh_url = self.swh_exists.swh_url(repo["repository_url"])
         res = {}
 
         if swh_url is False:
@@ -98,7 +98,7 @@ class GitHubOrg(object):
         return res
 
     def get_org(self):
-        base_url = self.url("orgs/" + self.organisation)
+        base_url = self.url("orgs/" + self.organization)
 
         response = requests.get(base_url, headers=self.github_headers())
         if response.status_code == 404:
@@ -110,15 +110,15 @@ class GitHubOrg(object):
         mapping = [
             ("login", "login"),
             ("description", "description"),
-            ("nom", "name"),
-            ("organisation_url", "html_url"),
+            ("name", "name"),
+            ("organization_url", "html_url"),
             ("avatar_url", "avatar_url"),
-            ("site_web", "blog"),
-            ("adresse", "location"),
+            ("website", "blog"),
+            ("location", "location"),
             ("email", "email"),
-            ("est_verifiee", "is_verified"),
-            ("nombre_repertoires", "public_repos"),
-            ("date_creation", "created_at"),
+            ("is_verified", "is_verified"),
+            ("repositories_count", "public_repos"),
+            ("creation_date", "created_at"),
         ]
         current_dict = {}
         for key, json_key in mapping:
@@ -126,12 +126,12 @@ class GitHubOrg(object):
                 current_dict[key] = self.clean_data(data[json_key], key)
             except KeyError:
                 current_dict[key] = None
-        current_dict["plateforme"] = "GitHub"
+        current_dict["platform"] = "GitHub"
 
-        return Organisation(**current_dict)
+        return Organization(**current_dict)
 
     def clean_data(self, value, key):
-        if key == "site_web":
+        if key == "website":
             if value and not value.startswith("http"):
                 return "http://" + value
         return value

@@ -2,20 +2,20 @@ import json
 
 import pandas as pd
 
-IN_FOLDER = "data/repertoires/csv/"
+IN_FOLDER = "data/repositories/csv/"
 OUT_FILEPATH = "data/stats.json"
 
 df = pd.read_csv(IN_FOLDER + "all.csv")
 
-nb_repos = len(df)
-nb_orgs = len(df.groupby("organisation_nom"))
-avg_nb_repos = df.groupby("organisation_nom").count()["nom"].agg("mean").round(2)
-median_nb_repos = df.groupby("organisation_nom").count()["nom"].agg("median").round(2)
+repos_cnt = len(df)
+orgs_cnt = len(df.groupby("organization_name"))
+avg_repos_cnt = df.groupby("organization_name").count()["name"].agg("mean").round(2)
+median_repos_cnt = df.groupby("organization_name").count()["name"].agg("median").round(2)
 swh_exists_count = len(df.loc[df["software_heritage_exists"].fillna(False)])
 
 top_orgs_by_repos = (
-    df[["plateforme", "organisation_nom"]]
-    .groupby(["plateforme", "organisation_nom"])
+    df[["platform", "organization_name"]]
+    .groupby(["platform", "organization_name"])
     .size()
     .to_frame("count")
     .sort_values(by="count", ascending=False)
@@ -25,7 +25,7 @@ top_orgs_by_repos = (
 )
 
 top_orgs_by_stars = (
-    df.groupby(["organisation_nom"])["nombre_stars"]
+    df.groupby(["organization_name"])["stars_count"]
     .sum()
     .sort_values(ascending=False)
     .head(10)
@@ -33,21 +33,21 @@ top_orgs_by_stars = (
 )
 
 top_repos_stars = (
-    df.groupby("repertoire_url")["nombre_stars"]
+    df.groupby("repository_url")["stars_count"]
     .sum()
     .sort_values(ascending=False)
     .head(10)
     .to_dict()
 )
 top_repos_forks = (
-    df.groupby("repertoire_url")["nombre_forks"]
+    df.groupby("repository_url")["forks_count"]
     .sum()
     .sort_values(ascending=False)
     .head(10)
     .to_dict()
 )
 top_repos_issues = (
-    df.groupby("repertoire_url")["nombre_issues_ouvertes"]
+    df.groupby("repository_url")["open_issues_count"]
     .sum()
     .sort_values(ascending=False)
     .head(10)
@@ -56,7 +56,7 @@ top_repos_issues = (
 
 top_licenses = (
     df.fillna("Inconnue")
-    .groupby("licence")["nom"]
+    .groupby("license")["name"]
     .count()
     .sort_values(ascending=False)
     .to_dict()
@@ -64,7 +64,7 @@ top_licenses = (
 
 top_languages = (
     df.fillna("Inconnu")
-    .groupby("langage")["nom"]
+    .groupby("language")["name"]
     .count()
     .sort_values(ascending=False)
     .head(11)
@@ -72,14 +72,14 @@ top_languages = (
 )
 
 platforms = (
-    df.groupby("plateforme")["nom"].count().sort_values(ascending=False).to_dict()
+    df.groupby("platform")["name"].count().sort_values(ascending=False).to_dict()
 )
 
 res = {
-    "nb_repos": nb_repos,
-    "nb_orgs": nb_orgs,
-    "avg_nb_repos": avg_nb_repos,
-    "median_nb_repos": median_nb_repos,
+    "repos_cnt": repos_cnt,
+    "orgs_cnt": orgs_cnt,
+    "avg_repos_cnt": avg_repos_cnt,
+    "median_repos_cnt": median_repos_cnt,
     "top_orgs_by_repos": top_orgs_by_repos,
     "top_orgs_by_stars": top_orgs_by_stars,
     "top_repos_stars": top_repos_stars,
@@ -90,7 +90,7 @@ res = {
     "platforms": platforms,
     "software_heritage": {
         "repos_in_archive": swh_exists_count,
-        "ratio_in_archive": round(swh_exists_count / nb_repos, 2),
+        "ratio_in_archive": round(swh_exists_count / repos_cnt, 2),
     },
 }
 

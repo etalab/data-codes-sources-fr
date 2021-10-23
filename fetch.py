@@ -7,7 +7,7 @@ from storage import save_repos, save_orgs, save_packages
 from utils import fetch_packages
 
 def fetch_orgs(detector):
-    organisations = []
+    organizations = []
 
     resp = urlopen(
         "https://raw.githubusercontent.com/DISIC/politique-de-contribution-open-source/master/comptes-organismes-publics"
@@ -17,22 +17,22 @@ def fetch_orgs(detector):
 
     for line in data:
         try:
-            organisations.extend(detector.to_orgs(line))
+            organizations.extend(detector.to_orgs(line))
         except Exception as e:
             print(e)
 
-    return organisations
+    return organizations
 
 
 detector = PlatformDetector()
-organisations = fetch_orgs(detector)
+organizations = fetch_orgs(detector)
 
 # Save details about each repo for an org
 all_repos = defaultdict(list)
-for organisation in organisations:
-    print("Fetching repos for: ", organisation)
+for organization in organizations:
+    print("Fetching repos for: ", organization)
 
-    repos = organisation.repos_for_org()
+    repos = organization.repos_for_org()
 
     for k, v in repos.items():
         all_repos[k].extend(v)
@@ -41,12 +41,12 @@ save_repos(all_repos)
 
 # Save details about each org
 all_orgs = defaultdict(list)
-for organisation in organisations:
-    data = organisation.get_org()
+for organization in organizations:
+    data = organization.get_org()
 
     if data == {}:
         continue
-    print("Fetching details for: ", organisation)
+    print("Fetching details for: ", organization)
 
     for k, v in data.to_dict().items():
         all_orgs[k].append(v)

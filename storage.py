@@ -1,8 +1,8 @@
 import csv
 import json
 
-ORGS_FOLDER = "data/organisations/"
-REPOS_FOLDER = "data/repertoires/"
+ORGS_FOLDER = "data/organizations/"
+REPOS_FOLDER = "data/repositories/"
 PACKS_FOLDER = "data/packages/"
 
 
