@@ -13,7 +13,7 @@ class BaseModel(object):
 @dataclass(frozen=True)
 class Repository(BaseModel):
     name: str
-    organization_nom: str
+    organization_name: str
     platform: str
     repository_url: str
     description: str
