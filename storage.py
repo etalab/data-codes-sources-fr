@@ -3,7 +3,7 @@ import json
 
 ORGS_FOLDER = "data/organizations/"
 REPOS_FOLDER = "data/repositories/"
-PACKS_FOLDER = "data/packages/"
+LIBS_FOLDER = "data/libraries/"
 
 
 def filename(mode, extension):
@@ -11,8 +11,8 @@ def filename(mode, extension):
         folder = REPOS_FOLDER
     elif mode == "org":
         folder = ORGS_FOLDER
-    elif mode == "packages":
-        folder = PACKS_FOLDER
+    elif mode == "libraries":
+        folder = LIBS_FOLDER
     else:
         raise ValueError
     if extension not in ["csv", "json"]:
@@ -46,5 +46,5 @@ def save_orgs(data):
     save_data(data, "org")
 
 
-def save_packages(data):
-    save_data(data, "packages")
+def save_libraries(data):
+    save_data(data, "libraries")

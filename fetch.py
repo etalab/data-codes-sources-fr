@@ -3,8 +3,8 @@ from io import BytesIO
 from urllib.request import urlopen
 
 from platforms import Detector as PlatformDetector
-from storage import save_repos, save_orgs, save_packages
-from utils import fetch_packages
+from storage import save_repos, save_orgs, save_libraries
+from utils import fetch_libraries
 
 def fetch_orgs(detector):
     organizations = []
@@ -53,12 +53,12 @@ for organization in organizations:
 
 save_orgs(all_orgs)
 
-# Save packages created by each org
+# Save libraries created by each org
 all_packs = []
 
-print("Fetching packages from librairies.io")
-packages = fetch_packages(all_orgs)
+print("Fetching libraries from librairies.io")
+libraries = fetch_libraries(all_orgs)
 
-save_packages(packages)
+save_libraries(libraries)
 
 detector.save_swh_data()

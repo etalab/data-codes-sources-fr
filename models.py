@@ -50,7 +50,7 @@ class Organization(BaseModel):
 
 
 @dataclass(frozen=True)
-class Package(BaseModel):
+class Library(BaseModel):
     deprecation_reason: bool
     description: str
     forks: int
@@ -64,7 +64,7 @@ class Package(BaseModel):
     licenses: str
     name: str
     normalized_licenses: str
-    package_manager_url: str
+    library_manager_url: str
     platform: str
     rank: int
     repository_url: str

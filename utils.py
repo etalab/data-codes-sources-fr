@@ -36,7 +36,7 @@ def fetch_package(org):
         ("status", "status"),
     ]
     
-    org_packages = defaultdict(list)
+    org_libraries = defaultdict(list)
     if len(data) > 0:
         for pack in data:
             current_dict = {}
@@ -47,18 +47,18 @@ def fetch_package(org):
                     current_dict[key] = None
             p = Package(**current_dict)
             for k, v in p.to_dict().items():
-                org_packages[k].append(v)
-    return org_packages
+                org_libraries[k].append(v)
+    return org_libraries
 
 
 
-def fetch_packages(orgs):
+def fetch_libraries(orgs):
     json_orgs = json.loads(json.dumps(orgs))
     all_packs = defaultdict(list)
     for k,v in enumerate(json_orgs["login"]):
         if json_orgs["plateforme"][k] == "GitHub":
             time.sleep(1)
-            packages = fetch_package(v)
-            for key in packages:
-                all_packs[key].extend(packages[key])            
+            libraries = fetch_package(v)
+            for key in libraries:
+                all_packs[key].extend(libraries[key])
     return all_packs
