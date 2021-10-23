@@ -2,7 +2,7 @@
    "title":"Métadonnées d'une organisation Git",
    "author":"Antoine Augusti pour Etalab <antoine.augusti@data.gouv.fr>",
    "created":"2018-12-31",
-   "updated":"2019-08-22",
+   "updated":"2021-10-23",
    "homepage":"https://github.com/etalab/data-codes-sources-fr",
    "fields":[
       {
@@ -24,7 +24,7 @@
          }
       },
       {
-         "name":"nom",
+         "name":"name",
          "description":"Le nom complet de l'organisation",
          "example":"Ministère de l'Intérieur",
          "type":"string",
@@ -33,7 +33,7 @@
          }
       },
       {
-         "name":"organisation_url",
+         "name":"organization_url",
          "description":"URL vers l'organisation",
          "example":"https://github.com/etalab",
          "type":"string",
@@ -53,7 +53,7 @@
          }
       },
       {
-         "name":"site_web",
+         "name":"website",
          "description":"Site web de l'organisation",
          "example":"https://etalab.gouv.fr",
          "type":"string",
@@ -63,7 +63,7 @@
          }
       },
       {
-         "name":"adresse",
+         "name":"location",
          "description":"Adresse physique de l'organisation",
          "example":"Paris, France",
          "type":"string",
@@ -82,7 +82,7 @@
          }
       },
       {
-         "name":"est_verifiee",
+         "name":"is_verified",
          "description":"Indique si l'organisation a prouvé qu'elle détenait les noms de domaines associés à son organisation",
          "example":"true",
          "type":"boolean",
@@ -91,7 +91,7 @@
          }
       },
       {
-         "name":"nombre_repertoires",
+         "name":"repositories_count",
          "description":"Le nombre de répertoires publics de l'organisation",
          "example":42,
          "type":"integer",
@@ -101,7 +101,7 @@
          }
       },
       {
-         "name":"date_creation",
+         "name":"creation_date",
          "description":"La date de création de l'organisation",
          "example":"2013-08-26T16:03:40Z",
          "type":"datetime",
@@ -110,7 +110,7 @@
          }
       },
       {
-         "name":"plateforme",
+         "name":"platform",
          "description":"La plateforme utilisée de l'organisation",
          "example":"GitHub",
          "type":"string",
@@ -123,5 +123,5 @@
          }
       }
    ],
-   "primaryKey":"organisation_url"
+   "primaryKey":"organization_url"
 }

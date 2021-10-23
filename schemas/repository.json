@@ -2,11 +2,11 @@
    "title":"Métadonnées d'un répertoire Git",
    "author":"Antoine Augusti pour Etalab <antoine.augusti@data.gouv.fr>",
    "created":"2018-12-31",
-   "updated":"2020-01-21",
+   "updated":"2021-10-23",
    "homepage":"https://github.com/etalab/data-codes-sources-fr",
    "fields":[
       {
-         "name":"nom",
+         "name":"name",
          "description":"Le nom du répertoire",
          "example": "nom-repertoire",
          "type":"string",
@@ -15,7 +15,7 @@
          }
       },
       {
-         "name":"organisation_nom",
+         "name":"organization_name",
          "description":"Le nom de l'organisation",
          "example": "etalab",
          "type":"string",
@@ -24,7 +24,7 @@
          }
       },
       {
-         "name":"plateforme",
+         "name":"platform",
          "description":"La plateforme de dépôt de code",
          "example": "GitHub",
          "type":"string",
@@ -37,7 +37,7 @@
          }
       },
       {
-         "name":"repertoire_url",
+         "name":"repository_url",
          "description":"L'URL vers le répertoire",
          "example": "https://github.com/etalab/nom-repertoire",
          "type":"string",
@@ -56,7 +56,7 @@
          }
       },
       {
-         "name":"est_fork",
+         "name":"is_fork",
          "description":"Indique si le répertoire est un fork",
          "example": "false",
          "type":"boolean",
@@ -65,7 +65,7 @@
          }
       },
       {
-         "name":"est_archive",
+         "name":"is_archive",
          "description":"Indique si le répertoire est archivé, c'est-à-dire qu'il est en lecture seule",
          "example": "false",
          "type":"boolean",
@@ -74,7 +74,7 @@
          }
       },
       {
-         "name":"date_creation",
+         "name":"creation_date",
          "description":"La date de création du répertoire",
          "example": "2018-12-01T20:00:55Z",
          "type":"datetime",
@@ -83,7 +83,7 @@
          }
       },
       {
-         "name":"derniere_mise_a_jour",
+         "name":"last_update",
          "description":"La date de dernière mise à jour du répertoire. Cette mise à jour peut être également autre chose que du code comme des métadonnées du répertoire, des activités sur des issues ou des pull requests.",
          "example": "2018-12-01T20:00:55Z",
          "type":"datetime",
@@ -92,7 +92,7 @@
          }
       },
       {
-         "name":"derniere_modification",
+         "name":"last_modification",
          "description":"La date de dernière modification du répertoire. On entend par modification une modification du code source par le biais d'un commit.",
          "example": "2018-12-01T20:00:55Z",
          "type":"datetime",
@@ -101,7 +101,7 @@
          }
       },
       {
-         "name":"page_accueil",
+         "name":"homepage",
          "description":"URL vers la page d'accueil du projet",
          "example": "https://etalab.gouv.fr",
          "type":"string",
@@ -110,7 +110,7 @@
          }
       },
       {
-         "name":"nombre_stars",
+         "name":"stars_count",
          "description":"Le nombre de fois où le répertoire a été ajouté aux favoris",
          "example": 42,
          "type":"integer",
@@ -120,7 +120,7 @@
          }
       },
       {
-         "name":"nombre_forks",
+         "name":"forks_count",
          "description":"Le nombre de fois où le répertoire a été forké",
          "example": 13,
          "type":"integer",
@@ -139,7 +139,7 @@
          }
       },
       {
-         "name":"nombre_issues_ouvertes",
+         "name":"open_issues_count",
          "description":"Le nombre d'issues actuellement ouvertes",
          "example": "0",
          "type":"integer",
@@ -149,7 +149,7 @@
          }
       },
       {
-         "name":"langage",
+         "name":"language",
          "description":"Le langage principal du répertoire, tel que détecté par la plateforme",
          "example": "Python",
          "type":"string",
@@ -187,7 +187,7 @@
       }
    ],
    "primaryKey": [
-      "repertoire_url",
-      "organisation_nom"
+      "repository_url",
+      "organization_name"
    ]
 }

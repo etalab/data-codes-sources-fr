@@ -1,9 +1,9 @@
 settings:
   row_limit: 10000
 files:
-  - source: data/organisations/csv/all.csv
-    schema: schemas/organisation.json
+  - source: data/organizations/csv/all.csv
+    schema: schemas/organization.json
     encoding: utf-8
-  - source: data/repertoires/csv/all.csv
-    schema: schemas/repertoire.json
+  - source: data/repositories/csv/all.csv
+    schema: schemas/repository.json
     encoding: utf-8
