@@ -471,7 +471,7 @@ https://forgemia.inra.fr/gryc-data/zygosaccharomyces_rouxii-cbs_732,True
 https://forgemia.inra.fr/hackathon-portail-calcul/criteres,True
 https://forgemia.inra.fr/hackathon-portail-calcul/existant,True
 https://forgemia.inra.fr/hackathon-portail-calcul/hackathon_organisation,True
-https://forgemia.inra.fr/ices_imes_analysis/icescreen,False
+https://forgemia.inra.fr/ices_imes_analysis/icescreen,True
 https://forgemia.inra.fr/ices_imes_analysis/icescreen_pub,False
 https://forgemia.inra.fr/ices_imes_analysis/icescreen_public_release,True
 https://forgemia.inra.fr/in-sylva-development/in-sylva.gatekeeper,True
@@ -2956,7 +2956,7 @@ https://github.com/SocialGouv/emjpm-editor-app,True
 https://github.com/SocialGouv/emjpm-migration-k8s,True
 https://github.com/SocialGouv/emjpm-portail,True
 https://github.com/SocialGouv/emjpm-ui,True
-https://github.com/SocialGouv/enfants-du-spectacle,False
+https://github.com/SocialGouv/enfants-du-spectacle,True
 https://github.com/SocialGouv/eslint-plugin-autoimport,True
 https://github.com/SocialGouv/faq-code-du-travail,True
 https://github.com/SocialGouv/fce,True
@@ -4212,6 +4212,7 @@ https://github.com/dataesr/bso-publications,True
 https://github.com/dataesr/bso-ui,True
 https://github.com/dataesr/curieXplore-paysage,True
 https://github.com/dataesr/curiexplore-paysage,True
+https://github.com/dataesr/dataesr-paysage,False
 https://github.com/dataesr/harvest-patstat,True
 https://github.com/dataesr/harvest-pubmed,True
 https://github.com/dataesr/kubectl-deploy,True
@@ -6762,7 +6763,7 @@ https://gitlab-research.centralesupelec.fr/mesocentre-public/ruche_examples,True
 https://gitlab-research.centralesupelec.fr/mics_biomathematics/bioinfo/VariantAnnotator,True
 https://gitlab-research.centralesupelec.fr/mics_biomathematics/prettyplots/PrettyPy,True
 https://gitlab-research.centralesupelec.fr/mics_biomathematics/prettyplots/tableExtra,True
-https://gitlab-research.centralesupelec.fr/myapps-templates/django,False
+https://gitlab-research.centralesupelec.fr/myapps-templates/django,True
 https://gitlab-research.centralesupelec.fr/myapps-templates/empty-template,True
 https://gitlab-research.centralesupelec.fr/myapps-templates/node,False
 https://gitlab.adullact.net/Comptoir/Comptoir-srv,True
@@ -8907,7 +8908,7 @@ https://gitlab.inria.fr/syntheticgt/syntheticgt-utilities,True
 https://gitlab.inria.fr/tangram/3d-aware-ellipses-for-visual-localization,True
 https://gitlab.inria.fr/tangram/pyellcv,True
 https://gitlab.inria.fr/tansiv/python-tansiv,True
-https://gitlab.inria.fr/tansiv/tansiv,False
+https://gitlab.inria.fr/tansiv/tansiv,True
 https://gitlab.inria.fr/tansiv/tansiv-xps,True
 https://gitlab.inria.fr/tapenade/tapenade,True
 https://gitlab.inria.fr/tapenade/userdoc,True
