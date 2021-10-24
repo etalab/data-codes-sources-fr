@@ -4543,7 +4543,7 @@ https://github.com/eole/installer,False
 https://github.com/eole/jquery-bootgrid,False
 https://github.com/eole/libvirt-formula,True
 https://github.com/eole/mastodon,True
-https://github.com/eole/meteor-accounts-keycloak,False
+https://github.com/eole/meteor-accounts-keycloak,True
 https://github.com/eole/meteor-keycloak-oauth,True
 https://github.com/eole/one,True
 https://github.com/eole/opnsense-bsdinstaller,True
@@ -6874,7 +6874,7 @@ https://gitlab.com/DREES_code/public/etudes/er1094,True
 https://gitlab.com/DREES_code/public/etudes/er1143,True
 https://gitlab.com/DREES_code/public/etudes/er1179,True
 https://gitlab.com/DREES_code/public/etudes/er1191,True
-https://gitlab.com/DREES_code/public/etudes/er1212,False
+https://gitlab.com/DREES_code/public/etudes/er1212,True
 https://gitlab.com/DREES_code/public/etudes/er745,True
 https://gitlab.com/DREES_code/public/etudes/er838,True
 https://gitlab.com/DREES_code/public/etudes/openghm,True
@@ -8166,7 +8166,7 @@ https://gitlab.inria.fr/gazelle/library/models/voc-model,True
 https://gitlab.inria.fr/gazelle/library/preference,True
 https://gitlab.inria.fr/gazelle/library/tool,True
 https://gitlab.inria.fr/gazelle/library/ui-service,True
-https://gitlab.inria.fr/gazelle/library/uml-models,False
+https://gitlab.inria.fr/gazelle/library/uml-models,True
 https://gitlab.inria.fr/gazelle/library/unit-test,True
 https://gitlab.inria.fr/gazelle/library/validators/src-gen/hpd/hpd-code-jar,True
 https://gitlab.inria.fr/gazelle/library/validators/src-gen/hpd/ihehpd-code-jar,False
@@ -8983,7 +8983,7 @@ https://gitlab.inria.fr/x-lab/x-quick,True
 https://gitlab.inria.fr/x-lab/x-stt,True
 https://gitlab.inria.fr/x-lab/x-tts,True
 https://gitlab.inria.fr/x-lab/x-vis,True
-https://gitlab.inria.fr/x-lab/x-vis-integration,False
+https://gitlab.inria.fr/x-lab/x-vis-integration,True
 https://gitlab.inria.fr/x-lab/x-wng,True
 https://gitlab.inria.fr/xbie/dvae,True
 https://gitlab.inria.fr/xbie/dvae-speech,True
@@ -9160,10 +9160,10 @@ https://gitlab.math.unistra.fr/seminaire_moco/seminaire_moco.pages.math.unistra.
 https://gitlab.math.unistra.fr/urfist/cours-python,True
 https://gitlab.math.unistra.fr/voiceover/voiceover-terminal,True
 https://gitlab.mbb.univ-montp2.fr/aker/beetgenomeenvironmentassociation,True
-https://gitlab.mbb.univ-montp2.fr/bev/ffq,False
+https://gitlab.mbb.univ-montp2.fr/bev/ffq,True
 https://gitlab.mbb.univ-montp2.fr/bev/genbar,False
-https://gitlab.mbb.univ-montp2.fr/bev/seascape_course_cloud,False
-https://gitlab.mbb.univ-montp2.fr/bev/singularity_hub,False
+https://gitlab.mbb.univ-montp2.fr/bev/seascape_course_cloud,True
+https://gitlab.mbb.univ-montp2.fr/bev/singularity_hub,True
 https://gitlab.mbb.univ-montp2.fr/courses/hello_world,False
 https://gitlab.mbb.univ-montp2.fr/courses/ncbi_entrez,False
 https://gitlab.mbb.univ-montp2.fr/courses/workshop_git,False
@@ -9202,8 +9202,8 @@ https://gitlab.mbb.univ-montp2.fr/mbb/CroCo,False
 https://gitlab.mbb.univ-montp2.fr/mbb/dnabushmeat,False
 https://gitlab.mbb.univ-montp2.fr/mbb/doc_user,False
 https://gitlab.mbb.univ-montp2.fr/mbb/modulefiles,False
-https://gitlab.mbb.univ-montp2.fr/mbb/singularity-local-recipes,False
-https://gitlab.mbb.univ-montp2.fr/mbb/tp_rocks,False
+https://gitlab.mbb.univ-montp2.fr/mbb/singularity-local-recipes,True
+https://gitlab.mbb.univ-montp2.fr/mbb/tp_rocks,True
 https://gitlab.mbb.univ-montp2.fr/reservebenefit/environmental_assign_data,False
 https://gitlab.mbb.univ-montp2.fr/reservebenefit/genome_assemblies_collection,False
 https://gitlab.mbb.univ-montp2.fr/reservebenefit/genomic_resources_for_med_fishes,False
@@ -9218,7 +9218,7 @@ https://gitlab.mbb.univ-montp2.fr/reservebenefit/worldmap_genetic_diversity_2,Fa
 https://gitlab.mbb.univ-montp2.fr/saltstack-formulas/borgbackup,False
 https://gitlab.mbb.univ-montp2.fr/saltstack-formulas/check_disks,False
 https://gitlab.mbb.univ-montp2.fr/saltstack-formulas/check_services,False
-https://gitlab.mbb.univ-montp2.fr/saltstack-formulas/get_d_states,False
+https://gitlab.mbb.univ-montp2.fr/saltstack-formulas/get_d_states,True
 https://gitlab.mbb.univ-montp2.fr/saltstack-formulas/set_grains,False
 https://gitlab.mbb.univ-montp2.fr/seaconnect/annotationvariant,False
 https://gitlab.mbb.univ-montp2.fr/seaconnect/clean-fastq,False
