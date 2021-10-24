@@ -181,6 +181,7 @@ https://forge.univ-lyon1.fr/forge_public/forge,True
 https://forge.univ-lyon1.fr/groupe-projet-lifap4/projet-lifap4,True
 https://forge.univ-lyon1.fr/id3d/CTC,True
 https://forge.univ-lyon1.fr/id3d/GAM,True
+https://forge.univ-lyon1.fr/id3d/surfaceModelisation,False
 https://forge.univ-lyon1.fr/inf2026l-lifap5/lifap5-backend-2021p,True
 https://forge.univ-lyon1.fr/info-7/Projet-Peip2,True
 https://forge.univ-lyon1.fr/info-7/tp-bdw1,True
@@ -272,7 +273,7 @@ https://forgemia.inra.fr/anaee-dev/coby,True
 https://forgemia.inra.fr/anaee-dev/oboe,True
 https://forgemia.inra.fr/anaee-dev/si-ore-v2,True
 https://forgemia.inra.fr/baric/family-companion,True
-https://forgemia.inra.fr/beyond/beyond_si,False
+https://forgemia.inra.fr/beyond/beyond_si,True
 https://forgemia.inra.fr/bibliome/alvisae-anaee,True
 https://forgemia.inra.fr/bibliome/bionlp-st-py,True
 https://forgemia.inra.fr/bibliome/formation-alvisnlp,True
@@ -6807,7 +6808,7 @@ https://gitlab.adullact.net/departements-notaires/departements-notaires-v2,True
 https://gitlab.adullact.net/departements-notaires/vagrant-departements-notaires,True
 https://gitlab.adullact.net/dgfip/calculette-impot-societes,True
 https://gitlab.adullact.net/dgfip/dtnum/tf,False
-https://gitlab.adullact.net/dgfip/dtnum/th,False
+https://gitlab.adullact.net/dgfip/dtnum/th,True
 https://gitlab.adullact.net/dgfip/ir-calcul,True
 https://gitlab.adullact.net/directmairie/directmairie,True
 https://gitlab.adullact.net/directmairie/puppet-directmairie,True
@@ -9169,7 +9170,7 @@ https://gitlab.mbb.univ-montp2.fr/courses/hello_world,False
 https://gitlab.mbb.univ-montp2.fr/courses/ncbi_entrez,False
 https://gitlab.mbb.univ-montp2.fr/courses/workshop_git,False
 https://gitlab.mbb.univ-montp2.fr/edna/GAPeDNA,False
-https://gitlab.mbb.univ-montp2.fr/edna/bash_swarm,False
+https://gitlab.mbb.univ-montp2.fr/edna/bash_swarm,True
 https://gitlab.mbb.univ-montp2.fr/edna/bash_vsearch_ecotag,False
 https://gitlab.mbb.univ-montp2.fr/edna/benchmark_pipelines,False
 https://gitlab.mbb.univ-montp2.fr/edna/custom_reference_database,False
@@ -10074,7 +10075,7 @@ https://plmlab.math.cnrs.fr/plmshift/odh-manifests-for-plm,True
 https://plmlab.math.cnrs.fr/plmshift/opendatahub/julia-jupyter-notebooks-with-cuda,True
 https://plmlab.math.cnrs.fr/plmshift/opendatahub/jupyter-notebooks,True
 https://plmlab.math.cnrs.fr/plmshift/opendatahub/manin-notebook,True
-https://plmlab.math.cnrs.fr/plmshift/opendatahub/notebook-vscode,False
+https://plmlab.math.cnrs.fr/plmshift/opendatahub/notebook-vscode,True
 https://plmlab.math.cnrs.fr/plmshift/opendatahub/odh-manifests-for-plm,True
 https://plmlab.math.cnrs.fr/plmshift/opendatahub/s2i-base-container,True
 https://plmlab.math.cnrs.fr/plmshift/opendatahub/s2i-pytorch-notebook,True
