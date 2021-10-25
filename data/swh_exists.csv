@@ -510,7 +510,7 @@ https://forgemia.inra.fr/irhs-bioinfo/i-fungi,True
 https://forgemia.inra.fr/lbe/opensilexlbe/ontologielbe,True
 https://forgemia.inra.fr/lbe/opensilexlbe/opensilex-dev,True
 https://forgemia.inra.fr/lbe/opensilexlbe/script,True
-https://forgemia.inra.fr/les-patates-douces/les-patates-douces,False
+https://forgemia.inra.fr/les-patates-douces/les-patates-douces,True
 https://forgemia.inra.fr/linmodel/linmodel,True
 https://forgemia.inra.fr/metagenopolis/eskrim,True
 https://forgemia.inra.fr/metagenopolis/meteor,True
@@ -4761,7 +4761,7 @@ https://github.com/etalab/codegouvfr-deps,True
 https://github.com/etalab/codes-juridiques-francais,True
 https://github.com/etalab/codes-postaux,True
 https://github.com/etalab/collectivites.data.gouv.fr,True
-https://github.com/etalab/comptage-mobilites-channel,False
+https://github.com/etalab/comptage-mobilites-channel,True
 https://github.com/etalab/comptage-mobilites-site,False
 https://github.com/etalab/comptes-collectivites,True
 https://github.com/etalab/contours-administratifs,True
@@ -5997,6 +5997,7 @@ https://github.com/ocaml/dune-www,True
 https://github.com/ocaml/graphics,True
 https://github.com/ocaml/homebrew-ocaml,True
 https://github.com/ocaml/infrastructure,True
+https://github.com/ocaml/lists.ocaml.org-archive,True
 https://github.com/ocaml/merlin,True
 https://github.com/ocaml/num,True
 https://github.com/ocaml/oasis,True
@@ -6771,7 +6772,7 @@ https://gitlab-research.centralesupelec.fr/mics_biomathematics/prettyplots/Prett
 https://gitlab-research.centralesupelec.fr/mics_biomathematics/prettyplots/tableExtra,True
 https://gitlab-research.centralesupelec.fr/myapps-templates/django,True
 https://gitlab-research.centralesupelec.fr/myapps-templates/empty-template,True
-https://gitlab-research.centralesupelec.fr/myapps-templates/node,False
+https://gitlab-research.centralesupelec.fr/myapps-templates/node,True
 https://gitlab.adullact.net/Comptoir/Comptoir-srv,True
 https://gitlab.adullact.net/Comptoir/puppet-comptoir,True
 https://gitlab.adullact.net/E-Collectivite/E-Collectivite-angular-client,True
@@ -8839,6 +8840,7 @@ https://gitlab.inria.fr/skeletons/opam-repository,True
 https://gitlab.inria.fr/skeletons/stage-olivier-idir,True
 https://gitlab.inria.fr/skelton/pyskelton,True
 https://gitlab.inria.fr/skelton/skelton2,True
+https://gitlab.inria.fr/slows-public-group/slows_public,False
 https://gitlab.inria.fr/socialbus/webhook-manager,True
 https://gitlab.inria.fr/socialbus/website,True
 https://gitlab.inria.fr/sollya/sollya,True
@@ -9189,7 +9191,7 @@ https://gitlab.mbb.univ-montp2.fr/edna/exploitation/primer_design,False
 https://gitlab.mbb.univ-montp2.fr/edna/exploitation/primer_specificity_ecopcr,False
 https://gitlab.mbb.univ-montp2.fr/edna/exploitation/primers_specificity_mismatchplot,True
 https://gitlab.mbb.univ-montp2.fr/edna/exploitation/swarm_and_obitools,False
-https://gitlab.mbb.univ-montp2.fr/edna/metabarcoding_data_simulations,False
+https://gitlab.mbb.univ-montp2.fr/edna/metabarcoding_data_simulations,True
 https://gitlab.mbb.univ-montp2.fr/edna/nextflow_obitools,False
 https://gitlab.mbb.univ-montp2.fr/edna/only_obitools,False
 https://gitlab.mbb.univ-montp2.fr/edna/query_metabarcoding_data,False
@@ -9201,7 +9203,7 @@ https://gitlab.mbb.univ-montp2.fr/edna/snakemake_rapidrun_swarm,False
 https://gitlab.mbb.univ-montp2.fr/edna/test_metabarcoding_data,False
 https://gitlab.mbb.univ-montp2.fr/edna/tutorial_metabarcoding_data,False
 https://gitlab.mbb.univ-montp2.fr/grenouille_rousse/mitochondrion,False
-https://gitlab.mbb.univ-montp2.fr/grenouille_rousse/probedesign,False
+https://gitlab.mbb.univ-montp2.fr/grenouille_rousse/probedesign,True
 https://gitlab.mbb.univ-montp2.fr/intrapop/assemble_mitogenome,False
 https://gitlab.mbb.univ-montp2.fr/intrapop/prepare_wgs_data,False
 https://gitlab.mbb.univ-montp2.fr/intrapop/primer-design,False
