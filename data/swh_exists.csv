@@ -4213,7 +4213,7 @@ https://github.com/dataesr/bso-publications,True
 https://github.com/dataesr/bso-ui,True
 https://github.com/dataesr/curieXplore-paysage,True
 https://github.com/dataesr/curiexplore-paysage,True
-https://github.com/dataesr/dataesr-paysage,False
+https://github.com/dataesr/dataesr-paysage,True
 https://github.com/dataesr/harvest-patstat,True
 https://github.com/dataesr/harvest-pubmed,True
 https://github.com/dataesr/kubectl-deploy,True
@@ -6732,7 +6732,7 @@ https://gitlab-research.centralesupelec.fr/3if4030/java_soap_random,True
 https://gitlab-research.centralesupelec.fr/3if4030/python_xmlrpc_random,True
 https://gitlab-research.centralesupelec.fr/RiseClipseGroup/riseclipse-developer,True
 https://gitlab-research.centralesupelec.fr/RiseClipseGroup/riseclipse-distribution,True
-https://gitlab-research.centralesupelec.fr/RiseClipseGroup/riseclipse-editor,False
+https://gitlab-research.centralesupelec.fr/RiseClipseGroup/riseclipse-editor,True
 https://gitlab-research.centralesupelec.fr/RiseClipseGroup/riseclipse-experimental,False
 https://gitlab-research.centralesupelec.fr/RiseClipseGroup/riseclipse-main,True
 https://gitlab-research.centralesupelec.fr/RiseClipseGroup/riseclipse-metamodel-cgmes-2-4-15,True
@@ -6807,7 +6807,7 @@ https://gitlab.adullact.net/departements-notaires/departements-notaires,True
 https://gitlab.adullact.net/departements-notaires/departements-notaires-v2,True
 https://gitlab.adullact.net/departements-notaires/vagrant-departements-notaires,True
 https://gitlab.adullact.net/dgfip/calculette-impot-societes,True
-https://gitlab.adullact.net/dgfip/dtnum/tf,False
+https://gitlab.adullact.net/dgfip/dtnum/tf,True
 https://gitlab.adullact.net/dgfip/dtnum/th,True
 https://gitlab.adullact.net/dgfip/ir-calcul,True
 https://gitlab.adullact.net/directmairie/directmairie,True
