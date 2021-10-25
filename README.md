@@ -15,17 +15,21 @@ les forges GitLab.
 Pour ajouter le compte d'organisation de votre organisme, vous pouvez proposer de modifier [le fichier](https://github.com/DISIC/politique-de-contribution-open-source/blob/master/comptes-organismes-publics) pertinent dans le dépôt de la DINSIC relatif à la Politique de Contribution Open Source de l'État.
 
 ## Déploiement et hébergement
+
 Les données sont mises à jour régulièrement [grâce à CircleCI](https://circleci.com/gh/etalab/data-codes-sources-fr).
 
 ## Données
+
 Les données sont publiées aux formats CSV et JSON dans le dossier [data](data). Chaque dossier contient un fichier `all.{csv,json}` qui contient l'ensemble des répertoires ou des organisations. Ces fichiers sont à privilégier lorsque vous souhaitez faire une analyse globale.
 
 ## Description des données
+
 Les données sont décrites à l'aide de fichiers [Table Schema](https://frictionlessdata.io/specs/table-schema/) dans [le dossier schemas](./schemas/)
 
 ### Métadonnées d'un répertoire Git
 
 #### Modèle de données
+
 - Clé primaire : `repertoire_url`, `organisation_nom`
 
 |Nom|Type|Description|Exemple|Propriétés|
@@ -52,6 +56,7 @@ Les données sont décrites à l'aide de fichiers [Table Schema](https://frictio
 ### Métadonnées d'une organisation Git
 
 #### Modèle de données
+
 - Clé primaire : `login`
 
 |Nom|Type|Description|Exemple|Propriétés|
@@ -69,8 +74,9 @@ Les données sont décrites à l'aide de fichiers [Table Schema](https://frictio
 |platform|chaîne de caractères|La plateforme utilisée de l'organisation|GitHub|Valeur obligatoire, Valeurs autorisées : GitHub,GitLab|
 
 # Droits d’auteur et licence
+
 Le code source du répertoire est publié sous [la licence MIT](LICENSE.md). Les données, disponibles dans le répertoire [data](data) sont publiées sous la [Licence Ouverte 2.0](https://www.etalab.gouv.fr/licence-ouverte-open-licence).
 
-© 2018-2020 Direction interministérielle du numérique et du système d’information et de communication de l’État, Antoine Augusti, Bastien Guerry.
+© 2018-2021 Direction interministérielle du numérique et du système d’information et de communication de l’État, Antoine Augusti, Bastien Guerry.
 
-© 2018-2020 Les autres contributeurs dans la liste est accessible via l’historique du dépôt.
+© 2018-2021 Les autres contributeurs dans la liste est accessible via l’historique du dépôt.
