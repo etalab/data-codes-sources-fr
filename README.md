@@ -30,7 +30,7 @@ Les données sont décrites à l'aide de fichiers [Table Schema](https://frictio
 
 #### Modèle de données
 
-- Clé primaire : `repertoire_url`, `organisation_nom`
+- Clé primaire : `repository_url`, `organization_name`
 
 |Nom|Type|Description|Exemple|Propriétés|
 |-|-|-|-|-|
