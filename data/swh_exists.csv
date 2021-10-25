@@ -510,6 +510,7 @@ https://forgemia.inra.fr/irhs-bioinfo/i-fungi,True
 https://forgemia.inra.fr/lbe/opensilexlbe/ontologielbe,True
 https://forgemia.inra.fr/lbe/opensilexlbe/opensilex-dev,True
 https://forgemia.inra.fr/lbe/opensilexlbe/script,True
+https://forgemia.inra.fr/les-patates-douces/les-patates-douces,False
 https://forgemia.inra.fr/linmodel/linmodel,True
 https://forgemia.inra.fr/metagenopolis/eskrim,True
 https://forgemia.inra.fr/metagenopolis/meteor,True
@@ -1172,6 +1173,7 @@ https://github.com/AccessiDys/prototype-decoupage,True
 https://github.com/AgenceBio/cartobio-api,True
 https://github.com/AgenceBio/cartobio-front,False
 https://github.com/AgenceBio/cartobio-rpg,True
+https://github.com/AgenceBio/rpg-cli,False
 https://github.com/AlsaceDigitale/2012.edgefest.fr,True
 https://github.com/AlsaceDigitale/2013.edgefest.fr,True
 https://github.com/AlsaceDigitale/2014.edgefest.fr,True
@@ -4758,6 +4760,7 @@ https://github.com/etalab/codegouvfr-deps,True
 https://github.com/etalab/codes-juridiques-francais,True
 https://github.com/etalab/codes-postaux,True
 https://github.com/etalab/collectivites.data.gouv.fr,True
+https://github.com/etalab/comptage-mobilites-channel,False
 https://github.com/etalab/comptage-mobilites-site,False
 https://github.com/etalab/comptes-collectivites,True
 https://github.com/etalab/contours-administratifs,True
@@ -5219,6 +5222,7 @@ https://github.com/georchestra/mapstore2-cadastrapp,True
 https://github.com/georchestra/mapstore2-georchestra,True
 https://github.com/georchestra/mfprintv2deps,True
 https://github.com/georchestra/nagios,True
+https://github.com/georchestra/nextcloud_georchestra,False
 https://github.com/georchestra/notes,True
 https://github.com/georchestra/ogc-standards,True
 https://github.com/georchestra/opacityslider,True
@@ -6754,7 +6758,7 @@ https://gitlab-research.centralesupelec.fr/cidre-public/devweb/mission-impossibl
 https://gitlab-research.centralesupelec.fr/cidre-public/divers/td-git-bookmarks,True
 https://gitlab-research.centralesupelec.fr/cidre-public/npr/deploy,True
 https://gitlab-research.centralesupelec.fr/cidre-public/npr/webserver,True
-https://gitlab-research.centralesupelec.fr/cidre-public/reseausecu/netbook-maintenance,False
+https://gitlab-research.centralesupelec.fr/cidre-public/reseausecu/netbook-maintenance,True
 https://gitlab-research.centralesupelec.fr/cidre-public/seculog,True
 https://gitlab-research.centralesupelec.fr/cidre-public/systemes-exploitation/xv6-riscv-tp,True
 https://gitlab-research.centralesupelec.fr/cidre-public/test-virtualbox-installation,True
@@ -9965,7 +9969,7 @@ https://plmlab.math.cnrs.fr/imb-dijon/faq,True
 https://plmlab.math.cnrs.fr/imb-dijon/flpro,True
 https://plmlab.math.cnrs.fr/imb-dijon/infocom,True
 https://plmlab.math.cnrs.fr/imb-public/anr-template,True
-https://plmlab.math.cnrs.fr/imj2021/webimj21,False
+https://plmlab.math.cnrs.fr/imj2021/webimj21,True
 https://plmlab.math.cnrs.fr/imt/acces_backup,True
 https://plmlab.math.cnrs.fr/imt/ansible_deploy_nfs,True
 https://plmlab.math.cnrs.fr/imt/borgbox,True
