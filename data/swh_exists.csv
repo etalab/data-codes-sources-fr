@@ -13,7 +13,7 @@ https://dci-gitlab.cines.fr/dad/ffds-register-api,True
 https://dci-gitlab.cines.fr/dad/ffds-register-front,True
 https://dci-gitlab.cines.fr/dad/ffds-smart-harvester,True
 https://dci-gitlab.cines.fr/dad/materials-browser-api,True
-https://dci-gitlab.cines.fr/dad/materials-browser-front,False
+https://dci-gitlab.cines.fr/dad/materials-browser-front,True
 https://dci-gitlab.cines.fr/dad/openrefine-metadata,True
 https://dci-gitlab.cines.fr/dad/pastis-dad-externe,True
 https://dci-gitlab.cines.fr/dad/pastis-extern,True
@@ -4392,6 +4392,8 @@ https://github.com/diverse-project/xcore-light,True
 https://github.com/diverse-project/yajta-mirror,True
 https://github.com/dnum-mi/carto-rna,False
 https://github.com/dnum-mi/cartographie-donnees,True
+https://github.com/dnum-mi/demo-vue-dsfr,False
+https://github.com/dnum-mi/vue-dsfr,False
 https://github.com/dsi-ehess/VIVO,True
 https://github.com/dsi-ehess/VIVO-EHESS,True
 https://github.com/dsi-ehess/VIVO-Sample-Data,True
@@ -4762,7 +4764,7 @@ https://github.com/etalab/codes-juridiques-francais,True
 https://github.com/etalab/codes-postaux,True
 https://github.com/etalab/collectivites.data.gouv.fr,True
 https://github.com/etalab/comptage-mobilites-channel,True
-https://github.com/etalab/comptage-mobilites-site,False
+https://github.com/etalab/comptage-mobilites-site,True
 https://github.com/etalab/comptes-collectivites,True
 https://github.com/etalab/contours-administratifs,True
 https://github.com/etalab/contribution-adresse,True
@@ -9212,7 +9214,7 @@ https://gitlab.mbb.univ-montp2.fr/intrapop/prepare_wgs_data,False
 https://gitlab.mbb.univ-montp2.fr/intrapop/primer-design,False
 https://gitlab.mbb.univ-montp2.fr/lxdsingu/atelier-lxdsingu,False
 https://gitlab.mbb.univ-montp2.fr/macse/macse,False
-https://gitlab.mbb.univ-montp2.fr/mbb/CroCo,False
+https://gitlab.mbb.univ-montp2.fr/mbb/CroCo,True
 https://gitlab.mbb.univ-montp2.fr/mbb/dnabushmeat,False
 https://gitlab.mbb.univ-montp2.fr/mbb/doc_user,True
 https://gitlab.mbb.univ-montp2.fr/mbb/modulefiles,False
@@ -9281,7 +9283,7 @@ https://gitlab.mim-libre.fr/EOLE/amon-3/opnsense/core,False
 https://gitlab.mim-libre.fr/EOLE/amon-3/opnsense/dhcp6c,False
 https://gitlab.mim-libre.fr/EOLE/amon-3/opnsense/docs,False
 https://gitlab.mim-libre.fr/EOLE/amon-3/opnsense/installer,False
-https://gitlab.mim-libre.fr/EOLE/amon-3/opnsense/jquery-bootgrid,False
+https://gitlab.mim-libre.fr/EOLE/amon-3/opnsense/jquery-bootgrid,True
 https://gitlab.mim-libre.fr/EOLE/amon-3/opnsense/lang,False
 https://gitlab.mim-libre.fr/EOLE/amon-3/opnsense/pam_opnsense,False
 https://gitlab.mim-libre.fr/EOLE/amon-3/opnsense/plugins,False
@@ -9289,11 +9291,11 @@ https://gitlab.mim-libre.fr/EOLE/amon-3/opnsense/ports,False
 https://gitlab.mim-libre.fr/EOLE/amon-3/opnsense/rules,False
 https://gitlab.mim-libre.fr/EOLE/amon-3/opnsense/src,True
 https://gitlab.mim-libre.fr/EOLE/amon-3/opnsense/tools,False
-https://gitlab.mim-libre.fr/EOLE/amon-3/opnsense/update-tools,False
+https://gitlab.mim-libre.fr/EOLE/amon-3/opnsense/update-tools,True
 https://gitlab.mim-libre.fr/EOLE/eole-3/provisionner,False
 https://gitlab.mim-libre.fr/EOLE/hackathon-kubernetes,False
-https://gitlab.mim-libre.fr/EOLE/infra/ci-tools,False
-https://gitlab.mim-libre.fr/EOLE/opennebula/opennebula-apps-template,False
+https://gitlab.mim-libre.fr/EOLE/infra/ci-tools,True
+https://gitlab.mim-libre.fr/EOLE/opennebula/opennebula-apps-template,True
 https://gitlab.mim-libre.fr/Leo/eole_statistiques,False
 https://gitlab.mim-libre.fr/alphabet/apps-ldap,False
 https://gitlab.mim-libre.fr/alphabet/apps-static,False
@@ -9826,7 +9828,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/pedagogies-multimodales/wikiphon,Tr
 https://gricad-gitlab.univ-grenoble-alpes.fr/phd-xavier/pre_analyses_ecrins,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/phelma/a-propos,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/phelma/be-1a/fiche-de-mesure-latex,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/phelma/be-1a/phelma-kicad,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/phelma/be-1a/phelma-kicad,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/phelma/be-1a/template-kicad-be-1a-phelma-s1,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/phelma/fablab/marlin_blackprusa,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/phitem/design-linux-uga,True
