@@ -8598,6 +8598,7 @@ https://gitlab.inria.fr/nixos-compose/ipanema-nixos-compose,True
 https://gitlab.inria.fr/nixos-compose/nixos-compose,True
 https://gitlab.inria.fr/obelix/broceliande,True
 https://gitlab.inria.fr/obelix/triskele,True
+https://gitlab.inria.fr/office-431/oar-time,False
 https://gitlab.inria.fr/open-mx/open-mx,True
 https://gitlab.inria.fr/openbiscuit/rescience_egbert14,True
 https://gitlab.inria.fr/openbiscuit/software/loriakhep,True
@@ -9217,12 +9218,12 @@ https://gitlab.mbb.univ-montp2.fr/macse/macse,False
 https://gitlab.mbb.univ-montp2.fr/mbb/CroCo,True
 https://gitlab.mbb.univ-montp2.fr/mbb/dnabushmeat,False
 https://gitlab.mbb.univ-montp2.fr/mbb/doc_user,True
-https://gitlab.mbb.univ-montp2.fr/mbb/modulefiles,False
+https://gitlab.mbb.univ-montp2.fr/mbb/modulefiles,True
 https://gitlab.mbb.univ-montp2.fr/mbb/singularity-local-recipes,True
 https://gitlab.mbb.univ-montp2.fr/mbb/tp_rocks,True
 https://gitlab.mbb.univ-montp2.fr/reservebenefit/environmental_assign_data,False
 https://gitlab.mbb.univ-montp2.fr/reservebenefit/genome_assemblies_collection,False
-https://gitlab.mbb.univ-montp2.fr/reservebenefit/genomic_resources_for_med_fishes,False
+https://gitlab.mbb.univ-montp2.fr/reservebenefit/genomic_resources_for_med_fishes,True
 https://gitlab.mbb.univ-montp2.fr/reservebenefit/occurence_freshwater_marine_species,False
 https://gitlab.mbb.univ-montp2.fr/reservebenefit/sexual_palinurus_elephas,False
 https://gitlab.mbb.univ-montp2.fr/reservebenefit/snakemake_stacks2,True
@@ -9281,8 +9282,8 @@ https://gitlab.mim-libre.fr/EOLE/amon-3/opnsense/bsdinstaller,False
 https://gitlab.mim-libre.fr/EOLE/amon-3/opnsense/changelog,False
 https://gitlab.mim-libre.fr/EOLE/amon-3/opnsense/core,False
 https://gitlab.mim-libre.fr/EOLE/amon-3/opnsense/dhcp6c,False
-https://gitlab.mim-libre.fr/EOLE/amon-3/opnsense/docs,False
-https://gitlab.mim-libre.fr/EOLE/amon-3/opnsense/installer,False
+https://gitlab.mim-libre.fr/EOLE/amon-3/opnsense/docs,True
+https://gitlab.mim-libre.fr/EOLE/amon-3/opnsense/installer,True
 https://gitlab.mim-libre.fr/EOLE/amon-3/opnsense/jquery-bootgrid,True
 https://gitlab.mim-libre.fr/EOLE/amon-3/opnsense/lang,False
 https://gitlab.mim-libre.fr/EOLE/amon-3/opnsense/pam_opnsense,False
