@@ -181,7 +181,7 @@ https://forge.univ-lyon1.fr/forge_public/forge,True
 https://forge.univ-lyon1.fr/groupe-projet-lifap4/projet-lifap4,True
 https://forge.univ-lyon1.fr/id3d/CTC,True
 https://forge.univ-lyon1.fr/id3d/GAM,True
-https://forge.univ-lyon1.fr/id3d/surfaceModelisation,False
+https://forge.univ-lyon1.fr/id3d/surfaceModelisation,True
 https://forge.univ-lyon1.fr/inf2026l-lifap5/lifap5-backend-2021p,True
 https://forge.univ-lyon1.fr/info-7/Projet-Peip2,True
 https://forge.univ-lyon1.fr/info-7/tp-bdw1,True
@@ -7605,6 +7605,7 @@ https://gitlab.inria.fr/almanach/time-us/Transkribus-MassOCR,True
 https://gitlab.inria.fr/almanach/time-us/corpora-prep,True
 https://gitlab.inria.fr/almanach/time-us/corpus-prudhommes_lyon,True
 https://gitlab.inria.fr/almanach/time-us/corpus_texte,True
+https://gitlab.inria.fr/almanach/time-us/dhnord2019_cph_structuration_demo,False
 https://gitlab.inria.fr/almanach/time-us/docs,True
 https://gitlab.inria.fr/almanach/time-us/kraken-models,True
 https://gitlab.inria.fr/almanach/time-us/page2tei_TimeUS,True
@@ -8699,6 +8700,8 @@ https://gitlab.inria.fr/rainbow-intervals/ros_interval,True
 https://gitlab.inria.fr/realopt/TemporalKnapsack,True
 https://gitlab.inria.fr/regular-pv/timbuk/ocaml,True
 https://gitlab.inria.fr/regular-pv/timbuk/timbuk,True
+https://gitlab.inria.fr/remote-inria/remi,False
+https://gitlab.inria.fr/remote-inria/remote-inria.gitlabpages.inria.fr,False
 https://gitlab.inria.fr/reo/transport-in-1d-networks,True
 https://gitlab.inria.fr/resibots/public/py_map_elites,True
 https://gitlab.inria.fr/resist/tutorial-iot-security,True
@@ -9184,7 +9187,7 @@ https://gitlab.mbb.univ-montp2.fr/edna/bash_vsearch_ecotag,False
 https://gitlab.mbb.univ-montp2.fr/edna/benchmark_pipelines,False
 https://gitlab.mbb.univ-montp2.fr/edna/custom_reference_database,False
 https://gitlab.mbb.univ-montp2.fr/edna/exploitation/beginning_obitools,False
-https://gitlab.mbb.univ-montp2.fr/edna/exploitation/dada2_and_obitools,False
+https://gitlab.mbb.univ-montp2.fr/edna/exploitation/dada2_and_obitools,True
 https://gitlab.mbb.univ-montp2.fr/edna/exploitation/edna_intra_pipeline_comparison,False
 https://gitlab.mbb.univ-montp2.fr/edna/exploitation/only_obitools,False
 https://gitlab.mbb.univ-montp2.fr/edna/exploitation/primer_design,False
@@ -9223,10 +9226,10 @@ https://gitlab.mbb.univ-montp2.fr/reservebenefit/sexual_palinurus_elephas,False
 https://gitlab.mbb.univ-montp2.fr/reservebenefit/snakemake_stacks2,True
 https://gitlab.mbb.univ-montp2.fr/reservebenefit/snps_statistics,False
 https://gitlab.mbb.univ-montp2.fr/reservebenefit/subset_30_samples_vcf,False
-https://gitlab.mbb.univ-montp2.fr/reservebenefit/webapp_marine_worldmap_bold,False
+https://gitlab.mbb.univ-montp2.fr/reservebenefit/webapp_marine_worldmap_bold,True
 https://gitlab.mbb.univ-montp2.fr/reservebenefit/worldmap_fish_genetic_diversity,False
 https://gitlab.mbb.univ-montp2.fr/reservebenefit/worldmap_genetic_diversity_2,False
-https://gitlab.mbb.univ-montp2.fr/saltstack-formulas/borgbackup,False
+https://gitlab.mbb.univ-montp2.fr/saltstack-formulas/borgbackup,True
 https://gitlab.mbb.univ-montp2.fr/saltstack-formulas/check_disks,False
 https://gitlab.mbb.univ-montp2.fr/saltstack-formulas/check_services,False
 https://gitlab.mbb.univ-montp2.fr/saltstack-formulas/get_d_states,True
@@ -9284,7 +9287,7 @@ https://gitlab.mim-libre.fr/EOLE/amon-3/opnsense/pam_opnsense,False
 https://gitlab.mim-libre.fr/EOLE/amon-3/opnsense/plugins,False
 https://gitlab.mim-libre.fr/EOLE/amon-3/opnsense/ports,False
 https://gitlab.mim-libre.fr/EOLE/amon-3/opnsense/rules,False
-https://gitlab.mim-libre.fr/EOLE/amon-3/opnsense/src,False
+https://gitlab.mim-libre.fr/EOLE/amon-3/opnsense/src,True
 https://gitlab.mim-libre.fr/EOLE/amon-3/opnsense/tools,False
 https://gitlab.mim-libre.fr/EOLE/amon-3/opnsense/update-tools,False
 https://gitlab.mim-libre.fr/EOLE/eole-3/provisionner,False
