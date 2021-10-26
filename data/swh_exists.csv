@@ -283,6 +283,7 @@ https://forgemia.inra.fr/biocom/biocom-pipe,True
 https://forgemia.inra.fr/biocom/biocom-pipe_manual,True
 https://forgemia.inra.fr/bioger/django-custom-user,True
 https://forgemia.inra.fr/bios4biol/bioinfo-utils,True
+https://forgemia.inra.fr/bios4biol/training-aln-variant-calling,False
 https://forgemia.inra.fr/bios4biol/workflows,True
 https://forgemia.inra.fr/biosys-public/rba-inrae-fr,True
 https://forgemia.inra.fr/canular/canular,True
@@ -5291,6 +5292,7 @@ https://github.com/incubateur-territoires/discourse-private-replies,True
 https://github.com/incubateur-territoires/discourse-theme,True
 https://github.com/incubateur-territoires/docker,True
 https://github.com/incubateur-territoires/dokku-discourse,True
+https://github.com/incubateur-territoires/feedback-widget,False
 https://github.com/incubateur-territoires/gridsome-source-graphql,True
 https://github.com/incubateur-territoires/incubateur-directus,True
 https://github.com/incubateur-territoires/incubateur-mattermost,True
@@ -9178,7 +9180,7 @@ https://gitlab.math.unistra.fr/urfist/cours-python,True
 https://gitlab.math.unistra.fr/voiceover/voiceover-terminal,True
 https://gitlab.mbb.univ-montp2.fr/aker/beetgenomeenvironmentassociation,True
 https://gitlab.mbb.univ-montp2.fr/bev/ffq,True
-https://gitlab.mbb.univ-montp2.fr/bev/genbar,False
+https://gitlab.mbb.univ-montp2.fr/bev/genbar,True
 https://gitlab.mbb.univ-montp2.fr/bev/seascape_course_cloud,True
 https://gitlab.mbb.univ-montp2.fr/bev/singularity_hub,True
 https://gitlab.mbb.univ-montp2.fr/courses/hello_world,False
@@ -9203,9 +9205,9 @@ https://gitlab.mbb.univ-montp2.fr/edna/only_obitools,False
 https://gitlab.mbb.univ-montp2.fr/edna/query_metabarcoding_data,False
 https://gitlab.mbb.univ-montp2.fr/edna/reference_database,False
 https://gitlab.mbb.univ-montp2.fr/edna/snakemake_only_obitools,False
-https://gitlab.mbb.univ-montp2.fr/edna/snakemake_rapidrun_data_test,False
+https://gitlab.mbb.univ-montp2.fr/edna/snakemake_rapidrun_data_test,True
 https://gitlab.mbb.univ-montp2.fr/edna/snakemake_rapidrun_obitools,False
-https://gitlab.mbb.univ-montp2.fr/edna/snakemake_rapidrun_swarm,False
+https://gitlab.mbb.univ-montp2.fr/edna/snakemake_rapidrun_swarm,True
 https://gitlab.mbb.univ-montp2.fr/edna/test_metabarcoding_data,False
 https://gitlab.mbb.univ-montp2.fr/edna/tutorial_metabarcoding_data,False
 https://gitlab.mbb.univ-montp2.fr/grenouille_rousse/mitochondrion,False
@@ -9234,7 +9236,7 @@ https://gitlab.mbb.univ-montp2.fr/reservebenefit/worldmap_fish_genetic_diversity
 https://gitlab.mbb.univ-montp2.fr/reservebenefit/worldmap_genetic_diversity_2,False
 https://gitlab.mbb.univ-montp2.fr/saltstack-formulas/borgbackup,True
 https://gitlab.mbb.univ-montp2.fr/saltstack-formulas/check_disks,False
-https://gitlab.mbb.univ-montp2.fr/saltstack-formulas/check_services,False
+https://gitlab.mbb.univ-montp2.fr/saltstack-formulas/check_services,True
 https://gitlab.mbb.univ-montp2.fr/saltstack-formulas/get_d_states,True
 https://gitlab.mbb.univ-montp2.fr/saltstack-formulas/set_grains,False
 https://gitlab.mbb.univ-montp2.fr/seaconnect/annotationvariant,False
@@ -9276,7 +9278,7 @@ https://gitlab.mim-libre.fr/EOLE/Zephir/services/web,False
 https://gitlab.mim-libre.fr/EOLE/Zephir/services/zone-manager,False
 https://gitlab.mim-libre.fr/EOLE/Zephir/webui,False
 https://gitlab.mim-libre.fr/EOLE/Zephir/zcli,False
-https://gitlab.mim-libre.fr/EOLE/Zephir/zephir-connect,False
+https://gitlab.mim-libre.fr/EOLE/Zephir/zephir-connect,True
 https://gitlab.mim-libre.fr/EOLE/amon-3/iso-builder,False
 https://gitlab.mim-libre.fr/EOLE/amon-3/opnsense/bsdinstaller,False
 https://gitlab.mim-libre.fr/EOLE/amon-3/opnsense/changelog,False
@@ -9289,7 +9291,7 @@ https://gitlab.mim-libre.fr/EOLE/amon-3/opnsense/lang,False
 https://gitlab.mim-libre.fr/EOLE/amon-3/opnsense/pam_opnsense,False
 https://gitlab.mim-libre.fr/EOLE/amon-3/opnsense/plugins,False
 https://gitlab.mim-libre.fr/EOLE/amon-3/opnsense/ports,False
-https://gitlab.mim-libre.fr/EOLE/amon-3/opnsense/rules,False
+https://gitlab.mim-libre.fr/EOLE/amon-3/opnsense/rules,True
 https://gitlab.mim-libre.fr/EOLE/amon-3/opnsense/src,True
 https://gitlab.mim-libre.fr/EOLE/amon-3/opnsense/tools,False
 https://gitlab.mim-libre.fr/EOLE/amon-3/opnsense/update-tools,True
