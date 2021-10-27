@@ -274,6 +274,7 @@ https://forgemia.inra.fr/anaee-dev/oboe,True
 https://forgemia.inra.fr/anaee-dev/si-ore-v2,True
 https://forgemia.inra.fr/baric/family-companion,True
 https://forgemia.inra.fr/beyond/beyond_si,True
+https://forgemia.inra.fr/beyond/front-landing-page,False
 https://forgemia.inra.fr/bibliome/alvisae-anaee,True
 https://forgemia.inra.fr/bibliome/bionlp-st-py,True
 https://forgemia.inra.fr/bibliome/formation-alvisnlp,True
@@ -603,7 +604,7 @@ https://forgemia.inra.fr/stacomi/stacomirtools,True
 https://forgemia.inra.fr/stacomi/stacoshiny,True
 https://forgemia.inra.fr/sunflo/envirotyping_sunrise,True
 https://forgemia.inra.fr/sunrise/15ex05_data_correction,True
-https://forgemia.inra.fr/sunrise/inference_methods,False
+https://forgemia.inra.fr/sunrise/inference_methods,True
 https://forgemia.inra.fr/sunrise/inference_sunrise,True
 https://forgemia.inra.fr/sunrise/network-inference,True
 https://forgemia.inra.fr/svdetection/cnvpipelines,True
@@ -1093,7 +1094,7 @@ https://github.com/139bercy/secret_stat,True
 https://github.com/139bercy/tresthor,True
 https://github.com/139bercy/veille-sociale-synthese,True
 https://github.com/AC-Rennes-OpenSource/alambic,True
-https://github.com/AC-Rennes-OpenSource/alambic-addon-mvn-archetype,False
+https://github.com/AC-Rennes-OpenSource/alambic-addon-mvn-archetype,True
 https://github.com/ANSSI-FR/AD-control-paths,True
 https://github.com/ANSSI-FR/AD-permissions,True
 https://github.com/ANSSI-FR/ADCP-DirectoryCrawler,True
@@ -4223,6 +4224,7 @@ https://github.com/dataesr/harvest-pubmed,True
 https://github.com/dataesr/kubectl-deploy,True
 https://github.com/dataesr/matcher,True
 https://github.com/dataesr/onedrive,True
+https://github.com/dataesr/paysage-api,False
 https://github.com/dataesr/paysage-openapi,True
 https://github.com/dataesr/react-dsfr,True
 https://github.com/dataesr/realtime-dashboard,True
@@ -6103,6 +6105,7 @@ https://github.com/openfisca/calculette-impots-web-explorer,True
 https://github.com/openfisca/combine-calculators,True
 https://github.com/openfisca/communication,True
 https://github.com/openfisca/country-template,True
+https://github.com/openfisca/demo.openfisca.org,False
 https://github.com/openfisca/extension-template,True
 https://github.com/openfisca/fr.openfisca.org,True
 https://github.com/openfisca/ga,True
@@ -6887,6 +6890,7 @@ https://gitlab.com/DREES_code/public/etudes/er1143,True
 https://gitlab.com/DREES_code/public/etudes/er1179,True
 https://gitlab.com/DREES_code/public/etudes/er1191,True
 https://gitlab.com/DREES_code/public/etudes/er1212,True
+https://gitlab.com/DREES_code/public/etudes/er1214,False
 https://gitlab.com/DREES_code/public/etudes/er745,True
 https://gitlab.com/DREES_code/public/etudes/er838,True
 https://gitlab.com/DREES_code/public/etudes/openghm,True
@@ -7640,6 +7644,7 @@ https://gitlab.inria.fr/astec/astec-2019-published,True
 https://gitlab.inria.fr/astec/astec-tutorial,True
 https://gitlab.inria.fr/auctus-team/people/antunskuric/four_link_robot,True
 https://gitlab.inria.fr/auctus-team/people/antunskuric/kinect/nite,True
+https://gitlab.inria.fr/auctus-team/people/antunskuric/pycapacity,False
 https://gitlab.inria.fr/auctus-team/people/antunskuric/pyomeca_examples,True
 https://gitlab.inria.fr/auctus-team/people/antunskuric/pyosim_examples,True
 https://gitlab.inria.fr/auctus-team/people/gautierlaisne/public/opensim-in-cpp-simple-example-project,False
@@ -8860,6 +8865,7 @@ https://gitlab.inria.fr/solverstack/distrib,True
 https://gitlab.inria.fr/solverstack/fabulous,True
 https://gitlab.inria.fr/solverstack/genfem,True
 https://gitlab.inria.fr/solverstack/h2p3s,True
+https://gitlab.inria.fr/solverstack/hello-mpi,False
 https://gitlab.inria.fr/solverstack/hips,True
 https://gitlab.inria.fr/solverstack/hqr,True
 https://gitlab.inria.fr/solverstack/maphys/maphys,True
@@ -9256,7 +9262,7 @@ https://gitlab.mim-libre.fr/EOLE/Zephir/application,False
 https://gitlab.mim-libre.fr/EOLE/Zephir/ci,False
 https://gitlab.mim-libre.fr/EOLE/Zephir/data-model-eole,False
 https://gitlab.mim-libre.fr/EOLE/Zephir/documentation,False
-https://gitlab.mim-libre.fr/EOLE/Zephir/jenkins,False
+https://gitlab.mim-libre.fr/EOLE/Zephir/jenkins,True
 https://gitlab.mim-libre.fr/EOLE/Zephir/messages-api,False
 https://gitlab.mim-libre.fr/EOLE/Zephir/python-zephir,True
 https://gitlab.mim-libre.fr/EOLE/Zephir/services/api-bridge,False
@@ -9268,13 +9274,13 @@ https://gitlab.mim-libre.fr/EOLE/Zephir/services/identity-manager,False
 https://gitlab.mim-libre.fr/EOLE/Zephir/services/keycloak,False
 https://gitlab.mim-libre.fr/EOLE/Zephir/services/messages-web,True
 https://gitlab.mim-libre.fr/EOLE/Zephir/services/orchestrate-containerpilot,False
-https://gitlab.mim-libre.fr/EOLE/Zephir/services/postgres,False
+https://gitlab.mim-libre.fr/EOLE/Zephir/services/postgres,True
 https://gitlab.mim-libre.fr/EOLE/Zephir/services/saltmaster-manager,False
 https://gitlab.mim-libre.fr/EOLE/Zephir/services/server-manager,False
 https://gitlab.mim-libre.fr/EOLE/Zephir/services/servermodel-manager,False
 https://gitlab.mim-libre.fr/EOLE/Zephir/services/serverselection,True
 https://gitlab.mim-libre.fr/EOLE/Zephir/services/traefik,False
-https://gitlab.mim-libre.fr/EOLE/Zephir/services/vault-manager,False
+https://gitlab.mim-libre.fr/EOLE/Zephir/services/vault-manager,True
 https://gitlab.mim-libre.fr/EOLE/Zephir/services/web,False
 https://gitlab.mim-libre.fr/EOLE/Zephir/services/zone-manager,False
 https://gitlab.mim-libre.fr/EOLE/Zephir/webui,False
@@ -9501,7 +9507,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/monitoring,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/monitoring-summer-snapshot,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/perfreporter,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/publications/reports,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/publications/resif-dc-services,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/publications/resif-dc-services,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/pz_resif,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/qpidd-k8s,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/resif-datacite-cli,True
