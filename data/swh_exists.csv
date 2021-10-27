@@ -283,7 +283,7 @@ https://forgemia.inra.fr/biocom/biocom-pipe,True
 https://forgemia.inra.fr/biocom/biocom-pipe_manual,True
 https://forgemia.inra.fr/bioger/django-custom-user,True
 https://forgemia.inra.fr/bios4biol/bioinfo-utils,True
-https://forgemia.inra.fr/bios4biol/training-aln-variant-calling,False
+https://forgemia.inra.fr/bios4biol/training-aln-variant-calling,True
 https://forgemia.inra.fr/bios4biol/workflows,True
 https://forgemia.inra.fr/biosys-public/rba-inrae-fr,True
 https://forgemia.inra.fr/canular/canular,True
@@ -9214,7 +9214,7 @@ https://gitlab.mbb.univ-montp2.fr/grenouille_rousse/mitochondrion,False
 https://gitlab.mbb.univ-montp2.fr/grenouille_rousse/probedesign,True
 https://gitlab.mbb.univ-montp2.fr/intrapop/assemble_mitogenome,False
 https://gitlab.mbb.univ-montp2.fr/intrapop/prepare_wgs_data,False
-https://gitlab.mbb.univ-montp2.fr/intrapop/primer-design,False
+https://gitlab.mbb.univ-montp2.fr/intrapop/primer-design,True
 https://gitlab.mbb.univ-montp2.fr/lxdsingu/atelier-lxdsingu,False
 https://gitlab.mbb.univ-montp2.fr/macse/macse,False
 https://gitlab.mbb.univ-montp2.fr/mbb/CroCo,True
@@ -9233,7 +9233,7 @@ https://gitlab.mbb.univ-montp2.fr/reservebenefit/snps_statistics,False
 https://gitlab.mbb.univ-montp2.fr/reservebenefit/subset_30_samples_vcf,False
 https://gitlab.mbb.univ-montp2.fr/reservebenefit/webapp_marine_worldmap_bold,True
 https://gitlab.mbb.univ-montp2.fr/reservebenefit/worldmap_fish_genetic_diversity,False
-https://gitlab.mbb.univ-montp2.fr/reservebenefit/worldmap_genetic_diversity_2,False
+https://gitlab.mbb.univ-montp2.fr/reservebenefit/worldmap_genetic_diversity_2,True
 https://gitlab.mbb.univ-montp2.fr/saltstack-formulas/borgbackup,True
 https://gitlab.mbb.univ-montp2.fr/saltstack-formulas/check_disks,False
 https://gitlab.mbb.univ-montp2.fr/saltstack-formulas/check_services,True
@@ -9271,7 +9271,7 @@ https://gitlab.mim-libre.fr/EOLE/Zephir/services/postgres,False
 https://gitlab.mim-libre.fr/EOLE/Zephir/services/saltmaster-manager,False
 https://gitlab.mim-libre.fr/EOLE/Zephir/services/server-manager,False
 https://gitlab.mim-libre.fr/EOLE/Zephir/services/servermodel-manager,False
-https://gitlab.mim-libre.fr/EOLE/Zephir/services/serverselection,False
+https://gitlab.mim-libre.fr/EOLE/Zephir/services/serverselection,True
 https://gitlab.mim-libre.fr/EOLE/Zephir/services/traefik,False
 https://gitlab.mim-libre.fr/EOLE/Zephir/services/vault-manager,False
 https://gitlab.mim-libre.fr/EOLE/Zephir/services/web,False
