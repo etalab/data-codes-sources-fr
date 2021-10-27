@@ -1885,6 +1885,7 @@ https://github.com/GIP-RECIA/h5p-php-library,True
 https://github.com/GIP-RECIA/help-info-portlet,True
 https://github.com/GIP-RECIA/icons-pack,True
 https://github.com/GIP-RECIA/iframe-resizer,True
+https://github.com/GIP-RECIA/karuta-backend,False
 https://github.com/GIP-RECIA/karuta-deployer,True
 https://github.com/GIP-RECIA/karuta-fileserver,False
 https://github.com/GIP-RECIA/menu-cantine-ui,True
@@ -5294,7 +5295,7 @@ https://github.com/incubateur-territoires/discourse-private-replies,True
 https://github.com/incubateur-territoires/discourse-theme,True
 https://github.com/incubateur-territoires/docker,True
 https://github.com/incubateur-territoires/dokku-discourse,True
-https://github.com/incubateur-territoires/feedback-widget,False
+https://github.com/incubateur-territoires/feedback-widget,True
 https://github.com/incubateur-territoires/gridsome-source-graphql,True
 https://github.com/incubateur-territoires/incubateur-directus,True
 https://github.com/incubateur-territoires/incubateur-mattermost,True
@@ -8605,7 +8606,7 @@ https://gitlab.inria.fr/nixos-compose/ipanema-nixos-compose,True
 https://gitlab.inria.fr/nixos-compose/nixos-compose,True
 https://gitlab.inria.fr/obelix/broceliande,True
 https://gitlab.inria.fr/obelix/triskele,True
-https://gitlab.inria.fr/office-431/oar-time,False
+https://gitlab.inria.fr/office-431/oar-time,True
 https://gitlab.inria.fr/open-mx/open-mx,True
 https://gitlab.inria.fr/openbiscuit/rescience_egbert14,True
 https://gitlab.inria.fr/openbiscuit/software/loriakhep,True
@@ -8854,7 +8855,7 @@ https://gitlab.inria.fr/skeletons/stage-olivier-idir,True
 https://gitlab.inria.fr/skelton/pyskelton,True
 https://gitlab.inria.fr/skelton/skelton2,True
 https://gitlab.inria.fr/slows-public-group/slows_public,False
-https://gitlab.inria.fr/socialbus/documentation,False
+https://gitlab.inria.fr/socialbus/documentation,True
 https://gitlab.inria.fr/socialbus/webhook-manager,True
 https://gitlab.inria.fr/socialbus/website,True
 https://gitlab.inria.fr/sollya/sollya,True
@@ -9198,9 +9199,9 @@ https://gitlab.mbb.univ-montp2.fr/edna/bash_swarm,True
 https://gitlab.mbb.univ-montp2.fr/edna/bash_vsearch_ecotag,False
 https://gitlab.mbb.univ-montp2.fr/edna/benchmark_pipelines,False
 https://gitlab.mbb.univ-montp2.fr/edna/custom_reference_database,False
-https://gitlab.mbb.univ-montp2.fr/edna/exploitation/beginning_obitools,False
+https://gitlab.mbb.univ-montp2.fr/edna/exploitation/beginning_obitools,True
 https://gitlab.mbb.univ-montp2.fr/edna/exploitation/dada2_and_obitools,True
-https://gitlab.mbb.univ-montp2.fr/edna/exploitation/edna_intra_pipeline_comparison,False
+https://gitlab.mbb.univ-montp2.fr/edna/exploitation/edna_intra_pipeline_comparison,True
 https://gitlab.mbb.univ-montp2.fr/edna/exploitation/only_obitools,False
 https://gitlab.mbb.univ-montp2.fr/edna/exploitation/primer_design,False
 https://gitlab.mbb.univ-montp2.fr/edna/exploitation/primer_specificity_ecopcr,False
@@ -9237,7 +9238,7 @@ https://gitlab.mbb.univ-montp2.fr/reservebenefit/occurence_freshwater_marine_spe
 https://gitlab.mbb.univ-montp2.fr/reservebenefit/sexual_palinurus_elephas,False
 https://gitlab.mbb.univ-montp2.fr/reservebenefit/snakemake_stacks2,True
 https://gitlab.mbb.univ-montp2.fr/reservebenefit/snps_statistics,False
-https://gitlab.mbb.univ-montp2.fr/reservebenefit/subset_30_samples_vcf,False
+https://gitlab.mbb.univ-montp2.fr/reservebenefit/subset_30_samples_vcf,True
 https://gitlab.mbb.univ-montp2.fr/reservebenefit/webapp_marine_worldmap_bold,True
 https://gitlab.mbb.univ-montp2.fr/reservebenefit/worldmap_fish_genetic_diversity,False
 https://gitlab.mbb.univ-montp2.fr/reservebenefit/worldmap_genetic_diversity_2,True
@@ -9322,7 +9323,7 @@ https://gitlab.mim-libre.fr/alphabet/radicale_mongo,False
 https://gitlab.mim-libre.fr/alphabet/sondage,False
 https://gitlab.mim-libre.fr/extensions-peertube/categories-management-plugin,False
 https://gitlab.mim-libre.fr/extensions-peertube/plugin-transcription,False
-https://gitlab.mim-libre.fr/menjs-dne-public/fr.edu.appwhite,False
+https://gitlab.mim-libre.fr/menjs-dne-public/fr.edu.appwhite,True
 https://gitlab.mim-libre.fr/menjs-dne-public/fr.gouv.menjs.genhtmlrgaa,False
 https://gitlab.mim-libre.fr/sndv-maritime/moana,False
 https://gitlab.orfeo-toolbox.org/maja/maja,True
