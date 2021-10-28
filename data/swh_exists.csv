@@ -8266,6 +8266,7 @@ https://gitlab.inria.fr/gecos/gecos-tools/gecos-tools-tommapping,True
 https://gitlab.inria.fr/gecos/gecos-tools/gecos-tools-tomsdk,True
 https://gitlab.inria.fr/gem5-nop/gem5,True
 https://gitlab.inria.fr/genouest-public/genouest-about,True
+https://gitlab.inria.fr/geofun/geofun,False
 https://gitlab.inria.fr/geomerix/ichol,True
 https://gitlab.inria.fr/gerzaguet_public/2a_imr_wirelessnetwork_lab,True
 https://gitlab.inria.fr/gerzaguet_public/3a_sysnum_wirelesscomm_tx,True
@@ -9253,8 +9254,8 @@ https://gitlab.mbb.univ-montp2.fr/saltstack-formulas/borgbackup,True
 https://gitlab.mbb.univ-montp2.fr/saltstack-formulas/check_disks,True
 https://gitlab.mbb.univ-montp2.fr/saltstack-formulas/check_services,True
 https://gitlab.mbb.univ-montp2.fr/saltstack-formulas/get_d_states,True
-https://gitlab.mbb.univ-montp2.fr/saltstack-formulas/set_grains,False
-https://gitlab.mbb.univ-montp2.fr/seaconnect/annotationvariant,False
+https://gitlab.mbb.univ-montp2.fr/saltstack-formulas/set_grains,True
+https://gitlab.mbb.univ-montp2.fr/seaconnect/annotationvariant,True
 https://gitlab.mbb.univ-montp2.fr/seaconnect/clean-fastq,False
 https://gitlab.mbb.univ-montp2.fr/seaconnect/ddocent_radseq,False
 https://gitlab.mbb.univ-montp2.fr/seaconnect/seaConnect--dataPrep,True
@@ -9283,7 +9284,7 @@ https://gitlab.mim-libre.fr/EOLE/Zephir/services/keycloak,False
 https://gitlab.mim-libre.fr/EOLE/Zephir/services/messages-web,True
 https://gitlab.mim-libre.fr/EOLE/Zephir/services/orchestrate-containerpilot,False
 https://gitlab.mim-libre.fr/EOLE/Zephir/services/postgres,True
-https://gitlab.mim-libre.fr/EOLE/Zephir/services/saltmaster-manager,False
+https://gitlab.mim-libre.fr/EOLE/Zephir/services/saltmaster-manager,True
 https://gitlab.mim-libre.fr/EOLE/Zephir/services/server-manager,False
 https://gitlab.mim-libre.fr/EOLE/Zephir/services/servermodel-manager,False
 https://gitlab.mim-libre.fr/EOLE/Zephir/services/serverselection,True
