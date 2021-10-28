@@ -729,6 +729,7 @@ https://git.ademe.fr/docker/getpdf,True
 https://git.ademe.fr/docker/httpd,True
 https://git.ademe.fr/docker/httpd-php,True
 https://git.ademe.fr/docker/mkdocs,True
+https://git.ademe.fr/docker/outils/dind-compose,False
 https://git.ademe.fr/docker/phpfpm,True
 https://git.ademe.fr/docker/ssh-sftp,False
 https://git.ademe.fr/docker/sshd-sftp,True
@@ -1090,6 +1091,7 @@ https://github.com/139bercy/opendata-quality,True
 https://github.com/139bercy/orchestrator-ETL,True
 https://github.com/139bercy/propilot2pdf,True
 https://github.com/139bercy/pypel,True
+https://github.com/139bercy/qualite-decp,False
 https://github.com/139bercy/secret_stat,True
 https://github.com/139bercy/tresthor,True
 https://github.com/139bercy/veille-sociale-synthese,True
@@ -3192,6 +3194,7 @@ https://github.com/X-DataInitiative/tick,True
 https://github.com/X-DataInitiative/tick-datasets,True
 https://github.com/X-DataInitiative/tick_appveyor,True
 https://github.com/X-DataInitiative/tick_archive,True
+https://github.com/abes-esr/Koha-Plugin-KohaLa-AbesWS,False
 https://github.com/abes-esr/LnEvent,True
 https://github.com/abes-esr/abes-filebeat-docker,True
 https://github.com/abes-esr/abes-format-pivot,True
@@ -3229,6 +3232,7 @@ https://github.com/abes-esr/item-api,True
 https://github.com/abes-esr/item-client,True
 https://github.com/abes-esr/jabes-2021-jq,True
 https://github.com/abes-esr/kalidos,True
+https://github.com/abes-esr/koha-abes-ws,False
 https://github.com/abes-esr/licencesnationales-back,True
 https://github.com/abes-esr/licencesnationales-front,True
 https://github.com/abes-esr/ln-back-event,False
@@ -5063,7 +5067,7 @@ https://github.com/ezpaarse-project/ezpaarse-tools,True
 https://github.com/ezpaarse-project/ezpaarse-visualizer,True
 https://github.com/ezpaarse-project/ezpaarse-web-header,True
 https://github.com/ezpaarse-project/ezpaarse-web-home,True
-https://github.com/ezpaarse-project/ezreporting,False
+https://github.com/ezpaarse-project/ezreporting,True
 https://github.com/ezpaarse-project/ezunpaywall,True
 https://github.com/ezpaarse-project/getting-started-with-ezvis,True
 https://github.com/ezpaarse-project/ip-range-generator,True
@@ -7340,6 +7344,7 @@ https://gitlab.inria.fr/Damaris/Simulations/noise,True
 https://gitlab.inria.fr/Damaris/damaris,True
 https://gitlab.inria.fr/E2Clab/Paper-Artifacts/plantnet,True
 https://gitlab.inria.fr/E2Clab/e2clab,True
+https://gitlab.inria.fr/Fmg/fmg,False
 https://gitlab.inria.fr/GATB/gatb-core,True
 https://gitlab.inria.fr/GATB/simka,True
 https://gitlab.inria.fr/GUDHI/coxeter_for_ouragan,True
@@ -9198,7 +9203,7 @@ https://gitlab.mbb.univ-montp2.fr/courses/ncbi_entrez,True
 https://gitlab.mbb.univ-montp2.fr/courses/workshop_git,False
 https://gitlab.mbb.univ-montp2.fr/edna/GAPeDNA,False
 https://gitlab.mbb.univ-montp2.fr/edna/bash_swarm,True
-https://gitlab.mbb.univ-montp2.fr/edna/bash_vsearch_ecotag,False
+https://gitlab.mbb.univ-montp2.fr/edna/bash_vsearch_ecotag,True
 https://gitlab.mbb.univ-montp2.fr/edna/benchmark_pipelines,False
 https://gitlab.mbb.univ-montp2.fr/edna/custom_reference_database,False
 https://gitlab.mbb.univ-montp2.fr/edna/exploitation/beginning_obitools,True
@@ -9211,14 +9216,14 @@ https://gitlab.mbb.univ-montp2.fr/edna/exploitation/primers_specificity_mismatch
 https://gitlab.mbb.univ-montp2.fr/edna/exploitation/swarm_and_obitools,True
 https://gitlab.mbb.univ-montp2.fr/edna/metabarcoding_data_simulations,True
 https://gitlab.mbb.univ-montp2.fr/edna/nextflow_obitools,False
-https://gitlab.mbb.univ-montp2.fr/edna/only_obitools,False
+https://gitlab.mbb.univ-montp2.fr/edna/only_obitools,True
 https://gitlab.mbb.univ-montp2.fr/edna/query_metabarcoding_data,True
 https://gitlab.mbb.univ-montp2.fr/edna/reference_database,False
 https://gitlab.mbb.univ-montp2.fr/edna/snakemake_only_obitools,False
 https://gitlab.mbb.univ-montp2.fr/edna/snakemake_rapidrun_data_test,True
 https://gitlab.mbb.univ-montp2.fr/edna/snakemake_rapidrun_obitools,True
 https://gitlab.mbb.univ-montp2.fr/edna/snakemake_rapidrun_swarm,True
-https://gitlab.mbb.univ-montp2.fr/edna/test_metabarcoding_data,False
+https://gitlab.mbb.univ-montp2.fr/edna/test_metabarcoding_data,True
 https://gitlab.mbb.univ-montp2.fr/edna/tutorial_metabarcoding_data,True
 https://gitlab.mbb.univ-montp2.fr/grenouille_rousse/mitochondrion,False
 https://gitlab.mbb.univ-montp2.fr/grenouille_rousse/probedesign,True
@@ -9264,7 +9269,7 @@ https://gitlab.metromobilite.fr/m/public/metro-flutter,True
 https://gitlab.mim-libre.fr/EOLE/Zephir/application,False
 https://gitlab.mim-libre.fr/EOLE/Zephir/ci,False
 https://gitlab.mim-libre.fr/EOLE/Zephir/data-model-eole,False
-https://gitlab.mim-libre.fr/EOLE/Zephir/documentation,False
+https://gitlab.mim-libre.fr/EOLE/Zephir/documentation,True
 https://gitlab.mim-libre.fr/EOLE/Zephir/jenkins,True
 https://gitlab.mim-libre.fr/EOLE/Zephir/messages-api,False
 https://gitlab.mim-libre.fr/EOLE/Zephir/python-zephir,True
@@ -9292,7 +9297,7 @@ https://gitlab.mim-libre.fr/EOLE/Zephir/zephir-connect,True
 https://gitlab.mim-libre.fr/EOLE/amon-3/iso-builder,False
 https://gitlab.mim-libre.fr/EOLE/amon-3/opnsense/bsdinstaller,False
 https://gitlab.mim-libre.fr/EOLE/amon-3/opnsense/changelog,False
-https://gitlab.mim-libre.fr/EOLE/amon-3/opnsense/core,False
+https://gitlab.mim-libre.fr/EOLE/amon-3/opnsense/core,True
 https://gitlab.mim-libre.fr/EOLE/amon-3/opnsense/dhcp6c,False
 https://gitlab.mim-libre.fr/EOLE/amon-3/opnsense/docs,True
 https://gitlab.mim-libre.fr/EOLE/amon-3/opnsense/installer,True
@@ -9303,7 +9308,7 @@ https://gitlab.mim-libre.fr/EOLE/amon-3/opnsense/plugins,True
 https://gitlab.mim-libre.fr/EOLE/amon-3/opnsense/ports,False
 https://gitlab.mim-libre.fr/EOLE/amon-3/opnsense/rules,True
 https://gitlab.mim-libre.fr/EOLE/amon-3/opnsense/src,True
-https://gitlab.mim-libre.fr/EOLE/amon-3/opnsense/tools,False
+https://gitlab.mim-libre.fr/EOLE/amon-3/opnsense/tools,True
 https://gitlab.mim-libre.fr/EOLE/amon-3/opnsense/update-tools,True
 https://gitlab.mim-libre.fr/EOLE/eole-3/provisionner,False
 https://gitlab.mim-libre.fr/EOLE/hackathon-kubernetes,False
@@ -9317,13 +9322,13 @@ https://gitlab.mim-libre.fr/alphabet/infra-apps,False
 https://gitlab.mim-libre.fr/alphabet/infra-beta-apps,False
 https://gitlab.mim-libre.fr/alphabet/laboite,True
 https://gitlab.mim-libre.fr/alphabet/laboite-blog,False
-https://gitlab.mim-libre.fr/alphabet/laboite-blog-api,False
+https://gitlab.mim-libre.fr/alphabet/laboite-blog-api,True
 https://gitlab.mim-libre.fr/alphabet/laboite-blog-front,False
 https://gitlab.mim-libre.fr/alphabet/latelier,False
 https://gitlab.mim-libre.fr/alphabet/mezig,False
 https://gitlab.mim-libre.fr/alphabet/radicale_mongo,False
 https://gitlab.mim-libre.fr/alphabet/sondage,True
-https://gitlab.mim-libre.fr/extensions-peertube/categories-management-plugin,False
+https://gitlab.mim-libre.fr/extensions-peertube/categories-management-plugin,True
 https://gitlab.mim-libre.fr/extensions-peertube/plugin-transcription,False
 https://gitlab.mim-libre.fr/menjs-dne-public/fr.edu.appwhite,True
 https://gitlab.mim-libre.fr/menjs-dne-public/fr.gouv.menjs.genhtmlrgaa,False
