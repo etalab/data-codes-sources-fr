@@ -274,7 +274,7 @@ https://forgemia.inra.fr/anaee-dev/oboe,True
 https://forgemia.inra.fr/anaee-dev/si-ore-v2,True
 https://forgemia.inra.fr/baric/family-companion,True
 https://forgemia.inra.fr/beyond/beyond_si,True
-https://forgemia.inra.fr/beyond/front-landing-page,False
+https://forgemia.inra.fr/beyond/front-landing-page,True
 https://forgemia.inra.fr/bibliome/alvisae-anaee,True
 https://forgemia.inra.fr/bibliome/bionlp-st-py,True
 https://forgemia.inra.fr/bibliome/formation-alvisnlp,True
@@ -1888,6 +1888,7 @@ https://github.com/GIP-RECIA/iframe-resizer,True
 https://github.com/GIP-RECIA/karuta-backend,False
 https://github.com/GIP-RECIA/karuta-deployer,True
 https://github.com/GIP-RECIA/karuta-fileserver,False
+https://github.com/GIP-RECIA/karuta-frontend,False
 https://github.com/GIP-RECIA/menu-cantine-ui,True
 https://github.com/GIP-RECIA/moodle,True
 https://github.com/GIP-RECIA/moodle-blocks-course_overview_esco,True
@@ -2303,7 +2304,7 @@ https://github.com/InseeFr/Wilco,True
 https://github.com/InseeFr/diffman,True
 https://github.com/InseeFr/disaggR,True
 https://github.com/InseeFr/sugoi-api,True
-https://github.com/InseeFr/sugoi-ui,False
+https://github.com/InseeFr/sugoi-ui,True
 https://github.com/InseeFrLab/AdventOfCodeLeaderboard,True
 https://github.com/InseeFrLab/BootcampJS-API,True
 https://github.com/InseeFrLab/BootcampJS-JS,True
@@ -5062,6 +5063,7 @@ https://github.com/ezpaarse-project/ezpaarse-tools,True
 https://github.com/ezpaarse-project/ezpaarse-visualizer,True
 https://github.com/ezpaarse-project/ezpaarse-web-header,True
 https://github.com/ezpaarse-project/ezpaarse-web-home,True
+https://github.com/ezpaarse-project/ezreporting,False
 https://github.com/ezpaarse-project/ezunpaywall,True
 https://github.com/ezpaarse-project/getting-started-with-ezvis,True
 https://github.com/ezpaarse-project/ip-range-generator,True
@@ -7645,7 +7647,7 @@ https://gitlab.inria.fr/astec/astec-2019-published,True
 https://gitlab.inria.fr/astec/astec-tutorial,True
 https://gitlab.inria.fr/auctus-team/people/antunskuric/four_link_robot,True
 https://gitlab.inria.fr/auctus-team/people/antunskuric/kinect/nite,True
-https://gitlab.inria.fr/auctus-team/people/antunskuric/pycapacity,False
+https://gitlab.inria.fr/auctus-team/people/antunskuric/pycapacity,True
 https://gitlab.inria.fr/auctus-team/people/antunskuric/pyomeca_examples,True
 https://gitlab.inria.fr/auctus-team/people/antunskuric/pyosim_examples,True
 https://gitlab.inria.fr/auctus-team/people/gautierlaisne/public/opensim-in-cpp-simple-example-project,True
@@ -8712,7 +8714,7 @@ https://gitlab.inria.fr/realopt/TemporalKnapsack,True
 https://gitlab.inria.fr/regular-pv/timbuk/ocaml,True
 https://gitlab.inria.fr/regular-pv/timbuk/timbuk,True
 https://gitlab.inria.fr/remote-inria/remi,True
-https://gitlab.inria.fr/remote-inria/remote-inria.gitlabpages.inria.fr,False
+https://gitlab.inria.fr/remote-inria/remote-inria.gitlabpages.inria.fr,True
 https://gitlab.inria.fr/reo/transport-in-1d-networks,True
 https://gitlab.inria.fr/resibots/public/py_map_elites,True
 https://gitlab.inria.fr/resist/tutorial-iot-security,True
@@ -9191,8 +9193,8 @@ https://gitlab.mbb.univ-montp2.fr/bev/ffq,True
 https://gitlab.mbb.univ-montp2.fr/bev/genbar,True
 https://gitlab.mbb.univ-montp2.fr/bev/seascape_course_cloud,True
 https://gitlab.mbb.univ-montp2.fr/bev/singularity_hub,True
-https://gitlab.mbb.univ-montp2.fr/courses/hello_world,False
-https://gitlab.mbb.univ-montp2.fr/courses/ncbi_entrez,False
+https://gitlab.mbb.univ-montp2.fr/courses/hello_world,True
+https://gitlab.mbb.univ-montp2.fr/courses/ncbi_entrez,True
 https://gitlab.mbb.univ-montp2.fr/courses/workshop_git,False
 https://gitlab.mbb.univ-montp2.fr/edna/GAPeDNA,False
 https://gitlab.mbb.univ-montp2.fr/edna/bash_swarm,True
@@ -9206,7 +9208,7 @@ https://gitlab.mbb.univ-montp2.fr/edna/exploitation/only_obitools,False
 https://gitlab.mbb.univ-montp2.fr/edna/exploitation/primer_design,False
 https://gitlab.mbb.univ-montp2.fr/edna/exploitation/primer_specificity_ecopcr,False
 https://gitlab.mbb.univ-montp2.fr/edna/exploitation/primers_specificity_mismatchplot,True
-https://gitlab.mbb.univ-montp2.fr/edna/exploitation/swarm_and_obitools,False
+https://gitlab.mbb.univ-montp2.fr/edna/exploitation/swarm_and_obitools,True
 https://gitlab.mbb.univ-montp2.fr/edna/metabarcoding_data_simulations,True
 https://gitlab.mbb.univ-montp2.fr/edna/nextflow_obitools,False
 https://gitlab.mbb.univ-montp2.fr/edna/only_obitools,False
@@ -9266,7 +9268,7 @@ https://gitlab.mim-libre.fr/EOLE/Zephir/documentation,False
 https://gitlab.mim-libre.fr/EOLE/Zephir/jenkins,True
 https://gitlab.mim-libre.fr/EOLE/Zephir/messages-api,False
 https://gitlab.mim-libre.fr/EOLE/Zephir/python-zephir,True
-https://gitlab.mim-libre.fr/EOLE/Zephir/services/api-bridge,False
+https://gitlab.mim-libre.fr/EOLE/Zephir/services/api-bridge,True
 https://gitlab.mim-libre.fr/EOLE/Zephir/services/config-manager,False
 https://gitlab.mim-libre.fr/EOLE/Zephir/services/consul,False
 https://gitlab.mim-libre.fr/EOLE/Zephir/services/crossbar,False
@@ -9285,7 +9287,7 @@ https://gitlab.mim-libre.fr/EOLE/Zephir/services/vault-manager,True
 https://gitlab.mim-libre.fr/EOLE/Zephir/services/web,False
 https://gitlab.mim-libre.fr/EOLE/Zephir/services/zone-manager,False
 https://gitlab.mim-libre.fr/EOLE/Zephir/webui,False
-https://gitlab.mim-libre.fr/EOLE/Zephir/zcli,False
+https://gitlab.mim-libre.fr/EOLE/Zephir/zcli,True
 https://gitlab.mim-libre.fr/EOLE/Zephir/zephir-connect,True
 https://gitlab.mim-libre.fr/EOLE/amon-3/iso-builder,False
 https://gitlab.mim-libre.fr/EOLE/amon-3/opnsense/bsdinstaller,False
@@ -9297,7 +9299,7 @@ https://gitlab.mim-libre.fr/EOLE/amon-3/opnsense/installer,True
 https://gitlab.mim-libre.fr/EOLE/amon-3/opnsense/jquery-bootgrid,True
 https://gitlab.mim-libre.fr/EOLE/amon-3/opnsense/lang,False
 https://gitlab.mim-libre.fr/EOLE/amon-3/opnsense/pam_opnsense,False
-https://gitlab.mim-libre.fr/EOLE/amon-3/opnsense/plugins,False
+https://gitlab.mim-libre.fr/EOLE/amon-3/opnsense/plugins,True
 https://gitlab.mim-libre.fr/EOLE/amon-3/opnsense/ports,False
 https://gitlab.mim-libre.fr/EOLE/amon-3/opnsense/rules,True
 https://gitlab.mim-libre.fr/EOLE/amon-3/opnsense/src,True
@@ -9325,7 +9327,7 @@ https://gitlab.mim-libre.fr/extensions-peertube/categories-management-plugin,Fal
 https://gitlab.mim-libre.fr/extensions-peertube/plugin-transcription,False
 https://gitlab.mim-libre.fr/menjs-dne-public/fr.edu.appwhite,True
 https://gitlab.mim-libre.fr/menjs-dne-public/fr.gouv.menjs.genhtmlrgaa,False
-https://gitlab.mim-libre.fr/sndv-maritime/moana,False
+https://gitlab.mim-libre.fr/sndv-maritime/moana,True
 https://gitlab.orfeo-toolbox.org/maja/maja,True
 https://gitlab.orfeo-toolbox.org/maja/maja-build-env,True
 https://gitlab.orfeo-toolbox.org/maja/maja-utilities,True
