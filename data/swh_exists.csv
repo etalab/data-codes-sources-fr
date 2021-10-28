@@ -4396,7 +4396,7 @@ https://github.com/diverse-project/xcore-light,True
 https://github.com/diverse-project/yajta-mirror,True
 https://github.com/dnum-mi/carto-rna,False
 https://github.com/dnum-mi/cartographie-donnees,True
-https://github.com/dnum-mi/demo-vue-dsfr,False
+https://github.com/dnum-mi/demo-vue-dsfr,True
 https://github.com/dnum-mi/vue-dsfr,False
 https://github.com/dsi-ehess/VIVO,True
 https://github.com/dsi-ehess/VIVO-EHESS,True
@@ -6891,7 +6891,7 @@ https://gitlab.com/DREES_code/public/etudes/er1143,True
 https://gitlab.com/DREES_code/public/etudes/er1179,True
 https://gitlab.com/DREES_code/public/etudes/er1191,True
 https://gitlab.com/DREES_code/public/etudes/er1212,True
-https://gitlab.com/DREES_code/public/etudes/er1214,False
+https://gitlab.com/DREES_code/public/etudes/er1214,True
 https://gitlab.com/DREES_code/public/etudes/er745,True
 https://gitlab.com/DREES_code/public/etudes/er838,True
 https://gitlab.com/DREES_code/public/etudes/openghm,True
@@ -7648,7 +7648,7 @@ https://gitlab.inria.fr/auctus-team/people/antunskuric/kinect/nite,True
 https://gitlab.inria.fr/auctus-team/people/antunskuric/pycapacity,False
 https://gitlab.inria.fr/auctus-team/people/antunskuric/pyomeca_examples,True
 https://gitlab.inria.fr/auctus-team/people/antunskuric/pyosim_examples,True
-https://gitlab.inria.fr/auctus-team/people/gautierlaisne/public/opensim-in-cpp-simple-example-project,False
+https://gitlab.inria.fr/auctus-team/people/gautierlaisne/public/opensim-in-cpp-simple-example-project,True
 https://gitlab.inria.fr/auctus-team/website/auctus,True
 https://gitlab.inria.fr/auctus-team/website/auctus-team,False
 https://gitlab.inria.fr/auctus/human_library,True
@@ -9214,14 +9214,14 @@ https://gitlab.mbb.univ-montp2.fr/edna/query_metabarcoding_data,True
 https://gitlab.mbb.univ-montp2.fr/edna/reference_database,False
 https://gitlab.mbb.univ-montp2.fr/edna/snakemake_only_obitools,False
 https://gitlab.mbb.univ-montp2.fr/edna/snakemake_rapidrun_data_test,True
-https://gitlab.mbb.univ-montp2.fr/edna/snakemake_rapidrun_obitools,False
+https://gitlab.mbb.univ-montp2.fr/edna/snakemake_rapidrun_obitools,True
 https://gitlab.mbb.univ-montp2.fr/edna/snakemake_rapidrun_swarm,True
 https://gitlab.mbb.univ-montp2.fr/edna/test_metabarcoding_data,False
 https://gitlab.mbb.univ-montp2.fr/edna/tutorial_metabarcoding_data,True
 https://gitlab.mbb.univ-montp2.fr/grenouille_rousse/mitochondrion,False
 https://gitlab.mbb.univ-montp2.fr/grenouille_rousse/probedesign,True
 https://gitlab.mbb.univ-montp2.fr/intrapop/assemble_mitogenome,True
-https://gitlab.mbb.univ-montp2.fr/intrapop/prepare_wgs_data,False
+https://gitlab.mbb.univ-montp2.fr/intrapop/prepare_wgs_data,True
 https://gitlab.mbb.univ-montp2.fr/intrapop/primer-design,True
 https://gitlab.mbb.univ-montp2.fr/lxdsingu/atelier-lxdsingu,False
 https://gitlab.mbb.univ-montp2.fr/macse/macse,True
@@ -9240,10 +9240,10 @@ https://gitlab.mbb.univ-montp2.fr/reservebenefit/snakemake_stacks2,True
 https://gitlab.mbb.univ-montp2.fr/reservebenefit/snps_statistics,False
 https://gitlab.mbb.univ-montp2.fr/reservebenefit/subset_30_samples_vcf,True
 https://gitlab.mbb.univ-montp2.fr/reservebenefit/webapp_marine_worldmap_bold,True
-https://gitlab.mbb.univ-montp2.fr/reservebenefit/worldmap_fish_genetic_diversity,False
+https://gitlab.mbb.univ-montp2.fr/reservebenefit/worldmap_fish_genetic_diversity,True
 https://gitlab.mbb.univ-montp2.fr/reservebenefit/worldmap_genetic_diversity_2,True
 https://gitlab.mbb.univ-montp2.fr/saltstack-formulas/borgbackup,True
-https://gitlab.mbb.univ-montp2.fr/saltstack-formulas/check_disks,False
+https://gitlab.mbb.univ-montp2.fr/saltstack-formulas/check_disks,True
 https://gitlab.mbb.univ-montp2.fr/saltstack-formulas/check_services,True
 https://gitlab.mbb.univ-montp2.fr/saltstack-formulas/get_d_states,True
 https://gitlab.mbb.univ-montp2.fr/saltstack-formulas/set_grains,False
@@ -9320,7 +9320,7 @@ https://gitlab.mim-libre.fr/alphabet/laboite-blog-front,False
 https://gitlab.mim-libre.fr/alphabet/latelier,False
 https://gitlab.mim-libre.fr/alphabet/mezig,False
 https://gitlab.mim-libre.fr/alphabet/radicale_mongo,False
-https://gitlab.mim-libre.fr/alphabet/sondage,False
+https://gitlab.mim-libre.fr/alphabet/sondage,True
 https://gitlab.mim-libre.fr/extensions-peertube/categories-management-plugin,False
 https://gitlab.mim-libre.fr/extensions-peertube/plugin-transcription,False
 https://gitlab.mim-libre.fr/menjs-dne-public/fr.edu.appwhite,True
@@ -10014,7 +10014,7 @@ https://plmlab.math.cnrs.fr/docker-images/elasticsearch,True
 https://plmlab.math.cnrs.fr/docker-images/esup-pod,True
 https://plmlab.math.cnrs.fr/docker-images/helm-mirror,True
 https://plmlab.math.cnrs.fr/docker-images/hugo,True
-https://plmlab.math.cnrs.fr/docker-images/julia,False
+https://plmlab.math.cnrs.fr/docker-images/julia,True
 https://plmlab.math.cnrs.fr/docker-images/latex,True
 https://plmlab.math.cnrs.fr/docker-images/mariadb,True
 https://plmlab.math.cnrs.fr/docker-images/mkdocs,True
