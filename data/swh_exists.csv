@@ -1565,6 +1565,7 @@ https://github.com/DISIC/rgaa_reactjs,True
 https://github.com/DISIC/rgaa_referentiel,True
 https://github.com/DISIC/rgaa_referentiel_3-2016,True
 https://github.com/DISIC/rgaa_referentiel_en,True
+https://github.com/DISIC/rizomo,False
 https://github.com/DISIC/sill,True
 https://github.com/DISIC/sirh-paye-GEST-compar,True
 https://github.com/DISIC/sirh-paye-mqd-poc,True
@@ -2394,6 +2395,7 @@ https://github.com/InseeFrLab/rstudio,True
 https://github.com/InseeFrLab/rstudio-gpu,True
 https://github.com/InseeFrLab/simple-default-backend,True
 https://github.com/InseeFrLab/spark,True
+https://github.com/InseeFrLab/spark-formation,False
 https://github.com/InseeFrLab/spark-hadoop,True
 https://github.com/InseeFrLab/sspcloud,True
 https://github.com/InseeFrLab/sugoi-api,True
@@ -7246,6 +7248,7 @@ https://gitlab.huma-num.fr/mshs-poitiers/forellis/grafe,True
 https://gitlab.huma-num.fr/mshs-poitiers/forellis/lexifle,True
 https://gitlab.huma-num.fr/mshs-poitiers/forellis/marmython,True
 https://gitlab.huma-num.fr/mshs-poitiers/forellis/sudocmeta2csv,True
+https://gitlab.huma-num.fr/mshs-poitiers/forellis/syllabification_buchanan,False
 https://gitlab.huma-num.fr/mshs-poitiers/plateforme/xmlify,True
 https://gitlab.huma-num.fr/mshs-poitiers/xmlify,True
 https://gitlab.huma-num.fr/nakala-tools/nakalot,True
@@ -8104,7 +8107,7 @@ https://gitlab.inria.fr/formations/integrationcontinue/TutorielGpuPlafrim,True
 https://gitlab.inria.fr/formations/integrationcontinue/gitlabciintroduction,True
 https://gitlab.inria.fr/formations/ocaml/introduction-au-langage-ocaml,True
 https://gitlab.inria.fr/foscadiff/demoRameau,True
-https://gitlab.inria.fr/fungraph/freestylegan,False
+https://gitlab.inria.fr/fungraph/freestylegan,True
 https://gitlab.inria.fr/gagallium/gagallium,True
 https://gitlab.inria.fr/gagallium/gagallium-save,True
 https://gitlab.inria.fr/gagallium/gagallium-source,True
@@ -8365,6 +8368,7 @@ https://gitlab.inria.fr/hussein/multiagent_gnn_policies,True
 https://gitlab.inria.fr/hwloc/xmls,True
 https://gitlab.inria.fr/i3inria/raspi-k8s,True
 https://gitlab.inria.fr/iccv_2019/pyvideoresearch_gunnar,True
+https://gitlab.inria.fr/icesl-installers/packages,False
 https://gitlab.inria.fr/icpp22/icpp22.gitlabpages.inria.fr,True
 https://gitlab.inria.fr/igloo/igloo,True
 https://gitlab.inria.fr/igrida/gvirt,True
@@ -8617,6 +8621,7 @@ https://gitlab.inria.fr/nixos-compose/ipanema-nixos-compose,True
 https://gitlab.inria.fr/nixos-compose/nixos-compose,True
 https://gitlab.inria.fr/obelix/broceliande,True
 https://gitlab.inria.fr/obelix/triskele,True
+https://gitlab.inria.fr/office-431/moodle-procrastination-graph,False
 https://gitlab.inria.fr/office-431/oar-time,True
 https://gitlab.inria.fr/open-mx/open-mx,True
 https://gitlab.inria.fr/openbiscuit/rescience_egbert14,True
@@ -8730,6 +8735,7 @@ https://gitlab.inria.fr/resist/tutorial-iot-security,True
 https://gitlab.inria.fr/revol/mpfi,True
 https://gitlab.inria.fr/rmod-public/2019-sourcecodedata,True
 https://gitlab.inria.fr/rmod-public/steven-tests/steven-tests.gitlab.inria.fr,False
+https://gitlab.inria.fr/robotlearn/sfnec,False
 https://gitlab.inria.fr/robotlearn/xi_learning,False
 https://gitlab.inria.fr/ros_nodes/hrl-kdl,True
 https://gitlab.inria.fr/rsdschool21/lab,True
@@ -9247,7 +9253,7 @@ https://gitlab.mbb.univ-montp2.fr/reservebenefit/environmental_assign_data,False
 https://gitlab.mbb.univ-montp2.fr/reservebenefit/genome_assemblies_collection,True
 https://gitlab.mbb.univ-montp2.fr/reservebenefit/genomic_resources_for_med_fishes,True
 https://gitlab.mbb.univ-montp2.fr/reservebenefit/occurence_freshwater_marine_species,True
-https://gitlab.mbb.univ-montp2.fr/reservebenefit/sexual_palinurus_elephas,False
+https://gitlab.mbb.univ-montp2.fr/reservebenefit/sexual_palinurus_elephas,True
 https://gitlab.mbb.univ-montp2.fr/reservebenefit/snakemake_stacks2,True
 https://gitlab.mbb.univ-montp2.fr/reservebenefit/snps_statistics,True
 https://gitlab.mbb.univ-montp2.fr/reservebenefit/subset_30_samples_vcf,True
@@ -9286,7 +9292,7 @@ https://gitlab.mim-libre.fr/EOLE/Zephir/services/datasource,False
 https://gitlab.mim-libre.fr/EOLE/Zephir/services/identity-manager,False
 https://gitlab.mim-libre.fr/EOLE/Zephir/services/keycloak,False
 https://gitlab.mim-libre.fr/EOLE/Zephir/services/messages-web,True
-https://gitlab.mim-libre.fr/EOLE/Zephir/services/orchestrate-containerpilot,False
+https://gitlab.mim-libre.fr/EOLE/Zephir/services/orchestrate-containerpilot,True
 https://gitlab.mim-libre.fr/EOLE/Zephir/services/postgres,True
 https://gitlab.mim-libre.fr/EOLE/Zephir/services/saltmaster-manager,True
 https://gitlab.mim-libre.fr/EOLE/Zephir/services/server-manager,False
