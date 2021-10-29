@@ -475,6 +475,7 @@ https://forgemia.inra.fr/hackathon-portail-calcul/criteres,True
 https://forgemia.inra.fr/hackathon-portail-calcul/existant,True
 https://forgemia.inra.fr/hackathon-portail-calcul/hackathon_organisation,True
 https://forgemia.inra.fr/ices_imes_analysis/icescreen,True
+https://forgemia.inra.fr/ices_imes_analysis/icescreen_documentation,False
 https://forgemia.inra.fr/ices_imes_analysis/icescreen_pub,False
 https://forgemia.inra.fr/ices_imes_analysis/icescreen_public_release,True
 https://forgemia.inra.fr/in-sylva-development/in-sylva.gatekeeper,True
@@ -1091,7 +1092,7 @@ https://github.com/139bercy/opendata-quality,True
 https://github.com/139bercy/orchestrator-ETL,True
 https://github.com/139bercy/propilot2pdf,True
 https://github.com/139bercy/pypel,True
-https://github.com/139bercy/qualite-decp,False
+https://github.com/139bercy/qualite-decp,True
 https://github.com/139bercy/secret_stat,True
 https://github.com/139bercy/tresthor,True
 https://github.com/139bercy/veille-sociale-synthese,True
@@ -9215,7 +9216,7 @@ https://gitlab.mbb.univ-montp2.fr/courses/workshop_git,False
 https://gitlab.mbb.univ-montp2.fr/edna/GAPeDNA,False
 https://gitlab.mbb.univ-montp2.fr/edna/bash_swarm,True
 https://gitlab.mbb.univ-montp2.fr/edna/bash_vsearch_ecotag,True
-https://gitlab.mbb.univ-montp2.fr/edna/benchmark_pipelines,False
+https://gitlab.mbb.univ-montp2.fr/edna/benchmark_pipelines,True
 https://gitlab.mbb.univ-montp2.fr/edna/custom_reference_database,False
 https://gitlab.mbb.univ-montp2.fr/edna/exploitation/beginning_obitools,True
 https://gitlab.mbb.univ-montp2.fr/edna/exploitation/dada2_and_obitools,True
@@ -9266,7 +9267,7 @@ https://gitlab.mbb.univ-montp2.fr/saltstack-formulas/check_services,True
 https://gitlab.mbb.univ-montp2.fr/saltstack-formulas/get_d_states,True
 https://gitlab.mbb.univ-montp2.fr/saltstack-formulas/set_grains,True
 https://gitlab.mbb.univ-montp2.fr/seaconnect/annotationvariant,True
-https://gitlab.mbb.univ-montp2.fr/seaconnect/clean-fastq,False
+https://gitlab.mbb.univ-montp2.fr/seaconnect/clean-fastq,True
 https://gitlab.mbb.univ-montp2.fr/seaconnect/ddocent_radseq,False
 https://gitlab.mbb.univ-montp2.fr/seaconnect/seaConnect--dataPrep,True
 https://gitlab.metromobilite.fr/m/affluence/affluence-front,True
