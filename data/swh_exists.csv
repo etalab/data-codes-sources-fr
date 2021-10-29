@@ -3194,7 +3194,7 @@ https://github.com/X-DataInitiative/tick,True
 https://github.com/X-DataInitiative/tick-datasets,True
 https://github.com/X-DataInitiative/tick_appveyor,True
 https://github.com/X-DataInitiative/tick_archive,True
-https://github.com/abes-esr/Koha-Plugin-KohaLa-AbesWS,False
+https://github.com/abes-esr/Koha-Plugin-KohaLa-AbesWS,True
 https://github.com/abes-esr/LnEvent,True
 https://github.com/abes-esr/abes-filebeat-docker,True
 https://github.com/abes-esr/abes-format-pivot,True
@@ -3372,6 +3372,7 @@ https://github.com/ansforge/esignsante-ws,False
 https://github.com/ansforge/politique-de-contribution-open-source,True
 https://github.com/aphp/Cohort360,True
 https://github.com/aphp/Cohort360-Back-end,True
+https://github.com/aphp/SPHERE,False
 https://github.com/assurance-maladie-digital/XF-Material-Library,True
 https://github.com/assurance-maladie-digital/api-droits-fs-doc,True
 https://github.com/assurance-maladie-digital/api-droits-fs-exemple-php,True
@@ -8267,6 +8268,7 @@ https://gitlab.inria.fr/gecos/gecos-tools/gecos-tools-tommapping,True
 https://gitlab.inria.fr/gecos/gecos-tools/gecos-tools-tomsdk,True
 https://gitlab.inria.fr/gem5-nop/gem5,True
 https://gitlab.inria.fr/genouest-public/genouest-about,True
+https://gitlab.inria.fr/geofun/aerosol-doc-copy,False
 https://gitlab.inria.fr/geofun/geofun,False
 https://gitlab.inria.fr/geomerix/ichol,True
 https://gitlab.inria.fr/gerzaguet_public/2a_imr_wirelessnetwork_lab,True
@@ -8728,6 +8730,7 @@ https://gitlab.inria.fr/resist/tutorial-iot-security,True
 https://gitlab.inria.fr/revol/mpfi,True
 https://gitlab.inria.fr/rmod-public/2019-sourcecodedata,True
 https://gitlab.inria.fr/rmod-public/steven-tests/steven-tests.gitlab.inria.fr,False
+https://gitlab.inria.fr/robotlearn/xi_learning,False
 https://gitlab.inria.fr/ros_nodes/hrl-kdl,True
 https://gitlab.inria.fr/rsdschool21/lab,True
 https://gitlab.inria.fr/rsdschool21/website,True
@@ -8863,7 +8866,7 @@ https://gitlab.inria.fr/skeletons/opam-repository,True
 https://gitlab.inria.fr/skeletons/stage-olivier-idir,True
 https://gitlab.inria.fr/skelton/pyskelton,True
 https://gitlab.inria.fr/skelton/skelton2,True
-https://gitlab.inria.fr/slows-public-group/slows_public,False
+https://gitlab.inria.fr/slows-public-group/slows_public,True
 https://gitlab.inria.fr/socialbus/documentation,True
 https://gitlab.inria.fr/socialbus/webhook-manager,True
 https://gitlab.inria.fr/socialbus/website,True
@@ -9213,7 +9216,7 @@ https://gitlab.mbb.univ-montp2.fr/edna/exploitation/dada2_and_obitools,True
 https://gitlab.mbb.univ-montp2.fr/edna/exploitation/edna_intra_pipeline_comparison,True
 https://gitlab.mbb.univ-montp2.fr/edna/exploitation/only_obitools,False
 https://gitlab.mbb.univ-montp2.fr/edna/exploitation/primer_design,False
-https://gitlab.mbb.univ-montp2.fr/edna/exploitation/primer_specificity_ecopcr,False
+https://gitlab.mbb.univ-montp2.fr/edna/exploitation/primer_specificity_ecopcr,True
 https://gitlab.mbb.univ-montp2.fr/edna/exploitation/primers_specificity_mismatchplot,True
 https://gitlab.mbb.univ-montp2.fr/edna/exploitation/swarm_and_obitools,True
 https://gitlab.mbb.univ-montp2.fr/edna/metabarcoding_data_simulations,True
@@ -9241,12 +9244,12 @@ https://gitlab.mbb.univ-montp2.fr/mbb/modulefiles,True
 https://gitlab.mbb.univ-montp2.fr/mbb/singularity-local-recipes,True
 https://gitlab.mbb.univ-montp2.fr/mbb/tp_rocks,True
 https://gitlab.mbb.univ-montp2.fr/reservebenefit/environmental_assign_data,False
-https://gitlab.mbb.univ-montp2.fr/reservebenefit/genome_assemblies_collection,False
+https://gitlab.mbb.univ-montp2.fr/reservebenefit/genome_assemblies_collection,True
 https://gitlab.mbb.univ-montp2.fr/reservebenefit/genomic_resources_for_med_fishes,True
-https://gitlab.mbb.univ-montp2.fr/reservebenefit/occurence_freshwater_marine_species,False
+https://gitlab.mbb.univ-montp2.fr/reservebenefit/occurence_freshwater_marine_species,True
 https://gitlab.mbb.univ-montp2.fr/reservebenefit/sexual_palinurus_elephas,False
 https://gitlab.mbb.univ-montp2.fr/reservebenefit/snakemake_stacks2,True
-https://gitlab.mbb.univ-montp2.fr/reservebenefit/snps_statistics,False
+https://gitlab.mbb.univ-montp2.fr/reservebenefit/snps_statistics,True
 https://gitlab.mbb.univ-montp2.fr/reservebenefit/subset_30_samples_vcf,True
 https://gitlab.mbb.univ-montp2.fr/reservebenefit/webapp_marine_worldmap_bold,True
 https://gitlab.mbb.univ-montp2.fr/reservebenefit/worldmap_fish_genetic_diversity,True
@@ -9307,7 +9310,7 @@ https://gitlab.mim-libre.fr/EOLE/amon-3/opnsense/jquery-bootgrid,True
 https://gitlab.mim-libre.fr/EOLE/amon-3/opnsense/lang,False
 https://gitlab.mim-libre.fr/EOLE/amon-3/opnsense/pam_opnsense,False
 https://gitlab.mim-libre.fr/EOLE/amon-3/opnsense/plugins,True
-https://gitlab.mim-libre.fr/EOLE/amon-3/opnsense/ports,False
+https://gitlab.mim-libre.fr/EOLE/amon-3/opnsense/ports,True
 https://gitlab.mim-libre.fr/EOLE/amon-3/opnsense/rules,True
 https://gitlab.mim-libre.fr/EOLE/amon-3/opnsense/src,True
 https://gitlab.mim-libre.fr/EOLE/amon-3/opnsense/tools,True
@@ -9325,13 +9328,13 @@ https://gitlab.mim-libre.fr/alphabet/infra-beta-apps,False
 https://gitlab.mim-libre.fr/alphabet/laboite,True
 https://gitlab.mim-libre.fr/alphabet/laboite-blog,False
 https://gitlab.mim-libre.fr/alphabet/laboite-blog-api,True
-https://gitlab.mim-libre.fr/alphabet/laboite-blog-front,False
+https://gitlab.mim-libre.fr/alphabet/laboite-blog-front,True
 https://gitlab.mim-libre.fr/alphabet/latelier,False
 https://gitlab.mim-libre.fr/alphabet/mezig,False
 https://gitlab.mim-libre.fr/alphabet/radicale_mongo,False
 https://gitlab.mim-libre.fr/alphabet/sondage,True
 https://gitlab.mim-libre.fr/extensions-peertube/categories-management-plugin,True
-https://gitlab.mim-libre.fr/extensions-peertube/plugin-transcription,False
+https://gitlab.mim-libre.fr/extensions-peertube/plugin-transcription,True
 https://gitlab.mim-libre.fr/menjs-dne-public/fr.edu.appwhite,True
 https://gitlab.mim-libre.fr/menjs-dne-public/fr.gouv.menjs.genhtmlrgaa,False
 https://gitlab.mim-libre.fr/sndv-maritime/moana,True
