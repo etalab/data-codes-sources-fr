@@ -729,7 +729,7 @@ https://git.ademe.fr/docker/getpdf,True
 https://git.ademe.fr/docker/httpd,True
 https://git.ademe.fr/docker/httpd-php,True
 https://git.ademe.fr/docker/mkdocs,True
-https://git.ademe.fr/docker/outils/dind-compose,False
+https://git.ademe.fr/docker/outils/dind-compose,True
 https://git.ademe.fr/docker/phpfpm,True
 https://git.ademe.fr/docker/ssh-sftp,False
 https://git.ademe.fr/docker/sshd-sftp,True
@@ -3663,6 +3663,7 @@ https://github.com/betagouv/inca-app,True
 https://github.com/betagouv/inca-proxy,True
 https://github.com/betagouv/inca-survey,True
 https://github.com/betagouv/indice_pollution,True
+https://github.com/betagouv/infoparquet,False
 https://github.com/betagouv/itou,True
 https://github.com/betagouv/itou-bitoubi,True
 https://github.com/betagouv/itou-c4-tracker,True
@@ -9299,7 +9300,7 @@ https://gitlab.mim-libre.fr/EOLE/amon-3/iso-builder,False
 https://gitlab.mim-libre.fr/EOLE/amon-3/opnsense/bsdinstaller,False
 https://gitlab.mim-libre.fr/EOLE/amon-3/opnsense/changelog,False
 https://gitlab.mim-libre.fr/EOLE/amon-3/opnsense/core,True
-https://gitlab.mim-libre.fr/EOLE/amon-3/opnsense/dhcp6c,False
+https://gitlab.mim-libre.fr/EOLE/amon-3/opnsense/dhcp6c,True
 https://gitlab.mim-libre.fr/EOLE/amon-3/opnsense/docs,True
 https://gitlab.mim-libre.fr/EOLE/amon-3/opnsense/installer,True
 https://gitlab.mim-libre.fr/EOLE/amon-3/opnsense/jquery-bootgrid,True
@@ -9311,7 +9312,7 @@ https://gitlab.mim-libre.fr/EOLE/amon-3/opnsense/rules,True
 https://gitlab.mim-libre.fr/EOLE/amon-3/opnsense/src,True
 https://gitlab.mim-libre.fr/EOLE/amon-3/opnsense/tools,True
 https://gitlab.mim-libre.fr/EOLE/amon-3/opnsense/update-tools,True
-https://gitlab.mim-libre.fr/EOLE/eole-3/provisionner,False
+https://gitlab.mim-libre.fr/EOLE/eole-3/provisionner,True
 https://gitlab.mim-libre.fr/EOLE/hackathon-kubernetes,False
 https://gitlab.mim-libre.fr/EOLE/infra/ci-tools,True
 https://gitlab.mim-libre.fr/EOLE/opennebula/opennebula-apps-template,True
