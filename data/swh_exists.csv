@@ -1891,7 +1891,7 @@ https://github.com/GIP-RECIA/icons-pack,True
 https://github.com/GIP-RECIA/iframe-resizer,True
 https://github.com/GIP-RECIA/karuta-backend,False
 https://github.com/GIP-RECIA/karuta-deployer,True
-https://github.com/GIP-RECIA/karuta-fileserver,False
+https://github.com/GIP-RECIA/karuta-fileserver,True
 https://github.com/GIP-RECIA/karuta-frontend,False
 https://github.com/GIP-RECIA/menu-cantine-ui,True
 https://github.com/GIP-RECIA/moodle,True
@@ -8272,7 +8272,7 @@ https://gitlab.inria.fr/gecos/gecos-tools/gecos-tools-tommapping,True
 https://gitlab.inria.fr/gecos/gecos-tools/gecos-tools-tomsdk,True
 https://gitlab.inria.fr/gem5-nop/gem5,True
 https://gitlab.inria.fr/genouest-public/genouest-about,True
-https://gitlab.inria.fr/geofun/aerosol-doc-copy,False
+https://gitlab.inria.fr/geofun/aerosol-doc-copy,True
 https://gitlab.inria.fr/geofun/geofun,False
 https://gitlab.inria.fr/geomerix/ichol,True
 https://gitlab.inria.fr/gerzaguet_public/2a_imr_wirelessnetwork_lab,True
