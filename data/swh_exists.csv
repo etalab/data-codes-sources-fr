@@ -8969,7 +8969,7 @@ https://gitlab.inria.fr/these-bxi/s4bxi-config-generator,True
 https://gitlab.inria.fr/these-bxi/s4bxi-log-viewer,True
 https://gitlab.inria.fr/these-bxi/s4bxi-platforms,True
 https://gitlab.inria.fr/these-bxi/s4bxi-runner,False
-https://gitlab.inria.fr/these-bxi/s4bxi-vagrant,False
+https://gitlab.inria.fr/these-bxi/s4bxi-vagrant,True
 https://gitlab.inria.fr/thoth/python-spams,True
 https://gitlab.inria.fr/thoth/spams-devel,True
 https://gitlab.inria.fr/tnfs-alpha/alpha,True
@@ -9212,12 +9212,12 @@ https://gitlab.mbb.univ-montp2.fr/bev/seascape_course_cloud,True
 https://gitlab.mbb.univ-montp2.fr/bev/singularity_hub,True
 https://gitlab.mbb.univ-montp2.fr/courses/hello_world,True
 https://gitlab.mbb.univ-montp2.fr/courses/ncbi_entrez,True
-https://gitlab.mbb.univ-montp2.fr/courses/workshop_git,False
+https://gitlab.mbb.univ-montp2.fr/courses/workshop_git,True
 https://gitlab.mbb.univ-montp2.fr/edna/GAPeDNA,True
 https://gitlab.mbb.univ-montp2.fr/edna/bash_swarm,True
 https://gitlab.mbb.univ-montp2.fr/edna/bash_vsearch_ecotag,True
 https://gitlab.mbb.univ-montp2.fr/edna/benchmark_pipelines,True
-https://gitlab.mbb.univ-montp2.fr/edna/custom_reference_database,False
+https://gitlab.mbb.univ-montp2.fr/edna/custom_reference_database,True
 https://gitlab.mbb.univ-montp2.fr/edna/exploitation/beginning_obitools,True
 https://gitlab.mbb.univ-montp2.fr/edna/exploitation/dada2_and_obitools,True
 https://gitlab.mbb.univ-montp2.fr/edna/exploitation/edna_intra_pipeline_comparison,True
@@ -9237,7 +9237,7 @@ https://gitlab.mbb.univ-montp2.fr/edna/snakemake_rapidrun_obitools,True
 https://gitlab.mbb.univ-montp2.fr/edna/snakemake_rapidrun_swarm,True
 https://gitlab.mbb.univ-montp2.fr/edna/test_metabarcoding_data,True
 https://gitlab.mbb.univ-montp2.fr/edna/tutorial_metabarcoding_data,True
-https://gitlab.mbb.univ-montp2.fr/grenouille_rousse/mitochondrion,False
+https://gitlab.mbb.univ-montp2.fr/grenouille_rousse/mitochondrion,True
 https://gitlab.mbb.univ-montp2.fr/grenouille_rousse/probedesign,True
 https://gitlab.mbb.univ-montp2.fr/intrapop/assemble_mitogenome,True
 https://gitlab.mbb.univ-montp2.fr/intrapop/prepare_wgs_data,True
@@ -9283,7 +9283,7 @@ https://gitlab.mim-libre.fr/EOLE/Zephir/ci,False
 https://gitlab.mim-libre.fr/EOLE/Zephir/data-model-eole,False
 https://gitlab.mim-libre.fr/EOLE/Zephir/documentation,True
 https://gitlab.mim-libre.fr/EOLE/Zephir/jenkins,True
-https://gitlab.mim-libre.fr/EOLE/Zephir/messages-api,False
+https://gitlab.mim-libre.fr/EOLE/Zephir/messages-api,True
 https://gitlab.mim-libre.fr/EOLE/Zephir/python-zephir,True
 https://gitlab.mim-libre.fr/EOLE/Zephir/services/api-bridge,True
 https://gitlab.mim-libre.fr/EOLE/Zephir/services/config-manager,False
@@ -9296,7 +9296,7 @@ https://gitlab.mim-libre.fr/EOLE/Zephir/services/messages-web,True
 https://gitlab.mim-libre.fr/EOLE/Zephir/services/orchestrate-containerpilot,True
 https://gitlab.mim-libre.fr/EOLE/Zephir/services/postgres,True
 https://gitlab.mim-libre.fr/EOLE/Zephir/services/saltmaster-manager,True
-https://gitlab.mim-libre.fr/EOLE/Zephir/services/server-manager,False
+https://gitlab.mim-libre.fr/EOLE/Zephir/services/server-manager,True
 https://gitlab.mim-libre.fr/EOLE/Zephir/services/servermodel-manager,False
 https://gitlab.mim-libre.fr/EOLE/Zephir/services/serverselection,True
 https://gitlab.mim-libre.fr/EOLE/Zephir/services/traefik,True
@@ -9306,7 +9306,7 @@ https://gitlab.mim-libre.fr/EOLE/Zephir/services/zone-manager,False
 https://gitlab.mim-libre.fr/EOLE/Zephir/webui,False
 https://gitlab.mim-libre.fr/EOLE/Zephir/zcli,True
 https://gitlab.mim-libre.fr/EOLE/Zephir/zephir-connect,True
-https://gitlab.mim-libre.fr/EOLE/amon-3/iso-builder,False
+https://gitlab.mim-libre.fr/EOLE/amon-3/iso-builder,True
 https://gitlab.mim-libre.fr/EOLE/amon-3/opnsense/bsdinstaller,False
 https://gitlab.mim-libre.fr/EOLE/amon-3/opnsense/changelog,False
 https://gitlab.mim-libre.fr/EOLE/amon-3/opnsense/core,True
@@ -9326,10 +9326,10 @@ https://gitlab.mim-libre.fr/EOLE/eole-3/provisionner,True
 https://gitlab.mim-libre.fr/EOLE/hackathon-kubernetes,False
 https://gitlab.mim-libre.fr/EOLE/infra/ci-tools,True
 https://gitlab.mim-libre.fr/EOLE/opennebula/opennebula-apps-template,True
-https://gitlab.mim-libre.fr/Leo/eole_statistiques,False
+https://gitlab.mim-libre.fr/Leo/eole_statistiques,True
 https://gitlab.mim-libre.fr/alphabet/apps-ldap,False
 https://gitlab.mim-libre.fr/alphabet/apps-static,False
-https://gitlab.mim-libre.fr/alphabet/apps.education-front,False
+https://gitlab.mim-libre.fr/alphabet/apps.education-front,True
 https://gitlab.mim-libre.fr/alphabet/infra-apps,True
 https://gitlab.mim-libre.fr/alphabet/infra-beta-apps,False
 https://gitlab.mim-libre.fr/alphabet/laboite,True
