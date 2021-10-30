@@ -8736,7 +8736,7 @@ https://gitlab.inria.fr/resist/tutorial-iot-security,True
 https://gitlab.inria.fr/revol/mpfi,True
 https://gitlab.inria.fr/rmod-public/2019-sourcecodedata,True
 https://gitlab.inria.fr/rmod-public/steven-tests/steven-tests.gitlab.inria.fr,False
-https://gitlab.inria.fr/robotlearn/sfnec,False
+https://gitlab.inria.fr/robotlearn/sfnec,True
 https://gitlab.inria.fr/robotlearn/xi_learning,False
 https://gitlab.inria.fr/ros_nodes/hrl-kdl,True
 https://gitlab.inria.fr/rsdschool21/lab,True
@@ -9213,7 +9213,7 @@ https://gitlab.mbb.univ-montp2.fr/bev/singularity_hub,True
 https://gitlab.mbb.univ-montp2.fr/courses/hello_world,True
 https://gitlab.mbb.univ-montp2.fr/courses/ncbi_entrez,True
 https://gitlab.mbb.univ-montp2.fr/courses/workshop_git,False
-https://gitlab.mbb.univ-montp2.fr/edna/GAPeDNA,False
+https://gitlab.mbb.univ-montp2.fr/edna/GAPeDNA,True
 https://gitlab.mbb.univ-montp2.fr/edna/bash_swarm,True
 https://gitlab.mbb.univ-montp2.fr/edna/bash_vsearch_ecotag,True
 https://gitlab.mbb.univ-montp2.fr/edna/benchmark_pipelines,True
@@ -9299,7 +9299,7 @@ https://gitlab.mim-libre.fr/EOLE/Zephir/services/saltmaster-manager,True
 https://gitlab.mim-libre.fr/EOLE/Zephir/services/server-manager,False
 https://gitlab.mim-libre.fr/EOLE/Zephir/services/servermodel-manager,False
 https://gitlab.mim-libre.fr/EOLE/Zephir/services/serverselection,True
-https://gitlab.mim-libre.fr/EOLE/Zephir/services/traefik,False
+https://gitlab.mim-libre.fr/EOLE/Zephir/services/traefik,True
 https://gitlab.mim-libre.fr/EOLE/Zephir/services/vault-manager,True
 https://gitlab.mim-libre.fr/EOLE/Zephir/services/web,False
 https://gitlab.mim-libre.fr/EOLE/Zephir/services/zone-manager,False
