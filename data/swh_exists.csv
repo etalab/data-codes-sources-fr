@@ -2396,7 +2396,7 @@ https://github.com/InseeFrLab/rstudio,True
 https://github.com/InseeFrLab/rstudio-gpu,True
 https://github.com/InseeFrLab/simple-default-backend,True
 https://github.com/InseeFrLab/spark,True
-https://github.com/InseeFrLab/spark-formation,False
+https://github.com/InseeFrLab/spark-formation,True
 https://github.com/InseeFrLab/spark-hadoop,True
 https://github.com/InseeFrLab/sspcloud,True
 https://github.com/InseeFrLab/sugoi-api,True
@@ -7627,7 +7627,7 @@ https://gitlab.inria.fr/almanach/time-us/Transkribus-MassOCR,True
 https://gitlab.inria.fr/almanach/time-us/corpora-prep,True
 https://gitlab.inria.fr/almanach/time-us/corpus-prudhommes_lyon,True
 https://gitlab.inria.fr/almanach/time-us/corpus_texte,True
-https://gitlab.inria.fr/almanach/time-us/dhnord2019_cph_structuration_demo,False
+https://gitlab.inria.fr/almanach/time-us/dhnord2019_cph_structuration_demo,True
 https://gitlab.inria.fr/almanach/time-us/docs,True
 https://gitlab.inria.fr/almanach/time-us/kraken-models,True
 https://gitlab.inria.fr/almanach/time-us/page2tei_TimeUS,True
@@ -9301,7 +9301,7 @@ https://gitlab.mim-libre.fr/EOLE/Zephir/services/servermodel-manager,False
 https://gitlab.mim-libre.fr/EOLE/Zephir/services/serverselection,True
 https://gitlab.mim-libre.fr/EOLE/Zephir/services/traefik,True
 https://gitlab.mim-libre.fr/EOLE/Zephir/services/vault-manager,True
-https://gitlab.mim-libre.fr/EOLE/Zephir/services/web,False
+https://gitlab.mim-libre.fr/EOLE/Zephir/services/web,True
 https://gitlab.mim-libre.fr/EOLE/Zephir/services/zone-manager,False
 https://gitlab.mim-libre.fr/EOLE/Zephir/webui,False
 https://gitlab.mim-libre.fr/EOLE/Zephir/zcli,True
@@ -9330,7 +9330,7 @@ https://gitlab.mim-libre.fr/Leo/eole_statistiques,False
 https://gitlab.mim-libre.fr/alphabet/apps-ldap,False
 https://gitlab.mim-libre.fr/alphabet/apps-static,False
 https://gitlab.mim-libre.fr/alphabet/apps.education-front,False
-https://gitlab.mim-libre.fr/alphabet/infra-apps,False
+https://gitlab.mim-libre.fr/alphabet/infra-apps,True
 https://gitlab.mim-libre.fr/alphabet/infra-beta-apps,False
 https://gitlab.mim-libre.fr/alphabet/laboite,True
 https://gitlab.mim-libre.fr/alphabet/laboite-blog,False
@@ -9338,7 +9338,7 @@ https://gitlab.mim-libre.fr/alphabet/laboite-blog-api,True
 https://gitlab.mim-libre.fr/alphabet/laboite-blog-front,True
 https://gitlab.mim-libre.fr/alphabet/latelier,False
 https://gitlab.mim-libre.fr/alphabet/mezig,False
-https://gitlab.mim-libre.fr/alphabet/radicale_mongo,False
+https://gitlab.mim-libre.fr/alphabet/radicale_mongo,True
 https://gitlab.mim-libre.fr/alphabet/sondage,True
 https://gitlab.mim-libre.fr/extensions-peertube/categories-management-plugin,True
 https://gitlab.mim-libre.fr/extensions-peertube/plugin-transcription,True
