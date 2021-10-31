@@ -1461,7 +1461,7 @@ https://github.com/Cour-de-cassation/judifiltre-core,True
 https://github.com/Cour-de-cassation/judilibre-infra,True
 https://github.com/Cour-de-cassation/judilibre-monitor,True
 https://github.com/Cour-de-cassation/judilibre-search,True
-https://github.com/Cour-de-cassation/judilibre-stats,False
+https://github.com/Cour-de-cassation/judilibre-stats,True
 https://github.com/Cour-de-cassation/judilibre-uptime,True
 https://github.com/Cour-de-cassation/judillibre-search,False
 https://github.com/Cour-de-cassation/label,True
@@ -1566,7 +1566,7 @@ https://github.com/DISIC/rgaa_reactjs,True
 https://github.com/DISIC/rgaa_referentiel,True
 https://github.com/DISIC/rgaa_referentiel_3-2016,True
 https://github.com/DISIC/rgaa_referentiel_en,True
-https://github.com/DISIC/rizomo,False
+https://github.com/DISIC/rizomo,True
 https://github.com/DISIC/sill,True
 https://github.com/DISIC/sirh-paye-GEST-compar,True
 https://github.com/DISIC/sirh-paye-mqd-poc,True
@@ -4235,7 +4235,7 @@ https://github.com/dataesr/harvest-pubmed,True
 https://github.com/dataesr/kubectl-deploy,True
 https://github.com/dataesr/matcher,True
 https://github.com/dataesr/onedrive,True
-https://github.com/dataesr/paysage-api,False
+https://github.com/dataesr/paysage-api,True
 https://github.com/dataesr/paysage-openapi,True
 https://github.com/dataesr/react-dsfr,True
 https://github.com/dataesr/realtime-dashboard,True
@@ -7350,7 +7350,7 @@ https://gitlab.inria.fr/Damaris/Simulations/noise,True
 https://gitlab.inria.fr/Damaris/damaris,True
 https://gitlab.inria.fr/E2Clab/Paper-Artifacts/plantnet,True
 https://gitlab.inria.fr/E2Clab/e2clab,True
-https://gitlab.inria.fr/Fmg/fmg,False
+https://gitlab.inria.fr/Fmg/fmg,True
 https://gitlab.inria.fr/GATB/gatb-core,True
 https://gitlab.inria.fr/GATB/simka,True
 https://gitlab.inria.fr/GUDHI/coxeter_for_ouragan,True
@@ -7601,6 +7601,7 @@ https://gitlab.inria.fr/almanach/lectaurep/models,True
 https://gitlab.inria.fr/almanach/lectaurep/ner,True
 https://gitlab.inria.fr/almanach/lectaurep/pipeline,True
 https://gitlab.inria.fr/almanach/lectaurep/spellchecking,True
+https://gitlab.inria.fr/almanach/lectaurep/tei-from-escriptorium,False
 https://gitlab.inria.fr/almanach/mgkit/biomg,True
 https://gitlab.inria.fr/almanach/mgkit/depgraph,True
 https://gitlab.inria.fr/almanach/mgkit/dyalog-expander,True
