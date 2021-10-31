@@ -8273,7 +8273,7 @@ https://gitlab.inria.fr/gecos/gecos-tools/gecos-tools-tomsdk,True
 https://gitlab.inria.fr/gem5-nop/gem5,True
 https://gitlab.inria.fr/genouest-public/genouest-about,True
 https://gitlab.inria.fr/geofun/aerosol-doc-copy,True
-https://gitlab.inria.fr/geofun/geofun,False
+https://gitlab.inria.fr/geofun/geofun,True
 https://gitlab.inria.fr/geomerix/ichol,True
 https://gitlab.inria.fr/gerzaguet_public/2a_imr_wirelessnetwork_lab,True
 https://gitlab.inria.fr/gerzaguet_public/3a_sysnum_wirelesscomm_tx,True
@@ -8369,7 +8369,7 @@ https://gitlab.inria.fr/hussein/multiagent_gnn_policies,True
 https://gitlab.inria.fr/hwloc/xmls,True
 https://gitlab.inria.fr/i3inria/raspi-k8s,True
 https://gitlab.inria.fr/iccv_2019/pyvideoresearch_gunnar,True
-https://gitlab.inria.fr/icesl-installers/packages,False
+https://gitlab.inria.fr/icesl-installers/packages,True
 https://gitlab.inria.fr/icpp22/icpp22.gitlabpages.inria.fr,True
 https://gitlab.inria.fr/igloo/igloo,True
 https://gitlab.inria.fr/igrida/gvirt,True
@@ -9278,7 +9278,7 @@ https://gitlab.metromobilite.fr/m/public/m-map,True
 https://gitlab.metromobilite.fr/m/public/m-smartwatch/metro-watch,True
 https://gitlab.metromobilite.fr/m/public/m-theme,True
 https://gitlab.metromobilite.fr/m/public/metro-flutter,True
-https://gitlab.mim-libre.fr/EOLE/Zephir/application,False
+https://gitlab.mim-libre.fr/EOLE/Zephir/application,True
 https://gitlab.mim-libre.fr/EOLE/Zephir/ci,False
 https://gitlab.mim-libre.fr/EOLE/Zephir/data-model-eole,False
 https://gitlab.mim-libre.fr/EOLE/Zephir/documentation,True
@@ -9302,7 +9302,7 @@ https://gitlab.mim-libre.fr/EOLE/Zephir/services/serverselection,True
 https://gitlab.mim-libre.fr/EOLE/Zephir/services/traefik,True
 https://gitlab.mim-libre.fr/EOLE/Zephir/services/vault-manager,True
 https://gitlab.mim-libre.fr/EOLE/Zephir/services/web,True
-https://gitlab.mim-libre.fr/EOLE/Zephir/services/zone-manager,False
+https://gitlab.mim-libre.fr/EOLE/Zephir/services/zone-manager,True
 https://gitlab.mim-libre.fr/EOLE/Zephir/webui,False
 https://gitlab.mim-libre.fr/EOLE/Zephir/zcli,True
 https://gitlab.mim-libre.fr/EOLE/Zephir/zephir-connect,True
