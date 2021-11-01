@@ -9287,7 +9287,7 @@ https://gitlab.mim-libre.fr/EOLE/Zephir/jenkins,True
 https://gitlab.mim-libre.fr/EOLE/Zephir/messages-api,True
 https://gitlab.mim-libre.fr/EOLE/Zephir/python-zephir,True
 https://gitlab.mim-libre.fr/EOLE/Zephir/services/api-bridge,True
-https://gitlab.mim-libre.fr/EOLE/Zephir/services/config-manager,False
+https://gitlab.mim-libre.fr/EOLE/Zephir/services/config-manager,True
 https://gitlab.mim-libre.fr/EOLE/Zephir/services/consul,False
 https://gitlab.mim-libre.fr/EOLE/Zephir/services/crossbar,False
 https://gitlab.mim-libre.fr/EOLE/Zephir/services/datasource,False
@@ -9308,8 +9308,8 @@ https://gitlab.mim-libre.fr/EOLE/Zephir/webui,False
 https://gitlab.mim-libre.fr/EOLE/Zephir/zcli,True
 https://gitlab.mim-libre.fr/EOLE/Zephir/zephir-connect,True
 https://gitlab.mim-libre.fr/EOLE/amon-3/iso-builder,True
-https://gitlab.mim-libre.fr/EOLE/amon-3/opnsense/bsdinstaller,False
-https://gitlab.mim-libre.fr/EOLE/amon-3/opnsense/changelog,False
+https://gitlab.mim-libre.fr/EOLE/amon-3/opnsense/bsdinstaller,True
+https://gitlab.mim-libre.fr/EOLE/amon-3/opnsense/changelog,True
 https://gitlab.mim-libre.fr/EOLE/amon-3/opnsense/core,True
 https://gitlab.mim-libre.fr/EOLE/amon-3/opnsense/dhcp6c,True
 https://gitlab.mim-libre.fr/EOLE/amon-3/opnsense/docs,True
