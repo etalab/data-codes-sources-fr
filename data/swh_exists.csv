@@ -7249,7 +7249,7 @@ https://gitlab.huma-num.fr/mshs-poitiers/forellis/grafe,True
 https://gitlab.huma-num.fr/mshs-poitiers/forellis/lexifle,True
 https://gitlab.huma-num.fr/mshs-poitiers/forellis/marmython,True
 https://gitlab.huma-num.fr/mshs-poitiers/forellis/sudocmeta2csv,True
-https://gitlab.huma-num.fr/mshs-poitiers/forellis/syllabification_buchanan,False
+https://gitlab.huma-num.fr/mshs-poitiers/forellis/syllabification_buchanan,True
 https://gitlab.huma-num.fr/mshs-poitiers/plateforme/xmlify,True
 https://gitlab.huma-num.fr/mshs-poitiers/xmlify,True
 https://gitlab.huma-num.fr/nakala-tools/nakalot,True
@@ -9281,7 +9281,7 @@ https://gitlab.metromobilite.fr/m/public/m-theme,True
 https://gitlab.metromobilite.fr/m/public/metro-flutter,True
 https://gitlab.mim-libre.fr/EOLE/Zephir/application,True
 https://gitlab.mim-libre.fr/EOLE/Zephir/ci,False
-https://gitlab.mim-libre.fr/EOLE/Zephir/data-model-eole,False
+https://gitlab.mim-libre.fr/EOLE/Zephir/data-model-eole,True
 https://gitlab.mim-libre.fr/EOLE/Zephir/documentation,True
 https://gitlab.mim-libre.fr/EOLE/Zephir/jenkins,True
 https://gitlab.mim-libre.fr/EOLE/Zephir/messages-api,True
@@ -9334,7 +9334,7 @@ https://gitlab.mim-libre.fr/alphabet/apps.education-front,True
 https://gitlab.mim-libre.fr/alphabet/infra-apps,True
 https://gitlab.mim-libre.fr/alphabet/infra-beta-apps,False
 https://gitlab.mim-libre.fr/alphabet/laboite,True
-https://gitlab.mim-libre.fr/alphabet/laboite-blog,False
+https://gitlab.mim-libre.fr/alphabet/laboite-blog,True
 https://gitlab.mim-libre.fr/alphabet/laboite-blog-api,True
 https://gitlab.mim-libre.fr/alphabet/laboite-blog-front,True
 https://gitlab.mim-libre.fr/alphabet/latelier,False
