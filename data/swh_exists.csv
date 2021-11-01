@@ -3375,7 +3375,7 @@ https://github.com/ansforge/esignsante-ws,False
 https://github.com/ansforge/politique-de-contribution-open-source,True
 https://github.com/aphp/Cohort360,True
 https://github.com/aphp/Cohort360-Back-end,True
-https://github.com/aphp/SPHERE,False
+https://github.com/aphp/SPHERE,True
 https://github.com/assurance-maladie-digital/XF-Material-Library,True
 https://github.com/assurance-maladie-digital/api-droits-fs-doc,True
 https://github.com/assurance-maladie-digital/api-droits-fs-exemple-php,True
@@ -9329,7 +9329,7 @@ https://gitlab.mim-libre.fr/EOLE/infra/ci-tools,True
 https://gitlab.mim-libre.fr/EOLE/opennebula/opennebula-apps-template,True
 https://gitlab.mim-libre.fr/Leo/eole_statistiques,True
 https://gitlab.mim-libre.fr/alphabet/apps-ldap,True
-https://gitlab.mim-libre.fr/alphabet/apps-static,False
+https://gitlab.mim-libre.fr/alphabet/apps-static,True
 https://gitlab.mim-libre.fr/alphabet/apps.education-front,True
 https://gitlab.mim-libre.fr/alphabet/infra-apps,True
 https://gitlab.mim-libre.fr/alphabet/infra-beta-apps,False
@@ -9732,6 +9732,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/enseignement1/m2cci/java/segmentsde
 https://gricad-gitlab.univ-grenoble-alpes.fr/enseignement1/m2cci/java/text-indexation,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/enseignement1/m2cci/java/theatredemo,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/enseignement1/m2cci/java/tp09-exceptions,True
+https://gricad-gitlab.univ-grenoble-alpes.fr/enseignement1/m2cci/javascript/correctiontp7,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/enseignement1/m2cci/javascript/visagesanimes_correction,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/enseignement1/m2cci/projetintegration,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/ensimag/poly-intro-unix,True
