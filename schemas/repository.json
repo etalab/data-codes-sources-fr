@@ -130,7 +130,7 @@
          }
       },
       {
-         "name":"licence",
+         "name":"license",
          "description":"La licence du répertoire, telle que détectée par la plateforme",
          "example": "MIT",
          "type":"string",
