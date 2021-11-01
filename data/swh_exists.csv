@@ -7601,7 +7601,7 @@ https://gitlab.inria.fr/almanach/lectaurep/models,True
 https://gitlab.inria.fr/almanach/lectaurep/ner,True
 https://gitlab.inria.fr/almanach/lectaurep/pipeline,True
 https://gitlab.inria.fr/almanach/lectaurep/spellchecking,True
-https://gitlab.inria.fr/almanach/lectaurep/tei-from-escriptorium,False
+https://gitlab.inria.fr/almanach/lectaurep/tei-from-escriptorium,True
 https://gitlab.inria.fr/almanach/mgkit/biomg,True
 https://gitlab.inria.fr/almanach/mgkit/depgraph,True
 https://gitlab.inria.fr/almanach/mgkit/dyalog-expander,True
@@ -8886,7 +8886,7 @@ https://gitlab.inria.fr/solverstack/distrib,True
 https://gitlab.inria.fr/solverstack/fabulous,True
 https://gitlab.inria.fr/solverstack/genfem,True
 https://gitlab.inria.fr/solverstack/h2p3s,True
-https://gitlab.inria.fr/solverstack/hello-mpi,False
+https://gitlab.inria.fr/solverstack/hello-mpi,True
 https://gitlab.inria.fr/solverstack/hips,True
 https://gitlab.inria.fr/solverstack/hqr,True
 https://gitlab.inria.fr/solverstack/maphys/maphys,True
@@ -9291,7 +9291,7 @@ https://gitlab.mim-libre.fr/EOLE/Zephir/services/config-manager,False
 https://gitlab.mim-libre.fr/EOLE/Zephir/services/consul,False
 https://gitlab.mim-libre.fr/EOLE/Zephir/services/crossbar,False
 https://gitlab.mim-libre.fr/EOLE/Zephir/services/datasource,False
-https://gitlab.mim-libre.fr/EOLE/Zephir/services/identity-manager,False
+https://gitlab.mim-libre.fr/EOLE/Zephir/services/identity-manager,True
 https://gitlab.mim-libre.fr/EOLE/Zephir/services/keycloak,False
 https://gitlab.mim-libre.fr/EOLE/Zephir/services/messages-web,True
 https://gitlab.mim-libre.fr/EOLE/Zephir/services/orchestrate-containerpilot,True
@@ -9328,7 +9328,7 @@ https://gitlab.mim-libre.fr/EOLE/hackathon-kubernetes,False
 https://gitlab.mim-libre.fr/EOLE/infra/ci-tools,True
 https://gitlab.mim-libre.fr/EOLE/opennebula/opennebula-apps-template,True
 https://gitlab.mim-libre.fr/Leo/eole_statistiques,True
-https://gitlab.mim-libre.fr/alphabet/apps-ldap,False
+https://gitlab.mim-libre.fr/alphabet/apps-ldap,True
 https://gitlab.mim-libre.fr/alphabet/apps-static,False
 https://gitlab.mim-libre.fr/alphabet/apps.education-front,True
 https://gitlab.mim-libre.fr/alphabet/infra-apps,True
