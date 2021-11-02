@@ -1177,7 +1177,7 @@ https://github.com/AccessiDys/AccessiDys,True
 https://github.com/AccessiDys/AccessiDys.github.io,True
 https://github.com/AccessiDys/prototype-decoupage,True
 https://github.com/AgenceBio/cartobio-api,True
-https://github.com/AgenceBio/cartobio-front,False
+https://github.com/AgenceBio/cartobio-front,True
 https://github.com/AgenceBio/cartobio-rpg,True
 https://github.com/AgenceBio/rpg-cli,False
 https://github.com/AlsaceDigitale/2012.edgefest.fr,True
@@ -1890,7 +1890,7 @@ https://github.com/GIP-RECIA/h5p-php-library,True
 https://github.com/GIP-RECIA/help-info-portlet,True
 https://github.com/GIP-RECIA/icons-pack,True
 https://github.com/GIP-RECIA/iframe-resizer,True
-https://github.com/GIP-RECIA/karuta-backend,False
+https://github.com/GIP-RECIA/karuta-backend,True
 https://github.com/GIP-RECIA/karuta-deployer,True
 https://github.com/GIP-RECIA/karuta-fileserver,True
 https://github.com/GIP-RECIA/karuta-frontend,False
@@ -3867,6 +3867,7 @@ https://github.com/betagouv/siecle-xml_mapper,True
 https://github.com/betagouv/signalconso-api-sdk-js,True
 https://github.com/betagouv/signalconso-dashboard-react,True
 https://github.com/betagouv/signalconso-loadtest,True
+https://github.com/betagouv/signalconso-website,False
 https://github.com/betagouv/signalement,True
 https://github.com/betagouv/signalement-api,True
 https://github.com/betagouv/signalement-app,True
@@ -8683,6 +8684,7 @@ https://gitlab.inria.fr/paradiseo/paradiseo,True
 https://gitlab.inria.fr/paradiseo/pyparadiseo,True
 https://gitlab.inria.fr/parallel-replica/gen.parRep,True
 https://gitlab.inria.fr/parallel-replica/qsd.gen.samples,True
+https://gitlab.inria.fr/parkas/jfla-2022,False
 https://gitlab.inria.fr/parseme-fr/mwe-mg,True
 https://gitlab.inria.fr/partout/web,True
 https://gitlab.inria.fr/patate/patate,True
@@ -9224,7 +9226,7 @@ https://gitlab.mbb.univ-montp2.fr/edna/exploitation/beginning_obitools,True
 https://gitlab.mbb.univ-montp2.fr/edna/exploitation/dada2_and_obitools,True
 https://gitlab.mbb.univ-montp2.fr/edna/exploitation/edna_intra_pipeline_comparison,True
 https://gitlab.mbb.univ-montp2.fr/edna/exploitation/only_obitools,False
-https://gitlab.mbb.univ-montp2.fr/edna/exploitation/primer_design,False
+https://gitlab.mbb.univ-montp2.fr/edna/exploitation/primer_design,True
 https://gitlab.mbb.univ-montp2.fr/edna/exploitation/primer_specificity_ecopcr,True
 https://gitlab.mbb.univ-montp2.fr/edna/exploitation/primers_specificity_mismatchplot,True
 https://gitlab.mbb.univ-montp2.fr/edna/exploitation/swarm_and_obitools,True
@@ -9291,9 +9293,9 @@ https://gitlab.mim-libre.fr/EOLE/Zephir/services/api-bridge,True
 https://gitlab.mim-libre.fr/EOLE/Zephir/services/config-manager,True
 https://gitlab.mim-libre.fr/EOLE/Zephir/services/consul,False
 https://gitlab.mim-libre.fr/EOLE/Zephir/services/crossbar,False
-https://gitlab.mim-libre.fr/EOLE/Zephir/services/datasource,False
+https://gitlab.mim-libre.fr/EOLE/Zephir/services/datasource,True
 https://gitlab.mim-libre.fr/EOLE/Zephir/services/identity-manager,True
-https://gitlab.mim-libre.fr/EOLE/Zephir/services/keycloak,False
+https://gitlab.mim-libre.fr/EOLE/Zephir/services/keycloak,True
 https://gitlab.mim-libre.fr/EOLE/Zephir/services/messages-web,True
 https://gitlab.mim-libre.fr/EOLE/Zephir/services/orchestrate-containerpilot,True
 https://gitlab.mim-libre.fr/EOLE/Zephir/services/postgres,True
