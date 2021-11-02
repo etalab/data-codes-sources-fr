@@ -6761,7 +6761,7 @@ https://gitlab-research.centralesupelec.fr/3if4030/python_xmlrpc_random,True
 https://gitlab-research.centralesupelec.fr/RiseClipseGroup/riseclipse-developer,True
 https://gitlab-research.centralesupelec.fr/RiseClipseGroup/riseclipse-distribution,True
 https://gitlab-research.centralesupelec.fr/RiseClipseGroup/riseclipse-editor,True
-https://gitlab-research.centralesupelec.fr/RiseClipseGroup/riseclipse-experimental,False
+https://gitlab-research.centralesupelec.fr/RiseClipseGroup/riseclipse-experimental,True
 https://gitlab-research.centralesupelec.fr/RiseClipseGroup/riseclipse-main,True
 https://gitlab-research.centralesupelec.fr/RiseClipseGroup/riseclipse-metamodel-cgmes-2-4-15,True
 https://gitlab-research.centralesupelec.fr/RiseClipseGroup/riseclipse-metamodel-cim,True
@@ -6915,6 +6915,7 @@ https://gitlab.com/DREES_code/public/openghm,True
 https://gitlab.com/DREES_code/public/outils/restes-a-charge-snds,True
 https://gitlab.com/DREES_code/public/tutoriels,True
 https://gitlab.com/DREES_code/public/validation_datapackage,True
+https://gitlab.com/affelnet-lycee-group/affelnet-lycee,False
 https://gitlab.com/api-meubles/backend,True
 https://gitlab.com/api-meubles/doc-api,True
 https://gitlab.com/api-meubles/fraddress,True
@@ -8706,6 +8707,7 @@ https://gitlab.inria.fr/piy/piy,True
 https://gitlab.inria.fr/plas20/sessionintegrity,True
 https://gitlab.inria.fr/pleiade/containers/camisim,True
 https://gitlab.inria.fr/pleiade/containers/ci-planemo,True
+https://gitlab.inria.fr/pleiade/containers/kicodia,False
 https://gitlab.inria.fr/pleiade/fluto,True
 https://gitlab.inria.fr/pleiade/jupyterlab-slurm,True
 https://gitlab.inria.fr/pleiade/menetools,True
@@ -8743,7 +8745,7 @@ https://gitlab.inria.fr/revol/mpfi,True
 https://gitlab.inria.fr/rmod-public/2019-sourcecodedata,True
 https://gitlab.inria.fr/rmod-public/steven-tests/steven-tests.gitlab.inria.fr,False
 https://gitlab.inria.fr/robotlearn/sfnec,True
-https://gitlab.inria.fr/robotlearn/xi_learning,False
+https://gitlab.inria.fr/robotlearn/xi_learning,True
 https://gitlab.inria.fr/ros_nodes/hrl-kdl,True
 https://gitlab.inria.fr/rsdschool21/lab,True
 https://gitlab.inria.fr/rsdschool21/website,True
@@ -9294,7 +9296,7 @@ https://gitlab.mim-libre.fr/EOLE/Zephir/python-zephir,True
 https://gitlab.mim-libre.fr/EOLE/Zephir/services/api-bridge,True
 https://gitlab.mim-libre.fr/EOLE/Zephir/services/config-manager,True
 https://gitlab.mim-libre.fr/EOLE/Zephir/services/consul,False
-https://gitlab.mim-libre.fr/EOLE/Zephir/services/crossbar,False
+https://gitlab.mim-libre.fr/EOLE/Zephir/services/crossbar,True
 https://gitlab.mim-libre.fr/EOLE/Zephir/services/datasource,True
 https://gitlab.mim-libre.fr/EOLE/Zephir/services/identity-manager,True
 https://gitlab.mim-libre.fr/EOLE/Zephir/services/keycloak,True
