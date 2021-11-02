@@ -989,7 +989,7 @@ https://github.com/1024pix/codeshift,True
 https://github.com/1024pix/ember-cli-chartjs,True
 https://github.com/1024pix/ember-cli-matomo-tag-manager,True
 https://github.com/1024pix/ember-sentry,True
-https://github.com/1024pix/ember-testing-library,False
+https://github.com/1024pix/ember-testing-library,True
 https://github.com/1024pix/ember-testing-library-old,True
 https://github.com/1024pix/formation-jeremie,True
 https://github.com/1024pix/gateway,True
@@ -1081,6 +1081,7 @@ https://github.com/139bercy/decp-augmente,True
 https://github.com/139bercy/decp-docs,True
 https://github.com/139bercy/decp-monitoring,True
 https://github.com/139bercy/decp-projet,True
+https://github.com/139bercy/decp-qualite,False
 https://github.com/139bercy/decp-rama,True
 https://github.com/139bercy/docker-ci-tool-stack,True
 https://github.com/139bercy/first-ghpages-by-travis,True
@@ -1893,7 +1894,7 @@ https://github.com/GIP-RECIA/iframe-resizer,True
 https://github.com/GIP-RECIA/karuta-backend,True
 https://github.com/GIP-RECIA/karuta-deployer,True
 https://github.com/GIP-RECIA/karuta-fileserver,True
-https://github.com/GIP-RECIA/karuta-frontend,False
+https://github.com/GIP-RECIA/karuta-frontend,True
 https://github.com/GIP-RECIA/menu-cantine-ui,True
 https://github.com/GIP-RECIA/moodle,True
 https://github.com/GIP-RECIA/moodle-blocks-course_overview_esco,True
@@ -7464,6 +7465,7 @@ https://gitlab.inria.fr/Simbiot/public/utilities/ros-optitrack-basics,True
 https://gitlab.inria.fr/Simbiot/public/utilities/ros-remote,True
 https://gitlab.inria.fr/SketchedLearning/fasttransformsc,True
 https://gitlab.inria.fr/SketchedLearning/spm-notebook,True
+https://gitlab.inria.fr/Spirals/d2d-survey-site,False
 https://gitlab.inria.fr/Spirals/k8sapimodeller,True
 https://gitlab.inria.fr/Spirals/monsoon,True
 https://gitlab.inria.fr/TeamPlay_Public/TeamPlay_Public_Deliverables,True
@@ -8684,7 +8686,7 @@ https://gitlab.inria.fr/paradiseo/paradiseo,True
 https://gitlab.inria.fr/paradiseo/pyparadiseo,True
 https://gitlab.inria.fr/parallel-replica/gen.parRep,True
 https://gitlab.inria.fr/parallel-replica/qsd.gen.samples,True
-https://gitlab.inria.fr/parkas/jfla-2022,False
+https://gitlab.inria.fr/parkas/jfla-2022,True
 https://gitlab.inria.fr/parseme-fr/mwe-mg,True
 https://gitlab.inria.fr/partout/web,True
 https://gitlab.inria.fr/patate/patate,True
@@ -9235,7 +9237,7 @@ https://gitlab.mbb.univ-montp2.fr/edna/nextflow_obitools,False
 https://gitlab.mbb.univ-montp2.fr/edna/only_obitools,True
 https://gitlab.mbb.univ-montp2.fr/edna/query_metabarcoding_data,True
 https://gitlab.mbb.univ-montp2.fr/edna/reference_database,False
-https://gitlab.mbb.univ-montp2.fr/edna/snakemake_only_obitools,False
+https://gitlab.mbb.univ-montp2.fr/edna/snakemake_only_obitools,True
 https://gitlab.mbb.univ-montp2.fr/edna/snakemake_rapidrun_data_test,True
 https://gitlab.mbb.univ-montp2.fr/edna/snakemake_rapidrun_obitools,True
 https://gitlab.mbb.univ-montp2.fr/edna/snakemake_rapidrun_swarm,True
