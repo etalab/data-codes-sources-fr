@@ -1040,6 +1040,7 @@ https://github.com/1024pix/pix-review-router,True
 https://github.com/1024pix/pix-saml-idp,True
 https://github.com/1024pix/pix-site,True
 https://github.com/1024pix/pix-site-pro,True
+https://github.com/1024pix/pix-steampipe-mod-scalingo-compliance,False
 https://github.com/1024pix/pix-ui,True
 https://github.com/1024pix/pix-ui.github.io,False
 https://github.com/1024pix/plugin-EnvironmentVariables,True
@@ -1180,7 +1181,7 @@ https://github.com/AccessiDys/prototype-decoupage,True
 https://github.com/AgenceBio/cartobio-api,True
 https://github.com/AgenceBio/cartobio-front,True
 https://github.com/AgenceBio/cartobio-rpg,True
-https://github.com/AgenceBio/rpg-cli,False
+https://github.com/AgenceBio/rpg-cli,True
 https://github.com/AlsaceDigitale/2012.edgefest.fr,True
 https://github.com/AlsaceDigitale/2013.edgefest.fr,True
 https://github.com/AlsaceDigitale/2014.edgefest.fr,True
@@ -1897,6 +1898,7 @@ https://github.com/GIP-RECIA/karuta-fileserver,True
 https://github.com/GIP-RECIA/karuta-frontend,True
 https://github.com/GIP-RECIA/menu-cantine-ui,True
 https://github.com/GIP-RECIA/moodle,True
+https://github.com/GIP-RECIA/moodle-assign_submission_onlinepoodll,False
 https://github.com/GIP-RECIA/moodle-blocks-course_overview_esco,True
 https://github.com/GIP-RECIA/moodle-dev-stack,True
 https://github.com/GIP-RECIA/moodle-filter_jmol,True
@@ -7356,6 +7358,7 @@ https://gitlab.inria.fr/E2Clab/Paper-Artifacts/plantnet,True
 https://gitlab.inria.fr/E2Clab/e2clab,True
 https://gitlab.inria.fr/Fmg/fmg,True
 https://gitlab.inria.fr/GATB/gatb-core,True
+https://gitlab.inria.fr/GATB/gatb-rconnector,False
 https://gitlab.inria.fr/GATB/simka,True
 https://gitlab.inria.fr/GUDHI/coxeter_for_ouragan,True
 https://gitlab.inria.fr/GUDHI/data,True
@@ -8628,7 +8631,7 @@ https://gitlab.inria.fr/nixos-compose/ipanema-nixos-compose,True
 https://gitlab.inria.fr/nixos-compose/nixos-compose,True
 https://gitlab.inria.fr/obelix/broceliande,True
 https://gitlab.inria.fr/obelix/triskele,True
-https://gitlab.inria.fr/office-431/moodle-procrastination-graph,False
+https://gitlab.inria.fr/office-431/moodle-procrastination-graph,True
 https://gitlab.inria.fr/office-431/oar-time,True
 https://gitlab.inria.fr/open-mx/open-mx,True
 https://gitlab.inria.fr/openbiscuit/rescience_egbert14,True
@@ -9323,7 +9326,7 @@ https://gitlab.mim-libre.fr/EOLE/amon-3/opnsense/dhcp6c,True
 https://gitlab.mim-libre.fr/EOLE/amon-3/opnsense/docs,True
 https://gitlab.mim-libre.fr/EOLE/amon-3/opnsense/installer,True
 https://gitlab.mim-libre.fr/EOLE/amon-3/opnsense/jquery-bootgrid,True
-https://gitlab.mim-libre.fr/EOLE/amon-3/opnsense/lang,False
+https://gitlab.mim-libre.fr/EOLE/amon-3/opnsense/lang,True
 https://gitlab.mim-libre.fr/EOLE/amon-3/opnsense/pam_opnsense,False
 https://gitlab.mim-libre.fr/EOLE/amon-3/opnsense/plugins,True
 https://gitlab.mim-libre.fr/EOLE/amon-3/opnsense/ports,True
