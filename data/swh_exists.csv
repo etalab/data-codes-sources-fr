@@ -1182,6 +1182,7 @@ https://github.com/AgenceBio/cartobio-api,True
 https://github.com/AgenceBio/cartobio-front,True
 https://github.com/AgenceBio/cartobio-rpg,True
 https://github.com/AgenceBio/rpg-cli,True
+https://github.com/AgenceBio/schemas,False
 https://github.com/AlsaceDigitale/2012.edgefest.fr,True
 https://github.com/AlsaceDigitale/2013.edgefest.fr,True
 https://github.com/AlsaceDigitale/2014.edgefest.fr,True
@@ -1898,7 +1899,7 @@ https://github.com/GIP-RECIA/karuta-fileserver,True
 https://github.com/GIP-RECIA/karuta-frontend,True
 https://github.com/GIP-RECIA/menu-cantine-ui,True
 https://github.com/GIP-RECIA/moodle,True
-https://github.com/GIP-RECIA/moodle-assign_submission_onlinepoodll,False
+https://github.com/GIP-RECIA/moodle-assign_submission_onlinepoodll,True
 https://github.com/GIP-RECIA/moodle-blocks-course_overview_esco,True
 https://github.com/GIP-RECIA/moodle-dev-stack,True
 https://github.com/GIP-RECIA/moodle-filter_jmol,True
@@ -4412,6 +4413,7 @@ https://github.com/diverse-project/xcore-light,True
 https://github.com/diverse-project/yajta-mirror,True
 https://github.com/dnum-mi/carto-rna,False
 https://github.com/dnum-mi/cartographie-donnees,True
+https://github.com/dnum-mi/dataprep_dca,False
 https://github.com/dnum-mi/demo-vue-dsfr,True
 https://github.com/dnum-mi/vue-dsfr,False
 https://github.com/dsi-ehess/VIVO,True
@@ -9256,7 +9258,7 @@ https://gitlab.mbb.univ-montp2.fr/grenouille_rousse/probedesign,True
 https://gitlab.mbb.univ-montp2.fr/intrapop/assemble_mitogenome,True
 https://gitlab.mbb.univ-montp2.fr/intrapop/prepare_wgs_data,True
 https://gitlab.mbb.univ-montp2.fr/intrapop/primer-design,True
-https://gitlab.mbb.univ-montp2.fr/lxdsingu/atelier-lxdsingu,False
+https://gitlab.mbb.univ-montp2.fr/lxdsingu/atelier-lxdsingu,True
 https://gitlab.mbb.univ-montp2.fr/macse/macse,True
 https://gitlab.mbb.univ-montp2.fr/mbb/CroCo,True
 https://gitlab.mbb.univ-montp2.fr/mbb/dnabushmeat,True
@@ -9282,7 +9284,7 @@ https://gitlab.mbb.univ-montp2.fr/saltstack-formulas/get_d_states,True
 https://gitlab.mbb.univ-montp2.fr/saltstack-formulas/set_grains,True
 https://gitlab.mbb.univ-montp2.fr/seaconnect/annotationvariant,True
 https://gitlab.mbb.univ-montp2.fr/seaconnect/clean-fastq,True
-https://gitlab.mbb.univ-montp2.fr/seaconnect/ddocent_radseq,False
+https://gitlab.mbb.univ-montp2.fr/seaconnect/ddocent_radseq,True
 https://gitlab.mbb.univ-montp2.fr/seaconnect/seaConnect--dataPrep,True
 https://gitlab.metromobilite.fr/m/affluence/affluence-front,True
 https://gitlab.metromobilite.fr/m/affluence/affluence-serv,True
@@ -9301,7 +9303,7 @@ https://gitlab.mim-libre.fr/EOLE/Zephir/messages-api,True
 https://gitlab.mim-libre.fr/EOLE/Zephir/python-zephir,True
 https://gitlab.mim-libre.fr/EOLE/Zephir/services/api-bridge,True
 https://gitlab.mim-libre.fr/EOLE/Zephir/services/config-manager,True
-https://gitlab.mim-libre.fr/EOLE/Zephir/services/consul,False
+https://gitlab.mim-libre.fr/EOLE/Zephir/services/consul,True
 https://gitlab.mim-libre.fr/EOLE/Zephir/services/crossbar,True
 https://gitlab.mim-libre.fr/EOLE/Zephir/services/datasource,True
 https://gitlab.mim-libre.fr/EOLE/Zephir/services/identity-manager,True
@@ -9745,7 +9747,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/enseignement1/m2cci/java/segmentsde
 https://gricad-gitlab.univ-grenoble-alpes.fr/enseignement1/m2cci/java/text-indexation,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/enseignement1/m2cci/java/theatredemo,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/enseignement1/m2cci/java/tp09-exceptions,True
-https://gricad-gitlab.univ-grenoble-alpes.fr/enseignement1/m2cci/javascript/correctiontp7,False
+https://gricad-gitlab.univ-grenoble-alpes.fr/enseignement1/m2cci/javascript/correctiontp7,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/enseignement1/m2cci/javascript/visagesanimes_correction,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/enseignement1/m2cci/projetintegration,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/ensimag/poly-intro-unix,True
