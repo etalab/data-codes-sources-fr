@@ -1903,6 +1903,7 @@ https://github.com/GIP-RECIA/moodle-blocks-course_overview_esco,True
 https://github.com/GIP-RECIA/moodle-dev-stack,True
 https://github.com/GIP-RECIA/moodle-filter_jmol,True
 https://github.com/GIP-RECIA/moodle-filter_poodll,True
+https://github.com/GIP-RECIA/moodle-mod_dataform,False
 https://github.com/GIP-RECIA/moodle-mod_etherpadlite,True
 https://github.com/GIP-RECIA/moodle-mod_geogebra,False
 https://github.com/GIP-RECIA/moodle-themes-locaux,True
@@ -3870,7 +3871,7 @@ https://github.com/betagouv/siecle-xml_mapper,True
 https://github.com/betagouv/signalconso-api-sdk-js,True
 https://github.com/betagouv/signalconso-dashboard-react,True
 https://github.com/betagouv/signalconso-loadtest,True
-https://github.com/betagouv/signalconso-website,False
+https://github.com/betagouv/signalconso-website,True
 https://github.com/betagouv/signalement,True
 https://github.com/betagouv/signalement-api,True
 https://github.com/betagouv/signalement-app,True
@@ -8994,6 +8995,7 @@ https://gitlab.inria.fr/tranus/QGIS_Tranus_Reports,True
 https://gitlab.inria.fr/tranus/TRANUS_Interfaces,True
 https://gitlab.inria.fr/tranus/Tranus_Python,True
 https://gitlab.inria.fr/tranus/Tranus_QGIS_Plugins,True
+https://gitlab.inria.fr/tyrex-public/distmura,False
 https://gitlab.inria.fr/tyrex-public/mu-RA,True
 https://gitlab.inria.fr/ua/HighlyOscillatoryProblems.jl,True
 https://gitlab.inria.fr/ud-greenberg/ranlp-2021,True
@@ -9309,7 +9311,7 @@ https://gitlab.mim-libre.fr/EOLE/Zephir/services/orchestrate-containerpilot,True
 https://gitlab.mim-libre.fr/EOLE/Zephir/services/postgres,True
 https://gitlab.mim-libre.fr/EOLE/Zephir/services/saltmaster-manager,True
 https://gitlab.mim-libre.fr/EOLE/Zephir/services/server-manager,True
-https://gitlab.mim-libre.fr/EOLE/Zephir/services/servermodel-manager,False
+https://gitlab.mim-libre.fr/EOLE/Zephir/services/servermodel-manager,True
 https://gitlab.mim-libre.fr/EOLE/Zephir/services/serverselection,True
 https://gitlab.mim-libre.fr/EOLE/Zephir/services/traefik,True
 https://gitlab.mim-libre.fr/EOLE/Zephir/services/vault-manager,True
