@@ -5243,7 +5243,7 @@ https://github.com/georchestra/mapstore2-cadastrapp,True
 https://github.com/georchestra/mapstore2-georchestra,True
 https://github.com/georchestra/mfprintv2deps,True
 https://github.com/georchestra/nagios,True
-https://github.com/georchestra/nextcloud_georchestra,False
+https://github.com/georchestra/nextcloud_georchestra,True
 https://github.com/georchestra/notes,True
 https://github.com/georchestra/ogc-standards,True
 https://github.com/georchestra/opacityslider,True
@@ -8744,6 +8744,7 @@ https://gitlab.inria.fr/resist/tutorial-iot-security,True
 https://gitlab.inria.fr/revol/mpfi,True
 https://gitlab.inria.fr/rmod-public/2019-sourcecodedata,True
 https://gitlab.inria.fr/rmod-public/steven-tests/steven-tests.gitlab.inria.fr,False
+https://gitlab.inria.fr/robotlearn/cluster-monitor,False
 https://gitlab.inria.fr/robotlearn/sfnec,True
 https://gitlab.inria.fr/robotlearn/xi_learning,True
 https://gitlab.inria.fr/ros_nodes/hrl-kdl,True
@@ -9287,7 +9288,7 @@ https://gitlab.metromobilite.fr/m/public/m-smartwatch/metro-watch,True
 https://gitlab.metromobilite.fr/m/public/m-theme,True
 https://gitlab.metromobilite.fr/m/public/metro-flutter,True
 https://gitlab.mim-libre.fr/EOLE/Zephir/application,True
-https://gitlab.mim-libre.fr/EOLE/Zephir/ci,False
+https://gitlab.mim-libre.fr/EOLE/Zephir/ci,True
 https://gitlab.mim-libre.fr/EOLE/Zephir/data-model-eole,True
 https://gitlab.mim-libre.fr/EOLE/Zephir/documentation,True
 https://gitlab.mim-libre.fr/EOLE/Zephir/jenkins,True
@@ -9351,7 +9352,7 @@ https://gitlab.mim-libre.fr/alphabet/sondage,True
 https://gitlab.mim-libre.fr/extensions-peertube/categories-management-plugin,True
 https://gitlab.mim-libre.fr/extensions-peertube/plugin-transcription,True
 https://gitlab.mim-libre.fr/menjs-dne-public/fr.edu.appwhite,True
-https://gitlab.mim-libre.fr/menjs-dne-public/fr.gouv.menjs.genhtmlrgaa,False
+https://gitlab.mim-libre.fr/menjs-dne-public/fr.gouv.menjs.genhtmlrgaa,True
 https://gitlab.mim-libre.fr/sndv-maritime/moana,True
 https://gitlab.orfeo-toolbox.org/maja/maja,True
 https://gitlab.orfeo-toolbox.org/maja/maja-build-env,True
