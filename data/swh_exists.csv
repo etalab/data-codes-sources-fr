@@ -3467,6 +3467,7 @@ https://github.com/betagouv/Aidants_Connect,True
 https://github.com/betagouv/Aidants_Connect_Carto,True
 https://github.com/betagouv/ClasseA12,True
 https://github.com/betagouv/DNC,True
+https://github.com/betagouv/Django_oidc_id_provider,False
 https://github.com/betagouv/Ecolab,True
 https://github.com/betagouv/Element.details,True
 https://github.com/betagouv/OpenFiscaFrance.jl,True
@@ -4235,6 +4236,7 @@ https://github.com/dataesr/bso-parser-html,True
 https://github.com/dataesr/bso-publications,True
 https://github.com/dataesr/bso-ui,True
 https://github.com/dataesr/curieXplore-paysage,True
+https://github.com/dataesr/curiexplore-api,False
 https://github.com/dataesr/curiexplore-paysage,True
 https://github.com/dataesr/dataesr-paysage,True
 https://github.com/dataesr/harvest-patstat,True
@@ -4415,7 +4417,7 @@ https://github.com/dnum-mi/carto-rna,True
 https://github.com/dnum-mi/cartographie-donnees,True
 https://github.com/dnum-mi/dataprep_dca,False
 https://github.com/dnum-mi/demo-vue-dsfr,True
-https://github.com/dnum-mi/vue-dsfr,False
+https://github.com/dnum-mi/vue-dsfr,True
 https://github.com/dsi-ehess/VIVO,True
 https://github.com/dsi-ehess/VIVO-EHESS,True
 https://github.com/dsi-ehess/VIVO-Sample-Data,True
@@ -6846,6 +6848,8 @@ https://gitlab.adullact.net/dgfip/calculette-impot-societes,True
 https://gitlab.adullact.net/dgfip/dtnum/tf,True
 https://gitlab.adullact.net/dgfip/dtnum/th,True
 https://gitlab.adullact.net/dgfip/ir-calcul,True
+https://gitlab.adullact.net/dgfip/taxe_fonciere,False
+https://gitlab.adullact.net/dgfip/taxe_habitation,False
 https://gitlab.adullact.net/directmairie/directmairie,True
 https://gitlab.adullact.net/directmairie/puppet-directmairie,True
 https://gitlab.adullact.net/e-carre/e-carre-particuliers,True
@@ -6923,7 +6927,7 @@ https://gitlab.com/DREES_code/public/openghm,True
 https://gitlab.com/DREES_code/public/outils/restes-a-charge-snds,True
 https://gitlab.com/DREES_code/public/tutoriels,True
 https://gitlab.com/DREES_code/public/validation_datapackage,True
-https://gitlab.com/affelnet-lycee-group/affelnet-lycee,False
+https://gitlab.com/affelnet-lycee-group/affelnet-lycee,True
 https://gitlab.com/api-meubles/backend,True
 https://gitlab.com/api-meubles/doc-api,True
 https://gitlab.com/api-meubles/fraddress,True
@@ -9249,7 +9253,7 @@ https://gitlab.mbb.univ-montp2.fr/edna/metabarcoding_data_simulations,True
 https://gitlab.mbb.univ-montp2.fr/edna/nextflow_obitools,False
 https://gitlab.mbb.univ-montp2.fr/edna/only_obitools,True
 https://gitlab.mbb.univ-montp2.fr/edna/query_metabarcoding_data,True
-https://gitlab.mbb.univ-montp2.fr/edna/reference_database,False
+https://gitlab.mbb.univ-montp2.fr/edna/reference_database,True
 https://gitlab.mbb.univ-montp2.fr/edna/snakemake_only_obitools,True
 https://gitlab.mbb.univ-montp2.fr/edna/snakemake_rapidrun_data_test,True
 https://gitlab.mbb.univ-montp2.fr/edna/snakemake_rapidrun_obitools,True
@@ -9269,7 +9273,7 @@ https://gitlab.mbb.univ-montp2.fr/mbb/doc_user,True
 https://gitlab.mbb.univ-montp2.fr/mbb/modulefiles,True
 https://gitlab.mbb.univ-montp2.fr/mbb/singularity-local-recipes,True
 https://gitlab.mbb.univ-montp2.fr/mbb/tp_rocks,True
-https://gitlab.mbb.univ-montp2.fr/reservebenefit/environmental_assign_data,False
+https://gitlab.mbb.univ-montp2.fr/reservebenefit/environmental_assign_data,True
 https://gitlab.mbb.univ-montp2.fr/reservebenefit/genome_assemblies_collection,True
 https://gitlab.mbb.univ-montp2.fr/reservebenefit/genomic_resources_for_med_fishes,True
 https://gitlab.mbb.univ-montp2.fr/reservebenefit/occurence_freshwater_marine_species,True
