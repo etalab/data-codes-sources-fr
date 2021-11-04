@@ -4571,6 +4571,8 @@ https://github.com/eole/gitolite,False
 https://github.com/eole/installer,False
 https://github.com/eole/jquery-bootgrid,False
 https://github.com/eole/libvirt-formula,True
+https://github.com/eole/lizardfs-DM_MAD,False
+https://github.com/eole/lizardfs-tm_mad,False
 https://github.com/eole/mastodon,True
 https://github.com/eole/meteor-accounts-keycloak,True
 https://github.com/eole/meteor-keycloak-oauth,True
