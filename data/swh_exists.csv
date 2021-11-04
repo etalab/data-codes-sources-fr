@@ -1904,7 +1904,7 @@ https://github.com/GIP-RECIA/moodle-blocks-course_overview_esco,True
 https://github.com/GIP-RECIA/moodle-dev-stack,True
 https://github.com/GIP-RECIA/moodle-filter_jmol,True
 https://github.com/GIP-RECIA/moodle-filter_poodll,True
-https://github.com/GIP-RECIA/moodle-mod_dataform,False
+https://github.com/GIP-RECIA/moodle-mod_dataform,True
 https://github.com/GIP-RECIA/moodle-mod_etherpadlite,True
 https://github.com/GIP-RECIA/moodle-mod_geogebra,False
 https://github.com/GIP-RECIA/moodle-themes-locaux,True
@@ -1928,6 +1928,7 @@ https://github.com/GIP-RECIA/textAngular,True
 https://github.com/GIP-RECIA/uPortal-start,True
 https://github.com/GIP-RECIA/uPortal-web-components,True
 https://github.com/GIP-RECIA/user_cas,True
+https://github.com/Gendarmerie-Nationale/Borne-passe-sanitaire-BPS,False
 https://github.com/GendarmerieNationale/FlowTracker,True
 https://github.com/GendarmerieNationale/GendLoc-,True
 https://github.com/GendarmerieNationale/Geo-Secours,True
@@ -3467,7 +3468,7 @@ https://github.com/betagouv/Aidants_Connect,True
 https://github.com/betagouv/Aidants_Connect_Carto,True
 https://github.com/betagouv/ClasseA12,True
 https://github.com/betagouv/DNC,True
-https://github.com/betagouv/Django_oidc_id_provider,False
+https://github.com/betagouv/Django_oidc_id_provider,True
 https://github.com/betagouv/Ecolab,True
 https://github.com/betagouv/Element.details,True
 https://github.com/betagouv/OpenFiscaFrance.jl,True
@@ -3674,7 +3675,7 @@ https://github.com/betagouv/inca-app,True
 https://github.com/betagouv/inca-proxy,True
 https://github.com/betagouv/inca-survey,True
 https://github.com/betagouv/indice_pollution,True
-https://github.com/betagouv/infoparquet,False
+https://github.com/betagouv/infoparquet,True
 https://github.com/betagouv/itou,True
 https://github.com/betagouv/itou-bitoubi,True
 https://github.com/betagouv/itou-c4-tracker,True
@@ -6234,6 +6235,7 @@ https://github.com/openfun/fun-videofront-xblock,True
 https://github.com/openfun/hackathon,True
 https://github.com/openfun/handbook,True
 https://github.com/openfun/jibri-pulseaudio,True
+https://github.com/openfun/jitsi-box,False
 https://github.com/openfun/jitsi-k8s,True
 https://github.com/openfun/joanie,True
 https://github.com/openfun/learning-analytics-playground,True
@@ -7368,7 +7370,7 @@ https://gitlab.inria.fr/E2Clab/Paper-Artifacts/plantnet,True
 https://gitlab.inria.fr/E2Clab/e2clab,True
 https://gitlab.inria.fr/Fmg/fmg,True
 https://gitlab.inria.fr/GATB/gatb-core,True
-https://gitlab.inria.fr/GATB/gatb-rconnector,False
+https://gitlab.inria.fr/GATB/gatb-rconnector,True
 https://gitlab.inria.fr/GATB/simka,True
 https://gitlab.inria.fr/GUDHI/coxeter_for_ouragan,True
 https://gitlab.inria.fr/GUDHI/data,True
