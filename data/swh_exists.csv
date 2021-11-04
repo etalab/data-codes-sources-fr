@@ -475,7 +475,7 @@ https://forgemia.inra.fr/hackathon-portail-calcul/criteres,True
 https://forgemia.inra.fr/hackathon-portail-calcul/existant,True
 https://forgemia.inra.fr/hackathon-portail-calcul/hackathon_organisation,True
 https://forgemia.inra.fr/ices_imes_analysis/icescreen,True
-https://forgemia.inra.fr/ices_imes_analysis/icescreen_documentation,False
+https://forgemia.inra.fr/ices_imes_analysis/icescreen_documentation,True
 https://forgemia.inra.fr/ices_imes_analysis/icescreen_pub,False
 https://forgemia.inra.fr/ices_imes_analysis/icescreen_public_release,True
 https://forgemia.inra.fr/in-sylva-development/in-sylva.gatekeeper,True
@@ -4411,7 +4411,7 @@ https://github.com/diverse-project/varylatex,True
 https://github.com/diverse-project/website,True
 https://github.com/diverse-project/xcore-light,True
 https://github.com/diverse-project/yajta-mirror,True
-https://github.com/dnum-mi/carto-rna,False
+https://github.com/dnum-mi/carto-rna,True
 https://github.com/dnum-mi/cartographie-donnees,True
 https://github.com/dnum-mi/dataprep_dca,False
 https://github.com/dnum-mi/demo-vue-dsfr,True
@@ -4782,6 +4782,7 @@ https://github.com/etalab/code.etalab.gouv.fr,True
 https://github.com/etalab/codegouvfr,True
 https://github.com/etalab/codegouvfr-data,True
 https://github.com/etalab/codegouvfr-deps,True
+https://github.com/etalab/codegouvfr-sources,False
 https://github.com/etalab/codes-juridiques-francais,True
 https://github.com/etalab/codes-postaux,True
 https://github.com/etalab/collectivites.data.gouv.fr,True
@@ -8750,7 +8751,7 @@ https://gitlab.inria.fr/resist/tutorial-iot-security,True
 https://gitlab.inria.fr/revol/mpfi,True
 https://gitlab.inria.fr/rmod-public/2019-sourcecodedata,True
 https://gitlab.inria.fr/rmod-public/steven-tests/steven-tests.gitlab.inria.fr,False
-https://gitlab.inria.fr/robotlearn/cluster-monitor,False
+https://gitlab.inria.fr/robotlearn/cluster-monitor,True
 https://gitlab.inria.fr/robotlearn/sfnec,True
 https://gitlab.inria.fr/robotlearn/xi_learning,True
 https://gitlab.inria.fr/ros_nodes/hrl-kdl,True
@@ -9331,7 +9332,7 @@ https://gitlab.mim-libre.fr/EOLE/amon-3/opnsense/docs,True
 https://gitlab.mim-libre.fr/EOLE/amon-3/opnsense/installer,True
 https://gitlab.mim-libre.fr/EOLE/amon-3/opnsense/jquery-bootgrid,True
 https://gitlab.mim-libre.fr/EOLE/amon-3/opnsense/lang,True
-https://gitlab.mim-libre.fr/EOLE/amon-3/opnsense/pam_opnsense,False
+https://gitlab.mim-libre.fr/EOLE/amon-3/opnsense/pam_opnsense,True
 https://gitlab.mim-libre.fr/EOLE/amon-3/opnsense/plugins,True
 https://gitlab.mim-libre.fr/EOLE/amon-3/opnsense/ports,True
 https://gitlab.mim-libre.fr/EOLE/amon-3/opnsense/rules,True
