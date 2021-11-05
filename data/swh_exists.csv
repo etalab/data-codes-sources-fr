@@ -1929,7 +1929,7 @@ https://github.com/GIP-RECIA/textAngular,True
 https://github.com/GIP-RECIA/uPortal-start,True
 https://github.com/GIP-RECIA/uPortal-web-components,True
 https://github.com/GIP-RECIA/user_cas,True
-https://github.com/Gendarmerie-Nationale/Borne-passe-sanitaire-BPS,False
+https://github.com/Gendarmerie-Nationale/Borne-passe-sanitaire-BPS,True
 https://github.com/GendarmerieNationale/FlowTracker,True
 https://github.com/GendarmerieNationale/GendLoc-,True
 https://github.com/GendarmerieNationale/Geo-Secours,True
@@ -9261,7 +9261,7 @@ https://gitlab.mbb.univ-montp2.fr/edna/exploitation/primer_specificity_ecopcr,Tr
 https://gitlab.mbb.univ-montp2.fr/edna/exploitation/primers_specificity_mismatchplot,True
 https://gitlab.mbb.univ-montp2.fr/edna/exploitation/swarm_and_obitools,True
 https://gitlab.mbb.univ-montp2.fr/edna/metabarcoding_data_simulations,True
-https://gitlab.mbb.univ-montp2.fr/edna/nextflow_obitools,False
+https://gitlab.mbb.univ-montp2.fr/edna/nextflow_obitools,True
 https://gitlab.mbb.univ-montp2.fr/edna/only_obitools,True
 https://gitlab.mbb.univ-montp2.fr/edna/query_metabarcoding_data,True
 https://gitlab.mbb.univ-montp2.fr/edna/reference_database,True
