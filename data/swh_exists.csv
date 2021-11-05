@@ -307,6 +307,7 @@ https://forgemia.inra.fr/cropmetapop/cmpconfig,True
 https://forgemia.inra.fr/cropmetapop/cmpfitness,True
 https://forgemia.inra.fr/cropmetapop/cropmetapop,True
 https://forgemia.inra.fr/decrypt/deterministic-model,True
+https://forgemia.inra.fr/decrypt/pdmp-model,False
 https://forgemia.inra.fr/dipso/aspire,True
 https://forgemia.inra.fr/dipso/bridge-datainrae-nextcloud,True
 https://forgemia.inra.fr/dipso/kubespray,True
@@ -1040,7 +1041,7 @@ https://github.com/1024pix/pix-review-router,True
 https://github.com/1024pix/pix-saml-idp,True
 https://github.com/1024pix/pix-site,True
 https://github.com/1024pix/pix-site-pro,True
-https://github.com/1024pix/pix-steampipe-mod-scalingo-compliance,False
+https://github.com/1024pix/pix-steampipe-mod-scalingo-compliance,True
 https://github.com/1024pix/pix-ui,True
 https://github.com/1024pix/pix-ui.github.io,False
 https://github.com/1024pix/plugin-EnvironmentVariables,True
@@ -2355,6 +2356,8 @@ https://github.com/InseeFrLab/demo-apps,True
 https://github.com/InseeFrLab/docs.sspcloud.fr,True
 https://github.com/InseeFrLab/fastai,True
 https://github.com/InseeFrLab/fmtsas,True
+https://github.com/InseeFrLab/formation-python,False
+https://github.com/InseeFrLab/formation-spark,False
 https://github.com/InseeFrLab/funcamp-r,True
 https://github.com/InseeFrLab/funcamp-r-dock,True
 https://github.com/InseeFrLab/funcamp-r-grimoire,True
@@ -2396,6 +2399,7 @@ https://github.com/InseeFrLab/onyxia-web,True
 https://github.com/InseeFrLab/poc-metallica-mongodb,True
 https://github.com/InseeFrLab/predicat,True
 https://github.com/InseeFrLab/product-labelling,True
+https://github.com/InseeFrLab/pynsee,False
 https://github.com/InseeFrLab/rapidsai,True
 https://github.com/InseeFrLab/redash,True
 https://github.com/InseeFrLab/rjdworkspace,True
@@ -3242,7 +3246,7 @@ https://github.com/abes-esr/item-api,True
 https://github.com/abes-esr/item-client,True
 https://github.com/abes-esr/jabes-2021-jq,True
 https://github.com/abes-esr/kalidos,True
-https://github.com/abes-esr/koha-abes-ws,False
+https://github.com/abes-esr/koha-abes-ws,True
 https://github.com/abes-esr/licencesnationales-back,True
 https://github.com/abes-esr/licencesnationales-front,True
 https://github.com/abes-esr/ln-back-event,False
@@ -3390,7 +3394,7 @@ https://github.com/assurance-maladie-digital/api.gouv.fr,True
 https://github.com/assurance-maladie-digital/assurance-maladie-digital.github.io,True
 https://github.com/assurance-maladie-digital/design-system,True
 https://github.com/assurance-maladie-digital/github-status-orb,True
-https://github.com/assurance-maladie-digital/netlify-orb,False
+https://github.com/assurance-maladie-digital/netlify-orb,True
 https://github.com/assurance-maladie-digital/qualytou,True
 https://github.com/assurance-maladie-digital/vue-cli-preset,True
 https://github.com/assurance-maladie-digital/vue-dash,True
@@ -7995,6 +7999,7 @@ https://gitlab.inria.fr/dlp-sif/sonarqube,True
 https://gitlab.inria.fr/doris/doris-android,True
 https://gitlab.inria.fr/doris/doris.gitlabpages.inria.fr,True
 https://gitlab.inria.fr/druid-public/headwork,True
+https://gitlab.inria.fr/druidnet/traces-fit-iot,False
 https://gitlab.inria.fr/dsi_public/depots_officiels_inria_gitlab,True
 https://gitlab.inria.fr/dsi_public/osc,True
 https://gitlab.inria.fr/dtk/cross-parameters,True
@@ -10174,6 +10179,7 @@ https://plmlab.math.cnrs.fr/perso/users/eleonora.di-nezza,True
 https://plmlab.math.cnrs.fr/perso/users/frank.pacard,True
 https://plmlab.math.cnrs.fr/perso/users/gabriel.ribeiro,True
 https://plmlab.math.cnrs.fr/perso/users/lucas.ertzbischoff,True
+https://plmlab.math.cnrs.fr/perso/users/saeed.sadeghi-arjmand,False
 https://plmlab.math.cnrs.fr/perso/users/thomas.gauthier,True
 https://plmlab.math.cnrs.fr/phymath/nspawn,True
 https://plmlab.math.cnrs.fr/phymath/tftp-http-proxy,True
