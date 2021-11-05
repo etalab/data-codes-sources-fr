@@ -3390,6 +3390,7 @@ https://github.com/assurance-maladie-digital/api.gouv.fr,True
 https://github.com/assurance-maladie-digital/assurance-maladie-digital.github.io,True
 https://github.com/assurance-maladie-digital/design-system,True
 https://github.com/assurance-maladie-digital/github-status-orb,True
+https://github.com/assurance-maladie-digital/netlify-orb,False
 https://github.com/assurance-maladie-digital/qualytou,True
 https://github.com/assurance-maladie-digital/vue-cli-preset,True
 https://github.com/assurance-maladie-digital/vue-dash,True
@@ -4416,7 +4417,7 @@ https://github.com/diverse-project/xcore-light,True
 https://github.com/diverse-project/yajta-mirror,True
 https://github.com/dnum-mi/carto-rna,True
 https://github.com/dnum-mi/cartographie-donnees,True
-https://github.com/dnum-mi/dataprep_dca,False
+https://github.com/dnum-mi/dataprep_dca,True
 https://github.com/dnum-mi/demo-vue-dsfr,True
 https://github.com/dnum-mi/vue-dsfr,True
 https://github.com/dsi-ehess/VIVO,True
@@ -7509,6 +7510,7 @@ https://gitlab.inria.fr/WellInverter/WellInverter_Standalone_MacOS,True
 https://gitlab.inria.fr/WellInverter/WellInverter_Standalone_Nuvla,True
 https://gitlab.inria.fr/WellInverter/WellInverter_Standalone_Windows,True
 https://gitlab.inria.fr/abadoual/Camisim,True
+https://gitlab.inria.fr/abs/sbl,False
 https://gitlab.inria.fr/across_opm/opm-common,True
 https://gitlab.inria.fr/across_opm/opm-grid,True
 https://gitlab.inria.fr/across_opm/opm-material,True
@@ -8088,6 +8090,7 @@ https://gitlab.inria.fr/expression/expression-externals/old_icu,True
 https://gitlab.inria.fr/expression/test_pa,True
 https://gitlab.inria.fr/expression/tools/FlexEval,True
 https://gitlab.inria.fr/expression/tools/roots,True
+https://gitlab.inria.fr/expression/tremolo/controllable-paraphrase-generation,False
 https://gitlab.inria.fr/faustgrp/gforge_files,True
 https://gitlab.inria.fr/fec/MIPP,True
 https://gitlab.inria.fr/fec/PyBER,True
@@ -8775,6 +8778,7 @@ https://gitlab.inria.fr/sca_platform/analysis,False
 https://gitlab.inria.fr/sca_platform/equipments,False
 https://gitlab.inria.fr/sca_platform/targets,False
 https://gitlab.inria.fr/scafia/benches,True
+https://gitlab.inria.fr/scafia/targets,False
 https://gitlab.inria.fr/science-environnement-societe/info,True
 https://gitlab.inria.fr/scotch/scotch,True
 https://gitlab.inria.fr/scripta/escriptorium,True
