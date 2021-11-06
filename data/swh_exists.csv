@@ -4242,7 +4242,7 @@ https://github.com/dataesr/bso-parser-html,True
 https://github.com/dataesr/bso-publications,True
 https://github.com/dataesr/bso-ui,True
 https://github.com/dataesr/curieXplore-paysage,True
-https://github.com/dataesr/curiexplore-api,False
+https://github.com/dataesr/curiexplore-api,True
 https://github.com/dataesr/curiexplore-paysage,True
 https://github.com/dataesr/dataesr-paysage,True
 https://github.com/dataesr/harvest-patstat,True
@@ -6482,7 +6482,9 @@ https://github.com/signaux-faibles/goSirene,True
 https://github.com/signaux-faibles/gorncs-api,True
 https://github.com/signaux-faibles/goup,True
 https://github.com/signaux-faibles/gournal,True
+https://github.com/signaux-faibles/inpiRncsParser,False
 https://github.com/signaux-faibles/keycloakUpdater,True
+https://github.com/signaux-faibles/libinpirncs,False
 https://github.com/signaux-faibles/mlr3extralearners,True
 https://github.com/signaux-faibles/opensignauxfaibles,True
 https://github.com/signaux-faibles/predictsignauxfaibles,True
