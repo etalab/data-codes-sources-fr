@@ -4579,7 +4579,7 @@ https://github.com/eole/gitolite,False
 https://github.com/eole/installer,False
 https://github.com/eole/jquery-bootgrid,False
 https://github.com/eole/libvirt-formula,True
-https://github.com/eole/lizardfs-DM_MAD,False
+https://github.com/eole/lizardfs-DM_MAD,True
 https://github.com/eole/lizardfs-tm_mad,False
 https://github.com/eole/mastodon,True
 https://github.com/eole/meteor-accounts-keycloak,True
@@ -9367,7 +9367,7 @@ https://gitlab.mim-libre.fr/alphabet/apps-ldap,True
 https://gitlab.mim-libre.fr/alphabet/apps-static,True
 https://gitlab.mim-libre.fr/alphabet/apps.education-front,True
 https://gitlab.mim-libre.fr/alphabet/infra-apps,True
-https://gitlab.mim-libre.fr/alphabet/infra-beta-apps,False
+https://gitlab.mim-libre.fr/alphabet/infra-beta-apps,True
 https://gitlab.mim-libre.fr/alphabet/laboite,True
 https://gitlab.mim-libre.fr/alphabet/laboite-blog,True
 https://gitlab.mim-libre.fr/alphabet/laboite-blog-api,True
