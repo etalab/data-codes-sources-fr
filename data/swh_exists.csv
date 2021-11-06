@@ -2399,7 +2399,7 @@ https://github.com/InseeFrLab/onyxia-web,True
 https://github.com/InseeFrLab/poc-metallica-mongodb,True
 https://github.com/InseeFrLab/predicat,True
 https://github.com/InseeFrLab/product-labelling,True
-https://github.com/InseeFrLab/pynsee,False
+https://github.com/InseeFrLab/pynsee,True
 https://github.com/InseeFrLab/rapidsai,True
 https://github.com/InseeFrLab/redash,True
 https://github.com/InseeFrLab/rjdworkspace,True
@@ -6136,7 +6136,7 @@ https://github.com/openfisca/calculette-impots-web-explorer,True
 https://github.com/openfisca/combine-calculators,True
 https://github.com/openfisca/communication,True
 https://github.com/openfisca/country-template,True
-https://github.com/openfisca/demo.openfisca.org,False
+https://github.com/openfisca/demo.openfisca.org,True
 https://github.com/openfisca/extension-template,True
 https://github.com/openfisca/fr.openfisca.org,True
 https://github.com/openfisca/ga,True
@@ -6858,7 +6858,7 @@ https://gitlab.adullact.net/dgfip/dtnum/tf,True
 https://gitlab.adullact.net/dgfip/dtnum/th,True
 https://gitlab.adullact.net/dgfip/ir-calcul,True
 https://gitlab.adullact.net/dgfip/taxe_fonciere,False
-https://gitlab.adullact.net/dgfip/taxe_habitation,False
+https://gitlab.adullact.net/dgfip/taxe_habitation,True
 https://gitlab.adullact.net/directmairie/directmairie,True
 https://gitlab.adullact.net/directmairie/puppet-directmairie,True
 https://gitlab.adullact.net/e-carre/e-carre-particuliers,True
@@ -9257,7 +9257,7 @@ https://gitlab.mbb.univ-montp2.fr/edna/custom_reference_database,True
 https://gitlab.mbb.univ-montp2.fr/edna/exploitation/beginning_obitools,True
 https://gitlab.mbb.univ-montp2.fr/edna/exploitation/dada2_and_obitools,True
 https://gitlab.mbb.univ-montp2.fr/edna/exploitation/edna_intra_pipeline_comparison,True
-https://gitlab.mbb.univ-montp2.fr/edna/exploitation/only_obitools,False
+https://gitlab.mbb.univ-montp2.fr/edna/exploitation/only_obitools,True
 https://gitlab.mbb.univ-montp2.fr/edna/exploitation/primer_design,True
 https://gitlab.mbb.univ-montp2.fr/edna/exploitation/primer_specificity_ecopcr,True
 https://gitlab.mbb.univ-montp2.fr/edna/exploitation/primers_specificity_mismatchplot,True
@@ -9373,7 +9373,7 @@ https://gitlab.mim-libre.fr/alphabet/laboite-blog,True
 https://gitlab.mim-libre.fr/alphabet/laboite-blog-api,True
 https://gitlab.mim-libre.fr/alphabet/laboite-blog-front,True
 https://gitlab.mim-libre.fr/alphabet/latelier,False
-https://gitlab.mim-libre.fr/alphabet/mezig,False
+https://gitlab.mim-libre.fr/alphabet/mezig,True
 https://gitlab.mim-libre.fr/alphabet/radicale_mongo,True
 https://gitlab.mim-libre.fr/alphabet/sondage,True
 https://gitlab.mim-libre.fr/extensions-peertube/categories-management-plugin,True
