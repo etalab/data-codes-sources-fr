@@ -2357,7 +2357,7 @@ https://github.com/InseeFrLab/docs.sspcloud.fr,True
 https://github.com/InseeFrLab/fastai,True
 https://github.com/InseeFrLab/fmtsas,True
 https://github.com/InseeFrLab/formation-python,False
-https://github.com/InseeFrLab/formation-spark,False
+https://github.com/InseeFrLab/formation-spark,True
 https://github.com/InseeFrLab/funcamp-r,True
 https://github.com/InseeFrLab/funcamp-r-dock,True
 https://github.com/InseeFrLab/funcamp-r-grimoire,True
@@ -5307,6 +5307,7 @@ https://github.com/ina-foss/amalia-php,True
 https://github.com/ina-foss/amalia-tools,True
 https://github.com/ina-foss/amalia.js,True
 https://github.com/ina-foss/co-occurring_faces_in_tv,True
+https://github.com/ina-foss/inaFaceAnalyzer,False
 https://github.com/ina-foss/inaFaceGender,True
 https://github.com/ina-foss/inaSpeechSegmenter,True
 https://github.com/ina-foss/louvain-news-clustering,True
@@ -8785,7 +8786,7 @@ https://gitlab.inria.fr/sca_platform/analysis,False
 https://gitlab.inria.fr/sca_platform/equipments,False
 https://gitlab.inria.fr/sca_platform/targets,False
 https://gitlab.inria.fr/scafia/benches,True
-https://gitlab.inria.fr/scafia/targets,False
+https://gitlab.inria.fr/scafia/targets,True
 https://gitlab.inria.fr/science-environnement-societe/info,True
 https://gitlab.inria.fr/scotch/scotch,True
 https://gitlab.inria.fr/scripta/escriptorium,True
