@@ -6483,7 +6483,7 @@ https://github.com/signaux-faibles/goSirene,True
 https://github.com/signaux-faibles/gorncs-api,True
 https://github.com/signaux-faibles/goup,True
 https://github.com/signaux-faibles/gournal,True
-https://github.com/signaux-faibles/inpiRncsParser,False
+https://github.com/signaux-faibles/inpiRncsParser,True
 https://github.com/signaux-faibles/keycloakUpdater,True
 https://github.com/signaux-faibles/libinpirncs,False
 https://github.com/signaux-faibles/mlr3extralearners,True
@@ -9360,7 +9360,7 @@ https://gitlab.mim-libre.fr/EOLE/amon-3/opnsense/src,True
 https://gitlab.mim-libre.fr/EOLE/amon-3/opnsense/tools,True
 https://gitlab.mim-libre.fr/EOLE/amon-3/opnsense/update-tools,True
 https://gitlab.mim-libre.fr/EOLE/eole-3/provisionner,True
-https://gitlab.mim-libre.fr/EOLE/hackathon-kubernetes,False
+https://gitlab.mim-libre.fr/EOLE/hackathon-kubernetes,True
 https://gitlab.mim-libre.fr/EOLE/infra/ci-tools,True
 https://gitlab.mim-libre.fr/EOLE/opennebula/opennebula-apps-template,True
 https://gitlab.mim-libre.fr/Leo/eole_statistiques,True
@@ -9373,7 +9373,7 @@ https://gitlab.mim-libre.fr/alphabet/laboite,True
 https://gitlab.mim-libre.fr/alphabet/laboite-blog,True
 https://gitlab.mim-libre.fr/alphabet/laboite-blog-api,True
 https://gitlab.mim-libre.fr/alphabet/laboite-blog-front,True
-https://gitlab.mim-libre.fr/alphabet/latelier,False
+https://gitlab.mim-libre.fr/alphabet/latelier,True
 https://gitlab.mim-libre.fr/alphabet/mezig,True
 https://gitlab.mim-libre.fr/alphabet/radicale_mongo,True
 https://gitlab.mim-libre.fr/alphabet/sondage,True
@@ -10182,7 +10182,7 @@ https://plmlab.math.cnrs.fr/perso/users/eleonora.di-nezza,True
 https://plmlab.math.cnrs.fr/perso/users/frank.pacard,True
 https://plmlab.math.cnrs.fr/perso/users/gabriel.ribeiro,True
 https://plmlab.math.cnrs.fr/perso/users/lucas.ertzbischoff,True
-https://plmlab.math.cnrs.fr/perso/users/saeed.sadeghi-arjmand,False
+https://plmlab.math.cnrs.fr/perso/users/saeed.sadeghi-arjmand,True
 https://plmlab.math.cnrs.fr/perso/users/thomas.gauthier,True
 https://plmlab.math.cnrs.fr/phymath/nspawn,True
 https://plmlab.math.cnrs.fr/phymath/tftp-http-proxy,True
