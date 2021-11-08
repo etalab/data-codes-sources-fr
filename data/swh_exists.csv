@@ -3612,6 +3612,7 @@ https://github.com/betagouv/doc.incubateur.net-startups,True
 https://github.com/betagouv/docs.dossiersco.fr,True
 https://github.com/betagouv/documentation,True
 https://github.com/betagouv/domain-scan,True
+https://github.com/betagouv/domaines-api,False
 https://github.com/betagouv/dora,True
 https://github.com/betagouv/dora-back,True
 https://github.com/betagouv/dora-front,True
@@ -8656,6 +8657,7 @@ https://gitlab.inria.fr/obelix/broceliande,True
 https://gitlab.inria.fr/obelix/triskele,True
 https://gitlab.inria.fr/office-431/moodle-procrastination-graph,True
 https://gitlab.inria.fr/office-431/oar-time,True
+https://gitlab.inria.fr/office-431/oardel-interactive,False
 https://gitlab.inria.fr/open-mx/open-mx,True
 https://gitlab.inria.fr/openbiscuit/rescience_egbert14,True
 https://gitlab.inria.fr/openbiscuit/software/loriakhep,True
@@ -9061,6 +9063,7 @@ https://gitlab.inria.fr/x-lab/x-deploy,True
 https://gitlab.inria.fr/x-lab/x-doc,True
 https://gitlab.inria.fr/x-lab/x-gui,True
 https://gitlab.inria.fr/x-lab/x-logger,True
+https://gitlab.inria.fr/x-lab/x-mpl,False
 https://gitlab.inria.fr/x-lab/x-node,True
 https://gitlab.inria.fr/x-lab/x-quick,True
 https://gitlab.inria.fr/x-lab/x-stt,True
@@ -9362,6 +9365,7 @@ https://gitlab.mim-libre.fr/EOLE/amon-3/opnsense/update-tools,True
 https://gitlab.mim-libre.fr/EOLE/eole-3/provisionner,True
 https://gitlab.mim-libre.fr/EOLE/hackathon-kubernetes,True
 https://gitlab.mim-libre.fr/EOLE/infra/ci-tools,True
+https://gitlab.mim-libre.fr/EOLE/opennebula/k3s-cluster-app,False
 https://gitlab.mim-libre.fr/EOLE/opennebula/opennebula-apps-template,True
 https://gitlab.mim-libre.fr/Leo/eole_statistiques,True
 https://gitlab.mim-libre.fr/alphabet/apps-ldap,True
