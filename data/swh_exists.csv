@@ -273,6 +273,7 @@ https://forgemia.inra.fr/anaee-dev/coby,True
 https://forgemia.inra.fr/anaee-dev/oboe,True
 https://forgemia.inra.fr/anaee-dev/si-ore-v2,True
 https://forgemia.inra.fr/baric/family-companion,True
+https://forgemia.inra.fr/beyond/beyond-pipelines,False
 https://forgemia.inra.fr/beyond/beyond_si,True
 https://forgemia.inra.fr/beyond/front-landing-page,True
 https://forgemia.inra.fr/bibliome/alvisae-anaee,True
@@ -3612,7 +3613,7 @@ https://github.com/betagouv/doc.incubateur.net-startups,True
 https://github.com/betagouv/docs.dossiersco.fr,True
 https://github.com/betagouv/documentation,True
 https://github.com/betagouv/domain-scan,True
-https://github.com/betagouv/domaines-api,False
+https://github.com/betagouv/domaines-api,True
 https://github.com/betagouv/dora,True
 https://github.com/betagouv/dora-back,True
 https://github.com/betagouv/dora-front,True
@@ -3703,6 +3704,8 @@ https://github.com/betagouv/itou-theme-discourse,True
 https://github.com/betagouv/itou_c4_python_api,True
 https://github.com/betagouv/itou_entreprise,False
 https://github.com/betagouv/juridiques,True
+https://github.com/betagouv/keycloak-buildpack,False
+https://github.com/betagouv/keycloak-dsfr-theme,False
 https://github.com/betagouv/kibana-scalingo,True
 https://github.com/betagouv/kong-delegateAuth,True
 https://github.com/betagouv/kong-delegateAuth-deprecated,True
@@ -3790,6 +3793,7 @@ https://github.com/betagouv/openform-specs,True
 https://github.com/betagouv/opensimplif,True
 https://github.com/betagouv/osticket-docker,True
 https://github.com/betagouv/pad,False
+https://github.com/betagouv/pad-auth,True
 https://github.com/betagouv/paie-api,True
 https://github.com/betagouv/paie-carto,True
 https://github.com/betagouv/paie-editor,True
@@ -4246,6 +4250,7 @@ https://github.com/dataesr/curieXplore-paysage,True
 https://github.com/dataesr/curiexplore-api,True
 https://github.com/dataesr/curiexplore-paysage,True
 https://github.com/dataesr/dataesr-paysage,True
+https://github.com/dataesr/grid_to_ror,False
 https://github.com/dataesr/harvest-patstat,True
 https://github.com/dataesr/harvest-pubmed,True
 https://github.com/dataesr/kubectl-deploy,True
@@ -4287,6 +4292,7 @@ https://github.com/datalab-mi/docker-dss,True
 https://github.com/datalab-mi/docker-postgres,True
 https://github.com/datalab-mi/ghost,True
 https://github.com/datalab-mi/ia-foule,True
+https://github.com/datalab-mi/ia-foule-lab,False
 https://github.com/datalab-mi/lab-cv,True
 https://github.com/datalab-mi/lab-nlp,True
 https://github.com/datalab-mi/mdr-infra,True
@@ -6110,6 +6116,7 @@ https://github.com/opendatateam/udata-croquemort,True
 https://github.com/opendatateam/udata-docker-dev-env,True
 https://github.com/opendatateam/udata-dockers,True
 https://github.com/opendatateam/udata-explorer,True
+https://github.com/opendatateam/udata-fixtures,True
 https://github.com/opendatateam/udata-id,True
 https://github.com/opendatateam/udata-kerberos,True
 https://github.com/opendatateam/udata-ldap,True
@@ -7221,6 +7228,7 @@ https://gitlab.huma-num.fr/eurhisfirm/test-app-saisie,True
 https://gitlab.huma-num.fr/eurhisfirm/test-import-bot,True
 https://gitlab.huma-num.fr/fp-lab/fplabsite,True
 https://gitlab.huma-num.fr/geographie-cites/autobiopedia,True
+https://gitlab.huma-num.fr/gt-notebook/nix/pandoc-2-14-02,True
 https://gitlab.huma-num.fr/gt-notebook/site-hugo,True
 https://gitlab.huma-num.fr/gt-notebook/wiki,True
 https://gitlab.huma-num.fr/huma-num-public/documentation,True
@@ -9063,7 +9071,7 @@ https://gitlab.inria.fr/x-lab/x-deploy,True
 https://gitlab.inria.fr/x-lab/x-doc,True
 https://gitlab.inria.fr/x-lab/x-gui,True
 https://gitlab.inria.fr/x-lab/x-logger,True
-https://gitlab.inria.fr/x-lab/x-mpl,False
+https://gitlab.inria.fr/x-lab/x-mpl,True
 https://gitlab.inria.fr/x-lab/x-node,True
 https://gitlab.inria.fr/x-lab/x-quick,True
 https://gitlab.inria.fr/x-lab/x-stt,True
