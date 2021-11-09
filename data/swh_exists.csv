@@ -308,7 +308,7 @@ https://forgemia.inra.fr/cropmetapop/cmpconfig,True
 https://forgemia.inra.fr/cropmetapop/cmpfitness,True
 https://forgemia.inra.fr/cropmetapop/cropmetapop,True
 https://forgemia.inra.fr/decrypt/deterministic-model,True
-https://forgemia.inra.fr/decrypt/pdmp-model,False
+https://forgemia.inra.fr/decrypt/pdmp-model,True
 https://forgemia.inra.fr/dipso/aspire,True
 https://forgemia.inra.fr/dipso/bridge-datainrae-nextcloud,True
 https://forgemia.inra.fr/dipso/kubespray,True
@@ -1184,7 +1184,7 @@ https://github.com/AgenceBio/cartobio-api,True
 https://github.com/AgenceBio/cartobio-front,True
 https://github.com/AgenceBio/cartobio-rpg,True
 https://github.com/AgenceBio/rpg-cli,True
-https://github.com/AgenceBio/schemas,False
+https://github.com/AgenceBio/schemas,True
 https://github.com/AlsaceDigitale/2012.edgefest.fr,True
 https://github.com/AlsaceDigitale/2013.edgefest.fr,True
 https://github.com/AlsaceDigitale/2014.edgefest.fr,True
@@ -2414,6 +2414,7 @@ https://github.com/InseeFrLab/sspcloud,True
 https://github.com/InseeFrLab/sugoi-api,True
 https://github.com/InseeFrLab/sugoi-ui,True
 https://github.com/InseeFrLab/tensorflow,True
+https://github.com/InseeFrLab/trino,True
 https://github.com/InseeFrLab/ubuntu-vnc,True
 https://github.com/InseeFrLab/ubuntu-vnc-dind,True
 https://github.com/InseeFrLab/utilitR,True
@@ -4258,6 +4259,7 @@ https://github.com/dataesr/matcher,True
 https://github.com/dataesr/onedrive,True
 https://github.com/dataesr/paysage-api,True
 https://github.com/dataesr/paysage-openapi,True
+https://github.com/dataesr/paysage-ui,True
 https://github.com/dataesr/react-dsfr,True
 https://github.com/dataesr/realtime-dashboard,True
 https://github.com/dataesr/scanr,True
@@ -4806,6 +4808,7 @@ https://github.com/etalab/collectivites.data.gouv.fr,True
 https://github.com/etalab/comptage-mobilites-channel,True
 https://github.com/etalab/comptage-mobilites-site,True
 https://github.com/etalab/comptes-collectivites,True
+https://github.com/etalab/consolidation-schemas,False
 https://github.com/etalab/contours-administratifs,True
 https://github.com/etalab/contribution-adresse,True
 https://github.com/etalab/couverture-urbanisme,True
@@ -6493,7 +6496,7 @@ https://github.com/signaux-faibles/goup,True
 https://github.com/signaux-faibles/gournal,True
 https://github.com/signaux-faibles/inpiRncsParser,True
 https://github.com/signaux-faibles/keycloakUpdater,True
-https://github.com/signaux-faibles/libinpirncs,False
+https://github.com/signaux-faibles/libinpirncs,True
 https://github.com/signaux-faibles/mlr3extralearners,True
 https://github.com/signaux-faibles/opensignauxfaibles,True
 https://github.com/signaux-faibles/predictsignauxfaibles,True
@@ -8743,6 +8746,7 @@ https://gitlab.inria.fr/piy/piy,True
 https://gitlab.inria.fr/plas20/sessionintegrity,True
 https://gitlab.inria.fr/pleiade/containers/camisim,True
 https://gitlab.inria.fr/pleiade/containers/ci-planemo,True
+https://gitlab.inria.fr/pleiade/containers/kaniko,False
 https://gitlab.inria.fr/pleiade/containers/kicodia,False
 https://gitlab.inria.fr/pleiade/fluto,True
 https://gitlab.inria.fr/pleiade/jupyterlab-slurm,True
