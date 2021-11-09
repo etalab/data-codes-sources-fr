@@ -7522,6 +7522,8 @@ https://gitlab.inria.fr/WIDE/dietcoin/dietcoin-exp,True
 https://gitlab.inria.fr/WIDE/dietcoin/dietcoin-lib,True
 https://gitlab.inria.fr/WIDE/f3c-evaluation,True
 https://gitlab.inria.fr/WIDE/gps-exp,True
+https://gitlab.inria.fr/WIDE/gps/experiments,False
+https://gitlab.inria.fr/WIDE/gps/plots,False
 https://gitlab.inria.fr/WIDE/similitude-exp,True
 https://gitlab.inria.fr/WIDE/spores_code,True
 https://gitlab.inria.fr/WellInverter/WellInverter_Standalone_Linux,True
@@ -8747,7 +8749,7 @@ https://gitlab.inria.fr/plas20/sessionintegrity,True
 https://gitlab.inria.fr/pleiade/containers/camisim,True
 https://gitlab.inria.fr/pleiade/containers/ci-planemo,True
 https://gitlab.inria.fr/pleiade/containers/kaniko,False
-https://gitlab.inria.fr/pleiade/containers/kicodia,False
+https://gitlab.inria.fr/pleiade/containers/kicodia,True
 https://gitlab.inria.fr/pleiade/fluto,True
 https://gitlab.inria.fr/pleiade/jupyterlab-slurm,True
 https://gitlab.inria.fr/pleiade/menetools,True
@@ -9355,7 +9357,7 @@ https://gitlab.mim-libre.fr/EOLE/Zephir/services/traefik,True
 https://gitlab.mim-libre.fr/EOLE/Zephir/services/vault-manager,True
 https://gitlab.mim-libre.fr/EOLE/Zephir/services/web,True
 https://gitlab.mim-libre.fr/EOLE/Zephir/services/zone-manager,True
-https://gitlab.mim-libre.fr/EOLE/Zephir/webui,False
+https://gitlab.mim-libre.fr/EOLE/Zephir/webui,True
 https://gitlab.mim-libre.fr/EOLE/Zephir/zcli,True
 https://gitlab.mim-libre.fr/EOLE/Zephir/zephir-connect,True
 https://gitlab.mim-libre.fr/EOLE/amon-3/iso-builder,True
