@@ -3706,7 +3706,7 @@ https://github.com/betagouv/itou_c4_python_api,True
 https://github.com/betagouv/itou_entreprise,False
 https://github.com/betagouv/juridiques,True
 https://github.com/betagouv/keycloak-buildpack,False
-https://github.com/betagouv/keycloak-dsfr-theme,False
+https://github.com/betagouv/keycloak-dsfr-theme,True
 https://github.com/betagouv/kibana-scalingo,True
 https://github.com/betagouv/kong-delegateAuth,True
 https://github.com/betagouv/kong-delegateAuth-deprecated,True
@@ -4808,7 +4808,7 @@ https://github.com/etalab/collectivites.data.gouv.fr,True
 https://github.com/etalab/comptage-mobilites-channel,True
 https://github.com/etalab/comptage-mobilites-site,True
 https://github.com/etalab/comptes-collectivites,True
-https://github.com/etalab/consolidation-schemas,False
+https://github.com/etalab/consolidation-schemas,True
 https://github.com/etalab/contours-administratifs,True
 https://github.com/etalab/contribution-adresse,True
 https://github.com/etalab/couverture-urbanisme,True
@@ -10101,6 +10101,7 @@ https://plmlab.math.cnrs.fr/docker-images/scipy-notebook,True
 https://plmlab.math.cnrs.fr/docker-images/scipy-notebook-plus,True
 https://plmlab.math.cnrs.fr/docker-images/systemd,True
 https://plmlab.math.cnrs.fr/docker-images/ubuntu,True
+https://plmlab.math.cnrs.fr/eco-responsabilit/imb,False
 https://plmlab.math.cnrs.fr/econetproject/econetwork,True
 https://plmlab.math.cnrs.fr/fano-hk/fano-hk.pages.math.cnrs.fr,True
 https://plmlab.math.cnrs.fr/fedora/live,True
