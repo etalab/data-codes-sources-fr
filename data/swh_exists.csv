@@ -4251,7 +4251,7 @@ https://github.com/dataesr/curieXplore-paysage,True
 https://github.com/dataesr/curiexplore-api,True
 https://github.com/dataesr/curiexplore-paysage,True
 https://github.com/dataesr/dataesr-paysage,True
-https://github.com/dataesr/grid_to_ror,False
+https://github.com/dataesr/grid_to_ror,True
 https://github.com/dataesr/harvest-patstat,True
 https://github.com/dataesr/harvest-pubmed,True
 https://github.com/dataesr/kubectl-deploy,True
@@ -7046,6 +7046,7 @@ https://gitlab.com/fabnum-minarm/igloo/terraform/modules/mailcatcher,True
 https://gitlab.com/fabnum-minarm/igloo/terraform/modules/postgresql,True
 https://gitlab.com/fabnum-minarm/igloo/terraform/modules/timescaledb,True
 https://gitlab.com/fabnum-minarm/igloo/terraform/projects/_template,True
+https://gitlab.com/fabnum-minarm/igloo/terraform/projects/airvam,True
 https://gitlab.com/fabnum-minarm/igloo/terraform/projects/alpps,True
 https://gitlab.com/fabnum-minarm/igloo/terraform/projects/anais,True
 https://gitlab.com/fabnum-minarm/igloo/terraform/projects/argos,True
