@@ -4808,7 +4808,7 @@ https://github.com/etalab/codegouvfr-sources,False
 https://github.com/etalab/codes-juridiques-francais,True
 https://github.com/etalab/codes-postaux,True
 https://github.com/etalab/collectivites.data.gouv.fr,True
-https://github.com/etalab/communs.numerique.gouv.fr,False
+https://github.com/etalab/communs.numerique.gouv.fr,True
 https://github.com/etalab/comptage-mobilites-channel,True
 https://github.com/etalab/comptage-mobilites-site,True
 https://github.com/etalab/comptes-collectivites,True
@@ -7215,6 +7215,7 @@ https://gitlab.huma-num.fr/ecrinum/manuels/introduction-a-zotero,True
 https://gitlab.huma-num.fr/ecrinum/manuels/tutoriel-markdown-pandoc,True
 https://gitlab.huma-num.fr/ecrinum/projetglissant,True
 https://gitlab.huma-num.fr/ecrinum/sens-public/gestionedition,True
+https://gitlab.huma-num.fr/ecrinum/sens-public/sp-stylo-doc,False
 https://gitlab.huma-num.fr/ecrinum/stylo/presentations/fosdem-2020,True
 https://gitlab.huma-num.fr/ecrinum/stylo/presentations/presentation-courte,True
 https://gitlab.huma-num.fr/elan-numerique/manuels/omeka-autoformation,True
@@ -7241,6 +7242,8 @@ https://gitlab.huma-num.fr/geographie-cites/autobiopedia,True
 https://gitlab.huma-num.fr/gt-notebook/nix/pandoc-2-14-02,True
 https://gitlab.huma-num.fr/gt-notebook/site-hugo,True
 https://gitlab.huma-num.fr/gt-notebook/wiki,True
+https://gitlab.huma-num.fr/gt-notebook/workshop/workshop_3_decembre_2021/atelier_jupyter_python,False
+https://gitlab.huma-num.fr/gt-notebook/workshop/workshop_3_decembre_2021/atelier_jupyter_r,False
 https://gitlab.huma-num.fr/huma-num-public/documentation,True
 https://gitlab.huma-num.fr/huma-num-public/hn-site,True
 https://gitlab.huma-num.fr/huma-num-public/next-auth-nakala,True
@@ -9011,7 +9014,7 @@ https://gitlab.inria.fr/syntheticgt/syntheticgt-mitsuba,True
 https://gitlab.inria.fr/syntheticgt/syntheticgt-utilities,True
 https://gitlab.inria.fr/tangram/3d-aware-ellipses-for-visual-localization,True
 https://gitlab.inria.fr/tangram/pyellcv,True
-https://gitlab.inria.fr/tansiv/__tansiv-xps__,False
+https://gitlab.inria.fr/tansiv/__tansiv-xps__,True
 https://gitlab.inria.fr/tansiv/python-tansiv,True
 https://gitlab.inria.fr/tansiv/tansiv,True
 https://gitlab.inria.fr/tansiv/tansiv-xps,True
@@ -10112,7 +10115,7 @@ https://plmlab.math.cnrs.fr/docker-images/scipy-notebook,True
 https://plmlab.math.cnrs.fr/docker-images/scipy-notebook-plus,True
 https://plmlab.math.cnrs.fr/docker-images/systemd,True
 https://plmlab.math.cnrs.fr/docker-images/ubuntu,True
-https://plmlab.math.cnrs.fr/eco-responsabilit/imb,False
+https://plmlab.math.cnrs.fr/eco-responsabilit/imb,True
 https://plmlab.math.cnrs.fr/econetproject/econetwork,True
 https://plmlab.math.cnrs.fr/fano-hk/fano-hk.pages.math.cnrs.fr,True
 https://plmlab.math.cnrs.fr/fedora/live,True
