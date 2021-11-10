@@ -1862,6 +1862,7 @@ https://github.com/GIP-RECIA/cas-slo-cluster,True
 https://github.com/GIP-RECIA/commons-vfs,True
 https://github.com/GIP-RECIA/docker-mariadb,True
 https://github.com/GIP-RECIA/docker-openldap-test,True
+https://github.com/GIP-RECIA/docker-rainloop,False
 https://github.com/GIP-RECIA/docker-redis-sentinel,True
 https://github.com/GIP-RECIA/email-preview,True
 https://github.com/GIP-RECIA/ep_mypads,True
@@ -4805,6 +4806,7 @@ https://github.com/etalab/codegouvfr-sources,False
 https://github.com/etalab/codes-juridiques-francais,True
 https://github.com/etalab/codes-postaux,True
 https://github.com/etalab/collectivites.data.gouv.fr,True
+https://github.com/etalab/communs.numerique.gouv.fr,False
 https://github.com/etalab/comptage-mobilites-channel,True
 https://github.com/etalab/comptage-mobilites-site,True
 https://github.com/etalab/comptes-collectivites,True
@@ -5238,6 +5240,7 @@ https://github.com/geodatagouv/plunger,True
 https://github.com/geodatagouv/transcoder,True
 https://github.com/geodatagouv/wfs-client,True
 https://github.com/georchestra/LDAP,True
+https://github.com/georchestra/MapStore2,False
 https://github.com/georchestra/ansible,True
 https://github.com/georchestra/archives,True
 https://github.com/georchestra/cadastrapp,True
@@ -7502,7 +7505,7 @@ https://gitlab.inria.fr/Simbiot/public/utilities/ros-optitrack-basics,True
 https://gitlab.inria.fr/Simbiot/public/utilities/ros-remote,True
 https://gitlab.inria.fr/SketchedLearning/fasttransformsc,True
 https://gitlab.inria.fr/SketchedLearning/spm-notebook,True
-https://gitlab.inria.fr/Spirals/d2d-survey-site,False
+https://gitlab.inria.fr/Spirals/d2d-survey-site,True
 https://gitlab.inria.fr/Spirals/k8sapimodeller,True
 https://gitlab.inria.fr/Spirals/monsoon,True
 https://gitlab.inria.fr/TeamPlay_Public/TeamPlay_Public_Deliverables,True
@@ -9005,6 +9008,7 @@ https://gitlab.inria.fr/syntheticgt/syntheticgt-mitsuba,True
 https://gitlab.inria.fr/syntheticgt/syntheticgt-utilities,True
 https://gitlab.inria.fr/tangram/3d-aware-ellipses-for-visual-localization,True
 https://gitlab.inria.fr/tangram/pyellcv,True
+https://gitlab.inria.fr/tansiv/__tansiv-xps__,False
 https://gitlab.inria.fr/tansiv/python-tansiv,True
 https://gitlab.inria.fr/tansiv/tansiv,True
 https://gitlab.inria.fr/tansiv/tansiv-xps,True
@@ -9963,6 +9967,7 @@ https://gricad-gitlab.univ-grenoble-alpes.fr/tal_for_distant_languages/wiki,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/talalao2021/un-autre-projet,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/talks/deeplearning,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/talks/fidle,True
+https://gricad-gitlab.univ-grenoble-alpes.fr/tava/stp,False
 https://gricad-gitlab.univ-grenoble-alpes.fr/terra-forma/public,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/thingsat/public,True
 https://gricad-gitlab.univ-grenoble-alpes.fr/thingsat/tinygs,False
