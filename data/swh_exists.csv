@@ -273,7 +273,7 @@ https://forgemia.inra.fr/anaee-dev/coby,True
 https://forgemia.inra.fr/anaee-dev/oboe,True
 https://forgemia.inra.fr/anaee-dev/si-ore-v2,True
 https://forgemia.inra.fr/baric/family-companion,True
-https://forgemia.inra.fr/beyond/beyond-pipelines,False
+https://forgemia.inra.fr/beyond/beyond-pipelines,True
 https://forgemia.inra.fr/beyond/beyond_si,True
 https://forgemia.inra.fr/beyond/front-landing-page,True
 https://forgemia.inra.fr/bibliome/alvisae-anaee,True
@@ -1055,6 +1055,7 @@ https://github.com/1024pix/scalingo-app-manager,True
 https://github.com/1024pix/scalingo-app-switch,True
 https://github.com/1024pix/scalingo-review-app-manager,True
 https://github.com/1024pix/shlink-buildpack,True
+https://github.com/1024pix/steampipe-plugin-github,False
 https://github.com/1024pix/subdir-buildpack,True
 https://github.com/1024pix/test-deploy-from-slack,True
 https://github.com/1024pix/third-services-quota-manager,True
@@ -1932,6 +1933,7 @@ https://github.com/GIP-RECIA/uPortal-start,True
 https://github.com/GIP-RECIA/uPortal-web-components,True
 https://github.com/GIP-RECIA/user_cas,True
 https://github.com/Gendarmerie-Nationale/Borne-passe-sanitaire-BPS,True
+https://github.com/GendarmerieNationale/Borne-Passe-Sanitaire,True
 https://github.com/GendarmerieNationale/FlowTracker,True
 https://github.com/GendarmerieNationale/GendLoc-,True
 https://github.com/GendarmerieNationale/Geo-Secours,True
@@ -5272,6 +5274,7 @@ https://github.com/georchestra/mapstore2-cadastrapp,True
 https://github.com/georchestra/mapstore2-georchestra,True
 https://github.com/georchestra/mfprintv2deps,True
 https://github.com/georchestra/nagios,True
+https://github.com/georchestra/nextcloud-app,True
 https://github.com/georchestra/nextcloud_georchestra,True
 https://github.com/georchestra/notes,True
 https://github.com/georchestra/ogc-standards,True
@@ -7535,7 +7538,7 @@ https://gitlab.inria.fr/WellInverter/WellInverter_Standalone_MacOS,True
 https://gitlab.inria.fr/WellInverter/WellInverter_Standalone_Nuvla,True
 https://gitlab.inria.fr/WellInverter/WellInverter_Standalone_Windows,True
 https://gitlab.inria.fr/abadoual/Camisim,True
-https://gitlab.inria.fr/abs/sbl,False
+https://gitlab.inria.fr/abs/sbl,True
 https://gitlab.inria.fr/across_opm/opm-common,True
 https://gitlab.inria.fr/across_opm/opm-grid,True
 https://gitlab.inria.fr/across_opm/opm-material,True
@@ -8752,7 +8755,7 @@ https://gitlab.inria.fr/piy/piy,True
 https://gitlab.inria.fr/plas20/sessionintegrity,True
 https://gitlab.inria.fr/pleiade/containers/camisim,True
 https://gitlab.inria.fr/pleiade/containers/ci-planemo,True
-https://gitlab.inria.fr/pleiade/containers/kaniko,False
+https://gitlab.inria.fr/pleiade/containers/kaniko,True
 https://gitlab.inria.fr/pleiade/containers/kicodia,True
 https://gitlab.inria.fr/pleiade/fluto,True
 https://gitlab.inria.fr/pleiade/jupyterlab-slurm,True
