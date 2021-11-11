@@ -4297,7 +4297,7 @@ https://github.com/datalab-mi/docker-dss,True
 https://github.com/datalab-mi/docker-postgres,True
 https://github.com/datalab-mi/ghost,True
 https://github.com/datalab-mi/ia-foule,True
-https://github.com/datalab-mi/ia-foule-lab,False
+https://github.com/datalab-mi/ia-foule-lab,True
 https://github.com/datalab-mi/lab-cv,True
 https://github.com/datalab-mi/lab-nlp,True
 https://github.com/datalab-mi/mdr-infra,True
@@ -7239,6 +7239,7 @@ https://gitlab.huma-num.fr/eurhisfirm/test-app-saisie,True
 https://gitlab.huma-num.fr/eurhisfirm/test-import-bot,True
 https://gitlab.huma-num.fr/fp-lab/fplabsite,True
 https://gitlab.huma-num.fr/geographie-cites/autobiopedia,True
+https://gitlab.huma-num.fr/gis-asie/livre-blanc-des-etudes-chinoises-en-france,False
 https://gitlab.huma-num.fr/gt-notebook/nix/pandoc-2-14-02,True
 https://gitlab.huma-num.fr/gt-notebook/site-hugo,True
 https://gitlab.huma-num.fr/gt-notebook/wiki,True
@@ -8680,7 +8681,7 @@ https://gitlab.inria.fr/obelix/broceliande,True
 https://gitlab.inria.fr/obelix/triskele,True
 https://gitlab.inria.fr/office-431/moodle-procrastination-graph,True
 https://gitlab.inria.fr/office-431/oar-time,True
-https://gitlab.inria.fr/office-431/oardel-interactive,False
+https://gitlab.inria.fr/office-431/oardel-interactive,True
 https://gitlab.inria.fr/open-mx/open-mx,True
 https://gitlab.inria.fr/openbiscuit/rescience_egbert14,True
 https://gitlab.inria.fr/openbiscuit/software/loriakhep,True
@@ -9045,7 +9046,7 @@ https://gitlab.inria.fr/tranus/QGIS_Tranus_Reports,True
 https://gitlab.inria.fr/tranus/TRANUS_Interfaces,True
 https://gitlab.inria.fr/tranus/Tranus_Python,True
 https://gitlab.inria.fr/tranus/Tranus_QGIS_Plugins,True
-https://gitlab.inria.fr/tyrex-public/distmura,False
+https://gitlab.inria.fr/tyrex-public/distmura,True
 https://gitlab.inria.fr/tyrex-public/mu-RA,True
 https://gitlab.inria.fr/ua/HighlyOscillatoryProblems.jl,True
 https://gitlab.inria.fr/ud-greenberg/ranlp-2021,True
