@@ -7243,7 +7243,7 @@ https://gitlab.huma-num.fr/gis-asie/livre-blanc-des-etudes-chinoises-en-france,F
 https://gitlab.huma-num.fr/gt-notebook/nix/pandoc-2-14-02,True
 https://gitlab.huma-num.fr/gt-notebook/site-hugo,True
 https://gitlab.huma-num.fr/gt-notebook/wiki,True
-https://gitlab.huma-num.fr/gt-notebook/workshop/workshop_3_decembre_2021/atelier_jupyter_python,False
+https://gitlab.huma-num.fr/gt-notebook/workshop/workshop_3_decembre_2021/atelier_jupyter_python,True
 https://gitlab.huma-num.fr/gt-notebook/workshop/workshop_3_decembre_2021/atelier_jupyter_r,False
 https://gitlab.huma-num.fr/huma-num-public/documentation,True
 https://gitlab.huma-num.fr/huma-num-public/hn-site,True
@@ -7534,7 +7534,7 @@ https://gitlab.inria.fr/WIDE/dietcoin/dietcoin-lib,True
 https://gitlab.inria.fr/WIDE/f3c-evaluation,True
 https://gitlab.inria.fr/WIDE/gps-exp,True
 https://gitlab.inria.fr/WIDE/gps/experiments,False
-https://gitlab.inria.fr/WIDE/gps/plots,False
+https://gitlab.inria.fr/WIDE/gps/plots,True
 https://gitlab.inria.fr/WIDE/similitude-exp,True
 https://gitlab.inria.fr/WIDE/spores_code,True
 https://gitlab.inria.fr/WellInverter/WellInverter_Standalone_Linux,True
@@ -8679,6 +8679,7 @@ https://gitlab.inria.fr/nixos-compose/ipanema-nixos-compose,True
 https://gitlab.inria.fr/nixos-compose/nixos-compose,True
 https://gitlab.inria.fr/obelix/broceliande,True
 https://gitlab.inria.fr/obelix/triskele,True
+https://gitlab.inria.fr/office-431/andrei-distribution,False
 https://gitlab.inria.fr/office-431/moodle-procrastination-graph,True
 https://gitlab.inria.fr/office-431/oar-time,True
 https://gitlab.inria.fr/office-431/oardel-interactive,True
