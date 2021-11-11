@@ -3708,7 +3708,7 @@ https://github.com/betagouv/itou-theme-discourse,True
 https://github.com/betagouv/itou_c4_python_api,True
 https://github.com/betagouv/itou_entreprise,False
 https://github.com/betagouv/juridiques,True
-https://github.com/betagouv/keycloak-buildpack,False
+https://github.com/betagouv/keycloak-buildpack,True
 https://github.com/betagouv/keycloak-dsfr-theme,True
 https://github.com/betagouv/kibana-scalingo,True
 https://github.com/betagouv/kong-delegateAuth,True
@@ -4592,7 +4592,7 @@ https://github.com/eole/installer,False
 https://github.com/eole/jquery-bootgrid,False
 https://github.com/eole/libvirt-formula,True
 https://github.com/eole/lizardfs-DM_MAD,True
-https://github.com/eole/lizardfs-tm_mad,False
+https://github.com/eole/lizardfs-tm_mad,True
 https://github.com/eole/mastodon,True
 https://github.com/eole/meteor-accounts-keycloak,True
 https://github.com/eole/meteor-keycloak-oauth,True
@@ -7215,7 +7215,7 @@ https://gitlab.huma-num.fr/ecrinum/manuels/introduction-a-zotero,True
 https://gitlab.huma-num.fr/ecrinum/manuels/tutoriel-markdown-pandoc,True
 https://gitlab.huma-num.fr/ecrinum/projetglissant,True
 https://gitlab.huma-num.fr/ecrinum/sens-public/gestionedition,True
-https://gitlab.huma-num.fr/ecrinum/sens-public/sp-stylo-doc,False
+https://gitlab.huma-num.fr/ecrinum/sens-public/sp-stylo-doc,True
 https://gitlab.huma-num.fr/ecrinum/stylo/presentations/fosdem-2020,True
 https://gitlab.huma-num.fr/ecrinum/stylo/presentations/presentation-courte,True
 https://gitlab.huma-num.fr/elan-numerique/manuels/omeka-autoformation,True
