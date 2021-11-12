@@ -1055,7 +1055,7 @@ https://github.com/1024pix/scalingo-app-manager,True
 https://github.com/1024pix/scalingo-app-switch,True
 https://github.com/1024pix/scalingo-review-app-manager,True
 https://github.com/1024pix/shlink-buildpack,True
-https://github.com/1024pix/steampipe-plugin-github,False
+https://github.com/1024pix/steampipe-plugin-github,True
 https://github.com/1024pix/subdir-buildpack,True
 https://github.com/1024pix/test-deploy-from-slack,True
 https://github.com/1024pix/third-services-quota-manager,True
@@ -4435,6 +4435,7 @@ https://github.com/dnum-mi/carto-rna,True
 https://github.com/dnum-mi/cartographie-donnees,True
 https://github.com/dnum-mi/dataprep_dca,True
 https://github.com/dnum-mi/demo-vue-dsfr,True
+https://github.com/dnum-mi/stats-sites-api,False
 https://github.com/dnum-mi/vue-dsfr,True
 https://github.com/dsi-ehess/VIVO,True
 https://github.com/dsi-ehess/VIVO-EHESS,True
@@ -7244,7 +7245,7 @@ https://gitlab.huma-num.fr/gis-asie/livre-blanc-des-etudes-chinoises-en-france,T
 https://gitlab.huma-num.fr/gt-notebook/nix/pandoc-2-14-02,True
 https://gitlab.huma-num.fr/gt-notebook/site-hugo,True
 https://gitlab.huma-num.fr/gt-notebook/wiki,True
-https://gitlab.huma-num.fr/gt-notebook/workshop/workshop_3_decembre_2021/atelier_jupyter,False
+https://gitlab.huma-num.fr/gt-notebook/workshop/workshop_3_decembre_2021/atelier_jupyter,True
 https://gitlab.huma-num.fr/gt-notebook/workshop/workshop_3_decembre_2021/atelier_jupyter_python,True
 https://gitlab.huma-num.fr/gt-notebook/workshop/workshop_3_decembre_2021/atelier_jupyter_r,True
 https://gitlab.huma-num.fr/huma-num-public/documentation,True
