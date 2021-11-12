@@ -1863,7 +1863,7 @@ https://github.com/GIP-RECIA/cas-slo-cluster,True
 https://github.com/GIP-RECIA/commons-vfs,True
 https://github.com/GIP-RECIA/docker-mariadb,True
 https://github.com/GIP-RECIA/docker-openldap-test,True
-https://github.com/GIP-RECIA/docker-rainloop,False
+https://github.com/GIP-RECIA/docker-rainloop,True
 https://github.com/GIP-RECIA/docker-redis-sentinel,True
 https://github.com/GIP-RECIA/email-preview,True
 https://github.com/GIP-RECIA/ep_mypads,True
@@ -6144,6 +6144,7 @@ https://github.com/openfisca/LawToCode,True
 https://github.com/openfisca/OpenFiscaCore.jl,True
 https://github.com/openfisca/OpenFiscaFrance.jl,True
 https://github.com/openfisca/OpenFiscaWebApi.jl,True
+https://github.com/openfisca/api.gouv.fr,True
 https://github.com/openfisca/biryani,True
 https://github.com/openfisca/calculette-impots-m-language-parser,True
 https://github.com/openfisca/calculette-impots-m-source-code,True
@@ -7243,6 +7244,7 @@ https://gitlab.huma-num.fr/gis-asie/livre-blanc-des-etudes-chinoises-en-france,T
 https://gitlab.huma-num.fr/gt-notebook/nix/pandoc-2-14-02,True
 https://gitlab.huma-num.fr/gt-notebook/site-hugo,True
 https://gitlab.huma-num.fr/gt-notebook/wiki,True
+https://gitlab.huma-num.fr/gt-notebook/workshop/workshop_3_decembre_2021/atelier_jupyter,False
 https://gitlab.huma-num.fr/gt-notebook/workshop/workshop_3_decembre_2021/atelier_jupyter_python,True
 https://gitlab.huma-num.fr/gt-notebook/workshop/workshop_3_decembre_2021/atelier_jupyter_r,True
 https://gitlab.huma-num.fr/huma-num-public/documentation,True
@@ -9405,6 +9407,7 @@ https://gitlab.mim-libre.fr/alphabet/laboite-blog,True
 https://gitlab.mim-libre.fr/alphabet/laboite-blog-api,True
 https://gitlab.mim-libre.fr/alphabet/laboite-blog-front,True
 https://gitlab.mim-libre.fr/alphabet/latelier,True
+https://gitlab.mim-libre.fr/alphabet/lookup-server,False
 https://gitlab.mim-libre.fr/alphabet/mezig,True
 https://gitlab.mim-libre.fr/alphabet/radicale_mongo,True
 https://gitlab.mim-libre.fr/alphabet/sondage,True
