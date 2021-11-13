@@ -5244,7 +5244,7 @@ https://github.com/geodatagouv/plunger,True
 https://github.com/geodatagouv/transcoder,True
 https://github.com/geodatagouv/wfs-client,True
 https://github.com/georchestra/LDAP,True
-https://github.com/georchestra/MapStore2,False
+https://github.com/georchestra/MapStore2,True
 https://github.com/georchestra/ansible,True
 https://github.com/georchestra/archives,True
 https://github.com/georchestra/cadastrapp,True
