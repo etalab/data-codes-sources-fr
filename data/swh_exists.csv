@@ -4838,6 +4838,7 @@ https://github.com/etalab/csvapi,True
 https://github.com/etalab/csvapi-front,True
 https://github.com/etalab/dactylo,True
 https://github.com/etalab/dashboard-aides-entreprises,True
+https://github.com/etalab/dashboard-widgets-template,False
 https://github.com/etalab/dashboard_api_entreprise,True
 https://github.com/etalab/data-codes-sources-fr,True
 https://github.com/etalab/data-covid19-dashboard-widgets,True
@@ -7876,6 +7877,7 @@ https://gitlab.inria.fr/cmh/cmh,True
 https://gitlab.inria.fr/cobcom/cimem/bayesnet,True
 https://gitlab.inria.fr/cobcom/cimem/cimem,True
 https://gitlab.inria.fr/cobcom/cimem/recur,True
+https://gitlab.inria.fr/cobcom/pffmri,False
 https://gitlab.inria.fr/cobcom/talon,True
 https://gitlab.inria.fr/cobcom/wlalign,True
 https://gitlab.inria.fr/coccinelle/coccinelle,True
