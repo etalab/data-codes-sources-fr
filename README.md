@@ -2,6 +2,10 @@
 [![Software License](https://img.shields.io/badge/Licence-MIT%2C%20Licence%20Ouverte-orange.svg?style=flat-square)](https://github.com/etalab/data-codes-sources-fr/blob/master/LICENSE.md)
 [![goodtables.io](https://goodtables.io/badge/github/etalab/data-codes-sources-fr.svg)](https://goodtables.io/github/etalab/data-codes-sources-fr)
 
+**Archivé** : ce dépôt est archivé et l'API n'est plus en place.
+
+Pour consulter les dépôts développés par le pôle logiciels libres d'Etalab, rendez-vous sur [SourceHut](https://git.sr.ht/~etalab/readme-logiciels-libres).
+
 # But du dépôt
 
 Le but de ce dépôt est de :
